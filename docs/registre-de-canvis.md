@@ -1556,3 +1556,23 @@ Banca i fiscalitat, comerç, energia, tabac, transport i transformació econòmi
 - Article revisat: [La revolta del tabac de 1733](temes/economia/tabac/la-revolta-del-tabac-de-1733.md)
 - Article revisat: [Transformació econòmica — índex de fitxes](temes/economia/transformacio-economica/transformacio-economica-index-de-fitxes.md)
 - Article revisat: [Transport — índex de fitxes](temes/economia/transport/transport-index-de-fitxes.md)
+
+### 167. 📝 revisa articles de societat, cultura, política i llengua
+
+Demografia, educació, família, mitjans, sanitat, treball, vida cívica, artesania, literatura, museus, sistema electoral i manlleus: cites noves i índexs al dia.
+
+- Article revisat: [Artesania — índex de fitxes](temes/cultura/artesania/artesania-index-de-fitxes.md)
+- Article revisat: [El tèxtil](temes/cultura/artesania/el-textil.md)
+- Article revisat: [La literatura andorrana](temes/cultura/literatura/literatura-andorrana.md)
+- Article revisat: [La Farga Rosell i la ruta del ferro](temes/cultura/museus-i-arxius/museus/la-farga-rosell.md)
+- Article revisat: [Els anglicismes](temes/llengua/manlleus/els-anglicismes.md)
+- Article revisat: [El sufragi universal masculí](temes/politica/sistema-electoral/el-sufragi-universal-masculi.md)
+- Article revisat: [Els primers referèndums: 1977, 1978 i 1982](temes/politica/sistema-electoral/els-primers-referendums.md)
+- Article revisat: [Demografia — índex de fitxes](temes/societat/demografia/demografia-index-de-fitxes.md)
+- Article revisat: [La població al segle XIX](temes/societat/demografia/la-poblacio-al-segle-xix.md)
+- Article revisat: [Educació — índex de fitxes](temes/societat/educacio/educacio-index-de-fitxes.md)
+- Article revisat: [Família — índex de fitxes](temes/societat/familia/familia-index-de-fitxes.md)
+- Article revisat: [La censura de premsa](temes/societat/mitjans/la-censura-de-premsa.md)
+- Article revisat: [Sanitat — índex de fitxes](temes/societat/sanitat/sanitat-index-de-fitxes.md)
+- Article revisat: [Treball — índex de fitxes](temes/societat/treball/treball-index-de-fitxes.md)
+- Article revisat: [Vida cívica — índex de fitxes](temes/societat/vida-civica/vida-civica-index-de-fitxes.md)

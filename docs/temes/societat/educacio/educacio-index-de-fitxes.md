@@ -9,7 +9,7 @@ El triple sistema —andorrà, espanyol i francès— conviuen al mateix país. 
 
 **Veu per defecte d'aquesta branca:** `compilada`.
 
-## Articles (23)
+## Articles (27)
 - [L'escola andorrana ha passat al davant](./lescola-andorrana-ha-passat-al-davant.md) — El curs 1999-2000 el sistema francès era el més gran i l'andorrà el més petit. El 2023-2024 l'andorrà en té el 41,3% i el francès ha perdut alumnes en termes absoluts.
 - [Educació — el sistema triple](./educacio.md) — Tres sistemes escolars nacionals en un país de 85.000 habitants, i el propi és el més jove dels tres.
 - [El mapa escolar del 2000](./el-mapa-escolar-del-2000.md) — Centre per centre, qui ensenyava què a Andorra el curs 1999-2000.
@@ -32,4 +32,8 @@ El triple sistema —andorrà, espanyol i francès— conviuen al mateix país. 
 - [La Universitat d'Andorra](./la-universitat-dandorra.md) — Una universitat que diu en veu alta que els seus estudiants han d'estudiar a fora.
 - [Les associacions de pares](./les-associacions-de-pares.md) — El 1996 les APA dels tres sistemes es confederen per parlar amb una sola veu — i n'hi ha una que no hi entra.
 - [Les escoles dels comuns](./les-escoles-dels-comuns.md) — El 1920, un catedràtic espanyol escriu que a Andorra les úniques escoles les paguen les parròquies, mil o mil dues-centes pessetes al mestre.
+- [Noies d’Andorra estudien a l’Escola Normal de Perpinyà (1898)](./noies-andorranes-escola-normal-perpinya-1898.md) — Una carta d’Antoni Huguet documenta la formació de noies andorranes a Perpinyà.
+- [Dues noies andorranes obtenen beques franceses per estudiar magisteri, 1890](./beques-noies-andorranes-franca-1890.md) — Cinc unitats segueixen la demanda del Consell General i la concessió de beques a Maria del Pilar Maestre i Concepció Huguet.
+- [Una proposta d’escola primària arriba al Consell (1882)](./proposicio-escola-primaria-1882.md) — Clodovée Papinaud remet al Consell General una proposta d’instal·lació d’una escola primària a Andorra.
 - [Índex legislatiu en educació](./index-legislatiu-en-educacio.md) — Quaranta-vuit lleis, convenis, decrets i reglaments amb número de BOPA i data.
+- [Un nomenament educatiu del copríncep francès, 1672](./collegi-foix-sucara-1672.md) — Lluís XIV nomena Joan Francesc Sucarà per cobrir una vacant i després li atorga una plaça al Col·legi de Foix.

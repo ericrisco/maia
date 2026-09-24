@@ -47,6 +47,35 @@ Duró és valuós per altres coses —ell va ser conseller general— però aqu�
 **El corpus marca aquesta reconstrucció com a seva.** Cap dels quatre autors
 escriu la seqüència sencera: la fa el corpus posant-los de costat.
 
+## El context de guerra que hi afegeix el capítol 9
+
+El relat de **Pau Chica** sobre la primera meitat del segle XX
+([font](../../../fonts/historia-ad-relat-cronologic.md)) aporta el context
+polític de les dues dates que encara no tenien una seqüència narrativa completa.
+Segons aquesta síntesi —**no segons el decret original, que el corpus encara no
+té**—, el **1941** el veguer episcopal **Jaume Sansa** i el copríncep francès
+**Philippe Pétain** van suprimir per decret el sufragi universal masculí, amb el
+beneplàcit del Consell General i amb el pretext de garantir la pau social i
+l’estabilitat.
+
+La decisió es pren en plena Segona Guerra Mundial, quan Andorra s’havia convertit
+en un centre d’espionatge i d’acollida de refugiats. El context no justifica la
+supressió, però explica per què la font la relaciona amb una política d’ordre i
+control, i no amb una reforma electoral ordinària.
+
+La mateixa font descriu el **16 de desembre de 1945**: acabada la guerra,
+**Charles de Gaulle** no dona validesa a les eleccions celebrades amb sufragi
+censatari perquè considera que el Consell no representa la població. El
+copríncep episcopal **Ramon Iglésias Navarri** dona suport als comicis, mentre
+França trenca les relacions amb Andorra. Aquesta versió concreta millor el que
+altres fonts resumeixen com una «revocació» del Consell el 1945.
+
+> **Divergència conservada.** El capítol 9 parla de no validar les eleccions i
+> de trencament de relacions; una altra font parla de revocar el Consell i
+> restaurar el sufragi. El corpus no les fon com si fossin el mateix acte. El
+> decret de 1941, la decisió francesa de 1945 i les actes electorals continuen
+> sent necessaris per tancar la cadena jurídica.
+
 ## Per què importa, i molt
 
 **Perquè un dret es pot perdre.**

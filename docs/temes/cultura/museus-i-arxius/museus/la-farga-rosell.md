@@ -50,8 +50,8 @@ sencera perquè és un itinerari de patrimoni industrial que no tenia:**
 | --- | --- |
 | **[Museu Casa d'Areny-Plandolit](./casa-dareny-plandolit.md)** | La família era **ama de fargues** |
 | **Església de Sant Martí de la Cortinada** | — |
-| **La mina de Llorts** | — |
-| **El camí dels traginers de mineral** | Fins a **les mines de la collada dels Meners** |
+| **La mina de Llorts** | **Segle XIX**; només quatre anys d’explotació i una galeria conservada d’uns 30 metres; treballava amb Sedornet i els meners de Ransol ([font](../../../../fonts/museusad-mina-de-llorts.md)) |
+| **El camí dels traginers de mineral** | Fins a **les mines de la collada dels Meners**; la font de Llorts no confirma aquest topònim exacte |
 
 **El corpus té [l'economia del ferro](../../../economia/transformacio-economica/transformacio-economica.md)
 i no tenia ni les deu fargues, ni les cinc mines de carbó, ni aquesta ruta.**

@@ -26,7 +26,7 @@ tècnic d'Inventari i Conservació del Govern d'Andorra.
 
 | Fitxa | Què cobreix |
 | --- | --- |
-| [El tèxtil](./el-textil.md) | Confraria de Paraires i Teixidors (Escaldes, 1604), la caiguda del 1620, la fàbrica de mantes (1920-anys 40) |
+| [El tèxtil](./el-textil.md) | Confraria de Paraires i Teixidors (Escaldes, 1604), control del fil i del drap (1737), la caiguda del 1620 i la fàbrica de mantes (1920-anys 40) |
 | [El ferro](./el-ferro.md) | Fargues (1619-1893) i ferrers (un per parròquia) |
 
 ## El principi que hi regeix

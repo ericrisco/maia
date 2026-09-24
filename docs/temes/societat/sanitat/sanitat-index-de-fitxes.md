@@ -9,7 +9,7 @@ El sistema i com s'hi accedeix.
 
 **Veu per defecte d'aquesta branca:** `compilada`.
 
-## Articles (13)
+## Articles (16)
 - [De les iguales a l'hospital](./de-les-iguales-a-lhospital.md) — Nou metges per a 20.000 habitants i cap que dormís fora de tres parròquies.
 - [Donar i ser atès](./donar-i-ser-ates.md) — Cobrar per donar un òrgan és infracció molt greu, amb multes de fins a un milió d'euros.
 - [L'Escola d'Infermeria](./lescola-dinfermeria.md) — El 1987 hi havia vuitanta infermeres a Andorra i només el 10% eren del país.
@@ -23,3 +23,6 @@ El sistema i com s'hi accedeix.
 - [Quan canvia qui rep el pagament](./quan-canvia-qui-rep-el-pagament.md) — Imports del canal SAAS de tercer pagador a la memòria CASS de 2025 i límits de la comparació.
 - [Què justificava la inversió hospitalària de 2026](./que-justificava-la-inversio-hospitalaria-de-2026.md) — La memòria de Salut concreta obres de l'heliport i una RMN dins l'hospital; l'informe d'Intervenció conserva discrepàncies numèriques.
 - [Què mesuren els deu dies de la CASS](./que-mesuren-els-deu-dies-de-la-cass.md) — Períodes, demandes i límits del quadre de tramitació de cobertura al 100% de la memòria CASS de 2025.
+- [Una ordre de 1691 organitza el transport de malalts](./ordre-hospital-seu-1691.md) — Els batlles i consellers d’Andorra han d’aportar cavalcadures per portar malalts a l’hospital de la Seu d’Urgell.
+- [El Consell contracta un apotecari d’Igualada (1737)](./conveni-apotecari-balmes-1737.md) — Els pactes amb Francesc Balmes documenten com s’organitzava el servei d’apotecari a les valls d’Andorra.
+- [El Consell paga el lloguer i el salari de l’apotecari, 1820](./pagaments-apotecari-consell-1820.md) — Dos rebuts mostren que la institució assumia la remuneració i l’allotjament d’un apotecari.

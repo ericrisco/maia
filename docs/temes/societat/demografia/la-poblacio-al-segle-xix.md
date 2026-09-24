@@ -47,6 +47,13 @@ hereva i el seu cònjuge, els seus fills, i els germans solters**— que és
 
 ### L'avís: les dues últimes no quadren
 
+Les cartes d’**Ardison** de l’agost i el desembre de **1896** aporten una dada
+de context nova: aquell any es va proposar un cens general per repartir les
+imposicions d’una carretera i després se’n van reclamar els resultats ([la
+seqüència documental](./cens-poblacio-carretera-1896.md)). Les cartes no
+conserven el recompte i, per tant, no resolen si els **5.800** habitants de la
+sèrie provenen d’aquell cens.
+
 **De 1896 a 1897 la població baixaria 590 persones** — **més del 10% del país en
 un any**.
 

@@ -9,12 +9,13 @@ Una població d'unes 85.000 persones i tot el que això implica.
 
 **Veu per defecte d'aquesta branca:** `compilada`.
 
-## Articles (11)
+## Articles (12)
 - [Setanta-nou anys de padró](./setanta-nou-anys-de-padro.md) — La població registrada d'Andorra, 1947-2025, i els naixements i defuncions des del 1953. El creixement vegetatiu del 2020 és una cinquena part del del 2008 i el saldo migratori es gira el 2014.
 - [Demografia](./demografia.md) — 90.021 residents estimats i 94.596 registrats el juliol de 2026; origen, nacionalitat i llengua demanen dades diferents.
 - [Dues maneres de comptar la població](./dues-maneres-de-comptar-la-poblacio.md) — El juliol de 2026 Encamp perd població registrada i en guanya d'estimada; les dues sèries oficials compten de manera diferent.
 - [La composició per nacionalitats](./la-composicio-per-nacionalitats.md) — Els andorrans passen del 87% de la població el 1936 al 17,5% el 1983 i tornen al 48,7% el 2020.
 - [La població al segle XIX](./la-poblacio-al-segle-xix.md) — El 1897 Andorra tenia 44 pobles, 1.042 cases i 5.210 habitants.
+- [Un cens de població per pagar la carretera (1896)](./cens-poblacio-carretera-1896.md) — Dues cartes d’Ardison documenten la proposta i el seguiment d’un cens general per repartir les imposicions d’una carretera.
 - [Les estadístiques que no hi havia](./les-estadistiques-que-no-hi-havia.md) — Fins al febrer de 1997 els naixements i les defuncions d'Andorra els comptaven els capellans.
 - [Les onades migratòries](./les-onades-migratories.md) — De 4.039 habitants el 1932 a 8.792 el 1960: el país es duplica en vint-i-vuit anys.
 - [Les tres migracions](./les-tres-migracions.md) — Estacional a la verema de l'Hérault, temporera a les mines de talc de Luzenac, i definitiva per als germans que no heretaven.

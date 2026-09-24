@@ -88,15 +88,15 @@ Citant **David Crystal**:
 planeta poden comunicar-se en anglès**, «segurament no serà l'anglès de
 Shakespeare… però, al cap i a la fi, anglès».
 
-**La referència ja es pot identificar.** És la taula 9.1 del capítol **«English
-worldwide»**, de **David Crystal**, a *The Cambridge Encyclopedia of the English
-Language* (2a ed., Cambridge University Press, 2003; l'extracte conservat a la
-[fitxa de la font](../../../fonts/david-crystal-english-worldwide.md), pp. 420-439).
-La taula dona per a **Crystal,
-1997/2003** **337-377 milions** de primera llengua, **235-350 milions** de
-segona llengua i **100-1.000 milions** de llengua estrangera; Costa ho arrodoneix
-el 2000 a **350**, **250-350** i **100-1.000**. Són estimacions globals d'aquell
-moment, no dades d'Andorra ni una sèrie actual.
+**La referència bibliogràfica ja es pot identificar.** És la taula 9.1 del capítol
+**«English worldwide»**, de **David Crystal**, a *The Cambridge Encyclopedia of
+the English Language* (2a ed., Cambridge University Press, 2003, pp. 420-439).
+La taula dona per a **Crystal, 1997/2003** **337-377 milions** de primera llengua,
+**235-350 milions** de segona llengua i **100-1.000 milions** de llengua
+estrangera; Costa ho arrodoneix el 2000 a **350**, **250-350** i **100-1.000**.
+Són estimacions globals d'aquell moment, no dades d'Andorra ni una sèrie actual.
+El capítol de Crystal no s'incorpora al corpus perquè no aporta cap dada andorrana;
+la relació conservada és la citació bibliogràfica de Costa.
 
 ## I a Andorra
 
@@ -141,9 +141,10 @@ llista general d'anglicismes de tot Andorra.**
    ([la sèrie que no és una sèrie](../politica-linguistica/la-serie-que-no-es-una-serie.md)).
    És autovaloració, no prova de nivell.
 4. ~~**David Crystal**, font citada.~~ — **`resolt` el 2026-09-19**: la
-   referència és **«English worldwide»**, capítol 9 de *The Cambridge
-   Encyclopedia of the English Language* (2a ed., 2003), amb la taula 9.1 i la
-   mateixa cautela sobre la incertesa de les categories.
+   referència bibliogràfica és **«English worldwide»**, capítol 9 de *The
+   Cambridge Encyclopedia of the English Language* (2a ed., 2003), amb la taula
+   9.1 i la mateixa cautela sobre la incertesa de les categories. El capítol no
+   es conserva com a font del corpus perquè no aporta dades d'Andorra.
 5. ~~**Una llista equivalent d'avui**, per comparar-la amb la del 2000.~~ —
    **`parcial` el 19-09-2026**: l'estudi de terminologia de **2017** ja permet
    una comparació dins dels **esports d'hivern**, amb **256 entrades** a les

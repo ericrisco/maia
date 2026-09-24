@@ -9,7 +9,7 @@ Temporers, sectors, estacionalitat.
 
 **Veu per defecte d'aquesta branca:** `compilada`.
 
-## Articles (16)
+## Articles (17)
 - [Cotitzar sense cobrar l’ajut de desocupació](./cotitzar-sense-cobrar-lajut-de-desocupacio.md) — El règim especial de l’article 224 bis permet cobertura de reembossament amb cotització pròpia i conserva un còmput específic per a pensions de reversió.
 - [El barem patrimonial i els ajuts](./el-barem-patrimonial-i-els-ajuts.md) — L'habitatge habitual queda fora del còmput immobiliari del barem de 2018; els actius financers i els béns mobles es valoren cumulativament.
 - [El Consell Econòmic i Social](./el-consell-economic-i-social.md) — Òrgan consultiu creat el 2018, presidit pel ministre de Treball, amb dictàmens no vinculants sobre legislació socioeconòmica.
@@ -26,3 +26,4 @@ Temporers, sectors, estacionalitat.
 - [No tornar a casa ferit](./no-tornar-a-casa-ferit.md) — La llei de seguretat i salut al treball andorrana inclou funcionaris, aprenents i treballadors en pràctiques, i prohibeix fer servir les dades de salut en perjudici de qui treballa.
 - [Treball](./treball.md) — Temporers, fronterers i una economia que treballa per pics.
 - [Treballar de temporada](./treballar-de-temporada.md) — Un contracte fix discontinu s'ha de convocar quinze dies abans i per antiguitat; no convocar-te equival a acomiadar-te.
+- [Un cirurgià paga el lloguer de casa i hort (1828)](./rebut-lloguer-cirurgia-1828.md) — Un rebut d’Alonso Argullós registra el pagament del lloguer de casa i hort davant del Consell General.

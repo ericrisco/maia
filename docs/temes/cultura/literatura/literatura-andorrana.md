@@ -121,6 +121,19 @@ mateixa persona**, i el corpus no ho havia creuat mai fins al
 > el 1959**, i aquell article el tenia només com a «periodista i escriptor».
 > **Era un poeta publicat, i va morir el 2006.**
 
+## Una cronologia editorial més precisa
+
+La panoràmica d’EDI-RED ([font](../../../fonts/cervantesvirtual-edicio-andorra.md), [captura local](../../../raw/web/cultura/edicio-andorra-cervantes.README.md)) permet concretar la diferència entre llibres sobre Andorra i una indústria editorial situada al país:
+
+- el **1838**, la *Relació sobre la Vall d’Andorra* de Tomàs Junoy es va imprimir a Toulouse;
+- el **1874**, la *Història i novena de Nostra Senyora de Meritxell* es va imprimir a Barcelona;
+- el **1952**, *Conoce tu Citroën* va ser l’únic títol de l’efímera Editorial Meier;
+- el **1956**, els germans Casal i Vall van fundar una editorial amb tallers gràfics, impremta i enquadernació pròpies;
+- el **1961** i el **1970**, aquests tallers van participar en les edicions del *Nou Testament* i de la *Bíblia de Montserrat*;
+- entre **1987 i 1993**, la font situa una etapa d’expansió de l’edició andorrana.
+
+Aquesta cronologia matisa la frase «Andorra va ser impremta abans que literatura»: la font documenta primer una activitat d’impressió i exportació per a mercats veïns, mentre que la consolidació d’un lector local i d’una literatura pròpia és posterior. EDI-RED és una síntesi editorial i no substitueix els catàlegs ni els exemplars de cada títol.
+
 ## Les editorials, i per què n'hi va haver tantes
 
 **Mateixa procedència: material en brut que el corpus ja tenia sense destil·lar.**

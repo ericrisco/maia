@@ -6,8 +6,8 @@ tema: temes/politica/sistema-electoral
 veu: compilada
 epoca: contemporania
 apte_llengua: false
-font: wikipedia-referendums-andorra
-timestamp: 2026-09-14T00:20:00Z
+font: parramon-referendums-1977-1978
+timestamp: 2026-09-23T23:00:00Z
 tags: [politica, institucions, historia]
 ---
 
@@ -20,6 +20,10 @@ tags: [politica, institucions, historia]
 *«Els primers referèndums: quan, i què preguntaven.»*
 
 **Van ser tres, i cap no va resoldre res.**
+
+La ponència de **Josep Parramon** ([font](../../../fonts/parramon-referendums-1977-1978.md)) afegeix la seqüència institucional que faltava. El Consell havia encarregat quatre documents a una comissió ad hoc el **5 d’abril de 1977**; el 14 de juny va acordar distribuir-los i permetre projectes alternatius avalats per signatures. Tres propostes alternatives van arribar avalades per **648 signatures** i dues més les van presentar el Comú de la Massana i el Quart d’Escaldes-Engordany.
+
+La Junta de Consellers Majors va acordar el **21 de setembre** sotmetre les sis propostes a referèndum. L’edicte del 29 de setembre va fixar la consulta per al **28 d’octubre de 1977** i va establir set paperetes: una per proposta i una en blanc; aquesta última significava rebutjar les sis. Després del resultat, el Consell va convocar els representants de les opcions 6, 5 i 4 el 8 i l’11 de novembre per negociar una proposta comuna. La negociació no va prosperar: les opcions 4 i 5 es van fusionar en la proposta 7 i l’opció 6 es va tornar a presentar el gener de 1978.
 
 ## 28 d'octubre del 1977: sis opcions
 
@@ -178,10 +182,10 @@ del corpus documenta que les dones van votar per primer cop el 1971** i que
   el 2000 en PS i Partit Demòcrata ([l'arbre dels partits](../partits/larbre-dels-partits.md)).
   **El corpus no té una font que permeti afirmar que els dos noms designen la
   mateixa organització.**
-- ~~**Les sis propostes del 1977 senceres**.~~ — **`parcial` el 18-09-2026**:
-  **el corpus en té les sis opcions numerades amb vots i percentatges**, i
-  identifica les propostes **5** —Quart de les Escaldes— i **6** —Agrupament
-  Democràtic d'Andorra—; **el text complet de les sis encara falta**.
+- **Les sis propostes del 1977 senceres** — **`parcial` el 2026-09-23**:
+  la ponència confirma qui va presentar les propostes 1–3, 4, 5 i 6, les 648
+  signatures i la papereta en blanc; **el text complet de cada proposta encara
+  falta**.
 - ~~**Per què a Sant Julià va votar en blanc més de la meitat del cens.**~~ —
   **`parcial` el 2026-09-20**: al referèndum de 1977 els vots en blanc van ser
   el **51,6% dels vots emesos** a Sant Julià de Lòria; la font no explica el

@@ -128,6 +128,26 @@ cobreyx tot».
 `El corpus no en dedueix cap volum de producció: el text dona el costum i el
 motiu, no xifres.`
 
+## El fil i el drap passen dues vegades pel pesador
+
+Una acta del **3 de juliol de 1737** mostra el control material que completava
+la confraria i l’ofici. Davant les queixes perquè els teixidors no donaven el
+pes corresponent al fil rebut, la Vall ordena que **cap teixidor no pugui teixir
+cap mena de drap si abans el fil no ha estat pesat** pel pesador elegit pel
+Consell.
+
+Quan el drap ja està fet, el teixidor l’ha de tornar a pesar perquè es comprovi
+si correspon al pes del fil. El pesador ha de conservar aquesta obligació i es
+preveu la mateixa pena del *cot de la Terra* per a qui no porti el fil o el drap
+a pesar. La norma manté el privilegi de la confraria i permet que el pesador
+cobri **dos diners barcelonesos per cada pesada fins a dinou lliures**, a càrrec
+del propietari del drap i mesurat pel terç.
+
+No és una tarifa de producció ni una descripció de tots els tallers: és una
+mesura de control contra el pes insuficient, amb una doble verificació i un
+cost assignat. El passatge es conserva a les pàgines impreses **590–591** del
+[Llibre III d’actes](../../../raw/consell-general/actes-historiques/llibre-iii-1682-1744.README.md).
+
 ## Buits registrats
 
 1. ~~Els **estatuts de la Confraria de Paraires i Teixidors**, si es

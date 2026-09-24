@@ -97,6 +97,11 @@ sagraments**, i com va afectar la gent.~~ — **`parcial` el 20-09-2026**: la fo
 
 ## Les Valls d'Andorra: la revista que va acabar amb detencions
 
+La [fitxa històrica específica de *Les Valls d’Andorra*](../../historia/segle-xx-primera-meitat/les-valls-dandorra-primera-publicacio-1917-1920.md)
+separa les dues referències de l’Arxiu Nacional —**ACA / 14** (1917) i
+**TC-P / 537** (1920)— i conserva el límit de la font institucional: descriu la
+prohibició i la condemna, però no publica els expedients sencers.
+
 | Data | Fet |
 | --- | --- |
 | **gener de 1917** | Surt el primer número de **«Les Valls d'Andorra»**, mensual |
