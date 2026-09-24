@@ -19,12 +19,16 @@ Concentración y Clasificación de Personal Extranjero de Miranda de Ebro:
 La fila és a la pàgina impresa 140, pàgina 146 del PDF. S'ha comprovat
 visualment contra el facsímil, no només amb OCR.
 
-Tadeusz Chciuk apareix en una genealogia familiar sota la identitat de pilot
-escocès **James Huges** i en la tradició biogràfica en anglès com **James
-Hughes**. La coincidència de nom, nacionalitat de cobertura, lloc i període fa
-que `AGMG. DCME, 305324/6633` sigui un candidat molt fort al seu expedient. No
-és encara una identificació definitiva: l'índex no dona data de naixement,
-àlies, professió, data d'ingrés ni fotografia i podria tractar-se d'un homònim.
+Tadeusz Chciuk apareix en una genealogia familiar sota la identitat de pilot escocès **James Huges** i en la tradició biogràfica en anglès com **James Hughes**. Per si sol, l'índex només fa de `AGMG. DCME, 305324/6633` un candidat molt fort: no dona data de naixement, àlies, professió, data d'ingrés ni fotografia i podria tractar-se d'un homònim. El [dossier contemporani de Girona](../girona/james-hughes-als-expedients-de-frontera-de-girona-19421943.md), que identifica un James Hughes de 26 anys amb el mateix recorregut Girona–Miranda i una tapadera de pilot de la RAF, eleva la coincidència del corpus a **confiança molt alta**. La identificació arxivística definitiva continua pendent de consultar el recto i el revers de l'expedient de Miranda.
+
+## Relació amb el corpus local
+
+Aquesta fitxa no queda aïllada del dossier de Chciuk-Celt. Es pot llegir juntament amb:
+
+- [James Hughes als expedients de frontera de Girona (1942–1943)](../girona/james-hughes-als-expedients-de-frontera-de-girona-19421943.md) — el registre contemporani que documenta edat, cobertura, detenció i ingrés a la presó de Girona.
+- [Extracció local del dossier de Miranda](agmg-dcme-expedientes-ingreso.txt) — còpia textual de control de l’índex oficial.
+
+La relació entre les dues peces conservades és una cadena de corroboració: Girona aporta la identitat de cobertura i el trajecte administratiu; Miranda conserva l'expedient que encara ha de confirmar la filiació. Les variants biogràfiques de la genealogia familiar queden fora d'aquest brain perquè no documentaven Andorra ni tenien una font enllaçada al corpus.
 
 ## Font i conservació
 
