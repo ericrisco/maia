@@ -1137,3 +1137,13 @@ Abast: Jaciment de Camp Vermell de Sant Julià de Lòria: fases d'ocupació dels
 - Fitxa: [Cupos de franquícia d'Andorra per a l'any 1931](fonts/gaceta-madrid-cupos-andorra-1931.md)
 - Article nou: [El 1931 els cupos d'Andorra ja els demanen el bisbe i el Sindicato General](temes/historia/segle-xx-primera-meitat/cupos-franquicies-andorra-1931.md)
 - Diari de treball: `raw/worklog/2026-09-23-cupos-franquicies-andorra-1931.md`
+
+### 114. 📝 incorpora Canvi de notes sobre la franquícia d'Andorra, 13 de juliol de 1867
+
+## Unitat llegida
+
+- Fitxa: [Canvi de notes sobre la franquícia d'Andorra, 13 de juliol de 1867](fonts/gaceta-madrid-franquicies-andorra-1867.md)
+- Article nou: [Espanya restitueix la franquícia d'Andorra amb sis controls (1867)](temes/historia/segle-xix/espanya-restitueix-franquicia-andorra-1867.md)
+- Material de partida: 3 fitxers a `raw/web/duanes/gaceta-madrid-franquicies-andorra-1867/`, `raw/web/institucions/pares/ultramar-4714-exp42-canje-andorra-1867/`
+- Diari de treball: `raw/worklog/2026-09-23-franquicia-andorra-espanya-1867.md`
+- Originals conservats només en local (sense dret de redistribució): 3 fitxers
