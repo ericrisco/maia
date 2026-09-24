@@ -1405,3 +1405,11 @@ Abast: Estudi del Roc d’Enclar com a comunitat rural del Pirineu oriental entr
 Abast: Entrada 3407, pàgina impresa 82: segell de fra Bernat de Salbà i pergamí de confirmació dels privilegis de les Valls datat el 30 d’octubre de 1610
 
 - Fitxa: [Ferran de Sagarra — Sigil·lografia catalana, volum III](fonts/sagarra-sigillografia-bernat-salba-1610.md)
+
+### 154. 📝 incorpora Sant Vicenç d’Enclar (Andorra la Vella)
+
+## Font consultada
+
+- Fitxa: [Sant Vicenç d’Enclar (Andorra la Vella)](fonts/sant-vicenc-enclar-enciclopedia.md)
+- Article nou: [Sant Vicenç d’Enclar: una església sobre el poblat](temes/historia/origens/sant-vicenc-enclar-esglesia-i-poblat.md)
+- Diari de treball: `raw/worklog/2026-09-24-sant-vicenc-enclar.md`
