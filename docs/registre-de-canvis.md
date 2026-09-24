@@ -1155,3 +1155,13 @@ Abast: Jaciment de Camp Vermell de Sant Julià de Lòria: fases d'ocupació dels
 - Fitxa: [Reial decret de franquícies d'Andorra, signat el 18 i publicat el 21 d'octubre de 1922](fonts/gaceta-madrid-reial-decret-franquicies-andorra-1922.md)
 - Article nou: [El reial decret de 1922 torna les franquícies, però les posa sota certificat i quota](temes/historia/segle-xx-primera-meitat/reial-decret-franquicies-andorra-1922.md)
 - Diari de treball: `raw/worklog/2026-09-23-reial-decret-franquicies-andorra-1922.md`
+
+### 116. 📝 incorpora Tractat de límits hispanofrancès des d'Andorra fins al Mediterrani, 1866
+
+## Unitat llegida
+
+- Fitxa: [Tractat de límits hispanofrancès des d'Andorra fins al Mediterrani, 1866](fonts/gaceta-madrid-tratado-limits-andorra-1866.md)
+- Article nou: [La frontera des d'Andorra queda lligada a pastures, propietats i aigua (1866)](temes/historia/segle-xix/tratado-frontera-andorra-mediterrani-1866.md)
+- Material de partida: 2 fitxers a `raw/web/duanes/gaceta-madrid-tratado-limits-andorra-1866/`
+- Diari de treball: `raw/worklog/2026-09-23-tractat-limits-andorra-1866.md`
+- Originals conservats només en local (sense dret de redistribució): 4 fitxers

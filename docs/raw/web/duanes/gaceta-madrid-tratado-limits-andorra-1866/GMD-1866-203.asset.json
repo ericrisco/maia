@@ -1,0 +1,25 @@
+{
+  "source_url": "https://www.boe.es/gazeta/dias/1866/07/22/pdfs/GMD-1866-203.pdf",
+  "files": [
+    {
+      "path": "GMD-1866-203.pdf",
+      "sha256": "a15a716fde6d18123c11615a8a82f979807b490e2eb2b01c4b52d19237e619e9",
+      "bytes": 3639428
+    },
+    {
+      "path": "GMD-1866-203.txt",
+      "sha256": "f5bcc7a4a6f149ca21f5ed70b8edc8ebc145fefa843c740aa29061987e8ec661",
+      "bytes": 309494
+    },
+    {
+      "path": "page-1.png",
+      "sha256": "2fe9894972cf569a598d9280826b90eb5f246019e04c327a10c51d691008f21c",
+      "bytes": 2663614
+    },
+    {
+      "path": "page-2.png",
+      "sha256": "86869cf744918d77293417ff6cad9d618a3a593d33b32314be0222a58d2edf6c",
+      "bytes": 3098332
+    }
+  ]
+}
