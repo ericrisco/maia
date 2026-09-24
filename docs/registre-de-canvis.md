@@ -1172,3 +1172,7 @@ Abast: Jaciment de Camp Vermell de Sant Julià de Lòria: fases d'ocupació dels
 
 - Fitxa: [Arnau Gonzàlez i Vilalta — La cruïlla andorrana de 1933](fonts/gonzalez-vilalta-revolucio-1933.md)
 - Diari de treball: `raw/worklog/2026-09-23-revolucio-1933.md`
+
+### 118. 📝 incorpora Les nou impulsores del sufragi femení — nota del Govern (2025)
+
+- Fitxa: [Les nou impulsores del sufragi femení — nota del Govern (2025)](fonts/govern-9-impulsores-sufragi-2025.md)
