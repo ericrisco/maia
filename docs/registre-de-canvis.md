@@ -1447,3 +1447,9 @@ Material de partida de l'Arxiu de les Set Claus (Arxiu Nacional d'Andorra): expe
 Expedients digitalitzats del Tribunal de Corts (processos de bruixeria de 1621 i d'altres causes) i les captures del portal Terra de Bruixes, amb el cercador de 1621 exportat a TSV. Serveixen de base a les fitxes arxiu-en-linia-tc-* i a la història de la bruixeria a Andorra.
 
 - Material de partida: 19 fitxers a `raw/academic/arxiu-nacional/tribunal-corts/tc-6238/`, `raw/web/historia/terra-de-bruixes/`
+
+### 160. 📝 afegeix fonts web d'institucions: policia, Consell General, Urgell i BOPA
+
+Captures i extractes de fonts institucionals: història del Servei d'Ordre i la policia (1931–2026), estudis preliminars de les actes històriques del Consell General, guia de l'arxiu diocesà d'Urgell i edictes del BOPA sobre associacions.
+
+- Material de partida: 18 fitxers a `raw/consell-general/actes-historiques/`, `raw/lleis/bopa/`, `raw/web/institucions/arxiu-urgell/`, `raw/web/institucions/consell-general/actes-historiques/`, `raw/web/institucions/policia/`
