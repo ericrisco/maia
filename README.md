@@ -6,6 +6,17 @@ parla, documentat amb la seva procedència i navegable com una base de coneixeme
 Aquest repositori conté **el contenidor i el contingut**, no el model. La feina
 d'entrenament i avaluació viu en una fase posterior.
 
+## Estat del projecte
+
+**Obtenció inicial del corpus tancada el 24 de setembre de 2026.** Inventari
+editorial: 1.347 articles, 618 fitxes de font i 40 documents de parla. La
+fase següent és la curació i preparació de datasets, amb una avaluació
+independent reservada abans de generar exemples d'entrenament.
+
+El [registre de tancament](docs/raw/estat-projecte/tancament-obtencio-v1.md)
+conserva els pendents i els criteris de la fase següent. Tancar la recopilació
+no certifica que tot el material sigui apte per entrenar.
+
 ## Què hi ha aquí
 
 | Ruta | Què és |

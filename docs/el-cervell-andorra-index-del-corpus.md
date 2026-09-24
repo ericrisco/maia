@@ -53,6 +53,13 @@ llegeix — o pitjor, fins que el model entrenat l'etziba amb tot l'aplom.
 
 ## Estat
 
-Fase 1 (el contenidor) feta. Fase 2 (`temes/`) començada. Fase 3 (`parla/`)
-pendent: és la que aportarà l'únic material del corpus que és llengua andorrana
-de veritat.
+**Obtenció inicial del corpus tancada el 24 de setembre de 2026.** El corpus
+editorial conté 1.347 articles, 618 fitxes de font i 40 documents de parla.
+Les transcripcions conserven els seus avisos de revisió pendent.
+
+La fase següent és **curació i preparació de datasets**: determinar quin
+material és elegible, corregir errors, reservar una avaluació independent i
+preparar exemples verificables abans de l'entrenament pilot.
+
+El [registre de tancament i traspàs](raw/estat-projecte/tancament-obtencio-v1.md)
+detalla l'abast, els pendents i els criteris per completar la fase següent.

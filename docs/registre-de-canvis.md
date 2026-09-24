@@ -1601,3 +1601,16 @@ names»).
 
 - Script: `scripts/audita-titols-readme.py`
 - Resultat: `raw/auditoria-readme-titols.tsv`
+
+### 171. 📝 tanca l'obtenció inicial del corpus
+
+L'obtenció inicial del corpus queda tancada el 24 de setembre de 2026, per
+decisió del responsable del projecte. Inventari editorial: 1.347 articles, 618
+fitxes de font i 40 documents de parla. La fase següent és la curació i la
+preparació de datasets, amb una avaluació independent reservada abans de generar
+exemples d'entrenament. Tancar la recopilació no certifica que tot el material
+sigui apte per entrenar.
+
+- Registre de tancament: [Maia — tancament de l'obtenció inicial](raw/estat-projecte/tancament-obtencio-v1.md)
+- Portada revisada: [El cervell andorrà — índex del corpus](el-cervell-andorra-index-del-corpus.md)
+- `README.md` del repositori: secció nova «Estat del projecte»
