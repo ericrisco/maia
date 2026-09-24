@@ -1065,3 +1065,7 @@ La fitxa pública del **CR-31892** descriu un rebut del 5 d’abril de 1812 en q
 - Material de partida: 2 fitxers a `raw/web/institucions/arxiu-casa-rossell/rebut-dandine-ferro-1812/`
 - Diari de treball: `raw/worklog/2026-09-23-rebut-dandine-farga-1812.md`
 - Originals conservats només en local (sense dret de redistribució): 1 fitxers
+
+### 104. 📝 incorpora Acta 18/1990 — discurs de Joan Martí sobre la reforma institucional
+
+- Fitxa: [Acta 18/1990 — discurs de Joan Martí sobre la reforma institucional](fonts/dcg-18-1990-reforma-institucional.md)
