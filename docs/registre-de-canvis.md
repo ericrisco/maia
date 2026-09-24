@@ -1347,3 +1347,8 @@ El registre **ASC-3709** de l’Arxiu de les Set Claus identifica un foli del **
 - Material de partida: 3 fitxers a `raw/web/institucions/arxiu-set-claus/napoleo-1806/`
 - Diari de treball: `raw/worklog/2026-09-23-napoleo-1806.md`
 - Originals conservats només en local (sense dret de redistribució): 6 fitxers
+
+### 144. 📝 incorpora Shifting occupation dynamics in the Madriu–Perafita–Claror valleys
+
+- Fitxa: [Shifting occupation dynamics in the Madriu–Perafita–Claror valleys](fonts/orengo-madriu-neolitic-2014.md)
+- Article nou: [Quan el neolític va començar a fer el paisatge del Madriu](temes/historia/origens/quan-el-neolitic-va-comencar-a-fer-el-paisatge-del-madriu.md)
