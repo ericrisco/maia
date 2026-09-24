@@ -1381,3 +1381,10 @@ Abast: 300 pàgines. Resum, prefaci, procés de selecció (p. 91-95), capítol 6
 
 - Fitxa: [Xavier Planas, Carles Gascón, Juan Karlos Lopez-Mugartza i Mikel Belasko, «Anàlisi fisiogràfica de topònims andorrans d'arrel preromana» (Govern d'Andorra, 2018)](fonts/planas-toponims-preromans-2018.md)
 - Article nou: [La tomba de Segudet, sota les escoles d'Ordino](temes/historia/origens/la-tomba-de-segudet.md)
+
+### 150. 📝 revisa Pau Xavier Areny de Plandolit i la revista Andorra Agrícola
+
+Abast: Identificació de Pau Xavier Areny de Plandolit i de les seves publicacions agrícoles, inclosa Andorra Agrícola.
+
+- Fitxa: [Pau Xavier Areny de Plandolit i la revista Andorra Agrícola](fonts/plandolit-andorra-agricola-2009.md)
+- Article nou: [Pau Xavier Areny de Plandolit: ciència i premsa rural](temes/historia/segle-xx-primera-meitat/pau-xavier-areny-de-plandolit-ciencia-i-premsa-rural.md)

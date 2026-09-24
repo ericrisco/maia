@@ -15,8 +15,8 @@ notes: >
   1914 i que més endavant va crear la revista mensual il·lustrada Andorra
   Agrícola, dedicada al foment de l'avicultura, agricultura, indústries rurals,
   ramaderia i apicultura. També diu que una part important de les col·leccions
-  de premsa es conserva a la Biblioteca Nacional. El PDF es conserva fora del
-  corpus.
+  de premsa es conserva a la Biblioteca Nacional. La còpia de treball i
+  l’extracció textual es conserven a docs/raw/web/historia/anys-daurats/.
 tema: historia
 veu: compilada
 epoca: contemporania
@@ -34,6 +34,5 @@ Agrícola* el **1914** i que més endavant va crear la revista mensual il·lustr
 rurals, la ramaderia i l'apicultura. L'article situa una part important de les
 col·leccions de premsa a la Biblioteca Nacional.
 
-La còpia PDF es conserva a
-`maia/docs/raw/web/historia/anys-daurats/plandolit-andorra-agricola-govern.pdf`,
-fora del corpus de coneixement.
+La còpia PDF i l’extracció textual es conserven a
+`docs/raw/web/historia/anys-daurats/plandolit-andorra-agricola-govern.*`.
