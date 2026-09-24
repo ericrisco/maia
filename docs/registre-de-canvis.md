@@ -1110,3 +1110,10 @@ Abast: Jaciment de Camp Vermell de Sant Julià de Lòria: fases d'ocupació dels
 - Material de partida: 8 fitxers a `raw/web/duanes/gaceta-madrid-cupos-andorra-1923/`, `raw/web/duanes/gaceta-madrid-cupos-andorra-1924/`, `raw/web/duanes/gaceta-madrid-cupos-andorra-1925/`, `raw/web/duanes/gaceta-madrid-cupos-andorra-1926/`
 - Diari de treball: `raw/worklog/2026-09-23-evolucio-cupos-franquicies-1923-1926.md`
 - Originals conservats només en local (sense dret de redistribució): 12 fitxers
+
+### 110. 📝 incorpora Cupos de franquícia d'Andorra per a l'any 1924
+
+- **Font consultada:** *Gaceta de Madrid* núm. 60, 29 de febrer de 1924, p. 1060, PDF oficial de la Gazeta del BOE. - **Proveniència:** PDF, OCR local, render de la pàgina 1060 i hashes al JSON de l'actiu. - **Resultat:** la sèrie 1923–1926 ja té una ordre localitzada per a cada any. - **Buit tancat:** es poden donar per a 1924 els cupos d'entrada i sortida, sense interpolar-los des de 1923 o 1925. - **Buits que continuen:** consum real, execució fronterera i possibles ordres complementàries del mateix any.
+
+- Fitxa: [Cupos de franquícia d'Andorra per a l'any 1924](fonts/gaceta-madrid-cupos-andorra-1924.md)
+- Diari de treball: `raw/worklog/2026-09-23-cupos-franquicies-andorra-1924.md`
