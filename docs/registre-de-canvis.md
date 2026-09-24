@@ -628,3 +628,9 @@ La fitxa pública de l’**ASC-03801** descriu una sentència del 8 de març de 
 Abast: Unitat documental ASC-03961, 14 d’octubre de 1904; 2 folis i 3 pàgines digitalitzades
 
 - Fitxa: [ASC-03961 — Relació del blat portat de Cerdanya i repartit entre els veïns de la parròquia d’Andorra (les Caldes i Andorra).](fonts/asc-03961-blat-andorra-1904.md)
+
+### 55. 📝 incorpora ASC-03962 — Relació del blat portat de Cerdanya i repartit entre els veïns…
+
+Abast: Unitat documental ASC-03962, 14 d’octubre de 1904; 2 folis i 3 pàgines digitalitzades
+
+- Fitxa: [ASC-03962 — Relació del blat portat de Cerdanya i repartit entre els veïns de la parròquia de la Massana.](fonts/asc-03962-blat-massana-1904.md)
