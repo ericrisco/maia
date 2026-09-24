@@ -22,6 +22,7 @@ curl -sL "https://doi.org/10.2436/15.8060.<volum>.<article>" -o fitxer.pdf
 | `dr12-2018-la-vida-teatral-a-andorra-1900-1970` | Debats de Recerca **12** | conferència del **19-3-2018**, publicat el **2020** | `10.2436/15.8060.21.4` |
 | `dr13-2019-esport-i-salut` | Debats de Recerca **13** | conferència del **28-5-2019**, publicat el **2021** | `10.2436/15.8060.24.8` |
 | `dr16-2025-la-neu-i-el-cicle-de-laigua` | Debats de Recerca **16** — *Aigua: desafiaments i oportunitats* | **2025** | `10.2436/15.8060.36.10` |
+| `massa-nova-reforma-2016` | Debats de Recerca **10** — *150 anys de la Nova Reforma (1866–2016)* | **2018** | `10.2436/15.8060.15.10` |
 
 ## Avisos
 
@@ -46,5 +47,5 @@ entre d'altres, material que el corpus necessita i **encara no té**:
 - **`15.8060.24.2`** — *La primera casa del Consell de la Terra*
 - **`15.8060.21.8`** i **`15.8060.18.6`** — sobre **Cebrià Baraut**
 - **`15.8060.11.8`** — *La revolución andorrana del 1933*
-- **`15.8060.15.10`** — *La Nova Reforma de l'any 1866*
+- ~~**`15.8060.15.10`** — *La Nova Reforma de l'any 1866*~~ — incorporat com `massa-nova-reforma-2016`.
 - **`15.8060.24.7`** — *La diversitat cultural i el teatre*

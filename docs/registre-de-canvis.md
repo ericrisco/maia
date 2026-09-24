@@ -1459,3 +1459,9 @@ Captures i extractes de fonts institucionals: història del Servei d'Ordre i la 
 Números de la Gaceta de Madrid (1922 i 1931) amb les disposicions de franquícies i cupos d'importació per a Andorra: PDF, text extret, metadades i pàgines renderitzades.
 
 - Material de partida: 4 fitxers a `raw/web/duanes/gaceta-madrid-cupos-andorra-1931/`, `raw/web/duanes/gaceta-madrid-franquicies-andorra-1922/`
+
+### 162. 📝 afegeix material acadèmic de partida per a història i territori
+
+Articles, monografies i pàgines d'enciclopèdia que sostenen fitxes ja existents: Carlemany i la carta de poblament, els pareatges, Sant Vicenç d'Enclar, el Camp Vermell, la sigil·lografia, els refugiats de la Guerra Civil, la reforma de 1975–1981, entre d'altres. Cada carpeta porta el seu README amb procedència i drets.
+
+- Material de partida: 19 fitxers a `raw/academic/`, `raw/academic/andorra-1933/gonzalez-vilalta-2009/`, `raw/academic/ari/aiguat-1982/`, `raw/academic/ari/carta-pobla-2018/`, `raw/academic/arxiu-nacional/`, `raw/academic/diades/1991-referendums/` …
