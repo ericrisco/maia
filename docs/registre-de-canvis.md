@@ -856,3 +856,13 @@ La fitxa pública de l’**ASC-1286** descriu el privilegi atorgat per Caterina 
 - Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/privilegi-mercat-andorra-1512/`
 - Diari de treball: `raw/worklog/2026-09-24-privilegi-mercat-andorra-1512.md`
 - Originals conservats només en local (sense dret de redistribució): 2 fitxers
+
+### 79. 📝 incorpora ASC-1287 — Privilegi de mercat quinzenal sense tributs, 1516
+
+La fitxa pública de l’**ASC-1287** descriu el privilegi atorgat per Joan Despes, bisbe d’Urgell, el 23 de març de 1516 per celebrar mercat cada quinze dies a la parròquia d’Andorra la Vella sense pagar tributs per les mercaderies.
+
+- Fitxa: [ASC-1287 — Privilegi de mercat quinzenal sense tributs, 1516](fonts/asc-1287-privilegi-mercat-1516.md)
+- Article nou: [Joan Despes manté el mercat quinzenal i n’eximeix les mercaderies, 1516](temes/historia/antic-regim/privilegi-mercat-quinzenal-andorra-1516.md)
+- Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/privilegi-mercat-andorra-1516/`
+- Diari de treball: `raw/worklog/2026-09-24-privilegi-mercat-andorra-1516.md`
+- Originals conservats només en local (sense dret de redistribució): 2 fitxers
