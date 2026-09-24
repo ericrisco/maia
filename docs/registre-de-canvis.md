@@ -709,3 +709,13 @@ La fitxa pública de l’**ASC-04696** descriu una sentència arbitral del 18 de
 - Material de partida: 7 fitxers a `raw/web/institucions/arxiu-set-claus/telegraf-franca-espanya-1881-1892/`
 - Diari de treball: `raw/worklog/2026-09-23-telegraf-franca-espanya-1882-1897.md`
 - Originals conservats només en local (sense dret de redistribució): 18 fitxers
+
+### 64. 📝 incorpora ASC-05593 — Pase de Pere Dalleres para circular por Francia, 1868
+
+La fitxa pública de l’**ASC-05593** descriu un acta del 26 de novembre de 1868 que concedeix a Pere Dalleres, veí d’Andorra la Vella, un passe de trasllat dins de França, atorgat pel batlle Anton Armengol i els síndics Nicolau Duedra i Anton Picart.
+
+- Fitxa: [ASC-05593 — Pase de Pere Dalleres para circular por Francia, 1868](fonts/asc-05593-pas-franca-dalleres-1868.md)
+- Article nou: [Pere Dalleres obté un passe per circular per França (1868)](temes/institucions/nacionalitat-i-residencia/pas-franca-dalleres-1868.md)
+- Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/pas-franca-dalleres-1868/`
+- Diari de treball: `raw/worklog/2026-09-23-pas-franca-dalleres-1868.md`
+- Originals conservats només en local (sense dret de redistribució): 3 fitxers
