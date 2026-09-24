@@ -886,3 +886,13 @@ La fitxa pública de l’**ASC-1290** descriu el privilegi de Jaume de Foix, en 
 - Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/privilegi-fira-sant-mateu-1542/`
 - Diari de treball: `raw/worklog/2026-09-24-privilegi-fira-sant-mateu-1542.md`
 - Originals conservats només en local (sense dret de redistribució): 2 fitxers
+
+### 82. 📝 incorpora ASC-1318 i ASC-1319 — Alberga i servitud episcopal a Andorra, 1466
+
+Les fitxes públiques de l’**ASC-1318** i l’**ASC-1319** documenten dues intervencions de Jaume de Cardona, bisbe d’Urgell, datades el 3 d’agost de 1466: una definició del dret d’alberga i d’una servitud exigida pel clavari episcopal, i la derogació de la forma de prestació de l’alberga.
+
+- Fitxa: [ASC-1318 i ASC-1319 — Alberga i servitud episcopal a Andorra, 1466](fonts/asc-1318-1319-alberga-servitud-1466.md)
+- Article nou: [El bisbe regula l’alberga i la servitud episcopal, 1466](temes/historia/edat-mitjana/alberga-servitud-episcopal-1466.md)
+- Material de partida: 3 fitxers a `raw/web/institucions/arxiu-set-claus/alberga-1466/`
+- Diari de treball: `raw/worklog/2026-09-23-alberga-servitud-1466.md`
+- Originals conservats només en local (sense dret de redistribució): 4 fitxers
