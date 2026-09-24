@@ -1076,3 +1076,10 @@ Abast: Text llatí i traducció catalana del segon pariatge d’Andorra, datat e
 
 - Fitxa: [Segon pariatge d’Andorra (6 de desembre de 1288)](fonts/enciclopedia-segon-pariatge-1288.md)
 - Article nou: [El segon Pariatge desmunta Enclar i crea el notariat, 1288](temes/historia/pareatge/el-segon-pareatge-desmunta-enclar-i-crea-el-notariat-1288.md)
+
+### 106. 📝 incorpora Les necròpolis andorranes de l’hort de l’Església (la Massana), del Camp de…
+
+Abast: Cronologia, morfologia i datacions radiocarbòniques de tres necròpolis andorranes, amb especial atenció al Camp del Perot i al Camp Vermell
+
+- Fitxa: [Les necròpolis andorranes de l’hort de l’Església (la Massana), del Camp del Perot i del Camp Vermell (Sant Julià de Lòria)](fonts/forto-maese-vidal-necropolis-2012.md)
+- Article nou: [La necròpolis del Camp del Perot i la cronologia funerària](temes/historia/origens/la-necropolis-del-camp-del-perot-i-la-cronologia-funeraria.md)
