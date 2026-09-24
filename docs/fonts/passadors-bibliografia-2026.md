@@ -12,6 +12,10 @@ data_consulta: 2026-09-21
 abast: "Identificació bibliogràfica de tres obres sobre xarxes de pas, maquis i refugiats als Pirineus i Andorra."
 notes: >
   Editors d'Andorra identifica David Mas, la primera edició de 1985 i 152 pàgines.
+  La fitxa editorial de Mas resumeix que la tardor de 1944 els maquis republicans
+  exiliats a França van travessar Andorra per intentar alliberar Espanya del règim
+  de Franco. És una descripció comercial, no una font d'operacions: el corpus la
+  conserva com a pista temporal i no com a prova suficient dels episodis.
   La BnF identifica l'edició de 2009 de Contrabandistes de la llibertat, publicada
   per Ara Llibres a Badalona, amb ISBN 978-84-92552-17-7. Mollat identifica una
   edició francesa de La bataille des Pyrénées, publicada per Le Pas d'oiseau el

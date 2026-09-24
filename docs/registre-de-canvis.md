@@ -1368,3 +1368,9 @@ La ponència de Josep Parramon i Llavet, **«Constitució i sistema jurídicopol
 
 - Fitxa: [Josep Parramon — reforma institucional i referèndums de 1977–1978](fonts/parramon-referendums-1977-1978.md)
 - Diari de treball: `raw/worklog/2026-09-23-referendums-1977-1978.md`
+
+### 148. 📝 revisa Bibliografia editorial dels llibres sobre passadors i maquis
+
+Abast: Identificació bibliogràfica de tres obres sobre xarxes de pas, maquis i refugiats als Pirineus i Andorra.
+
+- Fitxa: [Bibliografia editorial dels llibres sobre passadors i maquis](fonts/passadors-bibliografia-2026.md)
