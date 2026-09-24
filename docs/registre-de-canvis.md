@@ -491,3 +491,13 @@ La fitxa pública de l’**ASC-3545** descriu un trasllat autoritzat per Pere Si
 - Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/ordinacions-pastures-1340/`
 - Diari de treball: `raw/worklog/2026-09-23-ordinacions-pastures-1340.md`
 - Originals conservats només en local (sense dret de redistribució): 2 fitxers
+
+### 40. 📝 incorpora ASC-03572 — Ordinacions de la Cort contra quadrilles i rodamons, 1580
+
+La fitxa pública de l’**ASC-03572** descriu unes ordinacions de la Cort de les valls d’Andorra, signades pel jutge Bernat Coromines i el veguer Amany de Queralt, datades aproximadament el 1580. El catàleg resumeix prohibicions de quadrilles armades, obligacions d’armes i avisos, presència simultània dels dos batlles i límits a l’estada de rodamons.
+
+- Fitxa: [ASC-03572 — Ordinacions de la Cort contra quadrilles i rodamons, 1580](fonts/asc-03572-ordinacions-cort-1580.md)
+- Article nou: [La Cort ordena armes, batlles presents i rodamons controlats (1580)](temes/historia/antic-regim/ordinacions-cort-quadrilles-rodamons-1580.md)
+- Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/ordinacions-cort-1580/`
+- Diari de treball: `raw/worklog/2026-09-23-ordinacions-cort-quadrilles-1580.md`
+- Originals conservats només en local (sense dret de redistribució): 3 fitxers
