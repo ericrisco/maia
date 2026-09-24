@@ -1045,3 +1045,13 @@ La fitxa pública del **CR-20096** descriu una àpoca del 31 de desembre de 1581
 - Material de partida: 2 fitxers a `raw/web/institucions/arxiu-casa-rossell/apoca-dot-ordino-1581/`
 - Diari de treball: `raw/worklog/2026-09-23-apoca-dot-ordino-1581.md`
 - Originals conservats només en local (sense dret de redistribució): 2 fitxers
+
+### 102. 📝 incorpora CR-31883 — Llibre d’enviaments de ferro, 1808
+
+La fitxa pública del **CR-31883** descriu un llibre d’enviaments de ferro de 1808, conservat al fons Casa Rossell i relacionat amb la Farga Areny d’Ordino. La digitalització mostra entrades de dates, destinataris, quantitats i totals.
+
+- Fitxa: [CR-31883 — Llibre d’enviaments de ferro, 1808](fonts/cr-31883-enviaments-ferro-1808.md)
+- Article nou: [La Farga Areny anota les vendes de ferro de 1808](temes/economia/transformacio-economica/enviaments-ferro-farga-areny-1808.md)
+- Material de partida: 2 fitxers a `raw/web/institucions/arxiu-casa-rossell/enviaments-ferro-1808/`
+- Diari de treball: `raw/worklog/2026-09-23-enviaments-ferro-farga-areny-1808.md`
+- Originals conservats només en local (sense dret de redistribució): 12 fitxers
