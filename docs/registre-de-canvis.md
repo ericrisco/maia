@@ -1290,3 +1290,8 @@ L’article d’Alexander Kaffka, **«El rei rus d’Andorra: fantasies i fets»
 ### 135. 📝 incorpora Jordi Lluís — Les institucions i la immigració abans de 1960
 
 - Fitxa: [Jordi Lluís — Les institucions i la immigració abans de 1960](fonts/lluis-institucions-immigracio-2006.md)
+
+### 136. 📝 incorpora A. Luengo — L’altra guerra mundial i nosaltres
+
+- Fitxa: [A. Luengo — L’altra guerra mundial i nosaltres](fonts/luengo-primera-guerra-andorra-2022.md)
+- Article nou: [Els sis soldats turcs i la neutralitat andorrana, 1917](temes/historia/segle-xx-primera-meitat/els-sis-soldats-turcs-i-la-neutralitat-1917.md)
