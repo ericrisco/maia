@@ -1223,3 +1223,8 @@ Abast: Descripció i fotografies del pergamí ASC, perg. 168, confirmació dels 
 
 - Fitxa: [La peça del mes: Lluís XIII confirma els privilegis d’Andorra (1611)](fonts/govern-privilegis-lluis-xiii-1611-2017.md)
 - Article nou: [Lluís XIII confirma els privilegis d’Andorra (1611)](temes/historia/antic-regim/lluis-xiii-confirma-els-privilegis-1611.md)
+
+### 125. 📝 incorpora Govern d’Andorra — L'incroyable aventure de Radio Andorra
+
+- Fitxa: [Govern d’Andorra — L'incroyable aventure de Radio Andorra](fonts/govern-radio-andorra-guerra-2011.md)
+- Article nou: [Ràdio Andorra davant Vichy i els Aliats, 1939–1944](temes/historia/segle-xx-primera-meitat/la-radio-andorra-davant-vichy-i-els-aliats-1939-1944.md)
