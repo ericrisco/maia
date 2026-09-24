@@ -118,16 +118,17 @@ frase de llei vigent**, no d'un llibre de folklore.
 
 ## Buits registrats
 
-1. ~~**La història del sometent andorrà entre el segle XIX i el 2022, i quan deixa de ser policial.**~~ — **`parcial` el 21-09-2026**: el *Politar* fixa l'estat de la institució cap al **1763** i la fitxa conserva que actuava com a força policial i armada; el corpus no té encara la continuïtat del segle XIX al 2022.
+1. ~~**La història del sometent andorrà entre el segle XIX i el 2022, i quan deixa de ser policial.**~~ — **`parcial` el 21-09-2026**: el *Politar* fixa l'estat de la institució cap al **1763** i la fitxa conserva que actuava com a força policial i armada; les actes afegeixen mobilitzacions sanitàries (**1628–1630**) i de vigilància fronterera (**1692**), però el corpus no té encara la continuïtat del segle XIX al 2022.
 2. ~~**Les ordinacions comunals** que fixen criteris, nombre i renovació: **set
    parròquies, set normes**, i el corpus no n'ha vist cap.~~ — **`parcial` el 21-09-2026**: la Llei 28/2022 estableix que **cada comú fixa els criteris i el nombre per ordinació comunal**, i que la formació i els simulacres també els concreta cada comú; el corpus no ha llegit les set ordinacions.
 3. ~~**Quantes persones el formen** avui, per parròquia.~~ — **`parcial` el 21-09-2026**: la llei fixa que cada comú designa membres entre els residents inscrits al cens de població, d'entre **18 i 60 anys**, i que el nombre el fixa el mateix comú; el corpus no té el recompte vigent de persones per parròquia.
 4. ~~**Quan s'ha mobilitzat** i per què.~~ — **`parcial` el 21-09-2026**: les
-   actes del Consell General documenten una negativa a sortir el **1463** i
-   mobilitzacions efectives el **1628** i el **1630**, amb guàrdies, armes i
-   relleus parroquials contra la pesta. La sèrie completa de mobilitzacions i
-   les seves causes encara no és al corpus. ~~**Cap cas documentat al corpus.**~~ —
-   **`parcial` el 17-09-2026: ara en té un, i és un cas de negativa.** Font: les
+   actes del Consell General documenten una negativa a sortir el **1463**,
+   mobilitzacions efectives el **1628** i el **1630** contra la pesta, i una
+   guàrdia fronterera el **1692**. La sèrie completa de mobilitzacions i les
+   seves causes encara no és al corpus. ~~**Cap cas documentat al corpus.**~~ —
+   **`parcial` el 17-09-2026: ara en té una negativa, dues mobilitzacions
+   sanitàries i una vigilància fronterera.** Font: les
    [actes històriques del Consell
    General](../../../fonts/actes-historiques-consell-general.md) *(ANA, TC, núm.
    7.860)*.
@@ -168,7 +169,8 @@ frase de llei vigent**, no d'un llibre de folklore.
 
    ~~`Requereix un cas de mobilització efectiva; el que el corpus té és el cas
    d'una que no es va fer.`~~ — **`resolt` el mateix dia, al Llibre I d'actes:
-   el corpus ja té la mobilització efectiva, i és de contagi, no de guerra.**
+   el corpus ja té mobilitzacions efectives de contagi (**1628–1630**) i de
+   vigilància fronterera (**1692**), a més de la negativa de 1463.**
 
    **El 5 de juny de 1628 el Consell General tanca el país.** L'acord munta, en
    una sola sessió, **un exèrcit, una frontera i un protocol**:
@@ -199,9 +201,18 @@ frase de llei vigent**, no d'un llibre de folklore.
    **Cinc dies després**, el 20 d'abril de 1630, **cada parròquia ha de comprar
    «una roba de pólvora»**.
 
-   **La mobilització andorrana documentada, doncs, no és contra un exèrcit: és
-   contra la pesta.** **I dura, com a mínim, del juny de 1628 a l'abril de
-   1630.**
+   **Els primers casos documentats són sanitaris**, i duren com a mínim del juny
+   de 1628 a l'abril de 1630. **Però el mecanisme també apareix en un context
+   militar:** el **13 de juny de 1692** el Consell mana posar sometent durant una
+   setmana, amb **dos homes per parròquia**, per vigilar **Perefita, les Portelles,
+   els ports de Canillo i el port de Siguer**. La mateixa acta ordena que tothom
+   tingui les armes a punt i que els síndics negociïn amb els governadors de
+   Montlluís i Bellver.
+
+   **El sometent documentat no és, doncs, només una resposta a la pesta.** El
+   Consell el pot convertir en vigilància armada dels ports quan la guerra ho
+   exigeix. La [unitat sobre la frontera de 1691](../../historia/guerres-i-neutralitat/quan-la-guerra-entra-per-la-frontera-1691.md)
+   explica el proveïment que precedeix aquesta mobilització.
 5. ~~**«Desener»**: el mot, el seu origen i si és viu fora d'aquest context. Vegeu
    [el lèxic andorrà](../../llengua/lexic-andorra/lexic-andorra.md).~~ —
    **`parcial` des del 16-09-2026: l'ofici sí, el mot no.** El **capítol VII del

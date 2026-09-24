@@ -20,6 +20,22 @@ Les seccions **«Justice civile: les bayles dans l'histoire»** (p. 224-226) i
 **J.-A. Brutails** (1904), amb les notes
 ([font](../../../fonts/brutails-coutume-1904.md)).
 
+## La sentència de 1456 que sí es conserva
+
+La fitxa de l’**ASC-4695** conserva una font primària datada el **7 de juny de
+1456**. Quatre jutges, designats respectivament pel veguer episcopal i pel comte
+de Foix, resolen un litigi entre els andorrans i **Guillem Carreu**, notari de
+les valls, sobre l’aplicació de les taxes dels documents.
+
+El resum de la sentència diu que Carreu ha de complir els aranzels de l’expedició
+de documents en pública forma i que els **saigs han de denominar-se batlles** i
+exercir l’ofici que abans exercien com a saigs ([fitxa primària
+ASC-4695](../../../fonts/asc-04695-sentencia-taxes-saigs-1456.md)). Aquesta
+peça confirma en un document datat la fórmula que Brutails atribuïa a una anàlisi
+antiga dels arxius d’Encamp. No prova, però, que l’ASC-4695 sigui el mateix
+original que aquella anàlisi ni que el 1456 fos l’inici de tota la institució
+dels batlles.
+
 ## El buit que es tanca
 
 **El corpus perseguia aquesta data des de feia sessions** ([el saig](./el-saig.md),
@@ -247,14 +263,17 @@ Jutge el 19 de novembre de 1846:**
 
 ## Buits registrats
 
-1. ~~**L'anàlisi antiga dels arxius d'Encamp** que dona la data del 7 de juny de 1456, **i l'original de la decisió.**~~ — **`parcial` el 21-09-2026**: la fitxa conserva la data i les dues conseqüències atribuïdes a la decisió —el canvi de nom dels saigs i el dret de llicències d'obres—, però no té ni l'anàlisi ni l'original de l'arxiu comunal d'Encamp.
+1. ~~**L'anàlisi antiga dels arxius d'Encamp** que dona la data del 7 de juny de 1456, **i l'original de la decisió.**~~ — **`parcial` actualitzat el 2026-09-23**: l’**ASC-4695** conserva una sentència primària del 7 de juny que ordena denominar batlles als saigs, però encara no permet identificar-se amb l’anàlisi d’Encamp ni recuperar-ne l’original.
 2. ~~**Si les dues citacions del 7 de juny de 1456** —el canvi de nom dels saigs i el
    dret de llicències d'obres— **són el mateix document.** **El corpus no les
    identifica.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 3. ~~**L'enquesta de 1346**, *Archives des Pyrénées-Orientales, C 2098*, i **el
    reglament dels Veguers del 13 de juny de 1356**, als arxius d'Encamp.~~ —
-   **`font_externa` el 2026-09-22**: la font dona la signatura de l'enquesta i
-   l'arxiu del reglament, però cal consultar les dues peces per llegir-les.
+   **`parcial` el 2026-09-22**: la fitxa del [reglament de taxes notarials de
+   1356](./les-taxes-dels-notaris-1356.md) fixa la data, els dos veguers, els 62
+   capítols, la confirmació episcopal i la referència **ASC P. 27**; l’original
+   dels veguers i els capítols sencers encara s’han de consultar. L’enquesta de
+   1346 continua només identificada per la signatura **C 2098**.
 4. ~~**Per què van desaparèixer els batlles del Pareatge**, i **quan.**~~ —
    **`parcial`, actualitzat el 2026-09-19**: la seqüència queda acotada per les
    fonts: **dos batlles el 1278**, **saigs documentats el 1346** i **batlles

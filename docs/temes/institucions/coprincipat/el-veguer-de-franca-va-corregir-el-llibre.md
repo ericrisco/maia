@@ -78,6 +78,10 @@ per acte de voluntat unilateral les mesures que li convenen** per determinar
 | **3 de juny de 1882** | **Transfereix al prefecte dels Pirineus Orientals** els poders del seu col·lega de l'Arieja. **Institueix un delegat permanent** per representar l'Estat francès **davant de les autoritats andorranes i en les relacions amb el bisbe d'Urgell**, i **n'inviteix el sotsprefecte de Prada**, **deixant subsistir íntegres les atribucions especials del veguer francès** *(art. 2)*. **Abroga l'obligació que el veguer surti de l'Arieja** i **trasllada el cobrament de la quèstia a la tresoreria dels Pirineus Orientals** |
 | **27 de febrer de 1884** | **Confereix la delegació permanent al prefecte dels Pirineus Orientals**, en lloc i en comptes del sotsprefecte de Prada |
 
+El text complet del primer decret ja es conserva com a [font específica del
+decret de 1806](../../../fonts/napoleo-decret-1806.md). Les disposicions de
+1882 i 1884 continuen resumides a partir de les fonts de Vilar.
+
 > **En setanta-vuit anys, la representació francesa passa de l'Arieja a Prada i de
 > Prada a Perpinyà**, **i pel camí es desdobla**: **el veguer, que és antic i
 > bilateral, i el delegat permanent, que és nou i unilateral.**
@@ -214,11 +218,9 @@ ja donava: **els batlles i els *enrahonadors* només es poden prendre d'entre el
 2. ~~**El decret del 27 de març de 1806**, **el del 3 de juny de 1882** i **el
    del 27 de febrer de 1884**, **sencers**. **El corpus en té articles citats i
    cap text.** **Prioritari**: **són les normes que organitzen la presència
-   francesa.**~~ — **`parcial` el 2026-09-21**: la fitxa ja en resumeix les
-   disposicions principals —el nomenament i les atribucions del veguer el **1806**,
-   la creació del delegat i el trasllat de competències el **1882**, i el pas de
-   la delegació al prefecte el **1884**—. **Els tres textos íntegres encara no
-   formen part del corpus.**
+   francesa.**~~ — **`parcial` el 2026-09-23**: el decret de **1806** ja té
+   registre arxivístic, previsualització i transcripció dels cinc articles; els
+   decrets de **1882** i **1884** continuen resumits, sense text íntegre local.
 3. ~~**Per què el 1882 es va crear el delegat permanent** i **per què dos anys
    després la delegació va passar del sotsprefecte de Prada al prefecte.**~~ —
    **`parcial` el 2026-09-21**: el decret de **3 de juny de 1882** identifica la

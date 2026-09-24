@@ -120,7 +120,7 @@ L'autor enumera què més podria haver triat per il·lustrar la tesi, i la llist
    **Llei 14/2021**, 74 articles, en text consolidat — i hi diu una cosa que el
    corpus buscava per una altra banda: els notaris donen fe «amb subjecció a les
    lleis... **i, subsidiàriament, d'acord amb el costum**».
-2. ~~**El text del segon Pareatge** en la part que regula el notariat.~~ — **`parcial` el 21-09-2026**: la legislació notarial de 1996 en fa arrencar la figura i una concòrdia de **1347** en cita la competència dels dos senyors per constituir i destituir el notari de la Cúria, però el corpus encara no té el text íntegre del segon Pareatge.
+2. ~~**El text del segon Pareatge** en la part que regula el notariat.~~ — **`parcial` el 2026-09-22**: [El segon Pariatge desmunta Enclar i crea el notariat, 1288](../../historia/pareatge/el-segon-pareatge-desmunta-enclar-i-crea-el-notariat-1288.md) ja llegeix la clàusula reproduïda per l’*Enciclopèdia Catalana*: nomenament conjunt, autoritat compartida, repartiment dels ingressos i investigació comuna. **Segueix obert** consultar el pergamí original i comprovar si la pràctica notarial conservada del segle XIV hi concorda.
 3. ~~**Quants notaris** hi ha hagut i hi ha a Andorra.~~ **TANCAT en sèrie:**
    **un de sol** durant segles, **quatre el 1904** —«c'est beaucoup trop», deia
    Brutails— i, des del **2021**, **mínim quatre i màxim un per cada deu mil
@@ -176,6 +176,7 @@ L'autor enumera què més podria haver triat per il·lustrar la tesi, i la llist
 ## Related
 
 - [Quants notaris](./quants-notaris.md) — la sèrie, de 1443 al 2021.
+- [Els dos veguers posen preu al notari (1356)](./les-taxes-dels-notaris-1356.md) — la primera regulació de taxes notarials que el corpus pot identificar amb data, actors i signatura.
 
 - [El Pareatge](../../historia/pareatge/el-pareatge.md) — l'origen.
 - [Els capítols matrimonials](../../historia/antic-regim/els-capitols-matrimonials.md) — el document estrella.

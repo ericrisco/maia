@@ -1,13 +1,13 @@
 ---
 type: article
 title: El Consell de la Terra
-description: "El parlament andorrà neix el 1419, es reunia sis cops l'any en dates com el Consell de l'Afor, i seia en rotlle."
+description: "El privilegi de 1419 legitima i estructura un Consell que ja tenia precedents, es reunia sis cops l'any en dates com el Consell de l'Afor i seia en rotlle."
 tema: temes/institucions/consell-general
 veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: societat-andorrana-ciencies
-timestamp: 2026-09-12T15:10:00Z
+timestamp: 2026-09-22T20:00:00Z
 tags: [institucions, historia, edat-mitjana, lexic, parlamentarisme]
 ---
 
@@ -17,7 +17,7 @@ tags: [institucions, historia, edat-mitjana, lexic, parlamentarisme]
 > **Societat Andorrana de Ciències**
 > ([font](../../../fonts/societat-andorrana-ciencies.md)).
 
-## La data de naixement
+## La legitimitat de 1419
 
 **Els Cosenyors reconeixen el Consell de la Terra entre l'11 de febrer i el 17
 de desembre de 1419.**
@@ -105,11 +105,20 @@ per reunir-se va ser el primer que va presidir la reunió**.
 
 Vegeu [els síndics generals](../../persones/els-sindics-generals.md).
 
-**Cautela que es manté:** cap d'aquestes tres proves és **el document**. El
-privilegi és a
-[l'Arxiu de les Set Claus](../patrimoni-institucional/linventari-de-les-set-claus.md)
-amb signatura **ASC 48339**, i **el corpus no l'ha vist**. La conclusió és
-**sòlida però indirecta**.
+**Actualització del 22-09-2026:** el corpus ja té la transcripció institucional
+íntegra de les dues peces: [el privilegi episcopal de l'11 de febrer de
+1419](../../../raw/consell-general/actes-historiques/text/segle-xv--1419-febrer-11-la-seu-durgell.txt)
+i [la ratificació comtal del 17 de desembre de
+1419](../../../raw/consell-general/actes-historiques/text/segle-xv--1419-desembre-17-andorra-la-vella.txt).
+La fitxa oficial dona per al primer l'original de l'ANA, Casa Rossell, pergamí
+40.529, i per al segon l'original de l'ANA, ASC, pergamí 1.222. Això tanca el
+buit de la transcripció: la conclusió ja no és només indirecta.
+
+Encara no s'han inspeccionat físicament els dos pergamins i la còpia coetània
+de l'acta episcopal continua no localitzada. **ASC 48339** es manté com la
+referència que apareix a l'inventari de les Set Claus per a la ratificació; la
+fitxa no decideix si és una numeració d'inventari diferent de la signatura
+1.222.
 
 **Calien les dues signatures.** El [coprincipat](../coprincipat/el-coprincipat.md)
 ja funcionava així: **el parlament d'Andorra existeix perquè els dos senyors hi
@@ -287,9 +296,10 @@ que ser absolt no costés diners.**
 
 I abans, el **1364**, ja hi havia hagut representació: **tres síndics i
 procuradors de les universitats de les valls adrecen una cèdula a la Cort per
-protestar pels abusos dels veguers**.
+protestar pels abusos dels veguers**. La peça es llegeix sencera a [la fitxa de
+la sèrie anterior al Consell](../../historia/edat-mitjana/abans-del-consell-sindics-costums-i-comunals-1331-1364.md).
 
-**I encara abans, i el 17-09-2026 el corpus en té el document**: **el 28 de
+**I encara abans, el corpus té el document**: **el 28 de
 desembre de 1331**, **cinc síndics i procuradors dels homes de la Vall** —Durand
 Blanquer, de Prats; Pere Calva, de Vila; Arnau Isern, de la Margineda; Ferrer de
 Llumeneres; i Ramon de la Mora, de Sispony— **reunits a Andorra, a l'era del

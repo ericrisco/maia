@@ -1525,3 +1525,19 @@ Integra als articles d'història les fonts incorporades en els commits anteriors
 - Article revisat: [La Revolució de 1933](temes/historia/segle-xx-primera-meitat/la-revolucio-de-1933.md)
 - Article nou: [Les Valls d’Andorra: la primera publicació, 1917–1920](temes/historia/segle-xx-primera-meitat/les-valls-dandorra-primera-publicacio-1917-1920.md)
 - Article revisat: [Segle XX, primera meitat — índex de fitxes](temes/historia/segle-xx-primera-meitat/segle-xx-primera-meitat-index-de-fitxes.md)
+
+### 165. 📝 revisa articles d'institucions amb les fonts noves
+
+Actualitza els articles i índexs de Consell General, comuns, coprincipat, justícia i nacionalitat perquè citin les fonts arxivístiques noves.
+
+- Article revisat: [Comuns i parròquies — índex de fitxes](temes/institucions/comuns-i-parroquies/comuns-i-parroquies-index-de-fitxes.md)
+- Article revisat: [El sometent](temes/institucions/comuns-i-parroquies/el-sometent.md)
+- Article revisat: [Consell General — índex de fitxes](temes/institucions/consell-general/consell-general-index-de-fitxes.md)
+- Article revisat: [El Consell de la Terra](temes/institucions/consell-general/el-consell-de-la-terra.md)
+- Article revisat: [El Coprincipat — índex de fitxes](temes/institucions/coprincipat/el-coprincipat-index-de-fitxes.md)
+- Article revisat: [El veguer de França va corregir el llibre](temes/institucions/coprincipat/el-veguer-de-franca-va-corregir-el-llibre.md)
+- Article revisat: [La quèstia](temes/institucions/coprincipat/la-questia.md)
+- Article revisat: [De saig a batlle, el set de juny de 1456](temes/institucions/justicia/de-saig-a-batlle-el-set-de-juny-de-1456.md)
+- Article revisat: [El notariat](temes/institucions/justicia/el-notariat.md)
+- Article revisat: [Justícia — índex de fitxes](temes/institucions/justicia/justicia-index-de-fitxes.md)
+- Article revisat: [Nacionalitat i residència — índex de fitxes](temes/institucions/nacionalitat-i-residencia/nacionalitat-i-residencia-index-de-fitxes.md)

@@ -114,9 +114,11 @@ Vegeu [com funciona el Consell General](../../politica/parlamentarisme/com-funci
 > senyoria d'Andorra el 1793, i van ser els andorrans mateixos els qui van
 > demanar que hi tornés.**
 >
-> **Un país que demana que li restitueixin el seu senyor feudal.** **La font no
-> explica per què, i el corpus no ho supleix** — **però la data i la petició
-> consten.** **Buit prioritari: què hi havia en joc entre el 1793 i el 1806.**
+> **Un país que demana que li restitueixin el seu senyor feudal.** La seqüència
+> documental ja es pot seguir a [Entre la quèstia refusada i Napoleó,
+> 1793–1806](./entre-la-questia-i-napoleo-1793-1806.md): la petició de 1804
+> demanava recuperar també les relacions d’administració, policia i comerç. El
+> motiu intern concret de la petició continua sense documentar-se.
 
 **Això toca [les tres sobiranies](./les-tres-sobiranies.md) i
 [qui deia que Andorra no era sobirana](./qui-deia-que-andorra-no-era-sobirana.md),
@@ -225,7 +227,7 @@ l'article 47 de la Constitució.`
   catalana ni aragonesa: és llenguadociana**, i **el fet que la quèstia del
   Pareatge es taxi en melgoresos diu de quin espai monetari penjaven les Valls el
   1278.** `El que segueix obert és el valor: quant eren 4.000 sous melgoresos.`
-- ~~**Per què els andorrans van demanar el restabliment del 1806.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- ~~**Per què els andorrans van demanar el restabliment del 1806.**~~ — **`resolt` el 2026-09-23**: el registre ASC-3709 i la transcripció MJP documenten la ruptura de 1793, la petició del Consell del 21 d’abril de 1804 i el contingut del decret de 1806. El motiu intern concret de la petició continua obert. [Fitxa del decret](./entre-la-questia-i-napoleo-1793-1806.md).
 - ~~**Les cròniques dels lliuraments del 1991 i del 1992.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**Si es va pagar mai en fruits**, i **què.**~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
 - ~~**El text literal de l'article 47 de la Constitució**, que és la base de la
