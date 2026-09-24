@@ -699,3 +699,13 @@ La fitxa pública de l’**ASC-04696** descriu una sentència arbitral del 18 de
 - Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/conveni-banc-agricol-caixa-pensions-1934/`
 - Diari de treball: `raw/worklog/2026-09-23-conveni-banc-agricol-caixa-pensions-1934.md`
 - Originals conservats només en local (sense dret de redistribució): 1 fitxers
+
+### 63. 📝 incorpora Sis fitxes sobre el telègraf entre França, Andorra i la Seu, 1882–1897
+
+- **Font consultada:** sis registres oficials d'Arxius en Línia, ASC-05521, ASC-05541, ASC-05549, ASC-05561, ASC-05571 i ASC-05573. - **Proveniència:** fitxes públiques, HTML de metadades i previsualitzacions; els JSON locals conserven descriptors, URL, permisos i hashes. - **Resultat:** nova fitxa de font i article que documenten la protesta de 1882, la destrucció de la línia anterior, l'aprovació francesa de 1892, la línia Seu–Andorra, l'extensió a Ordino i la Massana i les franquícies de 1897. - **Buit actualitzat:** ja no és correcte dir que el corpus no té cap peça primària sobre la instal·lació del telègraf. Encara falten les transcripcions, els expedients tècnics i la comprovació de l'entrada en servei de cada tram.
+
+- Fitxa: [Sis fitxes sobre el telègraf entre França, Andorra i la Seu, 1882–1897](fonts/asc-05521-05573-telegraf-1882-1897.md)
+- Article nou: [El telègraf torna a Andorra: França, la Mitra i la Seu (1882–1897)](temes/economia/energia-i-serveis/telegraf-franca-espanya-1882-1897.md)
+- Material de partida: 7 fitxers a `raw/web/institucions/arxiu-set-claus/telegraf-franca-espanya-1881-1892/`
+- Diari de treball: `raw/worklog/2026-09-23-telegraf-franca-espanya-1882-1897.md`
+- Originals conservats només en local (sense dret de redistribució): 18 fitxers
