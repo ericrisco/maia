@@ -739,3 +739,13 @@ Les fitxes públiques de l’**ASC-05606** i l’**ASC-05607** documenten una se
 - Material de partida: 4 fitxers a `raw/web/institucions/arxiu-set-claus/proposta-cens-poblacio-1896/`, `raw/web/institucions/arxiu-set-claus/seguiment-cens-poblacio-1896/`
 - Diari de treball: `raw/worklog/2026-09-23-cens-poblacio-carretera-1896.md`
 - Originals conservats només en local (sense dret de redistribució): 6 fitxers
+
+### 67. 📝 incorpora ASC-05626 — Passaport andorrà de Filomena Albós Cerqueda, 1941
+
+La fitxa pública de l’**ASC-05626** descriu el passaport andorrà número 263, expedit pel síndic general Francesc Cairat Freixes a favor de Filomena Albós Cerqueda, veïna d’Escaldes, el 21 de febrer de 1941.
+
+- Fitxa: [ASC-05626 — Passaport andorrà de Filomena Albós Cerqueda, 1941](fonts/asc-05626-passaport-filomena-albos-1941.md)
+- Article nou: [Filomena Albós rep el passaport andorrà número 263 (1941)](temes/institucions/nacionalitat-i-residencia/passaport-filomena-albos-1941.md)
+- Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/passaport-filomena-albos-1941/`
+- Diari de treball: `raw/worklog/2026-09-23-passaport-filomena-albos-1941.md`
+- Originals conservats només en local (sense dret de redistribució): 7 fitxers
