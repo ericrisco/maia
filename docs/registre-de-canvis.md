@@ -1035,3 +1035,13 @@ La fitxa pública del **CR-16197** descriu el debitori signat per Pere Vilar de 
 - Material de partida: 2 fitxers a `raw/web/institucions/arxiu-casa-rossell/debitori-dot-margarida-vilar-1374/`
 - Diari de treball: `raw/worklog/2026-09-25-debitori-dot-margarida-vilar-1374.md`
 - Originals conservats només en local (sense dret de redistribució): 2 fitxers
+
+### 101. 📝 incorpora CR-20096 — Àpoca de dot d’Ordino, 1581
+
+La fitxa pública del **CR-20096** descriu una àpoca del 31 de desembre de 1581 signada per Caterina Vidal, vídua, i Maria Vidal d’Ordino a favor d’Antoni Rossell (dit Vidal), en concepte de dot.
+
+- Fitxa: [CR-20096 — Àpoca de dot d’Ordino, 1581](fonts/cr-20096-apoca-dot-ordino-1581.md)
+- Article nou: [Una mare i una filla reconeixen un dot a Ordino, 1581](temes/historia/antic-regim/apoca-dot-ordino-1581.md)
+- Material de partida: 2 fitxers a `raw/web/institucions/arxiu-casa-rossell/apoca-dot-ordino-1581/`
+- Diari de treball: `raw/worklog/2026-09-23-apoca-dot-ordino-1581.md`
+- Originals conservats només en local (sense dret de redistribució): 2 fitxers
