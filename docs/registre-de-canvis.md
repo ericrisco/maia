@@ -1007,3 +1007,12 @@ Les fitxes de la Casa Rossell identifiquen el CR-180 com el testament de Ramon V
 - Material de partida: 3 fitxers a `raw/web/institucions/arxiu-casa-rossell/testaments-vilar-1487-1529/`
 - Diari de treball: `raw/worklog/2026-09-23-testaments-vilar-1487-1529.md`
 - Originals conservats només en local (sense dret de redistribució): 4 fitxers
+
+### 98. 📝 incorpora CR_0024 — Primera visita oficial del bisbe Benlloch a Andorra, 1908
+
+## Objectiu
+
+- Fitxa: [CR_0024 — Primera visita oficial del bisbe Benlloch a Andorra, 1908](fonts/cr-0024-visita-benlloch-1908.md)
+- Article nou: [La primera visita oficial del bisbe Benlloch es rep amb un arc de benvinguda (1908)](temes/historia/segle-xx-primera-meitat/visita-benlloch-1908.md)
+- Material de partida: 3 fitxers a `raw/web/cultura/fotografia/visita-benlloch-1908/`
+- Diari de treball: `raw/worklog/2026-09-23-visita-benlloch-1908.md`
