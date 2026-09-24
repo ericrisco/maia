@@ -1582,3 +1582,11 @@ Demografia, educació, família, mitjans, sanitat, treball, vida cívica, artesa
 Markdown permet embolcallar una destinació d'enllaç amb espais entre angles. El comprovador d'enllaços tractava els angles com a part del nom del fitxer i donava per trencats enllaços vàlids. Ara els treu abans de resoldre la ruta.
 
 - `scripts/check_links.py` (revisat)
+
+### 169. 📝 regenera l'índex, el registre de progrés i l'estat d'Obsidian
+
+Regenera docs/index.md amb `cervell render docs` i REGISTRE.md amb scripts/registre_progres.py perquè reflecteixin totes les fonts i articles incorporats. Ignora docs/raw/.models, un enllaç simbòlic a models locals.
+
+- `docs/.obsidian/graph.json` (revisat)
+- `docs/.obsidian/workspace.json` (revisat)
+- `docs/index.md` (revisat)
