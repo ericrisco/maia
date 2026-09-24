@@ -1055,3 +1055,13 @@ La fitxa pública del **CR-31883** descriu un llibre d’enviaments de ferro de 
 - Material de partida: 2 fitxers a `raw/web/institucions/arxiu-casa-rossell/enviaments-ferro-1808/`
 - Diari de treball: `raw/worklog/2026-09-23-enviaments-ferro-farga-areny-1808.md`
 - Originals conservats només en local (sense dret de redistribució): 12 fitxers
+
+### 103. 📝 incorpora CR-31892 — Rebut de Jacques Dandine per comptes de la farga, 1812
+
+La fitxa pública del **CR-31892** descriu un rebut del 5 d’abril de 1812 en què Jacques Dandine es declara satisfet i pagat dels comptes amb Bonaventura Riba Guillaumes de la Massana. La fitxa el relaciona amb vendes de ferro, la farga d’Ordino i Ausat (França).
+
+- Fitxa: [CR-31892 — Rebut de Jacques Dandine per comptes de la farga, 1812](fonts/cr-31892-rebut-dandine-ferro-1812.md)
+- Article nou: [Un comprador d’Ausat tanca comptes amb una farga (1812)](temes/economia/transformacio-economica/rebut-dandine-farga-1812.md)
+- Material de partida: 2 fitxers a `raw/web/institucions/arxiu-casa-rossell/rebut-dandine-ferro-1812/`
+- Diari de treball: `raw/worklog/2026-09-23-rebut-dandine-farga-1812.md`
+- Originals conservats només en local (sense dret de redistribució): 1 fitxers
