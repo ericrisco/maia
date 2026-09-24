@@ -536,3 +536,14 @@ La fitxa pública de l’**ASC-3615** descriu una carta del 6 d’agost de 1691 
 - Fitxa: [El governador de Lleida respon sobre els passaports andorrans, 1840 — ASC-03658](fonts/asc-03658-passaports-seu-1840.md)
 - Article nou: [El governador de Lleida intervé pels passaports dels andorrans, 1840](temes/institucions/nacionalitat-i-residencia/passaports-andorrans-seu-1840.md)
 - Diari de treball: `raw/worklog/2026-09-23-passaports-andorrans-seu-1840.md`
+
+### 45. 📝 incorpora ASC-03660 — Trasllat de la concòrdia sobre el batlle d’Andorra, 1176–1379
+
+## Objectiu
+
+- Fitxa: [ASC-03660 — Trasllat de la concòrdia sobre el batlle d’Andorra, 1176–1379](fonts/asc-03660-concordia-batlle-1176-1379.md)
+- Article nou: [Una concòrdia de 1176 arriba en un trasllat de 1379](temes/historia/edat-mitjana/concordia-batlle-1176-1379.md)
+- Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/concòrdia-batlle-1176-1379/`
+- Diari de treball: `raw/worklog/2026-09-23-concordia-batlle-1176-1379.md`
+- Diari de treball: `raw/worklog/2026-09-24-concordia-batlle-1176-1379.md`
+- Originals conservats només en local (sense dret de redistribució): 2 fitxers
