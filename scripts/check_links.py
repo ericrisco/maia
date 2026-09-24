@@ -28,6 +28,9 @@ def targets(text: str) -> list[str]:
     """Els destins d'enllaç d'un document, sense els externs ni les àncores."""
     out = []
     for raw in LINK.findall(text):
+        # Markdown permet embolcallar una destinació amb espais entre <...>.
+        # El delimitador no forma part del nom del fitxer.
+        raw = raw[1:-1] if raw.startswith("<") and raw.endswith(">") else raw
         if raw.startswith(EXTERNAL) or raw.startswith("#"):
             continue
         out.append(raw)

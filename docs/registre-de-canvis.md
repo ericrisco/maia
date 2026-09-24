@@ -1576,3 +1576,9 @@ Demografia, educació, família, mitjans, sanitat, treball, vida cívica, artesa
 - Article revisat: [Sanitat — índex de fitxes](temes/societat/sanitat/sanitat-index-de-fitxes.md)
 - Article revisat: [Treball — índex de fitxes](temes/societat/treball/treball-index-de-fitxes.md)
 - Article revisat: [Vida cívica — índex de fitxes](temes/societat/vida-civica/vida-civica-index-de-fitxes.md)
+
+### 168. 🐛 check_links accepta destinacions entre <...>
+
+Markdown permet embolcallar una destinació d'enllaç amb espais entre angles. El comprovador d'enllaços tractava els angles com a part del nom del fitxer i donava per trencats enllaços vàlids. Ara els treu abans de resoldre la ruta.
+
+- `scripts/check_links.py` (revisat)
