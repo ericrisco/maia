@@ -904,3 +904,11 @@ Abast: Cinc unitats del fons Arxiu de les Set Claus sobre el privilegi de 25 de 
 - Fitxa: [Arxius en Línia — franquesa de la lleuda de Puigcerdà, 1646 (ASC-1194–1197 i ASC-1236)](fonts/asc-franquesa-lleuda-puigcerda-1646.md)
 - Material de partida: 6 fitxers a `raw/web/institucions/arxiu-set-claus/franquesa-lleuda-puigcerda-1646/`
 - Originals conservats només en local (sense dret de redistribució): 10 fitxers
+
+### 84. 📝 incorpora ASC-1302 — Acord sobre l’extracció de blat de Prullans, 16 de maig de 1634
+
+Abast: Acord entre Climent Llinyau Descallar, senyor de Prullans, i Andreu Pal, síndic d’Andorra
+
+- Fitxa: [ASC-1302 — Acord sobre l’extracció de blat de Prullans, 16 de maig de 1634](fonts/asc-treta-blat-prullans-1634.md)
+- Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/treta-blat-prullans-1634/`
+- Originals conservats només en local (sense dret de redistribució): 2 fitxers
