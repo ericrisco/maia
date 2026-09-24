@@ -789,3 +789,13 @@ La fitxa pública de l’**ASC-05685** descriu un certificat expedit pel cònsol
 - Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/certificat-residencia-rispal-1956/`
 - Diari de treball: `raw/worklog/2026-09-23-certificat-residencia-rispal-1956.md`
 - Originals conservats només en local (sense dret de redistribució): 1 fitxers
+
+### 72. 📝 incorpora ASC-05731 — Proposició d’una escola primària a Andorra, 1882
+
+La fitxa pública de l’**ASC-05731** descriu una proposició de Clodovée Papinaud, delegat permanent francès, per instal·lar una escola primària a Andorra i remetre-la a l’aprovació del Consell General.
+
+- Fitxa: [ASC-05731 — Proposició d’una escola primària a Andorra, 1882](fonts/asc-05731-proposicio-escola-1882.md)
+- Article nou: [Una proposta d’escola primària arriba al Consell (1882)](temes/societat/educacio/proposicio-escola-primaria-1882.md)
+- Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/proposicio-escola-1882/`
+- Diari de treball: `raw/worklog/2026-09-23-proposicio-escola-1882.md`
+- Originals conservats només en local (sense dret de redistribució): 3 fitxers
