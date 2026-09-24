@@ -348,3 +348,18 @@ Abast: Inventari de 411 unitats del fons 6MD/1; per a la Reforma, entrada 48 (31
 - Fitxa: [Mémoires et Documents / Andorre, 1652–1882 — inventari diplomàtic francès](fonts/archives-diplomatiques-andorra-1652-1882.md)
 - Article nou: [La frontera espanyola i la Solana entren en un expedient francès (1850)](temes/historia/segle-xix/solana-frontera-1850.md)
 - Material de partida: 5 fitxers a `raw/web/institucions/archives-diplomatiques/andorre-1652-1882/`
+
+### 23. 🔒 deixa fora de git els originals sense dret de redistribució
+
+El repositori és públic. Des d'aquesta entrada, un original (PDF, imatge, captura
+HTML, extracte de text) només es publica si la seva fitxa diu `redistribucio: sí`, o
+si la carpeta ja versionava fitxers del mateix tipus per una decisió anterior del
+projecte (com el text de les actes històriques del Consell General). La resta es
+conserva en local per verificar i citar, i queda llistada a `.gitignore`.
+
+- Originals retirats de l'arbre: 42 fitxers pujats a les entrades 2–22 (Archives
+  diplomatiques, Arxiu Comunal d'Andorra, Arxiu de les Set Claus, ADPO, Urgell).
+  Continuen a l'historial de git; retirar-los'n demanaria reescriure'l.
+- Originals que no es pugen en les entrades següents: 458 fitxers.
+- Es publiquen igualment les fitxes, els README amb procedència i URL, les metadades
+  JSON, els articles i els diaris de treball.
