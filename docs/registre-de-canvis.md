@@ -955,3 +955,7 @@ Abast: Text llatí i tradició manuscrita del precepte de Carles el Calb que con
 Abast: Síntesi de privilegis comercials i de circulació de mercaderies, amb un episodi de la Reial Audiència de Barcelona del 14 de juliol de 1606
 
 - Fitxa: [La sal i els camins de les mercaderies a Sant Julià de Lòria (segles XVII-XVIII-XIX)](fonts/comu-sant-julia-privilegis-vitualles-1606.md)
+
+### 92. 📝 incorpora Constitució i sobirania plena — El Consell General en la història
+
+- Fitxa: [Constitució i sobirania plena — El Consell General en la història](fonts/consell-general-constitucio-sobirania.md)
