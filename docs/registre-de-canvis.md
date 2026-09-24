@@ -1361,3 +1361,10 @@ El registre **ASC-3709** de l’Arxiu de les Set Claus identifica un foli del **
 ### 146. 📝 incorpora Expedient PARES del canvi de notes amb Andorra, 1866–1868
 
 - Fitxa: [Expedient PARES del canvi de notes amb Andorra, 1866–1868](fonts/pares-ultramar-4714-exp42-canje-andorra-1867.md)
+
+### 147. 📝 incorpora Josep Parramon — reforma institucional i referèndums de 1977–1978
+
+La ponència de Josep Parramon i Llavet, **«Constitució i sistema jurídicopolític»**, publicada dins *4a Diada Andorrana: El futur d’Andorra* (1991/1997), reconstrueix l’expedient polític que la fitxa només tenia com a resultats. - El Consell encarrega quatre documents a una comissió ad hoc el 5 d’abril de 1977. - El 14 de juny acorda distribuir-los i permet projectes alternatius avalats per 400 signatures; n’arriben tres amb 648 signatures i dues propostes de la Massana i del Quart d’Escaldes. - La Junta de Consellers Majors fixa el referèndum de sis opcions el 21 de setembre; l’edicte del 29 de setembre fixa el 28 d’octubre i una papereta en blanc amb el significat de rebutjar les sis opcions. - El Consell analitza el resultat el 8 de novembre i negocia amb els representants de les opcions 6, 5 i 4 a partir de l’11 de novembre. - La negociació fracassa; les opcions 4 i 5 es fusionen en la proposta 7 i la proposta 6 es torna a presentar al referèndum del 16 de gener de 1978.
+
+- Fitxa: [Josep Parramon — reforma institucional i referèndums de 1977–1978](fonts/parramon-referendums-1977-1978.md)
+- Diari de treball: `raw/worklog/2026-09-23-referendums-1977-1978.md`
