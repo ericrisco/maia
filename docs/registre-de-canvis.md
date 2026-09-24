@@ -817,3 +817,12 @@ La fitxa pública de l’**ASC-05741** descriu una carta d’Antoni Huguet al Sr
 - Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/noies-escola-normal-perpinya-1898/`
 - Diari de treball: `raw/worklog/2026-09-23-noies-escola-normal-perpinya-1898.md`
 - Originals conservats només en local (sense dret de redistribució): 1 fitxers
+
+### 75. 📝 incorpora ASC-5826 — Trasllat de la regularització de taxes notarials, 1356–1357
+
+La fitxa pública de l’**ASC-5826** descriu un trasllat autoritzat per Guillem de Ministrells de la regularització de les taxes dels notaris de les Valls feta pels veguers Guillem Jaculatori d’Ax i Roger de Besora.
+
+- Fitxa: [ASC-5826 — Trasllat de la regularització de taxes notarials, 1356–1357](fonts/asc-05826-trasllat-taxes-notaris-1356.md)
+- Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/taxes-notaris-1356/`
+- Diari de treball: `raw/worklog/2026-09-23-trasllat-taxes-notaris-1356.md`
+- Originals conservats només en local (sense dret de redistribució): 2 fitxers
