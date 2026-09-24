@@ -1257,3 +1257,9 @@ Abast: Confirmació episcopal de les taxes notarials regularitzades pels veguers
 - Article nou: [La postguerra obre el Pas de la Casa, 1945–1950](temes/historia/segle-xx-primera-meitat/la-postguerra-obre-el-pas-de-la-casa-1945-1950.md)
 - Article nou: [Quan el Consell va intentar tenir els seus segells, 1926–1930](temes/historia/segle-xx-primera-meitat/quan-el-consell-va-intentar-tenir-seus-segells-1926-1930.md)
 - Article nou: [Quan França i Espanya tornen a entrar a Andorra, 1944–1945](temes/historia/segle-xx-primera-meitat/quan-franca-i-espanya-tornen-a-entrar-1944-1945.md)
+
+### 130. 📝 incorpora Andorra, Terra de Bruixes — Atles i fitxes de la cacera de bruixes
+
+Abast: Presentació, Atles 7 i cercador filtrat per 1621: 37 entrades, 36 d’acusades de bruixeria i una concòrdia
+
+- Fitxa: [Andorra, Terra de Bruixes — Atles i fitxes de la cacera de bruixes](fonts/historia-ad-terra-de-bruixes.md)
