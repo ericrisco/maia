@@ -1212,3 +1212,7 @@ Abast: Signatures i descripcions de documents de l’Arxiu de les Set Claus, esp
 - Article nou: [La Vall defensa els privilegis davant el comte de Caramany (1618)](temes/historia/antic-regim/la-vall-defensa-els-privilegis-davant-caramany-1618.md)
 - Article nou: [La Vall demana mantenir el comerç amb França (1604)](temes/historia/antic-regim/la-vall-demana-mantenir-el-comerc-amb-franca-1604.md)
 - Article nou: [La Vall reivindica els seus jutges i els seus béns (1612)](temes/historia/antic-regim/la-vall-reivindica-els-seus-jutges-i-els-seus-bens-1612.md)
+
+### 123. 📝 incorpora El coronel Baulard — La peça del mes (2026)
+
+- Fitxa: [El coronel Baulard — La peça del mes (2026)](fonts/govern-peca-mes-revolucio-1933-2026.md)
