@@ -73,3 +73,10 @@ Abast: Unitat ACA-322, 28 folis catalogats, procés judicial de 1542
 - Fitxa: [ACA-322 — Procés pels emprius de Cantabrà i la Pera, 1542](fonts/aca-322-proces-emprius-1542.md)
 - Article nou: [El procés dels emprius de Cantabrà i la Pera, 1542](temes/historia/edat-mitjana/el-proces-dels-emprius-de-cantabra-i-la-pera-1542.md)
 - Material de partida: 4 fitxers a `raw/web/institucions/arxiu-nacional/arxiu-comunal-andorra/proces-empriu-cantabra-pera-1542/`
+
+### 6. 📝 incorpora ACA-323/324 — Original i traducció de la sentència de l’empriu de la Pera,…
+
+Abast: ACA-323 i ACA-324, inventari 23680, data 18 de desembre de 1572; traducció castellana i original llatí de la sentència
+
+- Fitxa: [ACA-323/324 — Original i traducció de la sentència de l’empriu de la Pera, 1572](fonts/aca-323-324-sentencia-pera-1572.md)
+- Material de partida: 7 fitxers a `raw/web/institucions/arxiu-nacional/arxiu-comunal-andorra/sentencia-pera-1572-original-traduccio/`
