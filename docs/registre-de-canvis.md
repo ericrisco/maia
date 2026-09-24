@@ -1186,3 +1186,10 @@ Abast: Jaciment de Camp Vermell de Sant Julià de Lòria: fases d'ocupació dels
 - Article nou: [El Consell protegeix el pa i refà el telèfon, 1917–1919](temes/historia/segle-xx-primera-meitat/el-pa-i-el-telefon-1917-1919.md)
 - Article nou: [Andorra demana franquícia a la Cerdanya, 1631–1646](temes/institucions/consell-general/andorra-demana-franquicia-cerdanya-1646.md)
 - Diari de treball: `raw/worklog/2026-09-23-arxiu-comunal-1917-1919.md`
+
+### 120. 📝 incorpora La peça del mes: l’enquesta de 1347
+
+Abast: Síntesi institucional de l’enquesta judicial d’Andorra del 9 d’octubre de 1347, cadena de còpies i testimoni de Guillem Capella
+
+- Fitxa: [La peça del mes: l’enquesta de 1347](fonts/govern-enquesta-1347-2026.md)
+- Article nou: [La memòria de la cosenyoria encara era viva el 1347](temes/historia/edat-mitjana/la-memoria-de-la-cosenyoria-1347.md)
