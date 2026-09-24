@@ -594,3 +594,13 @@ La fitxa pública de l’**ASC-3800** descriu una sentència de Felip II del 22 
 - Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/sentencia-treta-blat-1593/`
 - Diari de treball: `raw/worklog/2026-09-23-sentencia-treta-blat-1593.md`
 - Originals conservats només en local (sense dret de redistribució): 2 fitxers
+
+### 51. 📝 incorpora ASC-03801 — Sentència sobre el pont del Grau, 1595
+
+La fitxa pública de l’**ASC-03801** descriu una sentència del 8 de març de 1595 pel litigi entre les valls d’Andorra i els cònsols de la Seu d’Urgell sobre el pont del Grau, davant el Quer de Santa Llúcia, en el camí de la Seu a Andorra.
+
+- Fitxa: [ASC-03801 — Sentència sobre el pont del Grau, 1595](fonts/asc-03801-sentencia-pont-grau-1595.md)
+- Article nou: [El pont del Grau i el camí de la Seu a Andorra (1595)](temes/economia/transport/pont-grau-seu-andorra-1595.md)
+- Material de partida: 2 fitxers a `raw/web/institucions/arxiu-set-claus/pont-grau-1595/`
+- Diari de treball: `raw/worklog/2026-09-23-pont-grau-1595.md`
+- Originals conservats només en local (sense dret de redistribució): 5 fitxers
