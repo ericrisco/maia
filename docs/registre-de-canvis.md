@@ -1441,3 +1441,9 @@ Material de partida de l'Arxiu de les Set Claus (Arxiu Nacional d'Andorra): expe
 
 - Material de partida: 29 fitxers a `raw/academic/arxiu-nacional/inventari-set-claus/`, `raw/web/institucions/arxiu-set-claus/beques-noies-franca-1890/`, `raw/web/institucions/arxiu-set-claus/cartes-reina-navarra-1512/`, `raw/web/institucions/arxiu-set-claus/immunitat-1512/`, `raw/web/institucions/arxiu-set-claus/pagaments-oficis-consell-1820/`, `raw/web/institucions/arxiu-set-claus/pagaments-salut-consell-1820/` …
 - Diari de treball: `raw/worklog/2026-09-23-asc-16.md`
+
+### 159. 📝 afegeix els expedients del Tribunal de Corts i Terra de Bruixes
+
+Expedients digitalitzats del Tribunal de Corts (processos de bruixeria de 1621 i d'altres causes) i les captures del portal Terra de Bruixes, amb el cercador de 1621 exportat a TSV. Serveixen de base a les fitxes arxiu-en-linia-tc-* i a la història de la bruixeria a Andorra.
+
+- Material de partida: 19 fitxers a `raw/academic/arxiu-nacional/tribunal-corts/tc-6238/`, `raw/web/historia/terra-de-bruixes/`
