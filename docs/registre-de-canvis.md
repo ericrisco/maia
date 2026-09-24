@@ -96,3 +96,11 @@ Abast: ACA-46, ACA-47 i ACA-48, declaracions de veïns de la Cerdanya datades el
 
 - Fitxa: [Arxius en Línia — ACA-46, ACA-47 i ACA-48: declaracions sobre la sortida de blat, 1631](fonts/aca-46-48-declaracions-cerdanya-1631.md)
 - Material de partida: 41 fitxers a `raw/web/institucions/arxiu-nacional/arxiu-comunal-andorra/`, `raw/web/institucions/arxiu-nacional/arxiu-comunal-andorra/concòrdia-lles-1570/`, `raw/web/institucions/arxiu-nacional/arxiu-comunal-andorra/empriu-pera-arancer-1481/`, `raw/web/institucions/arxiu-nacional/arxiu-comunal-andorra/empriu-pera-audiencia-1572/`, `raw/web/institucions/arxiu-nacional/arxiu-comunal-andorra/emprius-lles-travesseres-1386/`, `raw/web/institucions/arxiu-nacional/arxiu-comunal-andorra/franquicia-cerdanya-1631-1634/` …
+
+### 9. 📝 incorpora ACA-5344 — Execució de la sentència sobre els emprius de Lles i Travesseres…
+
+La fitxa oficial **ACA-5344** del portal Arxius en Línia descriu l’execució, datada el 6 d’agost de 1386, d’una sentència dictada a Puigcerdà en el litigi entre la parròquia d’Andorra i Sibil·la, muller de Pere d’Aragall, pels emprius andorrans de Lles i Travesseres.
+
+- Fitxa: [ACA-5344 — Execució de la sentència sobre els emprius de Lles i Travesseres, 1386](fonts/aca-5344-emprius-lles-1386.md)
+- Article nou: [Andorra defensa els emprius de Lles i Travesseres, 1386](temes/historia/edat-mitjana/andorra-defensa-emprius-lles-travesseres-1386.md)
+- Diari de treball: `raw/worklog/2026-09-23-emprius-lles-travesseres-1386.md`
