@@ -612,3 +612,13 @@ La fitxa pública de l’**ASC-03801** descriu una sentència del 8 de març de 
 - Fitxa: [Súplica del síndic per treure sal de Cardona, 1520 — ASC-3913](fonts/asc-03913-suplica-sal-cardona-1520.md)
 - Article nou: [El síndic demana dos mesos per treure sal de Cardona, 1520](temes/economia/comerc/suplica-sal-cardona-1520.md)
 - Diari de treball: `raw/worklog/2026-09-23-suplica-sal-cardona-1520.md`
+
+### 53. 📝 incorpora ASC-03958 — Relació del blat portat de Cerdanya i repartit entre els veïns…
+
+## Objectiu
+
+- Fitxa: [ASC-03958 — Relació del blat portat de Cerdanya i repartit entre els veïns de la parròquia d’Encamp.](fonts/asc-03958-blat-encamp-1904.md)
+- Article nou: [El blat de Cerdanya es reparteix entre els veïns (1904)](temes/economia/comerc/blat-cerdanya-parroquies-1904.md)
+- Material de partida: 8 fitxers a `raw/web/institucions/arxiu-set-claus/blat-andorra-1904/`, `raw/web/institucions/arxiu-set-claus/blat-encamp-1904/`, `raw/web/institucions/arxiu-set-claus/blat-massana-1904/`, `raw/web/institucions/arxiu-set-claus/blat-ordino-1904/`
+- Diari de treball: `raw/worklog/2026-09-23-blat-cerdanya-parroquies-1904.md`
+- Originals conservats només en local (sense dret de redistribució): 12 fitxers
