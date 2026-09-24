@@ -323,3 +323,9 @@ La fitxa **ACA-5368** d’Arxius en Línia descriu una sentència de la Reial Au
 ### 18. 📝 incorpora Introducció als llibres d’actes del Consell General
 
 - Fitxa: [Introducció als llibres d’actes del Consell General](fonts/actes-historiques-introduccio-llibres.md)
+
+### 19. 📝 incorpora Llibre IV de les Actes del Consell General (1743–1864)
+
+- Fitxa: [Llibre IV de les Actes del Consell General (1743–1864)](fonts/actes-llibre-iv-1743-1864.md)
+- Article nou: [Els carlins arriben a les actes del Consell, 1838–1839](temes/historia/segle-xix/els-carlins-i-el-consell-1838-1839.md)
+- Article nou: [El Consell encarrega un «còdigo de lleys», 1860](temes/institucions/justicia/el-consell-encarrega-un-codi-de-lleis-1860.md)
