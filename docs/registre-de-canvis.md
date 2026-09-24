@@ -1374,3 +1374,10 @@ La ponència de Josep Parramon i Llavet, **«Constitució i sistema jurídicopol
 Abast: Identificació bibliogràfica de tres obres sobre xarxes de pas, maquis i refugiats als Pirineus i Andorra.
 
 - Fitxa: [Bibliografia editorial dels llibres sobre passadors i maquis](fonts/passadors-bibliografia-2026.md)
+
+### 149. 📝 revisa Xavier Planas, Carles Gascón, Juan Karlos Lopez-Mugartza i Mikel Belasko, «Anà…
+
+Abast: 300 pàgines. Resum, prefaci, procés de selecció (p. 91-95), capítol 6 «Anàlisi i correlacions» amb el quadre resum dels 18 grups (p. 269-272) i conclusions finals (p. 273-278) llegits i destil·lats. Les 18 fitxes de grup (p. 97-268) llegides en extracte, només destil·lada la de l'Hortó.
+
+- Fitxa: [Xavier Planas, Carles Gascón, Juan Karlos Lopez-Mugartza i Mikel Belasko, «Anàlisi fisiogràfica de topònims andorrans d'arrel preromana» (Govern d'Andorra, 2018)](fonts/planas-toponims-preromans-2018.md)
+- Article nou: [La tomba de Segudet, sota les escoles d'Ordino](temes/historia/origens/la-tomba-de-segudet.md)

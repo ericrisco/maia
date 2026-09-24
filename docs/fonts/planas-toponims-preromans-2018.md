@@ -15,7 +15,10 @@ notes: >
   de l'ajut, no de la publicació — segon cas documentat d'aquesta confusió al
   mateix fons. Equip interdisciplinari: un geòleg tècnic de riscos naturals del
   Govern, un historiador medievalista, i dos filòlegs bascos de la Societat
-  Basca d'Onomàstica. Cap text no entra en cap dataset.
+  Basca d'Onomàstica. Cap text no entra en cap dataset. S'ha obert també
+  l'annex local `3_Fitxa_Segudet.pdf`: la fitxa toponímica descriu el jaciment i
+  esmenta la tomba amb les restes humanes més antigues localitzades a Andorra.
+  La resta de les 81 fitxes de detall continua pendent.
 ---
 
 # Anàlisi fisiogràfica de topònims andorrans d'arrel preromana
@@ -47,12 +50,12 @@ de la mateixa societat. Assessorament d'**Albert Turull**.
 
 ## Buits registrats
 
-**Els annexos no s'han obert.** L'estudi remet repetidament a
+**La major part dels annexos no s'ha obert.** L'estudi remet repetidament a
 `www.cultura.ad/la-llengua-a-Andorra` per a l'annex 10.1 (les llistes dels 414 i
 els 174), l'annex 10.2 (els antecedents de Coromines i Anglada) i **les 81 fitxes
 fisiogràfiques de detall**. El fitxer que el portal ofereix com a «Annexos» pesa
-29 MB i **és un ZIP, tot i que es descarrega amb extensió `.pdf`**; és al disc i
-**no s'ha obert**.
+29 MB i **és un ZIP, tot i que es descarrega amb extensió `.pdf`**; la fitxa
+individual de Segudet és l'excepció que s'ha pogut llegir.
 
 **Les 18 fitxes de grup —p. 97 a 268, cent setanta pàgines— no s'han
 destil·lat.** Només se n'ha destil·lat una, la de l'Hortó. El que el corpus té
