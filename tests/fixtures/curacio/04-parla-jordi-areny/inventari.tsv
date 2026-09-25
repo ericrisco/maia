@@ -1,0 +1,10 @@
+id	tipus	seccio	desti	usos	decisio	motiu	volatilitat	estat_buit
+parla/oral/testimoni-constituent-jordiareny#b1	avis	(preàmbul)	-	-	excloure	fitxa editorial de la tanda; la durada passa al frontmatter	-
+parla/oral/testimoni-constituent-jordiareny#b2	avis	Avís	-	-	excloure	recompte de marques; passa al frontmatter (marques_incertes)	-
+parla/oral/testimoni-constituent-jordiareny#b3	consentiment	Consentiment	-	-	excloure	estat de drets; ja és a redistribucio de la fitxa de font	-
+parla/oral/testimoni-constituent-jordiareny#b4	taula-fitxa	Qui parla	-	-	excloure	passa al frontmatter com a «parlant»	-
+parla/oral/testimoni-constituent-jordiareny#b5	transcripcio	La transcripció	llengua	llengua	pendent	veu originària sense verificar contra l'àudio: pendent-escolta	-
+parla/oral/testimoni-constituent-jordiareny#b6	buit	Buits registrats	-	-	excloure	no-es-buit: limitació de la mostra	-	no-es-buit
+parla/oral/testimoni-constituent-jordiareny#b7	buit	Buits registrats	-	-	excloure	perfil del parlant: passa al frontmatter (generació, llengua primera, ofici: no consta)	-	parcial
+parla/oral/testimoni-constituent-jordiareny#b8	buit	Buits registrats	-	-	excloure	estat de drets, no pregunta de contingut	-	font_externa
+parla/oral/testimoni-constituent-jordiareny#b9	buit	Buits registrats	-	-	excloure	instrucció d'ús: passa al frontmatter com a citable_com_a_fet: false	-	font_externa

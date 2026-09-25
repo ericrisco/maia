@@ -1,0 +1,18 @@
+id	tipus	seccio	desti	usos	decisio	motiu	volatilitat	estat_buit
+temes/historia/moments-historics/els-vuit-centenaris#b1	cos	L'observació	chunks	coneixement,raft-context	incloure	cos amb cita en català (atribuïda); «2020» → 0.3	0.3
+temes/historia/moments-historics/els-vuit-centenaris#b2	cos	Què vol dir això	chunks	coneixement,raft-context	incloure	cos interpretatiu; «avui» → 0.4	0.4
+temes/historia/moments-historics/els-vuit-centenaris#b3	nota-treball	Els candidats, i què hi falta	-	-	excloure	el subjecte és «el corpus»	-
+temes/historia/moments-historics/els-vuit-centenaris#b4	nota-treball	Els candidats, i què hi falta	-	-	excloure	el subjecte és «el corpus» (anuncia conjectura)	-
+temes/historia/moments-historics/els-vuit-centenaris#b5	taula	Els candidats, i què hi falta	-	-	pendent	taula presentada com a conjectura pel mateix text («conjectura», «no quadra», «dubtós»); revisió humana	-
+temes/historia/moments-historics/els-vuit-centenaris#b6	nota-treball	Els candidats, i què hi falta	-	-	excloure	el subjecte és «el corpus»	-
+temes/historia/moments-historics/els-vuit-centenaris#b7	cos	Els candidats, i què hi falta	chunks	coneixement,raft-context	incloure	fet que la font dona (la proporció)	0.0
+temes/historia/moments-historics/els-vuit-centenaris#b8	cos	La lectura que el corpus n'extreu	chunks	coneixement,raft-context	incloure	cos interpretatiu amb cites atribuïdes; «en exercici» i «en actiu» són el mateix senyal → 0.4	0.4
+temes/historia/moments-historics/els-vuit-centenaris#b9	nota-treball	La lectura que el corpus n'extreu	-	-	excloure	el subjecte és «el corpus»	-
+temes/historia/moments-historics/els-vuit-centenaris#b10	buit	Buits registrats	buits	raft-sense-oracle	incloure	4 ítems: 1 parcial, 3 font_externa	-
+temes/historia/moments-historics/els-vuit-centenaris#b11	related	Related	-	-	excloure	navegació interna	-
+temes/historia/moments-historics/els-vuit-centenaris#c1	chunk	L'observació · Què vol dir això · Els candidats, i què hi falta	chunks	coneixement,raft-context	incloure	b1+b2+b7 (80+91+23 = 194 paraules); volatilitat = màxim dels blocs	0.4
+temes/historia/moments-historics/els-vuit-centenaris#c2	chunk	La lectura que el corpus n'extreu	chunks	coneixement,raft-context	incloure	b8 (132 paraules); nou chunk perquè c1 (194) + b8 passaria de 300; últim chunk del document, pot quedar sota 150	0.4
+temes/historia/moments-historics/els-vuit-centenaris#g1	buit	Buits registrats	buits	raft-sense-oracle	incloure	parcial: es conserva la troballa parcial	-	parcial
+temes/historia/moments-historics/els-vuit-centenaris#g2	buit	Buits registrats	buits	raft-sense-oracle	incloure	font_externa	-	font_externa
+temes/historia/moments-historics/els-vuit-centenaris#g3	buit	Buits registrats	buits	raft-sense-oracle	incloure	font_externa	-	font_externa
+temes/historia/moments-historics/els-vuit-centenaris#g4	buit	Buits registrats	buits	raft-sense-oracle	incloure	font_externa	-	font_externa

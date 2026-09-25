@@ -1,0 +1,11 @@
+id	tipus	seccio	desti	usos	decisio	motiu	volatilitat	estat_buit
+temes/esports/futbol/jordi-benet#b1	cos	El fet	chunks	raft-context	incloure	cos factual amb taula de fitxa	0.0
+temes/esports/futbol/jordi-benet#b2	cos	El que en destaca	chunks	raft-context	incloure	cita en català; s'elimina la frase «Tota la font és aquesta frase.»	0.0
+temes/esports/futbol/jordi-benet#b3	nota-treball	La carrera, club per club	-	-	excloure	paràgraf que comença per «Tancat el» + enllaç a raw/	-
+temes/esports/futbol/jordi-benet#b4	taula	La carrera, club per club	chunks	raft-context	incloure	taula de carrera (dins del chunk); rang obert «2000-» → 0.5	0.5
+temes/esports/futbol/jordi-benet#b5	taula	Les seleccions, totes	chunks	raft-context	incloure	taula de seleccions (dins del chunk)	0.0
+temes/esports/futbol/jordi-benet#b6	nota-treball	El que falta	-	-	excloure	blockquote d'auditoria («Auditat el»)	-
+temes/esports/futbol/jordi-benet#b7	buit	El que falta	-	-	excloure	ítem ratllat amb estat no-es-buit (placeholder)	-	no-es-buit
+temes/esports/futbol/jordi-benet#b8	buit	El que falta	-	-	excloure	ítem ratllat amb estat resolt (la resposta ja és a la taula)	-	resolt
+temes/esports/futbol/jordi-benet#b9	related	Related	-	-	excloure	navegació interna	-
+temes/esports/futbol/jordi-benet#c1	chunk	El fet · El que en destaca · La carrera, club per club · Les seleccions, totes	chunks	raft-context	incloure	b1+b2+b4+b5; volatilitat = màxim dels blocs (0.5, per b4) → no entra a coneixement	0.5

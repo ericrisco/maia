@@ -1,0 +1,10 @@
+id	tipus	seccio	desti	usos	decisio	motiu	volatilitat	estat_buit
+temes/historia/antic-regim/cens-anual-empriu-lles-1600#b1	cos	Un pagament que el catàleg fa explícit	chunks	coneixement,raft-context	incloure	cos factual	0.0
+temes/historia/antic-regim/cens-anual-empriu-lles-1600#b2	cos	Una prova parcial entre dos moments del conflicte	chunks	coneixement,raft-context	incloure	cos factual	0.0
+temes/historia/antic-regim/cens-anual-empriu-lles-1600#b3	nota-treball	Una prova parcial entre dos moments del conflicte	-	-	excloure	paràgraf de procedència editorial (enllaç a fonts/ + «s'ha revisat»)	-
+temes/historia/antic-regim/cens-anual-empriu-lles-1600#b4	related	Related	-	-	excloure	navegació interna	-
+temes/historia/antic-regim/cens-anual-empriu-lles-1600#b5	buit	Buits registrats	buits	raft-sense-oracle	incloure	buit obert	-	obert
+temes/historia/antic-regim/cens-anual-empriu-lles-1600#c1	chunk	Un pagament que el catàleg fa explícit · Una prova parcial entre dos moments del conflicte	chunks	coneixement,raft-context	incloure	b1+b2 (101+50 = 151 paraules)	0.0
+temes/historia/antic-regim/cens-anual-empriu-lles-1600#g1	buit	Buits registrats	buits	raft-sense-oracle	incloure	buit obert	-	obert
+temes/historia/antic-regim/cens-anual-empriu-lles-1600#g2	buit	Buits registrats	buits	raft-sense-oracle	incloure	buit obert	-	obert
+temes/historia/antic-regim/cens-anual-empriu-lles-1600#g3	buit	Buits registrats	buits	raft-sense-oracle	incloure	buit obert	-	obert
