@@ -1,7 +1,7 @@
 ---
 type: parla
-title: Qui eren els constituents
-description: "Els vint-i-vuit consellers que van aprovar la Constitució, amb la parròquia, el poble i la casa. La síntesi d'actes del Consell General ho dona i el bolcat de les entrevistes, no."
+title: Qui apareix a les llistes del Consell durant el procés constituent
+description: "Les llistes de tres sessions del Consell General de 1992 i 1993 identifiquen càrrecs, parròquia, poble i casa de diverses persones. No són una llista dels qui van aprovar la Constitució."
 tema: parla/oral
 veu: compilada
 epoca: contemporania
@@ -11,12 +11,19 @@ timestamp: 2026-09-18T21:30:00Z
 tags: [parla, testimoni, historia-oral, constitucio-1993, consell-general, metadades]
 ---
 
-# Qui eren els constituents
+# Qui apareix a les llistes del Consell durant el procés constituent
 
 **Escrit el 18-09-2026.** **Vint-i-dues fitxes de parla del corpus porten el
 mateix buit escrit amb les mateixes paraules**: «**Del parlant no consta** ni
 generació, ni origen, ni llengua primera, ni ofici». **Aquesta fitxa en tanca
 una part per a totes alhora**, i **ho fa amb una font que el corpus ja tenia.**
+
+**Abast corregit:** la taula següent combina les llistes d'assistents de les
+sessions del 22-04-1992, 05-06-1992 i 05-03-1993. No identifica els vint-i-vuit
+consellers que van aprovar la Constitució el 02-02-1993. La sessió del març és
+posterior a aquella aprovació i la taula també inclou les dues persones que hi
+consten com a secretari general. Per tant, aquest material documenta qui
+apareix a les llistes citades, no qui va votar el text constitucional.
 
 ## D'on surt
 
@@ -111,6 +118,13 @@ una.**
 era el 1980 o el 1985 ja hi era d'adult— però acotar no és datar, i el corpus no
 ho fa. Les dates de naixement demanarien el Registre Civil o les biografies del
 Consell General, que la seu no publica per a aquesta legislatura.`
+
+**Buit registrat:** no s'ha trobat a la síntesi consultada la llista nominal de
+la sessió del 02-02-1993 en què es va aprovar el text constitucional. No es pot
+reconstruir amb les llistes de sessions diferents qui hi era ni com va votar.
+La font utilitzada és una síntesi de 2024 amb prohibició expressa de reproducció;
+la unitat queda pendent fins a resoldre'n l'elegibilitat per a redistribució i
+verificar la llista exacta dels constituents amb una font reutilitzable.
 
 ## Una substitució que val la pena retenir
 

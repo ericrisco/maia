@@ -1,12 +1,12 @@
 ---
 type: article
 title: El registre d'entitats religioses
-description: "Des del 2025 una religió existeix legalment a Andorra amb vint persones i una resolució. L'Església catòlica no s'hi inscriu: notifica, i n'hi ha prou."
+description: "La Llei 2/2025 atorga personalitat jurídica a les entitats religioses no lucratives que compleixen els requisits i s'inscriuen. L'Església catòlica segueix la via pròpia de l'article 13."
 tema: temes/costums/religiositat
 veu: compilada
 epoca: contemporania
 apte_llengua: false
-font: jurisprudencia-ad
+font: bopa-ad
 timestamp: 2026-09-13T04:20:00Z
 tags: [religiositat, dret-vigent, coprincipat, esglesia-catolica, llibertat-religiosa, institucions]
 ---
@@ -17,10 +17,13 @@ tags: [religiositat, dret-vigent, coprincipat, esglesia-catolica, llibertat-reli
 registrats, i el sisè era **el marc legal**: què diu la Constitució sobre
 llibertat religiosa i quin estatut té l'Església catòlica.
 
-I el novè era una pregunta que la fitxa deia que **no fa cap font i és òbvia**:
-**com conviuen aquestes confessions amb un cap d'estat que és bisbe.**
+I el novè era com s'ordena jurídicament la relació entre les altres entitats
+religioses i l'Església catòlica.
 
-**Totes dues es responen amb el dret vigent** ([font](../../../fonts/jurisprudencia-ad.md)).
+La base d'aquesta lectura és la **Constitució, article 11**, i la **Llei 2/2025,
+del 23 de gener**, publicada al BOPA núm. 22, del 19 de febrer del 2025,
+articles 1–15 ([font BOPA](../../../fonts/bopa-ad.md); [text legal local,
+articles 1–15](../../../raw/lleis/bopa-originals/original-2-2025.txt)).
 
 ## El que diu la Constitució
 
@@ -47,14 +50,18 @@ les entitats de l'Església catòlica amb personalitat jurídica **segons les se
 pròpies normes** tenen «plena capacitat jurídica dins de l'àmbit de l'ordenament
 general andorrà».
 
-**Buit tancat**, i val la pena retenir l'apartat 1: **ningú no pot ser obligat a
-declarar la seva religió.** Això explica per què les xifres de confessions que té
-el corpus són **estimacions de premsa**: **no hi pot haver cens religiós**.
+L'apartat 1 estableix que **ningú no pot ser obligat a declarar la seva
+religió**. D'això no es pot inferir que sigui impossible qualsevol cens o
+enquesta: l'article 4 de la Llei 2/2025 preveu que consti al Registre el nombre
+aproximat de practicants de cada entitat inscrita. Aquesta dada registral no és
+un recompte de totes les persones d'una religió al país; el corpus no ha
+consultat les entrades concretes.
 
 ## Com neix legalment una religió a Andorra
 
 La **Llei qualificada del registre d'entitats religioses (Llei 2/2025)** crea el
-**Registre d'entitats religioses**, públic i adscrit al **ministeri de justícia**.
+**Registre d'entitats religioses**, públic i adscrit al **ministeri competent en
+matèria de justícia**.
 
 | Requisit | |
 | --- | --- |
@@ -64,8 +71,10 @@ La **Llei qualificada del registre d'entitats religioses (Llei 2/2025)** crea el
 | Què hi entra | **Esglésies, confessions i comunitats religioses** |
 | Efecte d'inscriure-s'hi | **Personalitat jurídica**, i els beneficis de les entitats sense ànim de lucre |
 
-**Vint persones i una resolució.** És el llindar legal per existir com a religió a
-Andorra.
+**Vint persones, almenys una de major d'edat, i una resolució.** Són requisits
+perquè una entitat religiosa no lucrativa s'inscrigui segons aquesta Llei; la
+inscripció li atorga personalitat jurídica. No és una afirmació que qualsevol
+religió o comunitat que no s'hi inscrigui deixi d'existir.
 
 ## Què hi ha d'haver escrit, i per què això importa al corpus
 
@@ -78,13 +87,13 @@ que aquesta branca té oberts**:
 | «**El nombre aproximat de persones practicants**» | «**Xifres oficials de confessions.** Les dues que hi ha són estimacions de premsa» |
 | «**El lloc o llocs de culte al Principat**» | «**Si hi ha mesquita o sala d'oració musulmana.** Prioritari» |
 
-**Des del 2025 aquestes tres coses han de constar en un registre públic.** El
-corpus **encara no en té el contingut** —i per això els buits segueixen oberts—,
-però **ja sap on són**, i això canvia la naturalesa del buit: de «potser no es pot
-saber» a «no s'ha consultat».
-
-I el registre **és públic**: l'article 2 hi remet la **Llei de transparència**
-(33/2021).
+**Aquestes dades han de constar en un registre que la Llei qualifica de públic.**
+L'article 2 remet a la Llei 33/2021 i l'article 8 preveu la consulta per la seu
+electrònica del ministeri competent o per escrit, amb identificació dels
+documents concrets i per a procediments acabats. Per tant, «públic» no vol dir
+necessàriament que les entrades es puguin cercar lliurement sense procediment.
+El corpus no ha consultat les entrades concretes ni en determina aquí el nombre
+o la distribució.
 
 ## Qui no hi pot entrar
 
@@ -109,10 +118,11 @@ L'article 3 posa dues exclusions, i totes dues diuen molt.
 **La prohibició va amb la seva pròpia contenció incorporada**: cal acreditar el
 risc i la mesura ha de ser proporcionada.
 
-## I ara, la pregunta que el corpus deia que ningú no feia
+## Dues vies de personalitat jurídica
 
-**Com conviu això amb un cap d'estat que és bisbe?** La resposta és l'**article
-13**, i és estructural:
+L'**article 13** estableix una via específica per a l'Església catòlica, diferent
+de la inscripció constitutiva que regula l'article 10 per a les entitats que
+compleixen els requisits de la Llei:
 
 | | **L'Església catòlica** | **Les altres** |
 | --- | --- | --- |
@@ -120,15 +130,16 @@ risc i la mesura ha de ser proporcionada.
 | Qui decideix | **L'autoritat eclesiàstica**; el Registre «n'acusa rebut de la notificació» | **El responsable del Registre**, nomenat pel Govern |
 | En què es funda | L'**article 11 de la Constitució** i l'**Acord entre el Principat i la Santa Seu** | Aquesta llei |
 
-**Una via és declarativa i l'altra és constitutiva.** L'Església catòlica **no
-demana: comunica**. La resta **demana**.
+**Una via és declarativa i l'altra és constitutiva.** Segons la Llei, l'autoritat
+competent del Bisbat **notifica** la personalitat canònica i el Registre n'acusa
+rebuda; les altres entitats adquireixen personalitat jurídica amb la inscripció
+prevista a l'article 10.
 
 I les ordres i congregacions catòliques **anteriors** a l'Acord amb la Santa Seu
 es poden notificar al Registre **«a efectes informatius»**.
 
-**Això no és una lectura del corpus: és com està escrit.** Vegeu
-[el Concordat del 2008](../../institucions/coprincipat/el-concordat-del-2008.md) i
-[el coprincipat](../../institucions/coprincipat/el-coprincipat.md).
+Vegeu també [el Concordat del 2008](../../institucions/coprincipat/el-concordat-del-2008.md)
+i [el coprincipat](../../institucions/coprincipat/el-coprincipat.md).
 
 ## Les altres peces
 
@@ -146,22 +157,11 @@ es poden notificar al Registre **«a efectes informatius»**.
 
 ## Buits registrats
 
-1. ~~**El contingut del Registre.** És públic i el corpus no l'ha
-   consultat.~~ — **`font_externa` el 18-09-2026**: **no és que no s'hagi
-   consultat, és que no es pot consultar des del teclat.** El 30-3-2026 la
-   consellera general Susanna Vela va haver d'entrar una **pregunta escrita
-   al Govern** per veure «la relació d'entitats inscrites»
-   ([font](../../../fonts/bondia-vela-registre-religioses-2026.md),
-   detallat a [les religions d'Andorra
-   avui](./les-religions-dandorra-avui.md#buits-registrats)). **La resposta
-   del Govern a aquella pregunta és ara el buit real, no el registre en
-   si.**
-2. ~~**Quantes entitats s'hi han inscrit** des del 2025.~~ — **`font_externa`,
-   confirmat el 20-09-2026**: la Llei 2/2025 estableix que el registre és
-   públic, però el corpus només conserva la sol·licitud oficial de Susanna Vela
-   del **30 de març de 2026** i no la resposta del Govern ni el contingut del
-   registre. El recompte depèn d'aquest document extern.
-3. ~~**Què hi havia abans del 2025.** Si les confessions no catòliques tenien
+1. **Les entrades actuals del Registre:** la Llei descriu les dades que hi han de
+   constar i el procediment d'accés, però el corpus no ha consultat cap entrada.
+   Per això aquesta fitxa no afirma quantes entitats hi ha inscrites, quines són
+   ni quins llocs de culte hi consten.
+2. ~~**Què hi havia abans del 2025.** Si les confessions no catòliques tenien
    alguna via de personalitat jurídica, i quina.~~ — **`parcial` el 2026-09-20**:
    la disposició transitòria de la **Llei 2/2025** confirma que les entitats
    religioses que ja estaven inscrites al **Registre d'associacions** podien
@@ -170,17 +170,17 @@ es poden notificar al Registre **«a efectes informatius»**.
    no identifica quines entitats hi havia ni permet reconstruir si totes les
    confessions no catòliques hi tenien personalitat jurídica**; per això queda
    oberta la composició concreta del registre anterior.
-4. ~~**L'Acord entre el Principat i la Santa Seu**, sencer.~~ — **`resolt` el
+3. ~~**L'Acord entre el Principat i la Santa Seu**, sencer.~~ — **`resolt` el
    18-09-2026, i era un buit duplicat**: **és el mateix Concordat del 2008**
    que [aquella fitxa](../../institucions/coprincipat/el-concordat-del-2008.md)
    ja té sencer, setze articles, a
    `docs/raw/relacions-exteriors/concordat-2008/` —**BOPA núm. 47, d'11 de juny
    del 2008.** Aquesta fitxa el citava com si encara faltés.
-5. ~~**Si s'ha denegat mai cap inscripció** per la clàusula de proselitisme.~~ —
+4. ~~**Si s'ha denegat mai cap inscripció** per la clàusula de proselitisme.~~ —
    **`font_externa`, confirmat el 20-09-2026**: la llei descriu els motius i el
    procediment de denegació, però el corpus no té resolucions ni resposta del
    registre que permetin saber si s'ha aplicat mai aquesta clàusula.
-6. ~~**Els canals de diàleg** de l'article 14: si existeixen.~~ — **`parcial`
+5. ~~**Els canals de diàleg** de l'article 14: si existeixen.~~ — **`parcial`
    el 2026-09-20**: l'article 14 obliga el Govern a establir canals de
    comunicació i diàleg amb les entitats inscrites, i l'exposició de motius
    documenta que per elaborar la llei es van mantenir reunions amb el **Grup de

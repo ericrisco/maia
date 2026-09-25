@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: bopa-ad
-timestamp: 2026-09-13T17:52:25Z
+timestamp: 2026-09-25T00:13:46Z
 tags: [territori, allaus, urbanisme, cartografia, dret]
 ---
 
@@ -71,11 +71,6 @@ construcció de les defenses complementàries.
 ([Text de 2016](../../../raw/allaus/bopa-reglament-2016.pdf), articles
 7.2, 14, 16.5 i 34, p. 4, 7–8 i 15.)
 
-Aquesta classificació té una finalitat diferent de les tres classes
-d'exposició del terreny [ATES](que-classifica-el-mapa-ates-dandorra.md)
-i dels cinc graus del [BPA](les-dates-i-lescala-del-butlleti-dallaus.md).
-Les sigles reglamentàries no assignen el perill meteorològic d'una jornada.
-
 ## Què canvia el 2023 als dominis esquiables
 
 El reglament de 2016 considera, com a regla general, proteccions permanents.
@@ -127,18 +122,15 @@ capçalera i article únic del decret, p. 1.)
 
 ## Buits registrats
 
-- ~~**Originals de 2016 i 2023 llegits complets**~~ — **`parcial` el
-  19-09-2026**: falta verificar exhaustivament modificacions posteriors,
-  revisions cartogràfiques i normativa urbanística relacionada; la cerca no
-  acredita que no n'hi hagi.
-- ~~**Els polígons reglamentaris, el Cadastre i un PIDA d'estació.**~~ —
-  **`font_externa` el 2026-09-22**: **la fitxa no ha consultat aquestes peces i
-  no assigna cap classificació a una parcel·la o instal·lació**. **Cal incorporar
-  la cartografia i el PIDA per fer una assignació concreta.**
-- ~~**Buit de 2012**~~ — **`resolt` el 18-09-2026**: decret llegit complet a les p.3938–3939
-   i contrastat amb els dos renders. L'estudi i els mapes aprovats
-  continuen pendents de consulta. La data original confirma l'any
-  corregit expressament el 2023; no es reescriu el text erroni de2016.
-- ~~Els intervals de pressió de l'article 5 original no expliciten de la
-  mateixa manera tots els extrems: alta ≥30 kPa, baixa >0 i ≤1, mitjana
-  entre 1 i 30. No es resol aquí l'assignació dels valors límit.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- La revisió contrasta els decrets de 2012 i 2016 amb la modificació de
+  2023, però no reconstrueix les modificacions posteriors, la cartografia
+  revisada ni tota la normativa urbanística relacionada. Per això no declara
+  quin és l'estat consolidat vigent el setembre de 2026.
+- No s'han consultat els mapes aprovats el 2012, els polígons reglamentaris,
+  el Cadastre d'allaus ni cap PIDA d'estació. L'article descriu les regles
+  publicades, però no classifica cap parcel·la, instal·lació o projecte.
+- L'article 5 de 2016 descriu la zona alta com a pressions de 30 kPa o més,
+  la baixa com a pressions superiors a 0 i iguals o inferiors a 1 kPa, i la
+  mitjana com a pressions compreses entre 1 i 30 kPa. No s'ha trobat en les
+  peces consultades una regla que aclareixi com s'assignen exactament els
+  valors límit de 1 i 30 kPa.

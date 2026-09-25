@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: bopa-ad
-timestamp: 2026-09-13T19:46:51Z
+timestamp: 2026-09-25T08:00:00Z
 tags: [treball, proteccio-social, desocupacio, reglament, cass]
 ---
 
@@ -36,7 +36,7 @@ el beneficiari a les branques general i de jubilació de la seguretat social i
 li descompta la cotització corresponent (26.2). Els requisits generals també
 compten: l'article 14.1 exigeix majoria d'edat o emancipació i insuficiència
 de recursos. L'article 2 remet als requisits d'accés de la Llei 6/2014.
-([Reglament de 2020, articles 2, 14 i 26](../../../raw/desocupacio/bopa-2020-10-07-reglament.txt).)
+([Reglament de 2020, articles 2, 14 i 26](../../../raw/desocupacio/bopa-2020-10-07-reglament.txt); [fitxa d'Estadística](../../../fonts/estadistica-ad.md)).
 
 La pèrdua de feina ha de ser aliena a la voluntat de l'assalariat. El text
 exclou el desistiment unilateral sense motiu justificat i la resolució per
@@ -122,34 +122,26 @@ La [lectura específica de la flexibilització de 2021](la-flexibilitzacio-de-la
 compara els cinc canvis i registra els dubtes sobre l'espera i les normes
 intermèdies que encara no s'han llegit.
 
-## Què tanca aquesta lectura
+## L'article 224 bis regula un altre supòsit
 
-El buit de [Treballar de temporada](treballar-de-temporada.md) ja té norma
-reguladora identificada i text original conservat. No s'havia de buscar només
-una llei amb el nom de la prestació: l'article operatiu és en un reglament.
-L'article 224 bis de la Llei de la seguretat social tracta un altre supòsit,
-el règim de les persones registrades que **no reben** aquesta prestació;
-no serveix com a llista de requisits per cobrar-la.
-([Text refós de 2018, article 224 bis, p. 60–61](../../../raw/desocupacio/bopa-seguretat-social-refos-2018.pdf).)
-
-El contrast amb el BOPA substitueix aquí la referència anterior al consolidat.
-La [lectura del règim especial](cotitzar-sense-cobrar-lajut-de-desocupacio.md)
-detalla cotització, reembossament i còmput per a pensions de reversió,
-i conserva la discrepància «voluntària/involuntària» del text de 2018.
+L'article 224 bis del text refós de la Llei de la seguretat social regula el
+règim de les persones registrades com a desocupades que **no reben** aquesta
+prestació; no és la llista de requisits per accedir a l'ajut econòmic descrit
+aquí. ([Text refós de 2018, article 224 bis, p. 60–61](../../../raw/desocupacio/bopa-seguretat-social-refos-2018.pdf).)
 
 ## La compensació per comiat endarrereix l'ajut
 
-La regla d'increment de l'article 26.4.d no és neutra: **lliga l'espera a la
-indemnització cobrada**. El text la formula així —«aquest període s'incrementa en
-un nombre equivalent a la meitat dels dies corresponents a la compensació
-econòmica per comiat que eventualment hagi percebut la persona sol·licitant fins
-a un màxim de 120 dies»— i el corpus ja té l'altra meitat del càlcul:
-[l'acomiadament no causal costa 25 dies de sou per any treballat, amb un màxim de
-365](el-preu-de-lacomiadament.md) (article 84.1 del Codi de relacions laborals).
+L'article 26.4.d vincula el període d'espera a la compensació econòmica per
+comiat: «aquest període s'incrementa en un nombre equivalent a la meitat dels
+dies corresponents a la compensació econòmica per comiat que eventualment hagi
+percebut la persona sol·licitant fins a un màxim de 120 dies». L'article 84.1
+de la Llei 31/2018, de relacions laborals, fixa la compensació per acomiadament
+no causal en 25 dies de salari per any treballat, amb un màxim de 365 dies
+([Llei 31/2018, article 84.1](../../../raw/lleis/bopa/llei-31-2018-relacions-laborals.txt#article-84.1);
+[Llei 3/2026, article 3, que modifica l'apartat 4 de l'article 84](../../../raw/lleis/bopa/llei-3-2026-mod-relacions-laborals.txt#article-3)).
 
-**Hipòtesi de càlcul del corpus, pendent de verificació administrativa:** la
-taula tracta els 120 dies com a topall de l'increment. No s'ha comprovat que
-aquesta sigui la interpretació aplicada del límit del 26.4.d.
+**Exemples aritmètics sota la hipòtesi que els 120 dies limiten l'increment de
+l'espera:**
 
 | Anys treballats | Compensació (25 dies/any) | Meitat | Espera afegida |
 | --- | --- | --- | --- |
@@ -159,10 +151,10 @@ aquesta sigui la interpretació aplicada del límit del 26.4.d.
 | 14,6 anys o més | 365 dies (màxim legal) | 182,5 | **120 dies** |
 
 **Sota aquesta hipòtesi, el topall s'assoliria cap als deu anys d'antiguitat**.
-**El càlcul és del corpus**: el reglament
-dona la regla i el Codi de relacions laborals l'escala, i cap dels dos textos
-publica aquesta taula. La conversió de «la meitat» quan el resultat és fraccionari
-no la resol el text.
+Aquests exemples combinen dos preceptes; cap dels textos no publica aquesta
+taula. No s'ha verificat administrativament que el límit de 120 dies s'apliqui
+a l'increment de l'espera. El text tampoc no explica com arrodonir «la meitat»
+quan el resultat és fraccionari.
 ([Article 26.4.d](../../../raw/desocupacio/bopa-2020-10-07-reglament.txt).)
 
 ## L'ajut depèn d'un permís que depèn de tenir feina
@@ -190,40 +182,51 @@ perquè la comparació entre les dues còpies es pugui refer. **No són evidènc
 independent**: la consolidació parteix del BOPA, i podrien ser també artefactes
 d'extracció compartits.
 
-## Set modificacions després del 2020, i cap toca l'article 26
+## Quines versions de l'article 26 s'han contrastat
 
-**El reglament d'avui és el segon, no el primer.** El **Decret del 3-7-2019**
-va aprovar el Reglament de les prestacions econòmiques dels serveis socials i
-sociosanitaris; el **Decret del 7-10-2020** el va substituir. Sobre el del 2019
-només hi van caure dues modificacions temporals i excepcionals —**la del
-17-4-2020**, que **és l'única de tota la cadena que reescriu l'article 26** i que
-hi afegeix un **article 26 bis**, i **la del 9-9-2020**, que hi afegeix un
-**article 28 bis**.
+El Reglament del 7-10-2020 va substituir el del 3-7-2019 i va tornar a
+numerar diversos apartats de l'article 26. La seva exposició de motius diu que
+el requisit de la lletra f del paràgraf 4 del text anterior quedava recollit
+amb més amplitud a la lletra h; per això les referències d'aquesta lectura són
+a la versió del 2020. ([Reglament del 2020](../../../raw/desocupacio/bopa-2020-10-07-reglament.txt).)
 
-**Sobre el del 2020 n'hi ha set, i cap no entra a l'article 26.** Són el
-**Decret del 16-12-2020** (afegeix un **26 bis**, no toca el 26), el **191/2022**,
-el **476/2022** (**19 bis**, ajuts per a la despesa de calefacció), el
-**531/2022**, el **585/2023** —els tres primers i aquest allarguen mesures
-temporals sobre l'**article 27**, prorrogades fins al 31 de desembre del 2022, del
-2023 i del 2024—, el **486/2024** i el **471/2025**, tots dos sobre l'**article
-17**, ajuts per a l'habitatge de lloguer. **La redacció de l'article 26 que
-aquesta fitxa buida és, doncs, la publicada el 7-10-2020 i encara vigent.**
+La redacció del 2020 va tenir dues mesures excepcionals posteriors relacionades
+amb la desocupació. El Decret del 16-12-2020 va afegir l'article 26 bis per a
+persones que no havien pogut començar a treballar en la temporada d'esquí. El
+Decret 44/2021 del 17-02-2021 va derogar aquella mesura i va flexibilitzar
+temporalment els requisits dels apartats 26.4.c, d, i i j i el període de
+treball per tornar a sol·licitar l'ajut de l'apartat 26.12. La flexibilització
+va ser aplicable fins que el Govern l'acordés deixar sense efecte o, com a
+màxim, fins al 30-06-2021, inclòs. Per tant, les condicions de 2021 no es
+barregen amb la taula de la redacció general de 2020.
+([Decret del 16-12-2020](../../../raw/desocupacio/bopa-2020-12-16-decret.txt);
+[Decret 44/2021](../../../raw/desocupacio/bopa-2021-44-flexibilitzacio.txt).)
 
-**El recompte de versions no quadra amb el consolidat.** El
-[consolidat de Jurisprudència.ad](../../../raw/desocupacio/jurisprudencia-reglament-2020-consolidat-2026-09-13.txt)
-anuncia **deu versions**; al Butlletí la cadena del Decret del 7-10-2020 en dona
-**vuit** —el text base i set modificacions—, i la cerca a text complet no en
-retorna cap més sota cap altra formulació del títol. **La diferència no s'ha
-pogut explicar**: podria ser que el consolidat compti també el reglament del 2019
-i les seves dues modificacions, o que compti alguna correcció d'errata. **La llista
-del Butlletí és la que aquesta fitxa fa servir, perquè cada peça hi és
-descarregada i comprovable** (`docs/raw/desocupacio/bopa-prestacions-*.txt`).
+La cerca a text complet del BOPA conservada per aquesta revisió identifica,
+després d'aquesta flexibilització, els decrets 191/2022, 476/2022, 531/2022,
+585/2023, 486/2024 i 471/2025. Aquests textos tracten altres articles del
+Reglament; la lectura d'aquesta tanda no hi ha identificat cap canvi posterior
+a l'article 26. La correcció d'errata del 03-03-2021 rectifica la disposició
+derogatòria del Decret del 2020, no l'article 26.
+([registre de la revisió i els textos BOPA examinats](../../../raw/curacio/revisio-ajut-desocupacio-en-curs-01.md)).
 
-## Quanta gent la cobra: setanta-una sol·licituds favorables el 2024
+El consolidat consultat a Jurisprudència.ad el 13-09-2026 anuncia deu versions
+del Reglament, recompte que no s'ha reconciliat amb les peces que la cerca
+BOPA ha retornat. Aquesta lectura compara els textos indicats aquí; no certifica
+quins requisits s'apliquen a una sol·licitud posterior al 13-09-2026.
+([Consolidat consultat el 13-09-2026](../../../raw/desocupacio/jurisprudencia-reglament-2020-consolidat-2026-09-13.txt).)
 
-El corpus tenia la norma i cap beneficiari. El Departament d'Estadística en
-publica el recompte cada any amb els **registres del Departament d'Afers
-Socials** (activitat **A052**). **Any 2024:**
+## Quantes sol·licituds van rebre una resolució favorable
+
+Les notes A052 del Departament d’Estadística publiquen resultats elaborats a
+partir dels **registres del Departament d’Afers Socials**. Les xifres següents
+combinen la nota del 2024 amb la publicació oficial del 2025 consultada el
+25-09-2026 i, per als anys anteriors, la captura de l’API del 18-09-2026. La
+unitat varia entre sol·licituds, llars i persones; els recomptes no s’han de
+confondre. Les activitats estadístiques A052 consten als plans estadístics i
+els seus resultats es difonen sota llicència oberta amb citació de la font
+([Llei 13/2022, art. 21.2](../../../raw/estadistica-prestacions/llei-13-2022-pla-estadistica.html);
+[Llei 27/2025, art. 21.2 i A052](../../../raw/estadistica-prestacions/llei-27-2025-pla-estadistica.html)).
 
 | | 2023 | 2024 |
 | --- | --- | --- |
@@ -234,87 +237,74 @@ Socials** (activitat **A052**). **Any 2024:**
 | **Persones beneficiàries** (tots els membres de la llar) | — | **139** |
 | **Import mitjà per llar** | — | **5.229,75 €** (**−9,4%**) |
 
-**La unitat de recompte no és una sola, i aquesta és la part que calia fixar
-abans de citar cap xifra.** **107 sol·licituds** donen **71 resolucions
-favorables**, que arriben a **64 llars**, dins de les quals hi ha **139
-persones**. **Una de cada tres sol·licituds es denega.**
+Les **107 sol·licituds** van donar lloc a **71 resolucions favorables** i 36
+desfavorables. Les resolucions favorables corresponen a **64 llars** i
+**139 persones**. Les unitats descriuen fases diferents del recompte.
 
-**Qui la cobra.** **Les dones són el 67,6%** dels ajuts i els homes el 32,4%. El
-tram d'edat amb més beneficiaris és el de **50 a 54 anys** (11,3%). Per tipus de
-llar, **unipersonals 26 ajuts (36,6%)** i **monoparentals 14 (19,7%)**: **més de
-la meitat dels ajuts van a llars d'un sol adult**. Per nacionalitat del
-sol·licitant, **andorrans 47,9%** i **espanyols 23,9%**.
+**Qui rep la resolució favorable.** Les dones representen el **67,6%** de les
+71 sol·licituds favorables i els homes el **32,4%**. El desglossament per sexe
+i edat compta 8 sol·licituds de dones de 50–54 anys (11,3%) i 8 d'homes de
+60–64 anys (11,3%); sumades per edat, les de 60–64 anys són el grup més gran,
+amb **14 sol·licituds (19,7%)**. Per tipus de família, hi ha 26 sol·licituds
+unipersonals (36,6%) i 14 monoparentals (19,7%), 40 de 71 en conjunt. Per
+nacionalitat, les sol·licituds favorables són andorranes en un 47,9% i
+espanyoles en un 23,9%.
 
-**La xifra que situa la resta.** **Seixanta-quatre llars** en un país amb
-**44.729 assalariats**
-([els salaris](./el-salari-minim-de-362-pessetes-a-9-euros.md#el-minim-contra-el-que-es-cobra-de-veritat)).
-**L'ajut per desocupació involuntària arriba, de fet, a molt poca gent** — i el
-corpus ja havia llegit per què: els requisits de l'article 26 són acumulatius i
-el permís de residència i treball hi depèn.
+El nombre de llars beneficiàries va créixer un 16,4% respecte del 2023, mentre que l’import mitjà per llar va disminuir un 9,4%.
 
-**I l'import mitjà baixa mentre els beneficiaris pugen**: les llars creixen un
-16,4% i l'import mitjà per llar cau un 9,4%.
+### Sol·licituds i prestacions, 2015–2025
 
-### Onze anys, i el 2025 és el mínim
+La captura de l’API del 18-09-2026 aporta valors per al període 2015–2025
+(divisions 2829 i 2831; [fitxer de prestacions](../../../raw/estadistica-api/prestacions/prestacions-api-2026-09-18.tsv)). Per al 2025, s’hi fan servir les dades més recents de l’A052 oficial, consultat el 25-09-2026 ([publicació A052 2025](../../../raw/estadistica-prestacions/transparencia-afers-socials-2026-09-25.html)).
 
-**Afegit el 18-09-2026** (`docs/raw/estadistica-api/prestacions/`, divisions
-2829-2937). **El corpus tenia un any i ara en té onze.**
-
-| Any | Sol·licituds | Prestacions | Taxa favorable |
+| Any | Sol·licituds | Prestacions concedides | Taxa favorable |
 | --- | ---: | ---: | ---: |
 | 2015 | 386 | 235 | 60,9% |
 | 2016 | 337 | 255 | **75,7%** |
+| 2017 | 177 | 107 | 60,5% |
 | 2018 | **126** | 74 | 58,7% |
+| 2019 | 139 | 97 | 69,8% |
 | **2020** | 500 | 290 | 58,0% |
 | **2021** | **684** | **385** | 56,3% |
 | **2022** | **138** | **83** | 60,1% |
+| 2023 | 120 | 70 | 58,3% |
 | 2024 | 107 | 71 | 66,4% |
-| **2025** | **59** | **31** | **52,5%** |
+| **2025** | **62** | **31** | **50,0%** |
 
-**El 2021 es van demanar 684 prestacions per desocupació involuntària i el 2025
-se'n van demanar 59.** **Una caiguda del 91,4% en quatre anys**, i **el salt
-gros és del 2021 al 2022**: **de 684 a 138, un −79,8% en un sol any.**
+El 2021 hi va haver 684 sol·licituds i el resultat A052 de 2025 en publica 62:
+la diferència és del 90,9%. Entre 2021 i 2022, els recomptes de la taula passen
+de 684 a 138, una disminució del 79,8%. Dels valors mostrats, el 2025 té el
+recompte publicat més baix (62), el nombre més baix de prestacions concedides
+(31) i la taxa favorable més baixa (50,0%). La comparació del total de
+sol·licituds requereix cautela: la publicació A052 inclou tres casos no
+resolts, mentre que la captura API del 2025 en registra 59, igual a la suma de
+31 favorables i 28 desfavorables. No s'ha documentat si els totals de l'API
+dels anys anteriors segueixen el mateix criteri de recompte.
 
-**El 2025 és el mínim de les tres columnes**: **menys sol·licituds que mai,
-menys prestacions que mai i la taxa favorable més baixa de la sèrie.**
+El nombre de sol·licituds baixa després del 2021, quan s’aplicava una flexibilització temporal dels requisits ([Decret 44/2021](../../../raw/desocupacio/bopa-2021-44-flexibilitzacio.txt)). Les dades no permeten separar l’efecte del canvi normatiu del comportament del mercat de treball.
 
-`La sèrie segueix el mercat de treball —el 2021 hi havia 42.931 assalariats al
-desembre i el 2025 n'hi ha 49.409— i també la flexibilització del 2021, que
-aquesta mateixa branca del corpus documenta
-([la flexibilització](./la-flexibilitzacio-de-la-desocupacio-el-2021.md)). El
-corpus no separa què és mercat i què és norma.`
+De les 31 prestacions concedides el 2025, 17 corresponen a persones andorranes,
+7 a altres nacionalitats, 5 a espanyoles i 2 a franceses; no n’hi ha cap de
+portuguesa. El 2015, 53 de les 235 prestacions concedides corresponien a
+persones portugueses. (Divisió 2834, [fitxer de prestacions](../../../raw/estadistica-api/prestacions/prestacions-api-2026-09-18.tsv).)
 
-**Per nacionalitat, el 2025 és una xifra molt petita i val la pena dir-la
-sencera**: **17 andorrans, 7 d'altres nacionalitats, 5 espanyols, 2 francesos i
-cap portuguès**, de 31. `El 2015 els portuguesos n'eren 53 de 235.`
+## Els demandants d'ocupació, 2008–2026
 
-## Els demandants d'ocupació, des del 2008
+La divisió 455 de l'API del Departament d'Estadística compta les persones
+inscrites com a demandants d'ocupació a final de cada mes; la captura del
+18-09-2026 arriba fins a l'agost del 2026 ([fitxer de mercat laboral](../../../raw/estadistica-api/treball-mercat/treball-mercat-api-2026-09-18.tsv)). El seu total és un registre
+administratiu, diferent de la taxa d'atur publicada a la divisió 2646 del
+sistema d'indicadors en estadística comunitària europea ([fitxer d'indicadors](../../../raw/estadistica-api/comparacio-internacional/comparacio-internacional-api-2026-09-18.tsv), divisió 2646).
 
-> **Afegit el 18-09-2026** amb la branca de mercat de treball de l'API del
-> **Departament d'Estadística** (`docs/raw/estadistica-api/treball-mercat/`,
-> **CC BY 4.0**). **El que aquesta sèrie compta són els demandants d'ocupació
-> inscrits al Servei d'Ocupació a final de cada mes, des del gener del 2008.**
+| | 2018 | 2019 | **2020** | 2021 | 2022 | **2023** |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: |
+| **Taxa d'atur** | 1,8 | 2,2 | **3,1** | 3,3 | 2,1 | **1,6** |
+| **Taxa d'ocupació (15–64)** | 80,7 | 79,5 | 80,1 | 81,5 | 82,5 | **83,2** |
 
-> **Esmena del mateix dia, i val la pena que quedi escrita.** **Aquesta secció
-> deia primer que «Andorra no publica taxa d'atur». És fals.** **La publica al
-> sistema d'indicadors en estadística comunitària europea**
-> (`docs/raw/estadistica-api/comparacio-internacional/`), **on hi ha taxa
-> d'atur, taxa d'ocupació i taxa d'activitat des del 2018**:
->
-> | | 2018 | 2019 | **2020** | 2021 | 2022 | **2023** |
-> | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-> | **Taxa d'atur** | 1,8 | 2,2 | **3,1** | 3,3 | 2,1 | **1,6** |
-> | **Taxa d'ocupació (15-64)** | 80,7 | 79,5 | 80,1 | 81,5 | 82,5 | **83,2** |
->
-> **Sis anys, no una sèrie llarga**, i **el 2024 de la mateixa taula dona `0`
-> a l'atur i `0,8` a l'ocupació i a l'activitat**: **són valors buits o
-> placeholders, no dades, i el corpus no els cita.** **El defecte queda
-> registrat.**
->
-> **Les dues coses mesuren coses diferents i totes dues fan falta**: **la taxa
-> ve d'una enquesta de forces de treball amb definició europea**; **els
-> demandants són un registre administratiu** i **arrenquen catorze anys
-> abans.**
+La captura de la divisió 2646 retorna `0` per a la taxa d'atur del 2024 i `0,8`
+per a ocupació i activitat. No n'explica el significat, de manera que no
+s'interpreten com a valors vàlids ni s'inclouen en la comparació. No s'ha
+consultat aquí la metodologia de l'enquesta que origina les taxes.
 
 | Desembre de | Demandants |
 | --- | ---: |
@@ -332,10 +322,18 @@ cap portuguès**, de 31. `El 2015 els portuguesos n'eren 53 de 235.`
 i **el segueixen l'abril i el març del 2021**. **El mínim és l'agost del 2008,
 amb 346.**
 
-**Dues crisis de forma diferent.** **La del 2012 puja a poc a poc i triga quatre
-anys a desfer-se** —de 550 el 2008 a 1.060 el 2012 i de nou a 417 el 2016—;
-**la del 2020 arriba de cop, triplica en pocs mesos i es desfà en tres anys.**
-**El desembre del 2025, amb 483, és el segon valor més baix de la sèrie.**
+**La sèrie mostra pujades diferents.** Entre desembre del 2008 i desembre del
+2012 el recompte va passar de 550 a 1.060 persones i el desembre del 2016 era
+de 417. Entre desembre del 2019 (653) i el màxim mensual del maig del 2020
+(2.214) es va més que triplicar; després va baixar i el maig del 2023 era de
+669. Aquestes són variacions del registre mensual, no una estimació de la taxa
+d’atur.
+**Entre els 18 valors de desembre del 2008 al 2025, el desembre del 2025 (483)
+és el segon més baix**, després del desembre del 2016 (417). La captura
+descarregada el 18-09-2026 arriba fins a l'agost del 2026: 429 demandants, el
+quart valor mensual més baix en les 224 observacions. Els tres valors inferiors
+són l'agost del 2008 (346), el setembre del 2008 (404) i el desembre del 2016
+(417).
 
 ### Qui són, el desembre del 2025
 
@@ -351,9 +349,10 @@ anys a desfer-se** —de 550 el 2008 a 1.060 el 2012 i de nou a 417 el 2016—;
 | Ocupat demandant de serveis | 74 |
 | Baixa mèdica de més de sis mesos | 1 |
 
-**Aquesta taula és la que decideix com s'ha de llegir la sèrie**: **de les 483
-persones inscrites, 198 busquen feina sense tenir-ne.** **Les altres 285 en
-tenen.** **Prendre el total com si fos atur el multiplica per dos i mig.**
+De les 483 persones inscrites, 198 figuren «en recerca». Altres 284 consten
+com a ocupades: 210 «en millora» i 74 «ocupat demandant de serveis». Una
+persona figura en baixa mèdica de més de sis mesos. Per tant, el total de
+demandants inscrits no equival al recompte de persones «en recerca».
 
 | Temps de residència | |
 | --- | ---: |
@@ -362,8 +361,9 @@ tenen.** **Prendre el total com si fos atur el multiplica per dos i mig.**
 | 10-19 anys | 67 |
 | 5-9 anys | 55 |
 
-**Sis de cada deu demandants porten vint anys o més al país.** **No és una
-sèrie de nouvinguts.**
+291 de les 483 persones (60,2%) figuren al grup amb vint anys o més de
+residència al país. La taula descriu temps de residència, no l'any d'arribada
+ni la trajectòria migratòria individual.
 
 | Nacionalitat | |
 | --- | ---: |
@@ -374,93 +374,53 @@ sèrie de nouvinguts.**
 | Francesa | 11 |
 
 **La nacionalitat andorrana és el 46,4% dels demandants** i **el 44,7% de la
-població** —39.815 de 89.058 el 2025—, **de manera que està representada
-gairebé en proporció**
-([la població per nacionalitat](../../institucions/nacionalitat-i-residencia/nacionalitat-i-residencia.md)).
-**Qui hi és per sota és la nacionalitat francesa** —**11 demandants, el
-2,3%, amb el 4,6% de la població**— **i la portuguesa** —**34, el 7,0%, amb
-el 9,5%**—.
+població** —39.815 de 89.058 el 2025—. A la captura de l'API, la població
+andorrana és el 44,7%, la francesa el 4,6% i la portuguesa el 9,5% (divisions
+1099 i 797); les proporcions dels demandants són 46,4%, 2,3% i 7,0%,
+respectivament. Les dades provenen de les [divisions 1099](../../../raw/estadistica-api/resta-del-cataleg/resta-cataleg-api-2026-09-18.tsv) i [797](../../../raw/estadistica-api/poblacio/poblacio-api-2026-09-18.tsv). Aquesta comparació descriu dos recomptes agregats i no n'explica les diferències.
 
-### I la xifra que posa l'ajut al seu lloc
+### Sol·licituds anuals i demandants inscrits són recomptes diferents
 
-**El desembre del 2025 hi ha 198 persones inscrites en recerca de feina**, i
-**el 2025 el país va rebre 59 sol·licituds d'ajut per desocupació
-involuntària** —la xifra que aquesta fitxa ja tenia—. **Menys d'una de cada
-tres.**
+El 2025 es van presentar 62 sol·licituds d’ajut segons l’A052 oficial. El desembre del mateix any hi
+havia 198 persones inscrites en recerca de feina. El primer és un flux anual de
+sol·licituds i el segon un recompte administratiu a final de mes; no permeten
+calcular quantes persones inscrites compleixen els requisits ni quantes van
+sol·licitar l’ajut.
 
-`El corpus no diu per què. Les dues xifres no són la mateixa cosa —una és un
-estoc a final de mes i l'altra un flux anual, i les condicions de l'article 26
-en deixen fora molta gent— però la distància és prou gran per registrar-la.`
+La nota A052 2025 compta **62 sol·licituds**, de les quals 31 favorables, 28
+desfavorables i 3 sense resoldre. La captura API del 18-09-2026 dona **59**
+per a la divisió 2829 i 31/28 per a favorables/desfavorables; no explica la
+diferència. Com que 31 + 28 = 59, la captura coincideix amb les resolucions,
+mentre que la publicació A052 compta també les tres no resoltes. La taula usa el
+recompte de 62 i la taxa de 50,0% de la publicació més recent; el desacord amb
+l’API queda registrat a [l’informe de revisió](../../../raw/curacio/revisio-ajut-desocupacio-en-curs-01.md).
 
 ## Buits registrats
 
-- ~~**Contrast del 224 bis tancat parcialment:** article complet del
-  text refós de 2018 llegit al BOPA i vist a p. 60–61; article 35 del
-  reglament d’afiliació de 2024 llegit i vist a p. 9. La
-  [lectura específica](cotitzar-sense-cobrar-lajut-de-desocupacio.md)
-  manté pendents la cadena posterior, la discrepància literal i l’aplicació.~~ —
-  **`resolt` el 17-09-2026**: **la cadena posterior està tancada** a la
-  [lectura específica](cotitzar-sense-cobrar-lajut-de-desocupacio.md); cap de
-  les vuit lleis modificadores de la seguretat social no toca el 224 bis després
-  del 2014.
-  No modifica els requisits de l’ajut econòmic descrits aquí.
-
-- ~~**Vigència completa a 13-09-2026 pendent.** S'ha contrastat l'article 26 amb
-  el [consolidat de Jurisprudència.ad consultat](../../../raw/desocupacio/jurisprudencia-reglament-2020-consolidat-2026-09-13.txt),
-  que anuncia deu versions i no aporta data de publicació ni referència BOPA
-  a la capçalera. La coincidència de redacció no demostra una cadena completa
-  de modificacions. No s'han llegit totes les deu versions ni totes les
-  disposicions transitòries posteriors.~~ — **`resolt` el 17-09-2026** a «[Set
-  modificacions després del 2020, i cap toca l'article
-  26](#set-modificacions-despres-del-2020-i-cap-toca-larticle-26)»: **la cadena
-  és completa i baixada del Butlletí**, i **cap modificació no entra a l'article
-  26**. `Queda obert per què el consolidat n'anuncia deu i el Butlletí en dona
-  vuit.`
-- ~~**Errata llegida:** la [correcció del 03-03-2021](../../../raw/desocupacio/bopa-2021-03-03-errata.txt)
-  preserva expressament el decret sobre l'ajut per cuidar menors o persones
-  amb discapacitat en aïllament; no corregeix l'article 26.~~ —
-  **`no-es-buit`**: és una nota de lectura de l'errata, no una pregunta
-  pendent.
-- ~~**Requisits econòmics sense reconciliar; originals comprovats:** l'article
-  14.1.a.i del [PDF original de 2020, p. 11–12](../../../raw/desocupacio/bopa-reglament-2020-original.pdf)
-  diu que el patrimoni «iguala el barem de valoració patrimonial»; l'article
-  2.m de la [Llei 6/2014 original, p. 2226–2227](../../../raw/desocupacio/bopa-llei6-2014-original.pdf)
-  diu que la valoració dels béns no supera la puntuació establerta.
-  La inspecció de les pàgines tanca el buit de contrast amb els originals,
-  però queden pendents eventuals correccions i la interpretació aplicada.
-  No se'n deriva un criteri d'elegibilitat. La
-  [lectura del barem patrimonial](el-barem-patrimonial-i-els-ajuts.md)
-  diferencia les redaccions de 2014 i 2018.~~ — **`resolt` com a duplicat el
-  19-09-2026**: la discrepància i els residus d'interpretació es conserven com
-  a buit canònic a [El barem patrimonial i els ajuts](el-barem-patrimonial-i-els-ajuts.md).
-- ~~No s'ha calculat un import net en euros del 2026, ni verificat els tractats
-  aplicables a fronterers, els casos individuals de temporers o la pràctica
-  administrativa i judicial sobre aquests requisits.~~ — **`font_externa` el
-  2026-09-22**: cal consultar la normativa econòmica vigent, els tractats de
-  frontera, expedients de temporers i resolucions administratives o judicials.
-- ~~S'han localitzat pistes de balanços estadístics del Govern, però no s'han
-  incorporat xifres de beneficiaris: falta verificar la unitat de recompte,
-  el període i els termes d'ús de la peça concreta.~~ — **`resolt` el
-  17-09-2026**: la peça és la nota **A052** del Departament d'Estadística
-  (03-04-2025, dades de l'**any 2024**, **font: registres del Departament
-  d'Afers Socials**, **CC BY 4.0**). **La unitat de recompte són quatre i no
-  una** —sol·licituds, resolucions favorables, llars i persones—: vegeu
-  [Quanta gent la cobra](#quanta-gent-la-cobra-setanta-una-sollicituds-favorables-el-2024).
-- ~~**L'arrodoniment de «la meitat dels dies»** de l'article 26.4.d amb
-  compensacions de dies senars no el resol el text, i no s'ha buscat cap
-  instrucció administrativa que ho fixi.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
-- ~~**Quina part del territori cau dins dels vint quilòmetres** de l'article
-  26.4.f.iv segons el domicili: càlcul no fet. El corpus no afirma que el límit
-  cobreixi tot el país.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
-- ~~**Cap jurisprudència llegida sobre l'article 26.3.**~~ — **`font_externa` el
-  2026-09-22**: **la fitxa no ha localitzat cap resolució que interpreti el
-  requisit d'haver impugnat l'acomiadament**. **Cal consultar jurisprudència
-  administrativa o judicial per saber com s'aplica.**
-- ~~**El Decret del 16-12-2020 ja s'ha llegit directament al BOPA** i té una
-  [lectura pròpia](lajut-per-la-feina-que-no-havia-comencat.md). Els decrets
-  del 3-7-2019 i del 9-9-2020 encara només es coneixen per les remissions.~~ —
-  **`resolt` el 17-09-2026**: tots dos baixats del Butlletí
-  (`docs/raw/desocupacio/bopa-prestacions-reglament-2019-07-03.txt` i
-  `bopa-prestacions-mod-2020-09-09.txt`). **El del 9-9-2020 afegeix un article
-  28 bis i no toca el 26.** `Requereix encara buidar el reglament del 2019
-  sencer, que és el que el del 2020 substitueix.`
+- La lectura normativa s'atura a la cadena BOPA identificada fins al
+  13-09-2026. No s'ha comprovat si els butlletins publicats després d'aquesta
+  data han modificat el règim; el text no certifica quins requisits s'apliquen
+  avui a una sol·licitud individual.
+- Jurisprudència.ad indica deu versions consolidades del reglament, mentre que
+  la seqüència BOPA identificada en aquesta lectura conté el text del 2020 i
+  set modificacions posteriors. No s'ha reconciliat el criteri de recompte ni
+  comprovat una a una totes les versions consolidades.
+- No s'ha fet una cerca exhaustiva de jurisprudència sobre l'article 26.3 ni
+  localitzat en aquesta tanda cap resolució que interpreti l'obligació d'haver
+  impugnat un acomiadament disciplinari. No es conclou que no n'hi hagi.
+- El text no explica com s'arrodoneix la meitat de dies quan la compensació per
+  comiat correspon a un nombre senar, ni com s'aplica el límit de 120 dies. No
+  s'ha localitzat una instrucció administrativa que ho resolgui.
+- No s'ha calculat quina part del territori queda a vint quilòmetres d'un lloc
+  de treball segons el domicili, ni comprovat el transport disponible per a
+  cap cas concret.
+- No s'han verificat tractats de frontera, situacions individuals de
+  treballadors temporers, ni resolucions administratives o judicials sobre la
+  pràctica de l'article 26.
+- La divisió 2829 de l’API dona 59 sol·licituds el 2025, en desacord amb les 62 de la publicació A052, que inclou tres no resoltes; no s’ha aclarit la causa d’aquesta diferència.
+- Les taxes del sistema d’indicadors tenen valors 0 i 0,8 el 2024; la captura no
+  explica aquestes cel·les. Cal confirmar-ne el significat amb Estadística
+  abans d'incloure-les en comparacions.
+- Les categories administratives de demandants d'ocupació i les sol·licituds
+  anuals de prestació són universos i períodes diferents; la seva comparació no
+  explica per què una persona sol·licita o no l'ajut.

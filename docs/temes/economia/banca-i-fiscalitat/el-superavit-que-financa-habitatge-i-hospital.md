@@ -36,9 +36,7 @@ Els articles 3 i 4 afegeixen al pressupost de l'Administració general
 un crèdit extraordinari de **6.400.000 euros** i un suplement de
 **33.750.000 euros**. L'article 6 fixa el finançament conjunt de
 **40.150.000 euros** en la tresoreria procedent del superàvit de la
-liquidació de 2025. No són imports del
-[pressupost inicial](que-aprova-el-pressupost-de-2026.md) ni una
-certificació d'obres executades.
+liquidació de 2025; la llei no certifica obres executades.
 ([Llei](../../../raw/pressupost-2026/bopa-llei-10-2026.pdf), arts. 3–4
 p. 3–4 i art. 6 p. 4.)
 
@@ -60,10 +58,11 @@ L'article 5 aprova, al pressupost del **SAAS**, un suplement de
 instal·lacions tècniques (800.000). És un altre pressupost receptor
 de la transferència consignada a l'article 4. **Lectura pressupostària
 del corpus:** sumar-lo una altra vegada als 40,15 milions duplicaria
-els 4,4 milions que ja hi figuren. La igualtat es pot comprovar en
-els articles; falta contrastar-la amb l'estat consolidat d'execució.
+els 4,4 milions que ja hi figuren. Els articles 4–6 permeten comprovar
+la correspondència comptable en l'aprovació; no acrediten l'execució
+consolidada.
 ([Llei](../../../raw/pressupost-2026/bopa-llei-10-2026.pdf), arts. 4–6,
-p. 4; [aritmètica](../../../raw/pressupost-2026/pressupost-inicial-de-2026-fora-del-corpus.md).)
+p. 4.)
 
 L'exposició de motius associa les inversions sanitàries a un robot
 quirúrgic de 2 milions, una ressonància de 2,4 milions —equip d'1,6
@@ -88,37 +87,18 @@ nova redacció de l'art. 26.2, p. 3.)
 
 ## Buits registrats
 
-- ~~**Canvi pressupostari acreditat**~~ — **`parcial` el 19-09-2026**: la
-  Llei 10/2026 i les partides que afegeix al pressupost de 2026 s’han llegit i
-  contrastat. No s’ha reconstruït la totalitat de les modificacions posteriors
-  ni la vigència consolidada de les lleis afectades.
-- ~~No s'han llegit la liquidació de 2025, l'execució de 2026, els contractes, les adjudicacions ni possibles redistribucions.~~ — **`parcial` el 21-09-2026**: la nota [A134 d'execució pressupostària](../../../raw/estadistica-finances/execucio-del-pressupost-del-sector-public-evidencia-estadistica.md) del Departament d'Estadística aporta execució trimestral del **3r trimestre de 2025** i del **1r trimestre de 2026**. No és la liquidació anual i no inclou contractes, adjudicacions ni possibles redistribucions.
-- ~~**Lectura de justificacions parcialment tancada**~~ — **`parcial` el
-  19-09-2026**: la
-  [memòria de Salut i l'informe d'Intervenció](../../societat/sanitat/que-justificava-la-inversio-hospitalaria-de-2026.md)
-  s'han llegit íntegrament. També s'ha llegit la
-  [memòria d'Habitatge](../../societat/habitatge/els-recomptes-del-parc-public-el-2026.md),
-  que no permet reconstruir l'inventari necessari per passar dels
-  458 habitatges previstos a l'objectiu de 650.
-  El contrast registra discrepàncies numèriques de l'informe sense
-  corregir-les ni traslladar-les als imports aprovats de la llei.
-- ~~L'article 5 només detalla 4,4 milions al SAAS; falta reconstruir
-  el tractament pressupostari receptor dels 750.000 euros restants.~~ —
-  **`resolt` el 18-09-2026**: **la llei sencera (5 de 5 pàgines,
-  `docs/raw/pressupost-2026/bopa-llei-10-2026.txt`) no en dona més
-  detall, i no és una omissió**: **l'article 5 desglossa el 4,4M perquè
-  és una subvenció d'explotació nova que s'ha de repartir entre dues
-  partides** (maquinari mèdic i instal·lacions tècniques), **mentre que
-  els 750.000 amplien una única línia d'inversió ja existent** (IN0007,
-  Infraestructures centre hospitalari) **que no necessita
-  desglossament**: no hi ha res més a reconstruir perquè el destí ja
-  n'és un de sol.
-- ~~**Disposicions finals primera, segona i tercera**~~ — **`parcial` el
-  19-09-2026**: les finals primera i segona, sobre patrimoni públic i Fons de
-  Reserva, s’han llegit. Encara no s’han destil·lat ni contrastat amb les
-  normes completes modificades, i el mandat de consolidació de la final tercera
-  tampoc no acredita que els textos ja s’hagin tramitat.
-- ~~Les conclusions del FMI invocades al preàmbul no s'han contrastat
-  amb el document original del Fons.~~ — **`parcial` el 21-09-2026**: la fitxa
-  conserva la referència del preàmbul i el seu ús argumental, però **el document
-  original del FMI no és al corpus**.
+- **Execució** — No s'han consultat la liquidació anual de 2025, els contractes,
+  les adjudicacions ni les redistribucions posteriors. El text acredita
+  crèdits i previsions legals, no l'aplicació efectiva de les partides.
+- **Parc d'habitatge** — L'objectiu aproximat de 650 habitatges consta a
+  l'exposició de motius, però la llei no aporta un inventari que permeti
+  comprovar-ne l'assoliment. No s'han verificat lliuraments ni ocupacions.
+- **Normativa posterior** — No s'ha reconstruït la totalitat de les
+  modificacions pressupostàries ni la vigència consolidada de les lleis
+  afectades. Les disposicions finals primera i segona s'han llegit, però no
+  s'han contrastat amb les normes completes que modifiquen. El mandat de
+  consolidació de la final tercera no acredita que els textos consolidats
+  s'hagin tramitat.
+- **Fons Monetari Internacional** — L'original de l'informe citat al preàmbul
+  no és al corpus i les seves conclusions no s'han contrastat amb aquesta
+  publicació.

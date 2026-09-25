@@ -281,7 +281,6 @@ molt bona».
   | --- | --- | --- |
   | **26 d'agost – 21 de setembre de 1933** | **La vaga de FHASA**, seguida majoritàriament per treballadors espanyols, coincidint amb la reclamació del **vot per a tots els homes andorrans majors de 25 anys**. **Hi entren els gendarmes.** **Acaba amb reforma del vot i expulsió dels vaguistes** | [el sindicalisme](../treball/el-sindicalisme.md), [la memòria de FHASA](../treball/la-memoria-de-fhasa.md) |
   | **Setembre del 2018** | **Manifestació per la despenalització total de l'avortament**, que la font descriu com **«la primera de la història del país»** | [Vanessa Mendoza Cortés](../dones/vanessa-mendoza-cortes.md) |
-  | **2022** | **El dret de vaga s'escriu**: votació secreta, prohibició d'ocupar el centre de treball, i una llista de serveis essencials que **cobreix gairebé tota l'economia** | [el dret de vaga](../treball/el-dret-de-vaga.md) |
 
   **I la cronologia porta de regal una tensió que el corpus registra sense
   arbitrar**: **el 2018 es descriu com «la primera manifestació de la història

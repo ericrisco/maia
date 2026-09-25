@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: bopa-ad
-timestamp: 2026-09-13T16:54:12Z
+timestamp: 2026-09-25T00:24:06Z
 tags: [territori, allaus, boscos, urbanisme, habitatge, dret]
 ---
 
@@ -49,8 +49,8 @@ el sol·licitant ha de dipositar al comú el compromís de l'annex V.
 L'article 21.6 preveu que, després de la llicència d'ocupació basada
 en el bosc, una afectació real deixi el terreny i els ocupants exposats
 a una perillositat de magnitud desconeguda. El cònsol major pot ordenar
-un desallotjament indefinit mentre s'avalua la situació. Si protegir
-el terreny resulta viable i compatible amb l'ús, el projecte, les obres,
+un desallotjament indefinit mentre s'avalua la situació. Si la protecció és
+viable tècnicament i jurídicament i compatible amb l'ús, el projecte, les obres,
 les revisions i el manteniment corresponen exclusivament al propietari.
 L'ocupació queda supeditada a acabar les proteccions i al certificat final.
 El mateix article preveu la via de declaració de ruïna si els estudis
@@ -91,26 +91,14 @@ no freqüències d'accidents observades en edificis andorrans.
 
 ## Buits registrats
 
-- ~~No s'ha consultat cap inventari de boscos R7, informe de revisió,
-  expedient de desallotjament, escriptura ni contracte. La prescripció
-  publicada no acredita el seu compliment efectiu.~~ — **`font_externa` el
-  2026-09-22**: cal consultar inventaris, informes, expedients i documents
-  contractuals que no formen part del corpus.
-- ~~Falta contrastar les remissions a la Llei general d'ordenació del
-  territori i urbanisme i la jurisprudència sobre responsabilitat,
-  renúncia de reclamacions, declaració de ruïna i transmissions.~~ —
-  **`parcial` el 20-09-2026**: el text refós de 2019 atribueix al propietari
-  la inspecció, el manteniment i la reparació, incloses les proteccions contra
-  riscos naturals, i ordena fer constar aquesta responsabilitat en totes les
-  escriptures de transmissió (article 127.2). L'article 129 permet declarar la
-  ruïna quan la rehabilitació supera el 50% del valor de l'edifici, hi ha
-  feblesa estructural generalitzada o les obres no són autoritzables per estar
-  fora d'ordenació; el comú pot ordenar el desallotjament urgent (article
-  129.1–3). ([Text refós d'ordenació del territori i urbanisme, articles
-  127 i 129](../../../raw/lleis/bopa/decret-legislatiu-2019-text-refos-ordenacio-territori-urbanisme.txt).)
-  No s'ha localitzat jurisprudència sobre aquests punts ni sobre la renúncia
-  de reclamacions de l'annex V del reglament d'allaus.
-- ~~No s'ha verificat la metodologia completa per calcular el risc
-  residual ni s'ha fet cap avaluació de seguretat d'una propietat.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
-- ~~La cadena de modificacions i de cartografia posterior resta oberta;
-  les dues publicacions llegides no certifiquen per si soles la vigència actual.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
+- No s'han consultat inventaris de boscos R7, informes de revisió, expedients
+  de desallotjament, escriptures ni contractes. El text publicat no demostra
+  que aquestes obligacions s'hagin complert en casos concrets.
+- La lectura no reconstrueix tota la cadena normativa de la Llei general
+  d'ordenació del territori i urbanisme ni la jurisprudència sobre
+  responsabilitat, desallotjament, estat de ruïna o la renúncia de reclamacions
+  que figura a l'annex V.
+- No s'ha verificat la metodologia completa per calcular el risc residual ni
+  s'ha fet cap avaluació de seguretat d'una propietat.
+- Les normes i la cartografia posteriors a les peces citades no s'han comprovat
+  exhaustivament; aquesta lectura no certifica la vigència consolidada actual.

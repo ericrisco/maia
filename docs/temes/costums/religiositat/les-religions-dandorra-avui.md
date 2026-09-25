@@ -265,13 +265,12 @@ no són el mateix, i cap de les dues fonts no contradiu l'altra.**
    legislador jueu del Consell General, Salomó Benchluch, elegit el 2023**
    ([font](../../../fonts/jpost-comunitat-jueva-andorra.md)). **Budistes i
    ortodoxos, sense font, segueix obert.**
-9. ~~**Com conviuen aquestes confessions amb un cap d'estat que és bisbe.** La
-   pregunta no la fa cap font i és òbvia.~~ **LA RESPON EL DRET, I ÉS
-   ESTRUCTURAL.** Amb la **Llei 2/2025**, les confessions no catòliques obtenen
-   personalitat jurídica **inscrivint-se** —vint persones, estatuts i resolució—;
-   l'Església catòlica la té **tan bon punt té la canònica i el Bisbat d'Urgell ho
-   notifica** al Registre, que «n'acusa rebut». **Una via és constitutiva i
-   l'altra declarativa.** Vegeu
+9. ~~**Com conviuen jurídicament les entitats no catòliques i l'Església
+   catòlica.**~~ La Llei 2/2025 atorga personalitat jurídica a les **entitats
+   religioses no lucratives que compleixen els requisits i s'inscriuen**; l'article
+   13 preveu per a les entitats de l'Església catòlica una via diferent: quan
+   tenen personalitat canònica i el Bisbat d'Urgell ho notifica al Registre, que
+   n'acusa recepció. **Una via és constitutiva i l'altra declarativa.** Vegeu
    [el registre d'entitats religioses](./el-registre-dentitats-religioses.md).
 
 ## Una xifra que no és de creences sinó de confiança

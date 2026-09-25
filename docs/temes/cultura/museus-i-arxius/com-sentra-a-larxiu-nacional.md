@@ -127,6 +127,17 @@ l'òrgan que decideix què s'elimina
 ([les taules d'avaluació](./la-llei-que-deia-que-es-conservava-tot.md)) i passa a
 informar l'aixecament de la reserva.
 
+La redacció de 2016 **no estableix que qualsevol persona pugui entrar sense
+condicions d'edat**: exigeix acreditar-se, regula l'accés dels menors de 16 anys
+en programes pedagògics o treballs de recerca, i permet als usuaris acreditats
+l'accés a la sala subjecte a capacitat. La pàgina actual del [Govern sobre la
+visita a l'Arxiu Nacional](../../../fonts/govern-prepareu-visita-arxiu.md)
+descriu un criteri diferent: majors de 18 anys i menors de 16 a 18 acompanyats.
+El corpus no ha determinat si aquesta diferència prové d'una norma interna, d'una
+actualització normativa o d'una pàgina desactualitzada; per tant, el reglament
+es descriu aquí com a text normatiu del 2005 modificat el 2016, no com una guia
+de les condicions pràctiques vigents.
+
 **I una prohibició nova**: l'article 41.4 reformat diu que **«no està autoritzada
 la realització de reproduccions per part de l'usuari amb mitjans propis»**. Abans
 el reglament no ho deia. **El 2016, quan tothom ja duia una càmera a la butxaca,
@@ -145,11 +156,23 @@ modificació del 20 d'abril del 2016, **estan baixats i no llegits**
 [evidència](../../../raw/lleis/bopa/decret-2016-mod-reglament-sistema-arxius.txt)).
 `Unitat pendent.`
 
-**No s'ha comprovat si la Llei 33/2021 de transparència ha desplaçat aquest
-reglament.** La llei és del 2021 i el reglament del 2005-2016; **el corpus no ha
-llegit cap norma que el derogui**, però tampoc no ha buscat la compatibilitat
-article per article. `Requereix creuar el reglament amb la Llei 33/2021 i amb el
-Decret 454/2022 del procediment d'accés.`
+**La Llei 33/2021 no desplaça automàticament tots els règims específics:** la
+seva disposició addicional primera diu que les matèries amb règim jurídic
+específic d'accés es regeixen per la seva normativa específica i per aquesta
+Llei supletòriament. No s'ha fet el contrast article per article entre el
+reglament de l'Arxiu i la Llei 33/2021. Tampoc no s'ha identificat cap text que
+confirmi el «Decret 454/2022 del procediment d'accés» esmentat en versions de
+treball; no s'ha de confondre amb el Decret 455/2022, que aprova el reglament
+d'organització i funcionament de la CNAAD. `Cal identificar i llegir les normes
+de desplegament aplicables i comparar-les amb el règim específic de l'Arxiu.`
+
+**La informació pràctica actual entra en tensió amb el text de 2016.** La pàgina
+del Govern consultada el 25-09-2026 diu que les persones usuàries han de ser
+majors de 18 anys i que els menors de 16 a 18 hi han d'anar acompanyats; el
+decret regula expressament l'accés de menors de 16 anys en supòsits concrets.
+La fitxa de font de la pàgina oficial està marcada `redistribucio: pendent` i
+no se n'incorpora el contingut a l'exportació. `Cal resoldre tant l'abast de la
+discrepància com els termes de reutilització abans d'aprovar aquesta unitat.`
 
 **No consta cap dada d'aplicació.** Quantes targetes d'investigador s'han emès,
 quantes consultes s'atenen, quantes denegacions s'han dictat per l'article 19 o

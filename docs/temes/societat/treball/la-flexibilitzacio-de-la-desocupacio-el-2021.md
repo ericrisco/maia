@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: bopa-ad
-timestamp: 2026-09-13T14:53:03Z
+timestamp: 2026-09-25T00:31:29Z
 tags: [treball, desocupacio, proteccio-social, covid-19, reglament]
 ---
 
@@ -52,9 +52,8 @@ no se'n deriva aquí una interpretació administrativa de l'espera.
 
 Reduir cotitzacions no convertia l'ajut en incondicional. L'article 1.2 del
 decret manté exigibles els altres requisits generals i específics als quals
-no fa referència. La naturalesa de l'ajut, les obligacions i les causes
-d'extinció de la redacció de 2020 es llegeixen a
-[L'ajut per desocupació involuntària](lajut-per-desocupacio-involuntaria.md).
+no fa referència; aquesta lectura compara els requisits que va modificar, no
+enumera la resta.
 ([Decret 44/2021, article 1.2](../../../raw/desocupacio/bopa-2021-44-flexibilitzacio.txt).)
 
 ## Canviar de règim no esborrava el temps cobrat
@@ -72,40 +71,21 @@ temporada d'esquí, amb requisits propis de residència i feina anterior.
 
 ## Buits registrats
 
-- ~~**Norma intermèdia llegida el 13-09-2026:** el Decret del 16-12-2020 ja té
-  [lectura i evidència directa](lajut-per-la-feina-que-no-havia-comencat.md).
-  Queda pendent reconstruir la resta de la seqüència d'excepcions sanitàries.~~ —
-  **`parcial` el 19-09-2026**: el decret intermedi ja està llegit i documentat
-  amb el seu article 26 bis; continua oberta la reconstrucció de les altres
-  normes excepcionals de la seqüència.
-- ~~**Aplicació temporal pendent:** el límit del 30-06-2021 és el que diu
-  l'article 3. No s'ha verificat una eventual decisió anterior de deixar-lo
-  sense efecte ni la normativa posterior. No s'afirma una durada efectiva
-  ininterrompuda ni una vigència actual.~~ — **`parcial` el 21-09-2026**: el
-  decret fixa el límit del **30-06-2021**, però **el corpus no té una decisió de
-  pròrroga, derogació o aplicació posterior que permeti establir la vigència real**.
-- ~~**Remissió defectuosa conservada:** la frase inicial de l'article 1.1
-  enumera literalment «c, d, i i»; l'apartat 1.1.d sí remet expressament a
-  la lletra j i fixa els nou mesos. L'exposició de motius també esmenta j.
-  No s'ha localitzat cap errata específica d'aquesta enumeració.~~ —
-  **`no-es-buit` el 19-09-2026**: és una nota de lectura sobre una discrepància
-  interna del text normatiu, no una pregunta de recerca independent.
-- ~~**Espera i compensació per comiat:** no s'ha llegit cap instrucció ni
-  resolució sobre l'aplicació conjunta del nou 1.1.b i de la regla de
-  compensació del 26.4.d de 2020. La taula no resol aquest punt.~~ —
-  **`parcial` el 20-09-2026**: el text de 2020 fixava inscripció 45 dies
-  abans o 90 dies des del fet causant, amb augment de l'espera equivalent a
-  la meitat dels dies de compensació per acomiadament (màxim 120 dies)
-  ([Reglament del 7-10-2020, article 26.4.d](../../../raw/desocupacio/bopa-2020-10-07-reglament.txt)).
-  El Decret 44/2021 va substituir temporalment aquesta alternativa per
-  inscripció abans de sol·licitar o 30 dies des del fet causant
-  ([article 1.1.b](../../../raw/desocupacio/bopa-2021-44-flexibilitzacio.txt)),
-  mantenint els altres requisits a l'article 1.2. **No hi ha al corpus cap
-  instrucció o resolució que digui com es va aplicar la compensació juntament
-  amb aquesta flexibilització**, i aquest residu administratiu segueix obert.
-- ~~**Aplicació de la norma més beneficiosa**~~ — **`parcial` el 19-09-2026**:
-  no s’han llegit resolucions d’expedients ni verificat quantes persones van
-  accedir a l’ajut gràcies a aquesta flexibilització. Sí que s’ha incorporat
-  la [resposta escrita del Govern](../../institucions/consell-general/la-resposta-sobre-lajut-de-lesqui.md),
-  que conserva separades la declaració política i la comprovació dels
-  expedients.
+- El Decret del 16-12-2020, que afegia l'article 26 bis, queda derogat pel
+  Decret 44/2021. Aquí es compara aquesta norma intermèdia; no es reconstrueix
+  la resta de les mesures excepcionals sanitàries del període.
+- L'article 3 fixa el límit del 30-06-2021, però les peces consultades no
+  acrediten si el Govern va deixar la mesura sense efecte abans d'aquella data
+  ni com es va aplicar després. No se n'infereix una durada real ininterrompuda
+  ni una vigència actual.
+- El preàmbul del Decret 44/2021 enumera les lletres c, d, i i j; l'inici de
+  l'article 1.1 enumera c, d i i, però els apartats 1.1.d i 1.1.c tracten,
+  respectivament, de j i i. No s'ha localitzat una errata que resolgui aquesta
+  diferència interna del text publicat.
+- La regla de compensació per comiat de l'article 26.4.d de 2020 afegia a
+  l'espera la meitat dels dies de compensació, fins a 120 dies; el decret de
+  2021 substitueix temporalment les alternatives d'espera per inscripció abans
+  de la sol·licitud o 30 dies des del fet causant. Les peces no mostren com
+  s'aplicaven conjuntament aquesta substitució i la compensació en expedients.
+- No s'han consultat resolucions d'expedients ni s'ha comprovat quantes
+  persones van accedir a l'ajut gràcies a la flexibilització.

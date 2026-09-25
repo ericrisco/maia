@@ -64,25 +64,14 @@ afiliar els beneficiaris a les branques general i de jubilació.
 
 ## Buits registrats
 
-- ~~**Buit de lectura del decret de desembre**~~ — **`resolt` el 13-09-2026**:
-  s'ha llegit sencer al BOPA. La primera pista va ser una còpia allotjada a la CASS;
-  l'evidència citada aquí és el text obtingut directament del BOPA.
-- ~~No s'han llegit expedients ni instruccions que delimitin quines activitats
-  es consideraven sectors vinculats a l'esquí o com s'acreditava cada cas.~~ —
-  **`font_externa` el 2026-09-22**: aquesta delimitació només es pot comprovar
-  en expedients i instruccions administratives no incorporats al corpus.
-- ~~Lectura de l'article 26 bis.12 i de la derogació de febrer de 2021~~ —
-  **`parcial` el 19-09-2026**: l'article lligava el final de la flexibilització
-  a l'inici normal de la temporada, però no s'ha verificat una decisió
-  administrativa que fixés aquella data.
-- ~~L'article 26 bis.11 incloïa el rebuig d'una oferta adequada entre les causes
-  d'extinció. No s'ha investigat com s'interpretava aquesta adequació en els
-  expedients excepcionals.~~ — **`font_externa` el 2026-09-22**: la pràctica
-  interpretativa només consta als expedients excepcionals, que no s'han consultat.
-- ~~No s'han verificat imports efectivament pagats, beneficiaris, denegacions
-  ni compliment del termini de deu dies hàbils. No s'atribueixen a aquesta
-  prestació les xifres d'altres ajuts per desocupació. La
-  [resposta parlamentària ja llegida](../../institucions/consell-general/la-resposta-sobre-lajut-de-lesqui.md)
-  aporta el relat del Govern; no tanca aquests buits d'aplicació individual.~~ —
-  **`font_externa` el 2026-09-22**: cal consultar expedients de pagament i
-  denegació, que no formen part del corpus.
+- No s'han consultat expedients ni instruccions administratives que delimitin
+  quines activitats es consideraven sectors vinculats a l'esquí o com
+  s'acreditava cada cas.
+- L'article 26 bis.12 feia dependre la durada de l'inici normal de la temporada
+  d'esquí. No s'ha comprovat si hi hagué una decisió administrativa que fixés
+  aquella data.
+- L'article 26 bis.11 incloïa el rebuig d'una oferta adequada entre les causes
+  d'extinció. No s'ha consultat com s'interpretava aquesta adequació en els
+  expedients excepcionals.
+- No s'han verificat imports pagats, persones beneficiàries, denegacions ni
+  el compliment efectiu del termini de deu dies hàbils.

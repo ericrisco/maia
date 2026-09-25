@@ -115,8 +115,14 @@ Documentació** (capítol cinquè).
 - ~~**Les limitacions concretes** dels articles 11 i 12 —les causes per
   denegar— **no s'han llegit**.~~ **Tancat**: vegeu
   [el que no et deixen veure](./el-que-no-et-deixen-veure.md). Una de les dotze
-  causes no té equivalent enlloc: **les relacions amb els coprínceps i els seus
-  serveis**. Queda per llegir **l'article 12**, de protecció de dades.
+  causes és **les relacions amb els coprínceps i els seus serveis**. L'article
+  12 també s'ha llegit a la còpia local de la Llei 33/2021
+  ([text BOPA](../../../raw/lleis/bopa/llei-33-2021-transparencia.txt)):
+  tracta categories especials i dades sobre infraccions, inclou un termini de
+  vint-i-cinc anys des de la mort —o cinquanta anys des de la producció del
+  document quan la data de mort es desconeix—, manament judicial, ponderació i
+  dissociació. Aquest resum identifica què deia el text consultat; no és una
+  comprovació de vigència consolidada actual.
 - ~~**El títol IV, de govern obert**, queda per llegir.~~ — **`resolt` el
   17-09-2026**, llegit al material que el corpus ja tenia
   (`docs/raw/lleis/transparencia.txt`). **Són els articles 29 a 32, i el que

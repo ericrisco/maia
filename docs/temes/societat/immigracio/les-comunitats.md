@@ -222,10 +222,13 @@ pròpia en aquest volum**, cosa que també diu alguna cosa. El corpus no en té 
   —musulmans, Testimonis de Jehovà, evangèlics, Moon, Baha'i, amb xifres i
   temples. **El dret**:
   [el registre d'entitats religioses](../../costums/religiositat/el-registre-dentitats-religioses.md)
-  — **des de la Llei 2/2025, una confessió existeix legalment a Andorra amb
-  vint persones i una resolució**, i **l'article 11.1 de la Constitució
-  prohibeix obligar ningú a declarar la seva religió**, cosa que explica per què
-  totes aquestes xifres són estimacions i **no pot haver-hi cens religiós**.
+  — **la Llei 2/2025 atorga personalitat jurídica a les entitats religioses no
+  lucratives que compleixen els requisits i s'inscriuen**; per a l'Església
+  catòlica, l'article 13 estableix una via diferent. L'article 11.1 de la
+  Constitució prohibeix obligar una persona a declarar la seva religió, però
+  això no demostra que qualsevol cens o enquesta sigui impossible. L'article 4
+  de la Llei demana al Registre el nombre aproximat de practicants de cada
+  entitat inscrita; el corpus no n'ha consultat les entrades.
 
 ## Les associacions, una per una
 

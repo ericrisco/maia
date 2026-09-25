@@ -61,40 +61,14 @@ classificació definitiva de la finca. El fonament 3.2 recorda, precisament,
 els límits del recurs d’empara.
 ([Fonament 3.2, p. 7, i decisió 2–3, p. 9](../../../raw/consell-general/bopa-sentencia-2026-25-re.pdf).)
 
-## Relacionat
-
-- [Quan l’informe del comú no és vinculant](quan-linforme-del-comu-no-es-vinculant.md).
-- [Les set parròquies](les-set-parroquies.md).
-- [Fitxa del BOPA](../../../fonts/bopa-ad.md).
-
 ## Buits registrats
 
-- ~~No s’han consultat les sentències originals 20-2010 i 13-2010, els
-  POUP, els decrets previs d’urbanització ni els informes pericials.
-  Els antecedents i arguments de la Sala s’atribueixen a la seva
-  reproducció en aquesta sentència constitucional.~~ — **`parcial` el
-  20-09-2026**: la [còpia textual de la sentència constitucional
-  2026-25-RE](../../../raw/consell-general/bopa-sentencia-2026-25-re.txt)
-  confirma les dates de la **20-2010** (12 d’abril de 2010) i la **13-2010**
-  (3 de març de 2010), identifica els **POUP de 2007 i 2018** i reprodueix els
-  arguments sobre l'article 83 de la LGOTU i els decrets urbanístics. Els
-  originals, els POUP complets, els decrets previs i els informes pericials
-  encara no s'han llegit.
-- ~~No s’ha localitzat i llegit la resolució de la Sala posterior a aquesta
-  anul·lació. No es dona per comprovada la classificació actual de la finca.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
-- ~~Lectura de la sentència al portal i al BOPA~~ — **`parcial` el 19-09-2026**:
-  la còpia del portal del Tribunal s’ha llegit íntegra. Al BOPA s’han rellegit
-  capçalera, antecedents 1.1–1.8, fonaments 3.1–3.6 i decisió 1–5; pàgines 8–9
-  contrastades visualment. No s’han rellegit íntegrament al PDF els arguments
-  2.1–2.4 ni s’han comparat automàticament les còpies.
-- ~~L’aute d’admissió del 27 d’abril de 2026 s’ha identificat però no
-  s’ha llegit. Aquesta lectura no resol el buit sobre l’article 117.8
-  de la LGOTU i la suspensió cautelar de plans nacionals o sectorials,
-  ni acredita expedients de cessions o informes comunals vinculants.~~ —
-  **`font_externa` el 2026-09-22**: l’aute està identificat però cal consultar-lo,
-  i els expedients i informes comunals tampoc no formen part del corpus local.
-- ~~Els drets de la còpia del [portal del Tribunal](../../../fonts/tribunal-constitucional-ad.md)
-  continuen pendents. Les cites remeten a la publicació BOPA, sota les seves
-  condicions textuals registrades. Evidència fora del corpus; cap dataset.~~ —
-  **`no-es-buit` el 19-09-2026**: és un avís de drets i d'exclusió de dataset,
-  no una pregunta de recerca.
+- La lectura tracta els antecedents i arguments de la Sala tal com els
+  reprodueix la sentència constitucional. No s'han consultat les sentències
+  originals 20-2010 i 13-2010, els POUP complets, els decrets previs
+  d'urbanització ni els informes pericials.
+- No s'ha localitzat la resolució de la Sala posterior a l'anul·lació. Per tant,
+  aquesta lectura no estableix la classificació urbanística actual de la finca.
+- El contrast BOPA cobreix els antecedents 1.1–1.8, els fonaments 3.1–3.6 i la
+  decisió 1–5; no s'han comparat automàticament les còpies ni rellegit
+  íntegrament al PDF els arguments de les parts als apartats 2.1–2.4.

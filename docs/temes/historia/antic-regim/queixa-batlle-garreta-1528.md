@@ -17,6 +17,8 @@ El **6 de setembre de 1528**, **Martí Garreta de les Bons** va presentar davant
 el **Consell General** una queixa relacionada amb una decisió del batlle
 **Guillem Ramon Colat**. La fitxa de l’**ASC-3494** identifica el notari
 **Joan Ortedó** i conserva el document com un foli de l’Arxiu de les Set Claus.
+([fitxa catalogràfica ASC-3494](../../../raw/web/institucions/arxiu-set-claus/queixa-batlle-garreta-1528/README.md),
+[metadades catalogràfiques](../../../raw/web/institucions/arxiu-set-claus/queixa-batlle-garreta-1528/ASC_03494.asset.json).)
 
 La peça permet veure un recorregut institucional concret: una decisió del batlle
 podia ser contestada davant del Consell per la persona afectada. És una dada
@@ -34,5 +36,3 @@ plet complet ni el seu desenllaç.
 - No consta en aquesta peça la resposta o resolució posterior del Consell.
 - No es pot generalitzar, a partir d’una sola queixa, l’abast ordinari del
   control del Consell sobre els batlles.
-
-Vegeu la [fitxa documental local](../../../raw/web/institucions/arxiu-set-claus/queixa-batlle-garreta-1528/README.md).

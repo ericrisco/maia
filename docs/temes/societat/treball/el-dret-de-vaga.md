@@ -1,234 +1,123 @@
 ---
 type: article
-title: El dret de vaga
-description: "La vaga andorrana s'aprova en votació secreta i no pot ocupar el centre de treball ni bloquejar-ne els accessos. I la llista de serveis essencials cobreix gairebé tota l'economia del país."
+title: El dret de vaga i l'acció sindical
+description: "Les lleis de 2018 defineixen la vaga, el seu procediment i les garanties dels serveis essencials, i fixen llindars de representativitat sindical."
 tema: temes/societat/treball
 veu: compilada
 epoca: contemporania
 apte_llengua: false
-font: jurisprudencia-ad
-timestamp: 2026-09-16T20:30:00Z
-tags: [treball, drets, sindicalisme, societat, dret, economia]
+font: bopa-ad
+timestamp: 2026-09-25T02:44:51Z
+tags: [treball, drets, sindicalisme, vaga, legislacio]
 ---
 
-# El dret de vaga
+# El dret de vaga i l'acció sindical
 
-Dues lleis qualificades del mateix dia regulen l'acció col·lectiva a Andorra
-([font](../../../fonts/jurisprudencia-ad.md), instantània del **2026-09-12**):
-**acció sindical i patronal** (Llei 32/2018, 32 articles) i **mesures de
-conflicte col·lectiu** (Llei 33/2018, 30 articles). Les dues necessiten
-**majoria absoluta** del Consell General
-([les lleis qualificades](../../institucions/justicia/les-lleis-qualificades.md)).
+Dues lleis qualificades aprovades el 6 de desembre del 2018 regulen aspectes
+complementaris de l'acció col·lectiva: la Llei 33/2018, de mesures de conflicte
+col·lectiu, inclou el dret de vaga; la Llei 32/2018, d'acció sindical i
+patronal, regula l'afiliació i la representativitat de les organitzacions
+sindicals. La instantània consolidada del 12 de setembre del 2026 recull la Llei 33/2018
+amb 30 articles i una versió, i la Llei 32/2018 amb 32 articles i dues
+versions. Aquest resum descriu els articles citats; no documenta l'aplicació administrativa de la llei ni substitueix la consulta
+del text oficial.
 
-## Què és una vaga, i què no
+## Contingut del dret de vaga
 
-> «La vaga és la mesura de conflicte col·lectiu que consisteix en **l'aturada
-> temporal de la prestació del treball**, **sense ocupar el centre de treball**,
-> i **sense bloquejar els accessos** als locals empresarials» (article 7).
+L'article 7 de la Llei 33/2018 defineix la vaga com una aturada temporal del
+treball, decidida concertadament i exercida col·lectivament per defensar
+interessos laborals. La definició inclou que no s'ocupi el centre de treball ni
+se'n bloquegin els accessos. L'article 8.1 distingeix el contingut individual
+del dret: aturar temporalment la feina, adherir-se a una vaga convocada i deixar
+de participar-hi.
 
-**Les dues exclusions són part de la definició legal**, no una prohibició a part:
-ocupar o bloquejar no és una vaga excedida, és una altra cosa.
+## Convocatòria i preavís
 
-El dret individual inclou **aturar, adherir-se a una vaga convocada i decidir
-deixar-hi de participar** (article 8.1).
+Si la vaga la convoquen els assalariats d'una empresa o centre de treball, cal
+aprovar-la en assemblea, amb votació secreta i majoria simple. Si la convoquen
+els representants dels assalariats o les organitzacions sindicals, l'aprovació
+es fa en una reunió conjunta, per majoria simple dels representants presents i
+amb un quòrum mínim d'assistència del 50%. En tots dos casos s'estén acta amb
+l'acord, els assistents i els vots (article 11).
 
-## Com es convoca
+La convocatòria es notifica a l'empresari o als empresaris afectats i al
+Departament de Treball amb almenys cinc dies hàbils d'antelació. Si afecta una
+empresa pública, un servei públic o béns o serveis de primera necessitat, el
+preavís mínim és de vuit dies hàbils. L'escrit identifica els objectius, la
+data d'inici, la durada prevista i la composició del comitè de vaga (article
+12). Aquest comitè es compon, com a màxim, de cinc membres en l'àmbit d'empresa,
+set en el sectorial i nou en l'intersectorial; els membres han de ser
+assalariats inclosos en l'àmbit de la vaga (article 13).
 
-| Qui convoca | Com s'aprova |
-| --- | --- |
-| Els assalariats d'una empresa | **assemblea, votació secreta, majoria simple** (article 11.1) |
-| Els representants o els sindicats | reunió conjunta, majoria simple, **quòrum mínim del 50%** dels representants (article 11.2) |
+## Serveis essencials
 
-Sempre cal **acta** amb l'acord, la relació d'assistents i els vots (article
-11.3).
+L'article 21.1 de la Llei 33/2018 vincula els serveis essencials al manteniment
+dels drets a la vida, la integritat física i la salut, la llibertat i la
+seguretat, la comunicació, l'educació, la tutela judicial efectiva, la lliure
+circulació i la llibertat d'informació.
 
-I un **preavís**:
+Quan una vaga afecta empreses públiques o empreses privades que presten un
+servei públic o faciliten béns o serveis de primera necessitat, l'article 21.2
+preveu que el Govern adopti els acords necessaris per conciliar l'exercici del
+dret de vaga amb el funcionament essencial dels serveis. Enumera, entre
+altres, sanitat i higiene pública, seguretat i protecció civil, prestacions
+públiques i socials, serveis socials, protecció del medi ambient, serveis
+funeraris, transport, distribució de mercaderies, comunicacions, informació de
+ràdio i televisió, subministraments, educació, determinades actuacions de
+l'Administració de justícia, institucions penitenciàries i duanes. També inclou
+altres activitats de les administracions públiques si són indispensables i
+inajornables per atendre la ciutadania.
 
-| Cas | Antelació |
-| --- | ---: |
-| General | **5 dies hàbils** |
-| Empreses públiques o que presten serveis públics o béns de primera necessitat | **8 dies hàbils** |
+L'acord del Govern ha de ser motivat i proporcional a l'abast de la vaga, la
+durada prevista i les necessitats existents. Fora dels casos urgents, cal
+consultar prèviament l'empresari o els empresaris afectats i el comitè de vaga.
+L'acord es pot recórrer, però el recurs no n'atura l'execució (article 21.3).
 
-La notificació va **a l'empresari i al Departament de Treball**, amb **els
-objectius, la data d'inici, la durada prevista i la composició del comitè de
-vaga** (article 12).
+## Afiliació i representativitat sindical
 
-El **comitè de vaga** té un sostre de mida segons l'abast: **5 membres** a
-l'empresa, **7** al sector, **9** intersectorial (article 13.3). I els seus
-membres **han de ser assalariats inclosos en l'àmbit de la vaga**.
+L'article 3.1 de la Llei 32/2018 reconeix als assalariats —també a qui ha deixat
+l'activitat per incapacitat laboral, jubilació o desocupació involuntària— i a
+les persones treballadores per compte propi sense assalariats el dret
+d'afiliar-se lliurement a un sindicat i donar-se'n de baixa. Ningú no pot ser
+obligat a afiliar-s'hi. La mateixa llei remet a normativa específica per als
+cossos especials; els membres de les carreres judicial i fiscal no poden
+constituir sindicats ni afiliar-s'hi, tot i que poden associar-se per defensar
+els seus interessos professionals (articles 3.2 i 3.3).
 
-## Els serveis essencials, en un país petit
+La llei diferencia les organitzacions sindicals més representatives de les
+representatives. Per al nivell nacional, exigeix integrar almenys el 15% dels
+delegats o membres de comitès d'empresa elegits a tot el Principat; en l'àmbit
+sectorial, el mínim és el 20% dels representants elegits al sector. A més, cal
+que les eleccions s'hagin fet en empreses que reuneixin, en conjunt, més del
+20% de les persones assalariades del país o més del 25% del sector,
+respectivament (article 11). La representació institucional davant les
+administracions i el Consell Econòmic i Social correspon a les organitzacions
+més representatives (article 12.1). Les subvencions públiques als sindicats
+són proporcionals al nombre de representants i no poden superar la meitat de
+les quotes recaptades l'exercici anterior (article 12.4).
 
-L'article 21.2 enumera on el Govern pot imposar el funcionament mínim. La llista
-és llarga i val la pena llegir-la sencera per veure què hi queda fora:
+## Procediment de conflicte col·lectiu
 
-sanitat i higiene pública · seguretat pública i protecció civil · **pagament de
-les prestacions públiques i socials** · serveis socials · protecció del medi
-ambient · **serveis funeraris** · ordenació del trànsit i **transport públic de
-viatgers** · **transport i distribució de mercaderies** · serveis públics de
-comunicació · **serveis informatius de ràdio i televisió** · subministraments
-d'**electricitat, aigua, gas i combustibles** · **l'educació en tots els seus
-nivells** · l'Administració de justícia pel que fa a llibertat i seguretat de les
-persones · **institucions penitenciàries** · **les duanes**.
-
-**En una economia de 80.000 habitants amb dues fronteres, això és gairebé tot.**
-Comerç, hoteleria i neu en queden fora; el que fa funcionar el país, no.
-
-El contrapès és processal, i és explícit: l'acord del Govern **ha de ser
-motivat**, ha de **respectar el principi de proporcionalitat** «d'acord amb
-l'extensió de la vaga, la duració prevista i les necessitats existents» i
-—excepte en urgència— **requereix consulta prèvia de l'empresari i del comitè de
-vaga**. És recurrible, **però el recurs no en suspèn l'execució** (article 21.3).
-
-## Qui es pot sindicar, i qui no
-
-El dret d'afiliació abasta **tots els assalariats**, inclosos els que han cessat
-per **incapacitat, jubilació o desocupació involuntària**, i **els treballadors
-per compte propi que no tinguin assalariats** (article 3.1). I **ningú pot ser
-obligat** a afiliar-se.
-
-Amb dues excepcions:
-
-- **policies, agents penitenciaris, bombers i banders** i altres cossos especials
-  es regeixen per **normativa específica**, i subsidiàriament per aquesta llei
-  (article 3.2);
-- **els membres de les carreres judicial i fiscal no poden constituir cap
-  organització sindical ni afiliar-s'hi** (article 3.3) —només associar-se per
-  defensar interessos professionals.
-
-## Els llindars de representativitat
-
-Ser sindicat no basta: cal **ser representatiu** per tenir atribucions
-(article 11).
-
-| Nivell | Delegats que ha d'integrar | I a més |
-| --- | ---: | --- |
-| **Més representativa** (nacional) | **15 %** dels delegats de tot el país | eleccions en empreses que sumin **> 20 %** de tots els assalariats d'Andorra |
-| **Representativa** (sectorial) | **20 %** dels delegats del sector | eleccions en empreses que sumin **> 25 %** dels assalariats del sector |
-
-**Són dos filtres alhora**: percentatge de delegats **i** cobertura electoral
-mínima. Només les «més representatives» tenen **representació institucional**
-davant les administracions i **al Consell Econòmic i Social** (article 12.1).
-
-Això posa xifres al que el corpus ja descrivia a
-[el sindicalisme](el-sindicalisme.md) i a
-[l'acomiadament lliure](lacomiadament-lliure.md): **la barrera no és només
-cultural o econòmica, també és de llindar legal.**
-
-## Els diners dels sindicats, lligats als afiliats
-
-> Els sindicats tenen dret a subvencions públiques «en una quantia proporcional
-> al nombre de delegats […] Aquestes subvencions **no poden excedir el límit del
-> 50% del que hagin recaptat en concepte de les quotes dels afiliats durant
-> l'exercici anterior**» (article 12.4).
-
-**El diner públic no pot doblar el que posen els afiliats.** Un sindicat amb pocs
-membres rep poc, per disseny.
-
-## El conflicte col·lectiu, i què no pot fer
-
-El procediment de conflicte col·lectiu **no serveix per modificar un conveni
-vigent** (article 2.1) ni s'aplica **mentre s'exerceix el dret de vaga**
-—encara que els vaguistes en poden **desistir i acollir-s'hi** (article 2.2).
+La Llei 33/2018 no permet utilitzar el procediment de conflicte col·lectiu per
+modificar un conveni vigent. El procediment tampoc no s'aplica mentre els
+assalariats exerceixen el dret de vaga; un cop declarada, poden desistir de la
+vaga i sotmetre's al procediment de conflicte col·lectiu (article 2).
 
 ## Buits registrats
 
-- ~~**Quants sindicats hi ha** a Andorra i si algun assoleix els llindars de
-  representativitat, no consta.~~ — **`parcial` des del 2026-09-14, i amb una
-  dada que canvia la pregunta.** **[El sindicalisme](./el-sindicalisme.md)** dona
-  **disset organitzacions d'assalariats a l'assemblea constitutiva de la Unió de
-  Sindicats d'Andorra, el 20 de setembre del 2001**, i **la llista sectorial de
-  com van néixer**: APAAG (1993), Sindicat de Policia (1998), AFD (1999), i
-  entre el 2000 i el 2001 els penitenciaris, l'ANSC, l'APAAJ, l'ensenyament
-  públic i congregacional, els banders i les parapúbliques STA, FEDA i SAAS.
-  **El primer de tots és el SAT, del 8 de març del 1990.**
+Les disposicions descrites no indiquen quantes vagues s'han convocat, quines
+organitzacions compleixen avui els llindars de representativitat ni quins acords
+concrets de serveis essencials ha adoptat el Govern. Aquestes dades requereixen
+consultar els registres i els actes administratius corresponents.
 
-  > **I hi ha un detall que afecta directament aquesta fitxa**: **totes van ser
-  > enregistrades com a *associacions***, **a l'espera de la llei de sindicats
-  > que la Constitució preveu i que el corpus no té constància que s'hagi
-  > aprovat** ([la cronologia legislativa](../../institucions/justicia/cronologia-legislativa.md)).
-  > **Si els llindars de representativitat d'aquesta llei de vaga es mesuren
-  > sobre «sindicats» i el que hi ha són associacions**, **la pregunta del buit
-  > no és quants n'hi ha sinó si n'hi ha cap en el sentit de la norma.**
-  > `deducció del corpus, no verificada contra cap resolució.`
-  **El recompte d'avui i els llindars segueixen oberts.**
-- ~~**Quantes vagues s'han convocat** des del 2018, i si el Govern ha fixat mai
-  serveis essencials.~~ **`parcial` el 21-09-2026**: l’article 21.2 de la llei
-  de conflictes col·lectius ja enumera els serveis on el Govern pot imposar un
-  funcionament mínim —sanitat, seguretat, prestacions socials, transport,
-  comunicacions, subministraments, educació, justícia, presons i duanes— i
-  l’article 21.3 en fixa la motivació, proporcionalitat i consulta prèvia. La
-  norma acredita la potestat, però el corpus encara no té el recompte de vagues
-  2018–2026 ni cap resolució que provi que s’hagi exercit.
-- ~~**El Consell Econòmic i Social** no té fitxa al corpus.~~ — **`resolt` el
-  18-09-2026**: [fitxa pròpia](./el-consell-economic-i-social.md), amb el
-  marc legal, la composició i les funcions del Consell.
-- ~~**La normativa específica dels cossos especials** —que decideix si els
-  policies andorrans es poden sindicar— **no és al recull**.~~ — **`resolt` el
-  17-09-2026 des del [BOPA](../../../fonts/bopa.md)**, i **la resposta és doble:
-  sí a sindicar-se, no a la vaga.**
+## Fonts
 
-  **La norma és el text refós de la Llei qualificada del Cos de Policia**
-  (`docs/raw/lleis/bopa/decret-legislatiu-2017-text-refos-cos-de-policia.txt`),
-  **que hi dedica una secció sencera —«Drets sindicals», articles 81 a 86**.
-
-  > «Els membres del Cos de Policia **tenen dret de constituir organitzacions
-  > sindicals** per defensar els seus interessos, així com d'afiliar-s'hi i
-  > participar-hi activament» (article 81).
-
-  **Amb una restricció que els aïlla de la resta del món sindical**: **«només es
-  podran afiliar a organitzacions sindicals formades exclusivament per membres
-  del mateix Cos»** (article 82). **Un policia andorrà no es pot afiliar a un
-  sindicat general.**
-
-  **I la vaga els està prohibida sense excepció:**
-
-  > «A l'objecte d'assegurar la prestació continuada dels seus serveis, **que no
-  > admeten interrupció i són essencials per la comunitat**, els membres del Cos
-  > de Policia **no poden exercir en cap cas el dret de vaga**, **ni accions
-  > substitutives d'aquest dret o concertades** que puguin alterar el
-  > funcionament normal dels serveis» (article 83.2).
-
-  **La llei no fixa serveis mínims per a la policia: en suprimeix el dret.** **I
-  tanca també la porta del costat**: **els prohibeix manifestar-se o defensar
-  públicament els seus interessos professionals fent servir l'arma, l'uniforme,
-  les divises o el material operatiu** (article 83.3). **Es poden manifestar,
-  però de paisà.**
-
-  **I el sindicalisme dels cossos especials és una realitat legal recent i
-  creixent.** **La Llei 21/2025, del 13 de novembre**
-  (`docs/raw/lleis/bopa/llei-21-2025-cossos-especials.txt`) **dona a «cada
-  associació sindical» un representant amb veu i vot als comitès tècnics de
-  selecció**, i **ho fa cos per cos**: **Policia, Cos Penitenciari, Prevenció i
-  Extinció d'Incendis i Salvaments, Duana, Banders, Educació, carrera
-  diplomàtica** i **el personal de l'Administració de Justícia.** **Vuit
-  col·lectius amb associacions sindicals reconegudes per llei.**
-  `Requereix comprovar si la prohibició de vaga que pesa sobre la policia pesa
-  també sobre els altres set: el corpus només ha llegit la llei del Cos de
-  Policia.`
-
-  `Requereix saber quantes associacions sindicals de cos hi ha constituïdes i
-  amb quin nom, que la llei suposa i no enumera.`
-- ~~**El tancament patronal (*lockout*)**, si la llei el regula, no s'ha
-  localitzat en el que s'ha llegit.~~ — **`resolt` el 16-09-2026: sí que el
-  regula, i en un capítol sencer.** **La Llei del conflicte col·lectiu hi
-  dedica el capítol tercer, articles 24 a 30**
-  (`docs/raw/lleis/conflicte-collectiu.txt`). **El corpus en reté el que el
-  distingeix de la vaga:**
-  **És una mesura de conflicte col·lectiu decidida unilateralment per
-  l'empresa**, i **només es pot exercir si ja hi ha vaga o conflicte
-  irregular** i **a més concorre un dels tres supòsits taxats**: perill evident
-  per a la seguretat de persones o béns, ocupació il·legal del centre de
-  treball, o **tanta inassistència que no es puguin fer ni els treballs de
-  manteniment per reprendre l'activitat.**
-  **I hi ha una prohibició que en diu el sentit**: **no es pot tancar per
-  impedir o limitar una vaga, ni per sancionar-ne una de feta** (article 26).
-  **El tancament és defensiu per definició legal, no una arma de resposta.**
-  **Procediment**: **avís al ministeri i als assalariats amb dos dies hàbils
-  d'antelació**, i **si el ministeri considera que no hi ha causa, ho resol per
-  escrit en un dia hàbil i la resolució és de compliment obligatori**, sense
-  que el recurs en suspengui l'execució. **Si no diu res, s'entén autoritzat.**
-  **Efectes**: **no extingeix la relació laboral, la suspèn** —i suspèn el
-  salari—; **l'assalariat es manté d'alta a la CASS amb suspensió de
-  cotització**, i **no té dret a prestació per baixa mèdica si la baixa comença
-  dins del tancament**, llevat d'accident de treball.
+Les referències principals són els articles 2, 7–13 i 21 de la Llei 33/2018 i
+els articles 3, 11 i 12 de la Llei 32/2018, tal com consten als [textos
+originals publicats al BOPA](../../../raw/lleis/bopa-originals/original-33-2018.txt) i
+[32/2018](../../../raw/lleis/bopa-originals/original-32-2018.txt), contrastats
+amb les [instantànies consolidades de conflicte col·lectiu](../../../raw/lleis/conflicte-collectiu.txt) i
+[d’acció sindical](../../../raw/lleis/accio-sindical.txt). Les condicions de
+reutilització dels textos normatius són a la fitxa del [BOPA](../../../fonts/bopa-ad.md);
+la procedència de la instantània consolidada consta a la fitxa de
+[Jurisprudència.ad](../../../fonts/jurisprudencia-ad.md).

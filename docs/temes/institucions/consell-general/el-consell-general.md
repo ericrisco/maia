@@ -7,26 +7,17 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: bopa-ad
-timestamp: 2026-09-13T18:50:32Z
+timestamp: 2026-09-24T23:16:17Z
 tags: [institucions, lexic-marcat, reglament, representacio]
 ---
 
 # El Consell General
 
-**La Constitució no fixa el parlament en 28 escons: permet entre 28 i 42.**
+**La Constitució no fixa el parlament en 28 escons: permet entre 21 i 42.**
 La meitat s'elegeix per circumscripció nacional i l'altra meitat es reparteix
 igualment entre les set parròquies. Els consellers tenen la mateixa naturalesa
 representativa i els mateixos drets i deures, sense mandat imperatiu.
 ([Constitució, articles 52–53, BOPA p. 452](../../../raw/consell-general/bopa-constitucio-1993-num24.pdf).)
-La notícia institucional del 25 de maig de 2023 descriu els **28 escons de
-la IX legislatura**; aquest recompte no és el màxim constitucional.
-([Notícia, primer paràgraf](../../../raw/consell-general/composicio-ix-legislatura.txt).)
-
-La pàgina actual de composició del Consell General confirma els **28 escons** i
-publica la llista nominal vigent, amb **Carles Ensenyat Reig** com a síndic i
-**Sandra Codina Tort** com a subsíndica
-([fitxa de font](../../../fonts/consell-general-composicio-actual-2026.md)).
-
 El Consell representa el poble andorrà, legisla, aprova els pressupostos
 estatals i impulsa i controla l'acció política del Govern.
 ([Constitució, article 50, BOPA p. 452](../../../raw/consell-general/bopa-constitucio-1993-num24.pdf).)
@@ -39,7 +30,7 @@ i de transferències als comuns requereixen el vot final favorable de la
 nacionals**, separadament.
 ([Constitució, article 57.3, p. 452](../../../raw/consell-general/bopa-constitucio-1993-num24.pdf).)
 
-**Exemple aritmètic del corpus:** en una cambra de 28 escons, repartits
+**Exemple aritmètic:** en una cambra de 28 escons, repartits
 14 i 14, calen almenys vuit vots favorables de cada conjunt. Setze vots
 repartits nou i set no compleixen aquesta exigència; vuit i vuit sí.
 No és el resultat d'una votació real.
@@ -85,39 +76,22 @@ Representa el Consell, dirigeix imparcialment els debats i interpreta el
 Reglament en cas de dubte. El subsíndic el substitueix per vacança, absència
 o impediment, amb les seves atribucions.
 ([Articles 15–16, p. 8](../../../raw/consell-general/bopa-reglament-2026.pdf).)
-La denominació normativa és **síndic general**; aquestes disposicions no
-permeten afirmar que mai se l'anomeni president en altres usos.
+El Reglament denomina aquest càrrec **síndic general**.
 
-## Related
+## Fonts i abast
 
-- [Les set parròquies](../comuns-i-parroquies/les-set-parroquies.md) — el nivell local.
-- [Quarts i veïnats](../quarts-i-veinats/quarts-i-veinats.md) — el nivell sota la parròquia.
-- [Política](../../politica/politica-d-andorra-index-de-fitxes.md) — la branca que explica qui hi seu i com hi arriba.
-- [L'estrany i el llot](./lestrany-i-el-llot.md) — de què vivia, i de què no vivia.
+La Constitució es consulta als articles 50, 52, 53 i 57.3 de la publicació
+original al BOPA núm. 24, del 4 de maig de 1993, p. 452. El Reglament del
+Consell General del 4 de juny de 2026 es va publicar al BOPA núm. 72, del 26
+de juny de 2026; els articles 14–18, 30–38, 45, 55 i 58 i les disposicions
+derogatòria i final cinquena donen suport a aquesta lectura. La disposició
+final cinquena fixa l’entrada en vigor el 27 de juny de 2026. Aquesta síntesi
+no implica suport institucional.
 
 ## Buits registrats
 
-- ~~Corregits els vuit òrgans legislatius permanents i els períodes fins a
-  juny/desembre que deia la versió anterior: l'original de 2026 enumera
-  nou comissions i fixa altres dates. No s'ha reconstruït tota l'evolució
-  anterior ni comprovat una cadena exhaustiva de modificacions posteriors.~~ —
-  **`no-es-buit` el 19-09-2026**: és una nota de correcció i delimitació de la
-  lectura del Reglament, no una pregunta independent.
-- ~~Lectura íntegra del Reglament de 48 pàgines i dels seus dos annexos~~ — **`parcial`
-  el 18-09-2026**: no s'han llegit el Reglament complet ni els seus dos annexos
-  íntegrament. Tancat el buit constitucional per als articles 50–57:
-  [BOPA núm. 24, p. 452](../../../raw/consell-general/bopa-constitucio-1993-num24.pdf),
-  text i imatge contrastats. No tota la Constitució original llegida;
-  els articles 59–61 continuen sense contrast íntegre amb aquest PDF.
-- ~~Els 28 escons es documenten amb una notícia de 2023; no s'ha auditat la
-  composició nominal de 2026 ni el procediment de les dues votacions electorals.~~ —
-  **`parcial` el 22-09-2026**: la pàgina institucional actual confirma els 28
-  escons i publica la composició nominal vigent ([fitxa de font](../../../fonts/consell-general-composicio-actual-2026.md)). **El procediment de les dues votacions electorals continua pendent d'una font electoral específica.**
-- ~~No s'ha comprovat la retransmissió televisiva de totes les sessions ni
-  la fidelitat lingüística del Diari respecte a l'àudio. Retirades les
-  afirmacions absolutes sobre aquests punts i sobre l'exclusivitat del lèxic
-  en tot el català institucional: no tenien evidència suficient.~~ — **`font_externa` el 2026-09-22**: cal consultar fonts, registres o observació que el corpus no conserva.
- - ~~[Peces del portal](../../../fonts/consell-general-organitzacio.md):
-   abast de reutilització per peça pendent; lectura exclosa de datasets
-   mentre aquesta verificació no s'hagi resolt. **`no-es-buit`**: és un avís de
-   drets, no una pregunta de recerca.~~ — **`no-es-buit` el 2026-09-22**: és una limitació del registre, no una pregunta de contingut.
+Aquesta lectura cobreix només els articles i les pàgines indicats, no el
+Reglament complet ni els seus annexos. No reconstrueix possibles modificacions
+posteriors, no descriu el procediment electoral complet i no dona la composició
+nominal actual del Consell ni qui ocupa avui cada càrrec. Les dades sobre
+membres i càrrecs s’han de verificar en una font institucional actualitzada.

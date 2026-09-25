@@ -1,161 +1,42 @@
 ---
 type: article
-title: El barem patrimonial i els ajuts
-description: L'habitatge habitual queda fora del còmput immobiliari del barem de 2018; els actius financers i els béns mobles es valoren cumulativament.
+title: Com es va calcular el barem patrimonial dels ajuts socials (2014–2018)
+description: El llindar va passar de 100 punts a tres valors separats i, després, a dos còmputs; els textos legals no van coincidir sempre.
 tema: temes/societat/treball
 veu: compilada
-epoca: contemporania
+epoca: historica
 apte_llengua: false
 font: bopa-ad
-timestamp: 2026-09-13T18:13:58Z
-tags: [proteccio-social, patrimoni, ajuts, lecs]
+timestamp: 2026-09-25T03:08:41Z
+tags: [proteccio-social, patrimoni, ajuts, legislacio, historia]
 ---
 
-# El barem patrimonial i els ajuts
+# Com es va calcular el barem patrimonial dels ajuts socials (2014–2018)
 
-**Els ingressos i el patrimoni són comprovacions diferents.** La definició
-de precarietat de la Llei 6/2014 combina recursos que no superen el llindar
-econòmic de cohesió social —LECS— i béns que no superen la puntuació del
-barem patrimonial. Aquest barem també serveix per modular imports,
-copagaments i gratuïtats; no es limita a decidir l'accés a un ajut.
-([Original de 2014, articles 2.m i 2.o, p. 2226–2227](../../../raw/desocupacio/bopa-llei6-2014-original.pdf).)
+El barem patrimonial de la Llei 6/2014 valora els béns de la persona sol·licitant o de la seva família per determinar l’accés a prestacions, modular-ne l’import i decidir copagaments o gratuïtat. La llei també defineix separadament el llindar econòmic de cohesió social (LECS), que mesura ingressos. Per tant, ingressos i patrimoni són comprovacions diferents (Llei 6/2014, article 2, lletres l i o, BOPA núm. 30, 21-05-2014, pàg. 2226–2227).
 
-## L'habitatge habitual queda fora d'un dels còmputs
+## Del llindar de 100 punts a dues bases de càlcul
 
-La Llei 5/2018 publica aquesta redacció de l'article 32:
+El 2014, l’article 32 assignava punts segons trams de patrimoni i considerava superat el barem quan la puntuació superava els 100 punts. L’habitatge habitual ja quedava fora del còmput immobiliari (Llei 6/2014, article 32, BOPA núm. 30, 21-05-2014, pàg. 2238–2239).
 
-| Béns valorats | Quan es considera superat el barem |
-| --- | --- |
-| Immobles, sense l'habitatge habitual | Valor de mercat igual o superior a **10 LECS personals anuals** |
-| Actius financers i béns mobles, sumats | Valor igual o superior a **6,5 LECS personals anuals**; s'exclouen els béns mobles d'ús personal i els vehicles adaptats per a persones amb discapacitat |
+La Llei 2/2016 va canviar el primer paràgraf: el barem es considerava superat quan la puntuació igualava els 100 punts. La llei va entrar en vigor l’endemà de publicar-se, l’1 d’abril de 2016 (Llei 2/2016, disposicions finals setena i novena, identificador BOPA `CGL20160329_10_24_03`, pàg. 30–31).
 
-En propietats indivises, el valor es reparteix a parts iguals llevat de prova
-d'una quota diferent. El detall de la valoració es remet al reglament.
-([Llei 5/2018, article únic: article 32.1–3, p. 2](../../../raw/desocupacio/bopa-llei5-2018-original.pdf).)
+La Llei 3/2017 va substituir el sistema de punts per tres llindars separats, tots expressats en LECS personals anuals: 10 per als immobles, sense l’habitatge habitual; 1,5 per als actius financers; i 5 per als béns mobles, exclosos els vehicles adaptats per a persones amb discapacitat. La modificació va entrar en vigor l’1 de març de 2017 (Llei 3/2017, disposicions finals cinquena i vuitena, BOPA núm. 14, 28-02-2017, pàg. 23 i 30).
 
-## De superar els 100 punts a igualar-los
+## La diferència entre la llei i el reglament del 2017
 
-L'article 32 original assignava punts per trams i considerava superat el
-barem per damunt de **100 punts**. Ja excloïa l'habitatge habitual.
-([Llei 6/2014, article 32, p. 2238–2239](../../../raw/desocupacio/bopa-llei6-2014-original.pdf).)
+El Decret del 26-04-2017 va modificar el reglament de prestacions de 2016. Per valorar el patrimoni, va mantenir el llindar immobiliari de 10 LECS, però va dir que els actius financers i els béns mobles es valoraven de manera cumulativa amb un llindar conjunt de 6,5 LECS anuals. També va excloure els béns mobles d’ús personal i els vehicles adaptats. Per als immobles computables, exigia una valoració de mercat feta per un expert independent o per l’Administració tributària durant l’any anterior a la sol·licitud (Decret del 26-04-2017, article únic, article 5.2.a.iii del reglament, identificador BOPA `GR20170427_11_17_25`, BOPA núm. 27, 03-05-2017, pàg. 1–2; Reglament del 18-05-2016, article 5.2.a.iii, identificador `GR20160520_09_21_21`, BOPA núm. 32, 25-05-2016, pàg. 4).
 
-La final setena de la Llei 2/2016 modifica el primer paràgraf: on el
-2014 deia «superen els 100 punts», el 2016 diu «igualen els 100 punts».
-La final novena fixa l'entrada en vigor l'endemà de publicar-se: **1 d'abril
-de 2016**. Es preserva el canvi literal; no es transforma aquí en una
-regla aplicada als patrimonis amb més de 100 punts.
-([Llei 2/2016, final setena, p. 30–31; final novena, p. 31; BOPA del 31-03-2016](../../../raw/desocupacio/bopa-llei2-2016-original.pdf).)
+Així, durant aquest període la llei parlava de dos llindars separats —1,5 per als actius financers i 5 per als béns mobles—, mentre que el reglament del 2017 els tractava conjuntament amb un llindar de 6,5. Aquest article registra les dues redaccions i no decideix com es van aplicar als expedients ni com s’encaixaven jurídicament.
 
-L'exposició de motius de 2018 atribueix el pas als llindars únics a la
-Llei 3/2017 i el desenvolupament cumulatiu al reglament d'abril de 2017;
-explica que ara incorpora aquest desenvolupament a la llei.
-([Llei 5/2018, exposició de motius, p. 1](../../../raw/desocupacio/bopa-llei5-2018-original.pdf).)
+La Llei 5/2018 va tornar a modificar l’article 32 i va incorporar a la llei el còmput cumulatiu que el reglament havia desenvolupat: 10 LECS per als immobles, sense l’habitatge habitual, i 6,5 LECS per als actius financers i els béns mobles sumats. En aquest segon còmput excloïa els béns mobles d’ús personal i els vehicles adaptats. També establia el repartiment per parts iguals del valor de propietats indivises, llevat que es provés una quota diferent (Llei 5/2018, article únic, article 32.1–3, BOPA núm. 29, 16-05-2018, pàg. 1–2).
 
-## El 2017, separar o sumar canviava la regla escrita
+## Canvis posteriors dels reglaments
 
-La final cinquena de la Llei 3/2017 substitueix l'article 32 per tres
-llindars: **10** LECS personals anuals per als immobles sense l'habitatge
-habitual, **1,5** per als actius financers i **5** per als béns mobles,
-exclosos els vehicles adaptats. Els dos darrers apareixen en lletres
-separades. La final vuitena situa l'entrada en vigor d'aquesta modificació
-l'endemà de publicar-se: **1 de març de 2017**.
-([Llei 3/2017, final cinquena, p. 23; final vuitena, p. 30; publicació del 28-02-2017](../../../raw/desocupacio/bopa-llei3-2017-original.pdf).)
-
-El Decret del 26-04-2017 dona una redacció diferent al desenvolupament
-reglamentari: **6,5** LECS anuals per al valor cumulatiu dels actius
-financers i els béns mobles, amb exclusió dels béns d'ús personal i dels
-vehicles adaptats. Entra en vigor l'endemà de publicar-se, **4 de maig de
-2017**. El preàmbul ho presenta com una adaptació de la llei amb criteris
-d'equitat. Aquí es preserven totes dues redaccions, sense determinar quina
-es va aplicar als expedients ni resoldre'n l'encaix jurídic.
-([Decret del 26-04-2017, preàmbul i article únic: article 5.2.a.iii, p. 1–2](../../../raw/desocupacio/bopa-decret-2017-04-26-original.pdf).)
-
-El mateix decret exigeix, per valorar els immobles computables, un informe
-d'un expert independent o de l'Administració a efectes tributaris fet dins
-de l'any anterior a la sol·licitud. Per als béns mobles, l'òrgan gestor
-utilitza indicadors objectius i el sol·licitant pot aportar informes.
-([Article únic: article 5.2.a.iii, guions tercer i cinquè, p. 2](../../../raw/desocupacio/bopa-decret-2017-04-26-original.pdf).)
-
-L'informe immobiliari amb aquesta antiguitat màxima **ja figurava en el
-reglament de 2016**. En canvi, el seu segon guió parlava del valor dels
-**vehicles**, amb exclusió dels adaptats, mentre que el decret de 2017
-parla dels **béns mobles** i afegeix l'exclusió dels d'ús personal.
-([Reglament del 18-05-2016, article 5.2.a.iii, p. 4](../../../raw/desocupacio/bopa-reglament-2016-original.pdf);
-[Decret del 26-04-2017, article únic, cinquè guió del 5.2.a.iii, p. 2](../../../raw/desocupacio/bopa-decret-2017-04-26-original.pdf).)
-
-## Què va passar amb el decret del 2017
-
-**El decret d'abril del 2017 ja no és dret vigent, i qui el va matar ho diu
-amb noms.** El **Decret del 3-7-2019** deroga expressament **«el Decret del
-18-5-2016 d'aprovació del Reglament regulador de les prestacions econòmiques dels
-serveis socials i sociosanitaris **i les seves modificacions successives**»** —el
-decret d'abril del 2017 n'és una— i, a part, **el capítol cinquè del Decret del 18
-de setembre del 2013** de prestacions econòmiques d'atenció social. Un any i mig
-després, el **Decret del 7-10-2020** deroga expressament **el del 3-7-2019**
-sencer.
-
-**La cadena, doncs, és 2013 → 2016 (amb l'errata del 31-8-2016 i el decret d'abril
-del 2017) → 2019 → 2020**, i sobre l'últim hi ha [set modificacions més, cap de
-les quals toca l'article 26](lajut-per-desocupacio-involuntaria.md#set-modificacions-despres-del-2020-i-cap-toca-larticle-26).
-**Les dues derogatòries són, a més, del mateix tipus**: una llista expressa i, a
-continuació, una clàusula general contra tot el que s'hi oposi «de rang igual o
-inferior». **El que aquest article llegeix del 2016 i del 2017 és, per tant,
-història del barem, no regla aplicable avui.**
+El Decret del 03-07-2019 va aprovar un nou reglament i va derogar expressament el reglament del 2016 i les seves modificacions. El Decret del 07-10-2020 va derogar expressament el reglament del 2019 i en va aprovar un altre (identificadors BOPA `GR20190705_10_37_11` i `GR20201009_12_08_44`, respectivament). Aquestes derogacions documenten canvis de norma; per si soles no determinen quins criteris materials van quedar en el reglament de 2020 ni quina és la regla consolidada actual.
 
 ## Buits registrats
 
-- ~~Lectura històrica: no s'ha reconstruït tota la vigència posterior ni
-  calculat imports o elegibilitat individuals del 2026.~~ — **`parcial` el
-  17-09-2026**: **la vigència posterior sí que està reconstruïda** a «[Què va
-  passar amb el decret del 2017](#que-va-passar-amb-el-decret-del-2017)»; **el
-  que segueix obert són els imports i l'elegibilitat individual del 2026**, que
-  no es deriven del text.
-- ~~**Debat parlamentari del 19-04-2018**~~ — **`parcial` el 19-09-2026**:
-  la peça ja s’ha llegit i documenta el desacord sobre l’habilitació del
-  reglament, però no tanca el buit d’interpretació judicial ni d’aplicació
-  efectiva.
-  ([Debat](../../institucions/consell-general/el-debat-sobre-el-calcul-patrimonial-de-2018.md).)
-- ~~**Antecedents de 2017 i 2016**~~ — **`parcial` el 18-09-2026**: final cinquena
-  del pressupost i decret d'abril llegits directament; tancat el buit de lectura d'aquestes
-  dues peces. **Antecedents de 2016 també contrastats:** final setena de
-  la Llei 2/2016 i article 5.2.a.iii del reglament del 18-05-2016 llegits
-  als originals; això no equival a llegir les dues normes senceres.
-- ~~La [correcció del 31-08-2016, p. 1](../../../raw/desocupacio/bopa-errata-2016-08-31.pdf)
-  ja s'ha llegit: corregeix l'edat mínima del primer guió del 15.2.a.ii,
-  de tres a zero anys. Aquesta peça no modifica el 5.2.a.iii.~~ —
-  **`no-es-buit`**: és una nota sobre una errata ja llegida, no una pregunta
-  pendent.
-- ~~**Data discrepant preservada:** el preàmbul de la Llei 5/2018, p. 1,
-  remet a la Llei 3/2017 com del **19 de febrer**; l'original de la
-  Llei 3/2017, p. 1 i 30, diu **9 de febrer**. Queda per comprovar si
-  existeix una correcció formal d'aquesta remissió.~~ — **`resolt` el
-  17-09-2026 al [BOPA](../../../fonts/bopa.md).** **La data bona és el 9 de
-  febrer** i **no existeix cap correcció formal.**
-
-  **Tres comprovacions, totes al mateix lloc.** **El sumari oficial del BOPA**
-  titula la norma **«Llei 3/2017, del 9 de febrer, del pressupost per a
-  l'exercici del 2017»**. **El text de la Llei 5/2018 publicat al BOPA**
-  reprodueix l'error del preàmbul —«Llei 3/2017, del **19 de febrer**»—
-  (`docs/raw/lleis/bopa/llei-5-2018-mod-serveis-socials.txt`): **no és una
-  errata de la còpia que el corpus tenia, és del text oficial.** I **la cerca
-  de «correcció d'errata» amb «Llei 5/2018» dona zero resultats a tot el
-  Butlletí**: **l'error no s'ha esmenat mai.**
-
-  **L'origen més probable de l'error és mecànic**: **la Llei 5/2018 és «del 19
-  d'abril»**, i el preàmbul sembla haver arrossegat el seu propi dia a la data
-  de la norma citada. **El corpus es queda amb el 9 de febrer i deixa
-  registrat que la remissió oficial segueix dient una altra cosa.**
-- ~~Les regles de valoració del decret d'abril de 2017 ja estan llegides;
-  queden pendents l'aplicació administrativa, els indicadors concrets,
-  eventuals correccions i les modificacions posteriors. L'exclusió indicada
-  no demostra que l'habitatge sigui irrellevant per a qualsevol prestació.~~ —
-  **`parcial` el 17-09-2026**: **les modificacions posteriors estan tancades**
-  —el decret del 2017 va quedar derogat el 2019 com a modificació del reglament
-  del 2016, i el reglament del 2019 ho va ser al seu torn el 2020—. `Requereix,
-  encara, l'aplicació administrativa i els indicadors concrets.`
-- ~~El reglament de 2020 diu que el patrimoni iguala el barem, mentre que la
-  definició legal de precarietat diu que no el supera. Els originals
-  confirmen les dues formulacions; el contrast i les correccions pendents
-  consten a [l'ajut per desocupació](lajut-per-desocupacio-involuntaria.md).~~ —
-  **`resolt` com a duplicat el 19-09-2026**: la discrepància i els residus
-  d'interpretació es conserven com a buit canònic a [l'ajut per desocupació](lajut-per-desocupacio-involuntaria.md).
+- No s’ha reconstruït la normativa consolidada posterior al reglament de 2020. Aquest article descriu les redaccions citades, no determina el barem aplicable avui.
+- No s’ha establert com es van resoldre en expedients concrets la diferència entre els llindars separats de la Llei 3/2017 i el còmput conjunt del reglament del mateix any.
+- No s’han comprovat les valoracions administratives, els indicadors concrets, les resolucions judicials ni els imports o l’elegibilitat de cap persona.

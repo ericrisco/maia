@@ -3,50 +3,48 @@ type: parla
 title: Alberg és un sinònim de casa
 description: "Esther Jover explica Cal Pal de la Cortinada. Deu minuts, poc lèxic nou i un de bo: alberg com a nom de la casa-patrimoni, explicat per ella mateixa."
 tema: parla/oral
-veu: originaria
+veu: compilada
 epoca: contemporania
-apte_llengua: true
+apte_llengua: false
 font: ari-capsules
-timestamp: 2026-09-16T19:45:00Z
-tags: [parla, cases, ordino, patrimoni, lexic-marcat, possiblement-llegida, transcripcio-no-verificada]
+timestamp: 2026-09-24T23:27:14Z
+tags: [parla, cases, ordino, patrimoni, lexic-marcat, possiblement-llegida, transcripcio-no-verificada, perfil-del-parlant-pendent]
 ---
 
 # Alberg és un sinònim de casa
 
-**Tanda 15 de parla.** Càpsula #49 d'Andorra Recerca + Innovació, **9 min 49 s**
-([font](../../fonts/ari-capsules.md) · [material de partida](../../raw/parla/ari-capsula-49/capsula-49-cal-pal-de-la-cortinada-per-esther-jover.md)).
+**Tanda 15 de parla.** Càpsula #49 d'Andorra Recerca + Innovació. La metadada de YouTube consultada el 2026-09-25 indica **9 min 48 s**; el material de partida local anotava 589 segons (**9 min 49 s**), discrepància no resolta.
+([font](../../fonts/ari-capsules.md) · [material de partida](../../raw/parla/ari-capsula-49/capsula-49-cal-pal-de-la-cortinada-per-esther-jover.md) · [captura de metadades](../../raw/parla/ari-capsula-49/youtube-info-2026-09-25.json)).
 
-## Avís doble
+## Estat de revisió
 
-**Pot ser llegida**: obertura de guia («Benvinguts a Calpal»), connectors escrits
-(«No obstant», «Com dèiem») i **cap rectificació en mil cinc-cents mots**. Cap
-passat simple, de manera que no es condemna. **Etiquetada `possiblement-llegida`.**
+El fitxer de treball conté 294 segments i 52 marcadors d'incertesa. Hi ha
+indicis textuals que la peça pot ser una visita guiada preparada, però no es
+pot confirmar si la intervenció és llegida sense escoltar l'àudio.
 
-**No verificada**: 52 marques en 294 segments — **la millor proporció del
-corpus**, i igualment sense comprovar.
+**Transcripció no verificada.** No hi ha cap fitxer d'àudio local en el paquet
+de la càpsula i no s'ha fet una comprovació auditiva ni torn a torn. Per tant,
+la transcripció no es considera verbatim.
 
-## Consentiment
+## Llicència i atribució
 
-**Consta.** La peça és d'una sèrie publicada per **Andorra Recerca + Innovació**,
-institució pública, **amb el ponent nomenat al títol**, i porta llicència
-**Creative Commons Attribution**, que és una cessió explícita de redistribució
-feta pel titular.
-
-El parlant **no és un informant particular**: parla en qualitat de professional o
-d'estudiós, en una peça que la institució titula amb el seu nom. Per això el
-corpus el pot nomenar ([font](../../fonts/ari-capsules.md)).
+La metadada actual de YouTube per al vídeo `gvDsyvnxSFY` declara «Creative
+Commons Attribution license (reuse allowed)». La captura es va obtenir el
+2026-09-25 amb `yt-dlp 2026.03.17` i es conserva a
+`docs/raw/parla/ari-capsula-49/youtube-info-2026-09-25.json` (SHA-256
+`ff1dcbb286b6b557a77fbf4d0bd781759135f41e44e0e540060ef51996ae7d17`). Aquesta verificació cobreix la llicència del vídeo concret; no
+valida la transcripció ni acredita que la persona parli una varietat
+andorrana. La llicència del vídeo no es descriu com a consentiment personal
+addicional.
 
 ## Qui parla
 
-| | |
+| Aspecte | Què acredita el registre actual |
 | --- | --- |
-| Nom | **Esther Jover.** No es presenta dins la gravació. |
-| Parròquia | Parla de **la Cortinada, Ordino**, des de dins de la casa. **Que hi visqui o que en sigui, no consta.** |
-| Generació | **No consta.** |
-| De casa o vingut | **No consta.** |
-| Llengua primera | **No consta.** |
-| Ofici | Vinculada a **Cal Pal** com a equipament cultural. **No ho declara.** |
-| Registre | **Visita guiada preparada**, possiblement llegida. |
+| Identificació | El títol del vídeo atribueix la intervenció a **Esther Jover**; la veu no s'ha escoltat per confirmar la identificació. |
+| Relació amb el lloc | El títol situa la peça a Cal Pal de la Cortinada, Ordino. Això no acredita que la ponent hi visqui, sigui originària d'Andorra o parli una varietat local. |
+| Perfil personal i lingüístic | Naixement, residència, generació i primera llengua: **no consten** en les proves revisades. |
+| Registre | Té forma de visita guiada; si és una lectura de guió queda pendent d'àudio. |
 
 ## La transcripció
 

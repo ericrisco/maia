@@ -17,13 +17,17 @@ El [registre de tancament](docs/raw/estat-projecte/tancament-obtencio-v1.md)
 conserva els pendents i els criteris de la fase següent. Tancar la recopilació
 no certifica que tot el material sigui apte per entrenar.
 
+La curació ja ha començat per tandes. L'[inventari inicial](docs/raw/curacio/mapa-inicial.md)
+classifica cada fitxer com a no revisat, en revisió, aprovat, pendent o
+exclòs. El [corpus final](final-corpus/README.md) conté ara catorze unitats de coneixement amb fonts, termes, localitzadors i revisió model-assistida registrats: sèries de població per poble, edat, sexe, nacionalitat i registre històric, naixements, defuncions i migració; lectures històriques d’ajuts per esquí i desocupació; una síntesi de la sentència constitucional 2026-25-RE; una lectura de l’estructura del Consell General; lectures sobre superàvits i crèdits per a habitatge i sanitat, barems d’ajuts socials i normativa d’allaus; i una síntesi de les lleis de 2018 sobre vaga i acció sindical, més una lectura de la producció de tabac entre 1973 i 2025. L’esborrany jurídic dels mesos cotitzats continua pendent a `docs/temes/`. No s’ha fet cap entrenament.
+
 ## Què hi ha aquí
 
 | Ruta | Què és |
 | --- | --- |
 | `docs/` | El corpus. S'obre directament com a vault d'Obsidian. |
 | `docs/temes/` | Coneixement compilat, organitzat per dominis. |
-| `docs/parla/` | Transcripcions de parla andorrana, literals. |
+| `docs/parla/` | Transcripcions i candidats de parla, amb procedència i estat de verificació per fitxa. |
 | `docs/fonts/` | Una fitxa per font: titular, llicència, redistribució. |
 | `src/cervell/` | L'eina que valida el corpus i genera el contracte i l'índex. |
 | `schema/corpus.toml` | La font de veritat: camps, enums i regles. |

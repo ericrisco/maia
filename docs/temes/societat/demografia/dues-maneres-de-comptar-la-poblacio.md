@@ -7,7 +7,7 @@ veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: estadistica-ad
-timestamp: 2026-09-13T15:10:34Z
+timestamp: 2026-09-24T21:38:09Z
 tags: [societat, demografia, estadistica, poblacio, comuns]
 ---
 
@@ -43,9 +43,11 @@ i §4, p. 12.)
 | Escaldes-Engordany | 17.298 | 16.350 | 948 |
 | **Total** | **94.596** | **90.021** | **4.575** |
 
-Dades dels censos comunals, tractades pel Departament d'Estadística per a
-la nota de premsa ref. NP_A001_A003_20260813, §3.1, p. 7. Selecció de
-columnes del corpus; referència 31-07-2026, publicació 13-08-2026.
+Elaboració pròpia amb dades del Departament d'Estadística del Govern d'Andorra,
+nota NP_A001_A003_20260813, §3.1, p. 7. Referència 31-07-2026, publicada
+13-08-2026 i consultada 13-09-2026. La font declara reutilització de les seves
+dades estadístiques amb atribució sota CC BY 4.0; aquesta reutilització no
+implica suport del Departament al projecte.
 
 ## L'estimació també pot afegir persones
 
@@ -82,37 +84,19 @@ tota a emigració, o tota a una neteja administrativa, excediria aquesta
 lectura. ([Nota](../../../raw/estadistica-poblacio/a001-a003-2026-07.pdf),
 p. 1, advertiment, i p. 7.)
 
-## Related
-
-- [Demografia](demografia.md): població, origen i límits de les inferències lingüístiques.
-- [Qui compta com a resident](qui-compta-com-a-resident.md): els llindars de 183 dies i dotze mesos, i els quatre recomptes que defineix la metodologia.
-
 ## Buits registrats
 
-- ~~Lectura de les p. 2–6 i 9–11 de la nota mensual~~ — **`parcial` el
-  19-09-2026**: la lectura cobreix el resum, la comparació dels recomptes i les
-  definicions, però no tota la publicació.
-- ~~No s'han consultat expedients de depuració ni recomptes d'altes i baixes
-  que expliquin separadament el canvi anual d'Encamp i la Massana.~~ —
-  **`parcial` el 20-09-2026**: la nota adverteix que les variacions del registre
-  poden incloure **depuracions administratives** i intercanvi mensual amb els
-  comuns, però no quantifica quina part de la baixada correspon a cada causa.
-- ~~La metodologia llegida s'identifica amb el Pla d'estadística 2022–2025,
-  mentre que la nota mensual remet al de 2026–2029. El portal l'enllaçava
-  en consultar-lo el 13-09-2026, però no s'ha localitzat una història de
-  revisions que acrediti si cada pas descrit continuava igual el juliol de 2026.~~ —
-  **`parcial` el 20-09-2026**: queden identificats els dos plans i la remissió
-  que fa la nota, però el corpus no té l'historial de revisions que permeti saber
-  si la metodologia havia canviat el juliol de 2026.
-- ~~No s'ha comprovat la causa de la diferència negativa del grup andorrà
-  ni l'execució de les millores anunciades. Les possibles altes descrites
-  per a estrangers no són una explicació d'aquesta diferència.~~ — **`parcial` el
-  20-09-2026**: la nota atribueix el límit a una **validació menys completa dels
-  residents andorrans** i la metodologia presenta l'ampliació de la informació
-  de la CASS com a **millora anunciada**, no executada; no hi ha un recompte que
-  descompongui la diferència.
-- ~~El paràgraf de §3.1, p. 7, compara verbalment juliol de 2026 amb el mateix
-  mes de 2026; la taula identifica les columnes com 2026 07 i 2025 07.
-  Es conserva la discrepància: no s'ha buscat una correcció editorial.~~ —
-  **`no-es-buit` el 19-09-2026**: és una discrepància de redacció conservada
-  com a nota de lectura, no una pregunta de recerca autònoma.
+- Aquesta unitat fonamenta les seves afirmacions en el resum de la pàgina 1,
+  les pàgines 7–9 i la pàgina 12 de la nota, i en les pàgines 4–6 de la
+  metodologia. La resta de la nota no s'utilitza com a evidència aquí.
+- La nota adverteix que les variacions del registre poden incloure depuracions
+  administratives i intercanvi mensual amb els comuns, però no quantifica quina
+  part de la baixada anual d'Encamp o la Massana correspon a cada causa.
+- La metodologia consultada s'identifica amb el Pla d'estadística 2022–2025,
+  mentre que la nota mensual remet al de 2026–2029. No s'ha localitzat un
+  historial de revisions que acrediti si cada pas descrit continuava igual el
+  juliol de 2026.
+- La nota indica que la validació dels residents andorrans és menys completa;
+  la metodologia presenta l'ampliació de dades de la CASS com una millora, no
+  com una operació ja executada. No s'ha trobat una descomposició independent
+  de la diferència de 1.555 persones.

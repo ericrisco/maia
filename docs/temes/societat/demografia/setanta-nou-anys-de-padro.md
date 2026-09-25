@@ -1,267 +1,131 @@
 ---
 type: article
-title: Setanta-nou anys de padró
-description: "La població registrada d'Andorra, 1947-2025, i els naixements i defuncions des del 1953. El creixement vegetatiu del 2020 és una cinquena part del del 2008 i el saldo migratori es gira el 2014."
+title: La població registrada d'Andorra i el seu canvi natural (1947–2025)
+description: "L'API publica la població registrada anual des del 1947 i les sèries de naixements i defuncions des del 1953; una sèrie oficial de saldo migratori està disponible des del 2016."
 tema: temes/societat/demografia
 veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: estadistica-ad
-timestamp: 2026-09-19T00:00:00Z
-tags: [demografia, societat, immigracio, estadistica, serie-historica, segle-xx, segle-xxi]
+timestamp: 2026-09-25T03:53:00Z
+tags: [demografia, societat, migracio, estadistica, serie-historica, segle-xx, segle-xxi]
 ---
 
-# Setanta-nou anys de padró
+# La població registrada d'Andorra i el seu canvi natural (1947–2025)
 
-## Les tres sèries
+Una captura de l'API del Departament d'Estadística, baixada el 18-09-2026,
+conté la sèrie anual de població registrada de 1947 a 2025 (divisió 1) i les
+sèries de naixements i defuncions de 1953 a 2025 (divisions 22 i 28). També
+conté una sèrie publicada de saldo migratori de 2016 a 2025 (divisió 1261).
+Les fitxes de procedència i de condicions descriuen el bolcat i la llicència
+CC BY 4.0 amb atribució: `docs/raw/estadistica-api/resta-del-cataleg/README.md`,
+`docs/raw/estadistica-api/demografia-vital/demografia-vital-per-l-api-d-estadistica.md`
+i `docs/raw/estadistica-api/l-api-publica-del-departament-d-estadistica.md`.
 
-El corpus tenia la demografia andorrana **per talls**: quinquennals fins al
-1995, després 2000, 2004 i 2007
-([tres quartes parts del creixement van arribar de fora](./tres-quartes-parts-del-creixement-van-arribar-de-fora.md)),
-amb el buit escrit al costat: **«els anys intermedis no hi són, i el corpus no
-pot situar en quin any concret es va girar el saldo migratori».**
+La població registrada (divisió 1) i la «població total» (divisió 797,
+2009–2025) són sèries diferents. El 2025, la primera dona 94.128 i la segona
+89.058: una diferència de 5.070 persones. Aquesta fitxa no tracta els dos
+conceptes com si fossin equivalents.
 
-**Hi són.** A l'API pública del Departament d'Estadística
-(`docs/raw/estadistica-api/README.md`):
-
-| Sèrie | Divisió | Anys | Font declarada |
-| --- | ---: | --- | --- |
-| **Població registrada total** | 1 | **1947-2025** | Comuns i entitats vinculades |
-| **Naixements totals** | 22 | **1953-2025** | Departament de Justícia i Interior |
-| **Defuncions totals** | 28 | **1953-2025** | Departament de Justícia i Interior |
-| Població total *(altre concepte)* | 797 | 2009-2025 | Departament d'Estadística |
-
-**Setanta-nou anys de padró i setanta-tres de registre civil.**
-
-## De 5.385 a 94.128
-
-**La població registrada es multiplica per 17,5 en setanta-vuit anys.**
+## La sèrie de població registrada
 
 | Any | Població registrada |
 | --- | ---: |
-| **1947** | **5.385** |
+| 1947 | 5.385 |
 | 1960 | 8.392 |
 | 1970 | 19.545 |
 | 1980 | 35.460 |
 | 1990 | 54.507 |
 | 1993 | 65.227 |
 | 2000 | 65.844 |
-| **2010** | **85.015** |
+| 2010 | 85.015 |
 | 2013 | 76.098 |
 | 2020 | 82.887 |
-| **2025** | **94.128** |
+| 2025 | 94.128 |
 
-**I baixa deu vegades en setanta-vuit anys**, amb **tres episodis i no un**:
+Entre 1947 i 2025, el valor de la sèrie es multiplica per 17,5. Hi ha deu
+descensos anuals, agrupats en cinc períodes:
 
-| Episodi | Què passa |
+| Anys amb descens | Valors comparats | Variació entre els extrems |
+| --- | --- | ---: |
+| 1952–1954 | 6.310 (1951) → 5.503 (1954) | −12,8% |
+| 1994–1995 | 65.227 (1993) → 63.859 (1995) | −2,1% |
+| 2000 | 65.971 (1999) → 65.844 (2000) | −0,2% |
+| 2009 | 84.484 (2008) → 84.082 (2009) | −0,5% |
+| 2011–2013 | 85.015 (2010) → 76.098 (2013) | −10,5% |
+
+El descens anual més gran en nombres absoluts és el de 2011: la sèrie passa de
+85.015 el 2010 a 78.115 el 2011, una baixada de 6.900 (−8,1%). Les dades
+consultades no n'expliquen la causa; no permeten decidir si reflecteix canvis
+de residència, una revisió dels registres o altres factors.
+
+## Naixements i defuncions
+
+El canvi natural de cada període es calcula restant les defuncions als
+naixements. L'acumulat per períodes és:
+
+| Període | Naixements menys defuncions |
 | --- | ---: |
-| **1952-1954** | **de 6.310 a 5.503**, un **−12,8%** en dos anys |
-| **1994-1995** | de 65.227 a 63.859, un **−2,1%** |
-| **2011-2013** | **de 85.015 a 76.098**, un **−10,5%**, amb **−6.900 en un sol any** |
+| 1953–1959 | +442 |
+| 1960–1969 | +2.016 |
+| 1970–1979 | +3.471 |
+| 1980–1989 | +3.947 |
+| 1990–1999 | +5.131 |
+| 2000–2009 | +5.488 |
+| 2010–2019 | +3.715 |
+| 2020–2025 | +719 |
 
-**El del 2011 és el més gran en absolut de tota la sèrie** i **cau just després
-del màxim**. `La font no el comenta. Una caiguda del 8,1% en un any en un
-registre comunal és molt més compatible amb una depuració del padró que amb una
-marxa real de set mil persones, i el corpus no ho afirma: ho registra.`
+El saldo natural anual més alt de la sèrie és el de 2008: 875 naixements i
+237 defuncions, és a dir, +638. El 2025 hi va haver 508 naixements i 386
+defuncions, un saldo de +122. El saldo acumulat de 2020 a 2025 és positiu
+(+719); no és correcte descriure'l com si el canvi natural s'hagués acabat.
 
-**El del 1952-1954 sí que és de gent**, i **el corpus ja en té la causa**: és el
-buit d'abans de la gran immigració, i coincideix amb el que
-[les tres migracions](./les-tres-migracions.md) descriuen.
-
-## El creixement vegetatiu s'acaba
-
-| Dècada | Naixements menys defuncions, acumulat |
-| --- | ---: |
-| 1950s *(des del 1953)* | +442 |
-| 1960s | +2.016 |
-| 1970s | +3.471 |
-| 1980s | +3.947 |
-| 1990s | +5.131 |
-| **2000s** | **+5.488** |
-| 2010s | +3.715 |
-| **2020s** *(sis anys)* | **+719** |
-
-**El millor any de tota la sèrie és el 2008: 875 naixements i 237 defuncions,
-+638.** **El 2025: 508 i 386, +122.**
-
-**Els naixements cauen un 41,9% des del màxim del 2008** —de 875 a 508— i
-**les defuncions pugen de 237 a 386 el mateix període.** **Les dues corbes es
-tanquen.**
-
-| | 2008 | 2015 | 2020 | 2025 |
-| --- | ---: | ---: | ---: | ---: |
-| Naixements | **875** | 659 | 539 | 508 |
-| Defuncions | 237 | 282 | **419** | 386 |
-| **Vegetatiu** | **+638** | +377 | **+120** | +122 |
-
-**El 2020 és el pitjor any des del 1955**, amb **419 defuncions** —el màxim de
-la sèrie— i **un saldo de només +120**. `El 2020 és l'any de la pandèmia; la
-font no l'etiqueta.`
-
-## La taxa de natalitat s'ha partit per dos en quinze anys
-
-> **Afegit el 18-09-2026** amb la branca de demografia vital de l'API
-> (`docs/raw/estadistica-api/demografia-vital/`, **CC BY 4.0**). **La sèrie de
-> naixements que aquesta fitxa ja tenia mesura quantitats; aquesta en mesura la
-> intensitat, i la font la publica des del 2010.**
-
-| Any | Naixements per mil habitants |
-| --- | ---: |
-| **2010** | **11,78** |
-| 2013 | 9,10 |
-| 2016 | 8,67 |
-| 2019 | 6,95 |
-| 2022 | 6,15 |
-| **2023** | **5,38** |
-| 2025 | **5,70** |
-
-**Baixa quinze anys seguits i només puja el 2024.** **La caiguda no és, doncs,
-un efecte de mida: el país creix i alhora té menys criatures per habitant cada
-any.**
-
-## El 2020 no és un any alt: és un nivell nou
-
-**Les defuncions dels cinc anys anteriors al 2020 es mouen entre 282 i 334. Les
-dels cinc posteriors, entre 357 i 386.** **El terra nou és per damunt del sostre
-vell**, i **el salt del 2019 al 2020 —de 301 a 419, un +39,2%— és el més gran
-de tota la sèrie des del 1953.**
-
-`El corpus no atribueix la diferència. Una part és envelliment —el 2025, 207 de
-les 386 morts tenen vuitanta anys o més, el 53,6%— i aquesta taula no permet
-separar-la de res més. El que sí que es pot dir és que el 2020 no va ser un pic
-dins d'una sèrie plana.`
-
-## Qui neix i de qui
-
-**El 2025, de les 508 criatures nascudes a Andorra:**
-
-| Nacionalitat de la mare | Naixements |
-| --- | ---: |
-| **Andorrana** | **194** |
-| Espanyola | 130 |
-| **Altres nacionalitats** | **126** |
-| Portuguesa | 45 |
-| Francesa | 13 |
-
-**Sis de cada deu criatures nascudes a Andorra tenen mare no andorrana**, i
-**les mares d'«altres nacionalitats» són gairebé tantes com les espanyoles** —el
-mateix desplaçament que el corpus ha mesurat a l'escola i al mercat de treball
-([la immigració llatinoamericana](../immigracio/la-immigracio-llatinoamericana.md)).
-
-**Per edat de la mare**: **214 al tram de 30-34 anys**, **144 al de 35-39**,
-**86 al de 25-29** i **23 al de 20-24**. **Hi ha més criatures de mare de
-quaranta anys o més (40) que de mare de menys de vint-i-cinc (24).**
-
-**Per parròquia**: Andorra la Vella 136, Escaldes-Engordany 94, la Massana 74,
-Encamp 66, Sant Julià 57, Canillo 45, Ordino 36.
-
-**I per estat civil de la mare**: **288 de mare casada i 202 de mare soltera**,
-més 16 de «mare no casada» i 2 sense constar. **El mateix any en què el país fa
-474 casaments, el màxim de la sèrie des del 1977**
-([casar-se a Andorra](../familia/casar-se-a-andorra.md)): **casar-se i tenir
-fills s'han desenganxat.**
-
-## L'any en què es gira el saldo migratori: 2014
-
-Amb la població total i el vegetatiu es pot calcular el saldo migratori any per
-any. **El corpus no ho podia fer i ara sí:**
-
-| Any | Variació de població | Vegetatiu | **Migratori** |
+| Any | Naixements | Defuncions | Saldo natural calculat |
 | --- | ---: | ---: | ---: |
-| 2010 | −3.310 | +589 | **−3.899** |
-| 2011 | −518 | +518 | −1.036 |
-| 2012 | −14 | +434 | −448 |
-| 2013 | +208 | +398 | −190 |
-| **2014** | +604 | +363 | **+241** |
-| 2016 | +1.373 | +324 | +1.049 |
-| 2019 | +1.366 | +238 | +1.128 |
-| 2020 | +472 | +120 | +352 |
-| **2023** | **+3.513** | **+101** | **+3.412** |
-| 2025 | +1.961 | +122 | +1.839 |
+| 2008 | 875 | 237 | +638 |
+| 2015 | 659 | 282 | +377 |
+| 2020 | 539 | 419 | +120 |
+| 2025 | 508 | 386 | +122 |
 
-> **El saldo migratori d'Andorra es gira el 2014.** Quatre anys seguits negatiu,
-> del 2010 al 2013, i positiu tots els onze següents.
+El 2020 registra 419 defuncions, el valor anual més alt de la sèrie
+1953–2025. El nombre és un registre de l'any; aquesta taula no n'estableix la
+causa.
 
-**I el 2023 és la xifra que ho resumeix tot: de 3.513 habitants més, 3.412 —el
-97,1%— van arribar de fora.**
+## El saldo migratori publicat
 
-**Això confirma i actualitza el que el corpus tenia per al 1955-2007**: **tres
-quartes parts del creixement eren migració**
-([tres quartes parts del creixement van arribar de fora](./tres-quartes-parts-del-creixement-van-arribar-de-fora.md)).
-**Avui no són tres quartes parts: són vint-i-quatre vint-i-cinquenes.**
+La divisió 1261 publica un saldo migratori anual per a 2016–2025. Els deu
+valors són positius, i el més alt d'aquesta sèrie és el de 2023 (3.407).
+Com que aquesta captura no conté valors anteriors a 2016, no permet datar l'any
+en què el saldo hauria passat de negatiu a positiu.
 
-## Precaucions, i són importants
+| Any | Saldo migratori publicat |
+| --- | ---: |
+| 2016 | 1.149 |
+| 2017 | 1.328 |
+| 2018 | 1.214 |
+| 2019 | 1.093 |
+| 2020 | 383 |
+| 2021 | 1.401 |
+| 2022 | 1.880 |
+| 2023 | 3.407 |
+| 2024 | 1.874 |
+| 2025 | 1.829 |
 
-- **Les dues poblacions no són la mateixa cosa.** La **registrada** (divisió 1)
-  la donen **els comuns**; la **total** (divisió 797) la dona **el Departament
-  d'Estadística** i **només va del 2009 al 2025**. **El 2025 difereixen en 5.070
-  persones**: 94.128 i 89.058. El corpus ja tenia documentada aquesta distància
-  ([dues maneres de comptar la població](./dues-maneres-de-comptar-la-poblacio.md),
-  [qui compta com a resident](./qui-compta-com-a-resident.md)).
-- **El saldo migratori d'aquesta fitxa és un càlcul del corpus**, fet **amb la
-  població total** (divisió 797) i el vegetatiu. **Cap font el publica així.**
-  Amb la població registrada donaria valors diferents.
-- **Els naixements i les defuncions són del registre civil**, que
-  **fins al febrer de 1997 alimentaven els capellans**
-  ([les estadístiques que no hi havia](./les-estadistiques-que-no-hi-havia.md)).
-  **La sèrie no declara cap discontinuïtat el 1997**, i **el corpus no pot
-  comprovar si n'hi va haver.**
+La versió anterior d'aquesta fitxa calculava un saldo per a 2010–2025 restant
+el canvi natural al canvi de la divisió 797. Aquest càlcul no coincideix
+sempre amb la sèrie migratòria publicada; s'ha retirat perquè no es poden
+atribuir les diferències ni la data de referència només amb les taules
+consultades.
 
-## Buits registrats
+## Buits registrats i límits de les sèries
 
-- ~~**Per què cauen 6.900 persones del padró el 2011.**~~ — **`parcial` el
-  18-09-2026**: la sèrie situa la caiguda entre **85.015 habitants el 2010 i
-  76.098 el 2013**, amb **−6.900 en un sol any**; una depuració del padró és
-  compatible amb el salt del 8,1%, però **la font no explica la causa**.
-- ~~**Si la sèrie de naixements i defuncions canvia de mètode el 1997**, quan
-  passa dels capellans al registre civil.~~ — **`resolt` el 18-09-2026: la
-  sèrie publicada no ho recull.** **És una sola sèrie contínua del 1953 al
-  2025, sense nota de ruptura**, i **els valors del voltant no salten**: **197
-  defuncions el 1996 i 197 el 1997**, **700 naixements el 1996 i 730 el 1997**.
-  `Si el registre va canviar de mans, la sèrie no ho diu; saber-ho demanaria
-  la nota metodològica del Departament.`
-- ~~**El saldo migratori oficial**, si existeix. El corpus en calcula un i **no
-  en té cap de publicat**.~~ — **`resolt` el 18-09-2026**: **existeix, es diu
-  `SALDO MIGRATORI TOTAL` i va del 2016 al 2025**
-  (`docs/raw/estadistica-api/`, CC BY 4.0):
-
-  | Any | 2016 | 2017 | 2018 | 2019 | **2020** | 2021 | 2022 | **2023** | 2024 | 2025 |
-  | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-  | **Saldo** | 1.149 | 1.328 | 1.214 | 1.093 | **383** | 1.401 | 1.880 | **3.407** | 1.874 | 1.829 |
-
-  **Deu anys, cap de negatiu.** **El 2020 el saldo cau a 383** —un terç del de
-  l'any anterior— i **el 2023 arriba a 3.407, gairebé el doble del màxim
-  anterior.**
-
-  **I la font el desagrega per sexe**: **el 2025, 1.139 homes i 690 dones**.
-  **Dos de cada tres immigrants nets d'Andorra són homes**, cosa que **encaixa
-  amb els 118 homes per cada 100 dones del tram de 25 a 39 anys**
-  ([la piràmide](./la-mateixa-gent-quinze-anys-mes-gran.md)).
-
-  `Abans del 2016 segueix sense publicar-se, i el saldo que aquesta fitxa
-  calcula per als quinquennis anteriors continua sent un càlcul del corpus.`
-- ~~**Els anys anteriors al 1947** de població, i **anteriors al 1953** de
-  naixements.~~ — **`parcial` el 21-09-2026**: la sèrie homogènia de l'API
-  comença el **1947** per a la població registrada i el **1953** per als
-  naixements i les defuncions (`docs/raw/estadistica-api/`). Abans, el corpus
-  només conserva punts històrics dispersos —**1832: 3.900; 1874: 5.231;
-  1895: ~6.000; 1896: 5.800; 1897: 5.210; 1900: 5.231; 1912: 6.100;
-  1920: 4.309; 1930: 4.142/4.042; 1932: 4.039**—, no una sèrie contínua
-  ([les xifres que no quadren](./les-xifres-que-no-quadren.md)).
-- ~~**La població registrada i la total no es poden conciliar** amb el que hi
-  ha: faria falta la definició operativa de cadascuna, any per any.~~ —
-  **`parcial` el 21-09-2026**: [Dues maneres de comptar la població](./dues-maneres-de-comptar-la-poblacio.md)
-  defineix la **registrada** com el recompte dels padrons comunals i la
-  **estimada/total** com una estimació que creua els padrons amb registres
-  administratius. El **31-07-2026** eren **94.596** i **90.021**,
-  respectivament (**−4.575; 5,1%**). El corpus encara no té el pont operatiu
-  any per any que expliqui tota la diferència.
-
-## Related
-
-- [Tres quartes parts del creixement van arribar de fora](./tres-quartes-parts-del-creixement-van-arribar-de-fora.md) — la sèrie per talls, que aquesta completa.
-- [Dues maneres de comptar la població](./dues-maneres-de-comptar-la-poblacio.md) — per què hi ha dues xifres.
-- [Les tres migracions](./les-tres-migracions.md)
-- [Les estadístiques que no hi havia](./les-estadistiques-que-no-hi-havia.md) — qui comptava abans del 1997.
-- [De què es mor a Andorra](../sanitat/de-que-es-mor-a-andorra.md) — les causes, en quinquennis mòbils del 1991 al 2021.
-- [Les onades migratòries](./les-onades-migratories.md)
+- «Població registrada» (divisió 1) i «població total» (divisió 797) són
+  conceptes separats a l'API. Les diferències entre elles no s'expliquen aquí.
+- La sèrie de població registrada no comenta les caigudes de 1952–1954,
+  1994–1995, 2000, 2009 ni 2011–2013; aquesta fitxa no n'atribueix les causes.
+- El saldo migratori publicat comença el 2016. No es fa servir el canvi de
+  població menys el canvi natural per completar-ne els anys absents.
+- Els càlculs de saldo natural són sumes o restes dels recomptes publicats; no
+  són estimacions de migració ni explicacions causals.
+- La captura és una instantània descarregada el 18-09-2026, no una consulta en
+  temps real.

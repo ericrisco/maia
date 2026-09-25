@@ -1,13 +1,13 @@
 ---
 type: article
 title: El Tribunal de Comptes
-description: "Un òrgan tècnic i independent penjat del Consell General, que fiscalitza l'Administració, els comuns i qui rep subvencions públiques. Els seus tres càrrecs són d'un sol mandat de sis anys, en teoria no renovable de manera consecutiva."
+description: "Un òrgan tècnic i independent que fiscalitza l'Administració pública. El text refós del 2017 preveu un president i entre dos i quatre membres, amb mandats de sis anys renovables."
 tema: temes/institucions/justicia
 veu: compilada
 epoca: contemporania
 apte_llengua: false
 font: bopa-tribunal-de-comptes
-timestamp: 2026-09-18T00:00:00Z
+timestamp: 2026-09-25T01:08:53Z
 tags: [justicia, dret, institucions, consell-general, fiscalitzacio, partits-politics]
 ---
 
@@ -46,30 +46,34 @@ El Tribunal també fa fiscalització electoral: ha d'elaborar «un informe de
 fiscalització de les despeses i subvencions electorals públiques en cada
 procediment electoral» (article 3.4).
 
-## Qui li paga
+## Com s'integra el pressupost
 
-El Tribunal **viu del pressupost del Consell General, no del Govern**: «El
-Tribunal de Comptes elabora el seu pressupost, que s'ha d'integrar en la
-Llei del pressupost general en una secció específica diferenciada» (article
-4.3). **Qui els paga és la cambra que els nomena, i no l'Administració que
-fiscalitzen** — és el mateix disseny que la Institució del Raonador del
-Ciutadà, l'Agència Andorrana de Protecció de Dades i l'AQUA
-([com funciona el Consell General](../../politica/parlamentarisme/com-funciona-el-consell-general.md#buits-registrats)).
+La Llei diu que el Tribunal elabora el seu pressupost i que s'ha d'integrar
+en la Llei del pressupost general en una secció específica diferenciada
+(article 4.3). Aquesta disposició no diu que el Consell General financi el
+Tribunal directament; per això aquesta lectura no dedueix qui «el paga» del fet
+que el Consell General designi els seus membres.
 
-## Tres càrrecs, un sol mandat de sis anys
+## Composició i mandat segons el text refós
 
-El Ple del Tribunal és format per **un president i dos membres**, designats
-**individualment pel Consell General** en votacions separades: dues
-terceres parts en primera votació, majoria absoluta en segona. El mandat
-és «**per un període únic de sis anys, sense possibilitat d'exercir-lo més
-d'una vegada consecutiva**» (article 22.1). Un cop acabat el mandat, els
-membres continuen en funcions fins a la presa de possessió dels nous, amb
-un límit de sis mesos (article 22.4).
+El text refós publicat el 2017 diferencia la composició legal de la que
+apareix als edictes consultats. L'article 18 preveu un Ple format per un
+president i **entre dos i quatre membres**. Els edictes de nomenament de
+2000–2021 recollits aquí designen un president i dos membres.
 
-Els membres han de ser de **nacionalitat andorrana**, amb titulació
-acadèmica superior en el camp econòmic i experiència acreditada d'un mínim
-de quatre anys; la seva designació és **irrevocable** i han d'exercir «a
-ple temps» (article 23).
+Segons l'article 22 del mateix text refós, el Consell General designa
+individualment el president i els membres, amb dues terceres parts en primera
+votació o majoria absoluta en segona; el mandat és de **sis anys renovable**.
+Això actualitza la redacció de la llei original del 2000 que apareixia a la
+primera versió d'aquesta lectura. Font: Decret legislatiu del 27-09-2017, text
+refós de la Llei del Tribunal de Comptes, arts. 18 i 22
+([evidència](../../../raw/lleis/bopa/decret-legislatiu-2017-text-refos-tribunal-de-comptes.txt)).
+
+Segons l'article 23 del text refós de 2017, els membres han de tenir
+**nacionalitat andorrana**, titulació superior en l'àmbit **econòmic, jurídic,
+financer i/o comptable**, experiència reconeguda i coneixements acreditats
+d'almenys quatre anys. La designació és irrevocable i l'exercici del càrrec és
+a ple temps.
 
 ## Qui l'ha presidit
 
@@ -77,45 +81,43 @@ Quatre edictes de designació localitzats a BOPA permeten reconstruir la
 composició des de la creació del Tribunal
 ([font](../../../fonts/bopa-tribunal-de-comptes.md)):
 
-| Data | President | Membres |
+| Data de designació | President | Membres |
 | --- | --- | --- |
 | 11-10-2000 | Carles Santacreu Coma | Francesc d'Assís Pons Tomàs, Carles de Unzueta Rullán |
 | 27-10-2006 | Carles Santacreu Coma | Francesc d'Assís Pons Tomàs, Carles de Unzueta Rullán |
 | 22-10-2015 | Francesc d'Assís Pons Tomàs | Montserrat Montes Echevarría, Carles Sansa Torm |
 | 14-10-2021 | Francesc d'Assís Pons Tomàs | Núria López Sellés, Carles Sansa Torm |
 
-**Qui presideix avui és Francesc d'Assís Pons Tomàs**, designat el
-14-10-2021, amb Núria López Sellés i Carles Sansa Torm com a membres,
-d'acord amb l'edicte signat per la Subsíndica General Meritxell
-Palmitjavila Naudí.
+**L'edicte més recent inclòs en aquesta lectura és del 14-10-2021**: designa
+Francesc d'Assís Pons Tomàs com a president i Núria López Sellés i Carles
+Sansa Torm com a membres. Aquesta font acredita aquella designació; per si
+sola no demostra que la composició continuï igual en una data posterior.
 
-**Una tensió registrada, no arbitrada**: els quatre edictes mostren
-Santacreu Coma president dues vegades seguides (2000 i 2006) i Pons Tomàs
-president dues vegades seguides (2015 i 2021), a banda de dues
-designacions seguides de Pons Tomàs com a membre (2000 i 2006) —
-aparentment en contradicció amb el «sense possibilitat d'exercir-lo més
-d'una vegada consecutiva» de l'article 22.1. El corpus no té prou
-informació (si l'article s'ha modificat des del 2000, o si «membre» i
-«president» compten com a càrrecs diferents a efectes de la reiteració)
-per dir si és una excepció legal, una modificació posterior de la norma o
-una pràctica que no respecta la lletra actual de la llei. Es registra el
-fet tal com surt del BOPA.
+**Les regles del mandat han canviat amb el temps.** La Llei original del
+13-04-2000 formulava un mandat únic de sis anys sense exercir-lo més d'una
+vegada consecutiva (article 22.1). El text refós del 27-09-2017, que incorpora
+modificacions legislatives posteriors, diu que el període de sis anys és
+**renovable**. Els edictes aquí llegits documenten dues designacions seguides de
+Carles Santacreu Coma com a president (2000 i 2006), però aquesta sèrie no conté
+les redaccions de l'article 22 vigents entre cada nomenament. Per tant, no
+permet concloure quina regla regia específicament la designació del 2006 ni si
+hi hagué cap irregularitat.
 
 ## Buits registrats
 
 - ~~**El Tribunal de Comptes**: citat de passada al corpus, sense fitxa
   pròpia.~~ — **`resolt` el 18-09-2026**: aquesta fitxa, a partir de la
   Llei del 2000 i quatre edictes de designació (2000-2021).
-- ~~**La llista dels seus informes anuals segueix sense localitzar-se.** La
-  Llei obliga el Tribunal a elevar cada any al Consell General una memòria
-  d'activitats, l'informe de liquidació de pressupostos i, en anys
-  electorals, un informe de fiscalització electoral (article 3), però el
-  corpus no ha trobat cap d'aquests informes publicats ni un índex que en
-  permeti saber el volum. `Requereix font externa: web del Tribunal de
-  Comptes o publicacions del Consell General.`~~ — **`parcial` el 21-09-2026**:
-  l’article 3 fixa quins informes s’han de presentar, però **el corpus encara
-  no té la sèrie anual ni un índex de publicació**; requereix consultar el
-  Tribunal de Comptes o el Consell General.
+- ~~**La llista dels seus informes anuals segueix sense localitzar-se.**~~ —
+  **`parcial` el 25-09-2026**: l'article 3 del text refós enumera memòries i
+  informes que el Tribunal ha de trametre al Consell General. El lloc oficial
+  ara té una [pàgina d'informes](https://www.tribunaldecomptes.ad/informes) que
+  llista, entre d'altres, la memòria anual d'activitats del 2025 i informes
+  identificats amb el 2025. El corpus local no conté ni ha revisat els informes
+  enllaçats. L'avís legal limita la reutilització a usos personals i no
+  autoritza modificar o redistribuir aquests continguts; per això la pàgina
+  serveix només de pista de cobertura i no s'exporta. Vegeu la [fitxa de la
+  font](../../../fonts/tribunal-comptes-web.md).
 - ~~**El buit de nou anys entre el 2006 i el 2015**~~ — **`parcial` el
   20-09-2026**: els edictes conservats fixen la seqüència de designacions en
   **11-10-2000, 27-10-2006, 22-10-2015 i 14-10-2021**; l'article 22.4 del text
@@ -128,10 +130,3 @@ fet tal com surt del BOPA.
   els quatre edictes ja permeten situar-los: **Unzueta Rullán** hi consta el
   2000 i el 2006, **Montes Echevarría** el 2015, i **López Sellés** el 2021.
   **Les seves biografies fora del càrrec continuen sense documentar-se.**
-
-## Related
-
-- [El Tribunal Constitucional](./el-tribunal-constitucional.md) — l'altre òrgan penjat del Consell General amb disseny comparable.
-- [Com funciona el Consell General](../../politica/parlamentarisme/com-funciona-el-consell-general.md) — qui paga i qui nomena els quatre organismes vinculats al Parlament.
-- [El finançament dels partits](../../politica/sistema-electoral/el-financament-dels-partits.md) — la fiscalització electoral del Tribunal.
-- [El Raonador del Ciutadà](../govern/el-raonador-del-ciutada.md) — l'altre organisme amb pressupost annexat a la Llei del Consell General.
