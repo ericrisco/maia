@@ -4,10 +4,17 @@ id: asc-03494-queixa-batlle-garreta-1528
 title: "ASC-3494 — Queixa de Martí Garreta contra una decisió del batlle, 1528"
 titular: "Arxiu Nacional d’Andorra · Arxiu de les Set Claus"
 url: https://www.arxiuenlinia.ad/fotoweb/archives/5004-Documents-textuals/Documents/ASC/ASC_03494.pdf.info
-llicencia: "Fitxa pública amb consulta i rendicions; no consta una llicència específica de reutilització"
-redistribucio: "Imatges de consulta conservades per a recerca interna; no es publica una transcripció reutilitzable"
-data_consulta: 2026-09-23
+llicencia: "Avís legal general de l'Arxiu Nacional; ús dels continguts reservat llevat d'autorització específica"
+redistribucio: pendent
+data_consulta: 2026-09-25
 abast: "Queixa de Martí Garreta de les Bons davant el Consell General sobre una decisió del batlle Guillem Ramon Colat; 6 de setembre de 1528; 1 foli"
+notes: >
+  L'avís legal permet descarregar i reproduir les imatges només per a ús privat
+  o recerca/docència no comercial, sense difusió ni modificació. Per a altres
+  usos exigeix consultar l'Arxiu Nacional. No s'ha identificat autorització per
+  redistribuir ni la imatge ni una síntesi de les metadades catalogràfiques;
+  aquesta última resta pendent de determinar. Captura dels termes consultats:
+  ../raw/web/institucions/arxiu-set-claus/terms-and-conditions-2026-09-25.html
 local:
   raw: ../raw/web/institucions/arxiu-set-claus/queixa-batlle-garreta-1528/README.md
   metadata: ../raw/web/institucions/arxiu-set-claus/queixa-batlle-garreta-1528/ASC_03494.asset.json

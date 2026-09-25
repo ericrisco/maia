@@ -30,3 +30,16 @@ La fitxa declara els permisos **View, Preview i Download**, però no hi consta
 una llicència específica de reutilització. S’han conservat les rendicions
 públiques de 2.400 px i s’han revisat visualment les dues cares; no s’hi ha
 afegit una transcripció paleogràfica.
+
+## Condicions de reutilització consultades
+
+L’avís oficial [Termes i condicions d’ús de FotoWeb](../terms-and-conditions-2026-09-25.html)
+es va consultar el 25-09-2026. Declara els continguts subjectes a drets i diu
+que l’accés no atorga drets de reproducció, distribució o transformació llevat
+d’autorització expressa. L’excepció publicada permet reproduir imatges per a ús
+privat o recerca/docència no comercial, sense difusió ni modificació. Per a
+altres usos remet a una autorització de l’Arxiu Nacional. La còpia local té
+SHA-256 2d0ba5ac229546bc70de6321fef43a58de29b154456b9e444d8bf97aca1d03dd.
+
+No s’ha trobat autorització per redistribuir la imatge ni el text catalogràfic
+derivat en un corpus d’entrenament; l’elegibilitat de la síntesi queda pendent.

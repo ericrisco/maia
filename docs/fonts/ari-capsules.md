@@ -6,9 +6,9 @@ titular: Andorra Recerca + Innovació (AR+I)
 autor: Un ponent diferent a cada càpsula, nomenat al títol de la peça
 publicacio: "Sèrie de 80 càpsules en vídeo publicades al canal de YouTube d'Andorra Recerca + Innovació, 2020-2023"
 url: https://www.youtube.com/channel/UC_sgrb5DXkWphnjcW1YThzg
-llicencia: "Creative Commons Attribution (reuse allowed), declarada al camp de llicència de YouTube de cada peça. Verificada a 5 peces (#34, #56, #57, #60, #65) el 2026-09-13; no verificada a la resta."
-redistribucio: si
-data_consulta: 2026-09-13
+llicencia: "YouTube declara Creative Commons Attribution en vídeos individuals; verificació per peça, no per sèrie. Verificada a #34, #49, #56, #57, #60 i #65."
+redistribucio: pendent
+data_consulta: 2026-09-25
 abast: >
   Vuitanta càpsules d'entre 6 i 30 minuts en què una persona nomenada explica un
   tema andorrà: història, institucions, patrimoni, oficis, llengua i memòria
@@ -16,23 +16,22 @@ abast: >
   primera persona; les que són exposició acadèmica llegida són coneixement, no
   mostra de llengua.
 notes: >
-  ÉS PARLA, NO TEXT. El valor d'aquesta sèrie per al corpus no és el que
-  expliquen sinó QUE HO DIUEN EN VEU ALTA: és andorrà parlat per andorrans,
-  publicat, amb el parlant nomenat i amb llicència oberta. És la combinació més
-  neta que s'ha trobat fins ara.
-  LA LLICÈNCIA ÉS EXCEPCIONAL. CC-BY en una institució pública andorrana no és
-  la norma: la resta de fons audiovisual andorrà consultat el 2026-09-13 té drets
-  reservats o sense declarar. Això fa la sèrie prioritària.
-  CONSENTIMENT. El ponent es presenta pel seu nom dins la mateixa gravació i la
-  institució el nomena al títol. No són informants privats: són autors parlant en
-  qualitat d'autors. Per això el corpus els pot nomenar.
-  ATENCIÓ AL REGISTRE. És xerrada preparada davant d'un micròfon, no conversa
-  espontània. Té menys titubeigs i menys sintaxi oral que una entrevista, i
-  alguns ponents llegeixen. La branca 'espontani' segueix buida i segueix sent
-  la que falta.
-  CAP PEÇA NO TÉ SUBTÍTOLS, ni manuals ni automàtics. Tota transcripció s'ha de
-  produir, i per tant tota transcripció d'aquesta sèrie arrossega el problema de
-  fidelitat que documenta docs/raw/parla/ari-capsula-56/README.md.
+  DRETS PER PEÇA. No s'assumeix que una llicència cobreixi les 80 càpsules.
+  La metadada de YouTube declara CC BY per a #34, #49, #56, #57, #60 i #65;
+  altres peces encara no estan comprovades. La captura de #49 del 2026-09-25,
+  amb hash ff1dcbb286b6b557a77fbf4d0bd781759135f41e44e0e540060ef51996ae7d17, és a docs/raw/parla/ari-capsula-49/youtube-info-2026-09-25.json.
+  El registre global queda pendent perquè la llicència no s'ha verificat per a
+  totes les peces. La llicència d'una peça no valida la seva transcripció ni
+  acredita la identitat o varietat lingüística del ponent.
+  PERFIL DELS PONENTS. El títol pot atribuir un nom, però no prova origen,
+  residència, llengua primera ni consentiment individual. AR+I convida persones
+  expertes en el tema; cada persona s'ha de verificar per separat abans
+  d'etiquetar-la com a parlant andorrana.
+  REGISTRE. Són exposicions audiovisuals preparades, no converses espontànies;
+  la lectura de guió és una possibilitat que s'ha de confirmar amb l'àudio.
+  CAP PEÇA NO TÉ SUBTÍTOLS, ni manuals ni automàtics. Les transcripcions són
+  derivats i no entren com a llengua fins a revisar fidelitat, torns i perfil.
+
 ---
 
 # Càpsules d'història d'AR+I
@@ -40,23 +39,16 @@ notes: >
 Vuitanta vídeos del canal d'**Andorra Recerca + Innovació**, publicats entre el
 2020 i el 2023, en què **una persona nomenada parla d'un tema andorrà**.
 
-## Per què val tant
+## Abast i límits
 
-Perquè resol de cop els dos problemes que bloquegen la branca de parla:
+La sèrie conté vídeos de persones parlant sobre temes d'Andorra. La publicació
+d'un vídeo o l'atribució d'un nom no demostra que la persona sigui andorrana,
+que parli una varietat local ni que el text transcrit coincideixi amb l'àudio.
+Cada ponent, cada llicència i cada transcripció s'han de comprovar per peça.
 
-**El consentiment.** El ponent surt nomenat i es presenta ell mateix. No cal
-anar a preguntar a cap dipòsit què va signar un informant mort el 1974.
-
-**Els drets.** CC-BY. De tot el fons audiovisual andorrà que s'ha mirat el
-2026-09-13 —Arxiu Nacional, RTVA, canals comunals—, aquesta sèrie és **l'única
-amb llicència oberta declarada**.
-
-## Què no resol
-
-No és **parla espontània**. És xerrada preparada, i això es nota: la sintaxi és
-més endreçada que la d'una conversa i alguns ponents llegeixen. Serveix per al
-lèxic i per a la morfosintaxi; no serveix per estudiar com s'encavalquen dos
-andorrans parlant alhora.
+Les intervencions són exposicions preparades; no s'han de tractar com a
+conversa espontània. Algunes poden llegir un guió, però el text per si sol no
+confirma aquesta hipòtesi.
 
 ## Avís de font, segon: **no consta que els ponents siguin andorrans**
 
@@ -83,12 +75,11 @@ això no s'acredita ningú i **no se'n descarta cap**: descartar-les per silenci
 seria el negatiu plausible que el brief prohibeix, i és l'error que ja es va
 cometre a la tanda 23.
 
-El que sí que canvia és **què es pot dir d'aquestes onze peces**. Serveixen com
-a **català parlat contemporani sobre temes andorrans, amb consentiment net**.
-**No serveixen, per elles soles, com a prova que una forma sigui andorrana**, i
-qualsevol tret que en surti s'ha de creuar amb el
-[Consell Constituent](consell-general-constituent.md), on els parlants són
-consellers generals electes i la provinença **sí que consta**.
+Les dades disponibles permeten dir que aquestes són peces audiovisuals
+publicades, amb ponents identificats als títols i contingut sobre Andorra. No
+permeten classificar-les en bloc com a parla andorrana ni tractar les
+transcripcions com a validades. La identitat, la llicència, la varietat i la
+fidelitat de l'àudio s'han de documentar per cada peça.
 
 ## Peces que el corpus ja ha treballat
 
@@ -119,9 +110,9 @@ Testimoni en primera persona o ofici tradicional, que és on surt el lèxic:
 | --- | --- | --- |
 | #77. El doctor Vilanova | Josep Vilanova | Memòria familiar |
 
-Cal **verificar la llicència peça a peça**. Comprovades el 2026-09-13: **#34,
-#56, #57, #60 i #65, totes CC-BY**. Cinc de cinc fa pensar que és la política de
-la sèrie, però **cinc no són vuitanta** i no es dona per bona a la resta.
+Cal **verificar la llicència peça a peça**. La metadada de YouTube s’ha comprovat
+a #34, #49, #56, #57, #60 i #65, totes CC BY. Aquestes sis peces no demostren
+que la mateixa llicència cobreixi les altres càpsules.
 
 ## Avís de font: aquesta sèrie porta guions llegits
 

@@ -4,8 +4,14 @@ id: brutails-coutume-1904
 title: "J.-A. Brutails, La Coutume d'Andorre (1904)"
 titular: J.-A. Brutails · Ernest Leroux, éditeur, París · obra de 1904, domini públic
 url: https://gallica.bnf.fr/ark:/12148/bpt6k57903147
-llicencia: domini públic per antiguitat; digitalització de Google Books
-redistribucio: si
+llicencia: >
+  L'obra impresa de 1904 és de domini públic per antiguitat. La BnF indica
+  reutilització no comercial gratuïta dels documents de Gallica amb atribució;
+  reutilització comercial subjecta a llicència. El TXT local de Google Books
+  reprodueix una petició d'ús personal, no comercial i sense consultes
+  automatitzades. L'elegibilitat del material per al destí d'entrenament de
+  Maia resta pendent.
+redistribucio: pendent
 data_consulta: 2026-09-12
 abast: >
   Tractat complet del dret consuetudinari andorrà en nou capítols, de la
@@ -144,11 +150,16 @@ la llista: *Las Cortes españolas de 1895 y las franquicias de Andorra*, Madrid,
    **Serveix per a dues coses**: **comprovar qualsevol cita contra una còpia
    estable i citable**, i **datar l'exemplar sense dependre de Google**.
 
-   `Trobat amb el SRU de Gallica —operation=searchRetrieve, query «coutume
-   d'Andorre»— i verificat amb services/OAIRecord. Els drets de reutilització
-   dels documents de Gallica són els de la BnF i no s'han comprovat: el corpus
-   en cita la localització, no n'ha baixat cap imatge. El que segueix obert és
-   l'URL de la digitalització de Google Books d'on surt el text del corpus.`
+  `Trobat amb el SRU de Gallica —operation=searchRetrieve, query «coutume
+  d'Andorre»— i verificat amb services/OAIRecord. Els drets de reutilització
+  dels documents de Gallica es van verificar el 2026-09-25 a la pàgina oficial
+  de la BnF: reutilització no comercial gratuïta amb menció de la font; l'ús
+  comercial requereix llicència. El corpus cita Gallica com a exemplar per
+  contrast, però el TXT local prové de Google Books i incorpora consignes
+  separades sobre ús personal, no comercial, absència de consultes automatitzades
+  i conservació de l'atribució. No s'ha resolt si el destí d'entrenament de Maia
+  queda dins l'ús no comercial ni si aquests termes permeten redistribuir un
+  derivat. Vegeu `docs/fonts/gallica-brutails-1904.md`.
 2. ~~**Els capítols IV a IX**, sencers.~~ — **`resolt` el 19-09-2026**: s'han
    llegit i contrastat sencers els **capítols IV, «Obligations et contrats», V,
    «Les personnes et la famille», VI, «Les biens», VII, «Organisation judiciaire:

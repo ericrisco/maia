@@ -1,0 +1,7 @@
+FORA_DEL_CORPUS
+Font: Govern d’Andorra · Portal de Transparència · Ministeri d’Afers Socials
+URL: https://transparencia.ad/subvencions-i-ajudes/ministeri-d-afers-socials
+Consulta i captura: 2026-09-25
+Extracció: BeautifulSoup get_text, secció A052; el HTML original es conserva al costat.
+
+A052. Estadística de prestacions per desocupació involuntària. Any 2025 Segons les dades dels registres del Departament d’Afers Socials, el nombre de sol·licituds de prestacions socials per desocupació involuntària presentades durant l’any 2025 ha estat de 62, de les quals el 50,0% han estat resoltes favorablement (31) i el 45,2% han estat resoltes desfavorablement (28). Hi ha tres sol·licituds que no s’han resolt. La proporció de sol·licituds favorables respecte a les sol·licituds presentades es redueix fins a un 50,0%, un -24,6% en relació a 

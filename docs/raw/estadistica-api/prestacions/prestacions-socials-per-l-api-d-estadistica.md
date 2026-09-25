@@ -39,3 +39,11 @@ explica.**
 **Cada prestació té una parella de divisions**: **nombre de beneficiaris** i
 **import concedit**. **No s'han de barrejar**, i **l'import per beneficiari es
 calcula dividint-les**, cosa que el corpus fa dient-ho.
+
+
+## Discrepància de cobertura en les sol·licituds del 2025
+
+La captura del 18-09-2026 dóna **59** a la divisió 2829 per al 2025; la divisió
+2830 desglossa **31 favorables i 28 desfavorables**, que també sumen 59. La
+publicació posterior d’A052 consultada el 25-09-2026 informa **62 sol·licituds**
+i explica que tres encara no s’havien resolt ([extracte i captura oficial](../../estadistica-prestacions/a052-2025-transparencia-extracte-2026-09-25.txt)). La captura API no incorpora aquestes tres al total malgrat que la sèrie diu «sol·licituds». No s’ha trobat una nota metodològica que n’expliqui el motiu. Es manté el bolcat sense alteració; per a l’article es fa servir 62 i 50,0% de l’A052 i es registra el desacord. La divisió 2834 continua confirmant les 31 prestacions concedides per nacionalitat.

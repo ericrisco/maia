@@ -5,7 +5,7 @@ title: Portal electoral del Govern d'Andorra (eleccions.ad)
 titular: Govern d'Andorra
 url: https://www.eleccions.ad/
 llicencia: "© 2023 Govern d'Andorra — sense avís de reutilització"
-redistribucio: no
+redistribucio: "no"
 data_consulta: 2026-09-18
 abast: >
   Resultats oficials de les eleccions generals de 1997, 2001, 2005, 2009, 2011,
