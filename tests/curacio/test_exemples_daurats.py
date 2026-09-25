@@ -3,13 +3,14 @@
 from __future__ import annotations
 
 import csv
+import re
 import shutil
 from io import StringIO
 from pathlib import Path
 
 import pytest
 
-from cervell.cli import main  # type: ignore[import-untyped]
+from cervell.cli import main
 
 FIXTURES = Path(__file__).parents[1] / "fixtures" / "curacio"
 EXEMPLES = sorted(path for path in FIXTURES.iterdir() if path.is_dir())
@@ -28,6 +29,20 @@ def test_exemple_daurat_es_reprodueix_byte_a_byte(exemple: Path, tmp_path: Path)
     source = docs / f"{doc_id}.md"
     source.parent.mkdir(parents=True)
     shutil.copyfile(exemple / "entrada.md", source)
+    font_match = re.search(r"^font:\s*(\S+)\s*$", source.read_text(encoding="utf-8"), re.M)
+    assert font_match is not None
+    font_id = font_match.group(1)
+    font_source = Path(__file__).parents[2] / "docs" / "fonts" / f"{font_id}.md"
+    font_target = docs / "fonts" / font_source.name
+    font_target.parent.mkdir(parents=True)
+    shutil.copyfile(font_source, font_target)
+    families_source = Path(__file__).parents[2] / "curacio" / "decisions" / "families.tsv"
+    families_target = tmp_path / "curacio" / "decisions" / "families.tsv"
+    families_target.parent.mkdir(parents=True)
+    shutil.copyfile(families_source, families_target)
+    people_source = Path(__file__).parents[2] / "curacio" / "decisions" / "persones-publiques.tsv"
+    people_target = tmp_path / "curacio" / "decisions" / "persones-publiques.tsv"
+    shutil.copyfile(people_source, people_target)
     out = tmp_path / "corpus"
 
     assert main(["cura", "tot", str(docs), "--out", str(out)]) == 0

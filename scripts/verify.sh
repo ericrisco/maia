@@ -10,8 +10,9 @@ pas() { printf '\n\033[1m▸ %s\033[0m\n' "$1"; }
 pas "ruff format"; uv run ruff format --check . || fail=1
 pas "ruff check";  uv run ruff check . || fail=1
 pas "mypy --strict"; uv run mypy || fail=1
-pas "pytest"; uv run pytest || fail=1
+pas "pytest + cobertura curacio ≥ 80%"; uv run pytest --cov=src/curacio --cov-fail-under=80 || fail=1
 pas "cervell render --check"; uv run cervell render docs --check || fail=1
+pas "cervell cura --check"; uv run cervell cura --check || fail=1
 
 echo
 if [ "$fail" -eq 0 ]; then

@@ -1,0 +1,179 @@
+---
+doc_id: temes/societat/treball/no-tornar-a-casa-ferit
+sha_origen: 6a44c76e330f
+titol_doc: "No tornar a casa ferit"
+tema: societat/treball
+domini: societat
+font: jurisprudencia-ad
+familia_font: jurisprudencia-ad
+llicencia: "norma oficial andorrana (pública per naturalesa); la consolidació és feina del projecte"
+redistribucio: si
+redistribucio_detall: "si"
+veu: compilada
+epoca: contemporania
+---
+
+<!-- chunk: temes/societat/treball/no-tornar-a-casa-ferit#c1 -->
+La Llei de la seguretat i la salut en el treball (34/2008, 47 articles) és de
+les poques del recull que encara no ha estat modificada mai: una sola versió
+consolidada des del 2008 (font, instantània del 2026-09-12).
+
+La definició de l'article 3 és més ampla del que el mot suggereix: qui presta
+un servei per compte d'un empresari a canvi de remuneració, i s'hi inclouen
+expressament:
+
+- els funcionaris i altres persones al servei de l'Administració pública, - els
+treballadors en pràctiques, - els aprenents.
+
+La llei entra als ministeris i cobreix qui encara no cobra un sou complet.
+
+L'article 2 diu una cosa que decideix conflictes: les disposicions laborals
+d'aquesta llei tenen «en tot cas el caràcter de mínim irrenunciable», i poden
+ser millorades per conveni o per norma posterior, mai empitjorades. És el
+mateix principi de terra que sosté el Codi de relacions laborals.
+
+El deure empresarial és de resultat, no de tràmit:
+
+Els empresaris «han de garantir la seguretat i la salut dels treballadors, en
+tots els aspectes relacionats amb la feina», prevenint els riscos mitjançant la
+integració de l'activitat preventiva i totes les mesures necessàries (article
+7).
+
+I dues obligacions concretes que es citen poc: tenir en compte les capacitats
+professionals en matèria de seguretat quan s'encarrega una tasca a algú, i
+consultar els treballadors o els seus delegats abans d'introduir noves
+tecnologies pel que fa a les conseqüències per a la seva salut (article 8).
+
+Quan diverses empreses concorren en un mateix centre de treball, han de
+coordinar les activitats perquè la prevenció s'apliqui a tots els treballadors
+de totes les empreses concurrents (article 10) —la regla que importa en una
+obra.
+
+<!-- chunk: temes/societat/treball/no-tornar-a-casa-ferit#c2 -->
+La vigilància de la salut «s'ha de fer respectant el dret a la intimitat i la
+dignitat de la persona treballadora i la confidencialitat de la informació
+relacionada amb el seu estat de salut. Les dades relatives a la salut no poden
+ser utilitzades amb finalitats discriminatòries ni en perjudici de la persona
+treballadora» (article 25.3).
+
+Escrit el 2008, abans que la llei de protecció de dades vigent existís.
+
+- Els delegats de personal elegits segons el Codi de relacions laborals  són
+els representants en matèria de seguretat i salut (article 29.1): no  hi ha una
+elecció separada. - El servei de prevenció pot ser propi o aliè: les empreses
+que el volen  oferir a tercers han de ser acreditades pel departament de
+treball, amb  projecte raonat, i comunicar-hi qualsevol canvi de condicions
+(articles 15-17).
+
+El recull de lleis no els compta; el Departament d'Estadística sí (activitat
+A039). L'any 2025: 1.302 accidents laborals, un −13,7% respecte del 2024.
+
+Compta el que compta Eurostat, i això limita la xifra: és accident de treball
+el que provoca una absència de més de tres dies o la mort, i que passa al lloc
+de feina o en un desplaçament laboral — no l'anada i la tornada de casa a la
+feina.
+
+| Gravetat (dies de baixa) | 2021 | 2023 | 2025 | % 2025 |
+| --- | --- | --- | --- | --- |
+| Fatals | 1 | 2 | 0 | 0,0% |
+| 4-7 dies | 199 | 227 | 205 | 15,7% |
+| 8-14 dies | 264 | 288 | 217 | 16,7% |
+| 15-30 dies | 256 | 283 | 235 | 18,0% |
+| Més de 30 dies | 616 | 663 | 645 | 49,5% |
+| Total | 1.336 | 1.463 | 1.302 | 100% |
+
+La meitat dels accidents deixa la víctima més d'un mes de baixa. En total,
+56.833 jornades no treballades el 2025, que són 43,7 dies de mitjana per
+accident.
+
+El 2025 no hi va haver cap accident laboral mortal. La sèrie en dona 1 el 2021,
+0 el 2022, 2 el 2023, 1 el 2024 i 0 el 2025: una mitjana quinquennal d'un
+accident fatal l'any.
+
+<!-- chunk: temes/societat/treball/no-tornar-a-casa-ferit#c3 -->
+| Sector | Accidents 2025 | % dels accidents | % de la població ocupada |
+| --- | --- | --- | --- |
+| Construcció | 405 | 31,1% | 9,41% |
+| Altres activitats socials i serveis personals | 227 | 17,4% | 8,81% |
+| Comerç | 215 | 16,5% | 19,68% |
+| Activitats immobiliàries i serveis empresarials | 122 | 9,4% | 15,02% |
+| Hoteleria | 93 | 7,1% | 8,85% |
+| Administració pública i seguretat social | 69 | 5,3% | 8,61% |
+| Indústries manufactureres | 64 | 4,9% | 1,96% |
+| Activitats sanitàries i serveis socials | 42 | 3,2% | 6,44% |
+| Transports i comunicacions | 37 | 2,8% | 7,66% |
+| Agricultura, ramaderia, caça i silvicultura | 8 | 0,6% | 0,43% |
+| Llars que ocupen personal domèstic | 8 | 0,6% | 1,53% |
+
+La columna de la dreta és la que fa parlar la taula. La construcció dona el
+31,1% dels accidents amb el 9,41% dels ocupats: 3,3 vegades el que li
+correspondria. Les indústries manufactureres en fan 2,5 vegades. En canvi el
+comerç —el sector més gran del país en ocupació— en té menys dels que li
+tocarien (16,5% contra 19,68%), i els transports encara menys (2,8% contra
+7,66%).
+
+Qui els pateix. Tres de cada quatre accidentats són homes (75,1%). Per
+nacionalitat, altres nacionalitats 29,3% i espanyols 25,0%. Per parròquia,
+Andorra la Vella en concentra el 32,3%.
+
+La ràtio internacional. Per cada 100.000 treballadors, Andorra registra el 2025
+0 accidents fatals i 2.327 no fatals. La sèrie va de 2.820 (2021) a 2.416
+(2025): la sinistralitat baixa.
+
+<!-- chunk: temes/societat/treball/no-tornar-a-casa-ferit#c4 -->
+| Any | Total | Fatals | Més de 30 dies | % més de 30 dies |
+| --- | ---: | ---: | ---: | ---: |
+| 2011 | 1.513 | 0 | 605 | 40,0% |
+| 2012 | 1.435 | 1 | 584 | 40,7% |
+| 2013 | 1.356 | 3 | 551 | 40,6% |
+| 2014 | 1.405 | 3 | 579 | 41,2% |
+| 2015 | 1.349 | 2 | 542 | 40,2% |
+| 2016 | 1.495 | 4 | 626 | 41,9% |
+| 2017 | 1.497 | 1 | 627 | 41,9% |
+| 2018 | 1.457 | 0 | 634 | 43,5% |
+| 2019 | 1.603 | 8 | 710 | 44,3% |
+| 2020 | 1.234 | 4 | 606 | 49,1% |
+| 2021 | 1.336 | 1 | 616 | 46,1% |
+| 2022 | 1.354 | 0 | 581 | 42,9% |
+| 2023 | 1.463 | 2 | 663 | 45,3% |
+| 2024 | 1.509 | 1 | 704 | 46,7% |
+| 2025 | 1.302 | 0 | 645 | 49,5% |
+
+El 2019 hi va haver vuit morts al treball a Andorra. És el doble del segon any
+pitjor —4 el 2016 i 4 el 2020— i cinc vegades la mitjana dels altres catorze
+anys, que és 1,57. En quinze anys hi ha 30 morts al treball, i el 2019 en té
+més d'una quarta part (26,7%).
+
+I hi ha un segon moviment, més lent i menys visible: els accidents baixen i la
+seva gravetat puja. El 2011, quatre de cada deu accidents deixaven més d'un mes
+de baixa; el 2025, la meitat. En nombres absoluts els accidents greus han pujat
+—605 el 2011, 645 el 2025— mentre el total baixava un 13,9%.
+
+| Sector | 2011 | 2019 | 2025 | % del total 2011 → 2025 |
+| --- | ---: | ---: | ---: | --- |
+| Construcció | 401 | 403 | 405 | 26,5% → 31,1% |
+| Comerç | 310 | 299 | 215 | 20,5% → 16,5% |
+| Hoteleria | 212 | 164 | 93 | 14,0% → 7,1% |
+| Altres serveis socials i personals | 181 | 241 | 227 | 12,0% → 17,4% |
+| Administració pública | 95 | 86 | 69 | 6,3% → 5,3% |
+
+<!-- chunk: temes/societat/treball/no-tornar-a-casa-ferit#c5 -->
+| Nacionalitat | 2011 | 2025 | Variació |
+| --- | ---: | ---: | ---: |
+| Portuguesa | 529 | 274 | −48,2% |
+| Espanyola | 474 | 326 | −31,2% |
+| Andorrana | 292 | 308 | +5,5% |
+| Francesa | 43 | 12 | −72,1% |
+| Altres | 175 | 382 | +118,3% |
+
+|  | 2011 | 2019 | 2020 | 2025 |
+| --- | ---: | ---: | ---: | ---: |
+| Homes | 1.055 | 1.162 | 934 | 978 |
+| Dones | 458 | 441 | 300 | 324 |
+| % dones | 30,3% | 27,5% | 24,3% | 24,9% |
+
+El 2020 els accidents de dones cauen un 32,0% i els d'homes un 19,6%, i cinc
+anys després els d'homes han recuperat el 4,7% i els de dones el 8,0%, tots dos
+molt lluny del 2019. La proporció de dones accidentades ha baixat 5,4 punts en
+quinze anys. Podria ser canvi de sector, de jornada o de declaració: la font no
+ho separa.

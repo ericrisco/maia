@@ -9,6 +9,7 @@ from pathlib import Path
 from cervell.model import load_corpus
 from cervell.render import contract, index
 from cervell.schema import load
+from curacio.pipeline import check_corpus, generate_corpus
 
 REPO = Path(__file__).resolve().parents[2]
 SCHEMA = REPO / "schema" / "corpus.toml"
@@ -40,6 +41,23 @@ def cmd_render(args: argparse.Namespace) -> int:
     return codi
 
 
+def cmd_cura(args: argparse.Namespace) -> int:
+    """Genera o comprova el corpus curat."""
+    docs = Path(getattr(args, "root", "docs"))
+    out = Path(getattr(args, "out", "corpus"))
+    if getattr(args, "check", False):
+        failures = check_corpus(docs, out)
+        if failures:
+            for failure in failures:
+                print(f"divergència · {failure}", file=sys.stderr)
+            return 1
+        print(f"ok · {out} coincideix amb les entrades i les regles de curació")
+        return 0
+    generated = generate_corpus(docs, out)
+    print(f"escrits · {len(generated)} fitxers a {out}")
+    return 0
+
+
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(prog="cervell", description="El cervell andorrà.")
     sub = parser.add_subparsers(dest="ordre", required=True)
@@ -49,6 +67,17 @@ def main(argv: list[str] | None = None) -> int:
     r.add_argument("--schema", default=str(SCHEMA), help="Ruta de l'esquema.")
     r.add_argument("--check", action="store_true", help="No escriu; falla si hi ha divergència.")
     r.set_defaults(func=cmd_render)
+
+    c = sub.add_parser("cura", help="Genera o comprova el corpus curat.")
+    c.add_argument(
+        "--check", action="store_true", help="Falla si corpus/ difereix de la sortida calculada."
+    )
+    cura_sub = c.add_subparsers(dest="cura_ordre")
+    tot = cura_sub.add_parser("tot", help="Executa totes les etapes de curació.")
+    tot.add_argument("root", nargs="?", default="docs", help="Arrel de documents d'entrada.")
+    tot.add_argument("--out", default="corpus", help="Arrel de sortida regenerable.")
+    tot.set_defaults(func=cmd_cura)
+    c.set_defaults(func=cmd_cura)
 
     args = parser.parse_args(argv)
     resultat: int = args.func(args)

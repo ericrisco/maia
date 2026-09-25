@@ -1,0 +1,163 @@
+doc_id	camp	valor_origen	correccio	motiu
+temes/costums/calendari-festiu/calendari-festiu	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/costums/calendari-festiu/el-carnaval-dencamp	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/costums/caramelles/les-caramelles	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/costums/danses/danses	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/costums/danses/el-ball-del-cerda	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/costums/danses/el-contrapas	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/costums/festes-majors/el-calendari-de-les-festes-majors	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/costums/festes-majors/festes-majors	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/costums/meritxell/meritxell	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/costums/ritus-de-pas/la-passa	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/costums/sant-antoni/escudelles-de-sant-antoni	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/cultura/arquitectura/espai-columba	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/cultura/llegendes/el-buner-dordino	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/cultura/llegendes/el-llac-dengolasters	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/cultura/llegendes/la-troballa-de-meritxell	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/cultura/museus-i-arxius/com-sentra-a-larxiu-nacional	redistribucio	citacio	pendent	valor original preservat; enum derivat per al corpus
+temes/cultura/museus-i-arxius/museus/museu-de-la-moto-i-centre-de-natura	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/cultura/musica-i-cancons/musica-i-cancons	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/economia/banca-i-fiscalitat/contribucio-industrial-comerc-1849	redistribucio	Rendicions d’imatge conservades per a recerca interna; no es publica una transcripció reutilitzable	no	valor original preservat; enum derivat per al corpus
+temes/economia/banca-i-fiscalitat/conveni-banc-agricol-caixa-pensions-1934	redistribucio	Es conserva una previsualització pública; no es publica una transcripció ni el document complet	no	valor original preservat; enum derivat per al corpus
+temes/economia/banca-i-fiscalitat/el-cas-bpa	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/economia/banca-i-fiscalitat/el-delme-es-converteix-en-tribut-eclesiastic-1905	redistribucio	instrument de descripció per a identificació, lectura i citació	pendent	valor original preservat; enum derivat per al corpus
+temes/economia/banca-i-fiscalitat/la-carta-de-gracia	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/economia/banca-i-fiscalitat/loperacio-catalunya	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/economia/comerc/blat-cerdanya-parroquies-1904	redistribucio	Imatges conservades com a rendicions de consulta; no es publica una transcripció reutilitzable	no	valor original preservat; enum derivat per al corpus
+temes/economia/transformacio-economica/enviaments-ferro-farga-areny-1808	redistribucio	Rendicions d’imatge conservades per a recerca interna; no es publica una transcripció reutilitzable	no	valor original preservat; enum derivat per al corpus
+temes/economia/transformacio-economica/rebut-dandine-farga-1812	redistribucio	Rendició d’imatge conservada per a recerca interna; no es publica una transcripció reutilitzable	no	valor original preservat; enum derivat per al corpus
+temes/economia/transport/les-carreteres	redistribucio	si, amb atribució	pendent	valor original preservat; enum derivat per al corpus
+temes/economia/transport/pont-grau-seu-andorra-1595	redistribucio	Rendicions d’imatge conservades per a recerca interna; no es publica una transcripció reutilitzable	no	valor original preservat; enum derivat per al corpus
+temes/economia/transport/primera-maquina-llevaneu-1936	redistribucio	Es conserva una previsualització pública per a recerca; no es publica com a material de lliure reutilització	no	valor original preservat; enum derivat per al corpus
+temes/economia/turisme-i-neu/estacions/naturland	redistribucio	sí, amb atribució	pendent	valor original preservat; enum derivat per al corpus
+temes/esports/altres-esports/pere-praxedes	redistribucio	si, amb atribució	pendent	valor original preservat; enum derivat per al corpus
+temes/esports/seleccions/els-deu-primers-campions-del-1998	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/esports/seleccions/els-dotze-campions-a-casa-del-2000	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/esports/seleccions/els-dotze-campions-del-2024	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/esports/seleccions/els-dotze-de-la-primera-final-del-2004	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/esports/seleccions/els-dotze-del-triple-de-galera-del-2014	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/esports/seleccions/els-dotze-dels-set-segons-del-2012	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/gastronomia/rebosteria/la-coca-massegada	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/historia/antic-regim/apoca-dot-ordino-1581	redistribucio	Imatges de consulta conservades per a recerca interna; no es publica una transcripció reutilitzable	no	valor original preservat; enum derivat per al corpus
+temes/historia/antic-regim/cens-anual-empriu-lles-1600	redistribucio	Rendició parcial digitalitzada conservada per a recerca interna; no es publica com a transcripció reutilitzable	no	valor original preservat; enum derivat per al corpus
+temes/historia/antic-regim/cens-empriu-lles-travesseres-1489	redistribucio	Pergamí digitalitzat conservat per a recerca interna; no es publica com a transcripció reutilitzable	no	valor original preservat; enum derivat per al corpus
+temes/historia/antic-regim/censos-de-la-pera-1635-1642	redistribucio	Document digitalitzat conservat per a recerca interna; no es publica com a transcripció reutilitzable	no	valor original preservat; enum derivat per al corpus
+temes/historia/antic-regim/concordia-lles-andorra-emprius-1570	redistribucio	Pergamí digitalitzat conservat per a recerca interna; no es publica com a transcripció reutilitzable	no	valor original preservat; enum derivat per al corpus
+temes/historia/antic-regim/el-bisbe-bernat-de-salba-confirma-els-privilegis-1610	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/historia/antic-regim/la-gabella-de-siguer-i-els-papers-de-caulet-1612-1615	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/historia/antic-regim/la-reial-audiencia-i-empriu-pera-1572	redistribucio	Pergamí digitalitzat conservat per a recerca interna; no es publica com a transcripció reutilitzable	no	valor original preservat; enum derivat per al corpus
+temes/historia/antic-regim/la-sentencia-que-protegeix-la-farina-dencamp-1606	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/historia/antic-regim/la-vall-defensa-els-privilegis-davant-caramany-1618	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/historia/antic-regim/la-vall-demana-mantenir-el-comerc-amb-franca-1604	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/historia/antic-regim/la-vall-reivindica-els-seus-jutges-i-els-seus-bens-1612	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/historia/antic-regim/lluis-xiii-confirma-els-privilegis-1611	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/historia/antic-regim/ordinacions-cort-quadrilles-rodamons-1580	redistribucio	Rendicions d’imatge conservades per a recerca interna; no es publica una transcripció reutilitzable	no	valor original preservat; enum derivat per al corpus
+temes/historia/antic-regim/privilegi-fira-sant-mateu-1542	redistribucio	PDF digitalitzat conservat per a recerca interna; no es publica com a text reutilitzable	no	valor original preservat; enum derivat per al corpus
+temes/historia/antic-regim/privilegi-mercat-quinzenal-andorra-1512	redistribucio	PDF digitalitzat conservat per a recerca interna; no es publica com a text reutilitzable	no	valor original preservat; enum derivat per al corpus
+temes/historia/antic-regim/privilegi-mercat-quinzenal-andorra-1516	redistribucio	PDF digitalitzat conservat per a recerca interna; no es publica com a text reutilitzable	no	valor original preservat; enum derivat per al corpus
+temes/historia/antic-regim/rodalia-empriu-pera-1792	redistribucio	Document digitalitzat conservat per a recerca interna; no es publica com a transcripció reutilitzable	no	valor original preservat; enum derivat per al corpus
+temes/historia/democratitzacio/democratitzacio	redistribucio	no; es conserva per a lectura i citació	pendent	valor original preservat; enum derivat per al corpus
+temes/historia/democratitzacio/el-sufragi-femeni-andorra-1967-1973	redistribucio	no; es conserva per a lectura i citació	pendent	valor original preservat; enum derivat per al corpus
+temes/historia/edat-mitjana/alberga-servitud-episcopal-1466	redistribucio	Imatges de consulta conservades per a recerca interna; no es publica una transcripció reutilitzable	no	valor original preservat; enum derivat per al corpus
+temes/historia/edat-mitjana/andorra-defensa-emprius-lles-travesseres-1386	redistribucio	Pergamí digitalitzat conservat per a recerca interna; no es publica com a transcripció reutilitzable	no	valor original preservat; enum derivat per al corpus
+temes/historia/edat-mitjana/concordia-batlle-1176-1379	redistribucio	PDF digitalitzat conservat per a recerca interna; no es publica com a text reutilitzable	no	valor original preservat; enum derivat per al corpus
+temes/historia/edat-mitjana/concordia-pasturatge-castellbo-1543	redistribucio	Imatges de consulta conservades per a recerca interna; no es publica una transcripció reutilitzable	no	valor original preservat; enum derivat per al corpus
+temes/historia/edat-mitjana/debitori-dot-margarida-vilar-1374	redistribucio	PDF digitalitzat conservat per a recerca interna; no es publica com a text reutilitzable	no	valor original preservat; enum derivat per al corpus
+temes/historia/edat-mitjana/el-precepte-de-860-i-el-delme-del-ferro	redistribucio	derivat digital CARo reutilitzable segons Etalab 2.0; no es redistribueix una edició nova del llibre de 1943	pendent	valor original preservat; enum derivat per al corpus
+temes/historia/edat-mitjana/el-proces-dels-emprius-de-cantabra-i-la-pera-1542	redistribucio	Procés digitalitzat conservat per a recerca interna; no es publica com a transcripció reutilitzable	no	valor original preservat; enum derivat per al corpus
+temes/historia/edat-mitjana/franquesa-lleuda-muntanyes-foix-1366	redistribucio	PDF digitalitzat conservat per a recerca interna; no es publica com a text reutilitzable	no	valor original preservat; enum derivat per al corpus
+temes/historia/edat-mitjana/franquesa-mesuratge-oli-seu-1265	redistribucio	PDF digitalitzat conservat per a recerca interna; no es publica com a text reutilitzable	no	valor original preservat; enum derivat per al corpus
+temes/historia/edat-mitjana/la-memoria-de-la-cosenyoria-1347	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/historia/edat-mitjana/la-venda-perpetua-delempriu-de-la-pera-1475	redistribucio	Unitat digitalitzada conservada per a recerca interna; no es publica com a transcripció reutilitzable	no	valor original preservat; enum derivat per al corpus
+temes/historia/edat-mitjana/lleuda-agramunt-1493-1503	redistribucio	PDFs digitalitzats conservats per a recerca interna; no es publiquen com a text reutilitzable	no	valor original preservat; enum derivat per al corpus
+temes/historia/edat-mitjana/ordinacions-pastures-1340	redistribucio	Imatges de consulta conservades per a recerca interna; no es publica una transcripció reutilitzable	no	valor original preservat; enum derivat per al corpus
+temes/historia/edat-mitjana/peticio-justicia-urgell-1409	redistribucio	PDF digitalitzat conservat per a recerca interna; no es publica com a text reutilitzable	no	valor original preservat; enum derivat per al corpus
+temes/historia/edat-mitjana/privilegi-fira-mercat-1402-1542	redistribucio	PDF digitalitzat conservat per a recerca interna; no es publica com a text reutilitzable	no	valor original preservat; enum derivat per al corpus
+temes/historia/edat-mitjana/sentencia-ramats-gascunya-1468	redistribucio	PDF digitalitzat conservat per a recerca interna; no es publica com a text reutilitzable	no	valor original preservat; enum derivat per al corpus
+temes/historia/edat-mitjana/testament-joan-vilar-1441	redistribucio	PDF digitalitzat conservat per a recerca interna; no es publica com a text reutilitzable	no	valor original preservat; enum derivat per al corpus
+temes/historia/edat-mitjana/testaments-vilar-1487-1529	redistribucio	Imatges de consulta conservades per a recerca interna; no es publica una transcripció reutilitzable	no	valor original preservat; enum derivat per al corpus
+temes/historia/guerres-i-neutralitat/andorrans-als-camps-nazis	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/historia/guerres-i-neutralitat/dos-soldats-casa-rossell-1890-1920	redistribucio	Sí, respectant l’atribució i la procedència indicades pel catàleg	pendent	valor original preservat; enum derivat per al corpus
+temes/historia/historia-recent/els-anys-daurats	redistribucio	no; es conserva per a lectura i verificació	pendent	valor original preservat; enum derivat per al corpus
+temes/historia/historia-recent/la-reformeta-separa-el-govern-del-consell-1978-1981	redistribucio	no; es conserva per a lectura i citació	pendent	valor original preservat; enum derivat per al corpus
+temes/historia/historiografia/el-diccionari-enciclopedic	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/historia/origens/camp-del-perot-necropolis-i-terrissa	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/historia/origens/camp-vermell-una-aldea-de-fons-de-vall	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/historia/origens/el-roc-denclar-cinc-periodes	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/historia/origens/el-roc-denclar-comunitat-rural-segles-iv-viii	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/historia/origens/la-necropolis-del-camp-del-perot-i-la-cronologia-funeraria	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/historia/origens/quan-el-neolitic-va-comencar-a-fer-el-paisatge-del-madriu	redistribucio	sí, amb atribució segons la llicència indicada	pendent	valor original preservat; enum derivat per al corpus
+temes/historia/origens/sant-vicenc-enclar-esglesia-i-poblat	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/historia/segle-xix/els-carlins-i-el-consell-1838-1839	apte_llengua	True	false	derivació veu + època segons contracte
+temes/historia/segle-xix/els-carlins-i-el-consell-1838-1839	redistribucio	no; es conserva per a lectura i citació	pendent	valor original preservat; enum derivat per al corpus
+temes/historia/segle-xix/nova-reforma	redistribucio	subjecta a les condicions del portal	pendent	valor original preservat; enum derivat per al corpus
+temes/historia/segle-xx-primera-meitat/el-pa-i-el-telefon-1917-1919	redistribucio	instrument de descripció per a identificació, lectura i citació	pendent	valor original preservat; enum derivat per al corpus
+temes/historia/segle-xx-primera-meitat/el-primer-telesqui-i-el-turisme-dhivern-1956-1958	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/historia/segle-xx-primera-meitat/el-projecte-de-concordat-espanyol-i-andorra-1934	redistribucio	no; es conserva per a lectura i verificació	pendent	valor original preservat; enum derivat per al corpus
+temes/historia/segle-xx-primera-meitat/la-constitucio-de-1934	redistribucio	no; es conserva per a lectura i verificació	pendent	valor original preservat; enum derivat per al corpus
+temes/historia/segle-xx-primera-meitat/la-delegacio-de-tarongi-i-el-pla-espanyol-1934-1935	redistribucio	no; es conserva per a lectura i verificació	pendent	valor original preservat; enum derivat per al corpus
+temes/historia/segle-xx-primera-meitat/la-primera-policia	redistribucio	no; es conserva per a lectura i verificació	pendent	valor original preservat; enum derivat per al corpus
+temes/historia/segle-xx-primera-meitat/la-radio-andorra-davant-vichy-i-els-aliats-1939-1944	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/historia/segle-xx-primera-meitat/la-revolucio-de-1933	redistribucio	no; es conserva per a lectura i verificació	pendent	valor original preservat; enum derivat per al corpus
+temes/historia/segle-xx-primera-meitat/les-valls-dandorra-primera-publicacio-1917-1920	redistribucio	pendent; només se'n conserva una còpia local per a auditoria	pendent	valor original preservat; enum derivat per al corpus
+temes/historia/segle-xx-primera-meitat/visita-benlloch-1908	redistribucio	Sí, respectant l’atribució i la procedència indicades pel catàleg	pendent	valor original preservat; enum derivat per al corpus
+temes/institucions/consell-general/andorra-demana-franquicia-cerdanya-1646	redistribucio	instrument de descripció per a identificació, lectura i citació	pendent	valor original preservat; enum derivat per al corpus
+temes/institucions/consell-general/lassemblea-magna	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/institucions/consell-general/sentencia-treta-blat-1593	redistribucio	Imatges de consulta conservades per a recerca interna; no es publica una transcripció reutilitzable	no	valor original preservat; enum derivat per al corpus
+temes/institucions/coprincipat/entre-la-questia-i-napoleo-1793-1806	redistribucio	no; es conserven còpies locals per a lectura i citació	pendent	valor original preservat; enum derivat per al corpus
+temes/institucions/justicia/el-consell-encarrega-un-codi-de-lleis-1860	apte_llengua	True	false	derivació veu + època segons contracte
+temes/institucions/justicia/el-consell-encarrega-un-codi-de-lleis-1860	redistribucio	no; es conserva per a lectura i citació	pendent	valor original preservat; enum derivat per al corpus
+temes/institucions/justicia/les-taxes-dels-notaris-1356	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/institucions/nacionalitat-i-residencia/autoritzacio-residencia-pasto-1950	redistribucio	Rendició d’imatge conservada per a recerca interna; no es publica una transcripció reutilitzable	no	valor original preservat; enum derivat per al corpus
+temes/institucions/nacionalitat-i-residencia/certificat-residencia-quesada-1948	redistribucio	Rendició d’imatge conservada per a recerca interna; no es publica una transcripció reutilitzable	no	valor original preservat; enum derivat per al corpus
+temes/institucions/nacionalitat-i-residencia/certificat-residencia-rispal-1956	redistribucio	Rendició d’imatge conservada per a recerca interna; no es publica una transcripció reutilitzable	no	valor original preservat; enum derivat per al corpus
+temes/institucions/nacionalitat-i-residencia/demanda-passaport-benezet-1946	redistribucio	Rendició d’imatge conservada per a recerca interna; no es publica una transcripció reutilitzable	no	valor original preservat; enum derivat per al corpus
+temes/institucions/nacionalitat-i-residencia/el-cens-comunal-i-el-control-dels-estrangers-1752-1949	redistribucio	no; es conserva per a lectura i verificació	pendent	valor original preservat; enum derivat per al corpus
+temes/institucions/nacionalitat-i-residencia/pas-franca-dalleres-1868	redistribucio	Rendicions d’imatge conservades per a recerca interna; no es publica una transcripció reutilitzable	no	valor original preservat; enum derivat per al corpus
+temes/institucions/nacionalitat-i-residencia/passaport-filomena-albos-1941	redistribucio	Rendicions d’imatge conservades per a recerca interna; no es publica una transcripció reutilitzable	no	valor original preservat; enum derivat per al corpus
+temes/institucions/nacionalitat-i-residencia/registre-residencia-andorra-franca-1893	redistribucio	Rendicions d’imatge conservades per a recerca interna; no es publica una transcripció reutilitzable	no	valor original preservat; enum derivat per al corpus
+temes/institucions/nacionalitat-i-residencia/restriccio-emigrats-francesos-1904	redistribucio	Rendicions d’imatge conservades per a recerca interna; no es publica una transcripció reutilitzable	no	valor original preservat; enum derivat per al corpus
+temes/institucions/relacions-exteriors/lacord-dassociacio-amb-la-ue	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/persones/albert-villaro	redistribucio	si, amb atribució	pendent	valor original preservat; enum derivat per al corpus
+temes/persones/bonaventura-riberaygua	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/persones/catalan-de-ocon	redistribucio	si, amb atribució	pendent	valor original preservat; enum derivat per al corpus
+temes/persones/charles-romeu	redistribucio	si, amb atribució	pendent	valor original preservat; enum derivat per al corpus
+temes/persones/daniel-marin	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/persones/esteve-albert-i-corp	font	enciclopedia-esteve-albert-2026	pendent	la fitxa de font no consta a docs/fonts/
+temes/persones/francesc-galobardes	redistribucio	si, amb atribució	pendent	valor original preservat; enum derivat per al corpus
+temes/persones/inaki-rubio-manzano	redistribucio	permesa amb atribució (CC BY-SA)	pendent	valor original preservat; enum derivat per al corpus
+temes/persones/isabel-de-foix	redistribucio	si, amb atribució	pendent	valor original preservat; enum derivat per al corpus
+temes/persones/joan-enric-vives	redistribucio	si, amb atribució	pendent	valor original preservat; enum derivat per al corpus
+temes/persones/joan-i-de-foix	redistribucio	si, amb atribució	pendent	valor original preservat; enum derivat per al corpus
+temes/persones/jordi-gallardo	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/persones/josep-lluis-serrano-pentinat	redistribucio	si, amb atribució	pendent	valor original preservat; enum derivat per al corpus
+temes/persones/julia-bonet-fite	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/persones/maria-reig-moles	redistribucio	si, amb atribució	pendent	valor original preservat; enum derivat per al corpus
+temes/persones/naiara-linan	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/persones/pere-canturri-montanya	redistribucio	permesa amb atribució (CC BY-SA)	pendent	valor original preservat; enum derivat per al corpus
+temes/persones/rosa-ferrer-obiols	redistribucio	si, amb atribució	pendent	valor original preservat; enum derivat per al corpus
+temes/persones/simeon-de-guinda	redistribucio	si, amb atribució	pendent	valor original preservat; enum derivat per al corpus
+temes/persones/txetxu-bermudo	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/persones/victoria-zorzano	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/persones/xavier-galera	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/politica/sistema-electoral/els-primers-referendums	redistribucio	no; es conserva per a lectura i verificació	pendent	valor original preservat; enum derivat per al corpus
+temes/societat/demografia/cens-poblacio-carretera-1896	redistribucio	Rendicions d’imatge conservades per a recerca interna; no es publica una transcripció reutilitzable	no	valor original preservat; enum derivat per al corpus
+temes/societat/educacio/collegi-foix-sucara-1672	redistribucio	Imatges de consulta conservades per a recerca interna; no es publica una transcripció reutilitzable	no	valor original preservat; enum derivat per al corpus
+temes/societat/educacio/educacio	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/societat/educacio/el-que-sensenya-als-nens-sobre-andorra	redistribucio	citacio	pendent	valor original preservat; enum derivat per al corpus
+temes/societat/educacio/les-guarderies	redistribucio	citacio	pendent	valor original preservat; enum derivat per al corpus
+temes/societat/educacio/noies-andorranes-escola-normal-perpinya-1898	redistribucio	Rendició d’imatge conservada per a recerca interna; no es publica una transcripció reutilitzable	no	valor original preservat; enum derivat per al corpus
+temes/societat/educacio/proposicio-escola-primaria-1882	redistribucio	Rendicions d’imatge conservades per a recerca interna; no es publica una transcripció reutilitzable	no	valor original preservat; enum derivat per al corpus
+temes/societat/familia/retrat-nena-casa-rossell-1890-1920	redistribucio	Sí, respectant l’atribució i la procedència indicades pel catàleg	pendent	valor original preservat; enum derivat per al corpus
+temes/societat/habitatge/la-crisi-de-lhabitatge	redistribucio	False	no	valor original preservat; enum derivat per al corpus
+temes/societat/sanitat/conveni-apotecari-balmes-1737	redistribucio	Rendicions d’imatge conservades per a recerca interna; no es publica una transcripció reutilitzable	no	valor original preservat; enum derivat per al corpus
+temes/societat/sanitat/ordre-hospital-seu-1691	redistribucio	Imatges de consulta conservades per a recerca interna; no es publica una transcripció reutilitzable	no	valor original preservat; enum derivat per al corpus
+temes/societat/treball/el-consell-economic-i-social	redistribucio	permesa (text legal)	pendent	valor original preservat; enum derivat per al corpus
+temes/societat/treball/el-salari-minim-de-362-pessetes-a-9-euros	redistribucio	citacio	pendent	valor original preservat; enum derivat per al corpus
+temes/societat/treball/rebut-lloguer-cirurgia-1828	redistribucio	Rendició d’imatge conservada per a recerca interna; no es publica una transcripció reutilitzable	no	valor original preservat; enum derivat per al corpus
+temes/societat/vida-civica/festa-major-andorra-vella-1900-1913	redistribucio	Sí, respectant l’atribució i la procedència indicades pel catàleg	pendent	valor original preservat; enum derivat per al corpus
+temes/territori/clima-i-muntanya/que-es-va-mesurar-a-lallau-darinsal	redistribucio	sí, sota les condicions CC BY 4.0 de l'article; no extensió automàtica a les fonts externes	pendent	valor original preservat; enum derivat per al corpus
+parla/oral/el-contrapas-teo-armengol	title	El contrapàs	pendent	títol duplicat; no es desambigua automàticament
+temes/costums/danses/el-contrapas	title	El contrapàs	pendent	títol duplicat; no es desambigua automàticament
+temes/historia/antic-regim/la-questia	title	La quèstia	pendent	títol duplicat; no es desambigua automàticament
+temes/institucions/coprincipat/la-questia	title	La quèstia	pendent	títol duplicat; no es desambigua automàticament

@@ -1,0 +1,184 @@
+---
+doc_id: temes/societat/habitatge/els-habitatges-buits
+sha_origen: e1ba7351dabb
+titol_doc: "Els habitatges buits"
+tema: societat/habitatge
+domini: societat
+font: jurisprudencia-ad
+familia_font: jurisprudencia-ad
+llicencia: "norma oficial andorrana (pública per naturalesa); la consolidació és feina del projecte"
+redistribucio: si
+redistribucio_detall: "si"
+veu: compilada
+epoca: contemporania
+---
+
+<!-- chunk: temes/societat/habitatge/els-habitatges-buits#c1 -->
+La Llei 5/2025 per al creixement sostenible i el dret a l'habitatge té 82
+articles (font, instantània del 2026-09-12). El seu títol IV conté la mesura
+més dura sobre la propietat que hi ha al recull de lleis andorranes: la cessió
+obligatòria de l'ús d'habitatges buits.
+
+La llei no ho deixa a criteri. Es presumeix habitatge buit i desatès (article
+69.1) el que:
+
+| Indici |  |
+| --- | --- |
+| Sense contracte de llum | a) |
+| Amb contracte però cap consum elèctric en 18 mesos | b) |
+| Sense subministrament d'aigua potable | c) |
+| Amb contracte però cap consum d'aigua en 18 mesos | d) |
+| Desocupat 18 mesos sense causa justificada imputable al propietari | e) |
+
+La prova d'entrada és el comptador. I el Govern hi té accés: la llei l'habilita
+a creuar censos de població, cadastres parroquials, dades de l'Institut
+Nacional de l'Habitatge i consums d'electricitat i aigua (article 70.2).
+
+Per si algú pensa a deixar un electrodomèstic engegat, l'apartat següent ho
+preveu: el ministeri fa «inspeccions periòdiques a fi de comprovar el consum
+energètic real dels immobles que sospita que romanen buits, a fi d'evitar
+simulacions de residència» (article 70.3).
+
+<!-- chunk: temes/societat/habitatge/els-habitatges-buits#c2 -->
+Vuit supòsits no són mai habitatge buit (article 69.2). Els dos primers marquen
+el límit polític de la mesura:
+
+- «Les segones residències per a ús familiar, de vacances o de lleure»; - canvi
+d'habitatge per raons laborals, de salut o de discapacitat; - pisos en venda o
+en lloguer de forma inequívoca per agència, durant 18  mesos, a un preu que no
+superi el preu estadístic de mercat —que el Govern  pot fixar per parròquia; -
+pisos en obres amb llicència vigent; - pisos en litigi o en herència jacent; -
+pisos reservats a un fill que és fora d'Andorra per feina, formació o  salut.
+
+La segona residència de vacances està expressament protegida. En un país on el
+pis buit de temporada és una figura massiva, la llei hi renuncia d'entrada.
+
+I l'altra vàlvula és el preu: tenir-lo al mercat no serveix si es demana més
+del preu estadístic. La llei ho diu expressament —«la simple manifestació de la
+voluntat de posar l'habitatge al mercat […] no és suficient» (article 71.3).
+
+1. Requeriment al propietari, amb tres mesos per acreditar que el pis és  en
+algun dels supòsits exclosos, o per cedir-ne l'ús voluntàriament al  parc
+públic de lloguer assequible (article 71.1.b i c). 2. Si no ho fa, es pot
+declarar l'incompliment de la funció social de la  propietat i acordar la
+cessió obligatòria (article 72.1). 3. Resolució ferma → un mes per lliurar les
+claus (article 72.3). 4. Si no, execució forçosa (article 72.4).
+
+«Incompliment de la funció social de la propietat» és la frase jurídica sobre la
+qual descansa tota la mesura.
+
+<!-- chunk: temes/societat/habitatge/els-habitatges-buits#c3 -->
+| | | | --- | --- | | Durada de la cessió | cinc anys (article 73.1) | | Des de
+quan compta | des de l'ocupació efectiva, un cop adequat el pis (73.2) | | Qui
+paga posar-lo en condicions | el Govern l'avança, per compte del propietari
+(73.2) | | Fins on ho recupera | el límit de dues anualitats de lloguer (73.2)
+| | Si no s'adjudica en sis mesos | la cessió queda resolta automàticament i el
+propietari recupera l'ús (73.3) | | Si les obres no s'amortitzen en tres anys |
+el Govern pot no finançar-les, i el propietari recupera l'ús (73.4) |
+
+No és una expropiació: és l'ús, temporal i retornable. El propietari segueix
+sent propietari; el que perd, durant cinc anys, és disposar-ne.
+
+I les dues portes de sortida són econòmiques: si el pis no es pot llogar
+—perquè no s'adjudica o perquè arreglar-lo no surt a compte—, torna.
+
+El títol IV és una peça d'una norma molt més ampla. La mateixa Llei 5/2025:
+
+- redefineix qui és inversor estranger: un resident que no acrediti  3 anys de
+residència efectiva dins dels 10 anteriors compta com a  estranger per comprar
+immobles (article 1.1.b); - modifica la Llei qualificada d'immigració (títol
+II); - modifica la Llei general de l'allotjament turístic (títol III); - crea
+mesures tributàries «per frenar l'especulació immobiliària» i afavorir  la
+compra del primer habitatge per a residents (títol V).
+
+I l'any següent, la Llei 2/2026 de continuïtat i consolidació (29 articles) hi
+torna: modifica un altre cop la llei d'immigració, la mateixa Llei 5/2025, la
+Llei del comerç i l'impost sobre la inversió estrangera immobiliària.
+
+És la norma més recent del recull, i és la segona part d'una mateixa operació.
+Entre les dues toquen inversió estrangera, immigració, turisme, habitatge,
+comerç i fiscalitat: el conjunt de palanques amb què Andorra intenta governar
+el seu propi creixement.
+
+La Llei 2/2026 estreny, per exemple, els treballadors fronterers temporals:
+l'autorització és improrrogable, i qui l'ha tinguda no pot obtenir-ne una altra
+fins que passi el termini reglamentari, ni tornar-hi si la temporada anterior
+se li va constatar qualsevol incompliment de la normativa d'immigració (article
+1).
+
+<!-- chunk: temes/societat/habitatge/els-habitatges-buits#c4 -->
+Preu mitjà per metre quadrat dels pisos transmesos, en euros:
+
+| Parròquia | 2024 | 2025 | Variació |
+| --- | --- | --- | --- |
+| Canillo | 3.566,3 | 3.752,4 | +5,2% |
+| Encamp | 3.123,2 | 3.242,0 | +3,8% |
+| Ordino | 3.691,7 | 4.134,5 | +12,0% |
+| La Massana | 3.296,0 | 3.663,0 | +11,1% |
+| Andorra la Vella | 5.063,6 | 4.885,9 | −3,5% |
+| Sant Julià de Lòria | 2.524,4 | 3.335,1 | +32,1% |
+| Escaldes-Engordany | 5.282,4 | 6.117,0 | +15,8% |
+| Tot el país | 4.053,1 | 4.479,4 | +10,5% |
+
+Tres coses que la taula diu i que no s'endevinen.
+
+Primera, la distància entre parròquies és de gairebé el doble. Escaldes (6.117
+€/m²) val 1,83 vegades Encamp (3.242 €/m²). Un pis de 80 m² costa 489.000 euros
+a Escaldes i 259.000 a Encamp.
+
+Segona, l'única parròquia que baixa és la capital. Andorra la Vella perd un
+3,5% el 2025 mentre el país puja un 10,5% — i deixa de ser la parròquia més
+cara per primera vegada, superada per Escaldes.
+
+Tercera, la parròquia que més puja és la més barata. Sant Julià de Lòria fa
++32,1% en un any i continua sent l'última de la llista.
+
+I la resta de béns, per contrast: habitatge unifamiliar 3.664,6 €/m², terreny
+1.287,9 (que fa +66,9% en un any), plaça d'aparcament 1.976,4, local comercial
+3.029,5 (l'única categoria que també baixa, −5,2%).
+
+El mercat s'ha mogut molt: 2.175 transaccions el 2025 contra 1.608 el 2024, un
++35,3%. Escaldes gairebé les dobla (+98,2%) i Canillo fa +63,3%; Andorra la
+Vella es queda exactament igual (313 i 313) i Sant Julià baixa.
+
+Qui compra. El 75,1% de les adquisicions de persones físiques són de residents;
+el 24,9% de no residents. De les societats compradores, el 70,0% són
+íntegrament de residents.
+
+<!-- chunk: temes/societat/habitatge/els-habitatges-buits#c5 -->
+La llei els defineix i no els compta. Cap estadística andorrana no publica «el
+nombre d'habitatges buits». El que sí que es publica són dos recomptes
+diferents, i restant-los surt un ordre de magnitud.
+
+|  | Any 2024 | Font |
+| --- | --- | --- |
+| Habitatges que existeixen | 44.047 | A061. Edificis i unitats domiciliàries, a partir del Registre Estadístic de Territori |
+| Habitatges ocupats per llars residents | 39.271 | A062. Característiques dels habitatges, a partir de l'Enquesta de Pressupostos Familiars |
+| Diferència | 4.776 | càlcul del corpus |
+
+4.776 habitatges, el 10,8% del parc, no allotgen cap llar resident.
+
+I això no vol dir que siguin buits en el sentit de la llei. La diferència
+inclou, com a mínim:
+
+- els habitatges d'ús turístic, que són 2.358 amb 11.403 llits; - les segones
+residències de vacances, que el títol III protegeix  expressament i que per
+tant no són habitatges buits a efectes de la llei; - els habitatges en obres,
+que l'A061 xifra en 698 unitats domiciliàries  (el 0,8% de les 90.947 del país,
+no només dels habitatges); - els que ocupen persones no residents a efectes de
+l'enquesta.
+
+Les dues no es poden restar sense avís, i aquest és l'avís: l'A061 compta el
+que hi ha construït segons un registre de territori; l'A062 compta el que
+declaren les llars en una enquesta. Una unitat pot existir en la primera i no
+aparèixer en la segona per raons que no tenen res a veure amb estar buida.
+
+El que sí que és sòlid és el creixement. Els habitatges de llars residents
+passen de 33.455 el 2020 a 39.271 el 2024: +5.816 en cinc anys, dels quals
+1.695 de propietat i 4.121 de lloguer. Set de cada deu habitatges nous ocupats
+van al lloguer. I el 92,2% del parc són pisos, un punt i mig més que el 2020,
+perquè les cases baixen del 9,3% al 7,8%.
+
+El parc construït creix molt més a poc a poc: 10.468 edificacions el 2021 i
+10.699 el 2024, +0,5% l'últim any. La Massana (2.111) i Andorra la Vella
+(1.915) en concentren més; Canillo (1.187) i Ordino (1.105), menys.

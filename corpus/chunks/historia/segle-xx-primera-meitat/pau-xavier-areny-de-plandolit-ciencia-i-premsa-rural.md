@@ -1,0 +1,68 @@
+---
+doc_id: temes/historia/segle-xx-primera-meitat/pau-xavier-areny-de-plandolit-ciencia-i-premsa-rural
+sha_origen: dd7a05e94521
+titol_doc: "Pau Xavier Areny de Plandolit: ciència i premsa rural"
+tema: historia/segle-xx-primera-meitat
+domini: historia
+font: plandolit-andorra-agricola-2009
+familia_font: plandolit-andorra-agricola-2009
+llicencia: "Publicació institucional en obert, sense llicència declarada"
+redistribucio: pendent
+redistribucio_detall: "pendent"
+veu: compilada
+epoca: contemporania
+---
+
+<!-- chunk: temes/historia/segle-xx-primera-meitat/pau-xavier-areny-de-plandolit-ciencia-i-premsa-rural#c1 -->
+La modernització d'Andorra no va començar només amb les carreteres i els
+projectes turístics. També es va expressar en iniciatives particulars que
+connectaven Ordino amb Barcelona, la ciència amb la premsa i la vida rural amb
+un públic més ampli. Pau Xavier Areny de Plandolit (Tolosa, 4 de febrer de 1876
+– 1936) és un cas especialment documentat.
+
+Pau Xavier era fill de Guillem Areny de Plandolit, baró de Senaller i síndic
+procurador general de les Valls. Va estudiar medicina a Barcelona i hi va
+exercir com a metge i professor auxiliar, però els seus interessos també
+incloïen la zoologia, la taxidèrmia i l'ornitologia.
+
+A Ordino va crear el museu Areny, amb animals dissecats, minerals i plantes. La
+col·lecció va ser venuda per la família després de la seva mort, de manera que
+el museu és també un exemple de patrimoni privat que no va conservar-se com una
+institució continuada.
+
+La font diu que Areny de Plandolit va muntar una impremta pròpia i que el 1914
+va començar a publicar La Ciència Agrícola, una revista il·lustrada amb gravats
+i fotografies. Més endavant va crear Andorra Agrícola, dedicada a l'avicultura,
+l'agricultura, les indústries rurals, la ramaderia i l'apicultura.
+
+Aquestes publicacions no són només una activitat cultural. Són un programa de
+modernització: transformar coneixements tècnics en instruccions per a una
+societat que encara depenia del camp i dels animals. La font no permet establir
+quants exemplars circulaven ni quin impacte real tingueren entre els pagesos;
+aquestes preguntes queden obertes als fons de la Biblioteca Nacional.
+
+<!-- chunk: temes/historia/segle-xx-primera-meitat/pau-xavier-areny-de-plandolit-ciencia-i-premsa-rural#c2 -->
+Als anys vint, Andorra travessava una crisi econòmica i alguns veïns emigrats a
+Barcelona o Besiers reclamaven canvis. La mateixa font descriu el turisme com
+una possible sortida i reprodueix una notícia de Les Valls d'Andorra del 26
+d'agost de 1919: els banyistes omplien els establiments d'Escaldes i
+l'automòbil facilitava l'arribada.
+
+Areny de Plandolit va publicar el 1928, al diari barceloní El Diluvio, una
+sèrie d'articles sobre «El despertar d'Andorra» i les possibilitats turístiques
+del país. La seva trajectòria uneix així tres discursos que sovint s'expliquen
+per separat: el progrés científic, la millora de l'agricultura i l'obertura
+turística.
+
+El cas d'Areny de Plandolit no és un programa de l'Estat ni una política del
+Consell General. És una iniciativa d'una família amb recursos, connexions i
+patrimoni a cavall d'Andorra i Barcelona. Precisament per això permet veure com
+la modernització podia avançar per xarxes privades abans que existissin
+institucions culturals o educatives nacionals capaces d'assumir-la.
+
+El personatge no representa tota la societat andorrana. Representa una via
+concreta —elit local, ciència aplicada, impremta i turisme— que ajuda a
+entendre com es va preparar el canvi econòmic del primer terç del segle XX.
+
+- Guillem d'Areny-Plandolit - Dues carreteres obren Andorra, 1900–1913 - La
+literatura andorrana - La censura de premsa

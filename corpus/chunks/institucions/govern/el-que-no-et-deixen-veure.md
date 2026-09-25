@@ -1,0 +1,176 @@
+---
+doc_id: temes/institucions/govern/el-que-no-et-deixen-veure
+sha_origen: 438ac1b6d201
+titol_doc: "El que no et deixen veure"
+tema: institucions/govern
+domini: institucions
+font: jurisprudencia-ad
+familia_font: jurisprudencia-ad
+llicencia: "norma oficial andorrana (pública per naturalesa); la consolidació és feina del projecte"
+redistribucio: si
+redistribucio_detall: "si"
+veu: compilada
+epoca: contemporania
+---
+
+<!-- chunk: temes/institucions/govern/el-que-no-et-deixen-veure#c1 -->
+La llei de transparència diu que el dret d'accés es garanteix a totes les
+persones i que l'Administració no té potestat discrecional per negar-lo. Aquest
+article és l'altra meitat: on la llei sí que permet dir que no (font,
+instantània del 2026-09-12). Sense això, el dret d'accés no es pot avaluar.
+
+L'article 11.1 permet denegar l'accés quan la divulgació perjudiqui:
+
+| | |
+| --- | --- |
+| a | defensa i seguretat nacional |
+| b | relacions internacionals i obligacions de confidencialitat amb organismes internacionals |
+| c | seguretat pública |
+| d | les relacions amb els coprínceps i els seus serveis |
+| e | política econòmica, financera i monetària |
+| f | protecció del medi ambient |
+| g | prevenció, investigació i sanció d'infraccions penals, administratives o disciplinàries |
+| h | funcions de vigilància, inspecció, control, supervisió i auditoria |
+| i | igualtat entre les parts en procediments judicials i tutela judicial efectiva |
+| j | les deliberacions d'autoritats públiques i el secret dels processos de presa de decisions |
+| k | la intimitat, amb menció expressa dels menors i de les víctimes de violència de gènere |
+| l | interessos econòmics o comercials, inclosa la propietat intel·lectual i industrial |
+
+La lletra d no existeix en cap altra llei de transparència: les relacions amb
+els coprínceps i els seus serveis són una causa pròpia de denegació, i no té
+equivalent enlloc perquè cap altre estat té aquesta figura.
+
+I la lletra f sorprèn en sentit contrari: protegir el medi ambient pot
+justificar no donar informació —la lògica és la del niu d'una espècie
+amenaçada, no la de l'opacitat, però la llei no ho matisa.
+
+<!-- chunk: temes/institucions/govern/el-que-no-et-deixen-veure#c2 -->
+La llista no opera sola. L'article 11 hi posa tres frens que decideixen casos:
+
+1. Justificació i proporcionalitat. L'aplicació «ha de ser justificada i
+proporcional» i ha d'atendre les circumstàncies del cas i, particularment,  «la
+concurrència d'un interès públic o privat superior que justifiqui  l'accés»
+(11.2). El límit pot cedir. 2. Temporalitat. Els límits «es mantenen mentre
+perduren les raons que en  justifiquen l'aplicació» (11.2). Una denegació no és
+per sempre per definició. 3. Accés parcial obligatori. Si el límit només afecta
+una part, s'ha de  donar la resta, separant el reservat i indicant al
+sol·licitant quina part  s'ha omès —tret que en resulti informació
+distorsionada o sense sentit  (11.3). No es pot negar un document sencer per
+una línia.
+
+El capítol quart crea la informació reservada d'Estat, i aquí el règim canvia:
+el que hi entra queda fora del dret d'accés fins que es desclassifiqui (article
+17.6).
+
+| | |
+| --- | --- |
+| Qui la declara | El Govern d'ofici; després els ministres concernits poden reservar informacions concretes, donant-ne compte (17.1 i 17.2) |
+| Sobre què | Qualsevol informació que afecti les causes a) a e) de l'article 11.1 —les cinc primeres, incloses les relacions amb els coprínceps |
+| Com | Declaració sempre motivada, amb la finalitat d'interès públic, qui hi pot accedir i la durada (17.3) |
+| Termini | màxim 20 anys; ampliable per risc imminent per a la integritat del Principat fins a un màxim absolut de 30 (21) |
+| Final | Passat el termini es desclassifica d'ofici, amb acta formal publicada al BOPA (22.1) |
+
+El control parlamentari hi és, però esglaonat: el Govern informa el Consell
+General que ha classificat, amb motivació genèrica i durada (17.4), i si la
+reserva pot perjudicar un comú, n'informa el cònsol major i el menor, que
+queden sotmesos a la reserva (17.5). Els consellers generals hi poden accedir
+per a l'activitat parlamentària, en sessions secretes si cal, i una comissió
+secreta pot acordar per majoria absoluta dels seus membres que només ells hi
+accedeixin (20.5).
+
+<!-- chunk: temes/institucions/govern/el-que-no-et-deixen-veure#c3 -->
+Aquesta és la peça que evita que la reserva sigui incontrolable:
+
+Les resolucions de classificació són recurribles directament davant la
+jurisdicció administrativa, sense el recurs potestatiu previ. I «l'òrgan
+judicial competent pot accedir a la informació reservada amb la finalitat de
+comprovar l'adequació de la classificació a la legalitat» (article 22.4).
+
+I si un batlle necessita informació reservada dins un procediment, dicta
+resolució demanant-ne la desclassificació, i la decisió del Govern és
+recurrible per qualsevol de les parts (22.5).
+
+El jutge no ha de creure's la reserva: la pot mirar. Compareu-ho amb com es
+recorre davant l'Administració.
+
+Hi ha, a més, una obligació de rastre: les administracions han de crear un
+registre de consultes que inscrigui les sol·licituds, les consultes efectuades
+i les denegades (20.6). Les negatives queden escrites.
+
+El títol de govern obert (articles 29 a 35) promet molt i regula poc: gairebé
+tot el que hi ha d'operatiu queda remès a un reglament que la llei no escriu.
+L'article 29.2 diu que «s'han d'establir per reglament les diferents formes de
+participació ciutadana», i l'article 31.2 repeteix la remissió per als
+procediments de participació en plans, programes i polítiques. El títol és una
+declaració de principis amb un únic mecanisme concret.
+
+Aquest mecanisme és l'article 33, les iniciatives reglamentàries populars, i la
+xifra és la que compta:
+
+«3. Les propostes han de tenir el suport de, com a mínim el 10% del cens
+electoral, per a les iniciatives que es presenten davant el Govern.»
+
+Deu per cent del cens per demanar que el Govern es plantegi fer un reglament. I
+«plantejar-se» és literal: l'òrgan competent valora «la necessitat de la norma,
+els costos que comportaria, l'oportunitat de la regulació per a l'interès
+públic i els efectes que produiria», i resol en tres mesos. Si no resol,
+silenci administratiu desestimatori, i llavors ni tan sols cal motivar-ho
+(article 33.5).
+
+El recurs està tancat pel fons. L'apartat 6:
+
+«La decisió sobre la proposta només pot ser objecte de recurs fonamentat en la
+vulneració dels elements reglats aplicables a l'exercici del dret, però no pel
+que fa a l'oportunitat de la decisió d'iniciar o no la tramitació de la
+iniciativa.»
+
+Es pot recórrer com s'ha comptat el 10%; no es pot recórrer que el Govern hagi
+dit que no li sembla oportú. El resultat és un dret a ser escoltat amb un
+llindar alt i sense recurs efectiu sobre el resultat.
+
+Tres límits més, i un són les eleccions. L'article 34 prohibeix convocar o
+celebrar processos de participació entre la convocatòria d'eleccions generals i
+els seixanta dies posteriors a l'elecció del cap de Govern, i mentre es tramita
+un referèndum sobre la mateixa matèria. I l'article 31.4 exclou del deure de
+participació el que es tramita per urgència, el que té per objecte la seguretat
+i la salut pública, i el que pot caure sota els límits d'accés a la informació
+de la mateixa llei.
+
+<!-- chunk: temes/institucions/govern/el-que-no-et-deixen-veure#c4 -->
+El que aquest títol no toca, i ho diu ell mateix a l'article 32.2: les
+competències dels comuns en participació ciutadana, les iniciatives
+legislatives populars de la Constitució i del Reglament del Consell General, i
+els referèndums de la Llei qualificada del règim electoral. La iniciativa
+reglamentària popular no és la iniciativa legislativa popular: aquesta demana
+un reglament al Govern, aquella demana una llei al Consell General.
+
+I una obligació amb data que val la pena registrar. La disposició addicional
+segona donava al Consell General i als comuns un any des de l'entrada en vigor
+de la llei —és a dir, fins al 28 de juny del 2023— per dictar els codis de
+conducta i bones pràctiques sobre incompatibilitats i conflictes d'interessos
+dels consellers generals, dels cònsols i dels consellers de comú, i determinar
+les conseqüències d'incomplir-los.
+
+Comprovat al BOPA el 17-09-2026: n'hi ha cinc de vuit, i només un va arribar a
+temps.
+
+| Qui | Codi publicat | Dins del termini (28-6-2023)? |
+| --- | --- | --- |
+| Consell General | Codi de conducta dels consellers generals, BOPA del 3-1-2023 | Sí |
+| Encamp | Ordinació del 28-7-2023 | No, un mes tard |
+| Ordino | Ordinació del 22-12-2023 | No, sis mesos tard |
+| La Massana | Ordinació del 28-12-2023 | No, sis mesos tard |
+| Andorra la Vella | Ordinació del 26-9-2024 | No, quinze mesos tard |
+| Canillo | — | No consta |
+| Sant Julià de Lòria | — | No consta |
+| Escaldes-Engordany | — | No consta |
+
+Tres comuns de set no tenen codi de conducta publicat al Butlletí, quatre anys
+després del termini. I el Govern se'n va fer un que la llei no li demanava: el
+Codi de conducta dels membres del Govern i alts càrrecs, del 15 de novembre del
+2023. La disposició addicional segona nomena el Consell General i els comuns;
+l'executiu no hi és, i és l'únic que ha complert voluntàriament.
+
+El BOPA no acredita l'absència d'una ordinació, però sí la seva ineficàcia: una
+ordinació comunal no publicada al Butlletí no és oposable. Els tres que no hi
+consten, o no existeixen o no s'han publicat.

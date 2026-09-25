@@ -1,0 +1,23 @@
+---
+doc_id: temes/esports/esqui/esquiadors/patrick-toussaint
+sha_origen: c9e6818bc87c
+titol_doc: "Patrick Toussaint i Mas"
+tema: esports/esqui/esquiadors
+domini: esports
+font: wikipedia-esquiadors-andorrans
+familia_font: wikipedia-esquiadors-andorrans
+llicencia: "CC BY-SA 4.0"
+redistribucio: si
+---
+
+<!-- buit: temes/esports/esqui/esquiadors/patrick-toussaint#g1 · estat: font_externa -->
+Tot el que va fer fora dels Jocs. L'entrada de la font és un esborrany d'una
+línia: ni temporades, ni Copes d'Europa, ni campionats d'Andorra, ni quan va
+començar ni quan va plegar.
+
+<!-- buit: temes/esports/esqui/esquiadors/patrick-toussaint#g2 · estat: font_externa -->
+Qui era i qui és. Ofici, club, família, si segueix vinculat a l'esquí.
+
+<!-- buit: temes/esports/esqui/esquiadors/patrick-toussaint#g3 · estat: obert -->
+La seva biografia d'atleta de la FIS, que la font cita i el corpus no ha
+consultat.
