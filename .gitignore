@@ -591,3 +591,22 @@ docs/raw/web/societat/demografia/censos/estadistica-poblacio-2021.pdf
 
 # Enllaç simbòlic a models locals: no és corpus.
 docs/raw/.models
+
+# docs/raw/corpus-parla-andorrana/ — subcorpus de parla (31 GB en local).
+# Es publiquen només els textos propis: README i notes (.md), scripts (.py),
+# anàlisis i graf (.tsv, .mmd) i fitxes de persones. No es publiquen:
+# - l'àudio i el vídeo (RTVA, Consell General, YouTube, AEA): sense llicència
+#   oberta o amb termes «sense difusió»;
+# - les sortides ASR (transcripcions/, i JSON/VTT/TXT de proveniencia/): són
+#   derivats d'aquestes emissions;
+# - els .log, les captures HTML i els reproductors;
+# - les fitxes pa-051–pa-054 (Arxiu d'Etnografia d'Andorra, ús investigador
+#   sense difusió).
+docs/raw/corpus-parla-andorrana/**
+!docs/raw/corpus-parla-andorrana/**/
+!docs/raw/corpus-parla-andorrana/**/*.md
+!docs/raw/corpus-parla-andorrana/**/*.py
+!docs/raw/corpus-parla-andorrana/**/*.tsv
+!docs/raw/corpus-parla-andorrana/**/*.mmd
+docs/raw/corpus-parla-andorrana/transcripcions/**
+docs/raw/corpus-parla-andorrana/**/pa-05[1-4]*

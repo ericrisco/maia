@@ -11,14 +11,18 @@ No manté estat propi: ho dedueix del frontmatter `font:` de cada article i de
 la secció «Buits registrats» de cada document. Per tant no es pot
 desincronitzar, i es pot llançar tantes vegades com calgui.
 
-    uv run python scripts/registre_progres.py > REGISTRE.md
+    uv run python scripts/registre_progres.py docs --output docs/raw/curacio/registre-progres.md
 """
 
 from __future__ import annotations
 
+import argparse
+import io
+import os
 import re
 import sys
 from collections import defaultdict
+from contextlib import redirect_stdout
 from pathlib import Path
 
 FRONTMATTER = re.compile(r"\A---\n(.*?)\n---\n", re.S)
@@ -44,10 +48,31 @@ def buits(text: str) -> list[str]:
 
 
 def main() -> int:
-    root = Path(sys.argv[1] if len(sys.argv) > 1 else "docs")
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("root", nargs="?", default="docs", help="arrel del corpus")
+    parser.add_argument(
+        "--output", type=Path, help="escriu el registre aquí i calcula enllaços relatius"
+    )
+    args = parser.parse_args()
+    root = Path(args.root)
     if not root.is_dir():
         print(f"no hi ha cap directori {root}", file=sys.stderr)
         return 2
+
+    link_base = Path()
+    output: Path | None = None
+    if args.output is not None:
+        output = args.output.resolve()
+        try:
+            link_base = output.parent.relative_to(root.resolve())
+        except ValueError:
+            print("la sortida ha de ser dins de l'arrel del corpus", file=sys.stderr)
+            return 2
+
+    def enllac(relative: str) -> str:
+        if output is None:
+            return relative
+        return Path(os.path.relpath(relative, link_base)).as_posix()
 
     per_font: dict[str, list[tuple[str, str, int]]] = defaultdict(list)
     fonts: dict[str, str] = {}
@@ -65,36 +90,44 @@ def main() -> int:
         elif fm.get("type") == "article" and "font" in fm:
             per_font[fm["font"]].append((fm.get("title", rel), rel, len(pendents)))
 
-    print("# Registre de progrés del corpus\n")
-    print("> Generat per `scripts/registre_progres.py`. No l'editeu a mà.\n")
-    print(
-        f"**{len(fonts)} fonts registrades · {sum(len(a) for a in per_font.values())} "
-        f"articles destil·lats · {oberts} buits declarats oberts.**\n"
-    )
+    document = io.StringIO()
+    with redirect_stdout(document):
+        print("# Registre de progrés del corpus\n")
+        print("> Generat per `scripts/registre_progres.py`. No l'editeu a mà.\n")
+        print(
+            f"**{len(fonts)} fonts registrades · {sum(len(a) for a in per_font.values())} "
+            f"articles destil·lats · {oberts} buits declarats oberts.**\n"
+        )
 
-    print("## Fonts destil·lades\n")
-    print("| Font | Articles | Buits oberts |")
-    print("| --- | --- | --- |")
-    for fid in sorted(per_font):
-        arts = per_font[fid]
-        fitxa = f"[`{fid}`]({fonts[fid]})" if fid in fonts else f"`{fid}` ⚠ sense fitxa"
-        enllacos = "<br>".join(f"[{t}]({p})" for t, p, _ in sorted(arts))
-        print(f"| {fitxa} | {enllacos} | {sum(n for _, _, n in arts)} |")
+        print("## Fonts destil·lades\n")
+        print("| Font | Articles | Buits oberts |")
+        print("| --- | --- | --- |")
+        for fid in sorted(per_font):
+            arts = per_font[fid]
+            fitxa = f"[`{fid}`]({enllac(fonts[fid])})" if fid in fonts else f"`{fid}` ⚠ sense fitxa"
+            enllacos = "<br>".join(f"[{t}]({enllac(p)})" for t, p, _ in sorted(arts))
+            print(f"| {fitxa} | {enllacos} | {sum(n for _, _, n in arts)} |")
 
-    orfes = sorted(set(fonts) - set(per_font))
-    print("\n## Fonts registrades i encara no destil·lades\n")
-    if orfes:
-        for fid in orfes:
-            print(f"- [`{fid}`]({fonts[fid]}) — cap article no la cita.")
+        orfes = sorted(set(fonts) - set(per_font))
+        print("\n## Fonts registrades i encara no destil·lades\n")
+        if orfes:
+            for fid in orfes:
+                print(f"- [`{fid}`]({enllac(fonts[fid])}) — cap article no la cita.")
+        else:
+            print("Cap: totes les fonts registrades tenen almenys un article.")
+
+        sense = sorted(fid for fid in per_font if fid not in fonts)
+        if sense:
+            print("\n## Articles que citen una font sense fitxa\n")
+            for fid in sense:
+                for titol, ruta, _ in sorted(per_font[fid]):
+                    print(f"- [{titol}]({enllac(ruta)}) cita `{fid}`, que no té fitxa a `fonts/`.")
+
+    if output is not None:
+        output.parent.mkdir(parents=True, exist_ok=True)
+        output.write_text(document.getvalue(), encoding="utf-8")
     else:
-        print("Cap: totes les fonts registrades tenen almenys un article.")
-
-    sense = sorted(fid for fid in per_font if fid not in fonts)
-    if sense:
-        print("\n## Articles que citen una font sense fitxa\n")
-        for fid in sense:
-            for titol, ruta, _ in sorted(per_font[fid]):
-                print(f"- [{titol}]({ruta}) cita `{fid}`, que no té fitxa a `fonts/`.")
+        print(document.getvalue(), end="")
 
     return 0
 
