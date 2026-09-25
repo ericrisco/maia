@@ -1,0 +1,3 @@
+expedient	model	tokens	tipus_lexics	type_token_ratio	repeticio_3gram	marcadors_discursius	formes_territorials	formes_contacte	pronoms_clitics	perifrasi_past_aparent	primera_persona	negacio	nota	estat
+lead-rtva-061-antoni-morell	small	309	174	0.5631	0.0268		comunal=1;Massana=1		44	12	1	2	recompte ASR; validar contra àudio	inventari ASR; pendent d'audició
+lead-rtva-061-antoni-morell	base	303	170	0.5611	0.0238	no?=1	comunal=1		47	9	1	3	recompte ASR; validar contra àudio	inventari ASR; pendent d'audició

@@ -1,0 +1,69 @@
+forma	categoria	small	base	consens	model_localitzador	context_small	context_base	prob_min_segment_small	prob_mean_segment_small	prob_min_segment_base	prob_mean_segment_base	clip	inici_ms	final_ms	estat
+a nivell	discurs	0	0	no											ASR textual; atribució i audició pendents
+a veure	discurs	0	0	no											ASR textual; atribució i audició pendents
+aleshores	discurs	0	0	no											ASR textual; atribució i audició pendents
+aviam	discurs	0	0	no											ASR textual; atribució i audició pendents
+bueno	discurs	2	2	sí	small	I aquest llibre no és que nada porque le hacemos la entrevista y bueno, es la fri,	Bueno, es la brilla, es un sol hecho.	0.1589	0.5360	0.0787	0.4869	lead-yt-038__05__bueno.wav	48800	54040	ASR textual; atribució i audició pendents
+bé	discurs	4	5	sí	small	Molt bé. Una a l'altra.	Molt bé, doncs un altre.	0.1353	0.6492	0.0517	0.5536	lead-yt-038__06__b.wav	535720	537720	ASR textual; atribució i audició pendents
+clar	discurs	0	0	no											ASR textual; atribució i audició pendents
+de fet	discurs	0	0	no											ASR textual; atribució i audició pendents
+diguem	discurs	0	0	no											ASR textual; atribució i audició pendents
+doncs	discurs	1	3	sí	small	Doncs que tenemos muy buena relación y esto también te hace muy feliz.	Molt bé, doncs un altre.	0.1213	0.8164	0.0517	0.5536	lead-yt-038__10__doncs.wav	354400	358520	ASR textual; atribució i audició pendents
+evidentment	discurs	0	0	no											ASR textual; atribució i audició pendents
+llavors	discurs	0	0	no											ASR textual; atribució i audició pendents
+no?	discurs	4	2	sí	small	Tu padre també ho era, no?	-¿Tú padre también era, no? -Sí, y un poco él me inspiró a continuar la misma profesión o la misma carrera, los mismos estudios que él, y he continuado el despacho que tenemos, que tenemos en cuenta años ya de los primeros cubandando.	0.3227	0.7526	0.1047	0.6818	lead-yt-038__13__no.wav	264400	266400	ASR textual; atribució i audició pendents
+o sigui	discurs	0	0	no											ASR textual; atribució i audició pendents
+per tant	discurs	1	1	sí	small	i que per tant m'ha marcat i em continuo a marcar en el llibre de la vida.	i que per tant, m'amarca d'un cotidor a marcar la vida.	0.1417	0.7010	0.0243	0.5772	lead-yt-038__15__per-tant.wav	476520	480120	ASR textual; atribució i audició pendents
+perquè	discurs	2	3	sí	small	Perquè la demos una entrevista a Conchita Mazzol!	Perquè ara m'ho heu sacat m'han diurat.	0.1222	0.5631	0.1950	0.7164	lead-yt-038__16__perqu.wav	23800	26800	ASR textual; atribució i audició pendents
+vull dir	discurs	0	0	no											ASR textual; atribució i audició pendents
+és a dir	discurs	0	0	no											ASR textual; atribució i audició pendents
+Canillo	territorial	0	0	no											ASR textual; atribució i audició pendents
+Escaldes	territorial	0	0	no											ASR textual; atribució i audició pendents
+Massana	territorial	0	0	no											ASR textual; atribució i audició pendents
+Ordino	territorial	0	0	no											ASR textual; atribució i audició pendents
+Sant Julià	territorial	0	0	no											ASR textual; atribució i audició pendents
+aiguats	territorial	0	0	no											ASR textual; atribució i audició pendents
+andorrana	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunal	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunals	territorial	0	0	no											ASR textual; atribució i audició pendents
+comuns	territorial	0	0	no											ASR textual; atribució i audició pendents
+comú	territorial	1	0	no	small	porque estoy en el comú todas las horas del día		0.1524	0.8057			lead-yt-038__29__com.wav	252400	254400	ASR textual; atribució i audició pendents
+copríncep	territorial	0	0	no											ASR textual; atribució i audició pendents
+coprínceps	territorial	0	0	no											ASR textual; atribució i audició pendents
+padrí	territorial	0	0	no											ASR textual; atribució i audició pendents
+parròquia	territorial	0	0	no											ASR textual; atribució i audició pendents
+santuari	territorial	0	0	no											ASR textual; atribució i audició pendents
+veguer	territorial	0	0	no											ASR textual; atribució i audició pendents
+Conxita Marsol	persona	0	0	no											ASR textual; atribució i audició pendents
+cònsol	institucions	0	0	no											ASR textual; atribució i audició pendents
+cònsol major	institucions	0	0	no											ASR textual; atribució i audició pendents
+Andorra la Vella	toponim	0	0	no											ASR textual; atribució i audició pendents
+consellera general	institucions	0	0	no											ASR textual; atribució i audició pendents
+presidenta	institucions	1	1	sí	small	Fui durante dos años Presidenta de Grupo Parlamentario,	Fui durante dos años, Presidenta Grupo Parlamentario,	0.4048	0.8123	0.1093	0.7411	lead-yt-038__41__presidenta.wav	226240	229600	ASR textual; atribució i audició pendents
+grup parlamentari	institucions	0	0	no											ASR textual; atribució i audició pendents
+ministra	institucions	1	1	sí	small	y fui durante dos años ministra de Presidencia y Portavoz de Gobierno	Radio Deputada y fue durante dos años ministra,	0.5033	0.8166	0.2311	0.7678	lead-yt-038__43__ministra.wav	231360	234640	ASR textual; atribució i audició pendents
+govern	institucions	0	0	no											ASR textual; atribució i audició pendents
+política	institucions	4	3	sí	small	¿Cuánto llevas en la política?	¿Cuánto llevas en la política?	0.4173	0.8807	0.3091	0.8293	lead-yt-038__45__pol-tica.wav	218800	220800	ASR textual; atribució i audició pendents
+liberal	institucions	0	0	no											ASR textual; atribució i audició pendents
+turisme	economia	0	0	no											ASR textual; atribució i audició pendents
+comerç	economia	0	0	no											ASR textual; atribució i audició pendents
+comercial	economia	0	0	no											ASR textual; atribució i audició pendents
+Europa	toponim	0	0	no											ASR textual; atribució i audició pendents
+referent	cultura	0	0	no											ASR textual; atribució i audició pendents
+orgull	societat	0	0	no											ASR textual; atribució i audició pendents
+família	societat	2	2	sí	small	que crec que és un exemple per a tota la família que la recorzem en tot i que estaria molt orgulls d'ella.	que creu que és un exemple per la tota la família,	0.1676	0.8403	0.0448	0.5847	lead-yt-038__53__fam-lia.wav	513960	520960	ASR textual; atribució i audició pendents
+cultura	cultura	0	0	no											ASR textual; atribució i audició pendents
+educació	societat	0	0	no											ASR textual; atribució i audició pendents
+escola	societat	0	0	no											ASR textual; atribució i audició pendents
+infants	societat	0	0	no											ASR textual; atribució i audició pendents
+nens	societat	0	0	no											ASR textual; atribució i audició pendents
+Andorra	toponim	4	3	sí	small	Sí, porque el proyecto de ciudad que tengo no está acabado y quiero continuar trabajando por Andorra La Villa.	Una andorra muy sostenible.	0.3244	0.8679	0.4186	0.8606	lead-yt-038__59__andorra.wav	150440	157760	ASR textual; atribució i audició pendents
+andorrà	gentilici	0	0	no											ASR textual; atribució i audició pendents
+català	sociolingüística	0	0	no											ASR textual; atribució i audició pendents
+llengua	sociolingüística	0	0	no											ASR textual; atribució i audició pendents
+ciutadans	societat	0	0	no											ASR textual; atribució i audició pendents
+serveis	institucions	0	0	no											ASR textual; atribució i audició pendents
+dret	institucions	0	0	no											ASR textual; atribució i audició pendents
+Lleida	toponim	0	0	no											ASR textual; atribució i audició pendents
+Noguera	toponim	0	0	no											ASR textual; atribució i audició pendents
+Artesa de Segre	toponim	0	0	no											ASR textual; atribució i audició pendents

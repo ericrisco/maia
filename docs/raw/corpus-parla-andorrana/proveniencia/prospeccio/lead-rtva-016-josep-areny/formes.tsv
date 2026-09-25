@@ -1,0 +1,63 @@
+forma	categoria	small	base	consens	model_localitzador	context_small	context_base	prob_min_segment_small	prob_mean_segment_small	prob_min_segment_base	prob_mean_segment_base	clip	inici_ms	final_ms	estat
+a nivell	discurs	1	1	sí	small	s'ha fet a nivell particular.	fins el dia d'avui s'ha fet a nivell particular.	0.8587	0.9580	0.4201	0.8653	lead-rtva-016__01__a-nivell.wav	2832920	2834920	ASR textual; atribució i audició pendents
+a veure	discurs	22	15	sí	small	doncs a veure,	a veure, sol d'eure era un poble que visqui amb tots els famílies,	0.5198	0.8056	0.1789	0.6332	lead-rtva-016__02__a-veure.wav	865040	867560	ASR textual; atribució i audició pendents
+aleshores	discurs	12	3	sí	small	I aleshores, què va passar?	i aleshores va venir a treballar com a cuiner,	0.7357	0.9176	0.2334	0.7910	lead-rtva-016__03__aleshores.wav	754440	756960	ASR textual; atribució i audició pendents
+aviam	discurs	1	0	no	small	-Bueno... -Es connectaven, aviam.		0.0237	0.5822			lead-rtva-016__04__aviam.wav	2430960	2434160	ASR textual; atribució i audició pendents
+bueno	discurs	42	42	sí	small	Bueno, a casa Calvó va venir a viure d'una manera permanent a sol 10,	Bueno, a casa Calvo, doncs va venir a viure d'una manera permanent a soldèu al 1402.	0.3483	0.7980	0.1830	0.6813	lead-rtva-016__05__bueno.wav	89200	94280	ASR textual; atribució i audició pendents
+bé	discurs	35	32	sí	small	Bé, a l'època, quan els joeus fugiven,	És a dir que ve escribo un bé, però eren temps difícils,	0.1285	0.7728	0.1046	0.6599	lead-rtva-016__06__b.wav	370880	373720	ASR textual; atribució i audició pendents
+clar	discurs	22	18	sí	small	Clar, de la madrigu, suposo que avui no en deu quedar res, no?	Clar, de remaderia, suposo que avui no en deu que darrers, no?	0.3113	0.7658	0.1878	0.6539	lead-rtva-016__07__clar.wav	181160	184320	ASR textual; atribució i audició pendents
+de fet	discurs	1	1	sí	small	De fet, doncs va fer els Jocs Olímpics d'Insbruc,	De fet, doncs va fer els Jocs Olímpics dins-rocos,	0.2703	0.8823	0.1495	0.7307	lead-rtva-016__08__de-fet.wav	940320	943400	ASR textual; atribució i audició pendents
+diguem	discurs	2	1	sí	small	Sí, ser-hi sense ser percebut que hi sigui, diguem-ne, no?	Ella esquiava i vostè estava, diguem-ne,	0.4545	0.8761	0.3277	0.7812	lead-rtva-016__09__diguem.wav	1967000	1971800	ASR textual; atribució i audició pendents
+doncs	discurs	50	62	sí	small	Aquesta és la veritat, he viscut sempre doncs amb la família.	doncs segueixen bastant les persones en allarg de la seva vida.	0.3740	0.8675	0.1763	0.8176	lead-rtva-016__10__doncs.wav	123120	126240	ASR textual; atribució i audició pendents
+evidentment	discurs	5	7	sí	small	els coneixien tots, llavors, evidentment.	És coneixement tots, llavors, evidentment.	0.0086	0.7370	0.1559	0.6605	lead-rtva-016__11__evidentment.wav	141600	145640	ASR textual; atribució i audició pendents
+llavors	discurs	2	3	sí	small	els coneixien tots, llavors, evidentment.	És coneixement tots, llavors, evidentment.	0.0086	0.7370	0.1559	0.6605	lead-rtva-016__12__llavors.wav	141600	145640	ASR textual; atribució i audició pendents
+no?	discurs	42	32	sí	small	Una casa amb tradició ramadera, no?	primeres pressions que van anar a viure sol d'eu, no?	0.4483	0.8188	0.1523	0.6067	lead-rtva-016__13__no.wav	80280	84000	ASR textual; atribució i audició pendents
+o sigui	discurs	1	1	sí	small	O sigui, Casa Calvó, Calcalvó va tenir una evolució	O sigui, perquè n'hi ha d'amés pròxims.	0.1762	0.7933	0.2122	0.7069	lead-rtva-016__14__o-sigui.wav	553480	556800	ASR textual; atribució i audició pendents
+per tant	discurs	2	3	sí	small	i, per tant, practicar l'esport que li agrada,	i, per tant, practicar l'esport que li agrada.	0.3336	0.9070	0.4148	0.8533	lead-rtva-016__15__per-tant.wav	839480	842000	ASR textual; atribució i audició pendents
+perquè	discurs	49	51	sí	small	perquè la casa és la casa, el patrimoni és el patrimoni,	perquè la casa és la casa, el patrimoni és el patrimoni,	0.6737	0.9481	0.4839	0.8786	lead-rtva-016__16__perqu.wav	74360	77800	ASR textual; atribució i audició pendents
+vull dir	discurs	0	0	no											ASR textual; atribució i audició pendents
+és a dir	discurs	31	28	sí	small	És a dir, que vésquí bombè, però eren temps difícils,	És a dir que ve escribo un bé, però eren temps difícils,	0.1126	0.7604	0.1046	0.6599	lead-rtva-016__18__s-a-dir.wav	168160	172080	ASR textual; atribució i audició pendents
+Canillo	territorial	9	0	no	small	Tenia que anar a l'escola a Canillo,		0.2997	0.7310			lead-rtva-016__19__canillo.wav	635920	638120	ASR textual; atribució i audició pendents
+Escaldes	territorial	1	1	sí	small	Curiosament, els 3 de les escaldes.	collonsament els 3 de les escaldes, no hi havia ningú de la parròdica de canilla.	0.3027	0.7301	0.1256	0.5818	lead-rtva-016__20__escaldes.wav	781600	783600	ASR textual; atribució i audició pendents
+Massana	territorial	0	0	no											ASR textual; atribució i audició pendents
+Ordino	territorial	0	0	no											ASR textual; atribució i audició pendents
+Sant Julià	territorial	0	0	no											ASR textual; atribució i audició pendents
+aiguats	territorial	0	0	no											ASR textual; atribució i audició pendents
+andorrana	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunal	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunals	territorial	0	0	no											ASR textual; atribució i audició pendents
+comuns	territorial	0	0	no											ASR textual; atribució i audició pendents
+comú	territorial	7	6	sí	small	el comú de Canillo,	fins que l'any 1993, el comú de Canilla,	0.4251	0.7929	0.3691	0.7413	lead-rtva-016__29__com.wav	1195760	1197720	ASR textual; atribució i audició pendents
+copríncep	territorial	1	0	no	small	La veritat és que sí, hem tingut el copríncep macron,		0.3739	0.8486			lead-rtva-016__30__copr-ncep.wav	1398880	1401720	ASR textual; atribució i audició pendents
+coprínceps	territorial	0	0	no											ASR textual; atribució i audició pendents
+padrí	territorial	8	1	sí	small	I a casa meva, això ha explicat pel meu padrí,	Com el portava, el seu padrí, el seu avi, aquella estabiliment?	0.1442	0.7684	0.2261	0.6904	lead-rtva-016__32__padr.wav	394160	398280	ASR textual; atribució i audició pendents
+parròquia	territorial	1	4	sí	small	Els candidats a peu de tota la parròquia	la reunió de la parròquia.	0.2011	0.7484	0.2917	0.7204	lead-rtva-016__33__parr-quia.wav	3432760	3435920	ASR textual; atribució i audició pendents
+santuari	territorial	0	0	no											ASR textual; atribució i audició pendents
+veguer	territorial	0	0	no											ASR textual; atribució i audició pendents
+hotel	turisme	19	16	sí	small	d'hostal, fonda, hotel, 14 habitacions, no?	d'hostal a fonda hotel 14 habitacions i restaurantes.	0.3228	0.8358	0.1344	0.6552	lead-rtva-016__36__hotel.wav	556880	563280	ASR textual; atribució i audició pendents
+hoteler	turisme	0	1	no	base		que et fa experimentar més el que sents com a hoteler.			0.1853	0.6941	lead-rtva-016__37__hoteler.wav	1878360	1882160	ASR textual; atribució i audició pendents
+hostal	turisme	6	5	sí	small	Era una gran cuinera, i, bueno, és la quina portava l'hostal,	I, bueno, és la quina portava l'Hostal,	0.1744	0.7680	0.1436	0.6436	lead-rtva-016__38__hostal.wav	231680	236880	ASR textual; atribució i audició pendents
+turisme	turisme	22	19	sí	small	i una referència pel turisme internacional.	Li sembla que continuem parlant dels clients del turisme	0.9142	0.9760	0.2098	0.8473	lead-rtva-016__39__turisme.wav	33880	37000	ASR textual; atribució i audició pendents
+Cal Calbó	toponim	0	0	no											ASR textual; atribució i audició pendents
+Calvó	toponim	13	0	no	small	més que per Josep Arell el coneixen a vostè com a Calvó.		0.5101	0.9187			lead-rtva-016__41__calv.wav	51640	55120	ASR textual; atribució i audició pendents
+Soldeu	toponim	7	6	sí	small	però soldeu va canviar el 1964 quan va arribar l'esquí.	Bueno, soldeu era un poble situat a 1.850 metres de altura.	0.2877	0.8764	0.2018	0.7460	lead-rtva-016__42__soldeu.wav	172160	178600	ASR textual; atribució i audició pendents
+borda	territori	7	4	sí	small	Aleshores, allà hi havia una borda caiguda,	Però i van al dins, fos a escoltar, farem una borda.	0.5742	0.8810	0.1643	0.6011	lead-rtva-016__43__borda.wav	2002200	2004880	ASR textual; atribució i audició pendents
+ramaderia	pagesia	1	0	no	small	hi havia molta ramaderia,		0.4899	0.8630			lead-rtva-016__44__ramaderia.wav	158840	163040	ASR textual; atribució i audició pendents
+pastura	pagesia	0	0	no											ASR textual; atribució i audició pendents
+casa pairal	parentiu	0	0	no											ASR textual; atribució i audició pendents
+esquí	esport	47	41	sí	small	però soldeu va canviar el 1964 quan va arribar l'esquí.	però soldeu va canviar el 1964 quan va arribar l'esquí.	0.2877	0.8764	0.1034	0.7619	lead-rtva-016__47__esqu.wav	172160	178600	ASR textual; atribució i audició pendents
+estació d’esquí	esport	0	0	no											ASR textual; atribució i audició pendents
+neu	territori	8	9	sí	small	en què el producte de neu assoldeu.	en qual el producte de neu, a sol deu.	0.3558	0.7602	0.3468	0.7289	lead-rtva-016__49__neu.wav	966640	970200	ASR textual; atribució i audició pendents
+Comú	institucions	7	6	sí	small	el comú de Canillo,	fins que l'any 1993, el comú de Canilla,	0.4251	0.7929	0.3691	0.7413	lead-rtva-016__50__com.wav	1195760	1197720	ASR textual; atribució i audició pendents
+cònsol	institucions	0	0	no											ASR textual; atribució i audició pendents
+conseller general	institucions	3	2	sí	small	seguir la tradició familiar, en aquest cas, com a conseller general,	seguir la tradició familiar en aquest cas com a conseller general,	0.6168	0.8870	0.5704	0.8136	lead-rtva-016__52__conseller-general.wav	1676920	1680640	ASR textual; atribució i audició pendents
+Constitució	institucions	6	5	sí	small	Vostè ho coneix el certífex de la Constitució endurrana.	Estava a viure a ser conèixer els artífics de la Constitució Endorrada,	0.2082	0.7396	0.0623	0.6849	lead-rtva-016__53__constituci.wav	3311560	3315040	ASR textual; atribució i audició pendents
+Andorra	toponim	28	4	sí	small	amb un home de llarga tradició hotelera d'Andorra.	Continuem recuperant la memòria d'un país, la memòria d'Andorra,	0.1631	0.8941	0.4573	0.8888	lead-rtva-016__54__andorra.wav	17320	19880	ASR textual; atribució i audició pendents
+andorrà	gentilici	0	0	no											ASR textual; atribució i audició pendents
+muntanya	territori	9	9	sí	small	Les famílies visquen tots de l'agricultura d'alta muntanya,	La dimensió amb un hotel de muntanya és qualitat.	0.0984	0.8042	0.4907	0.8575	lead-rtva-016__56__muntanya.wav	155560	158760	ASR textual; atribució i audició pendents
+català	sociolingüística	0	0	no											ASR textual; atribució i audició pendents
+francès	contacte	2	2	sí	small	I després, com que calia prendre el francès,	I després, com que calia prendre el francès,	0.7365	0.9131	0.3208	0.8433	lead-rtva-016__58__franc-s.wav	665640	670400	ASR textual; atribució i audició pendents
+castellà	contacte	0	0	no											ASR textual; atribució i audició pendents
+patrimoni	cultura	6	6	sí	small	perquè la casa és la casa, el patrimoni és el patrimoni,	perquè la casa és la casa, el patrimoni és el patrimoni,	0.6737	0.9481	0.4839	0.8786	lead-rtva-016__60__patrimoni.wav	74360	77800	ASR textual; atribució i audició pendents
+família	parentiu	16	16	sí	small	Va ser la primera família del poble que es va establir	Va ser la primera família del poble que es va establir d'una manera permanent a soldèu.	0.4490	0.9504	0.6051	0.9102	lead-rtva-016__61__fam-lia.wav	98440	102320	ASR textual; atribució i audició pendents
+germans	parentiu	6	5	sí	small	Usted son tres germans.Som tres germans.	-Els 3 germans. -Som 3 germans.	0.3144	0.8364	0.1215	0.7397	lead-rtva-016__62__germans.wav	970280	972960	ASR textual; atribució i audició pendents

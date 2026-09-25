@@ -1,0 +1,70 @@
+forma	categoria	small	base	consens	model_localitzador	context_small	context_base	prob_min_segment_small	prob_mean_segment_small	prob_min_segment_base	prob_mean_segment_base	clip	inici_ms	final_ms	estat
+a nivell	discurs	14	12	sí	small	I a nivell d'aigua,	I a nivell d'aquestes mèrids de algunes vegades els ha ajudat,	0.1895	0.7538	0.0379	0.6910	lead-rtva-017__01__a-nivell.wav	1704000	1705840	ASR textual; atribució i audició pendents
+a veure	discurs	1	1	sí	small	d'algunes vegades a veure els ajudats	Aquestes moments, i l'esconèixer, no es pot dir de forma a veure.	0.0837	0.7465	0.1326	0.6297	lead-rtva-017__02__a-veure.wav	1709480	1711880	ASR textual; atribució i audició pendents
+aleshores	discurs	0	0	no											ASR textual; atribució i audició pendents
+aviam	discurs	0	0	no											ASR textual; atribució i audició pendents
+bueno	discurs	3	4	sí	small	Bueno, les...	Bueno, les reconeixen els petits que anaven a guardar ramats que passaven.	0.2300	0.7026	0.0607	0.6709	lead-rtva-017__05__bueno.wav	317120	318760	ASR textual; atribució i audició pendents
+bé	discurs	25	19	sí	small	No una vintena, només. Molt bé, doncs, escolti,	Molt bé, doncs, escolti, a més de parlar de la seva tapa de mestre,	0.3207	0.7643	0.2742	0.7632	lead-rtva-017__06__b.wav	74360	76600	ASR textual; atribució i audició pendents
+clar	discurs	12	7	sí	small	I diuen que clar,	És clar que m'en record, sí.	0.3659	0.7068	0.1005	0.6420	lead-rtva-017__07__clar.wav	633680	636320	ASR textual; atribució i audició pendents
+de fet	discurs	2	1	sí	small	Vostè de fet no anava per mestra,	i sobre què et dia fer una explotació de tot tipus greu de fet	0.4293	0.8257	0.0642	0.6818	lead-rtva-017__08__de-fet.wav	709400	712000	ASR textual; atribució i audició pendents
+diguem	discurs	5	4	sí	small	on diguem el corral i el mallador que toque a la plaça,	Sempre. Diguem que semestre és molt ràpidament que m'ha fet.	0.5233	0.8271	0.1186	0.7368	lead-rtva-017__09__diguem.wav	200160	203360	ASR textual; atribució i audició pendents
+doncs	discurs	51	52	sí	small	No una vintena, només. Molt bé, doncs, escolti,	Molt bé, doncs, escolti, a més de parlar de la seva tapa de mestre,	0.3207	0.7643	0.2742	0.7632	lead-rtva-017__10__doncs.wav	74360	76600	ASR textual; atribució i audició pendents
+evidentment	discurs	6	5	sí	small	i tot això estava salvat, evidentment, per la religió,	I tot això estava solvat, evidentment, per la religió, per saber-hi fer,	0.3597	0.8106	0.1480	0.6692	lead-rtva-017__11__evidentment.wav	417600	421200	ASR textual; atribució i audició pendents
+llavors	discurs	12	1	sí	small	Estapaven, a llavors.	per ser, llavors, actualment, un ensenyant	0.2928	0.6358	0.0855	0.7105	lead-rtva-017__12__llavors.wav	397560	399240	ASR textual; atribució i audició pendents
+no?	discurs	7	10	sí	small	-No em digui. -Sí, però, ui, per què no?	Seré capaç o no?	0.0957	0.7624	0.3168	0.7679	lead-rtva-017__13__no.wav	808880	811680	ASR textual; atribució i audició pendents
+o sigui	discurs	2	1	sí	small	O sigui, no hi va passar mai por, vostè?	O sigui, no hi va passar mai por, vostè?	0.5519	0.8848	0.2027	0.7465	lead-rtva-017__14__o-sigui.wav	216720	218800	ASR textual; atribució i audició pendents
+per tant	discurs	6	5	sí	small	li canvia, per tant, el destí i la seva formació com a docent,	li canvia per tant el destí i la seva formació com a docent,	0.3738	0.8879	0.4726	0.8067	lead-rtva-017__15__per-tant.wav	1110800	1115920	ASR textual; atribució i audició pendents
+perquè	discurs	51	45	sí	small	Això hauria més aviat perquè la casa era medieval,	perquè els fets dels passats,	0.1872	0.7847	0.4253	0.8043	lead-rtva-017__16__perqu.wav	186600	189240	ASR textual; atribució i audició pendents
+vull dir	discurs	3	3	sí	small	De sota mà, si vull dir que quan es reunien,	De sota-me. Si vull dir que quan es reunien,	0.3120	0.8509	0.2636	0.7899	lead-rtva-017__17__vull-dir.wav	1588120	1590600	ASR textual; atribució i audició pendents
+és a dir	discurs	11	8	sí	small	És a dir, es venen sense ell, cuina a sala i canbra.	És a dir, es veig sense el cuina sala i campra.	0.2527	0.7378	0.2974	0.7010	lead-rtva-017__18__s-a-dir.wav	139160	143080	ASR textual; atribució i audició pendents
+Canillo	territorial	0	0	no											ASR textual; atribució i audició pendents
+Escaldes	territorial	2	0	no	small	i després, a les escaldes, el ben eixut, nascut, endorra la vella,		0.1599	0.7137			lead-rtva-017__20__escaldes.wav	1395680	1399960	ASR textual; atribució i audició pendents
+Massana	territorial	0	0	no											ASR textual; atribució i audició pendents
+Ordino	territorial	10	5	sí	small	També cantaire del grup folclòric d'Ordino	També cantaire del grup folclòric d'ordino	0.2001	0.8389	0.4493	0.7886	lead-rtva-017__22__ordino.wav	45120	48320	ASR textual; atribució i audició pendents
+Sant Julià	territorial	5	2	sí	small	però al mateix temps també comparteixo amb Sant Julià, amb l'Auredia,	però el mateix temps també compareixo amb Sant Julià Mlauredia,	0.3757	0.7774	0.2219	0.6536	lead-rtva-017__23__sant-juli.wav	251440	255280	ASR textual; atribució i audició pendents
+aiguats	territorial	0	0	no											ASR textual; atribució i audició pendents
+andorrana	territorial	1	1	sí	small	l'educació de l'escola Andorrana, per exemple,	a esta l'educació, l'educació de l'escola andorrana,	0.0600	0.8242	0.1445	0.7600	lead-rtva-017__25__andorrana.wav	692760	696640	ASR textual; atribució i audició pendents
+comunal	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunals	territorial	0	0	no											ASR textual; atribució i audició pendents
+comuns	territorial	0	0	no											ASR textual; atribució i audició pendents
+comú	territorial	0	0	no											ASR textual; atribució i audició pendents
+copríncep	territorial	2	0	no	small	Tant respecte amb un senyor copríncep com a l'altre,		0.3699	0.8693			lead-rtva-017__30__copr-ncep.wav	2164600	2167840	ASR textual; atribució i audició pendents
+coprínceps	territorial	0	0	no											ASR textual; atribució i audició pendents
+padrí	territorial	3	0	no	small	Doncs, mireu, el meu padrí, el padrí Ramonguem,		0.2803	0.7897			lead-rtva-017__32__padr.wav	717560	721480	ASR textual; atribució i audició pendents
+parròquia	territorial	3	1	sí	small	I el Consell de Parròquia,	amb aquells moments de la parròquia d'ordinó i va haver-hi,	0.4396	0.8659	0.1625	0.6815	lead-rtva-017__33__parr-quia.wav	1834800	1838240	ASR textual; atribució i audició pendents
+santuari	territorial	0	0	no											ASR textual; atribució i audició pendents
+veguer	territorial	0	0	no											ASR textual; atribució i audició pendents
+mestre	educació	16	17	sí	small	ha estat mestre polític i ramader.	Avui farem memòria d'un país en Bonama que n'escuta en Dorra a l'estat Mestre Polític i Ramadè.	0.4728	0.8764	0.0260	0.6768	lead-rtva-017__36__mestre.wav	19200	21560	ASR textual; atribució i audició pendents
+escola	educació	7	44	sí	small	fins arribar a ser el primer director de l'escola francesa de Ciutat de Valls.	Va començar a fer classes a ERS a la Maçana, fins arribar a ser el primer director de l'escola Francesa de Ciutat de Vallis.	0.4972	0.8799	0.1172	0.7761	lead-rtva-017__37__escola.wav	24240	28520	ASR textual; atribució i audició pendents
+escola francesa	educació	1	1	sí	small	fins arribar a ser el primer director de l'escola francesa de Ciutat de Valls.	Va començar a fer classes a ERS a la Maçana, fins arribar a ser el primer director de l'escola Francesa de Ciutat de Vallis.	0.4972	0.8799	0.1172	0.7761	lead-rtva-017__38__escola-francesa.wav	24240	28520	ASR textual; atribució i audició pendents
+Ciutat de Valls	toponim	1	0	no	small	fins arribar a ser el primer director de l'escola francesa de Ciutat de Valls.		0.4972	0.8799			lead-rtva-017__39__ciutat-de-valls.wav	24240	28520	ASR textual; atribució i audició pendents
+ramader	pagesia	3	0	no	small	ha estat mestre polític i ramader.		0.4728	0.8764			lead-rtva-017__40__ramader.wav	19200	21560	ASR textual; atribució i audició pendents
+ramaderia	pagesia	1	0	no	small	Vostè compaginava la política amb la ramaderia.		0.4602	0.8814			lead-rtva-017__41__ramaderia.wav	2816920	2819520	ASR textual; atribució i audició pendents
+bestiar	pagesia	0	0	no											ASR textual; atribució i audició pendents
+camp	territori	6	1	sí	small	del costat de baix d'en Camp, d'Andorra-Lavell,	Jo ara m'agradava molt tot el que era el camp, m'agradava era gandol.	0.1950	0.7559	0.2377	0.7582	lead-rtva-017__43__camp.wav	661760	665960	ASR textual; atribució i audició pendents
+casa	parentiu	45	37	sí	small	Començar pel començament vol dir anar-nos en la casa...	La casa remonguem ordino,	0.3118	0.8301	0.0966	0.4347	lead-rtva-017__44__casa.wav	81480	86520	ASR textual; atribució i audició pendents
+Andorra	toponim	19	5	sí	small	Avui farem memòria d'un país amb un home que nascut a Andorra,	i membre del Cord de Càmbra d'Andorra.	0.3195	0.8443	0.3440	0.7677	lead-rtva-017__45__andorra.wav	15760	19120	ASR textual; atribució i audició pendents
+andorrà	gentilici	0	0	no											ASR textual; atribució i audició pendents
+andorrants	gentilici	0	1	no	base		i penso que algunes vegades els andorrants contrairem el que hem pensat,			0.1223	0.7284	lead-rtva-017__47__andorrants.wav	2174920	2178960	ASR textual; atribució i audició pendents
+La Massana	toponim	0	0	no											ASR textual; atribució i audició pendents
+Catedral d’Andorra	institucions	0	0	no											ASR textual; atribució i audició pendents
+conseller general	institucions	4	1	sí	small	També va dedicar-se a la política on va ser conseller general.	També va dedicar-se a la política amb la ser conseller general.	0.4616	0.9366	0.2233	0.8275	lead-rtva-017__50__conseller-general.wav	33320	37600	ASR textual; atribució i audició pendents
+conseller	institucions	12	7	sí	small	També va dedicar-se a la política on va ser conseller general.	També va dedicar-se a la política amb la ser conseller general.	0.4616	0.9366	0.2233	0.8275	lead-rtva-017__51__conseller.wav	33320	37600	ASR textual; atribució i audició pendents
+Consell General	institucions	2	2	sí	small	que va ser un nyiquinyac entre el Consell General	el de l'Arràdio, que va ser un i quinyà que entre el Consell General	0.1446	0.8117	0.0940	0.6990	lead-rtva-017__52__consell-general.wav	1991920	1995800	ASR textual; atribució i audició pendents
+coprincipat	institucions	0	0	no											ASR textual; atribució i audició pendents
+nacionalitat	institucions	2	1	sí	small	aquell decret dels senyors delegats permanents sobre la nacionalitat.	a aquell decret dels senyors delegats permanents sobre la nacionalitat.	0.8063	0.9518	0.3620	0.8297	lead-rtva-017__54__nacionalitat.wav	2128560	2132600	ASR textual; atribució i audició pendents
+jus sanguinis	dret	0	0	no											ASR textual; atribució i audició pendents
+jus soli	dret	0	0	no											ASR textual; atribució i audició pendents
+delegat permanent	institucions	2	2	sí	small	Recordo, sobretot, també segons el delegat permanent que tenim,	Recordo sobretot, també, segons el delegat permanent,	0.3588	0.8194	0.3530	0.6955	lead-rtva-017__57__delegat-permanent.wav	2185760	2189840	ASR textual; atribució i audició pendents
+folklòric	cultura	0	0	no											ASR textual; atribució i audició pendents
+cor de cambra	cultura	1	0	no	small	i membre del cor de cambra d'Andorra.		0.3192	0.8884			lead-rtva-017__59__cor-de-cambra.wav	48400	51480	ASR textual; atribució i audició pendents
+Cercle de les Arts i de les Lletres	cultura	0	0	no											ASR textual; atribució i audició pendents
+català	sociolingüística	0	0	no											ASR textual; atribució i audició pendents
+francès	contacte	4	0	no	small	Contraïament que vegades la mitra es pensava que era més aviat del costat francès		0.3442	0.8006			lead-rtva-017__62__franc-s.wav	2155680	2159560	ASR textual; atribució i audició pendents
+castellà	contacte	0	0	no											ASR textual; atribució i audició pendents
+mos	morfosintaxi	5	1	sí	small	mos oferien aquesta possibilitat, cosa que costava, eh,	-Mos vam emocionar un home que tenia moltes dificultats	0.3027	0.8461	0.2478	0.7615	lead-rtva-017__64__mos.wav	1149120	1154120	ASR textual; atribució i audició pendents
+poble	territori	6	7	sí	small	i pobres estaven molt allunyats del poble,	I pobres, estaven molt allunyats del poble	0.4283	0.8539	0.3590	0.7788	lead-rtva-017__65__poble.wav	365000	368200	ASR textual; atribució i audició pendents
+Constitució	institucions	2	2	sí	small	Un abans de la Constitució i un altre després, no?	un abans de la Constitució, i un altre després, no?	0.4366	0.8920	0.2326	0.7747	lead-rtva-017__66__constituci.wav	1960080	1963560	ASR textual; atribució i audició pendents
+avortament	societat	1	0	no	small	que és el de l'avortament.		0.4148	0.8940			lead-rtva-017__67__avortament.wav	3294360	3295560	ASR textual; atribució i audició pendents
+gent gran	societat	2	5	sí	small	Ha estat president de la Federació d'Associacions de Gent Gran	Ha estat president de la fedració de associations de gent gran	0.2356	0.8870	0.1641	0.7326	lead-rtva-017__68__gent-gran.wav	37680	41360	ASR textual; atribució i audició pendents
+educació especial	educació	1	0	no	small	en col·lectius, per exemple, de nens i nenes d'educació especial.		0.5316	0.9138			lead-rtva-017__69__educaci-especial.wav	1089560	1093520	ASR textual; atribució i audició pendents

@@ -1,0 +1,53 @@
+forma	categoria	small	base	consens	model_localitzador	context_small	context_base	prob_min_segment_small	prob_mean_segment_small	prob_min_segment_base	prob_mean_segment_base	clip	inici_ms	final_ms	estat
+a nivell	discurs	0	0	no											ASR textual; atribució i audició pendents
+a veure	discurs	4	3	sí	small	d'anticossos cèlíacs a veure què surt. I aleshores si és que sí, què tindré?	Jo diria que et feixen els marcadors de anticossos a l'Ix, a veure què surt.	0.2571	0.7725	0.3090	0.7029	lead-yt-047__02__a-veure.wav	201600	207520	ASR textual; atribució i audició pendents
+aleshores	discurs	6	0	no	small	Aleshores la meva pregunta és, et van fer les proves de salar aquí, eh?		0.2352	0.7920			lead-yt-047__03__aleshores.wav	131000	133960	ASR textual; atribució i audició pendents
+aviam	discurs	0	2	no	base		Aviam, no és una cosa superfàcil de digest, no és una patata, per a d'algo.			0.0923	0.7255	lead-yt-047__04__aviam.wav	895240	898480	ASR textual; atribució i audició pendents
+bueno	discurs	15	25	sí	small	també és positiva, perquè bueno, hi ha poques possibilitats però el millor	Perquè, bueno, hi ha poc posibilitats, però el millor podia tenir alguna altra cosa.	0.2402	0.8237	0.1343	0.6692	lead-yt-047__05__bueno.wav	212720	217400	ASR textual; atribució i audició pendents
+bé	discurs	14	12	sí	small	És correcte, Núria, que t'haurà dit que bé.	Bé, imagina que comença a equivocar-me, no m'ha passat mai, ja tinc un edat, no m'ha passat mai.	0.1005	0.6682	0.1687	0.8095	lead-yt-047__06__b.wav	5360	7520	ASR textual; atribució i audició pendents
+clar	discurs	31	27	sí	small	"Clar, és una malaltia que ara tothom diu ""ui sí, jo conec molt Celiax""."	-Clar, és una malaltia que ara tot em diu, i sí, jo conec molt celiax.	0.1953	0.8240	0.2153	0.6562	lead-yt-047__07__clar.wav	96160	100160	ASR textual; atribució i audició pendents
+de fet	discurs	5	6	sí	small	De fet, no sé on aniré, m'ho he de pensar.	De fet, no sé, on anirem, ho he de pensar.	0.3337	0.8788	0.1887	0.7354	lead-yt-047__08__de-fet.wav	440860	442860	ASR textual; atribució i audició pendents
+diguem	discurs	0	0	no											ASR textual; atribució i audició pendents
+doncs	discurs	15	13	sí	small	I doncs aquest any hem volgut fer una campanya de sensibilització	I, doncs, aquest any, hem volgut fer una campanya de sensibilització	0.3606	0.9113	0.4027	0.8738	lead-yt-047__10__doncs.wav	50400	54400	ASR textual; atribució i audició pendents
+evidentment	discurs	0	0	no											ASR textual; atribució i audició pendents
+llavors	discurs	15	7	sí	small	Ja és veritat que, a partir de llavors, 2017,	Ja és veritat que a partir de llavors, 2017,	0.1811	0.7908	0.1528	0.6710	lead-yt-047__12__llavors.wav	169040	171840	ASR textual; atribució i audició pendents
+no?	discurs	18	28	sí	small	Ara el Celiax estàu portat arreu, és que què passa? Ara hi ha moda de Celiax, no?	Això sí. Això o altra no? Sí, sí, sí, sí.	0.2893	0.8006	0.1958	0.6939	lead-yt-047__13__no.wav	100160	104160	ASR textual; atribució i audició pendents
+o sigui	discurs	5	3	sí	small	de desnutrició total, o sigui, no tenia...	Clar, o sigui, el problema és aquest, és seguir la dieta...	0.1475	0.6776	0.5800	0.8700	lead-yt-047__14__o-sigui.wav	310480	312480	ASR textual; atribució i audició pendents
+per tant	discurs	1	2	sí	small	Per tant, tant de dormir, que és una biòpsia intestinal.	Per tant, t'han de dormir, que és una biòpcia intestinal.	0.5222	0.8793	0.3240	0.7265	lead-yt-047__15__per-tant.wav	261080	263880	ASR textual; atribució i audició pendents
+perquè	discurs	51	51	sí	small	Véns a més amb un dia especial, perquè avui ha tingut lloc	Ben a més a més, amb un dia especial, perquè avui ha tingut lloc alguna acció a algunes escoles del país.	0.2089	0.7355	0.0704	0.8038	lead-yt-047__16__perqu.wav	16080	18880	ASR textual; atribució i audició pendents
+vull dir	discurs	2	1	sí	small	Vull dir que estem supercontents.	No, bueno, està. És clar, avui vull dir...	0.3015	0.7492	0.0687	0.5582	lead-yt-047__17__vull-dir.wav	690220	691500	ASR textual; atribució i audició pendents
+és a dir	discurs	5	4	sí	small	És a dir, una vida molt correcta, però una alimentació molt nefasta.	És a dir, no estem a Europa, però aquí us celebrarem.	0.1349	0.8629	0.3369	0.7957	lead-yt-047__18__s-a-dir.wav	140840	145040	ASR textual; atribució i audició pendents
+Canillo	territorial	0	0	no											ASR textual; atribució i audició pendents
+Escaldes	territorial	1	1	sí	small	que està a escaldes, que és com una cafeteria de restaurant així, que és el zero gluten.	que està escaldes, que és un...	0.1323	0.6356	0.5407	0.8000	lead-yt-047__20__escaldes.wav	1326860	1332100	ASR textual; atribució i audició pendents
+Massana	territorial	0	0	no											ASR textual; atribució i audició pendents
+Ordino	territorial	0	0	no											ASR textual; atribució i audició pendents
+Sant Julià	territorial	0	0	no											ASR textual; atribució i audició pendents
+aiguats	territorial	0	0	no											ASR textual; atribució i audició pendents
+andorrana	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunal	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunals	territorial	0	0	no											ASR textual; atribució i audició pendents
+comuns	territorial	0	0	no											ASR textual; atribució i audició pendents
+comú	territorial	0	0	no											ASR textual; atribució i audició pendents
+copríncep	territorial	0	0	no											ASR textual; atribució i audició pendents
+coprínceps	territorial	0	0	no											ASR textual; atribució i audició pendents
+padrí	territorial	0	0	no											ASR textual; atribució i audició pendents
+parròquia	territorial	0	0	no											ASR textual; atribució i audició pendents
+santuari	territorial	0	0	no											ASR textual; atribució i audició pendents
+veguer	territorial	0	0	no											ASR textual; atribució i audició pendents
+Núria	persona	4	4	sí	small	El meu costat, Núria Pablos, de l'Associació de Celiacs d'Andorra.	El meu costat Núria Pablo's de la associació de Celia X d'Andorra és correcte, Núria, que t'hauranit.	0.4452	0.8324	0.1959	0.7049	lead-yt-047__36__n-ria.wav	0	5280	ASR textual; atribució i audició pendents
+celíac	salut	2	0	no	small	No és tant dir que jo ja sé que un celíac no pot menjar pa,		0.2511	0.7683			lead-yt-047__37__cel-ac.wav	625060	627700	ASR textual; atribució i audició pendents
+celiaquia	salut	3	4	sí	small	Doncs tenim uns quants minuts per parlar de la Celiaquia.	-D'estaríem uns quants minuts per parlar de la Celiaquia.	0.2179	0.8144	0.1447	0.6292	lead-yt-047__38__celiaquia.wav	94160	96160	ASR textual; atribució i audició pendents
+gluten	salut	43	21	sí	small	que ens va donar suport, i avui gairebé totes les escoles del principi han donat menús sense gluten.	han donat menús sense gluten.	0.2360	0.8116	0.1935	0.6712	lead-yt-047__39__gluten.wav	64840	71440	ASR textual; atribució i audició pendents
+dieta	salut	12	12	sí	small	i a partir d'allà vaig anar millorant amb la dieta sense gluten.	amb la dieta sense aglutent, no?	0.4076	0.8823	0.1978	0.6532	lead-yt-047__40__dieta.wav	320480	322480	ASR textual; atribució i audició pendents
+alimentació	salut	4	4	sí	small	És a dir, una vida molt correcta, però una alimentació molt nefasta.	Una vida, una vida molt correcta, però una alimentació molt nefasta.	0.1349	0.8629	0.2669	0.7664	lead-yt-047__41__alimentaci.wav	140840	145040	ASR textual; atribució i audició pendents
+escoles	educació	6	5	sí	small	alguna acció a algunes escoles del país.	Ben a més a més, amb un dia especial, perquè avui ha tingut lloc alguna acció a algunes escoles del país.	0.5170	0.9056	0.0704	0.8038	lead-yt-047__42__escoles.wav	18960	21680	ASR textual; atribució i audició pendents
+Ministeri	institucions	2	1	sí	small	I vam proposar, ja fa un temps, el Ministeri d'Educació, que ens donés suport en això,	I vam proposar, ja fa un temps, el Ministeri d'Adocació,	0.3869	0.8073	0.2332	0.7382	lead-yt-047__43__ministeri.wav	60200	64840	ASR textual; atribució i audició pendents
+associació	societat	2	2	sí	small	El meu costat, Núria Pablos, de l'Associació de Celiacs d'Andorra.	El meu costat Núria Pablo's de la associació de Celia X d'Andorra és correcte, Núria, que t'hauranit.	0.4452	0.8324	0.1959	0.7049	lead-yt-047__44__associaci.wav	0	5280	ASR textual; atribució i audició pendents
+Andorra	toponim	2	1	sí	small	El meu costat, Núria Pablos, de l'Associació de Celiacs d'Andorra.	El meu costat Núria Pablo's de la associació de Celia X d'Andorra és correcte, Núria, que t'hauranit.	0.4452	0.8324	0.1959	0.7049	lead-yt-047__45__andorra.wav	0	5280	ASR textual; atribució i audició pendents
+andorrà	gentilici	0	0	no											ASR textual; atribució i audició pendents
+pa	alimentació	5	4	sí	small	No és tant dir que jo ja sé que un celíac no pot menjar pa,	No és tan, dic, jo ja sé que no pot menjar pa.	0.2511	0.7683	0.1427	0.5797	lead-yt-047__47__pa.wav	625060	627700	ASR textual; atribució i audició pendents
+farina	alimentació	1	1	sí	small	Sempre podem menjar coses que no li afegim, coses precuinades de farina, o coses per engruixir,	Sempre podem menjar coses que no li afegim coses precuïnades de farina	0.3078	0.8777	0.1422	0.7971	lead-yt-047__48__farina.wav	1123180	1128780	ASR textual; atribució i audició pendents
+restaurants	societat	1	1	sí	small	I a part d'aquest, no, la resta són restaurants mixtes,	No, la resta són... són restaurants mixtes	0.3373	0.8063	0.3851	0.7740	lead-yt-047__49__restaurants.wav	1335740	1341500	ASR textual; atribució i audició pendents
+família	societat	0	0	no											ASR textual; atribució i audició pendents
+salut	salut	3	2	sí	small	I aleshores, a mi em van fer les proves de salut aquí,	però les proves de salut aquí són negatives, no tenen anticòsos,	0.2068	0.7346	0.1661	0.5620	lead-yt-047__51__salut.wav	316480	318480	ASR textual; atribució i audició pendents
+diagnòstic	salut	2	1	sí	small	I aleshores s'hauria de confirmar el diagnòstic amb una biòpsia intestinal.	I a les dades hauria de confirmar el diagnòstic amb una biòpcia intestinal.	0.2982	0.9131	0.0758	0.7431	lead-yt-047__52__diagn-stic.wav	229520	232680	ASR textual; atribució i audició pendents

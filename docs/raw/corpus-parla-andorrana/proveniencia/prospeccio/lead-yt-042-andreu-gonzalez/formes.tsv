@@ -1,0 +1,57 @@
+forma	categoria	small	base	consens	model_localitzador	context_small	context_base	prob_min_segment_small	prob_mean_segment_small	prob_min_segment_base	prob_mean_segment_base	clip	inici_ms	final_ms	estat
+a nivell	discurs	3	3	sí	small	Doncs mira, a nivell europeu treballem aquí a Espanya,	Doncs mira, a nivell europeu treballem aquí a l'Asia Espanya,	0.2832	0.8879	0.2276	0.8071	lead-yt-042__01__a-nivell.wav	446140	452020	ASR textual; atribució i audició pendents
+a veure	discurs	1	1	sí	small	Hi ha una desconecció molt bèstia, perquè no té res a veure amb el que passa a l'Amazones, amb el que ens passa aquí al costat de casa.	perquè no té res a veure lo que passa a l'amazones,	0.3704	0.8613	0.1326	0.6923	lead-yt-042__02__a-veure.wav	393060	400340	ASR textual; atribució i audició pendents
+aleshores	discurs	0	0	no											ASR textual; atribució i audició pendents
+aviam	discurs	0	0	no											ASR textual; atribució i audició pendents
+bueno	discurs	2	3	sí	small	És un pack, és un pack tot incluïdo. No li posem la porcerita, però bueno, quasi-quasi ens faltaria això.	I bueno, estem...	0.0973	0.7304	0.4370	0.7283	lead-yt-042__05__bueno.wav	848380	854380	ASR textual; atribució i audició pendents
+bé	discurs	11	7	sí	small	Hola, molt bé, molt bé. Moltes ganes de compartir aquesta estona amb tu, Sergi.	Hola, molt bé, molt bé, molta grans de compartir aquesta estoneta amb tu, Sergi.	0.5916	0.9070	0.1377	0.6634	lead-yt-042__06__b.wav	159460	164460	ASR textual; atribució i audició pendents
+clar	discurs	9	5	sí	small	Jo sempre he sigut, clar, sempre he sigut emprenedor, sempre m'agrada innovar i veus que, clar,	Clar, clar.	0.1488	0.7742	0.2002	0.5704	lead-yt-042__07__clar.wav	252580	258580	ASR textual; atribució i audició pendents
+de fet	discurs	2	2	sí	small	que ajuden si, i de fet, sí que et preguntaré què ha de fer una persona que ara mateix estigui veient pirènios televisió	que ajuden si, i de fet, si aquest preguntaré,	0.1097	0.7881	0.3233	0.7117	lead-yt-042__08__de-fet.wav	973860	980020	ASR textual; atribució i audició pendents
+diguem	discurs	0	0	no											ASR textual; atribució i audició pendents
+doncs	discurs	8	8	sí	small	doncs necessitem aquesta reconecció i som una organització verb al projecte,	doncs necessitem amb aquesta connexió amb els Alps,	0.2662	0.8328	0.0883	0.7632	lead-yt-042__10__doncs.wav	201780	206220	ASR textual; atribució i audició pendents
+evidentment	discurs	2	2	sí	small	Ja hem tingut moltes proves al país, parlo, evidentment, una mostra evident,	Parlo, evidentment, un amostre evident,	0.2268	0.8449	0.1863	0.7291	lead-yt-042__11__evidentment.wav	726100	731100	ASR textual; atribució i audició pendents
+llavors	discurs	4	1	sí	small	Llavors, per recuperar aquest hàbitat de motllera,	Llavors, per recuperar aquest àbitat de mollera,	0.0955	0.7829	0.2313	0.7845	lead-yt-042__12__llavors.wav	61520	63520	ASR textual; atribució i audició pendents
+no?	discurs	12	6	sí	small	Sí, la veritat és que ens hem anat una mica desconectant, no?	i com es gestiona a dècades vistes, no?	0.4454	0.8924	0.4945	0.7650	lead-yt-042__13__no.wav	185060	189340	ASR textual; atribució i audició pendents
+o sigui	discurs	1	1	sí	small	o sigui que, com més aviat, s'inscriguin millor, perquè hi ha tot el que és a partir d'ara, hi ha totes aquestes setmanes,	o sigui que, com més aviat, s'inscrigui millor perquè hi ha tot el que és a partir d'ara,	0.4253	0.8507	0.1922	0.7609	lead-yt-042__14__o-sigui.wav	995100	1002400	ASR textual; atribució i audició pendents
+per tant	discurs	1	1	sí	small	Per tant, el que s'està fent és una tala de tots els arbres que han anat colonitzant aquesta motllera,	Per tant, lo que s'està fent és una tala de tots els abres	0.4366	0.8960	0.1704	0.8430	lead-yt-042__15__per-tant.wav	67520	72080	ASR textual; atribució i audició pendents
+perquè	discurs	26	27	sí	small	perquè l'hàbitat de motllera pugui tornar a tenir l'hàbitat amb l'estat de conservació que li ha correspondit.	perquè l'àbitat de mollera pugui tornar a tenir l'àbitat	0.4336	0.8855	0.4163	0.9130	lead-yt-042__16__perqu.wav	72080	78280	ASR textual; atribució i audició pendents
+vull dir	discurs	0	0	no											ASR textual; atribució i audició pendents
+és a dir	discurs	0	2	no	base		És a dir, reculsem, apuiem, però no vingui a la vegada,			0.2125	0.6663	lead-yt-042__18__s-a-dir.wav	956440	960960	ASR textual; atribució i audició pendents
+Canillo	territorial	0	0	no											ASR textual; atribució i audició pendents
+Escaldes	territorial	0	0	no											ASR textual; atribució i audició pendents
+Massana	territorial	0	0	no											ASR textual; atribució i audició pendents
+Ordino	territorial	0	0	no											ASR textual; atribució i audició pendents
+Sant Julià	territorial	0	0	no											ASR textual; atribució i audició pendents
+aiguats	territorial	0	0	no											ASR textual; atribució i audició pendents
+andorrana	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunal	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunals	territorial	0	0	no											ASR textual; atribució i audició pendents
+comuns	territorial	0	0	no											ASR textual; atribució i audició pendents
+comú	territorial	0	0	no											ASR textual; atribució i audició pendents
+copríncep	territorial	0	0	no											ASR textual; atribució i audició pendents
+coprínceps	territorial	0	0	no											ASR textual; atribució i audició pendents
+padrí	territorial	0	0	no											ASR textual; atribució i audició pendents
+parròquia	territorial	0	0	no											ASR textual; atribució i audició pendents
+santuari	territorial	0	0	no											ASR textual; atribució i audició pendents
+veguer	territorial	0	0	no											ASR textual; atribució i audició pendents
+naturalesa	medi ambient	0	0	no											ASR textual; atribució i audició pendents
+natura	medi ambient	4	4	sí	small	perquè ells realment tenen aquest repte de cop o d'un conviure amb la natura, no?	perquè creem que tenen aquest repte de cop poden convivre amb la natura.	0.2549	0.8267	0.1062	0.6810	lead-yt-042__37__natura.wav	269540	274380	ASR textual; atribució i audició pendents
+ecologista	medi ambient	1	1	sí	small	Moltes vegades venim d'aquesta tradició d'ecologista, no? Eh, no, vamos a salvar el planeta.	Moltes vegades tenim d'aquesta tradició ecologista.	0.3783	0.8261	0.1189	0.6964	lead-yt-042__38__ecologista.wav	506660	511700	ASR textual; atribució i audició pendents
+planeta	medi ambient	5	6	sí	small	Això és una mica com el Cinexin. Tornant rera, tu penses que jo crec que ens cal, sí, per moltes de les coses que passen a aquest planeta.	per moltes de les coses que passen aquest planeta.	0.2196	0.8286	0.7177	0.9096	lead-yt-042__39__planeta.wav	231540	240420	ASR textual; atribució i audició pendents
+bosc	medi ambient	15	7	sí	small	entengui i comprengui millor què passa al bosc.	entengui com prengui millor que passa al bosc.	0.4030	0.8329	0.3632	0.7233	lead-yt-042__40__bosc.wav	107920	111720	ASR textual; atribució i audició pendents
+boscos	medi ambient	10	10	sí	small	-El projecte Boscos de Montània ja ha iniciat temporada i serà més llarga que les anteriors, des de juny fins a novembre i també amplien el nombre de projectes que duran a terme.	El projecte Boscos de Montanya ja ha iniciat temporada	0.1807	0.8551	0.2809	0.8318	lead-yt-042__41__boscos.wav	18000	27000	ASR textual; atribució i audició pendents
+muntanya	toponim	10	10	sí	small	de les peces i hàbitats aquàtics d'alta muntanya.	que és un projecte Life per la millora de la conservació de les pècis i habitats aquàtics d'alta muntanya,	0.3778	0.8222	0.2723	0.7665	lead-yt-042__42__muntanya.wav	43560	46360	ASR textual; atribució i audició pendents
+animals	medi ambient	0	0	no											ASR textual; atribució i audició pendents
+fauna	medi ambient	0	0	no											ASR textual; atribució i audició pendents
+flora	medi ambient	0	0	no											ASR textual; atribució i audició pendents
+Andorra	toponim	1	1	sí	small	una altra cosa que és important des de Suïssa, que Suïssa i els Alps, en països com Andorra	Suïssa i els Alps, amb països com Andorra,	0.1755	0.7885	0.0874	0.7193	lead-yt-042__46__andorra.wav	258580	264340	ASR textual; atribució i audició pendents
+andorrà	gentilici	0	0	no											ASR textual; atribució i audició pendents
+La Massana	toponim	0	0	no											ASR textual; atribució i audició pendents
+Bosc	medi ambient	15	7	sí	small	entengui i comprengui millor què passa al bosc.	entengui com prengui millor que passa al bosc.	0.4030	0.8329	0.3632	0.7233	lead-yt-042__49__bosc.wav	107920	111720	ASR textual; atribució i audició pendents
+conservació	medi ambient	2	1	sí	small	que és un projecte life per a la millora de la conservació	que és un projecte Life per la millora de la conservació de les pècis i habitats aquàtics d'alta muntanya,	0.2250	0.9001	0.2723	0.7665	lead-yt-042__50__conservaci.wav	40320	43560	ASR textual; atribució i audició pendents
+educació	educació	0	0	no											ASR textual; atribució i audició pendents
+canvi climàtic	medi ambient	1	1	sí	small	i el que ens està passant al canvi climàtic és això.	i el que ens està passant al canvi climàtic,	0.4452	0.8568	0.1840	0.7598	lead-yt-042__52__canvi-clim-tic.wav	301100	303980	ASR textual; atribució i audició pendents
+residus	medi ambient	0	0	no											ASR textual; atribució i audició pendents
+reciclatge	medi ambient	0	0	no											ASR textual; atribució i audició pendents
+turisme	economia	0	0	no											ASR textual; atribució i audició pendents
+Pirineus	toponim	3	1	sí	small	Jo vaig veure aquest vídeo dels companys de Pirineus Digital,	Nosaltres aquí, a lo que és Espanya, treballem a Pirineus de Catalunya,	0.4381	0.8267	0.2460	0.7069	lead-yt-042__56__pirineus.wav	166620	169700	ASR textual; atribució i audició pendents

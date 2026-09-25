@@ -1,0 +1,723 @@
+tipus	id	fitxer	durada_s	sample_rate_hz	canals	bytes	estat	nota
+font	pa-001	audios/pa-001/audio.wav	1125.262	44100	2	198496334	ok	
+font	pa-002	audios/pa-002/audio.wav	2647.075	44100	2	466944078	ok	
+font	pa-003	audios/pa-003/audio.wav	516.876	44100	2	91177038	ok	
+font	pa-004	audios/pa-004/audio.wav	837.010	44100	2	147648590	ok	
+font	pa-005	audios/pa-005/audio.wav	949.000	44100	2	167403598	ok	
+font	pa-006	audios/pa-006/audio.wav	658.564	44100	2	116170830	ok	
+font	pa-007	audios/pa-007/audio.wav	823.681	44100	2	145297486	ok	
+font	pa-008	audios/pa-008/audio.wav	1397.377	44100	2	246497358	ok	
+font	pa-009	audios/pa-009/audio.wav	1102.251	44100	2	194437198	ok	
+font	pa-010	audios/pa-010/audio.wav	1051.400	44100	2	185466958	ok	
+font	pa-011	audios/pa-011/audio.wav	588.394	44100	2	103792718	ok	
+font	pa-012	audios/pa-012/audio.wav	742.458	44100	2	130969678	ok	
+font	pa-013	audios/pa-013/audio.wav	1081.562	44100	2	190787662	ok	
+font	pa-014	audios/pa-014/audio.wav	1004.309	44100	2	177160270	ok	
+font	pa-015	audios/pa-015/audio.wav	541.884	44100	2	95588430	ok	
+font	pa-016	audios/pa-016/audio.wav	792.172	44100	2	139739214	ok	
+font	pa-017	audios/pa-017/audio.wav	902.211	44100	2	159150158	ok	
+font	pa-018	audios/pa-018/audio.wav	2772.602	44100	2	489087054	ok	
+font	pa-019	audios/pa-019/audio.wav	880.176	44100	2	155263054	ok	
+font	pa-020	audios/pa-020/audio.wav	1486.913	44100	2	262291534	ok	
+font	pa-021	audios/pa-021/audio.wav	951.809	44100	2	167899214	ok	
+font	pa-022	audios/pa-022/audio.wav	743.735	44100	2	131194958	ok	
+font	pa-023	audios/pa-023/audio.wav	596.010	44100	2	105136206	ok	
+font	pa-024	audios/pa-024/audio.wav	2492.198	44100	2	439623758	ok	
+font	pa-025	audios/pa-025/audio.wav	2112.784	44100	2	372695118	ok	
+font	pa-026	audios/pa-026/audio.wav	2149.146	44100	2	379109454	ok	
+font	pa-027	audios/pa-027/audio.wav	955.873	44100	2	168616014	ok	
+font	pa-028	audios/pa-028/audio.wav	401.171	44100	2	70766670	ok	
+font	pa-029	audios/pa-029/audio.wav	1213.010	44100	2	213975118	ok	
+font	pa-030	audios/pa-030/audio.wav	1144.024	44100	2	201805902	ok	
+font	pa-031	audios/pa-031/audio.wav	611.544	44100	2	107876430	ok	
+font	pa-032	audios/pa-032/audio.wav	453.741	44100	2	80040014	ok	
+font	pa-033	audios/pa-033/audio.wav	256.766	44100	2	45293646	ok	
+font	pa-034	audios/pa-034/audio.wav	1267.577	44100	2	223600718	ok	
+font	pa-035	audios/pa-035/audio.wav	1028.876	44100	2	181493838	ok	
+font	pa-036	audios/pa-036/audio.wav	719.935	44100	2	126996558	ok	
+font	pa-037	audios/pa-037/audio.wav	502.944	44100	2	88719438	ok	
+font	pa-038	audios/pa-038/audio.wav	2175.663	44100	2	383787086	ok	
+font	pa-039	audios/pa-039/audio.wav	653.735	44100	2	115318862	ok	
+font	pa-040	audios/pa-040/audio.wav	250.218	44100	2	44138574	ok	
+font	pa-041	audios/pa-041/audio.wav	691.560	44100	2	121991246	ok	
+font	pa-042	audios/pa-042/audio.wav	419.422	44100	2	73986126	ok	
+font	pa-043	audios/pa-043/audio.wav	148.004	44100	2	26107982	ok	
+font	pa-044	audios/pa-044/audio.wav	1605.567	44100	2	283222094	ok	
+font	pa-045	audios/pa-045/audio.wav	1608.028	44100	2	283656270	ok	
+font	pa-046	audios/pa-046/audio.wav	1265.139	44100	2	223170638	ok	
+font	pa-047	audios/pa-047/audio.wav	1571.805	44100	2	277266510	ok	
+font	pa-048	audios/pa-048/audio.wav	1527.896	44100	2	269520974	ok	
+font	pa-049	audios/pa-049/audio.wav	1595.606	44100	2	281464910	ok	
+font	pa-050	audios/pa-050/audio.wav	1538.995	44100	2	271478862	ok	
+font	pa-051	audios/pa-051/audio.wav	309.803	44100	2	54649266	ok	
+font	pa-052	audios/pa-052/audio.wav	169.771	44100	2	29947626	ok	
+font	pa-053	audios/pa-053/audio.wav	251.605	16000	1	8051448	ok	
+font	pa-054	audios/pa-054/audio.wav	327.680	16000	1	10485838	ok	
+font	pa-055	audios/pa-055/audio.wav	2149.099	44100	2	379101090	ok	
+font	pa-056	audios/pa-056/audio.wav	1143.979	44100	2	201797918	ok	
+font	pa-057	audios/pa-057/audio.wav	1212.971	44100	2	213968106	ok	
+font	pa-058	audios/pa-058/audio.wav	2772.565	44100	2	489080606	ok	
+font	pa-059	audios/pa-059/audio.wav	902.165	44100	2	159142046	ok	
+font	pa-060	audios/pa-060/audio.wav	595.968	44100	2	105128834	ok	
+font	pa-061	audios/pa-061/audio.wav	1569.623	44100	2	276881490	ok	
+font	pa-062	audios/pa-062/audio.wav	1502.215	44100	2	264990798	ok	
+font	pa-063	audios/pa-063/audio.wav	1571.341	44100	2	277184590	ok	
+font	pa-064	audios/pa-064/audio.wav	1488.933	44100	2	262647890	ok	
+font	pa-065	audios/pa-065/audio.wav	1564.352	44100	2	275951694	ok	
+font	pa-066	audios/pa-066/audio.wav	580.011	44100	2	102314066	ok	
+clip	pa-001::bé::49.17-54.35	clips/pa-001__b__49.17.wav	5.180	16000	1	165838	ok	
+clip	pa-002::bé::348.25-355.75	clips/pa-002__b__348.25.wav	7.500	16000	1	240078	ok	
+clip	pa-003::bé::0.00-7.19	clips/pa-003__b__0.00.wav	7.190	16000	1	230158	ok	
+clip	pa-004::bé::319.61-322.59	clips/pa-004__b__319.61.wav	2.980	16000	1	95438	ok	
+clip	pa-005::bé::51.09-56.07	clips/pa-005__b__51.09.wav	4.980	16000	1	159438	ok	
+clip	pa-006::bé::151.25-159.75	clips/pa-006__b__151.25.wav	8.500	16000	1	272078	ok	
+clip	pa-007::bé::59.25-66.75	clips/pa-007__b__59.25.wav	7.500	16000	1	240078	ok	
+clip	pa-008::bé::61.25-65.75	clips/pa-008__b__61.25.wav	4.500	16000	1	144078	ok	
+clip	pa-009::bé::557.25-561.75	clips/pa-009__b__557.25.wav	4.500	16000	1	144078	ok	
+clip	pa-010::bé::24.65-31.67	clips/pa-010__b__24.65.wav	7.020	16000	1	224718	ok	
+clip	pa-011::bé::185.57-189.31	clips/pa-011__b__185.57.wav	3.740	16000	1	119758	ok	
+clip	pa-012::bé::160.25-164.75	clips/pa-012__b__160.25.wav	4.500	16000	1	144078	ok	
+clip	pa-013::bé::196.65-203.47	clips/pa-013__b__196.65.wav	6.820	16000	1	218318	ok	
+clip	pa-014::bé::165.65-181.55	clips/pa-014__b__165.65.wav	15.900	16000	1	508878	ok	
+clip	pa-015::bé::42.25-48.75	clips/pa-015__b__42.25.wav	6.500	16000	1	208078	ok	
+clip	pa-016::bé::170.05-177.19	clips/pa-016__b__170.05.wav	7.140	16000	1	228558	ok	
+clip	pa-017::bé::112.25-118.15	clips/pa-017__b__112.25.wav	5.900	16000	1	188878	ok	
+clip	pa-018::bé::210.65-215.47	clips/pa-018__b__210.65.wav	4.820	16000	1	154318	ok	
+clip	pa-019::bé::195.25-201.75	clips/pa-019__b__195.25.wav	6.500	16000	1	208078	ok	
+clip	pa-020::bé::146.37-152.31	clips/pa-020__b__146.37.wav	5.940	16000	1	190158	ok	
+clip	pa-021::bé::257.61-263.59	clips/pa-021__b__257.61.wav	5.980	16000	1	191438	ok	
+clip	pa-022::bé::270.45-275.35	clips/pa-022__b__270.45.wav	4.900	16000	1	156878	ok	
+clip	pa-023::bé::409.37-413.47	clips/pa-023__b__409.37.wav	4.100	16000	1	131278	ok	
+clip	pa-024::bé::175.29-180.79	clips/pa-024__b__175.29.wav	5.500	16000	1	176078	ok	
+clip	pa-025::bé::1023.77-1027.67	clips/pa-025__b__1023.77.wav	3.900	16000	1	124878	ok	
+clip	pa-026::bé::99.97-103.47	clips/pa-026__b__99.97.wav	3.500	16000	1	112078	ok	
+clip	pa-027::bé::30.97-36.55	clips/pa-027__b__30.97.wav	5.580	16000	1	178638	ok	
+clip	pa-028::bé::182.49-187.39	clips/pa-028__b__182.49.wav	4.900	16000	1	156878	ok	
+clip	pa-029::bé::42.97-46.79	clips/pa-029__b__42.97.wav	3.820	16000	1	122318	ok	
+clip	pa-030::bé::436.45-441.63	clips/pa-030__b__436.45.wav	5.180	16000	1	165838	ok	
+clip	pa-031::bé::329.13-333.07	clips/pa-031__b__329.13.wav	3.940	16000	1	126158	ok	
+clip	pa-032::bé::270.41-274.95	clips/pa-032__b__270.41.wav	4.540	16000	1	145358	ok	
+clip	pa-033::bé::103.09-107.43	clips/pa-033__b__103.09.wav	4.340	16000	1	138958	ok	
+clip	pa-034::bé::18.85-23.15	clips/pa-034__b__18.85.wav	4.300	16000	1	137678	ok	
+clip	pa-035::bé::715.81-720.31	clips/pa-035__b__715.81.wav	4.500	16000	1	144078	ok	
+clip	pa-036::bé::69.45-75.15	clips/pa-036__b__69.45.wav	5.700	16000	1	182478	ok	
+clip	pa-037::bé::105.29-124.79	clips/pa-037__b__105.29.wav	19.500	16000	1	624078	ok	
+clip	pa-038::bé::26.77-31.71	clips/pa-038__b__26.77.wav	4.940	16000	1	158158	ok	
+clip	pa-039::bé::27.77-32.03	clips/pa-039__b__27.77.wav	4.260	16000	1	136398	ok	
+clip	pa-040::bé::32.81-38.63	clips/pa-040__b__32.81.wav	5.820	16000	1	186318	ok	
+clip	pa-041::bé::130.25-137.75	clips/pa-041__b__130.25.wav	7.500	16000	1	240078	ok	
+clip	pa-045::bé::83.49-91.43	clips/pa-045__b__83.49.wav	7.940	16000	1	254158	ok	
+clip	pa-046::bé::348.81-352.55	clips/pa-046__b__348.81.wav	3.740	16000	1	119758	ok	
+clip	pa-048::bé::495.73-502.83	clips/pa-048__b__495.73.wav	7.100	16000	1	227278	ok	
+clip	pa-049::bé::74.21-82.63	clips/pa-049__b__74.21.wav	8.420	16000	1	269518	ok	
+clip	pa-053::bé::90.81-95.91	clips/pa-053__b__90.81.wav	5.100	16000	1	163278	ok	
+clip	pa-054::bé::128.77-134.43	clips/pa-054__b__128.77.wav	5.660	16000	1	181198	ok	
+clip	pa-055::bé::358.57-362.07	clips/pa-055__b__358.57.wav	3.500	16000	1	112078	ok	
+clip	pa-056::bé::436.49-441.47	clips/pa-056__b__436.49.wav	4.980	16000	1	159438	ok	
+clip	pa-057::bé::203.57-209.03	clips/pa-057__b__203.57.wav	5.460	16000	1	174798	ok	
+clip	pa-058::bé::210.61-215.39	clips/pa-058__b__210.61.wav	4.780	16000	1	153038	ok	
+clip	pa-059::bé::112.41-118.27	clips/pa-059__b__112.41.wav	5.860	16000	1	187598	ok	
+clip	pa-060::bé::415.73-419.91	clips/pa-060__b__415.73.wav	4.180	16000	1	133838	ok	
+clip	pa-061::bé::662.89-667.43	clips/pa-061__b__662.89.wav	4.540	16000	1	145358	ok	
+clip	pa-062::bé::401.61-406.47	clips/pa-062__b__401.61.wav	4.860	16000	1	155598	ok	
+clip	pa-063::bé::105.97-110.35	clips/pa-063__b__105.97.wav	4.380	16000	1	140238	ok	
+clip	pa-064::bé::97.93-104.11	clips/pa-064__b__97.93.wav	6.180	16000	1	197838	ok	
+clip	pa-065::bé::138.57-144.67	clips/pa-065__b__138.57.wav	6.100	16000	1	195278	ok	
+clip	pa-066::bé::10.13-15.71	clips/pa-066__b__10.13.wav	5.580	16000	1	178638	ok	
+clip	pa-001::de fet::68.49-71.99	clips/pa-001__de-fet__68.49.wav	3.500	16000	1	112078	ok	
+clip	pa-002::de fet::72.25-76.75	clips/pa-002__de-fet__72.25.wav	4.500	16000	1	144078	ok	
+clip	pa-003::de fet::0.00-7.19	clips/pa-003__de-fet__0.00.wav	7.190	16000	1	230158	ok	
+clip	pa-004::de fet::601.17-607.35	clips/pa-004__de-fet__601.17.wav	6.180	16000	1	197838	ok	
+clip	pa-006::de fet::285.25-291.75	clips/pa-006__de-fet__285.25.wav	6.500	16000	1	208078	ok	
+clip	pa-008::de fet::799.25-804.75	clips/pa-008__de-fet__799.25.wav	5.500	16000	1	176078	ok	
+clip	pa-010::de fet::647.25-652.75	clips/pa-010__de-fet__647.25.wav	5.500	16000	1	176078	ok	
+clip	pa-011::de fet::557.25-561.31	clips/pa-011__de-fet__557.25.wav	4.060	16000	1	129998	ok	
+clip	pa-016::de fet::318.53-324.03	clips/pa-016__de-fet__318.53.wav	5.500	16000	1	176078	ok	
+clip	pa-022::de fet::420.21-424.71	clips/pa-022__de-fet__420.21.wav	4.500	16000	1	144078	ok	
+clip	pa-023::de fet::72.49-78.31	clips/pa-023__de-fet__72.49.wav	5.820	16000	1	186318	ok	
+clip	pa-024::de fet::482.25-489.07	clips/pa-024__de-fet__482.25.wav	6.820	16000	1	218318	ok	
+clip	pa-025::de fet::890.85-894.31	clips/pa-025__de-fet__890.85.wav	3.460	16000	1	110798	ok	
+clip	pa-027::de fet::109.45-115.11	clips/pa-027__de-fet__109.45.wav	5.660	16000	1	181198	ok	
+clip	pa-028::de fet::31.17-37.07	clips/pa-028__de-fet__31.17.wav	5.900	16000	1	188878	ok	
+clip	pa-031::de fet::9.93-14.23	clips/pa-031__de-fet__9.93.wav	4.300	16000	1	137678	ok	
+clip	pa-033::de fet::249.69-252.55	clips/pa-033__de-fet__249.69.wav	2.860	16000	1	91598	ok	
+clip	pa-040::de fet::70.17-73.51	clips/pa-040__de-fet__70.17.wav	3.340	16000	1	106958	ok	
+clip	pa-051::de fet::200.81-205.31	clips/pa-051__de-fet__200.81.wav	4.500	16000	1	144078	ok	
+clip	pa-057::de fet::561.25-569.07	clips/pa-057__de-fet__561.25.wav	7.820	16000	1	250318	ok	
+clip	pa-060::de fet::72.57-78.35	clips/pa-060__de-fet__72.57.wav	5.780	16000	1	185038	ok	
+clip	pa-065::de fet::883.97-888.71	clips/pa-065__de-fet__883.97.wav	4.740	16000	1	151758	ok	
+clip	pa-066::de fet::44.37-49.71	clips/pa-066__de-fet__44.37.wav	5.340	16000	1	170958	ok	
+clip	pa-001::és a dir::890.97-894.47	clips/pa-001__s-a-dir__890.97.wav	3.500	16000	1	112078	ok	
+clip	pa-002::és a dir::12.25-17.75	clips/pa-002__s-a-dir__12.25.wav	5.500	16000	1	176078	ok	
+clip	pa-003::és a dir::65.05-70.51	clips/pa-003__s-a-dir__65.05.wav	5.460	16000	1	174798	ok	
+clip	pa-007::és a dir::684.25-687.75	clips/pa-007__s-a-dir__684.25.wav	3.500	16000	1	112078	ok	
+clip	pa-008::és a dir::1110.25-1114.75	clips/pa-008__s-a-dir__1110.25.wav	4.500	16000	1	144078	ok	
+clip	pa-010::és a dir::243.25-249.55	clips/pa-010__s-a-dir__243.25.wav	6.300	16000	1	201678	ok	
+clip	pa-011::és a dir::48.09-54.67	clips/pa-011__s-a-dir__48.09.wav	6.580	16000	1	210638	ok	
+clip	pa-013::és a dir::579.17-586.75	clips/pa-013__s-a-dir__579.17.wav	7.580	16000	1	242638	ok	
+clip	pa-014::és a dir::95.45-107.35	clips/pa-014__s-a-dir__95.45.wav	11.900	16000	1	380878	ok	
+clip	pa-016::és a dir::85.97-90.59	clips/pa-016__s-a-dir__85.97.wav	4.620	16000	1	147918	ok	
+clip	pa-017::és a dir::487.25-494.75	clips/pa-017__s-a-dir__487.25.wav	7.500	16000	1	240078	ok	
+clip	pa-018::és a dir::74.49-79.83	clips/pa-018__s-a-dir__74.49.wav	5.340	16000	1	170958	ok	
+clip	pa-019::és a dir::56.25-60.75	clips/pa-019__s-a-dir__56.25.wav	4.500	16000	1	144078	ok	
+clip	pa-021::és a dir::32.29-38.55	clips/pa-021__s-a-dir__32.29.wav	6.260	16000	1	200398	ok	
+clip	pa-022::és a dir::11.49-17.91	clips/pa-022__s-a-dir__11.49.wav	6.420	16000	1	205518	ok	
+clip	pa-023::és a dir::207.17-213.55	clips/pa-023__s-a-dir__207.17.wav	6.380	16000	1	204238	ok	
+clip	pa-024::és a dir::78.49-84.39	clips/pa-024__s-a-dir__78.49.wav	5.900	16000	1	188878	ok	
+clip	pa-025::és a dir::64.61-70.95	clips/pa-025__s-a-dir__64.61.wav	6.340	16000	1	202958	ok	
+clip	pa-026::és a dir::64.09-68.39	clips/pa-026__s-a-dir__64.09.wav	4.300	16000	1	137678	ok	
+clip	pa-027::és a dir::185.61-192.87	clips/pa-027__s-a-dir__185.61.wav	7.260	16000	1	232398	ok	
+clip	pa-029::és a dir::20.17-25.95	clips/pa-029__s-a-dir__20.17.wav	5.780	16000	1	185038	ok	
+clip	pa-030::és a dir::193.13-199.43	clips/pa-030__s-a-dir__193.13.wav	6.300	16000	1	201678	ok	
+clip	pa-033::és a dir::39.29-44.27	clips/pa-033__s-a-dir__39.29.wav	4.980	16000	1	159438	ok	
+clip	pa-034::és a dir::319.09-323.47	clips/pa-034__s-a-dir__319.09.wav	4.380	16000	1	140238	ok	
+clip	pa-035::és a dir::582.29-589.75	clips/pa-035__s-a-dir__582.29.wav	7.460	16000	1	238798	ok	
+clip	pa-039::és a dir::209.05-216.11	clips/pa-039__s-a-dir__209.05.wav	7.060	16000	1	225998	ok	
+clip	pa-041::és a dir::259.25-265.75	clips/pa-041__s-a-dir__259.25.wav	6.500	16000	1	208078	ok	
+clip	pa-043::és a dir::107.25-111.75	clips/pa-043__s-a-dir__107.25.wav	4.500	16000	1	144078	ok	
+clip	pa-046::és a dir::135.61-140.07	clips/pa-046__s-a-dir__135.61.wav	4.460	16000	1	142798	ok	
+clip	pa-048::és a dir::1130.61-1135.31	clips/pa-048__s-a-dir__1130.61.wav	4.700	16000	1	150478	ok	
+clip	pa-049::és a dir::907.25-911.75	clips/pa-049__s-a-dir__907.25.wav	4.500	16000	1	144078	ok	
+clip	pa-055::és a dir::63.89-68.59	clips/pa-055__s-a-dir__63.89.wav	4.700	16000	1	150478	ok	
+clip	pa-056::és a dir::7.45-10.87	clips/pa-056__s-a-dir__7.45.wav	3.420	16000	1	109518	ok	
+clip	pa-057::és a dir::19.89-25.51	clips/pa-057__s-a-dir__19.89.wav	5.620	16000	1	179918	ok	
+clip	pa-058::és a dir::74.41-79.87	clips/pa-058__s-a-dir__74.41.wav	5.460	16000	1	174798	ok	
+clip	pa-059::és a dir::487.81-491.67	clips/pa-059__s-a-dir__487.81.wav	3.860	16000	1	123598	ok	
+clip	pa-060::és a dir::207.33-213.63	clips/pa-060__s-a-dir__207.33.wav	6.300	16000	1	201678	ok	
+clip	pa-062::és a dir::973.65-980.31	clips/pa-062__s-a-dir__973.65.wav	6.660	16000	1	213198	ok	
+clip	pa-064::és a dir::258.61-265.03	clips/pa-064__s-a-dir__258.61.wav	6.420	16000	1	205518	ok	
+clip	pa-065::és a dir::221.29-226.15	clips/pa-065__s-a-dir__221.29.wav	4.860	16000	1	155598	ok	
+clip	pa-001::aleshores::10.13-13.63	clips/pa-001__aleshores__10.13.wav	3.500	16000	1	112078	ok	
+clip	pa-003::aleshores::18.69-23.19	clips/pa-003__aleshores__18.69.wav	4.500	16000	1	144078	ok	
+clip	pa-006::aleshores::513.25-518.75	clips/pa-006__aleshores__513.25.wav	5.500	16000	1	176078	ok	
+clip	pa-008::aleshores::1315.25-1319.75	clips/pa-008__aleshores__1315.25.wav	4.500	16000	1	144078	ok	
+clip	pa-011::aleshores::89.33-95.07	clips/pa-011__aleshores__89.33.wav	5.740	16000	1	183758	ok	
+clip	pa-012::aleshores::246.25-250.75	clips/pa-012__aleshores__246.25.wav	4.500	16000	1	144078	ok	
+clip	pa-014::aleshores::119.85-128.75	clips/pa-014__aleshores__119.85.wav	8.900	16000	1	284878	ok	
+clip	pa-021::aleshores::12.25-16.87	clips/pa-021__aleshores__12.25.wav	4.620	16000	1	147918	ok	
+clip	pa-025::aleshores::361.93-368.19	clips/pa-025__aleshores__361.93.wav	6.260	16000	1	200398	ok	
+clip	pa-030::aleshores::392.41-397.91	clips/pa-030__aleshores__392.41.wav	5.500	16000	1	176078	ok	
+clip	pa-031::aleshores::54.09-57.91	clips/pa-031__aleshores__54.09.wav	3.820	16000	1	122318	ok	
+clip	pa-032::aleshores::79.09-87.19	clips/pa-032__aleshores__79.09.wav	8.100	16000	1	259278	ok	
+clip	pa-045::aleshores::1193.41-1197.91	clips/pa-045__aleshores__1193.41.wav	4.500	16000	1	144078	ok	
+clip	pa-046::aleshores::527.57-532.55	clips/pa-046__aleshores__527.57.wav	4.980	16000	1	159438	ok	
+clip	pa-048::aleshores::701.05-707.67	clips/pa-048__aleshores__701.05.wav	6.620	16000	1	211918	ok	
+clip	pa-049::aleshores::110.29-118.67	clips/pa-049__aleshores__110.29.wav	8.380	16000	1	268238	ok	
+clip	pa-056::aleshores::393.13-397.83	clips/pa-056__aleshores__393.13.wav	4.700	16000	1	150478	ok	
+clip	pa-060::aleshores::147.17-151.47	clips/pa-060__aleshores__147.17.wav	4.300	16000	1	137678	ok	
+clip	pa-063::aleshores::151.45-155.23	clips/pa-063__aleshores__151.45.wav	3.780	16000	1	121038	ok	
+clip	pa-065::aleshores::170.69-174.71	clips/pa-065__aleshores__170.69.wav	4.020	16000	1	128718	ok	
+clip	pa-001::evidentment::1067.69-1071.19	clips/pa-001__evidentment__1067.69.wav	3.500	16000	1	112078	ok	
+clip	pa-002::evidentment::205.25-209.75	clips/pa-002__evidentment__205.25.wav	4.500	16000	1	144078	ok	
+clip	pa-003::evidentment::158.81-165.19	clips/pa-003__evidentment__158.81.wav	6.380	16000	1	204238	ok	
+clip	pa-004::evidentment::522.93-528.15	clips/pa-004__evidentment__522.93.wav	5.220	16000	1	167118	ok	
+clip	pa-006::evidentment::124.25-131.75	clips/pa-006__evidentment__124.25.wav	7.500	16000	1	240078	ok	
+clip	pa-007::evidentment::778.25-783.75	clips/pa-007__evidentment__778.25.wav	5.500	16000	1	176078	ok	
+clip	pa-009::evidentment::947.25-951.75	clips/pa-009__evidentment__947.25.wav	4.500	16000	1	144078	ok	
+clip	pa-011::evidentment::157.65-163.71	clips/pa-011__evidentment__157.65.wav	6.060	16000	1	193998	ok	
+clip	pa-013::evidentment::530.29-540.27	clips/pa-013__evidentment__530.29.wav	9.980	16000	1	319438	ok	
+clip	pa-014::evidentment::28.65-37.55	clips/pa-014__evidentment__28.65.wav	8.900	16000	1	284878	ok	
+clip	pa-016::evidentment::456.85-463.03	clips/pa-016__evidentment__456.85.wav	6.180	16000	1	197838	ok	
+clip	pa-017::evidentment::152.25-161.75	clips/pa-017__evidentment__152.25.wav	9.500	16000	1	304078	ok	
+clip	pa-019::evidentment::93.25-97.75	clips/pa-019__evidentment__93.25.wav	4.500	16000	1	144078	ok	
+clip	pa-020::evidentment::117.57-122.27	clips/pa-020__evidentment__117.57.wav	4.700	16000	1	150478	ok	
+clip	pa-021::evidentment::211.41-215.75	clips/pa-021__evidentment__211.41.wav	4.340	16000	1	138958	ok	
+clip	pa-022::evidentment::303.01-309.59	clips/pa-022__evidentment__303.01.wav	6.580	16000	1	210638	ok	
+clip	pa-024::evidentment::518.89-523.51	clips/pa-024__evidentment__518.89.wav	4.620	16000	1	147918	ok	
+clip	pa-025::evidentment::1156.61-1160.31	clips/pa-025__evidentment__1156.61.wav	3.700	16000	1	118478	ok	
+clip	pa-026::evidentment::1648.81-1653.83	clips/pa-026__evidentment__1648.81.wav	5.020	16000	1	160718	ok	
+clip	pa-027::evidentment::174.09-178.23	clips/pa-027__evidentment__174.09.wav	4.140	16000	1	132558	ok	
+clip	pa-030::evidentment::43.53-48.63	clips/pa-030__evidentment__43.53.wav	5.100	16000	1	163278	ok	
+clip	pa-035::evidentment::472.93-481.79	clips/pa-035__evidentment__472.93.wav	8.860	16000	1	283598	ok	
+clip	pa-036::evidentment::202.85-211.95	clips/pa-036__evidentment__202.85.wav	9.100	16000	1	291278	ok	
+clip	pa-039::evidentment::184.17-188.67	clips/pa-039__evidentment__184.17.wav	4.500	16000	1	144078	ok	
+clip	pa-040::evidentment::103.93-106.95	clips/pa-040__evidentment__103.93.wav	3.020	16000	1	96718	ok	
+clip	pa-041::evidentment::353.25-360.75	clips/pa-041__evidentment__353.25.wav	7.500	16000	1	240078	ok	
+clip	pa-045::evidentment::290.13-298.31	clips/pa-045__evidentment__290.13.wav	8.180	16000	1	261838	ok	
+clip	pa-046::evidentment::705.69-711.03	clips/pa-046__evidentment__705.69.wav	5.340	16000	1	170958	ok	
+clip	pa-049::evidentment::117.17-126.51	clips/pa-049__evidentment__117.17.wav	9.340	16000	1	298958	ok	
+clip	pa-055::evidentment::1644.01-1651.31	clips/pa-055__evidentment__1644.01.wav	7.300	16000	1	233678	ok	
+clip	pa-056::evidentment::43.45-48.59	clips/pa-056__evidentment__43.45.wav	5.140	16000	1	164558	ok	
+clip	pa-059::evidentment::152.13-162.03	clips/pa-059__evidentment__152.13.wav	9.900	16000	1	316878	ok	
+clip	pa-061::evidentment::672.69-677.43	clips/pa-061__evidentment__672.69.wav	4.740	16000	1	151758	ok	
+clip	pa-062::evidentment::163.29-166.67	clips/pa-062__evidentment__163.29.wav	3.380	16000	1	108238	ok	
+clip	pa-064::evidentment::485.89-491.71	clips/pa-064__evidentment__485.89.wav	5.820	16000	1	186318	ok	
+clip	pa-066::evidentment::89.75-95.41	clips/pa-066__evidentment__89.75.wav	5.660	16000	1	181198	ok	
+clip	pa-003::diguem::212.85-219.51	clips/pa-003__diguem__212.85.wav	6.660	16000	1	213198	ok	
+clip	pa-006::diguem::530.25-535.75	clips/pa-006__diguem__530.25.wav	5.500	16000	1	176078	ok	
+clip	pa-007::diguem::585.25-591.75	clips/pa-007__diguem__585.25.wav	6.500	16000	1	208078	ok	
+clip	pa-008::diguem::374.25-379.75	clips/pa-008__diguem__374.25.wav	5.500	16000	1	176078	ok	
+clip	pa-009::diguem::60.25-66.75	clips/pa-009__diguem__60.25.wav	6.500	16000	1	208078	ok	
+clip	pa-018::diguem::715.49-721.19	clips/pa-018__diguem__715.49.wav	5.700	16000	1	182478	ok	
+clip	pa-019::diguem::109.25-113.75	clips/pa-019__diguem__109.25.wav	4.500	16000	1	144078	ok	
+clip	pa-020::diguem::1459.77-1463.95	clips/pa-020__diguem__1459.77.wav	4.180	16000	1	133838	ok	
+clip	pa-022::diguem::447.57-453.55	clips/pa-022__diguem__447.57.wav	5.980	16000	1	191438	ok	
+clip	pa-023::diguem::55.05-60.95	clips/pa-023__diguem__55.05.wav	5.900	16000	1	188878	ok	
+clip	pa-025::diguem::500.89-506.43	clips/pa-025__diguem__500.89.wav	5.540	16000	1	177358	ok	
+clip	pa-027::diguem::57.77-63.27	clips/pa-027__diguem__57.77.wav	5.500	16000	1	176078	ok	
+clip	pa-028::diguem::168.89-174.15	clips/pa-028__diguem__168.89.wav	5.260	16000	1	168398	ok	
+clip	pa-029::diguem::929.69-935.51	clips/pa-029__diguem__929.69.wav	5.820	16000	1	186318	ok	
+clip	pa-033::diguem::49.01-55.91	clips/pa-033__diguem__49.01.wav	6.900	16000	1	220878	ok	
+clip	pa-034::diguem::504.45-508.51	clips/pa-034__diguem__504.45.wav	4.060	16000	1	129998	ok	
+clip	pa-037::diguem::469.77-482.03	clips/pa-037__diguem__469.77.wav	12.260	16000	1	392398	ok	
+clip	pa-038::diguem::251.25-260.55	clips/pa-038__diguem__251.25.wav	9.300	16000	1	297678	ok	
+clip	pa-039::diguem::144.37-152.95	clips/pa-039__diguem__144.37.wav	8.580	16000	1	274638	ok	
+clip	pa-046::diguem::626.01-630.19	clips/pa-046__diguem__626.01.wav	4.180	16000	1	133838	ok	
+clip	pa-049::diguem::213.13-220.43	clips/pa-049__diguem__213.13.wav	7.300	16000	1	233678	ok	
+clip	pa-057::diguem::929.81-935.31	clips/pa-057__diguem__929.81.wav	5.500	16000	1	176078	ok	
+clip	pa-058::diguem::715.21-718.91	clips/pa-058__diguem__715.21.wav	3.700	16000	1	118478	ok	
+clip	pa-060::diguem::55.05-60.91	clips/pa-060__diguem__55.05.wav	5.860	16000	1	187598	ok	
+clip	pa-062::diguem::191.37-197.03	clips/pa-062__diguem__191.37.wav	5.660	16000	1	181198	ok	
+clip	pa-001::crec::97.33-100.95	clips/pa-001__crec__97.33.wav	3.620	16000	1	115918	ok	
+clip	pa-002::crec::248.25-254.75	clips/pa-002__crec__248.25.wav	6.500	16000	1	208078	ok	
+clip	pa-003::crec::0.00-7.19	clips/pa-003__crec__0.00.wav	7.190	16000	1	230158	ok	
+clip	pa-010::crec::1033.25-1036.75	clips/pa-010__crec__1033.25.wav	3.500	16000	1	112078	ok	
+clip	pa-014::crec::153.25-160.55	clips/pa-014__crec__153.25.wav	7.300	16000	1	233678	ok	
+clip	pa-016::crec::93.17-100.83	clips/pa-016__crec__93.17.wav	7.660	16000	1	245198	ok	
+clip	pa-018::crec::7.49-12.83	clips/pa-018__crec__7.49.wav	5.340	16000	1	170958	ok	
+clip	pa-019::crec::27.25-31.75	clips/pa-019__crec__27.25.wav	4.500	16000	1	144078	ok	
+clip	pa-021::crec::115.53-120.03	clips/pa-021__crec__115.53.wav	4.500	16000	1	144078	ok	
+clip	pa-022::crec::243.73-249.43	clips/pa-022__crec__243.73.wav	5.700	16000	1	182478	ok	
+clip	pa-023::crec::42.93-50.23	clips/pa-023__crec__42.93.wav	7.300	16000	1	233678	ok	
+clip	pa-024::crec::368.01-372.63	clips/pa-024__crec__368.01.wav	4.620	16000	1	147918	ok	
+clip	pa-025::crec::4.25-9.11	clips/pa-025__crec__4.25.wav	4.860	16000	1	155598	ok	
+clip	pa-027::crec::8.81-14.39	clips/pa-027__crec__8.81.wav	5.580	16000	1	178638	ok	
+clip	pa-030::crec::346.45-352.99	clips/pa-030__crec__346.45.wav	6.540	16000	1	209358	ok	
+clip	pa-031::crec::87.01-92.63	clips/pa-031__crec__87.01.wav	5.620	16000	1	179918	ok	
+clip	pa-034::crec::651.65-657.27	clips/pa-034__crec__651.65.wav	5.620	16000	1	179918	ok	
+clip	pa-035::crec::872.77-879.91	clips/pa-035__crec__872.77.wav	7.140	16000	1	228558	ok	
+clip	pa-037::crec::424.61-437.99	clips/pa-037__crec__424.61.wav	13.380	16000	1	428238	ok	
+clip	pa-038::crec::220.69-226.79	clips/pa-038__crec__220.69.wav	6.100	16000	1	195278	ok	
+clip	pa-039::crec::90.85-95.95	clips/pa-039__crec__90.85.wav	5.100	16000	1	163278	ok	
+clip	pa-040::crec::4.37-7.79	clips/pa-040__crec__4.37.wav	3.420	16000	1	109518	ok	
+clip	pa-041::crec::56.25-62.75	clips/pa-041__crec__56.25.wav	6.500	16000	1	208078	ok	
+clip	pa-042::crec::32.01-37.35	clips/pa-042__crec__32.01.wav	5.340	16000	1	170958	ok	
+clip	pa-043::crec::102.25-108.75	clips/pa-043__crec__102.25.wav	6.500	16000	1	208078	ok	
+clip	pa-045::crec::240.61-245.63	clips/pa-045__crec__240.61.wav	5.020	16000	1	160718	ok	
+clip	pa-046::crec::208.41-212.47	clips/pa-046__crec__208.41.wav	4.060	16000	1	129998	ok	
+clip	pa-048::crec::110.97-117.27	clips/pa-048__crec__110.97.wav	6.300	16000	1	201678	ok	
+clip	pa-049::crec::371.85-383.51	clips/pa-049__crec__371.85.wav	11.660	16000	1	373198	ok	
+clip	pa-051::crec::208.57-213.39	clips/pa-051__crec__208.57.wav	4.820	16000	1	154318	ok	
+clip	pa-056::crec::347.05-353.03	clips/pa-056__crec__347.05.wav	5.980	16000	1	191438	ok	
+clip	pa-058::crec::6.69-12.71	clips/pa-058__crec__6.69.wav	6.020	16000	1	192718	ok	
+clip	pa-060::crec::42.05-50.19	clips/pa-060__crec__42.05.wav	8.140	16000	1	260558	ok	
+clip	pa-061::crec::428.85-435.63	clips/pa-061__crec__428.85.wav	6.780	16000	1	217038	ok	
+clip	pa-062::crec::1037.89-1041.47	clips/pa-062__crec__1037.89.wav	3.580	16000	1	114638	ok	
+clip	pa-063::crec::758.81-763.23	clips/pa-063__crec__758.81.wav	4.420	16000	1	141518	ok	
+clip	pa-064::crec::1335.77-1345.39	clips/pa-064__crec__1335.77.wav	9.620	16000	1	307918	ok	
+clip	pa-065::crec::1276.85-1281.67	clips/pa-065__crec__1276.85.wav	4.820	16000	1	154318	ok	
+clip	pa-066::crec::219.63-227.13	clips/pa-066__crec__219.63.wav	7.500	16000	1	240078	ok	
+clip	pa-001::bueno::207.01-212.99	clips/pa-001__bueno__207.01.wav	5.980	16000	1	191438	ok	
+clip	pa-002::bueno::433.25-440.75	clips/pa-002__bueno__433.25.wav	7.500	16000	1	240078	ok	
+clip	pa-003::bueno::227.05-235.71	clips/pa-003__bueno__227.05.wav	8.660	16000	1	277198	ok	
+clip	pa-007::bueno::475.25-480.75	clips/pa-007__bueno__475.25.wav	5.500	16000	1	176078	ok	
+clip	pa-008::bueno::969.25-973.75	clips/pa-008__bueno__969.25.wav	4.500	16000	1	144078	ok	
+clip	pa-016::bueno::93.17-100.83	clips/pa-016__bueno__93.17.wav	7.660	16000	1	245198	ok	
+clip	pa-017::bueno::823.25-829.75	clips/pa-017__bueno__823.25.wav	6.500	16000	1	208078	ok	
+clip	pa-018::bueno::23.21-28.91	clips/pa-018__bueno__23.21.wav	5.700	16000	1	182478	ok	
+clip	pa-019::bueno::328.25-333.75	clips/pa-019__bueno__328.25.wav	5.500	16000	1	176078	ok	
+clip	pa-020::bueno::13.57-19.47	clips/pa-020__bueno__13.57.wav	5.900	16000	1	188878	ok	
+clip	pa-021::bueno::12.25-16.87	clips/pa-021__bueno__12.25.wav	4.620	16000	1	147918	ok	
+clip	pa-022::bueno::122.85-126.95	clips/pa-022__bueno__122.85.wav	4.100	16000	1	131278	ok	
+clip	pa-023::bueno::96.81-100.35	clips/pa-023__bueno__96.81.wav	3.540	16000	1	113358	ok	
+clip	pa-024::bueno::147.29-152.07	clips/pa-024__bueno__147.29.wav	4.780	16000	1	153038	ok	
+clip	pa-025::bueno::909.25-914.07	clips/pa-025__bueno__909.25.wav	4.820	16000	1	154318	ok	
+clip	pa-026::bueno::194.89-200.75	clips/pa-026__bueno__194.89.wav	5.860	16000	1	187598	ok	
+clip	pa-027::bueno::35.13-40.47	clips/pa-027__bueno__35.13.wav	5.340	16000	1	170958	ok	
+clip	pa-028::bueno::28.37-32.59	clips/pa-028__bueno__28.37.wav	4.220	16000	1	135118	ok	
+clip	pa-029::bueno::720.69-724.19	clips/pa-029__bueno__720.69.wav	3.500	16000	1	112078	ok	
+clip	pa-030::bueno::459.05-463.07	clips/pa-030__bueno__459.05.wav	4.020	16000	1	128718	ok	
+clip	pa-031::bueno::111.73-115.67	clips/pa-031__bueno__111.73.wav	3.940	16000	1	126158	ok	
+clip	pa-032::bueno::44.73-50.63	clips/pa-032__bueno__44.73.wav	5.900	16000	1	188878	ok	
+clip	pa-034::bueno::33.81-39.07	clips/pa-034__bueno__33.81.wav	5.260	16000	1	168398	ok	
+clip	pa-035::bueno::195.49-202.11	clips/pa-035__bueno__195.49.wav	6.620	16000	1	211918	ok	
+clip	pa-036::bueno::76.25-84.15	clips/pa-036__bueno__76.25.wav	7.900	16000	1	252878	ok	
+clip	pa-037::bueno::105.29-124.79	clips/pa-037__bueno__105.29.wav	19.500	16000	1	624078	ok	
+clip	pa-038::bueno::874.61-878.11	clips/pa-038__bueno__874.61.wav	3.500	16000	1	112078	ok	
+clip	pa-039::bueno::530.89-537.23	clips/pa-039__bueno__530.89.wav	6.340	16000	1	202958	ok	
+clip	pa-041::bueno::165.25-173.75	clips/pa-041__bueno__165.25.wav	8.500	16000	1	272078	ok	
+clip	pa-043::bueno::0.00-3.75	clips/pa-043__bueno__0.00.wav	3.750	16000	1	120078	ok	
+clip	pa-045::bueno::261.05-270.91	clips/pa-045__bueno__261.05.wav	9.860	16000	1	315598	ok	
+clip	pa-046::bueno::128.01-131.51	clips/pa-046__bueno__128.01.wav	3.500	16000	1	112078	ok	
+clip	pa-048::bueno::227.17-233.03	clips/pa-048__bueno__227.17.wav	5.860	16000	1	187598	ok	
+clip	pa-049::bueno::269.05-275.83	clips/pa-049__bueno__269.05.wav	6.780	16000	1	217038	ok	
+clip	pa-051::bueno::41.97-47.43	clips/pa-051__bueno__41.97.wav	5.460	16000	1	174798	ok	
+clip	pa-052::bueno::41.97-47.23	clips/pa-052__bueno__41.97.wav	5.260	16000	1	168398	ok	
+clip	pa-054::bueno::51.69-55.75	clips/pa-054__bueno__51.69.wav	4.060	16000	1	129998	ok	
+clip	pa-055::bueno::194.93-200.67	clips/pa-055__bueno__194.93.wav	5.740	16000	1	183758	ok	
+clip	pa-056::bueno::458.97-462.83	clips/pa-056__bueno__458.97.wav	3.860	16000	1	123598	ok	
+clip	pa-057::bueno::1128.89-1136.35	clips/pa-057__bueno__1128.89.wav	7.460	16000	1	238798	ok	
+clip	pa-058::bueno::23.17-28.91	clips/pa-058__bueno__23.17.wav	5.740	16000	1	183758	ok	
+clip	pa-059::bueno::166.17-173.63	clips/pa-059__bueno__166.17.wav	7.460	16000	1	238798	ok	
+clip	pa-060::bueno::150.05-157.07	clips/pa-060__bueno__150.05.wav	7.020	16000	1	224718	ok	
+clip	pa-061::bueno::171.05-174.55	clips/pa-061__bueno__171.05.wav	3.500	16000	1	112078	ok	
+clip	pa-062::bueno::297.17-302.03	clips/pa-062__bueno__297.17.wav	4.860	16000	1	155598	ok	
+clip	pa-063::bueno::801.17-804.67	clips/pa-063__bueno__801.17.wav	3.500	16000	1	112078	ok	
+clip	pa-065::bueno::1389.05-1393.75	clips/pa-065__bueno__1389.05.wav	4.700	16000	1	150478	ok	
+clip	pa-066::bueno::357.23-362.57	clips/pa-066__bueno__357.23.wav	5.340	16000	1	170958	ok	
+clip	pa-001::clar::129.77-134.51	clips/pa-001__clar__129.77.wav	4.740	16000	1	151758	ok	
+clip	pa-002::clar::186.25-190.75	clips/pa-002__clar__186.25.wav	4.500	16000	1	144078	ok	
+clip	pa-003::clar::451.89-459.15	clips/pa-003__clar__451.89.wav	7.260	16000	1	232398	ok	
+clip	pa-005::clar::155.93-159.99	clips/pa-005__clar__155.93.wav	4.060	16000	1	129998	ok	
+clip	pa-006::clar::379.25-383.75	clips/pa-006__clar__379.25.wav	4.500	16000	1	144078	ok	
+clip	pa-007::clar::344.25-349.75	clips/pa-007__clar__344.25.wav	5.500	16000	1	176078	ok	
+clip	pa-008::clar::841.25-846.75	clips/pa-008__clar__841.25.wav	5.500	16000	1	176078	ok	
+clip	pa-009::clar::99.25-105.75	clips/pa-009__clar__99.25.wav	6.500	16000	1	208078	ok	
+clip	pa-010::clar::334.85-339.35	clips/pa-010__clar__334.85.wav	4.500	16000	1	144078	ok	
+clip	pa-014::clar::978.45-982.95	clips/pa-014__clar__978.45.wav	4.500	16000	1	144078	ok	
+clip	pa-016::clar::175.69-180.35	clips/pa-016__clar__175.69.wav	4.660	16000	1	149198	ok	
+clip	pa-017::clar::34.45-42.35	clips/pa-017__clar__34.45.wav	7.900	16000	1	252878	ok	
+clip	pa-018::clar::112.73-117.35	clips/pa-018__clar__112.73.wav	4.620	16000	1	147918	ok	
+clip	pa-019::clar::415.25-419.75	clips/pa-019__clar__415.25.wav	4.500	16000	1	144078	ok	
+clip	pa-020::clar::89.81-94.31	clips/pa-020__clar__89.81.wav	4.500	16000	1	144078	ok	
+clip	pa-021::clar::125.89-131.23	clips/pa-021__clar__125.89.wav	5.340	16000	1	170958	ok	
+clip	pa-022::clar::107.73-113.11	clips/pa-022__clar__107.73.wav	5.380	16000	1	172238	ok	
+clip	pa-024::clar::648.09-656.83	clips/pa-024__clar__648.09.wav	8.740	16000	1	279758	ok	
+clip	pa-025::clar::116.09-119.95	clips/pa-025__clar__116.09.wav	3.860	16000	1	123598	ok	
+clip	pa-026::clar::6.33-9.67	clips/pa-026__clar__6.33.wav	3.340	16000	1	106958	ok	
+clip	pa-027::clar::35.13-40.47	clips/pa-027__clar__35.13.wav	5.340	16000	1	170958	ok	
+clip	pa-028::clar::290.33-295.15	clips/pa-028__clar__290.33.wav	4.820	16000	1	154318	ok	
+clip	pa-029::clar::358.61-362.11	clips/pa-029__clar__358.61.wav	3.500	16000	1	112078	ok	
+clip	pa-030::clar::61.89-66.83	clips/pa-030__clar__61.89.wav	4.940	16000	1	158158	ok	
+clip	pa-031::clar::154.57-158.95	clips/pa-031__clar__154.57.wav	4.380	16000	1	140238	ok	
+clip	pa-032::clar::155.33-162.15	clips/pa-032__clar__155.33.wav	6.820	16000	1	218318	ok	
+clip	pa-033::clar::54.49-57.67	clips/pa-033__clar__54.49.wav	3.180	16000	1	101838	ok	
+clip	pa-034::clar::55.05-59.71	clips/pa-034__clar__55.05.wav	4.660	16000	1	149198	ok	
+clip	pa-035::clar::223.61-233.59	clips/pa-035__clar__223.61.wav	9.980	16000	1	319438	ok	
+clip	pa-036::clar::136.45-147.15	clips/pa-036__clar__136.45.wav	10.700	16000	1	342478	ok	
+clip	pa-037::clar::186.29-198.91	clips/pa-037__clar__186.29.wav	12.620	16000	1	403918	ok	
+clip	pa-038::clar::96.41-101.31	clips/pa-038__clar__96.41.wav	4.900	16000	1	156878	ok	
+clip	pa-039::clar::45.29-49.71	clips/pa-039__clar__45.29.wav	4.420	16000	1	141518	ok	
+clip	pa-041::clar::0.00-10.75	clips/pa-041__clar__0.00.wav	10.750	16000	1	344078	ok	
+clip	pa-042::clar::101.97-106.63	clips/pa-042__clar__101.97.wav	4.660	16000	1	149198	ok	
+clip	pa-045::clar::399.85-405.95	clips/pa-045__clar__399.85.wav	6.100	16000	1	195278	ok	
+clip	pa-046::clar::172.53-177.71	clips/pa-046__clar__172.53.wav	5.180	16000	1	165838	ok	
+clip	pa-048::clar::389.65-392.15	clips/pa-048__clar__389.65.wav	2.500	16000	1	80078	ok	
+clip	pa-049::clar::382.01-390.11	clips/pa-049__clar__382.01.wav	8.100	16000	1	259278	ok	
+clip	pa-051::clar::161.85-167.07	clips/pa-051__clar__161.85.wav	5.220	16000	1	167118	ok	
+clip	pa-052::clar::59.97-64.67	clips/pa-052__clar__59.97.wav	4.700	16000	1	150478	ok	
+clip	pa-055::clar::6.29-9.67	clips/pa-055__clar__6.29.wav	3.380	16000	1	108238	ok	
+clip	pa-056::clar::62.45-66.87	clips/pa-056__clar__62.45.wav	4.420	16000	1	141518	ok	
+clip	pa-057::clar::357.57-364.07	clips/pa-057__clar__357.57.wav	6.500	16000	1	208078	ok	
+clip	pa-058::clar::112.81-117.27	clips/pa-058__clar__112.81.wav	4.460	16000	1	142798	ok	
+clip	pa-059::clar::36.61-42.23	clips/pa-059__clar__36.61.wav	5.620	16000	1	179918	ok	
+clip	pa-061::clar::376.69-382.19	clips/pa-061__clar__376.69.wav	5.500	16000	1	176078	ok	
+clip	pa-062::clar::202.37-208.31	clips/pa-062__clar__202.37.wav	5.940	16000	1	190158	ok	
+clip	pa-063::clar::392.49-397.11	clips/pa-063__clar__392.49.wav	4.620	16000	1	147918	ok	
+clip	pa-064::clar::109.97-115.87	clips/pa-064__clar__109.97.wav	5.900	16000	1	188878	ok	
+clip	pa-065::clar::221.29-226.15	clips/pa-065__clar__221.29.wav	4.860	16000	1	155598	ok	
+clip	pa-001::vull dir::621.37-625.39	clips/pa-001__vull-dir__621.37.wav	4.020	16000	1	128718	ok	
+clip	pa-002::vull dir::172.25-176.75	clips/pa-002__vull-dir__172.25.wav	4.500	16000	1	144078	ok	
+clip	pa-004::vull dir::143.45-150.59	clips/pa-004__vull-dir__143.45.wav	7.140	16000	1	228558	ok	
+clip	pa-014::vull dir::19.65-30.15	clips/pa-014__vull-dir__19.65.wav	10.500	16000	1	336078	ok	
+clip	pa-016::vull dir::322.53-327.83	clips/pa-016__vull-dir__322.53.wav	5.300	16000	1	169678	ok	
+clip	pa-017::vull dir::272.25-279.75	clips/pa-017__vull-dir__272.25.wav	7.500	16000	1	240078	ok	
+clip	pa-020::vull dir::165.45-170.99	clips/pa-020__vull-dir__165.45.wav	5.540	16000	1	177358	ok	
+clip	pa-021::vull dir::314.29-323.11	clips/pa-021__vull-dir__314.29.wav	8.820	16000	1	282318	ok	
+clip	pa-022::vull dir::308.17-312.27	clips/pa-022__vull-dir__308.17.wav	4.100	16000	1	131278	ok	
+clip	pa-023::vull dir::22.05-26.43	clips/pa-023__vull-dir__22.05.wav	4.380	16000	1	140238	ok	
+clip	pa-025::vull dir::643.73-649.59	clips/pa-025__vull-dir__643.73.wav	5.860	16000	1	187598	ok	
+clip	pa-026::vull dir::311.77-316.07	clips/pa-026__vull-dir__311.77.wav	4.300	16000	1	137678	ok	
+clip	pa-027::vull dir::254.25-260.87	clips/pa-027__vull-dir__254.25.wav	6.620	16000	1	211918	ok	
+clip	pa-030::vull dir::842.69-848.23	clips/pa-030__vull-dir__842.69.wav	5.540	16000	1	177358	ok	
+clip	pa-031::vull dir::207.77-212.75	clips/pa-031__vull-dir__207.77.wav	4.980	16000	1	159438	ok	
+clip	pa-032::vull dir::389.29-393.79	clips/pa-032__vull-dir__389.29.wav	4.500	16000	1	144078	ok	
+clip	pa-033::vull dir::56.25-62.63	clips/pa-033__vull-dir__56.25.wav	6.380	16000	1	204238	ok	
+clip	pa-034::vull dir::58.29-61.51	clips/pa-034__vull-dir__58.29.wav	3.220	16000	1	103118	ok	
+clip	pa-036::vull dir::632.25-637.75	clips/pa-036__vull-dir__632.25.wav	5.500	16000	1	176078	ok	
+clip	pa-037::vull dir::414.01-426.11	clips/pa-037__vull-dir__414.01.wav	12.100	16000	1	387278	ok	
+clip	pa-038::vull dir::1576.57-1582.39	clips/pa-038__vull-dir__1576.57.wav	5.820	16000	1	186318	ok	
+clip	pa-041::vull dir::264.25-271.75	clips/pa-041__vull-dir__264.25.wav	7.500	16000	1	240078	ok	
+clip	pa-045::vull dir::779.57-785.23	clips/pa-045__vull-dir__779.57.wav	5.660	16000	1	181198	ok	
+clip	pa-048::vull dir::993.69-999.19	clips/pa-048__vull-dir__993.69.wav	5.500	16000	1	176078	ok	
+clip	pa-049::vull dir::208.09-214.63	clips/pa-049__vull-dir__208.09.wav	6.540	16000	1	209358	ok	
+clip	pa-055::vull dir::311.73-315.91	clips/pa-055__vull-dir__311.73.wav	4.180	16000	1	133838	ok	
+clip	pa-056::vull dir::842.65-848.07	clips/pa-056__vull-dir__842.65.wav	5.420	16000	1	173518	ok	
+clip	pa-058::vull dir::975.13-979.55	clips/pa-058__vull-dir__975.13.wav	4.420	16000	1	141518	ok	
+clip	pa-059::vull dir::271.81-279.35	clips/pa-059__vull-dir__271.81.wav	7.540	16000	1	241358	ok	
+clip	pa-060::vull dir::20.65-26.35	clips/pa-060__vull-dir__20.65.wav	5.700	16000	1	182478	ok	
+clip	pa-061::vull dir::193.57-200.03	clips/pa-061__vull-dir__193.57.wav	6.460	16000	1	206798	ok	
+clip	pa-062::vull dir::316.81-326.39	clips/pa-062__vull-dir__316.81.wav	9.580	16000	1	306638	ok	
+clip	pa-063::vull dir::822.45-827.51	clips/pa-063__vull-dir__822.45.wav	5.060	16000	1	161998	ok	
+clip	pa-065::vull dir::1401.05-1404.55	clips/pa-065__vull-dir__1401.05.wav	3.500	16000	1	112078	ok	
+clip	pa-001::o sigui::49.17-54.35	clips/pa-001__o-sigui__49.17.wav	5.180	16000	1	165838	ok	
+clip	pa-005::o sigui::373.33-379.95	clips/pa-005__o-sigui__373.33.wav	6.620	16000	1	211918	ok	
+clip	pa-006::o sigui::136.25-143.75	clips/pa-006__o-sigui__136.25.wav	7.500	16000	1	240078	ok	
+clip	pa-009::o sigui::234.25-238.75	clips/pa-009__o-sigui__234.25.wav	4.500	16000	1	144078	ok	
+clip	pa-014::o sigui::658.45-674.95	clips/pa-014__o-sigui__658.45.wav	16.500	16000	1	528078	ok	
+clip	pa-015::o sigui::104.25-109.75	clips/pa-015__o-sigui__104.25.wav	5.500	16000	1	176078	ok	
+clip	pa-016::o sigui::311.25-316.15	clips/pa-016__o-sigui__311.25.wav	4.900	16000	1	156878	ok	
+clip	pa-022::o sigui::42.93-48.95	clips/pa-022__o-sigui__42.93.wav	6.020	16000	1	192718	ok	
+clip	pa-024::o sigui::554.49-565.07	clips/pa-024__o-sigui__554.49.wav	10.580	16000	1	338638	ok	
+clip	pa-025::o sigui::1462.85-1472.59	clips/pa-025__o-sigui__1462.85.wav	9.740	16000	1	311758	ok	
+clip	pa-026::o sigui::434.17-437.67	clips/pa-026__o-sigui__434.17.wav	3.500	16000	1	112078	ok	
+clip	pa-027::o sigui::361.61-366.71	clips/pa-027__o-sigui__361.61.wav	5.100	16000	1	163278	ok	
+clip	pa-029::o sigui::243.13-248.63	clips/pa-029__o-sigui__243.13.wav	5.500	16000	1	176078	ok	
+clip	pa-030::o sigui::1016.41-1021.47	clips/pa-030__o-sigui__1016.41.wav	5.060	16000	1	161998	ok	
+clip	pa-034::o sigui::1106.09-1110.75	clips/pa-034__o-sigui__1106.09.wav	4.660	16000	1	149198	ok	
+clip	pa-038::o sigui::16.65-22.87	clips/pa-038__o-sigui__16.65.wav	6.220	16000	1	199118	ok	
+clip	pa-040::o sigui::115.73-119.91	clips/pa-040__o-sigui__115.73.wav	4.180	16000	1	133838	ok	
+clip	pa-045::o sigui::226.17-233.31	clips/pa-045__o-sigui__226.17.wav	7.140	16000	1	228558	ok	
+clip	pa-046::o sigui::230.61-235.23	clips/pa-046__o-sigui__230.61.wav	4.620	16000	1	147918	ok	
+clip	pa-048::o sigui::581.65-585.99	clips/pa-048__o-sigui__581.65.wav	4.340	16000	1	138958	ok	
+clip	pa-049::o sigui::365.21-373.35	clips/pa-049__o-sigui__365.21.wav	8.140	16000	1	260558	ok	
+clip	pa-055::o sigui::434.17-437.67	clips/pa-055__o-sigui__434.17.wav	3.500	16000	1	112078	ok	
+clip	pa-056::o sigui::1016.49-1021.67	clips/pa-056__o-sigui__1016.49.wav	5.180	16000	1	165838	ok	
+clip	pa-057::o sigui::249.45-254.11	clips/pa-057__o-sigui__249.45.wav	4.660	16000	1	149198	ok	
+clip	pa-059::o sigui::266.13-271.15	clips/pa-059__o-sigui__266.13.wav	5.020	16000	1	160718	ok	
+clip	pa-061::o sigui::161.05-167.39	clips/pa-061__o-sigui__161.05.wav	6.340	16000	1	202958	ok	
+clip	pa-062::o sigui::236.01-241.71	clips/pa-062__o-sigui__236.01.wav	5.700	16000	1	182478	ok	
+clip	pa-063::o sigui::826.09-830.95	clips/pa-063__o-sigui__826.09.wav	4.860	16000	1	155598	ok	
+clip	pa-064::o sigui::36.73-40.23	clips/pa-064__o-sigui__36.73.wav	3.500	16000	1	112078	ok	
+clip	pa-065::o sigui::191.65-195.15	clips/pa-065__o-sigui__191.65.wav	3.500	16000	1	112078	ok	
+clip	pa-001::llavors::837.17-841.11	clips/pa-001__llavors__837.17.wav	3.940	16000	1	126158	ok	
+clip	pa-002::llavors::550.25-556.75	clips/pa-002__llavors__550.25.wav	6.500	16000	1	208078	ok	
+clip	pa-005::llavors::433.29-439.27	clips/pa-005__llavors__433.29.wav	5.980	16000	1	191438	ok	
+clip	pa-006::llavors::214.25-220.75	clips/pa-006__llavors__214.25.wav	6.500	16000	1	208078	ok	
+clip	pa-007::llavors::657.25-663.75	clips/pa-007__llavors__657.25.wav	6.500	16000	1	208078	ok	
+clip	pa-009::llavors::201.25-207.75	clips/pa-009__llavors__201.25.wav	6.500	16000	1	208078	ok	
+clip	pa-010::llavors::386.25-391.75	clips/pa-010__llavors__386.25.wav	5.500	16000	1	176078	ok	
+clip	pa-014::llavors::228.25-237.35	clips/pa-014__llavors__228.25.wav	9.100	16000	1	291278	ok	
+clip	pa-015::llavors::197.25-204.75	clips/pa-015__llavors__197.25.wav	7.500	16000	1	240078	ok	
+clip	pa-016::llavors::15.05-20.91	clips/pa-016__llavors__15.05.wav	5.860	16000	1	187598	ok	
+clip	pa-017::llavors::361.25-368.75	clips/pa-017__llavors__361.25.wav	7.500	16000	1	240078	ok	
+clip	pa-018::llavors::1055.09-1058.87	clips/pa-018__llavors__1055.09.wav	3.780	16000	1	121038	ok	
+clip	pa-019::llavors::422.25-427.75	clips/pa-019__llavors__422.25.wav	5.500	16000	1	176078	ok	
+clip	pa-022::llavors::57.37-61.35	clips/pa-022__llavors__57.37.wav	3.980	16000	1	127438	ok	
+clip	pa-023::llavors::48.81-56.07	clips/pa-023__llavors__48.81.wav	7.260	16000	1	232398	ok	
+clip	pa-024::llavors::336.85-341.27	clips/pa-024__llavors__336.85.wav	4.420	16000	1	141518	ok	
+clip	pa-026::llavors::81.13-84.63	clips/pa-026__llavors__81.13.wav	3.500	16000	1	112078	ok	
+clip	pa-027::llavors::137.93-143.43	clips/pa-027__llavors__137.93.wav	5.500	16000	1	176078	ok	
+clip	pa-028::llavors::151.01-155.91	clips/pa-028__llavors__151.01.wav	4.900	16000	1	156878	ok	
+clip	pa-029::llavors::42.97-46.79	clips/pa-029__llavors__42.97.wav	3.820	16000	1	122318	ok	
+clip	pa-030::llavors::157.61-163.15	clips/pa-030__llavors__157.61.wav	5.540	16000	1	177358	ok	
+clip	pa-032::llavors::174.13-178.67	clips/pa-032__llavors__174.13.wav	4.540	16000	1	145358	ok	
+clip	pa-033::llavors::71.53-76.35	clips/pa-033__llavors__71.53.wav	4.820	16000	1	154318	ok	
+clip	pa-034::llavors::29.17-32.67	clips/pa-034__llavors__29.17.wav	3.500	16000	1	112078	ok	
+clip	pa-036::llavors::535.25-538.75	clips/pa-036__llavors__535.25.wav	3.500	16000	1	112078	ok	
+clip	pa-037::llavors::92.53-106.79	clips/pa-037__llavors__92.53.wav	14.260	16000	1	456398	ok	
+clip	pa-038::llavors::264.13-269.83	clips/pa-038__llavors__264.13.wav	5.700	16000	1	182478	ok	
+clip	pa-041::llavors::108.25-115.75	clips/pa-041__llavors__108.25.wav	7.500	16000	1	240078	ok	
+clip	pa-045::llavors::194.93-200.31	clips/pa-045__llavors__194.93.wav	5.380	16000	1	172238	ok	
+clip	pa-046::llavors::381.13-388.19	clips/pa-046__llavors__381.13.wav	7.060	16000	1	225998	ok	
+clip	pa-048::llavors::1244.97-1248.95	clips/pa-048__llavors__1244.97.wav	3.980	16000	1	127438	ok	
+clip	pa-049::llavors::230.45-239.67	clips/pa-049__llavors__230.45.wav	9.220	16000	1	295118	ok	
+clip	pa-051::llavors::47.61-51.11	clips/pa-051__llavors__47.61.wav	3.500	16000	1	112078	ok	
+clip	pa-052::llavors::68.73-73.23	clips/pa-052__llavors__68.73.wav	4.500	16000	1	144078	ok	
+clip	pa-053::llavors::40.73-47.71	clips/pa-053__llavors__40.73.wav	6.980	16000	1	223438	ok	
+clip	pa-054::llavors::156.57-161.51	clips/pa-054__llavors__156.57.wav	4.940	16000	1	158158	ok	
+clip	pa-055::llavors::105.37-110.27	clips/pa-055__llavors__105.37.wav	4.900	16000	1	156878	ok	
+clip	pa-056::llavors::157.77-163.11	clips/pa-056__llavors__157.77.wav	5.340	16000	1	170958	ok	
+clip	pa-057::llavors::42.85-47.99	clips/pa-057__llavors__42.85.wav	5.140	16000	1	164558	ok	
+clip	pa-058::llavors::1054.41-1059.35	clips/pa-058__llavors__1054.41.wav	4.940	16000	1	158158	ok	
+clip	pa-059::llavors::361.49-368.39	clips/pa-059__llavors__361.49.wav	6.900	16000	1	220878	ok	
+clip	pa-060::llavors::48.77-56.07	clips/pa-060__llavors__48.77.wav	7.300	16000	1	233678	ok	
+clip	pa-061::llavors::380.77-385.15	clips/pa-061__llavors__380.77.wav	4.380	16000	1	140238	ok	
+clip	pa-063::llavors::39.49-44.79	clips/pa-063__llavors__39.49.wav	5.300	16000	1	169678	ok	
+clip	pa-064::llavors::713.33-717.15	clips/pa-064__llavors__713.33.wav	3.820	16000	1	122318	ok	
+clip	pa-065::llavors::612.13-617.87	clips/pa-065__llavors__612.13.wav	5.740	16000	1	183758	ok	
+clip	pa-066::llavors::16.21-20.35	clips/pa-066__llavors__16.21.wav	4.140	16000	1	132558	ok	
+clip	pa-001::a veure::341.57-345.59	clips/pa-001__a-veure__341.57.wav	4.020	16000	1	128718	ok	
+clip	pa-002::a veure::126.25-132.75	clips/pa-002__a-veure__126.25.wav	6.500	16000	1	208078	ok	
+clip	pa-007::a veure::89.25-96.75	clips/pa-007__a-veure__89.25.wav	7.500	16000	1	240078	ok	
+clip	pa-008::a veure::668.25-673.75	clips/pa-008__a-veure__668.25.wav	5.500	16000	1	176078	ok	
+clip	pa-011::a veure::551.81-556.27	clips/pa-011__a-veure__551.81.wav	4.460	16000	1	142798	ok	
+clip	pa-014::a veure::617.45-637.95	clips/pa-014__a-veure__617.45.wav	20.500	16000	1	656078	ok	
+clip	pa-016::a veure::369.73-375.91	clips/pa-016__a-veure__369.73.wav	6.180	16000	1	197838	ok	
+clip	pa-018::a veure::825.61-833.55	clips/pa-018__a-veure__825.61.wav	7.940	16000	1	254158	ok	
+clip	pa-021::a veure::108.77-116.95	clips/pa-021__a-veure__108.77.wav	8.180	16000	1	261838	ok	
+clip	pa-022::a veure::238.61-245.15	clips/pa-022__a-veure__238.61.wav	6.540	16000	1	209358	ok	
+clip	pa-023::a veure::268.81-272.59	clips/pa-023__a-veure__268.81.wav	3.780	16000	1	121038	ok	
+clip	pa-024::a veure::590.77-595.39	clips/pa-024__a-veure__590.77.wav	4.620	16000	1	147918	ok	
+clip	pa-025::a veure::388.01-395.23	clips/pa-025__a-veure__388.01.wav	7.220	16000	1	231118	ok	
+clip	pa-026::a veure::64.09-68.39	clips/pa-026__a-veure__64.09.wav	4.300	16000	1	137678	ok	
+clip	pa-029::a veure::17.49-21.59	clips/pa-029__a-veure__17.49.wav	4.100	16000	1	131278	ok	
+clip	pa-030::a veure::673.41-676.91	clips/pa-030__a-veure__673.41.wav	3.500	16000	1	112078	ok	
+clip	pa-031::a veure::4.25-9.07	clips/pa-031__a-veure__4.25.wav	4.820	16000	1	154318	ok	
+clip	pa-032::a veure::212.45-218.19	clips/pa-032__a-veure__212.45.wav	5.740	16000	1	183758	ok	
+clip	pa-034::a veure::94.05-100.39	clips/pa-034__a-veure__94.05.wav	6.340	16000	1	202958	ok	
+clip	pa-035::a veure::211.09-218.51	clips/pa-035__a-veure__211.09.wav	7.420	16000	1	237518	ok	
+clip	pa-036::a veure::153.05-160.15	clips/pa-036__a-veure__153.05.wav	7.100	16000	1	227278	ok	
+clip	pa-038::a veure::1070.33-1076.43	clips/pa-038__a-veure__1070.33.wav	6.100	16000	1	195278	ok	
+clip	pa-041::a veure::200.25-205.75	clips/pa-041__a-veure__200.25.wav	5.500	16000	1	176078	ok	
+clip	pa-045::a veure::340.93-345.91	clips/pa-045__a-veure__340.93.wav	4.980	16000	1	159438	ok	
+clip	pa-048::a veure::393.93-397.03	clips/pa-048__a-veure__393.93.wav	3.100	16000	1	99278	ok	
+clip	pa-049::a veure::244.85-252.03	clips/pa-049__a-veure__244.85.wav	7.180	16000	1	229838	ok	
+clip	pa-054::a veure::77.97-81.87	clips/pa-054__a-veure__77.97.wav	3.900	16000	1	124878	ok	
+clip	pa-055::a veure::63.89-68.59	clips/pa-055__a-veure__63.89.wav	4.700	16000	1	150478	ok	
+clip	pa-056::a veure::673.21-676.71	clips/pa-056__a-veure__673.21.wav	3.500	16000	1	112078	ok	
+clip	pa-057::a veure::16.97-21.31	clips/pa-057__a-veure__16.97.wav	4.340	16000	1	138958	ok	
+clip	pa-058::a veure::828.61-833.55	clips/pa-058__a-veure__828.61.wav	4.940	16000	1	158158	ok	
+clip	pa-060::a veure::268.57-272.67	clips/pa-060__a-veure__268.57.wav	4.100	16000	1	131278	ok	
+clip	pa-061::a veure::579.17-583.39	clips/pa-061__a-veure__579.17.wav	4.220	16000	1	135118	ok	
+clip	pa-063::a veure::402.13-408.03	clips/pa-063__a-veure__402.13.wav	5.900	16000	1	188878	ok	
+clip	pa-064::a veure::587.61-591.67	clips/pa-064__a-veure__587.61.wav	4.060	16000	1	129998	ok	
+clip	pa-065::a veure::578.25-582.71	clips/pa-065__a-veure__578.25.wav	4.460	16000	1	142798	ok	
+clip	pa-003::aviam::180.17-188.79	clips/pa-003__aviam__180.17.wav	8.620	16000	1	275918	ok	
+clip	pa-014::aviam::875.45-883.95	clips/pa-014__aviam__875.45.wav	8.500	16000	1	272078	ok	
+clip	pa-016::aviam::729.65-741.19	clips/pa-016__aviam__729.65.wav	11.540	16000	1	369358	ok	
+clip	pa-020::aviam::252.21-256.43	clips/pa-020__aviam__252.21.wav	4.220	16000	1	135118	ok	
+clip	pa-049::aviam::897.25-901.75	clips/pa-049__aviam__897.25.wav	4.500	16000	1	144078	ok	
+clip	pa-004::doncs::416.21-423.31	clips/pa-004__doncs__416.21.wav	7.100	16000	1	227278	ok	
+clip	pa-005::doncs::71.13-77.11	clips/pa-005__doncs__71.13.wav	5.980	16000	1	191438	ok	
+clip	pa-006::doncs::180.25-187.75	clips/pa-006__doncs__180.25.wav	7.500	16000	1	240078	ok	
+clip	pa-007::doncs::59.25-66.75	clips/pa-007__doncs__59.25.wav	7.500	16000	1	240078	ok	
+clip	pa-008::doncs::55.25-59.75	clips/pa-008__doncs__55.25.wav	4.500	16000	1	144078	ok	
+clip	pa-009::doncs::139.25-145.75	clips/pa-009__doncs__139.25.wav	6.500	16000	1	208078	ok	
+clip	pa-010::doncs::24.65-31.67	clips/pa-010__doncs__24.65.wav	7.020	16000	1	224718	ok	
+clip	pa-011::doncs::61.49-69.07	clips/pa-011__doncs__61.49.wav	7.580	16000	1	242638	ok	
+clip	pa-012::doncs::411.25-416.75	clips/pa-012__doncs__411.25.wav	5.500	16000	1	176078	ok	
+clip	pa-013::doncs::56.85-61.87	clips/pa-013__doncs__56.85.wav	5.020	16000	1	160718	ok	
+clip	pa-014::doncs::180.05-188.55	clips/pa-014__doncs__180.05.wav	8.500	16000	1	272078	ok	
+clip	pa-015::doncs::83.25-87.75	clips/pa-015__doncs__83.25.wav	4.500	16000	1	144078	ok	
+clip	pa-016::doncs::62.33-69.43	clips/pa-016__doncs__62.33.wav	7.100	16000	1	227278	ok	
+clip	pa-017::doncs::459.25-464.75	clips/pa-017__doncs__459.25.wav	5.500	16000	1	176078	ok	
+clip	pa-018::doncs::33.53-39.87	clips/pa-018__doncs__33.53.wav	6.340	16000	1	202958	ok	
+clip	pa-019::doncs::46.25-49.75	clips/pa-019__doncs__46.25.wav	3.500	16000	1	112078	ok	
+clip	pa-020::doncs::247.37-252.03	clips/pa-020__doncs__247.37.wav	4.660	16000	1	149198	ok	
+clip	pa-021::doncs::12.25-16.87	clips/pa-021__doncs__12.25.wav	4.620	16000	1	147918	ok	
+clip	pa-022::doncs::122.85-126.95	clips/pa-022__doncs__122.85.wav	4.100	16000	1	131278	ok	
+clip	pa-024::doncs::83.01-114.51	clips/pa-024__doncs__83.01.wav	31.500	16000	1	1008078	ok	
+clip	pa-025::doncs::59.89-66.03	clips/pa-025__doncs__59.89.wav	6.140	16000	1	196558	ok	
+clip	pa-026::doncs::6.33-9.67	clips/pa-026__doncs__6.33.wav	3.340	16000	1	106958	ok	
+clip	pa-027::doncs::18.01-24.51	clips/pa-027__doncs__18.01.wav	6.500	16000	1	208078	ok	
+clip	pa-028::doncs::329.33-334.79	clips/pa-028__doncs__329.33.wav	5.460	16000	1	174798	ok	
+clip	pa-029::doncs::127.61-131.67	clips/pa-029__doncs__127.61.wav	4.060	16000	1	129998	ok	
+clip	pa-030::doncs::43.53-48.63	clips/pa-030__doncs__43.53.wav	5.100	16000	1	163278	ok	
+clip	pa-031::doncs::414.05-419.11	clips/pa-031__doncs__414.05.wav	5.060	16000	1	161998	ok	
+clip	pa-032::doncs::21.61-27.23	clips/pa-032__doncs__21.61.wav	5.620	16000	1	179918	ok	
+clip	pa-033::doncs::6.61-10.79	clips/pa-033__doncs__6.61.wav	4.180	16000	1	133838	ok	
+clip	pa-034::doncs::110.53-116.23	clips/pa-034__doncs__110.53.wav	5.700	16000	1	182478	ok	
+clip	pa-035::doncs::195.49-202.11	clips/pa-035__doncs__195.49.wav	6.620	16000	1	211918	ok	
+clip	pa-036::doncs::367.25-376.75	clips/pa-036__doncs__367.25.wav	9.500	16000	1	304078	ok	
+clip	pa-037::doncs::20.49-28.07	clips/pa-037__doncs__20.49.wav	7.580	16000	1	242638	ok	
+clip	pa-038::doncs::2008.17-2013.95	clips/pa-038__doncs__2008.17.wav	5.780	16000	1	185038	ok	
+clip	pa-039::doncs::12.77-19.51	clips/pa-039__doncs__12.77.wav	6.740	16000	1	215758	ok	
+clip	pa-040::doncs::210.05-214.99	clips/pa-040__doncs__210.05.wav	4.940	16000	1	158158	ok	
+clip	pa-041::doncs::209.25-217.75	clips/pa-041__doncs__209.25.wav	8.500	16000	1	272078	ok	
+clip	pa-043::doncs::15.25-19.75	clips/pa-043__doncs__15.25.wav	4.500	16000	1	144078	ok	
+clip	pa-045::doncs::283.01-287.39	clips/pa-045__doncs__283.01.wav	4.380	16000	1	140238	ok	
+clip	pa-046::doncs::135.61-140.07	clips/pa-046__doncs__135.61.wav	4.460	16000	1	142798	ok	
+clip	pa-048::doncs::302.89-306.79	clips/pa-048__doncs__302.89.wav	3.900	16000	1	124878	ok	
+clip	pa-049::doncs::1092.25-1095.75	clips/pa-049__doncs__1092.25.wav	3.500	16000	1	112078	ok	
+clip	pa-055::doncs::6.29-9.67	clips/pa-055__doncs__6.29.wav	3.380	16000	1	108238	ok	
+clip	pa-056::doncs::43.45-48.59	clips/pa-056__doncs__43.45.wav	5.140	16000	1	164558	ok	
+clip	pa-057::doncs::127.21-131.71	clips/pa-057__doncs__127.21.wav	4.500	16000	1	144078	ok	
+clip	pa-058::doncs::200.41-205.27	clips/pa-058__doncs__200.41.wav	4.860	16000	1	155598	ok	
+clip	pa-059::doncs::245.81-250.79	clips/pa-059__doncs__245.81.wav	4.980	16000	1	159438	ok	
+clip	pa-060::doncs::177.97-182.63	clips/pa-060__doncs__177.97.wav	4.660	16000	1	149198	ok	
+clip	pa-061::doncs::242.09-249.23	clips/pa-061__doncs__242.09.wav	7.140	16000	1	228558	ok	
+clip	pa-062::doncs::302.09-307.51	clips/pa-062__doncs__302.09.wav	5.420	16000	1	173518	ok	
+clip	pa-063::doncs::609.05-614.11	clips/pa-063__doncs__609.05.wav	5.060	16000	1	161998	ok	
+clip	pa-064::doncs::456.73-460.43	clips/pa-064__doncs__456.73.wav	3.700	16000	1	118478	ok	
+clip	pa-065::doncs::157.49-162.27	clips/pa-065__doncs__157.49.wav	4.780	16000	1	153038	ok	
+clip	pa-001::perquè::59.57-63.31	clips/pa-001__perqu__59.57.wav	3.740	16000	1	119758	ok	
+clip	pa-002::perquè::18.25-23.75	clips/pa-002__perqu__18.25.wav	5.500	16000	1	176078	ok	
+clip	pa-003::perquè::201.57-207.03	clips/pa-003__perqu__201.57.wav	5.460	16000	1	174798	ok	
+clip	pa-004::perquè::464.09-471.39	clips/pa-004__perqu__464.09.wav	7.300	16000	1	233678	ok	
+clip	pa-006::perquè::110.25-117.75	clips/pa-006__perqu__110.25.wav	7.500	16000	1	240078	ok	
+clip	pa-007::perquè::101.25-107.75	clips/pa-007__perqu__101.25.wav	6.500	16000	1	208078	ok	
+clip	pa-008::perquè::55.25-59.75	clips/pa-008__perqu__55.25.wav	4.500	16000	1	144078	ok	
+clip	pa-009::perquè::349.25-356.75	clips/pa-009__perqu__349.25.wav	7.500	16000	1	240078	ok	
+clip	pa-010::perquè::196.65-201.55	clips/pa-010__perqu__196.65.wav	4.900	16000	1	156878	ok	
+clip	pa-011::perquè::27.61-31.55	clips/pa-011__perqu__27.61.wav	3.940	16000	1	126158	ok	
+clip	pa-012::perquè::369.25-374.75	clips/pa-012__perqu__369.25.wav	5.500	16000	1	176078	ok	
+clip	pa-013::perquè::433.89-442.03	clips/pa-013__perqu__433.89.wav	8.140	16000	1	260558	ok	
+clip	pa-014::perquè::105.85-115.75	clips/pa-014__perqu__105.85.wav	9.900	16000	1	316878	ok	
+clip	pa-015::perquè::86.25-92.75	clips/pa-015__perqu__86.25.wav	6.500	16000	1	208078	ok	
+clip	pa-016::perquè::79.77-85.39	clips/pa-016__perqu__79.77.wav	5.620	16000	1	179918	ok	
+clip	pa-017::perquè::4.25-12.15	clips/pa-017__perqu__4.25.wav	7.900	16000	1	252878	ok	
+clip	pa-018::perquè::91.09-96.47	clips/pa-018__perqu__91.09.wav	5.380	16000	1	172238	ok	
+clip	pa-019::perquè::101.25-105.75	clips/pa-019__perqu__101.25.wav	4.500	16000	1	144078	ok	
+clip	pa-020::perquè::9.41-12.91	clips/pa-020__perqu__9.41.wav	3.500	16000	1	112078	ok	
+clip	pa-021::perquè::15.45-19.67	clips/pa-021__perqu__15.45.wav	4.220	16000	1	135118	ok	
+clip	pa-022::perquè::111.69-115.67	clips/pa-022__perqu__111.69.wav	3.980	16000	1	127438	ok	
+clip	pa-023::perquè::29.09-34.79	clips/pa-023__perqu__29.09.wav	5.700	16000	1	182478	ok	
+clip	pa-024::perquè::225.53-230.35	clips/pa-024__perqu__225.53.wav	4.820	16000	1	154318	ok	
+clip	pa-025::perquè::37.17-40.43	clips/pa-025__perqu__37.17.wav	3.260	16000	1	104398	ok	
+clip	pa-026::perquè::150.53-156.67	clips/pa-026__perqu__150.53.wav	6.140	16000	1	196558	ok	
+clip	pa-027::perquè::8.81-14.39	clips/pa-027__perqu__8.81.wav	5.580	16000	1	178638	ok	
+clip	pa-028::perquè::142.89-147.99	clips/pa-028__perqu__142.89.wav	5.100	16000	1	163278	ok	
+clip	pa-029::perquè::249.69-254.43	clips/pa-029__perqu__249.69.wav	4.740	16000	1	151758	ok	
+clip	pa-030::perquè::31.89-36.39	clips/pa-030__perqu__31.89.wav	4.500	16000	1	144078	ok	
+clip	pa-031::perquè::32.69-37.47	clips/pa-031__perqu__32.69.wav	4.780	16000	1	153038	ok	
+clip	pa-032::perquè::9.21-15.07	clips/pa-032__perqu__9.21.wav	5.860	16000	1	187598	ok	
+clip	pa-033::perquè::18.89-23.43	clips/pa-033__perqu__18.89.wav	4.540	16000	1	145358	ok	
+clip	pa-034::perquè::51.85-56.47	clips/pa-034__perqu__51.85.wav	4.620	16000	1	147918	ok	
+clip	pa-035::perquè::181.13-186.35	clips/pa-035__perqu__181.13.wav	5.220	16000	1	167118	ok	
+clip	pa-036::perquè::15.65-20.75	clips/pa-036__perqu__15.65.wav	5.100	16000	1	163278	ok	
+clip	pa-037::perquè::186.29-198.91	clips/pa-037__perqu__186.29.wav	12.620	16000	1	403918	ok	
+clip	pa-038::perquè::279.13-283.51	clips/pa-038__perqu__279.13.wav	4.380	16000	1	140238	ok	
+clip	pa-039::perquè::18.09-21.31	clips/pa-039__perqu__18.09.wav	3.220	16000	1	103118	ok	
+clip	pa-040::perquè::25.21-30.07	clips/pa-040__perqu__25.21.wav	4.860	16000	1	155598	ok	
+clip	pa-041::perquè::69.25-76.75	clips/pa-041__perqu__69.25.wav	7.500	16000	1	240078	ok	
+clip	pa-042::perquè::29.13-33.43	clips/pa-042__perqu__29.13.wav	4.300	16000	1	137678	ok	
+clip	pa-045::perquè::175.33-183.63	clips/pa-045__perqu__175.33.wav	8.300	16000	1	265678	ok	
+clip	pa-046::perquè::140.85-146.79	clips/pa-046__perqu__140.85.wav	5.940	16000	1	190158	ok	
+clip	pa-048::perquè::186.93-191.19	clips/pa-048__perqu__186.93.wav	4.260	16000	1	136398	ok	
+clip	pa-049::perquè::68.85-75.71	clips/pa-049__perqu__68.85.wav	6.860	16000	1	219598	ok	
+clip	pa-051::perquè::123.85-128.35	clips/pa-051__perqu__123.85.wav	4.500	16000	1	144078	ok	
+clip	pa-052::perquè::92.65-96.47	clips/pa-052__perqu__92.65.wav	3.820	16000	1	122318	ok	
+clip	pa-053::perquè::113.93-120.79	clips/pa-053__perqu__113.93.wav	6.860	16000	1	219598	ok	
+clip	pa-054::perquè::80.45-85.43	clips/pa-054__perqu__80.45.wav	4.980	16000	1	159438	ok	
+clip	pa-055::perquè::148.53-153.11	clips/pa-055__perqu__148.53.wav	4.580	16000	1	146638	ok	
+clip	pa-056::perquè::31.73-35.07	clips/pa-056__perqu__31.73.wav	3.340	16000	1	106958	ok	
+clip	pa-057::perquè::249.45-254.11	clips/pa-057__perqu__249.45.wav	4.660	16000	1	149198	ok	
+clip	pa-058::perquè::91.09-96.47	clips/pa-058__perqu__91.09.wav	5.380	16000	1	172238	ok	
+clip	pa-059::perquè::4.09-12.43	clips/pa-059__perqu__4.09.wav	8.340	16000	1	266958	ok	
+clip	pa-060::perquè::29.05-34.75	clips/pa-060__perqu__29.05.wav	5.700	16000	1	182478	ok	
+clip	pa-061::perquè::117.17-123.75	clips/pa-061__perqu__117.17.wav	6.580	16000	1	210638	ok	
+clip	pa-062::perquè::73.97-78.19	clips/pa-062__perqu__73.97.wav	4.220	16000	1	135118	ok	
+clip	pa-063::perquè::142.61-146.79	clips/pa-063__perqu__142.61.wav	4.180	16000	1	133838	ok	
+clip	pa-064::perquè::27.57-33.27	clips/pa-064__perqu__27.57.wav	5.700	16000	1	182478	ok	
+clip	pa-065::perquè::129.17-134.51	clips/pa-065__perqu__129.17.wav	5.340	16000	1	170958	ok	
+clip	pa-066::perquè::21.81-26.71	clips/pa-066__perqu__21.81.wav	4.900	16000	1	156878	ok	
+clip	pa-001::a nivell::135.37-139.03	clips/pa-001__a-nivell__135.37.wav	3.660	16000	1	117198	ok	
+clip	pa-002::a nivell::714.25-724.75	clips/pa-002__a-nivell__714.25.wav	10.500	16000	1	336078	ok	
+clip	pa-003::a nivell::180.17-188.79	clips/pa-003__a-nivell__180.17.wav	8.620	16000	1	275918	ok	
+clip	pa-016::a nivell::333.81-340.39	clips/pa-016__a-nivell__333.81.wav	6.580	16000	1	210638	ok	
+clip	pa-017::a nivell::143.25-149.75	clips/pa-017__a-nivell__143.25.wav	6.500	16000	1	208078	ok	
+clip	pa-018::a nivell::188.45-191.87	clips/pa-018__a-nivell__188.45.wav	3.420	16000	1	109518	ok	
+clip	pa-019::a nivell::122.25-127.75	clips/pa-019__a-nivell__122.25.wav	5.500	16000	1	176078	ok	
+clip	pa-020::a nivell::409.37-414.43	clips/pa-020__a-nivell__409.37.wav	5.060	16000	1	161998	ok	
+clip	pa-023::a nivell::418.57-422.99	clips/pa-023__a-nivell__418.57.wav	4.420	16000	1	141518	ok	
+clip	pa-024::a nivell::1547.93-1552.91	clips/pa-024__a-nivell__1547.93.wav	4.980	16000	1	159438	ok	
+clip	pa-026::a nivell::38.25-41.75	clips/pa-026__a-nivell__38.25.wav	3.500	16000	1	112078	ok	
+clip	pa-029::a nivell::417.09-421.47	clips/pa-029__a-nivell__417.09.wav	4.380	16000	1	140238	ok	
+clip	pa-033::a nivell::6.61-10.79	clips/pa-033__a-nivell__6.61.wav	4.180	16000	1	133838	ok	
+clip	pa-034::a nivell::143.81-148.91	clips/pa-034__a-nivell__143.81.wav	5.100	16000	1	163278	ok	
+clip	pa-036::a nivell::386.45-395.95	clips/pa-036__a-nivell__386.45.wav	9.500	16000	1	304078	ok	
+clip	pa-038::a nivell::455.49-460.15	clips/pa-038__a-nivell__455.49.wav	4.660	16000	1	149198	ok	
+clip	pa-045::a nivell::624.85-629.07	clips/pa-045__a-nivell__624.85.wav	4.220	16000	1	135118	ok	
+clip	pa-048::a nivell::435.77-441.27	clips/pa-048__a-nivell__435.77.wav	5.500	16000	1	176078	ok	
+clip	pa-049::a nivell::1396.25-1400.75	clips/pa-049__a-nivell__1396.25.wav	4.500	16000	1	144078	ok	
+clip	pa-055::a nivell::38.09-44.07	clips/pa-055__a-nivell__38.09.wav	5.980	16000	1	191438	ok	
+clip	pa-057::a nivell::417.13-421.51	clips/pa-057__a-nivell__417.13.wav	4.380	16000	1	140238	ok	
+clip	pa-058::a nivell::188.37-191.87	clips/pa-058__a-nivell__188.37.wav	3.500	16000	1	112078	ok	
+clip	pa-059::a nivell::142.93-150.35	clips/pa-059__a-nivell__142.93.wav	7.420	16000	1	237518	ok	
+clip	pa-060::a nivell::201.93-208.63	clips/pa-060__a-nivell__201.93.wav	6.700	16000	1	214478	ok	
+clip	pa-061::a nivell::1357.21-1360.71	clips/pa-061__a-nivell__1357.21.wav	3.500	16000	1	112078	ok	
+clip	pa-063::a nivell::1143.61-1148.07	clips/pa-063__a-nivell__1143.61.wav	4.460	16000	1	142798	ok	
+clip	pa-065::a nivell::529.09-536.75	clips/pa-065__a-nivell__529.09.wav	7.660	16000	1	245198	ok	
+clip	pa-066::a nivell::25.21-29.71	clips/pa-066__a-nivell__25.21.wav	4.500	16000	1	144078	ok	
+clip	pa-003::tirar endavant::361.93-366.63	clips/pa-003__tirar-endavant__361.93.wav	4.700	16000	1	150478	ok	
+clip	pa-017::tirar endavant::49.85-56.15	clips/pa-017__tirar-endavant__49.85.wav	6.300	16000	1	201678	ok	
+clip	pa-020::tirar endavant::33.45-36.95	clips/pa-020__tirar-endavant__33.45.wav	3.500	16000	1	112078	ok	
+clip	pa-029::tirar endavant::56.73-63.23	clips/pa-029__tirar-endavant__56.73.wav	6.500	16000	1	208078	ok	
+clip	pa-030::tirar endavant::185.61-192.15	clips/pa-030__tirar-endavant__185.61.wav	6.540	16000	1	209358	ok	
+clip	pa-031::tirar endavant::146.09-150.31	clips/pa-031__tirar-endavant__146.09.wav	4.220	16000	1	135118	ok	
+clip	pa-033::tirar endavant::135.69-141.51	clips/pa-033__tirar-endavant__135.69.wav	5.820	16000	1	186318	ok	
+clip	pa-034::tirar endavant::690.33-695.67	clips/pa-034__tirar-endavant__690.33.wav	5.340	16000	1	170958	ok	
+clip	pa-041::tirar endavant::102.25-106.75	clips/pa-041__tirar-endavant__102.25.wav	4.500	16000	1	144078	ok	
+clip	pa-056::tirar endavant::185.53-189.19	clips/pa-056__tirar-endavant__185.53.wav	3.660	16000	1	117198	ok	
+clip	pa-057::tirar endavant::56.61-63.15	clips/pa-057__tirar-endavant__56.61.wav	6.540	16000	1	209358	ok	
+clip	pa-059::tirar endavant::49.77-54.87	clips/pa-059__tirar-endavant__49.77.wav	5.100	16000	1	163278	ok	
+clip	pa-003::ensenyança::279.69-286.23	clips/pa-003__ensenyan-a__279.69.wav	6.540	16000	1	209358	ok	
+clip	pa-041::ensenyança::523.25-531.75	clips/pa-041__ensenyan-a__523.25.wav	8.500	16000	1	272078	ok	
+clip	pa-002::reformeta::12.25-17.75	clips/pa-002__reformeta__12.25.wav	5.500	16000	1	176078	ok	
+clip	pa-022::reformeta::125.53-130.67	clips/pa-022__reformeta__125.53.wav	5.140	16000	1	164558	ok	
+clip	pa-025::reformeta::1085.53-1091.51	clips/pa-025__reformeta__1085.53.wav	5.980	16000	1	191438	ok	
+clip	pa-026::reformeta::138.61-145.67	clips/pa-026__reformeta__138.61.wav	7.060	16000	1	225998	ok	
+clip	pa-034::reformeta::191.33-198.59	clips/pa-034__reformeta__191.33.wav	7.260	16000	1	232398	ok	
+clip	pa-038::reformeta::1821.69-1828.07	clips/pa-038__reformeta__1821.69.wav	6.380	16000	1	204238	ok	
+clip	pa-055::reformeta::139.05-145.83	clips/pa-055__reformeta__139.05.wav	6.780	16000	1	217038	ok	

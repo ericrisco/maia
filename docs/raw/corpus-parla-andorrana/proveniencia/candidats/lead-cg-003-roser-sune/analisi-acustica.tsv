@@ -1,0 +1,4 @@
+forma	segment	clip	inici_forma_s	final_forma_s	durada_s	veu_proporcio	rms_p10_db	rms_p50_db	rms_p90_db	zcr_p10	zcr_p90	f0_median_hz	f0_iqr_hz	centroid_median_hz	centroid_p90_hz	segments_veu	pausa_mediana_s	mostres_f0	estat
+a nivell	64	clips/roser-sune__a-nivell__229.92.wav	229.920	232.120	4.200	0.7033	-43.71	-29.02	-24.27	0.0485	0.3408	203.12	56.64	1763.09	3027.02	13	0.050	76	descriptor orientatiu; pendent d’audició
+doncs	137	clips/roser-sune__doncs__445.36.wav	445.360	448.000	4.640	0.6061	-48.50	-31.05	-25.77	0.0751	0.6369	203.12	70.31	2359.32	5148.69	13	0.050	71	descriptor orientatiu; pendent d’audició
+és a dir	93	clips/roser-sune__s-a-dir__313.20.wav	313.200	315.480	4.280	0.8122	-41.33	-28.49	-24.33	0.0532	0.4936	203.12	148.44	1932.36	4652.71	13	0.040	85	descriptor orientatiu; pendent d’audició

@@ -1,0 +1,11 @@
+forma	segment	inici_forma_s	final_forma_s	clip	inici_clip_s	final_clip_s	small	base	prioritat	estat
+a veure	32	94.360	96.480	clips/joan__a-veure__94.36.wav	93.360	97.480	4	3	A-consens-ASR	pendent d’audició
+bueno	60	175.960	180.040	clips/joan__bueno__175.96.wav	174.960	181.040	6	10	A-consens-ASR	pendent d’audició
+doncs	111	324.000	327.400	clips/joan__doncs__324.00.wav	323.000	328.400	8	12	A-consens-ASR	pendent d’audició
+de fet	126	370.600	373.320	clips/joan__de-fet__370.60.wav	369.600	374.320	1	1	A-consens-ASR	pendent d’audició
+clar	148	440.360	443.200	clips/joan__clar__440.36.wav	439.360	444.200	5	2	A-consens-ASR	pendent d’audició
+llavors	163	484.400	486.600	clips/joan__llavors__484.40.wav	483.400	487.600	4	1	A-consens-ASR	pendent d’audició
+vull dir	174	521.160	523.440	clips/joan__vull-dir__521.16.wav	520.160	524.440	1	0	B-un-model-ASR	pendent d’audició
+perquè	188	560.440	563.800	clips/joan__perqu__560.44.wav	559.440	564.800	15	7	A-consens-ASR	pendent d’audició
+evidentment	205	617.960	621.080	clips/joan__evidentment__617.96.wav	616.960	622.080	3	3	A-consens-ASR	pendent d’audició
+bé	247	753.640	756.840	clips/joan__b__753.64.wav	752.640	757.840	14	11	A-consens-ASR	pendent d’audició

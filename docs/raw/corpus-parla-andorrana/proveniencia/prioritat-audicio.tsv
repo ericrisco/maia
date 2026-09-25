@@ -1,0 +1,657 @@
+prioritat_global	score_evidencia	categoria	forma	id_persona	interval_escolta	clip	consens_dos_asr	coincidencia_temporal_asr	forma_en_qa	conf_min_segment	conf_min_base_segment	estat_audicio
+7	9	A-triple-consens	bé	pa-007	59.25-66.75	clips/pa-007__b__59.25.wav	sí	sí	sí	0.688	0.042	pendent
+7	9	A-triple-consens	llavors	pa-007	657.25-663.75	clips/pa-007__llavors__657.25.wav	sí	sí	sí	0.592	0.088	pendent
+7	9	A-triple-consens	crec	pa-010	1033.25-1036.75	clips/pa-010__crec__1033.25.wav	sí	sí	sí	0.695	0.070	pendent
+7	9	A-triple-consens	vull dir	pa-041	264.25-271.75	clips/pa-041__vull-dir__264.25.wav	sí	sí	sí	0.742	0.118	pendent
+9	9	A-triple-consens	bé	pa-004	319.61-322.59	clips/pa-004__b__319.61.wav	sí	sí	sí	0.082	0.601	pendent
+9	9	A-triple-consens	de fet	pa-004	601.17-607.35	clips/pa-004__de-fet__601.17.wav	sí	sí	sí	0.068	0.121	pendent
+9	9	A-triple-consens	evidentment	pa-004	522.93-528.15	clips/pa-004__evidentment__522.93.wav	sí	sí	sí	0.082	0.077	pendent
+9	9	A-triple-consens	perquè	pa-004	464.09-471.39	clips/pa-004__perqu__464.09.wav	sí	sí	sí	0.038	0.116	pendent
+9	9	A-triple-consens	vull dir	pa-004	143.45-150.59	clips/pa-004__vull-dir__143.45.wav	sí	sí	sí	0.051	0.086	pendent
+9	9	A-triple-consens	bé	pa-005	51.09-56.07	clips/pa-005__b__51.09.wav	sí	sí	sí	0.121	0.114	pendent
+9	9	A-triple-consens	doncs	pa-005	71.13-77.11	clips/pa-005__doncs__71.13.wav	sí	sí	sí	0.052	0.086	pendent
+9	9	A-triple-consens	o sigui	pa-005	373.33-379.95	clips/pa-005__o-sigui__373.33.wav	sí	sí	sí	0.057	0.073	pendent
+9	9	A-triple-consens	aleshores	pa-006	513.25-518.75	clips/pa-006__aleshores__513.25.wav	sí	sí	sí	0.527	0.238	pendent
+9	9	A-triple-consens	bé	pa-006	151.25-159.75	clips/pa-006__b__151.25.wav	sí	sí	sí	0.193	0.238	pendent
+9	9	A-triple-consens	de fet	pa-006	285.25-291.75	clips/pa-006__de-fet__285.25.wav	sí	sí	sí	0.416	0.301	pendent
+9	9	A-triple-consens	doncs	pa-006	180.25-187.75	clips/pa-006__doncs__180.25.wav	sí	sí	sí	0.212	0.077	pendent
+9	9	A-triple-consens	o sigui	pa-006	136.25-143.75	clips/pa-006__o-sigui__136.25.wav	sí	sí	sí	0.212	0.142	pendent
+9	9	A-triple-consens	perquè	pa-006	110.25-117.75	clips/pa-006__perqu__110.25.wav	sí	sí	sí	0.187	0.135	pendent
+9	9	A-triple-consens	a veure	pa-007	89.25-96.75	clips/pa-007__a-veure__89.25.wav	sí	sí	sí	0.318	0.403	pendent
+9	9	A-triple-consens	clar	pa-007	344.25-349.75	clips/pa-007__clar__344.25.wav	sí	sí	sí	0.549	0.117	pendent
+9	9	A-triple-consens	diguem	pa-007	585.25-591.75	clips/pa-007__diguem__585.25.wav	sí	sí	sí	0.342	0.107	pendent
+9	9	A-triple-consens	doncs	pa-007	59.25-66.75	clips/pa-007__doncs__59.25.wav	sí	sí	sí	0.256	0.042	pendent
+9	9	A-triple-consens	evidentment	pa-007	778.25-783.75	clips/pa-007__evidentment__778.25.wav	sí	sí	sí	0.546	0.245	pendent
+9	9	A-triple-consens	perquè	pa-007	101.25-107.75	clips/pa-007__perqu__101.25.wav	sí	sí	sí	0.240	0.263	pendent
+9	9	A-triple-consens	és a dir	pa-007	684.25-687.75	clips/pa-007__s-a-dir__684.25.wav	sí	sí	sí	0.258	0.299	pendent
+9	9	A-triple-consens	a veure	pa-008	668.25-673.75	clips/pa-008__a-veure__668.25.wav	sí	sí	sí	0.454	0.066	pendent
+9	9	A-triple-consens	bé	pa-008	61.25-65.75	clips/pa-008__b__61.25.wav	sí	sí	sí	0.111	0.116	pendent
+9	9	A-triple-consens	clar	pa-008	841.25-846.75	clips/pa-008__clar__841.25.wav	sí	sí	sí	0.394	0.189	pendent
+9	9	A-triple-consens	de fet	pa-008	799.25-804.75	clips/pa-008__de-fet__799.25.wav	sí	sí	sí	0.468	0.099	pendent
+9	9	A-triple-consens	és a dir	pa-008	1110.25-1114.75	clips/pa-008__s-a-dir__1110.25.wav	sí	sí	sí	0.325	0.074	pendent
+9	9	A-triple-consens	bé	pa-009	557.25-561.75	clips/pa-009__b__557.25.wav	sí	sí	sí	0.240	0.029	pendent
+9	9	A-triple-consens	clar	pa-009	99.25-105.75	clips/pa-009__clar__99.25.wav	sí	sí	sí	0.411	0.134	pendent
+9	9	A-triple-consens	doncs	pa-009	139.25-145.75	clips/pa-009__doncs__139.25.wav	sí	sí	sí	0.150	0.044	pendent
+9	9	A-triple-consens	evidentment	pa-009	947.25-951.75	clips/pa-009__evidentment__947.25.wav	sí	sí	sí	0.242	0.093	pendent
+9	9	A-triple-consens	o sigui	pa-009	234.25-238.75	clips/pa-009__o-sigui__234.25.wav	sí	sí	sí	0.245	0.224	pendent
+9	9	A-triple-consens	perquè	pa-009	349.25-356.75	clips/pa-009__perqu__349.25.wav	sí	sí	sí	0.101	0.175	pendent
+9	9	A-triple-consens	clar	pa-010	334.85-339.35	clips/pa-010__clar__334.85.wav	sí	sí	sí	0.040	0.049	pendent
+9	9	A-triple-consens	de fet	pa-010	647.25-652.75	clips/pa-010__de-fet__647.25.wav	sí	sí	sí	0.234	0.008	pendent
+9	9	A-triple-consens	doncs	pa-010	24.65-31.67	clips/pa-010__doncs__24.65.wav	sí	sí	sí	0.057	0.031	pendent
+9	9	A-triple-consens	llavors	pa-010	386.25-391.75	clips/pa-010__llavors__386.25.wav	sí	sí	sí	0.021	0.104	pendent
+9	9	A-triple-consens	perquè	pa-010	196.65-201.55	clips/pa-010__perqu__196.65.wav	sí	sí	sí	0.032	0.062	pendent
+9	9	A-triple-consens	és a dir	pa-010	243.25-249.55	clips/pa-010__s-a-dir__243.25.wav	sí	sí	sí	0.132	0.088	pendent
+9	9	A-triple-consens	a veure	pa-011	551.81-556.27	clips/pa-011__a-veure__551.81.wav	sí	sí	sí	0.374	0.350	pendent
+9	9	A-triple-consens	bé	pa-011	185.57-189.31	clips/pa-011__b__185.57.wav	sí	sí	sí	0.073	0.130	pendent
+9	9	A-triple-consens	de fet	pa-011	557.25-561.31	clips/pa-011__de-fet__557.25.wav	sí	sí	sí	0.319	0.379	pendent
+9	9	A-triple-consens	doncs	pa-011	61.49-69.07	clips/pa-011__doncs__61.49.wav	sí	sí	sí	0.064	0.082	pendent
+9	9	A-triple-consens	perquè	pa-011	27.61-31.55	clips/pa-011__perqu__27.61.wav	sí	sí	sí	0.090	0.051	pendent
+9	9	A-triple-consens	és a dir	pa-011	48.09-54.67	clips/pa-011__s-a-dir__48.09.wav	sí	sí	sí	0.095	0.122	pendent
+9	9	A-triple-consens	perquè	pa-012	369.25-374.75	clips/pa-012__perqu__369.25.wav	sí	sí	sí	0.398	0.147	pendent
+9	9	A-triple-consens	perquè	pa-013	433.89-442.03	clips/pa-013__perqu__433.89.wav	sí	sí	sí	0.144	0.059	pendent
+9	9	A-triple-consens	és a dir	pa-013	579.17-586.75	clips/pa-013__s-a-dir__579.17.wav	sí	sí	sí	0.108	0.311	pendent
+9	9	A-triple-consens	aviam	pa-014	875.45-883.95	clips/pa-014__aviam__875.45.wav	sí	sí	sí	0.014	0.253	pendent
+9	9	A-triple-consens	crec	pa-014	153.25-160.55	clips/pa-014__crec__153.25.wav	sí	sí	sí	0.226	0.100	pendent
+9	9	A-triple-consens	evidentment	pa-014	28.65-37.55	clips/pa-014__evidentment__28.65.wav	sí	sí	sí	0.042	0.050	pendent
+9	9	A-triple-consens	o sigui	pa-014	658.45-674.95	clips/pa-014__o-sigui__658.45.wav	sí	sí	sí	0.481	0.237	pendent
+9	9	A-triple-consens	perquè	pa-014	105.85-115.75	clips/pa-014__perqu__105.85.wav	sí	sí	sí	0.085	0.011	pendent
+9	9	A-triple-consens	doncs	pa-015	83.25-87.75	clips/pa-015__doncs__83.25.wav	sí	sí	sí	0.176	0.064	pendent
+9	9	A-triple-consens	perquè	pa-015	86.25-92.75	clips/pa-015__perqu__86.25.wav	sí	sí	sí	0.369	0.068	pendent
+9	9	A-triple-consens	a nivell	pa-016	333.81-340.39	clips/pa-016__a-nivell__333.81.wav	sí	sí	sí	0.071	0.058	pendent
+9	9	A-triple-consens	a veure	pa-016	369.73-375.91	clips/pa-016__a-veure__369.73.wav	sí	sí	sí	0.051	0.081	pendent
+9	9	A-triple-consens	bé	pa-016	170.05-177.19	clips/pa-016__b__170.05.wav	sí	sí	sí	0.040	0.038	pendent
+9	9	A-triple-consens	clar	pa-016	175.69-180.35	clips/pa-016__clar__175.69.wav	sí	sí	sí	0.054	0.144	pendent
+9	9	A-triple-consens	de fet	pa-016	318.53-324.03	clips/pa-016__de-fet__318.53.wav	sí	sí	sí	0.032	0.144	pendent
+9	9	A-triple-consens	doncs	pa-016	62.33-69.43	clips/pa-016__doncs__62.33.wav	sí	sí	sí	0.051	0.144	pendent
+9	9	A-triple-consens	evidentment	pa-016	456.85-463.03	clips/pa-016__evidentment__456.85.wav	sí	sí	sí	0.217	0.215	pendent
+9	9	A-triple-consens	llavors	pa-016	15.05-20.91	clips/pa-016__llavors__15.05.wav	sí	sí	sí	0.054	0.069	pendent
+9	9	A-triple-consens	perquè	pa-016	79.77-85.39	clips/pa-016__perqu__79.77.wav	sí	sí	sí	0.050	0.022	pendent
+9	9	A-triple-consens	vull dir	pa-016	322.53-327.83	clips/pa-016__vull-dir__322.53.wav	sí	sí	sí	0.175	0.086	pendent
+9	9	A-triple-consens	a nivell	pa-017	143.25-149.75	clips/pa-017__a-nivell__143.25.wav	sí	sí	sí	0.169	0.147	pendent
+9	9	A-triple-consens	clar	pa-017	34.45-42.35	clips/pa-017__clar__34.45.wav	sí	sí	sí	0.177	0.074	pendent
+9	9	A-triple-consens	doncs	pa-017	459.25-464.75	clips/pa-017__doncs__459.25.wav	sí	sí	sí	0.241	0.118	pendent
+9	9	A-triple-consens	llavors	pa-017	361.25-368.75	clips/pa-017__llavors__361.25.wav	sí	sí	sí	0.315	0.124	pendent
+9	9	A-triple-consens	perquè	pa-017	4.25-12.15	clips/pa-017__perqu__4.25.wav	sí	sí	sí	0.033	0.102	pendent
+9	9	A-triple-consens	tirar endavant	pa-017	49.85-56.15	clips/pa-017__tirar-endavant__49.85.wav	sí	sí	sí	0.254	0.180	pendent
+9	9	A-triple-consens	vull dir	pa-017	272.25-279.75	clips/pa-017__vull-dir__272.25.wav	sí	sí	sí	0.322	0.083	pendent
+9	9	A-triple-consens	és a dir	pa-017	487.25-494.75	clips/pa-017__s-a-dir__487.25.wav	sí	sí	sí	0.227	0.127	pendent
+9	9	A-triple-consens	a nivell	pa-018	188.45-191.87	clips/pa-018__a-nivell__188.45.wav	sí	sí	sí	0.044	0.121	pendent
+9	9	A-triple-consens	crec	pa-018	7.49-12.83	clips/pa-018__crec__7.49.wav	sí	sí	sí	0.056	0.062	pendent
+9	9	A-triple-consens	diguem	pa-018	715.49-721.19	clips/pa-018__diguem__715.49.wav	sí	sí	sí	0.344	0.035	pendent
+9	9	A-triple-consens	perquè	pa-018	91.09-96.47	clips/pa-018__perqu__91.09.wav	sí	sí	sí	0.038	0.136	pendent
+9	9	A-triple-consens	a nivell	pa-019	122.25-127.75	clips/pa-019__a-nivell__122.25.wav	sí	sí	sí	0.211	0.090	pendent
+9	9	A-triple-consens	bueno	pa-019	328.25-333.75	clips/pa-019__bueno__328.25.wav	sí	sí	sí	0.222	0.052	pendent
+9	9	A-triple-consens	bé	pa-019	195.25-201.75	clips/pa-019__b__195.25.wav	sí	sí	sí	0.332	0.108	pendent
+9	9	A-triple-consens	crec	pa-019	27.25-31.75	clips/pa-019__crec__27.25.wav	sí	sí	sí	0.146	0.070	pendent
+9	9	A-triple-consens	diguem	pa-019	109.25-113.75	clips/pa-019__diguem__109.25.wav	sí	sí	sí	0.265	0.124	pendent
+9	9	A-triple-consens	evidentment	pa-019	93.25-97.75	clips/pa-019__evidentment__93.25.wav	sí	sí	sí	0.090	0.101	pendent
+9	9	A-triple-consens	llavors	pa-019	422.25-427.75	clips/pa-019__llavors__422.25.wav	sí	sí	sí	0.302	0.107	pendent
+9	9	A-triple-consens	aviam	pa-020	252.21-256.43	clips/pa-020__aviam__252.21.wav	sí	sí	sí	0.101	0.070	pendent
+9	9	A-triple-consens	bé	pa-020	146.37-152.31	clips/pa-020__b__146.37.wav	sí	sí	sí	0.025	0.062	pendent
+9	9	A-triple-consens	clar	pa-020	89.81-94.31	clips/pa-020__clar__89.81.wav	sí	sí	sí	0.021	0.022	pendent
+9	9	A-triple-consens	perquè	pa-020	9.41-12.91	clips/pa-020__perqu__9.41.wav	sí	sí	sí	0.012	0.063	pendent
+9	9	A-triple-consens	bueno	pa-021	12.25-16.87	clips/pa-021__bueno__12.25.wav	sí	sí	sí	0.041	0.074	pendent
+9	9	A-triple-consens	crec	pa-021	115.53-120.03	clips/pa-021__crec__115.53.wav	sí	sí	sí	0.031	0.032	pendent
+9	9	A-triple-consens	doncs	pa-021	12.25-16.87	clips/pa-021__doncs__12.25.wav	sí	sí	sí	0.034	0.074	pendent
+9	9	A-triple-consens	evidentment	pa-021	211.41-215.75	clips/pa-021__evidentment__211.41.wav	sí	sí	sí	0.088	0.081	pendent
+9	9	A-triple-consens	perquè	pa-021	15.45-19.67	clips/pa-021__perqu__15.45.wav	sí	sí	sí	0.035	0.156	pendent
+9	9	A-triple-consens	vull dir	pa-021	314.29-323.11	clips/pa-021__vull-dir__314.29.wav	sí	sí	sí	0.088	0.046	pendent
+9	9	A-triple-consens	és a dir	pa-021	32.29-38.55	clips/pa-021__s-a-dir__32.29.wav	sí	sí	sí	0.033	0.174	pendent
+9	9	A-triple-consens	a veure	pa-022	238.61-245.15	clips/pa-022__a-veure__238.61.wav	sí	sí	sí	0.114	0.156	pendent
+9	9	A-triple-consens	clar	pa-022	107.73-113.11	clips/pa-022__clar__107.73.wav	sí	sí	sí	0.076	0.034	pendent
+9	9	A-triple-consens	crec	pa-022	243.73-249.43	clips/pa-022__crec__243.73.wav	sí	sí	sí	0.085	0.016	pendent
+9	9	A-triple-consens	evidentment	pa-022	303.01-309.59	clips/pa-022__evidentment__303.01.wav	sí	sí	sí	0.071	0.187	pendent
+9	9	A-triple-consens	o sigui	pa-022	42.93-48.95	clips/pa-022__o-sigui__42.93.wav	sí	sí	sí	0.098	0.164	pendent
+9	9	A-triple-consens	perquè	pa-022	111.69-115.67	clips/pa-022__perqu__111.69.wav	sí	sí	sí	0.040	0.076	pendent
+9	9	A-triple-consens	reformeta	pa-022	125.53-130.67	clips/pa-022__reformeta__125.53.wav	sí	sí	sí	0.153	0.115	pendent
+9	9	A-triple-consens	és a dir	pa-022	11.49-17.91	clips/pa-022__s-a-dir__11.49.wav	sí	sí	sí	0.102	0.027	pendent
+9	9	A-triple-consens	a nivell	pa-023	418.57-422.99	clips/pa-023__a-nivell__418.57.wav	sí	sí	sí	0.043	0.111	pendent
+9	9	A-triple-consens	a veure	pa-023	268.81-272.59	clips/pa-023__a-veure__268.81.wav	sí	sí	sí	0.039	0.096	pendent
+9	9	A-triple-consens	bé	pa-023	409.37-413.47	clips/pa-023__b__409.37.wav	sí	sí	sí	0.173	0.116	pendent
+9	9	A-triple-consens	perquè	pa-023	29.09-34.79	clips/pa-023__perqu__29.09.wav	sí	sí	sí	0.061	0.038	pendent
+9	9	A-triple-consens	és a dir	pa-023	207.17-213.55	clips/pa-023__s-a-dir__207.17.wav	sí	sí	sí	0.046	0.162	pendent
+9	9	A-triple-consens	a veure	pa-025	388.01-395.23	clips/pa-025__a-veure__388.01.wav	sí	sí	sí	0.037	0.072	pendent
+9	9	A-triple-consens	crec	pa-025	4.25-9.11	clips/pa-025__crec__4.25.wav	sí	sí	sí	0.022	0.032	pendent
+9	9	A-triple-consens	de fet	pa-025	890.85-894.31	clips/pa-025__de-fet__890.85.wav	sí	sí	sí	0.055	0.121	pendent
+9	9	A-triple-consens	diguem	pa-025	500.89-506.43	clips/pa-025__diguem__500.89.wav	sí	sí	sí	0.036	0.063	pendent
+9	9	A-triple-consens	evidentment	pa-025	1156.61-1160.31	clips/pa-025__evidentment__1156.61.wav	sí	sí	sí	0.063	0.070	pendent
+9	9	A-triple-consens	perquè	pa-025	37.17-40.43	clips/pa-025__perqu__37.17.wav	sí	sí	sí	0.032	0.033	pendent
+9	9	A-triple-consens	reformeta	pa-025	1085.53-1091.51	clips/pa-025__reformeta__1085.53.wav	sí	sí	sí	0.083	0.061	pendent
+9	9	A-triple-consens	a nivell	pa-026	38.25-41.75	clips/pa-026__a-nivell__38.25.wav	sí	sí	sí	0.071	0.074	pendent
+9	9	A-triple-consens	a veure	pa-026	64.09-68.39	clips/pa-026__a-veure__64.09.wav	sí	sí	sí	0.041	0.316	pendent
+9	9	A-triple-consens	perquè	pa-026	150.53-156.67	clips/pa-026__perqu__150.53.wav	sí	sí	sí	0.056	0.099	pendent
+9	9	A-triple-consens	reformeta	pa-026	138.61-145.67	clips/pa-026__reformeta__138.61.wav	sí	sí	sí	0.100	0.045	pendent
+9	9	A-triple-consens	crec	pa-027	8.81-14.39	clips/pa-027__crec__8.81.wav	sí	sí	sí	0.030	0.075	pendent
+9	9	A-triple-consens	de fet	pa-027	109.45-115.11	clips/pa-027__de-fet__109.45.wav	sí	sí	sí	0.161	0.045	pendent
+9	9	A-triple-consens	diguem	pa-027	57.77-63.27	clips/pa-027__diguem__57.77.wav	sí	sí	sí	0.038	0.124	pendent
+9	9	A-triple-consens	evidentment	pa-027	174.09-178.23	clips/pa-027__evidentment__174.09.wav	sí	sí	sí	0.094	0.037	pendent
+9	9	A-triple-consens	perquè	pa-027	8.81-14.39	clips/pa-027__perqu__8.81.wav	sí	sí	sí	0.050	0.075	pendent
+9	9	A-triple-consens	bé	pa-028	182.49-187.39	clips/pa-028__b__182.49.wav	sí	sí	sí	0.064	0.058	pendent
+9	9	A-triple-consens	clar	pa-028	290.33-295.15	clips/pa-028__clar__290.33.wav	sí	sí	sí	0.074	0.071	pendent
+9	9	A-triple-consens	de fet	pa-028	31.17-37.07	clips/pa-028__de-fet__31.17.wav	sí	sí	sí	0.093	0.061	pendent
+9	9	A-triple-consens	doncs	pa-028	329.33-334.79	clips/pa-028__doncs__329.33.wav	sí	sí	sí	0.092	0.130	pendent
+9	9	A-triple-consens	llavors	pa-028	151.01-155.91	clips/pa-028__llavors__151.01.wav	sí	sí	sí	0.067	0.069	pendent
+9	9	A-triple-consens	a nivell	pa-029	417.09-421.47	clips/pa-029__a-nivell__417.09.wav	sí	sí	sí	0.072	0.080	pendent
+9	9	A-triple-consens	diguem	pa-029	929.69-935.51	clips/pa-029__diguem__929.69.wav	sí	sí	sí	0.116	0.180	pendent
+9	9	A-triple-consens	tirar endavant	pa-029	56.73-63.23	clips/pa-029__tirar-endavant__56.73.wav	sí	sí	sí	0.064	0.116	pendent
+9	9	A-triple-consens	a veure	pa-030	673.41-676.91	clips/pa-030__a-veure__673.41.wav	sí	sí	sí	0.138	0.052	pendent
+9	9	A-triple-consens	bueno	pa-030	459.05-463.07	clips/pa-030__bueno__459.05.wav	sí	sí	sí	0.083	0.100	pendent
+9	9	A-triple-consens	bé	pa-030	436.45-441.63	clips/pa-030__b__436.45.wav	sí	sí	sí	0.033	0.081	pendent
+9	9	A-triple-consens	crec	pa-030	346.45-352.99	clips/pa-030__crec__346.45.wav	sí	sí	sí	0.022	0.054	pendent
+9	9	A-triple-consens	evidentment	pa-030	43.53-48.63	clips/pa-030__evidentment__43.53.wav	sí	sí	sí	0.086	0.203	pendent
+9	9	A-triple-consens	vull dir	pa-030	842.69-848.23	clips/pa-030__vull-dir__842.69.wav	sí	sí	sí	0.080	0.077	pendent
+9	9	A-triple-consens	és a dir	pa-030	193.13-199.43	clips/pa-030__s-a-dir__193.13.wav	sí	sí	sí	0.061	0.074	pendent
+9	9	A-triple-consens	crec	pa-031	87.01-92.63	clips/pa-031__crec__87.01.wav	sí	sí	sí	0.033	0.057	pendent
+9	9	A-triple-consens	de fet	pa-031	9.93-14.23	clips/pa-031__de-fet__9.93.wav	sí	sí	sí	0.133	0.189	pendent
+9	9	A-triple-consens	perquè	pa-031	32.69-37.47	clips/pa-031__perqu__32.69.wav	sí	sí	sí	0.060	0.087	pendent
+9	9	A-triple-consens	bueno	pa-032	44.73-50.63	clips/pa-032__bueno__44.73.wav	sí	sí	sí	0.065	0.065	pendent
+9	9	A-triple-consens	bé	pa-032	270.41-274.95	clips/pa-032__b__270.41.wav	sí	sí	sí	0.044	0.073	pendent
+9	9	A-triple-consens	clar	pa-032	155.33-162.15	clips/pa-032__clar__155.33.wav	sí	sí	sí	0.021	0.061	pendent
+9	9	A-triple-consens	perquè	pa-032	9.21-15.07	clips/pa-032__perqu__9.21.wav	sí	sí	sí	0.042	0.036	pendent
+9	9	A-triple-consens	bé	pa-033	103.09-107.43	clips/pa-033__b__103.09.wav	sí	sí	sí	0.078	0.101	pendent
+9	9	A-triple-consens	clar	pa-033	54.49-57.67	clips/pa-033__clar__54.49.wav	sí	sí	sí	0.122	0.101	pendent
+9	9	A-triple-consens	diguem	pa-033	49.01-55.91	clips/pa-033__diguem__49.01.wav	sí	sí	sí	0.122	0.105	pendent
+9	9	A-triple-consens	perquè	pa-033	18.89-23.43	clips/pa-033__perqu__18.89.wav	sí	sí	sí	0.078	0.085	pendent
+9	9	A-triple-consens	vull dir	pa-033	56.25-62.63	clips/pa-033__vull-dir__56.25.wav	sí	sí	sí	0.059	0.101	pendent
+9	9	A-triple-consens	a nivell	pa-034	143.81-148.91	clips/pa-034__a-nivell__143.81.wav	sí	sí	sí	0.039	0.101	pendent
+9	9	A-triple-consens	a veure	pa-034	94.05-100.39	clips/pa-034__a-veure__94.05.wav	sí	sí	sí	0.045	0.029	pendent
+9	9	A-triple-consens	crec	pa-034	651.65-657.27	clips/pa-034__crec__651.65.wav	sí	sí	sí	0.096	0.047	pendent
+9	9	A-triple-consens	diguem	pa-034	504.45-508.51	clips/pa-034__diguem__504.45.wav	sí	sí	sí	0.056	0.083	pendent
+9	9	A-triple-consens	reformeta	pa-034	191.33-198.59	clips/pa-034__reformeta__191.33.wav	sí	sí	sí	0.109	0.042	pendent
+9	9	A-triple-consens	tirar endavant	pa-034	690.33-695.67	clips/pa-034__tirar-endavant__690.33.wav	sí	sí	sí	0.082	0.151	pendent
+9	9	A-triple-consens	crec	pa-035	872.77-879.91	clips/pa-035__crec__872.77.wav	sí	sí	sí	0.054	0.073	pendent
+9	9	A-triple-consens	perquè	pa-035	181.13-186.35	clips/pa-035__perqu__181.13.wav	sí	sí	sí	0.026	0.070	pendent
+9	9	A-triple-consens	és a dir	pa-035	582.29-589.75	clips/pa-035__s-a-dir__582.29.wav	sí	sí	sí	0.029	0.034	pendent
+9	9	A-triple-consens	a nivell	pa-036	386.45-395.95	clips/pa-036__a-nivell__386.45.wav	sí	sí	sí	0.239	0.129	pendent
+9	9	A-triple-consens	a veure	pa-036	153.05-160.15	clips/pa-036__a-veure__153.05.wav	sí	sí	sí	0.358	0.093	pendent
+9	9	A-triple-consens	bé	pa-036	69.45-75.15	clips/pa-036__b__69.45.wav	sí	sí	sí	0.184	0.070	pendent
+9	9	A-triple-consens	clar	pa-036	136.45-147.15	clips/pa-036__clar__136.45.wav	sí	sí	sí	0.139	0.037	pendent
+9	9	A-triple-consens	doncs	pa-036	367.25-376.75	clips/pa-036__doncs__367.25.wav	sí	sí	sí	0.152	0.161	pendent
+9	9	A-triple-consens	evidentment	pa-036	202.85-211.95	clips/pa-036__evidentment__202.85.wav	sí	sí	sí	0.234	0.090	pendent
+9	9	A-triple-consens	perquè	pa-036	15.65-20.75	clips/pa-036__perqu__15.65.wav	sí	sí	sí	0.099	0.114	pendent
+9	9	A-triple-consens	vull dir	pa-036	632.25-637.75	clips/pa-036__vull-dir__632.25.wav	sí	sí	sí	0.234	0.052	pendent
+9	9	A-triple-consens	bueno	pa-037	105.29-124.79	clips/pa-037__bueno__105.29.wav	sí	sí	sí	0.051	0.057	pendent
+9	9	A-triple-consens	bé	pa-037	105.29-124.79	clips/pa-037__b__105.29.wav	sí	sí	sí	0.025	0.023	pendent
+9	9	A-triple-consens	diguem	pa-037	469.77-482.03	clips/pa-037__diguem__469.77.wav	sí	sí	sí	0.055	0.208	pendent
+9	9	A-triple-consens	doncs	pa-037	20.49-28.07	clips/pa-037__doncs__20.49.wav	sí	sí	sí	0.056	0.103	pendent
+9	9	A-triple-consens	llavors	pa-037	92.53-106.79	clips/pa-037__llavors__92.53.wav	sí	sí	sí	0.024	0.141	pendent
+9	9	A-triple-consens	perquè	pa-037	186.29-198.91	clips/pa-037__perqu__186.29.wav	sí	sí	sí	0.012	0.027	pendent
+9	9	A-triple-consens	vull dir	pa-037	414.01-426.11	clips/pa-037__vull-dir__414.01.wav	sí	sí	sí	0.031	0.052	pendent
+9	9	A-triple-consens	a nivell	pa-038	455.49-460.15	clips/pa-038__a-nivell__455.49.wav	sí	sí	sí	0.061	0.039	pendent
+9	9	A-triple-consens	bueno	pa-038	874.61-878.11	clips/pa-038__bueno__874.61.wav	sí	sí	sí	0.067	0.073	pendent
+9	9	A-triple-consens	bé	pa-038	26.77-31.71	clips/pa-038__b__26.77.wav	sí	sí	sí	0.021	0.115	pendent
+9	9	A-triple-consens	clar	pa-038	96.41-101.31	clips/pa-038__clar__96.41.wav	sí	sí	sí	0.052	0.071	pendent
+9	9	A-triple-consens	crec	pa-038	220.69-226.79	clips/pa-038__crec__220.69.wav	sí	sí	sí	0.094	0.042	pendent
+9	9	A-triple-consens	llavors	pa-038	264.13-269.83	clips/pa-038__llavors__264.13.wav	sí	sí	sí	0.019	0.124	pendent
+9	9	A-triple-consens	o sigui	pa-038	16.65-22.87	clips/pa-038__o-sigui__16.65.wav	sí	sí	sí	0.037	0.051	pendent
+9	9	A-triple-consens	perquè	pa-038	279.13-283.51	clips/pa-038__perqu__279.13.wav	sí	sí	sí	0.019	0.047	pendent
+9	9	A-triple-consens	reformeta	pa-038	1821.69-1828.07	clips/pa-038__reformeta__1821.69.wav	sí	sí	sí	0.032	0.107	pendent
+9	9	A-triple-consens	vull dir	pa-038	1576.57-1582.39	clips/pa-038__vull-dir__1576.57.wav	sí	sí	sí	0.150	0.043	pendent
+9	9	A-triple-consens	bé	pa-039	27.77-32.03	clips/pa-039__b__27.77.wav	sí	sí	sí	0.049	0.094	pendent
+9	9	A-triple-consens	crec	pa-039	90.85-95.95	clips/pa-039__crec__90.85.wav	sí	sí	sí	0.072	0.091	pendent
+9	9	A-triple-consens	evidentment	pa-039	184.17-188.67	clips/pa-039__evidentment__184.17.wav	sí	sí	sí	0.194	0.079	pendent
+9	9	A-triple-consens	perquè	pa-039	18.09-21.31	clips/pa-039__perqu__18.09.wav	sí	sí	sí	0.034	0.158	pendent
+9	9	A-triple-consens	crec	pa-040	4.37-7.79	clips/pa-040__crec__4.37.wav	sí	sí	sí	0.015	0.073	pendent
+9	9	A-triple-consens	de fet	pa-040	70.17-73.51	clips/pa-040__de-fet__70.17.wav	sí	sí	sí	0.076	0.050	pendent
+9	9	A-triple-consens	evidentment	pa-040	103.93-106.95	clips/pa-040__evidentment__103.93.wav	sí	sí	sí	0.077	0.123	pendent
+9	9	A-triple-consens	perquè	pa-040	25.21-30.07	clips/pa-040__perqu__25.21.wav	sí	sí	sí	0.040	0.109	pendent
+9	9	A-triple-consens	bé	pa-041	130.25-137.75	clips/pa-041__b__130.25.wav	sí	sí	sí	0.140	0.033	pendent
+9	9	A-triple-consens	clar	pa-041	0.00-10.75	clips/pa-041__clar__0.00.wav	sí	sí	sí	0.031	0.116	pendent
+9	9	A-triple-consens	crec	pa-041	56.25-62.75	clips/pa-041__crec__56.25.wav	sí	sí	sí	0.140	0.053	pendent
+9	9	A-triple-consens	ensenyança	pa-041	523.25-531.75	clips/pa-041__ensenyan-a__523.25.wav	sí	sí	sí	0.441	0.101	pendent
+9	9	A-triple-consens	evidentment	pa-041	353.25-360.75	clips/pa-041__evidentment__353.25.wav	sí	sí	sí	0.446	0.080	pendent
+9	9	A-triple-consens	perquè	pa-041	69.25-76.75	clips/pa-041__perqu__69.25.wav	sí	sí	sí	0.031	0.109	pendent
+9	9	A-triple-consens	perquè	pa-042	29.13-33.43	clips/pa-042__perqu__29.13.wav	sí	sí	sí	0.088	0.060	pendent
+9	9	A-triple-consens	bueno	pa-043	0.00-3.75	clips/pa-043__bueno__0.00.wav	sí	sí	sí	0.045	0.058	pendent
+9	9	A-triple-consens	crec	pa-043	102.25-108.75	clips/pa-043__crec__102.25.wav	sí	sí	sí	0.307	0.060	pendent
+9	9	A-triple-consens	és a dir	pa-043	107.25-111.75	clips/pa-043__s-a-dir__107.25.wav	sí	sí	sí	0.123	0.113	pendent
+9	9	A-triple-consens	a veure	pa-045	340.93-345.91	clips/pa-045__a-veure__340.93.wav	sí	sí	sí	0.069	0.011	pendent
+9	9	A-triple-consens	bé	pa-045	83.49-91.43	clips/pa-045__b__83.49.wav	sí	sí	sí	0.020	0.026	pendent
+9	9	A-triple-consens	clar	pa-045	399.85-405.95	clips/pa-045__clar__399.85.wav	sí	sí	sí	0.027	0.098	pendent
+9	9	A-triple-consens	evidentment	pa-045	290.13-298.31	clips/pa-045__evidentment__290.13.wav	sí	sí	sí	0.052	0.064	pendent
+9	9	A-triple-consens	llavors	pa-045	194.93-200.31	clips/pa-045__llavors__194.93.wav	sí	sí	sí	0.032	0.084	pendent
+9	9	A-triple-consens	o sigui	pa-045	226.17-233.31	clips/pa-045__o-sigui__226.17.wav	sí	sí	sí	0.032	0.041	pendent
+9	9	A-triple-consens	bé	pa-046	348.81-352.55	clips/pa-046__b__348.81.wav	sí	sí	sí	0.053	0.095	pendent
+9	9	A-triple-consens	diguem	pa-046	626.01-630.19	clips/pa-046__diguem__626.01.wav	sí	sí	sí	0.044	0.058	pendent
+9	9	A-triple-consens	doncs	pa-046	135.61-140.07	clips/pa-046__doncs__135.61.wav	sí	sí	sí	0.034	0.093	pendent
+9	9	A-triple-consens	a nivell	pa-048	435.77-441.27	clips/pa-048__a-nivell__435.77.wav	sí	sí	sí	0.070	0.035	pendent
+9	9	A-triple-consens	a veure	pa-048	393.93-397.03	clips/pa-048__a-veure__393.93.wav	sí	sí	sí	0.086	0.076	pendent
+9	9	A-triple-consens	bé	pa-048	495.73-502.83	clips/pa-048__b__495.73.wav	sí	sí	sí	0.090	0.288	pendent
+9	9	A-triple-consens	crec	pa-048	110.97-117.27	clips/pa-048__crec__110.97.wav	sí	sí	sí	0.111	0.197	pendent
+9	9	A-triple-consens	llavors	pa-048	1244.97-1248.95	clips/pa-048__llavors__1244.97.wav	sí	sí	sí	0.031	0.019	pendent
+9	9	A-triple-consens	o sigui	pa-048	581.65-585.99	clips/pa-048__o-sigui__581.65.wav	sí	sí	sí	0.102	0.119	pendent
+9	9	A-triple-consens	vull dir	pa-048	993.69-999.19	clips/pa-048__vull-dir__993.69.wav	sí	sí	sí	0.103	0.093	pendent
+9	9	A-triple-consens	és a dir	pa-048	1130.61-1135.31	clips/pa-048__s-a-dir__1130.61.wav	sí	sí	sí	0.052	0.106	pendent
+9	9	A-triple-consens	a veure	pa-049	244.85-252.03	clips/pa-049__a-veure__244.85.wav	sí	sí	sí	0.083	0.080	pendent
+9	9	A-triple-consens	bueno	pa-049	269.05-275.83	clips/pa-049__bueno__269.05.wav	sí	sí	sí	0.037	0.103	pendent
+9	9	A-triple-consens	clar	pa-049	382.01-390.11	clips/pa-049__clar__382.01.wav	sí	sí	sí	0.070	0.069	pendent
+9	9	A-triple-consens	crec	pa-049	371.85-383.51	clips/pa-049__crec__371.85.wav	sí	sí	sí	0.078	0.055	pendent
+9	9	A-triple-consens	diguem	pa-049	213.13-220.43	clips/pa-049__diguem__213.13.wav	sí	sí	sí	0.070	0.075	pendent
+9	9	A-triple-consens	o sigui	pa-049	365.21-373.35	clips/pa-049__o-sigui__365.21.wav	sí	sí	sí	0.060	0.055	pendent
+9	9	A-triple-consens	perquè	pa-053	113.93-120.79	clips/pa-053__perqu__113.93.wav	sí	sí	sí	0.103	0.046	pendent
+9	9	A-triple-consens	bueno	pa-054	51.69-55.75	clips/pa-054__bueno__51.69.wav	sí	sí	sí	0.104	0.041	pendent
+9	9	A-triple-consens	perquè	pa-054	80.45-85.43	clips/pa-054__perqu__80.45.wav	sí	sí	sí	0.097	0.053	pendent
+9	9	A-triple-consens	a nivell	pa-055	38.09-44.07	clips/pa-055__a-nivell__38.09.wav	sí	sí	sí	0.075	0.040	pendent
+9	9	A-triple-consens	a veure	pa-055	63.89-68.59	clips/pa-055__a-veure__63.89.wav	sí	sí	sí	0.023	0.032	pendent
+9	9	A-triple-consens	evidentment	pa-055	1644.01-1651.31	clips/pa-055__evidentment__1644.01.wav	sí	sí	sí	0.010	0.062	pendent
+9	9	A-triple-consens	perquè	pa-055	148.53-153.11	clips/pa-055__perqu__148.53.wav	sí	sí	sí	0.014	0.100	pendent
+9	9	A-triple-consens	reformeta	pa-055	139.05-145.83	clips/pa-055__reformeta__139.05.wav	sí	sí	sí	0.058	0.026	pendent
+9	9	A-triple-consens	a veure	pa-056	673.21-676.71	clips/pa-056__a-veure__673.21.wav	sí	sí	sí	0.062	0.155	pendent
+9	9	A-triple-consens	clar	pa-056	62.45-66.87	clips/pa-056__clar__62.45.wav	sí	sí	sí	0.016	0.077	pendent
+9	9	A-triple-consens	crec	pa-056	347.05-353.03	clips/pa-056__crec__347.05.wav	sí	sí	sí	0.042	0.042	pendent
+9	9	A-triple-consens	evidentment	pa-056	43.45-48.59	clips/pa-056__evidentment__43.45.wav	sí	sí	sí	0.088	0.063	pendent
+9	9	A-triple-consens	perquè	pa-056	31.73-35.07	clips/pa-056__perqu__31.73.wav	sí	sí	sí	0.016	0.041	pendent
+9	9	A-triple-consens	tirar endavant	pa-056	185.53-189.19	clips/pa-056__tirar-endavant__185.53.wav	sí	sí	sí	0.040	0.062	pendent
+9	9	A-triple-consens	vull dir	pa-056	842.65-848.07	clips/pa-056__vull-dir__842.65.wav	sí	sí	sí	0.156	0.078	pendent
+9	9	A-triple-consens	diguem	pa-057	929.81-935.31	clips/pa-057__diguem__929.81.wav	sí	sí	sí	0.254	0.183	pendent
+9	9	A-triple-consens	llavors	pa-057	42.85-47.99	clips/pa-057__llavors__42.85.wav	sí	sí	sí	0.023	0.118	pendent
+9	9	A-triple-consens	perquè	pa-057	249.45-254.11	clips/pa-057__perqu__249.45.wav	sí	sí	sí	0.035	0.029	pendent
+9	9	A-triple-consens	a nivell	pa-058	188.37-191.87	clips/pa-058__a-nivell__188.37.wav	sí	sí	sí	0.050	0.100	pendent
+9	9	A-triple-consens	diguem	pa-058	715.21-718.91	clips/pa-058__diguem__715.21.wav	sí	sí	sí	0.062	0.081	pendent
+9	9	A-triple-consens	perquè	pa-058	91.09-96.47	clips/pa-058__perqu__91.09.wav	sí	sí	sí	0.025	0.011	pendent
+9	9	A-triple-consens	vull dir	pa-058	975.13-979.55	clips/pa-058__vull-dir__975.13.wav	sí	sí	sí	0.125	0.136	pendent
+9	9	A-triple-consens	és a dir	pa-058	74.41-79.87	clips/pa-058__s-a-dir__74.41.wav	sí	sí	sí	0.040	0.090	pendent
+9	9	A-triple-consens	a nivell	pa-059	142.93-150.35	clips/pa-059__a-nivell__142.93.wav	sí	sí	sí	0.045	0.102	pendent
+9	9	A-triple-consens	clar	pa-059	36.61-42.23	clips/pa-059__clar__36.61.wav	sí	sí	sí	0.045	0.038	pendent
+9	9	A-triple-consens	perquè	pa-059	4.09-12.43	clips/pa-059__perqu__4.09.wav	sí	sí	sí	0.040	0.152	pendent
+9	9	A-triple-consens	tirar endavant	pa-059	49.77-54.87	clips/pa-059__tirar-endavant__49.77.wav	sí	sí	sí	0.137	0.233	pendent
+9	9	A-triple-consens	vull dir	pa-059	271.81-279.35	clips/pa-059__vull-dir__271.81.wav	sí	sí	sí	0.054	0.097	pendent
+9	9	A-triple-consens	és a dir	pa-059	487.81-491.67	clips/pa-059__s-a-dir__487.81.wav	sí	sí	sí	0.271	0.091	pendent
+9	9	A-triple-consens	a veure	pa-060	268.57-272.67	clips/pa-060__a-veure__268.57.wav	sí	sí	sí	0.052	0.032	pendent
+9	9	A-triple-consens	crec	pa-060	42.05-50.19	clips/pa-060__crec__42.05.wav	sí	sí	sí	0.070	0.097	pendent
+9	9	A-triple-consens	de fet	pa-060	72.57-78.35	clips/pa-060__de-fet__72.57.wav	sí	sí	sí	0.114	0.143	pendent
+9	9	A-triple-consens	perquè	pa-060	29.05-34.75	clips/pa-060__perqu__29.05.wav	sí	sí	sí	0.047	0.094	pendent
+9	9	A-triple-consens	és a dir	pa-060	207.33-213.63	clips/pa-060__s-a-dir__207.33.wav	sí	sí	sí	0.046	0.117	pendent
+9	9	A-triple-consens	a nivell	pa-061	1357.21-1360.71	clips/pa-061__a-nivell__1357.21.wav	sí	sí	sí	0.110	0.098	pendent
+9	9	A-triple-consens	a veure	pa-061	579.17-583.39	clips/pa-061__a-veure__579.17.wav	sí	sí	sí	0.098	0.052	pendent
+9	9	A-triple-consens	bueno	pa-061	171.05-174.55	clips/pa-061__bueno__171.05.wav	sí	sí	sí	0.017	0.059	pendent
+9	9	A-triple-consens	bé	pa-061	662.89-667.43	clips/pa-061__b__662.89.wav	sí	sí	sí	0.012	0.047	pendent
+9	9	A-triple-consens	crec	pa-061	428.85-435.63	clips/pa-061__crec__428.85.wav	sí	sí	sí	0.105	0.069	pendent
+9	9	A-triple-consens	evidentment	pa-061	672.69-677.43	clips/pa-061__evidentment__672.69.wav	sí	sí	sí	0.094	0.114	pendent
+9	9	A-triple-consens	llavors	pa-061	380.77-385.15	clips/pa-061__llavors__380.77.wav	sí	sí	sí	0.055	0.046	pendent
+9	9	A-triple-consens	bueno	pa-062	297.17-302.03	clips/pa-062__bueno__297.17.wav	sí	sí	sí	0.112	0.074	pendent
+9	9	A-triple-consens	crec	pa-062	1037.89-1041.47	clips/pa-062__crec__1037.89.wav	sí	sí	sí	0.037	0.002	pendent
+9	9	A-triple-consens	diguem	pa-062	191.37-197.03	clips/pa-062__diguem__191.37.wav	sí	sí	sí	0.096	0.129	pendent
+9	9	A-triple-consens	perquè	pa-062	73.97-78.19	clips/pa-062__perqu__73.97.wav	sí	sí	sí	0.018	0.217	pendent
+9	9	A-triple-consens	és a dir	pa-062	973.65-980.31	clips/pa-062__s-a-dir__973.65.wav	sí	sí	sí	0.023	0.092	pendent
+9	9	A-triple-consens	a nivell	pa-063	1143.61-1148.07	clips/pa-063__a-nivell__1143.61.wav	sí	sí	sí	0.116	0.031	pendent
+9	9	A-triple-consens	a veure	pa-063	402.13-408.03	clips/pa-063__a-veure__402.13.wav	sí	sí	sí	0.064	0.198	pendent
+9	9	A-triple-consens	bé	pa-063	105.97-110.35	clips/pa-063__b__105.97.wav	sí	sí	sí	0.014	0.037	pendent
+9	9	A-triple-consens	clar	pa-063	392.49-397.11	clips/pa-063__clar__392.49.wav	sí	sí	sí	0.091	0.106	pendent
+9	9	A-triple-consens	doncs	pa-063	609.05-614.11	clips/pa-063__doncs__609.05.wav	sí	sí	sí	0.086	0.108	pendent
+9	9	A-triple-consens	llavors	pa-063	39.49-44.79	clips/pa-063__llavors__39.49.wav	sí	sí	sí	0.030	0.115	pendent
+9	9	A-triple-consens	perquè	pa-063	142.61-146.79	clips/pa-063__perqu__142.61.wav	sí	sí	sí	0.004	0.047	pendent
+9	9	A-triple-consens	a veure	pa-064	587.61-591.67	clips/pa-064__a-veure__587.61.wav	sí	sí	sí	0.008	0.069	pendent
+9	9	A-triple-consens	bé	pa-064	97.93-104.11	clips/pa-064__b__97.93.wav	sí	sí	sí	0.028	0.075	pendent
+9	9	A-triple-consens	clar	pa-064	109.97-115.87	clips/pa-064__clar__109.97.wav	sí	sí	sí	0.078	0.035	pendent
+9	9	A-triple-consens	crec	pa-064	1335.77-1345.39	clips/pa-064__crec__1335.77.wav	sí	sí	sí	0.068	0.130	pendent
+9	9	A-triple-consens	o sigui	pa-064	36.73-40.23	clips/pa-064__o-sigui__36.73.wav	sí	sí	sí	0.024	0.088	pendent
+9	9	A-triple-consens	és a dir	pa-064	258.61-265.03	clips/pa-064__s-a-dir__258.61.wav	sí	sí	sí	0.021	0.042	pendent
+9	9	A-triple-consens	bé	pa-065	138.57-144.67	clips/pa-065__b__138.57.wav	sí	sí	sí	0.019	0.082	pendent
+9	9	A-triple-consens	clar	pa-065	221.29-226.15	clips/pa-065__clar__221.29.wav	sí	sí	sí	0.029	0.132	pendent
+9	9	A-triple-consens	crec	pa-065	1276.85-1281.67	clips/pa-065__crec__1276.85.wav	sí	sí	sí	0.037	0.093	pendent
+9	9	A-triple-consens	doncs	pa-065	157.49-162.27	clips/pa-065__doncs__157.49.wav	sí	sí	sí	0.057	0.072	pendent
+9	9	A-triple-consens	o sigui	pa-065	191.65-195.15	clips/pa-065__o-sigui__191.65.wav	sí	sí	sí	0.068	0.163	pendent
+9	9	A-triple-consens	perquè	pa-065	129.17-134.51	clips/pa-065__perqu__129.17.wav	sí	sí	sí	0.037	0.106	pendent
+9	9	A-triple-consens	és a dir	pa-065	221.29-226.15	clips/pa-065__s-a-dir__221.29.wav	sí	sí	sí	0.036	0.132	pendent
+9	9	A-triple-consens	a nivell	pa-066	25.21-29.71	clips/pa-066__a-nivell__25.21.wav	sí	sí	sí	0.219	0.118	pendent
+9	9	A-triple-consens	bueno	pa-066	357.23-362.57	clips/pa-066__bueno__357.23.wav	sí	sí	sí	0.039	0.053	pendent
+9	9	A-triple-consens	bé	pa-066	10.13-15.71	clips/pa-066__b__10.13.wav	sí	sí	sí	0.082	0.110	pendent
+9	9	A-triple-consens	crec	pa-066	219.63-227.13	clips/pa-066__crec__219.63.wav	sí	sí	sí	0.156	0.125	pendent
+9	9	A-triple-consens	de fet	pa-066	44.37-49.71	clips/pa-066__de-fet__44.37.wav	sí	sí	sí	0.088	0.073	pendent
+9	9	A-triple-consens	evidentment	pa-066	89.75-95.41	clips/pa-066__evidentment__89.75.wav	sí	sí	sí	0.045	0.018	pendent
+9	9	A-triple-consens	llavors	pa-066	16.21-20.35	clips/pa-066__llavors__16.21.wav	sí	sí	sí	0.052	0.118	pendent
+9	9	A-triple-consens	perquè	pa-066	21.81-26.71	clips/pa-066__perqu__21.81.wav	sí	sí	sí	0.056	0.122	pendent
+7	7	D-divergent	diguem	pa-009	60.25-66.75	clips/pa-009__diguem__60.25.wav	sí	sí	no	0.583	0.121	pendent
+7	7	D-divergent	a nivell	pa-049	1396.25-1400.75	clips/pa-049__a-nivell__1396.25.wav	sí	sí	no	0.570	0.077	pendent
+9	7	D-divergent	doncs	pa-004	416.21-423.31	clips/pa-004__doncs__416.21.wav	sí	sí	no	0.044	0.052	pendent
+9	7	D-divergent	clar	pa-005	155.93-159.99	clips/pa-005__clar__155.93.wav	sí	sí	no	0.063	0.104	pendent
+9	7	D-divergent	evidentment	pa-006	124.25-131.75	clips/pa-006__evidentment__124.25.wav	sí	sí	no	0.064	0.181	pendent
+9	7	D-divergent	diguem	pa-008	374.25-379.75	clips/pa-008__diguem__374.25.wav	sí	sí	no	0.267	0.051	pendent
+9	7	D-divergent	doncs	pa-008	55.25-59.75	clips/pa-008__doncs__55.25.wav	sí	sí	no	0.152	0.045	pendent
+9	7	D-divergent	bé	pa-010	24.65-31.67	clips/pa-010__b__24.65.wav	sí	sí	no	0.057	0.031	pendent
+9	7	D-divergent	doncs	pa-012	411.25-416.75	clips/pa-012__doncs__411.25.wav	sí	sí	no	0.252	0.027	pendent
+9	7	D-divergent	evidentment	pa-013	530.29-540.27	clips/pa-013__evidentment__530.29.wav	sí	sí	no	0.145	0.208	pendent
+9	7	D-divergent	doncs	pa-014	180.05-188.55	clips/pa-014__doncs__180.05.wav	sí	sí	no	0.141	0.052	pendent
+9	7	D-divergent	és a dir	pa-014	95.45-107.35	clips/pa-014__s-a-dir__95.45.wav	sí	sí	no	0.074	0.088	pendent
+9	7	D-divergent	bueno	pa-016	93.17-100.83	clips/pa-016__bueno__93.17.wav	sí	sí	no	0.086	0.127	pendent
+9	7	D-divergent	bé	pa-018	210.65-215.47	clips/pa-018__b__210.65.wav	sí	sí	no	0.066	0.141	pendent
+9	7	D-divergent	és a dir	pa-018	74.49-79.83	clips/pa-018__s-a-dir__74.49.wav	sí	sí	no	0.089	0.129	pendent
+9	7	D-divergent	doncs	pa-019	46.25-49.75	clips/pa-019__doncs__46.25.wav	sí	sí	no	0.177	0.077	pendent
+9	7	D-divergent	evidentment	pa-020	117.57-122.27	clips/pa-020__evidentment__117.57.wav	sí	sí	no	0.038	0.057	pendent
+9	7	D-divergent	tirar endavant	pa-020	33.45-36.95	clips/pa-020__tirar-endavant__33.45.wav	sí	sí	no	0.048	0.041	pendent
+9	7	D-divergent	clar	pa-021	125.89-131.23	clips/pa-021__clar__125.89.wav	sí	sí	no	0.044	0.094	pendent
+9	7	D-divergent	de fet	pa-022	420.21-424.71	clips/pa-022__de-fet__420.21.wav	sí	sí	no	0.113	0.081	pendent
+9	7	D-divergent	crec	pa-023	42.93-50.23	clips/pa-023__crec__42.93.wav	sí	sí	no	0.063	0.036	pendent
+9	7	D-divergent	bueno	pa-025	909.25-914.07	clips/pa-025__bueno__909.25.wav	sí	sí	no	0.048	0.120	pendent
+9	7	D-divergent	bé	pa-025	1023.77-1027.67	clips/pa-025__b__1023.77.wav	sí	sí	no	0.147	0.085	pendent
+9	7	D-divergent	doncs	pa-025	59.89-66.03	clips/pa-025__doncs__59.89.wav	sí	sí	no	0.022	0.131	pendent
+9	7	D-divergent	vull dir	pa-025	643.73-649.59	clips/pa-025__vull-dir__643.73.wav	sí	sí	no	0.170	0.036	pendent
+9	7	D-divergent	és a dir	pa-025	64.61-70.95	clips/pa-025__s-a-dir__64.61.wav	sí	sí	no	0.059	0.106	pendent
+9	7	D-divergent	bueno	pa-026	194.89-200.75	clips/pa-026__bueno__194.89.wav	sí	sí	no	0.034	0.090	pendent
+9	7	D-divergent	clar	pa-026	6.33-9.67	clips/pa-026__clar__6.33.wav	sí	sí	no	0.033	0.077	pendent
+9	7	D-divergent	evidentment	pa-026	1648.81-1653.83	clips/pa-026__evidentment__1648.81.wav	sí	sí	no	0.103	0.101	pendent
+9	7	D-divergent	és a dir	pa-026	64.09-68.39	clips/pa-026__s-a-dir__64.09.wav	sí	sí	no	0.041	0.316	pendent
+9	7	D-divergent	bé	pa-027	30.97-36.55	clips/pa-027__b__30.97.wav	sí	sí	no	0.047	0.095	pendent
+9	7	D-divergent	doncs	pa-027	18.01-24.51	clips/pa-027__doncs__18.01.wav	sí	sí	no	0.034	0.081	pendent
+9	7	D-divergent	bueno	pa-028	28.37-32.59	clips/pa-028__bueno__28.37.wav	sí	sí	no	0.022	0.028	pendent
+9	7	D-divergent	diguem	pa-028	168.89-174.15	clips/pa-028__diguem__168.89.wav	sí	sí	no	0.067	0.095	pendent
+9	7	D-divergent	perquè	pa-028	142.89-147.99	clips/pa-028__perqu__142.89.wav	sí	sí	no	0.047	0.071	pendent
+9	7	D-divergent	clar	pa-029	358.61-362.11	clips/pa-029__clar__358.61.wav	sí	sí	no	0.224	0.085	pendent
+9	7	D-divergent	clar	pa-030	61.89-66.83	clips/pa-030__clar__61.89.wav	sí	sí	no	0.033	0.145	pendent
+9	7	D-divergent	perquè	pa-030	31.89-36.39	clips/pa-030__perqu__31.89.wav	sí	sí	no	0.022	0.114	pendent
+9	7	D-divergent	bueno	pa-031	111.73-115.67	clips/pa-031__bueno__111.73.wav	sí	sí	no	0.019	0.108	pendent
+9	7	D-divergent	vull dir	pa-031	207.77-212.75	clips/pa-031__vull-dir__207.77.wav	sí	sí	no	0.108	0.078	pendent
+9	7	D-divergent	doncs	pa-033	6.61-10.79	clips/pa-033__doncs__6.61.wav	sí	sí	no	0.092	0.092	pendent
+9	7	D-divergent	clar	pa-034	55.05-59.71	clips/pa-034__clar__55.05.wav	sí	sí	no	0.039	0.096	pendent
+9	7	D-divergent	perquè	pa-034	51.85-56.47	clips/pa-034__perqu__51.85.wav	sí	sí	no	0.025	0.163	pendent
+9	7	D-divergent	bé	pa-035	715.81-720.31	clips/pa-035__b__715.81.wav	sí	sí	no	0.071	0.190	pendent
+9	7	D-divergent	evidentment	pa-035	472.93-481.79	clips/pa-035__evidentment__472.93.wav	sí	sí	no	0.047	0.135	pendent
+9	7	D-divergent	llavors	pa-036	535.25-538.75	clips/pa-036__llavors__535.25.wav	sí	sí	no	0.400	0.075	pendent
+9	7	D-divergent	diguem	pa-038	251.25-260.55	clips/pa-038__diguem__251.25.wav	sí	sí	no	0.022	0.157	pendent
+9	7	D-divergent	bueno	pa-039	530.89-537.23	clips/pa-039__bueno__530.89.wav	sí	sí	no	0.182	0.077	pendent
+9	7	D-divergent	clar	pa-039	45.29-49.71	clips/pa-039__clar__45.29.wav	sí	sí	no	0.031	0.061	pendent
+9	7	D-divergent	bé	pa-040	32.81-38.63	clips/pa-040__b__32.81.wav	sí	sí	no	0.070	0.075	pendent
+9	7	D-divergent	doncs	pa-040	210.05-214.99	clips/pa-040__doncs__210.05.wav	sí	sí	no	0.095	0.122	pendent
+9	7	D-divergent	doncs	pa-041	209.25-217.75	clips/pa-041__doncs__209.25.wav	sí	sí	no	0.322	0.014	pendent
+9	7	D-divergent	llavors	pa-041	108.25-115.75	clips/pa-041__llavors__108.25.wav	sí	sí	no	0.244	0.182	pendent
+9	7	D-divergent	és a dir	pa-041	259.25-265.75	clips/pa-041__s-a-dir__259.25.wav	sí	sí	no	0.217	0.029	pendent
+9	7	D-divergent	clar	pa-042	101.97-106.63	clips/pa-042__clar__101.97.wav	sí	sí	no	0.047	0.106	pendent
+9	7	D-divergent	crec	pa-042	32.01-37.35	clips/pa-042__crec__32.01.wav	sí	sí	no	0.054	0.171	pendent
+9	7	D-divergent	doncs	pa-043	15.25-19.75	clips/pa-043__doncs__15.25.wav	sí	sí	no	0.326	0.037	pendent
+9	7	D-divergent	aleshores	pa-045	1193.41-1197.91	clips/pa-045__aleshores__1193.41.wav	sí	sí	no	0.271	0.139	pendent
+9	7	D-divergent	bueno	pa-045	261.05-270.91	clips/pa-045__bueno__261.05.wav	sí	sí	no	0.019	0.032	pendent
+9	7	D-divergent	crec	pa-045	240.61-245.63	clips/pa-045__crec__240.61.wav	sí	sí	no	0.041	0.037	pendent
+9	7	D-divergent	bueno	pa-046	128.01-131.51	clips/pa-046__bueno__128.01.wav	sí	sí	no	0.016	0.103	pendent
+9	7	D-divergent	crec	pa-046	208.41-212.47	clips/pa-046__crec__208.41.wav	sí	sí	no	0.045	0.095	pendent
+9	7	D-divergent	evidentment	pa-046	705.69-711.03	clips/pa-046__evidentment__705.69.wav	sí	sí	no	0.080	0.055	pendent
+9	7	D-divergent	bueno	pa-048	227.17-233.03	clips/pa-048__bueno__227.17.wav	sí	sí	no	0.067	0.071	pendent
+9	7	D-divergent	clar	pa-048	389.65-392.15	clips/pa-048__clar__389.65.wav	sí	sí	no	0.055	0.039	pendent
+9	7	D-divergent	bueno	pa-055	194.93-200.67	clips/pa-055__bueno__194.93.wav	sí	sí	no	0.015	0.032	pendent
+9	7	D-divergent	bé	pa-055	358.57-362.07	clips/pa-055__b__358.57.wav	sí	sí	no	0.018	0.055	pendent
+9	7	D-divergent	clar	pa-055	6.29-9.67	clips/pa-055__clar__6.29.wav	sí	sí	no	0.038	0.082	pendent
+9	7	D-divergent	és a dir	pa-055	63.89-68.59	clips/pa-055__s-a-dir__63.89.wav	sí	sí	no	0.032	0.032	pendent
+9	7	D-divergent	bueno	pa-056	458.97-462.83	clips/pa-056__bueno__458.97.wav	sí	sí	no	0.073	0.062	pendent
+9	7	D-divergent	és a dir	pa-056	7.45-10.87	clips/pa-056__s-a-dir__7.45.wav	sí	sí	no	0.031	0.086	pendent
+9	7	D-divergent	bueno	pa-058	23.17-28.91	clips/pa-058__bueno__23.17.wav	sí	sí	no	0.035	0.096	pendent
+9	7	D-divergent	crec	pa-058	6.69-12.71	clips/pa-058__crec__6.69.wav	sí	sí	no	0.043	0.051	pendent
+9	7	D-divergent	llavors	pa-059	361.49-368.39	clips/pa-059__llavors__361.49.wav	sí	sí	no	0.100	0.057	pendent
+9	7	D-divergent	clar	pa-061	376.69-382.19	clips/pa-061__clar__376.69.wav	sí	sí	no	0.024	0.030	pendent
+9	7	D-divergent	perquè	pa-061	117.17-123.75	clips/pa-061__perqu__117.17.wav	sí	sí	no	0.042	0.075	pendent
+9	7	D-divergent	bé	pa-062	401.61-406.47	clips/pa-062__b__401.61.wav	sí	sí	no	0.074	0.094	pendent
+9	7	D-divergent	clar	pa-062	202.37-208.31	clips/pa-062__clar__202.37.wav	sí	sí	no	0.055	0.102	pendent
+9	7	D-divergent	doncs	pa-064	456.73-460.43	clips/pa-064__doncs__456.73.wav	sí	sí	no	0.040	0.079	pendent
+9	7	D-divergent	evidentment	pa-064	485.89-491.71	clips/pa-064__evidentment__485.89.wav	sí	sí	no	0.075	0.041	pendent
+9	7	D-divergent	vull dir	pa-065	1401.05-1404.55	clips/pa-065__vull-dir__1401.05.wav	sí	sí	no	0.365	0.065	pendent
+6	6	B-doble-ASR	perquè	pa-008	55.25-59.75	clips/pa-008__perqu__55.25.wav	sí	no	sí	0.056		pendent
+6	6	B-doble-ASR	bé	pa-012	160.25-164.75	clips/pa-012__b__160.25.wav	sí	no	sí	0.272		pendent
+6	6	B-doble-ASR	doncs	pa-013	56.85-61.87	clips/pa-013__doncs__56.85.wav	sí	no	sí	0.128		pendent
+6	6	B-doble-ASR	bé	pa-014	165.65-181.55	clips/pa-014__b__165.65.wav	sí	no	sí	0.197		pendent
+6	6	B-doble-ASR	clar	pa-014	978.45-982.95	clips/pa-014__clar__978.45.wav	sí	no	sí	0.451		pendent
+6	6	B-doble-ASR	vull dir	pa-014	19.65-30.15	clips/pa-014__vull-dir__19.65.wav	sí	no	sí	0.116		pendent
+6	6	B-doble-ASR	bé	pa-015	42.25-48.75	clips/pa-015__b__42.25.wav	sí	no	sí	0.237		pendent
+6	6	B-doble-ASR	evidentment	pa-017	152.25-161.75	clips/pa-017__evidentment__152.25.wav	sí	no	sí	0.177		pendent
+6	6	B-doble-ASR	llavors	pa-018	1055.09-1058.87	clips/pa-018__llavors__1055.09.wav	sí	no	sí	0.068		pendent
+6	6	B-doble-ASR	perquè	pa-019	101.25-105.75	clips/pa-019__perqu__101.25.wav	sí	no	sí	0.134		pendent
+6	6	B-doble-ASR	a nivell	pa-020	409.37-414.43	clips/pa-020__a-nivell__409.37.wav	sí	no	sí	0.098		pendent
+6	6	B-doble-ASR	a veure	pa-021	108.77-116.95	clips/pa-021__a-veure__108.77.wav	sí	no	sí	0.099		pendent
+6	6	B-doble-ASR	bé	pa-021	257.61-263.59	clips/pa-021__b__257.61.wav	sí	no	sí	0.034		pendent
+6	6	B-doble-ASR	bé	pa-022	270.45-275.35	clips/pa-022__b__270.45.wav	sí	no	sí	0.058		pendent
+6	6	B-doble-ASR	vull dir	pa-022	308.17-312.27	clips/pa-022__vull-dir__308.17.wav	sí	no	sí	0.038		pendent
+6	6	B-doble-ASR	bueno	pa-023	96.81-100.35	clips/pa-023__bueno__96.81.wav	sí	no	sí	0.035		pendent
+6	6	B-doble-ASR	de fet	pa-023	72.49-78.31	clips/pa-023__de-fet__72.49.wav	sí	no	sí	0.033		pendent
+6	6	B-doble-ASR	llavors	pa-023	48.81-56.07	clips/pa-023__llavors__48.81.wav	sí	no	sí	0.035		pendent
+6	6	B-doble-ASR	vull dir	pa-023	22.05-26.43	clips/pa-023__vull-dir__22.05.wav	sí	no	sí	0.040		pendent
+6	6	B-doble-ASR	clar	pa-025	116.09-119.95	clips/pa-025__clar__116.09.wav	sí	no	sí	0.021		pendent
+6	6	B-doble-ASR	bé	pa-026	99.97-103.47	clips/pa-026__b__99.97.wav	sí	no	sí	0.034		pendent
+6	6	B-doble-ASR	o sigui	pa-026	434.17-437.67	clips/pa-026__o-sigui__434.17.wav	sí	no	sí	0.013		pendent
+6	6	B-doble-ASR	vull dir	pa-026	311.77-316.07	clips/pa-026__vull-dir__311.77.wav	sí	no	sí	0.053		pendent
+6	6	B-doble-ASR	clar	pa-027	35.13-40.47	clips/pa-027__clar__35.13.wav	sí	no	sí	0.101		pendent
+6	6	B-doble-ASR	és a dir	pa-027	185.61-192.87	clips/pa-027__s-a-dir__185.61.wav	sí	no	sí	0.020		pendent
+6	6	B-doble-ASR	aleshores	pa-030	392.41-397.91	clips/pa-030__aleshores__392.41.wav	sí	no	sí	0.042		pendent
+6	6	B-doble-ASR	a veure	pa-031	4.25-9.07	clips/pa-031__a-veure__4.25.wav	sí	no	sí	0.101		pendent
+6	6	B-doble-ASR	clar	pa-031	154.57-158.95	clips/pa-031__clar__154.57.wav	sí	no	sí	0.064		pendent
+6	6	B-doble-ASR	doncs	pa-032	21.61-27.23	clips/pa-032__doncs__21.61.wav	sí	no	sí	0.030		pendent
+6	6	B-doble-ASR	és a dir	pa-033	39.29-44.27	clips/pa-033__s-a-dir__39.29.wav	sí	no	sí	0.071		pendent
+6	6	B-doble-ASR	bé	pa-034	18.85-23.15	clips/pa-034__b__18.85.wav	sí	no	sí	0.035		pendent
+6	6	B-doble-ASR	és a dir	pa-034	319.09-323.47	clips/pa-034__s-a-dir__319.09.wav	sí	no	sí	0.080		pendent
+6	6	B-doble-ASR	doncs	pa-035	195.49-202.11	clips/pa-035__doncs__195.49.wav	sí	no	sí	0.017		pendent
+6	6	B-doble-ASR	clar	pa-037	186.29-198.91	clips/pa-037__clar__186.29.wav	sí	no	sí	0.012		pendent
+6	6	B-doble-ASR	doncs	pa-038	2008.17-2013.95	clips/pa-038__doncs__2008.17.wav	sí	no	sí	0.020		pendent
+6	6	B-doble-ASR	a veure	pa-041	200.25-205.75	clips/pa-041__a-veure__200.25.wav	sí	no	sí	0.244		pendent
+6	6	B-doble-ASR	bueno	pa-041	165.25-173.75	clips/pa-041__bueno__165.25.wav	sí	no	sí	0.239		pendent
+6	6	B-doble-ASR	doncs	pa-045	283.01-287.39	clips/pa-045__doncs__283.01.wav	sí	no	sí	0.059		pendent
+6	6	B-doble-ASR	perquè	pa-045	175.33-183.63	clips/pa-045__perqu__175.33.wav	sí	no	sí	0.027		pendent
+6	6	B-doble-ASR	aleshores	pa-049	110.29-118.67	clips/pa-049__aleshores__110.29.wav	sí	no	sí	0.081		pendent
+6	6	B-doble-ASR	bé	pa-049	74.21-82.63	clips/pa-049__b__74.21.wav	sí	no	sí	0.024		pendent
+6	6	B-doble-ASR	evidentment	pa-049	117.17-126.51	clips/pa-049__evidentment__117.17.wav	sí	no	sí	0.347		pendent
+6	6	B-doble-ASR	llavors	pa-049	230.45-239.67	clips/pa-049__llavors__230.45.wav	sí	no	sí	0.025		pendent
+6	6	B-doble-ASR	perquè	pa-049	68.85-75.71	clips/pa-049__perqu__68.85.wav	sí	no	sí	0.024		pendent
+6	6	B-doble-ASR	vull dir	pa-049	208.09-214.63	clips/pa-049__vull-dir__208.09.wav	sí	no	sí	0.018		pendent
+6	6	B-doble-ASR	o sigui	pa-055	434.17-437.67	clips/pa-055__o-sigui__434.17.wav	sí	no	sí	0.035		pendent
+6	6	B-doble-ASR	bé	pa-056	436.49-441.47	clips/pa-056__b__436.49.wav	sí	no	sí	0.016		pendent
+6	6	B-doble-ASR	doncs	pa-056	43.45-48.59	clips/pa-056__doncs__43.45.wav	sí	no	sí	0.040		pendent
+6	6	B-doble-ASR	a nivell	pa-057	417.13-421.51	clips/pa-057__a-nivell__417.13.wav	sí	no	sí	0.094		pendent
+6	6	B-doble-ASR	bé	pa-057	203.57-209.03	clips/pa-057__b__203.57.wav	sí	no	sí	0.043		pendent
+6	6	B-doble-ASR	bueno	pa-059	166.17-173.63	clips/pa-059__bueno__166.17.wav	sí	no	sí	0.077		pendent
+6	6	B-doble-ASR	evidentment	pa-059	152.13-162.03	clips/pa-059__evidentment__152.13.wav	sí	no	sí	0.081		pendent
+6	6	B-doble-ASR	a nivell	pa-060	201.93-208.63	clips/pa-060__a-nivell__201.93.wav	sí	no	sí	0.096		pendent
+6	6	B-doble-ASR	doncs	pa-060	177.97-182.63	clips/pa-060__doncs__177.97.wav	sí	no	sí	0.042		pendent
+6	6	B-doble-ASR	vull dir	pa-060	20.65-26.35	clips/pa-060__vull-dir__20.65.wav	sí	no	sí	0.023		pendent
+6	6	B-doble-ASR	o sigui	pa-061	161.05-167.39	clips/pa-061__o-sigui__161.05.wav	sí	no	sí	0.037		pendent
+6	6	B-doble-ASR	vull dir	pa-061	193.57-200.03	clips/pa-061__vull-dir__193.57.wav	sí	no	sí	0.078		pendent
+6	6	B-doble-ASR	o sigui	pa-062	236.01-241.71	clips/pa-062__o-sigui__236.01.wav	sí	no	sí	0.087		pendent
+6	6	B-doble-ASR	crec	pa-063	758.81-763.23	clips/pa-063__crec__758.81.wav	sí	no	sí	0.064		pendent
+6	6	B-doble-ASR	o sigui	pa-063	826.09-830.95	clips/pa-063__o-sigui__826.09.wav	sí	no	sí	0.080		pendent
+6	6	B-doble-ASR	perquè	pa-064	27.57-33.27	clips/pa-064__perqu__27.57.wav	sí	no	sí	0.008		pendent
+6	6	B-doble-ASR	aleshores	pa-065	170.69-174.71	clips/pa-065__aleshores__170.69.wav	sí	no	sí	0.027		pendent
+6	6	B-doble-ASR	bueno	pa-065	1389.05-1393.75	clips/pa-065__bueno__1389.05.wav	sí	no	sí	0.054		pendent
+6	4	D-divergent	llavors	pa-014	228.25-237.35	clips/pa-014__llavors__228.25.wav	sí	no	no	0.065		pendent
+6	4	D-divergent	bueno	pa-017	823.25-829.75	clips/pa-017__bueno__823.25.wav	sí	no	no	0.084		pendent
+6	4	D-divergent	bé	pa-017	112.25-118.15	clips/pa-017__b__112.25.wav	sí	no	no	0.261		pendent
+6	4	D-divergent	a veure	pa-018	825.61-833.55	clips/pa-018__a-veure__825.61.wav	sí	no	no	0.038		pendent
+6	4	D-divergent	bueno	pa-018	23.21-28.91	clips/pa-018__bueno__23.21.wav	sí	no	no	0.031		pendent
+6	4	D-divergent	clar	pa-018	112.73-117.35	clips/pa-018__clar__112.73.wav	sí	no	no	0.040		pendent
+6	4	D-divergent	doncs	pa-018	33.53-39.87	clips/pa-018__doncs__33.53.wav	sí	no	no	0.031		pendent
+6	4	D-divergent	és a dir	pa-019	56.25-60.75	clips/pa-019__s-a-dir__56.25.wav	sí	no	no	0.106		pendent
+6	4	D-divergent	bueno	pa-020	13.57-19.47	clips/pa-020__bueno__13.57.wav	sí	no	no	0.029		pendent
+6	4	D-divergent	vull dir	pa-020	165.45-170.99	clips/pa-020__vull-dir__165.45.wav	sí	no	no	0.034		pendent
+6	4	D-divergent	aleshores	pa-021	12.25-16.87	clips/pa-021__aleshores__12.25.wav	sí	no	no	0.044		pendent
+6	4	D-divergent	bueno	pa-022	122.85-126.95	clips/pa-022__bueno__122.85.wav	sí	no	no	0.057		pendent
+6	4	D-divergent	llavors	pa-022	57.37-61.35	clips/pa-022__llavors__57.37.wav	sí	no	no	0.031		pendent
+6	4	D-divergent	doncs	pa-026	6.33-9.67	clips/pa-026__doncs__6.33.wav	sí	no	no	0.034		pendent
+6	4	D-divergent	llavors	pa-026	81.13-84.63	clips/pa-026__llavors__81.13.wav	sí	no	no	0.015		pendent
+6	4	D-divergent	bueno	pa-027	35.13-40.47	clips/pa-027__bueno__35.13.wav	sí	no	no	0.081		pendent
+6	4	D-divergent	llavors	pa-027	137.93-143.43	clips/pa-027__llavors__137.93.wav	sí	no	no	0.085		pendent
+6	4	D-divergent	vull dir	pa-027	254.25-260.87	clips/pa-027__vull-dir__254.25.wav	sí	no	no	0.047		pendent
+6	4	D-divergent	bueno	pa-029	720.69-724.19	clips/pa-029__bueno__720.69.wav	sí	no	no	0.153		pendent
+6	4	D-divergent	bé	pa-029	42.97-46.79	clips/pa-029__b__42.97.wav	sí	no	no	0.052		pendent
+6	4	D-divergent	doncs	pa-029	127.61-131.67	clips/pa-029__doncs__127.61.wav	sí	no	no	0.017		pendent
+6	4	D-divergent	llavors	pa-029	42.97-46.79	clips/pa-029__llavors__42.97.wav	sí	no	no	0.034		pendent
+6	4	D-divergent	perquè	pa-029	249.69-254.43	clips/pa-029__perqu__249.69.wav	sí	no	no	0.033		pendent
+6	4	D-divergent	bé	pa-031	329.13-333.07	clips/pa-031__b__329.13.wav	sí	no	no	0.074		pendent
+6	4	D-divergent	llavors	pa-032	174.13-178.67	clips/pa-032__llavors__174.13.wav	sí	no	no	0.044		pendent
+6	4	D-divergent	bueno	pa-034	33.81-39.07	clips/pa-034__bueno__33.81.wav	sí	no	no	0.045		pendent
+6	4	D-divergent	doncs	pa-034	110.53-116.23	clips/pa-034__doncs__110.53.wav	sí	no	no	0.040		pendent
+6	4	D-divergent	llavors	pa-034	29.17-32.67	clips/pa-034__llavors__29.17.wav	sí	no	no	0.037		pendent
+6	4	D-divergent	vull dir	pa-034	58.29-61.51	clips/pa-034__vull-dir__58.29.wav	sí	no	no	0.022		pendent
+6	4	D-divergent	bueno	pa-035	195.49-202.11	clips/pa-035__bueno__195.49.wav	sí	no	no	0.020		pendent
+6	4	D-divergent	clar	pa-035	223.61-233.59	clips/pa-035__clar__223.61.wav	sí	no	no	0.052		pendent
+6	4	D-divergent	bueno	pa-036	76.25-84.15	clips/pa-036__bueno__76.25.wav	sí	no	no	0.164		pendent
+6	4	D-divergent	diguem	pa-039	144.37-152.95	clips/pa-039__diguem__144.37.wav	sí	no	no	0.081		pendent
+6	4	D-divergent	doncs	pa-039	12.77-19.51	clips/pa-039__doncs__12.77.wav	sí	no	no	0.067		pendent
+6	4	D-divergent	clar	pa-046	172.53-177.71	clips/pa-046__clar__172.53.wav	sí	no	no	0.076		pendent
+6	4	D-divergent	o sigui	pa-046	230.61-235.23	clips/pa-046__o-sigui__230.61.wav	sí	no	no	0.090		pendent
+6	4	D-divergent	perquè	pa-046	140.85-146.79	clips/pa-046__perqu__140.85.wav	sí	no	no	0.011		pendent
+6	4	D-divergent	perquè	pa-048	186.93-191.19	clips/pa-048__perqu__186.93.wav	sí	no	no	0.027		pendent
+6	4	D-divergent	aviam	pa-049	897.25-901.75	clips/pa-049__aviam__897.25.wav	sí	no	no	0.112		pendent
+6	4	D-divergent	bé	pa-053	90.81-95.91	clips/pa-053__b__90.81.wav	sí	no	no	0.144		pendent
+6	4	D-divergent	doncs	pa-055	6.29-9.67	clips/pa-055__doncs__6.29.wav	sí	no	no	0.050		pendent
+6	4	D-divergent	llavors	pa-055	105.37-110.27	clips/pa-055__llavors__105.37.wav	sí	no	no	0.033		pendent
+6	4	D-divergent	o sigui	pa-056	1016.49-1021.67	clips/pa-056__o-sigui__1016.49.wav	sí	no	no	0.075		pendent
+6	4	D-divergent	bueno	pa-057	1128.89-1136.35	clips/pa-057__bueno__1128.89.wav	sí	no	no	0.076		pendent
+6	4	D-divergent	de fet	pa-057	561.25-569.07	clips/pa-057__de-fet__561.25.wav	sí	no	no	0.132		pendent
+6	4	D-divergent	doncs	pa-057	127.21-131.71	clips/pa-057__doncs__127.21.wav	sí	no	no	0.032		pendent
+6	4	D-divergent	és a dir	pa-057	19.89-25.51	clips/pa-057__s-a-dir__19.89.wav	sí	no	no	0.168		pendent
+6	4	D-divergent	a veure	pa-058	828.61-833.55	clips/pa-058__a-veure__828.61.wav	sí	no	no	0.047		pendent
+6	4	D-divergent	bé	pa-058	210.61-215.39	clips/pa-058__b__210.61.wav	sí	no	no	0.099		pendent
+6	4	D-divergent	clar	pa-058	112.81-117.27	clips/pa-058__clar__112.81.wav	sí	no	no	0.023		pendent
+6	4	D-divergent	doncs	pa-058	200.41-205.27	clips/pa-058__doncs__200.41.wav	sí	no	no	0.031		pendent
+6	4	D-divergent	llavors	pa-058	1054.41-1059.35	clips/pa-058__llavors__1054.41.wav	sí	no	no	0.095		pendent
+6	4	D-divergent	bé	pa-059	112.41-118.27	clips/pa-059__b__112.41.wav	sí	no	no	0.063		pendent
+6	4	D-divergent	doncs	pa-059	245.81-250.79	clips/pa-059__doncs__245.81.wav	sí	no	no	0.071		pendent
+6	4	D-divergent	bueno	pa-060	150.05-157.07	clips/pa-060__bueno__150.05.wav	sí	no	no	0.046		pendent
+6	4	D-divergent	bé	pa-060	415.73-419.91	clips/pa-060__b__415.73.wav	sí	no	no	0.079		pendent
+6	4	D-divergent	doncs	pa-061	242.09-249.23	clips/pa-061__doncs__242.09.wav	sí	no	no	0.046		pendent
+6	4	D-divergent	doncs	pa-062	302.09-307.51	clips/pa-062__doncs__302.09.wav	sí	no	no	0.089		pendent
+6	4	D-divergent	evidentment	pa-062	163.29-166.67	clips/pa-062__evidentment__163.29.wav	sí	no	no	0.078		pendent
+6	4	D-divergent	vull dir	pa-062	316.81-326.39	clips/pa-062__vull-dir__316.81.wav	sí	no	no	0.003		pendent
+6	4	D-divergent	aleshores	pa-063	151.45-155.23	clips/pa-063__aleshores__151.45.wav	sí	no	no	0.088		pendent
+6	4	D-divergent	llavors	pa-064	713.33-717.15	clips/pa-064__llavors__713.33.wav	sí	no	no	0.036		pendent
+6	4	D-divergent	a veure	pa-065	578.25-582.71	clips/pa-065__a-veure__578.25.wav	sí	no	no	0.046		pendent
+6	4	D-divergent	llavors	pa-065	612.13-617.87	clips/pa-065__llavors__612.13.wav	sí	no	no	0.057		pendent
+2	2	C-una-passada	crec	pa-001	97.33-100.95	clips/pa-001__crec__97.33.wav	no	no	sí	0.108		pendent
+2	2	C-una-passada	de fet	pa-001	68.49-71.99	clips/pa-001__de-fet__68.49.wav	no	no	sí	0.237		pendent
+2	2	C-una-passada	evidentment	pa-001	1067.69-1071.19	clips/pa-001__evidentment__1067.69.wav	no	no	sí	0.360		pendent
+2	2	C-una-passada	llavors	pa-001	837.17-841.11	clips/pa-001__llavors__837.17.wav	no	no	sí	0.068		pendent
+2	2	C-una-passada	perquè	pa-001	59.57-63.31	clips/pa-001__perqu__59.57.wav	no	no	sí	0.018		pendent
+2	2	C-una-passada	a nivell	pa-002	714.25-724.75	clips/pa-002__a-nivell__714.25.wav	no	no	sí	0.237		pendent
+2	2	C-una-passada	a veure	pa-002	126.25-132.75	clips/pa-002__a-veure__126.25.wav	no	no	sí	0.198		pendent
+2	2	C-una-passada	bé	pa-002	348.25-355.75	clips/pa-002__b__348.25.wav	no	no	sí	0.138		pendent
+2	2	C-una-passada	clar	pa-002	186.25-190.75	clips/pa-002__clar__186.25.wav	no	no	sí	0.095		pendent
+2	2	C-una-passada	crec	pa-002	248.25-254.75	clips/pa-002__crec__248.25.wav	no	no	sí	0.137		pendent
+2	2	C-una-passada	de fet	pa-002	72.25-76.75	clips/pa-002__de-fet__72.25.wav	no	no	sí	0.066		pendent
+2	2	C-una-passada	evidentment	pa-002	205.25-209.75	clips/pa-002__evidentment__205.25.wav	no	no	sí	0.082		pendent
+2	2	C-una-passada	llavors	pa-002	550.25-556.75	clips/pa-002__llavors__550.25.wav	no	no	sí	0.090		pendent
+2	2	C-una-passada	perquè	pa-002	18.25-23.75	clips/pa-002__perqu__18.25.wav	no	no	sí	0.098		pendent
+2	2	C-una-passada	reformeta	pa-002	12.25-17.75	clips/pa-002__reformeta__12.25.wav	no	no	sí	0.243		pendent
+2	2	C-una-passada	a nivell	pa-003	180.17-188.79	clips/pa-003__a-nivell__180.17.wav	no	no	sí	0.171		pendent
+2	2	C-una-passada	bueno	pa-003	227.05-235.71	clips/pa-003__bueno__227.05.wav	no	no	sí	0.047		pendent
+2	2	C-una-passada	bé	pa-003	0.00-7.19	clips/pa-003__b__0.00.wav	no	no	sí	0.053		pendent
+2	2	C-una-passada	clar	pa-003	451.89-459.15	clips/pa-003__clar__451.89.wav	no	no	sí	0.070		pendent
+2	2	C-una-passada	crec	pa-003	0.00-7.19	clips/pa-003__crec__0.00.wav	no	no	sí	0.053		pendent
+2	2	C-una-passada	de fet	pa-003	0.00-7.19	clips/pa-003__de-fet__0.00.wav	no	no	sí	0.053		pendent
+2	2	C-una-passada	ensenyança	pa-003	279.69-286.23	clips/pa-003__ensenyan-a__279.69.wav	no	no	sí	0.114		pendent
+2	2	C-una-passada	evidentment	pa-003	158.81-165.19	clips/pa-003__evidentment__158.81.wav	no	no	sí	0.033		pendent
+2	2	C-una-passada	perquè	pa-003	201.57-207.03	clips/pa-003__perqu__201.57.wav	no	no	sí	0.047		pendent
+2	2	C-una-passada	tirar endavant	pa-003	361.93-366.63	clips/pa-003__tirar-endavant__361.93.wav	no	no	sí	0.040		pendent
+2	2	C-una-passada	és a dir	pa-003	65.05-70.51	clips/pa-003__s-a-dir__65.05.wav	no	no	sí	0.033		pendent
+2	2	C-una-passada	llavors	pa-005	433.29-439.27	clips/pa-005__llavors__433.29.wav	no	no	sí	0.051		pendent
+2	2	C-una-passada	clar	pa-006	379.25-383.75	clips/pa-006__clar__379.25.wav	no	no	sí	0.416		pendent
+2	2	C-una-passada	diguem	pa-006	530.25-535.75	clips/pa-006__diguem__530.25.wav	no	no	sí	0.274		pendent
+2	2	C-una-passada	aleshores	pa-008	1315.25-1319.75	clips/pa-008__aleshores__1315.25.wav	no	no	sí	0.327		pendent
+2	2	C-una-passada	evidentment	pa-011	157.65-163.71	clips/pa-011__evidentment__157.65.wav	no	no	sí	0.162		pendent
+2	2	C-una-passada	aleshores	pa-012	246.25-250.75	clips/pa-012__aleshores__246.25.wav	no	no	sí	0.060		pendent
+2	2	C-una-passada	bé	pa-013	196.65-203.47	clips/pa-013__b__196.65.wav	no	no	sí	0.133		pendent
+2	2	C-una-passada	a veure	pa-014	617.45-637.95	clips/pa-014__a-veure__617.45.wav	no	no	sí	0.193		pendent
+2	2	C-una-passada	llavors	pa-015	197.25-204.75	clips/pa-015__llavors__197.25.wav	no	no	sí	0.284		pendent
+2	2	C-una-passada	crec	pa-016	93.17-100.83	clips/pa-016__crec__93.17.wav	no	no	sí	0.258		pendent
+2	2	C-una-passada	o sigui	pa-016	311.25-316.15	clips/pa-016__o-sigui__311.25.wav	no	no	sí	0.131		pendent
+2	2	C-una-passada	és a dir	pa-016	85.97-90.59	clips/pa-016__s-a-dir__85.97.wav	no	no	sí	0.071		pendent
+2	2	C-una-passada	clar	pa-019	415.25-419.75	clips/pa-019__clar__415.25.wav	no	no	sí	0.474		pendent
+2	2	C-una-passada	diguem	pa-020	1459.77-1463.95	clips/pa-020__diguem__1459.77.wav	no	no	sí	0.119		pendent
+2	2	C-una-passada	doncs	pa-020	247.37-252.03	clips/pa-020__doncs__247.37.wav	no	no	sí	0.089		pendent
+2	2	C-una-passada	a nivell	pa-024	1547.93-1552.91	clips/pa-024__a-nivell__1547.93.wav	no	no	sí	0.056		pendent
+2	2	C-una-passada	clar	pa-024	648.09-656.83	clips/pa-024__clar__648.09.wav	no	no	sí	0.016		pendent
+2	2	C-una-passada	crec	pa-024	368.01-372.63	clips/pa-024__crec__368.01.wav	no	no	sí	0.017		pendent
+2	2	C-una-passada	de fet	pa-024	482.25-489.07	clips/pa-024__de-fet__482.25.wav	no	no	sí	0.042		pendent
+2	2	C-una-passada	evidentment	pa-024	518.89-523.51	clips/pa-024__evidentment__518.89.wav	no	no	sí	0.042		pendent
+2	2	C-una-passada	perquè	pa-024	225.53-230.35	clips/pa-024__perqu__225.53.wav	no	no	sí	0.006		pendent
+2	2	C-una-passada	aleshores	pa-025	361.93-368.19	clips/pa-025__aleshores__361.93.wav	no	no	sí	0.038		pendent
+2	2	C-una-passada	o sigui	pa-025	1462.85-1472.59	clips/pa-025__o-sigui__1462.85.wav	no	no	sí	0.160		pendent
+2	2	C-una-passada	o sigui	pa-029	243.13-248.63	clips/pa-029__o-sigui__243.13.wav	no	no	sí	0.058		pendent
+2	2	C-una-passada	doncs	pa-030	43.53-48.63	clips/pa-030__doncs__43.53.wav	no	no	sí	0.055		pendent
+2	2	C-una-passada	llavors	pa-030	157.61-163.15	clips/pa-030__llavors__157.61.wav	no	no	sí	0.097		pendent
+2	2	C-una-passada	o sigui	pa-030	1016.41-1021.47	clips/pa-030__o-sigui__1016.41.wav	no	no	sí	0.107		pendent
+2	2	C-una-passada	tirar endavant	pa-030	185.61-192.15	clips/pa-030__tirar-endavant__185.61.wav	no	no	sí	0.133		pendent
+2	2	C-una-passada	aleshores	pa-031	54.09-57.91	clips/pa-031__aleshores__54.09.wav	no	no	sí	0.027		pendent
+2	2	C-una-passada	doncs	pa-031	414.05-419.11	clips/pa-031__doncs__414.05.wav	no	no	sí	0.116		pendent
+2	2	C-una-passada	tirar endavant	pa-031	146.09-150.31	clips/pa-031__tirar-endavant__146.09.wav	no	no	sí	0.128		pendent
+2	2	C-una-passada	aleshores	pa-032	79.09-87.19	clips/pa-032__aleshores__79.09.wav	no	no	sí	0.065		pendent
+2	2	C-una-passada	vull dir	pa-032	389.29-393.79	clips/pa-032__vull-dir__389.29.wav	no	no	sí	0.039		pendent
+2	2	C-una-passada	de fet	pa-033	249.69-252.55	clips/pa-033__de-fet__249.69.wav	no	no	sí	0.056		pendent
+2	2	C-una-passada	llavors	pa-033	71.53-76.35	clips/pa-033__llavors__71.53.wav	no	no	sí	0.114		pendent
+2	2	C-una-passada	tirar endavant	pa-033	135.69-141.51	clips/pa-033__tirar-endavant__135.69.wav	no	no	sí	0.255		pendent
+2	2	C-una-passada	crec	pa-037	424.61-437.99	clips/pa-037__crec__424.61.wav	no	no	sí	0.096		pendent
+2	2	C-una-passada	tirar endavant	pa-041	102.25-106.75	clips/pa-041__tirar-endavant__102.25.wav	no	no	sí	0.081		pendent
+2	2	C-una-passada	a nivell	pa-045	624.85-629.07	clips/pa-045__a-nivell__624.85.wav	no	no	sí	0.070		pendent
+2	2	C-una-passada	aleshores	pa-046	527.57-532.55	clips/pa-046__aleshores__527.57.wav	no	no	sí	0.078		pendent
+2	2	C-una-passada	llavors	pa-046	381.13-388.19	clips/pa-046__llavors__381.13.wav	no	no	sí	0.058		pendent
+2	2	C-una-passada	és a dir	pa-046	135.61-140.07	clips/pa-046__s-a-dir__135.61.wav	no	no	sí	0.078		pendent
+2	2	C-una-passada	doncs	pa-048	302.89-306.79	clips/pa-048__doncs__302.89.wav	no	no	sí	0.136		pendent
+2	2	C-una-passada	clar	pa-051	161.85-167.07	clips/pa-051__clar__161.85.wav	no	no	sí	0.070		pendent
+2	2	C-una-passada	crec	pa-051	208.57-213.39	clips/pa-051__crec__208.57.wav	no	no	sí	0.030		pendent
+2	2	C-una-passada	perquè	pa-051	123.85-128.35	clips/pa-051__perqu__123.85.wav	no	no	sí	0.071		pendent
+2	2	C-una-passada	bueno	pa-052	41.97-47.23	clips/pa-052__bueno__41.97.wav	no	no	sí	0.066		pendent
+2	2	C-una-passada	clar	pa-052	59.97-64.67	clips/pa-052__clar__59.97.wav	no	no	sí	0.029		pendent
+2	2	C-una-passada	perquè	pa-052	92.65-96.47	clips/pa-052__perqu__92.65.wav	no	no	sí	0.056		pendent
+2	2	C-una-passada	llavors	pa-053	40.73-47.71	clips/pa-053__llavors__40.73.wav	no	no	sí	0.088		pendent
+2	2	C-una-passada	a veure	pa-054	77.97-81.87	clips/pa-054__a-veure__77.97.wav	no	no	sí	0.096		pendent
+2	2	C-una-passada	llavors	pa-054	156.57-161.51	clips/pa-054__llavors__156.57.wav	no	no	sí	0.034		pendent
+2	2	C-una-passada	vull dir	pa-055	311.73-315.91	clips/pa-055__vull-dir__311.73.wav	no	no	sí	0.070		pendent
+2	2	C-una-passada	aleshores	pa-056	393.13-397.83	clips/pa-056__aleshores__393.13.wav	no	no	sí	0.082		pendent
+2	2	C-una-passada	llavors	pa-056	157.77-163.11	clips/pa-056__llavors__157.77.wav	no	no	sí	0.148		pendent
+2	2	C-una-passada	o sigui	pa-057	249.45-254.11	clips/pa-057__o-sigui__249.45.wav	no	no	sí	0.042		pendent
+2	2	C-una-passada	tirar endavant	pa-057	56.61-63.15	clips/pa-057__tirar-endavant__56.61.wav	no	no	sí	0.130		pendent
+2	2	C-una-passada	llavors	pa-060	48.77-56.07	clips/pa-060__llavors__48.77.wav	no	no	sí	0.146		pendent
+2	2	C-una-passada	vull dir	pa-063	822.45-827.51	clips/pa-063__vull-dir__822.45.wav	no	no	sí	0.127		pendent
+2	2	C-una-passada	a nivell	pa-065	529.09-536.75	clips/pa-065__a-nivell__529.09.wav	no	no	sí	0.037		pendent
+2	0	D-divergent	a nivell	pa-001	135.37-139.03	clips/pa-001__a-nivell__135.37.wav	no	no	no	0.044		pendent
+2	0	D-divergent	a veure	pa-001	341.57-345.59	clips/pa-001__a-veure__341.57.wav	no	no	no	0.031		pendent
+2	0	D-divergent	aleshores	pa-001	10.13-13.63	clips/pa-001__aleshores__10.13.wav	no	no	no	0.048		pendent
+2	0	D-divergent	bueno	pa-001	207.01-212.99	clips/pa-001__bueno__207.01.wav	no	no	no	0.045		pendent
+2	0	D-divergent	bé	pa-001	49.17-54.35	clips/pa-001__b__49.17.wav	no	no	no	0.035		pendent
+2	0	D-divergent	clar	pa-001	129.77-134.51	clips/pa-001__clar__129.77.wav	no	no	no	0.055		pendent
+2	0	D-divergent	o sigui	pa-001	49.17-54.35	clips/pa-001__o-sigui__49.17.wav	no	no	no	0.043		pendent
+2	0	D-divergent	vull dir	pa-001	621.37-625.39	clips/pa-001__vull-dir__621.37.wav	no	no	no	0.134		pendent
+2	0	D-divergent	és a dir	pa-001	890.97-894.47	clips/pa-001__s-a-dir__890.97.wav	no	no	no	0.024		pendent
+2	0	D-divergent	bueno	pa-002	433.25-440.75	clips/pa-002__bueno__433.25.wav	no	no	no	0.061		pendent
+2	0	D-divergent	vull dir	pa-002	172.25-176.75	clips/pa-002__vull-dir__172.25.wav	no	no	no	0.050		pendent
+2	0	D-divergent	és a dir	pa-002	12.25-17.75	clips/pa-002__s-a-dir__12.25.wav	no	no	no	0.066		pendent
+2	0	D-divergent	aleshores	pa-003	18.69-23.19	clips/pa-003__aleshores__18.69.wav	no	no	no	0.064		pendent
+2	0	D-divergent	aviam	pa-003	180.17-188.79	clips/pa-003__aviam__180.17.wav	no	no	no	0.171		pendent
+2	0	D-divergent	diguem	pa-003	212.85-219.51	clips/pa-003__diguem__212.85.wav	no	no	no	0.133		pendent
+2	0	D-divergent	llavors	pa-006	214.25-220.75	clips/pa-006__llavors__214.25.wav	no	no	no	0.032		pendent
+2	0	D-divergent	bueno	pa-007	475.25-480.75	clips/pa-007__bueno__475.25.wav	no	no	no	0.158		pendent
+2	0	D-divergent	bueno	pa-008	969.25-973.75	clips/pa-008__bueno__969.25.wav	no	no	no	0.336		pendent
+2	0	D-divergent	llavors	pa-009	201.25-207.75	clips/pa-009__llavors__201.25.wav	no	no	no	0.479		pendent
+2	0	D-divergent	aleshores	pa-011	89.33-95.07	clips/pa-011__aleshores__89.33.wav	no	no	no	0.127		pendent
+2	0	D-divergent	aleshores	pa-014	119.85-128.75	clips/pa-014__aleshores__119.85.wav	no	no	no	0.129		pendent
+2	0	D-divergent	o sigui	pa-015	104.25-109.75	clips/pa-015__o-sigui__104.25.wav	no	no	no	0.491		pendent
+2	0	D-divergent	aviam	pa-016	729.65-741.19	clips/pa-016__aviam__729.65.wav	no	no	no	0.064		pendent
+2	0	D-divergent	diguem	pa-022	447.57-453.55	clips/pa-022__diguem__447.57.wav	no	no	no	0.106		pendent
+2	0	D-divergent	doncs	pa-022	122.85-126.95	clips/pa-022__doncs__122.85.wav	no	no	no	0.057		pendent
+2	0	D-divergent	diguem	pa-023	55.05-60.95	clips/pa-023__diguem__55.05.wav	no	no	no	0.083		pendent
+2	0	D-divergent	a veure	pa-024	590.77-595.39	clips/pa-024__a-veure__590.77.wav	no	no	no	0.029		pendent
+2	0	D-divergent	bueno	pa-024	147.29-152.07	clips/pa-024__bueno__147.29.wav	no	no	no	0.006		pendent
+2	0	D-divergent	bé	pa-024	175.29-180.79	clips/pa-024__b__175.29.wav	no	no	no	0.025		pendent
+2	0	D-divergent	doncs	pa-024	83.01-114.51	clips/pa-024__doncs__83.01.wav	no	no	no	0.007		pendent
+2	0	D-divergent	llavors	pa-024	336.85-341.27	clips/pa-024__llavors__336.85.wav	no	no	no	0.004		pendent
+2	0	D-divergent	o sigui	pa-024	554.49-565.07	clips/pa-024__o-sigui__554.49.wav	no	no	no	0.105		pendent
+2	0	D-divergent	és a dir	pa-024	78.49-84.39	clips/pa-024__s-a-dir__78.49.wav	no	no	no	0.017		pendent
+2	0	D-divergent	o sigui	pa-027	361.61-366.71	clips/pa-027__o-sigui__361.61.wav	no	no	no	0.066		pendent
+2	0	D-divergent	a veure	pa-029	17.49-21.59	clips/pa-029__a-veure__17.49.wav	no	no	no	0.058		pendent
+2	0	D-divergent	és a dir	pa-029	20.17-25.95	clips/pa-029__s-a-dir__20.17.wav	no	no	no	0.038		pendent
+2	0	D-divergent	a veure	pa-032	212.45-218.19	clips/pa-032__a-veure__212.45.wav	no	no	no	0.057		pendent
+2	0	D-divergent	a nivell	pa-033	6.61-10.79	clips/pa-033__a-nivell__6.61.wav	no	no	no	0.138		pendent
+2	0	D-divergent	o sigui	pa-034	1106.09-1110.75	clips/pa-034__o-sigui__1106.09.wav	no	no	no	0.067		pendent
+2	0	D-divergent	a veure	pa-035	211.09-218.51	clips/pa-035__a-veure__211.09.wav	no	no	no	0.008		pendent
+2	0	D-divergent	a veure	pa-038	1070.33-1076.43	clips/pa-038__a-veure__1070.33.wav	no	no	no	0.128		pendent
+2	0	D-divergent	és a dir	pa-039	209.05-216.11	clips/pa-039__s-a-dir__209.05.wav	no	no	no	0.019		pendent
+2	0	D-divergent	o sigui	pa-040	115.73-119.91	clips/pa-040__o-sigui__115.73.wav	no	no	no	0.050		pendent
+2	0	D-divergent	vull dir	pa-045	779.57-785.23	clips/pa-045__vull-dir__779.57.wav	no	no	no	0.072		pendent
+2	0	D-divergent	aleshores	pa-048	701.05-707.67	clips/pa-048__aleshores__701.05.wav	no	no	no	0.055		pendent
+2	0	D-divergent	doncs	pa-049	1092.25-1095.75	clips/pa-049__doncs__1092.25.wav	no	no	no	0.120		pendent
+2	0	D-divergent	és a dir	pa-049	907.25-911.75	clips/pa-049__s-a-dir__907.25.wav	no	no	no	0.540		pendent
+2	0	D-divergent	bueno	pa-051	41.97-47.43	clips/pa-051__bueno__41.97.wav	no	no	no	0.099		pendent
+2	0	D-divergent	de fet	pa-051	200.81-205.31	clips/pa-051__de-fet__200.81.wav	no	no	no	0.057		pendent
+2	0	D-divergent	llavors	pa-051	47.61-51.11	clips/pa-051__llavors__47.61.wav	no	no	no	0.141		pendent
+2	0	D-divergent	llavors	pa-052	68.73-73.23	clips/pa-052__llavors__68.73.wav	no	no	no	0.045		pendent
+2	0	D-divergent	bé	pa-054	128.77-134.43	clips/pa-054__b__128.77.wav	no	no	no	0.110		pendent
+2	0	D-divergent	a veure	pa-057	16.97-21.31	clips/pa-057__a-veure__16.97.wav	no	no	no	0.071		pendent
+2	0	D-divergent	clar	pa-057	357.57-364.07	clips/pa-057__clar__357.57.wav	no	no	no	0.027		pendent
+2	0	D-divergent	o sigui	pa-059	266.13-271.15	clips/pa-059__o-sigui__266.13.wav	no	no	no	0.201		pendent
+2	0	D-divergent	aleshores	pa-060	147.17-151.47	clips/pa-060__aleshores__147.17.wav	no	no	no	0.046		pendent
+2	0	D-divergent	diguem	pa-060	55.05-60.91	clips/pa-060__diguem__55.05.wav	no	no	no	0.089		pendent
+2	0	D-divergent	bueno	pa-063	801.17-804.67	clips/pa-063__bueno__801.17.wav	no	no	no	0.122		pendent
+2	0	D-divergent	de fet	pa-065	883.97-888.71	clips/pa-065__de-fet__883.97.wav	no	no	no	0.130		pendent

@@ -1,0 +1,53 @@
+forma	categoria	small	base	consens	model_localitzador	context_small	context_base	prob_min_segment_small	prob_mean_segment_small	prob_min_segment_base	prob_mean_segment_base	clip	inici_ms	final_ms	estat
+a nivell	discurs	0	0	no											ASR textual; atribució i audició pendents
+a veure	discurs	1	0	no	small	A veure què passa a la taula.		0.0147	0.2626			lead-yt-047__02__a-veure.wav	1182640	1184640	ASR textual; atribució i audició pendents
+aleshores	discurs	0	0	no											ASR textual; atribució i audició pendents
+aviam	discurs	1	0	no	small	Sóc, però... Bueno, sóc, sóc. Aviam, que cabell surt, que passa que surt molt lentament. Molt, però cabell surt, Marcina.		0.0911	0.7597			lead-yt-047__04__aviam.wav	1057080	1065080	ASR textual; atribució i audició pendents
+bueno	discurs	4	4	sí	small	Bueno, molt bé, molt bé. I ja està.	Bueno, molt bé, molt bé.	0.5398	0.8883	0.5029	0.8493	lead-yt-047__05__bueno.wav	413120	415360	ASR textual; atribució i audició pendents
+bé	discurs	11	9	sí	small	Bé, no passa res, espera, cap problema.	-Bé, no passa res per esperar cap problema.	0.3297	0.7594	0.0181	0.6961	lead-yt-047__06__b.wav	57840	62840	ASR textual; atribució i audició pendents
+clar	discurs	9	4	sí	small	Clar, clar. Sí, sí, sí.	-Ojo, ojo, ojo. -Marc, clar.	0.3732	0.8296	0.0441	0.7131	lead-yt-047__07__clar.wav	400560	402560	ASR textual; atribució i audició pendents
+de fet	discurs	0	0	no											ASR textual; atribució i audició pendents
+diguem	discurs	0	0	no											ASR textual; atribució i audició pendents
+doncs	discurs	6	2	sí	small	"Doncs el meu millor amic es va a mudar a Barcelona un dia i va dir ""Aquí, ja veuràs que aquí hi ha oportunitats"	Doncs el meu millor amic es va mudar a Barcelona un dia a Madrid.	0.2166	0.7552	0.1109	0.6867	lead-yt-047__10__doncs.wav	233880	246360	ASR textual; atribució i audició pendents
+evidentment	discurs	1	1	sí	small	que vas creant mica en mica i que evidentment mica en mica va creixent,	i que evidentment mica que va creixent,	0.3949	0.8370	0.2404	0.8019	lead-yt-047__11__evidentment.wav	821880	825000	ASR textual; atribució i audició pendents
+llavors	discurs	0	1	no	base		Llavors, jo he crescut a Barcelona,			0.2443	0.7741	lead-yt-047__12__llavors.wav	544840	547880	ASR textual; atribució i audició pendents
+no?	discurs	4	2	sí	small	que t'instala a Barcelona un pis compartit on ella ja estava, no?	que t'instal·les a Barcelona, un pis compartit on ella i estava, no?	0.5736	0.8581	0.2772	0.7230	lead-yt-047__13__no.wav	352800	355800	ASR textual; atribució i audició pendents
+o sigui	discurs	1	2	sí	small	O sigui que tinc projectes de música en gallec aquí.	o sigui que ja parla castellà perfecte.	0.4280	0.8314	0.4405	0.8230	lead-yt-047__14__o-sigui.wav	752480	757920	ASR textual; atribució i audició pendents
+per tant	discurs	1	1	sí	small	És que no se sap mai. Per tant, moltíssimes gràcies per acceptar la conversa.	Per tant, moltíssimes gràcies per accepter la conversa.	0.5892	0.9273	0.0354	0.7707	lead-yt-047__15__per-tant.wav	1138920	1143440	ASR textual; atribució i audició pendents
+perquè	discurs	20	17	sí	small	i expliquem històries, amb diàlegs curts, perquè no hi ha massa temps, hi ha un compte enrere,	perquè no hi ha massa temps, i en comptes rir abans de començar	0.2498	0.8544	0.1122	0.7420	lead-yt-047__16__perqu.wav	15080	20200	ASR textual; atribució i audició pendents
+vull dir	discurs	0	0	no											ASR textual; atribució i audició pendents
+és a dir	discurs	2	1	sí	small	Perdó, això m'has d'explicar, és a dir,	Això m'has d'explicar, això m'has d'explicar, és a dir,	0.4347	0.8119	0.3257	0.8205	lead-yt-047__18__s-a-dir.wav	183920	188960	ASR textual; atribució i audició pendents
+Canillo	territorial	0	0	no											ASR textual; atribució i audició pendents
+Escaldes	territorial	0	0	no											ASR textual; atribució i audició pendents
+Massana	territorial	0	0	no											ASR textual; atribució i audició pendents
+Ordino	territorial	0	0	no											ASR textual; atribució i audició pendents
+Sant Julià	territorial	0	0	no											ASR textual; atribució i audició pendents
+aiguats	territorial	0	0	no											ASR textual; atribució i audició pendents
+andorrana	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunal	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunals	territorial	0	0	no											ASR textual; atribució i audició pendents
+comuns	territorial	0	0	no											ASR textual; atribució i audició pendents
+comú	territorial	0	0	no											ASR textual; atribució i audició pendents
+copríncep	territorial	0	0	no											ASR textual; atribució i audició pendents
+coprínceps	territorial	0	0	no											ASR textual; atribució i audició pendents
+padrí	territorial	0	0	no											ASR textual; atribució i audició pendents
+parròquia	territorial	0	0	no											ASR textual; atribució i audició pendents
+santuari	territorial	0	0	no											ASR textual; atribució i audició pendents
+veguer	territorial	0	0	no											ASR textual; atribució i audició pendents
+Gabriel	persona	9	7	sí	small	que es diu Gabriel Lezcano, que està en directe ara, amb nosaltres,	que es diu Gabriel Lescano, que està en directe ara amb nosaltres,	0.2370	0.8728	0.2543	0.7513	lead-yt-047__36__gabriel.wav	41360	46760	ASR textual; atribució i audició pendents
+músic	cultura	1	1	sí	small	Ser músic no és fàcil en ninguna part del món.	com aquesta, ser músic no és fàcil	0.4323	0.9145	0.2719	0.6700	lead-yt-047__37__m-sic.wav	135120	141800	ASR textual; atribució i audició pendents
+música	cultura	7	7	sí	small	si és la cosa que comença en broma, o comença seriosament amb el tema de la música.	amb el tema de la música, com es nata a parar,	0.1499	0.7543	0.3447	0.7826	lead-yt-047__38__m-sica.wav	112800	118120	ASR textual; atribució i audició pendents
+cor	cultura	4	3	sí	small	per dirigir un cor espanyol, i jo he dit que sí, i al principi no funcionava bé,	que ha estat una oportunitat per dirigir un cor espanyol,	0.3691	0.8176	0.0584	0.6802	lead-yt-047__39__cor.wav	694880	706080	ASR textual; atribució i audició pendents
+concert	cultura	0	0	no											ASR textual; atribució i audició pendents
+cantant	cultura	0	0	no											ASR textual; atribució i audició pendents
+Galícia	toponim	7	3	sí	small	perquè tu ets de Galícia, vas viure a Barcelona,	perquè tu ets de Galícia, vas viure a Barcelona,	0.3889	0.9398	0.3631	0.8502	lead-yt-047__42__gal-cia.wav	73840	76840	ASR textual; atribució i audició pendents
+gallec	gentilici	4	1	sí	small	Parles ara mateix com Julio Iglesias, un bon gallec.	Per la sora mateix, com Juli Iglesias, un bon gallec,	0.6281	0.8758	0.0579	0.6391	lead-yt-047__43__gallec.wav	305560	308000	ASR textual; atribució i audició pendents
+Barcelona	toponim	27	20	sí	small	perquè tu ets de Galícia, vas viure a Barcelona,	perquè tu ets de Galícia, vas viure a Barcelona,	0.3889	0.9398	0.3631	0.8502	lead-yt-047__44__barcelona.wav	73840	76840	ASR textual; atribució i audició pendents
+Suècia	toponim	2	3	sí	small	i ara estàs fa cinc, set anys, és tu com? Suècia?	I jo coneguta la meva dona i anaven molt a Suècia, de vacances.	0.2398	0.7561	0.2523	0.6917	lead-yt-047__45__su-cia.wav	76840	80840	ASR textual; atribució i audició pendents
+Andorra	toponim	0	1	no	base		amb tota andorra, a preneus televisió i el qual d'entrada li demano disculpes			0.0752	0.6428	lead-yt-047__46__andorra.wav	46760	50000	ASR textual; atribució i audició pendents
+andorrà	gentilici	0	0	no											ASR textual; atribució i audició pendents
+cultura	cultura	2	1	sí	small	"I l'associació és diu ""Cultura Pospanska"", que es tradueix com ""Cultura en Español""."	que es traduessin amb cultura en Espanyol.	0.2143	0.7264	0.1202	0.6429	lead-yt-047__48__cultura.wav	735080	743040	ASR textual; atribució i audició pendents
+lleure	societat	1	1	sí	small	monitor de lleure, moltes coses, però un cop m'ha arribat una oportunitat	Estic en l'educació, profesor d'Espanyol, bonito de lleure,	0.2498	0.8440	0.0385	0.6551	lead-yt-047__49__lleure.wav	685280	694880	ASR textual; atribució i audició pendents
+família	societat	0	0	no											ASR textual; atribució i audició pendents
+treball	societat	0	0	no											ASR textual; atribució i audició pendents
+oportunitat	societat	2	2	sí	small	"Clar, jo deia ""per què no? És una oportunitat, en Barcelona ja estava una mica cansat i veia que no havia futur per la meva professió i ha començat de ser-ho""."	Clar, jo de ella, per què no, és una oportunitat.	0.1152	0.7927	0.2491	0.8084	lead-yt-047__52__oportunitat.wav	490360	504360	ASR textual; atribució i audició pendents

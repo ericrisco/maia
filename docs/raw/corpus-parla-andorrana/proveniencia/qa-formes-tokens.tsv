@@ -1,0 +1,314 @@
+id_persona	forma	clip	ocurrencia	local_start_s	local_end_s	absolute_start_s	absolute_end_s	tokens	prob_min	prob_mean	tokens_count	coincidencia_token	estat
+pa-007	bé	clips/pa-007__b__59.25.wav	1	0.670	0.930	59.920	60.180	bé	0.6477	0.6477	1	sí	ASR; pendent d'audicio
+pa-007	llavors	clips/pa-007__llavors__657.25.wav	1	0.000	0.420	657.250	657.670	llavors	0.0183	0.4596	2	sí	ASR; pendent d'audicio
+pa-010	crec	clips/pa-010__crec__1033.25.wav	1	0.390	0.760	1033.640	1034.010	crec	0.8283	0.8283	1	sí	ASR; pendent d'audicio
+pa-041	vull dir	clips/pa-041__vull-dir__264.25.wav	1	1.210	2.000	265.460	266.250	vull dir	0.9947	0.9948	2	sí	ASR; pendent d'audicio
+pa-004	bé	clips/pa-004__b__319.61.wav	1	1.280	1.540	320.890	321.150	bé	0.9828	0.9828	1	sí	ASR; pendent d'audicio
+pa-004	de fet	clips/pa-004__de-fet__601.17.wav	1	2.750	3.000	603.920	604.170	de fet	0.6882	0.8381	2	sí	ASR; pendent d'audicio
+pa-004	evidentment	clips/pa-004__evidentment__522.93.wav	1	3.920	3.970	526.850	526.900	evidentment	0.9676	0.9793	2	sí	ASR; pendent d'audicio
+pa-004	perquè	clips/pa-004__perqu__464.09.wav	1	3.990	4.710	468.080	468.800	perquè	0.6217	0.6217	1	sí	ASR; pendent d'audicio
+pa-004	vull dir	clips/pa-004__vull-dir__143.45.wav	1	1.710	2.230	145.160	145.680	vull dir	0.5771	0.7862	2	sí	ASR; pendent d'audicio
+pa-005	bé	clips/pa-005__b__51.09.wav	1	1.520	2.000	52.610	53.090	bé	0.9921	0.9921	1	sí	ASR; pendent d'audicio
+pa-005	doncs	clips/pa-005__doncs__71.13.wav	1	0.000	0.490	71.130	71.620	Doncs	0.6435	0.6435	1	sí	ASR; pendent d'audicio
+pa-005	doncs	clips/pa-005__doncs__71.13.wav	2	0.960	1.450	72.090	72.580	doncs	0.3084	0.6541	2	sí	ASR; pendent d'audicio
+pa-005	o sigui	clips/pa-005__o-sigui__373.33.wav	1	3.600	4.060	376.930	377.390	O sigui	0.8872	0.9370	2	sí	ASR; pendent d'audicio
+pa-006	aleshores	clips/pa-006__aleshores__513.25.wav	1	0.030	0.740	513.280	513.990	Aleshores	0.5916	0.8525	3	sí	ASR; pendent d'audicio
+pa-006	bé	clips/pa-006__b__151.25.wav	1	3.350	3.600	154.600	154.850	bé	0.8041	0.8041	1	sí	ASR; pendent d'audicio
+pa-006	de fet	clips/pa-006__de-fet__285.25.wav	1	1.270	2.070	286.520	287.320	de fet	0.8407	0.9182	2	sí	ASR; pendent d'audicio
+pa-006	doncs	clips/pa-006__doncs__180.25.wav	1	0.980	1.540	181.230	181.790	doncs	0.5306	0.7648	2	sí	ASR; pendent d'audicio
+pa-006	o sigui	clips/pa-006__o-sigui__136.25.wav	1	0.000	0.490	136.250	136.740	o sigui	0.0187	0.4989	2	sí	ASR; pendent d'audicio
+pa-006	perquè	clips/pa-006__perqu__110.25.wav	1	3.200	3.880	113.450	114.130	perquè	0.2439	0.2439	1	sí	ASR; pendent d'audicio
+pa-007	a veure	clips/pa-007__a-veure__89.25.wav	1	1.280	1.800	90.530	91.050	a veure	0.9934	0.9961	2	sí	ASR; pendent d'audicio
+pa-007	clar	clips/pa-007__clar__344.25.wav	1	0.260	0.610	344.510	344.860	clar	0.4951	0.4951	1	sí	ASR; pendent d'audicio
+pa-007	diguem	clips/pa-007__diguem__585.25.wav	1	1.210	1.420	586.460	586.670	diguem	0.7294	0.8476	2	sí	ASR; pendent d'audicio
+pa-007	doncs	clips/pa-007__doncs__59.25.wav	1	0.130	0.480	59.380	59.730	Doncs	0.5996	0.5996	1	sí	ASR; pendent d'audicio
+pa-007	evidentment	clips/pa-007__evidentment__778.25.wav	1	4.080	4.880	782.330	783.130	evidentment	0.9315	0.9633	2	sí	ASR; pendent d'audicio
+pa-007	perquè	clips/pa-007__perqu__101.25.wav	1	2.000	2.060	103.250	103.310	perquè	0.8509	0.8509	1	sí	ASR; pendent d'audicio
+pa-007	és a dir	clips/pa-007__s-a-dir__684.25.wav	1	0.000	1.170	684.250	685.420	és a dir	0.0916	0.5689	3	sí	ASR; pendent d'audicio
+pa-008	a veure	clips/pa-008__a-veure__668.25.wav	1	1.910	2.640	670.160	670.890	a veure	0.9915	0.9953	2	sí	ASR; pendent d'audicio
+pa-008	bé	clips/pa-008__b__61.25.wav	1	1.890	2.020	63.140	63.270	bé	0.4059	0.4059	1	sí	ASR; pendent d'audicio
+pa-008	clar	clips/pa-008__clar__841.25.wav	1	0.160	0.470	841.410	841.720	Clar	0.3522	0.3522	1	sí	ASR; pendent d'audicio
+pa-008	de fet	clips/pa-008__de-fet__799.25.wav	1	2.440	2.690	801.690	801.940	de fet	0.7983	0.8963	2	sí	ASR; pendent d'audicio
+pa-008	és a dir	clips/pa-008__s-a-dir__1110.25.wav	1	2.300	2.600	1112.550	1112.850	És a dir	0.4791	0.8156	3	sí	ASR; pendent d'audicio
+pa-009	bé	clips/pa-009__b__557.25.wav	1	3.060	3.430	560.310	560.680	bé	0.9969	0.9969	1	sí	ASR; pendent d'audicio
+pa-009	clar	clips/pa-009__clar__99.25.wav	1	3.230	3.520	102.480	102.770	clar	0.9195	0.9195	1	sí	ASR; pendent d'audicio
+pa-009	doncs	clips/pa-009__doncs__139.25.wav	1	0.000	0.500	139.250	139.750	Doncs	0.2017	0.2017	1	sí	ASR; pendent d'audicio
+pa-009	evidentment	clips/pa-009__evidentment__947.25.wav	1	1.000	1.740	948.250	948.990	evidentment	0.9520	0.9711	2	sí	ASR; pendent d'audicio
+pa-009	o sigui	clips/pa-009__o-sigui__234.25.wav	1	2.110	2.460	236.360	236.710	o sigui	0.2229	0.5901	2	sí	ASR; pendent d'audicio
+pa-009	perquè	clips/pa-009__perqu__349.25.wav	1	0.000	0.560	349.250	349.810	perquè	0.2138	0.2138	1	sí	ASR; pendent d'audicio
+pa-010	clar	clips/pa-010__clar__334.85.wav	1	3.280	3.500	338.130	338.350	clar	0.9866	0.9866	1	sí	ASR; pendent d'audicio
+pa-010	de fet	clips/pa-010__de-fet__647.25.wav	1	1.480	1.990	648.730	649.240	de fet	0.6151	0.8000	2	sí	ASR; pendent d'audicio
+pa-010	doncs	clips/pa-010__doncs__24.65.wav	1	2.510	2.770	27.160	27.420	doncs	0.4795	0.7395	2	sí	ASR; pendent d'audicio
+pa-010	llavors	clips/pa-010__llavors__386.25.wav	1	0.850	1.720	387.100	387.970	llavors	0.7955	0.8972	2	sí	ASR; pendent d'audicio
+pa-010	perquè	clips/pa-010__perqu__196.65.wav	1	0.000	0.300	196.650	196.950	perquè	0.2814	0.2814	1	sí	ASR; pendent d'audicio
+pa-010	és a dir	clips/pa-010__s-a-dir__243.25.wav	1	0.000	0.380	243.250	243.630	és a dir	0.3904	0.7847	3	sí	ASR; pendent d'audicio
+pa-011	a veure	clips/pa-011__a-veure__551.81.wav	1	3.040	3.450	554.850	555.260	a veure	0.1111	0.5389	2	sí	ASR; pendent d'audicio
+pa-011	bé	clips/pa-011__b__185.57.wav	1	2.920	2.940	188.490	188.510	bé	0.9983	0.9983	1	sí	ASR; pendent d'audicio
+pa-011	de fet	clips/pa-011__de-fet__557.25.wav	1	0.000	0.690	557.250	557.940	de fet	0.5130	0.7524	2	sí	ASR; pendent d'audicio
+pa-011	doncs	clips/pa-011__doncs__61.49.wav	1	1.480	1.940	62.970	63.430	doncs	0.4045	0.7019	2	sí	ASR; pendent d'audicio
+pa-011	perquè	clips/pa-011__perqu__27.61.wav	1	1.240	1.490	28.850	29.100	perquè	0.6057	0.6057	1	sí	ASR; pendent d'audicio
+pa-011	és a dir	clips/pa-011__s-a-dir__48.09.wav	1	0.000	0.850	48.090	48.940	és a dir	0.0626	0.6780	3	sí	ASR; pendent d'audicio
+pa-012	perquè	clips/pa-012__perqu__369.25.wav	1	0.000	0.110	369.250	369.360	perquè	0.6158	0.6158	1	sí	ASR; pendent d'audicio
+pa-013	perquè	clips/pa-013__perqu__433.89.wav	1	2.270	2.640	436.160	436.530	perquè	0.9497	0.9497	1	sí	ASR; pendent d'audicio
+pa-013	és a dir	clips/pa-013__s-a-dir__579.17.wav	1	1.200	1.540	580.370	580.710	És a dir	0.6284	0.8650	3	sí	ASR; pendent d'audicio
+pa-014	aviam	clips/pa-014__aviam__875.45.wav	1	2.000	2.000	877.450	877.450	aviam	0.1944	0.5657	2	sí	ASR; pendent d'audicio
+pa-014	crec	clips/pa-014__crec__153.25.wav	1	0.310	0.720	153.560	153.970	crec	0.9940	0.9940	1	sí	ASR; pendent d'audicio
+pa-014	evidentment	clips/pa-014__evidentment__28.65.wav	1	3.180	3.330	31.830	31.980	evidentment	0.8709	0.9327	2	sí	ASR; pendent d'audicio
+pa-014	o sigui	clips/pa-014__o-sigui__658.45.wav	1	4.030	4.120	662.480	662.570	o sigui	0.6862	0.8267	2	sí	ASR; pendent d'audicio
+pa-014	perquè	clips/pa-014__perqu__105.85.wav	1	2.390	2.810	108.240	108.660	perquè	0.8193	0.8193	1	sí	ASR; pendent d'audicio
+pa-015	doncs	clips/pa-015__doncs__83.25.wav	1	1.130	1.530	84.380	84.780	doncs	0.8466	0.9220	2	sí	ASR; pendent d'audicio
+pa-015	perquè	clips/pa-015__perqu__86.25.wav	1	2.000	2.480	88.250	88.730	perquè	0.4134	0.4134	1	sí	ASR; pendent d'audicio
+pa-016	a nivell	clips/pa-016__a-nivell__333.81.wav	1	3.610	4.160	337.420	337.970	a nivell	0.7040	0.8911	3	sí	ASR; pendent d'audicio
+pa-016	a veure	clips/pa-016__a-veure__369.73.wav	1	1.210	2.120	370.940	371.850	a veure	0.5117	0.7539	2	sí	ASR; pendent d'audicio
+pa-016	bé	clips/pa-016__b__170.05.wav	1	5.940	6.280	175.990	176.330	bé	0.9990	0.9990	1	sí	ASR; pendent d'audicio
+pa-016	clar	clips/pa-016__clar__175.69.wav	1	1.640	1.990	177.330	177.680	clar	0.9439	0.9439	1	sí	ASR; pendent d'audicio
+pa-016	de fet	clips/pa-016__de-fet__318.53.wav	1	2.270	2.360	320.800	320.890	de fet	0.5592	0.7741	2	sí	ASR; pendent d'audicio
+pa-016	doncs	clips/pa-016__doncs__62.33.wav	1	4.880	5.070	67.210	67.400	Doncs	0.5311	0.5311	1	sí	ASR; pendent d'audicio
+pa-016	evidentment	clips/pa-016__evidentment__456.85.wav	1	0.220	1.050	457.070	457.900	evidentment	0.7723	0.8821	2	sí	ASR; pendent d'audicio
+pa-016	llavors	clips/pa-016__llavors__15.05.wav	1	0.080	0.530	15.130	15.580	llavors	0.7574	0.8734	2	sí	ASR; pendent d'audicio
+pa-016	perquè	clips/pa-016__perqu__79.77.wav	1	2.190	2.860	81.960	82.630	perquè	0.8479	0.8479	1	sí	ASR; pendent d'audicio
+pa-016	vull dir	clips/pa-016__vull-dir__322.53.wav	1	2.990	3.120	325.520	325.650	vull dir	0.4016	0.6989	2	sí	ASR; pendent d'audicio
+pa-017	a nivell	clips/pa-017__a-nivell__143.25.wav	1	3.360	3.840	146.610	147.090	a nivell	0.7278	0.8996	3	sí	ASR; pendent d'audicio
+pa-017	clar	clips/pa-017__clar__34.45.wav	1	3.900	4.130	38.350	38.580	clar	0.9757	0.9757	1	sí	ASR; pendent d'audicio
+pa-017	doncs	clips/pa-017__doncs__459.25.wav	1	1.340	1.630	460.590	460.880	doncs	0.9049	0.9520	2	sí	ASR; pendent d'audicio
+pa-017	llavors	clips/pa-017__llavors__361.25.wav	1	1.080	1.830	362.330	363.080	Llavors	0.7556	0.8677	2	sí	ASR; pendent d'audicio
+pa-017	perquè	clips/pa-017__perqu__4.25.wav	1	2.150	2.640	6.400	6.890	perquè	0.6669	0.6669	1	sí	ASR; pendent d'audicio
+pa-017	tirar endavant	clips/pa-017__tirar-endavant__49.85.wav	1	2.520	2.800	52.370	52.650	tirar endavant	0.2057	0.7058	3	sí	ASR; pendent d'audicio
+pa-017	vull dir	clips/pa-017__vull-dir__272.25.wav	1	0.000	0.750	272.250	273.000	Vull dir	0.6073	0.8683	3	sí	ASR; pendent d'audicio
+pa-017	és a dir	clips/pa-017__s-a-dir__487.25.wav	1	1.520	1.710	488.770	488.960	és a dir	0.4956	0.8279	3	sí	ASR; pendent d'audicio
+pa-018	a nivell	clips/pa-018__a-nivell__188.45.wav									0	no	ASR; pendent d'audicio
+pa-018	crec	clips/pa-018__crec__7.49.wav	1	1.060	1.450	8.550	8.940	crec	0.9969	0.9969	1	sí	ASR; pendent d'audicio
+pa-018	diguem	clips/pa-018__diguem__715.49.wav	1	2.430	2.720	717.920	718.210	diguem	0.4794	0.6877	2	sí	ASR; pendent d'audicio
+pa-018	perquè	clips/pa-018__perqu__91.09.wav	1	1.070	1.760	92.160	92.850	perquè	0.9663	0.9663	1	sí	ASR; pendent d'audicio
+pa-019	a nivell	clips/pa-019__a-nivell__122.25.wav	1	3.350	3.830	125.600	126.080	a nivell	0.9056	0.9516	3	sí	ASR; pendent d'audicio
+pa-019	bueno	clips/pa-019__bueno__328.25.wav	1	0.320	0.600	328.570	328.850	bueno	0.1975	0.1975	1	sí	ASR; pendent d'audicio
+pa-019	bé	clips/pa-019__b__195.25.wav	1	5.410	5.600	200.660	200.850	bé	0.9932	0.9932	1	sí	ASR; pendent d'audicio
+pa-019	crec	clips/pa-019__crec__27.25.wav	1	1.270	1.570	28.520	28.820	crec	0.9925	0.9925	1	sí	ASR; pendent d'audicio
+pa-019	diguem	clips/pa-019__diguem__109.25.wav	1	1.230	1.610	110.480	110.860	diguem	0.9362	0.9453	2	sí	ASR; pendent d'audicio
+pa-019	evidentment	clips/pa-019__evidentment__93.25.wav	1	2.080	2.940	95.330	96.190	evidentment	0.7612	0.8792	2	sí	ASR; pendent d'audicio
+pa-019	llavors	clips/pa-019__llavors__422.25.wav	1	3.760	4.150	426.010	426.400	llavors	0.9040	0.9465	2	sí	ASR; pendent d'audicio
+pa-020	aviam	clips/pa-020__aviam__252.21.wav	1	3.060	3.400	255.270	255.610	aviam	0.1339	0.4173	2	sí	ASR; pendent d'audicio
+pa-020	bé	clips/pa-020__b__146.37.wav	1	3.090	3.410	149.460	149.780	bé	0.9976	0.9976	1	sí	ASR; pendent d'audicio
+pa-020	clar	clips/pa-020__clar__89.81.wav	1	3.480	3.620	93.290	93.430	clar	0.5345	0.5345	1	sí	ASR; pendent d'audicio
+pa-020	perquè	clips/pa-020__perqu__9.41.wav	1	0.030	0.410	9.440	9.820	perquè	0.1574	0.1574	1	sí	ASR; pendent d'audicio
+pa-021	bueno	clips/pa-021__bueno__12.25.wav	1	1.950	2.400	14.200	14.650	bueno	0.6500	0.6500	1	sí	ASR; pendent d'audicio
+pa-021	crec	clips/pa-021__crec__115.53.wav	1	0.800	1.060	116.330	116.590	crec	0.9550	0.9550	1	sí	ASR; pendent d'audicio
+pa-021	doncs	clips/pa-021__doncs__12.25.wav	1	3.660	3.750	15.910	16.000	doncs	0.7531	0.8764	2	sí	ASR; pendent d'audicio
+pa-021	evidentment	clips/pa-021__evidentment__211.41.wav	1	0.510	1.640	211.920	213.050	evidentment	0.4338	0.7163	2	sí	ASR; pendent d'audicio
+pa-021	perquè	clips/pa-021__perqu__15.45.wav	1	1.670	2.000	17.120	17.450	perquè	0.8815	0.8815	1	sí	ASR; pendent d'audicio
+pa-021	vull dir	clips/pa-021__vull-dir__314.29.wav	1	3.710	4.840	318.000	319.130	vull dir	0.7440	0.8676	2	sí	ASR; pendent d'audicio
+pa-021	és a dir	clips/pa-021__s-a-dir__32.29.wav	1	1.130	2.120	33.420	34.410	És a dir	0.3647	0.7847	3	sí	ASR; pendent d'audicio
+pa-022	a veure	clips/pa-022__a-veure__238.61.wav	1	2.000	2.500	240.610	241.110	a veure	0.3096	0.6496	2	sí	ASR; pendent d'audicio
+pa-022	clar	clips/pa-022__clar__107.73.wav	1	1.380	1.580	109.110	109.310	clar	0.9951	0.9951	1	sí	ASR; pendent d'audicio
+pa-022	crec	clips/pa-022__crec__243.73.wav	1	0.210	0.360	243.940	244.090	crec	0.9941	0.9941	1	sí	ASR; pendent d'audicio
+pa-022	evidentment	clips/pa-022__evidentment__303.01.wav	1	0.000	1.230	303.010	304.240	Evidentment	0.2581	0.7485	3	sí	ASR; pendent d'audicio
+pa-022	o sigui	clips/pa-022__o-sigui__42.93.wav	1	0.000	0.540	42.930	43.470	O sigui	0.0430	0.5146	2	sí	ASR; pendent d'audicio
+pa-022	perquè	clips/pa-022__perqu__111.69.wav	1	0.000	0.470	111.690	112.160	perquè	0.2534	0.2534	1	sí	ASR; pendent d'audicio
+pa-022	reformeta	clips/pa-022__reformeta__125.53.wav	1	2.700	3.400	128.230	128.930	reformeta	0.6595	0.8106	2	sí	ASR; pendent d'audicio
+pa-022	és a dir	clips/pa-022__s-a-dir__11.49.wav	1	3.800	4.560	15.290	16.050	És a dir	0.1417	0.6980	3	sí	ASR; pendent d'audicio
+pa-023	a nivell	clips/pa-023__a-nivell__418.57.wav	1	1.300	1.800	419.870	420.370	a nivell	0.8081	0.9214	3	sí	ASR; pendent d'audicio
+pa-023	a veure	clips/pa-023__a-veure__268.81.wav	1	0.010	0.510	268.820	269.320	A veure	0.1996	0.5001	2	sí	ASR; pendent d'audicio
+pa-023	bé	clips/pa-023__b__409.37.wav									0	no	ASR; pendent d'audicio
+pa-023	perquè	clips/pa-023__perqu__29.09.wav	1	0.000	0.940	29.090	30.030	perquè	0.1482	0.1482	1	sí	ASR; pendent d'audicio
+pa-023	és a dir	clips/pa-023__s-a-dir__207.17.wav	1	0.000	0.550	207.170	207.720	És a dir	0.0165	0.6542	3	sí	ASR; pendent d'audicio
+pa-025	a veure	clips/pa-025__a-veure__388.01.wav	1	1.000	1.740	389.010	389.750	A veure	0.7039	0.8515	2	sí	ASR; pendent d'audicio
+pa-025	crec	clips/pa-025__crec__4.25.wav	1	0.800	0.900	5.050	5.150	crec	0.9899	0.9899	1	sí	ASR; pendent d'audicio
+pa-025	de fet	clips/pa-025__de-fet__890.85.wav	1	1.590	2.000	892.440	892.850	de fet	0.6469	0.8082	2	sí	ASR; pendent d'audicio
+pa-025	diguem	clips/pa-025__diguem__500.89.wav	1	3.030	3.470	503.920	504.360	diguem	0.6352	0.8158	2	sí	ASR; pendent d'audicio
+pa-025	evidentment	clips/pa-025__evidentment__1156.61.wav	1	0.800	1.360	1157.410	1157.970	evidentment	0.7289	0.8639	2	sí	ASR; pendent d'audicio
+pa-025	perquè	clips/pa-025__perqu__37.17.wav	1	0.550	0.980	37.720	38.150	perquè	0.8440	0.8440	1	sí	ASR; pendent d'audicio
+pa-025	reformeta	clips/pa-025__reformeta__1085.53.wav	1	2.140	2.900	1087.670	1088.430	reformeta	0.4505	0.7125	2	sí	ASR; pendent d'audicio
+pa-026	a nivell	clips/pa-026__a-nivell__38.25.wav	1	1.420	2.020	39.670	40.270	a nivell	0.8241	0.9114	3	sí	ASR; pendent d'audicio
+pa-026	a veure	clips/pa-026__a-veure__64.09.wav	1	1.550	2.490	65.640	66.580	a veure	0.6966	0.8417	2	sí	ASR; pendent d'audicio
+pa-026	perquè	clips/pa-026__perqu__150.53.wav	1	0.420	0.610	150.950	151.140	perquè	0.6276	0.6276	1	sí	ASR; pendent d'audicio
+pa-026	reformeta	clips/pa-026__reformeta__138.61.wav	1	3.050	3.740	141.660	142.350	reformeta	0.9543	0.9609	2	sí	ASR; pendent d'audicio
+pa-027	crec	clips/pa-027__crec__8.81.wav	1	1.900	2.020	10.710	10.830	crec	0.9514	0.9514	1	sí	ASR; pendent d'audicio
+pa-027	de fet	clips/pa-027__de-fet__109.45.wav	1	0.540	1.040	109.990	110.490	de fet	0.3832	0.6832	2	sí	ASR; pendent d'audicio
+pa-027	diguem	clips/pa-027__diguem__57.77.wav	1	1.070	1.490	58.840	59.260	diguem	0.3965	0.6932	2	sí	ASR; pendent d'audicio
+pa-027	evidentment	clips/pa-027__evidentment__174.09.wav	1	1.220	1.830	175.310	175.920	evidentment	0.8805	0.9372	2	sí	ASR; pendent d'audicio
+pa-027	perquè	clips/pa-027__perqu__8.81.wav	1	1.370	1.700	10.180	10.510	perquè	0.7631	0.7631	1	sí	ASR; pendent d'audicio
+pa-028	bé	clips/pa-028__b__182.49.wav	1	3.030	3.120	185.520	185.610	bé	0.9916	0.9916	1	sí	ASR; pendent d'audicio
+pa-028	clar	clips/pa-028__clar__290.33.wav	1	1.490	1.620	291.820	291.950	clar	0.6888	0.6888	1	sí	ASR; pendent d'audicio
+pa-028	de fet	clips/pa-028__de-fet__31.17.wav	1	4.600	4.870	35.770	36.040	de fet	0.7839	0.8907	2	sí	ASR; pendent d'audicio
+pa-028	doncs	clips/pa-028__doncs__329.33.wav	1	1.080	1.330	330.410	330.660	Doncs	0.8421	0.8421	1	sí	ASR; pendent d'audicio
+pa-028	llavors	clips/pa-028__llavors__151.01.wav	1	2.720	3.140	153.730	154.150	llavors	0.1910	0.5905	2	sí	ASR; pendent d'audicio
+pa-029	a nivell	clips/pa-029__a-nivell__417.09.wav	1	1.570	2.200	418.660	419.290	a nivell	0.9070	0.9632	3	sí	ASR; pendent d'audicio
+pa-029	diguem	clips/pa-029__diguem__929.69.wav	1	4.880	4.920	934.570	934.610	diguem	0.7442	0.8543	2	sí	ASR; pendent d'audicio
+pa-029	tirar endavant	clips/pa-029__tirar-endavant__56.73.wav	1	4.940	5.640	61.670	62.370	tirar endavant	0.8813	0.9429	3	sí	ASR; pendent d'audicio
+pa-030	a veure	clips/pa-030__a-veure__673.41.wav	1	0.000	0.250	673.410	673.660	A veure	0.1988	0.5917	2	sí	ASR; pendent d'audicio
+pa-030	bueno	clips/pa-030__bueno__459.05.wav	1	1.100	1.380	460.150	460.430	bueno	0.2181	0.2181	1	sí	ASR; pendent d'audicio
+pa-030	bé	clips/pa-030__b__436.45.wav									0	no	ASR; pendent d'audicio
+pa-030	crec	clips/pa-030__crec__346.45.wav	1	1.730	2.060	348.180	348.510	crec	0.9742	0.9742	1	sí	ASR; pendent d'audicio
+pa-030	evidentment	clips/pa-030__evidentment__43.53.wav	1	1.320	2.040	44.850	45.570	evidentment	0.8964	0.9475	2	sí	ASR; pendent d'audicio
+pa-030	vull dir	clips/pa-030__vull-dir__842.69.wav	1	0.680	1.660	843.370	844.350	vull dir	0.9049	0.9470	2	sí	ASR; pendent d'audicio
+pa-030	és a dir	clips/pa-030__s-a-dir__193.13.wav	1	1.080	1.470	194.210	194.600	És a dir	0.3545	0.7618	3	sí	ASR; pendent d'audicio
+pa-031	crec	clips/pa-031__crec__87.01.wav	1	2.720	3.570	89.730	90.580	crec	0.9956	0.9956	1	sí	ASR; pendent d'audicio
+pa-031	de fet	clips/pa-031__de-fet__9.93.wav	1	0.930	1.630	10.860	11.560	de fet	0.8205	0.8598	2	sí	ASR; pendent d'audicio
+pa-031	perquè	clips/pa-031__perqu__32.69.wav	1	0.000	0.570	32.690	33.260	perquè	0.0697	0.0697	1	sí	ASR; pendent d'audicio
+pa-032	bueno	clips/pa-032__bueno__44.73.wav	1	0.270	0.730	45.000	45.460	bueno	0.8330	0.8330	1	sí	ASR; pendent d'audicio
+pa-032	bé	clips/pa-032__b__270.41.wav	1	3.120	3.250	273.530	273.660	bé	0.7044	0.7044	1	sí	ASR; pendent d'audicio
+pa-032	clar	clips/pa-032__clar__155.33.wav	1	2.070	2.760	157.400	158.090	clar	0.5817	0.5817	1	sí	ASR; pendent d'audicio
+pa-032	perquè	clips/pa-032__perqu__9.21.wav	1	0.000	0.860	9.210	10.070	perquè	0.5112	0.5112	1	sí	ASR; pendent d'audicio
+pa-033	bé	clips/pa-033__b__103.09.wav	1	0.970	1.210	104.060	104.300	bé	0.9744	0.9744	1	sí	ASR; pendent d'audicio
+pa-033	bé	clips/pa-033__b__103.09.wav	2	3.070	3.190	106.160	106.280	bé	0.9997	0.9997	1	sí	ASR; pendent d'audicio
+pa-033	clar	clips/pa-033__clar__54.49.wav	1	2.000	2.340	56.490	56.830	clar	0.4406	0.4406	1	sí	ASR; pendent d'audicio
+pa-033	diguem	clips/pa-033__diguem__49.01.wav	1	5.130	5.530	54.140	54.540	diguem	0.7151	0.8271	2	sí	ASR; pendent d'audicio
+pa-033	perquè	clips/pa-033__perqu__18.89.wav	1	0.000	0.350	18.890	19.240	perquè	0.2034	0.2034	1	sí	ASR; pendent d'audicio
+pa-033	vull dir	clips/pa-033__vull-dir__56.25.wav	1	0.610	0.890	56.860	57.140	vull dir	0.8126	0.9022	2	sí	ASR; pendent d'audicio
+pa-034	a nivell	clips/pa-034__a-nivell__143.81.wav	1	2.700	3.360	146.510	147.170	a nivell	0.7736	0.9192	3	sí	ASR; pendent d'audicio
+pa-034	a veure	clips/pa-034__a-veure__94.05.wav	1	1.180	1.990	95.230	96.040	a veure	0.9578	0.9626	2	sí	ASR; pendent d'audicio
+pa-034	crec	clips/pa-034__crec__651.65.wav	1	2.540	2.640	654.190	654.290	crec	0.6687	0.6687	1	sí	ASR; pendent d'audicio
+pa-034	diguem	clips/pa-034__diguem__504.45.wav	1	2.160	2.360	506.610	506.810	diguem	0.7193	0.8550	2	sí	ASR; pendent d'audicio
+pa-034	reformeta	clips/pa-034__reformeta__191.33.wav	1	6.120	6.680	197.450	198.010	reformeta	0.4659	0.7170	2	sí	ASR; pendent d'audicio
+pa-034	tirar endavant	clips/pa-034__tirar-endavant__690.33.wav	1	3.440	4.350	693.770	694.680	tirar endavant	0.8661	0.9261	3	sí	ASR; pendent d'audicio
+pa-035	crec	clips/pa-035__crec__872.77.wav	1	0.660	0.730	873.430	873.500	crec	0.9666	0.9666	1	sí	ASR; pendent d'audicio
+pa-035	perquè	clips/pa-035__perqu__181.13.wav	1	0.070	0.080	181.200	181.210	perquè	0.6201	0.6201	1	sí	ASR; pendent d'audicio
+pa-035	és a dir	clips/pa-035__s-a-dir__582.29.wav	1	0.000	0.750	582.290	583.040	És a dir	0.1928	0.5961	3	sí	ASR; pendent d'audicio
+pa-036	a nivell	clips/pa-036__a-nivell__386.45.wav	1	7.580	8.050	394.030	394.500	a nivell	0.8938	0.9572	3	sí	ASR; pendent d'audicio
+pa-036	a veure	clips/pa-036__a-veure__153.05.wav	1	1.100	1.500	154.150	154.550	a veure	0.4770	0.6078	2	sí	ASR; pendent d'audicio
+pa-036	bé	clips/pa-036__b__69.45.wav	1	2.510	2.720	71.960	72.170	bé	0.9995	0.9995	1	sí	ASR; pendent d'audicio
+pa-036	clar	clips/pa-036__clar__136.45.wav	1	5.090	5.270	141.540	141.720	clar	0.8695	0.8695	1	sí	ASR; pendent d'audicio
+pa-036	doncs	clips/pa-036__doncs__367.25.wav	1	5.000	5.370	372.250	372.620	Doncs	0.5064	0.5064	1	sí	ASR; pendent d'audicio
+pa-036	evidentment	clips/pa-036__evidentment__202.85.wav	1	5.100	5.570	207.950	208.420	evidentment	0.9393	0.9652	2	sí	ASR; pendent d'audicio
+pa-036	perquè	clips/pa-036__perqu__15.65.wav	1	2.470	2.640	18.120	18.290	perquè	0.2664	0.2664	1	sí	ASR; pendent d'audicio
+pa-036	vull dir	clips/pa-036__vull-dir__632.25.wav	1	0.000	0.550	632.250	632.800	Vull dir	0.0457	0.4205	3	sí	ASR; pendent d'audicio
+pa-037	bueno	clips/pa-037__bueno__105.29.wav	1	6.650	6.950	111.940	112.240	bueno	0.6636	0.6636	1	sí	ASR; pendent d'audicio
+pa-037	bé	clips/pa-037__b__105.29.wav	1	10.530	11.500	115.820	116.790	bé	0.9336	0.9336	1	sí	ASR; pendent d'audicio
+pa-037	bé	clips/pa-037__b__105.29.wav	2	13.190	13.860	118.480	119.150	bé	0.4035	0.4035	1	sí	ASR; pendent d'audicio
+pa-037	bé	clips/pa-037__b__105.29.wav	3	14.960	15.390	120.250	120.680	bé	0.9620	0.9620	1	sí	ASR; pendent d'audicio
+pa-037	bé	clips/pa-037__b__105.29.wav	4	15.890	16.210	121.180	121.500	bé	0.9723	0.9723	1	sí	ASR; pendent d'audicio
+pa-037	bé	clips/pa-037__b__105.29.wav	5	18.490	18.660	123.780	123.950	bé	0.3064	0.3064	1	sí	ASR; pendent d'audicio
+pa-037	diguem	clips/pa-037__diguem__469.77.wav	1	8.180	8.240	477.950	478.010	diguem	0.7388	0.7902	2	sí	ASR; pendent d'audicio
+pa-037	doncs	clips/pa-037__doncs__20.49.wav	1	0.270	0.750	20.760	21.240	doncs	0.6135	0.8066	2	sí	ASR; pendent d'audicio
+pa-037	llavors	clips/pa-037__llavors__92.53.wav	1	3.220	3.470	95.750	96.000	llavors	0.7037	0.8417	2	sí	ASR; pendent d'audicio
+pa-037	perquè	clips/pa-037__perqu__186.29.wav	1	8.480	9.140	194.770	195.430	Perquè	0.3810	0.3810	1	sí	ASR; pendent d'audicio
+pa-037	vull dir	clips/pa-037__vull-dir__414.01.wav	1	0.000	0.690	414.010	414.700	Vull dir	0.2914	0.7625	3	sí	ASR; pendent d'audicio
+pa-038	a nivell	clips/pa-038__a-nivell__455.49.wav	1	0.650	1.150	456.140	456.640	a nivell	0.5767	0.8263	3	sí	ASR; pendent d'audicio
+pa-038	bueno	clips/pa-038__bueno__874.61.wav	1	0.110	0.660	874.720	875.270	Bueno	0.5072	0.7518	2	sí	ASR; pendent d'audicio
+pa-038	bé	clips/pa-038__b__26.77.wav	1	0.810	1.000	27.580	27.770	bé	0.9083	0.9083	1	sí	ASR; pendent d'audicio
+pa-038	clar	clips/pa-038__clar__96.41.wav	1	3.450	3.810	99.860	100.220	clar	0.6020	0.6020	1	sí	ASR; pendent d'audicio
+pa-038	crec	clips/pa-038__crec__220.69.wav	1	1.010	1.590	221.700	222.280	crec	0.9981	0.9981	1	sí	ASR; pendent d'audicio
+pa-038	llavors	clips/pa-038__llavors__264.13.wav	1	0.000	0.760	264.130	264.890	Llavors	0.0343	0.5133	2	sí	ASR; pendent d'audicio
+pa-038	o sigui	clips/pa-038__o-sigui__16.65.wav	1	0.000	0.850	16.650	17.500	O sigui	0.1004	0.5462	2	sí	ASR; pendent d'audicio
+pa-038	perquè	clips/pa-038__perqu__279.13.wav	1	0.420	0.790	279.550	279.920	perquè	0.5824	0.5824	1	sí	ASR; pendent d'audicio
+pa-038	reformeta	clips/pa-038__reformeta__1821.69.wav	1	2.840	3.710	1824.530	1825.400	reformeta	0.9688	0.9812	2	sí	ASR; pendent d'audicio
+pa-038	vull dir	clips/pa-038__vull-dir__1576.57.wav	1	4.180	4.640	1580.750	1581.210	vull dir	0.9837	0.9868	2	sí	ASR; pendent d'audicio
+pa-039	bé	clips/pa-039__b__27.77.wav	1	3.220	3.270	30.990	31.040	bé	0.9914	0.9914	1	sí	ASR; pendent d'audicio
+pa-039	crec	clips/pa-039__crec__90.85.wav	1	1.640	1.950	92.490	92.800	crec	0.9907	0.9907	1	sí	ASR; pendent d'audicio
+pa-039	evidentment	clips/pa-039__evidentment__184.17.wav	1	0.000	0.910	184.170	185.080	Evidentment	0.2293	0.7355	3	sí	ASR; pendent d'audicio
+pa-039	perquè	clips/pa-039__perqu__18.09.wav	1	0.000	0.570	18.090	18.660	perquè	0.0785	0.0785	1	sí	ASR; pendent d'audicio
+pa-040	crec	clips/pa-040__crec__4.37.wav	1	0.180	0.530	4.550	4.900	crec	0.9886	0.9886	1	sí	ASR; pendent d'audicio
+pa-040	de fet	clips/pa-040__de-fet__70.17.wav	1	1.080	1.380	71.250	71.550	de fet	0.9576	0.9750	2	sí	ASR; pendent d'audicio
+pa-040	evidentment	clips/pa-040__evidentment__103.93.wav	1	1.880	2.190	105.810	106.120	Evidentment	0.8726	0.9560	3	sí	ASR; pendent d'audicio
+pa-040	perquè	clips/pa-040__perqu__25.21.wav	1	0.000	0.510	25.210	25.720	perquè	0.2038	0.2038	1	sí	ASR; pendent d'audicio
+pa-041	bé	clips/pa-041__b__130.25.wav	1	0.000	0.440	130.250	130.690	Bé	0.2875	0.6432	2	sí	ASR; pendent d'audicio
+pa-041	clar	clips/pa-041__clar__0.00.wav	1	3.880	4.480	3.880	4.480	clar	0.3376	0.3376	1	sí	ASR; pendent d'audicio
+pa-041	crec	clips/pa-041__crec__56.25.wav	1	1.310	1.810	57.560	58.060	crec	0.9905	0.9905	1	sí	ASR; pendent d'audicio
+pa-041	ensenyança	clips/pa-041__ensenyan-a__523.25.wav	1	6.270	6.940	529.520	530.190	ensenyança	0.7954	0.8194	3	sí	ASR; pendent d'audicio
+pa-041	evidentment	clips/pa-041__evidentment__353.25.wav	1	4.070	4.500	357.320	357.750	evidentment	0.5787	0.7876	2	sí	ASR; pendent d'audicio
+pa-041	perquè	clips/pa-041__perqu__69.25.wav	1	3.890	4.330	73.140	73.580	perquè	0.2885	0.2885	1	sí	ASR; pendent d'audicio
+pa-042	perquè	clips/pa-042__perqu__29.13.wav	1	2.100	2.460	31.230	31.590	perquè	0.7110	0.7110	1	sí	ASR; pendent d'audicio
+pa-043	bueno	clips/pa-043__bueno__0.00.wav	1	0.110	0.270	0.110	0.270	Bueno	0.2337	0.2337	1	sí	ASR; pendent d'audicio
+pa-043	crec	clips/pa-043__crec__102.25.wav	1	5.100	5.190	107.350	107.440	crec	0.9942	0.9942	1	sí	ASR; pendent d'audicio
+pa-043	és a dir	clips/pa-043__s-a-dir__107.25.wav	1	1.000	1.330	108.250	108.580	És a dir	0.3177	0.7684	3	sí	ASR; pendent d'audicio
+pa-045	a veure	clips/pa-045__a-veure__340.93.wav	1	4.090	4.160	345.020	345.090	a veure	0.9709	0.9821	2	sí	ASR; pendent d'audicio
+pa-045	bé	clips/pa-045__b__83.49.wav	1	0.090	0.360	83.580	83.850	bé	0.6354	0.6354	1	sí	ASR; pendent d'audicio
+pa-045	clar	clips/pa-045__clar__399.85.wav	1	3.680	4.020	403.530	403.870	clar	0.9012	0.9012	1	sí	ASR; pendent d'audicio
+pa-045	clar	clips/pa-045__clar__399.85.wav	2	5.020	5.200	404.870	405.050	clar	0.9997	0.9997	1	sí	ASR; pendent d'audicio
+pa-045	evidentment	clips/pa-045__evidentment__290.13.wav	1	1.190	1.960	291.320	292.090	evidentment	0.9812	0.9861	2	sí	ASR; pendent d'audicio
+pa-045	llavors	clips/pa-045__llavors__194.93.wav	1	1.370	1.710	196.300	196.640	llavors	0.3678	0.6832	2	sí	ASR; pendent d'audicio
+pa-045	o sigui	clips/pa-045__o-sigui__226.17.wav	1	0.000	1.490	226.170	227.660	o sigui	0.1907	0.5910	2	sí	ASR; pendent d'audicio
+pa-046	bé	clips/pa-046__b__348.81.wav	1	2.320	2.560	351.130	351.370	bé	0.8391	0.8391	1	sí	ASR; pendent d'audicio
+pa-046	diguem	clips/pa-046__diguem__626.01.wav	1	2.250	2.490	628.260	628.500	diguem	0.6911	0.8329	2	sí	ASR; pendent d'audicio
+pa-046	doncs	clips/pa-046__doncs__135.61.wav	1	1.000	1.700	136.610	137.310	doncs	0.2825	0.6410	2	sí	ASR; pendent d'audicio
+pa-048	a nivell	clips/pa-048__a-nivell__435.77.wav	1	3.520	3.740	439.290	439.510	a nivell	0.8845	0.9399	3	sí	ASR; pendent d'audicio
+pa-048	a veure	clips/pa-048__a-veure__393.93.wav	1	0.000	0.550	393.930	394.480	A veure	0.0287	0.3197	2	sí	ASR; pendent d'audicio
+pa-048	bé	clips/pa-048__b__495.73.wav	1	0.000	1.190	495.730	496.920	Bé	0.6658	0.8323	2	sí	ASR; pendent d'audicio
+pa-048	crec	clips/pa-048__crec__110.97.wav	1	2.580	3.120	113.550	114.090	crec	0.9866	0.9866	1	sí	ASR; pendent d'audicio
+pa-048	llavors	clips/pa-048__llavors__1244.97.wav	1	0.000	0.530	1244.970	1245.500	Llavors	0.1077	0.5522	2	sí	ASR; pendent d'audicio
+pa-048	o sigui	clips/pa-048__o-sigui__581.65.wav	1	0.000	0.500	581.650	582.150	O sigui	0.3651	0.6814	2	sí	ASR; pendent d'audicio
+pa-048	vull dir	clips/pa-048__vull-dir__993.69.wav	1	0.000	0.730	993.690	994.420	Vull dir	0.0263	0.6703	3	sí	ASR; pendent d'audicio
+pa-048	vull dir	clips/pa-048__vull-dir__993.69.wav	2	3.150	4.160	996.840	997.850	vull dir	0.4736	0.7221	2	sí	ASR; pendent d'audicio
+pa-048	és a dir	clips/pa-048__s-a-dir__1130.61.wav	1	0.000	1.530	1130.610	1132.140	és a dir	0.0362	0.6591	3	sí	ASR; pendent d'audicio
+pa-049	a veure	clips/pa-049__a-veure__244.85.wav	1	3.260	3.550	248.110	248.400	a veure	0.0989	0.3354	2	sí	ASR; pendent d'audicio
+pa-049	a veure	clips/pa-049__a-veure__244.85.wav	2	5.900	6.230	250.750	251.080	a veure	0.9962	0.9964	2	sí	ASR; pendent d'audicio
+pa-049	bueno	clips/pa-049__bueno__269.05.wav	1	5.560	5.790	274.610	274.840	Bueno	0.8754	0.8754	1	sí	ASR; pendent d'audicio
+pa-049	clar	clips/pa-049__clar__382.01.wav	1	1.080	1.330	383.090	383.340	Clar	0.6076	0.6076	1	sí	ASR; pendent d'audicio
+pa-049	crec	clips/pa-049__crec__371.85.wav	1	3.020	3.380	374.870	375.230	crec	0.9717	0.9717	1	sí	ASR; pendent d'audicio
+pa-049	diguem	clips/pa-049__diguem__213.13.wav	1	5.960	6.240	219.090	219.370	Diguem	0.6594	0.6876	2	sí	ASR; pendent d'audicio
+pa-049	o sigui	clips/pa-049__o-sigui__365.21.wav	1	1.580	1.870	366.790	367.080	o sigui	0.0641	0.5298	2	sí	ASR; pendent d'audicio
+pa-053	perquè	clips/pa-053__perqu__113.93.wav	1	3.910	4.160	117.840	118.090	perquè	0.6129	0.6129	1	sí	ASR; pendent d'audicio
+pa-054	bueno	clips/pa-054__bueno__51.69.wav	1	0.790	0.920	52.480	52.610	bueno	0.8263	0.8263	1	sí	ASR; pendent d'audicio
+pa-054	perquè	clips/pa-054__perqu__80.45.wav	1	2.720	3.340	83.170	83.790	perquè	0.7099	0.7099	1	sí	ASR; pendent d'audicio
+pa-055	a nivell	clips/pa-055__a-nivell__38.09.wav	1	0.360	1.190	38.450	39.280	a nivell	0.8532	0.9241	3	sí	ASR; pendent d'audicio
+pa-055	a veure	clips/pa-055__a-veure__63.89.wav	1	1.380	2.120	65.270	66.010	a veure	0.7076	0.8499	2	sí	ASR; pendent d'audicio
+pa-055	evidentment	clips/pa-055__evidentment__1644.01.wav	1	4.940	5.150	1648.950	1649.160	evidentment	0.4660	0.7323	2	sí	ASR; pendent d'audicio
+pa-055	perquè	clips/pa-055__perqu__148.53.wav	1	2.380	2.530	150.910	151.060	perquè	0.8312	0.8312	1	sí	ASR; pendent d'audicio
+pa-055	reformeta	clips/pa-055__reformeta__139.05.wav	1	2.850	3.800	141.900	142.850	reformeta	0.9557	0.9651	2	sí	ASR; pendent d'audicio
+pa-056	a veure	clips/pa-056__a-veure__673.21.wav	1	0.000	0.400	673.210	673.610	A veure	0.1806	0.5841	2	sí	ASR; pendent d'audicio
+pa-056	clar	clips/pa-056__clar__62.45.wav	1	1.270	1.740	63.720	64.190	clar	0.9842	0.9842	1	sí	ASR; pendent d'audicio
+pa-056	crec	clips/pa-056__crec__347.05.wav	1	1.270	1.780	348.320	348.830	crec	0.9856	0.9856	1	sí	ASR; pendent d'audicio
+pa-056	evidentment	clips/pa-056__evidentment__43.45.wav	1	1.310	1.980	44.760	45.430	evidentment	0.8623	0.9302	2	sí	ASR; pendent d'audicio
+pa-056	perquè	clips/pa-056__perqu__31.73.wav	1	0.720	1.150	32.450	32.880	perquè	0.4129	0.4129	1	sí	ASR; pendent d'audicio
+pa-056	tirar endavant	clips/pa-056__tirar-endavant__185.53.wav	1	1.620	2.520	187.150	188.050	tirar endavant	0.9073	0.9666	3	sí	ASR; pendent d'audicio
+pa-056	vull dir	clips/pa-056__vull-dir__842.65.wav	1	0.650	1.560	843.300	844.210	vull dir	0.9342	0.9595	2	sí	ASR; pendent d'audicio
+pa-057	diguem	clips/pa-057__diguem__929.81.wav	1	4.230	4.460	934.040	934.270	diguem	0.3385	0.6308	2	sí	ASR; pendent d'audicio
+pa-057	llavors	clips/pa-057__llavors__42.85.wav	1	0.110	0.870	42.960	43.720	llavors	0.3304	0.6592	2	sí	ASR; pendent d'audicio
+pa-057	perquè	clips/pa-057__perqu__249.45.wav	1	0.760	1.140	250.210	250.590	perquè	0.9119	0.9119	1	sí	ASR; pendent d'audicio
+pa-058	a nivell	clips/pa-058__a-nivell__188.37.wav									0	no	ASR; pendent d'audicio
+pa-058	diguem	clips/pa-058__diguem__715.21.wav	1	2.720	2.910	717.930	718.120	diguem	0.7829	0.8684	2	sí	ASR; pendent d'audicio
+pa-058	perquè	clips/pa-058__perqu__91.09.wav	1	1.010	1.630	92.100	92.720	perquè	0.9674	0.9674	1	sí	ASR; pendent d'audicio
+pa-058	vull dir	clips/pa-058__vull-dir__975.13.wav	1	2.240	2.800	977.370	977.930	vull dir	0.7520	0.8608	2	sí	ASR; pendent d'audicio
+pa-058	és a dir	clips/pa-058__s-a-dir__74.41.wav	1	1.090	1.660	75.500	76.070	És a dir	0.9532	0.9776	3	sí	ASR; pendent d'audicio
+pa-059	a nivell	clips/pa-059__a-nivell__142.93.wav	1	3.600	3.840	146.530	146.770	a nivell	0.6888	0.8815	3	sí	ASR; pendent d'audicio
+pa-059	clar	clips/pa-059__clar__36.61.wav	1	1.850	2.050	38.460	38.660	clar	0.9810	0.9810	1	sí	ASR; pendent d'audicio
+pa-059	perquè	clips/pa-059__perqu__4.09.wav	1	2.320	2.640	6.410	6.730	perquè	0.6817	0.6817	1	sí	ASR; pendent d'audicio
+pa-059	tirar endavant	clips/pa-059__tirar-endavant__49.77.wav	1	2.270	2.800	52.040	52.570	tirar endavant	0.7573	0.9093	3	sí	ASR; pendent d'audicio
+pa-059	vull dir	clips/pa-059__vull-dir__271.81.wav	1	0.000	0.910	271.810	272.720	Vull dir	0.6171	0.8716	3	sí	ASR; pendent d'audicio
+pa-059	és a dir	clips/pa-059__s-a-dir__487.81.wav	1	0.000	0.560	487.810	488.370	És a dir	0.3117	0.7594	3	sí	ASR; pendent d'audicio
+pa-060	a veure	clips/pa-060__a-veure__268.57.wav	1	2.000	2.160	270.570	270.730	a veure	0.6349	0.8080	2	sí	ASR; pendent d'audicio
+pa-060	crec	clips/pa-060__crec__42.05.wav	1	6.130	6.320	48.180	48.370	crec	0.6236	0.6236	1	sí	ASR; pendent d'audicio
+pa-060	de fet	clips/pa-060__de-fet__72.57.wav	1	4.700	4.840	77.270	77.410	de fet	0.8385	0.9172	2	sí	ASR; pendent d'audicio
+pa-060	perquè	clips/pa-060__perqu__29.05.wav	1	2.000	2.280	31.050	31.330	perquè	0.4717	0.4717	1	sí	ASR; pendent d'audicio
+pa-060	és a dir	clips/pa-060__s-a-dir__207.33.wav	1	0.030	0.530	207.360	207.860	És a dir	0.1095	0.6974	3	sí	ASR; pendent d'audicio
+pa-061	a nivell	clips/pa-061__a-nivell__1357.21.wav	1	1.210	1.970	1358.420	1359.180	a nivell	0.8152	0.9262	3	sí	ASR; pendent d'audicio
+pa-061	a veure	clips/pa-061__a-veure__579.17.wav	1	2.610	3.170	581.780	582.340	a veure	0.6223	0.7545	2	sí	ASR; pendent d'audicio
+pa-061	bueno	clips/pa-061__bueno__171.05.wav	1	0.000	0.260	171.050	171.310	Bueno	0.1212	0.1212	1	sí	ASR; pendent d'audicio
+pa-061	bueno	clips/pa-061__bueno__171.05.wav	2	1.240	1.590	172.290	172.640	Bueno	0.5101	0.5101	1	sí	ASR; pendent d'audicio
+pa-061	bé	clips/pa-061__b__662.89.wav	1	1.920	2.000	664.810	664.890	bé	0.4650	0.4650	1	sí	ASR; pendent d'audicio
+pa-061	crec	clips/pa-061__crec__428.85.wav	1	1.940	2.000	430.790	430.850	crec	0.9809	0.9809	1	sí	ASR; pendent d'audicio
+pa-061	evidentment	clips/pa-061__evidentment__672.69.wav	1	2.040	2.670	674.730	675.360	evidentment	0.9005	0.9456	2	sí	ASR; pendent d'audicio
+pa-061	llavors	clips/pa-061__llavors__380.77.wav	1	1.480	1.890	382.250	382.660	llavors	0.5349	0.7652	2	sí	ASR; pendent d'audicio
+pa-062	bueno	clips/pa-062__bueno__297.17.wav	1	1.560	1.910	298.730	299.080	Bueno	0.6062	0.6062	1	sí	ASR; pendent d'audicio
+pa-062	crec	clips/pa-062__crec__1037.89.wav	1	1.040	1.290	1038.930	1039.180	crec	0.9952	0.9952	1	sí	ASR; pendent d'audicio
+pa-062	diguem	clips/pa-062__diguem__191.37.wav	1	3.720	4.080	195.090	195.450	diguem	0.6091	0.7931	2	sí	ASR; pendent d'audicio
+pa-062	perquè	clips/pa-062__perqu__73.97.wav	1	1.190	1.720	75.160	75.690	perquè	0.9024	0.9024	1	sí	ASR; pendent d'audicio
+pa-062	és a dir	clips/pa-062__s-a-dir__973.65.wav	1	1.000	1.770	974.650	975.420	és a dir	0.7665	0.9205	3	sí	ASR; pendent d'audicio
+pa-063	a nivell	clips/pa-063__a-nivell__1143.61.wav	1	2.440	2.860	1146.050	1146.470	a nivell	0.7218	0.9013	3	sí	ASR; pendent d'audicio
+pa-063	a veure	clips/pa-063__a-veure__402.13.wav	1	0.000	1.060	402.130	403.190	A veure	0.0333	0.4389	2	sí	ASR; pendent d'audicio
+pa-063	bé	clips/pa-063__b__105.97.wav	1	0.000	0.330	105.970	106.300	Bé	0.5648	0.7805	2	sí	ASR; pendent d'audicio
+pa-063	clar	clips/pa-063__clar__392.49.wav	1	0.360	0.630	392.850	393.120	clar	0.6773	0.6773	1	sí	ASR; pendent d'audicio
+pa-063	doncs	clips/pa-063__doncs__609.05.wav	1	0.700	1.050	609.750	610.100	doncs	0.7069	0.8531	2	sí	ASR; pendent d'audicio
+pa-063	llavors	clips/pa-063__llavors__39.49.wav	1	3.670	4.600	43.160	44.090	llavors	0.3329	0.5858	2	sí	ASR; pendent d'audicio
+pa-063	perquè	clips/pa-063__perqu__142.61.wav	1	0.000	0.480	142.610	143.090	perquè	0.0412	0.0412	1	sí	ASR; pendent d'audicio
+pa-064	a veure	clips/pa-064__a-veure__587.61.wav	1	1.270	1.890	588.880	589.500	a veure	0.9952	0.9955	2	sí	ASR; pendent d'audicio
+pa-064	bé	clips/pa-064__b__97.93.wav	1	0.000	0.430	97.930	98.360	Bé	0.6509	0.8236	2	sí	ASR; pendent d'audicio
+pa-064	clar	clips/pa-064__clar__109.97.wav	1	0.370	1.870	110.340	111.840	clar	0.0737	0.0737	1	sí	ASR; pendent d'audicio
+pa-064	crec	clips/pa-064__crec__1335.77.wav	1	2.300	2.670	1338.070	1338.440	crec	0.9844	0.9844	1	sí	ASR; pendent d'audicio
+pa-064	o sigui	clips/pa-064__o-sigui__36.73.wav	1	1.520	1.870	38.250	38.600	o sigui	0.7590	0.8793	2	sí	ASR; pendent d'audicio
+pa-064	és a dir	clips/pa-064__s-a-dir__258.61.wav	1	0.080	0.670	258.690	259.280	És a dir	0.0375	0.5612	3	sí	ASR; pendent d'audicio
+pa-065	bé	clips/pa-065__b__138.57.wav	1	1.470	1.770	140.040	140.340	bé	0.9995	0.9995	1	sí	ASR; pendent d'audicio
+pa-065	clar	clips/pa-065__clar__221.29.wav	1	1.590	2.000	222.880	223.290	clar	0.9627	0.9627	1	sí	ASR; pendent d'audicio
+pa-065	crec	clips/pa-065__crec__1276.85.wav	1	0.830	0.940	1277.680	1277.790	crec	0.6866	0.6866	1	sí	ASR; pendent d'audicio
+pa-065	doncs	clips/pa-065__doncs__157.49.wav	1	2.230	2.260	159.720	159.750	doncs	0.7556	0.8774	2	sí	ASR; pendent d'audicio
+pa-065	o sigui	clips/pa-065__o-sigui__191.65.wav	1	0.000	0.460	191.650	192.110	O sigui	0.2516	0.6246	2	sí	ASR; pendent d'audicio
+pa-065	perquè	clips/pa-065__perqu__129.17.wav	1	2.530	2.870	131.700	132.040	perquè	0.8717	0.8717	1	sí	ASR; pendent d'audicio
+pa-065	és a dir	clips/pa-065__s-a-dir__221.29.wav	1	0.000	0.690	221.290	221.980	És a dir	0.1110	0.6568	3	sí	ASR; pendent d'audicio
+pa-066	a nivell	clips/pa-066__a-nivell__25.21.wav	1	2.800	3.080	28.010	28.290	a nivell	0.6618	0.8472	3	sí	ASR; pendent d'audicio
+pa-066	bueno	clips/pa-066__bueno__357.23.wav	1	1.470	2.070	358.700	359.300	bueno	0.8366	0.8366	1	sí	ASR; pendent d'audicio
+pa-066	bé	clips/pa-066__b__10.13.wav	1	2.540	3.430	12.670	13.560	bé	0.4289	0.4289	1	sí	ASR; pendent d'audicio
+pa-066	crec	clips/pa-066__crec__219.63.wav	1	4.560	5.020	224.190	224.650	crec	0.4971	0.4971	1	sí	ASR; pendent d'audicio
+pa-066	de fet	clips/pa-066__de-fet__44.37.wav	1	1.460	1.790	45.830	46.160	de fet	0.7471	0.8722	2	sí	ASR; pendent d'audicio
+pa-066	evidentment	clips/pa-066__evidentment__89.75.wav	1	0.000	1.380	89.750	91.130	evidentment	0.0340	0.5098	2	sí	ASR; pendent d'audicio
+pa-066	llavors	clips/pa-066__llavors__16.21.wav	1	1.400	1.840	17.610	18.050	llavors	0.7958	0.8590	2	sí	ASR; pendent d'audicio
+pa-066	perquè	clips/pa-066__perqu__21.81.wav	1	2.190	2.260	24.000	24.070	perquè	0.4434	0.4434	1	sí	ASR; pendent d'audicio

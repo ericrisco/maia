@@ -1,0 +1,64 @@
+forma	categoria	small	base	consens	model_localitzador	context_small	context_base	prob_min_segment_small	prob_mean_segment_small	prob_min_segment_base	prob_mean_segment_base	clip	inici_ms	final_ms	estat
+a nivell	discurs	0	0	no											ASR textual; atribució i audició pendents
+a veure	discurs	1	0	no	small	I espero millor que no em vegi a veure'ls.		0.3668	0.6843			lead-yt-041__02__a-veure.wav	100200	102600	ASR textual; atribució i audició pendents
+aleshores	discurs	1	1	sí	small	i que, bueno, aleshores, hi havia la corda de l'escalar i tot això.	L'ésa de l'estat d'aquí d'aquí ho veus això, aleshores va ser un lloc.	0.0900	0.5759	0.2771	0.9120	lead-yt-041__03__aleshores.wav	138120	143880	ASR textual; atribució i audició pendents
+aviam	discurs	0	0	no											ASR textual; atribució i audició pendents
+bueno	discurs	5	3	sí	small	i que, bueno, aleshores, hi havia la corda de l'escalar i tot això.	I bueno, recordo que aquí la persona	0.0900	0.5759	0.0785	0.5821	lead-yt-041__05__bueno.wav	138120	143880	ASR textual; atribució i audició pendents
+bé	discurs	5	3	sí	small	Sí, allà ho puc dir bé, eh.	Sí, ja m'ho puc dir bé, perquè quan el ja es caldés metèixer,	0.1912	0.6541	0.0395	0.5031	lead-yt-041__06__b.wav	123680	126240	ASR textual; atribució i audició pendents
+clar	discurs	0	0	no											ASR textual; atribució i audició pendents
+de fet	discurs	0	0	no											ASR textual; atribució i audició pendents
+diguem	discurs	0	0	no											ASR textual; atribució i audició pendents
+doncs	discurs	1	0	no	small	doncs ens van dir que li he tirat.		0.1021	0.5652			lead-yt-041__10__doncs.wav	371480	374360	ASR textual; atribució i audició pendents
+evidentment	discurs	0	0	no											ASR textual; atribució i audició pendents
+llavors	discurs	0	2	no	base		"Llavors em dic ""No, no es mongueu, sóc part d'aquí""."			0.1744	0.5833	lead-yt-041__12__llavors.wav	79760	82720	ASR textual; atribució i audició pendents
+no?	discurs	0	1	no	base		Bueno, m'agradaria que ella sigui, jo veia, viu-ho, no?			0.3999	0.9158	lead-yt-041__13__no.wav	347440	350640	ASR textual; atribució i audició pendents
+o sigui	discurs	1	0	no	small	O sigui, si haguéssim agafat l'autocar i marxar,		0.1317	0.7589			lead-yt-041__14__o-sigui.wav	86120	89600	ASR textual; atribució i audició pendents
+per tant	discurs	0	0	no											ASR textual; atribució i audició pendents
+perquè	discurs	8	7	sí	small	perquè els va tenir temps de treure més.	Puc donar els nous perquè no m'en recordo els nous.	0.1932	0.7390	0.0105	0.4801	lead-yt-041__16__perqu.wav	5280	7880	ASR textual; atribució i audició pendents
+vull dir	discurs	1	0	no	small	Vull dir, se'n van molt desvides.		0.0879	0.5947			lead-yt-041__17__vull-dir.wav	272840	274480	ASR textual; atribució i audició pendents
+és a dir	discurs	1	0	no	small	És a dir, que va ser una tragèdia molt forta.		0.1835	0.7926			lead-yt-041__18__s-a-dir.wav	91520	95080	ASR textual; atribució i audició pendents
+Canillo	territorial	0	0	no											ASR textual; atribució i audició pendents
+Escaldes	territorial	4	0	no	small	que van d'hora, pensàvem que van d'hora d'escaldes,		0.0164	0.7436			lead-yt-041__20__escaldes.wav	40480	42840	ASR textual; atribució i audició pendents
+Massana	territorial	0	0	no											ASR textual; atribució i audició pendents
+Ordino	territorial	0	0	no											ASR textual; atribució i audició pendents
+Sant Julià	territorial	0	0	no											ASR textual; atribució i audició pendents
+aiguats	territorial	0	0	no											ASR textual; atribució i audició pendents
+andorrana	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunal	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunals	territorial	0	0	no											ASR textual; atribució i audició pendents
+comuns	territorial	0	0	no											ASR textual; atribució i audició pendents
+comú	territorial	0	0	no											ASR textual; atribució i audició pendents
+copríncep	territorial	0	0	no											ASR textual; atribució i audició pendents
+coprínceps	territorial	0	0	no											ASR textual; atribució i audició pendents
+padrí	territorial	0	0	no											ASR textual; atribució i audició pendents
+parròquia	territorial	0	0	no											ASR textual; atribució i audició pendents
+santuari	territorial	0	0	no											ASR textual; atribució i audició pendents
+veguer	territorial	0	0	no											ASR textual; atribució i audició pendents
+Guillem Areny	persona	0	0	no											ASR textual; atribució i audició pendents
+La Massana	toponim	0	0	no											ASR textual; atribució i audició pendents
+aiguat	medi ambient	0	0	no											ASR textual; atribució i audició pendents
+inundacions	medi ambient	0	0	no											ASR textual; atribució i audició pendents
+1982	història	0	0	no											ASR textual; atribució i audició pendents
+Armeria Andorrana	economia	0	0	no											ASR textual; atribució i audició pendents
+armes	economia	0	0	no											ASR textual; atribució i audició pendents
+Avinguda Meritxell	toponim	0	0	no											ASR textual; atribució i audició pendents
+Hiper Andorra	economia	0	0	no											ASR textual; atribució i audició pendents
+pont	infraestructures	0	0	no											ASR textual; atribució i audició pendents
+Prisunic	economia	0	0	no											ASR textual; atribució i audició pendents
+explosió	emergència	0	0	no											ASR textual; atribució i audició pendents
+gas	emergència	0	0	no											ASR textual; atribució i audició pendents
+evacuació	emergència	0	0	no											ASR textual; atribució i audició pendents
+víctimes	societat	0	0	no											ASR textual; atribució i audició pendents
+agent de circulació	institucions	0	0	no											ASR textual; atribució i audició pendents
+vehicles	transport	0	0	no											ASR textual; atribució i audició pendents
+carreteres	infraestructures	0	0	no											ASR textual; atribució i audició pendents
+Hotel La Massana	economia	0	0	no											ASR textual; atribució i audició pendents
+turistes	turisme	0	0	no											ASR textual; atribució i audició pendents
+Manel Ribas	persona	0	0	no											ASR textual; atribució i audició pendents
+Andorra	toponim	0	0	no											ASR textual; atribució i audició pendents
+andorrà	gentilici	0	0	no											ASR textual; atribució i audició pendents
+solidaritat	societat	0	0	no											ASR textual; atribució i audició pendents
+emergència	institucions	0	0	no											ASR textual; atribució i audició pendents
+botiga	economia	1	0	no	small	la botiga que hi ha a Mollers no costa més, molt més.		0.1046	0.6257			lead-yt-041__61__botiga.wav	391280	396360	ASR textual; atribució i audició pendents
+incendi	emergència	0	0	no											ASR textual; atribució i audició pendents
+pont del Prisunic	toponim	0	0	no											ASR textual; atribució i audició pendents

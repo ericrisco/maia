@@ -1,0 +1,20 @@
+forma	segment	clip	inici_forma_s	final_forma_s	durada_s	veu_proporcio	rms_p10_db	rms_p50_db	rms_p90_db	zcr_p10	zcr_p90	f0_median_hz	f0_iqr_hz	centroid_median_hz	centroid_p90_hz	segments_veu	pausa_mediana_s	mostres_f0	estat
+a veure	21	clips/mireia-pedescoll__a-veure__53.40.wav	53.400	57.400	6.000	0.4615	-47.73	-36.22	-25.97	0.0501	0.1609	218.75	60.55	1305.47	2236.50	17	0.060	70	descriptor orientatiu; pendent d’audició
+aleshores	61	clips/mireia-pedescoll__aleshores__164.04.wav	164.040	168.040	6.000	0.5753	-61.17	-32.06	-22.52	0.0451	0.2801	304.69	93.75	1640.07	3221.57	20	0.060	85	descriptor orientatiu; pendent d’audició
+bueno	22	clips/mireia-pedescoll__bueno__57.48.wav	57.480	59.800	4.320	0.5256	-50.33	-34.27	-22.82	0.0501	0.1684	250.00	119.14	1391.50	2164.98	12	0.040	56	descriptor orientatiu; pendent d’audició
+bé	7	clips/mireia-pedescoll__b__21.60.wav	21.600	23.600	4.000	0.7136	-42.40	-29.46	-21.71	0.0407	0.1365	234.38	64.45	1124.37	2382.93	14	0.060	72	descriptor orientatiu; pendent d’audició
+clar	15	clips/mireia-pedescoll__clar__40.92.wav	40.920	42.920	4.000	0.7487	-43.17	-27.79	-20.25	0.0532	0.2692	328.12	132.81	1516.51	3348.52	14	0.080	75	descriptor orientatiu; pendent d’audició
+doncs	2	clips/mireia-pedescoll__doncs__11.20.wav	11.200	13.200	4.000	0.8141	-38.84	-28.29	-20.11	0.0266	0.1396	210.94	195.31	1016.85	2349.27	11	0.080	81	descriptor orientatiu; pendent d’audició
+evidentment	22	clips/mireia-pedescoll__evidentment__57.48.wav	57.480	59.800	4.320	0.5256	-50.33	-34.27	-22.82	0.0501	0.1684	250.00	119.14	1391.50	2164.98	12	0.040	56	descriptor orientatiu; pendent d’audició
+llavors	156	clips/mireia-pedescoll__llavors__441.32.wav	441.320	443.800	4.480	0.5874	-44.96	-33.64	-28.12	0.0360	0.1299	210.94	91.80	1074.18	2052.30	17	0.090	66	descriptor orientatiu; pendent d’audició
+no?	74	clips/mireia-pedescoll__no__207.24.wav	207.240	209.240	4.000	0.1859	-52.77	-41.18	-33.17	0.0329	0.1462	214.84	121.09	962.64	2254.53	9	0.220	20	descriptor orientatiu; pendent d’audició
+per tant	46	clips/mireia-pedescoll__per-tant__124.44.wav	124.440	126.760	4.320	0.5814	-56.28	-32.73	-23.79	0.0454	0.2736	242.19	132.81	1315.70	3111.16	17	0.060	63	descriptor orientatiu; pendent d’audició
+perquè	38	clips/mireia-pedescoll__perqu__103.00.wav	103.000	105.000	4.000	0.5477	-48.10	-34.53	-28.95	0.0376	0.0973	285.16	105.47	971.21	1965.30	22	0.060	54	descriptor orientatiu; pendent d’audició
+vull dir	182	clips/mireia-pedescoll__vull-dir__515.48.wav	515.480	518.760	5.280	0.4335	-62.64	-36.71	-27.00	0.0282	0.1249	281.25	82.03	1169.68	1904.88	15	0.090	59	descriptor orientatiu; pendent d’audició
+és a dir	78	clips/mireia-pedescoll__s-a-dir__216.92.wav	216.920	218.920	4.000	0.3317	-58.76	-40.74	-31.75	0.0423	0.2059	328.12	109.38	1033.31	2063.95	13	0.130	33	descriptor orientatiu; pendent d’audició
+Escaldes	10	clips/mireia-pedescoll__escaldes__29.64.wav	29.640	31.640	4.000	0.7085	-45.61	-27.56	-19.22	0.0541	0.1972	273.44	54.69	1465.59	2241.07	12	0.080	73	descriptor orientatiu; pendent d’audició
+comú	214	clips/mireia-pedescoll__com__606.92.wav	606.920	609.800	4.880	0.5597	-62.49	-33.04	-22.44	0.0438	0.2761	226.56	121.09	1546.94	3352.46	15	0.070	67	descriptor orientatiu; pendent d’audició
+parròquia	145	clips/mireia-pedescoll__parr-quia__403.08.wav	403.080	407.720	6.640	0.5861	-53.80	-33.24	-25.81	0.0423	0.3646	304.69	31.25	1446.21	3568.45	27	0.080	99	descriptor orientatiu; pendent d’audició
+a nivell	489	clips/mireia-pedescoll__a-nivell__1348.36.wav	1348.360	1350.360	4.000	0.2864	-45.84	-37.50	-31.42	0.0438	0.1161	289.06	82.03	1144.52	1683.90	15	0.140	28	descriptor orientatiu; pendent d’audició
+de fet	144	clips/mireia-pedescoll__de-fet__398.60.wav	398.600	403.000	6.400	0.6552	-59.59	-32.39	-25.35	0.0407	0.1552	296.88	140.62	1317.03	2329.54	17	0.080	104	descriptor orientatiu; pendent d’audició
+Canillo	165	clips/mireia-pedescoll__canillo__466.20.wav	466.200	468.920	4.720	0.3191	-52.27	-37.96	-29.74	0.0329	0.1449	210.94	113.28	984.09	1982.84	16	0.100	38	descriptor orientatiu; pendent d’audició

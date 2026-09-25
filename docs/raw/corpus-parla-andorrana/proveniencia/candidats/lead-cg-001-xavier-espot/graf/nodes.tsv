@@ -1,0 +1,62 @@
+id_parlant	nom_public	n_formes	formes	estat
+lead-cg-001-xavier-espot	Xavier Espot	3	comú,per tant,perquè	candidat separat; pendent de veu i audició
+spk-001	Alan Ward	13	Escaldes,Ordino,Sant Julià,aleshores,bé,clar,de fet,diguem,doncs,evidentment,llavors,o sigui,perquè	persona canònica; graf ASR complet
+spk-002	Albert Gelabert Grau	19	a nivell,a veure,aleshores,andorrana,bueno,bé,clar,comuns,copríncep,de fet,evidentment,llavors,no?,o sigui,per tant,perquè,veguer,vull dir,és a dir	persona canònica; graf ASR complet
+spk-003	Albert Roig	17	Escaldes,Ordino,Sant Julià,a veure,aleshores,bueno,bé,clar,comú,de fet,diguem,doncs,no?,parròquia,per tant,perquè,és a dir	persona canònica; graf ASR complet
+spk-004	Albert Rossa Naudí	5	aleshores,bé,doncs,per tant,perquè	persona canònica; graf ASR complet
+spk-005	Alfred Llahí	19	Canillo,Escaldes,Massana,Ordino,Sant Julià,a veure,andorrana,bueno,bé,clar,comú,copríncep,diguem,doncs,evidentment,llavors,no?,perquè,és a dir	persona canònica; graf ASR complet
+spk-006	Andreu Gaspà Picart	11	Ordino,a veure,aleshores,bueno,bé,clar,doncs,llavors,no?,perquè,vull dir	persona canònica; graf ASR complet
+spk-007	Angelina Mas	21	Escaldes,a nivell,a veure,aiguats,aleshores,andorrana,aviam,bueno,bé,clar,comú,diguem,doncs,evidentment,llavors,no?,o sigui,parròquia,perquè,vull dir,és a dir	persona canònica; graf ASR complet
+spk-008	Antoni Armengol Vila	15	Canillo,Sant Julià,a nivell,a veure,aleshores,bueno,bé,de fet,diguem,doncs,llavors,parròquia,perquè,vull dir,és a dir	persona canònica; graf ASR complet
+spk-009	Antoni Jordi Areny	12	Escaldes,a nivell,bé,clar,de fet,diguem,doncs,llavors,parròquia,perquè,vull dir,és a dir	persona canònica; graf ASR complet
+spk-010	Antoni Morell	15	a nivell,a veure,aleshores,andorrana,bueno,bé,clar,doncs,llavors,no?,o sigui,perquè,santuari,vull dir,és a dir	persona canònica; graf ASR complet
+spk-011	Carles Sasplugas	12	Escaldes,Sant Julià,a nivell,aiguats,bueno,bé,de fet,evidentment,llavors,no?,per tant,perquè	persona canònica; graf ASR complet
+spk-012	Casimir Arajol	13	a nivell,a veure,bueno,bé,clar,doncs,llavors,no?,o sigui,perquè,veguer,vull dir,és a dir	persona canònica; graf ASR complet
+spk-013	Cielo	4	Sant Julià,clar,no?,perquè	persona canònica; graf ASR complet
+spk-014	Daniel Armengol	14	Massana,a veure,bé,clar,doncs,evidentment,llavors,no?,o sigui,padrí,per tant,perquè,veguer,és a dir	persona canònica; graf ASR complet
+spk-015	Enric Casadevall Medrano	20	Canillo,Ordino,bueno,bé,clar,comuns,coprínceps,de fet,diguem,doncs,evidentment,llavors,no?,o sigui,parròquia,per tant,perquè,veguer,vull dir,és a dir	persona canònica; graf ASR complet
+spk-016	Enric Dolsa Font	21	Canillo,Escaldes,Massana,Ordino,Sant Julià,a veure,aleshores,bueno,bé,clar,coprínceps,doncs,evidentment,llavors,no?,o sigui,parròquia,per tant,perquè,vull dir,és a dir	persona canònica; graf ASR complet
+spk-017	Esther Jover	11	Ordino,a veure,aleshores,bé,de fet,doncs,evidentment,no?,per tant,perquè,és a dir	persona canònica; graf ASR complet
+spk-018	Eudald Guillamet	16	Escaldes,a nivell,a veure,aleshores,bueno,bé,clar,comunal,doncs,evidentment,llavors,no?,o sigui,perquè,santuari,vull dir	persona canònica; graf ASR complet
+spk-019	Francina Pons	15	Escaldes,Ordino,Sant Julià,aiguats,bé,comunal,comú,de fet,doncs,evidentment,no?,parròquia,per tant,perquè,vull dir	persona canònica; graf ASR complet
+spk-020	Gabriel Dallerès Codina	16	Ordino,a nivell,a veure,andorrana,bueno,bé,clar,comuns,de fet,diguem,doncs,llavors,no?,o sigui,perquè,és a dir	persona canònica; graf ASR complet
+spk-021	Gualbert Osorio	13	a nivell,a veure,aleshores,bueno,bé,doncs,llavors,no?,o sigui,per tant,perquè,vull dir,és a dir	persona canònica; graf ASR complet
+spk-022	Guillem Areny Argelich	19	Massana,Ordino,Sant Julià,a nivell,aviam,bueno,bé,clar,comunal,comunals,comuns,comú,copríncep,diguem,doncs,evidentment,no?,perquè,vull dir	persona canònica; graf ASR complet
+spk-023	Irene Clua	3	bueno,doncs,és a dir	persona canònica; graf ASR complet
+spk-024	Jaume Bartumeu Cassany	25	Escaldes,Massana,Ordino,Sant Julià,a veure,aleshores,bueno,bé,clar,comunals,comuns,copríncep,coprínceps,de fet,diguem,doncs,evidentment,no?,o sigui,parròquia,per tant,perquè,veguer,vull dir,és a dir	persona canònica; graf ASR complet
+spk-025	Joan Santamaria Terré	14	Canillo,Ordino,Sant Julià,bueno,bé,clar,comú,diguem,doncs,evidentment,no?,per tant,perquè,és a dir	persona canònica; graf ASR complet
+spk-026	Jordi Farràs Forné	22	Canillo,Escaldes,Massana,Ordino,Sant Julià,a nivell,a veure,bueno,bé,clar,comú,copríncep,de fet,evidentment,llavors,no?,parròquia,per tant,perquè,veguer,vull dir,és a dir	persona canònica; graf ASR complet
+spk-027	Jordi Marquet	14	Canillo,bueno,bé,clar,diguem,doncs,evidentment,no?,o sigui,padrí,per tant,perquè,vull dir,és a dir	persona canònica; graf ASR complet
+spk-028	Jordi Mas Torres	17	Canillo,Escaldes,Ordino,Sant Julià,a nivell,a veure,bueno,bé,clar,comú,copríncep,doncs,evidentment,llavors,per tant,perquè,vull dir	persona canònica; graf ASR complet
+spk-029	Jordi Torres Alís	7	bé,de fet,doncs,evidentment,o sigui,parròquia,perquè	persona canònica; graf ASR complet
+spk-030	Josep Areny	13	Canillo,aleshores,bueno,bé,clar,diguem,doncs,evidentment,llavors,no?,o sigui,perquè,és a dir	persona canònica; graf ASR complet
+spk-031	Josep Areny Fité	13	Canillo,a veure,aleshores,bueno,bé,clar,doncs,evidentment,no?,parròquia,perquè,vull dir,és a dir	persona canònica; graf ASR complet
+spk-032	Josep Casal	7	bueno,clar,comunals,comú,de fet,llavors,perquè	persona canònica; graf ASR complet
+spk-033	Josep Garrallà Rossell	11	Canillo,Massana,a veure,aleshores,bueno,bé,clar,de fet,doncs,perquè,vull dir	persona canònica; graf ASR complet
+spk-034	Josep Marsal Riba	12	Escaldes,a veure,bueno,bé,clar,comuns,comú,doncs,evidentment,parròquia,perquè,és a dir	persona canònica; graf ASR complet
+spk-035	Ladislau Baró Solà	17	Escaldes,Sant Julià,a nivell,a veure,bueno,bé,clar,de fet,doncs,evidentment,llavors,no?,o sigui,parròquia,per tant,perquè,és a dir	persona canònica; graf ASR complet
+spk-036	Ludmilla Lacueva	15	Canillo,Escaldes,Ordino,Sant Julià,bé,clar,comunal,comunals,comuns,comú,doncs,llavors,o sigui,parròquia,per tant	persona canònica; graf ASR complet
+spk-037	Maria Reig Moles	19	Canillo,Escaldes,a nivell,a veure,bueno,bé,clar,comuns,copríncep,coprínceps,diguem,doncs,llavors,no?,o sigui,parròquia,perquè,veguer,vull dir	persona canònica; graf ASR complet
+spk-038	Mercè Segura	11	a veure,bueno,bé,clar,doncs,evidentment,llavors,per tant,perquè,vull dir,és a dir	persona canònica; graf ASR complet
+spk-039	Miquel Aleix Areny	21	Canillo,Escaldes,Sant Julià,a nivell,a veure,andorrana,bueno,bé,clar,comuns,comú,copríncep,coprínceps,diguem,doncs,llavors,no?,parròquia,perquè,vull dir,és a dir	persona canònica; graf ASR complet
+spk-040	Miquel Armengol Pons	14	a veure,bueno,bé,clar,de fet,diguem,doncs,evidentment,llavors,no?,o sigui,perquè,vull dir,és a dir	persona canònica; graf ASR complet
+spk-041	Miquel Naudi Casal	11	Canillo,bueno,bé,clar,comú,diguem,doncs,llavors,parròquia,perquè,vull dir	persona canònica; graf ASR complet
+spk-042	Mossèn Ramon de Canillo	17	Canillo,a nivell,a veure,aleshores,bueno,bé,clar,comú,de fet,doncs,llavors,o sigui,per tant,perquè,santuari,vull dir,és a dir	persona canònica; graf ASR complet
+spk-043	Nadia Aleix Tugas	17	Escaldes,Sant Julià,a nivell,bueno,bé,clar,comú,copríncep,coprínceps,doncs,evidentment,llavors,o sigui,per tant,perquè,vull dir,és a dir	persona canònica; graf ASR complet
+spk-044	Olga Adellach Coma	20	Canillo,Ordino,a nivell,a veure,aviam,bueno,bé,clar,comunals,de fet,doncs,evidentment,llavors,no?,o sigui,parròquia,per tant,perquè,vull dir,és a dir	persona canònica; graf ASR complet
+spk-045	Patrick Pérez	12	a nivell,a veure,bueno,bé,clar,doncs,evidentment,llavors,no?,o sigui,perquè,vull dir	persona canònica; graf ASR complet
+spk-046	Pere Altimir Pintat	13	a nivell,bueno,bé,clar,comuns,diguem,doncs,evidentment,llavors,no?,per tant,perquè,és a dir	persona canònica; graf ASR complet
+spk-047	Pere Torres	4	Escaldes,bé,llavors,perquè	persona canònica; graf ASR complet
+spk-048	Ramon Canut Bové	21	Canillo,Escaldes,Massana,Ordino,Sant Julià,a nivell,a veure,bueno,bé,clar,comunals,copríncep,doncs,evidentment,llavors,no?,o sigui,per tant,perquè,vull dir,és a dir	persona canònica; graf ASR complet
+spk-049	Robert Cassany Vila	9	bueno,bé,clar,de fet,diguem,doncs,llavors,no?,perquè	persona canònica; graf ASR complet
+spk-050	Robert Lizarte	16	Canillo,Ordino,Sant Julià,bé,clar,comú,diguem,doncs,evidentment,llavors,o sigui,padrí,parròquia,per tant,perquè,santuari	persona canònica; graf ASR complet
+spk-051	Rosa Maria Mandicó Alcobé	18	Canillo,Massana,a nivell,a veure,bueno,bé,clar,comú,diguem,doncs,llavors,no?,o sigui,parròquia,per tant,perquè,vull dir,és a dir	persona canònica; graf ASR complet
+spk-052	Rosa Vidal	4	bueno,clar,llavors,perquè	persona canònica; graf ASR complet
+spk-053	Roser Bastida	12	a nivell,aleshores,andorrana,aviam,bueno,bé,clar,de fet,diguem,evidentment,perquè,és a dir	persona canònica; graf ASR complet
+spk-054	Roser Jordana	13	a nivell,a veure,aleshores,bueno,bé,clar,doncs,llavors,no?,o sigui,per tant,perquè,vull dir	persona canònica; graf ASR complet
+spk-055	Ruth Casabella	7	Escaldes,bé,doncs,evidentment,per tant,perquè,és a dir	persona canònica; graf ASR complet
+spk-056	Sara Ubach	6	bé,doncs,llavors,o sigui,parròquia,perquè	persona canònica; graf ASR complet
+spk-057	Teo Armengol	17	Escaldes,Ordino,Sant Julià,a veure,aleshores,aviam,bé,clar,comú,doncs,evidentment,llavors,o sigui,padrí,perquè,vull dir,és a dir	persona canònica; graf ASR complet
+spk-058	Trini Mandicó Baró	7	Escaldes,Sant Julià,a veure,bueno,bé,llavors,perquè	persona canònica; graf ASR complet
+spk-059	Xavier Planas	11	Escaldes,Ordino,bé,clar,comuns,de fet,doncs,llavors,per tant,perquè,és a dir	persona canònica; graf ASR complet
+spk-060	Àngels Mach	11	a veure,aleshores,bé,clar,de fet,llavors,no?,o sigui,padrí,per tant,perquè	persona canònica; graf ASR complet

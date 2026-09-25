@@ -1,0 +1,72 @@
+forma	categoria	small	base	consens	model_localitzador	context_small	context_base	prob_min_segment_small	prob_mean_segment_small	prob_min_segment_base	prob_mean_segment_base	clip	inici_ms	final_ms	estat
+a nivell	discurs	1	0	no	small	Jo suposo que a nivell tècnic s'hauran pres les precaucions necessàries,		0.5705	0.8930			lead-yt-037__01__a-nivell.wav	543280	549080	ASR textual; atribució i audició pendents
+a veure	discurs	3	5	sí	small	Jo, des de Suïssa, vaig trucar aquella nit a la Creu Roja a Suïssa a veure si sabien alguna cosa, i van dir que no, però que posaven ràdioficionats, escoltables i arribava a veure alguna onda.	És una norma militar, això, a veure.	0.1680	0.7869	0.0951	0.6243	lead-yt-037__02__a-veure.wav	800280	816280	ASR textual; atribució i audició pendents
+aleshores	discurs	0	0	no											ASR textual; atribució i audició pendents
+aviam	discurs	0	0	no											ASR textual; atribució i audició pendents
+bueno	discurs	4	2	sí	small	Bueno, teníem ja institucionalment el ministre de Finances, que era el succes,	Ah, bueno, ambia la policia al recollir-lo.	0.2395	0.7391	0.1156	0.7594	lead-yt-037__05__bueno.wav	143640	149520	ASR textual; atribució i audició pendents
+bé	discurs	4	9	sí	small	Bé, doncs hi ha molts records, encara que ha passat molt de temps,	de vaig trucar aquí i em van dir que la situació que està bé,	0.2192	0.8472	0.2671	0.7708	lead-yt-037__06__b.wav	0	3640	ASR textual; atribució i audició pendents
+clar	discurs	0	0	no											ASR textual; atribució i audició pendents
+de fet	discurs	0	0	no											ASR textual; atribució i audició pendents
+diguem	discurs	0	0	no											ASR textual; atribució i audició pendents
+doncs	discurs	1	3	sí	small	Bé, doncs hi ha molts records, encara que ha passat molt de temps,	doncs crec que es pot ajudar molt més	0.2192	0.8472	0.1998	0.7989	lead-yt-037__10__doncs.wav	0	3640	ASR textual; atribució i audició pendents
+evidentment	discurs	3	2	sí	small	A l'elicòpter, evidentment, hi havia elicòpters de l'exèrcit.	O el cop d'or, evidentment, hi havia ellicòptares.	0.0538	0.7214	0.0226	0.4864	lead-yt-037__11__evidentment.wav	297840	303640	ASR textual; atribució i audició pendents
+llavors	discurs	1	1	sí	small	Llavors, els hi vaig demanar si podien aconseguir un passatge amb el previó per a Barcelona.	Llavors, vaig prendre el cafè, tenia un terme de cafè allà,	0.2388	0.6997	0.0976	0.6189	lead-yt-037__12__llavors.wav	816280	822280	ASR textual; atribució i audició pendents
+no?	discurs	0	0	no											ASR textual; atribució i audició pendents
+o sigui	discurs	3	2	sí	small	I a França, o sigui, des de la seu, ni des del pas de la casa cap a Montsenvin enterat.	o sigui, des de la seu, ni des del pas de la casa que va abonçar amb dinantarat.	0.0793	0.7888	0.0347	0.6667	lead-yt-037__14__o-sigui.wav	538240	543280	ASR textual; atribució i audició pendents
+per tant	discurs	1	1	sí	small	Per tant, aquí els va tenir que agafar les decisions de seguida	Diu, per tant, si aquell senyor no torne a dir el meu contrari,	0.3041	0.7961	0.1102	0.7710	lead-yt-037__15__per-tant.wav	118680	125360	ASR textual; atribució i audició pendents
+perquè	discurs	14	13	sí	small	perquè va ser una situació impressionant d'aquelles que recordes tota la vida.	perquè és una situació impressionant d'aquelles que recordes tota la vida.	0.6553	0.9438	0.3214	0.8125	lead-yt-037__16__perqu.wav	3640	10200	ASR textual; atribució i audició pendents
+vull dir	discurs	0	0	no											ASR textual; atribució i audició pendents
+és a dir	discurs	0	1	no	base		És a dir, es veu que són una pressió que ja sobre el Mediterrai			0.3254	0.7763	lead-yt-037__18__s-a-dir.wav	471600	476400	ASR textual; atribució i audició pendents
+Canillo	territorial	0	0	no											ASR textual; atribució i audició pendents
+Escaldes	territorial	0	0	no											ASR textual; atribució i audició pendents
+Massana	territorial	0	0	no											ASR textual; atribució i audició pendents
+Ordino	territorial	0	0	no											ASR textual; atribució i audició pendents
+Sant Julià	territorial	0	0	no											ASR textual; atribució i audició pendents
+aiguats	territorial	0	0	no											ASR textual; atribució i audició pendents
+andorrana	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunal	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunals	territorial	0	0	no											ASR textual; atribució i audició pendents
+comuns	territorial	0	0	no											ASR textual; atribució i audició pendents
+comú	territorial	4	2	sí	small	Ens vam tenir el govern de tancar el comú d'Andorra a la vella perquè en el govern que estava allà a les monges, al costat de casa a la vall,	en el comú que em dóna la vella, la edifici del comú.	0.0911	0.6526	0.2161	0.6576	lead-yt-037__29__com.wav	161560	169360	ASR textual; atribució i audició pendents
+copríncep	territorial	0	0	no											ASR textual; atribució i audició pendents
+coprínceps	territorial	0	0	no											ASR textual; atribució i audició pendents
+padrí	territorial	0	0	no											ASR textual; atribució i audició pendents
+parròquia	territorial	0	0	no											ASR textual; atribució i audició pendents
+santuari	territorial	0	0	no											ASR textual; atribució i audició pendents
+veguer	territorial	0	0	no											ASR textual; atribució i audició pendents
+aiguat	medi ambient	0	0	no											ASR textual; atribució i audició pendents
+inundacions	medi ambient	0	0	no											ASR textual; atribució i audició pendents
+1982	història	0	0	no											ASR textual; atribució i audició pendents
+Cap de Govern	institucions	4	1	sí	small	el cap de govern interi quan estàveu sent el cap de govern.	"Dic ""Solca el cap de govern"", diuen-se."	0.3702	0.7877	0.0721	0.5714	lead-yt-037__39__cap-de-govern.wav	149520	154920	ASR textual; atribució i audició pendents
+govern	institucions	11	10	sí	small	el cap de govern interi quan estàveu sent el cap de govern.	que era el succesor, que era el cat de govern interior	0.3702	0.7877	0.0869	0.5819	lead-yt-037__40__govern.wav	149520	154920	ASR textual; atribució i audició pendents
+Andorra	toponim	6	2	sí	small	Ens vam tenir el govern de tancar el comú d'Andorra a la vella perquè en el govern que estava allà a les monges, al costat de casa a la vall,	perquè la l'Ecopter va donar una volta per damunt d'Andorra	0.0911	0.6526	0.1388	0.6829	lead-yt-037__41__andorra.wav	161560	169360	ASR textual; atribució i audició pendents
+andorrà	gentilici	0	0	no											ASR textual; atribució i audició pendents
+solidaritat	societat	1	1	sí	small	però vaig constatar la solidaritat en aquest moment del poble en Torrada, tots els ciutadans i residents.	però va constatar la solidaritat en aquest moment de...	0.2940	0.7528	0.1513	0.6616	lead-yt-037__43__solidaritat.wav	186560	195160	ASR textual; atribució i audició pendents
+població	societat	0	0	no											ASR textual; atribució i audició pendents
+classes	societat	0	0	no											ASR textual; atribució i audició pendents
+origen	societat	0	0	no											ASR textual; atribució i audició pendents
+pont	infraestructures	2	2	sí	small	D'una anècdota, sí, em vaig trobar una de mal maca en aquesta sortida que vaig fer cap al pont.	No vaig trobar una de molt maca en aquella sortida que vaig fer cap al pont	0.0867	0.7169	0.0900	0.6548	lead-yt-037__47__pont.wav	390720	398720	ASR textual; atribució i audició pendents
+riu	medi ambient	10	10	sí	small	Sempre expliquem les coses màgiques però hi vam detectar un fenomen de robos que hi havia, sobretot la gent de fora d'aquí que va pujar aquí a Saqueja buscant el riu.	busquant el riu a mi, mai presenta la matinada,	0.1068	0.7420	0.1866	0.6797	lead-yt-037__48__riu.wav	318040	337040	ASR textual; atribució i audició pendents
+aigua	medi ambient	3	3	sí	small	el qual teòricament no s'explica, perquè no hi ha ni conca per recollir la quantitat d'aigua que sortia.	perquè no hi ha ni conca per recollir la cantitat d'aigua que sortia.	0.3715	0.8916	0.2902	0.8545	lead-yt-037__49__aigua.wav	487360	494160	ASR textual; atribució i audició pendents
+carretera	infraestructures	0	0	no											ASR textual; atribució i audició pendents
+infraestructures	infraestructures	0	0	no											ASR textual; atribució i audició pendents
+emergència	institucions	0	0	no											ASR textual; atribució i audició pendents
+sacrifici	societat	0	0	no											ASR textual; atribució i audició pendents
+memòria	cultura	0	0	no											ASR textual; atribució i audició pendents
+història	cultura	0	0	no											ASR textual; atribució i audició pendents
+protecció civil	institucions	0	0	no											ASR textual; atribució i audició pendents
+territori	territori	1	1	sí	small	i les van posar en territori espanyol amb una guàrdia.	que les van posar un territori espanyol amb una guardia.	0.4864	0.9171	0.1336	0.7518	lead-yt-037__57__territori.wav	775080	778480	ASR textual; atribució i audició pendents
+famílies	societat	0	0	no											ASR textual; atribució i audició pendents
+ajuda	societat	1	1	sí	small	jo crec que estem més preparats al sentit de que hi ha més mitjans d'ajuda	amb el sentit que hi ha més mitjans d'ajuda.	0.1730	0.8654	0.1230	0.7478	lead-yt-037__59__ajuda.wav	502520	509200	ASR textual; atribució i audició pendents
+reconstrucció	infraestructures	0	0	no											ASR textual; atribució i audició pendents
+Nacions Unides	institucions	0	0	no											ASR textual; atribució i audició pendents
+helicòpter	infraestructures	5	0	no	small	vaig trucar de seguida a l'Elise i l'Elise van enviar un helicòpter de Jaume Dí,		0.0288	0.7725			lead-yt-037__62__helic-pter.wav	57080	64280	ASR textual; atribució i audició pendents
+bombers	institucions	0	2	no	base		els bombers, recordo que hi era un bombers francesos,			0.1698	0.5649	lead-yt-037__63__bombers.wav	964160	969000	ASR textual; atribució i audició pendents
+evacuació	institucions	0	0	no											ASR textual; atribució i audició pendents
+voluntari	societat	2	1	sí	small	Per fins solucionar el problema es va demanar a algun voluntari que pujés a tancar la vola.	Doncs per fins solucionar el problema, es va depanar a algun voluntari	0.2287	0.7733	0.0440	0.6745	lead-yt-037__65__voluntari.wav	995840	1003840	ASR textual; atribució i audició pendents
+solidari	societat	0	0	no											ASR textual; atribució i audició pendents
+comunicacions	infraestructures	1	1	sí	small	fins a les dues del matí. A les dues del matí es va trencar totes les comunicacions,	Les seves al matí es va trencar totes les comunicacions i la matí nada,	0.2708	0.8447	0.1072	0.7648	lead-yt-037__67__comunicacions.wav	34920	39600	ASR textual; atribució i audició pendents
+Suïssa	toponim	7	7	sí	small	En els primers moments jo em trobava a fora, jo vaig marxar per viatger particular a Suïssa,	vaig marxar per viatjar particular a Suïssa	0.3907	0.8275	0.2975	0.7202	lead-yt-037__68__su-ssa.wav	10200	16800	ASR textual; atribució i audició pendents
+Catalunya	toponim	3	3	sí	small	Hi va haver una col·laboració amb tots els estaments de Catalunya	amb l'estàvem de Catalunya i amb les forces a la guardi civil,	0.5889	0.8873	0.0219	0.5061	lead-yt-037__69__catalunya.wav	280520	285440	ASR textual; atribució i audició pendents
+França	toponim	1	1	sí	small	I a França, o sigui, des de la seu, ni des del pas de la casa cap a Montsenvin enterat.	tal d'endavant d'aquest allò, a la seu i a França,	0.0793	0.7888	0.0957	0.6267	lead-yt-037__70__fran-a.wav	538240	543280	ASR textual; atribució i audició pendents
+120 litres	medi ambient	1	0	no	small	però no justifica el fenomen, que em sembla que ha acabat caure 120 litres,		0.2403	0.7672			lead-yt-037__71__120-litres.wav	944840	949400	ASR textual; atribució i audició pendents

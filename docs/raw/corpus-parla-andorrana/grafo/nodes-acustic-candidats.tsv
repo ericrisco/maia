@@ -1,0 +1,125 @@
+id	persona	forma	clip	f0_hz	f1_hz	f2_hz	f3_hz	pausa_mediana_s	veu_proporcio	centroid_median_hz	estat
+lead-rtva-001::a veure	Joan Verdú	a veure	clips/joan__a-veure__94.36.wav	110.29	643.87	1340.43	2468.32	0.04	0.7951	1542.95	mesura instrumental; pendent d’audició
+lead-rtva-001::bé	Joan Verdú	bé	clips/joan__b__753.64.wav		954.49	1702.04	3165.36	0.07	0.6834	1689.77	mesura instrumental; pendent d’audició
+lead-rtva-001::bueno	Joan Verdú	bueno	clips/joan__bueno__175.96.wav		367.21	1919.14	3172.99	0.04	0.7954	1970.43	mesura instrumental; pendent d’audició
+lead-rtva-001::clar	Joan Verdú	clar	clips/joan__clar__440.36.wav	130.13	557.0	1201.01	2684.89	0.04	0.7386	1438.91	mesura instrumental; pendent d’audició
+lead-rtva-001::de fet	Joan Verdú	de fet	clips/joan__de-fet__370.60.wav		709.69	1026.08	2369.44	0.06	0.7447	1525.14	mesura instrumental; pendent d’audició
+lead-rtva-001::doncs	Joan Verdú	doncs	clips/joan__doncs__324.00.wav	132.14	526.49	1460.37	2436.28	0.06	0.7026	1744.6	mesura instrumental; pendent d’audició
+lead-rtva-001::evidentment	Joan Verdú	evidentment	clips/joan__evidentment__617.96.wav		1814.46	3232.24	3943.61	0.04	0.7922	1745.48	mesura instrumental; pendent d’audició
+lead-rtva-001::llavors	Joan Verdú	llavors	clips/joan__llavors__484.40.wav		937.43	2042.38	3649.32	0.04	0.756	1479.46	mesura instrumental; pendent d’audició
+lead-rtva-001::perquè	Joan Verdú	perquè	clips/joan__perqu__560.44.wav	121.05	801.57	1429.9	2468.47	0.04	0.6367	2012.8	mesura instrumental; pendent d’audició
+lead-rtva-001::vull dir	Joan Verdú	vull dir	clips/joan__vull-dir__521.16.wav		841.96	1801.99	2843.0	0.04	0.8685	1606.58	mesura instrumental; pendent d’audició
+lead-rtva-002-ian-moya::a nivell	Ian Moya	a nivell	clips/ian__a-nivell__225.92.wav	145.18	204.24	1620.63	2804.44	0.03	0.8719	1434.56	mesura instrumental; pendent d’audició
+lead-rtva-002-ian-moya::a veure	Ian Moya	a veure	clips/ian__a-veure__114.56.wav	190.68	877.09	2383.99	3597.7	0.04	0.8132	1455.39	mesura instrumental; pendent d’audició
+lead-rtva-002-ian-moya::bé	Ian Moya	bé	clips/ian__b__80.96.wav	60.3	1543.48	2017.31	3409.74	0.04	0.728	1463.23	mesura instrumental; pendent d’audició
+lead-rtva-002-ian-moya::clar	Ian Moya	clar	clips/ian__clar__174.80.wav		881.01	1672.2	3395.23	0.02	0.8789	1442.84	mesura instrumental; pendent d’audició
+lead-rtva-002-ian-moya::de fet	Ian Moya	de fet	clips/ian__de-fet__92.84.wav	126.13	220.51	2067.94	2569.78	0.04	0.7789	1424.86	mesura instrumental; pendent d’audició
+lead-rtva-002-ian-moya::doncs	Ian Moya	doncs	clips/ian__doncs__80.96.wav	60.3	1543.48	2017.31	3409.74	0.04	0.728	1463.23	mesura instrumental; pendent d’audició
+lead-rtva-002-ian-moya::Escaldes	Ian Moya	Escaldes	clips/ian__escaldes__56.96.wav	292.01	456.29	2058.83	2737.38	0.02	0.9892	1819.64	mesura instrumental; pendent d’audició
+lead-rtva-002-ian-moya::evidentment	Ian Moya	evidentment	clips/ian__evidentment__1242.76.wav		1193.88	1590.53	2461.28	0.06	0.7594	1512.36	mesura instrumental; pendent d’audició
+lead-rtva-002-ian-moya::llavors	Ian Moya	llavors	clips/ian__llavors__123.44.wav		1668.69	2385.59	4004.91	0.04	0.7568	1452.88	mesura instrumental; pendent d’audició
+lead-rtva-002-ian-moya::no?	Ian Moya	no?	clips/ian__no__297.08.wav		762.17	1512.2	2574.73	0.02	0.8442	1462.69	mesura instrumental; pendent d’audició
+lead-rtva-002-ian-moya::o sigui	Ian Moya	o sigui	clips/ian__o-sigui__100.08.wav	79.29	2305.37	2635.97	3320.13	0.02	0.8655	1412.59	mesura instrumental; pendent d’audició
+lead-rtva-002-ian-moya::per tant	Ian Moya	per tant	clips/ian__per-tant__1186.72.wav	194.52	561.34	1834.93	2809.96	0.04	0.8113	1315.29	mesura instrumental; pendent d’audició
+lead-rtva-002-ian-moya::perquè	Ian Moya	perquè	clips/ian__perqu__94.92.wav	145.61	612.49	1625.38	2479.27	0.04	0.8794	1394.94	mesura instrumental; pendent d’audició
+lead-rtva-002-ian-moya::és a dir	Ian Moya	és a dir	clips/ian__s-a-dir__539.76.wav	139.67	501.78	798.25	3401.12	0.06	0.8559	1573.98	mesura instrumental; pendent d’audició
+lead-rtva-002-ian-moya::vull dir	Ian Moya	vull dir	clips/ian__vull-dir__177.36.wav	109.57	445.14	1455.28	2361.28	0.06	0.8025	1654.41	mesura instrumental; pendent d’audició
+lead-rtva-003-dj-neura::a veure	DJ Neura	a veure	clips/dj-neura__a-veure__33.00.wav		1885.94	3332.73	4167.78	0.07	0.8095	1333.39	mesura instrumental; pendent d’audició
+lead-rtva-003-dj-neura::aleshores	DJ Neura	aleshores	clips/dj-neura__aleshores__50.00.wav	92.2	425.51	1858.48	2040.98	0.02	0.9055	1229.39	mesura instrumental; pendent d’audició
+lead-rtva-003-dj-neura::bé	DJ Neura	bé	clips/dj-neura__b__44.00.wav		798.4	2042.92	3244.05	0.05	0.8246	1259.26	mesura instrumental; pendent d’audició
+lead-rtva-003-dj-neura::bueno	DJ Neura	bueno	clips/dj-neura__bueno__39.00.wav	96.58	515.57	1931.5	2575.8	0.08	0.8653	1376.26	mesura instrumental; pendent d’audició
+lead-rtva-003-dj-neura::clar	DJ Neura	clar	clips/dj-neura__clar__50.00.wav	92.2	425.51	1858.48	2040.98	0.02	0.9055	1229.39	mesura instrumental; pendent d’audició
+lead-rtva-003-dj-neura::de fet	DJ Neura	de fet	clips/dj-neura__de-fet__33.00.wav		1885.94	3332.73	4167.78	0.07	0.8095	1333.39	mesura instrumental; pendent d’audició
+lead-rtva-003-dj-neura::doncs	DJ Neura	doncs	clips/dj-neura__doncs__44.00.wav		798.4	2042.92	3244.05	0.05	0.8246	1259.26	mesura instrumental; pendent d’audició
+lead-rtva-003-dj-neura::no?	DJ Neura	no?	clips/dj-neura__no__44.00.wav		798.4	2042.92	3244.05	0.05	0.8246	1259.26	mesura instrumental; pendent d’audició
+lead-rtva-003-dj-neura::o sigui	DJ Neura	o sigui	clips/dj-neura__o-sigui__394.08.wav	72.82	503.77	2065.67	2922.01	0.06	0.8089	1093.75	mesura instrumental; pendent d’audició
+lead-rtva-003-dj-neura::perquè	DJ Neura	perquè	clips/dj-neura__perqu__416.76.wav		921.58	1605.14	3443.0	0.04	0.8288	1312.67	mesura instrumental; pendent d’audició
+lead-rtva-004-joan-mico::bé	Joan Micó	bé	clips/joan-mico__b__154.52.wav	129.74	177.63	1276.87	2474.22	0.08	0.7258	754.54	mesura instrumental; pendent d’audició
+lead-rtva-004-joan-mico::bueno	Joan Micó	bueno	clips/joan-mico__bueno__75.24.wav	157.89	381.1	1741.56	2574.7	0.02	0.7532	886.97	mesura instrumental; pendent d’audició
+lead-rtva-004-joan-mico::clar	Joan Micó	clar	clips/joan-mico__clar__205.88.wav	124.84	286.53	2316.79	2321.52	0.06	0.6926	824.35	mesura instrumental; pendent d’audició
+lead-rtva-004-joan-mico::comuns	Joan Micó	comuns	clips/joan-mico__comuns__995.92.wav	116.89	474.32	1098.27	2404.01	0.08	0.6218	717.62	mesura instrumental; pendent d’audició
+lead-rtva-004-joan-mico::de fet	Joan Micó	de fet	clips/joan-mico__de-fet__766.48.wav		777.27	1907.04	2491.68	0.1	0.6385	904.88	mesura instrumental; pendent d’audició
+lead-rtva-004-joan-mico::doncs	Joan Micó	doncs	clips/joan-mico__doncs__92.28.wav	127.01	467.75	1739.28	2387.85	0.07	0.7608	803.64	mesura instrumental; pendent d’audició
+lead-rtva-004-joan-mico::llavors	Joan Micó	llavors	clips/joan-mico__llavors__239.48.wav	212.47	296.77	2311.55	2966.74	0.1	0.7023	885.17	mesura instrumental; pendent d’audició
+lead-rtva-004-joan-mico::no?	Joan Micó	no?	clips/joan-mico__no__64.24.wav	125.26	235.26	774.69	2269.78	0.05	0.7669	786.9	mesura instrumental; pendent d’audició
+lead-rtva-004-joan-mico::o sigui	Joan Micó	o sigui	clips/joan-mico__o-sigui__379.88.wav	144.01	222.77	1263.44	2434.89	0.08	0.696	825.06	mesura instrumental; pendent d’audició
+lead-rtva-004-joan-mico::per tant	Joan Micó	per tant	clips/joan-mico__per-tant__42.28.wav	103.35	749.82	1327.62	3012.57	0.08	0.7746	1218.95	mesura instrumental; pendent d’audició
+lead-rtva-004-joan-mico::perquè	Joan Micó	perquè	clips/joan-mico__perqu__87.00.wav		327.88	1544.32	2711.4	0.08	0.6128	906.34	mesura instrumental; pendent d’audició
+lead-rtva-004-joan-mico::vull dir	Joan Micó	vull dir	clips/joan-mico__vull-dir__60.84.wav	144.46	430.22	871.2	2191.75	0.04	0.7948	744.39	mesura instrumental; pendent d’audició
+lead-cg-001-xavier-espot::andorrana	Xavier Espot	andorrana	clips/xavier-espot__andorrana__58.76.wav		480.47	1495.01	2429.17	0.06	0.5863	1187.11	mesura instrumental; pendent d’audició
+lead-cg-001-xavier-espot::comú	Xavier Espot	comú	clips/xavier-espot__com__103.48.wav	110.66	374.66	1622.3	2542.4	0.07	0.4649	2027.44	mesura instrumental; pendent d’audició
+lead-cg-001-xavier-espot::per tant	Xavier Espot	per tant	clips/xavier-espot__per-tant__91.48.wav		318.58	2264.87	3292.42	0.12	0.5312	1133.01	mesura instrumental; pendent d’audició
+lead-cg-001-xavier-espot::perquè	Xavier Espot	perquè	clips/xavier-espot__perqu__37.88.wav		539.1	1500.48	2589.16	0.05	0.5175	1570.33	mesura instrumental; pendent d’audició
+lead-cg-002-pere-lopez::andorrana	Pere López	andorrana	clips/pere-lopez__andorrana__32.80.wav					0.08	0.4723	1983.23	mesura instrumental; pendent d’audició
+lead-cg-002-pere-lopez::perquè	Pere López	perquè	clips/pere-lopez__perqu__48.40.wav					0.06	0.506	1964.23	mesura instrumental; pendent d’audició
+lead-cg-003-roser-sune::a nivell	Roser Suñé	a nivell	clips/roser-sune__a-nivell__229.92.wav					0.05	0.7033	1763.09	mesura instrumental; pendent d’audició
+lead-cg-003-roser-sune::doncs	Roser Suñé	doncs	clips/roser-sune__doncs__445.36.wav					0.05	0.6061	2359.32	mesura instrumental; pendent d’audició
+lead-cg-003-roser-sune::és a dir	Roser Suñé	és a dir	clips/roser-sune__s-a-dir__313.20.wav					0.04	0.8122	1932.36	mesura instrumental; pendent d’audició
+lead-rtva-005-carine-montaner::a nivell	Carine Montaner	a nivell	clips/carine-montaner__a-nivell__113.72.wav					0.06	0.592	1336.54	mesura instrumental; pendent d’audició
+lead-rtva-005-carine-montaner::a veure	Carine Montaner	a veure	clips/carine-montaner__a-veure__691.44.wav					0.1	0.4927	1035.84	mesura instrumental; pendent d’audició
+lead-rtva-005-carine-montaner::bé	Carine Montaner	bé	clips/carine-montaner__b__82.12.wav					0.12	0.3838	1384.04	mesura instrumental; pendent d’audició
+lead-rtva-005-carine-montaner::bueno	Carine Montaner	bueno	clips/carine-montaner__bueno__1120.36.wav					0.12	0.4143	1253.02	mesura instrumental; pendent d’audició
+lead-rtva-005-carine-montaner::clar	Carine Montaner	clar	clips/carine-montaner__clar__215.04.wav					0.16	0.2867	1222.79	mesura instrumental; pendent d’audició
+lead-rtva-005-carine-montaner::comú	Carine Montaner	comú	clips/carine-montaner__com__622.64.wav					0.1	0.6208	1055.27	mesura instrumental; pendent d’audició
+lead-rtva-005-carine-montaner::comunal	Carine Montaner	comunal	clips/carine-montaner__comunal__610.92.wav					0.08	0.589	1043.26	mesura instrumental; pendent d’audició
+lead-rtva-005-carine-montaner::comunals	Carine Montaner	comunals	clips/carine-montaner__comunals__582.56.wav					0.08	0.5877	969.47	mesura instrumental; pendent d’audició
+lead-rtva-005-carine-montaner::de fet	Carine Montaner	de fet	clips/carine-montaner__de-fet__777.08.wav					0.08	0.5529	1140.08	mesura instrumental; pendent d’audició
+lead-rtva-005-carine-montaner::diguem	Carine Montaner	diguem	clips/carine-montaner__diguem__506.60.wav					0.06	0.7389	1047.05	mesura instrumental; pendent d’audició
+lead-rtva-005-carine-montaner::doncs	Carine Montaner	doncs	clips/carine-montaner__doncs__105.16.wav					0.09	0.3795	1064.19	mesura instrumental; pendent d’audició
+lead-rtva-005-carine-montaner::evidentment	Carine Montaner	evidentment	clips/carine-montaner__evidentment__868.60.wav					0.06	0.5483	1086.36	mesura instrumental; pendent d’audició
+lead-rtva-005-carine-montaner::llavors	Carine Montaner	llavors	clips/carine-montaner__llavors__711.88.wav					0.1	0.4541	1442.23	mesura instrumental; pendent d’audició
+lead-rtva-005-carine-montaner::Massana	Carine Montaner	Massana	clips/carine-montaner__massana__2676.84.wav					0.07	0.7588	1145.23	mesura instrumental; pendent d’audició
+lead-rtva-005-carine-montaner::no?	Carine Montaner	no?	clips/carine-montaner__no__245.12.wav					0.12	0.3874	1112.32	mesura instrumental; pendent d’audició
+lead-rtva-005-carine-montaner::o sigui	Carine Montaner	o sigui	clips/carine-montaner__o-sigui__742.28.wav					0.08	0.4382	1084.16	mesura instrumental; pendent d’audició
+lead-rtva-005-carine-montaner::parròquia	Carine Montaner	parròquia	clips/carine-montaner__parr-quia__671.88.wav					0.06	0.5685	1021.97	mesura instrumental; pendent d’audició
+lead-rtva-005-carine-montaner::per tant	Carine Montaner	per tant	clips/carine-montaner__per-tant__145.64.wav					0.1	0.529	972.08	mesura instrumental; pendent d’audició
+lead-rtva-005-carine-montaner::perquè	Carine Montaner	perquè	clips/carine-montaner__perqu__120.56.wav					0.08	0.6969	1236.35	mesura instrumental; pendent d’audició
+lead-rtva-005-carine-montaner::és a dir	Carine Montaner	és a dir	clips/carine-montaner__s-a-dir__136.40.wav					0.08	0.5917	1185.61	mesura instrumental; pendent d’audició
+lead-rtva-005-carine-montaner::Sant Julià	Carine Montaner	Sant Julià	clips/carine-montaner__sant-juli__2628.52.wav					0.08	0.4321	1223.9	mesura instrumental; pendent d’audició
+lead-rtva-005-carine-montaner::vull dir	Carine Montaner	vull dir	clips/carine-montaner__vull-dir__2105.40.wav					0.06	0.6884	1271.08	mesura instrumental; pendent d’audició
+lead-rtva-006-jaume-tomas::a nivell	Jaume Tomàs	a nivell	clips/jaume-tomas__a-nivell__434.96.wav					0.05	0.7527	1039.07	mesura instrumental; pendent d’audició
+lead-rtva-006-jaume-tomas::bé	Jaume Tomàs	bé	clips/jaume-tomas__b__218.48.wav					0.05	0.7196	1036.84	mesura instrumental; pendent d’audició
+lead-rtva-006-jaume-tomas::bueno	Jaume Tomàs	bueno	clips/jaume-tomas__bueno__79.36.wav					0.05	0.7201	1091.5	mesura instrumental; pendent d’audició
+lead-rtva-006-jaume-tomas::clar	Jaume Tomàs	clar	clips/jaume-tomas__clar__71.76.wav					0.06	0.809	892.27	mesura instrumental; pendent d’audició
+lead-rtva-006-jaume-tomas::de fet	Jaume Tomàs	de fet	clips/jaume-tomas__de-fet__916.00.wav					0.04	0.8442	914.27	mesura instrumental; pendent d’audició
+lead-rtva-006-jaume-tomas::doncs	Jaume Tomàs	doncs	clips/jaume-tomas__doncs__35.36.wav					0.04	0.738	1043.23	mesura instrumental; pendent d’audició
+lead-rtva-006-jaume-tomas::evidentment	Jaume Tomàs	evidentment	clips/jaume-tomas__evidentment__404.16.wav					0.04	0.8264	945.29	mesura instrumental; pendent d’audició
+lead-rtva-006-jaume-tomas::llavors	Jaume Tomàs	llavors	clips/jaume-tomas__llavors__119.28.wav					0.05	0.6744	1085.23	mesura instrumental; pendent d’audició
+lead-rtva-006-jaume-tomas::no?	Jaume Tomàs	no?	clips/jaume-tomas__no__158.80.wav					0.05	0.7364	1020.36	mesura instrumental; pendent d’audició
+lead-rtva-006-jaume-tomas::o sigui	Jaume Tomàs	o sigui	clips/jaume-tomas__o-sigui__1221.28.wav					0.04	0.6406	1226.87	mesura instrumental; pendent d’audició
+lead-rtva-006-jaume-tomas::per tant	Jaume Tomàs	per tant	clips/jaume-tomas__per-tant__1393.88.wav					0.14	0.5729	1129.86	mesura instrumental; pendent d’audició
+lead-rtva-006-jaume-tomas::perquè	Jaume Tomàs	perquè	clips/jaume-tomas__perqu__43.12.wav					0.05	0.713	1168.85	mesura instrumental; pendent d’audició
+lead-rtva-006-jaume-tomas::és a dir	Jaume Tomàs	és a dir	clips/jaume-tomas__s-a-dir__123.76.wav					0.08	0.6	909.47	mesura instrumental; pendent d’audició
+lead-rtva-006-jaume-tomas::vull dir	Jaume Tomàs	vull dir	clips/jaume-tomas__vull-dir__1401.12.wav					0.08	0.806	900.66	mesura instrumental; pendent d’audició
+lead-rtva-007-robert-guirao::a nivell	Robert Guirao	a nivell	clips/robert-guirao__a-nivell__383.20.wav					0.06	0.3695	1270.95	mesura instrumental; pendent d’audició
+lead-rtva-007-robert-guirao::a veure	Robert Guirao	a veure	clips/robert-guirao__a-veure__48.84.wav					0.1	0.8444	967.15	mesura instrumental; pendent d’audició
+lead-rtva-007-robert-guirao::bé	Robert Guirao	bé	clips/robert-guirao__b__39.60.wav					0.08	0.6243	1235.02	mesura instrumental; pendent d’audició
+lead-rtva-007-robert-guirao::bueno	Robert Guirao	bueno	clips/robert-guirao__bueno__78.84.wav					0.08	0.3055	1084.25	mesura instrumental; pendent d’audició
+lead-rtva-007-robert-guirao::comú	Robert Guirao	comú	clips/robert-guirao__com__194.08.wav					0.14	0.2529	1239.3	mesura instrumental; pendent d’audició
+lead-rtva-007-robert-guirao::de fet	Robert Guirao	de fet	clips/robert-guirao__de-fet__324.04.wav					0.11	0.3846	1115.33	mesura instrumental; pendent d’audició
+lead-rtva-007-robert-guirao::diguem	Robert Guirao	diguem	clips/robert-guirao__diguem__301.32.wav					0.14	0.1639	1402.59	mesura instrumental; pendent d’audició
+lead-rtva-007-robert-guirao::doncs	Robert Guirao	doncs	clips/robert-guirao__doncs__6.84.wav					0.07	0.8306	1086.95	mesura instrumental; pendent d’audició
+lead-rtva-007-robert-guirao::evidentment	Robert Guirao	evidentment	clips/robert-guirao__evidentment__131.92.wav					0.02	0.8547	1040.54	mesura instrumental; pendent d’audició
+lead-rtva-007-robert-guirao::no?	Robert Guirao	no?	clips/robert-guirao__no__104.20.wav					0.02	0.8241	950.97	mesura instrumental; pendent d’audició
+lead-rtva-007-robert-guirao::o sigui	Robert Guirao	o sigui	clips/robert-guirao__o-sigui__123.60.wav					0.3	0.1235	1253.89	mesura instrumental; pendent d’audició
+lead-rtva-007-robert-guirao::perquè	Robert Guirao	perquè	clips/robert-guirao__perqu__64.36.wav					0.06	0.3859	1159.11	mesura instrumental; pendent d’audició
+lead-rtva-007-robert-guirao::és a dir	Robert Guirao	és a dir	clips/robert-guirao__s-a-dir__72.72.wav					0.07	0.5338	905.17	mesura instrumental; pendent d’audició
+lead-rtva-008-mireia-pedescoll::a nivell	Mireia Pedescoll	a nivell	clips/mireia-pedescoll__a-nivell__1348.36.wav					0.14	0.2864	1144.52	mesura instrumental; pendent d’audició
+lead-rtva-008-mireia-pedescoll::a veure	Mireia Pedescoll	a veure	clips/mireia-pedescoll__a-veure__53.40.wav					0.06	0.4615	1305.47	mesura instrumental; pendent d’audició
+lead-rtva-008-mireia-pedescoll::aleshores	Mireia Pedescoll	aleshores	clips/mireia-pedescoll__aleshores__164.04.wav					0.06	0.5753	1640.07	mesura instrumental; pendent d’audició
+lead-rtva-008-mireia-pedescoll::bé	Mireia Pedescoll	bé	clips/mireia-pedescoll__b__21.60.wav					0.06	0.7136	1124.37	mesura instrumental; pendent d’audició
+lead-rtva-008-mireia-pedescoll::bueno	Mireia Pedescoll	bueno	clips/mireia-pedescoll__bueno__57.48.wav					0.04	0.5256	1391.5	mesura instrumental; pendent d’audició
+lead-rtva-008-mireia-pedescoll::Canillo	Mireia Pedescoll	Canillo	clips/mireia-pedescoll__canillo__466.20.wav					0.1	0.3191	984.09	mesura instrumental; pendent d’audició
+lead-rtva-008-mireia-pedescoll::clar	Mireia Pedescoll	clar	clips/mireia-pedescoll__clar__40.92.wav					0.08	0.7487	1516.51	mesura instrumental; pendent d’audició
+lead-rtva-008-mireia-pedescoll::comú	Mireia Pedescoll	comú	clips/mireia-pedescoll__com__606.92.wav					0.07	0.5597	1546.94	mesura instrumental; pendent d’audició
+lead-rtva-008-mireia-pedescoll::de fet	Mireia Pedescoll	de fet	clips/mireia-pedescoll__de-fet__398.60.wav					0.08	0.6552	1317.03	mesura instrumental; pendent d’audició
+lead-rtva-008-mireia-pedescoll::doncs	Mireia Pedescoll	doncs	clips/mireia-pedescoll__doncs__11.20.wav					0.08	0.8141	1016.85	mesura instrumental; pendent d’audició
+lead-rtva-008-mireia-pedescoll::Escaldes	Mireia Pedescoll	Escaldes	clips/mireia-pedescoll__escaldes__29.64.wav					0.08	0.7085	1465.59	mesura instrumental; pendent d’audició
+lead-rtva-008-mireia-pedescoll::evidentment	Mireia Pedescoll	evidentment	clips/mireia-pedescoll__evidentment__57.48.wav					0.04	0.5256	1391.5	mesura instrumental; pendent d’audició
+lead-rtva-008-mireia-pedescoll::llavors	Mireia Pedescoll	llavors	clips/mireia-pedescoll__llavors__441.32.wav					0.09	0.5874	1074.18	mesura instrumental; pendent d’audició
+lead-rtva-008-mireia-pedescoll::no?	Mireia Pedescoll	no?	clips/mireia-pedescoll__no__207.24.wav					0.22	0.1859	962.64	mesura instrumental; pendent d’audició
+lead-rtva-008-mireia-pedescoll::parròquia	Mireia Pedescoll	parròquia	clips/mireia-pedescoll__parr-quia__403.08.wav					0.08	0.5861	1446.21	mesura instrumental; pendent d’audició
+lead-rtva-008-mireia-pedescoll::per tant	Mireia Pedescoll	per tant	clips/mireia-pedescoll__per-tant__124.44.wav					0.06	0.5814	1315.7	mesura instrumental; pendent d’audició
+lead-rtva-008-mireia-pedescoll::perquè	Mireia Pedescoll	perquè	clips/mireia-pedescoll__perqu__103.00.wav					0.06	0.5477	971.21	mesura instrumental; pendent d’audició
+lead-rtva-008-mireia-pedescoll::és a dir	Mireia Pedescoll	és a dir	clips/mireia-pedescoll__s-a-dir__216.92.wav					0.13	0.3317	1033.31	mesura instrumental; pendent d’audició
+lead-rtva-008-mireia-pedescoll::vull dir	Mireia Pedescoll	vull dir	clips/mireia-pedescoll__vull-dir__515.48.wav					0.09	0.4335	1169.68	mesura instrumental; pendent d’audició

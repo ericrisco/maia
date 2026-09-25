@@ -1,0 +1,3 @@
+expedient	model	tokens	tipus_lexics	type_token_ratio	repeticio_3gram	marcadors_discursius	formes_territorials	formes_contacte	pronoms_clitics	perifrasi_past_aparent	primera_persona	negacio	nota	estat
+lead-yt-043-oriol-agorreta	small	3348	896	0.2676	0.0555	bé=24;bueno=10;clar=6;doncs=13;llavors=2;de fet=5;és a dir=3;a veure=7;diguem=1;evidentment=3;per tant=6;no?=1			349	55	40	56	recompte ASR; validar contra àudio	inventari ASR; pendent d'audició
+lead-yt-043-oriol-agorreta	base	3359	860	0.2560	0.1014	bé=16;bueno=10;clar=3;doncs=13;llavors=2;de fet=4;és a dir=2;a veure=6;evidentment=3;per tant=6;no?=2			374	55	36	82	recompte ASR; validar contra àudio	inventari ASR; pendent d'audició

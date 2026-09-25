@@ -1,0 +1,37 @@
+candidat_a	candidat_b	n_formes_compartides	formes	estat
+lead-cg-001-xavier-espot	lead-cg-002-pere-lopez	1	perquè	semblança textual exploratòria; pendent d'audició
+lead-cg-001-xavier-espot	lead-rtva-002-ian-moya	2	per tant;perquè	semblança textual exploratòria; pendent d'audició
+lead-cg-001-xavier-espot	lead-rtva-003-dj-neura	1	perquè	semblança textual exploratòria; pendent d'audició
+lead-cg-001-xavier-espot	lead-rtva-004-joan-mico	2	per tant;perquè	semblança textual exploratòria; pendent d'audició
+lead-cg-001-xavier-espot	lead-rtva-005-carine-montaner	3	comú;per tant;perquè	semblança textual exploratòria; pendent d'audició
+lead-cg-001-xavier-espot	lead-rtva-006-jaume-tomas	2	per tant;perquè	semblança textual exploratòria; pendent d'audició
+lead-cg-001-xavier-espot	lead-rtva-007-robert-guirao	2	comú;perquè	semblança textual exploratòria; pendent d'audició
+lead-cg-001-xavier-espot	lead-rtva-008-mireia-pedescoll	3	comú;per tant;perquè	semblança textual exploratòria; pendent d'audició
+lead-cg-002-pere-lopez	lead-rtva-002-ian-moya	1	perquè	semblança textual exploratòria; pendent d'audició
+lead-cg-002-pere-lopez	lead-rtva-003-dj-neura	1	perquè	semblança textual exploratòria; pendent d'audició
+lead-cg-002-pere-lopez	lead-rtva-004-joan-mico	1	perquè	semblança textual exploratòria; pendent d'audició
+lead-cg-002-pere-lopez	lead-rtva-005-carine-montaner	1	perquè	semblança textual exploratòria; pendent d'audició
+lead-cg-002-pere-lopez	lead-rtva-006-jaume-tomas	1	perquè	semblança textual exploratòria; pendent d'audició
+lead-cg-002-pere-lopez	lead-rtva-007-robert-guirao	1	perquè	semblança textual exploratòria; pendent d'audició
+lead-cg-002-pere-lopez	lead-rtva-008-mireia-pedescoll	1	perquè	semblança textual exploratòria; pendent d'audició
+lead-rtva-002-ian-moya	lead-rtva-003-dj-neura	6	a veure;bé;clar;doncs;no?;perquè	semblança textual exploratòria; pendent d'audició
+lead-rtva-002-ian-moya	lead-rtva-004-joan-mico	9	bé;clar;de fet;doncs;llavors;no?;o sigui;per tant;perquè	semblança textual exploratòria; pendent d'audició
+lead-rtva-002-ian-moya	lead-rtva-005-carine-montaner	13	a nivell;a veure;bé;clar;de fet;doncs;evidentment;llavors;no?;o sigui;per tant;perquè;és a dir	semblança textual exploratòria; pendent d'audició
+lead-rtva-002-ian-moya	lead-rtva-006-jaume-tomas	11	a nivell;bé;clar;de fet;doncs;evidentment;llavors;no?;per tant;perquè;és a dir	semblança textual exploratòria; pendent d'audició
+lead-rtva-002-ian-moya	lead-rtva-007-robert-guirao	10	a nivell;a veure;bé;de fet;doncs;evidentment;no?;o sigui;perquè;és a dir	semblança textual exploratòria; pendent d'audició
+lead-rtva-002-ian-moya	lead-rtva-008-mireia-pedescoll	11	Escaldes;a veure;bé;clar;doncs;evidentment;llavors;no?;per tant;perquè;és a dir	semblança textual exploratòria; pendent d'audició
+lead-rtva-003-dj-neura	lead-rtva-004-joan-mico	6	bueno;bé;clar;doncs;no?;perquè	semblança textual exploratòria; pendent d'audició
+lead-rtva-003-dj-neura	lead-rtva-005-carine-montaner	7	a veure;bueno;bé;clar;doncs;no?;perquè	semblança textual exploratòria; pendent d'audició
+lead-rtva-003-dj-neura	lead-rtva-006-jaume-tomas	6	bueno;bé;clar;doncs;no?;perquè	semblança textual exploratòria; pendent d'audició
+lead-rtva-003-dj-neura	lead-rtva-007-robert-guirao	6	a veure;bueno;bé;doncs;no?;perquè	semblança textual exploratòria; pendent d'audició
+lead-rtva-003-dj-neura	lead-rtva-008-mireia-pedescoll	8	a veure;aleshores;bueno;bé;clar;doncs;no?;perquè	semblança textual exploratòria; pendent d'audició
+lead-rtva-004-joan-mico	lead-rtva-005-carine-montaner	11	bueno;bé;clar;de fet;doncs;llavors;no?;o sigui;per tant;perquè;vull dir	semblança textual exploratòria; pendent d'audició
+lead-rtva-004-joan-mico	lead-rtva-006-jaume-tomas	10	bueno;bé;clar;de fet;doncs;llavors;no?;per tant;perquè;vull dir	semblança textual exploratòria; pendent d'audició
+lead-rtva-004-joan-mico	lead-rtva-007-robert-guirao	7	bueno;bé;de fet;doncs;no?;o sigui;perquè	semblança textual exploratòria; pendent d'audició
+lead-rtva-004-joan-mico	lead-rtva-008-mireia-pedescoll	9	bueno;bé;clar;doncs;llavors;no?;per tant;perquè;vull dir	semblança textual exploratòria; pendent d'audició
+lead-rtva-005-carine-montaner	lead-rtva-006-jaume-tomas	13	a nivell;bueno;bé;clar;de fet;doncs;evidentment;llavors;no?;per tant;perquè;vull dir;és a dir	semblança textual exploratòria; pendent d'audició
+lead-rtva-005-carine-montaner	lead-rtva-007-robert-guirao	12	a nivell;a veure;bueno;bé;comú;de fet;doncs;evidentment;no?;o sigui;perquè;és a dir	semblança textual exploratòria; pendent d'audició
+lead-rtva-005-carine-montaner	lead-rtva-008-mireia-pedescoll	14	a veure;bueno;bé;clar;comú;doncs;evidentment;llavors;no?;parròquia;per tant;perquè;vull dir;és a dir	semblança textual exploratòria; pendent d'audició
+lead-rtva-006-jaume-tomas	lead-rtva-007-robert-guirao	9	a nivell;bueno;bé;de fet;doncs;evidentment;no?;perquè;és a dir	semblança textual exploratòria; pendent d'audició
+lead-rtva-006-jaume-tomas	lead-rtva-008-mireia-pedescoll	11	bueno;bé;clar;doncs;evidentment;llavors;no?;per tant;perquè;vull dir;és a dir	semblança textual exploratòria; pendent d'audició
+lead-rtva-007-robert-guirao	lead-rtva-008-mireia-pedescoll	9	a veure;bueno;bé;comú;doncs;evidentment;no?;perquè;és a dir	semblança textual exploratòria; pendent d'audició

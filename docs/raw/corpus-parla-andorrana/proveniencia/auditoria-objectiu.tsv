@@ -1,0 +1,24 @@
+requisit	evidencia	estat	buit
+subcorpus independent	README.md linked_to_existing_corpus=false	assolit	
+entre 50 i 100 persones	persones-canonics.tsv: 60 persones	assolit	
+fonts audiovisuals institucionals	fonts-resum.tsv: 66 registres · canals: Andorra Recerca Innovació, Arxiu d'Etnografia d'Andorra / Arxiu Nacional d'Andorra, Consell General, RTVA Andorra	assolit	
+àudio local amb procedència	audios/*/audio.wav: 66 fitxers	assolit	
+transcripció per font	transcripcions/*.txt: 66 fitxers; auditoria estructural: 64/66 completes; JSON/VTT al paquet	assolit com a ASR	QA de timestamps i revisió diplomàtica pendent en les incidències detectades
+informe per font	persones/*.md: 66 fitxes amb inventari i repertori	assolit com a anàlisi provisional	confirmació auditiva pendent
+completitud estructural de les fitxes	auditoria-informes.tsv: 66/66 fitxes provisionals completes	assolit com a completitud documental	anotació auditiva pendent
+context i identitat documental	auditoria-identitat-linguistica.tsv: 60 parlants amb font contextual · 0 identificacions per títol/metadades	assolit com a procedència contextual	biografia lingüística, lloc de socialització i veu atribuïda pendents d'audició
+cobertura operativa per persona	auditoria-cobertura-sessions.tsv: 57 parlants coberts per les sessions · 3 en quarantena	assolit com a cobertura de selecció	les decisions de veu i forma continuen pendents d'audició
+graf textual independent	nodes-formes-completa.tsv: 60 nodes canònics	assolit com a semblança ASR	no és resultat dialectològic fins a escoltar
+graf acústic independent	nodes-acustic-canonic.tsv: 60 nodes	assolit com a exploració instrumental	no és classificació dialectal
+graf separat de candidats	nodes-formes-candidats.tsv: 100 nodes · arestes-formes-candidats.tsv: 36 arestes · 11 expedients	assolit com a semblança textual exploratòria	veu, variant, termes i relació amb el cànon pendents d'audició
+graf acústic separat de candidats	nodes-acustic-candidats.tsv: 124 nodes · arestes-acustic-candidats.tsv: 859 arestes · 11 expedients	assolit com a exploració instrumental	no és classificació dialectal i continua pendent d'audició
+graf canònic de formes escasses	nodes-formes-escasses.tsv: 60 nodes · arestes-parlants-formes-escasses.tsv: 13 arestes · 10 formes	assolit com a semblança ASR	confirmació auditiva pendent
+quadern de formes representatives	quadern-formes-representatives.md: 35 formes amb contextos VTT i enllaç a fitxes	preparat per audició	els contextos ASR no són confirmacions
+evidència gramatical i de contacte llegible	quadern-evidencia-gramatica.md: 10.458 contextos en 9 categories	assolit com a inventari textual	morfosintaxi i contacte pendents d'escolta
+integritat de transcripcions candidates	auditoria-integritat-transcripcions-candidats.tsv: 124/124 clips amb WAV i doble ASR	assolit tècnicament	veu i forma pendents d'audició
+primera cua humana de candidats	cua-audicio-candidats-prioritaria.tsv: 20 clips de 11 veus	preparada	decisions humanes pendents
+primera cua humana de formes escasses	cua-audicio-formes-escasses-prioritaria.tsv: 10 clips i 10 formes	preparada	decisions humanes pendents
+cobertura documental per font	auditoria-cobertura-persones.tsv: 66 fitxes amb informe, àudio, transcripció i procedència	assolit documentalment	validació lingüística pendent
+format d'àudio verificat	auditoria-format-audio.md: 66/66 fonts vàlides i 656/656 clips PCM mono 16 kHz	assolit tècnicament	el format no confirma identitat ni variant
+revisió auditiva de cada clip	registre-audicio.tsv: 656 pendents de 656 · registre formes escasses: 30 pendents de 30 · candidats: 124 pendents	pendent	decisió, nota, variant, fonètica i prosòdia humanes
+veus en quarantena	pa-044, pa-047 i pa-050 · cua curta: 15 clips	pendent	revisió auditiva i confirmació de segments atribuïbles

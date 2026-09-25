@@ -1,0 +1,3 @@
+expedient	model	tokens	tipus_lexics	type_token_ratio	repeticio_3gram	marcadors_discursius	formes_territorials	formes_contacte	pronoms_clitics	perifrasi_past_aparent	primera_persona	negacio	nota	estat
+lead-rtva-019-lisa-cruz	small	4618	1154	0.2499	0.1091	bé=4;bueno=1;clar=5;doncs=2;llavors=8;de fet=4;o sigui=2;a veure=2;per tant=4;a nivell=1;no?=4	comú=3;comuns=4		509	14	22	85	recompte ASR; validar contra àudio	inventari ASR; pendent d'audició
+lead-rtva-019-lisa-cruz	base	5578	1029	0.1845	0.6362	bé=2;bueno=3;clar=1;doncs=2;llavors=8;de fet=3;o sigui=1;a veure=1;per tant=2;no?=3	comú=2;comuns=1		667	14	20	117	recompte ASR; validar contra àudio	inventari ASR; pendent d'audició

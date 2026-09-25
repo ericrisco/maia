@@ -1,0 +1,64 @@
+id_persona	forma	clip	transcripcio_beam	estat	beam_text	forma_en_small	forma_en_base	forma_en_beam	similitud_textual_small
+pa-004	bé	clips/pa-004__b__319.61.wav	qa-beam/pa-004__b.txt	complet	més o menys està bé allà i després...	sí	sí	sí	0.044
+pa-005	bé	clips/pa-005__b__51.09.wav	qa-beam/pa-005__b.txt	complet	Si us sembla bé, farem un viatge en el temps, més precisament.	sí	sí	sí	0.079
+pa-006	aleshores	clips/pa-006__aleshores__513.25.wav	qa-beam/pa-006__aleshores.txt	complet	Aleshores era molt fàcil agafar i aprofitar la força d'aigua baixant per l'entrada.	sí	sí	sí	0.105
+pa-007	a veure	clips/pa-007__a-veure__89.25.wav	qa-beam/pa-007__a-veure.txt	complet	que he tingut a veure amb la història del nostre país  i que vaig publicar a un dels meus llibres que tinc per aquí.	sí	sí	sí	0.140
+pa-008	a veure	clips/pa-008__a-veure__668.25.wav	qa-beam/pa-008__a-veure.txt	complet	tot això no té res a veure amb el que tres anys abans	sí	sí	sí	0.087
+pa-009	bé	clips/pa-009__b__557.25.wav	qa-beam/pa-009__b.txt	complet	i són campanes que sonen molt bé.	sí	sí	sí	0.054
+pa-010	bé	clips/pa-010__b__24.65.wav	qa-beam/pa-010__b.txt	complet	oponímia i risc geològics. I doncs vei avui com a col·laboració dins d'aquest  cicle de capsules d'història en temps de confinament.	sí	sí	no	0.106
+pa-011	a veure	clips/pa-011__a-veure__551.81.wav	qa-beam/pa-011__a-veure.txt	complet	acabo d'exposicions i activitats que tenen sempre a veure amb el patrimoni.	sí	sí	sí	0.130
+pa-012	doncs	clips/pa-012__doncs__411.25.wav	qa-beam/pa-012__doncs.txt	complet	aquí veient un equip de dallasres que estan treballant.	sí	sí	no	0.063
+pa-013	evidentment	clips/pa-013__evidentment__530.29.wav	qa-beam/pa-013__evidentment.txt	complet	i algunes de les seves característiques són l'ús del graní, un material difícil de treballar, però molt bons resultats.	sí	sí	no	0.055
+pa-014	aviam	clips/pa-014__aviam__875.45.wav	qa-beam/pa-014__aviam.txt	complet	d'escoltar una cosa, es diu, escoteu, aviam.  Imagineu-vos que les merdes apareixen.  Què passa amb el contrapàs? Es deixarà de ballar.	sí	sí	sí	0.150
+pa-015	doncs	clips/pa-015__doncs__83.25.wav	qa-beam/pa-015__doncs.txt	complet	és important, doncs és important per una senzilla raó.	sí	sí	sí	0.070
+pa-016	a nivell	clips/pa-016__a-nivell__333.81.wav	qa-beam/pa-016__a-nivell.txt	complet	inclús recordo doncs fer sessions maratonianes a nivell de comissions sobre tot quan	sí	sí	sí	0.092
+pa-017	a nivell	clips/pa-017__a-nivell__143.25.wav	qa-beam/pa-017__a-nivell.txt	complet	Jo penso que totes les parts implicades a nivell de totes les parròquies	sí	sí	sí	0.093
+pa-018	a nivell	clips/pa-018__a-nivell__188.45.wav	qa-beam/pa-018__a-nivell.txt	complet	Quan se vol, a nivells de programes polítics,	sí	sí	no	0.061
+pa-019	a nivell	clips/pa-019__a-nivell__122.25.wav	qa-beam/pa-019__a-nivell.txt	complet	la Constitució és amb qualsevol tema que entrés a nivell de comissions.	sí	sí	sí	0.103
+pa-020	aviam	clips/pa-020__aviam__252.21.wav	qa-beam/pa-020__aviam.txt	complet	Això és el seu, i a bon resultat que clar, això era aviam, potser va a...	sí	sí	sí	0.078
+pa-021	bueno	clips/pa-021__bueno__12.25.wav	qa-beam/pa-021__bueno.txt	complet	i es va obligar, i, bueno, les hores, doncs,	sí	sí	sí	0.075
+pa-022	a veure	clips/pa-022__a-veure__238.61.wav	qa-beam/pa-022__a-veure.txt	complet	perquè teníem la poder a veure si ara s'ho duré in extremis.	sí	sí	sí	0.042
+pa-023	a nivell	clips/pa-023__a-nivell__418.57.wav	qa-beam/pa-023__a-nivell.txt	complet	i després també a nivell d'agricultura.	sí	sí	sí	0.052
+pa-025	a veure	clips/pa-025__a-veure__388.01.wav	qa-beam/pa-025__a-veure.txt	complet	segurament. A veure, el goprínsem Martí, nosaltres no el criticarem.	sí	sí	sí	0.073
+pa-026	a nivell	clips/pa-026__a-nivell__38.25.wav	qa-beam/pa-026__a-nivell.txt	complet	A.  Però a nivell nacional volia dir...	sí	sí	sí	0.056
+pa-027	bé	clips/pa-027__b__30.97.wav	qa-beam/pa-027__b.txt	complet	I ara la meva consellera està parlant molt públic.  Allà hi havia molt públic, hi va haver bullíssim.	sí	sí	no	0.073
+pa-028	bueno	clips/pa-028__bueno__28.37.wav	qa-beam/pa-028__bueno.txt	complet	Bé, bé, bé, bé, bé, bé...  Bé, bé, bé, bé, bé, bé...	sí	sí	no	0.061
+pa-029	a nivell	clips/pa-029__a-nivell__417.09.wav	qa-beam/pa-029__a-nivell.txt	complet	que es volien els 4 a nivell nacional i l'aconseguiria.	sí	sí	sí	0.064
+pa-030	a veure	clips/pa-030__a-veure__673.41.wav	qa-beam/pa-030__a-veure.txt	complet	A veure, aquí que el diu una cosa.	sí	sí	sí	0.058
+pa-031	bueno	clips/pa-031__bueno__111.73.wav	qa-beam/pa-031__bueno.txt	complet	A mi em pensava que jo pensava i els consellers, els companys de...	sí	sí	no	0.092
+pa-032	bueno	clips/pa-032__bueno__44.73.wav	qa-beam/pa-032__bueno.txt	complet	I, bueno, l'últim, la psiga 4 que ens vam apuntar i vam dir que era capaç.	sí	sí	sí	0.093
+pa-033	bé	clips/pa-033__b__103.09.wav	qa-beam/pa-033__b.txt	complet	que ja estem bé com estem i no ho toquem, que tot es fa molt bé.	sí	sí	sí	0.092
+pa-034	a nivell	clips/pa-034__a-nivell__143.81.wav	qa-beam/pa-034__a-nivell.txt	complet	per tant, clar, pot dir, més que a nivell familiar va ser posar...	sí	sí	sí	0.071
+pa-035	bé	clips/pa-035__b__715.81.wav	qa-beam/pa-035__b.txt	complet	i això és el que ha de fer.	sí	sí	no	0.043
+pa-036	a nivell	clips/pa-036__a-nivell__386.45.wav	qa-beam/pa-036__a-nivell.txt	complet	Tot i que les relacions entre en Gàmels i altres parroquis  no eren bones a nivell electoral no s'havia perdut.	sí	sí	sí	0.083
+pa-037	bueno	clips/pa-037__bueno__105.29.wav	qa-beam/pa-037__bueno.txt	complet	de la constituent, gairebé existim tothom. Jo, personalment, he passat tots els altres anys que no he pogut anar.  Però, bueno, aquesta és la mateixa RNA i torne bé, molt bé, molt bé, molt bé, torna a comentar coses,  del que ha de fer bé passat, però sobretot...	sí	sí	sí	0.029
+pa-038	a nivell	clips/pa-038__a-nivell__455.49.wav	qa-beam/pa-038__a-nivell.txt	complet	per dir-ho a nivell de negocis, el que sigui, això va molt bé.	sí	sí	sí	0.040
+pa-039	bueno	clips/pa-039__bueno__530.89.wav	qa-beam/pa-039__bueno.txt	complet	Aquesta gent va reaccionar de la mateixa manera que els altres.	sí	sí	no	0.088
+pa-040	bé	clips/pa-040__b__32.81.wav	qa-beam/pa-040__b.txt	complet	i el que ha passat és el que ha passat.  I el que ha passat és el que ha passat.	sí	sí	no	0.048
+pa-041	bé	clips/pa-041__b__130.25.wav	qa-beam/pa-041__b.txt	complet	Bé, jo crec que hi havia persones més receptives	sí	sí	sí	0.053
+pa-042	clar	clips/pa-042__clar__101.97.wav	qa-beam/pa-042__clar.txt	complet	I ja no podes fer el mateix que feies abans.	sí	sí	no	0.069
+pa-043	bueno	clips/pa-043__bueno__0.00.wav	qa-beam/pa-043__bueno.txt	complet	Bueno, el 15 més 15 és una idea que venia de nada.	sí	sí	sí	0.080
+pa-045	a veure	clips/pa-045__a-veure__340.93.wav	qa-beam/pa-045__a-veure.txt	complet	No ho veiem perquè...  No ho veiem perquè per un luxe d'anar-ho a veure i per conservar-ho.	sí	sí	sí	0.110
+pa-046	bueno	clips/pa-046__bueno__128.01.wav	qa-beam/pa-046__bueno.txt	complet	No és el que ha de fer, sinó el que s'ha de fer.	sí	sí	no	0.065
+pa-048	a nivell	clips/pa-048__a-nivell__435.77.wav	qa-beam/pa-048__a-nivell.txt	complet	perquè, normalment, quan t'inviten a nivell oficial, t'inviten a tal...	sí	sí	sí	0.073
+pa-049	a veure	clips/pa-049__a-veure__244.85.wav	qa-beam/pa-049__a-veure.txt	complet	i ara ja no ens ho pot dir.  Però van anar a veure l'amistat amb el meu pare.  El meu pare els va anar a veure després o així.	sí	sí	sí	0.119
+pa-053	perquè	clips/pa-053__perqu__113.93.wav	qa-beam/pa-053__perqu.txt	complet	d'aquí, no venia a guanyar alguna pèl·la, perquè volien desprotar la gent.	sí	sí	sí	0.089
+pa-054	bueno	clips/pa-054__bueno__51.69.wav	qa-beam/pa-054__bueno.txt	complet	I, bueno, era la primera fase.	sí	sí	sí	0.031
+pa-055	a nivell	clips/pa-055__a-nivell__38.09.wav	qa-beam/pa-055__a-nivell.txt	complet	Però a nivell nacional, volia dir, per 89,	sí	sí	sí	0.067
+pa-056	a veure	clips/pa-056__a-veure__673.21.wav	qa-beam/pa-056__a-veure.txt	complet	A veure, aquí que el diu una cosa.	sí	sí	sí	0.041
+pa-057	diguem	clips/pa-057__diguem__929.81.wav	qa-beam/pa-057__diguem.txt	complet	però que no siguis un club, diguem-ho així.	sí	sí	sí	0.059
+pa-058	a nivell	clips/pa-058__a-nivell__188.37.wav	qa-beam/pa-058__a-nivell.txt	complet	Quan se vol, a nivells de programes polítics,	sí	sí	no	0.057
+pa-059	a nivell	clips/pa-059__a-nivell__142.93.wav	qa-beam/pa-059__a-nivell.txt	complet	Jo penso que totes les parts implicades a nivell de totes les parròquies,	sí	sí	sí	0.099
+pa-060	a veure	clips/pa-060__a-veure__268.57.wav	qa-beam/pa-060__a-veure.txt	complet	d'un aspecte, eh?, a veure, i que les eleccions són del 92...	sí	sí	sí	0.075
+pa-061	a nivell	clips/pa-061__a-nivell__1357.21.wav	qa-beam/pa-061__a-nivell.txt	complet	No vol dir que a nivell laboral la néixer.	sí	sí	sí	0.061
+pa-062	bueno	clips/pa-062__bueno__297.17.wav	qa-beam/pa-062__bueno.txt	complet	"Diuen que és...  Bueno, hi ha una frase que diu ""El pot petit i la bona comfitada""."	sí	sí	sí	0.070
+pa-063	a nivell	clips/pa-063__a-nivell__1143.61.wav	qa-beam/pa-063__a-nivell.txt	complet	que ara farem, que jo crec que ens ajudarà molt a nivell de finances.	sí	sí	sí	0.103
+pa-064	a veure	clips/pa-064__a-veure__587.61.wav	qa-beam/pa-064__a-veure.txt	complet	No s'ha tornat a veure amb els anys.	sí	sí	sí	0.041
+pa-065	bé	clips/pa-065__b__138.57.wav	qa-beam/pa-065__b.txt	complet	M'ho diu jo, molt bé, el cert que ve no el paradís,  va en marxar del paradís, però...	sí	sí	sí	0.090
+pa-066	a nivell	clips/pa-066__a-nivell__25.21.wav	qa-beam/pa-066__a-nivell.txt	complet	S'ha plogut molt via seu d'un dia bastant complicat a nivell de trànsit.	sí	sí	sí	0.073
+pa-001	a nivell	clips/pa-001__a-nivell__135.37.wav	qa-beam/pa-001__a-nivell.txt	complet	i que s'haurà de posar en contacte amb nosaltres.	sí	no	no	0.038
+pa-002	a nivell	clips/pa-002__a-nivell__714.25.wav	qa-beam/pa-002__a-nivell.txt	complet	perquè l'opció de la minoria que va passar  és ser majoria, diguéssim, a nivell consell,  però no ho eren.	sí	no	sí	0.107
+pa-003	a nivell	clips/pa-003__a-nivell__180.17.wav	qa-beam/pa-003__a-nivell.txt	complet	El que fa a nivell polític, la primera vegada quan es crea l'amaternal, com he dit,	sí	no	sí	0.063
+pa-024	a nivell	clips/pa-024__a-nivell__1547.93.wav	qa-beam/pa-024__a-nivell.txt	complet	I jo, no?  Llavors, clar, a nivell...  Ja el Jaume Bartomeu ha governat també, i soc jo...	sí	no	sí	0.092
+pa-051	bueno	clips/pa-051__bueno__41.97.wav	qa-beam/pa-051__bueno.txt	complet	sempre l'estiu, l'Ibantes, fins que van moure el camp i que ja tenien...	sí	no	no	0.058
+pa-052	bueno	clips/pa-052__bueno__41.97.wav	qa-beam/pa-052__bueno.txt	complet	(riu)  I, bueno, tinc certs germans.	sí	no	sí	0.061

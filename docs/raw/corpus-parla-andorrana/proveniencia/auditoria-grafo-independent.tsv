@@ -1,0 +1,10 @@
+capa	fitxer	files	nodes_canonics	ids_fora	estat
+linguistic_nodes	grafo/nodes-formes-completa.tsv	60	60		independent
+linguistic_edges	grafo/arestes-parlants-formes-completa.tsv	1690	60		independent
+linguistic_matrix	grafo/matriu-formes-completa.tsv	2100	60		independent
+scarce_form_nodes	grafo/nodes-formes-escasses.tsv	60	60		independent
+scarce_form_edges	grafo/arestes-parlants-formes-escasses.tsv	13	12		independent
+scarce_form_matrix	grafo/matriu-formes-escasses.tsv	600	60		independent
+acoustic_nodes	grafo/nodes-acustic-canonic.tsv	60	60		independent
+acoustic_edges	grafo/arestes-acustic-canonic.tsv	1036	55		independent
+repertory	grafo/repertori-aplicat-canonic.tsv	1080	60		independent

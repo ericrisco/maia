@@ -1,0 +1,23 @@
+forma	segment	inici_forma_s	final_forma_s	clip	inici_clip_s	final_clip_s	small	base	prioritat	estat
+a nivell	37	113.720	117.720	clips/carine-montaner__a-nivell__113.72.wav	112.720	118.720	19	19	A-consens-ASR	pendent d'audició
+a veure	224	691.440	693.560	clips/carine-montaner__a-veure__691.44.wav	690.440	694.560	5	4	A-consens-ASR	pendent d'audició
+bueno	388	1120.360	1123.400	clips/carine-montaner__bueno__1120.36.wav	1119.360	1124.400	11	19	A-consens-ASR	pendent d'audició
+bé	26	82.120	86.080	clips/carine-montaner__b__82.12.wav	81.120	87.080	20	22	A-consens-ASR	pendent d'audició
+clar	69	215.040	218.920	clips/carine-montaner__clar__215.04.wav	214.040	219.920	62	75	A-consens-ASR	pendent d'audició
+de fet	256	777.080	780.200	clips/carine-montaner__de-fet__777.08.wav	776.080	781.200	3	2	A-consens-ASR	pendent d'audició
+diguem	163	506.600	508.680	clips/carine-montaner__diguem__506.60.wav	505.600	509.680	2	1	A-consens-ASR	pendent d'audició
+doncs	33	105.160	107.080	clips/carine-montaner__doncs__105.16.wav	104.160	108.080	36	38	A-consens-ASR	pendent d'audició
+evidentment	290	868.600	871.800	clips/carine-montaner__evidentment__868.60.wav	867.600	872.800	3	3	A-consens-ASR	pendent d'audició
+llavors	231	711.880	714.480	clips/carine-montaner__llavors__711.88.wav	710.880	715.480	10	2	A-consens-ASR	pendent d'audició
+no?	78	245.120	248.200	clips/carine-montaner__no__245.12.wav	244.120	249.200	14	21	A-consens-ASR	pendent d'audició
+o sigui	243	742.280	745.640	clips/carine-montaner__o-sigui__742.28.wav	741.280	746.640	3	1	A-consens-ASR	pendent d'audició
+per tant	47	145.640	148.840	clips/carine-montaner__per-tant__145.64.wav	144.640	149.840	27	41	A-consens-ASR	pendent d'audició
+perquè	39	120.560	125.640	clips/carine-montaner__perqu__120.56.wav	119.560	126.640	90	97	A-consens-ASR	pendent d'audició
+vull dir	732	2105.400	2107.400	clips/carine-montaner__vull-dir__2105.40.wav	2104.400	2108.400	1	2	A-consens-ASR	pendent d'audició
+és a dir	44	136.400	140.200	clips/carine-montaner__s-a-dir__136.40.wav	135.400	141.200	30	28	A-consens-ASR	pendent d'audició
+Sant Julià	913	2628.520	2631.400	clips/carine-montaner__sant-juli__2628.52.wav	2627.520	2632.400	1	1	A-consens-ASR	pendent d'audició
+comunal	197	610.920	613.320	clips/carine-montaner__comunal__610.92.wav	609.920	614.320	2	2	A-consens-ASR	pendent d'audició
+comunals	189	582.560	584.800	clips/carine-montaner__comunals__582.56.wav	581.560	585.800	4	4	A-consens-ASR	pendent d'audició
+comú	201	622.640	626.040	clips/carine-montaner__com__622.64.wav	621.640	627.040	4	4	A-consens-ASR	pendent d'audició
+parròquia	218	671.880	673.840	clips/carine-montaner__parr-quia__671.88.wav	670.880	674.840	1	1	A-consens-ASR	pendent d'audició
+Massana	928	2676.840	2678.840	clips/carine-montaner__massana__2676.84.wav	2675.840	2679.840	1	0	B-un-model-ASR	pendent d'audició

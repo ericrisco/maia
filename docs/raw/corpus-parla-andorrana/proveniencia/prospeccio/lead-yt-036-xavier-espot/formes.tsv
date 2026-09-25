@@ -1,0 +1,71 @@
+forma	categoria	small	base	consens	model_localitzador	context_small	context_base	prob_min_segment_small	prob_mean_segment_small	prob_min_segment_base	prob_mean_segment_base	clip	inici_ms	final_ms	estat
+a nivell	discurs	0	0	no											ASR textual; atribució i audició pendents
+a veure	discurs	5	3	sí	small	i els ciutadans i les ciutadanes d'Andorra no tenen res a veure.	i dic bé de la guerra d'Ucraïna, per tant, d'un fenòmen en el qual el govern d'Andorra i els ciutadans i les ciutadanes d'Andorra no tenen res a veure.	0.7674	0.9679	0.1867	0.7745	lead-yt-036__02__a-veure.wav	647280	650200	ASR textual; atribució i audició pendents
+aleshores	discurs	0	0	no											ASR textual; atribució i audició pendents
+aviam	discurs	0	0	no											ASR textual; atribució i audició pendents
+bueno	discurs	0	0	no											ASR textual; atribució i audició pendents
+bé	discurs	8	8	sí	small	Mira, per començar, si li sembla bé, m'agradaria demanar-li	Mira, per començar, si li sembla bé, m'agradaria demanar-li	0.6827	0.9386	0.1811	0.7945	lead-yt-036__06__b.wav	39000	42400	ASR textual; atribució i audició pendents
+clar	discurs	1	1	sí	small	té molt clar que les grans prioritats seran aquestes.	té molt clar que les grans prioritats seran aquestes.	0.4189	0.9260	0.6701	0.9232	lead-yt-036__07__clar.wav	784480	787360	ASR textual; atribució i audició pendents
+de fet	discurs	1	1	sí	small	De fet, aquí també no és que amb la crisi energètica ens haguem adonat	De fet, aquí també no és que amb la crisi energètica ens haguem adonat	0.3473	0.8892	0.3678	0.8851	lead-yt-036__08__de-fet.wav	965880	970600	ASR textual; atribució i audició pendents
+diguem	discurs	5	7	sí	small	diguem, a camp veint certa forma d'arribar a acords en altres parròquies.	"si diguem ""ponderada"" i ""objectiva"" de la situació cal fer un exercici de retrospectiva."	0.1849	0.8093	0.0426	0.7596	lead-yt-036__09__diguem.wav	439200	443440	ASR textual; atribució i audició pendents
+doncs	discurs	18	31	sí	small	Doncs hi ha una certa vocació, una certa voluntat	doncs, en certa forma, que confien en tu, que demanen,	0.5177	0.9032	0.4799	0.7582	lead-yt-036__10__doncs.wav	64320	66760	ASR textual; atribució i audició pendents
+evidentment	discurs	10	10	sí	small	Bé, per diversos factors, evidentment,	Per diversos factors, evidentment,	0.4358	0.8447	0.5451	0.8069	lead-yt-036__11__evidentment.wav	48000	51400	ASR textual; atribució i audició pendents
+llavors	discurs	0	0	no											ASR textual; atribució i audició pendents
+no?	discurs	0	10	no	base		Estencionarà i al final no crec que reiix així, no?			0.2872	0.6483	lead-yt-036__13__no.wav	288720	294320	ASR textual; atribució i audició pendents
+o sigui	discurs	1	1	sí	small	o sigui un país més important, els reptes són molt similars.	Siguian d'orra o sigui un país més important,	0.5336	0.9279	0.2130	0.7404	lead-yt-036__14__o-sigui.wav	2368660	2371340	ASR textual; atribució i audició pendents
+per tant	discurs	45	43	sí	small	Per tant, sobretot hi havia aquesta voluntat	Per tant, sobretot ja havia aquesta voluntat de poder culminar	0.4307	0.9301	0.1971	0.7581	lead-yt-036__15__per-tant.wav	85680	88120	ASR textual; atribució i audició pendents
+perquè	discurs	36	37	sí	small	perquè sobretot si aquella persona que ha estat governant	perquè no s'havia de fer.	0.5416	0.8774	0.0109	0.1990	lead-yt-036__16__perqu.wav	142880	146080	ASR textual; atribució i audició pendents
+vull dir	discurs	0	0	no											ASR textual; atribució i audició pendents
+és a dir	discurs	12	10	sí	small	és a dir, hi ha tota una sèrie de gent,	És a dir, hi ha tot una serie de gent i a tot un grup de persones,	0.8745	0.9747	0.2174	0.7437	lead-yt-036__18__s-a-dir.wav	100440	102280	ASR textual; atribució i audició pendents
+Canillo	territorial	0	0	no											ASR textual; atribució i audició pendents
+Escaldes	territorial	0	0	no											ASR textual; atribució i audició pendents
+Massana	territorial	0	0	no											ASR textual; atribució i audició pendents
+Ordino	territorial	2	3	sí	small	particularment en el cas d'Ordino i en Camp,	particularment en el cas d'ordino i en camp,	0.3664	0.8354	0.4028	0.7376	lead-yt-036__22__ordino.wav	395840	397640	ASR textual; atribució i audició pendents
+Sant Julià	territorial	9	9	sí	small	i també del vial de Sant Julià i d'una altra banda, de l'AMASAN.	com projecte a Eliport, i també el vial de Sant Julià,	0.1496	0.7975	0.0477	0.6606	lead-yt-036__23__sant-juli.wav	1816980	1821860	ASR textual; atribució i audició pendents
+aiguats	territorial	0	0	no											ASR textual; atribució i audició pendents
+andorrana	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunal	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunals	territorial	0	0	no											ASR textual; atribució i audició pendents
+comuns	territorial	1	1	sí	small	de capacitat de carrera urbanística que han de fer els comuns,	A través d'una llei que vam aprovar aquesta tardó, que el que preveu doncs és a través d'aquests estudis de capacitat de carrega urbanística que han de fer els comuns,	0.4028	0.8685	0.2879	0.8191	lead-yt-036__28__comuns.wav	704840	707440	ASR textual; atribució i audició pendents
+comú	territorial	1	1	sí	small	Per tant, doncs sempre ens hem intentat moure en aquest mínim comú denominador	en aquest mínim comú denominador,	0.4643	0.9000	0.5090	0.8255	lead-yt-036__29__com.wav	522480	527480	ASR textual; atribució i audició pendents
+copríncep	territorial	0	0	no											ASR textual; atribució i audició pendents
+coprínceps	territorial	0	0	no											ASR textual; atribució i audició pendents
+padrí	territorial	0	0	no											ASR textual; atribució i audició pendents
+parròquia	territorial	2	2	sí	small	amb un dels seus aliats de president Liberals Ferrandorra a la parròquia d'Encamp.	de la pròquia d'encant a la parròquia.	0.1962	0.7054	0.0566	0.5886	lead-yt-036__33__parr-quia.wav	358000	362160	ASR textual; atribució i audició pendents
+santuari	territorial	0	0	no											ASR textual; atribució i audició pendents
+veguer	territorial	0	0	no											ASR textual; atribució i audició pendents
+Demòcrates	política	9	5	sí	small	i el cap de llista de demòcrates per endorra en Xavier Spott.	demòcrates per endorre en Xavier Spot. Moltes gràcies i molt bon dia.	0.2542	0.8230	0.0675	0.6675	lead-yt-036__36__dem-crates.wav	27600	31400	ASR textual; atribució i audició pendents
+habitatge	societat	13	13	sí	small	a l'especulació envers l'habitatge.	a l'espai col·lació amb l'habitatge.	0.8500	0.9512	0.1839	0.7192	lead-yt-036__37__habitatge.wav	542480	547480	ASR textual; atribució i audició pendents
+habitatges	societat	0	0	no											ASR textual; atribució i audició pendents
+lloguer	economia	5	3	sí	small	precisament perquè cada cop hi hagi més oferta de lloguer	precisament perquè cada cop hi hagi més oferta de lloguer	0.5448	0.9513	0.5988	0.8998	lead-yt-036__39__lloguer.wav	877520	881480	ASR textual; atribució i audició pendents
+poder adquisitiu	economia	4	5	sí	small	a la situació del poder adquisitiu dels ciutadans, etcètera, etcètera.	la situació del creixement urbanístic, la situació del poder adquisitiu dels ciutadans, etc.	0.0724	0.8602	0.1170	0.8622	lead-yt-036__40__poder-adquisitiu.wav	662440	665440	ASR textual; atribució i audició pendents
+creixement urbanístic	territori	7	4	sí	small	que era el del creixement urbanístic desaforat.	la situació del creixement urbanístic, la situació del poder adquisitiu dels ciutadans, etc.	0.7292	0.9498	0.1170	0.8622	lead-yt-036__41__creixement-urban-stic.wav	698440	700640	ASR textual; atribució i audició pendents
+Museu Nacional	cultura	9	9	sí	small	Fa anys que s'està dient que es parla d'un museu nacional,	fa anys que s'està dient que es parla d'un Museu Nacional,	0.4315	0.9007	0.1401	0.7600	lead-yt-036__42__museu-nacional.wav	1646980	1651460	ASR textual; atribució i audició pendents
+cultura	cultura	2	2	sí	small	Farem un canvi de tema i anem a parlar una mica de cultura.	Per un canvi de tema i anem a parlar amb una mica de cultura,	0.0216	0.8524	0.1525	0.6533	lead-yt-036__43__cultura.wav	1640820	1646900	ASR textual; atribució i audició pendents
+justícia	institucions	6	6	sí	small	Hauríem de parlar, òbviament, de justícia,	Doncs una mica no només a la seva justícia, el 4 anys,	0.4276	0.8798	0.3560	0.7394	lead-yt-036__44__just-cia.wav	1805860	1808500	ASR textual; atribució i audició pendents
+medi ambient	territori	1	1	sí	small	més diners per fer polítiques a favor del medi ambient,	més diners per fer polítiques a favor del medi ambient,	0.5794	0.9515	0.3259	0.8214	lead-yt-036__45__medi-ambient.wav	1260200	1262520	ASR textual; atribució i audició pendents
+política exterior	institucions	0	0	no											ASR textual; atribució i audició pendents
+Unió Europea	institucions	7	6	sí	small	de la propera legislatura l'acord d'associació Unió Europea.	"I això, per aconseguir-ho, necessitem un instrument que es diu ""acorda sociació amb l'Unió Europea""."	0.2256	0.8918	0.1053	0.7607	lead-yt-036__47__uni-europea.wav	1169880	1172400	ASR textual; atribució i audició pendents
+acord d'associació	institucions	4	0	no	small	de la propera legislatura l'acord d'associació Unió Europea.		0.2256	0.8918			lead-yt-036__48__acord-d-associaci.wav	1169880	1172400	ASR textual; atribució i audició pendents
+França	toponim	2	2	sí	small	També és veritat que, des que França va assumir la presidència	També és veritat que, des de que França va assumir la presidència de torno al Consell de la Unió Europea,	0.5749	0.8920	0.2857	0.7475	lead-yt-036__49__fran-a.wav	1459080	1463040	ASR textual; atribució i audició pendents
+Espanya	toponim	1	0	no	small	i de l'Espanya Econòmica Europeu vegin que nosaltres podem oferir		0.5325	0.8368			lead-yt-036__50__espanya.wav	1419360	1422160	ASR textual; atribució i audició pendents
+pandèmia	societat	10	10	sí	small	amb una pandèmia, amb una crisi energètica,	En una pandèmia, en una crisi energètica,	0.8177	0.9615	0.3406	0.8529	lead-yt-036__51__pand-mia.wav	77560	79560	ASR textual; atribució i audició pendents
+inversions	economia	4	4	sí	small	que diguin ara ja no es poden fer inversions estrangers o nacionals	amb moratòries que diguin ara que no es poden fer inversions	0.3530	0.8107	0.0769	0.7952	lead-yt-036__52__inversions.wav	1133320	1137520	ASR textual; atribució i audició pendents
+ciutadans	societat	26	25	sí	small	pels ciutadans i les ciutadanes del nostre país.	per ciutadans i la ciutadans del nostre país.	0.3974	0.9227	0.3138	0.8162	lead-yt-036__53__ciutadans.wav	93120	95280	ASR textual; atribució i audició pendents
+Andorra	toponim	7	6	sí	small	de governs democràtics per a Andorra.	i dic bé de la guerra d'Ucraïna, per tant, d'un fenòmen en el qual el govern d'Andorra i els ciutadans i les ciutadanes d'Andorra no tenen res a veure.	0.1966	0.7666	0.1867	0.7745	lead-yt-036__54__andorra.wav	132040	135160	ASR textual; atribució i audició pendents
+andorrà	gentilici	0	0	no											ASR textual; atribució i audició pendents
+català	sociolingüística	0	0	no											ASR textual; atribució i audició pendents
+llengua	sociolingüística	0	0	no											ASR textual; atribució i audició pendents
+territori	territori	0	0	no											ASR textual; atribució i audició pendents
+immigració	societat	0	0	no											ASR textual; atribució i audició pendents
+joventut	societat	0	0	no											ASR textual; atribució i audició pendents
+educació	societat	0	0	no											ASR textual; atribució i audició pendents
+turisme	economia	0	0	no											ASR textual; atribució i audició pendents
+construcció	economia	9	9	sí	small	a través de la construcció del Parque Hòlic del Mayà,	a través de la construcció del Parqueòlic del Maià,	0.2792	0.8304	0.1562	0.7930	lead-yt-036__63__construcci.wav	1040120	1042120	ASR textual; atribució i audició pendents
+sostenibilitat	economia	3	4	sí	small	en clau d'innovació i en clau de sostenibilitat.	de la diversificació de la nostra economia en clau d'innovació i en clau de sostenibilitat.	0.8434	0.9722	0.0045	0.7473	lead-yt-036__64__sostenibilitat.wav	1186440	1189160	ASR textual; atribució i audició pendents
+pressupost	economia	0	0	no											ASR textual; atribució i audició pendents
+fiscal	economia	1	0	no	small	com a homologació fiscal, etcètera, etcètera.		0.0750	0.7151			lead-yt-036__66__fiscal.wav	166440	168960	ASR textual; atribució i audició pendents
+Constitució	institucions	0	0	no											ASR textual; atribució i audició pendents
+relat nacional	cultura	2	2	sí	small	que era l'elaboració del relat nacional.	que era la elaboració del Relat Nacional.	0.7920	0.9522	0.3437	0.8512	lead-yt-036__68__relat-nacional.wav	1716780	1718660	ASR textual; atribució i audició pendents
+serveis	institucions	2	2	sí	small	de circulació de mercaderies, de serveis financers, de persones, etcètera.	de serveis financers, de persones, etcètera, no?	0.4701	0.9167	0.3942	0.8075	lead-yt-036__69__serveis.wav	1399200	1404640	ASR textual; atribució i audició pendents
+sanitat	societat	0	0	no											ASR textual; atribució i audició pendents

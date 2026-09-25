@@ -1,0 +1,3 @@
+id_persona	transcripcio_font	derivat_qa	durada_audio_s	max_timestamp_original_s	cues_originals	cues_conservades	cues_limitades	incidencia	estat
+pa-028	corpus-parla-andorrana/transcripcions/pa-028.vtt	corpus-parla-andorrana/proveniencia/pa-028/qa-corrected/transcripcio-clipped.vtt	401.171	402.920	106	106	1	timestamp fora de la durada del WAV	derivat-qa-pendent-audicio
+pa-047	corpus-parla-andorrana/transcripcions/pa-047.vtt	corpus-parla-andorrana/proveniencia/pa-047/qa-corrected/transcripcio-clipped.vtt	1571.805	1590.000	424	424	1	timestamp fora de la durada del WAV; repetició ASR conservada	derivat-qa-pendent-audicio

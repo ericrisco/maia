@@ -1,0 +1,16 @@
+ordre	id_persona	inici_s	clip	durada_s	veu_proporcio	rms_p50_db	zcr_p90	f0_median_hz	f0_iqr_hz	centroid_median_hz	segments_veu	pausa_mediana_s	mostres_f0	nota
+1	pa-044	20	clips-quarantena-20s/pa-044__0020.wav	20.000	0.5526	-31.47	0.2316	164.06	46.88	1399.14	41	0.080	276	descriptor orientatiu; no és anotació fonètica
+2	pa-044	80	clips-quarantena-20s/pa-044__0080.wav	20.000	0.5045	-34.87	0.1568	226.56	117.19	1197.94	42	0.040	253	descriptor orientatiu; no és anotació fonètica
+3	pa-044	140	clips-quarantena-20s/pa-044__0140.wav	20.000	0.7958	-27.37	0.1737	273.44	138.67	1045.91	38	0.040	398	descriptor orientatiu; no és anotació fonètica
+4	pa-044	200	clips-quarantena-20s/pa-044__0200.wav	20.000	0.6717	-28.09	0.1931	234.38	140.62	1245.94	41	0.060	342	descriptor orientatiu; no és anotació fonètica
+5	pa-044	260	clips-quarantena-20s/pa-044__0260.wav	20.000	0.6076	-31.34	0.1333	273.44	181.64	1034.81	54	0.060	304	descriptor orientatiu; no és anotació fonètica
+6	pa-047	60	clips-quarantena-20s/pa-047__0060.wav	20.000	0.6396	-29.74	0.2119	226.56	109.38	1124.73	36	0.060	320	descriptor orientatiu; no és anotació fonètica
+7	pa-047	120	clips-quarantena-20s/pa-047__0120.wav	20.000	0.6006	-31.54	0.1674	210.94	117.19	1433.22	43	0.100	298	descriptor orientatiu; no és anotació fonètica
+8	pa-047	180	clips-quarantena-20s/pa-047__0180.wav	20.000	0.5766	-33.11	0.1925	226.56	117.19	1478.27	71	0.080	286	descriptor orientatiu; no és anotació fonètica
+9	pa-047	240	clips-quarantena-20s/pa-047__0240.wav	20.000	0.5846	-32.57	0.2050	273.44	109.38	1709.00	56	0.060	293	descriptor orientatiu; no és anotació fonètica
+10	pa-047	300	clips-quarantena-20s/pa-047__0300.wav	20.000	0.4484	-36.02	0.2476	257.81	56.64	1446.87	76	0.080	220	descriptor orientatiu; no és anotació fonètica
+11	pa-050	60	clips-quarantena-20s/pa-050__0060.wav	20.000	0.5966	-30.96	0.1803	226.56	31.25	1075.99	42	0.060	295	descriptor orientatiu; no és anotació fonètica
+12	pa-050	120	clips-quarantena-20s/pa-050__0120.wav	20.000	0.7958	-25.87	0.2006	195.31	78.12	1478.51	40	0.060	401	descriptor orientatiu; no és anotació fonètica
+13	pa-050	180	clips-quarantena-20s/pa-050__0180.wav	20.000	0.7207	-27.41	0.3765	226.56	85.94	1807.01	34	0.060	359	descriptor orientatiu; no és anotació fonètica
+14	pa-050	240	clips-quarantena-20s/pa-050__0240.wav	20.000	0.6677	-29.42	0.2507	195.31	132.81	1342.71	54	0.080	330	descriptor orientatiu; no és anotació fonètica
+15	pa-050	300	clips-quarantena-20s/pa-050__0300.wav	20.000	0.7387	-27.32	0.2275	210.94	70.31	1500.11	44	0.060	371	descriptor orientatiu; no és anotació fonètica

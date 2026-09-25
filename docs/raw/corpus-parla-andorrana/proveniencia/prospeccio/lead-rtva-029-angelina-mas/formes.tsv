@@ -1,0 +1,84 @@
+forma	categoria	small	base	consens	model_localitzador	context_small	context_base	prob_min_segment_small	prob_mean_segment_small	prob_min_segment_base	prob_mean_segment_base	clip	inici_ms	final_ms	estat
+a nivell	discurs	0	0	no											ASR textual; atribució i audició pendents
+a veure	discurs	3	3	sí	small	i que, a més, que això no té res a veure amb la caixa de prestacions,	i que, de més, que això no té res a veure amb la caixa de...	0.5499	0.8791	0.3769	0.7861	lead-rtva-029__02__a-veure.wav	1299360	1306880	ASR textual; atribució i audició pendents
+aleshores	discurs	0	0	no											ASR textual; atribució i audició pendents
+aviam	discurs	6	10	sí	small	Aviam, mai calmat...	Aviam, pel meu pare sempre deia,	0.2001	0.7879	0.0516	0.7466	lead-rtva-029__04__aviam.wav	52080	54280	ASR textual; atribució i audició pendents
+bueno	discurs	6	10	sí	small	Bueno, ja els trencava la meva mare, eh?	Bueno, ja el se encava la meva mare, eh?	0.2102	0.8010	0.1046	0.6349	lead-rtva-029__05__bueno.wav	474160	476160	ASR textual; atribució i audició pendents
+bé	discurs	19	21	sí	small	Bé, doncs sí, però te n'aniràs al despatx i n'aprendràs amb ell.	dic-ho bé, dic-ho bé, doncs, llavors, dic-ho que jo soc una científica,	0.0401	0.7295	0.0839	0.5958	lead-rtva-029__06__b.wav	671880	676240	ASR textual; atribució i audició pendents
+clar	discurs	38	25	sí	small	una dona a qui sempre li ha agradat parlar molt clar	És una dona aquí sempre li ha agradat parlar molt clar	0.6798	0.9506	0.0200	0.7183	lead-rtva-029__07__clar.wav	26080	29280	ASR textual; atribució i audició pendents
+de fet	discurs	2	2	sí	small	Clar, de fet, els aigüats en camp van tornar al cap de dos anys,	De fet, els oigüats encam van tornar el cap de dos anys.	0.4458	0.8528	0.0601	0.6458	lead-rtva-029__08__de-fet.wav	135840	139040	ASR textual; atribució i audició pendents
+diguem	discurs	1	0	no	small	Bueno, ens ho va explicar perquè diguem,		0.4819	0.8168			lead-rtva-029__09__diguem.wav	1702560	1705120	ASR textual; atribució i audició pendents
+doncs	discurs	19	10	sí	small	Doncs amb aquella pel·lícula ell surt, un senyor Gressonet.	Doncs com ho va fer? Tenia moltes conegixes a França,	0.1451	0.8453	0.1425	0.6764	lead-rtva-029__10__doncs.wav	384680	387560	ASR textual; atribució i audició pendents
+evidentment	discurs	0	1	no	base		evidentment, que no farà el cas de fer,			0.1203	0.7187	lead-rtva-029__11__evidentment.wav	1369680	1372160	ASR textual; atribució i audició pendents
+llavors	discurs	22	18	sí	small	Llavors el meu pare treballava allà.	Llavors el meu pare treballava allà.	0.5410	0.8954	0.3001	0.7385	lead-rtva-029__12__llavors.wav	101320	103320	ASR textual; atribució i audició pendents
+no?	discurs	12	11	sí	small	I vostè va estar a interna a França, no?	-En camp. -Uns aigüats que suben en Dugairebé tot, no?	0.2625	0.8693	0.1958	0.6739	lead-rtva-029__13__no.wav	423320	425320	ASR textual; atribució i audició pendents
+o sigui	discurs	1	0	no	small	No, ella ha mort, ella, eh? Ella ha mort del tabaco, o sigui?		0.3124	0.6922			lead-rtva-029__14__o-sigui.wav	2967040	2969960	ASR textual; atribució i audició pendents
+per tant	discurs	2	3	sí	small	Sense voler-ho, per tant, vostès converteixen en una empresària,	Sense voler-ho, per tant, vostès, converteix amb empresària,	0.3109	0.8001	0.1494	0.7739	lead-rtva-029__15__per-tant.wav	708640	714920	ASR textual; atribució i audició pendents
+perquè	discurs	73	74	sí	small	Perquè jo pensa que l'Aiguart per mi va ser una sort.	Perquè jo em pensa que l'haiguat per mi va ser una sort.	0.3848	0.8166	0.1699	0.7456	lead-rtva-029__16__perqu.wav	164960	167920	ASR textual; atribució i audició pendents
+vull dir	discurs	24	15	sí	small	vull dir, tenia una persona... era una persona molt encant.	vull dir, tenia una persona molt encàlida.	0.2820	0.8217	0.2098	0.6591	lead-rtva-029__17__vull-dir.wav	211840	214920	ASR textual; atribució i audició pendents
+és a dir	discurs	3	2	sí	small	És a dir, que a vegades mai demorso agar la llengua,	És a dir que m'agrada es mai demorsegar la llengua,	0.1171	0.7723	0.1231	0.6450	lead-rtva-029__18__s-a-dir.wav	54360	56880	ASR textual; atribució i audició pendents
+Canillo	territorial	1	1	sí	small	Maixava també la... la mestra de Canillo,	Meixava també la mestre de Canillo,	0.2651	0.8000	0.5230	0.8238	lead-rtva-029__19__canillo.wav	1976560	1979880	ASR textual; atribució i audició pendents
+Escaldes	territorial	2	1	sí	small	Amb una senyora que tenia una botiga que també a escaldes mateixes	fan pujar gent de llei de... jo he vist manifestacions escaldes	0.3755	0.8509	0.2442	0.6847	lead-rtva-029__20__escaldes.wav	2125000	2129800	ASR textual; atribució i audició pendents
+Massana	territorial	0	0	no											ASR textual; atribució i audició pendents
+Ordino	territorial	0	0	no											ASR textual; atribució i audició pendents
+Sant Julià	territorial	0	0	no											ASR textual; atribució i audició pendents
+aiguats	territorial	0	0	no											ASR textual; atribució i audició pendents
+andorrana	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunal	territorial	2	0	no	small	Bueno, perquè, clar, aquí tot el que és muntanyes i tot això és comunal.		0.2620	0.7631			lead-rtva-029__26__comunal.wav	2907720	2911760	ASR textual; atribució i audició pendents
+comunals	territorial	0	0	no											ASR textual; atribució i audició pendents
+comuns	territorial	0	0	no											ASR textual; atribució i audició pendents
+comú	territorial	5	4	sí	small	per demanar un permís al comú d'una cosa d'aigües,	per demanar un permís al comú de una cosa d'aigües,	0.5676	0.9319	0.1201	0.8190	lead-rtva-029__29__com.wav	863080	866520	ASR textual; atribució i audició pendents
+copríncep	territorial	2	0	no	small	i com es va salvar les reticències del copríncep.		0.2368	0.7838			lead-rtva-029__30__copr-ncep.wav	1822640	1827280	ASR textual; atribució i audició pendents
+coprínceps	territorial	0	0	no											ASR textual; atribució i audició pendents
+padrí	territorial	0	0	no											ASR textual; atribució i audició pendents
+parròquia	territorial	0	0	no											ASR textual; atribució i audició pendents
+santuari	territorial	0	0	no											ASR textual; atribució i audició pendents
+veguer	territorial	0	0	no											ASR textual; atribució i audició pendents
+educació	societat	1	1	sí	small	volia el Ministeri d'Educació.	volguir el ministeri d'educació.	0.3224	0.8909	0.3283	0.7493	lead-rtva-029__36__educaci.wav	1003160	1005160	ASR textual; atribució i audició pendents
+escola	societat	3	2	sí	small	Perquè ell havia fet l'escola hotelera,	És l'escola de Comerça Toulosa.	0.5010	0.8881	0.2031	0.6784	lead-rtva-029__37__escola.wav	168000	170480	ASR textual; atribució i audició pendents
+història	memòria	1	1	sí	small	que hi ha moltes històries dins de la mateixa història.	dins de la mateixa història,	0.4261	0.9492	0.1589	0.8476	lead-rtva-029__38__hist-ria.wav	1569560	1572080	ASR textual; atribució i audició pendents
+cultura	cultura	0	0	no											ASR textual; atribució i audició pendents
+patrimoni	cultura	0	0	no											ASR textual; atribució i audició pendents
+tradició	cultura	0	0	no											ASR textual; atribució i audició pendents
+poble	societat	1	1	sí	small	i al poble anaven a la hora vella.	i el poble n'ha venat mal a la hora vella.	0.2893	0.8734	0.2288	0.7785	lead-rtva-029__42__poble.wav	533680	536120	ASR textual; atribució i audició pendents
+família	societat	6	6	sí	small	Entre els edificis que es van dur l'Hotel de la família.	Entre els edificis que es van dubre, es van dubre l'hotel de la família.	0.2957	0.8557	0.1548	0.7728	lead-rtva-029__43__fam-lia.wav	93720	97600	ASR textual; atribució i audició pendents
+muntanya	territori	0	0	no											ASR textual; atribució i audició pendents
+paisatge	territori	0	0	no											ASR textual; atribució i audició pendents
+memòria	memòria	11	11	sí	small	La convidada amb qui avui recuperarem la memòria d'un país,	La convidada amb qui avui recuperarem la memòria d'un país, la memòria d'Andorra,	0.9249	0.9792	0.0535	0.8366	lead-rtva-029__46__mem-ria.wav	15120	18520	ASR textual; atribució i audició pendents
+Andorra	toponim	9	4	sí	small	la memòria d'Andorra,	La convidada amb qui avui recuperarem la memòria d'un país, la memòria d'Andorra,	0.4674	0.9270	0.0535	0.8366	lead-rtva-029__47__andorra.wav	18600	19920	ASR textual; atribució i audició pendents
+joventut	societat	2	0	no	small	Però, en canvi, m'agrada que la seva infància i la seva joventut		0.0709	0.8434			lead-rtva-029__48__joventut.wav	962400	967800	ASR textual; atribució i audició pendents
+esports	esport	0	0	no											ASR textual; atribució i audició pendents
+museu	cultura	0	0	no											ASR textual; atribució i audició pendents
+biblioteca	cultura	0	0	no											ASR textual; atribució i audició pendents
+arxiu	cultura	0	0	no											ASR textual; atribució i audició pendents
+federació	esport	0	0	no											ASR textual; atribució i audició pendents
+ministres	institucions	0	0	no											ASR textual; atribució i audició pendents
+Govern	institucions	8	7	sí	small	"jo venia enlombrada pel cap de govern""."	l'allò venia en l'ombrada pel cap de govern.	0.2727	0.7793	0.1921	0.7890	lead-rtva-029__55__govern.wav	1161920	1164840	ASR textual; atribució i audició pendents
+conseller	institucions	0	0	no											ASR textual; atribució i audició pendents
+consell	institucions	9	9	sí	small	tota la documentació que tenia perquè ell estava al consell d'administració,	perquè ella estava el consell d'administració,	0.3451	0.9195	0.3846	0.7511	lead-rtva-029__57__consell.wav	805240	809880	ASR textual; atribució i audició pendents
+futbol	esport	0	0	no											ASR textual; atribució i audició pendents
+bàsquet	esport	0	0	no											ASR textual; atribució i audició pendents
+pavelló	esport	0	0	no											ASR textual; atribució i audició pendents
+pavelló Toni Martí	esport	0	0	no											ASR textual; atribució i audició pendents
+Comitè Olímpic	esport	0	0	no											ASR textual; atribució i audició pendents
+Comú d’Andorra la Vella	institucions	0	0	no											ASR textual; atribució i audició pendents
+Andorra la Vella	toponim	0	0	no											ASR textual; atribució i audició pendents
+La Massana	toponim	0	0	no											ASR textual; atribució i audició pendents
+Santa Coloma	toponim	3	2	sí	small	Digues qui és, l'equima de Santa Coloma.	I qui és la quina de Santa Coloma?	0.2391	0.8194	0.1399	0.7692	lead-rtva-029__66__santa-coloma.wav	850680	852600	ASR textual; atribució i audició pendents
+andorrà	gentilici	0	0	no											ASR textual; atribució i audició pendents
+andorrans	gentilici	0	0	no											ASR textual; atribució i audició pendents
+projecte	institucions	4	4	sí	small	I no s'hi posava per poc?No, perquè tenia un projecte	No, perquè tenia un projecte de formació professional,	0.1553	0.8560	0.6443	0.9281	lead-rtva-029__69__projecte.wav	1005240	1008000	ASR textual; atribució i audició pendents
+concessió	institucions	0	0	no											ASR textual; atribució i audició pendents
+estadi	esport	0	0	no											ASR textual; atribució i audició pendents
+esdeveniment	cultura	0	0	no											ASR textual; atribució i audició pendents
+premis	cultura	0	1	no	base		i dins estava el premis del marit, el França.			0.0824	0.6451	lead-rtva-029__73__premis.wav	462160	464440	ASR textual; atribució i audició pendents
+Toni Martí	memòria	0	0	no											ASR textual; atribució i audició pendents
+jocs	esport	0	0	no											ASR textual; atribució i audició pendents
+festa	cultura	1	0	no	small	tornàvem a pujar uns dies per la festa major,		0.6600	0.9019			lead-rtva-029__76__festa.wav	694400	698120	ASR textual; atribució i audició pendents
+equip	esport	1	1	sí	small	tenen un equip que s'ha de treballar amb igualtat,	amb això de l'hiualtat tenen un equip que s'ha treballat amb l'hiualtat,	0.4909	0.8778	0.1802	0.7277	lead-rtva-029__77__equip.wav	2259480	2262320	ASR textual; atribució i audició pendents
+català	sociolingüística	0	0	no											ASR textual; atribució i audició pendents
+francès	contacte	1	1	sí	small	i quan era a explicar aquella, casada amb un francès,	I quan la va explicar aquella casada amb un francès,	0.1815	0.7852	0.2121	0.7566	lead-rtva-029__79__franc-s.wav	860240	863000	ASR textual; atribució i audició pendents
+castellà	contacte	0	0	no											ASR textual; atribució i audició pendents
+hipermotion	esport	0	0	no											ASR textual; atribució i audició pendents
+lliga	esport	0	0	no											ASR textual; atribució i audició pendents
+comissió legislativa	institucions	0	0	no											ASR textual; atribució i audició pendents

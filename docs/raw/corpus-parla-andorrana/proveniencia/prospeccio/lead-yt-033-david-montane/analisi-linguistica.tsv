@@ -1,0 +1,3 @@
+expedient	model	tokens	tipus_lexics	type_token_ratio	repeticio_3gram	marcadors_discursius	formes_territorials	formes_contacte	pronoms_clitics	perifrasi_past_aparent	primera_persona	negacio	nota	estat
+lead-yt-033-david-montane	small	749	337	0.4499	0.0536	bé=1;clar=2;doncs=1;és a dir=2	comuns=3;comunals=1;principat=1		93	4	0	5	recompte ASR; validar contra àudio	inventari ASR; pendent d'audició
+lead-yt-033-david-montane	base	884	358	0.4050	0.1887	clar=2;doncs=1;és a dir=2	comuns=3		123	4	0	29	recompte ASR; validar contra àudio	inventari ASR; pendent d'audició

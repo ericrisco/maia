@@ -1,0 +1,10 @@
+id_persona	inici_s	durada_s	clip	transcripcio	log	sha256	linies	linies_uniques	ratio_uniques	estat
+pa-044	0	30	clips-quarantena/pa-044__0000.wav	qa-quarantena/pa-044__0000.txt	qa-quarantena/pa-044__0000.log	782892c0b9c8c4c886c07ed5a16ae1fcc76ecd9709de1c0e9e49a0e27c6a387c	3	3	1.0000	pendent-audicio
+pa-044	600	30	clips-quarantena/pa-044__0600.wav	qa-quarantena/pa-044__0600.txt	qa-quarantena/pa-044__0600.log	5c3ba0cc50c67285e71c0b03f6653120e88ebd478f11a68268a7c44d82a9ca71	7	7	1.0000	pendent-audicio
+pa-044	1200	30	clips-quarantena/pa-044__1200.wav	qa-quarantena/pa-044__1200.txt	qa-quarantena/pa-044__1200.log	d86675ad72004b9942460efc6fb1e46e321a734547c69fb3712e37a0e29eaa6f	8	8	1.0000	pendent-audicio
+pa-047	0	30	clips-quarantena/pa-047__0000.wav	qa-quarantena/pa-047__0000.txt	qa-quarantena/pa-047__0000.log	cefa83d97246b276a06ad958dc7bdf8713a1b2b2c06269a69aa1f22fa0d4e796	8	4	0.5000	pendent-audicio
+pa-047	600	30	clips-quarantena/pa-047__0600.wav	qa-quarantena/pa-047__0600.txt	qa-quarantena/pa-047__0600.log	7a63cb2027218ef0f615f4d8f410f3ea103cecf41f884973096fab4f0460ba1d	11	11	1.0000	pendent-audicio
+pa-047	1200	30	clips-quarantena/pa-047__1200.wav	qa-quarantena/pa-047__1200.txt	qa-quarantena/pa-047__1200.log	24ef09cd30732facafabceaeafcc1bb2b4a3058fee32831714ef0d179cf43f9d	9	9	1.0000	pendent-audicio
+pa-050	60	30	clips-quarantena/pa-050__0060.wav	qa-quarantena/pa-050__0060.txt	qa-quarantena/pa-050__0060.log	ff4347d62d77be533b01a71cf0eda371375bb55e1d99f07214fea3fb53d1257a	9	9	1.0000	pendent-audicio
+pa-050	120	30	clips-quarantena/pa-050__0120.wav	qa-quarantena/pa-050__0120.txt	qa-quarantena/pa-050__0120.log	e0db53781f2ff12c0abbfde45826bc69351024515e53dd9edce354f5f342cea0	8	8	1.0000	pendent-audicio
+pa-050	240	30	clips-quarantena/pa-050__0240.wav	qa-quarantena/pa-050__0240.txt	qa-quarantena/pa-050__0240.log	4ba4f121e758a7de1a3353e328c7bd869a1595fe45206964cf4b70dca597741e	12	12	1.0000	pendent-audicio

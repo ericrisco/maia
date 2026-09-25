@@ -1,0 +1,860 @@
+id_a	id_b	n_dimensions	distancia_z	dimensions	estat
+lead-rtva-001::a veure	lead-rtva-001::bé	6	0.7856	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::a veure	lead-rtva-001::bueno	6	0.9147	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::a veure	lead-rtva-001::clar	7	0.3048	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::a veure	lead-rtva-001::de fet	6	0.3481	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::a veure	lead-rtva-001::doncs	7	0.4306	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::a veure	lead-rtva-001::llavors	6	1.0630	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::a veure	lead-rtva-001::perquè	7	0.6860	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::a veure	lead-rtva-001::vull dir	6	0.5064	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::a veure	lead-rtva-002-ian-moya::a nivell	7	0.5831	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::a veure	lead-rtva-002-ian-moya::a veure	7	1.2642	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::a veure	lead-rtva-002-ian-moya::bé	7	1.1472	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::a veure	lead-rtva-002-ian-moya::clar	6	0.8271	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::a veure	lead-rtva-002-ian-moya::de fet	7	0.6283	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::a veure	lead-rtva-002-ian-moya::doncs	7	1.1472	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::a veure	lead-rtva-002-ian-moya::evidentment	6	0.5442	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::a veure	lead-rtva-002-ian-moya::no?	6	0.3185	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::a veure	lead-rtva-002-ian-moya::per tant	7	0.8518	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::a veure	lead-rtva-002-ian-moya::perquè	7	0.4310	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::a veure	lead-rtva-002-ian-moya::és a dir	7	0.8274	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::a veure	lead-rtva-002-ian-moya::vull dir	7	0.3052	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::a veure	lead-rtva-003-dj-neura::aleshores	7	0.7101	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::a veure	lead-rtva-003-dj-neura::bé	6	0.8839	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::a veure	lead-rtva-003-dj-neura::bueno	7	0.6401	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::a veure	lead-rtva-003-dj-neura::clar	7	0.7101	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::a veure	lead-rtva-003-dj-neura::doncs	6	0.8839	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::a veure	lead-rtva-003-dj-neura::no?	6	0.8839	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::a veure	lead-rtva-003-dj-neura::o sigui	7	0.8906	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::a veure	lead-rtva-003-dj-neura::perquè	6	0.8533	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::a veure	lead-rtva-004-joan-mico::bé	7	1.1279	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::a veure	lead-rtva-004-joan-mico::bueno	7	0.9841	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::a veure	lead-rtva-004-joan-mico::clar	7	1.1861	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::a veure	lead-rtva-004-joan-mico::comuns	7	1.1693	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::a veure	lead-rtva-004-joan-mico::de fet	6	1.2003	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::a veure	lead-rtva-004-joan-mico::doncs	7	1.0161	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::a veure	lead-rtva-004-joan-mico::no?	7	1.0759	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::a veure	lead-rtva-004-joan-mico::o sigui	7	1.0780	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::a veure	lead-rtva-004-joan-mico::per tant	7	0.6859	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::a veure	lead-rtva-004-joan-mico::perquè	6	1.0922	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::a veure	lead-rtva-004-joan-mico::vull dir	7	1.0986	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::a veure	lead-cg-001-xavier-espot::andorrana	6	0.7252	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::a veure	lead-cg-001-xavier-espot::comú	7	1.0035	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::a veure	lead-cg-001-xavier-espot::perquè	6	0.6634	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bé	lead-rtva-001::bueno	6	0.7546	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bé	lead-rtva-001::clar	6	0.7774	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bé	lead-rtva-001::de fet	6	0.8516	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bé	lead-rtva-001::doncs	6	0.6909	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bé	lead-rtva-001::llavors	6	0.6349	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bé	lead-rtva-001::perquè	6	0.7930	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bé	lead-rtva-001::vull dir	6	0.6038	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bé	lead-rtva-002-ian-moya::a nivell	6	0.9726	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bé	lead-rtva-002-ian-moya::a veure	6	0.8047	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bé	lead-rtva-002-ian-moya::bé	6	0.7280	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bé	lead-rtva-002-ian-moya::clar	6	0.7899	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bé	lead-rtva-002-ian-moya::de fet	6	0.9580	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bé	lead-rtva-002-ian-moya::doncs	6	0.7280	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bé	lead-rtva-002-ian-moya::Escaldes	6	1.0682	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bé	lead-rtva-002-ian-moya::evidentment	6	0.6508	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bé	lead-rtva-002-ian-moya::llavors	6	1.1101	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bé	lead-rtva-002-ian-moya::no?	6	0.8671	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bé	lead-rtva-002-ian-moya::per tant	6	0.7885	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bé	lead-rtva-002-ian-moya::perquè	6	0.8969	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bé	lead-rtva-002-ian-moya::és a dir	6	0.8957	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bé	lead-rtva-002-ian-moya::vull dir	6	0.8152	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bé	lead-rtva-003-dj-neura::bé	6	0.7471	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bé	lead-rtva-003-dj-neura::bueno	6	0.8446	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bé	lead-rtva-003-dj-neura::doncs	6	0.7471	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bé	lead-rtva-003-dj-neura::no?	6	0.7471	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bé	lead-rtva-003-dj-neura::o sigui	6	0.9817	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bé	lead-rtva-003-dj-neura::perquè	6	0.7154	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bé	lead-rtva-004-joan-mico::de fet	6	1.2247	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bé	lead-rtva-004-joan-mico::llavors	6	1.3291	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bé	lead-rtva-004-joan-mico::per tant	6	0.7502	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bé	lead-rtva-004-joan-mico::perquè	6	1.2327	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bé	lead-cg-001-xavier-espot::andorrana	6	0.9951	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bé	lead-cg-001-xavier-espot::comú	6	0.9498	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bé	lead-cg-001-xavier-espot::per tant	6	1.1874	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bé	lead-cg-001-xavier-espot::perquè	6	0.7359	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bueno	lead-rtva-001::clar	6	0.9761	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bueno	lead-rtva-001::de fet	6	1.1337	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bueno	lead-rtva-001::doncs	6	0.7863	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bueno	lead-rtva-001::llavors	6	0.8908	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bueno	lead-rtva-001::perquè	6	0.8206	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bueno	lead-rtva-001::vull dir	6	0.6966	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bueno	lead-rtva-002-ian-moya::a nivell	6	0.8313	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bueno	lead-rtva-002-ian-moya::a veure	6	0.9312	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bueno	lead-rtva-002-ian-moya::bé	6	1.2114	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bueno	lead-rtva-002-ian-moya::clar	6	0.9028	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bueno	lead-rtva-002-ian-moya::de fet	6	0.8710	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bueno	lead-rtva-002-ian-moya::doncs	6	1.2114	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bueno	lead-rtva-002-ian-moya::Escaldes	6	0.6348	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bueno	lead-rtva-002-ian-moya::evidentment	6	1.1127	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bueno	lead-rtva-002-ian-moya::no?	6	0.9549	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bueno	lead-rtva-002-ian-moya::per tant	6	0.9285	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bueno	lead-rtva-002-ian-moya::perquè	6	0.9902	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bueno	lead-rtva-002-ian-moya::és a dir	6	1.0305	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bueno	lead-rtva-002-ian-moya::vull dir	6	0.8457	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bueno	lead-rtva-003-dj-neura::aleshores	6	1.3437	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bueno	lead-rtva-003-dj-neura::bé	6	1.0229	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bueno	lead-rtva-003-dj-neura::bueno	6	1.0233	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bueno	lead-rtva-003-dj-neura::clar	6	1.3437	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bueno	lead-rtva-003-dj-neura::doncs	6	1.0229	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bueno	lead-rtva-003-dj-neura::no?	6	1.0229	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bueno	lead-rtva-003-dj-neura::o sigui	6	1.2088	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bueno	lead-rtva-003-dj-neura::perquè	6	1.0366	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bueno	lead-rtva-004-joan-mico::per tant	6	1.2184	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bueno	lead-cg-001-xavier-espot::andorrana	6	1.3311	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bueno	lead-cg-001-xavier-espot::comú	6	0.9720	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::bueno	lead-cg-001-xavier-espot::perquè	6	1.0000	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::clar	lead-rtva-001::de fet	6	0.3845	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::clar	lead-rtva-001::doncs	7	0.4979	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::clar	lead-rtva-001::llavors	6	1.0065	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::clar	lead-rtva-001::perquè	7	0.7945	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::clar	lead-rtva-001::vull dir	6	0.6338	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::clar	lead-rtva-002-ian-moya::a nivell	7	0.5152	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::clar	lead-rtva-002-ian-moya::a veure	7	1.1754	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::clar	lead-rtva-002-ian-moya::bé	7	1.2100	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::clar	lead-rtva-002-ian-moya::clar	6	0.7906	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::clar	lead-rtva-002-ian-moya::de fet	7	0.6555	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::clar	lead-rtva-002-ian-moya::doncs	7	1.2100	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::clar	lead-rtva-002-ian-moya::evidentment	6	0.6687	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::clar	lead-rtva-002-ian-moya::no?	6	0.4386	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::clar	lead-rtva-002-ian-moya::per tant	7	0.7183	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::clar	lead-rtva-002-ian-moya::perquè	7	0.4607	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::clar	lead-rtva-002-ian-moya::és a dir	7	0.6778	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::clar	lead-rtva-002-ian-moya::vull dir	7	0.4935	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::clar	lead-rtva-003-dj-neura::aleshores	7	0.8578	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::clar	lead-rtva-003-dj-neura::bé	6	0.8404	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::clar	lead-rtva-003-dj-neura::bueno	7	0.7497	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::clar	lead-rtva-003-dj-neura::clar	7	0.8578	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::clar	lead-rtva-003-dj-neura::doncs	6	0.8404	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::clar	lead-rtva-003-dj-neura::no?	6	0.8404	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::clar	lead-rtva-003-dj-neura::o sigui	7	0.9135	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::clar	lead-rtva-003-dj-neura::perquè	6	0.7584	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::clar	lead-rtva-004-joan-mico::bé	7	0.9869	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::clar	lead-rtva-004-joan-mico::bueno	7	0.8432	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::clar	lead-rtva-004-joan-mico::clar	7	1.1421	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::clar	lead-rtva-004-joan-mico::comuns	7	1.0303	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::clar	lead-rtva-004-joan-mico::de fet	6	1.1352	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::clar	lead-rtva-004-joan-mico::doncs	7	0.9392	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::clar	lead-rtva-004-joan-mico::no?	7	0.9412	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::clar	lead-rtva-004-joan-mico::o sigui	7	0.9190	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::clar	lead-rtva-004-joan-mico::per tant	7	0.6037	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::clar	lead-rtva-004-joan-mico::perquè	6	0.9297	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::clar	lead-rtva-004-joan-mico::vull dir	7	0.9665	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::clar	lead-cg-001-xavier-espot::andorrana	6	0.6040	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::clar	lead-cg-001-xavier-espot::comú	7	1.0390	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::clar	lead-cg-001-xavier-espot::perquè	6	0.5899	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::de fet	lead-rtva-001::doncs	6	0.4707	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::de fet	lead-rtva-001::llavors	6	1.2533	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::de fet	lead-rtva-001::perquè	6	0.7902	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::de fet	lead-rtva-001::vull dir	6	0.7749	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::de fet	lead-rtva-002-ian-moya::a nivell	6	0.8214	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::de fet	lead-rtva-002-ian-moya::bé	6	1.2947	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::de fet	lead-rtva-002-ian-moya::clar	6	1.0624	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::de fet	lead-rtva-002-ian-moya::de fet	6	0.9182	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::de fet	lead-rtva-002-ian-moya::doncs	6	1.2947	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::de fet	lead-rtva-002-ian-moya::Escaldes	6	1.1579	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::de fet	lead-rtva-002-ian-moya::evidentment	6	0.5829	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::de fet	lead-rtva-002-ian-moya::no?	6	0.6276	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::de fet	lead-rtva-002-ian-moya::per tant	6	0.7902	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::de fet	lead-rtva-002-ian-moya::perquè	6	0.6135	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::de fet	lead-rtva-002-ian-moya::és a dir	6	0.8534	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::de fet	lead-rtva-002-ian-moya::vull dir	6	0.4409	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::de fet	lead-rtva-003-dj-neura::aleshores	6	0.9803	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::de fet	lead-rtva-003-dj-neura::bé	6	1.0797	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::de fet	lead-rtva-003-dj-neura::bueno	6	0.8078	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::de fet	lead-rtva-003-dj-neura::clar	6	0.9803	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::de fet	lead-rtva-003-dj-neura::doncs	6	1.0797	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::de fet	lead-rtva-003-dj-neura::no?	6	1.0797	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::de fet	lead-rtva-003-dj-neura::o sigui	6	1.0653	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::de fet	lead-rtva-003-dj-neura::perquè	6	1.0130	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::de fet	lead-rtva-004-joan-mico::bé	6	1.1529	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::de fet	lead-rtva-004-joan-mico::bueno	6	1.1293	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::de fet	lead-rtva-004-joan-mico::comuns	6	1.1465	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::de fet	lead-rtva-004-joan-mico::de fet	6	1.1616	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::de fet	lead-rtva-004-joan-mico::doncs	6	1.1159	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::de fet	lead-rtva-004-joan-mico::no?	6	1.0813	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::de fet	lead-rtva-004-joan-mico::o sigui	6	1.0573	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::de fet	lead-rtva-004-joan-mico::per tant	6	0.7070	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::de fet	lead-rtva-004-joan-mico::perquè	6	1.0592	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::de fet	lead-rtva-004-joan-mico::vull dir	6	1.1034	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::de fet	lead-cg-001-xavier-espot::andorrana	6	0.6984	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::de fet	lead-cg-001-xavier-espot::comú	6	1.0706	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::de fet	lead-cg-001-xavier-espot::perquè	6	0.6710	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::doncs	lead-rtva-001::llavors	6	1.1474	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::doncs	lead-rtva-001::perquè	7	0.4699	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::doncs	lead-rtva-001::vull dir	6	0.6682	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::doncs	lead-rtva-002-ian-moya::a nivell	7	0.7144	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::doncs	lead-rtva-002-ian-moya::a veure	7	1.2528	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::doncs	lead-rtva-002-ian-moya::bé	7	1.3113	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::doncs	lead-rtva-002-ian-moya::clar	6	1.0653	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::doncs	lead-rtva-002-ian-moya::de fet	7	0.6757	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::doncs	lead-rtva-002-ian-moya::doncs	7	1.3113	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::doncs	lead-rtva-002-ian-moya::evidentment	6	0.6544	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::doncs	lead-rtva-002-ian-moya::no?	6	0.6904	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::doncs	lead-rtva-002-ian-moya::per tant	7	0.8730	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::doncs	lead-rtva-002-ian-moya::perquè	7	0.6261	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::doncs	lead-rtva-002-ian-moya::és a dir	7	0.8981	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::doncs	lead-rtva-002-ian-moya::vull dir	7	0.3114	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::doncs	lead-rtva-003-dj-neura::aleshores	7	1.0004	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::doncs	lead-rtva-003-dj-neura::bé	6	1.0521	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::doncs	lead-rtva-003-dj-neura::bueno	7	0.7467	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::doncs	lead-rtva-003-dj-neura::clar	7	1.0004	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::doncs	lead-rtva-003-dj-neura::doncs	6	1.0521	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::doncs	lead-rtva-003-dj-neura::no?	6	1.0521	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::doncs	lead-rtva-003-dj-neura::o sigui	7	1.0993	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::doncs	lead-rtva-003-dj-neura::perquè	6	1.0720	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::doncs	lead-rtva-004-joan-mico::bé	7	1.2691	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::doncs	lead-rtva-004-joan-mico::bueno	7	1.1753	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::doncs	lead-rtva-004-joan-mico::clar	7	1.2896	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::doncs	lead-rtva-004-joan-mico::comuns	7	1.3189	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::doncs	lead-rtva-004-joan-mico::de fet	6	1.2646	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::doncs	lead-rtva-004-joan-mico::doncs	7	1.1845	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::doncs	lead-rtva-004-joan-mico::no?	7	1.3030	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::doncs	lead-rtva-004-joan-mico::o sigui	7	1.1825	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::doncs	lead-rtva-004-joan-mico::per tant	7	0.8564	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::doncs	lead-rtva-004-joan-mico::perquè	6	1.1830	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::doncs	lead-rtva-004-joan-mico::vull dir	7	1.3391	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::doncs	lead-cg-001-xavier-espot::andorrana	6	0.7872	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::doncs	lead-cg-001-xavier-espot::comú	7	0.6652	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::doncs	lead-cg-001-xavier-espot::perquè	6	0.5059	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::evidentment	lead-rtva-001::llavors	6	1.2145	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::evidentment	lead-rtva-002-ian-moya::a veure	6	1.1011	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::evidentment	lead-rtva-002-ian-moya::bé	6	1.0820	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::evidentment	lead-rtva-002-ian-moya::doncs	6	1.0820	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::evidentment	lead-rtva-002-ian-moya::llavors	6	0.7491	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::evidentment	lead-rtva-002-ian-moya::o sigui	6	0.9202	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::evidentment	lead-rtva-003-dj-neura::a veure	6	0.6640	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::evidentment	lead-rtva-003-dj-neura::de fet	6	0.6640	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::llavors	lead-rtva-001::perquè	6	1.2567	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::llavors	lead-rtva-001::vull dir	6	0.7066	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::llavors	lead-rtva-002-ian-moya::a nivell	6	0.9772	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::llavors	lead-rtva-002-ian-moya::a veure	6	0.2914	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::llavors	lead-rtva-002-ian-moya::bé	6	0.5390	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::llavors	lead-rtva-002-ian-moya::clar	6	0.4885	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::llavors	lead-rtva-002-ian-moya::de fet	6	1.0111	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::llavors	lead-rtva-002-ian-moya::doncs	6	0.5390	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::llavors	lead-rtva-002-ian-moya::Escaldes	6	1.0773	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::llavors	lead-rtva-002-ian-moya::evidentment	6	1.0011	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::llavors	lead-rtva-002-ian-moya::llavors	6	0.7106	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::llavors	lead-rtva-002-ian-moya::no?	6	0.9554	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::llavors	lead-rtva-002-ian-moya::o sigui	6	1.2872	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::llavors	lead-rtva-002-ian-moya::per tant	6	0.7634	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::llavors	lead-rtva-002-ian-moya::perquè	6	1.0163	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::llavors	lead-rtva-002-ian-moya::és a dir	6	1.0556	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::llavors	lead-rtva-002-ian-moya::vull dir	6	1.1845	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::llavors	lead-rtva-003-dj-neura::bé	6	0.4769	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::llavors	lead-rtva-003-dj-neura::bueno	6	1.0221	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::llavors	lead-rtva-003-dj-neura::doncs	6	0.4769	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::llavors	lead-rtva-003-dj-neura::no?	6	0.4769	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::llavors	lead-rtva-003-dj-neura::o sigui	6	0.8670	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::llavors	lead-rtva-003-dj-neura::perquè	6	0.4515	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::llavors	lead-rtva-004-joan-mico::bueno	6	1.2571	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::llavors	lead-rtva-004-joan-mico::llavors	6	1.2782	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::llavors	lead-rtva-004-joan-mico::per tant	6	0.9130	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::llavors	lead-rtva-004-joan-mico::perquè	6	1.3248	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::llavors	lead-cg-001-xavier-espot::andorrana	6	1.2220	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::llavors	lead-cg-001-xavier-espot::per tant	6	1.2511	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::llavors	lead-cg-001-xavier-espot::perquè	6	1.1062	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::perquè	lead-rtva-001::vull dir	6	0.8505	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::perquè	lead-rtva-002-ian-moya::a nivell	7	1.0396	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::perquè	lead-rtva-002-ian-moya::bé	7	1.2859	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::perquè	lead-rtva-002-ian-moya::clar	6	1.2013	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::perquè	lead-rtva-002-ian-moya::de fet	7	1.0031	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::perquè	lead-rtva-002-ian-moya::doncs	7	1.2859	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::perquè	lead-rtva-002-ian-moya::evidentment	6	0.8275	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::perquè	lead-rtva-002-ian-moya::no?	6	0.9013	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::perquè	lead-rtva-002-ian-moya::per tant	7	1.1814	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::perquè	lead-rtva-002-ian-moya::perquè	7	0.9572	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::perquè	lead-rtva-002-ian-moya::és a dir	7	1.1070	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::perquè	lead-rtva-002-ian-moya::vull dir	7	0.6667	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::perquè	lead-rtva-003-dj-neura::aleshores	7	1.2643	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::perquè	lead-rtva-003-dj-neura::bé	6	1.3182	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::perquè	lead-rtva-003-dj-neura::bueno	7	1.0999	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::perquè	lead-rtva-003-dj-neura::clar	7	1.2643	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::perquè	lead-rtva-003-dj-neura::doncs	6	1.3182	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::perquè	lead-rtva-003-dj-neura::no?	6	1.3182	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::perquè	lead-rtva-003-dj-neura::perquè	6	1.2722	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::perquè	lead-rtva-004-joan-mico::per tant	7	1.1677	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::perquè	lead-cg-001-xavier-espot::andorrana	6	1.1552	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::perquè	lead-cg-001-xavier-espot::comú	7	0.5946	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::perquè	lead-cg-001-xavier-espot::perquè	6	0.6987	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::vull dir	lead-rtva-002-ian-moya::a nivell	6	0.6021	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::vull dir	lead-rtva-002-ian-moya::a veure	6	0.7498	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::vull dir	lead-rtva-002-ian-moya::bé	6	0.8271	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::vull dir	lead-rtva-002-ian-moya::clar	6	0.5256	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::vull dir	lead-rtva-002-ian-moya::de fet	6	0.6680	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::vull dir	lead-rtva-002-ian-moya::doncs	6	0.8271	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::vull dir	lead-rtva-002-ian-moya::Escaldes	6	0.5876	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::vull dir	lead-rtva-002-ian-moya::evidentment	6	0.5610	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::vull dir	lead-rtva-002-ian-moya::llavors	6	1.2350	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::vull dir	lead-rtva-002-ian-moya::no?	6	0.4191	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::vull dir	lead-rtva-002-ian-moya::per tant	6	0.4711	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::vull dir	lead-rtva-002-ian-moya::perquè	6	0.4556	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::vull dir	lead-rtva-002-ian-moya::és a dir	6	0.9211	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::vull dir	lead-rtva-002-ian-moya::vull dir	6	0.6140	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::vull dir	lead-rtva-003-dj-neura::aleshores	6	0.8881	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::vull dir	lead-rtva-003-dj-neura::bé	6	0.5980	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::vull dir	lead-rtva-003-dj-neura::bueno	6	0.6316	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::vull dir	lead-rtva-003-dj-neura::clar	6	0.8881	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::vull dir	lead-rtva-003-dj-neura::doncs	6	0.5980	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::vull dir	lead-rtva-003-dj-neura::no?	6	0.5980	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::vull dir	lead-rtva-003-dj-neura::o sigui	6	0.8046	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::vull dir	lead-rtva-003-dj-neura::perquè	6	0.6241	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::vull dir	lead-rtva-004-joan-mico::bueno	6	1.1027	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::vull dir	lead-rtva-004-joan-mico::clar	6	1.3391	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::vull dir	lead-rtva-004-joan-mico::de fet	6	1.2768	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::vull dir	lead-rtva-004-joan-mico::doncs	6	1.2307	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::vull dir	lead-rtva-004-joan-mico::per tant	6	0.7978	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::vull dir	lead-rtva-004-joan-mico::perquè	6	1.2696	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::vull dir	lead-cg-001-xavier-espot::andorrana	6	1.0023	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::vull dir	lead-cg-001-xavier-espot::comú	6	1.2143	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-001::vull dir	lead-cg-001-xavier-espot::perquè	6	0.8935	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a nivell	lead-rtva-002-ian-moya::a veure	7	1.0030	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a nivell	lead-rtva-002-ian-moya::clar	6	0.7256	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a nivell	lead-rtva-002-ian-moya::de fet	7	0.4380	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a nivell	lead-rtva-002-ian-moya::evidentment	6	0.9596	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a nivell	lead-rtva-002-ian-moya::no?	6	0.5172	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a nivell	lead-rtva-002-ian-moya::per tant	7	0.5533	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a nivell	lead-rtva-002-ian-moya::perquè	7	0.4027	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a nivell	lead-rtva-002-ian-moya::és a dir	7	0.8115	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a nivell	lead-rtva-002-ian-moya::vull dir	7	0.6395	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a nivell	lead-rtva-003-dj-neura::aleshores	7	0.7766	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a nivell	lead-rtva-003-dj-neura::bé	6	0.7486	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a nivell	lead-rtva-003-dj-neura::bueno	7	0.7310	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a nivell	lead-rtva-003-dj-neura::clar	7	0.7766	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a nivell	lead-rtva-003-dj-neura::doncs	6	0.7486	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a nivell	lead-rtva-003-dj-neura::no?	6	0.7486	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a nivell	lead-rtva-003-dj-neura::o sigui	7	0.8837	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a nivell	lead-rtva-003-dj-neura::perquè	6	0.7955	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a nivell	lead-rtva-004-joan-mico::bé	7	1.0776	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a nivell	lead-rtva-004-joan-mico::bueno	7	0.7659	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a nivell	lead-rtva-004-joan-mico::clar	7	1.0778	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a nivell	lead-rtva-004-joan-mico::comuns	7	1.2641	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a nivell	lead-rtva-004-joan-mico::de fet	6	1.2886	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a nivell	lead-rtva-004-joan-mico::doncs	7	0.9829	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a nivell	lead-rtva-004-joan-mico::llavors	7	1.2659	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a nivell	lead-rtva-004-joan-mico::no?	7	1.1038	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a nivell	lead-rtva-004-joan-mico::o sigui	7	1.0335	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a nivell	lead-rtva-004-joan-mico::per tant	7	0.8424	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a nivell	lead-rtva-004-joan-mico::perquè	6	1.0686	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a nivell	lead-rtva-004-joan-mico::vull dir	7	1.1081	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a nivell	lead-cg-001-xavier-espot::andorrana	6	0.8788	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a nivell	lead-cg-001-xavier-espot::comú	7	1.2450	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a nivell	lead-cg-001-xavier-espot::perquè	6	0.9152	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a veure	lead-rtva-002-ian-moya::bé	7	1.2269	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a veure	lead-rtva-002-ian-moya::clar	6	0.6041	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a veure	lead-rtva-002-ian-moya::de fet	7	1.0476	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a veure	lead-rtva-002-ian-moya::doncs	7	1.2269	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a veure	lead-rtva-002-ian-moya::Escaldes	7	1.2540	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a veure	lead-rtva-002-ian-moya::evidentment	6	1.0984	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a veure	lead-rtva-002-ian-moya::llavors	6	0.7363	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a veure	lead-rtva-002-ian-moya::no?	6	1.0308	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a veure	lead-rtva-002-ian-moya::per tant	7	0.7281	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a veure	lead-rtva-002-ian-moya::perquè	7	1.0367	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a veure	lead-rtva-002-ian-moya::és a dir	7	1.2277	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a veure	lead-rtva-002-ian-moya::vull dir	7	1.3373	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a veure	lead-rtva-003-dj-neura::a veure	6	1.2249	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a veure	lead-rtva-003-dj-neura::bé	6	0.4666	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a veure	lead-rtva-003-dj-neura::bueno	7	1.2025	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a veure	lead-rtva-003-dj-neura::de fet	6	1.2249	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a veure	lead-rtva-003-dj-neura::doncs	6	0.4666	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a veure	lead-rtva-003-dj-neura::no?	6	0.4666	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a veure	lead-rtva-003-dj-neura::o sigui	7	1.2297	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a veure	lead-rtva-003-dj-neura::perquè	6	0.6161	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a veure	lead-rtva-004-joan-mico::bueno	7	1.2078	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a veure	lead-rtva-004-joan-mico::llavors	7	1.1505	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a veure	lead-rtva-004-joan-mico::per tant	7	1.2030	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a veure	lead-cg-001-xavier-espot::andorrana	6	1.3214	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a veure	lead-cg-001-xavier-espot::per tant	6	1.2646	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::a veure	lead-cg-001-xavier-espot::perquè	6	1.2498	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::bé	lead-rtva-002-ian-moya::clar	6	0.7286	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::bé	lead-rtva-002-ian-moya::de fet	7	1.2960	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::bé	lead-rtva-002-ian-moya::doncs	7	0.0000	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::bé	lead-rtva-002-ian-moya::evidentment	6	0.8642	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::bé	lead-rtva-002-ian-moya::llavors	6	0.5376	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::bé	lead-rtva-002-ian-moya::no?	6	1.0337	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::bé	lead-rtva-002-ian-moya::o sigui	7	0.8213	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::bé	lead-rtva-002-ian-moya::perquè	7	1.2633	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::bé	lead-rtva-002-ian-moya::vull dir	7	1.2933	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::bé	lead-rtva-003-dj-neura::a veure	6	1.2276	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::bé	lead-rtva-003-dj-neura::bé	6	0.7290	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::bé	lead-rtva-003-dj-neura::bueno	7	1.1419	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::bé	lead-rtva-003-dj-neura::de fet	6	1.2276	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::bé	lead-rtva-003-dj-neura::doncs	6	0.7290	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::bé	lead-rtva-003-dj-neura::no?	6	0.7290	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::bé	lead-rtva-003-dj-neura::o sigui	7	1.0197	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::bé	lead-rtva-003-dj-neura::perquè	6	0.6718	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::bé	lead-rtva-004-joan-mico::per tant	7	1.0239	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::bé	lead-cg-001-xavier-espot::andorrana	6	1.3244	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::bé	lead-cg-001-xavier-espot::perquè	6	1.2170	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::clar	lead-rtva-002-ian-moya::de fet	6	0.9321	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::clar	lead-rtva-002-ian-moya::doncs	6	0.7286	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::clar	lead-rtva-002-ian-moya::Escaldes	6	0.8735	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::clar	lead-rtva-002-ian-moya::evidentment	6	0.9108	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::clar	lead-rtva-002-ian-moya::llavors	6	1.0176	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::clar	lead-rtva-002-ian-moya::no?	6	0.6415	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::clar	lead-rtva-002-ian-moya::per tant	6	0.6136	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::clar	lead-rtva-002-ian-moya::perquè	6	0.7586	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::clar	lead-rtva-002-ian-moya::és a dir	6	0.8527	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::clar	lead-rtva-002-ian-moya::vull dir	6	1.0262	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::clar	lead-rtva-003-dj-neura::aleshores	6	1.1331	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::clar	lead-rtva-003-dj-neura::bé	6	0.5188	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::clar	lead-rtva-003-dj-neura::bueno	6	0.9633	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::clar	lead-rtva-003-dj-neura::clar	6	1.1331	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::clar	lead-rtva-003-dj-neura::doncs	6	0.5188	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::clar	lead-rtva-003-dj-neura::no?	6	0.5188	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::clar	lead-rtva-003-dj-neura::o sigui	6	0.8550	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::clar	lead-rtva-003-dj-neura::perquè	6	0.3055	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::clar	lead-rtva-004-joan-mico::bueno	6	1.0872	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::clar	lead-rtva-004-joan-mico::doncs	6	1.3311	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::clar	lead-rtva-004-joan-mico::per tant	6	0.8450	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::clar	lead-rtva-004-joan-mico::perquè	6	1.3296	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::clar	lead-cg-001-xavier-espot::andorrana	6	1.1813	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::clar	lead-cg-001-xavier-espot::perquè	6	1.1268	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::de fet	lead-rtva-002-ian-moya::doncs	7	1.2960	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::de fet	lead-rtva-002-ian-moya::evidentment	6	0.9186	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::de fet	lead-rtva-002-ian-moya::no?	6	0.6627	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::de fet	lead-rtva-002-ian-moya::per tant	7	0.6752	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::de fet	lead-rtva-002-ian-moya::perquè	7	0.5066	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::de fet	lead-rtva-002-ian-moya::és a dir	7	1.1132	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::de fet	lead-rtva-002-ian-moya::vull dir	7	0.6034	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::de fet	lead-rtva-003-dj-neura::aleshores	7	0.6520	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::de fet	lead-rtva-003-dj-neura::bé	6	0.7473	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::de fet	lead-rtva-003-dj-neura::bueno	7	0.5579	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::de fet	lead-rtva-003-dj-neura::clar	7	0.6520	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::de fet	lead-rtva-003-dj-neura::doncs	6	0.7473	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::de fet	lead-rtva-003-dj-neura::no?	6	0.7473	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::de fet	lead-rtva-003-dj-neura::o sigui	7	0.7110	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::de fet	lead-rtva-003-dj-neura::perquè	6	0.9597	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::de fet	lead-rtva-004-joan-mico::bé	7	1.0694	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::de fet	lead-rtva-004-joan-mico::bueno	7	0.7815	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::de fet	lead-rtva-004-joan-mico::clar	7	0.8234	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::de fet	lead-rtva-004-joan-mico::comuns	7	1.2302	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::de fet	lead-rtva-004-joan-mico::de fet	6	1.1045	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::de fet	lead-rtva-004-joan-mico::doncs	7	0.8801	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::de fet	lead-rtva-004-joan-mico::llavors	7	1.1923	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::de fet	lead-rtva-004-joan-mico::no?	7	1.2013	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::de fet	lead-rtva-004-joan-mico::o sigui	7	1.0295	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::de fet	lead-rtva-004-joan-mico::per tant	7	0.8772	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::de fet	lead-rtva-004-joan-mico::perquè	6	0.9829	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::de fet	lead-rtva-004-joan-mico::vull dir	7	1.2170	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::de fet	lead-cg-001-xavier-espot::andorrana	6	0.7561	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::de fet	lead-cg-001-xavier-espot::comú	7	1.0931	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::de fet	lead-cg-001-xavier-espot::per tant	6	1.2329	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::de fet	lead-cg-001-xavier-espot::perquè	6	0.8033	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::doncs	lead-rtva-002-ian-moya::evidentment	6	0.8642	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::doncs	lead-rtva-002-ian-moya::llavors	6	0.5376	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::doncs	lead-rtva-002-ian-moya::no?	6	1.0337	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::doncs	lead-rtva-002-ian-moya::o sigui	7	0.8213	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::doncs	lead-rtva-002-ian-moya::perquè	7	1.2633	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::doncs	lead-rtva-002-ian-moya::vull dir	7	1.2933	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::doncs	lead-rtva-003-dj-neura::a veure	6	1.2276	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::doncs	lead-rtva-003-dj-neura::bé	6	0.7290	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::doncs	lead-rtva-003-dj-neura::bueno	7	1.1419	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::doncs	lead-rtva-003-dj-neura::de fet	6	1.2276	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::doncs	lead-rtva-003-dj-neura::doncs	6	0.7290	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::doncs	lead-rtva-003-dj-neura::no?	6	0.7290	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::doncs	lead-rtva-003-dj-neura::o sigui	7	1.0197	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::doncs	lead-rtva-003-dj-neura::perquè	6	0.6718	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::doncs	lead-rtva-004-joan-mico::per tant	7	1.0239	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::doncs	lead-cg-001-xavier-espot::andorrana	6	1.3244	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::doncs	lead-cg-001-xavier-espot::perquè	6	1.2170	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::Escaldes	lead-rtva-002-ian-moya::evidentment	6	1.0761	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::Escaldes	lead-rtva-002-ian-moya::no?	6	0.7575	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::Escaldes	lead-rtva-002-ian-moya::per tant	7	1.1082	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::Escaldes	lead-rtva-003-dj-neura::bé	6	1.0110	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::Escaldes	lead-rtva-003-dj-neura::doncs	6	1.0110	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::Escaldes	lead-rtva-003-dj-neura::no?	6	1.0110	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::Escaldes	lead-rtva-003-dj-neura::perquè	6	1.0833	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::Escaldes	lead-cg-001-xavier-espot::perquè	6	1.2433	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::evidentment	lead-rtva-002-ian-moya::no?	6	0.6025	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::evidentment	lead-rtva-002-ian-moya::per tant	6	0.7105	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::evidentment	lead-rtva-002-ian-moya::perquè	6	0.6149	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::evidentment	lead-rtva-002-ian-moya::és a dir	6	1.1063	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::evidentment	lead-rtva-002-ian-moya::vull dir	6	0.6686	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::evidentment	lead-rtva-003-dj-neura::aleshores	6	0.9897	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::evidentment	lead-rtva-003-dj-neura::bé	6	0.8434	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::evidentment	lead-rtva-003-dj-neura::bueno	6	0.7235	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::evidentment	lead-rtva-003-dj-neura::clar	6	0.9897	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::evidentment	lead-rtva-003-dj-neura::doncs	6	0.8434	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::evidentment	lead-rtva-003-dj-neura::no?	6	0.8434	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::evidentment	lead-rtva-003-dj-neura::o sigui	6	0.9443	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::evidentment	lead-rtva-003-dj-neura::perquè	6	0.8588	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::evidentment	lead-rtva-004-joan-mico::bueno	6	1.1606	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::evidentment	lead-rtva-004-joan-mico::clar	6	1.3117	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::evidentment	lead-rtva-004-joan-mico::comuns	6	1.3214	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::evidentment	lead-rtva-004-joan-mico::de fet	6	1.0405	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::evidentment	lead-rtva-004-joan-mico::doncs	6	1.1292	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::evidentment	lead-rtva-004-joan-mico::o sigui	6	1.2677	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::evidentment	lead-rtva-004-joan-mico::per tant	6	0.7374	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::evidentment	lead-rtva-004-joan-mico::perquè	6	1.1650	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::evidentment	lead-rtva-004-joan-mico::vull dir	6	1.3468	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::evidentment	lead-cg-001-xavier-espot::andorrana	6	0.8351	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::evidentment	lead-cg-001-xavier-espot::comú	6	1.1804	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::evidentment	lead-cg-001-xavier-espot::perquè	6	0.7927	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::llavors	lead-rtva-002-ian-moya::o sigui	6	0.8296	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::llavors	lead-rtva-003-dj-neura::a veure	6	0.8210	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::llavors	lead-rtva-003-dj-neura::bé	6	1.0071	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::llavors	lead-rtva-003-dj-neura::de fet	6	0.8210	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::llavors	lead-rtva-003-dj-neura::doncs	6	1.0071	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::llavors	lead-rtva-003-dj-neura::no?	6	1.0071	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::llavors	lead-rtva-003-dj-neura::perquè	6	0.9766	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::no?	lead-rtva-002-ian-moya::per tant	6	0.4526	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::no?	lead-rtva-002-ian-moya::perquè	6	0.2960	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::no?	lead-rtva-002-ian-moya::és a dir	6	0.9558	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::no?	lead-rtva-002-ian-moya::vull dir	6	0.5942	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::no?	lead-rtva-003-dj-neura::aleshores	6	0.6476	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::no?	lead-rtva-003-dj-neura::bé	6	0.7643	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::no?	lead-rtva-003-dj-neura::bueno	6	0.7503	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::no?	lead-rtva-003-dj-neura::clar	6	0.6476	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::no?	lead-rtva-003-dj-neura::doncs	6	0.7643	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::no?	lead-rtva-003-dj-neura::no?	6	0.7643	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::no?	lead-rtva-003-dj-neura::o sigui	6	0.8418	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::no?	lead-rtva-003-dj-neura::perquè	6	0.7317	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::no?	lead-rtva-004-joan-mico::bé	6	1.2798	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::no?	lead-rtva-004-joan-mico::bueno	6	0.8691	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::no?	lead-rtva-004-joan-mico::clar	6	1.2494	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::no?	lead-rtva-004-joan-mico::comuns	6	1.3455	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::no?	lead-rtva-004-joan-mico::de fet	6	1.2590	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::no?	lead-rtva-004-joan-mico::doncs	6	1.0927	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::no?	lead-rtva-004-joan-mico::no?	6	1.2149	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::no?	lead-rtva-004-joan-mico::o sigui	6	1.2188	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::no?	lead-rtva-004-joan-mico::per tant	6	0.8170	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::no?	lead-rtva-004-joan-mico::perquè	6	1.1720	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::no?	lead-rtva-004-joan-mico::vull dir	6	1.1612	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::no?	lead-cg-001-xavier-espot::andorrana	6	0.8523	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::no?	lead-cg-001-xavier-espot::comú	6	1.3040	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::no?	lead-cg-001-xavier-espot::perquè	6	0.8416	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::o sigui	lead-rtva-003-dj-neura::a veure	6	1.0500	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::o sigui	lead-rtva-003-dj-neura::de fet	6	1.0500	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::per tant	lead-rtva-002-ian-moya::perquè	7	0.5140	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::per tant	lead-rtva-002-ian-moya::és a dir	7	1.0091	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::per tant	lead-rtva-002-ian-moya::vull dir	7	0.9305	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::per tant	lead-rtva-003-dj-neura::aleshores	7	1.0413	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::per tant	lead-rtva-003-dj-neura::bé	6	0.4320	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::per tant	lead-rtva-003-dj-neura::bueno	7	0.9196	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::per tant	lead-rtva-003-dj-neura::clar	7	1.0413	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::per tant	lead-rtva-003-dj-neura::doncs	6	0.4320	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::per tant	lead-rtva-003-dj-neura::no?	6	0.4320	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::per tant	lead-rtva-003-dj-neura::o sigui	7	1.0638	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::per tant	lead-rtva-003-dj-neura::perquè	6	0.5886	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::per tant	lead-rtva-004-joan-mico::bé	7	1.1086	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::per tant	lead-rtva-004-joan-mico::bueno	7	0.6860	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::per tant	lead-rtva-004-joan-mico::clar	7	1.0279	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::per tant	lead-rtva-004-joan-mico::comuns	7	1.2616	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::per tant	lead-rtva-004-joan-mico::de fet	6	0.9767	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::per tant	lead-rtva-004-joan-mico::doncs	7	0.9455	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::per tant	lead-rtva-004-joan-mico::llavors	7	0.9295	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::per tant	lead-rtva-004-joan-mico::no?	7	1.2183	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::per tant	lead-rtva-004-joan-mico::o sigui	7	1.0175	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::per tant	lead-rtva-004-joan-mico::per tant	7	0.9432	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::per tant	lead-rtva-004-joan-mico::perquè	6	0.8771	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::per tant	lead-rtva-004-joan-mico::vull dir	7	1.1339	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::per tant	lead-cg-001-xavier-espot::andorrana	6	0.6963	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::per tant	lead-cg-001-xavier-espot::per tant	6	1.2107	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::per tant	lead-cg-001-xavier-espot::perquè	6	0.8123	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::perquè	lead-rtva-002-ian-moya::és a dir	7	0.9102	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::perquè	lead-rtva-002-ian-moya::vull dir	7	0.5386	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::perquè	lead-rtva-003-dj-neura::aleshores	7	0.6422	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::perquè	lead-rtva-003-dj-neura::bé	6	0.7130	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::perquè	lead-rtva-003-dj-neura::bueno	7	0.6094	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::perquè	lead-rtva-003-dj-neura::clar	7	0.6422	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::perquè	lead-rtva-003-dj-neura::doncs	6	0.7130	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::perquè	lead-rtva-003-dj-neura::no?	6	0.7130	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::perquè	lead-rtva-003-dj-neura::o sigui	7	0.8617	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::perquè	lead-rtva-003-dj-neura::perquè	6	0.7855	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::perquè	lead-rtva-004-joan-mico::bé	7	1.0320	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::perquè	lead-rtva-004-joan-mico::bueno	7	0.7427	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::perquè	lead-rtva-004-joan-mico::clar	7	1.0050	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::perquè	lead-rtva-004-joan-mico::comuns	7	1.1578	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::perquè	lead-rtva-004-joan-mico::de fet	6	1.0932	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::perquè	lead-rtva-004-joan-mico::doncs	7	0.8508	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::perquè	lead-rtva-004-joan-mico::llavors	7	1.2542	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::perquè	lead-rtva-004-joan-mico::no?	7	1.0450	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::perquè	lead-rtva-004-joan-mico::o sigui	7	0.9733	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::perquè	lead-rtva-004-joan-mico::per tant	7	0.7489	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::perquè	lead-rtva-004-joan-mico::perquè	6	1.0295	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::perquè	lead-rtva-004-joan-mico::vull dir	7	0.9970	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::perquè	lead-cg-001-xavier-espot::andorrana	6	0.7666	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::perquè	lead-cg-001-xavier-espot::comú	7	1.2526	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::perquè	lead-cg-001-xavier-espot::perquè	6	0.8720	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::és a dir	lead-rtva-002-ian-moya::vull dir	7	0.8994	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::és a dir	lead-rtva-003-dj-neura::bé	6	1.0498	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::és a dir	lead-rtva-003-dj-neura::bueno	7	1.0710	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::és a dir	lead-rtva-003-dj-neura::doncs	6	1.0498	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::és a dir	lead-rtva-003-dj-neura::no?	6	1.0498	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::és a dir	lead-rtva-003-dj-neura::o sigui	7	1.2290	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::és a dir	lead-rtva-003-dj-neura::perquè	6	0.8024	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::és a dir	lead-rtva-004-joan-mico::bé	7	1.3114	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::és a dir	lead-rtva-004-joan-mico::bueno	7	1.3000	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::és a dir	lead-rtva-004-joan-mico::no?	7	1.2875	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::és a dir	lead-rtva-004-joan-mico::o sigui	7	1.2648	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::és a dir	lead-rtva-004-joan-mico::per tant	7	0.7654	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::és a dir	lead-rtva-004-joan-mico::perquè	6	1.3141	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::és a dir	lead-rtva-004-joan-mico::vull dir	7	1.3461	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::és a dir	lead-cg-001-xavier-espot::andorrana	6	1.1983	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::és a dir	lead-cg-001-xavier-espot::comú	7	1.3169	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::és a dir	lead-cg-001-xavier-espot::perquè	6	1.1148	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::vull dir	lead-rtva-003-dj-neura::aleshores	7	0.7884	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::vull dir	lead-rtva-003-dj-neura::bé	6	1.0013	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::vull dir	lead-rtva-003-dj-neura::bueno	7	0.5611	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::vull dir	lead-rtva-003-dj-neura::clar	7	0.7884	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::vull dir	lead-rtva-003-dj-neura::doncs	6	1.0013	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::vull dir	lead-rtva-003-dj-neura::no?	6	1.0013	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::vull dir	lead-rtva-003-dj-neura::o sigui	7	0.9444	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::vull dir	lead-rtva-003-dj-neura::perquè	6	1.0421	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::vull dir	lead-rtva-004-joan-mico::bé	7	1.1741	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::vull dir	lead-rtva-004-joan-mico::bueno	7	1.1290	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::vull dir	lead-rtva-004-joan-mico::clar	7	1.2120	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::vull dir	lead-rtva-004-joan-mico::comuns	7	1.2542	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::vull dir	lead-rtva-004-joan-mico::de fet	6	1.2277	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::vull dir	lead-rtva-004-joan-mico::doncs	7	1.0812	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::vull dir	lead-rtva-004-joan-mico::no?	7	1.1887	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::vull dir	lead-rtva-004-joan-mico::o sigui	7	1.1208	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::vull dir	lead-rtva-004-joan-mico::per tant	7	0.7744	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::vull dir	lead-rtva-004-joan-mico::perquè	6	1.1405	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::vull dir	lead-rtva-004-joan-mico::vull dir	7	1.2423	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::vull dir	lead-cg-001-xavier-espot::andorrana	6	0.7940	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::vull dir	lead-cg-001-xavier-espot::comú	7	0.8694	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-002-ian-moya::vull dir	lead-cg-001-xavier-espot::perquè	6	0.6925	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::a veure	lead-rtva-003-dj-neura::de fet	6	0.0000	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::aleshores	lead-rtva-003-dj-neura::bé	6	1.0351	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::aleshores	lead-rtva-003-dj-neura::bueno	7	0.7342	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::aleshores	lead-rtva-003-dj-neura::clar	7	0.0000	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::aleshores	lead-rtva-003-dj-neura::doncs	6	1.0351	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::aleshores	lead-rtva-003-dj-neura::no?	6	1.0351	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::aleshores	lead-rtva-003-dj-neura::o sigui	7	0.8066	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::aleshores	lead-rtva-003-dj-neura::perquè	6	1.1854	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::aleshores	lead-rtva-004-joan-mico::bé	7	1.1015	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::aleshores	lead-rtva-004-joan-mico::bueno	7	0.8442	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::aleshores	lead-rtva-004-joan-mico::clar	7	0.9069	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::aleshores	lead-rtva-004-joan-mico::comuns	7	1.2153	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::aleshores	lead-rtva-004-joan-mico::de fet	6	1.2187	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::aleshores	lead-rtva-004-joan-mico::doncs	7	0.8704	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::aleshores	lead-rtva-004-joan-mico::no?	7	1.0639	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::aleshores	lead-rtva-004-joan-mico::o sigui	7	1.1114	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::aleshores	lead-rtva-004-joan-mico::per tant	7	1.0425	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::aleshores	lead-rtva-004-joan-mico::perquè	6	1.1623	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::aleshores	lead-rtva-004-joan-mico::vull dir	7	1.0453	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::aleshores	lead-cg-001-xavier-espot::andorrana	6	0.9328	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::aleshores	lead-cg-001-xavier-espot::perquè	6	1.1544	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::bé	lead-rtva-003-dj-neura::bueno	6	0.6708	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::bé	lead-rtva-003-dj-neura::clar	6	1.0351	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::bé	lead-rtva-003-dj-neura::doncs	6	0.0000	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::bé	lead-rtva-003-dj-neura::no?	6	0.0000	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::bé	lead-rtva-003-dj-neura::o sigui	6	0.4240	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::bé	lead-rtva-003-dj-neura::perquè	6	0.3910	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::bé	lead-rtva-004-joan-mico::bé	6	1.2329	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::bé	lead-rtva-004-joan-mico::bueno	6	0.8921	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::bé	lead-rtva-004-joan-mico::clar	6	1.0665	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::bé	lead-rtva-004-joan-mico::comuns	6	1.3363	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::bé	lead-rtva-004-joan-mico::de fet	6	1.0079	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::bé	lead-rtva-004-joan-mico::doncs	6	0.9862	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::bé	lead-rtva-004-joan-mico::llavors	6	0.9300	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::bé	lead-rtva-004-joan-mico::o sigui	6	1.2031	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::bé	lead-rtva-004-joan-mico::per tant	6	0.6532	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::bé	lead-rtva-004-joan-mico::perquè	6	1.0005	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::bé	lead-cg-001-xavier-espot::andorrana	6	0.9598	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::bé	lead-cg-001-xavier-espot::per tant	6	1.1036	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::bé	lead-cg-001-xavier-espot::perquè	6	1.0513	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::bueno	lead-rtva-003-dj-neura::clar	7	0.7342	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::bueno	lead-rtva-003-dj-neura::doncs	6	0.6708	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::bueno	lead-rtva-003-dj-neura::no?	6	0.6708	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::bueno	lead-rtva-003-dj-neura::o sigui	7	0.5272	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::bueno	lead-rtva-003-dj-neura::perquè	6	0.8907	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::bueno	lead-rtva-004-joan-mico::bé	7	1.0070	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::bueno	lead-rtva-004-joan-mico::bueno	7	1.0231	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::bueno	lead-rtva-004-joan-mico::clar	7	0.9030	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::bueno	lead-rtva-004-joan-mico::comuns	7	1.1321	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::bueno	lead-rtva-004-joan-mico::de fet	6	0.8684	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::bueno	lead-rtva-004-joan-mico::doncs	7	0.8066	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::bueno	lead-rtva-004-joan-mico::llavors	7	1.2586	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::bueno	lead-rtva-004-joan-mico::no?	7	1.1923	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::bueno	lead-rtva-004-joan-mico::o sigui	7	1.0011	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::bueno	lead-rtva-004-joan-mico::per tant	7	0.6087	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::bueno	lead-rtva-004-joan-mico::perquè	6	0.9131	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::bueno	lead-rtva-004-joan-mico::vull dir	7	1.2371	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::bueno	lead-cg-001-xavier-espot::andorrana	6	0.7914	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::bueno	lead-cg-001-xavier-espot::comú	7	1.1955	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::bueno	lead-cg-001-xavier-espot::per tant	6	1.1137	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::bueno	lead-cg-001-xavier-espot::perquè	6	0.9455	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::clar	lead-rtva-003-dj-neura::doncs	6	1.0351	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::clar	lead-rtva-003-dj-neura::no?	6	1.0351	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::clar	lead-rtva-003-dj-neura::o sigui	7	0.8066	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::clar	lead-rtva-003-dj-neura::perquè	6	1.1854	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::clar	lead-rtva-004-joan-mico::bé	7	1.1015	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::clar	lead-rtva-004-joan-mico::bueno	7	0.8442	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::clar	lead-rtva-004-joan-mico::clar	7	0.9069	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::clar	lead-rtva-004-joan-mico::comuns	7	1.2153	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::clar	lead-rtva-004-joan-mico::de fet	6	1.2187	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::clar	lead-rtva-004-joan-mico::doncs	7	0.8704	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::clar	lead-rtva-004-joan-mico::no?	7	1.0639	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::clar	lead-rtva-004-joan-mico::o sigui	7	1.1114	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::clar	lead-rtva-004-joan-mico::per tant	7	1.0425	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::clar	lead-rtva-004-joan-mico::perquè	6	1.1623	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::clar	lead-rtva-004-joan-mico::vull dir	7	1.0453	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::clar	lead-cg-001-xavier-espot::andorrana	6	0.9328	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::clar	lead-cg-001-xavier-espot::perquè	6	1.1544	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::doncs	lead-rtva-003-dj-neura::no?	6	0.0000	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::doncs	lead-rtva-003-dj-neura::o sigui	6	0.4240	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::doncs	lead-rtva-003-dj-neura::perquè	6	0.3910	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::doncs	lead-rtva-004-joan-mico::bé	6	1.2329	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::doncs	lead-rtva-004-joan-mico::bueno	6	0.8921	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::doncs	lead-rtva-004-joan-mico::clar	6	1.0665	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::doncs	lead-rtva-004-joan-mico::comuns	6	1.3363	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::doncs	lead-rtva-004-joan-mico::de fet	6	1.0079	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::doncs	lead-rtva-004-joan-mico::doncs	6	0.9862	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::doncs	lead-rtva-004-joan-mico::llavors	6	0.9300	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::doncs	lead-rtva-004-joan-mico::o sigui	6	1.2031	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::doncs	lead-rtva-004-joan-mico::per tant	6	0.6532	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::doncs	lead-rtva-004-joan-mico::perquè	6	1.0005	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::doncs	lead-cg-001-xavier-espot::andorrana	6	0.9598	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::doncs	lead-cg-001-xavier-espot::per tant	6	1.1036	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::doncs	lead-cg-001-xavier-espot::perquè	6	1.0513	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::no?	lead-rtva-003-dj-neura::o sigui	6	0.4240	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::no?	lead-rtva-003-dj-neura::perquè	6	0.3910	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::no?	lead-rtva-004-joan-mico::bé	6	1.2329	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::no?	lead-rtva-004-joan-mico::bueno	6	0.8921	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::no?	lead-rtva-004-joan-mico::clar	6	1.0665	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::no?	lead-rtva-004-joan-mico::comuns	6	1.3363	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::no?	lead-rtva-004-joan-mico::de fet	6	1.0079	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::no?	lead-rtva-004-joan-mico::doncs	6	0.9862	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::no?	lead-rtva-004-joan-mico::llavors	6	0.9300	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::no?	lead-rtva-004-joan-mico::o sigui	6	1.2031	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::no?	lead-rtva-004-joan-mico::per tant	6	0.6532	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::no?	lead-rtva-004-joan-mico::perquè	6	1.0005	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::no?	lead-cg-001-xavier-espot::andorrana	6	0.9598	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::no?	lead-cg-001-xavier-espot::per tant	6	1.1036	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::no?	lead-cg-001-xavier-espot::perquè	6	1.0513	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::o sigui	lead-rtva-003-dj-neura::perquè	6	0.7215	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::o sigui	lead-rtva-004-joan-mico::bé	7	0.9525	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::o sigui	lead-rtva-004-joan-mico::bueno	7	0.9124	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::o sigui	lead-rtva-004-joan-mico::clar	7	0.7626	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::o sigui	lead-rtva-004-joan-mico::comuns	7	1.0492	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::o sigui	lead-rtva-004-joan-mico::de fet	6	0.7518	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::o sigui	lead-rtva-004-joan-mico::doncs	7	0.7288	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::o sigui	lead-rtva-004-joan-mico::llavors	7	1.2747	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::o sigui	lead-rtva-004-joan-mico::no?	7	1.1676	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::o sigui	lead-rtva-004-joan-mico::o sigui	7	1.0008	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::o sigui	lead-rtva-004-joan-mico::per tant	7	0.6495	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::o sigui	lead-rtva-004-joan-mico::perquè	6	0.7065	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::o sigui	lead-rtva-004-joan-mico::vull dir	7	1.2199	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::o sigui	lead-cg-001-xavier-espot::andorrana	6	0.7647	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::o sigui	lead-cg-001-xavier-espot::per tant	6	0.9665	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::o sigui	lead-cg-001-xavier-espot::perquè	6	1.0421	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::perquè	lead-rtva-004-joan-mico::bé	6	1.3256	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::perquè	lead-rtva-004-joan-mico::bueno	6	1.0162	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::perquè	lead-rtva-004-joan-mico::de fet	6	1.2110	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::perquè	lead-rtva-004-joan-mico::doncs	6	1.1684	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::perquè	lead-rtva-004-joan-mico::llavors	6	1.2175	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::perquè	lead-rtva-004-joan-mico::o sigui	6	1.2913	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::perquè	lead-rtva-004-joan-mico::per tant	6	0.6164	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::perquè	lead-rtva-004-joan-mico::perquè	6	1.1235	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::perquè	lead-cg-001-xavier-espot::andorrana	6	1.0485	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::perquè	lead-cg-001-xavier-espot::per tant	6	1.3201	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-003-dj-neura::perquè	lead-cg-001-xavier-espot::perquè	6	1.0714	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::bé	lead-rtva-004-joan-mico::bueno	7	0.7509	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::bé	lead-rtva-004-joan-mico::clar	7	0.7562	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::bé	lead-rtva-004-joan-mico::comuns	7	0.3606	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::bé	lead-rtva-004-joan-mico::de fet	6	0.7663	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::bé	lead-rtva-004-joan-mico::doncs	7	0.4143	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::bé	lead-rtva-004-joan-mico::llavors	7	1.0698	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::bé	lead-rtva-004-joan-mico::no?	7	0.4872	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::bé	lead-rtva-004-joan-mico::o sigui	7	0.1644	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::bé	lead-rtva-004-joan-mico::per tant	7	0.8473	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::bé	lead-rtva-004-joan-mico::perquè	6	0.4388	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::bé	lead-rtva-004-joan-mico::vull dir	7	0.5871	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::bé	lead-cg-001-xavier-espot::andorrana	6	0.7522	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::bé	lead-cg-001-xavier-espot::per tant	6	1.2450	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::bé	lead-cg-001-xavier-espot::perquè	6	1.2743	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::bueno	lead-rtva-004-joan-mico::clar	7	0.6640	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::bueno	lead-rtva-004-joan-mico::comuns	7	0.8913	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::bueno	lead-rtva-004-joan-mico::de fet	6	0.9620	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::bueno	lead-rtva-004-joan-mico::doncs	7	0.5831	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::bueno	lead-rtva-004-joan-mico::llavors	7	1.0319	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::bueno	lead-rtva-004-joan-mico::no?	7	0.8156	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::bueno	lead-rtva-004-joan-mico::o sigui	7	0.7178	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::bueno	lead-rtva-004-joan-mico::per tant	7	0.9855	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::bueno	lead-rtva-004-joan-mico::perquè	6	0.7393	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::bueno	lead-rtva-004-joan-mico::vull dir	7	0.7160	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::bueno	lead-cg-001-xavier-espot::andorrana	6	0.7326	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::bueno	lead-cg-001-xavier-espot::perquè	6	1.1230	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::clar	lead-rtva-004-joan-mico::comuns	7	0.8911	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::clar	lead-rtva-004-joan-mico::de fet	6	0.6943	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::clar	lead-rtva-004-joan-mico::doncs	7	0.4552	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::clar	lead-rtva-004-joan-mico::llavors	7	0.9358	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::clar	lead-rtva-004-joan-mico::no?	7	1.0676	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::clar	lead-rtva-004-joan-mico::o sigui	7	0.7654	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::clar	lead-rtva-004-joan-mico::per tant	7	1.0706	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::clar	lead-rtva-004-joan-mico::perquè	6	0.7069	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::clar	lead-rtva-004-joan-mico::vull dir	7	1.0527	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::clar	lead-cg-001-xavier-espot::andorrana	6	0.8291	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::clar	lead-cg-001-xavier-espot::per tant	6	1.1175	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::clar	lead-cg-001-xavier-espot::perquè	6	1.2628	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::comuns	lead-rtva-004-joan-mico::de fet	6	0.7278	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::comuns	lead-rtva-004-joan-mico::doncs	7	0.5510	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::comuns	lead-rtva-004-joan-mico::llavors	7	1.2537	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::comuns	lead-rtva-004-joan-mico::no?	7	0.5329	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::comuns	lead-rtva-004-joan-mico::o sigui	7	0.3758	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::comuns	lead-rtva-004-joan-mico::per tant	7	0.8626	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::comuns	lead-rtva-004-joan-mico::perquè	6	0.4888	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::comuns	lead-rtva-004-joan-mico::vull dir	7	0.6224	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::comuns	lead-cg-001-xavier-espot::andorrana	6	0.7252	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::comuns	lead-cg-001-xavier-espot::per tant	6	1.3143	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::comuns	lead-cg-001-xavier-espot::perquè	6	1.2449	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::de fet	lead-rtva-004-joan-mico::doncs	6	0.5341	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::de fet	lead-rtva-004-joan-mico::llavors	6	0.6300	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::de fet	lead-rtva-004-joan-mico::no?	6	1.1478	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::de fet	lead-rtva-004-joan-mico::o sigui	6	0.7151	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::de fet	lead-rtva-004-joan-mico::per tant	6	0.8065	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::de fet	lead-rtva-004-joan-mico::perquè	6	0.5354	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::de fet	lead-rtva-004-joan-mico::vull dir	6	1.1382	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::de fet	lead-cg-001-xavier-espot::andorrana	6	0.7011	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::de fet	lead-cg-001-xavier-espot::per tant	6	0.8797	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::de fet	lead-cg-001-xavier-espot::perquè	6	1.1291	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::doncs	lead-rtva-004-joan-mico::llavors	7	0.9647	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::doncs	lead-rtva-004-joan-mico::no?	7	0.7136	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::doncs	lead-rtva-004-joan-mico::o sigui	7	0.4354	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::doncs	lead-rtva-004-joan-mico::per tant	7	0.7894	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::doncs	lead-rtva-004-joan-mico::perquè	6	0.4861	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::doncs	lead-rtva-004-joan-mico::vull dir	7	0.6978	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::doncs	lead-cg-001-xavier-espot::andorrana	6	0.6790	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::doncs	lead-cg-001-xavier-espot::per tant	6	1.1731	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::doncs	lead-cg-001-xavier-espot::perquè	6	1.2018	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::llavors	lead-rtva-004-joan-mico::o sigui	7	1.0028	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::llavors	lead-rtva-004-joan-mico::per tant	7	1.2623	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::llavors	lead-rtva-004-joan-mico::perquè	6	0.6657	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::llavors	lead-cg-001-xavier-espot::andorrana	6	0.9795	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::llavors	lead-cg-001-xavier-espot::per tant	6	0.6054	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::llavors	lead-cg-001-xavier-espot::perquè	6	1.3286	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::no?	lead-rtva-004-joan-mico::o sigui	7	0.5096	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::no?	lead-rtva-004-joan-mico::per tant	7	0.9838	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::no?	lead-rtva-004-joan-mico::perquè	6	0.8286	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::no?	lead-rtva-004-joan-mico::vull dir	7	0.2650	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::no?	lead-cg-001-xavier-espot::andorrana	6	0.8933	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::no?	lead-cg-001-xavier-espot::perquè	6	1.3448	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::o sigui	lead-rtva-004-joan-mico::per tant	7	0.8365	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::o sigui	lead-rtva-004-joan-mico::perquè	6	0.3753	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::o sigui	lead-rtva-004-joan-mico::vull dir	7	0.5786	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::o sigui	lead-cg-001-xavier-espot::andorrana	6	0.6430	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::o sigui	lead-cg-001-xavier-espot::per tant	6	1.2058	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::o sigui	lead-cg-001-xavier-espot::perquè	6	1.1656	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::per tant	lead-rtva-004-joan-mico::perquè	6	0.7118	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::per tant	lead-rtva-004-joan-mico::vull dir	7	1.0462	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::per tant	lead-cg-001-xavier-espot::andorrana	6	0.6987	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::per tant	lead-cg-001-xavier-espot::comú	7	1.2867	f0_hz,f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::per tant	lead-cg-001-xavier-espot::per tant	6	1.0715	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::per tant	lead-cg-001-xavier-espot::perquè	6	0.8998	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::perquè	lead-rtva-004-joan-mico::vull dir	6	0.8969	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::perquè	lead-cg-001-xavier-espot::andorrana	6	0.5006	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::perquè	lead-cg-001-xavier-espot::per tant	6	0.8826	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::perquè	lead-cg-001-xavier-espot::perquè	6	0.9832	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-rtva-004-joan-mico::vull dir	lead-cg-001-xavier-espot::andorrana	6	0.9269	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-cg-001-xavier-espot::andorrana	lead-cg-001-xavier-espot::comú	6	1.1643	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-cg-001-xavier-espot::andorrana	lead-cg-001-xavier-espot::per tant	6	1.0915	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-cg-001-xavier-espot::andorrana	lead-cg-001-xavier-espot::perquè	6	0.5581	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-cg-001-xavier-espot::comú	lead-cg-001-xavier-espot::perquè	6	0.6753	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició
+lead-cg-001-xavier-espot::per tant	lead-cg-001-xavier-espot::perquè	6	1.2353	f1_hz,f2_hz,f3_hz,pausa_mediana_s,veu_proporcio,centroid_median_hz	semblança acústica exploratòria; pendent d’audició

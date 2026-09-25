@@ -1,0 +1,57 @@
+forma	categoria	small	base	consens	model_localitzador	context_small	context_base	prob_min_segment_small	prob_mean_segment_small	prob_min_segment_base	prob_mean_segment_base	clip	inici_ms	final_ms	estat
+a nivell	discurs	0	0	no											ASR textual; atribució i audició pendents
+a veure	discurs	3	2	sí	small	A veure, ho leo, l'heo, l'heo.	-Vem en suport, senyars, i es plau. A veure si el veiem per aquí, aquí, aquí, aquí, aquí, el preneuabilitat. Si, si, és nota, Albert, és nota, paper, oi? És nota, paper del buen.	0.1709	0.6751	0.3057	0.9294	lead-yt-051-albert-vilaro__02__a-veure.wav	272240	273360	ASR textual; atribució i audició pendents
+aleshores	discurs	0	0	no											ASR textual; atribució i audició pendents
+aviam	discurs	2	1	sí	small	Pusem la sintonia i intentarem posar-li lletra, aviam.	Potser amb la sintonia intentament posar la lletra, aviam?	0.2414	0.8231	0.2598	0.7803	lead-yt-051-albert-vilaro__04__aviam.wav	49920	52480	ASR textual; atribució i audició pendents
+bueno	discurs	3	3	sí	small	Comença la vi... Bueno, sí, la podem posar, eh?	Comença la vi, bueno, sí, la podem posar, eh?	0.1492	0.7290	0.2510	0.6837	lead-yt-051-albert-vilaro__05__bueno.wav	54720	57240	ASR textual; atribució i audició pendents
+bé	discurs	12	17	sí	small	I comença... Bé, no, no, hem de repassar, hem de repassar, hem de repassar.	Molt bé, bona nit, molt content, una mica de sang,	0.1321	0.8082	0.2114	0.7194	lead-yt-051-albert-vilaro__06__b.wav	71320	75240	ASR textual; atribució i audició pendents
+clar	discurs	11	12	sí	small	Clar, quan poses molta càrrega poblacional en un espai fràgil, el resultat no sol si és bo.	Clar, quan poses molta carrega poblacional amb un espai fragil,	0.0836	0.8294	0.2669	0.7528	lead-yt-051-albert-vilaro__07__clar.wav	504160	514080	ASR textual; atribució i audició pendents
+de fet	discurs	1	0	no	small	perquè de fet el que em demiraves cap endavant,		0.1940	0.6986			lead-yt-051-albert-vilaro__08__de-fet.wav	445080	448080	ASR textual; atribució i audició pendents
+diguem	discurs	2	1	sí	small	però clar, el que ens ha arribat als periïnsolars, diguem-ho així,	el que ens ha arribat als perinsolars, diguem-ho així,	0.2356	0.8077	0.2603	0.7746	lead-yt-051-albert-vilaro__09__diguem.wav	520080	524080	ASR textual; atribució i audició pendents
+doncs	discurs	4	8	sí	small	doncs hi deu haver 140 fotografies.	l'exempleix de arquitectura pyrinentca, doncs des de la Valdarán fins al Ripollés.	0.4018	0.8617	0.0817	0.6029	lead-yt-051-albert-vilaro__10__doncs.wav	277360	280240	ASR textual; atribució i audició pendents
+evidentment	discurs	0	0	no											ASR textual; atribució i audició pendents
+llavors	discurs	0	0	no											ASR textual; atribució i audició pendents
+no?	discurs	1	1	sí	small	Això no el tenim? Això no el tenim? Albert, això ja no?	Això no el tenim, Albert, això ja no?	0.3503	0.7623	0.2918	0.7661	lead-yt-051-albert-vilaro__13__no.wav	466080	469080	ASR textual; atribució i audició pendents
+o sigui	discurs	0	0	no											ASR textual; atribució i audició pendents
+per tant	discurs	1	1	sí	small	i per tant busquen alternatius.	fàcil viure a muntanya i per tant busquen alternatius.	0.5178	0.8266	0.2633	0.8131	lead-yt-051-albert-vilaro__15__per-tant.wav	394440	396840	ASR textual; atribució i audició pendents
+perquè	discurs	11	11	sí	small	Estava fent això perquè ja sé que queda una mica friqui,	Estava fent això perquè ja sé que quedo una mica freqüi,	0.4212	0.8977	0.2607	0.7179	lead-yt-051-albert-vilaro__16__perqu.wav	41560	44520	ASR textual; atribució i audició pendents
+vull dir	discurs	1	1	sí	small	-Vull dir que tu ja estàs molt arrelat a aquest territori.	Vull dir que tu ja estàs molt arrelat aquest territori.	0.2646	0.8944	0.3085	0.8473	lead-yt-051-albert-vilaro__17__vull-dir.wav	658560	663320	ASR textual; atribució i audició pendents
+és a dir	discurs	6	2	sí	small	"aquestes fotografies amb la direcció clara de l'Albert Vilaró"", és a dir tu dient ""fas de fer aquestes fotografies"""	És a dir, el editor que és on ja anàvem a contactar,	0.2925	0.8159	0.1335	0.6100	lead-yt-051-albert-vilaro__18__s-a-dir.wav	232800	238680	ASR textual; atribució i audició pendents
+Canillo	territorial	0	0	no											ASR textual; atribució i audició pendents
+Escaldes	territorial	0	0	no											ASR textual; atribució i audició pendents
+Massana	territorial	0	0	no											ASR textual; atribució i audició pendents
+Ordino	territorial	0	0	no											ASR textual; atribució i audició pendents
+Sant Julià	territorial	0	0	no											ASR textual; atribució i audició pendents
+aiguats	territorial	0	0	no											ASR textual; atribució i audició pendents
+andorrana	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunal	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunals	territorial	0	0	no											ASR textual; atribució i audició pendents
+comuns	territorial	0	0	no											ASR textual; atribució i audició pendents
+comú	territorial	0	0	no											ASR textual; atribució i audició pendents
+copríncep	territorial	0	0	no											ASR textual; atribució i audició pendents
+coprínceps	territorial	0	0	no											ASR textual; atribució i audició pendents
+padrí	territorial	0	0	no											ASR textual; atribució i audició pendents
+parròquia	territorial	0	0	no											ASR textual; atribució i audició pendents
+santuari	territorial	0	0	no											ASR textual; atribució i audició pendents
+veguer	territorial	0	0	no											ASR textual; atribució i audició pendents
+diners	economia	0	0	no											ASR textual; atribució i audició pendents
+finances	economia	0	0	no											ASR textual; atribució i audició pendents
+economia	economia	0	0	no											ASR textual; atribució i audició pendents
+mercat	economia	0	0	no											ASR textual; atribució i audició pendents
+banca	economia	0	0	no											ASR textual; atribució i audició pendents
+inversió	economia	1	1	sí	small	que això pugui ser una realitat per a la inversió, és astronòmica.	Això pugui ser una realitat per a l'inversió extraordinàmica.	0.4783	0.9169	0.0737	0.7834	lead-yt-051-albert-vilaro__41__inversi.wav	799820	803820	ASR textual; atribució i audició pendents
+empresa	economia	0	0	no											ASR textual; atribució i audició pendents
+emprenedoria	economia	0	0	no											ASR textual; atribució i audició pendents
+pressupost	economia	0	0	no											ASR textual; atribució i audició pendents
+inversions	economia	0	0	no											ASR textual; atribució i audició pendents
+fiscal	economia	0	0	no											ASR textual; atribució i audició pendents
+govern	institucions	0	0	no											ASR textual; atribució i audició pendents
+ministre	institucions	0	0	no											ASR textual; atribució i audició pendents
+política	institucions	0	0	no											ASR textual; atribució i audició pendents
+turisme	societat	0	0	no											ASR textual; atribució i audició pendents
+habitatge	societat	1	0	no	small	que no és fàcil, perquè moltes vegades no troben l'habitatge ideal,		0.0230	0.8491			lead-yt-051-albert-vilaro__51__habitatge.wav	581480	587440	ASR textual; atribució i audició pendents
+comerç	societat	0	0	no											ASR textual; atribució i audició pendents
+treball	societat	2	1	sí	small	molt treball, una certa modèstia,	molt centraides amb la eficiència del treball, amb l'amor a la terra, amb l'amor a la muntanya.	0.3937	0.7850	0.1662	0.7945	lead-yt-051-albert-vilaro__53__treball.wav	344360	349360	ASR textual; atribució i audició pendents
+Andorra	toponim	4	1	sí	small	lidílic tren, que havíem, si algun dia arriba, Barcelona-Andorra o Sant Andorra o Tarragón-Andorra,	i si no, bueno, una mica més amunt, una andorra,	0.1264	0.7605	0.2476	0.7076	lead-yt-051-albert-vilaro__54__andorra.wav	762260	766780	ASR textual; atribució i audició pendents
+andorrà	gentilici	0	0	no											ASR textual; atribució i audició pendents
+futur	societat	0	0	no											ASR textual; atribució i audició pendents

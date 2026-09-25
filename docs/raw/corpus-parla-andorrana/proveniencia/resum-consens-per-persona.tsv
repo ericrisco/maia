@@ -1,0 +1,67 @@
+id_persona	n_clips	n_consens	n_divergents	formes_consens	formes_divergents	estat_font
+pa-001	14	3	11	crec, evidentment, perquè	a nivell, a veure, aleshores, bueno, bé, clar, de fet, llavors, o sigui, vull dir, és a dir	analitzada-provisional-contextual
+pa-003	14	7	7	a nivell, crec, de fet, evidentment, perquè, tirar endavant, és a dir	aleshores, aviam, bueno, bé, clar, diguem, ensenyança	analitzada-provisional-contextual
+pa-002	13	6	7	a nivell, a veure, bé, crec, evidentment, perquè	bueno, clar, de fet, llavors, reformeta, vull dir, és a dir	analitzada-provisional-contextual
+pa-004	6	5	1	bé, de fet, evidentment, perquè, vull dir	doncs	analitzada-provisional-contextual
+pa-005	5	2	3	bé, doncs	clar, llavors, o sigui	analitzada-provisional-contextual
+pa-006	10	2	8	aleshores, de fet	bé, clar, diguem, doncs, evidentment, llavors, o sigui, perquè	analitzada-provisional-contextual
+pa-007	10	7	3	a veure, bé, clar, diguem, evidentment, llavors, perquè	bueno, doncs, és a dir	analitzada-provisional-contextual
+pa-008	10	4	6	a veure, aleshores, clar, és a dir	bueno, bé, de fet, diguem, doncs, perquè	analitzada-provisional-contextual
+pa-009	8	6	2	bé, clar, doncs, evidentment, o sigui, perquè	diguem, llavors	analitzada-provisional-contextual
+pa-010	8	5	3	clar, de fet, doncs, llavors, és a dir	bé, crec, perquè	analitzada-provisional-contextual
+pa-011	8	4	4	a veure, bé, de fet, és a dir	aleshores, doncs, evidentment, perquè	analitzada-provisional-contextual
+pa-012	4	0	4		aleshores, bé, doncs, perquè	analitzada-provisional-contextual
+pa-013	5	1	4	bé	doncs, evidentment, perquè, és a dir	analitzada-provisional-contextual
+pa-014	13	6	7	bé, crec, evidentment, o sigui, perquè, vull dir	a veure, aleshores, aviam, clar, doncs, llavors, és a dir	analitzada-provisional-contextual
+pa-015	5	2	3	doncs, perquè	bé, llavors, o sigui	analitzada-provisional-contextual
+pa-016	15	5	10	a nivell, clar, doncs, evidentment, perquè	a veure, aviam, bueno, bé, crec, de fet, llavors, o sigui, vull dir, és a dir	analitzada-provisional-contextual
+pa-017	11	6	5	a nivell, clar, doncs, perquè, vull dir, és a dir	bueno, bé, evidentment, llavors, tirar endavant	analitzada-provisional-contextual
+pa-018	11	4	7	a nivell, crec, diguem, perquè	a veure, bueno, bé, clar, doncs, llavors, és a dir	analitzada-provisional-contextual
+pa-019	11	5	6	a nivell, bé, crec, diguem, perquè	bueno, clar, doncs, evidentment, llavors, és a dir	analitzada-provisional-contextual
+pa-020	11	4	7	aviam, bé, clar, perquè	a nivell, bueno, diguem, doncs, evidentment, tirar endavant, vull dir	analitzada-provisional-contextual
+pa-021	11	5	6	bueno, bé, crec, doncs, vull dir	a veure, aleshores, clar, evidentment, perquè, és a dir	analitzada-provisional-contextual
+pa-022	15	7	8	a veure, bé, clar, crec, evidentment, o sigui, reformeta	bueno, de fet, diguem, doncs, llavors, perquè, vull dir, és a dir	analitzada-provisional-contextual
+pa-023	11	2	9	a veure, bé	a nivell, bueno, crec, de fet, diguem, llavors, perquè, vull dir, és a dir	analitzada-provisional-contextual
+pa-024	13	4	9	a nivell, clar, crec, de fet	a veure, bueno, bé, doncs, evidentment, llavors, o sigui, perquè, és a dir	analitzada-provisional-contextual
+pa-025	15	7	8	a veure, clar, crec, diguem, evidentment, perquè, reformeta	aleshores, bueno, bé, de fet, doncs, o sigui, vull dir, és a dir	analitzada-provisional-contextual
+pa-026	13	3	10	bé, perquè, reformeta	a nivell, a veure, bueno, clar, doncs, evidentment, llavors, o sigui, vull dir, és a dir	analitzada-provisional-contextual
+pa-027	13	5	8	crec, de fet, evidentment, perquè, és a dir	bueno, bé, clar, diguem, doncs, llavors, o sigui, vull dir	analitzada-provisional-contextual
+pa-028	8	4	4	bé, clar, de fet, doncs	bueno, diguem, llavors, perquè	analitzada-provisional-contextual
+pa-029	12	1	11	tirar endavant	a nivell, a veure, bueno, bé, clar, diguem, doncs, llavors, o sigui, perquè, és a dir	analitzada-provisional-contextual
+pa-030	14	8	6	a veure, aleshores, bueno, crec, doncs, evidentment, tirar endavant, vull dir	bé, clar, llavors, o sigui, perquè, és a dir	analitzada-provisional-contextual
+pa-031	11	3	8	a veure, crec, de fet	aleshores, bueno, bé, clar, doncs, perquè, tirar endavant, vull dir	analitzada-provisional-contextual
+pa-032	9	5	4	aleshores, bueno, bé, doncs, perquè	a veure, clar, llavors, vull dir	analitzada-provisional-contextual
+pa-033	11	4	7	bé, de fet, tirar endavant, és a dir	a nivell, clar, diguem, doncs, llavors, perquè, vull dir	analitzada-provisional-contextual
+pa-034	15	5	10	a nivell, a veure, diguem, reformeta, tirar endavant	bueno, bé, clar, crec, doncs, llavors, o sigui, perquè, vull dir, és a dir	analitzada-provisional-contextual
+pa-035	9	2	7	crec, perquè	a veure, bueno, bé, clar, doncs, evidentment, és a dir	analitzada-provisional-contextual
+pa-036	10	6	4	a nivell, a veure, bé, clar, evidentment, perquè	bueno, doncs, llavors, vull dir	analitzada-provisional-contextual
+pa-037	9	4	5	diguem, llavors, perquè, vull dir	bueno, bé, clar, crec, doncs	analitzada-provisional-contextual
+pa-038	13	8	5	a nivell, bueno, bé, clar, crec, perquè, reformeta, vull dir	a veure, diguem, doncs, llavors, o sigui	analitzada-provisional-contextual
+pa-039	9	1	8	crec	bueno, bé, clar, diguem, doncs, evidentment, perquè, és a dir	analitzada-provisional-contextual
+pa-040	7	4	3	crec, de fet, evidentment, perquè	bé, doncs, o sigui	analitzada-provisional-contextual
+pa-041	13	8	5	bé, clar, crec, ensenyança, evidentment, perquè, tirar endavant, vull dir	a veure, bueno, doncs, llavors, és a dir	analitzada-provisional-contextual
+pa-042	3	1	2	perquè	clar, crec	analitzada-provisional-contextual
+pa-043	4	2	2	bueno, crec	doncs, és a dir	analitzada-provisional-contextual
+pa-044	0	0	0			quarantena-asr
+pa-045	13	5	8	a nivell, a veure, evidentment, o sigui, perquè	aleshores, bueno, bé, clar, crec, doncs, llavors, vull dir	analitzada-provisional-contextual
+pa-046	12	2	10	diguem, doncs	aleshores, bueno, bé, clar, crec, evidentment, llavors, o sigui, perquè, és a dir	analitzada-provisional-contextual
+pa-047	0	0	0			quarantena-asr
+pa-048	13	7	6	a nivell, a veure, bé, crec, doncs, o sigui, vull dir	aleshores, bueno, clar, llavors, perquè, és a dir	analitzada-provisional-contextual
+pa-049	16	4	12	a veure, crec, o sigui, perquè	a nivell, aleshores, aviam, bueno, bé, clar, diguem, doncs, evidentment, llavors, vull dir, és a dir	analitzada-provisional-contextual
+pa-050	0	0	0			quarantena-asr
+pa-051	6	3	3	clar, crec, perquè	bueno, de fet, llavors	analitzada-provisional-contextual
+pa-052	4	1	3	clar	bueno, llavors, perquè	analitzada-provisional-contextual
+pa-053	3	1	2	perquè	bé, llavors	analitzada-provisional-contextual
+pa-054	5	2	3	bueno, perquè	a veure, bé, llavors	analitzada-provisional-contextual
+pa-055	13	3	10	evidentment, perquè, reformeta	a nivell, a veure, bueno, bé, clar, doncs, llavors, o sigui, vull dir, és a dir	analitzada-provisional-automatica
+pa-056	14	8	6	a veure, bé, clar, crec, evidentment, perquè, tirar endavant, vull dir	aleshores, bueno, doncs, llavors, o sigui, és a dir	analitzada-provisional-automatica
+pa-057	13	2	11	diguem, tirar endavant	a nivell, a veure, bueno, bé, clar, de fet, doncs, llavors, o sigui, perquè, és a dir	analitzada-provisional-automatica
+pa-058	12	4	8	a nivell, diguem, perquè, vull dir	a veure, bueno, bé, clar, crec, doncs, llavors, és a dir	analitzada-provisional-automatica
+pa-059	12	6	6	a nivell, clar, perquè, tirar endavant, vull dir, és a dir	bueno, bé, doncs, evidentment, llavors, o sigui	analitzada-provisional-automatica
+pa-060	13	1	12	de fet	a nivell, a veure, aleshores, bueno, bé, crec, diguem, doncs, llavors, perquè, vull dir, és a dir	analitzada-provisional-automatica
+pa-061	12	4	8	a nivell, a veure, crec, evidentment	bueno, bé, clar, doncs, llavors, o sigui, perquè, vull dir	analitzada-provisional-automatica
+pa-062	11	5	6	bueno, crec, diguem, perquè, és a dir	bé, clar, doncs, evidentment, o sigui, vull dir	analitzada-provisional-automatica
+pa-063	12	6	6	a nivell, bé, clar, crec, llavors, o sigui	a veure, aleshores, bueno, doncs, perquè, vull dir	analitzada-provisional-automatica
+pa-064	10	5	5	a veure, bé, clar, crec, perquè	doncs, evidentment, llavors, o sigui, és a dir	analitzada-provisional-automatica
+pa-065	14	6	8	a nivell, bé, clar, doncs, o sigui, perquè	a veure, aleshores, bueno, crec, de fet, llavors, vull dir, és a dir	analitzada-provisional-automatica
+pa-066	8	5	3	a nivell, bueno, bé, crec, perquè	de fet, evidentment, llavors	analitzada-provisional-automatica

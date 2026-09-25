@@ -1,0 +1,58 @@
+forma	categoria	small	base	consens	model_localitzador	context_small	context_base	prob_min_segment_small	prob_mean_segment_small	prob_min_segment_base	prob_mean_segment_base	clip	inici_ms	final_ms	estat
+a nivell	discurs	3	3	sí	small	Per un costat ens hem transformat la nostra societat avui en viu a nivell planetari.	la nostra societat viu a nivell planetàries.					lead-rtva-011__01__a-nivell.wav	2846640	2855640	ASR textual; atribució i audició pendents
+a veure	discurs	16	6	sí	small	I a veure si d'aquí se'n surt.	A veure si hem d'anar sempre a Barcelona, per a d'Ità,					lead-rtva-011__02__a-veure.wav	1707880	1710000	ASR textual; atribució i audició pendents
+aleshores	discurs	0	0	no											ASR textual; atribució i audició pendents
+aviam	discurs	0	0	no											ASR textual; atribució i audició pendents
+bueno	discurs	3	2	sí	small	No, bueno, la Maria Aurelia.	Bueno, català vaig néixer a Catalunya, vaig néixer.					lead-rtva-011__05__bueno.wav	1592080	1594720	ASR textual; atribució i audició pendents
+bé	discurs	18	27	sí	small	Es pot escriure bé sense haver llegit molt abans?	Com es podia sense bé i estat entendre...					lead-rtva-011__06__b.wav	309640	312800	ASR textual; atribució i audició pendents
+clar	discurs	6	8	sí	small	Clar, i què llegeix la poesia?	Clar, França no acaba aquí.					lead-rtva-011__07__clar.wav	581960	585240	ASR textual; atribució i audició pendents
+de fet	discurs	10	8	sí	small	De fet, és gràcies a l'escola de la República	Però en de fet, sóc en dorrar els meus pares.					lead-rtva-011__08__de-fet.wav	112680	121200	ASR textual; atribució i audició pendents
+diguem	discurs	1	2	sí	small	I si em diu que sí, diguem quin? O quins?	i si em diu que sigui, diguem quins, o quins?					lead-rtva-011__09__diguem.wav	2586680	2589280	ASR textual; atribució i audició pendents
+doncs	discurs	18	25	sí	small	i el meu pare, que havia nascut també en aquest cas, doncs, a Espanya,	A mi la Franca el penedès, doncs alguna cosa ja.					lead-rtva-011__10__doncs.wav	160240	168720	ASR textual; atribució i audició pendents
+evidentment	discurs	1	2	sí	small	i d'editor, evidentment, també, d'anem editors.	home, alguns són molt pocadificants, evidentment, no parlo de...					lead-rtva-011__11__evidentment.wav	1954560	1958680	ASR textual; atribució i audició pendents
+llavors	discurs	4	1	sí	small	Vostè i jo anirem amb el llavors de la junta...	amb el que pari llavors.					lead-rtva-011__12__llavors.wav	711960	714400	ASR textual; atribució i audició pendents
+no?	discurs	23	26	sí	small	Per tant, no l'hem arrat molt en la definició inicial, no?	Per tant, no l'hem arrat molt en la definició inicial, no?					lead-rtva-011__13__no.wav	125880	129640	ASR textual; atribució i audició pendents
+o sigui	discurs	11	9	sí	small	O sigui, hi ha dos poetes franceses que, per mi,	o sigui, perquè nosaltres no perdessin la naturalitat, essencialment.					lead-rtva-011__14__o-sigui.wav	594640	599560	ASR textual; atribució i audició pendents
+per tant	discurs	9	9	sí	small	Per tant, no l'hem arrat molt en la definició inicial, no?	Per tant, no l'hem arrat molt en la definició inicial, no?					lead-rtva-011__15__per-tant.wav	125880	129640	ASR textual; atribució i audició pendents
+perquè	discurs	28	27	sí	small	perquè nosaltres no perdéssim la nacionalitat,	o sigui, perquè nosaltres no perdessin la naturalitat, essencialment.					lead-rtva-011__16__perqu.wav	104320	107840	ASR textual; atribució i audició pendents
+vull dir	discurs	1	0	no	small	Vull dir que s'agava el 82, que va ser el dia de les eleccions.						lead-rtva-011__17__vull-dir.wav	3443880	3448160	ASR textual; atribució i audició pendents
+és a dir	discurs	3	0	no	small	És a dir, no es té en compte.						lead-rtva-011__18__s-a-dir.wav	2652960	2655040	ASR textual; atribució i audició pendents
+Canillo	territorial	0	0	no											ASR textual; atribució i audició pendents
+Escaldes	territorial	1	0	no	small	I és un amic d'escaldes, el Joan Borguès.						lead-rtva-011__20__escaldes.wav	683600	688080	ASR textual; atribució i audició pendents
+Massana	territorial	0	0	no											ASR textual; atribució i audició pendents
+Ordino	territorial	0	0	no											ASR textual; atribució i audició pendents
+Sant Julià	territorial	0	0	no											ASR textual; atribució i audició pendents
+aiguats	territorial	0	0	no											ASR textual; atribució i audició pendents
+andorrana	territorial	1	1	sí	small	d'anar al servei militar, de renunciar a la nacionalitat andorrana,	El consell, per mi, era el centre de la Política d'Andorrana.					lead-rtva-011__25__andorrana.wav	173640	183880	ASR textual; atribució i audició pendents
+comunal	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunals	territorial	0	0	no											ASR textual; atribució i audició pendents
+comuns	territorial	0	0	no											ASR textual; atribució i audició pendents
+comú	territorial	2	1	sí	small	des de ser cònsul menor al comú d'en Cam,	des de ser console menor al comú d'encàm,					lead-rtva-011__29__com.wav	24360	27880	ASR textual; atribució i audició pendents
+copríncep	territorial	0	0	no											ASR textual; atribució i audició pendents
+coprínceps	territorial	0	0	no											ASR textual; atribució i audició pendents
+padrí	territorial	0	0	no											ASR textual; atribució i audició pendents
+parròquia	territorial	0	0	no											ASR textual; atribució i audició pendents
+santuari	territorial	0	0	no											ASR textual; atribució i audició pendents
+veguer	territorial	0	0	no											ASR textual; atribució i audició pendents
+síndic general	institucions	2	0	no	small	i síndic general dues vegades.						lead-rtva-011__36__s-ndic-general.wav	37160	40080	ASR textual; atribució i audició pendents
+conseller	institucions	3	1	sí	small	fins a ser conseller de govern abans de la Constitució del 93,	fins a ser conseller de govern abans de la Constitució del 93,					lead-rtva-011__37__conseller.wav	27960	32840	ASR textual; atribució i audició pendents
+ambaixador	institucions	0	0	no											ASR textual; atribució i audició pendents
+ambaixada	institucions	0	0	no											ASR textual; atribució i audició pendents
+ministre	institucions	3	0	no	small	després ministre d'Educació, Cultura i Joventut						lead-rtva-011__40__ministre.wav	32920	37080	ASR textual; atribució i audició pendents
+cònsol	institucions	0	0	no											ASR textual; atribució i audició pendents
+Consell General	institucions	2	2	sí	small	va ser escrit sortint d'una reunió del Consell General.	va ser escrit sortint d'un reunió del consell general.					lead-rtva-011__42__consell-general.wav	1257360	1270240	ASR textual; atribució i audició pendents
+Constitució	institucions	4	6	sí	small	fins a ser conseller de govern abans de la Constitució del 93,	fins a ser conseller de govern abans de la Constitució del 93,					lead-rtva-011__43__constituci.wav	27960	32840	ASR textual; atribució i audició pendents
+Andorra	toponim	16	0	no	small	però van decidir per aquesta raó que diu tornar cap a Andorra ben aviat.						lead-rtva-011__44__andorra.wav	134520	140960	ASR textual; atribució i audició pendents
+andorrà	gentilici	0	0	no											ASR textual; atribució i audició pendents
+andorrans	gentilici	0	0	no											ASR textual; atribució i audició pendents
+Encamp	toponim	0	0	no											ASR textual; atribució i audició pendents
+poesia	literatura	24	18	sí	small	"Com a escritor, va publicar exclusivament ""Poesia"""	És que el que hi troba vostè a la poesia que no troben la prosa.					lead-rtva-011__48__poesia.wav	40160	43160	ASR textual; atribució i audició pendents
+poeta	literatura	10	10	sí	small	poeta i escriptor que ha dedicat 30 anys de la seva vida a la política,	amb un ensenyant poeta i escritor					lead-rtva-011__49__poeta.wav	19160	24280	ASR textual; atribució i audició pendents
+novel·la	literatura	7	8	sí	small	fins al 2006, quan va aparèixer la seva primera novel·la.	quan va pareix a la seva primera novel·la.					lead-rtva-011__50__novel-la.wav	43240	47440	ASR textual; atribució i audició pendents
+Frontera endins	literatura	0	1	no	base		"Pobliquada no, que es diu ""Frontera Endins"","					lead-rtva-011__51__frontera-endins.wav	1332160	1337040	ASR textual; atribució i audició pendents
+llengua	sociolingüística	2	1	sí	small	Vostè disposava d'una plaça de professor de dibuix i de llengua franceses,	I de llengua francesa, si no t'hi malentés,					lead-rtva-011__52__llengua.wav	445480	450960	ASR textual; atribució i audició pendents
+català	sociolingüística	9	13	sí	small	que vostè és un català d'acord en torrar i de pensament francès?	que vostè és un català d'acord on torrar					lead-rtva-011__53__catal.wav	74240	79800	ASR textual; atribució i audició pendents
+francès	contacte	13	5	sí	small	que vostè és un català d'acord en torrar i de pensament francès?	i de pensament francès.					lead-rtva-011__54__franc-s.wav	74240	79800	ASR textual; atribució i audició pendents
+castellà	contacte	7	4	sí	small	és el primer autor que vaig llegir amb castellà,	és el primer auto que vaig llegir amb Castellà.					lead-rtva-011__55__castell.wav	609400	613200	ASR textual; atribució i audició pendents
+Pirineus	territori	0	0	no											ASR textual; atribució i audició pendents
+principat	territori	1	0	no	small	del principat i d'àmbit piridenc.						lead-rtva-011__57__principat.wav	58840	61040	ASR textual; atribució i audició pendents

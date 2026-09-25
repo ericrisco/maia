@@ -1,0 +1,3 @@
+forma	segment	inici_forma_s	final_forma_s	clip	inici_clip_s	final_clip_s	small	base	prioritat	estat
+perquè	12	48.400	54.800	clips/pere-lopez__perqu__48.40.wav	47.400	55.800	1	1	A-consens-ASR	pendent d'audició
+andorrana	9	32.800	38.400	clips/pere-lopez__andorrana__32.80.wav	31.800	39.400	1	0	B-un-model-ASR	pendent d'audició

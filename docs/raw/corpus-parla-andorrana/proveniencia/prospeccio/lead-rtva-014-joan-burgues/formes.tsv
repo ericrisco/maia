@@ -1,0 +1,56 @@
+forma	categoria	small	base	consens	model_localitzador	context_small	context_base	prob_min_segment_small	prob_mean_segment_small	prob_min_segment_base	prob_mean_segment_base	clip	inici_ms	final_ms	estat
+a nivell	discurs	0	0	no											ASR textual; atribució i audició pendents
+a veure	discurs	1	2	sí	small	i els esperem la setmana vinent per a veure.	Però a veure, a d'hora, volem dir...					lead-rtva-014__02__a-veure.wav	3142800	3145280	ASR textual; atribució i audició pendents
+aleshores	discurs	3	2	sí	small	i es van normalitzant, i aleshores es va quedar a casa,	I mira la cara, i aleshores veuré, si en aquella persona,					lead-rtva-014__03__aleshores.wav	313240	316880	ASR textual; atribució i audició pendents
+aviam	discurs	0	0	no											ASR textual; atribució i audició pendents
+bueno	discurs	12	11	sí	small	Bueno, com a vostè m'ha preguntat una imatge amb el més que 1.000 paraules.	-Bueno, com a...					lead-rtva-014__05__bueno.wav	329800	335400	ASR textual; atribució i audició pendents
+bé	discurs	21	27	sí	small	va bé d'estudiar fora, on va anar a aprendre la fotografia?	has de saber que encuadran molt bé la fotografia,					lead-rtva-014__06__b.wav	368760	373680	ASR textual; atribució i audició pendents
+clar	discurs	4	4	sí	small	Clar, si no seria un monòleg, i això serà una conversa.	Clar, si no seria un monòleg, i això serà una conversa.					lead-rtva-014__07__clar.wav	158520	161480	ASR textual; atribució i audició pendents
+de fet	discurs	2	3	sí	small	Vostè, de fet, de ben petit, ja es va interessar per la fotografia.	-Vostè, de fet, de ben petit, ja es va interessar per la fotografia.					lead-rtva-014__08__de-fet.wav	322560	326280	ASR textual; atribució i audició pendents
+diguem	discurs	2	1	sí	small	M'he trobat, com diguem, els endorrans aquí, no?	Amb un andorra s'estral, diguem-ne.					lead-rtva-014__09__diguem.wav	143960	147600	ASR textual; atribució i audició pendents
+doncs	discurs	4	3	sí	small	Doncs jo vaig explicar això.	I va... Per què va pensar amb vostè, doncs?					lead-rtva-014__10__doncs.wav	335400	337040	ASR textual; atribució i audició pendents
+evidentment	discurs	0	0	no											ASR textual; atribució i audició pendents
+llavors	discurs	1	3	sí	small	I què es venia, llavors?	Escolti, i què es venia? Llavors, estem parlant dels anys...					lead-rtva-014__12__llavors.wav	613840	615840	ASR textual; atribució i audició pendents
+no?	discurs	30	36	sí	small	M'he trobat, com diguem, els endorrans aquí, no?	Ben trobat, com diem, els endorrants aquí, no?					lead-rtva-014__13__no.wav	143960	147600	ASR textual; atribució i audició pendents
+o sigui	discurs	0	1	no	base		Tu coneixer la família bilodomàtica, o sigui?					lead-rtva-014__14__o-sigui.wav	2374160	2376720	ASR textual; atribució i audició pendents
+per tant	discurs	5	9	sí	small	Per tant, no el valoraven molt.	Per tant, escolta, és veritat que una imatge val més que a mi el paraules					lead-rtva-014__15__per-tant.wav	1297200	1298640	ASR textual; atribució i audició pendents
+perquè	discurs	46	52	sí	small	A vegades s'embollen els ulls perquè hi ha persones	jo sempre he considerat que sí, perquè l'imatge és el recor.					lead-rtva-014__16__perqu.wav	197800	200840	ASR textual; atribució i audició pendents
+vull dir	discurs	8	8	sí	small	vull dir, molt diferent a l'endorra d'ara,	vull dir molt diferent a l'andorra d'ara					lead-rtva-014__17__vull-dir.wav	295160	297600	ASR textual; atribució i audició pendents
+és a dir	discurs	12	3	sí	small	És a dir, el material és diferent, molt gaire.	És a dir, abans es fa una fotografia més artesanal,					lead-rtva-014__18__s-a-dir.wav	355600	359760	ASR textual; atribució i audició pendents
+Canillo	territorial	0	0	no											ASR textual; atribució i audició pendents
+Escaldes	territorial	2	0	no	small	"""Fill d'escaldes d'en Gordanya"" és vicepresident de la FIAP,"						lead-rtva-014__20__escaldes.wav	111040	114920	ASR textual; atribució i audició pendents
+Massana	territorial	0	0	no											ASR textual; atribució i audició pendents
+Ordino	territorial	0	0	no											ASR textual; atribució i audició pendents
+Sant Julià	territorial	0	0	no											ASR textual; atribució i audició pendents
+aiguats	territorial	0	0	no											ASR textual; atribució i audició pendents
+andorrana	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunal	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunals	territorial	0	0	no											ASR textual; atribució i audició pendents
+comuns	territorial	0	0	no											ASR textual; atribució i audició pendents
+comú	territorial	0	0	no											ASR textual; atribució i audició pendents
+copríncep	territorial	0	0	no											ASR textual; atribució i audició pendents
+coprínceps	territorial	0	0	no											ASR textual; atribució i audició pendents
+padrí	territorial	0	0	no											ASR textual; atribució i audició pendents
+parròquia	territorial	0	0	no											ASR textual; atribució i audició pendents
+santuari	territorial	0	0	no											ASR textual; atribució i audició pendents
+veguer	territorial	0	0	no											ASR textual; atribució i audició pendents
+fotografia	cultura	36	39	sí	small	Acompaginar la fotografia amb el cinema a llarra de la seva vida	Acompagina la fotografia amb el cinema,					lead-rtva-014__36__fotografia.wav	100720	104680	ASR textual; atribució i audició pendents
+fotògraf	cultura	9	3	sí	small	Per ser fotògraf, perquè vostè fos fotògraf professional,	que vulgui ser fotògraf.					lead-rtva-014__37__fot-graf.wav	363680	368680	ASR textual; atribució i audició pendents
+cineasta	cultura	3	2	sí	small	però també hi ha un burgues cineasta,	però jo també hi ha un Borges cineasta.					lead-rtva-014__38__cineasta.wav	1742960	1746240	ASR textual; atribució i audició pendents
+cinema	cultura	13	11	sí	small	Acompaginar la fotografia amb el cinema a llarra de la seva vida	Acompagina la fotografia amb el cinema,					lead-rtva-014__39__cinema.wav	100720	104680	ASR textual; atribució i audició pendents
+arts	cultura	0	0	no											ASR textual; atribució i audició pendents
+lletres	cultura	2	4	sí	small	del Cerc de les Ars i de les Lletres,	també fundador i president del cercle, de les ares i de les lletres,					lead-rtva-014__41__lletres.wav	132880	135480	ASR textual; atribució i audició pendents
+cultura	cultura	3	3	sí	small	amb un home apassionat per la imatge i també per la cultura.	amb un home passionat per la imatge i també per la cultura.					lead-rtva-014__42__cultura.wav	96880	100640	ASR textual; atribució i audició pendents
+Cercle de les Arts	institucions	0	0	no											ASR textual; atribució i audició pendents
+Andorra	toponim	22	12	sí	small	"Avui farem ""Memòria d'un País"", ""Memòria d'Andorra"","	algunes de les personalitats més notables del principi d'Andorra.					lead-rtva-014__44__andorra.wav	94120	96800	ASR textual; atribució i audició pendents
+andorrà	gentilici	0	0	no											ASR textual; atribució i audició pendents
+andorrans	gentilici	0	0	no											ASR textual; atribució i audició pendents
+Encamp	toponim	0	0	no											ASR textual; atribució i audició pendents
+muntanya	territori	0	0	no											ASR textual; atribució i audició pendents
+Pirineus	territori	0	0	no											ASR textual; atribució i audició pendents
+català	sociolingüística	10	11	sí	small	La llengua oficial té entorns al català?	el vicepresident era un català, l'enrich Pàmies.					lead-rtva-014__50__catal.wav	2568080	2570720	ASR textual; atribució i audició pendents
+francès	contacte	3	1	sí	small	Hi havia un fotòrefo cineasta que francès,	Hi havia un fotòrafo cineasta, que, francès, que treballava amb ell,					lead-rtva-014__51__franc-s.wav	1820160	1823680	ASR textual; atribució i audició pendents
+castellà	contacte	1	1	sí	small	l'oficial, el català i el castellà.	una noia i jo veiem parlar de Castellà.					lead-rtva-014__52__castell.wav	2576640	2578760	ASR textual; atribució i audició pendents
+exposició	cultura	3	2	sí	small	On hi va fer aquesta exposició, també?	On hi va fer aquesta exposició, també.					lead-rtva-014__53__exposici.wav	1862760	1865440	ASR textual; atribució i audició pendents
+patrimoni	cultura	0	0	no											ASR textual; atribució i audició pendents
+tradició	cultura	0	0	no											ASR textual; atribució i audició pendents

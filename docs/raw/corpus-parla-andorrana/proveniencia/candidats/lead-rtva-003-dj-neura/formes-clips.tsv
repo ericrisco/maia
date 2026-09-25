@@ -1,0 +1,11 @@
+forma	segment	inici_forma_s	final_forma_s	clip	inici_clip_s	final_clip_s	small	base	prioritat	estat
+a veure	5	33.000	39.000	clips/dj-neura__a-veure__33.00.wav	32.000	40.000	1	2	A-consens-ASR	pendent d'audició
+aleshores	8	50.000	53.520	clips/dj-neura__aleshores__50.00.wav	49.000	54.520	4	3	A-consens-ASR	pendent d'audició
+bueno	6	39.000	44.000	clips/dj-neura__bueno__39.00.wav	38.000	45.000	4	4	A-consens-ASR	pendent d'audició
+bé	7	44.000	50.000	clips/dj-neura__b__44.00.wav	43.000	51.000	7	7	A-consens-ASR	pendent d'audició
+clar	8	50.000	53.520	clips/dj-neura__clar__50.00.wav	49.000	54.520	3	3	A-consens-ASR	pendent d'audició
+doncs	7	44.000	50.000	clips/dj-neura__doncs__44.00.wav	43.000	51.000	15	13	A-consens-ASR	pendent d'audició
+no?	7	44.000	50.000	clips/dj-neura__no__44.00.wav	43.000	51.000	3	4	A-consens-ASR	pendent d'audició
+perquè	88	416.760	421.440	clips/dj-neura__perqu__416.76.wav	415.760	422.440	2	2	A-consens-ASR	pendent d'audició
+de fet	5	33.000	39.000	clips/dj-neura__de-fet__33.00.wav	32.000	40.000	1	0	B-un-model-ASR	pendent d'audició
+o sigui	85	394.080	402.880	clips/dj-neura__o-sigui__394.08.wav	393.080	403.880	1	0	B-un-model-ASR	pendent d'audició

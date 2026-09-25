@@ -1,0 +1,101 @@
+id_persona	forma	clip	n_matches	token_match
+pa-001	evidentment	clips/pa-001__evidentment__1067.69.wav	1	sí
+pa-002	reformeta	clips/pa-002__reformeta__12.25.wav	0	no
+pa-002	evidentment	clips/pa-002__evidentment__205.25.wav	1	sí
+pa-003	ensenyança	clips/pa-003__ensenyan-a__279.69.wav	0	no
+pa-003	tirar endavant	clips/pa-003__tirar-endavant__361.93.wav	1	sí
+pa-004	evidentment	clips/pa-004__evidentment__522.93.wav	1	sí
+pa-005	o sigui	clips/pa-005__o-sigui__373.33.wav	0	no
+pa-006	de fet	clips/pa-006__de-fet__285.25.wav	1	sí
+pa-006	aleshores	clips/pa-006__aleshores__513.25.wav	1	sí
+pa-007	a veure	clips/pa-007__a-veure__89.25.wav	1	sí
+pa-007	diguem	clips/pa-007__diguem__585.25.wav	1	sí
+pa-008	a veure	clips/pa-008__a-veure__668.25.wav	1	sí
+pa-008	aleshores	clips/pa-008__aleshores__1315.25.wav	1	sí
+pa-009	bé	clips/pa-009__b__557.25.wav	1	sí
+pa-009	evidentment	clips/pa-009__evidentment__947.25.wav	1	sí
+pa-010	clar	clips/pa-010__clar__334.85.wav	1	sí
+pa-011	bé	clips/pa-011__b__185.57.wav	1	sí
+pa-012	perquè	clips/pa-012__perqu__369.25.wav	0	no
+pa-013	bé	clips/pa-013__b__196.65.wav	0	no
+pa-013	és a dir	clips/pa-013__s-a-dir__579.17.wav	0	no
+pa-014	o sigui	clips/pa-014__o-sigui__658.45.wav	1	sí
+pa-014	aviam	clips/pa-014__aviam__875.45.wav	0	no
+pa-015	doncs	clips/pa-015__doncs__83.25.wav	1	sí
+pa-015	llavors	clips/pa-015__llavors__197.25.wav	0	no
+pa-016	bé	clips/pa-016__b__170.05.wav	0	no
+pa-016	clar	clips/pa-016__clar__175.69.wav	1	sí
+pa-017	clar	clips/pa-017__clar__34.45.wav	1	sí
+pa-017	doncs	clips/pa-017__doncs__459.25.wav	1	sí
+pa-018	crec	clips/pa-018__crec__7.49.wav	1	sí
+pa-018	perquè	clips/pa-018__perqu__91.09.wav	1	sí
+pa-019	a nivell	clips/pa-019__a-nivell__122.25.wav	1	sí
+pa-019	llavors	clips/pa-019__llavors__422.25.wav	0	no
+pa-020	aviam	clips/pa-020__aviam__252.21.wav	1	sí
+pa-021	crec	clips/pa-021__crec__115.53.wav	1	sí
+pa-021	vull dir	clips/pa-021__vull-dir__314.29.wav	1	sí
+pa-022	clar	clips/pa-022__clar__107.73.wav	1	sí
+pa-022	reformeta	clips/pa-022__reformeta__125.53.wav	1	sí
+pa-023	a nivell	clips/pa-023__a-nivell__418.57.wav	0	no
+pa-024	crec	clips/pa-024__crec__368.01.wav	1	sí
+pa-025	aleshores	clips/pa-025__aleshores__361.93.wav	0	no
+pa-025	diguem	clips/pa-025__diguem__500.89.wav	1	sí
+pa-026	reformeta	clips/pa-026__reformeta__138.61.wav	1	sí
+pa-027	és a dir	clips/pa-027__s-a-dir__185.61.wav	1	sí
+pa-028	doncs	clips/pa-028__doncs__329.33.wav	1	sí
+pa-029	tirar endavant	clips/pa-029__tirar-endavant__56.73.wav	1	sí
+pa-029	a nivell	clips/pa-029__a-nivell__417.09.wav	0	no
+pa-030	tirar endavant	clips/pa-030__tirar-endavant__185.61.wav	1	sí
+pa-030	vull dir	clips/pa-030__vull-dir__842.69.wav	1	sí
+pa-031	de fet	clips/pa-031__de-fet__9.93.wav	1	sí
+pa-031	tirar endavant	clips/pa-031__tirar-endavant__146.09.wav	0	no
+pa-032	bueno	clips/pa-032__bueno__44.73.wav	1	sí
+pa-032	aleshores	clips/pa-032__aleshores__79.09.wav	1	sí
+pa-033	diguem	clips/pa-033__diguem__49.01.wav	0	no
+pa-033	de fet	clips/pa-033__de-fet__249.69.wav	1	sí
+pa-034	a veure	clips/pa-034__a-veure__94.05.wav	1	sí
+pa-034	diguem	clips/pa-034__diguem__504.45.wav	1	sí
+pa-035	doncs	clips/pa-035__doncs__195.49.wav	0	no
+pa-036	evidentment	clips/pa-036__evidentment__202.85.wav	1	sí
+pa-036	a nivell	clips/pa-036__a-nivell__386.45.wav	1	sí
+pa-037	bueno	clips/pa-037__bueno__105.29.wav	0	no
+pa-037	bé	clips/pa-037__b__105.29.wav	0	no
+pa-038	vull dir	clips/pa-038__vull-dir__1576.57.wav	1	sí
+pa-038	reformeta	clips/pa-038__reformeta__1821.69.wav	1	sí
+pa-039	bé	clips/pa-039__b__27.77.wav	0	no
+pa-040	de fet	clips/pa-040__de-fet__70.17.wav	1	sí
+pa-041	vull dir	clips/pa-041__vull-dir__264.25.wav	1	sí
+pa-041	ensenyança	clips/pa-041__ensenyan-a__523.25.wav	1	sí
+pa-042	perquè	clips/pa-042__perqu__29.13.wav	1	sí
+pa-043	crec	clips/pa-043__crec__102.25.wav	1	sí
+pa-045	evidentment	clips/pa-045__evidentment__290.13.wav	1	sí
+pa-045	clar	clips/pa-045__clar__399.85.wav	0	no
+pa-046	és a dir	clips/pa-046__s-a-dir__135.61.wav	0	no
+pa-046	diguem	clips/pa-046__diguem__626.01.wav	1	sí
+pa-048	crec	clips/pa-048__crec__110.97.wav	1	sí
+pa-048	a nivell	clips/pa-048__a-nivell__435.77.wav	1	sí
+pa-049	llavors	clips/pa-049__llavors__230.45.wav	0	no
+pa-049	a veure	clips/pa-049__a-veure__244.85.wav	1	sí
+pa-051	crec	clips/pa-051__crec__208.57.wav	1	sí
+pa-052	bueno	clips/pa-052__bueno__41.97.wav	0	no
+pa-053	perquè	clips/pa-053__perqu__113.93.wav	1	sí
+pa-054	bueno	clips/pa-054__bueno__51.69.wav	1	sí
+pa-055	reformeta	clips/pa-055__reformeta__139.05.wav	1	sí
+pa-056	aleshores	clips/pa-056__aleshores__393.13.wav	0	no
+pa-056	vull dir	clips/pa-056__vull-dir__842.65.wav	1	sí
+pa-057	tirar endavant	clips/pa-057__tirar-endavant__56.61.wav	1	sí
+pa-058	és a dir	clips/pa-058__s-a-dir__74.41.wav	0	no
+pa-058	perquè	clips/pa-058__perqu__91.09.wav	1	sí
+pa-059	clar	clips/pa-059__clar__36.61.wav	1	sí
+pa-060	de fet	clips/pa-060__de-fet__72.57.wav	1	sí
+pa-061	o sigui	clips/pa-061__o-sigui__161.05.wav	0	no
+pa-061	llavors	clips/pa-061__llavors__380.77.wav	0	no
+pa-062	és a dir	clips/pa-062__s-a-dir__973.65.wav	1	sí
+pa-063	crec	clips/pa-063__crec__758.81.wav	1	sí
+pa-063	o sigui	clips/pa-063__o-sigui__826.09.wav	1	sí
+pa-064	o sigui	clips/pa-064__o-sigui__36.73.wav	0	no
+pa-064	a veure	clips/pa-064__a-veure__587.61.wav	0	no
+pa-065	bé	clips/pa-065__b__138.57.wav	1	sí
+pa-065	doncs	clips/pa-065__doncs__157.49.wav	1	sí
+pa-066	llavors	clips/pa-066__llavors__16.21.wav	0	no
+pa-066	bueno	clips/pa-066__bueno__357.23.wav	1	sí

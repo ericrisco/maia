@@ -1,0 +1,71 @@
+forma	categoria	small	base	consens	model_localitzador	context_small	context_base	prob_min_segment_small	prob_mean_segment_small	prob_min_segment_base	prob_mean_segment_base	clip	inici_ms	final_ms	estat
+a nivell	discurs	9	13	sí	small	Aleshores, a nivell de sector, és a dir, sectors i geografia.	i per sectors temàtics. O és a nivell de sector...	0.1285	0.7932	0.4309	0.9397	lead-yt-035__01__a-nivell.wav	410320	415840	ASR textual; atribució i audició pendents
+a veure	discurs	1	0	no	small	hi ha unes torres que t'impedeixen a veure la muntanya,		0.5966	0.9196			lead-yt-035__02__a-veure.wav	859920	863880	ASR textual; atribució i audició pendents
+aleshores	discurs	21	6	sí	small	Aleshores, com a trajectòria, completament imprevista.	Aleshores, en vaig integrar el comú d'escol desengordant,	0.1892	0.7649	0.1262	0.5810	lead-yt-035__03__aleshores.wav	366640	370480	ASR textual; atribució i audició pendents
+aviam	discurs	0	0	no											ASR textual; atribució i audició pendents
+bueno	discurs	2	1	sí	small	Bueno, sortim de la Unió Europea, però ens mantenim amb el mercat comú i la gent d'allà.	que ja havia... Bueno, sortim de Unió Europea però ens mantenim amb el mercat comú i la gent de Llagón.	0.3523	0.8341	0.0970	0.6544	lead-yt-035__05__bueno.wav	2425360	2428320	ASR textual; atribució i audició pendents
+bé	discurs	7	12	sí	small	I bé, m'agradaria començar a parlar una mica de tu	I bé, m'agradaria començar...	0.4926	0.9500	0.4310	0.8652	lead-yt-035__06__b.wav	89560	93600	ASR textual; atribució i audició pendents
+clar	discurs	3	0	no	small	No teníem exacte tot clar com devíem de constituir,		0.3782	0.7380			lead-yt-035__07__clar.wav	935120	937600	ASR textual; atribució i audició pendents
+de fet	discurs	4	3	sí	small	Això és superinteressant i com ve apuntaves, de fet, la meva pròpia pregunta anava això, no?	No, és interessant això que puntes, perquè de fet, agafant-li també una perspectiva més global,	0.3815	0.7865	0.1602	0.7543	lead-yt-035__08__de-fet.wav	684560	690360	ASR textual; atribució i audició pendents
+diguem	discurs	0	0	no											ASR textual; atribució i audició pendents
+doncs	discurs	23	48	sí	small	Doncs gràcies per tenir-me amb tu, Miquel,	és un país així, doncs, relativament, de minjar en petit,	0.2804	0.8369	0.3050	0.6652	lead-yt-035__10__doncs.wav	115960	118880	ASR textual; atribució i audició pendents
+evidentment	discurs	4	5	sí	small	que evidentment aquests tenen més competències.	Però evidentment, aquestes noves estan fetes en decisions polítiques.	0.5030	0.9585	0.2858	0.7644	lead-yt-035__11__evidentment.wav	1564200	1570200	ASR textual; atribució i audició pendents
+llavors	discurs	7	6	sí	small	Llavors, Cerny, en la teva opinió, quins creus que són els reptes que t'endorra actualment amb la seva relació amb el món, amb Europa, per exemple?	Llavors, Serney, en la deu opinió,	0.2134	0.8784	0.1309	0.7055	lead-yt-035__12__llavors.wav	1453840	1461400	ASR textual; atribució i audició pendents
+no?	discurs	5	9	sí	small	fins a cert punt, no?, en altres països,	i em quedaria això, és a dir, el meu sentit de risc és molt diferent, no?	0.3169	0.8294	0.0954	0.7318	lead-yt-035__13__no.wav	111040	113160	ASR textual; atribució i audició pendents
+o sigui	discurs	0	0	no											ASR textual; atribució i audició pendents
+per tant	discurs	23	19	sí	small	Per tant, és una persona força indicada per poder explicar-nos	Per tant, és una persona força indicada per poder explicar-nos	0.7885	0.9590	0.5628	0.8880	lead-yt-035__15__per-tant.wav	50080	54480	ASR textual; atribució i audició pendents
+perquè	discurs	33	39	sí	small	perquè fins i tot quan estava vivint als Estats Units	Perquè fins i tot quan està de dir dins dels llocs,	0.4726	0.9037	0.0367	0.5939	lead-yt-035__16__perqu.wav	133400	136360	ASR textual; atribució i audició pendents
+vull dir	discurs	1	0	no	small	Ara que visc a New York i tu també vas viure una temporada, vull dir, a l'estiu pot ser duríssim,		0.3252	0.8150			lead-yt-035__17__vull-dir.wav	1401040	1406040	ASR textual; atribució i audició pendents
+és a dir	discurs	10	12	sí	small	Aleshores, a nivell de sector, és a dir, sectors i geografia.	i em quedaria això, és a dir, el meu sentit de risc és molt diferent, no?	0.1285	0.7932	0.0954	0.7318	lead-yt-035__18__s-a-dir.wav	410320	415840	ASR textual; atribució i audició pendents
+Canillo	territorial	0	0	no											ASR textual; atribució i audició pendents
+Escaldes	territorial	1	0	no	small	Quan vaig tornar a Andorra va ser per interar-me al Comú Escaldes.		0.2483	0.7763			lead-yt-035__20__escaldes.wav	746040	753200	ASR textual; atribució i audició pendents
+Massana	territorial	0	0	no											ASR textual; atribució i audició pendents
+Ordino	territorial	0	0	no											ASR textual; atribució i audició pendents
+Sant Julià	territorial	0	0	no											ASR textual; atribució i audició pendents
+aiguats	territorial	0	0	no											ASR textual; atribució i audició pendents
+andorrana	territorial	3	0	no	small	com s'ha vist la qüestió de la independència de Catalunya des de la societat d'Andorrana?		0.3778	0.9131			lead-yt-035__25__andorrana.wav	2779320	2783120	ASR textual; atribució i audició pendents
+comunal	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunals	territorial	1	1	sí	small	Venen eleccions comunals, que són aquestes eleccions locals,	venen eleccions comunals,	0.5312	0.8469	0.3593	0.8516	lead-yt-035__27__comunals.wav	959040	963720	ASR textual; atribució i audició pendents
+comuns	territorial	0	1	no	base		I les competències dels comuns,			0.7253	0.9177	lead-yt-035__28__comuns.wav	754120	756600	ASR textual; atribució i audició pendents
+comú	territorial	7	9	sí	small	Doncs mira, és molt comú que la gent confongui en d'Orra amb ondures	Doncs mira, és molt comú que la gent confolgui en d'orra,	0.1177	0.7319	0.1771	0.6469	lead-yt-035__29__com.wav	187400	191600	ASR textual; atribució i audició pendents
+copríncep	territorial	2	0	no	small	Un d'ells és el copríncep fiscopal, és un bisbe,		0.1600	0.7690			lead-yt-035__30__copr-ncep.wav	2584840	2587840	ASR textual; atribució i audició pendents
+coprínceps	territorial	0	0	no											ASR textual; atribució i audició pendents
+padrí	territorial	0	0	no											ASR textual; atribució i audició pendents
+parròquia	territorial	0	1	no	base		que és el segona parròquia més gran en nombre d'habitants,			0.3552	0.8306	lead-yt-035__33__parr-quia.wav	771480	775960	ASR textual; atribució i audició pendents
+santuari	territorial	0	0	no											ASR textual; atribució i audició pendents
+veguer	territorial	0	0	no											ASR textual; atribució i audició pendents
+Cerni Escalé	persones	0	0	no											ASR textual; atribució i audició pendents
+Concòrdia	política	1	0	no	small	Quina és el punt diferencial de concòrdia que tu diries amb els altres partits?		0.2225	0.8604			lead-yt-035__37__conc-rdia.wav	979720	984040	ASR textual; atribució i audició pendents
+eleccions	institucions	16	15	sí	small	El propè 2 d'abril, Andorra celebra eleccions al seu consell general.	El propé dos d'abril, andorra, celebra eleccions, el seu consell general.	0.2784	0.8280	0.1181	0.7203	lead-yt-035__38__eleccions.wav	0	4480	ASR textual; atribució i audició pendents
+Consell General	institucions	2	3	sí	small	El propè 2 d'abril, Andorra celebra eleccions al seu consell general.	El propé dos d'abril, andorra, celebra eleccions, el seu consell general.	0.2784	0.8280	0.1181	0.7203	lead-yt-035__39__consell-general.wav	0	4480	ASR textual; atribució i audició pendents
+política	política	25	24	sí	small	I potser per això estic fent política,	I potser per això és t'exempo política, és t'exempo política	0.3404	0.8272	0.0548	0.6899	lead-yt-035__40__pol-tica.wav	650360	652680	ASR textual; atribució i audició pendents
+Banc Mundial	institucions	6	1	sí	small	I després, l'expenso del banc mundial és completament a part.	Perquè faltaven treballadors del banc mundial allà.	0.1891	0.6997	0.2726	0.5823	lead-yt-035__41__banc-mundial.wav	381360	385240	ASR textual; atribució i audició pendents
+Nacions Unides	institucions	5	4	sí	small	com les Nacions Unides o el Ban Moltial.	com les nacions unides o el va molt dient.	0.0884	0.7625	0.2198	0.6603	lead-yt-035__42__nacions-unides.wav	47880	50080	ASR textual; atribució i audició pendents
+Sierra Leone	toponim	5	2	sí	small	a Àfrica per treballar en la crisi de l'Évola, a Sierra Leone,	A África, per treballar en la crisi de l'Evola, a Sierra Leone.	0.2693	0.8165	0.1338	0.6693	lead-yt-035__43__sierra-leone.wav	437800	442200	ASR textual; atribució i audició pendents
+Unió Europea	institucions	18	8	sí	small	És negociar amb l'Unió Europea un encaix que sigui favorable	i han d'hora tingut una multiplicitat de tractes amb la Unió Europea.	0.0924	0.6909	0.1858	0.6356	lead-yt-035__44__uni-europea.wav	1524560	1528240	ASR textual; atribució i audició pendents
+acord d’associació	institucions	0	0	no											ASR textual; atribució i audició pendents
+Catalunya	toponim	19	17	sí	small	Tant mateix, des de Catalunya, sovint, la realitat d'Andorra és força desconeguda quan no directament malentesa.	I és un d'aquest que t'interrompem de Catalunya.	0.3986	0.8958	0.2205	0.5885	lead-yt-035__46__catalunya.wav	14880	22240	ASR textual; atribució i audició pendents
+França	toponim	11	13	sí	small	que en Dorrater, a Espanya, en França o amb altres estats,	Així, com a Espanya o a França,	0.1276	0.6527	0.2120	0.7506	lead-yt-035__47__fran-a.wav	1585200	1588720	ASR textual; atribució i audició pendents
+Espanya	toponim	15	15	sí	small	que en Dorrater, a Espanya, en França o amb altres estats,	Així, com a Espanya o a França,	0.1276	0.6527	0.2120	0.7506	lead-yt-035__48__espanya.wav	1585200	1588720	ASR textual; atribució i audició pendents
+llengua catalana	sociolingüística	5	4	sí	small	Al final, l'endorra és l'únic estat independent del món que té la llengua catalana com a única llengua oficial.	que té la llengua catalana com a única llengua oficial.	0.3021	0.8925	0.6149	0.8955	lead-yt-035__49__llengua-catalana.wav	8480	14880	ASR textual; atribució i audició pendents
+català	sociolingüística	17	15	sí	small	per a l'ús social del català,	és una perspectiva lingüística per un social pel català,	0.2003	0.7247	0.1895	0.7637	lead-yt-035__50__catal.wav	2512000	2514000	ASR textual; atribució i audició pendents
+andorrà	gentilici	0	0	no											ASR textual; atribució i audició pendents
+immobiliari	economia	3	2	sí	small	Això ha provocat una instal·lació de preus molt grans en l'immobiliari,	I això el que provoca té una inflació de preus molt grans en l'immobiliari,	0.1068	0.8467	0.1354	0.6576	lead-yt-035__52__immobiliari.wav	1063000	1067600	ASR textual; atribució i audició pendents
+creixement	economia	1	0	no	small	Però en tot cas, sí que hi ha límits evidents al creixement en d'orra.		0.4025	0.9671			lead-yt-035__53__creixement.wav	2301280	2306320	ASR textual; atribució i audició pendents
+muntanya	territori	4	3	sí	small	però hem de ser l'únic país del món en què en una vall de muntanya,	en el qual, en una ball de muntanya, que és una ball estreta,	0.2808	0.8331	0.2021	0.7523	lead-yt-035__54__muntanya.wav	852640	855760	ASR textual; atribució i audició pendents
+orri	cultura	1	0	no	small	I hi havia un experiment d'un orri fa uns anys		0.2394	0.8315			lead-yt-035__55__orri.wav	2278960	2283760	ASR textual; atribució i audició pendents
+formatges	cultura	4	3	sí	small	els orris que ens feien els formatges abans,	Els hores no ens feien els formatges abans,	0.3129	0.8688	0.5250	0.8315	lead-yt-035__56__formatges.wav	2269200	2272480	ASR textual; atribució i audició pendents
+turistes	societat	1	1	sí	small	i donar aquests productes als turistes.	I donar, donar-nos aquests pultes els turistes.	0.8981	0.9639	0.0292	0.6426	lead-yt-035__57__turistes.wav	2286960	2290880	ASR textual; atribució i audició pendents
+comunitat	societat	4	5	sí	small	parlar més de model de comunitat,	Per tant, parlàmés de model social, parlàmés de model de comunitat,	0.4192	0.8636	0.2640	0.6926	lead-yt-035__58__comunitat.wav	1142040	1144920	ASR textual; atribució i audició pendents
+habitatge	societat	1	0	no	small	Para, para els peus de la habitatge, del tot lícid.		0.0458	0.6184			lead-yt-035__59__habitatge.wav	2193680	2197200	ASR textual; atribució i audició pendents
+joventut	societat	0	0	no											ASR textual; atribució i audició pendents
+sostenibilitat	economia	0	0	no											ASR textual; atribució i audició pendents
+territori	territori	2	2	sí	small	Hem estat esgotant molt els recursos del territori, s'ha construït molt i s'ha construït un no s'hauria d'haver construït,	com a órgans de govern, del territori,	0.2904	0.8990	0.3861	0.8097	lead-yt-035__62__territori.wav	1017720	1026720	ASR textual; atribució i audició pendents
+aigua	territori	1	1	sí	small	per exemple, l'ús de l'aigua,	Prova que aquest esgotin els recursos, per exemple, los de l'aigua,	0.4277	0.8967	0.0576	0.6440	lead-yt-035__63__aigua.wav	1171000	1174040	ASR textual; atribució i audició pendents
+comarques	territori	0	0	no											ASR textual; atribució i audició pendents
+integració	societat	0	0	no											ASR textual; atribució i audició pendents
+referèndum	institucions	1	1	sí	small	El govern ha promès un referèndum al final de tot.	un referèndum al final de tot d'aquest process.	0.9749	0.9962	0.6515	0.8683	lead-yt-035__66__refer-ndum.wav	1510680	1515640	ASR textual; atribució i audició pendents
+fronteres	territori	3	3	sí	small	amb on sense fronteres, etc.	"""Hapi"", el que tothom, doncs, és por de l'amèdica, la idea no, amb molts sense fronteres,"	0.0821	0.6318	0.0300	0.5690	lead-yt-035__67__fronteres.wav	1660720	1662720	ASR textual; atribució i audició pendents
+educació	societat	0	0	no											ASR textual; atribució i audició pendents
+serveis	institucions	1	1	sí	small	Per facilitar els serveis d'endorràs en aquests països,	per facilitar els serveis de les empreses d'endorres en aquests espaisos,	0.0489	0.7220	0.1290	0.7533	lead-yt-035__69__serveis.wav	1613880	1617600	ASR textual; atribució i audició pendents
+llengües	sociolingüística	1	0	no	small	per exemple, és en els instituts d'aprenentatge de llengües extrengeres,		0.3680	0.7766			lead-yt-035__70__lleng-es.wav	3020760	3025680	ASR textual; atribució i audició pendents

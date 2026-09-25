@@ -1,0 +1,997 @@
+id_a	id_b	n_formes_compartides	formes	estat
+spk-001	spk-003	5	aleshores,bé,clar,de fet,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-001	spk-004	3	aleshores,bé,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-001	spk-005	5	bé,clar,diguem,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-001	spk-006	5	aleshores,bé,clar,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-001	spk-007	6	aleshores,bé,clar,diguem,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-001	spk-008	3	de fet,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-001	spk-009	5	bé,clar,de fet,diguem,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-001	spk-010	3	bé,doncs,o sigui	semblança textual small; no és relació dialectal; pendent d’audició
+spk-001	spk-011	3	bé,de fet,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-001	spk-014	4	bé,clar,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-001	spk-015	4	clar,de fet,diguem,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-001	spk-016	5	aleshores,clar,doncs,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-001	spk-017	4	bé,de fet,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-001	spk-018	5	bé,clar,doncs,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-001	spk-019	3	bé,de fet,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-001	spk-020	3	bé,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-001	spk-022	5	bé,clar,diguem,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-001	spk-024	6	aleshores,clar,de fet,diguem,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-001	spk-026	4	bé,clar,de fet,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-001	spk-027	3	diguem,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-001	spk-028	4	bé,clar,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-001	spk-030	4	aleshores,bé,diguem,doncs	semblança textual small; no és relació dialectal; pendent d’audició
+spk-001	spk-033	5	aleshores,clar,de fet,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-001	spk-035	3	clar,de fet,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-001	spk-036	3	bé,doncs,o sigui	semblança textual small; no és relació dialectal; pendent d’audició
+spk-001	spk-037	5	bé,clar,doncs,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-001	spk-038	3	bé,clar,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-001	spk-040	3	clar,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-001	spk-041	4	bé,clar,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-001	spk-042	6	aleshores,bé,clar,doncs,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-001	spk-043	3	clar,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-001	spk-044	6	bé,clar,de fet,doncs,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-001	spk-046	3	bé,clar,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-001	spk-048	3	bé,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-001	spk-049	4	bé,clar,de fet,doncs	semblança textual small; no és relació dialectal; pendent d’audició
+spk-001	spk-050	5	bé,clar,doncs,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-001	spk-053	4	bé,clar,de fet,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-001	spk-054	5	bé,clar,doncs,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-001	spk-055	3	bé,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-001	spk-056	3	bé,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-001	spk-057	4	bé,clar,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-001	spk-059	4	clar,de fet,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-002	spk-005	3	evidentment,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-002	spk-007	4	crec,evidentment,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-002	spk-008	4	crec,de fet,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-002	spk-009	3	de fet,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-002	spk-011	5	crec,de fet,evidentment,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-002	spk-015	4	crec,de fet,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-002	spk-016	4	crec,evidentment,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-002	spk-017	3	de fet,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-002	spk-018	3	evidentment,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-002	spk-019	3	de fet,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-002	spk-024	4	crec,de fet,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-002	spk-025	3	crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-002	spk-026	5	crec,de fet,evidentment,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-002	spk-029	4	crec,de fet,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-002	spk-031	3	crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-002	spk-033	3	crec,de fet,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-002	spk-035	4	crec,de fet,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-002	spk-037	3	crec,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-002	spk-038	3	crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-002	spk-039	3	crec,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-002	spk-040	3	crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-002	spk-041	3	crec,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-002	spk-043	3	evidentment,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-002	spk-044	5	crec,de fet,evidentment,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-002	spk-045	3	crec,evidentment,llavors	semblança textual small; no és relació dialectal; pendent d’audició
+spk-002	spk-046	4	crec,evidentment,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-002	spk-053	4	crec,de fet,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-002	spk-054	3	crec,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-002	spk-057	3	crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-002	spk-059	4	crec,de fet,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-003	spk-004	3	aleshores,bé,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-003	spk-005	5	a veure,bé,clar,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-003	spk-006	4	aleshores,bé,clar,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-003	spk-007	5	a veure,aleshores,bé,clar,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-003	spk-008	4	a veure,de fet,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-003	spk-009	5	bé,clar,de fet,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-003	spk-010	3	a veure,bé,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-003	spk-011	3	bé,de fet,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-003	spk-014	5	a veure,bé,clar,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-003	spk-015	4	clar,de fet,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-003	spk-016	5	a veure,aleshores,clar,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-003	spk-017	5	a veure,bé,de fet,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-003	spk-018	4	a veure,bé,clar,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-003	spk-019	3	bé,de fet,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-003	spk-022	3	bé,clar,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-003	spk-024	5	a veure,aleshores,clar,de fet,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-003	spk-026	5	a veure,bé,clar,de fet,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-003	spk-028	4	a veure,bé,clar,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-003	spk-030	3	aleshores,bé,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-003	spk-031	3	a veure,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-003	spk-033	5	a veure,aleshores,clar,de fet,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-003	spk-035	3	clar,de fet,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-003	spk-037	3	bé,clar,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-003	spk-038	4	a veure,bé,clar,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-003	spk-040	4	a veure,clar,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-003	spk-041	3	bé,clar,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-003	spk-042	5	aleshores,bé,clar,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-003	spk-043	3	clar,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-003	spk-044	6	a veure,bé,clar,de fet,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-003	spk-046	3	bé,clar,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-003	spk-048	3	a veure,bé,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-003	spk-049	3	bé,clar,de fet	semblança textual small; no és relació dialectal; pendent d’audició
+spk-003	spk-050	3	bé,clar,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-003	spk-051	3	a veure,bé,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-003	spk-053	5	bé,clar,de fet,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-003	spk-054	4	a veure,bé,clar,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-003	spk-055	3	bé,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-003	spk-057	4	a veure,bé,clar,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-003	spk-059	4	clar,de fet,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-004	spk-006	3	aleshores,bé,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-004	spk-007	3	aleshores,bé,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-004	spk-042	3	aleshores,bé,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-005	spk-006	4	bé,clar,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-005	spk-007	7	a veure,bé,clar,diguem,evidentment,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-005	spk-008	5	a veure,doncs,llavors,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-005	spk-009	6	bé,clar,diguem,llavors,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-005	spk-010	5	a veure,bé,doncs,llavors,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-005	spk-011	4	bé,evidentment,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-005	spk-014	5	a veure,bé,clar,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-005	spk-015	5	clar,diguem,evidentment,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-005	spk-016	7	a veure,clar,doncs,evidentment,llavors,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-005	spk-017	6	a veure,bé,doncs,evidentment,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-005	spk-018	7	a veure,bé,clar,doncs,evidentment,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-005	spk-019	3	bé,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-005	spk-020	3	bé,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-005	spk-022	5	bé,clar,diguem,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-005	spk-024	5	a veure,clar,diguem,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-005	spk-025	3	bé,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-005	spk-026	6	a veure,bé,clar,evidentment,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-005	spk-027	3	diguem,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-005	spk-028	6	a veure,bé,clar,doncs,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-005	spk-030	5	bé,diguem,doncs,llavors,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-005	spk-031	5	a veure,doncs,evidentment,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-005	spk-033	4	a veure,clar,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-005	spk-034	3	doncs,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-005	spk-035	3	clar,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-005	spk-036	3	bé,doncs,llavors	semblança textual small; no és relació dialectal; pendent d’audició
+spk-005	spk-037	5	bé,clar,doncs,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-005	spk-038	5	a veure,bé,clar,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-005	spk-039	4	diguem,llavors,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-005	spk-040	5	a veure,clar,evidentment,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-005	spk-041	5	bé,clar,doncs,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-005	spk-042	5	bé,clar,doncs,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-005	spk-043	6	clar,doncs,evidentment,llavors,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-005	spk-044	8	a veure,bé,clar,doncs,evidentment,llavors,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-005	spk-045	4	a veure,bé,evidentment,llavors	semblança textual small; no és relació dialectal; pendent d’audició
+spk-005	spk-046	5	bé,clar,evidentment,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-005	spk-048	4	a veure,bé,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-005	spk-049	4	bé,clar,doncs,llavors	semblança textual small; no és relació dialectal; pendent d’audició
+spk-005	spk-050	5	bé,clar,doncs,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-005	spk-051	4	a veure,bé,diguem,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-005	spk-053	5	bé,clar,evidentment,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-005	spk-054	6	a veure,bé,clar,doncs,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-005	spk-055	4	bé,doncs,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-005	spk-056	4	bé,doncs,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-005	spk-057	5	a veure,bé,clar,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-005	spk-059	5	clar,doncs,llavors,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-006	spk-007	6	aleshores,bueno,bé,clar,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-006	spk-008	4	bueno,doncs,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-006	spk-009	4	bé,clar,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-006	spk-010	3	bé,doncs,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-006	spk-011	3	bueno,bé,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-006	spk-014	3	bé,clar,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-006	spk-016	6	aleshores,bueno,clar,doncs,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-006	spk-017	3	bé,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-006	spk-018	4	bé,clar,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-006	spk-019	3	bé,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-006	spk-022	4	bé,clar,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-006	spk-024	3	aleshores,clar,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-006	spk-026	3	bé,clar,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-006	spk-028	5	bé,clar,doncs,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-006	spk-030	3	aleshores,bé,doncs	semblança textual small; no és relació dialectal; pendent d’audició
+spk-006	spk-031	4	bueno,doncs,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-006	spk-033	4	aleshores,clar,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-006	spk-037	6	bueno,bé,clar,doncs,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-006	spk-038	5	bueno,bé,clar,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-006	spk-040	3	clar,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-006	spk-041	6	bueno,bé,clar,doncs,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-006	spk-042	6	aleshores,bueno,bé,clar,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-006	spk-043	5	bueno,clar,doncs,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-006	spk-044	5	bé,clar,doncs,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-006	spk-045	3	bueno,bé,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-006	spk-046	4	bueno,bé,clar,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-006	spk-048	3	bé,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-006	spk-049	3	bé,clar,doncs	semblança textual small; no és relació dialectal; pendent d’audició
+spk-006	spk-050	4	bé,clar,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-006	spk-052	3	bueno,clar,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-006	spk-053	4	bueno,bé,clar,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-006	spk-054	5	bé,clar,doncs,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-006	spk-055	3	bé,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-006	spk-056	3	bé,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-006	spk-057	4	bé,clar,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-006	spk-059	3	clar,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-007	spk-008	6	a veure,bueno,crec,llavors,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-007	spk-009	6	bé,clar,diguem,llavors,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-007	spk-010	6	a veure,bé,crec,llavors,o sigui,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-007	spk-011	6	bueno,bé,crec,evidentment,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-007	spk-014	6	a veure,bé,clar,crec,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-007	spk-015	5	clar,crec,diguem,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-007	spk-016	10	a veure,aleshores,bueno,clar,crec,evidentment,llavors,o sigui,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-007	spk-017	4	a veure,bé,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-007	spk-018	7	a veure,bé,clar,evidentment,llavors,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-007	spk-019	4	bé,evidentment,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-007	spk-020	4	bé,llavors,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-007	spk-022	4	bé,clar,diguem,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-007	spk-024	8	a veure,aleshores,clar,crec,diguem,evidentment,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-007	spk-025	4	bé,crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-007	spk-026	7	a veure,bé,clar,crec,evidentment,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-007	spk-027	5	bueno,crec,diguem,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-007	spk-028	6	a veure,bé,clar,evidentment,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-007	spk-029	3	crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-007	spk-030	4	aleshores,bé,diguem,llavors	semblança textual small; no és relació dialectal; pendent d’audició
+spk-007	spk-031	6	a veure,bueno,crec,evidentment,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-007	spk-033	5	a veure,aleshores,clar,crec,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-007	spk-035	4	clar,crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-007	spk-036	3	bé,llavors,o sigui	semblança textual small; no és relació dialectal; pendent d’audició
+spk-007	spk-037	8	bueno,bé,clar,crec,llavors,o sigui,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-007	spk-038	8	a veure,bueno,bé,clar,crec,evidentment,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-007	spk-039	5	crec,diguem,llavors,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-007	spk-040	7	a veure,clar,crec,evidentment,o sigui,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-007	spk-041	7	bueno,bé,clar,crec,llavors,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-007	spk-042	7	aleshores,bueno,bé,clar,crec,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-007	spk-043	6	bueno,clar,evidentment,llavors,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-007	spk-044	9	a veure,bé,clar,crec,evidentment,llavors,o sigui,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-007	spk-045	8	a veure,bueno,bé,crec,evidentment,llavors,o sigui,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-007	spk-046	7	bueno,bé,clar,crec,evidentment,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-007	spk-048	6	a veure,bé,evidentment,o sigui,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-007	spk-049	3	bé,clar,llavors	semblança textual small; no és relació dialectal; pendent d’audició
+spk-007	spk-050	5	bé,clar,evidentment,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-007	spk-051	4	a veure,bé,crec,diguem	semblança textual small; no és relació dialectal; pendent d’audició
+spk-007	spk-052	3	bueno,clar,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-007	spk-053	6	bueno,bé,clar,crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-007	spk-054	8	a veure,bé,clar,crec,llavors,o sigui,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-007	spk-056	3	bé,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-007	spk-057	8	a veure,bé,clar,crec,evidentment,o sigui,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-007	spk-058	3	bueno,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-007	spk-059	4	clar,crec,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-008	spk-009	5	de fet,llavors,perquè,vull dir,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-008	spk-010	7	a nivell,a veure,crec,doncs,llavors,vull dir,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-008	spk-011	6	a nivell,bueno,crec,de fet,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-008	spk-014	4	a veure,crec,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-008	spk-015	4	crec,de fet,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-008	spk-016	8	a veure,bueno,crec,doncs,llavors,perquè,vull dir,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-008	spk-017	5	a veure,de fet,doncs,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-008	spk-018	5	a nivell,a veure,doncs,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-008	spk-019	3	de fet,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-008	spk-020	3	a nivell,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-008	spk-022	3	a nivell,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-008	spk-023	3	bueno,crec,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-008	spk-024	4	a veure,crec,de fet,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-008	spk-026	6	a nivell,a veure,crec,de fet,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-008	spk-027	4	bueno,crec,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-008	spk-028	5	a nivell,a veure,doncs,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-008	spk-029	3	crec,de fet,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-008	spk-030	3	doncs,llavors,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-008	spk-031	7	a veure,bueno,crec,doncs,perquè,vull dir,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-008	spk-033	5	a veure,crec,de fet,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-008	spk-034	4	crec,doncs,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-008	spk-035	4	a nivell,crec,de fet,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-008	spk-037	7	a nivell,bueno,crec,doncs,llavors,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-008	spk-038	5	a veure,bueno,crec,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-008	spk-039	5	crec,llavors,perquè,vull dir,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-008	spk-040	5	a veure,crec,perquè,vull dir,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-008	spk-041	6	bueno,crec,doncs,llavors,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-008	spk-042	6	a nivell,bueno,crec,doncs,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-008	spk-043	7	a nivell,bueno,doncs,llavors,perquè,vull dir,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-008	spk-044	9	a nivell,a veure,crec,de fet,doncs,llavors,perquè,vull dir,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-008	spk-045	6	a nivell,a veure,bueno,crec,llavors,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-008	spk-046	5	a nivell,bueno,crec,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-008	spk-048	4	a nivell,a veure,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-008	spk-049	3	de fet,doncs,llavors	semblança textual small; no és relació dialectal; pendent d’audició
+spk-008	spk-051	4	a nivell,a veure,crec,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-008	spk-053	6	a nivell,bueno,crec,de fet,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-008	spk-054	7	a nivell,a veure,crec,doncs,llavors,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-008	spk-055	3	doncs,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-008	spk-056	3	doncs,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-008	spk-057	4	a veure,crec,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-008	spk-058	3	bueno,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-008	spk-059	6	crec,de fet,doncs,llavors,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-009	spk-010	4	bé,llavors,vull dir,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-009	spk-011	4	bé,de fet,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-009	spk-014	4	bé,clar,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-009	spk-015	5	clar,de fet,diguem,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-009	spk-016	6	clar,llavors,perquè,tirar endavant,vull dir,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-009	spk-017	4	bé,de fet,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-009	spk-018	4	bé,clar,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-009	spk-019	4	bé,de fet,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-009	spk-020	4	bé,llavors,perquè,tirar endavant	semblança textual small; no és relació dialectal; pendent d’audició
+spk-009	spk-022	4	bé,clar,diguem,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-009	spk-024	4	clar,de fet,diguem,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-009	spk-026	5	bé,clar,de fet,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-009	spk-027	3	diguem,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-009	spk-028	4	bé,clar,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-009	spk-030	4	bé,diguem,llavors,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-009	spk-031	3	perquè,vull dir,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-009	spk-033	4	clar,de fet,perquè,tirar endavant	semblança textual small; no és relació dialectal; pendent d’audició
+spk-009	spk-035	3	clar,de fet,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-009	spk-037	5	bé,clar,llavors,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-009	spk-038	5	bé,clar,perquè,tirar endavant,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-009	spk-039	5	diguem,llavors,perquè,vull dir,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-009	spk-040	4	clar,perquè,vull dir,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-009	spk-041	5	bé,clar,llavors,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-009	spk-042	4	bé,clar,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-009	spk-043	6	clar,llavors,perquè,tirar endavant,vull dir,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-009	spk-044	7	bé,clar,de fet,llavors,perquè,vull dir,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-009	spk-045	3	bé,llavors,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-009	spk-046	4	bé,clar,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-009	spk-048	3	bé,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-009	spk-049	4	bé,clar,de fet,llavors	semblança textual small; no és relació dialectal; pendent d’audició
+spk-009	spk-050	3	bé,clar,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-009	spk-051	4	bé,diguem,tirar endavant,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-009	spk-053	6	bé,clar,de fet,perquè,tirar endavant,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-009	spk-054	5	bé,clar,llavors,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-009	spk-055	3	bé,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-009	spk-056	3	bé,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-009	spk-057	4	bé,clar,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-009	spk-059	5	clar,de fet,llavors,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-010	spk-011	4	a nivell,bé,crec,llavors	semblança textual small; no és relació dialectal; pendent d’audició
+spk-010	spk-014	5	a veure,bé,crec,o sigui,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-010	spk-016	7	a veure,crec,doncs,llavors,o sigui,vull dir,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-010	spk-017	4	a veure,bé,doncs,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-010	spk-018	6	a nivell,a veure,bé,doncs,llavors,o sigui	semblança textual small; no és relació dialectal; pendent d’audició
+spk-010	spk-020	4	a nivell,bé,llavors,o sigui	semblança textual small; no és relació dialectal; pendent d’audició
+spk-010	spk-022	3	a nivell,bé,doncs	semblança textual small; no és relació dialectal; pendent d’audició
+spk-010	spk-024	3	a veure,crec,o sigui	semblança textual small; no és relació dialectal; pendent d’audició
+spk-010	spk-026	5	a nivell,a veure,bé,crec,llavors	semblança textual small; no és relació dialectal; pendent d’audició
+spk-010	spk-027	3	crec,o sigui,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-010	spk-028	5	a nivell,a veure,bé,doncs,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-010	spk-030	4	bé,doncs,llavors,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-010	spk-031	5	a veure,crec,doncs,vull dir,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-010	spk-033	3	a veure,crec,doncs	semblança textual small; no és relació dialectal; pendent d’audició
+spk-010	spk-034	3	crec,doncs,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-010	spk-036	4	bé,doncs,llavors,o sigui	semblança textual small; no és relació dialectal; pendent d’audició
+spk-010	spk-037	7	a nivell,bé,crec,doncs,llavors,o sigui,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-010	spk-038	4	a veure,bé,crec,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-010	spk-039	4	crec,llavors,vull dir,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-010	spk-040	5	a veure,crec,o sigui,vull dir,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-010	spk-041	5	bé,crec,doncs,llavors,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-010	spk-042	6	a nivell,bé,crec,doncs,o sigui,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-010	spk-043	5	a nivell,doncs,llavors,vull dir,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-010	spk-044	9	a nivell,a veure,bé,crec,doncs,llavors,o sigui,vull dir,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-010	spk-045	7	a nivell,a veure,bé,crec,llavors,o sigui,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-010	spk-046	4	a nivell,bé,crec,llavors	semblança textual small; no és relació dialectal; pendent d’audició
+spk-010	spk-048	5	a nivell,a veure,bé,o sigui,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-010	spk-049	3	bé,doncs,llavors	semblança textual small; no és relació dialectal; pendent d’audició
+spk-010	spk-050	3	bé,doncs,o sigui	semblança textual small; no és relació dialectal; pendent d’audició
+spk-010	spk-051	5	a nivell,a veure,bé,crec,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-010	spk-053	4	a nivell,bé,crec,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-010	spk-054	8	a nivell,a veure,bé,crec,doncs,llavors,o sigui,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-010	spk-055	3	bé,doncs,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-010	spk-056	3	bé,doncs,llavors	semblança textual small; no és relació dialectal; pendent d’audició
+spk-010	spk-057	5	a veure,bé,crec,o sigui,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-010	spk-059	4	crec,doncs,llavors,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-011	spk-014	3	bé,crec,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-011	spk-015	4	crec,de fet,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-011	spk-016	5	bueno,crec,evidentment,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-011	spk-017	4	bé,de fet,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-011	spk-018	5	a nivell,bé,evidentment,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-011	spk-019	4	bé,de fet,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-011	spk-020	4	a nivell,bé,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-011	spk-022	3	a nivell,bé,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-011	spk-024	4	crec,de fet,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-011	spk-025	4	bé,crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-011	spk-026	7	a nivell,bé,crec,de fet,evidentment,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-011	spk-027	3	bueno,crec,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-011	spk-028	4	a nivell,bé,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-011	spk-029	4	crec,de fet,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-011	spk-031	4	bueno,crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-011	spk-033	3	crec,de fet,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-011	spk-035	5	a nivell,crec,de fet,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-011	spk-037	6	a nivell,bueno,bé,crec,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-011	spk-038	5	bueno,bé,crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-011	spk-039	3	crec,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-011	spk-040	3	crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-011	spk-041	5	bueno,bé,crec,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-011	spk-042	5	a nivell,bueno,bé,crec,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-011	spk-043	5	a nivell,bueno,evidentment,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-011	spk-044	7	a nivell,bé,crec,de fet,evidentment,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-011	spk-045	6	a nivell,bueno,bé,crec,evidentment,llavors	semblança textual small; no és relació dialectal; pendent d’audició
+spk-011	spk-046	7	a nivell,bueno,bé,crec,evidentment,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-011	spk-048	4	a nivell,bé,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-011	spk-049	3	bé,de fet,llavors	semblança textual small; no és relació dialectal; pendent d’audició
+spk-011	spk-050	3	bé,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-011	spk-051	3	a nivell,bé,crec	semblança textual small; no és relació dialectal; pendent d’audició
+spk-011	spk-053	7	a nivell,bueno,bé,crec,de fet,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-011	spk-054	5	a nivell,bé,crec,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-011	spk-056	3	bé,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-011	spk-057	4	bé,crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-011	spk-058	3	bueno,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-011	spk-059	4	crec,de fet,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-014	spk-015	4	clar,crec,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-014	spk-016	6	a veure,clar,crec,o sigui,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-014	spk-017	4	a veure,bé,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-014	spk-018	5	a veure,bé,clar,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-014	spk-020	3	bé,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-014	spk-022	3	bé,clar,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-014	spk-024	5	a veure,clar,crec,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-014	spk-025	3	bé,crec,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-014	spk-026	5	a veure,bé,clar,crec,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-014	spk-027	4	crec,o sigui,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-014	spk-028	4	a veure,bé,clar,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-014	spk-031	4	a veure,crec,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-014	spk-033	4	a veure,clar,crec,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-014	spk-034	3	crec,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-014	spk-035	3	clar,crec,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-014	spk-037	5	bé,clar,crec,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-014	spk-038	5	a veure,bé,clar,crec,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-014	spk-039	3	crec,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-014	spk-040	6	a veure,clar,crec,o sigui,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-014	spk-041	4	bé,clar,crec,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-014	spk-042	6	bé,clar,crec,o sigui,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-014	spk-043	3	clar,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-014	spk-044	7	a veure,bé,clar,crec,o sigui,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-014	spk-045	4	a veure,bé,crec,o sigui	semblança textual small; no és relació dialectal; pendent d’audició
+spk-014	spk-046	4	bé,clar,crec,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-014	spk-048	4	a veure,bé,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-014	spk-050	4	bé,clar,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-014	spk-051	4	a veure,bé,crec,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-014	spk-053	5	bé,clar,crec,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-014	spk-054	6	a veure,bé,clar,crec,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-014	spk-055	3	bé,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-014	spk-057	6	a veure,bé,clar,crec,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-014	spk-059	4	clar,crec,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-015	spk-016	5	clar,crec,evidentment,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-015	spk-017	4	de fet,evidentment,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-015	spk-018	3	clar,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-015	spk-019	3	de fet,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-015	spk-022	3	clar,diguem,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-015	spk-024	6	clar,crec,de fet,diguem,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-015	spk-025	3	crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-015	spk-026	5	clar,crec,de fet,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-015	spk-027	4	crec,diguem,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-015	spk-028	3	clar,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-015	spk-029	4	crec,de fet,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-015	spk-031	4	crec,evidentment,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-015	spk-033	4	clar,crec,de fet,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-015	spk-034	3	crec,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-015	spk-035	5	clar,crec,de fet,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-015	spk-037	3	clar,crec,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-015	spk-038	4	clar,crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-015	spk-039	4	crec,diguem,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-015	spk-040	5	clar,crec,evidentment,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-015	spk-041	3	clar,crec,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-015	spk-042	4	clar,crec,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-015	spk-043	4	clar,evidentment,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-015	spk-044	6	clar,crec,de fet,evidentment,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-015	spk-046	4	clar,crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-015	spk-050	3	clar,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-015	spk-051	3	crec,diguem,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-015	spk-053	6	clar,crec,de fet,evidentment,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-015	spk-054	3	clar,crec,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-015	spk-057	4	clar,crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-015	spk-059	5	clar,crec,de fet,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-016	spk-017	5	a veure,doncs,evidentment,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-016	spk-018	7	a veure,clar,doncs,evidentment,llavors,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-016	spk-019	3	evidentment,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-016	spk-020	4	llavors,o sigui,perquè,tirar endavant	semblança textual small; no és relació dialectal; pendent d’audició
+spk-016	spk-022	3	clar,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-016	spk-023	3	bueno,crec,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-016	spk-024	7	a veure,aleshores,clar,crec,evidentment,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-016	spk-025	3	crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-016	spk-026	6	a veure,clar,crec,evidentment,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-016	spk-027	5	bueno,crec,o sigui,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-016	spk-028	6	a veure,clar,doncs,evidentment,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-016	spk-029	3	crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-016	spk-030	4	aleshores,doncs,llavors,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-016	spk-031	8	a veure,bueno,crec,doncs,evidentment,perquè,vull dir,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-016	spk-033	7	a veure,aleshores,clar,crec,doncs,perquè,tirar endavant	semblança textual small; no és relació dialectal; pendent d’audició
+spk-016	spk-034	4	crec,doncs,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-016	spk-035	4	clar,crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-016	spk-036	3	doncs,llavors,o sigui	semblança textual small; no és relació dialectal; pendent d’audició
+spk-016	spk-037	8	bueno,clar,crec,doncs,llavors,o sigui,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-016	spk-038	8	a veure,bueno,clar,crec,evidentment,perquè,tirar endavant,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-016	spk-039	5	crec,llavors,perquè,vull dir,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-016	spk-040	8	a veure,clar,crec,evidentment,o sigui,perquè,vull dir,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-016	spk-041	7	bueno,clar,crec,doncs,llavors,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-016	spk-042	8	aleshores,bueno,clar,crec,doncs,o sigui,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-016	spk-043	9	bueno,clar,doncs,evidentment,llavors,perquè,tirar endavant,vull dir,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-016	spk-044	10	a veure,clar,crec,doncs,evidentment,llavors,o sigui,perquè,vull dir,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-016	spk-045	7	a veure,bueno,crec,evidentment,llavors,o sigui,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-016	spk-046	6	bueno,clar,crec,evidentment,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-016	spk-048	5	a veure,evidentment,o sigui,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-016	spk-049	3	clar,doncs,llavors	semblança textual small; no és relació dialectal; pendent d’audició
+spk-016	spk-050	5	clar,doncs,evidentment,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-016	spk-051	4	a veure,crec,tirar endavant,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-016	spk-052	3	bueno,clar,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-016	spk-053	7	bueno,clar,crec,evidentment,perquè,tirar endavant,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-016	spk-054	8	a veure,clar,crec,doncs,llavors,o sigui,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-016	spk-055	3	doncs,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-016	spk-056	3	doncs,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-016	spk-057	7	a veure,clar,crec,evidentment,o sigui,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-016	spk-058	3	bueno,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-016	spk-059	6	clar,crec,doncs,llavors,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-017	spk-018	5	a veure,bé,doncs,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-017	spk-019	4	bé,de fet,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-017	spk-022	3	bé,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-017	spk-024	4	a veure,de fet,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-017	spk-025	3	bé,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-017	spk-026	5	a veure,bé,de fet,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-017	spk-028	5	a veure,bé,doncs,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-017	spk-029	3	de fet,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-017	spk-030	3	bé,doncs,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-017	spk-031	5	a veure,doncs,evidentment,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-017	spk-033	4	a veure,de fet,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-017	spk-034	3	doncs,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-017	spk-035	3	de fet,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-017	spk-037	3	bé,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-017	spk-038	4	a veure,bé,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-017	spk-040	4	a veure,evidentment,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-017	spk-041	3	bé,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-017	spk-042	4	bé,doncs,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-017	spk-043	4	doncs,evidentment,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-017	spk-044	7	a veure,bé,de fet,doncs,evidentment,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-017	spk-045	3	a veure,bé,evidentment	semblança textual small; no és relació dialectal; pendent d’audició
+spk-017	spk-046	3	bé,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-017	spk-048	4	a veure,bé,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-017	spk-049	3	bé,de fet,doncs	semblança textual small; no és relació dialectal; pendent d’audició
+spk-017	spk-050	4	bé,doncs,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-017	spk-051	3	a veure,bé,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-017	spk-053	5	bé,de fet,evidentment,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-017	spk-054	4	a veure,bé,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-017	spk-055	4	bé,doncs,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-017	spk-056	3	bé,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-017	spk-057	4	a veure,bé,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-017	spk-059	4	de fet,doncs,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-018	spk-019	3	bé,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-018	spk-020	5	a nivell,bé,llavors,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-018	spk-022	5	a nivell,bé,clar,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-018	spk-024	5	a veure,clar,evidentment,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-018	spk-025	3	bé,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-018	spk-026	7	a nivell,a veure,bé,clar,evidentment,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-018	spk-028	7	a nivell,a veure,bé,clar,doncs,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-018	spk-030	3	bé,doncs,llavors	semblança textual small; no és relació dialectal; pendent d’audició
+spk-018	spk-031	4	a veure,doncs,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-018	spk-033	4	a veure,clar,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-018	spk-035	4	a nivell,clar,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-018	spk-036	4	bé,doncs,llavors,o sigui	semblança textual small; no és relació dialectal; pendent d’audició
+spk-018	spk-037	7	a nivell,bé,clar,doncs,llavors,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-018	spk-038	5	a veure,bé,clar,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-018	spk-040	5	a veure,clar,evidentment,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-018	spk-041	5	bé,clar,doncs,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-018	spk-042	6	a nivell,bé,clar,doncs,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-018	spk-043	6	a nivell,clar,doncs,evidentment,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-018	spk-044	9	a nivell,a veure,bé,clar,doncs,evidentment,llavors,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-018	spk-045	6	a nivell,a veure,bé,evidentment,llavors,o sigui	semblança textual small; no és relació dialectal; pendent d’audició
+spk-018	spk-046	6	a nivell,bé,clar,evidentment,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-018	spk-048	6	a nivell,a veure,bé,evidentment,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-018	spk-049	4	bé,clar,doncs,llavors	semblança textual small; no és relació dialectal; pendent d’audició
+spk-018	spk-050	6	bé,clar,doncs,evidentment,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-018	spk-051	3	a nivell,a veure,bé	semblança textual small; no és relació dialectal; pendent d’audició
+spk-018	spk-053	5	a nivell,bé,clar,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-018	spk-054	8	a nivell,a veure,bé,clar,doncs,llavors,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-018	spk-055	3	bé,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-018	spk-056	4	bé,doncs,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-018	spk-057	6	a veure,bé,clar,evidentment,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-018	spk-059	4	clar,doncs,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-019	spk-024	3	de fet,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-019	spk-025	3	bé,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-019	spk-026	4	bé,de fet,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-019	spk-028	4	bé,evidentment,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-019	spk-029	3	de fet,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-019	spk-031	3	evidentment,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-019	spk-035	3	de fet,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-019	spk-037	3	bé,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-019	spk-038	4	bé,evidentment,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-019	spk-040	3	evidentment,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-019	spk-041	3	bé,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-019	spk-043	3	evidentment,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-019	spk-044	5	bé,de fet,evidentment,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-019	spk-045	3	bé,evidentment,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-019	spk-046	3	bé,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-019	spk-048	4	bé,evidentment,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-019	spk-050	3	bé,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-019	spk-053	4	bé,de fet,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-019	spk-054	3	bé,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-019	spk-057	4	bé,evidentment,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-020	spk-022	3	a nivell,bé,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-020	spk-026	4	a nivell,bé,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-020	spk-028	3	a nivell,bé,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-020	spk-036	3	bé,llavors,o sigui	semblança textual small; no és relació dialectal; pendent d’audició
+spk-020	spk-037	5	a nivell,bé,llavors,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-020	spk-038	3	bé,perquè,tirar endavant	semblança textual small; no és relació dialectal; pendent d’audició
+spk-020	spk-041	3	bé,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-020	spk-042	4	a nivell,bé,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-020	spk-043	4	a nivell,llavors,perquè,tirar endavant	semblança textual small; no és relació dialectal; pendent d’audició
+spk-020	spk-044	5	a nivell,bé,llavors,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-020	spk-045	4	a nivell,bé,llavors,o sigui	semblança textual small; no és relació dialectal; pendent d’audició
+spk-020	spk-046	4	a nivell,bé,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-020	spk-048	4	a nivell,bé,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-020	spk-050	3	bé,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-020	spk-051	3	a nivell,bé,tirar endavant	semblança textual small; no és relació dialectal; pendent d’audició
+spk-020	spk-053	4	a nivell,bé,perquè,tirar endavant	semblança textual small; no és relació dialectal; pendent d’audició
+spk-020	spk-054	5	a nivell,bé,llavors,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-020	spk-056	3	bé,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-020	spk-057	3	bé,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-022	spk-024	3	clar,diguem,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-022	spk-026	4	a nivell,bé,clar,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-022	spk-028	5	a nivell,bé,clar,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-022	spk-030	3	bé,diguem,doncs	semblança textual small; no és relació dialectal; pendent d’audició
+spk-022	spk-033	3	clar,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-022	spk-035	3	a nivell,clar,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-022	spk-037	5	a nivell,bé,clar,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-022	spk-038	3	bé,clar,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-022	spk-041	4	bé,clar,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-022	spk-042	5	a nivell,bé,clar,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-022	spk-043	4	a nivell,clar,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-022	spk-044	5	a nivell,bé,clar,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-022	spk-046	4	a nivell,bé,clar,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-022	spk-048	3	a nivell,bé,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-022	spk-049	3	bé,clar,doncs	semblança textual small; no és relació dialectal; pendent d’audició
+spk-022	spk-050	4	bé,clar,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-022	spk-051	3	a nivell,bé,diguem	semblança textual small; no és relació dialectal; pendent d’audició
+spk-022	spk-053	4	a nivell,bé,clar,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-022	spk-054	5	a nivell,bé,clar,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-022	spk-055	3	bé,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-022	spk-056	3	bé,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-022	spk-057	4	aviam,bé,clar,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-022	spk-059	3	clar,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-023	spk-027	3	bueno,crec,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-023	spk-031	3	bueno,crec,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-023	spk-042	3	bueno,crec,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-023	spk-053	3	bueno,crec,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-024	spk-025	3	crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-024	spk-026	7	a veure,clar,crec,de fet,evidentment,perquè,reformeta	semblança textual small; no és relació dialectal; pendent d’audició
+spk-024	spk-027	4	crec,diguem,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-024	spk-028	4	a veure,clar,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-024	spk-029	4	crec,de fet,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-024	spk-031	4	a veure,crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-024	spk-033	6	a veure,aleshores,clar,crec,de fet,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-024	spk-035	5	clar,crec,de fet,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-024	spk-037	5	clar,crec,o sigui,perquè,reformeta	semblança textual small; no és relació dialectal; pendent d’audició
+spk-024	spk-038	5	a veure,clar,crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-024	spk-039	3	crec,diguem,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-024	spk-040	7	a veure,clar,crec,evidentment,o sigui,perquè,reformeta	semblança textual small; no és relació dialectal; pendent d’audició
+spk-024	spk-041	3	clar,crec,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-024	spk-042	5	aleshores,clar,crec,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-024	spk-043	3	clar,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-024	spk-044	7	a veure,clar,crec,de fet,evidentment,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-024	spk-045	4	a veure,crec,evidentment,o sigui	semblança textual small; no és relació dialectal; pendent d’audició
+spk-024	spk-046	4	clar,crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-024	spk-048	5	a veure,evidentment,o sigui,perquè,reformeta	semblança textual small; no és relació dialectal; pendent d’audició
+spk-024	spk-050	4	clar,evidentment,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-024	spk-051	4	a veure,crec,diguem,reformeta	semblança textual small; no és relació dialectal; pendent d’audició
+spk-024	spk-053	5	clar,crec,de fet,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-024	spk-054	5	a veure,clar,crec,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-024	spk-057	6	a veure,clar,crec,evidentment,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-024	spk-059	4	clar,crec,de fet,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-025	spk-026	4	bé,crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-025	spk-028	3	bé,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-025	spk-029	3	crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-025	spk-031	3	crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-025	spk-035	3	crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-025	spk-037	3	bé,crec,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-025	spk-038	4	bé,crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-025	spk-040	3	crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-025	spk-041	3	bé,crec,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-025	spk-042	3	bé,crec,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-025	spk-044	4	bé,crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-025	spk-045	3	bé,crec,evidentment	semblança textual small; no és relació dialectal; pendent d’audició
+spk-025	spk-046	4	bé,crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-025	spk-048	3	bé,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-025	spk-050	3	bé,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-025	spk-053	4	bé,crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-025	spk-054	3	bé,crec,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-025	spk-057	4	bé,crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-026	spk-028	6	a nivell,a veure,bé,clar,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-026	spk-029	4	crec,de fet,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-026	spk-031	4	a veure,crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-026	spk-033	5	a veure,clar,crec,de fet,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-026	spk-035	6	a nivell,clar,crec,de fet,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-026	spk-037	7	a nivell,bé,clar,crec,llavors,perquè,reformeta	semblança textual small; no és relació dialectal; pendent d’audició
+spk-026	spk-038	6	a veure,bé,clar,crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-026	spk-039	3	crec,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-026	spk-040	6	a veure,clar,crec,evidentment,perquè,reformeta	semblança textual small; no és relació dialectal; pendent d’audició
+spk-026	spk-041	5	bé,clar,crec,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-026	spk-042	5	a nivell,bé,clar,crec,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-026	spk-043	5	a nivell,clar,evidentment,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-026	spk-044	9	a nivell,a veure,bé,clar,crec,de fet,evidentment,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-026	spk-045	6	a nivell,a veure,bé,crec,evidentment,llavors	semblança textual small; no és relació dialectal; pendent d’audició
+spk-026	spk-046	7	a nivell,bé,clar,crec,evidentment,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-026	spk-048	6	a nivell,a veure,bé,evidentment,perquè,reformeta	semblança textual small; no és relació dialectal; pendent d’audició
+spk-026	spk-049	4	bé,clar,de fet,llavors	semblança textual small; no és relació dialectal; pendent d’audició
+spk-026	spk-050	4	bé,clar,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-026	spk-051	5	a nivell,a veure,bé,crec,reformeta	semblança textual small; no és relació dialectal; pendent d’audició
+spk-026	spk-053	7	a nivell,bé,clar,crec,de fet,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-026	spk-054	7	a nivell,a veure,bé,clar,crec,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-026	spk-056	3	bé,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-026	spk-057	6	a veure,bé,clar,crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-026	spk-059	5	clar,crec,de fet,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-027	spk-031	4	bueno,crec,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-027	spk-034	3	crec,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-027	spk-037	4	bueno,crec,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-027	spk-038	3	bueno,crec,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-027	spk-039	4	crec,diguem,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-027	spk-040	4	crec,o sigui,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-027	spk-041	3	bueno,crec,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-027	spk-042	5	bueno,crec,o sigui,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-027	spk-043	3	bueno,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-027	spk-044	4	crec,o sigui,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-027	spk-045	3	bueno,crec,o sigui	semblança textual small; no és relació dialectal; pendent d’audició
+spk-027	spk-046	3	bueno,crec,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-027	spk-051	3	crec,diguem,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-027	spk-053	4	bueno,crec,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-027	spk-054	3	crec,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-027	spk-057	3	crec,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-027	spk-059	3	crec,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-028	spk-031	5	a veure,doncs,evidentment,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-028	spk-033	4	a veure,clar,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-028	spk-035	4	a nivell,clar,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-028	spk-037	6	a nivell,bé,clar,doncs,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-028	spk-038	6	a veure,bé,clar,evidentment,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-028	spk-040	5	a veure,clar,evidentment,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-028	spk-041	5	bé,clar,doncs,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-028	spk-042	5	a nivell,bé,clar,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-028	spk-043	6	a nivell,clar,doncs,evidentment,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-028	spk-044	8	a nivell,a veure,bé,clar,doncs,evidentment,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-028	spk-045	5	a nivell,a veure,bé,evidentment,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-028	spk-046	5	a nivell,bé,clar,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-028	spk-048	6	a nivell,a veure,bé,evidentment,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-028	spk-049	3	bé,clar,doncs	semblança textual small; no és relació dialectal; pendent d’audició
+spk-028	spk-050	5	bé,clar,doncs,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-028	spk-051	3	a nivell,a veure,bé	semblança textual small; no és relació dialectal; pendent d’audició
+spk-028	spk-053	5	a nivell,bé,clar,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-028	spk-054	7	a nivell,a veure,bé,clar,doncs,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-028	spk-055	3	bé,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-028	spk-056	3	bé,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-028	spk-057	6	a veure,bé,clar,evidentment,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-028	spk-059	3	clar,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-029	spk-031	3	crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-029	spk-033	3	crec,de fet,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-029	spk-035	4	crec,de fet,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-029	spk-038	3	crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-029	spk-040	3	crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-029	spk-044	4	crec,de fet,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-029	spk-046	3	crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-029	spk-053	4	crec,de fet,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-029	spk-057	3	crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-029	spk-059	3	crec,de fet,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-030	spk-036	3	bé,doncs,llavors	semblança textual small; no és relació dialectal; pendent d’audició
+spk-030	spk-037	3	bé,doncs,llavors	semblança textual small; no és relació dialectal; pendent d’audició
+spk-030	spk-039	3	diguem,llavors,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-030	spk-041	3	bé,doncs,llavors	semblança textual small; no és relació dialectal; pendent d’audició
+spk-030	spk-042	4	aleshores,bé,doncs,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-030	spk-043	3	doncs,llavors,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-030	spk-044	4	bé,doncs,llavors,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-030	spk-049	3	bé,doncs,llavors	semblança textual small; no és relació dialectal; pendent d’audició
+spk-030	spk-051	3	bé,diguem,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-030	spk-054	3	bé,doncs,llavors	semblança textual small; no és relació dialectal; pendent d’audició
+spk-030	spk-055	3	bé,doncs,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-030	spk-056	3	bé,doncs,llavors	semblança textual small; no és relació dialectal; pendent d’audició
+spk-030	spk-059	3	doncs,llavors,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-031	spk-033	4	a veure,crec,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-031	spk-034	4	crec,doncs,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-031	spk-035	3	crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-031	spk-037	5	bueno,crec,doncs,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-031	spk-038	6	a veure,bueno,crec,evidentment,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-031	spk-039	4	crec,perquè,vull dir,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-031	spk-040	6	a veure,crec,evidentment,perquè,vull dir,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-031	spk-041	5	bueno,crec,doncs,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-031	spk-042	5	bueno,crec,doncs,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-031	spk-043	6	bueno,doncs,evidentment,perquè,vull dir,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-031	spk-044	7	a veure,crec,doncs,evidentment,perquè,vull dir,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-031	spk-045	5	a veure,bueno,crec,evidentment,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-031	spk-046	4	bueno,crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-031	spk-048	4	a veure,evidentment,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-031	spk-050	3	doncs,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-031	spk-051	3	a veure,crec,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-031	spk-053	5	bueno,crec,evidentment,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-031	spk-054	5	a veure,crec,doncs,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-031	spk-055	3	doncs,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-031	spk-057	5	a veure,crec,evidentment,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-031	spk-059	4	crec,doncs,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-033	spk-034	3	crec,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-033	spk-035	4	clar,crec,de fet,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-033	spk-037	4	clar,crec,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-033	spk-038	5	a veure,clar,crec,perquè,tirar endavant	semblança textual small; no és relació dialectal; pendent d’audició
+spk-033	spk-040	4	a veure,clar,crec,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-033	spk-041	4	clar,crec,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-033	spk-042	5	aleshores,clar,crec,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-033	spk-043	4	clar,doncs,perquè,tirar endavant	semblança textual small; no és relació dialectal; pendent d’audició
+spk-033	spk-044	6	a veure,clar,crec,de fet,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-033	spk-046	3	clar,crec,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-033	spk-049	3	clar,de fet,doncs	semblança textual small; no és relació dialectal; pendent d’audició
+spk-033	spk-050	3	clar,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-033	spk-051	3	a veure,crec,tirar endavant	semblança textual small; no és relació dialectal; pendent d’audició
+spk-033	spk-053	5	clar,crec,de fet,perquè,tirar endavant	semblança textual small; no és relació dialectal; pendent d’audició
+spk-033	spk-054	5	a veure,clar,crec,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-033	spk-057	4	a veure,clar,crec,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-033	spk-059	5	clar,crec,de fet,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-034	spk-037	3	crec,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-034	spk-039	3	crec,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-034	spk-040	3	crec,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-034	spk-041	3	crec,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-034	spk-042	4	crec,doncs,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-034	spk-043	3	doncs,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-034	spk-044	4	crec,doncs,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-034	spk-053	3	crec,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-034	spk-054	3	crec,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-034	spk-055	3	doncs,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-034	spk-059	4	crec,doncs,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-035	spk-037	4	a nivell,clar,crec,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-035	spk-038	4	clar,crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-035	spk-040	4	clar,crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-035	spk-041	3	clar,crec,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-035	spk-042	4	a nivell,clar,crec,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-035	spk-043	4	a nivell,clar,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-035	spk-044	6	a nivell,clar,crec,de fet,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-035	spk-045	3	a nivell,crec,evidentment	semblança textual small; no és relació dialectal; pendent d’audició
+spk-035	spk-046	5	a nivell,clar,crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-035	spk-048	3	a nivell,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-035	spk-050	3	clar,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-035	spk-053	6	a nivell,clar,crec,de fet,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-035	spk-054	4	a nivell,clar,crec,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-035	spk-057	4	clar,crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-035	spk-059	4	clar,crec,de fet,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-036	spk-037	4	bé,doncs,llavors,o sigui	semblança textual small; no és relació dialectal; pendent d’audició
+spk-036	spk-041	3	bé,doncs,llavors	semblança textual small; no és relació dialectal; pendent d’audició
+spk-036	spk-042	3	bé,doncs,o sigui	semblança textual small; no és relació dialectal; pendent d’audició
+spk-036	spk-044	4	bé,doncs,llavors,o sigui	semblança textual small; no és relació dialectal; pendent d’audició
+spk-036	spk-045	3	bé,llavors,o sigui	semblança textual small; no és relació dialectal; pendent d’audició
+spk-036	spk-049	3	bé,doncs,llavors	semblança textual small; no és relació dialectal; pendent d’audició
+spk-036	spk-050	3	bé,doncs,o sigui	semblança textual small; no és relació dialectal; pendent d’audició
+spk-036	spk-054	4	bé,doncs,llavors,o sigui	semblança textual small; no és relació dialectal; pendent d’audició
+spk-036	spk-056	3	bé,doncs,llavors	semblança textual small; no és relació dialectal; pendent d’audició
+spk-037	spk-038	6	bueno,bé,clar,crec,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-037	spk-039	4	crec,llavors,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-037	spk-040	6	clar,crec,o sigui,perquè,reformeta,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-037	spk-041	8	bueno,bé,clar,crec,doncs,llavors,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-037	spk-042	8	a nivell,bueno,bé,clar,crec,doncs,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-037	spk-043	7	a nivell,bueno,clar,doncs,llavors,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-037	spk-044	9	a nivell,bé,clar,crec,doncs,llavors,o sigui,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-037	spk-045	7	a nivell,bueno,bé,crec,llavors,o sigui,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-037	spk-046	7	a nivell,bueno,bé,clar,crec,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-037	spk-048	6	a nivell,bé,o sigui,perquè,reformeta,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-037	spk-049	4	bé,clar,doncs,llavors	semblança textual small; no és relació dialectal; pendent d’audició
+spk-037	spk-050	5	bé,clar,doncs,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-037	spk-051	4	a nivell,bé,crec,reformeta	semblança textual small; no és relació dialectal; pendent d’audició
+spk-037	spk-052	3	bueno,clar,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-037	spk-053	6	a nivell,bueno,bé,clar,crec,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-037	spk-054	9	a nivell,bé,clar,crec,doncs,llavors,o sigui,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-037	spk-055	3	bé,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-037	spk-056	4	bé,doncs,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-037	spk-057	6	bé,clar,crec,o sigui,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-037	spk-058	3	bueno,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-037	spk-059	5	clar,crec,doncs,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-038	spk-039	3	crec,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-038	spk-040	6	a veure,clar,crec,evidentment,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-038	spk-041	6	bueno,bé,clar,crec,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-038	spk-042	5	bueno,bé,clar,crec,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-038	spk-043	6	bueno,clar,evidentment,perquè,tirar endavant,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-038	spk-044	7	a veure,bé,clar,crec,evidentment,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-038	spk-045	6	a veure,bueno,bé,crec,evidentment,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-038	spk-046	6	bueno,bé,clar,crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-038	spk-048	5	a veure,bé,evidentment,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-038	spk-050	4	bé,clar,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-038	spk-051	4	a veure,bé,crec,tirar endavant	semblança textual small; no és relació dialectal; pendent d’audició
+spk-038	spk-052	3	bueno,clar,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-038	spk-053	8	bueno,bé,clar,crec,ensenyança,evidentment,perquè,tirar endavant	semblança textual small; no és relació dialectal; pendent d’audició
+spk-038	spk-054	6	a veure,bé,clar,crec,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-038	spk-057	7	a veure,bé,clar,crec,evidentment,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-038	spk-059	3	clar,crec,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-039	spk-040	4	crec,perquè,vull dir,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-039	spk-041	4	crec,llavors,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-039	spk-042	3	crec,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-039	spk-043	4	llavors,perquè,vull dir,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-039	spk-044	5	crec,llavors,perquè,vull dir,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-039	spk-045	3	crec,llavors,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-039	spk-046	3	crec,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-039	spk-051	3	crec,diguem,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-039	spk-053	3	crec,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-039	spk-054	4	crec,llavors,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-039	spk-057	3	crec,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-039	spk-059	4	crec,llavors,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-040	spk-041	4	clar,crec,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-040	spk-042	5	clar,crec,o sigui,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-040	spk-043	5	clar,evidentment,perquè,vull dir,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-040	spk-044	8	a veure,clar,crec,evidentment,o sigui,perquè,vull dir,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-040	spk-045	5	a veure,crec,evidentment,o sigui,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-040	spk-046	4	clar,crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-040	spk-048	6	a veure,evidentment,o sigui,perquè,reformeta,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-040	spk-050	4	clar,evidentment,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-040	spk-051	4	a veure,crec,reformeta,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-040	spk-053	5	clar,crec,evidentment,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-040	spk-054	6	a veure,clar,crec,o sigui,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-040	spk-057	7	a veure,clar,crec,evidentment,o sigui,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-040	spk-059	4	clar,crec,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-041	spk-042	6	bueno,bé,clar,crec,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-041	spk-043	6	bueno,clar,doncs,llavors,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-041	spk-044	7	bé,clar,crec,doncs,llavors,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-041	spk-045	5	bueno,bé,crec,llavors,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-041	spk-046	6	bueno,bé,clar,crec,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-041	spk-048	3	bé,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-041	spk-049	4	bé,clar,doncs,llavors	semblança textual small; no és relació dialectal; pendent d’audició
+spk-041	spk-050	4	bé,clar,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-041	spk-052	3	bueno,clar,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-041	spk-053	5	bueno,bé,clar,crec,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-041	spk-054	7	bé,clar,crec,doncs,llavors,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-041	spk-055	3	bé,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-041	spk-056	4	bé,doncs,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-041	spk-057	5	bé,clar,crec,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-041	spk-058	3	bueno,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-041	spk-059	5	clar,crec,doncs,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-042	spk-043	6	a nivell,bueno,clar,doncs,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-042	spk-044	8	a nivell,bé,clar,crec,doncs,o sigui,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-042	spk-045	5	a nivell,bueno,bé,crec,o sigui	semblança textual small; no és relació dialectal; pendent d’audició
+spk-042	spk-046	6	a nivell,bueno,bé,clar,crec,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-042	spk-048	4	a nivell,bé,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-042	spk-049	3	bé,clar,doncs	semblança textual small; no és relació dialectal; pendent d’audició
+spk-042	spk-050	5	bé,clar,doncs,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-042	spk-051	4	a nivell,bé,crec,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-042	spk-052	3	bueno,clar,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-042	spk-053	7	a nivell,bueno,bé,clar,crec,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-042	spk-054	7	a nivell,bé,clar,crec,doncs,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-042	spk-055	4	bé,doncs,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-042	spk-056	3	bé,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-042	spk-057	5	bé,clar,crec,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-042	spk-059	5	clar,crec,doncs,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-043	spk-044	8	a nivell,clar,doncs,evidentment,llavors,perquè,vull dir,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-043	spk-045	5	a nivell,bueno,evidentment,llavors,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-043	spk-046	6	a nivell,bueno,clar,evidentment,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-043	spk-048	4	a nivell,evidentment,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-043	spk-049	3	clar,doncs,llavors	semblança textual small; no és relació dialectal; pendent d’audició
+spk-043	spk-050	4	clar,doncs,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-043	spk-051	3	a nivell,tirar endavant,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-043	spk-052	3	bueno,clar,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-043	spk-053	7	a nivell,bueno,clar,evidentment,perquè,tirar endavant,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-043	spk-054	6	a nivell,clar,doncs,llavors,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-043	spk-055	3	doncs,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-043	spk-056	3	doncs,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-043	spk-057	4	clar,evidentment,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-043	spk-058	3	bueno,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-043	spk-059	5	clar,doncs,llavors,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-044	spk-045	8	a nivell,a veure,bé,crec,evidentment,llavors,o sigui,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-044	spk-046	7	a nivell,bé,clar,crec,evidentment,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-044	spk-048	7	a nivell,a veure,bé,evidentment,o sigui,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-044	spk-049	5	bé,clar,de fet,doncs,llavors	semblança textual small; no és relació dialectal; pendent d’audició
+spk-044	spk-050	6	bé,clar,doncs,evidentment,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-044	spk-051	5	a nivell,a veure,bé,crec,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-044	spk-053	8	a nivell,bé,clar,crec,de fet,evidentment,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-044	spk-054	10	a nivell,a veure,bé,clar,crec,doncs,llavors,o sigui,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-044	spk-055	4	bé,doncs,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-044	spk-056	4	bé,doncs,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-044	spk-057	8	a veure,bé,clar,crec,evidentment,o sigui,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-044	spk-059	7	clar,crec,de fet,doncs,llavors,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-045	spk-046	6	a nivell,bueno,bé,crec,evidentment,llavors	semblança textual small; no és relació dialectal; pendent d’audició
+spk-045	spk-048	6	a nivell,a veure,bé,evidentment,o sigui,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-045	spk-050	3	bé,evidentment,o sigui	semblança textual small; no és relació dialectal; pendent d’audició
+spk-045	spk-051	4	a nivell,a veure,bé,crec	semblança textual small; no és relació dialectal; pendent d’audició
+spk-045	spk-053	5	a nivell,bueno,bé,crec,evidentment	semblança textual small; no és relació dialectal; pendent d’audició
+spk-045	spk-054	7	a nivell,a veure,bé,crec,llavors,o sigui,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-045	spk-057	6	a veure,bé,crec,evidentment,o sigui,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-046	spk-048	4	a nivell,bé,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-046	spk-049	3	bé,clar,llavors	semblança textual small; no és relació dialectal; pendent d’audició
+spk-046	spk-050	4	bé,clar,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-046	spk-051	3	a nivell,bé,crec	semblança textual small; no és relació dialectal; pendent d’audició
+spk-046	spk-052	3	bueno,clar,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-046	spk-053	7	a nivell,bueno,bé,clar,crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-046	spk-054	6	a nivell,bé,clar,crec,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-046	spk-056	3	bé,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-046	spk-057	5	bé,clar,crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-046	spk-058	3	bueno,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-046	spk-059	4	clar,crec,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-048	spk-050	4	bé,evidentment,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-048	spk-051	4	a nivell,a veure,bé,reformeta	semblança textual small; no és relació dialectal; pendent d’audició
+spk-048	spk-053	4	a nivell,bé,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-048	spk-054	6	a nivell,a veure,bé,o sigui,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-048	spk-057	6	a veure,bé,evidentment,o sigui,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-049	spk-050	3	bé,clar,doncs	semblança textual small; no és relació dialectal; pendent d’audició
+spk-049	spk-053	3	bé,clar,de fet	semblança textual small; no és relació dialectal; pendent d’audició
+spk-049	spk-054	4	bé,clar,doncs,llavors	semblança textual small; no és relació dialectal; pendent d’audició
+spk-049	spk-056	3	bé,doncs,llavors	semblança textual small; no és relació dialectal; pendent d’audició
+spk-049	spk-059	4	clar,de fet,doncs,llavors	semblança textual small; no és relació dialectal; pendent d’audició
+spk-050	spk-053	4	bé,clar,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-050	spk-054	5	bé,clar,doncs,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-050	spk-055	3	bé,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-050	spk-056	3	bé,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-050	spk-057	5	bé,clar,evidentment,o sigui,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-050	spk-059	3	clar,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-051	spk-053	5	a nivell,bé,crec,tirar endavant,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-051	spk-054	4	a nivell,a veure,bé,crec	semblança textual small; no és relació dialectal; pendent d’audició
+spk-051	spk-057	3	a veure,bé,crec	semblança textual small; no és relació dialectal; pendent d’audició
+spk-052	spk-053	3	bueno,clar,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-053	spk-054	5	a nivell,bé,clar,crec,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-053	spk-055	3	bé,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-053	spk-057	5	bé,clar,crec,evidentment,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-053	spk-059	5	clar,crec,de fet,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-054	spk-055	3	bé,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-054	spk-056	4	bé,doncs,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-054	spk-057	7	a veure,bé,clar,crec,o sigui,perquè,vull dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-054	spk-059	5	clar,crec,doncs,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-055	spk-056	3	bé,doncs,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-055	spk-059	3	doncs,perquè,és a dir	semblança textual small; no és relació dialectal; pendent d’audició
+spk-056	spk-059	3	doncs,llavors,perquè	semblança textual small; no és relació dialectal; pendent d’audició
+spk-057	spk-059	3	clar,crec,perquè	semblança textual small; no és relació dialectal; pendent d’audició

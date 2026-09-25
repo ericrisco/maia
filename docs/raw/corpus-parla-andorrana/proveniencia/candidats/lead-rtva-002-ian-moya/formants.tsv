@@ -1,0 +1,16 @@
+forma	segment	inici_forma_s	final_forma_s	clip	inici_clip_s	final_clip_s	small	base	prioritat	centre_rel_s	f0_hz	f1_hz	f2_hz	f3_hz	estat_mesura
+a nivell	72	225.920	231.120	clips/ian__a-nivell__225.92.wav	224.920	232.120	3	2	A-consens-ASR	3.600	145.18	204.24	1620.63	2804.44	mesura instrumental; pendent d’audició
+a veure	34	114.560	117.720	clips/ian__a-veure__114.56.wav	113.560	118.720	5	4	A-consens-ASR	2.580	190.68	877.09	2383.99	3597.70	mesura instrumental; pendent d’audició
+bé	20	80.960	83.760	clips/ian__b__80.96.wav	79.960	84.760	10	11	A-consens-ASR	2.400	60.30	1543.48	2017.31	3409.74	mesura instrumental; pendent d’audició
+clar	57	174.800	177.280	clips/ian__clar__174.80.wav	173.800	178.280	15	14	A-consens-ASR	2.240		881.01	1672.20	3395.23	mesura instrumental; pendent d’audició
+de fet	25	92.840	94.840	clips/ian__de-fet__92.84.wav	91.840	95.840	6	6	A-consens-ASR	2.000	126.13	220.51	2067.94	2569.78	mesura instrumental; pendent d’audició
+doncs	20	80.960	83.760	clips/ian__doncs__80.96.wav	79.960	84.760	21	20	A-consens-ASR	2.400	60.30	1543.48	2017.31	3409.74	mesura instrumental; pendent d’audició
+evidentment	412	1242.760	1248.760	clips/ian__evidentment__1242.76.wav	1241.760	1249.760	1	1	A-consens-ASR	4.000		1193.88	1590.53	2461.28	mesura instrumental; pendent d’audició
+llavors	37	123.440	125.160	clips/ian__llavors__123.44.wav	122.440	126.160	25	14	A-consens-ASR	1.860		1668.69	2385.59	4004.91	mesura instrumental; pendent d’audició
+no?	92	297.080	299.720	clips/ian__no__297.08.wav	296.080	300.720	12	13	A-consens-ASR	2.320		762.17	1512.20	2574.73	mesura instrumental; pendent d’audició
+o sigui	28	100.080	102.560	clips/ian__o-sigui__100.08.wav	99.080	103.560	20	10	A-consens-ASR	2.240	79.29	2305.37	2635.97	3320.13	mesura instrumental; pendent d’audició
+per tant	394	1186.720	1190.040	clips/ian__per-tant__1186.72.wav	1185.720	1191.040	1	1	A-consens-ASR	2.660	194.52	561.34	1834.93	2809.96	mesura instrumental; pendent d’audició
+perquè	26	94.920	96.920	clips/ian__perqu__94.92.wav	93.920	97.920	36	35	A-consens-ASR	2.000	145.61	612.49	1625.38	2479.27	mesura instrumental; pendent d’audició
+és a dir	173	539.760	549.160	clips/ian__s-a-dir__539.76.wav	538.760	550.160	3	3	A-consens-ASR	5.700	139.67	501.78	798.25	3401.12	mesura instrumental; pendent d’audició
+Escaldes	10	56.960	60.560	clips/ian__escaldes__56.96.wav	55.960	61.560	3	1	A-consens-ASR	2.800	292.01	456.29	2058.83	2737.38	mesura instrumental; pendent d’audició
+vull dir	58	177.360	180.240	clips/ian__vull-dir__177.36.wav	176.360	181.240	3	0	B-un-model-ASR	2.440	109.57	445.14	1455.28	2361.28	mesura instrumental; pendent d’audició

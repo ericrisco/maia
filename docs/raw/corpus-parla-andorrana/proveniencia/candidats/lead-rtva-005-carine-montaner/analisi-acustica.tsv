@@ -1,0 +1,23 @@
+forma	segment	clip	inici_forma_s	final_forma_s	durada_s	veu_proporcio	rms_p10_db	rms_p50_db	rms_p90_db	zcr_p10	zcr_p90	f0_median_hz	f0_iqr_hz	centroid_median_hz	centroid_p90_hz	segments_veu	pausa_mediana_s	mostres_f0	estat
+a nivell	37	clips/carine-montaner__a-nivell__113.72.wav	113.720	117.720	6.000	0.5920	-54.05	-33.20	-26.69	0.0297	0.2667	195.31	39.06	1336.54	2668.17	19	0.060	90	descriptor orientatiu; pendent d’audició
+a veure	224	clips/carine-montaner__a-veure__691.44.wav	691.440	693.560	4.120	0.4927	-53.38	-35.18	-29.63	0.0288	0.1922	179.69	31.25	1035.84	2780.85	16	0.100	49	descriptor orientatiu; pendent d’audició
+bueno	388	clips/carine-montaner__bueno__1120.36.wav	1120.360	1123.400	5.040	0.4143	-61.89	-37.64	-27.56	0.0329	0.2426	117.19	31.25	1253.02	2293.27	14	0.120	53	descriptor orientatiu; pendent d’audició
+bé	26	clips/carine-montaner__b__82.12.wav	82.120	86.080	5.960	0.3838	-72.83	-39.44	-27.13	0.0275	0.2275	179.69	93.75	1384.04	2624.43	11	0.120	57	descriptor orientatiu; pendent d’audició
+clar	69	clips/carine-montaner__clar__215.04.wav	215.040	218.920	5.880	0.2867	-63.02	-39.67	-30.54	0.0332	0.3146	195.31	62.50	1222.79	3272.16	15	0.160	41	descriptor orientatiu; pendent d’audició
+de fet	256	clips/carine-montaner__de-fet__777.08.wav	777.080	780.200	5.120	0.5529	-55.56	-34.12	-26.83	0.0266	0.2660	195.31	56.64	1140.08	2781.81	20	0.080	72	descriptor orientatiu; pendent d’audició
+diguem	163	clips/carine-montaner__diguem__506.60.wav	506.600	508.680	4.080	0.7389	-47.48	-30.81	-22.31	0.0332	0.3243	210.94	158.20	1047.05	2661.61	13	0.060	76	descriptor orientatiu; pendent d’audició
+doncs	33	clips/carine-montaner__doncs__105.16.wav	105.160	107.080	3.920	0.3795	-58.79	-37.40	-29.42	0.0282	0.1480	136.72	87.89	1064.19	2168.09	15	0.090	36	descriptor orientatiu; pendent d’audició
+evidentment	290	clips/carine-montaner__evidentment__868.60.wav	868.600	871.800	5.200	0.5483	-47.45	-33.68	-26.80	0.0263	0.4466	179.69	48.83	1086.36	3831.03	18	0.060	72	descriptor orientatiu; pendent d’audició
+llavors	231	clips/carine-montaner__llavors__711.88.wav	711.880	714.480	4.600	0.4541	-62.56	-36.40	-27.82	0.0313	0.4341	187.50	93.75	1442.23	4223.54	13	0.100	53	descriptor orientatiu; pendent d’audició
+no?	78	clips/carine-montaner__no__245.12.wav	245.120	248.200	5.080	0.3874	-57.52	-38.18	-28.47	0.0282	0.3039	128.91	46.88	1112.32	3082.42	19	0.120	48	descriptor orientatiu; pendent d’audició
+o sigui	243	clips/carine-montaner__o-sigui__742.28.wav	742.280	745.640	5.360	0.4382	-60.60	-38.09	-26.19	0.0250	0.2648	156.25	144.53	1084.16	2951.33	18	0.080	59	descriptor orientatiu; pendent d’audició
+per tant	47	clips/carine-montaner__per-tant__145.64.wav	145.640	148.840	5.200	0.5290	-46.16	-34.53	-29.30	0.0250	0.2592	195.31	31.25	972.08	2690.68	19	0.100	69	descriptor orientatiu; pendent d’audició
+perquè	39	clips/carine-montaner__perqu__120.56.wav	120.560	125.640	7.080	0.6969	-53.31	-31.63	-26.41	0.0250	0.2851	203.12	46.88	1236.35	2897.43	17	0.080	127	descriptor orientatiu; pendent d’audició
+vull dir	732	clips/carine-montaner__vull-dir__2105.40.wav	2105.400	2107.400	4.000	0.6884	-50.60	-29.26	-21.39	0.0282	0.2839	222.66	109.38	1271.08	3690.36	14	0.060	68	descriptor orientatiu; pendent d’audició
+és a dir	44	clips/carine-montaner__s-a-dir__136.40.wav	136.400	140.200	5.800	0.5917	-58.67	-33.26	-26.60	0.0297	0.3080	226.56	62.50	1185.61	3145.42	18	0.080	85	descriptor orientatiu; pendent d’audició
+Sant Julià	913	clips/carine-montaner__sant-juli__2628.52.wav	2628.520	2631.400	4.880	0.4321	-64.85	-37.89	-25.29	0.0285	0.3077	144.53	62.50	1223.90	3437.52	11	0.080	52	descriptor orientatiu; pendent d’audició
+comunal	197	clips/carine-montaner__comunal__610.92.wav	610.920	613.320	4.400	0.5890	-60.26	-31.44	-24.75	0.0282	0.1302	218.75	60.55	1043.26	2216.97	10	0.080	66	descriptor orientatiu; pendent d’audició
+comunals	189	clips/carine-montaner__comunals__582.56.wav	582.560	584.800	4.240	0.5877	-62.85	-33.16	-25.63	0.0250	0.1362	164.06	78.12	969.47	1943.86	14	0.080	62	descriptor orientatiu; pendent d’audició
+comú	201	clips/carine-montaner__com__622.64.wav	622.640	626.040	5.400	0.6208	-52.59	-31.16	-24.40	0.0266	0.1856	203.12	58.59	1055.27	2657.55	18	0.100	83	descriptor orientatiu; pendent d’audició
+parròquia	218	clips/carine-montaner__parr-quia__671.88.wav	671.880	673.840	3.960	0.5685	-57.14	-34.34	-28.16	0.0282	0.1947	132.81	125.00	1021.97	2535.65	18	0.060	55	descriptor orientatiu; pendent d’audició
+Massana	928	clips/carine-montaner__massana__2676.84.wav	2676.840	2678.840	4.000	0.7588	-48.99	-26.56	-20.81	0.0341	0.2182	218.75	119.14	1145.23	2568.79	11	0.070	76	descriptor orientatiu; pendent d’audició

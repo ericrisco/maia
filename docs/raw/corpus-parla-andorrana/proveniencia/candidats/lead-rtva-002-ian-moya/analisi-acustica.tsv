@@ -1,0 +1,16 @@
+forma	segment	clip	inici_forma_s	final_forma_s	durada_s	veu_proporcio	rms_p10_db	rms_p50_db	rms_p90_db	zcr_p10	zcr_p90	f0_median_hz	f0_iqr_hz	centroid_median_hz	centroid_p90_hz	segments_veu	pausa_mediana_s	mostres_f0	estat
+a nivell	72	clips/ian__a-nivell__225.92.wav	225.920	231.120	7.200	0.8719	-36.95	-21.58	-16.77	0.0329	0.3784	132.81	23.44	1434.56	3864.37	15	0.030	155	descriptor orientatiu; pendent d’audició
+a veure	34	clips/ian__a-veure__114.56.wav	114.560	117.720	5.160	0.8132	-39.85	-22.65	-16.93	0.0423	0.3477	140.62	23.44	1455.39	3485.89	10	0.040	105	descriptor orientatiu; pendent d’audició
+bé	20	clips/ian__b__80.96.wav	80.960	83.760	4.800	0.7280	-43.21	-26.92	-19.06	0.0498	0.2717	140.62	44.92	1463.23	3537.54	10	0.040	86	descriptor orientatiu; pendent d’audició
+clar	57	clips/ian__clar__174.80.wav	174.800	177.280	4.480	0.8789	-43.31	-22.38	-15.65	0.0332	0.3299	125.00	23.44	1442.84	3502.64	4	0.020	98	descriptor orientatiu; pendent d’audició
+de fet	25	clips/ian__de-fet__92.84.wav	92.840	94.840	4.000	0.7789	-47.91	-22.28	-17.80	0.0344	0.2926	148.44	46.88	1424.86	2846.00	6	0.040	79	descriptor orientatiu; pendent d’audició
+doncs	20	clips/ian__doncs__80.96.wav	80.960	83.760	4.800	0.7280	-43.21	-26.92	-19.06	0.0498	0.2717	140.62	44.92	1463.23	3537.54	10	0.040	86	descriptor orientatiu; pendent d’audició
+evidentment	412	clips/ian__evidentment__1242.76.wav	1242.760	1248.760	8.000	0.7594	-47.88	-24.19	-15.97	0.0372	0.4448	125.00	23.44	1512.36	3759.73	12	0.060	149	descriptor orientatiu; pendent d’audició
+llavors	37	clips/ian__llavors__123.44.wav	123.440	125.160	3.720	0.7568	-47.78	-23.10	-16.43	0.0304	0.3568	128.91	29.30	1452.88	3330.15	9	0.040	70	descriptor orientatiu; pendent d’audició
+no?	92	clips/ian__no__297.08.wav	297.080	299.720	4.640	0.8442	-42.51	-22.04	-17.41	0.0313	0.3396	148.44	54.69	1462.69	3224.19	10	0.020	100	descriptor orientatiu; pendent d’audició
+o sigui	28	clips/ian__o-sigui__100.08.wav	100.080	102.560	4.480	0.8655	-38.12	-21.62	-15.51	0.0469	0.3433	179.69	80.08	1412.59	3144.54	11	0.020	100	descriptor orientatiu; pendent d’audició
+per tant	394	clips/ian__per-tant__1186.72.wav	1186.720	1190.040	5.320	0.8113	-42.89	-22.68	-16.69	0.0351	0.1844	195.31	62.50	1315.29	2600.51	19	0.040	110	descriptor orientatiu; pendent d’audició
+perquè	26	clips/ian__perqu__94.92.wav	94.920	96.920	4.000	0.8794	-38.45	-20.51	-17.50	0.0376	0.2989	132.81	23.44	1394.94	3037.63	7	0.040	89	descriptor orientatiu; pendent d’audició
+és a dir	173	clips/ian__s-a-dir__539.76.wav	539.760	549.160	11.400	0.8559	-39.13	-21.87	-16.34	0.0297	0.4291	132.81	39.06	1573.98	3890.36	16	0.060	245	descriptor orientatiu; pendent d’audició
+Escaldes	10	clips/ian__escaldes__56.96.wav	56.960	60.560	5.600	0.9892	-26.95	-18.82	-15.04	0.0532	0.3152	210.94	82.03	1819.64	3187.52	3	0.020	139	descriptor orientatiu; pendent d’audició
+vull dir	58	clips/ian__vull-dir__177.36.wav	177.360	180.240	4.880	0.8025	-43.96	-23.07	-15.63	0.0423	0.3925	125.00	117.19	1654.41	3638.36	8	0.060	99	descriptor orientatiu; pendent d’audició

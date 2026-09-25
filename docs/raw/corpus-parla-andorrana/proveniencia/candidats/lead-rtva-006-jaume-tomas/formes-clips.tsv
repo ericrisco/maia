@@ -1,0 +1,15 @@
+forma	segment	inici_forma_s	final_forma_s	clip	inici_clip_s	final_clip_s	small	base	prioritat	estat
+a nivell	146	434.960	438.480	clips/jaume-tomas__a-nivell__434.96.wav	433.960	439.480	10	9	A-consens-ASR	pendent d'audició
+bueno	27	79.360	84.240	clips/jaume-tomas__bueno__79.36.wav	78.360	85.240	17	20	A-consens-ASR	pendent d'audició
+bé	73	218.480	221.920	clips/jaume-tomas__b__218.48.wav	217.480	222.920	12	13	A-consens-ASR	pendent d'audició
+clar	24	71.760	73.760	clips/jaume-tomas__clar__71.76.wav	70.760	74.760	19	13	A-consens-ASR	pendent d'audició
+de fet	285	916.000	918.000	clips/jaume-tomas__de-fet__916.00.wav	915.000	919.000	1	2	A-consens-ASR	pendent d'audició
+doncs	9	35.360	37.120	clips/jaume-tomas__doncs__35.36.wav	34.360	38.120	11	4	A-consens-ASR	pendent d'audició
+evidentment	137	404.160	408.400	clips/jaume-tomas__evidentment__404.16.wav	403.160	409.400	5	5	A-consens-ASR	pendent d'audició
+llavors	39	119.280	121.600	clips/jaume-tomas__llavors__119.28.wav	118.280	122.600	10	7	A-consens-ASR	pendent d'audició
+no?	54	158.800	161.600	clips/jaume-tomas__no__158.80.wav	157.800	162.600	56	76	A-consens-ASR	pendent d'audició
+per tant	458	1393.880	1395.880	clips/jaume-tomas__per-tant__1393.88.wav	1392.880	1396.880	1	1	A-consens-ASR	pendent d'audició
+perquè	12	43.120	45.600	clips/jaume-tomas__perqu__43.12.wav	42.120	46.600	32	32	A-consens-ASR	pendent d'audició
+vull dir	461	1401.120	1405.120	clips/jaume-tomas__vull-dir__1401.12.wav	1400.120	1406.120	1	1	A-consens-ASR	pendent d'audició
+és a dir	41	123.760	126.480	clips/jaume-tomas__s-a-dir__123.76.wav	122.760	127.480	13	12	A-consens-ASR	pendent d'audició
+o sigui	385	1221.280	1223.640	clips/jaume-tomas__o-sigui__1221.28.wav	1220.280	1224.640	1	0	B-un-model-ASR	pendent d'audició

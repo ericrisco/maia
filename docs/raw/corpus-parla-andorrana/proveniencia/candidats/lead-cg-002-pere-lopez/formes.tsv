@@ -1,0 +1,4 @@
+model	categoria	forma	segment	inici_s	final_s	prob_min_segment	text_asr	estat
+small	territorial	andorrana	9	32.800	38.400	0.0000	la societat andorrana és avui una societat molt plural i molt diversa.	candidat ASR; pendent d'audició
+small	discurs	perquè	12	48.400	54.800	0.0000	perquè el país plural que som i les seves múltiples realitats existents	candidat ASR; pendent d'audició
+base	discurs	perquè	13	49.400	52.400	0.0000	Perquè el país plural, que som,	candidat ASR; pendent d'audició

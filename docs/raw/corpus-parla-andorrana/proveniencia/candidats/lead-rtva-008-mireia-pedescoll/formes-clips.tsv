@@ -1,0 +1,20 @@
+forma	segment	inici_forma_s	final_forma_s	clip	inici_clip_s	final_clip_s	small	base	prioritat	estat
+a veure	21	53.400	57.400	clips/mireia-pedescoll__a-veure__53.40.wav	52.400	58.400	14	14	A-consens-ASR	pendent d'audició
+aleshores	61	164.040	168.040	clips/mireia-pedescoll__aleshores__164.04.wav	163.040	169.040	13	5	A-consens-ASR	pendent d'audició
+bueno	22	57.480	59.800	clips/mireia-pedescoll__bueno__57.48.wav	56.480	60.800	9	13	A-consens-ASR	pendent d'audició
+bé	7	21.600	23.600	clips/mireia-pedescoll__b__21.60.wav	20.600	24.600	21	23	A-consens-ASR	pendent d'audició
+clar	15	40.920	42.920	clips/mireia-pedescoll__clar__40.92.wav	39.920	43.920	15	12	A-consens-ASR	pendent d'audició
+doncs	2	11.200	13.200	clips/mireia-pedescoll__doncs__11.20.wav	10.200	14.200	32	35	A-consens-ASR	pendent d'audició
+evidentment	22	57.480	59.800	clips/mireia-pedescoll__evidentment__57.48.wav	56.480	60.800	7	7	A-consens-ASR	pendent d'audició
+llavors	156	441.320	443.800	clips/mireia-pedescoll__llavors__441.32.wav	440.320	444.800	1	1	A-consens-ASR	pendent d'audició
+no?	74	207.240	209.240	clips/mireia-pedescoll__no__207.24.wav	206.240	210.240	16	19	A-consens-ASR	pendent d'audició
+per tant	46	124.440	126.760	clips/mireia-pedescoll__per-tant__124.44.wav	123.440	127.760	8	8	A-consens-ASR	pendent d'audició
+perquè	38	103.000	105.000	clips/mireia-pedescoll__perqu__103.00.wav	102.000	106.000	26	27	A-consens-ASR	pendent d'audició
+vull dir	182	515.480	518.760	clips/mireia-pedescoll__vull-dir__515.48.wav	514.480	519.760	7	8	A-consens-ASR	pendent d'audició
+és a dir	78	216.920	218.920	clips/mireia-pedescoll__s-a-dir__216.92.wav	215.920	219.920	2	4	A-consens-ASR	pendent d'audició
+Escaldes	10	29.640	31.640	clips/mireia-pedescoll__escaldes__29.64.wav	28.640	32.640	3	2	A-consens-ASR	pendent d'audició
+comú	214	606.920	609.800	clips/mireia-pedescoll__com__606.92.wav	605.920	610.800	1	2	A-consens-ASR	pendent d'audició
+parròquia	145	403.080	407.720	clips/mireia-pedescoll__parr-quia__403.08.wav	402.080	408.720	2	4	A-consens-ASR	pendent d'audició
+a nivell	489	1348.360	1350.360	clips/mireia-pedescoll__a-nivell__1348.36.wav	1347.360	1351.360	1	0	B-un-model-ASR	pendent d'audició
+de fet	144	398.600	403.000	clips/mireia-pedescoll__de-fet__398.60.wav	397.600	404.000	1	0	B-un-model-ASR	pendent d'audició
+Canillo	165	466.200	468.920	clips/mireia-pedescoll__canillo__466.20.wav	465.200	469.920	2	0	B-un-model-ASR	pendent d'audició

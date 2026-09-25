@@ -1,0 +1,61 @@
+id_parlant	nom_public	n_registres_font	n_intervals	n_intervals_generals	n_intervals_escasses	pendent	confirmada	descartada	incerta	amb_nota	amb_variant	amb_fonetica	amb_prosodia	estat_global
+spk-001	Alan Ward	1	10	10	0	10	0	0	0	0	0	0	0	pendent
+spk-002	Albert Gelabert Grau	1	16	14	2	16	0	0	0	0	0	0	0	pendent
+spk-003	Albert Roig	1	10	10	0	10	0	0	0	0	0	0	0	pendent
+spk-004	Albert Rossa Naudí	1	4	4	0	4	0	0	0	0	0	0	0	pendent
+spk-005	Alfred Llahí	1	12	10	2	12	0	0	0	0	0	0	0	pendent
+spk-006	Andreu Gaspà Picart	1	9	9	0	9	0	0	0	0	0	0	0	pendent
+spk-007	Angelina Mas	1	17	16	1	17	0	0	0	0	0	0	0	pendent
+spk-008	Antoni Armengol Vila	2	24	24	0	24	0	0	0	0	0	0	0	pendent
+spk-009	Antoni Jordi Areny	1	11	11	0	11	0	0	0	0	0	0	0	pendent
+spk-010	Antoni Morell	1	14	13	1	14	0	0	0	0	0	0	0	pendent
+spk-011	Carles Sasplugas	1	9	8	1	9	0	0	0	0	0	0	0	pendent
+spk-012	Casimir Arajol	1	0	0	0	0	0	0	0	0	0	0	0	complet
+spk-013	Cielo	1	3	3	0	3	0	0	0	0	0	0	0	pendent
+spk-014	Daniel Armengol	1	10	10	0	10	0	0	0	0	0	0	0	pendent
+spk-015	Enric Casadevall Medrano	1	14	13	1	14	0	0	0	0	0	0	0	pendent
+spk-016	Enric Dolsa Font	2	28	28	0	28	0	0	0	0	0	0	0	pendent
+spk-017	Esther Jover	1	8	8	0	8	0	0	0	0	0	0	0	pendent
+spk-018	Eudald Guillamet	1	14	13	1	14	0	0	0	0	0	0	0	pendent
+spk-019	Francina Pons	1	8	6	2	8	0	0	0	0	0	0	0	pendent
+spk-020	Gabriel Dallerès Codina	2	25	25	0	25	0	0	0	0	0	0	0	pendent
+spk-021	Gualbert Osorio	1	0	0	0	0	0	0	0	0	0	0	0	complet
+spk-022	Guillem Areny Argelich	1	14	11	3	14	0	0	0	0	0	0	0	pendent
+spk-023	Irene Clua	1	4	4	0	4	0	0	0	0	0	0	0	pendent
+spk-024	Jaume Bartumeu Cassany	1	17	15	2	17	0	0	0	0	0	0	0	pendent
+spk-025	Joan Santamaria Terré	1	9	9	0	9	0	0	0	0	0	0	0	pendent
+spk-026	Jordi Farràs Forné	1	15	13	2	15	0	0	0	0	0	0	0	pendent
+spk-027	Jordi Marquet	1	11	11	0	11	0	0	0	0	0	0	0	pendent
+spk-028	Jordi Mas Torres	1	10	10	0	10	0	0	0	0	0	0	0	pendent
+spk-029	Jordi Torres Alís	1	7	7	0	7	0	0	0	0	0	0	0	pendent
+spk-030	Josep Areny	1	12	12	0	12	0	0	0	0	0	0	0	pendent
+spk-031	Josep Areny Fité	1	11	11	0	11	0	0	0	0	0	0	0	pendent
+spk-032	Josep Casal	1	6	6	0	6	0	0	0	0	0	0	0	pendent
+spk-033	Josep Garrallà Rossell	1	11	11	0	11	0	0	0	0	0	0	0	pendent
+spk-034	Josep Marsal Riba	1	9	9	0	9	0	0	0	0	0	0	0	pendent
+spk-035	Ladislau Baró Solà	1	13	13	0	13	0	0	0	0	0	0	0	pendent
+spk-036	Ludmilla Lacueva	1	7	5	2	7	0	0	0	0	0	0	0	pendent
+spk-037	Maria Reig Moles	1	13	13	0	13	0	0	0	0	0	0	0	pendent
+spk-038	Mercè Segura	1	13	13	0	13	0	0	0	0	0	0	0	pendent
+spk-039	Miquel Aleix Areny	2	23	23	0	23	0	0	0	0	0	0	0	pendent
+spk-040	Miquel Armengol Pons	1	15	15	0	15	0	0	0	0	0	0	0	pendent
+spk-041	Miquel Naudi Casal	1	9	9	0	9	0	0	0	0	0	0	0	pendent
+spk-042	Mossèn Ramon de Canillo	1	14	14	0	14	0	0	0	0	0	0	0	pendent
+spk-043	Nadia Aleix Tugas	2	24	23	1	24	0	0	0	0	0	0	0	pendent
+spk-044	Olga Adellach Coma	1	17	15	2	17	0	0	0	0	0	0	0	pendent
+spk-045	Patrick Pérez	1	12	12	0	12	0	0	0	0	0	0	0	pendent
+spk-046	Pere Altimir Pintat	1	11	11	0	11	0	0	0	0	0	0	0	pendent
+spk-047	Pere Torres	1	3	3	0	3	0	0	0	0	0	0	0	pendent
+spk-048	Ramon Canut Bové	2	26	26	0	26	0	0	0	0	0	0	0	pendent
+spk-049	Robert Cassany Vila	1	8	8	0	8	0	0	0	0	0	0	0	pendent
+spk-050	Robert Lizarte	1	10	8	2	10	0	0	0	0	0	0	0	pendent
+spk-051	Rosa Maria Mandicó Alcobé	1	15	15	0	15	0	0	0	0	0	0	0	pendent
+spk-052	Rosa Vidal	1	4	4	0	4	0	0	0	0	0	0	0	pendent
+spk-053	Roser Bastida	1	16	14	2	16	0	0	0	0	0	0	0	pendent
+spk-054	Roser Jordana	1	12	12	0	12	0	0	0	0	0	0	0	pendent
+spk-055	Ruth Casabella	1	5	5	0	5	0	0	0	0	0	0	0	pendent
+spk-056	Sara Ubach	1	5	5	0	5	0	0	0	0	0	0	0	pendent
+spk-057	Teo Armengol	1	15	13	2	15	0	0	0	0	0	0	0	pendent
+spk-058	Trini Mandicó Baró	1	5	5	0	5	0	0	0	0	0	0	0	pendent
+spk-059	Xavier Planas	1	8	8	0	8	0	0	0	0	0	0	0	pendent
+spk-060	Àngels Mach	1	1	0	1	1	0	0	0	0	0	0	0	pendent

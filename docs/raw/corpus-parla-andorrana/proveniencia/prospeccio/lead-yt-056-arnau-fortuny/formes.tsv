@@ -1,0 +1,53 @@
+forma	categoria	small	base	consens	model_localitzador	context_small	context_base	prob_min_segment_small	prob_mean_segment_small	prob_min_segment_base	prob_mean_segment_base	clip	inici_ms	final_ms	estat
+a nivell	discurs	0	1	no	base		Però s'ha deixat utilitzar a nivell.			0.1367	0.6453	lead-yt-047__01__a-nivell.wav	1357080	1358880	ASR textual; atribució i audició pendents
+a veure	discurs	7	5	sí	small	A veure, normal. La meva vida no és normal, no? Perquè me'n vaig de viatge,	A veure, normal, la meva vida no és normal,	0.3877	0.8734	0.4237	0.8197	lead-yt-047__02__a-veure.wav	98300	103680	ASR textual; atribució i audició pendents
+aleshores	discurs	2	0	no	small	I aleshores, amb què recomanes pagar sigui Andorra, sigui Espanya, sigui França?		0.2367	0.7859			lead-yt-047__03__aleshores.wav	1276820	1281380	ASR textual; atribució i audició pendents
+aviam	discurs	0	0	no											ASR textual; atribució i audició pendents
+bueno	discurs	20	16	sí	small	15 anys, bueno, bueno.	Bueno, vingut aquest demàtica perquè hi ha cap andorra.	0.2458	0.5338	0.0996	0.6362	lead-yt-047__05__bueno.wav	32000	34000	ASR textual; atribució i audició pendents
+bé	discurs	22	27	sí	small	Bona nit, molt bé.	Molt bé. És un país que t'encanta i t'agrada, eh?	0.0720	0.7451	0.4512	0.8294	lead-yt-047__06__b.wav	2000	4000	ASR textual; atribució i audició pendents
+clar	discurs	41	38	sí	small	Clar, però tu no has entrat al Casino, no pots entrar?	Clar, potser no ha sentrat el casino, no pot centrar?	0.5519	0.8539	0.1780	0.7222	lead-yt-047__07__clar.wav	49500	51500	ASR textual; atribució i audició pendents
+de fet	discurs	6	4	sí	small	Aquest any ho he decidit deixar, de fet.	De fet, amb alguns països, ja passa això de la huella.	0.5017	0.8714	0.4861	0.8411	lead-yt-047__08__de-fet.wav	549340	551340	ASR textual; atribució i audició pendents
+diguem	discurs	7	4	sí	small	o sigui, no treballo al mercat d'aquí, diguem, europeus, o sigui, que treballo però molt poc,	Sí, i tant. Sí. Diguem la web, si la vols dir.	0.2970	0.8590	0.2924	0.7530	lead-yt-047__09__diguem.wav	243920	247920	ASR textual; atribució i audició pendents
+doncs	discurs	3	4	sí	small	no tinc la teva capacitat ni el teu cervell, doncs que ho tinguis en compte.	doncs que ho tingués en compte.	0.6163	0.8972	0.3795	0.7328	lead-yt-047__10__doncs.wav	82300	87240	ASR textual; atribució i audició pendents
+evidentment	discurs	5	2	sí	small	Sí, no, evidentment.	Sí, no, evidentment, sí.	0.6740	0.9183	0.3255	0.8319	lead-yt-047__11__evidentment.wav	18000	20000	ASR textual; atribució i audició pendents
+llavors	discurs	7	1	sí	small	Que passaràs per allí, veuràs un ordinador, posaràs el que has comprat, segurament llavors acabaràs de vigilar si no, evidentment.	Llavors jo els bancs, els hi tinc una mica de tíria, perquè...	0.0657	0.8018	0.2283	0.7072	lead-yt-047__12__llavors.wav	652900	658740	ASR textual; atribució i audició pendents
+no?	discurs	14	10	sí	small	A veure, normal. La meva vida no és normal, no? Perquè me'n vaig de viatge,	Que vens trampes, no?	0.3877	0.8734	0.4105	0.6839	lead-yt-047__13__no.wav	98300	103680	ASR textual; atribució i audició pendents
+o sigui	discurs	19	10	sí	small	O sigui, potser quan vaig vendre amb una fase bastant inicial,	És que són com a txets del joc, o sigui, són com a trampes, diguem-ho així.	0.3615	0.8143	0.1392	0.6665	lead-yt-047__14__o-sigui.wav	181600	185560	ASR textual; atribució i audició pendents
+per tant	discurs	8	5	sí	small	No queixes, per tant, és una vida voluntària, no és que vagis a València el porta a descarregar gent.	No et queixes, per tant, és una veritat voluntària, no és que vagis a valència el porta descapegar gent.	0.4237	0.8624	0.0985	0.6622	lead-yt-047__15__per-tant.wav	120400	125400	ASR textual; atribució i audició pendents
+perquè	discurs	41	37	sí	small	t'ho dic perquè tu com que fas negocis d'aquests una mica estrans, o que jo no entenc que saps que jo no entenc que se n'escapen,	Bueno, vingut aquest demàtica perquè hi ha cap andorra.	0.3342	0.8044	0.0996	0.6362	lead-yt-047__16__perqu.wav	74700	82300	ASR textual; atribució i audició pendents
+vull dir	discurs	1	1	sí	small	-No, m'estic molt perdut. -No, vull dir que tu surts pel carrer, diguem-ho així,	No, vull dir que tu surts pel carrer, digue-m'ho així,	0.2857	0.7693	0.3432	0.7394	lead-yt-047__17__vull-dir.wav	399640	406800	ASR textual; atribució i audició pendents
+és a dir	discurs	4	5	sí	small	Que poden ser, és a dir,	Que poden ser, és a dir, hi ha hagut una web físic? No, no, no, sí, sí, sí.	0.3172	0.7420	0.0198	0.5086	lead-yt-047__18__s-a-dir.wav	314800	317200	ASR textual; atribució i audició pendents
+Canillo	territorial	0	0	no											ASR textual; atribució i audició pendents
+Escaldes	territorial	0	0	no											ASR textual; atribució i audició pendents
+Massana	territorial	0	0	no											ASR textual; atribució i audició pendents
+Ordino	territorial	0	0	no											ASR textual; atribució i audició pendents
+Sant Julià	territorial	0	0	no											ASR textual; atribució i audició pendents
+aiguats	territorial	0	0	no											ASR textual; atribució i audició pendents
+andorrana	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunal	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunals	territorial	0	0	no											ASR textual; atribució i audició pendents
+comuns	territorial	0	0	no											ASR textual; atribució i audició pendents
+comú	territorial	0	0	no											ASR textual; atribució i audició pendents
+copríncep	territorial	0	0	no											ASR textual; atribució i audició pendents
+coprínceps	territorial	0	0	no											ASR textual; atribució i audició pendents
+padrí	territorial	0	0	no											ASR textual; atribució i audició pendents
+parròquia	territorial	0	0	no											ASR textual; atribució i audició pendents
+santuari	territorial	0	0	no											ASR textual; atribució i audició pendents
+veguer	territorial	0	0	no											ASR textual; atribució i audició pendents
+Arnau	persona	6	6	sí	small	Quan has vingut, Arnau, bona nit com estàs?	Quan es vingut, arnau, quan ha anit com estàs.	0.2570	0.8130	0.0796	0.6521	lead-yt-047__36__arnau.wav	0	2000	ASR textual; atribució i audició pendents
+emprenedor	economia	3	0	no	small	"La teva capacitat d'emprenedoria, perquè teniu posat aquí un cartell, el Cairon, que es diu ""artneu fortuny emprenedor""."		0.1965	0.7046			lead-yt-047__37__emprenedor.wav	136600	142600	ASR textual; atribució i audició pendents
+emprenedoria	economia	1	0	no	small	"La teva capacitat d'emprenedoria, perquè teniu posat aquí un cartell, el Cairon, que es diu ""artneu fortuny emprenedor""."		0.1965	0.7046			lead-yt-047__38__emprenedoria.wav	136600	142600	ASR textual; atribució i audició pendents
+empresa	economia	4	2	sí	small	MLE Payments, que és una empresa reina unit, però no Correos-Prepago comercialitza les targetes amb la seva marca,	Parlem per la tarjeta de païpal, pel que té empresa i pel seu usuari que ens estigui veient que no tinguin empresa, pot pagar amb la tarjeta amb l'aplicació de païpal?	0.1444	0.8531	0.0221	0.6344	lead-yt-047__39__empresa.wav	981140	987140	ASR textual; atribució i audició pendents
+negoci	economia	5	5	sí	small	El negoci és escalat bastant.	El negoci és calat bastant.	0.2835	0.8212	0.3684	0.7815	lead-yt-047__40__negoci.wav	178560	181520	ASR textual; atribució i audició pendents
+projecte	economia	0	0	no											ASR textual; atribució i audició pendents
+inversió	economia	0	0	no											ASR textual; atribució i audició pendents
+tecnologia	tecnologia	0	0	no											ASR textual; atribució i audició pendents
+digital	tecnologia	2	2	sí	small	Compen jocs? I van anar a arnau un noi de reus a comprar un servei digital?	s'acomprar amb servei digital? No, que és una pròpia.	0.2049	0.7859	0.1113	0.6064	lead-yt-047__44__digital.wav	283920	288720	ASR textual; atribució i audició pendents
+jocs	tecnologia	7	4	sí	small	Sí, pas els jocs, normalment.	Desitals, sí, pas dels jocs. Normalment.	0.2985	0.7577	0.1851	0.5727	lead-yt-047__45__jocs.wav	280320	282620	ASR textual; atribució i audició pendents
+videojocs	tecnologia	0	0	no											ASR textual; atribució i audició pendents
+Andorra	toponim	2	1	sí	small	Bé, he vingut aquest dematí cap aquí, cap a Andorra.	Bueno, vingut aquest demàtica perquè hi ha cap andorra.	0.1993	0.7094	0.0996	0.6362	lead-yt-047__47__andorra.wav	4000	6000	ASR textual; atribució i audició pendents
+andorrà	gentilici	0	0	no											ASR textual; atribució i audició pendents
+Barcelona	toponim	2	1	sí	small	a Barcelona he estat a València, fa poc i clar,	-No, no conec. -És el que has un missatge de Barcelona,	0.4478	0.8356	0.2073	0.7488	lead-yt-047__49__barcelona.wav	103680	106980	ASR textual; atribució i audició pendents
+Catalunya	toponim	1	1	sí	small	És el que és un missatger de Barcelona, de Catalunya, d'Espanya.	"de Catalunya, a d'Espanya, aquí es diu ""City Sherpa""."	0.3942	0.8767	0.3206	0.8048	lead-yt-047__50__catalunya.wav	690340	694340	ASR textual; atribució i audició pendents
+treball	societat	0	0	no											ASR textual; atribució i audició pendents
+futur	societat	1	1	sí	small	Escolta'm, i tu què treballes cada dia en temes econòmics al dinèfic i carnau, quin futur li veus tu?	Sí, carnau, quin futur hi veus tu.	0.1819	0.7683	0.1107	0.6609	lead-yt-047__52__futur.wav	720860	727020	ASR textual; atribució i audició pendents

@@ -1,0 +1,69 @@
+forma	categoria	small	base	consens	model_localitzador	context_small	context_base	prob_min_segment_small	prob_mean_segment_small	prob_min_segment_base	prob_mean_segment_base	clip	inici_ms	final_ms	estat
+a nivell	discurs	8	11	sí	small	Nosaltres hem aconseguit un sistema homologable a nivell fiscal	a nivell fiscal, de baixa tributació.	0.1865	0.8208	0.4984	0.8769	lead-yt-034__01__a-nivell.wav	188360	192320	ASR textual; atribució i audició pendents
+a veure	discurs	1	1	sí	small	va dir si Andorra no fa un canvi a veure si haurà de plegar de copríncep.	Ara estem a l'espera, a veure què passa amb la segona evolució.	0.1290	0.8129	0.3653	0.7969	lead-yt-034__02__a-veure.wav	46280	50040	ASR textual; atribució i audició pendents
+aleshores	discurs	0	0	no											ASR textual; atribució i audició pendents
+aviam	discurs	0	0	no											ASR textual; atribució i audició pendents
+bueno	discurs	0	0	no											ASR textual; atribució i audició pendents
+bé	discurs	2	8	sí	small	A la seva pregunta no ens fa cap bé.	És un canvi mental molt important i és que sempre s'ha dit que no es ben bé.	0.0372	0.8006	0.0241	0.5675	lead-yt-034__06__b.wav	596000	598280	ASR textual; atribució i audició pendents
+clar	discurs	0	3	no	base		Clar, la fiscalitat continuarà suposo sent la fiscalitat baixa			0.1904	0.7489	lead-yt-034__07__clar.wav	354760	358360	ASR textual; atribució i audició pendents
+de fet	discurs	0	0	no											ASR textual; atribució i audició pendents
+diguem	discurs	0	0	no											ASR textual; atribució i audició pendents
+doncs	discurs	0	3	no	base		I doncs, perquè aquesta posta molt decidida a l'ouvertura econòmica,			0.0359	0.7009	lead-yt-034__10__doncs.wav	342840	346680	ASR textual; atribució i audició pendents
+evidentment	discurs	1	4	sí	small	Però, evidentment, l'Andorra mai havia tingut atur.	A raonament és, evidentment,	0.2791	0.8654	0.1389	0.7589	lead-yt-034__11__evidentment.wav	854920	858640	ASR textual; atribució i audició pendents
+llavors	discurs	0	0	no											ASR textual; atribució i audició pendents
+no?	discurs	0	4	no	base		I també em paguem les conseqüències, no?			0.2924	0.7867	lead-yt-034__13__no.wav	140400	142800	ASR textual; atribució i audició pendents
+o sigui	discurs	0	0	no											ASR textual; atribució i audició pendents
+per tant	discurs	6	3	sí	small	Per tant, en Dorre ha fet un creixement durant quatre dècades.	I, per tant, em torre a fer-te un creixement durant 4 d'èquides de forma constant.	0.2003	0.7405	0.1102	0.6536	lead-yt-034__15__per-tant.wav	155480	159080	ASR textual; atribució i audició pendents
+perquè	discurs	12	23	sí	small	perquè hagués d'obrir jurídiques,	però això l'obertura econòmica, perquè hi hagués obertura econòmica,	0.2613	0.6281	0.1090	0.8167	lead-yt-034__16__perqu.wav	166120	167960	ASR textual; atribució i audició pendents
+vull dir	discurs	0	0	no											ASR textual; atribució i audició pendents
+és a dir	discurs	1	1	sí	small	És a dir, que vostè està en la banda del que diu que això és una	Aquí volia anar, és a dir, perquè tu no ens entengui.	0.3938	0.7319	0.0978	0.7030	lead-yt-034__18__s-a-dir.wav	1427560	1431440	ASR textual; atribució i audició pendents
+Canillo	territorial	0	0	no											ASR textual; atribució i audició pendents
+Escaldes	territorial	0	0	no											ASR textual; atribució i audició pendents
+Massana	territorial	0	0	no											ASR textual; atribució i audició pendents
+Ordino	territorial	0	0	no											ASR textual; atribució i audició pendents
+Sant Julià	territorial	0	0	no											ASR textual; atribució i audició pendents
+aiguats	territorial	0	0	no											ASR textual; atribució i audició pendents
+andorrana	territorial	2	0	no	small	La Constitució Andorrana diu que jo entenc els tres supòsits.		0.1080	0.7341			lead-yt-034__25__andorrana.wav	1248040	1252360	ASR textual; atribució i audició pendents
+comunal	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunals	territorial	0	0	no											ASR textual; atribució i audició pendents
+comuns	territorial	0	0	no											ASR textual; atribució i audició pendents
+comú	territorial	0	0	no											ASR textual; atribució i audició pendents
+copríncep	territorial	2	0	no	small	quan era copríncep d'Andorra.		0.3263	0.8711			lead-yt-034__30__copr-ncep.wav	41920	43720	ASR textual; atribució i audició pendents
+coprínceps	territorial	0	0	no											ASR textual; atribució i audició pendents
+padrí	territorial	0	0	no											ASR textual; atribució i audició pendents
+parròquia	territorial	0	0	no											ASR textual; atribució i audició pendents
+santuari	territorial	0	0	no											ASR textual; atribució i audició pendents
+veguer	territorial	0	0	no											ASR textual; atribució i audició pendents
+transparència	institucions	4	1	sí	small	que hi ha hagut un camí accelerat cap a la transparència internacional	En Dorrell ho ha de formar molt cala a la transparència.	0.0219	0.5525	0.4139	0.9367	lead-yt-034__36__transpar-ncia.wav	27000	32840	ASR textual; atribució i audició pendents
+obertura econòmica	economia	6	3	sí	small	i cap a l'obertura econòmica	però això l'obertura econòmica, perquè hi hagués obertura econòmica,	0.3555	0.9208	0.1090	0.8167	lead-yt-034__37__obertura-econ-mica.wav	32960	35800	ASR textual; atribució i audició pendents
+sistema fiscal	economia	2	4	sí	small	i cap a la implantació d'un sistema fiscal.	i també que ha de ser a la implantació d'un sistema fiscal.	0.7075	0.9368	0.6455	0.9495	lead-yt-034__38__sistema-fiscal.wav	35920	38520	ASR textual; atribució i audició pendents
+impostos	economia	3	4	sí	small	gairebé impostos.	per haver-nos d'intentar impostos.	0.5494	0.8615	0.0482	0.4865	lead-yt-034__39__impostos.wav	186880	188240	ASR textual; atribució i audició pendents
+coprincipat	institucions	0	0	no											ASR textual; atribució i audició pendents
+comunitat internacional	societat	1	2	sí	small	en la comunitat internacional,	I la lluita de la Comunitat Internacional	0.3817	0.8170	0.0087	0.4617	lead-yt-034__41__comunitat-internacional.wav	81440	83160	ASR textual; atribució i audició pendents
+blanqueig de diners	economia	1	0	no	small	però amb la salvetat que també participem, amb el blanqueig de diners,		0.9045	0.9920			lead-yt-034__42__blanqueig-de-diners.wav	648000	652000	ASR textual; atribució i audició pendents
+terrorisme	societat	1	2	sí	small	amb els temes de terrorisme.	contra tot aquells d'inès que venen del terrorisme,	0.9509	0.9937	0.0583	0.7309	lead-yt-034__43__terrorisme.wav	652120	653760	ASR textual; atribució i audició pendents
+intercanvi d’informació	institucions	0	0	no											ASR textual; atribució i audició pendents
+banca	economia	1	0	no	small	I la banca d'Andorra dins de la transparència.		0.1173	0.7508			lead-yt-034__45__banca.wav	733320	736560	ASR textual; atribució i audició pendents
+solvència	economia	1	1	sí	small	A nivell financer continuem tenint uns bancs amb molta solvència.	La seva bona gistió és solvència i per tenir l'equip d'itat	0.1510	0.6507	0.0479	0.4041	lead-yt-034__46__solv-ncia.wav	728560	733200	ASR textual; atribució i audició pendents
+Unió Europea	institucions	3	5	sí	small	que l'únic que ha de fer és fer-ho a l'unió europea.	l'utsenbur és un desment més fundadors de l'Unió Europea.	0.0163	0.4410	0.5435	0.8413	lead-yt-034__47__uni-europea.wav	985440	988120	ASR textual; atribució i audició pendents
+lliure circulació	institucions	0	0	no											ASR textual; atribució i audició pendents
+joventut	societat	1	1	sí	small	La joventut més formada se'ls té a donar oportunitats.	La joventut més formada se'ls té d'una oportunitat.	0.2388	0.8330	0.2843	0.6557	lead-yt-034__49__joventut.wav	1088960	1091600	ASR textual; atribució i audició pendents
+aeroport	infraestructura	4	3	sí	small	perquè aquest aeroport passés a ser de gust comercial,	Escolti el aeroport de la seu, es va aconseguir endur una cosa que em sembla important.	0.3786	0.8285	0.1272	0.7369	lead-yt-034__50__aeroport.wav	1556640	1560160	ASR textual; atribució i audició pendents
+la Seu d’Urgell	toponim	0	0	no											ASR textual; atribució i audició pendents
+Catalunya	toponim	5	7	sí	small	en el moment polític que viu Catalunya.	El turisme, el comerç, també, com a Espanya, com a Catalunya,	0.5299	0.9119	0.1287	0.7838	lead-yt-034__52__catalunya.wav	1363240	1365640	ASR textual; atribució i audició pendents
+Espanya	toponim	4	3	sí	small	tant a Espanya com a França.	El turisme, el comerç, també, com a Espanya, com a Catalunya,	0.4655	0.8245	0.1287	0.7838	lead-yt-034__53__espanya.wav	270640	272840	ASR textual; atribució i audició pendents
+Andorra	toponim	16	5	sí	small	Em parlarem. Jo deia abans que Andorra fa anys,	Comencem d'entrevista que andorra sempre participat a nivell internacional	0.3770	0.8603	0.0122	0.6211	lead-yt-034__54__andorra.wav	21560	25600	ASR textual; atribució i audició pendents
+andorrà	gentilici	0	0	no											ASR textual; atribució i audició pendents
+català	sociolingüística	1	3	sí	small	Des d'un moment de vista de l'espectador i ciutadà català,	i aspecte de la ciutadà català, Choca.	0.1979	0.7403	0.1619	0.6958	lead-yt-034__56__catal.wav	234800	238280	ASR textual; atribució i audició pendents
+govern	institucions	12	11	sí	small	Creieu que és que el republicà n'acabarà entrant al govern?	No ho sé si el cap de govern endorrà el senyor Antonio Martí,	0.0142	0.6518	0.0262	0.5339	lead-yt-034__57__govern.wav	0	2680	ASR textual; atribució i audició pendents
+empreses	economia	2	1	sí	small	però això és empreses que aportin no de forma especulativa,	per crear empreses que avui dia no hi són i tenim...	0.1381	0.7431	0.1436	0.6806	lead-yt-034__58__empreses.wav	922840	926840	ASR textual; atribució i audició pendents
+inversions	economia	0	0	no											ASR textual; atribució i audició pendents
+constitució	institucions	4	5	sí	small	La Constitució Andorrana diu que jo entenc els tres supòsits.	I en tot honestitat, la Constitució en Dorrana diu-lo que diu.	0.1080	0.7341	0.0505	0.6357	lead-yt-034__60__constituci.wav	1248040	1252360	ASR textual; atribució i audició pendents
+unió civil	societat	0	0	no											ASR textual; atribució i audició pendents
+avortament	societat	0	0	no											ASR textual; atribució i audició pendents
+territori	territori	0	1	no	base		de territori de govern d'Ordera,			0.0513	0.5584	lead-yt-034__63__territori.wav	1574160	1576360	ASR textual; atribució i audició pendents
+pirineu	territori	0	0	no											ASR textual; atribució i audició pendents
+serveis	institucions	0	0	no											ASR textual; atribució i audició pendents
+reforma	institucions	1	2	sí	small	La reforma s'ha endegat però a l'altra banda la balança	La reforma s'ha endegat,	0.1491	0.7064	0.1156	0.6515	lead-yt-034__66__reforma.wav	675640	678880	ASR textual; atribució i audició pendents
+deute	economia	0	0	no											ASR textual; atribució i audició pendents
+pressupost	economia	0	0	no											ASR textual; atribució i audició pendents

@@ -1,0 +1,80 @@
+model	categoria	forma	segment	inici_s	final_s	prob_min_segment	text_asr	estat
+small	discurs	a veure	5	33.000	39.000	0.1307	De fet, i jo ens portem una diferència d'edat bastant significativa a veure els 80 anys i mig.	candidat ASR; pendent d'audició
+small	discurs	de fet	5	33.000	39.000	0.1307	De fet, i jo ens portem una diferència d'edat bastant significativa a veure els 80 anys i mig.	candidat ASR; pendent d'audició
+small	discurs	bueno	6	39.000	44.000	0.1105	I, bueno, on que ell era més gran que jo i quan ell va començar a sortir de festa,	candidat ASR; pendent d'audició
+small	discurs	bé	7	44.000	50.000	0.1447	doncs la música electrònica va estar bé amb el seu millor moment, no?, els anys 90.	candidat ASR; pendent d'audició
+small	discurs	doncs	7	44.000	50.000	0.1447	doncs la música electrònica va estar bé amb el seu millor moment, no?, els anys 90.	candidat ASR; pendent d'audició
+small	discurs	no?	7	44.000	50.000	0.1447	doncs la música electrònica va estar bé amb el seu millor moment, no?, els anys 90.	candidat ASR; pendent d'audició
+small	discurs	aleshores	8	50.000	53.520	0.3970	Aleshores, clar, hi havia un recopilatori que em va cautivar molt,	candidat ASR; pendent d'audició
+small	discurs	clar	8	50.000	53.520	0.3970	Aleshores, clar, hi havia un recopilatori que em va cautivar molt,	candidat ASR; pendent d'audició
+small	discurs	no?	16	74.600	76.600	0.4347	d'altres companys, no?	candidat ASR; pendent d'audició
+small	discurs	no?	23	106.040	108.400	0.4758	que ja era més rotllo més tecno, no?	candidat ASR; pendent d'audició
+small	discurs	aleshores	24	109.680	116.160	0.2998	"Aleshores d'aquí vam passar a la música ""Màquina"" i després ja vam evolucionar cap al ""Hardcore""."	candidat ASR; pendent d'audició
+small	discurs	aleshores	28	136.320	140.840	0.1231	I aleshores, doncs, el que és aquesta combinació és bastant bona.	candidat ASR; pendent d'audició
+small	discurs	doncs	28	136.320	140.840	0.1231	I aleshores, doncs, el que és aquesta combinació és bastant bona.	candidat ASR; pendent d'audició
+small	discurs	doncs	32	152.400	156.120	0.8010	Doncs mira, després d'haver estat punxant amb sales mítiques,	candidat ASR; pendent d'audició
+small	discurs	doncs	36	168.640	173.640	0.3766	Doncs la veritat, els millors moments han sigut de rave.	candidat ASR; pendent d'audició
+small	discurs	clar	46	207.640	209.240	0.4515	Clar, això és una mica així.	candidat ASR; pendent d'audició
+small	discurs	doncs	50	226.280	234.280	0.1774	Doncs si et dic la veritat, després d'haver estat desconectat de la cena musical durant pràcticament una dècada...	candidat ASR; pendent d'audició
+small	discurs	bé	59	274.680	280.680	0.1520	La veritat, tinc una molt divertida, de quan està bé treballant al festa i n'hi t'endorra,	candidat ASR; pendent d'audició
+small	discurs	doncs	62	292.680	295.680	0.5549	doncs quan em feien alguna petició de dedicatòria o el que fos,	candidat ASR; pendent d'audició
+small	discurs	doncs	63	295.680	298.680	0.3567	doncs jo seria i les dedicava, no tenia aquest problema.	candidat ASR; pendent d'audició
+small	discurs	doncs	64	298.680	301.680	0.2578	Però amb el llarg del temps, doncs això era una amigueta esgotada.	candidat ASR; pendent d'audició
+small	discurs	bé	73	326.680	328.680	0.6005	Molt bé, molt bé, molt bona aquesta.	candidat ASR; pendent d'audició
+small	discurs	bueno	84	387.000	394.080	0.1662	Sí, la veritat que, bueno, vam començar nosaltres, això era impensable fer un festival de música electrònica aquí al país.	candidat ASR; pendent d'audició
+small	discurs	bé	85	394.080	402.880	0.1810	Bé, si encara estancava l'estès, eren les maties i xarxes, o sigui que, si fiquem com a exemple això, tot allò de més no cal dir res més.	candidat ASR; pendent d'audició
+small	discurs	o sigui	85	394.080	402.880	0.1810	Bé, si encara estancava l'estès, eren les maties i xarxes, o sigui que, si fiquem com a exemple això, tot allò de més no cal dir res més.	candidat ASR; pendent d'audició
+small	discurs	doncs	87	412.920	416.760	0.6894	Doncs la veritat és que el ritual que tinc és intentar posar-me	candidat ASR; pendent d'audició
+small	discurs	perquè	88	416.760	421.440	0.3423	el menys nerviós possible perquè tot ja així, amb els anys que hi porto punxant,	candidat ASR; pendent d'audició
+small	discurs	aleshores	92	433.840	437.880	0.5908	Aleshores, intento estar el més tranquil possible abans de començar una sècie.	candidat ASR; pendent d'audició
+small	discurs	bueno	96	450.000	458.200	0.2744	I sigui amb un gran escenari, sigui amb un petit escenari, amb un gran event, o bueno, continua passant, continua passant.	candidat ASR; pendent d'audició
+small	discurs	doncs	98	466.080	471.800	0.8047	Doncs la veritat, la inspiració més gran que tinc és el medi ambient.	candidat ASR; pendent d'audició
+small	discurs	perquè	103	491.000	497.640	0.3545	o el pujar cap als 3 milions, perquè jo visco aquí a Andorra.	candidat ASR; pendent d'audició
+small	discurs	bueno	107	514.920	524.040	0.1390	Sí, la veritat és que, bueno, en el nostre país vivim amb moltes dades de natura i això no té preu.	candidat ASR; pendent d'audició
+small	discurs	clar	116	572.520	575.880	0.1616	I com que a mi m'agrada més clar-ho tot, doncs, escubella.	candidat ASR; pendent d'audició
+small	discurs	doncs	116	572.520	575.880	0.1616	I com que a mi m'agrada més clar-ho tot, doncs, escubella.	candidat ASR; pendent d'audició
+small	discurs	bé	118	585.800	590.240	0.3668	Això va finalitzant aquesta entrevista, ens ho hem passat molt bé, la veritat.	candidat ASR; pendent d'audició
+small	discurs	doncs	125	613.880	618.200	0.6025	Doncs encara que no t'ho sembli, seria una castanya.	candidat ASR; pendent d'audició
+small	discurs	bé	127	622.680	627.680	0.6414	Molt bé, està molt bé.	candidat ASR; pendent d'audició
+small	discurs	doncs	128	627.680	631.080	0.1738	Vale, doncs ha estat un plaer.	candidat ASR; pendent d'audició
+small	discurs	doncs	133	655.600	662.600	0.2701	Doncs em podeu trobar a qualsevol dels serveis de podcast que pugueu tindre els vostres serveis	candidat ASR; pendent d'audició
+small	discurs	doncs	138	681.280	687.280	0.4297	i si us agrada, doncs ja sabeu, like, a seguir, i força!	candidat ASR; pendent d'audició
+small	discurs	bé	139	687.280	691.480	0.5102	Molt bé, la veritat és que si amb aquesta última plataforma que has dit	candidat ASR; pendent d'audició
+base	discurs	a veure	9	36.480	38.800	0.2005	bastant significativa a veure els cuitants i mitjos.	candidat ASR; pendent d'audició
+base	discurs	bueno	10	39.560	42.560	0.2409	I, bueno, on que ell era més gran que jo,	candidat ASR; pendent d'audició
+base	discurs	bé	12	44.280	48.600	0.0926	doncs la música electrònica, doncs està bé amb el seu millor moment, no?	candidat ASR; pendent d'audició
+base	discurs	doncs	12	44.280	48.600	0.0926	doncs la música electrònica, doncs està bé amb el seu millor moment, no?	candidat ASR; pendent d'audició
+base	discurs	no?	12	44.280	48.600	0.0926	doncs la música electrònica, doncs està bé amb el seu millor moment, no?	candidat ASR; pendent d'audició
+base	discurs	aleshores	14	50.160	53.280	0.2326	Aleshores, clar, hi havia un regopilatori que em va cautivar molt,	candidat ASR; pendent d'audició
+base	discurs	clar	14	50.160	53.280	0.2326	Aleshores, clar, hi havia un regopilatori que em va cautivar molt,	candidat ASR; pendent d'audició
+base	discurs	no?	23	74.760	76.600	0.3161	de d'altres companys, no?	candidat ASR; pendent d'audició
+base	discurs	no?	30	104.960	108.440	0.2665	que ja era més rotllo, més tec, no?	candidat ASR; pendent d'audició
+base	discurs	aleshores	40	136.320	140.760	0.1449	I aleshores, el que és aquesta combinació és bastant bona.	candidat ASR; pendent d'audició
+base	discurs	doncs	43	152.480	156.200	0.2210	Doncs mira, després d'haver estat punxant amb sales mítiques,	candidat ASR; pendent d'audició
+base	discurs	doncs	47	168.720	171.480	0.1603	Doncs la veritat, els millors moments han sigut de raïf.	candidat ASR; pendent d'audició
+base	discurs	clar	56	207.600	209.200	0.2747	Clar, això és una mica així.	candidat ASR; pendent d'audició
+base	discurs	doncs	62	226.480	227.600	0.2989	Doncs s'hi et dic l'habilitat.	candidat ASR; pendent d'audició
+base	discurs	bé	74	272.960	279.960	0.0877	La veritat tinc una molt divertida de quan està bé treballant al festa initant d'orra,	candidat ASR; pendent d'audició
+base	discurs	doncs	77	292.080	295.320	0.0572	doncs quan em feien alguna petició de dedicatoria o lo que fos,	candidat ASR; pendent d'audició
+base	discurs	doncs	78	295.400	298.840	0.2742	doncs jo seria i les dedicava, no, no tenia aquest problema.	candidat ASR; pendent d'audició
+base	discurs	bé	88	327.040	329.040	0.4522	Molt bé, molt bona aquesta.	candidat ASR; pendent d'audició
+base	discurs	bé	92	343.840	347.880	0.0758	Després de bé visc com tu, com a col·laborador, a mi li ben de renaix,	candidat ASR; pendent d'audició
+base	discurs	doncs	101	373.880	376.400	0.2612	I la veritat és que aquest paradigma doncs ha canviat.	candidat ASR; pendent d'audició
+base	discurs	perquè	112	416.840	421.640	0.0856	lo menos nerviós possible, perquè en tot J.C. amb els anys que hi porto punxant,	candidat ASR; pendent d'audició
+base	discurs	aleshores	117	433.560	438.160	0.2057	Aleshores intento estar al més tranquil, possible, abans de començar una sesió.	candidat ASR; pendent d'audició
+base	discurs	bueno	122	455.760	458.080	0.3505	Bueno, continua passant, continua passant.	candidat ASR; pendent d'audició
+base	discurs	doncs	124	466.320	471.720	0.2084	Doncs la veritat, la inspiració més gran que tinc és el medianvient.	candidat ASR; pendent d'audició
+base	discurs	no?	132	495.240	497.400	0.3533	perquè jo visco qui hem d'endorre, no?	candidat ASR; pendent d'audició
+base	discurs	perquè	132	495.240	497.400	0.3533	perquè jo visco qui hem d'endorre, no?	candidat ASR; pendent d'audició
+base	discurs	bueno	138	516.520	521.880	0.2250	Sí, la veritat és que, bueno, en el nostre país vivim amb moltes de natura	candidat ASR; pendent d'audició
+base	discurs	a veure	145	551.200	555.880	0.0642	Aquí seguim amb diegeneurs a veure una miqueta amb ells i ficant la liga.	candidat ASR; pendent d'audició
+base	discurs	clar	151	572.520	575.840	0.1033	i com que a mi m'agrada més clar o tot, doncs escobella.	candidat ASR; pendent d'audició
+base	discurs	doncs	151	572.520	575.840	0.1033	i com que a mi m'agrada més clar o tot, doncs escobella.	candidat ASR; pendent d'audició
+base	discurs	bé	155	588.560	590.280	0.3466	Ens ho han passat molt bé, la veritat.	candidat ASR; pendent d'audició
+base	discurs	bueno	159	601.240	604.520	0.0220	Era una mica estranya, però, bueno, a tot el moment li està fent molta gràcia.	candidat ASR; pendent d'audició
+base	discurs	doncs	162	614.680	618.120	0.5126	Doncs encara que... no t'ho sembla, seria una castanya.	candidat ASR; pendent d'audició
+base	discurs	bé	165	626.320	627.640	0.6259	Molt bé, està molt bé.	candidat ASR; pendent d'audició
+base	discurs	doncs	166	629.360	632.600	0.1143	Doncs ha estat un plaer tindre-te aquí el programa,	candidat ASR; pendent d'audició
+base	discurs	doncs	175	656.000	658.400	0.2551	Doncs em podeu trobar a qualsevol	candidat ASR; pendent d'audició
+base	discurs	doncs	184	680.640	683.280	0.3370	I re, i si us ha agradat, doncs ja sabeu.	candidat ASR; pendent d'audició
+base	discurs	bé	186	687.960	691.400	0.1699	Molt bé, la veritat és que, si amb aquesta última plataforma que has dit	candidat ASR; pendent d'audició

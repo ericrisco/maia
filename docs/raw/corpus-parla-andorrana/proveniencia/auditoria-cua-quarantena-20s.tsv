@@ -1,0 +1,16 @@
+ordre	id_clip	id_persona	clip	estat_asr_alternatiu	repeticio_trigramas	decisio_humana	estat
+1	pa-044__0020	pa-044	clips-quarantena-20s/pa-044__0020.wav	text-localitzable	0.0000	pendent	preparat
+2	pa-044__0080	pa-044	clips-quarantena-20s/pa-044__0080.wav	text-localitzable	0.0000	pendent	preparat
+3	pa-044__0140	pa-044	clips-quarantena-20s/pa-044__0140.wav	text-localitzable	0.0000	pendent	preparat
+4	pa-044__0200	pa-044	clips-quarantena-20s/pa-044__0200.wav	text-localitzable	0.0000	pendent	preparat
+5	pa-044__0260	pa-044	clips-quarantena-20s/pa-044__0260.wav	text-localitzable	0.0339	pendent	preparat
+6	pa-047__0060	pa-047	clips-quarantena-20s/pa-047__0060.wav	text-localitzable	0.0000	pendent	preparat
+7	pa-047__0120	pa-047	clips-quarantena-20s/pa-047__0120.wav	text-localitzable	0.0000	pendent	preparat
+8	pa-047__0180	pa-047	clips-quarantena-20s/pa-047__0180.wav	text-localitzable	0.0000	pendent	preparat
+9	pa-047__0240	pa-047	clips-quarantena-20s/pa-047__0240.wav	text-localitzable	0.0000	pendent	preparat
+10	pa-047__0300	pa-047	clips-quarantena-20s/pa-047__0300.wav	text-localitzable	0.0000	pendent	preparat
+11	pa-050__0060	pa-050	clips-quarantena-20s/pa-050__0060.wav	text-localitzable	0.0566	pendent	preparat
+12	pa-050__0120	pa-050	clips-quarantena-20s/pa-050__0120.wav	text-localitzable	0.0000	pendent	preparat
+13	pa-050__0180	pa-050	clips-quarantena-20s/pa-050__0180.wav	text-localitzable	0.0000	pendent	preparat
+14	pa-050__0240	pa-050	clips-quarantena-20s/pa-050__0240.wav	text-localitzable	0.0000	pendent	preparat
+15	pa-050__0300	pa-050	clips-quarantena-20s/pa-050__0300.wav	text-localitzable	0.0417	pendent	preparat

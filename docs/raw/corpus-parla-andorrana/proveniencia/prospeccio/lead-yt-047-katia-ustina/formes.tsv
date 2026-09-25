@@ -1,0 +1,52 @@
+forma	categoria	small	base	consens	model_localitzador	context_small	context_base	prob_min_segment_small	prob_mean_segment_small	prob_min_segment_base	prob_mean_segment_base	clip	inici_ms	final_ms	estat
+a nivell	discurs	0	0	no											ASR textual; atribució i audició pendents
+a veure	discurs	0	0	no											ASR textual; atribució i audició pendents
+aleshores	discurs	0	0	no											ASR textual; atribució i audició pendents
+aviam	discurs	0	0	no											ASR textual; atribució i audició pendents
+bueno	discurs	23	22	sí	small	Bueno, bueno, jo pensava, dir-ho.	Bueno, jo pensava, tu imagina que es fa una abraçada	0.1411	0.6459	0.1225	0.7214	lead-yt-047__05__bueno.wav	91720	93480	ASR textual; atribució i audició pendents
+bé	discurs	12	7	sí	small	-No te oigo, comencem bé. -Oi, ara.	No té oig-lo. Comencem bé.	0.1756	0.6668	0.3139	0.6549	lead-yt-047__06__b.wav	27000	32240	ASR textual; atribució i audició pendents
+clar	discurs	0	0	no											ASR textual; atribució i audició pendents
+de fet	discurs	0	0	no											ASR textual; atribució i audició pendents
+diguem	discurs	0	1	no	base		-Otra que no sé què era, no sé si diguem. -Un ultimo vichorado.			0.1254	0.5710	lead-yt-047__09__diguem.wav	691720	695120	ASR textual; atribució i audició pendents
+doncs	discurs	1	2	sí	small	"doncs es poden permetre un ""que caprichos""."	D'acord de ser passitos, doncs en base de passitos, s'hi anàvem.	0.1903	0.6909	0.0090	0.5644	lead-yt-047__10__doncs.wav	731840	734040	ASR textual; atribució i audició pendents
+evidentment	discurs	0	0	no											ASR textual; atribució i audició pendents
+llavors	discurs	1	0	no	small	Llavors, tenim un amic que vol comprar-se un cotxe,		0.2837	0.7629			lead-yt-047__12__llavors.wav	734120	738160	ASR textual; atribució i audició pendents
+no?	discurs	2	1	sí	small	-mía propia, igual me dirás que no vale nada, pero bueno... -El funciona? El funciona o no? Sí.	propia igual me dirás que no vale nada, ¿no funciona o no? Sí, bastante, bastante, hay	0.3361	0.8382	0.0932	0.6189	lead-yt-047__13__no.wav	269400	274280	ASR textual; atribució i audició pendents
+o sigui	discurs	3	1	sí	small	Sí, o sigui, estoy así, y tendría que estar, o sea...	O sigui, jo tinc una teoria, que és una teoria meva,	0.1693	0.7287	0.2229	0.7474	lead-yt-047__14__o-sigui.wav	280680	285300	ASR textual; atribució i audició pendents
+per tant	discurs	1	0	no	small	per tant, si vols canviar alguna cosa		0.4866	0.8424			lead-yt-047__15__per-tant.wav	235960	239440	ASR textual; atribució i audició pendents
+perquè	discurs	3	1	sí	small	Perquè no se encontrava en una reunió, en una història, entonces, sí.	Estava parlant d'hora contoni perquè tenia una cosa preparada,	0.3280	0.7733	0.0867	0.6782	lead-yt-047__16__perqu.wav	102040	109400	ASR textual; atribució i audició pendents
+vull dir	discurs	0	0	no											ASR textual; atribució i audició pendents
+és a dir	discurs	0	0	no											ASR textual; atribució i audició pendents
+Canillo	territorial	0	0	no											ASR textual; atribució i audició pendents
+Escaldes	territorial	0	0	no											ASR textual; atribució i audició pendents
+Massana	territorial	0	0	no											ASR textual; atribució i audició pendents
+Ordino	territorial	0	0	no											ASR textual; atribució i audició pendents
+Sant Julià	territorial	0	0	no											ASR textual; atribució i audició pendents
+aiguats	territorial	0	0	no											ASR textual; atribució i audició pendents
+andorrana	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunal	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunals	territorial	0	0	no											ASR textual; atribució i audició pendents
+comuns	territorial	0	0	no											ASR textual; atribució i audició pendents
+comú	territorial	0	0	no											ASR textual; atribució i audició pendents
+copríncep	territorial	0	0	no											ASR textual; atribució i audició pendents
+coprínceps	territorial	0	0	no											ASR textual; atribució i audició pendents
+padrí	territorial	0	0	no											ASR textual; atribució i audició pendents
+parròquia	territorial	0	0	no											ASR textual; atribució i audició pendents
+santuari	territorial	0	0	no											ASR textual; atribució i audició pendents
+veguer	territorial	0	0	no											ASR textual; atribució i audició pendents
+diners	economia	1	1	sí	small	"""Cati Austina, l'aveu femenina dels diners ben aviat en formato podcast""."	Càtia Ostina, la veu fem menina dels diners.	0.2167	0.7750	0.1352	0.7041	lead-yt-047__36__diners.wav	894320	898560	ASR textual; atribució i audició pendents
+finances	economia	0	0	no											ASR textual; atribució i audició pendents
+economia	economia	0	0	no											ASR textual; atribució i audició pendents
+mercat	economia	0	0	no											ASR textual; atribució i audició pendents
+banca	economia	0	0	no											ASR textual; atribució i audició pendents
+inversió	economia	0	0	no											ASR textual; atribució i audició pendents
+empresa	economia	0	0	no											ASR textual; atribució i audició pendents
+emprenedoria	economia	0	0	no											ASR textual; atribució i audició pendents
+dones	societat	0	0	no											ASR textual; atribució i audició pendents
+femenina	societat	1	0	no	small	"""Cati Austina, l'aveu femenina dels diners ben aviat en formato podcast""."		0.2167	0.7750			lead-yt-047__45__femenina.wav	894320	898560	ASR textual; atribució i audició pendents
+Andorra	toponim	1	1	sí	small	Sí, tu saps que en Andorra hi ha molta gent,	Sí, tú sabes que en Andorra hay mucha gente, tipo YouTuber,	0.5111	0.8413	0.2568	0.7309	lead-yt-047__46__andorra.wav	721400	725160	ASR textual; atribució i audició pendents
+andorrà	gentilici	0	0	no											ASR textual; atribució i audició pendents
+treball	societat	0	0	no											ASR textual; atribució i audició pendents
+educació	educació	0	0	no											ASR textual; atribució i audició pendents
+família	societat	0	0	no											ASR textual; atribució i audició pendents
+futur	societat	0	0	no											ASR textual; atribució i audició pendents

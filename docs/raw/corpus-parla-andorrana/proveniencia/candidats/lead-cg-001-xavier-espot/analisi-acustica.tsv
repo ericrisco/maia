@@ -1,0 +1,5 @@
+forma	segment	clip	inici_forma_s	final_forma_s	durada_s	veu_proporcio	rms_p10_db	rms_p50_db	rms_p90_db	zcr_p10	zcr_p90	f0_median_hz	f0_iqr_hz	centroid_median_hz	centroid_p90_hz	segments_veu	pausa_mediana_s	mostres_f0	estat
+per tant	26	clips/xavier-espot__per-tant__91.48.wav	91.480	96.240	6.760	0.5312	-55.69	-33.16	-22.10	0.0423	0.1972	257.81	78.12	1133.01	2375.78	15	0.120	91	descriptor orientatiu; pendent d’audició
+perquè	10	clips/xavier-espot__perqu__37.88.wav	37.880	41.040	5.160	0.5175	-57.83	-34.19	-23.05	0.0469	0.2620	250.00	70.31	1570.33	2840.37	17	0.050	66	descriptor orientatiu; pendent d’audició
+comú	29	clips/xavier-espot__com__103.48.wav	103.480	107.480	6.000	0.4649	-59.37	-39.14	-24.82	0.0466	0.3549	218.75	78.12	2027.44	3367.65	15	0.070	69	descriptor orientatiu; pendent d’audició
+andorrana	17	clips/xavier-espot__andorrana__58.76.wav	58.760	61.760	5.000	0.5863	-48.07	-32.84	-23.61	0.0423	0.2363	226.56	109.38	1187.11	2727.08	19	0.060	72	descriptor orientatiu; pendent d’audició

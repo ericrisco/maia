@@ -1,0 +1,65 @@
+forma	categoria	small	base	consens	model_localitzador	context_small	context_base	prob_min_segment_small	prob_mean_segment_small	prob_min_segment_base	prob_mean_segment_base	clip	inici_ms	final_ms	estat
+a nivell	discurs	0	0	no											ASR textual; atribució i audició pendents
+a veure	discurs	0	0	no											ASR textual; atribució i audició pendents
+aleshores	discurs	0	0	no											ASR textual; atribució i audició pendents
+aviam	discurs	0	0	no											ASR textual; atribució i audició pendents
+bueno	discurs	0	0	no											ASR textual; atribució i audició pendents
+bé	discurs	1	0	no	small	Bé, amb la provació de la llei de la sostenibilitat de les finances públiques d'estabilitat pressupostària		0.1324	0.8012			lead-yt-033__06__b.wav	23920	30920	ASR textual; atribució i audició pendents
+clar	discurs	2	2	sí	small	Volem deixar-ho clar.	Volen deixar-ho clar.	0.5561	0.9320	0.8450	0.9751	lead-yt-033__07__clar.wav	226540	228340	ASR textual; atribució i audició pendents
+de fet	discurs	0	0	no											ASR textual; atribució i audició pendents
+diguem	discurs	0	0	no											ASR textual; atribució i audició pendents
+doncs	discurs	1	1	sí	small	Així, doncs, una al respecte positiu de la llei que avui estem sometent a debat.	Així doncs, un altre respecte positiu de la llei	0.1941	0.8679	0.1243	0.7832	lead-yt-033__10__doncs.wav	293740	299740	ASR textual; atribució i audició pendents
+evidentment	discurs	0	0	no											ASR textual; atribució i audició pendents
+llavors	discurs	0	0	no											ASR textual; atribució i audició pendents
+no?	discurs	0	0	no											ASR textual; atribució i audició pendents
+o sigui	discurs	0	0	no											ASR textual; atribució i audició pendents
+per tant	discurs	0	0	no											ASR textual; atribució i audició pendents
+perquè	discurs	0	0	no											ASR textual; atribució i audició pendents
+vull dir	discurs	0	0	no											ASR textual; atribució i audició pendents
+és a dir	discurs	2	2	sí	small	És a dir, ha consolidat l'equilibri presopostari.	És a dir, a consolitat la clíbria presopostària.	0.5288	0.9269	0.3321	0.7813	lead-yt-033__18__s-a-dir.wav	59220	63320	ASR textual; atribució i audició pendents
+Canillo	territorial	0	0	no											ASR textual; atribució i audició pendents
+Escaldes	territorial	0	0	no											ASR textual; atribució i audició pendents
+Massana	territorial	0	0	no											ASR textual; atribució i audició pendents
+Ordino	territorial	0	0	no											ASR textual; atribució i audició pendents
+Sant Julià	territorial	0	0	no											ASR textual; atribució i audició pendents
+aiguats	territorial	0	0	no											ASR textual; atribució i audició pendents
+andorrana	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunal	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunals	territorial	1	0	no	small	tant estatals com comunals.		0.5116	0.8019			lead-yt-033__27__comunals.wav	135020	137380	ASR textual; atribució i audició pendents
+comuns	territorial	3	3	sí	small	i fiscal, el govern del 2015 i els comuns del 2016 van iniciar els seus mandats planificant,	i els comuns al 2016 van iniciar els seus mandats planificant.	0.4027	0.8943	0.5789	0.8502	lead-yt-033__28__comuns.wav	30920	38920	ASR textual; atribució i audició pendents
+comú	territorial	0	0	no											ASR textual; atribució i audició pendents
+copríncep	territorial	0	0	no											ASR textual; atribució i audició pendents
+coprínceps	territorial	0	0	no											ASR textual; atribució i audició pendents
+padrí	territorial	0	0	no											ASR textual; atribució i audició pendents
+parròquia	territorial	0	0	no											ASR textual; atribució i audició pendents
+santuari	territorial	0	0	no											ASR textual; atribució i audició pendents
+veguer	territorial	0	0	no											ASR textual; atribució i audició pendents
+pressupost	institucions	0	0	no											ASR textual; atribució i audició pendents
+finances públiques	economia	3	0	no	small	Bé, amb la provació de la llei de la sostenibilitat de les finances públiques d'estabilitat pressupostària		0.1324	0.8012			lead-yt-033__37__finances-p-bliques.wav	23920	30920	ASR textual; atribució i audició pendents
+sostenibilitat	economia	4	3	sí	small	Bé, amb la provació de la llei de la sostenibilitat de les finances públiques d'estabilitat pressupostària	La provació de la llei, de la sostenibilitat de les grans espúliques,	0.1324	0.8012	0.0651	0.6351	lead-yt-033__38__sostenibilitat.wav	23920	30920	ASR textual; atribució i audició pendents
+estabilitat	economia	5	4	sí	small	Bé, amb la provació de la llei de la sostenibilitat de les finances públiques d'estabilitat pressupostària	de estabilitat presupuestària i fiscal, el govern al 2015	0.1324	0.8012	0.3589	0.7039	lead-yt-033__39__estabilitat.wav	23920	30920	ASR textual; atribució i audició pendents
+fiscal	economia	6	6	sí	small	i fiscal, el govern del 2015 i els comuns del 2016 van iniciar els seus mandats planificant,	de estabilitat presupuestària i fiscal, el govern al 2015	0.4027	0.8943	0.3589	0.7039	lead-yt-033__40__fiscal.wav	30920	38920	ASR textual; atribució i audició pendents
+govern	institucions	7	7	sí	small	i fiscal, el govern del 2015 i els comuns del 2016 van iniciar els seus mandats planificant,	de estabilitat presupuestària i fiscal, el govern al 2015	0.4027	0.8943	0.3589	0.7039	lead-yt-033__41__govern.wav	30920	38920	ASR textual; atribució i audició pendents
+deute	economia	2	1	sí	small	Especialment cal remarcar que el deute públic de principat	Especialment, cal remarcar que el deute públic,	0.5753	0.8612	0.2887	0.7547	lead-yt-033__42__deute.wav	63320	68520	ASR textual; atribució i audició pendents
+inversió	economia	2	2	sí	small	i la seva capacitat d'inversió per assolir l'equilibri presopostari.	La seva capacitat d'inversió, per a solir el equilibri presobostari.	0.6047	0.9400	0.5667	0.9467	lead-yt-033__43__inversi.wav	238140	244740	ASR textual; atribució i audició pendents
+administració	institucions	3	1	sí	small	des del desplegament d'aquesta llei s'ha demostrat un rigol financer de l'administració,	Des de grup parlamentari de Mògrata no compartim que la administració general	0.1589	0.8366	0.4748	0.9232	lead-yt-033__44__administraci.wav	78020	85260	ASR textual; atribució i audició pendents
+ciutadania	societat	1	0	no	small	que ens ha donat més credibilitat al cap a la nostra ciutadania.		0.7347	0.9608			lead-yt-033__45__ciutadania.wav	85260	89860	ASR textual; atribució i audició pendents
+comunitat internacional	societat	1	1	sí	small	A la vegada també ens dona credibilitat cap a la Comunitat Internacional,	que per la comunitat internacional,	0.4376	0.9099	0.3862	0.7467	lead-yt-033__46__comunitat-internacional.wav	89860	96260	ASR textual; atribució i audició pendents
+grup parlamentari	institucions	5	5	sí	small	Per tot plegat, des del grup parlamentari i demòcrata,	Per tot plegat, des del grup parlamentari democràtica,	0.7201	0.8994	0.3235	0.7254	lead-yt-033__47__grup-parlamentari.wav	189220	192620	ASR textual; atribució i audició pendents
+llei	institucions	13	14	sí	small	Bé, amb la provació de la llei de la sostenibilitat de les finances públiques d'estabilitat pressupostària	La provació de la llei, de la sostenibilitat de les grans espúliques,	0.1324	0.8012	0.0651	0.6351	lead-yt-033__48__llei.wav	23920	30920	ASR textual; atribució i audició pendents
+cambra	institucions	1	0	no	small	Des d'aquesta cambra demanem el màxim rigor en aquest àmbit, i tal com s'ha anat fent fins ara.		0.3767	0.8926			lead-yt-033__49__cambra.wav	309740	317740	ASR textual; atribució i audició pendents
+Tribunal de Comptes	institucions	0	0	no											ASR textual; atribució i audició pendents
+demòcrates	política	1	0	no	small	Amb el final del govern dels demòcrates, tal com el posa de manifest el mar pressupostari,		0.1535	0.8593			lead-yt-033__51__dem-crates.wav	46920	51920	ASR textual; atribució i audició pendents
+Tercera Via	política	1	0	no	small	presentada pel Grup Parlamentari Tercera Via, més Unió Laurellana, més independent,		0.2394	0.7332			lead-yt-033__52__tercera-via.wav	367980	373940	ASR textual; atribució i audició pendents
+Unió Lauredià	política	0	0	no											ASR textual; atribució i audició pendents
+Andorra	toponim	0	0	no											ASR textual; atribució i audició pendents
+andorrà	gentilici	0	0	no											ASR textual; atribució i audició pendents
+català	sociolingüística	0	0	no											ASR textual; atribució i audició pendents
+serveis	institucions	1	0	no	small	en infraestructures i en serveis,		0.5349	0.8757			lead-yt-033__57__serveis.wav	249580	252540	ASR textual; atribució i audició pendents
+infraestructures	institucions	1	1	sí	small	en infraestructures i en serveis,	en infraestructures i en servei,	0.5349	0.8757	0.4811	0.8551	lead-yt-033__58__infraestructures.wav	249580	252540	ASR textual; atribució i audició pendents
+llavissada	territori	0	0	no											ASR textual; atribució i audició pendents
+interventors	institucions	1	1	sí	small	tenim implantats els òrgans interventors,	tenim implantats els órgans interventors,	0.2724	0.8372	0.1580	0.7024	lead-yt-033__60__interventors.wav	324940	327940	ASR textual; atribució i audició pendents
+despesa	economia	5	4	sí	small	objectius del límit d'endeutament, de despesa màxima per mesa,	objectius de límite endeutament, de despesa màxima per mesa,	0.2564	0.7904	0.1196	0.6774	lead-yt-033__61__despesa.wav	161620	166820	ASR textual; atribució i audició pendents
+tributària	economia	2	2	sí	small	d'assegurar la seva capacitat tributària.	En els resparaules, la menstruació ha estat capaç de segurar la seva capacitat tributària.	0.5371	0.9418	0.2898	0.7954	lead-yt-033__62__tribut-ria.wav	121580	124460	ASR textual; atribució i audició pendents
+endeutament	economia	3	3	sí	small	objectius del límit d'endeutament, de despesa màxima per mesa,	objectius de límite endeutament, de despesa màxima per mesa,	0.2564	0.7904	0.1196	0.6774	lead-yt-033__63__endeutament.wav	161620	166820	ASR textual; atribució i audició pendents
+pressupostària	economia	3	0	no	small	Bé, amb la provació de la llei de la sostenibilitat de les finances públiques d'estabilitat pressupostària		0.1324	0.8012			lead-yt-033__64__pressupost-ria.wav	23920	30920	ASR textual; atribució i audició pendents

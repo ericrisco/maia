@@ -1,0 +1,3 @@
+expedient	model	tokens	tipus_lexics	type_token_ratio	repeticio_3gram	marcadors_discursius	formes_territorials	formes_contacte	pronoms_clitics	perifrasi_past_aparent	primera_persona	negacio	nota	estat
+lead-yt-048-ander-mirambell	small	5493	1381	0.2514	0.0927	bé=21;bueno=17;clar=15;doncs=9;llavors=1;és a dir=8;a veure=4;per tant=4;a nivell=4;no?=16	comú=1	espanyol=6;espanyola=4	561	78	39	169	recompte ASR; validar contra àudio	inventari ASR; pendent d'audició
+lead-yt-048-ander-mirambell	base	5563	1458	0.2621	0.0781	bé=20;bueno=16;clar=11;doncs=2;és a dir=9;o sigui=1;a veure=2;per tant=5;a nivell=4;no?=13	comú=2	espanyol=9;espanyola=3	566	81	40	169	recompte ASR; validar contra àudio	inventari ASR; pendent d'audició

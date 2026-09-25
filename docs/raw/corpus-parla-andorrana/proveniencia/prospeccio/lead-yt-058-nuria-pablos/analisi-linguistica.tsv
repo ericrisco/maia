@@ -1,0 +1,3 @@
+expedient	model	tokens	tipus_lexics	type_token_ratio	repeticio_3gram	marcadors_discursius	formes_territorials	formes_contacte	pronoms_clitics	perifrasi_past_aparent	primera_persona	negacio	nota	estat
+lead-yt-058-nuria-pablos	small	4727	1125	0.2380	0.0570	bé=14;bueno=15;clar=31;doncs=15;llavors=15;aleshores=6;de fet=5;és a dir=5;o sigui=5;vull dir=2;a veure=4;per tant=1;no?=18	Escaldes=1		445	43	64	187	recompte ASR; validar contra àudio	inventari ASR; pendent d'audició
+lead-yt-058-nuria-pablos	base	4821	1167	0.2421	0.0711	bé=12;bueno=25;clar=27;doncs=13;llavors=7;de fet=6;és a dir=4;o sigui=3;vull dir=1;a veure=3;aviam=2;per tant=2;no?=28	Escaldes=1		460	39	57	282	recompte ASR; validar contra àudio	inventari ASR; pendent d'audició

@@ -1,0 +1,11 @@
+forma	segment	clip	inici_forma_s	final_forma_s	durada_s	veu_proporcio	rms_p10_db	rms_p50_db	rms_p90_db	zcr_p10	zcr_p90	f0_median_hz	f0_iqr_hz	centroid_median_hz	centroid_p90_hz	segments_veu	pausa_mediana_s	mostres_f0	estat
+a veure	32	clips/joan__a-veure__94.36.wav	94.360	96.480	4.120	0.7951	-43.87	-29.64	-22.35	0.0469	0.2757	222.66	23.44	1542.95	3188.77	12	0.040	82	descriptor orientatiu; pendent d’audició
+bueno	60	clips/joan__bueno__175.96.wav	175.960	180.040	6.080	0.7954	-47.50	-26.16	-19.68	0.0798	0.4003	234.38	54.69	1970.43	3552.43	12	0.040	120	descriptor orientatiu; pendent d’audició
+doncs	111	clips/joan__doncs__324.00.wav	324.000	327.400	5.400	0.7026	-48.45	-27.48	-18.74	0.0529	0.3928	203.12	132.81	1744.60	3655.44	12	0.060	93	descriptor orientatiu; pendent d’audició
+de fet	126	clips/joan__de-fet__370.60.wav	370.600	373.320	4.720	0.7447	-42.45	-29.51	-22.70	0.0595	0.4069	218.75	109.38	1525.14	3778.69	15	0.060	87	descriptor orientatiu; pendent d’audició
+clar	148	clips/joan__clar__440.36.wav	440.360	443.200	4.840	0.7386	-48.62	-25.72	-18.69	0.0579	0.2520	250.00	101.56	1438.91	2920.11	15	0.040	89	descriptor orientatiu; pendent d’audició
+llavors	163	clips/joan__llavors__484.40.wav	484.400	486.600	4.200	0.7560	-49.46	-27.41	-21.69	0.0451	0.3546	234.38	39.06	1479.46	3416.92	10	0.040	81	descriptor orientatiu; pendent d’audició
+vull dir	174	clips/joan__vull-dir__521.16.wav	521.160	523.440	4.280	0.8685	-36.59	-22.78	-17.77	0.0673	0.2620	218.75	95.70	1606.58	3010.72	10	0.040	92	descriptor orientatiu; pendent d’audició
+perquè	188	clips/joan__perqu__560.44.wav	560.440	563.800	5.360	0.6367	-49.59	-28.79	-19.35	0.0613	0.4178	250.00	128.91	2012.80	3826.50	17	0.040	87	descriptor orientatiu; pendent d’audició
+evidentment	205	clips/joan__evidentment__617.96.wav	617.960	621.080	5.120	0.7922	-50.15	-24.82	-18.25	0.0554	0.3127	250.00	85.94	1745.48	3367.89	8	0.040	101	descriptor orientatiu; pendent d’audició
+bé	247	clips/joan__b__753.64.wav	753.640	756.840	5.200	0.6834	-52.20	-30.29	-22.21	0.0498	0.2826	242.19	85.94	1689.77	3206.18	15	0.070	88	descriptor orientatiu; pendent d’audició

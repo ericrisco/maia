@@ -1,0 +1,11 @@
+forma	segment	inici_forma_s	final_forma_s	clip	inici_clip_s	final_clip_s	small	base	prioritat	centre_rel_s	f0_hz	f1_hz	f2_hz	f3_hz	estat_mesura
+a veure	32	94.360	96.480	clips/joan__a-veure__94.36.wav	93.360	97.480	4	3	A-consens-ASR	2.060	110.29	643.87	1340.43	2468.32	mesura instrumental; pendent d’audició
+bueno	60	175.960	180.040	clips/joan__bueno__175.96.wav	174.960	181.040	6	10	A-consens-ASR	3.040		367.21	1919.14	3172.99	mesura instrumental; pendent d’audició
+doncs	111	324.000	327.400	clips/joan__doncs__324.00.wav	323.000	328.400	8	12	A-consens-ASR	2.700	132.14	526.49	1460.37	2436.28	mesura instrumental; pendent d’audició
+de fet	126	370.600	373.320	clips/joan__de-fet__370.60.wav	369.600	374.320	1	1	A-consens-ASR	2.360		709.69	1026.08	2369.44	mesura instrumental; pendent d’audició
+clar	148	440.360	443.200	clips/joan__clar__440.36.wav	439.360	444.200	5	2	A-consens-ASR	2.420	130.13	557.00	1201.01	2684.89	mesura instrumental; pendent d’audició
+llavors	163	484.400	486.600	clips/joan__llavors__484.40.wav	483.400	487.600	4	1	A-consens-ASR	2.100		937.43	2042.38	3649.32	mesura instrumental; pendent d’audició
+vull dir	174	521.160	523.440	clips/joan__vull-dir__521.16.wav	520.160	524.440	1	0	B-un-model-ASR	2.140		841.96	1801.99	2843.00	mesura instrumental; pendent d’audició
+perquè	188	560.440	563.800	clips/joan__perqu__560.44.wav	559.440	564.800	15	7	A-consens-ASR	2.680	121.05	801.57	1429.90	2468.47	mesura instrumental; pendent d’audició
+evidentment	205	617.960	621.080	clips/joan__evidentment__617.96.wav	616.960	622.080	3	3	A-consens-ASR	2.560		1814.46	3232.24	3943.61	mesura instrumental; pendent d’audició
+bé	247	753.640	756.840	clips/joan__b__753.64.wav	752.640	757.840	14	11	A-consens-ASR	2.600		954.49	1702.04	3165.36	mesura instrumental; pendent d’audició

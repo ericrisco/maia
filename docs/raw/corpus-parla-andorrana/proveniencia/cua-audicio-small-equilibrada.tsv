@@ -1,0 +1,101 @@
+ordre	id_persona	forma	clip	prob_min	absolute_start_s	absolute_end_s	text	f0_hz	f1_hz	f2_hz	f3_hz	prioritat	decisio_auditiva	variant_transcrita	trets_fonetica	observacions_prosodia	nota_audicio
+1	pa-001	evidentment	clips/pa-001__evidentment__1067.69.wav	0.8911	1069.920	1070.050	evidentment	91.79	455.66	1982.25	2714.29	A-molts-parlants					
+2	pa-002	reformeta	clips/pa-002__reformeta__12.25.wav	0.3873	15.750	16.650	reformeta		722.84	2133.10	3577.82	C-cobertura-limitada					
+3	pa-002	evidentment	clips/pa-002__evidentment__205.25.wav	0.9889	205.860	206.830	evidentment	80.49	781.83	1072.49	2189.95	A-molts-parlants					
+4	pa-003	ensenyança	clips/pa-003__ensenyan-a__279.69.wav	0.6760	282.410	283.280	ensenyança	161.49	656.50	854.82	1855.85	D-escassa					
+5	pa-003	tirar endavant	clips/pa-003__tirar-endavant__361.93.wav	0.9453	362.910	363.930	tirar endavant		598.99	1996.39	3141.58	B-cobertura-o-confiança					
+6	pa-004	evidentment	clips/pa-004__evidentment__522.93.wav	0.9676	526.850	526.900	evidentment	74.80	434.36	2049.83	2923.89	A-molts-parlants					
+7	pa-005	o sigui	clips/pa-005__o-sigui__373.33.wav	0.8872	376.930	377.390	O sigui		367.21	2303.18	3409.75	B-cobertura-o-confiança					
+8	pa-006	de fet	clips/pa-006__de-fet__285.25.wav	0.8407	286.520	287.320	de fet	122.56	363.37	2364.66	2621.87	C-cobertura-limitada					
+9	pa-006	aleshores	clips/pa-006__aleshores__513.25.wav	0.5916	513.280	513.990	Aleshores		1567.02	2587.02	3187.61	C-cobertura-limitada					
+10	pa-007	a veure	clips/pa-007__a-veure__89.25.wav	0.9934	90.530	91.050	a veure	145.45	374.23	898.89	2345.39	A-molts-parlants					
+11	pa-007	diguem	clips/pa-007__diguem__585.25.wav	0.7294	586.460	586.670	diguem	302.11	327.47	1983.25	2640.08	C-cobertura-limitada					
+12	pa-008	a veure	clips/pa-008__a-veure__668.25.wav	0.9915	670.160	670.890	a veure	180.44	533.13	1520.53	2422.28	A-molts-parlants					
+13	pa-008	aleshores	clips/pa-008__aleshores__1315.25.wav	0.6411	1316.410	1316.880	Aleshores		802.79	1379.08	2682.19	C-cobertura-limitada					
+14	pa-009	bé	clips/pa-009__b__557.25.wav	0.9969	560.310	560.680	bé		358.21	1745.11	2534.70	A-molts-parlants					
+15	pa-009	evidentment	clips/pa-009__evidentment__947.25.wav	0.9520	948.250	948.990	evidentment	150.34	457.97	1691.63	2233.40	A-molts-parlants					
+16	pa-010	clar	clips/pa-010__clar__334.85.wav	0.9866	338.130	338.350	clar		499.53	1825.84	3431.68	A-molts-parlants					
+17	pa-011	bé	clips/pa-011__b__185.57.wav	0.9983	188.490	188.510	bé		798.21	1751.95	3114.63	A-molts-parlants					
+18	pa-012	perquè	clips/pa-012__perqu__369.25.wav	0.6158	369.250	369.360	perquè		433.36	1700.56	2252.79	A-molts-parlants					
+19	pa-013	bé	clips/pa-013__b__196.65.wav	0.9863	197.770	197.960	bé		545.17	1096.24	1975.63	A-molts-parlants					
+20	pa-013	és a dir	clips/pa-013__s-a-dir__579.17.wav	0.6284	580.370	580.710	És a dir	181.82	771.33	1797.60	2756.48	B-cobertura-o-confiança					
+21	pa-014	o sigui	clips/pa-014__o-sigui__658.45.wav	0.6862	662.480	662.570	o sigui	108.48	467.77	1866.05	2369.32	B-cobertura-o-confiança					
+22	pa-014	aviam	clips/pa-014__aviam__875.45.wav	0.1944	877.450	877.450	aviam		658.24	1627.67	2437.73	D-escassa					
+23	pa-015	doncs	clips/pa-015__doncs__83.25.wav	0.8466	84.380	84.780	doncs		1655.08	2889.62	3626.41	B-cobertura-o-confiança					
+24	pa-015	llavors	clips/pa-015__llavors__197.25.wav	0.8028	199.290	200.840	llavors		227.31	1143.91	2292.14	B-cobertura-o-confiança					
+25	pa-016	bé	clips/pa-016__b__170.05.wav	0.9990	175.990	176.330	bé		767.66	1918.85	2839.31	A-molts-parlants					
+26	pa-016	clar	clips/pa-016__clar__175.69.wav	0.9439	177.330	177.680	clar	170.89	484.94	1190.58	2462.03	A-molts-parlants					
+27	pa-017	clar	clips/pa-017__clar__34.45.wav	0.9757	38.350	38.580	clar		877.05	1934.95	3178.95	A-molts-parlants					
+28	pa-017	doncs	clips/pa-017__doncs__459.25.wav	0.9049	460.590	460.880	doncs	179.57	535.38	1090.69	2887.19	B-cobertura-o-confiança					
+29	pa-018	crec	clips/pa-018__crec__7.49.wav	0.9969	8.550	8.940	crec	132.11	280.86	1944.35	2432.62	A-molts-parlants					
+30	pa-018	perquè	clips/pa-018__perqu__91.09.wav	0.9663	92.160	92.850	perquè		657.39	1698.80	2850.42	A-molts-parlants					
+31	pa-019	a nivell	clips/pa-019__a-nivell__122.25.wav	0.9056	125.600	126.080	a nivell	90.41	383.80	2110.96	2848.96	B-cobertura-o-confiança					
+32	pa-019	llavors	clips/pa-019__llavors__422.25.wav	0.9040	426.010	426.400	llavors	95.58	351.12	1804.64	3335.20	B-cobertura-o-confiança					
+33	pa-020	aviam	clips/pa-020__aviam__252.21.wav	0.1339	255.270	255.610	aviam	120.35	495.07	1810.49	2561.87	D-escassa					
+34	pa-021	crec	clips/pa-021__crec__115.53.wav	0.9550	116.330	116.590	crec	124.35	527.62	2056.23	3683.17	A-molts-parlants					
+35	pa-021	vull dir	clips/pa-021__vull-dir__314.29.wav	0.7440	318.000	319.130	vull dir	134.88	453.62	902.78	3100.86	B-cobertura-o-confiança					
+36	pa-022	clar	clips/pa-022__clar__107.73.wav	0.9951	109.110	109.310	clar	125.72	657.85	1267.06	2548.47	A-molts-parlants					
+37	pa-022	reformeta	clips/pa-022__reformeta__125.53.wav	0.6595	128.230	128.930	reformeta	120.08	412.42	1343.62	2307.46	C-cobertura-limitada					
+38	pa-023	a nivell	clips/pa-023__a-nivell__418.57.wav	0.8081	419.870	420.370	a nivell	140.15	566.70	1786.47	2561.78	B-cobertura-o-confiança					
+39	pa-024	crec	clips/pa-024__crec__368.01.wav	0.9944	370.720	370.750	crec		713.59	1973.17	2469.58	A-molts-parlants					
+40	pa-025	aleshores	clips/pa-025__aleshores__361.93.wav	0.7026	362.340	363.570	aleshores	106.86	515.64	1304.32	2436.74	C-cobertura-limitada					
+41	pa-025	diguem	clips/pa-025__diguem__500.89.wav	0.6352	503.920	504.360	diguem	113.43	343.93	2243.20	2339.35	C-cobertura-limitada					
+42	pa-026	reformeta	clips/pa-026__reformeta__138.61.wav	0.9543	141.660	142.350	reformeta		1614.53	2453.52	3662.27	C-cobertura-limitada					
+43	pa-027	és a dir	clips/pa-027__s-a-dir__185.61.wav	0.6623	186.610	187.380	és a dir		842.98	1679.14	2767.57	B-cobertura-o-confiança					
+44	pa-028	doncs	clips/pa-028__doncs__329.33.wav	0.8421	330.410	330.660	Doncs	133.81	208.97	1934.59	2471.57	B-cobertura-o-confiança					
+45	pa-029	tirar endavant	clips/pa-029__tirar-endavant__56.73.wav	0.8813	61.670	62.370	tirar endavant	96.64	531.97	1679.56	2495.43	B-cobertura-o-confiança					
+46	pa-029	a nivell	clips/pa-029__a-nivell__417.09.wav	0.9070	418.660	419.290	a nivell	93.63	804.16	2102.64	2422.59	B-cobertura-o-confiança					
+47	pa-030	tirar endavant	clips/pa-030__tirar-endavant__185.61.wav	0.8976	187.230	188.090	tirar endavant	111.23	675.34	2043.46	3871.85	B-cobertura-o-confiança					
+48	pa-030	vull dir	clips/pa-030__vull-dir__842.69.wav	0.9049	843.370	844.350	vull dir		793.66	1681.36	2628.64	B-cobertura-o-confiança					
+49	pa-031	de fet	clips/pa-031__de-fet__9.93.wav	0.8205	10.860	11.560	de fet	109.94	318.84	1820.82	2487.31	C-cobertura-limitada					
+50	pa-031	tirar endavant	clips/pa-031__tirar-endavant__146.09.wav	0.8395	147.060	148.090	tirar endavant		819.12	1525.80	2620.74	B-cobertura-o-confiança					
+51	pa-032	bueno	clips/pa-032__bueno__44.73.wav	0.8330	45.000	45.460	bueno		761.40	1934.99	2786.85	C-cobertura-limitada					
+52	pa-032	aleshores	clips/pa-032__aleshores__79.09.wav	0.2226	79.300	81.230	aleshores		869.09	1811.44	2531.72	C-cobertura-limitada					
+53	pa-033	diguem	clips/pa-033__diguem__49.01.wav	0.7151	54.140	54.540	diguem		2555.08	3137.06	3452.11	C-cobertura-limitada					
+54	pa-033	de fet	clips/pa-033__de-fet__249.69.wav	0.9628	250.870	251.150	de fet	168.84	491.82	1276.30	2504.00	C-cobertura-limitada					
+55	pa-034	a veure	clips/pa-034__a-veure__94.05.wav	0.9578	95.230	96.040	a veure	152.68	766.15	1450.75	3113.69	A-molts-parlants					
+56	pa-034	diguem	clips/pa-034__diguem__504.45.wav	0.7193	506.610	506.810	diguem	122.97	247.51	1548.90	2800.31	C-cobertura-limitada					
+57	pa-035	doncs	clips/pa-035__doncs__195.49.wav	0.9025	198.140	198.690	doncs	153.74	293.60	1790.97	2130.76	B-cobertura-o-confiança					
+58	pa-036	evidentment	clips/pa-036__evidentment__202.85.wav	0.9393	207.950	208.420	evidentment	96.02	372.78	1773.38	2587.48	A-molts-parlants					
+59	pa-036	a nivell	clips/pa-036__a-nivell__386.45.wav	0.8938	394.030	394.500	a nivell	95.21	355.13	1884.39	2492.61	B-cobertura-o-confiança					
+60	pa-037	bueno	clips/pa-037__bueno__105.29.wav	0.6636	111.940	112.240	bueno		755.32	1614.23	2587.05	C-cobertura-limitada					
+61	pa-037	bé	clips/pa-037__b__105.29.wav	0.9723	121.180	121.500	bé	138.37	333.56	864.40	2545.13	A-molts-parlants					
+62	pa-038	vull dir	clips/pa-038__vull-dir__1576.57.wav	0.9837	1580.750	1581.210	vull dir	178.78	434.84	1598.88	2343.74	B-cobertura-o-confiança					
+63	pa-038	reformeta	clips/pa-038__reformeta__1821.69.wav	0.9688	1824.530	1825.400	reformeta	193.86	520.45	1443.84	3004.74	C-cobertura-limitada					
+64	pa-039	bé	clips/pa-039__b__27.77.wav	0.9914	30.990	31.040	bé		484.73	1503.18	2358.34	A-molts-parlants					
+65	pa-040	de fet	clips/pa-040__de-fet__70.17.wav	0.9576	71.250	71.550	de fet	95.61	486.38	1338.61	2631.94	C-cobertura-limitada					
+66	pa-041	vull dir	clips/pa-041__vull-dir__264.25.wav	0.9947	265.460	266.250	vull dir		320.02	1654.50	2599.84	B-cobertura-o-confiança					
+67	pa-041	ensenyança	clips/pa-041__ensenyan-a__523.25.wav	0.7954	529.520	530.190	ensenyança	145.05	433.77	1670.25	2698.89	D-escassa					
+68	pa-042	perquè	clips/pa-042__perqu__29.13.wav	0.7110	31.230	31.590	perquè	266.80	547.75	1994.54	2496.87	A-molts-parlants					
+69	pa-043	crec	clips/pa-043__crec__102.25.wav	0.9942	107.350	107.440	crec	113.88	756.89	1764.73	2507.09	A-molts-parlants					
+70	pa-045	evidentment	clips/pa-045__evidentment__290.13.wav	0.9812	291.320	292.090	evidentment	73.00	539.26	1404.56	2075.75	A-molts-parlants					
+71	pa-045	clar	clips/pa-045__clar__399.85.wav	0.9997	404.870	405.050	clar		518.06	1312.80	2463.93	A-molts-parlants					
+72	pa-046	és a dir	clips/pa-046__s-a-dir__135.61.wav	0.8034	137.610	137.930	és a dir		623.52	1487.97	3004.25	B-cobertura-o-confiança					
+73	pa-046	diguem	clips/pa-046__diguem__626.01.wav	0.6911	628.260	628.500	diguem	121.23	485.41	1411.43	2465.02	C-cobertura-limitada					
+74	pa-048	crec	clips/pa-048__crec__110.97.wav	0.9866	113.550	114.090	crec	174.16	498.93	1479.69	2856.93	A-molts-parlants					
+75	pa-048	a nivell	clips/pa-048__a-nivell__435.77.wav	0.8845	439.290	439.510	a nivell		1007.74	2457.18	3383.11	B-cobertura-o-confiança					
+76	pa-049	llavors	clips/pa-049__llavors__230.45.wav	0.9191	231.850	232.270	llavors		1318.05	2646.88	3399.61	B-cobertura-o-confiança					
+77	pa-049	a veure	clips/pa-049__a-veure__244.85.wav	0.9962	250.750	251.080	a veure		693.24	1743.93	2706.32	A-molts-parlants					
+78	pa-051	crec	clips/pa-051__crec__208.57.wav	0.9924	208.710	208.990	crec	109.97	498.20	1680.84	2647.95	A-molts-parlants					
+79	pa-052	bueno	clips/pa-052__bueno__41.97.wav	0.7880	43.680	44.200	bueno	205.62	641.05	1755.08	2933.12	C-cobertura-limitada					
+80	pa-053	perquè	clips/pa-053__perqu__113.93.wav	0.6129	117.840	118.090	perquè	100.60	451.35	1634.60	2129.73	A-molts-parlants					
+81	pa-054	bueno	clips/pa-054__bueno__51.69.wav	0.8263	52.480	52.610	bueno	169.47	357.05	2260.92	3340.06	C-cobertura-limitada					
+82	pa-055	reformeta	clips/pa-055__reformeta__139.05.wav	0.9557	141.900	142.850	reformeta		368.71	1818.78	2634.03	C-cobertura-limitada					
+83	pa-056	aleshores	clips/pa-056__aleshores__393.13.wav	0.5797	393.430	394.340	aleshores		804.24	2099.02	3162.82	C-cobertura-limitada					
+84	pa-056	vull dir	clips/pa-056__vull-dir__842.65.wav	0.9342	843.300	844.210	vull dir		863.56	1727.02	2602.99	B-cobertura-o-confiança					
+85	pa-057	tirar endavant	clips/pa-057__tirar-endavant__56.61.wav	0.9330	61.600	62.340	tirar endavant	97.58	480.53	1704.35	2473.20	B-cobertura-o-confiança					
+86	pa-058	és a dir	clips/pa-058__s-a-dir__74.41.wav	0.9532	75.500	76.070	És a dir	110.89	342.21	2315.24	2691.94	B-cobertura-o-confiança					
+87	pa-058	perquè	clips/pa-058__perqu__91.09.wav	0.9674	92.100	92.720	perquè		797.36	1961.25	3076.75	A-molts-parlants					
+88	pa-059	clar	clips/pa-059__clar__36.61.wav	0.9810	38.460	38.660	clar		681.47	2162.30	2995.95	A-molts-parlants					
+89	pa-060	de fet	clips/pa-060__de-fet__72.57.wav	0.8385	77.270	77.410	de fet	148.05	492.15	1921.29	2401.89	C-cobertura-limitada					
+90	pa-061	o sigui	clips/pa-061__o-sigui__161.05.wav	0.6361	162.250	162.600	O sigui	188.12	368.02	2059.89	2336.61	B-cobertura-o-confiança					
+91	pa-061	llavors	clips/pa-061__llavors__380.77.wav	0.5349	382.250	382.660	llavors	192.71	754.58	1094.07	2152.52	B-cobertura-o-confiança					
+92	pa-062	és a dir	clips/pa-062__s-a-dir__973.65.wav	0.7665	974.650	975.420	és a dir		658.98	1618.07	2518.15	B-cobertura-o-confiança					
+93	pa-063	crec	clips/pa-063__crec__758.81.wav	0.9939	761.550	761.810	crec		559.72	1633.81	2732.64	A-molts-parlants					
+94	pa-063	o sigui	clips/pa-063__o-sigui__826.09.wav	0.6737	827.170	827.360	O sigui	258.67	356.10	2409.95	2576.81	B-cobertura-o-confiança					
+95	pa-064	o sigui	clips/pa-064__o-sigui__36.73.wav	0.7590	38.250	38.600	o sigui		1337.80	2039.14	3105.24	B-cobertura-o-confiança					
+96	pa-064	a veure	clips/pa-064__a-veure__587.61.wav	0.9952	588.880	589.500	a veure		499.50	1347.08	2590.44	A-molts-parlants					
+97	pa-065	bé	clips/pa-065__b__138.57.wav	0.9995	140.040	140.340	bé	125.83	440.27	1885.92	2382.21	A-molts-parlants					
+98	pa-065	doncs	clips/pa-065__doncs__157.49.wav	0.7556	159.720	159.750	doncs	145.56	254.66	1619.66	2731.29	B-cobertura-o-confiança					
+99	pa-066	llavors	clips/pa-066__llavors__16.21.wav	0.7958	17.610	18.050	llavors		682.98	1834.10	2914.91	B-cobertura-o-confiança					
+100	pa-066	bueno	clips/pa-066__bueno__357.23.wav	0.8366	358.700	359.300	bueno	97.13	368.86	597.75	2204.49	C-cobertura-limitada					

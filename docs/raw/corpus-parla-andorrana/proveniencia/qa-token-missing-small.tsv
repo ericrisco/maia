@@ -1,0 +1,15 @@
+id_persona	forma	interval_escolta	clip	json_small	n_token_matches	token_match_small	token_texts_small
+pa-002	bé	348.25-355.75	clips/pa-002__b__348.25.wav	qa-token-missing-small-json/pa-002__b__348_25.json	1	sí	"[""bé""]"
+pa-008	clar	841.25-846.75	clips/pa-008__clar__841.25.wav	qa-token-missing-small-json/pa-008__clar__841_25.json	1	sí	"[""Clar""]"
+pa-013	bé	196.65-203.47	clips/pa-013__b__196.65.wav	qa-token-missing-small-json/pa-013__b__196_65.json	1	sí	"[""bé""]"
+pa-019	diguem	109.25-113.75	clips/pa-019__diguem__109.25.wav	qa-token-missing-small-json/pa-019__diguem__109_25.json	0	no	[]
+pa-021	bé	257.61-263.59	clips/pa-021__b__257.61.wav	qa-token-missing-small-json/pa-021__b__257_61.json	0	no	[]
+pa-022	bé	270.45-275.35	clips/pa-022__b__270.45.wav	qa-token-missing-small-json/pa-022__b__270_45.json	0	no	[]
+pa-022	o sigui	42.93-48.95	clips/pa-022__o-sigui__42.93.wav	qa-token-missing-small-json/pa-022__o-sigui__42_93.json	1	sí	"[""O sigui""]"
+pa-031	a veure	4.25-9.07	clips/pa-031__a-veure__4.25.wav	qa-token-missing-small-json/pa-031__a-veure__4_25.json	1	sí	"[""a veure""]"
+pa-037	diguem	469.77-482.03	clips/pa-037__diguem__469.77.wav	qa-token-missing-small-json/pa-037__diguem__469_77.json	0	no	[]
+pa-051	clar	161.85-167.07	clips/pa-051__clar__161.85.wav	qa-token-missing-small-json/pa-051__clar__161_85.json	0	no	[]
+pa-056	bé	436.49-441.47	clips/pa-056__b__436.49.wav	qa-token-missing-small-json/pa-056__b__436_49.json	0	no	[]
+pa-057	diguem	929.81-935.31	clips/pa-057__diguem__929.81.wav	qa-token-missing-small-json/pa-057__diguem__929_81.json	0	no	[]
+pa-064	a veure	587.61-591.67	clips/pa-064__a-veure__587.61.wav	qa-token-missing-small-json/pa-064__a-veure__587_61.json	1	sí	"[""a veure""]"
+pa-065	a nivell	529.09-536.75	clips/pa-065__a-nivell__529.09.wav	qa-token-missing-small-json/pa-065__a-nivell__529_09.json	2	sí	"[""a nivell"", ""a nivell""]"

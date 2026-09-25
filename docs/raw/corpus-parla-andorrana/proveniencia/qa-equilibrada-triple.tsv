@@ -1,0 +1,129 @@
+id_persona	forma	clip	small	base	greedy	categoria	text_small	text_base	text_greedy	decisio_audicio
+pa-001	evidentment	clips/pa-001__evidentment__1067.69.wav	sí	sí	no	B-dos-models	evidentment	en Espanya Mècubuca, evidentment, però no...	i que no es pot fer una altra cosa.	
+pa-002	reformeta	clips/pa-002__reformeta__12.25.wav	sí	no	sí	B-dos-models	reformeta	Però no que s'hagués fet que s'havia de reformar-te.	per molt que s'hagués fet, el que se'n va dir reformeta,	
+pa-002	evidentment	clips/pa-002__evidentment__205.25.wav	sí	sí	no	B-dos-models	evidentment	Però evidentment no hi havia d'altra forma.	Providament no hi havia d'altra fórmula.	
+pa-003	ensenyança	clips/pa-003__ensenyan-a__279.69.wav	sí	no	sí	B-dos-models	ensenyança	que s'integre amb una primera enseñanza de sistemes educatius estrangers.	que s'integre amb una primera ensenyança de sistemes educatius estrangers,  com?	
+pa-003	tirar endavant	clips/pa-003__tirar-endavant__361.93.wav	sí	sí	sí	A-tres-models	tirar endavant	"per crear i tirar endavant un sistema educatiu propi.
+ És a dir..."	per crear i tirar endavant un sistema educatiu propi.	
+pa-004	evidentment	clips/pa-004__evidentment__522.93.wav	sí	sí	sí	A-tres-models	evidentment	"i doncs prohibiré aigua suficient, evidentment,
+ i el que li va dir."	i doncs provaria aigua suficient, evidentment, i el...	
+pa-005	o sigui	clips/pa-005__o-sigui__373.33.wav	sí	no	sí	B-dos-models	O sigui	n'ha de dir un format xar i dues fogaixes de pas, així que hi ha poques bromes.	Un formatxar i dues fogaces de pa.  O sigui que hi ha poques bromes.	
+pa-006	de fet	clips/pa-006__de-fet__285.25.wav	sí	sí	sí	A-tres-models	de fet	de plat és que de fet només ja que una sola peça amui men i una sola peça	i el que és un molit de blat és que, de fet,  només hi ha una sola peça al moviment.	
+pa-006	aleshores	clips/pa-006__aleshores__513.25.wav	sí	sí	sí	A-tres-models	Aleshores	Aleshores era molt fàcil a agafar i aprofitar la força de l'aigua a la ixant per l'entrada.	Aleshores era molt fàcil agafar i aprofitar la força de l'aigua laixant per l'entrada.	
+pa-007	a veure	clips/pa-007__a-veure__89.25.wav	sí	sí	sí	A-tres-models	a veure	"que he tingut a veure amb la història del nostre país
+ i que vaig publicar a un dels meus llibres que tinc per aquí."	que he tingut a veure amb la història del nostre país  i que vaig publicar a un dels meus llibres que tinc per aquí.	
+pa-007	diguem	clips/pa-007__diguem__585.25.wav	sí	sí	sí	A-tres-models	diguem	"per la funtera, diguem que es va generar un debat força en ces a les corses penones.
+ I aquí..."	per la frontera, diguem que es va generar un debat força encès a les courses espanyoles.	
+pa-008	a veure	clips/pa-008__a-veure__668.25.wav	sí	sí	sí	A-tres-models	a veure	tot això no té res a veure amb el que 3 anys abans	tot això no té res a veure amb el que tres anys abans	
+pa-008	aleshores	clips/pa-008__aleshores__1315.25.wav	sí	sí	sí	A-tres-models	Aleshores	que feien camp. Aleshores va propiciar aquest retrobament, es va constituir	que feien camp. Aleshores va aproficiar aquest retrobament, es va constituir...	
+pa-009	bé	clips/pa-009__b__557.25.wav	sí	sí	sí	A-tres-models	bé	de corades i són campanes que sonen molt bé.	i són campanes que sonen molt bé.	
+pa-009	evidentment	clips/pa-009__evidentment__947.25.wav	sí	sí	sí	A-tres-models	evidentment	Lora de penia, evidentment, si era l'estiu o era l'hivern, tancaven el dia.	l'hora de venir, evidentment, si era l'estiu o era l'hivern, tant que ha de	
+pa-010	clar	clips/pa-010__clar__334.85.wav	sí	sí	sí	A-tres-models	clar	que ho són tan. Us arcojaré un parell d'exemplos i ho veureu més clar.	que ho són tant. Us acusaré un parell d'exemplos i ho veureu més clar.	
+pa-011	bé	clips/pa-011__b__185.57.wav	sí	sí	sí	A-tres-models	bé	de la casa es va molt bé.	a l'exterior de la casa, o molt bé, a aquesta casa.	
+pa-012	perquè	clips/pa-012__perqu__369.25.wav	sí	no	sí	B-dos-models	perquè	per que la gent és recording d'aquesta setmana.	perquè la gent es recordi d'aquestes eines.	
+pa-013	bé	clips/pa-013__b__196.65.wav	sí	no	sí	B-dos-models	bé	que em sofre i que la ve per la pell, pel sistema digestiu, i també té altres propietats.	que em sofre i que va bé per la pell, pel sistema digestiu i també té altres propietats.  Propietats que...	
+pa-013	és a dir	clips/pa-013__s-a-dir__579.17.wav	sí	no	sí	B-dos-models	És a dir	és de dir, l'arquitectura de granites dona en un moment de reconversió gradual del nostre país que passa de ser	d'urrana. És a dir, l'arquitectura de granit es dona en un moment de reconversió gradual  del nostre país, que passa de ser...	
+pa-014	o sigui	clips/pa-014__o-sigui__658.45.wav	sí	sí	sí	A-tres-models	o sigui	"És a dir, els homes amb baratina, o sigui, amb pantolons de barit, nergres, faixa i baratina vermella,
+ que missa blanca, mitjons blancs, i vigatants."	És a dir, els homes amb barretina, o sigui, amb pantolons de barllut, negres, faixa i barretina vermella, camisa blanca, mitjons blanques i bigatans.	
+pa-014	aviam	clips/pa-014__aviam__875.45.wav	sí	no	sí	B-dos-models	aviam	"d'una cosa, i van dir, escolteu, ho havíem.
+ Imaginau-se que les malades apareix.
+ Què passa amb el contrapass?
+ Estàs deixant el de ballar?"	i es pot fer una cosa, i van dir, escuteu, aviam,  imagineu-vos que les merdes apareixen.  Què passa amb el contrapàs? Es deixarà de ballar.	
+pa-015	doncs	clips/pa-015__doncs__83.25.wav	sí	sí	sí	A-tres-models	doncs	que és important, doncs és important per una senzilla rau.	"és important. Doncs per ""és important"" per una senzilla rau."	
+pa-015	llavors	clips/pa-015__llavors__197.25.wav	sí	no	sí	B-dos-models	llavors	d'edat i abans a part de tindre a la G3	lletat. I llavors, a part de tindre aquest sis,	
+pa-016	bé	clips/pa-016__b__170.05.wav	sí	no	sí	B-dos-models	bé	"És una disolució, mentre ens encarà amb molta responsabilitat de diòstres,
+ és que bon de febre, amb de..."	"És una disolució, entres encara amb molta més responsabilitat de dir  ""estàs bé, hem de fer bé""."	
+pa-016	clar	clips/pa-016__clar__175.69.wav	sí	sí	sí	A-tres-models	clar	"I hem de tenir un objectiu molt clar i hem d'assolir.
+ Al fet de que..."	Tenim un objectiu molt clar i l'hem de solit.	
+pa-017	clar	clips/pa-017__clar__34.45.wav	sí	sí	sí	A-tres-models	clar	Nosaltres teníem clar que havíem de fer el pas,	No és el fet de ser els primers o no els primers.  Nosaltres teníem clar que havíem de fer el pas.	
+pa-017	doncs	clips/pa-017__doncs__459.25.wav	sí	sí	sí	A-tres-models	doncs	I perfecte, doncs a partir d'aquí, sempre ja que duté desenvolupar-te, és	i perfecte.  Doncs a partir d'aquí, sempre ja que et dubte,  desapigué, és que...	
+pa-018	crec	clips/pa-018__crec__7.49.wav	sí	sí	sí	A-tres-models	crec	I després, jo crec que el problema que hi ha dels 78 és de què...	i després jo crec que el problema que hi ha del 78 és que...	
+pa-018	perquè	clips/pa-018__perqu__91.09.wav	sí	sí	sí	A-tres-models	perquè	i resoria perquè no podíem acabar mai de decidir que una mica.	i resòria, perquè no podíem acabar mai de decidir que una cosa...	
+pa-019	a nivell	clips/pa-019__a-nivell__122.25.wav	sí	sí	sí	A-tres-models	a nivell	amb la Constitució, som, quan se vol té vegades que entres a nivell de comissions.	i la Constitució és un qualsevol tema que entre a nivell de comissions.	
+pa-019	llavors	clips/pa-019__llavors__422.25.wav	sí	no	sí	B-dos-models	llavors	perquè ens donava eines per fer més coses als que podíem fer fins allà.	perquè ens donava eines per poder fer més coses  que podíem fer fins al llavors.	
+pa-020	aviam	clips/pa-020__aviam__252.21.wav	sí	sí	no	B-dos-models	aviam	I jo m'han resultat que clar, jo sóc, aviam, puc ser va futbol.	I a mi em sembla que és el que em sembla.	
+pa-021	crec	clips/pa-021__crec__115.53.wav	sí	sí	sí	A-tres-models	crec	"Jo crec que el fet de què m'alconseguin anterior
+ va ser el que va passar."	i és molt fàcil.  Jo crec que el fet que me'l consella anterior  passés el que va passant.	
+pa-021	vull dir	clips/pa-021__vull-dir__314.29.wav	sí	sí	sí	A-tres-models	vull dir	I nosaltres, malgrat que no vull dir de que no vulguessim de cap manera, no?	i nosaltres, malgrat que no vull dir que no volguéssim de cap manera.	
+pa-022	clar	clips/pa-022__clar__107.73.wav	sí	sí	sí	A-tres-models	clar	"L'objectiu tenia molt clar que t'he jugat molt.
+ Perquè si no se'n volia."	que el seu objectiu tenia molt clar que es jugava molt.	
+pa-022	reformeta	clips/pa-022__reformeta__125.53.wav	sí	sí	sí	A-tres-models	reformeta	de la reformeta, de no sé què, que no s'ha acabat.	Ara toqui. Portava menys a la redèria de la reformeta,  de no sé què, que no s'acaba.	
+pa-023	a nivell	clips/pa-023__a-nivell__418.57.wav	sí	no	sí	B-dos-models	a nivell	i després també aniré de agricultura.	i després també a nivell d'agricultura.	
+pa-024	crec	clips/pa-024__crec__368.01.wav	sí	sí	sí	A-tres-models	crec	Jo crec que los carribes, però no...	i que, per tant, jo crec que els carrers, desfocats,	
+pa-025	aleshores	clips/pa-025__aleshores__361.93.wav	sí	no	sí	B-dos-models	aleshores	I a les hores ens es tornen més primirats.	i aleshores ens tornem més primirats.	
+pa-025	diguem	clips/pa-025__diguem__500.89.wav	sí	sí	sí	A-tres-models	diguem	i de competències que hem francesen, diguem, regalien, és la vida.	i de competències que en francès en diguem regalient.	
+pa-026	reformeta	clips/pa-026__reformeta__138.61.wav	sí	sí	sí	A-tres-models	reformeta	ho vam aconseguir. La diferència és que la reformeta tractàvem missatge.	i ho veiem aconseguir.  La diferència és que la reformeta tractàvem massatge.	
+pa-027	és a dir	clips/pa-027__s-a-dir__185.61.wav	sí	sí	sí	A-tres-models	és a dir	de grup, és a dir, jo amb els que havíem portat a l'acció a fer amb reunió de grup.	de grup, és a dir, amb els que l'havien portat a l'acció de fer amb reunió de grup.	
+pa-028	doncs	clips/pa-028__doncs__329.33.wav	sí	sí	sí	A-tres-models	Doncs	Doncs conyes que, realment, en valora que t'acosti tu, si ho trobava...	i que, igual, doncs conyes que realment té un valor que té constitució.	
+pa-029	tirar endavant	clips/pa-029__tirar-endavant__56.73.wav	sí	sí	sí	A-tres-models	tirar endavant	i que veiem també d'autodisoldre per a l'incapacitat de poder tirar endavant.	i que véssim també d'autodisoldre per la incapacitat de poder tirar endavant.	
+pa-029	a nivell	clips/pa-029__a-nivell__417.09.wav	sí	no	sí	B-dos-models	a nivell	"i xarquatres, o que els altres volien als quadren i veig nacional,
+ i l'aconseguiria."	i això ha de deixar a quatre,  a algú que els valta els quatre a nivell nacional.	
+pa-030	tirar endavant	clips/pa-030__tirar-endavant__185.61.wav	sí	sí	sí	A-tres-models	tirar endavant	"Aquestem d'acord, vam tirar endavant.
+ Es va fer la conseqüència constituent."	que estem d'acord, doncs vam tirar endavant,  es va fer la comissió constituent,  i ja...	
+pa-030	vull dir	clips/pa-030__vull-dir__842.69.wav	sí	sí	no	B-dos-models	vull dir	Bé, vull dir també perquè cal recordar-ho.	i que no hi hagi una altra part de l'independentisme.	
+pa-031	de fet	clips/pa-031__de-fet__9.93.wav	sí	sí	sí	A-tres-models	de fet	i de fet, no em va portar d'ingú, jo em vaig portar.	i, de fet, no em va portar ningú.	
+pa-031	tirar endavant	clips/pa-031__tirar-endavant__146.09.wav	sí	no	sí	B-dos-models	tirar endavant	de la manera que fos i que s'havia de dir en davant de la manera que fos.	que s'havia de tirar endavant de la manera que fos.	
+pa-032	bueno	clips/pa-032__bueno__44.73.wav	sí	sí	sí	A-tres-models	bueno	I bueno, l'últim bapsig que quatre que ens ho vam apuntar i van dir que era que fàcil.	i bueno, l'últim, la psiquia 4 que ens vam apuntar i vam dir que era capaç.	
+pa-032	aleshores	clips/pa-032__aleshores__79.09.wav	sí	sí	sí	A-tres-models	aleshores	li he llistat, i aleshores els dos oponents es van posar de cort al moment, al moment.	i, aleshores, els dos oponents es van posar d'acord al moment.  Al moment.	
+pa-033	diguem	clips/pa-033__diguem__49.01.wav	sí	no	sí	B-dos-models	diguem	Doncs normalment es revie amb interès.	normalment es revia amb... amb interès, diguem.	
+pa-033	de fet	clips/pa-033__de-fet__249.69.wav	sí	sí	sí	A-tres-models	de fet	Ucabzi de tot de fet, eh?	Ho capgira tot, de fet, eh?	
+pa-034	a veure	clips/pa-034__a-veure__94.05.wav	sí	sí	sí	A-tres-models	a veure	"que la vaig fer a la vació.
+ Podíem venir a veure, perquè clar, ja s'havia de començar a preparar,
+ avui dels candidats."	i em va venir a veure, perquè, clar, ja sabia de començar a preparar,  les candidats.	
+pa-034	diguem	clips/pa-034__diguem__504.45.wav	sí	sí	sí	A-tres-models	diguem	de la corentena, diguem, no?	i ho dic moltes persones de la cor antenna, diguem-ne.	
+pa-035	doncs	clips/pa-035__doncs__195.49.wav	sí	no	sí	B-dos-models	doncs	i jo vaig participar d'un amic, una mica.	I, ara, ja he vingut a participar, doncs, una mica.	
+pa-036	evidentment	clips/pa-036__evidentment__202.85.wav	sí	sí	sí	A-tres-models	evidentment	va costar fer aquest pas important, després evidentment entre la legislatura crítica o la més forte.	i no ens van anar més enllà.  Ens va costar fer aquest pas important.  Després, evidentment, entrem a la legislatura crítica	
+pa-036	a nivell	clips/pa-036__a-nivell__386.45.wav	sí	sí	sí	A-tres-models	a nivell	"Tots i que les reglacions entrenganm i altres perroquies
+ no eren bones a nivell electoral, no s'havia perdut."	tot i que les relacions entre en Gàmels i altres parroquis  no eren bones a nivell electoral no s'havia perdut.	
+pa-037	bueno	clips/pa-037__bueno__105.29.wav	sí	no	sí	B-dos-models	bueno	d'acompanyar-se, d'acompanyar-se.	i que s'ha constituït.  Gailbé, existim tothom.  Jo, personalment, he passat tots els altres anys que no he pogut anar.  Però, bueno, aquí està el mateix, he bainat.  I torne bé.  Bona ambient, molt bona ambient.  Molt bona ambient.  Torna a comentar coses del que ha fet passat,  però sobretot...	
+pa-037	bé	clips/pa-037__b__105.29.wav	sí	no	sí	B-dos-models	bé	d'acompanyar-se, d'acompanyar-se.	i que s'ha constituït.  Gailbé, existim tothom.  Jo, personalment, he passat tots els altres anys que no he pogut anar.  Però, bueno, aquí està el mateix, he bainat.  I torne bé.  Bona ambient, molt bona ambient.  Molt bona ambient.  Torna a comentar coses del que ha fet passat,  però sobretot...	
+pa-038	vull dir	clips/pa-038__vull-dir__1576.57.wav	sí	sí	sí	A-tres-models	vull dir	Ja et dic els agents exteriors, sigui ja no vull dir quins, però...	Ja et dic que els agents exteriors siguin... ja no vull dir quins, però...	
+pa-038	reformeta	clips/pa-038__reformeta__1821.69.wav	sí	sí	sí	A-tres-models	reformeta	que ho vulguis, s'agressen a contentar-te amb una reformeta.	que ho convolguis, segueixen contentat amb una reformeta.	
+pa-039	bé	clips/pa-039__b__27.77.wav	sí	no	sí	B-dos-models	bé	fins a la prostitució no hi estava.	fins a la prostitució no ja està bé.	
+pa-040	de fet	clips/pa-040__de-fet__70.17.wav	sí	sí	sí	A-tres-models	de fet	que ho trobava, i de fet el meu pare el portarés sempre sobre què hi pensem per el portar.	i de fet el meu pare el portava sempre sobre aquell pin.	
+pa-041	vull dir	clips/pa-041__vull-dir__264.25.wav	sí	sí	sí	A-tres-models	vull dir	"No vull dir potser de discursió,
+ però potser no s'aclava d'entendre bé."	Un element, no vull dir de discussió,  però potser no s'acaba d'entendre bé.  Molt poc s'endurà.	
+pa-041	ensenyança	clips/pa-041__ensenyan-a__523.25.wav	sí	sí	sí	A-tres-models	ensenyança	I aquest material pedagogic que tingués continuïtat també de cara a tota la primera ensenyança.	I aquest material pedagògic, que tingués continuïtat,  també de cara a tota la primera ensenyança,  perquè aviam si...	
+pa-042	perquè	clips/pa-042__perqu__29.13.wav	sí	sí	no	B-dos-models	perquè	A més que res, perquè tenia els nens petits, crec que...	i que no hi hagi una escola.	
+pa-043	crec	clips/pa-043__crec__102.25.wav	sí	sí	sí	A-tres-models	crec	"que està a dir.
+ Per mi l'escola Endor Rana és que es veu una identitat, no, jo crec.
+ És a dir, tots els albertats."	per mi l'escola en d'Orrana és una identitat no, jo crec.	
+pa-045	evidentment	clips/pa-045__evidentment__290.13.wav	sí	sí	sí	A-tres-models	evidentment	"que tenen senyar-ho, evidentment, amb una sèrie de condicions molt clares,
+ perquè hi ha nombre de persones."	que tenen senyor o, evidentment,  en una sèrie de...  de condicions molt clares,  dir-ho amb la de persona.	
+pa-045	clar	clips/pa-045__clar__399.85.wav	sí	no	sí	B-dos-models	clar	No ho he fet, no ho he fet, no ho he fet, no ho he fet, no ho he fet.	amb el qual estava... amb res.  Amb el qual estava bastant clar.  Semblava bastant clar.	
+pa-046	és a dir	clips/pa-046__s-a-dir__135.61.wav	sí	no	no	C-un-model	és a dir	Som filers, doncs es veiem el dia a dia i hem espanyol.	i que no hi hagi una altra.	
+pa-046	diguem	clips/pa-046__diguem__626.01.wav	sí	sí	sí	A-tres-models	diguem	de les patates o les trumfes que diguem a canellos.	A part de les patates o les tronfes, que diguem a Canillo.	
+pa-048	crec	clips/pa-048__crec__110.97.wav	sí	sí	sí	A-tres-models	crec	Si hi ha cel, jo no crec ni el meu infern, ni el purgatori, ni el cel.	Si hi ha cel, jo no crec ni en l'inferna, ni el purgatori, ni el cel.	
+pa-048	a nivell	clips/pa-048__a-nivell__435.77.wav	sí	sí	sí	A-tres-models	a nivell	No, perquè normalment quan t'imbitan a nivell oficial t'imbitan a tal...	No, perquè normalment, quan t'inviten a nivell oficial,	
+pa-049	llavors	clips/pa-049__llavors__230.45.wav	sí	no	sí	B-dos-models	llavors	"I aquí en Dorra va vindre llabons el delegat de prensa de la casa blanca.
+ No sé si va ser arreu de la càrrecament de aquesta càrrec."	i aquí en Dorre va vindre llavors el delegat de premsa de la Casa Blanca.  No sé si va ser arreu realment d'aquesta carta.	
+pa-049	a veure	clips/pa-049__a-veure__244.85.wav	sí	sí	no	B-dos-models	a veure	"I ja no ens ho pot dir.
+ Ja no ens ho pot dir.
+ Però va anar a tablar a visitar-te amb el meu pare,
+ amb el meu pare, els van a veure després o aixec."	i el meu pare es va veure després a la xarxa.	
+pa-051	crec	clips/pa-051__crec__208.57.wav	sí	sí	sí	A-tres-models	crec	No crec que arribi amb totes les húuelles de canilla, seny.	No crec que arribi amb totes les ovelles de canillo sent.	
+pa-052	bueno	clips/pa-052__bueno__41.97.wav	sí	no	sí	B-dos-models	bueno	i heu erro de dins de germans.	I, bueno, tinc certs germans.	
+pa-053	perquè	clips/pa-053__perqu__113.93.wav	sí	sí	no	B-dos-models	perquè	n'hi hagi d'aquí, n'havien guanyat una pel·la perquè volem desprotar la gent.	que no hi hagi una persona que no té cap problema.	
+pa-054	bueno	clips/pa-054__bueno__51.69.wav	sí	sí	sí	A-tres-models	bueno	I, bueno, és el primer fàjum i l'àmbit.	i, bueno, és el primer pas.	
+pa-055	reformeta	clips/pa-055__reformeta__139.05.wav	sí	sí	sí	A-tres-models	reformeta	La diferència és que la reformeta tracta ben missatge.	La diferència és que la reformeta tractava amb missatges.	
+pa-056	aleshores	clips/pa-056__aleshores__393.13.wav	sí	no	sí	B-dos-models	aleshores	i a desarres això està tan quadrícolat.	i, aleshores, això està tan quadriculat.	
+pa-056	vull dir	clips/pa-056__vull-dir__842.65.wav	sí	sí	sí	A-tres-models	vull dir	Bé, vull dir també perquè cal recordar-ho.	Bé, vull dir també, perquè cal recordar-ho.	
+pa-057	tirar endavant	clips/pa-057__tirar-endavant__56.61.wav	sí	sí	sí	A-tres-models	tirar endavant	puguessin avançar i que vesim també d'autodisoldre per incapacitat de poder tirar endavant.	i que vesim també d'autodisoldre per la incapacitat de poder tirar endavant.	
+pa-058	és a dir	clips/pa-058__s-a-dir__74.41.wav	sí	no	no	C-un-model	És a dir	que volien ser com un pare.	i que no hi hagi una persona que no hagi tingut un lloc.	
+pa-058	perquè	clips/pa-058__perqu__91.09.wav	sí	sí	sí	A-tres-models	perquè	i risòria, perquè no podíem acabar mai de decidir que una cosa...	i resòria, perquè no podíem acabar mai de decidir que una cosa...	
+pa-059	clar	clips/pa-059__clar__36.61.wav	sí	sí	sí	A-tres-models	clar	Els altres teníem clar que havíem de fer el pas.	i és on els primers.  Nosaltres teníem clar que havíem de fer el pas.	
+pa-060	de fet	clips/pa-060__de-fet__72.57.wav	sí	sí	sí	A-tres-models	de fet	que van ocupar quatre anys de fet.	d'explicatures que van ocupar 4 anys, de fet.	
+pa-061	o sigui	clips/pa-061__o-sigui__161.05.wav	sí	no	no	C-un-model	O sigui	Si la primera activitat dels germans, despionés, peri...	i que no hi hagi una altra gent que no té cap problema.	
+pa-061	llavors	clips/pa-061__llavors__380.77.wav	sí	no	sí	B-dos-models	llavors	"-Exactament.
+ -Ella abans comença a tornar a agradar-s'hi."	-Exacte.  -Bueno, llavors comença tot una agredació.	
+pa-062	és a dir	clips/pa-062__s-a-dir__973.65.wav	sí	sí	sí	A-tres-models	és a dir	"que ens donaven, és a dir que sin estaurés entre el món polític
+ i el món empresarial, un diàleg."	que ells donaven, és a dir, que s'instaureix  entre el món polític i el món empresarial un diàleg...	
+pa-063	crec	clips/pa-063__crec__758.81.wav	sí	sí	sí	A-tres-models	crec	"Això és el que hem d'intentar.
+ Jo crec que s'està fent naturalment."	que comprin.  Això és el que hem d'intentar i jo crec que s'està fent.	
+pa-063	o sigui	clips/pa-063__o-sigui__826.09.wav	sí	sí	no	B-dos-models	O sigui	O sigui que vam estar a la primera paix amb comets.	i és modern.	
+pa-064	o sigui	clips/pa-064__o-sigui__36.73.wav	sí	no	no	C-un-model	o sigui	A més, les seves gràcies a les eleccions d'aquesta vegada.	i el que ha de fer és fer-ho.	
+pa-064	a veure	clips/pa-064__a-veure__587.61.wav	sí	no	sí	B-dos-models	a veure	-El set de nata veure amb els anys.	No s'ha tornat a veure amb els anys.	
+pa-065	bé	clips/pa-065__b__138.57.wav	sí	sí	no	B-dos-models	bé	M'agrada molt bé, el Serre Benopardis va marxar el paradis.	i el que va passar és que el que va passar és que el que va passar  va ser que el que va passar és que el que va passar és que el que va passar	
+pa-065	doncs	clips/pa-065__doncs__157.49.wav	sí	sí	sí	A-tres-models	doncs	i quan hi ha amor, doncs deu haver-te entès els nostres coses.	i quan hi ha amor, doncs Déu, avi, tenen les nostres cors.	
+pa-066	llavors	clips/pa-066__llavors__16.21.wav	sí	no	no	C-un-model	llavors	que es poden fer a l'estudio de la ciutadania.	i que la gent no s'ha de fer.	
+pa-066	bueno	clips/pa-066__bueno__357.23.wav	sí	sí	sí	A-tres-models	bueno	periferia i, bueno, jo recordo de passat, si no.	i, bueno, jo recordo que he passat...	

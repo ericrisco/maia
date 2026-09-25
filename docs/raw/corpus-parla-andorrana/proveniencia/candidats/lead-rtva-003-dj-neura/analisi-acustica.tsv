@@ -1,0 +1,11 @@
+forma	segment	clip	inici_forma_s	final_forma_s	durada_s	veu_proporcio	rms_p10_db	rms_p50_db	rms_p90_db	zcr_p10	zcr_p90	f0_median_hz	f0_iqr_hz	centroid_median_hz	centroid_p90_hz	segments_veu	pausa_mediana_s	mostres_f0	estat
+a veure	5	clips/dj-neura__a-veure__33.00.wav	33.000	39.000	8.000	0.8095	-44.27	-24.08	-16.64	0.0172	0.2279	164.06	125.00	1333.39	2834.90	13	0.070	161	descriptor orientatiu; pendent d’audició
+aleshores	8	clips/dj-neura__aleshores__50.00.wav	50.000	53.520	5.520	0.9055	-34.48	-21.07	-17.06	0.0257	0.1527	164.06	93.75	1229.39	2412.37	10	0.020	123	descriptor orientatiu; pendent d’audició
+bueno	6	clips/dj-neura__bueno__39.00.wav	39.000	44.000	7.000	0.8653	-38.99	-21.38	-16.64	0.0266	0.2397	164.06	109.38	1376.26	2960.13	9	0.080	151	descriptor orientatiu; pendent d’audició
+bé	7	clips/dj-neura__b__44.00.wav	44.000	50.000	8.000	0.8246	-41.78	-22.28	-17.56	0.0219	0.2463	101.56	93.75	1259.26	2962.56	15	0.050	163	descriptor orientatiu; pendent d’audició
+clar	8	clips/dj-neura__clar__50.00.wav	50.000	53.520	5.520	0.9055	-34.48	-21.07	-17.06	0.0257	0.1527	164.06	93.75	1229.39	2412.37	10	0.020	123	descriptor orientatiu; pendent d’audició
+doncs	7	clips/dj-neura__doncs__44.00.wav	44.000	50.000	8.000	0.8246	-41.78	-22.28	-17.56	0.0219	0.2463	101.56	93.75	1259.26	2962.56	15	0.050	163	descriptor orientatiu; pendent d’audició
+no?	7	clips/dj-neura__no__44.00.wav	44.000	50.000	8.000	0.8246	-41.78	-22.28	-17.56	0.0219	0.2463	101.56	93.75	1259.26	2962.56	15	0.050	163	descriptor orientatiu; pendent d’audició
+perquè	88	clips/dj-neura__perqu__416.76.wav	416.760	421.440	6.680	0.8288	-39.15	-23.45	-16.70	0.0172	0.3255	117.19	125.00	1312.67	3579.33	12	0.040	136	descriptor orientatiu; pendent d’audició
+de fet	5	clips/dj-neura__de-fet__33.00.wav	33.000	39.000	8.000	0.8095	-44.27	-24.08	-16.64	0.0172	0.2279	164.06	125.00	1333.39	2834.90	13	0.070	161	descriptor orientatiu; pendent d’audició
+o sigui	85	clips/dj-neura__o-sigui__394.08.wav	394.080	402.880	10.800	0.8089	-38.19	-24.75	-17.51	0.0188	0.2601	156.25	93.75	1093.75	3502.90	20	0.060	216	descriptor orientatiu; pendent d’audició

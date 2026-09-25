@@ -1,0 +1,1141 @@
+id_a	id_b	n_formes_compartides	formes	estat
+pa-001	pa-002	5	crec;de fet;evidentment;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-001	pa-003	4	crec;de fet;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-001	pa-004	3	de fet;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-001	pa-007	3	evidentment;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-001	pa-010	4	crec;de fet;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-001	pa-011	3	de fet;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-001	pa-014	3	crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-001	pa-016	5	crec;de fet;evidentment;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-001	pa-017	3	evidentment;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-001	pa-018	3	crec;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-001	pa-019	4	crec;evidentment;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-001	pa-021	3	crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-001	pa-022	3	crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-001	pa-023	3	de fet;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-001	pa-024	4	crec;de fet;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-001	pa-025	4	crec;de fet;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-001	pa-027	4	crec;de fet;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-001	pa-030	3	crec;evidentment;llavors	semblança tokenitzada small; pendent d'audició
+pa-001	pa-031	3	crec;de fet;perquè	semblança tokenitzada small; pendent d'audició
+pa-001	pa-033	3	de fet;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-001	pa-037	3	crec;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-001	pa-038	3	crec;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-001	pa-039	3	crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-001	pa-040	4	crec;de fet;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-001	pa-041	3	crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-001	pa-045	3	evidentment;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-001	pa-049	4	crec;evidentment;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-001	pa-056	4	crec;evidentment;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-001	pa-060	4	crec;de fet;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-001	pa-061	3	crec;evidentment;llavors	semblança tokenitzada small; pendent d'audició
+pa-001	pa-063	3	crec;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-001	pa-066	5	crec;de fet;evidentment;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-002	pa-003	7	a nivell;bé;clar;crec;de fet;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-002	pa-004	4	bé;de fet;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-002	pa-006	4	bé;clar;de fet;perquè	semblança tokenitzada small; pendent d'audició
+pa-002	pa-007	6	a veure;bé;clar;evidentment;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-002	pa-008	5	a veure;bé;clar;de fet;perquè	semblança tokenitzada small; pendent d'audició
+pa-002	pa-009	4	bé;clar;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-002	pa-010	5	clar;crec;de fet;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-002	pa-011	5	a veure;bé;de fet;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-002	pa-014	6	a veure;bé;clar;crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-002	pa-015	3	bé;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-002	pa-016	9	a nivell;a veure;bé;clar;crec;de fet;evidentment;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-002	pa-017	5	a nivell;clar;evidentment;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-002	pa-018	3	crec;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-002	pa-019	7	a nivell;bé;clar;crec;evidentment;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-002	pa-020	4	a nivell;bé;clar;perquè	semblança tokenitzada small; pendent d'audició
+pa-002	pa-021	4	a veure;crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-002	pa-022	6	a veure;clar;crec;evidentment;perquè;reformeta	semblança tokenitzada small; pendent d'audició
+pa-002	pa-023	5	a nivell;a veure;de fet;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-002	pa-024	6	a nivell;clar;crec;de fet;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-002	pa-025	7	a veure;clar;crec;de fet;evidentment;perquè;reformeta	semblança tokenitzada small; pendent d'audició
+pa-002	pa-026	5	a nivell;a veure;bé;perquè;reformeta	semblança tokenitzada small; pendent d'audició
+pa-002	pa-027	5	clar;crec;de fet;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-002	pa-028	4	bé;clar;de fet;llavors	semblança tokenitzada small; pendent d'audició
+pa-002	pa-030	4	a veure;crec;evidentment;llavors	semblança tokenitzada small; pendent d'audició
+pa-002	pa-031	5	a veure;clar;crec;de fet;perquè	semblança tokenitzada small; pendent d'audició
+pa-002	pa-032	3	bé;clar;perquè	semblança tokenitzada small; pendent d'audició
+pa-002	pa-033	5	bé;clar;de fet;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-002	pa-034	5	a nivell;a veure;bé;crec;reformeta	semblança tokenitzada small; pendent d'audició
+pa-002	pa-036	6	a nivell;a veure;bé;clar;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-002	pa-037	5	bé;clar;crec;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-002	pa-038	7	a nivell;bé;clar;crec;llavors;perquè;reformeta	semblança tokenitzada small; pendent d'audició
+pa-002	pa-039	4	bé;crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-002	pa-040	4	crec;de fet;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-002	pa-041	6	a veure;bé;clar;crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-002	pa-045	7	a nivell;a veure;bé;clar;evidentment;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-002	pa-048	5	a nivell;a veure;bé;crec;llavors	semblança tokenitzada small; pendent d'audició
+pa-002	pa-049	7	a veure;bé;clar;crec;evidentment;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-002	pa-055	5	a nivell;a veure;evidentment;perquè;reformeta	semblança tokenitzada small; pendent d'audició
+pa-002	pa-056	6	a veure;clar;crec;evidentment;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-002	pa-057	4	a nivell;bé;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-002	pa-059	4	a nivell;clar;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-002	pa-060	6	a nivell;a veure;crec;de fet;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-002	pa-061	6	a nivell;a veure;bé;crec;evidentment;llavors	semblança tokenitzada small; pendent d'audició
+pa-002	pa-063	7	a nivell;a veure;bé;clar;crec;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-002	pa-064	5	a veure;bé;clar;crec;perquè	semblança tokenitzada small; pendent d'audició
+pa-002	pa-065	5	a nivell;bé;clar;crec;perquè	semblança tokenitzada small; pendent d'audició
+pa-002	pa-066	7	a nivell;bé;crec;de fet;evidentment;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-003	pa-004	4	bé;de fet;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-003	pa-006	4	bé;clar;de fet;perquè	semblança tokenitzada small; pendent d'audició
+pa-003	pa-007	5	bé;clar;evidentment;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-003	pa-008	5	bé;clar;de fet;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-003	pa-009	4	bé;clar;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-003	pa-010	5	clar;crec;de fet;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-003	pa-011	5	bé;de fet;evidentment;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-003	pa-013	3	bé;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-003	pa-014	5	bé;clar;crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-003	pa-016	8	a nivell;bé;clar;crec;de fet;evidentment;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-003	pa-017	6	a nivell;clar;evidentment;perquè;tirar endavant;és a dir	semblança tokenitzada small; pendent d'audició
+pa-003	pa-019	7	a nivell;bueno;bé;clar;crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-003	pa-020	4	a nivell;bé;clar;perquè	semblança tokenitzada small; pendent d'audició
+pa-003	pa-021	5	bueno;crec;evidentment;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-003	pa-022	5	clar;crec;evidentment;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-003	pa-023	5	a nivell;bueno;de fet;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-003	pa-024	6	a nivell;clar;crec;de fet;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-003	pa-025	5	clar;crec;de fet;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-003	pa-026	3	a nivell;bé;perquè	semblança tokenitzada small; pendent d'audició
+pa-003	pa-027	6	clar;crec;de fet;evidentment;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-003	pa-028	3	bé;clar;de fet	semblança tokenitzada small; pendent d'audició
+pa-003	pa-030	5	bueno;crec;evidentment;tirar endavant;és a dir	semblança tokenitzada small; pendent d'audició
+pa-003	pa-031	5	clar;crec;de fet;perquè;tirar endavant	semblança tokenitzada small; pendent d'audició
+pa-003	pa-032	4	bueno;bé;clar;perquè	semblança tokenitzada small; pendent d'audició
+pa-003	pa-033	6	bé;clar;de fet;perquè;tirar endavant;és a dir	semblança tokenitzada small; pendent d'audició
+pa-003	pa-034	5	a nivell;bé;crec;tirar endavant;és a dir	semblança tokenitzada small; pendent d'audició
+pa-003	pa-035	3	crec;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-003	pa-036	5	a nivell;bé;clar;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-003	pa-037	5	bueno;bé;clar;crec;perquè	semblança tokenitzada small; pendent d'audició
+pa-003	pa-038	6	a nivell;bueno;bé;clar;crec;perquè	semblança tokenitzada small; pendent d'audició
+pa-003	pa-039	4	bé;crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-003	pa-040	4	crec;de fet;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-003	pa-041	8	bueno;bé;clar;crec;ensenyança;evidentment;perquè;tirar endavant	semblança tokenitzada small; pendent d'audició
+pa-003	pa-043	3	bueno;crec;és a dir	semblança tokenitzada small; pendent d'audició
+pa-003	pa-045	5	a nivell;bé;clar;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-003	pa-048	4	a nivell;bé;crec;és a dir	semblança tokenitzada small; pendent d'audició
+pa-003	pa-049	6	bueno;bé;clar;crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-003	pa-052	3	bueno;clar;perquè	semblança tokenitzada small; pendent d'audició
+pa-003	pa-055	3	a nivell;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-003	pa-056	5	clar;crec;evidentment;perquè;tirar endavant	semblança tokenitzada small; pendent d'audició
+pa-003	pa-057	4	a nivell;bé;perquè;tirar endavant	semblança tokenitzada small; pendent d'audició
+pa-003	pa-059	7	a nivell;bueno;clar;evidentment;perquè;tirar endavant;és a dir	semblança tokenitzada small; pendent d'audició
+pa-003	pa-060	5	a nivell;crec;de fet;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-003	pa-061	5	a nivell;bueno;bé;crec;evidentment	semblança tokenitzada small; pendent d'audició
+pa-003	pa-062	4	bueno;crec;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-003	pa-063	5	a nivell;bé;clar;crec;perquè	semblança tokenitzada small; pendent d'audició
+pa-003	pa-064	5	bé;clar;crec;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-003	pa-065	7	a nivell;bueno;bé;clar;crec;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-003	pa-066	7	a nivell;bueno;bé;crec;de fet;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-004	pa-006	3	bé;de fet;perquè	semblança tokenitzada small; pendent d'audició
+pa-004	pa-007	3	bé;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-004	pa-008	3	bé;de fet;perquè	semblança tokenitzada small; pendent d'audició
+pa-004	pa-009	3	bé;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-004	pa-011	4	bé;de fet;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-004	pa-014	4	bé;evidentment;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-004	pa-016	5	bé;de fet;evidentment;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-004	pa-017	3	evidentment;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-004	pa-019	3	bé;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-004	pa-021	3	evidentment;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-004	pa-022	3	evidentment;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-004	pa-023	3	de fet;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-004	pa-024	3	de fet;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-004	pa-025	3	de fet;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-004	pa-026	3	bé;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-004	pa-027	3	de fet;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-004	pa-032	3	bé;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-004	pa-033	4	bé;de fet;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-004	pa-036	4	bé;evidentment;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-004	pa-037	3	bé;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-004	pa-038	3	bé;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-004	pa-039	3	bé;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-004	pa-040	3	de fet;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-004	pa-041	4	bé;evidentment;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-004	pa-045	3	bé;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-004	pa-049	4	bé;evidentment;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-004	pa-055	3	evidentment;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-004	pa-056	3	evidentment;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-004	pa-059	3	evidentment;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-004	pa-060	3	de fet;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-004	pa-061	3	bé;evidentment;vull dir	semblança tokenitzada small; pendent d'audició
+pa-004	pa-063	3	bé;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-004	pa-066	4	bé;de fet;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-005	pa-006	3	bé;doncs;o sigui	semblança tokenitzada small; pendent d'audició
+pa-005	pa-007	3	bé;doncs;llavors	semblança tokenitzada small; pendent d'audició
+pa-005	pa-009	3	bé;doncs;o sigui	semblança tokenitzada small; pendent d'audició
+pa-005	pa-015	3	bé;doncs;llavors	semblança tokenitzada small; pendent d'audició
+pa-005	pa-016	4	bé;doncs;llavors;o sigui	semblança tokenitzada small; pendent d'audició
+pa-005	pa-028	3	bé;doncs;llavors	semblança tokenitzada small; pendent d'audició
+pa-005	pa-030	3	doncs;llavors;o sigui	semblança tokenitzada small; pendent d'audició
+pa-005	pa-037	3	bé;doncs;llavors	semblança tokenitzada small; pendent d'audició
+pa-005	pa-038	4	bé;doncs;llavors;o sigui	semblança tokenitzada small; pendent d'audició
+pa-005	pa-045	4	bé;doncs;llavors;o sigui	semblança tokenitzada small; pendent d'audició
+pa-005	pa-046	3	bé;doncs;llavors	semblança tokenitzada small; pendent d'audició
+pa-005	pa-048	4	bé;doncs;llavors;o sigui	semblança tokenitzada small; pendent d'audició
+pa-005	pa-049	3	bé;llavors;o sigui	semblança tokenitzada small; pendent d'audició
+pa-005	pa-057	3	bé;llavors;o sigui	semblança tokenitzada small; pendent d'audició
+pa-005	pa-061	3	bé;llavors;o sigui	semblança tokenitzada small; pendent d'audició
+pa-005	pa-063	4	bé;doncs;llavors;o sigui	semblança tokenitzada small; pendent d'audició
+pa-005	pa-065	3	bé;doncs;o sigui	semblança tokenitzada small; pendent d'audició
+pa-006	pa-007	5	bé;clar;diguem;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-006	pa-008	5	aleshores;bé;clar;de fet;perquè	semblança tokenitzada small; pendent d'audició
+pa-006	pa-009	5	bé;clar;doncs;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-006	pa-010	4	clar;de fet;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-006	pa-011	4	bé;de fet;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-006	pa-012	3	aleshores;bé;perquè	semblança tokenitzada small; pendent d'audició
+pa-006	pa-013	3	bé;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-006	pa-014	4	bé;clar;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-006	pa-015	3	bé;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-006	pa-016	6	bé;clar;de fet;doncs;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-006	pa-017	3	clar;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-006	pa-019	3	bé;clar;perquè	semblança tokenitzada small; pendent d'audició
+pa-006	pa-020	5	bé;clar;diguem;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-006	pa-022	3	clar;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-006	pa-024	3	clar;de fet;perquè	semblança tokenitzada small; pendent d'audició
+pa-006	pa-025	6	aleshores;clar;de fet;diguem;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-006	pa-026	3	bé;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-006	pa-027	4	clar;de fet;diguem;perquè	semblança tokenitzada small; pendent d'audició
+pa-006	pa-028	4	bé;clar;de fet;doncs	semblança tokenitzada small; pendent d'audició
+pa-006	pa-030	3	aleshores;doncs;o sigui	semblança tokenitzada small; pendent d'audició
+pa-006	pa-031	5	aleshores;clar;de fet;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-006	pa-032	5	aleshores;bé;clar;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-006	pa-033	5	bé;clar;de fet;diguem;perquè	semblança tokenitzada small; pendent d'audició
+pa-006	pa-036	4	bé;clar;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-006	pa-037	4	bé;clar;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-006	pa-038	5	bé;clar;doncs;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-006	pa-041	3	bé;clar;perquè	semblança tokenitzada small; pendent d'audició
+pa-006	pa-045	5	bé;clar;doncs;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-006	pa-046	4	aleshores;bé;diguem;doncs	semblança tokenitzada small; pendent d'audició
+pa-006	pa-048	3	bé;doncs;o sigui	semblança tokenitzada small; pendent d'audició
+pa-006	pa-049	6	aleshores;bé;clar;diguem;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-006	pa-056	4	aleshores;clar;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-006	pa-057	3	bé;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-006	pa-060	3	de fet;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-006	pa-062	3	diguem;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-006	pa-063	5	bé;clar;doncs;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-006	pa-064	4	bé;clar;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-006	pa-065	6	aleshores;bé;clar;doncs;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-006	pa-066	3	bé;de fet;perquè	semblança tokenitzada small; pendent d'audició
+pa-007	pa-008	5	a veure;bé;clar;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-007	pa-009	5	bé;clar;doncs;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-007	pa-010	5	clar;doncs;llavors;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-007	pa-011	6	a veure;bé;doncs;evidentment;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-007	pa-013	4	bé;doncs;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-007	pa-014	5	a veure;bé;clar;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-007	pa-015	4	bé;doncs;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-007	pa-016	8	a veure;bé;clar;doncs;evidentment;llavors;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-007	pa-017	6	clar;doncs;evidentment;llavors;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-007	pa-018	3	diguem;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-007	pa-019	5	bé;clar;evidentment;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-007	pa-020	5	bé;clar;diguem;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-007	pa-021	5	a veure;doncs;evidentment;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-007	pa-022	5	a veure;clar;evidentment;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-007	pa-023	4	a veure;llavors;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-007	pa-024	3	clar;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-007	pa-025	5	a veure;clar;diguem;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-007	pa-026	3	a veure;bé;perquè	semblança tokenitzada small; pendent d'audició
+pa-007	pa-027	5	clar;diguem;evidentment;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-007	pa-028	4	bé;clar;doncs;llavors	semblança tokenitzada small; pendent d'audició
+pa-007	pa-030	5	a veure;doncs;evidentment;llavors;és a dir	semblança tokenitzada small; pendent d'audició
+pa-007	pa-031	4	a veure;clar;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-007	pa-032	4	bé;clar;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-007	pa-033	6	bé;clar;diguem;llavors;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-007	pa-034	4	a veure;bé;diguem;és a dir	semblança tokenitzada small; pendent d'audició
+pa-007	pa-035	3	doncs;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-007	pa-036	6	a veure;bé;clar;doncs;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-007	pa-037	5	bé;clar;doncs;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-007	pa-038	5	bé;clar;doncs;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-007	pa-039	3	bé;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-007	pa-041	5	a veure;bé;clar;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-007	pa-045	7	a veure;bé;clar;doncs;evidentment;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-007	pa-046	5	bé;diguem;doncs;llavors;és a dir	semblança tokenitzada small; pendent d'audició
+pa-007	pa-048	5	a veure;bé;doncs;llavors;és a dir	semblança tokenitzada small; pendent d'audició
+pa-007	pa-049	7	a veure;bé;clar;diguem;evidentment;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-007	pa-055	3	a veure;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-007	pa-056	6	a veure;clar;doncs;evidentment;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-007	pa-057	3	bé;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-007	pa-058	3	diguem;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-007	pa-059	4	clar;evidentment;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-007	pa-060	5	a veure;doncs;llavors;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-007	pa-061	4	a veure;bé;evidentment;llavors	semblança tokenitzada small; pendent d'audició
+pa-007	pa-062	3	diguem;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-007	pa-063	6	a veure;bé;clar;doncs;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-007	pa-064	5	a veure;bé;clar;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-007	pa-065	5	bé;clar;doncs;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-007	pa-066	4	bé;evidentment;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-008	pa-009	3	bé;clar;perquè	semblança tokenitzada small; pendent d'audició
+pa-008	pa-010	4	clar;de fet;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-008	pa-011	5	a veure;bé;de fet;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-008	pa-012	3	aleshores;bé;perquè	semblança tokenitzada small; pendent d'audició
+pa-008	pa-013	3	bé;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-008	pa-014	4	a veure;bé;clar;perquè	semblança tokenitzada small; pendent d'audició
+pa-008	pa-016	6	a veure;bé;clar;de fet;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-008	pa-017	3	clar;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-008	pa-019	3	bé;clar;perquè	semblança tokenitzada small; pendent d'audició
+pa-008	pa-020	3	bé;clar;perquè	semblança tokenitzada small; pendent d'audició
+pa-008	pa-021	3	a veure;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-008	pa-022	4	a veure;clar;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-008	pa-023	4	a veure;de fet;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-008	pa-024	3	clar;de fet;perquè	semblança tokenitzada small; pendent d'audició
+pa-008	pa-025	5	a veure;aleshores;clar;de fet;perquè	semblança tokenitzada small; pendent d'audició
+pa-008	pa-026	3	a veure;bé;perquè	semblança tokenitzada small; pendent d'audició
+pa-008	pa-027	4	clar;de fet;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-008	pa-028	3	bé;clar;de fet	semblança tokenitzada small; pendent d'audició
+pa-008	pa-030	3	a veure;aleshores;és a dir	semblança tokenitzada small; pendent d'audició
+pa-008	pa-031	5	a veure;aleshores;clar;de fet;perquè	semblança tokenitzada small; pendent d'audició
+pa-008	pa-032	4	aleshores;bé;clar;perquè	semblança tokenitzada small; pendent d'audició
+pa-008	pa-033	5	bé;clar;de fet;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-008	pa-034	3	a veure;bé;és a dir	semblança tokenitzada small; pendent d'audició
+pa-008	pa-036	4	a veure;bé;clar;perquè	semblança tokenitzada small; pendent d'audició
+pa-008	pa-037	3	bé;clar;perquè	semblança tokenitzada small; pendent d'audició
+pa-008	pa-038	3	bé;clar;perquè	semblança tokenitzada small; pendent d'audició
+pa-008	pa-041	4	a veure;bé;clar;perquè	semblança tokenitzada small; pendent d'audició
+pa-008	pa-045	4	a veure;bé;clar;perquè	semblança tokenitzada small; pendent d'audició
+pa-008	pa-046	3	aleshores;bé;és a dir	semblança tokenitzada small; pendent d'audició
+pa-008	pa-048	3	a veure;bé;és a dir	semblança tokenitzada small; pendent d'audició
+pa-008	pa-049	5	a veure;aleshores;bé;clar;perquè	semblança tokenitzada small; pendent d'audició
+pa-008	pa-056	4	a veure;aleshores;clar;perquè	semblança tokenitzada small; pendent d'audició
+pa-008	pa-059	3	clar;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-008	pa-060	4	a veure;de fet;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-008	pa-063	4	a veure;bé;clar;perquè	semblança tokenitzada small; pendent d'audició
+pa-008	pa-064	5	a veure;bé;clar;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-008	pa-065	5	aleshores;bé;clar;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-008	pa-066	3	bé;de fet;perquè	semblança tokenitzada small; pendent d'audició
+pa-009	pa-010	3	clar;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-009	pa-011	4	bé;doncs;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-009	pa-013	3	bé;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-009	pa-014	5	bé;clar;evidentment;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-009	pa-015	3	bé;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-009	pa-016	6	bé;clar;doncs;evidentment;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-009	pa-017	4	clar;doncs;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-009	pa-019	4	bé;clar;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-009	pa-020	4	bé;clar;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-009	pa-021	3	doncs;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-009	pa-022	4	clar;evidentment;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-009	pa-024	3	clar;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-009	pa-025	4	clar;evidentment;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-009	pa-026	3	bé;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-009	pa-027	3	clar;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-009	pa-028	3	bé;clar;doncs	semblança tokenitzada small; pendent d'audició
+pa-009	pa-030	3	doncs;evidentment;o sigui	semblança tokenitzada small; pendent d'audició
+pa-009	pa-031	3	clar;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-009	pa-032	4	bé;clar;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-009	pa-033	3	bé;clar;perquè	semblança tokenitzada small; pendent d'audició
+pa-009	pa-036	5	bé;clar;doncs;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-009	pa-037	4	bé;clar;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-009	pa-038	5	bé;clar;doncs;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-009	pa-039	3	bé;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-009	pa-041	4	bé;clar;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-009	pa-045	6	bé;clar;doncs;evidentment;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-009	pa-048	3	bé;doncs;o sigui	semblança tokenitzada small; pendent d'audició
+pa-009	pa-049	5	bé;clar;evidentment;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-009	pa-055	3	evidentment;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-009	pa-056	4	clar;doncs;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-009	pa-057	3	bé;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-009	pa-059	3	clar;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-009	pa-061	3	bé;evidentment;o sigui	semblança tokenitzada small; pendent d'audició
+pa-009	pa-063	5	bé;clar;doncs;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-009	pa-064	4	bé;clar;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-009	pa-065	5	bé;clar;doncs;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-009	pa-066	3	bé;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-010	pa-011	4	de fet;doncs;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-010	pa-013	3	doncs;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-010	pa-014	3	clar;crec;perquè	semblança tokenitzada small; pendent d'audició
+pa-010	pa-015	3	doncs;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-010	pa-016	7	clar;crec;de fet;doncs;llavors;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-010	pa-017	5	clar;doncs;llavors;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-010	pa-018	3	crec;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-010	pa-019	4	clar;crec;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-010	pa-020	3	clar;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-010	pa-021	4	crec;doncs;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-010	pa-022	4	clar;crec;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-010	pa-023	4	de fet;llavors;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-010	pa-024	4	clar;crec;de fet;perquè	semblança tokenitzada small; pendent d'audició
+pa-010	pa-025	4	clar;crec;de fet;perquè	semblança tokenitzada small; pendent d'audició
+pa-010	pa-027	5	clar;crec;de fet;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-010	pa-028	4	clar;de fet;doncs;llavors	semblança tokenitzada small; pendent d'audició
+pa-010	pa-030	4	crec;doncs;llavors;és a dir	semblança tokenitzada small; pendent d'audició
+pa-010	pa-031	5	clar;crec;de fet;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-010	pa-032	3	clar;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-010	pa-033	5	clar;de fet;llavors;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-010	pa-035	4	crec;doncs;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-010	pa-036	3	clar;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-010	pa-037	5	clar;crec;doncs;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-010	pa-038	5	clar;crec;doncs;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-010	pa-040	3	crec;de fet;perquè	semblança tokenitzada small; pendent d'audició
+pa-010	pa-041	3	clar;crec;perquè	semblança tokenitzada small; pendent d'audició
+pa-010	pa-045	4	clar;doncs;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-010	pa-046	3	doncs;llavors;és a dir	semblança tokenitzada small; pendent d'audició
+pa-010	pa-048	4	crec;doncs;llavors;és a dir	semblança tokenitzada small; pendent d'audició
+pa-010	pa-049	4	clar;crec;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-010	pa-056	5	clar;crec;doncs;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-010	pa-059	3	clar;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-010	pa-060	6	crec;de fet;doncs;llavors;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-010	pa-062	3	crec;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-010	pa-063	5	clar;crec;doncs;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-010	pa-064	4	clar;crec;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-010	pa-065	5	clar;crec;doncs;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-010	pa-066	4	crec;de fet;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-011	pa-013	4	bé;doncs;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-011	pa-014	4	a veure;bé;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-011	pa-015	3	bé;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-011	pa-016	7	a veure;bé;de fet;doncs;evidentment;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-011	pa-017	4	doncs;evidentment;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-011	pa-019	3	bé;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-011	pa-020	3	bé;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-011	pa-021	5	a veure;doncs;evidentment;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-011	pa-022	4	a veure;evidentment;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-011	pa-023	4	a veure;de fet;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-011	pa-024	3	de fet;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-011	pa-025	4	a veure;de fet;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-011	pa-026	3	a veure;bé;perquè	semblança tokenitzada small; pendent d'audició
+pa-011	pa-027	4	de fet;evidentment;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-011	pa-028	3	bé;de fet;doncs	semblança tokenitzada small; pendent d'audició
+pa-011	pa-030	4	a veure;doncs;evidentment;és a dir	semblança tokenitzada small; pendent d'audició
+pa-011	pa-031	4	a veure;de fet;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-011	pa-032	3	bé;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-011	pa-033	4	bé;de fet;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-011	pa-034	3	a veure;bé;és a dir	semblança tokenitzada small; pendent d'audició
+pa-011	pa-035	3	doncs;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-011	pa-036	5	a veure;bé;doncs;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-011	pa-037	3	bé;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-011	pa-038	3	bé;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-011	pa-039	3	bé;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-011	pa-040	3	de fet;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-011	pa-041	4	a veure;bé;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-011	pa-045	5	a veure;bé;doncs;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-011	pa-046	3	bé;doncs;és a dir	semblança tokenitzada small; pendent d'audició
+pa-011	pa-048	4	a veure;bé;doncs;és a dir	semblança tokenitzada small; pendent d'audició
+pa-011	pa-049	4	a veure;bé;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-011	pa-055	3	a veure;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-011	pa-056	4	a veure;doncs;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-011	pa-059	3	evidentment;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-011	pa-060	5	a veure;de fet;doncs;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-011	pa-061	3	a veure;bé;evidentment	semblança tokenitzada small; pendent d'audició
+pa-011	pa-063	4	a veure;bé;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-011	pa-064	4	a veure;bé;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-011	pa-065	4	bé;doncs;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-011	pa-066	4	bé;de fet;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-012	pa-032	3	aleshores;bé;perquè	semblança tokenitzada small; pendent d'audició
+pa-012	pa-049	3	aleshores;bé;perquè	semblança tokenitzada small; pendent d'audició
+pa-012	pa-065	3	aleshores;bé;perquè	semblança tokenitzada small; pendent d'audició
+pa-013	pa-015	3	bé;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-013	pa-016	4	bé;doncs;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-013	pa-017	3	doncs;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-013	pa-020	3	bé;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-013	pa-021	3	doncs;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-013	pa-032	3	bé;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-013	pa-033	3	bé;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-013	pa-035	3	doncs;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-013	pa-036	3	bé;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-013	pa-037	3	bé;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-013	pa-038	3	bé;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-013	pa-045	3	bé;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-013	pa-046	3	bé;doncs;és a dir	semblança tokenitzada small; pendent d'audició
+pa-013	pa-048	3	bé;doncs;és a dir	semblança tokenitzada small; pendent d'audició
+pa-013	pa-060	3	doncs;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-013	pa-063	3	bé;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-013	pa-064	3	bé;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-013	pa-065	4	bé;doncs;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-014	pa-016	8	a veure;bé;clar;crec;evidentment;o sigui;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-014	pa-017	4	clar;evidentment;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-014	pa-019	5	bé;clar;crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-014	pa-020	4	aviam;bé;clar;perquè	semblança tokenitzada small; pendent d'audició
+pa-014	pa-021	5	a veure;crec;evidentment;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-014	pa-022	7	a veure;clar;crec;evidentment;o sigui;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-014	pa-023	3	a veure;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-014	pa-024	4	clar;crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-014	pa-025	6	a veure;clar;crec;evidentment;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-014	pa-026	5	a veure;bé;o sigui;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-014	pa-027	4	clar;crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-014	pa-030	5	a veure;crec;evidentment;o sigui;vull dir	semblança tokenitzada small; pendent d'audició
+pa-014	pa-031	4	a veure;clar;crec;perquè	semblança tokenitzada small; pendent d'audició
+pa-014	pa-032	4	bé;clar;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-014	pa-033	4	bé;clar;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-014	pa-034	3	a veure;bé;crec	semblança tokenitzada small; pendent d'audició
+pa-014	pa-036	6	a veure;bé;clar;evidentment;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-014	pa-037	5	bé;clar;crec;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-014	pa-038	6	bé;clar;crec;o sigui;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-014	pa-039	4	bé;crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-014	pa-040	3	crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-014	pa-041	7	a veure;bé;clar;crec;evidentment;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-014	pa-045	6	a veure;bé;clar;evidentment;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-014	pa-048	5	a veure;bé;crec;o sigui;vull dir	semblança tokenitzada small; pendent d'audició
+pa-014	pa-049	8	a veure;bé;clar;crec;evidentment;o sigui;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-014	pa-055	5	a veure;evidentment;o sigui;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-014	pa-056	6	a veure;clar;crec;evidentment;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-014	pa-057	3	bé;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-014	pa-059	4	clar;evidentment;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-014	pa-060	4	a veure;crec;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-014	pa-061	6	a veure;bé;crec;evidentment;o sigui;vull dir	semblança tokenitzada small; pendent d'audició
+pa-014	pa-062	3	crec;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-014	pa-063	7	a veure;bé;clar;crec;o sigui;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-014	pa-064	6	a veure;bé;clar;crec;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-014	pa-065	5	bé;clar;crec;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-014	pa-066	4	bé;crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-015	pa-016	4	bé;doncs;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-015	pa-017	3	doncs;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-015	pa-019	3	bé;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-015	pa-020	3	bé;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-015	pa-028	3	bé;doncs;llavors	semblança tokenitzada small; pendent d'audició
+pa-015	pa-032	3	bé;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-015	pa-033	3	bé;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-015	pa-036	3	bé;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-015	pa-037	4	bé;doncs;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-015	pa-038	4	bé;doncs;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-015	pa-045	4	bé;doncs;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-015	pa-046	3	bé;doncs;llavors	semblança tokenitzada small; pendent d'audició
+pa-015	pa-048	3	bé;doncs;llavors	semblança tokenitzada small; pendent d'audició
+pa-015	pa-049	3	bé;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-015	pa-056	3	doncs;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-015	pa-057	3	bé;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-015	pa-060	3	doncs;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-015	pa-063	4	bé;doncs;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-015	pa-065	3	bé;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-015	pa-066	3	bé;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-016	pa-017	8	a nivell;clar;doncs;evidentment;llavors;perquè;vull dir;és a dir	semblança tokenitzada small; pendent d'audició
+pa-016	pa-018	3	crec;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-016	pa-019	7	a nivell;bé;clar;crec;evidentment;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-016	pa-020	5	a nivell;bé;clar;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-016	pa-021	7	a veure;crec;doncs;evidentment;perquè;vull dir;és a dir	semblança tokenitzada small; pendent d'audició
+pa-016	pa-022	8	a veure;clar;crec;evidentment;o sigui;perquè;vull dir;és a dir	semblança tokenitzada small; pendent d'audició
+pa-016	pa-023	7	a nivell;a veure;de fet;llavors;perquè;vull dir;és a dir	semblança tokenitzada small; pendent d'audició
+pa-016	pa-024	6	a nivell;clar;crec;de fet;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-016	pa-025	7	a veure;clar;crec;de fet;evidentment;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-016	pa-026	6	a nivell;a veure;bé;o sigui;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-016	pa-027	6	clar;crec;de fet;evidentment;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-016	pa-028	5	bé;clar;de fet;doncs;llavors	semblança tokenitzada small; pendent d'audició
+pa-016	pa-030	8	a veure;crec;doncs;evidentment;llavors;o sigui;vull dir;és a dir	semblança tokenitzada small; pendent d'audició
+pa-016	pa-031	6	a veure;clar;crec;de fet;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-016	pa-032	5	bé;clar;doncs;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-016	pa-033	7	bé;clar;de fet;llavors;perquè;vull dir;és a dir	semblança tokenitzada small; pendent d'audició
+pa-016	pa-034	5	a nivell;a veure;bé;crec;és a dir	semblança tokenitzada small; pendent d'audició
+pa-016	pa-035	4	crec;doncs;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-016	pa-036	8	a nivell;a veure;bé;clar;doncs;evidentment;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-016	pa-037	7	bé;clar;crec;doncs;llavors;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-016	pa-038	9	a nivell;bé;clar;crec;doncs;llavors;o sigui;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-016	pa-039	4	bé;crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-016	pa-040	4	crec;de fet;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-016	pa-041	7	a veure;bé;clar;crec;evidentment;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-016	pa-045	9	a nivell;a veure;bé;clar;doncs;evidentment;llavors;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-016	pa-046	4	bé;doncs;llavors;és a dir	semblança tokenitzada small; pendent d'audició
+pa-016	pa-048	9	a nivell;a veure;bé;crec;doncs;llavors;o sigui;vull dir;és a dir	semblança tokenitzada small; pendent d'audició
+pa-016	pa-049	9	a veure;bé;clar;crec;evidentment;llavors;o sigui;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-016	pa-055	6	a nivell;a veure;evidentment;o sigui;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-016	pa-056	8	a veure;clar;crec;doncs;evidentment;llavors;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-016	pa-057	5	a nivell;bé;llavors;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-016	pa-058	3	perquè;vull dir;és a dir	semblança tokenitzada small; pendent d'audició
+pa-016	pa-059	6	a nivell;clar;evidentment;perquè;vull dir;és a dir	semblança tokenitzada small; pendent d'audició
+pa-016	pa-060	9	a nivell;a veure;crec;de fet;doncs;llavors;perquè;vull dir;és a dir	semblança tokenitzada small; pendent d'audició
+pa-016	pa-061	8	a nivell;a veure;bé;crec;evidentment;llavors;o sigui;vull dir	semblança tokenitzada small; pendent d'audició
+pa-016	pa-062	4	crec;o sigui;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-016	pa-063	10	a nivell;a veure;bé;clar;crec;doncs;llavors;o sigui;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-016	pa-064	7	a veure;bé;clar;crec;o sigui;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-016	pa-065	8	a nivell;bé;clar;crec;doncs;o sigui;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-016	pa-066	7	a nivell;bé;crec;de fet;evidentment;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-017	pa-019	5	a nivell;clar;evidentment;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-017	pa-020	4	a nivell;clar;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-017	pa-021	5	doncs;evidentment;perquè;vull dir;és a dir	semblança tokenitzada small; pendent d'audició
+pa-017	pa-022	5	clar;evidentment;perquè;vull dir;és a dir	semblança tokenitzada small; pendent d'audició
+pa-017	pa-023	5	a nivell;llavors;perquè;vull dir;és a dir	semblança tokenitzada small; pendent d'audició
+pa-017	pa-024	4	a nivell;clar;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-017	pa-025	3	clar;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-017	pa-026	3	a nivell;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-017	pa-027	4	clar;evidentment;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-017	pa-028	3	clar;doncs;llavors	semblança tokenitzada small; pendent d'audició
+pa-017	pa-030	6	doncs;evidentment;llavors;tirar endavant;vull dir;és a dir	semblança tokenitzada small; pendent d'audició
+pa-017	pa-031	4	clar;doncs;perquè;tirar endavant	semblança tokenitzada small; pendent d'audició
+pa-017	pa-032	4	clar;doncs;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-017	pa-033	6	clar;llavors;perquè;tirar endavant;vull dir;és a dir	semblança tokenitzada small; pendent d'audició
+pa-017	pa-034	3	a nivell;tirar endavant;és a dir	semblança tokenitzada small; pendent d'audició
+pa-017	pa-035	3	doncs;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-017	pa-036	6	a nivell;clar;doncs;evidentment;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-017	pa-037	5	clar;doncs;llavors;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-017	pa-038	6	a nivell;clar;doncs;llavors;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-017	pa-041	5	clar;evidentment;perquè;tirar endavant;vull dir	semblança tokenitzada small; pendent d'audició
+pa-017	pa-045	6	a nivell;clar;doncs;evidentment;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-017	pa-046	3	doncs;llavors;és a dir	semblança tokenitzada small; pendent d'audició
+pa-017	pa-048	5	a nivell;doncs;llavors;vull dir;és a dir	semblança tokenitzada small; pendent d'audició
+pa-017	pa-049	5	clar;evidentment;llavors;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-017	pa-055	4	a nivell;evidentment;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-017	pa-056	7	clar;doncs;evidentment;llavors;perquè;tirar endavant;vull dir	semblança tokenitzada small; pendent d'audició
+pa-017	pa-057	4	a nivell;llavors;perquè;tirar endavant	semblança tokenitzada small; pendent d'audició
+pa-017	pa-058	3	perquè;vull dir;és a dir	semblança tokenitzada small; pendent d'audició
+pa-017	pa-059	7	a nivell;clar;evidentment;perquè;tirar endavant;vull dir;és a dir	semblança tokenitzada small; pendent d'audició
+pa-017	pa-060	6	a nivell;doncs;llavors;perquè;vull dir;és a dir	semblança tokenitzada small; pendent d'audició
+pa-017	pa-061	4	a nivell;evidentment;llavors;vull dir	semblança tokenitzada small; pendent d'audició
+pa-017	pa-063	6	a nivell;clar;doncs;llavors;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-017	pa-064	3	clar;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-017	pa-065	5	a nivell;clar;doncs;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-017	pa-066	4	a nivell;evidentment;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-018	pa-019	3	crec;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-018	pa-025	3	crec;diguem;perquè	semblança tokenitzada small; pendent d'audició
+pa-018	pa-027	3	crec;diguem;perquè	semblança tokenitzada small; pendent d'audició
+pa-018	pa-033	3	diguem;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-018	pa-037	3	crec;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-018	pa-038	3	crec;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-018	pa-049	4	crec;diguem;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-018	pa-056	3	crec;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-018	pa-060	3	crec;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-018	pa-062	3	crec;diguem;perquè	semblança tokenitzada small; pendent d'audició
+pa-018	pa-063	3	crec;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-018	pa-066	3	crec;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-019	pa-020	4	a nivell;bé;clar;perquè	semblança tokenitzada small; pendent d'audició
+pa-019	pa-021	4	bueno;crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-019	pa-022	4	clar;crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-019	pa-023	4	a nivell;bueno;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-019	pa-024	5	a nivell;clar;crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-019	pa-025	4	clar;crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-019	pa-026	3	a nivell;bé;perquè	semblança tokenitzada small; pendent d'audició
+pa-019	pa-027	4	clar;crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-019	pa-028	3	bé;clar;llavors	semblança tokenitzada small; pendent d'audició
+pa-019	pa-030	4	bueno;crec;evidentment;llavors	semblança tokenitzada small; pendent d'audició
+pa-019	pa-031	3	clar;crec;perquè	semblança tokenitzada small; pendent d'audició
+pa-019	pa-032	4	bueno;bé;clar;perquè	semblança tokenitzada small; pendent d'audició
+pa-019	pa-033	4	bé;clar;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-019	pa-034	3	a nivell;bé;crec	semblança tokenitzada small; pendent d'audició
+pa-019	pa-036	5	a nivell;bé;clar;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-019	pa-037	6	bueno;bé;clar;crec;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-019	pa-038	7	a nivell;bueno;bé;clar;crec;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-019	pa-039	4	bé;crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-019	pa-040	3	crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-019	pa-041	6	bueno;bé;clar;crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-019	pa-045	6	a nivell;bé;clar;evidentment;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-019	pa-048	4	a nivell;bé;crec;llavors	semblança tokenitzada small; pendent d'audició
+pa-019	pa-049	7	bueno;bé;clar;crec;evidentment;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-019	pa-052	3	bueno;clar;perquè	semblança tokenitzada small; pendent d'audició
+pa-019	pa-054	3	bueno;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-019	pa-055	3	a nivell;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-019	pa-056	5	clar;crec;evidentment;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-019	pa-057	4	a nivell;bé;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-019	pa-059	5	a nivell;bueno;clar;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-019	pa-060	4	a nivell;crec;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-019	pa-061	6	a nivell;bueno;bé;crec;evidentment;llavors	semblança tokenitzada small; pendent d'audició
+pa-019	pa-062	3	bueno;crec;perquè	semblança tokenitzada small; pendent d'audició
+pa-019	pa-063	6	a nivell;bé;clar;crec;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-019	pa-064	4	bé;clar;crec;perquè	semblança tokenitzada small; pendent d'audició
+pa-019	pa-065	6	a nivell;bueno;bé;clar;crec;perquè	semblança tokenitzada small; pendent d'audició
+pa-019	pa-066	7	a nivell;bueno;bé;crec;evidentment;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-020	pa-024	3	a nivell;clar;perquè	semblança tokenitzada small; pendent d'audició
+pa-020	pa-025	3	clar;diguem;perquè	semblança tokenitzada small; pendent d'audició
+pa-020	pa-026	3	a nivell;bé;perquè	semblança tokenitzada small; pendent d'audició
+pa-020	pa-027	3	clar;diguem;perquè	semblança tokenitzada small; pendent d'audició
+pa-020	pa-028	3	bé;clar;doncs	semblança tokenitzada small; pendent d'audició
+pa-020	pa-031	3	clar;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-020	pa-032	4	bé;clar;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-020	pa-033	4	bé;clar;diguem;perquè	semblança tokenitzada small; pendent d'audició
+pa-020	pa-034	3	a nivell;bé;diguem	semblança tokenitzada small; pendent d'audició
+pa-020	pa-036	5	a nivell;bé;clar;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-020	pa-037	4	bé;clar;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-020	pa-038	5	a nivell;bé;clar;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-020	pa-041	3	bé;clar;perquè	semblança tokenitzada small; pendent d'audició
+pa-020	pa-045	5	a nivell;bé;clar;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-020	pa-046	3	bé;diguem;doncs	semblança tokenitzada small; pendent d'audició
+pa-020	pa-048	3	a nivell;bé;doncs	semblança tokenitzada small; pendent d'audició
+pa-020	pa-049	4	bé;clar;diguem;perquè	semblança tokenitzada small; pendent d'audició
+pa-020	pa-056	3	clar;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-020	pa-057	3	a nivell;bé;perquè	semblança tokenitzada small; pendent d'audició
+pa-020	pa-059	3	a nivell;clar;perquè	semblança tokenitzada small; pendent d'audició
+pa-020	pa-060	3	a nivell;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-020	pa-063	5	a nivell;bé;clar;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-020	pa-064	3	bé;clar;perquè	semblança tokenitzada small; pendent d'audició
+pa-020	pa-065	5	a nivell;bé;clar;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-020	pa-066	3	a nivell;bé;perquè	semblança tokenitzada small; pendent d'audició
+pa-021	pa-022	6	a veure;crec;evidentment;perquè;vull dir;és a dir	semblança tokenitzada small; pendent d'audició
+pa-021	pa-023	5	a veure;bueno;perquè;vull dir;és a dir	semblança tokenitzada small; pendent d'audició
+pa-021	pa-024	3	crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-021	pa-025	4	a veure;crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-021	pa-026	3	a veure;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-021	pa-027	4	crec;evidentment;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-021	pa-030	7	a veure;bueno;crec;doncs;evidentment;vull dir;és a dir	semblança tokenitzada small; pendent d'audició
+pa-021	pa-031	4	a veure;crec;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-021	pa-032	4	bueno;doncs;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-021	pa-033	3	perquè;vull dir;és a dir	semblança tokenitzada small; pendent d'audició
+pa-021	pa-034	3	a veure;crec;és a dir	semblança tokenitzada small; pendent d'audició
+pa-021	pa-035	4	crec;doncs;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-021	pa-036	5	a veure;doncs;evidentment;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-021	pa-037	5	bueno;crec;doncs;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-021	pa-038	5	bueno;crec;doncs;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-021	pa-039	3	crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-021	pa-040	3	crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-021	pa-041	6	a veure;bueno;crec;evidentment;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-021	pa-043	3	bueno;crec;és a dir	semblança tokenitzada small; pendent d'audició
+pa-021	pa-045	4	a veure;doncs;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-021	pa-048	5	a veure;crec;doncs;vull dir;és a dir	semblança tokenitzada small; pendent d'audició
+pa-021	pa-049	6	a veure;bueno;crec;evidentment;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-021	pa-055	4	a veure;evidentment;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-021	pa-056	6	a veure;crec;doncs;evidentment;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-021	pa-058	3	perquè;vull dir;és a dir	semblança tokenitzada small; pendent d'audició
+pa-021	pa-059	5	bueno;evidentment;perquè;vull dir;és a dir	semblança tokenitzada small; pendent d'audició
+pa-021	pa-060	6	a veure;crec;doncs;perquè;vull dir;és a dir	semblança tokenitzada small; pendent d'audició
+pa-021	pa-061	5	a veure;bueno;crec;evidentment;vull dir	semblança tokenitzada small; pendent d'audició
+pa-021	pa-062	4	bueno;crec;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-021	pa-063	5	a veure;crec;doncs;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-021	pa-064	4	a veure;crec;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-021	pa-065	5	bueno;crec;doncs;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-021	pa-066	4	bueno;crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-022	pa-023	4	a veure;perquè;vull dir;és a dir	semblança tokenitzada small; pendent d'audició
+pa-022	pa-024	4	clar;crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-022	pa-025	7	a veure;clar;crec;evidentment;o sigui;perquè;reformeta	semblança tokenitzada small; pendent d'audició
+pa-022	pa-026	5	a veure;o sigui;perquè;reformeta;vull dir	semblança tokenitzada small; pendent d'audició
+pa-022	pa-027	5	clar;crec;evidentment;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-022	pa-030	6	a veure;crec;evidentment;o sigui;vull dir;és a dir	semblança tokenitzada small; pendent d'audició
+pa-022	pa-031	4	a veure;clar;crec;perquè	semblança tokenitzada small; pendent d'audició
+pa-022	pa-032	3	clar;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-022	pa-033	4	clar;perquè;vull dir;és a dir	semblança tokenitzada small; pendent d'audició
+pa-022	pa-034	4	a veure;crec;reformeta;és a dir	semblança tokenitzada small; pendent d'audició
+pa-022	pa-035	3	crec;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-022	pa-036	5	a veure;clar;evidentment;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-022	pa-037	4	clar;crec;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-022	pa-038	6	clar;crec;o sigui;perquè;reformeta;vull dir	semblança tokenitzada small; pendent d'audició
+pa-022	pa-039	3	crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-022	pa-040	3	crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-022	pa-041	6	a veure;clar;crec;evidentment;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-022	pa-045	5	a veure;clar;evidentment;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-022	pa-048	5	a veure;crec;o sigui;vull dir;és a dir	semblança tokenitzada small; pendent d'audició
+pa-022	pa-049	7	a veure;clar;crec;evidentment;o sigui;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-022	pa-055	6	a veure;evidentment;o sigui;perquè;reformeta;vull dir	semblança tokenitzada small; pendent d'audició
+pa-022	pa-056	6	a veure;clar;crec;evidentment;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-022	pa-058	3	perquè;vull dir;és a dir	semblança tokenitzada small; pendent d'audició
+pa-022	pa-059	5	clar;evidentment;perquè;vull dir;és a dir	semblança tokenitzada small; pendent d'audició
+pa-022	pa-060	5	a veure;crec;perquè;vull dir;és a dir	semblança tokenitzada small; pendent d'audició
+pa-022	pa-061	5	a veure;crec;evidentment;o sigui;vull dir	semblança tokenitzada small; pendent d'audició
+pa-022	pa-062	4	crec;o sigui;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-022	pa-063	6	a veure;clar;crec;o sigui;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-022	pa-064	6	a veure;clar;crec;o sigui;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-022	pa-065	5	clar;crec;o sigui;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-022	pa-066	3	crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-023	pa-024	3	a nivell;de fet;perquè	semblança tokenitzada small; pendent d'audició
+pa-023	pa-025	3	a veure;de fet;perquè	semblança tokenitzada small; pendent d'audició
+pa-023	pa-026	4	a nivell;a veure;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-023	pa-027	3	de fet;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-023	pa-030	5	a veure;bueno;llavors;vull dir;és a dir	semblança tokenitzada small; pendent d'audició
+pa-023	pa-031	3	a veure;de fet;perquè	semblança tokenitzada small; pendent d'audició
+pa-023	pa-032	3	bueno;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-023	pa-033	5	de fet;llavors;perquè;vull dir;és a dir	semblança tokenitzada small; pendent d'audició
+pa-023	pa-034	3	a nivell;a veure;és a dir	semblança tokenitzada small; pendent d'audició
+pa-023	pa-036	4	a nivell;a veure;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-023	pa-037	4	bueno;llavors;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-023	pa-038	5	a nivell;bueno;llavors;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-023	pa-041	4	a veure;bueno;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-023	pa-045	4	a nivell;a veure;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-023	pa-048	5	a nivell;a veure;llavors;vull dir;és a dir	semblança tokenitzada small; pendent d'audició
+pa-023	pa-049	5	a veure;bueno;llavors;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-023	pa-054	3	bueno;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-023	pa-055	4	a nivell;a veure;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-023	pa-056	4	a veure;llavors;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-023	pa-057	3	a nivell;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-023	pa-058	3	perquè;vull dir;és a dir	semblança tokenitzada small; pendent d'audició
+pa-023	pa-059	5	a nivell;bueno;perquè;vull dir;és a dir	semblança tokenitzada small; pendent d'audició
+pa-023	pa-060	7	a nivell;a veure;de fet;llavors;perquè;vull dir;és a dir	semblança tokenitzada small; pendent d'audició
+pa-023	pa-061	5	a nivell;a veure;bueno;llavors;vull dir	semblança tokenitzada small; pendent d'audició
+pa-023	pa-062	3	bueno;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-023	pa-063	5	a nivell;a veure;llavors;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-023	pa-064	3	a veure;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-023	pa-065	4	a nivell;bueno;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-023	pa-066	5	a nivell;bueno;de fet;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-024	pa-025	5	clar;crec;de fet;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-024	pa-027	5	clar;crec;de fet;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-024	pa-031	4	clar;crec;de fet;perquè	semblança tokenitzada small; pendent d'audició
+pa-024	pa-033	3	clar;de fet;perquè	semblança tokenitzada small; pendent d'audició
+pa-024	pa-036	4	a nivell;clar;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-024	pa-037	3	clar;crec;perquè	semblança tokenitzada small; pendent d'audició
+pa-024	pa-038	4	a nivell;clar;crec;perquè	semblança tokenitzada small; pendent d'audició
+pa-024	pa-039	3	crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-024	pa-040	4	crec;de fet;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-024	pa-041	4	clar;crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-024	pa-045	4	a nivell;clar;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-024	pa-049	4	clar;crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-024	pa-055	3	a nivell;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-024	pa-056	4	clar;crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-024	pa-059	4	a nivell;clar;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-024	pa-060	4	a nivell;crec;de fet;perquè	semblança tokenitzada small; pendent d'audició
+pa-024	pa-061	3	a nivell;crec;evidentment	semblança tokenitzada small; pendent d'audició
+pa-024	pa-063	4	a nivell;clar;crec;perquè	semblança tokenitzada small; pendent d'audició
+pa-024	pa-064	3	clar;crec;perquè	semblança tokenitzada small; pendent d'audició
+pa-024	pa-065	4	a nivell;clar;crec;perquè	semblança tokenitzada small; pendent d'audició
+pa-024	pa-066	5	a nivell;crec;de fet;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-025	pa-026	4	a veure;o sigui;perquè;reformeta	semblança tokenitzada small; pendent d'audició
+pa-025	pa-027	6	clar;crec;de fet;diguem;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-025	pa-030	5	a veure;aleshores;crec;evidentment;o sigui	semblança tokenitzada small; pendent d'audició
+pa-025	pa-031	6	a veure;aleshores;clar;crec;de fet;perquè	semblança tokenitzada small; pendent d'audició
+pa-025	pa-032	3	aleshores;clar;perquè	semblança tokenitzada small; pendent d'audició
+pa-025	pa-033	4	clar;de fet;diguem;perquè	semblança tokenitzada small; pendent d'audició
+pa-025	pa-034	4	a veure;crec;diguem;reformeta	semblança tokenitzada small; pendent d'audició
+pa-025	pa-036	4	a veure;clar;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-025	pa-037	3	clar;crec;perquè	semblança tokenitzada small; pendent d'audició
+pa-025	pa-038	5	clar;crec;o sigui;perquè;reformeta	semblança tokenitzada small; pendent d'audició
+pa-025	pa-039	3	crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-025	pa-040	4	crec;de fet;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-025	pa-041	5	a veure;clar;crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-025	pa-045	5	a veure;clar;evidentment;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-025	pa-048	3	a veure;crec;o sigui	semblança tokenitzada small; pendent d'audició
+pa-025	pa-049	8	a veure;aleshores;clar;crec;diguem;evidentment;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-025	pa-055	5	a veure;evidentment;o sigui;perquè;reformeta	semblança tokenitzada small; pendent d'audició
+pa-025	pa-056	6	a veure;aleshores;clar;crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-025	pa-059	3	clar;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-025	pa-060	4	a veure;crec;de fet;perquè	semblança tokenitzada small; pendent d'audició
+pa-025	pa-061	4	a veure;crec;evidentment;o sigui	semblança tokenitzada small; pendent d'audició
+pa-025	pa-062	4	crec;diguem;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-025	pa-063	5	a veure;clar;crec;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-025	pa-064	5	a veure;clar;crec;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-025	pa-065	5	aleshores;clar;crec;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-025	pa-066	4	crec;de fet;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-026	pa-030	3	a veure;o sigui;vull dir	semblança tokenitzada small; pendent d'audició
+pa-026	pa-032	3	bé;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-026	pa-033	3	bé;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-026	pa-034	4	a nivell;a veure;bé;reformeta	semblança tokenitzada small; pendent d'audició
+pa-026	pa-036	5	a nivell;a veure;bé;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-026	pa-037	3	bé;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-026	pa-038	6	a nivell;bé;o sigui;perquè;reformeta;vull dir	semblança tokenitzada small; pendent d'audició
+pa-026	pa-041	4	a veure;bé;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-026	pa-045	5	a nivell;a veure;bé;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-026	pa-048	5	a nivell;a veure;bé;o sigui;vull dir	semblança tokenitzada small; pendent d'audició
+pa-026	pa-049	5	a veure;bé;o sigui;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-026	pa-055	6	a nivell;a veure;o sigui;perquè;reformeta;vull dir	semblança tokenitzada small; pendent d'audició
+pa-026	pa-056	3	a veure;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-026	pa-057	4	a nivell;bé;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-026	pa-059	3	a nivell;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-026	pa-060	4	a nivell;a veure;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-026	pa-061	5	a nivell;a veure;bé;o sigui;vull dir	semblança tokenitzada small; pendent d'audició
+pa-026	pa-063	6	a nivell;a veure;bé;o sigui;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-026	pa-064	4	a veure;bé;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-026	pa-065	4	a nivell;bé;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-026	pa-066	3	a nivell;bé;perquè	semblança tokenitzada small; pendent d'audició
+pa-027	pa-030	3	crec;evidentment;és a dir	semblança tokenitzada small; pendent d'audició
+pa-027	pa-031	4	clar;crec;de fet;perquè	semblança tokenitzada small; pendent d'audició
+pa-027	pa-033	5	clar;de fet;diguem;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-027	pa-034	3	crec;diguem;és a dir	semblança tokenitzada small; pendent d'audició
+pa-027	pa-035	3	crec;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-027	pa-036	3	clar;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-027	pa-037	3	clar;crec;perquè	semblança tokenitzada small; pendent d'audició
+pa-027	pa-038	3	clar;crec;perquè	semblança tokenitzada small; pendent d'audició
+pa-027	pa-039	3	crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-027	pa-040	4	crec;de fet;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-027	pa-041	4	clar;crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-027	pa-045	3	clar;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-027	pa-049	5	clar;crec;diguem;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-027	pa-056	4	clar;crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-027	pa-058	3	diguem;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-027	pa-059	4	clar;evidentment;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-027	pa-060	4	crec;de fet;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-027	pa-062	4	crec;diguem;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-027	pa-063	3	clar;crec;perquè	semblança tokenitzada small; pendent d'audició
+pa-027	pa-064	4	clar;crec;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-027	pa-065	4	clar;crec;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-027	pa-066	4	crec;de fet;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-028	pa-031	3	clar;de fet;doncs	semblança tokenitzada small; pendent d'audició
+pa-028	pa-032	3	bé;clar;doncs	semblança tokenitzada small; pendent d'audició
+pa-028	pa-033	4	bé;clar;de fet;llavors	semblança tokenitzada small; pendent d'audició
+pa-028	pa-036	3	bé;clar;doncs	semblança tokenitzada small; pendent d'audició
+pa-028	pa-037	4	bé;clar;doncs;llavors	semblança tokenitzada small; pendent d'audició
+pa-028	pa-038	4	bé;clar;doncs;llavors	semblança tokenitzada small; pendent d'audició
+pa-028	pa-045	4	bé;clar;doncs;llavors	semblança tokenitzada small; pendent d'audició
+pa-028	pa-046	3	bé;doncs;llavors	semblança tokenitzada small; pendent d'audició
+pa-028	pa-048	3	bé;doncs;llavors	semblança tokenitzada small; pendent d'audició
+pa-028	pa-049	3	bé;clar;llavors	semblança tokenitzada small; pendent d'audició
+pa-028	pa-056	3	clar;doncs;llavors	semblança tokenitzada small; pendent d'audició
+pa-028	pa-060	3	de fet;doncs;llavors	semblança tokenitzada small; pendent d'audició
+pa-028	pa-063	4	bé;clar;doncs;llavors	semblança tokenitzada small; pendent d'audició
+pa-028	pa-065	3	bé;clar;doncs	semblança tokenitzada small; pendent d'audició
+pa-028	pa-066	3	bé;de fet;llavors	semblança tokenitzada small; pendent d'audició
+pa-029	pa-057	3	a nivell;o sigui;tirar endavant	semblança tokenitzada small; pendent d'audició
+pa-030	pa-031	5	a veure;aleshores;crec;doncs;tirar endavant	semblança tokenitzada small; pendent d'audició
+pa-030	pa-032	4	aleshores;bueno;doncs;vull dir	semblança tokenitzada small; pendent d'audició
+pa-030	pa-033	4	llavors;tirar endavant;vull dir;és a dir	semblança tokenitzada small; pendent d'audició
+pa-030	pa-034	4	a veure;crec;tirar endavant;és a dir	semblança tokenitzada small; pendent d'audició
+pa-030	pa-035	3	crec;doncs;és a dir	semblança tokenitzada small; pendent d'audició
+pa-030	pa-036	4	a veure;doncs;evidentment;vull dir	semblança tokenitzada small; pendent d'audició
+pa-030	pa-037	5	bueno;crec;doncs;llavors;vull dir	semblança tokenitzada small; pendent d'audició
+pa-030	pa-038	6	bueno;crec;doncs;llavors;o sigui;vull dir	semblança tokenitzada small; pendent d'audició
+pa-030	pa-041	6	a veure;bueno;crec;evidentment;tirar endavant;vull dir	semblança tokenitzada small; pendent d'audició
+pa-030	pa-043	3	bueno;crec;és a dir	semblança tokenitzada small; pendent d'audició
+pa-030	pa-045	5	a veure;doncs;evidentment;llavors;o sigui	semblança tokenitzada small; pendent d'audició
+pa-030	pa-046	4	aleshores;doncs;llavors;és a dir	semblança tokenitzada small; pendent d'audició
+pa-030	pa-048	7	a veure;crec;doncs;llavors;o sigui;vull dir;és a dir	semblança tokenitzada small; pendent d'audició
+pa-030	pa-049	8	a veure;aleshores;bueno;crec;evidentment;llavors;o sigui;vull dir	semblança tokenitzada small; pendent d'audició
+pa-030	pa-055	4	a veure;evidentment;o sigui;vull dir	semblança tokenitzada small; pendent d'audició
+pa-030	pa-056	8	a veure;aleshores;crec;doncs;evidentment;llavors;tirar endavant;vull dir	semblança tokenitzada small; pendent d'audició
+pa-030	pa-057	3	llavors;o sigui;tirar endavant	semblança tokenitzada small; pendent d'audició
+pa-030	pa-059	5	bueno;evidentment;tirar endavant;vull dir;és a dir	semblança tokenitzada small; pendent d'audició
+pa-030	pa-060	6	a veure;crec;doncs;llavors;vull dir;és a dir	semblança tokenitzada small; pendent d'audició
+pa-030	pa-061	7	a veure;bueno;crec;evidentment;llavors;o sigui;vull dir	semblança tokenitzada small; pendent d'audició
+pa-030	pa-062	4	bueno;crec;o sigui;és a dir	semblança tokenitzada small; pendent d'audició
+pa-030	pa-063	6	a veure;crec;doncs;llavors;o sigui;vull dir	semblança tokenitzada small; pendent d'audició
+pa-030	pa-064	4	a veure;crec;o sigui;és a dir	semblança tokenitzada small; pendent d'audició
+pa-030	pa-065	6	aleshores;bueno;crec;doncs;o sigui;és a dir	semblança tokenitzada small; pendent d'audició
+pa-030	pa-066	4	bueno;crec;evidentment;llavors	semblança tokenitzada small; pendent d'audició
+pa-031	pa-032	4	aleshores;clar;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-031	pa-033	4	clar;de fet;perquè;tirar endavant	semblança tokenitzada small; pendent d'audició
+pa-031	pa-034	3	a veure;crec;tirar endavant	semblança tokenitzada small; pendent d'audició
+pa-031	pa-035	3	crec;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-031	pa-036	4	a veure;clar;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-031	pa-037	4	clar;crec;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-031	pa-038	4	clar;crec;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-031	pa-040	3	crec;de fet;perquè	semblança tokenitzada small; pendent d'audició
+pa-031	pa-041	5	a veure;clar;crec;perquè;tirar endavant	semblança tokenitzada small; pendent d'audició
+pa-031	pa-045	4	a veure;clar;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-031	pa-048	3	a veure;crec;doncs	semblança tokenitzada small; pendent d'audició
+pa-031	pa-049	5	a veure;aleshores;clar;crec;perquè	semblança tokenitzada small; pendent d'audició
+pa-031	pa-056	7	a veure;aleshores;clar;crec;doncs;perquè;tirar endavant	semblança tokenitzada small; pendent d'audició
+pa-031	pa-059	3	clar;perquè;tirar endavant	semblança tokenitzada small; pendent d'audició
+pa-031	pa-060	5	a veure;crec;de fet;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-031	pa-063	5	a veure;clar;crec;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-031	pa-064	4	a veure;clar;crec;perquè	semblança tokenitzada small; pendent d'audició
+pa-031	pa-065	5	aleshores;clar;crec;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-031	pa-066	3	crec;de fet;perquè	semblança tokenitzada small; pendent d'audició
+pa-032	pa-033	4	bé;clar;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-032	pa-036	5	bé;clar;doncs;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-032	pa-037	6	bueno;bé;clar;doncs;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-032	pa-038	6	bueno;bé;clar;doncs;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-032	pa-041	5	bueno;bé;clar;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-032	pa-045	4	bé;clar;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-032	pa-046	3	aleshores;bé;doncs	semblança tokenitzada small; pendent d'audició
+pa-032	pa-048	3	bé;doncs;vull dir	semblança tokenitzada small; pendent d'audició
+pa-032	pa-049	6	aleshores;bueno;bé;clar;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-032	pa-052	3	bueno;clar;perquè	semblança tokenitzada small; pendent d'audició
+pa-032	pa-056	5	aleshores;clar;doncs;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-032	pa-059	4	bueno;clar;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-032	pa-060	3	doncs;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-032	pa-061	3	bueno;bé;vull dir	semblança tokenitzada small; pendent d'audició
+pa-032	pa-063	5	bé;clar;doncs;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-032	pa-064	3	bé;clar;perquè	semblança tokenitzada small; pendent d'audició
+pa-032	pa-065	6	aleshores;bueno;bé;clar;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-032	pa-066	3	bueno;bé;perquè	semblança tokenitzada small; pendent d'audició
+pa-033	pa-034	4	bé;diguem;tirar endavant;és a dir	semblança tokenitzada small; pendent d'audició
+pa-033	pa-036	4	bé;clar;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-033	pa-037	5	bé;clar;llavors;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-033	pa-038	5	bé;clar;llavors;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-033	pa-041	5	bé;clar;perquè;tirar endavant;vull dir	semblança tokenitzada small; pendent d'audició
+pa-033	pa-045	4	bé;clar;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-033	pa-046	4	bé;diguem;llavors;és a dir	semblança tokenitzada small; pendent d'audició
+pa-033	pa-048	4	bé;llavors;vull dir;és a dir	semblança tokenitzada small; pendent d'audició
+pa-033	pa-049	6	bé;clar;diguem;llavors;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-033	pa-056	5	clar;llavors;perquè;tirar endavant;vull dir	semblança tokenitzada small; pendent d'audició
+pa-033	pa-057	4	bé;llavors;perquè;tirar endavant	semblança tokenitzada small; pendent d'audició
+pa-033	pa-058	4	diguem;perquè;vull dir;és a dir	semblança tokenitzada small; pendent d'audició
+pa-033	pa-059	5	clar;perquè;tirar endavant;vull dir;és a dir	semblança tokenitzada small; pendent d'audició
+pa-033	pa-060	5	de fet;llavors;perquè;vull dir;és a dir	semblança tokenitzada small; pendent d'audició
+pa-033	pa-061	3	bé;llavors;vull dir	semblança tokenitzada small; pendent d'audició
+pa-033	pa-062	3	diguem;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-033	pa-063	5	bé;clar;llavors;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-033	pa-064	4	bé;clar;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-033	pa-065	4	bé;clar;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-033	pa-066	4	bé;de fet;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-034	pa-036	3	a nivell;a veure;bé	semblança tokenitzada small; pendent d'audició
+pa-034	pa-038	4	a nivell;bé;crec;reformeta	semblança tokenitzada small; pendent d'audició
+pa-034	pa-041	4	a veure;bé;crec;tirar endavant	semblança tokenitzada small; pendent d'audició
+pa-034	pa-045	3	a nivell;a veure;bé	semblança tokenitzada small; pendent d'audició
+pa-034	pa-046	3	bé;diguem;és a dir	semblança tokenitzada small; pendent d'audició
+pa-034	pa-048	5	a nivell;a veure;bé;crec;és a dir	semblança tokenitzada small; pendent d'audició
+pa-034	pa-049	4	a veure;bé;crec;diguem	semblança tokenitzada small; pendent d'audició
+pa-034	pa-055	3	a nivell;a veure;reformeta	semblança tokenitzada small; pendent d'audició
+pa-034	pa-056	3	a veure;crec;tirar endavant	semblança tokenitzada small; pendent d'audició
+pa-034	pa-057	3	a nivell;bé;tirar endavant	semblança tokenitzada small; pendent d'audició
+pa-034	pa-059	3	a nivell;tirar endavant;és a dir	semblança tokenitzada small; pendent d'audició
+pa-034	pa-060	4	a nivell;a veure;crec;és a dir	semblança tokenitzada small; pendent d'audició
+pa-034	pa-061	4	a nivell;a veure;bé;crec	semblança tokenitzada small; pendent d'audició
+pa-034	pa-062	3	crec;diguem;és a dir	semblança tokenitzada small; pendent d'audició
+pa-034	pa-063	4	a nivell;a veure;bé;crec	semblança tokenitzada small; pendent d'audició
+pa-034	pa-064	4	a veure;bé;crec;és a dir	semblança tokenitzada small; pendent d'audició
+pa-034	pa-065	4	a nivell;bé;crec;és a dir	semblança tokenitzada small; pendent d'audició
+pa-034	pa-066	3	a nivell;bé;crec	semblança tokenitzada small; pendent d'audició
+pa-035	pa-037	3	crec;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-035	pa-038	3	crec;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-035	pa-048	3	crec;doncs;és a dir	semblança tokenitzada small; pendent d'audició
+pa-035	pa-056	3	crec;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-035	pa-060	4	crec;doncs;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-035	pa-062	3	crec;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-035	pa-063	3	crec;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-035	pa-064	3	crec;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-035	pa-065	4	crec;doncs;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-036	pa-037	5	bé;clar;doncs;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-036	pa-038	6	a nivell;bé;clar;doncs;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-036	pa-039	3	bé;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-036	pa-041	6	a veure;bé;clar;evidentment;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-036	pa-045	7	a nivell;a veure;bé;clar;doncs;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-036	pa-048	5	a nivell;a veure;bé;doncs;vull dir	semblança tokenitzada small; pendent d'audició
+pa-036	pa-049	6	a veure;bé;clar;evidentment;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-036	pa-055	5	a nivell;a veure;evidentment;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-036	pa-056	6	a veure;clar;doncs;evidentment;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-036	pa-057	3	a nivell;bé;perquè	semblança tokenitzada small; pendent d'audició
+pa-036	pa-059	5	a nivell;clar;evidentment;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-036	pa-060	5	a nivell;a veure;doncs;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-036	pa-061	5	a nivell;a veure;bé;evidentment;vull dir	semblança tokenitzada small; pendent d'audició
+pa-036	pa-063	7	a nivell;a veure;bé;clar;doncs;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-036	pa-064	4	a veure;bé;clar;perquè	semblança tokenitzada small; pendent d'audició
+pa-036	pa-065	5	a nivell;bé;clar;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-036	pa-066	4	a nivell;bé;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-037	pa-038	8	bueno;bé;clar;crec;doncs;llavors;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-037	pa-039	3	bé;crec;perquè	semblança tokenitzada small; pendent d'audició
+pa-037	pa-041	6	bueno;bé;clar;crec;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-037	pa-045	5	bé;clar;doncs;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-037	pa-046	3	bé;doncs;llavors	semblança tokenitzada small; pendent d'audició
+pa-037	pa-048	5	bé;crec;doncs;llavors;vull dir	semblança tokenitzada small; pendent d'audició
+pa-037	pa-049	7	bueno;bé;clar;crec;llavors;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-037	pa-052	3	bueno;clar;perquè	semblança tokenitzada small; pendent d'audició
+pa-037	pa-054	3	bueno;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-037	pa-056	6	clar;crec;doncs;llavors;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-037	pa-057	3	bé;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-037	pa-059	4	bueno;clar;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-037	pa-060	5	crec;doncs;llavors;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-037	pa-061	5	bueno;bé;crec;llavors;vull dir	semblança tokenitzada small; pendent d'audició
+pa-037	pa-062	3	bueno;crec;perquè	semblança tokenitzada small; pendent d'audició
+pa-037	pa-063	7	bé;clar;crec;doncs;llavors;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-037	pa-064	4	bé;clar;crec;perquè	semblança tokenitzada small; pendent d'audició
+pa-037	pa-065	6	bueno;bé;clar;crec;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-037	pa-066	5	bueno;bé;crec;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-038	pa-039	3	bé;crec;perquè	semblança tokenitzada small; pendent d'audició
+pa-038	pa-041	6	bueno;bé;clar;crec;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-038	pa-045	7	a nivell;bé;clar;doncs;llavors;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-038	pa-046	3	bé;doncs;llavors	semblança tokenitzada small; pendent d'audició
+pa-038	pa-048	7	a nivell;bé;crec;doncs;llavors;o sigui;vull dir	semblança tokenitzada small; pendent d'audició
+pa-038	pa-049	8	bueno;bé;clar;crec;llavors;o sigui;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-038	pa-052	3	bueno;clar;perquè	semblança tokenitzada small; pendent d'audició
+pa-038	pa-054	3	bueno;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-038	pa-055	5	a nivell;o sigui;perquè;reformeta;vull dir	semblança tokenitzada small; pendent d'audició
+pa-038	pa-056	6	clar;crec;doncs;llavors;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-038	pa-057	5	a nivell;bé;llavors;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-038	pa-059	5	a nivell;bueno;clar;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-038	pa-060	6	a nivell;crec;doncs;llavors;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-038	pa-061	7	a nivell;bueno;bé;crec;llavors;o sigui;vull dir	semblança tokenitzada small; pendent d'audició
+pa-038	pa-062	4	bueno;crec;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-038	pa-063	9	a nivell;bé;clar;crec;doncs;llavors;o sigui;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-038	pa-064	5	bé;clar;crec;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-038	pa-065	8	a nivell;bueno;bé;clar;crec;doncs;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-038	pa-066	6	a nivell;bueno;bé;crec;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-039	pa-040	3	crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-039	pa-041	4	bé;crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-039	pa-045	3	bé;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-039	pa-049	4	bé;crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-039	pa-056	3	crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-039	pa-061	3	bé;crec;evidentment	semblança tokenitzada small; pendent d'audició
+pa-039	pa-063	3	bé;crec;perquè	semblança tokenitzada small; pendent d'audició
+pa-039	pa-064	3	bé;crec;perquè	semblança tokenitzada small; pendent d'audició
+pa-039	pa-065	3	bé;crec;perquè	semblança tokenitzada small; pendent d'audició
+pa-039	pa-066	4	bé;crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-040	pa-041	3	crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-040	pa-049	3	crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-040	pa-056	3	crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-040	pa-060	3	crec;de fet;perquè	semblança tokenitzada small; pendent d'audició
+pa-040	pa-066	4	crec;de fet;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-041	pa-045	5	a veure;bé;clar;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-041	pa-048	4	a veure;bé;crec;vull dir	semblança tokenitzada small; pendent d'audició
+pa-041	pa-049	8	a veure;bueno;bé;clar;crec;evidentment;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-041	pa-052	3	bueno;clar;perquè	semblança tokenitzada small; pendent d'audició
+pa-041	pa-055	4	a veure;evidentment;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-041	pa-056	7	a veure;clar;crec;evidentment;perquè;tirar endavant;vull dir	semblança tokenitzada small; pendent d'audició
+pa-041	pa-057	3	bé;perquè;tirar endavant	semblança tokenitzada small; pendent d'audició
+pa-041	pa-059	6	bueno;clar;evidentment;perquè;tirar endavant;vull dir	semblança tokenitzada small; pendent d'audició
+pa-041	pa-060	4	a veure;crec;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-041	pa-061	6	a veure;bueno;bé;crec;evidentment;vull dir	semblança tokenitzada small; pendent d'audició
+pa-041	pa-062	3	bueno;crec;perquè	semblança tokenitzada small; pendent d'audició
+pa-041	pa-063	6	a veure;bé;clar;crec;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-041	pa-064	5	a veure;bé;clar;crec;perquè	semblança tokenitzada small; pendent d'audició
+pa-041	pa-065	5	bueno;bé;clar;crec;perquè	semblança tokenitzada small; pendent d'audició
+pa-041	pa-066	5	bueno;bé;crec;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-043	pa-062	3	bueno;crec;és a dir	semblança tokenitzada small; pendent d'audició
+pa-043	pa-065	3	bueno;crec;és a dir	semblança tokenitzada small; pendent d'audició
+pa-045	pa-046	3	bé;doncs;llavors	semblança tokenitzada small; pendent d'audició
+pa-045	pa-048	6	a nivell;a veure;bé;doncs;llavors;o sigui	semblança tokenitzada small; pendent d'audició
+pa-045	pa-049	7	a veure;bé;clar;evidentment;llavors;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-045	pa-055	5	a nivell;a veure;evidentment;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-045	pa-056	6	a veure;clar;doncs;evidentment;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-045	pa-057	5	a nivell;bé;llavors;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-045	pa-059	4	a nivell;clar;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-045	pa-060	5	a nivell;a veure;doncs;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-045	pa-061	6	a nivell;a veure;bé;evidentment;llavors;o sigui	semblança tokenitzada small; pendent d'audició
+pa-045	pa-063	8	a nivell;a veure;bé;clar;doncs;llavors;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-045	pa-064	5	a veure;bé;clar;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-045	pa-065	6	a nivell;bé;clar;doncs;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-045	pa-066	5	a nivell;bé;evidentment;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-046	pa-048	4	bé;doncs;llavors;és a dir	semblança tokenitzada small; pendent d'audició
+pa-046	pa-049	4	aleshores;bé;diguem;llavors	semblança tokenitzada small; pendent d'audició
+pa-046	pa-056	3	aleshores;doncs;llavors	semblança tokenitzada small; pendent d'audició
+pa-046	pa-060	3	doncs;llavors;és a dir	semblança tokenitzada small; pendent d'audició
+pa-046	pa-063	3	bé;doncs;llavors	semblança tokenitzada small; pendent d'audició
+pa-046	pa-065	4	aleshores;bé;doncs;és a dir	semblança tokenitzada small; pendent d'audició
+pa-048	pa-049	6	a veure;bé;crec;llavors;o sigui;vull dir	semblança tokenitzada small; pendent d'audició
+pa-048	pa-055	4	a nivell;a veure;o sigui;vull dir	semblança tokenitzada small; pendent d'audició
+pa-048	pa-056	5	a veure;crec;doncs;llavors;vull dir	semblança tokenitzada small; pendent d'audició
+pa-048	pa-057	4	a nivell;bé;llavors;o sigui	semblança tokenitzada small; pendent d'audició
+pa-048	pa-059	3	a nivell;vull dir;és a dir	semblança tokenitzada small; pendent d'audició
+pa-048	pa-060	7	a nivell;a veure;crec;doncs;llavors;vull dir;és a dir	semblança tokenitzada small; pendent d'audició
+pa-048	pa-061	7	a nivell;a veure;bé;crec;llavors;o sigui;vull dir	semblança tokenitzada small; pendent d'audició
+pa-048	pa-062	3	crec;o sigui;és a dir	semblança tokenitzada small; pendent d'audició
+pa-048	pa-063	8	a nivell;a veure;bé;crec;doncs;llavors;o sigui;vull dir	semblança tokenitzada small; pendent d'audició
+pa-048	pa-064	5	a veure;bé;crec;o sigui;és a dir	semblança tokenitzada small; pendent d'audició
+pa-048	pa-065	6	a nivell;bé;crec;doncs;o sigui;és a dir	semblança tokenitzada small; pendent d'audició
+pa-048	pa-066	4	a nivell;bé;crec;llavors	semblança tokenitzada small; pendent d'audició
+pa-049	pa-052	3	bueno;clar;perquè	semblança tokenitzada small; pendent d'audició
+pa-049	pa-054	3	bueno;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-049	pa-055	5	a veure;evidentment;o sigui;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-049	pa-056	8	a veure;aleshores;clar;crec;evidentment;llavors;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-049	pa-057	4	bé;llavors;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-049	pa-058	3	diguem;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-049	pa-059	5	bueno;clar;evidentment;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-049	pa-060	5	a veure;crec;llavors;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-049	pa-061	8	a veure;bueno;bé;crec;evidentment;llavors;o sigui;vull dir	semblança tokenitzada small; pendent d'audició
+pa-049	pa-062	5	bueno;crec;diguem;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-049	pa-063	8	a veure;bé;clar;crec;llavors;o sigui;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-049	pa-064	6	a veure;bé;clar;crec;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-049	pa-065	7	aleshores;bueno;bé;clar;crec;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-049	pa-066	6	bueno;bé;crec;evidentment;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-052	pa-059	3	bueno;clar;perquè	semblança tokenitzada small; pendent d'audició
+pa-052	pa-065	3	bueno;clar;perquè	semblança tokenitzada small; pendent d'audició
+pa-054	pa-066	3	bueno;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-055	pa-056	4	a veure;evidentment;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-055	pa-057	3	a nivell;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-055	pa-059	4	a nivell;evidentment;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-055	pa-060	4	a nivell;a veure;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-055	pa-061	5	a nivell;a veure;evidentment;o sigui;vull dir	semblança tokenitzada small; pendent d'audició
+pa-055	pa-063	5	a nivell;a veure;o sigui;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-055	pa-064	3	a veure;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-055	pa-065	3	a nivell;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-055	pa-066	3	a nivell;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-056	pa-057	3	llavors;perquè;tirar endavant	semblança tokenitzada small; pendent d'audició
+pa-056	pa-059	5	clar;evidentment;perquè;tirar endavant;vull dir	semblança tokenitzada small; pendent d'audició
+pa-056	pa-060	6	a veure;crec;doncs;llavors;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-056	pa-061	5	a veure;crec;evidentment;llavors;vull dir	semblança tokenitzada small; pendent d'audició
+pa-056	pa-063	7	a veure;clar;crec;doncs;llavors;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-056	pa-064	4	a veure;clar;crec;perquè	semblança tokenitzada small; pendent d'audició
+pa-056	pa-065	5	aleshores;clar;crec;doncs;perquè	semblança tokenitzada small; pendent d'audició
+pa-056	pa-066	4	crec;evidentment;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-057	pa-059	3	a nivell;perquè;tirar endavant	semblança tokenitzada small; pendent d'audició
+pa-057	pa-060	3	a nivell;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-057	pa-061	4	a nivell;bé;llavors;o sigui	semblança tokenitzada small; pendent d'audició
+pa-057	pa-063	5	a nivell;bé;llavors;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-057	pa-064	3	bé;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-057	pa-065	4	a nivell;bé;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-057	pa-066	4	a nivell;bé;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-058	pa-059	3	perquè;vull dir;és a dir	semblança tokenitzada small; pendent d'audició
+pa-058	pa-060	3	perquè;vull dir;és a dir	semblança tokenitzada small; pendent d'audició
+pa-058	pa-062	3	diguem;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-059	pa-060	4	a nivell;perquè;vull dir;és a dir	semblança tokenitzada small; pendent d'audició
+pa-059	pa-061	4	a nivell;bueno;evidentment;vull dir	semblança tokenitzada small; pendent d'audició
+pa-059	pa-062	3	bueno;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-059	pa-063	4	a nivell;clar;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-059	pa-064	3	clar;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-059	pa-065	5	a nivell;bueno;clar;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-059	pa-066	4	a nivell;bueno;evidentment;perquè	semblança tokenitzada small; pendent d'audició
+pa-060	pa-061	5	a nivell;a veure;crec;llavors;vull dir	semblança tokenitzada small; pendent d'audició
+pa-060	pa-062	3	crec;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-060	pa-063	7	a nivell;a veure;crec;doncs;llavors;perquè;vull dir	semblança tokenitzada small; pendent d'audició
+pa-060	pa-064	4	a veure;crec;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-060	pa-065	5	a nivell;crec;doncs;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-060	pa-066	5	a nivell;crec;de fet;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-061	pa-062	3	bueno;crec;o sigui	semblança tokenitzada small; pendent d'audició
+pa-061	pa-063	7	a nivell;a veure;bé;crec;llavors;o sigui;vull dir	semblança tokenitzada small; pendent d'audició
+pa-061	pa-064	4	a veure;bé;crec;o sigui	semblança tokenitzada small; pendent d'audició
+pa-061	pa-065	5	a nivell;bueno;bé;crec;o sigui	semblança tokenitzada small; pendent d'audició
+pa-061	pa-066	6	a nivell;bueno;bé;crec;evidentment;llavors	semblança tokenitzada small; pendent d'audició
+pa-062	pa-063	3	crec;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-062	pa-064	4	crec;o sigui;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-062	pa-065	5	bueno;crec;o sigui;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-062	pa-066	3	bueno;crec;perquè	semblança tokenitzada small; pendent d'audició
+pa-063	pa-064	6	a veure;bé;clar;crec;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-063	pa-065	7	a nivell;bé;clar;crec;doncs;o sigui;perquè	semblança tokenitzada small; pendent d'audició
+pa-063	pa-066	5	a nivell;bé;crec;llavors;perquè	semblança tokenitzada small; pendent d'audició
+pa-064	pa-065	6	bé;clar;crec;o sigui;perquè;és a dir	semblança tokenitzada small; pendent d'audició
+pa-064	pa-066	3	bé;crec;perquè	semblança tokenitzada small; pendent d'audició
+pa-065	pa-066	5	a nivell;bueno;bé;crec;perquè	semblança tokenitzada small; pendent d'audició

@@ -1,0 +1,67 @@
+id_persona	n_clips	n_consens_limit	n_falsos_subcadena	formes_consens_limit
+pa-001	14	3	0	crec, evidentment, perquè
+pa-003	14	7	0	a nivell, crec, de fet, evidentment, perquè, tirar endavant, és a dir
+pa-002	13	5	1	a nivell, a veure, crec, evidentment, perquè
+pa-004	6	5	0	bé, de fet, evidentment, perquè, vull dir
+pa-005	5	2	0	bé, doncs
+pa-006	10	2	0	aleshores, de fet
+pa-007	10	7	0	a veure, bé, clar, diguem, evidentment, llavors, perquè
+pa-008	10	3	1	a veure, aleshores, és a dir
+pa-009	8	6	0	bé, clar, doncs, evidentment, o sigui, perquè
+pa-010	8	5	0	clar, de fet, doncs, llavors, és a dir
+pa-011	8	4	0	a veure, bé, de fet, és a dir
+pa-012	4	0	0	
+pa-013	5	0	1	
+pa-014	13	6	0	bé, crec, evidentment, o sigui, perquè, vull dir
+pa-015	5	2	0	doncs, perquè
+pa-016	15	5	0	a nivell, clar, doncs, evidentment, perquè
+pa-017	11	6	0	a nivell, clar, doncs, perquè, vull dir, és a dir
+pa-018	11	3	1	crec, diguem, perquè
+pa-019	11	5	0	a nivell, bé, crec, diguem, perquè
+pa-020	11	4	0	aviam, bé, clar, perquè
+pa-021	11	4	1	bueno, crec, doncs, vull dir
+pa-022	15	5	2	a veure, clar, crec, evidentment, reformeta
+pa-023	11	1	1	a veure
+pa-024	13	4	0	a nivell, clar, crec, de fet
+pa-025	15	7	0	a veure, clar, crec, diguem, evidentment, perquè, reformeta
+pa-026	13	3	0	bé, perquè, reformeta
+pa-027	13	5	0	crec, de fet, evidentment, perquè, és a dir
+pa-028	8	4	0	bé, clar, de fet, doncs
+pa-029	12	1	0	tirar endavant
+pa-030	14	8	0	a veure, aleshores, bueno, crec, doncs, evidentment, tirar endavant, vull dir
+pa-031	11	2	1	crec, de fet
+pa-032	9	5	0	aleshores, bueno, bé, doncs, perquè
+pa-033	11	4	0	bé, de fet, tirar endavant, és a dir
+pa-034	15	5	0	a nivell, a veure, diguem, reformeta, tirar endavant
+pa-035	9	2	0	crec, perquè
+pa-036	10	6	0	a nivell, a veure, bé, clar, evidentment, perquè
+pa-037	9	4	0	diguem, llavors, perquè, vull dir
+pa-038	13	8	0	a nivell, bueno, bé, clar, crec, perquè, reformeta, vull dir
+pa-039	9	1	0	crec
+pa-040	7	4	0	crec, de fet, evidentment, perquè
+pa-041	13	8	0	bé, clar, crec, ensenyança, evidentment, perquè, tirar endavant, vull dir
+pa-042	3	1	0	perquè
+pa-043	4	2	0	bueno, crec
+pa-044	0	0	0	
+pa-045	13	5	0	a nivell, a veure, evidentment, o sigui, perquè
+pa-046	12	2	0	diguem, doncs
+pa-047	0	0	0	
+pa-048	13	7	0	a nivell, a veure, bé, crec, doncs, o sigui, vull dir
+pa-049	16	4	0	a veure, crec, o sigui, perquè
+pa-050	0	0	0	
+pa-051	6	2	1	crec, perquè
+pa-052	4	1	0	clar
+pa-053	3	1	0	perquè
+pa-054	5	2	0	bueno, perquè
+pa-055	13	3	0	evidentment, perquè, reformeta
+pa-056	14	7	1	a veure, clar, crec, evidentment, perquè, tirar endavant, vull dir
+pa-057	13	2	0	diguem, tirar endavant
+pa-058	12	3	1	diguem, perquè, vull dir
+pa-059	12	6	0	a nivell, clar, perquè, tirar endavant, vull dir, és a dir
+pa-060	13	1	0	de fet
+pa-061	12	4	0	a nivell, a veure, crec, evidentment
+pa-062	11	5	0	bueno, crec, diguem, perquè, és a dir
+pa-063	12	6	0	a nivell, bé, clar, crec, llavors, o sigui
+pa-064	10	4	1	bé, clar, crec, perquè
+pa-065	14	5	1	bé, clar, doncs, o sigui, perquè
+pa-066	8	5	0	a nivell, bueno, bé, crec, perquè

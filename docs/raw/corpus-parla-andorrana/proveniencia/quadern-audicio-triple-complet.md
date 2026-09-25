@@ -1,0 +1,678 @@
+# Quadern d’audició de la cua completa — prioritat triple
+
+Ordre de revisió dels 656 clips segons small/base/greedy i la probabilitat del token. Les prioritats són automàtiques i no confirmen cap forma.
+
+## A-triple-token-fort
+
+- **pa-036 · bé** · `clips/pa-036__b__69.45.wav` · p=0.9995 · small/base/greedy=sí/sí/sí · text: `El coprincipat ens ha vingut molt bé i pensàvem que aquest havia de continuar.`
+- **pa-011 · bé** · `clips/pa-011__b__185.57.wav` · p=0.9983 · small/base/greedy=sí/sí/sí · text: `a l'exterior de la casa, o molt bé, a aquesta casa.`
+- **pa-038 · crec** · `clips/pa-038__crec__220.69.wav` · p=0.9981 · small/base/greedy=sí/sí/sí · text: `Bé, jo crec que l'atac de nacionalisme que ens va moure...`
+- **pa-020 · bé** · `clips/pa-020__b__146.37.wav` · p=0.9976 · small/base/greedy=sí/sí/sí · text: `i els consuls, en aquell moment, potser no eren ben bé del mateix equip,`
+- **pa-009 · bé** · `clips/pa-009__b__557.25.wav` · p=0.9969 · small/base/greedy=sí/sí/sí · text: `i són campanes que sonen molt bé.`
+- **pa-018 · crec** · `clips/pa-018__crec__7.49.wav` · p=0.9969 · small/base/greedy=sí/sí/sí · text: `i després jo crec que el problema que hi ha del 78 és que...`
+- **pa-031 · crec** · `clips/pa-031__crec__87.01.wav` · p=0.9956 · small/base/greedy=sí/sí/sí · text: `de sort, però realment jo crec que l'esperit de la gent no hi ha ni per a la gent.`
+- **pa-062 · crec** · `clips/pa-062__crec__1037.89.wav` · p=0.9952 · small/base/greedy=sí/sí/sí · text: `i el va callar. Jo crec que has tallat el pernil.`
+- **pa-064 · a veure** · `clips/pa-064__a-veure__587.61.wav` · p=0.9952 · small/base/greedy=sí/sí/sí · text: `No s'ha tornat a veure amb els anys.`
+- **pa-022 · clar** · `clips/pa-022__clar__107.73.wav` · p=0.9951 · small/base/greedy=sí/sí/sí · text: `que el seu objectiu tenia molt clar que es jugava molt.`
+- **pa-041 · vull dir** · `clips/pa-041__vull-dir__264.25.wav` · p=0.9947 · small/base/greedy=sí/sí/sí · text: `Un element, no vull dir de discussió,  però potser no s'acaba d'entendre bé.  Molt poc s'endurà.`
+- **pa-043 · crec** · `clips/pa-043__crec__102.25.wav` · p=0.9942 · small/base/greedy=sí/sí/sí · text: `per mi l'escola en d'Orrana és una identitat no, jo crec.`
+- **pa-022 · crec** · `clips/pa-022__crec__243.73.wav` · p=0.9941 · small/base/greedy=sí/sí/sí · text: `Jo crec que un factor important és el canvi generacional, també, entre un.`
+- **pa-014 · crec** · `clips/pa-014__crec__153.25.wav` · p=0.9940 · small/base/greedy=sí/sí/sí · text: `i jo crec que també hem hagut que li pugui l'interessar, que estigui interessat en aquesta cultura i en aquest àmbit, que és una mica...`
+- **pa-007 · a veure** · `clips/pa-007__a-veure__89.25.wav` · p=0.9934 · small/base/greedy=sí/sí/sí · text: `que he tingut a veure amb la història del nostre país  i que vaig publicar a un dels meus llibres que tinc per aquí.`
+- **pa-019 · bé** · `clips/pa-019__b__195.25.wav` · p=0.9932 · small/base/greedy=sí/sí/sí · text: `i buscàvem qui era la fórmula que ens encaixava més bé.`
+- **pa-019 · crec** · `clips/pa-019__crec__27.25.wav` · p=0.9925 · small/base/greedy=sí/sí/sí · text: `i en aquell moment jo crec que en Dorre necessitava.`
+- **pa-005 · bé** · `clips/pa-005__b__51.09.wav` · p=0.9921 · small/base/greedy=sí/sí/sí · text: `Si us sembla bé, farem un viatge en el temps més precisament.`
+- **pa-008 · a veure** · `clips/pa-008__a-veure__668.25.wav` · p=0.9915 · small/base/greedy=sí/sí/sí · text: `tot això no té res a veure amb el que tres anys abans`
+- **pa-039 · crec** · `clips/pa-039__crec__90.85.wav` · p=0.9907 · small/base/greedy=sí/sí/sí · text: `i ho explicarà.  Doncs jo crec que a aquest home hi va voler marcar...`
+- **pa-041 · crec** · `clips/pa-041__crec__56.25.wav` · p=0.9905 · small/base/greedy=sí/sí/sí · text: `els pares jo crec que van fer una feina molt important  amb aquells primers anys de l'escola en d'Orrana.`
+- **pa-025 · crec** · `clips/pa-025__crec__4.25.wav` · p=0.9899 · small/base/greedy=sí/sí/sí · text: `Jo crec que el que es volia era trobar la manera de arribar.`
+- **pa-040 · crec** · `clips/pa-040__crec__4.37.wav` · p=0.9886 · small/base/greedy=sí/sí/sí · text: `Jo crec que he pogut entrar a càrrecs.`
+- **pa-010 · clar** · `clips/pa-010__clar__334.85.wav` · p=0.9866 · small/base/greedy=sí/sí/sí · text: `que ho són tant. Us acusaré un parell d'exemplos i ho veureu més clar.`
+- **pa-048 · crec** · `clips/pa-048__crec__110.97.wav` · p=0.9866 · small/base/greedy=sí/sí/sí · text: `Si hi ha cel, jo no crec ni en l'inferna, ni el purgatori, ni el cel.`
+- **pa-056 · crec** · `clips/pa-056__crec__347.05.wav` · p=0.9856 · small/base/greedy=sí/sí/sí · text: `perquè jo crec que hi ha alguns que em donen una sensació`
+- **pa-064 · crec** · `clips/pa-064__crec__1335.77.wav` · p=0.9844 · small/base/greedy=sí/sí/sí · text: `La família, jo crec que és l'essència de viure bé i en pau.`
+- **pa-056 · clar** · `clips/pa-056__clar__62.45.wav` · p=0.9842 · small/base/greedy=sí/sí/sí · text: `Jo tenia molt clar que s'havia de canviar de manera de fer.`
+- **pa-038 · vull dir** · `clips/pa-038__vull-dir__1576.57.wav` · p=0.9837 · small/base/greedy=sí/sí/sí · text: `Ja et dic que els agents exteriors siguin... ja no vull dir quins, però...`
+- **pa-004 · bé** · `clips/pa-004__b__319.61.wav` · p=0.9828 · small/base/greedy=sí/sí/sí · text: `més o menys està bé allà i després...`
+- **pa-045 · evidentment** · `clips/pa-045__evidentment__290.13.wav` · p=0.9812 · small/base/greedy=sí/sí/sí · text: `que tenen senyor o, evidentment,  en una sèrie de...  de condicions molt clares,  dir-ho amb la de persona.`
+- **pa-059 · clar** · `clips/pa-059__clar__36.61.wav` · p=0.9810 · small/base/greedy=sí/sí/sí · text: `i és on els primers.  Nosaltres teníem clar que havíem de fer el pas.`
+- **pa-017 · clar** · `clips/pa-017__clar__34.45.wav` · p=0.9757 · small/base/greedy=sí/sí/sí · text: `No és el fet de ser els primers o no els primers.  Nosaltres teníem clar que havíem de fer el pas.`
+- **pa-030 · crec** · `clips/pa-030__crec__346.45.wav` · p=0.9742 · small/base/greedy=sí/sí/sí · text: `perquè jo crec que hi ha alguns que em donen una sensació`
+- **pa-049 · crec** · `clips/pa-049__crec__371.85.wav` · p=0.9717 · small/base/greedy=sí/sí/sí · text: `i que no hi havia res.  Jo crec que en aquella època pràcticament tot devia ser necessari  per la falta, precisament, de tot el que hi havia aquí al país.`
+- **pa-038 · reformeta** · `clips/pa-038__reformeta__1821.69.wav` · p=0.9688 · small/base/greedy=sí/sí/sí · text: `que ho convolguis, segueixen contentat amb una reformeta.`
+- **pa-004 · evidentment** · `clips/pa-004__evidentment__522.93.wav` · p=0.9676 · small/base/greedy=sí/sí/sí · text: `i doncs provaria aigua suficient, evidentment, i el...`
+- **pa-058 · perquè** · `clips/pa-058__perqu__91.09.wav` · p=0.9674 · small/base/greedy=sí/sí/sí · text: `i resòria, perquè no podíem acabar mai de decidir que una cosa...`
+- **pa-035 · crec** · `clips/pa-035__crec__872.77.wav` · p=0.9666 · small/base/greedy=sí/sí/sí · text: `Jo no crec que s'ha de canviar massa, massa subint una constitució.`
+- **pa-018 · perquè** · `clips/pa-018__perqu__91.09.wav` · p=0.9663 · small/base/greedy=sí/sí/sí · text: `i resòria, perquè no podíem acabar mai de decidir que una cosa...`
+- **pa-065 · clar** · `clips/pa-065__clar__221.29.wav` · p=0.9627 · small/base/greedy=sí/sí/sí · text: `Jo tinc clar que l'Evangeli és on tinc el macar.`
+- **pa-034 · a veure** · `clips/pa-034__a-veure__94.05.wav` · p=0.9578 · small/base/greedy=sí/sí/sí · text: `i em va venir a veure, perquè, clar, ja sabia de començar a preparar,  les candidats.`
+- **pa-040 · de fet** · `clips/pa-040__de-fet__70.17.wav` · p=0.9576 · small/base/greedy=sí/sí/sí · text: `i de fet el meu pare el portava sempre sobre aquell pin.`
+- **pa-055 · reformeta** · `clips/pa-055__reformeta__139.05.wav` · p=0.9557 · small/base/greedy=sí/sí/sí · text: `La diferència és que la reformeta tractava amb missatges.`
+- **pa-021 · crec** · `clips/pa-021__crec__115.53.wav` · p=0.9550 · small/base/greedy=sí/sí/sí · text: `i és molt fàcil.  Jo crec que el fet que me'l consella anterior  passés el que va passant.`
+- **pa-026 · reformeta** · `clips/pa-026__reformeta__138.61.wav` · p=0.9543 · small/base/greedy=sí/sí/sí · text: `i ho veiem aconseguir.  La diferència és que la reformeta tractàvem massatge.`
+- **pa-009 · evidentment** · `clips/pa-009__evidentment__947.25.wav` · p=0.9520 · small/base/greedy=sí/sí/sí · text: `l'hora de venir, evidentment, si era l'estiu o era l'hivern, tant que ha de`
+- **pa-027 · crec** · `clips/pa-027__crec__8.81.wav` · p=0.9514 · small/base/greedy=sí/sí/sí · text: `Jo recordo perquè no crec que era la ràdio,  no sé si havia televisió en aquest moment.`
+- **pa-016 · clar** · `clips/pa-016__clar__175.69.wav` · p=0.9439 · small/base/greedy=sí/sí/sí · text: `Tenim un objectiu molt clar i l'hem de solit.`
+- **pa-036 · evidentment** · `clips/pa-036__evidentment__202.85.wav` · p=0.9393 · small/base/greedy=sí/sí/sí · text: `i no ens van anar més enllà.  Ens va costar fer aquest pas important.  Després, evidentment, entrem a la legislatura crítica`
+- **pa-019 · diguem** · `clips/pa-019__diguem__109.25.wav` · p=0.9362 · small/base/greedy=sí/sí/sí · text: `i va haver una certa... diguem-ne, un bon feeling, no?`
+- **pa-056 · vull dir** · `clips/pa-056__vull-dir__842.65.wav` · p=0.9342 · small/base/greedy=sí/sí/sí · text: `Bé, vull dir també, perquè cal recordar-ho.`
+- **pa-007 · evidentment** · `clips/pa-007__evidentment__778.25.wav` · p=0.9315 · small/base/greedy=sí/sí/sí · text: `i els 2010 van passar a nominar-se per motius polítics, evidentment,  però potser també...`
+- **pa-038 · bé** · `clips/pa-038__b__26.77.wav` · p=0.9083 · small/base/greedy=sí/sí/sí · text: `No està bé considerada com un estat real.`
+- **pa-056 · tirar endavant** · `clips/pa-056__tirar-endavant__185.53.wav` · p=0.9073 · small/base/greedy=sí/sí/sí · text: `i estem d'acord? Doncs vam tirar endavant.`
+- **pa-019 · a nivell** · `clips/pa-019__a-nivell__122.25.wav` · p=0.9056 · small/base/greedy=sí/sí/sí · text: `i la Constitució és un qualsevol tema que entre a nivell de comissions.`
+- **pa-017 · doncs** · `clips/pa-017__doncs__459.25.wav` · p=0.9049 · small/base/greedy=sí/sí/sí · text: `i perfecte.  Doncs a partir d'aquí, sempre ja que et dubte,  desapigué, és que...`
+- **pa-062 · perquè** · `clips/pa-062__perqu__73.97.wav` · p=0.9024 · small/base/greedy=sí/sí/sí · text: `Avui és un bon dia perquè amb una copa de bombi a la mà ens desperta.`
+- **pa-061 · evidentment** · `clips/pa-061__evidentment__672.69.wav` · p=0.9005 · small/base/greedy=sí/sí/sí · text: `i després hi havia el factor, evidentment, diferent,  si el deprem clar.`
+- **pa-030 · evidentment** · `clips/pa-030__evidentment__43.53.wav` · p=0.8964 · small/base/greedy=sí/sí/sí · text: `com estaven, doncs evidentment no era el nostre tarantà.  Per almenys el meu.`
+- **pa-036 · a nivell** · `clips/pa-036__a-nivell__386.45.wav` · p=0.8938 · small/base/greedy=sí/sí/sí · text: `tot i que les relacions entre en Gàmels i altres parroquis  no eren bones a nivell electoral no s'havia perdut.`
+- **pa-048 · a nivell** · `clips/pa-048__a-nivell__435.77.wav` · p=0.8845 · small/base/greedy=sí/sí/sí · text: `No, perquè normalment, quan t'inviten a nivell oficial,`
+- **pa-029 · tirar endavant** · `clips/pa-029__tirar-endavant__56.73.wav` · p=0.8813 · small/base/greedy=sí/sí/sí · text: `i que véssim també d'autodisoldre per la incapacitat de poder tirar endavant.`
+- **pa-027 · evidentment** · `clips/pa-027__evidentment__174.09.wav` · p=0.8805 · small/base/greedy=sí/sí/sí · text: `per la prostitució.  Per tant, finances, evidentment, per el pressupost i...`
+- **pa-065 · perquè** · `clips/pa-065__perqu__129.17.wav` · p=0.8717 · small/base/greedy=sí/sí/sí · text: `i el paradís.  Però un viu, perquè el paradís no existeix.`
+- **pa-034 · tirar endavant** · `clips/pa-034__tirar-endavant__690.33.wav` · p=0.8661 · small/base/greedy=sí/sí/sí · text: `Però, clar, també d'entendre que si volíem tirar endavant.`
+- **pa-056 · evidentment** · `clips/pa-056__evidentment__43.45.wav` · p=0.8623 · small/base/greedy=sí/sí/sí · text: `com estaven, doncs evidentment no era el nostre tarantà.  Per almenys el meu.`
+- **pa-007 · perquè** · `clips/pa-007__perqu__101.25.wav` · p=0.8509 · small/base/greedy=sí/sí/sí · text: `que res d'endorra. No sé si es veu perquè em penso que surt com si fos un mirall,  però aquest és el llibre que parla d'això.`
+- **pa-016 · perquè** · `clips/pa-016__perqu__79.77.wav` · p=0.8479 · small/base/greedy=sí/sí/sí · text: `a mi em posava moltíssim, perquè a més era al principi,  i pensava que m'havia de fer una cosa.`
+- **pa-015 · doncs** · `clips/pa-015__doncs__83.25.wav` · p=0.8466 · small/base/greedy=sí/sí/sí · text: `és important. Doncs per "és important" per una senzilla rau.`
+- **pa-025 · perquè** · `clips/pa-025__perqu__37.17.wav` · p=0.8440 · small/base/greedy=sí/sí/sí · text: `perquè abans no els deixaven votar, que eren...`
+- **pa-028 · doncs** · `clips/pa-028__doncs__329.33.wav` · p=0.8421 · small/base/greedy=sí/sí/sí · text: `i que, igual, doncs conyes que realment té un valor que té constitució.`
+- **pa-006 · de fet** · `clips/pa-006__de-fet__285.25.wav` · p=0.8407 · small/base/greedy=sí/sí/sí · text: `i el que és un molit de blat és que, de fet,  només hi ha una sola peça al moviment.`
+- **pa-060 · de fet** · `clips/pa-060__de-fet__72.57.wav` · p=0.8385 · small/base/greedy=sí/sí/sí · text: `d'explicatures que van ocupar 4 anys, de fet.`
+- **pa-066 · bueno** · `clips/pa-066__bueno__357.23.wav` · p=0.8366 · small/base/greedy=sí/sí/sí · text: `i, bueno, jo recordo que he passat...`
+- **pa-032 · bueno** · `clips/pa-032__bueno__44.73.wav` · p=0.8330 · small/base/greedy=sí/sí/sí · text: `i bueno, l'últim, la psiquia 4 que ens vam apuntar i vam dir que era capaç.`
+- **pa-055 · perquè** · `clips/pa-055__perqu__148.53.wav` · p=0.8312 · small/base/greedy=sí/sí/sí · text: `i a turist.  Perquè no em vull ascendre.`
+- **pa-054 · bueno** · `clips/pa-054__bueno__51.69.wav` · p=0.8263 · small/base/greedy=sí/sí/sí · text: `i, bueno, és el primer pas.`
+- **pa-031 · de fet** · `clips/pa-031__de-fet__9.93.wav` · p=0.8205 · small/base/greedy=sí/sí/sí · text: `i, de fet, no em va portar ningú.`
+- **pa-014 · perquè** · `clips/pa-014__perqu__105.85.wav` · p=0.8193 · small/base/greedy=sí/sí/sí · text: `per quin motiu?  Perquè en el seu moment,  es va tenir una sèrie de dubtes,  més que dubtes,  vaig començar a buscar.`
+
+## B-triple-token-baix
+
+- **pa-010 · llavors** · `clips/pa-010__llavors__386.25.wav` · p=0.7955 · small/base/greedy=sí/sí/sí · text: `A la llavors, per intentar interpretar què devia voler dir en l'Origem, aquest...`
+- **pa-041 · ensenyança** · `clips/pa-041__ensenyan-a__523.25.wav` · p=0.7954 · small/base/greedy=sí/sí/sí · text: `I aquest material pedagògic, que tingués continuïtat,  també de cara a tota la primera ensenyança,  perquè aviam si...`
+- **pa-016 · evidentment** · `clips/pa-016__evidentment__456.85.wav` · p=0.7723 · small/base/greedy=sí/sí/sí · text: `i evidentment si has de dir alguna cosa ho dius a les sessions que tens intern.`
+- **pa-062 · és a dir** · `clips/pa-062__s-a-dir__973.65.wav` · p=0.7665 · small/base/greedy=sí/sí/sí · text: `que ells donaven, és a dir, que s'instaureix  entre el món polític i el món empresarial un diàleg...`
+- **pa-027 · perquè** · `clips/pa-027__perqu__8.81.wav` · p=0.7631 · small/base/greedy=sí/sí/sí · text: `Jo recordo perquè no crec que era la ràdio,  no sé si havia televisió en aquest moment.`
+- **pa-059 · tirar endavant** · `clips/pa-059__tirar-endavant__49.77.wav` · p=0.7573 · small/base/greedy=sí/sí/sí · text: `i les decisions com per poder tirar endavant amb tot el que era la justícia,  l'immigració...`
+- **pa-065 · doncs** · `clips/pa-065__doncs__157.49.wav` · p=0.7556 · small/base/greedy=sí/sí/sí · text: `i quan hi ha amor, doncs Déu, avi, tenen les nostres cors.`
+- **pa-058 · vull dir** · `clips/pa-058__vull-dir__975.13.wav` · p=0.7520 · small/base/greedy=sí/sí/sí · text: `i demitots que gràcies a Déu que vull dir a l'adrin.`
+- **pa-021 · vull dir** · `clips/pa-021__vull-dir__314.29.wav` · p=0.7440 · small/base/greedy=sí/sí/sí · text: `i nosaltres, malgrat que no vull dir que no volguéssim de cap manera.`
+- **pa-037 · diguem** · `clips/pa-037__diguem__469.77.wav` · p=0.7388 · small/base/greedy=sí/sí/sí · text: `Bé, marxar. Una cosa que em va satisfir molt, molt,  va ser que vaig fer de síndic, diguem-ho així,  durant una hora o més.`
+- **pa-007 · diguem** · `clips/pa-007__diguem__585.25.wav` · p=0.7294 · small/base/greedy=sí/sí/sí · text: `per la frontera, diguem que es va generar un debat força encès a les courses espanyoles.`
+- **pa-017 · a nivell** · `clips/pa-017__a-nivell__143.25.wav` · p=0.7278 · small/base/greedy=sí/sí/sí · text: `Jo penso que totes les parts implicades a nivell de totes les parroquies`
+- **pa-063 · a nivell** · `clips/pa-063__a-nivell__1143.61.wav` · p=0.7218 · small/base/greedy=sí/sí/sí · text: `que ara farem, que jo crec que ens ajudarà molt a nivell de finances.`
+- **pa-034 · diguem** · `clips/pa-034__diguem__504.45.wav` · p=0.7193 · small/base/greedy=sí/sí/sí · text: `i ho dic moltes persones de la cor antenna, diguem-ne.`
+- **pa-054 · perquè** · `clips/pa-054__perqu__80.45.wav` · p=0.7099 · small/base/greedy=sí/sí/sí · text: `per denyes-lo i portant mai a la vida sabades, perquè ho veig.`
+- **pa-016 · a nivell** · `clips/pa-016__a-nivell__333.81.wav` · p=0.7040 · small/base/greedy=sí/sí/sí · text: `inclú recordo fer sessions maratonianes a nivell de comissions,  sobretot quan faig una xifra.`
+- **pa-025 · a veure** · `clips/pa-025__a-veure__388.01.wav` · p=0.7039 · small/base/greedy=sí/sí/sí · text: `segurament. A veure, el gopríncem Martí, nosaltres no el criticarem.`
+- **pa-037 · llavors** · `clips/pa-037__llavors__92.53.wav` · p=0.7037 · small/base/greedy=sí/sí/sí · text: `i que no hi hagi una altra.  I jo era així.  I ja des de llavors,  encara cada any es fa el dia 2 de febrer,  fem un dinar o un troupau  de trobada de tot el constituent.`
+- **pa-046 · diguem** · `clips/pa-046__diguem__626.01.wav` · p=0.6911 · small/base/greedy=sí/sí/sí · text: `A part de les patates o les tronfes, que diguem a Canillo.`
+- **pa-059 · a nivell** · `clips/pa-059__a-nivell__142.93.wav` · p=0.6888 · small/base/greedy=sí/sí/sí · text: `i la liquidació.  Jo penso que totes les parts implicades a nivell de totes les parròquies,  jo penso que la gent...`
+- **pa-004 · de fet** · `clips/pa-004__de-fet__601.17.wav` · p=0.6882 · small/base/greedy=sí/sí/sí · text: `i comportàvem la gent, de fet, comportàvem molta complexitat i precisió.`
+- **pa-014 · o sigui** · `clips/pa-014__o-sigui__658.45.wav` · p=0.6862 · small/base/greedy=sí/sí/sí · text: `És a dir, els homes amb barretina, o sigui, amb pantolons de barllut, negres, faixa i barretina vermella, camisa blanca, mitjons blanques i bigatans.`
+- **pa-059 · perquè** · `clips/pa-059__perqu__4.09.wav` · p=0.6817 · small/base/greedy=sí/sí/sí · text: `Però vam anar molt a l'il·lusió, perquè la Constitució, nosaltres, realment, és el que ens interessa.`
+- **pa-017 · perquè** · `clips/pa-017__perqu__4.25.wav` · p=0.6669 · small/base/greedy=sí/sí/sí · text: `Però vam anar molt a l'il·lusió, perquè la Constitució, nosaltres, realment, és el que ens interessa.`
+- **pa-048 · bé** · `clips/pa-048__b__495.73.wav` · p=0.6658 · small/base/greedy=sí/sí/sí · text: `Bé, no que t'espai físicament, però que t'espai emblemàtic.`
+- **pa-066 · a nivell** · `clips/pa-066__a-nivell__25.21.wav` · p=0.6618 · small/base/greedy=sí/sí/sí · text: `i que ha plogut molt via seu d'un dia bastant complicat a nivell de trànsit.`
+- **pa-022 · reformeta** · `clips/pa-022__reformeta__125.53.wav` · p=0.6595 · small/base/greedy=sí/sí/sí · text: `Ara toqui. Portava menys a la redèria de la reformeta,  de no sé què, que no s'acaba.`
+- **pa-064 · bé** · `clips/pa-064__b__97.93.wav` · p=0.6509 · small/base/greedy=sí/sí/sí · text: `Bé, ara ens exercitarem amb l'exercici de la memòria.`
+- **pa-007 · bé** · `clips/pa-007__b__59.25.wav` · p=0.6477 · small/base/greedy=sí/sí/sí · text: `Doncs si bé no és una paraula que estigui o apareixi molt a la nostra llengua nacional, proveu el grec!`
+- **pa-025 · diguem** · `clips/pa-025__diguem__500.89.wav` · p=0.6352 · small/base/greedy=sí/sí/sí · text: `i de competències que en francès en diguem regalient.`
+- **pa-026 · perquè** · `clips/pa-026__perqu__150.53.wav` · p=0.6276 · small/base/greedy=sí/sí/sí · text: `perquè no em vull ascendre amb les coses de palàcia`
+- **pa-004 · perquè** · `clips/pa-004__perqu__464.09.wav` · p=0.6217 · small/base/greedy=sí/sí/sí · text: `i calia estar-hi molt a sobre perquè no...  per no quedar-se sense molt l'incarre que algun és més...`
+- **pa-035 · perquè** · `clips/pa-035__perqu__181.13.wav` · p=0.6201 · small/base/greedy=sí/sí/sí · text: `perquè hi havia molts endorrans reticents.`
+- **pa-059 · vull dir** · `clips/pa-059__vull-dir__271.81.wav` · p=0.6171 · small/base/greedy=sí/sí/sí · text: `Vull dir, nosaltres entraiem en una proporció nacional.`
+- **pa-010 · de fet** · `clips/pa-010__de-fet__647.25.wav` · p=0.6151 · small/base/greedy=sí/sí/sí · text: `i ho sonés. De fet, en concret, el dia de ser tixeu-vos també molt de detall amb les fortes...`
+- **pa-062 · diguem** · `clips/pa-062__diguem__191.37.wav` · p=0.6091 · small/base/greedy=sí/sí/sí · text: `i aquesta bata, que a Canillón diguem una bruixa...  La bruixa.`
+- **pa-017 · vull dir** · `clips/pa-017__vull-dir__272.25.wav` · p=0.6073 · small/base/greedy=sí/sí/sí · text: `Vull dir, nosaltres entraiem amb una proporció nacional.`
+- **pa-006 · aleshores** · `clips/pa-006__aleshores__513.25.wav` · p=0.5916 · small/base/greedy=sí/sí/sí · text: `Aleshores era molt fàcil agafar i aprofitar la força de l'aigua laixant per l'entrada.`
+- **pa-038 · perquè** · `clips/pa-038__perqu__279.13.wav` · p=0.5824 · small/base/greedy=sí/sí/sí · text: `sobretot perquè els delegats permanents han continuat,  però els veguem...`
+- **pa-041 · evidentment** · `clips/pa-041__evidentment__353.25.wav` · p=0.5787 · small/base/greedy=sí/sí/sí · text: `amb la responsabilitat, amb les persones que hi treballàvem, evidentment,  per dir que això no és una cosa per ara,`
+- **pa-038 · a nivell** · `clips/pa-038__a-nivell__455.49.wav` · p=0.5767 · small/base/greedy=sí/sí/sí · text: `per dir-ho a nivell de negocis, el que sigui.  Clar, això va molt bé.`
+- **pa-063 · bé** · `clips/pa-063__b__105.97.wav` · p=0.5648 · small/base/greedy=sí/sí/sí · text: `Bé, treballem una cosa que amb una elia gratis que ja ha donat tot.`
+- **pa-016 · doncs** · `clips/pa-016__doncs__62.33.wav` · p=0.5311 · small/base/greedy=sí/sí/sí · text: `"Filiàtics polítics", no?  I em diu "tu sí que sí", no?  Doncs has donat la teva paraula, dic "sí, sí".`
+- **pa-011 · de fet** · `clips/pa-011__de-fet__557.25.wav` · p=0.5130 · small/base/greedy=sí/sí/sí · text: `de fet, quan es va inaugurar, que el pal, com a tal, el 16 de...`
+- **pa-032 · perquè** · `clips/pa-032__perqu__9.21.wav` · p=0.5112 · small/base/greedy=sí/sí/sí · text: `perquè ha estancat l'aport a les set de la tarda.`
+- **pa-038 · bueno** · `clips/pa-038__bueno__874.61.wav` · p=0.5072 · small/base/greedy=sí/sí/sí · text: `"Bueno, vale".`
+- **pa-066 · crec** · `clips/pa-066__crec__219.63.wav` · p=0.4971 · small/base/greedy=sí/sí/sí · text: `La col·laboració del banc amb l'entorn amb el país crec que va ser important.`
+- **pa-007 · clar** · `clips/pa-007__clar__344.25.wav` · p=0.4951 · small/base/greedy=sí/sí/sí · text: `és clar que els polítics pel nombre de carrers dedicats no ha estat...`
+- **pa-010 · doncs** · `clips/pa-010__doncs__24.65.wav` · p=0.4795 · small/base/greedy=sí/sí/sí · text: `d'un comínia ruscogeològics.  I doncs vei avui com a col·laboració dins d'aquest cicle de capsules d'història en temps de confinament.`
+- **pa-018 · diguem** · `clips/pa-018__diguem__715.49.wav` · p=0.4794 · small/base/greedy=sí/sí/sí · text: `que se'ns va anar apropant, diguem,  però vosaltres realment volen fer això,  és que vosaltres...`
+- **pa-008 · és a dir** · `clips/pa-008__s-a-dir__1110.25.wav` · p=0.4791 · small/base/greedy=sí/sí/sí · text: `o fer plantee, no? És a dir, els més grans es simplegant.`
+- **pa-036 · a veure** · `clips/pa-036__a-veure__153.05.wav` · p=0.4770 · small/base/greedy=sí/sí/sí · text: `i consellers a veure companys diputats de l'Assemblea Nacional de França,  o BD Madrid.`
+- **pa-055 · evidentment** · `clips/pa-055__evidentment__1644.01.wav` · p=0.4660 · small/base/greedy=sí/sí/sí · text: `que dins d'això hi havia punts essencials, evidentment,`
+- **pa-025 · reformeta** · `clips/pa-025__reformeta__1085.53.wav` · p=0.4505 · small/base/greedy=sí/sí/sí · text: `que li he donat una reformeta més arregladeta.`
+- **pa-066 · perquè** · `clips/pa-066__perqu__21.81.wav` · p=0.4434 · small/base/greedy=sí/sí/sí · text: `i no pot passar.  Era bastant previsible perquè el dia anterior  havia plogut molt, havia sigut un dia...`
+- **pa-015 · perquè** · `clips/pa-015__perqu__86.25.wav` · p=0.4134 · small/base/greedy=sí/sí/sí · text: `senzill arrau perquè és el poder econòmic de lo que seria la barra oquíolica.`
+- **pa-056 · perquè** · `clips/pa-056__perqu__31.73.wav` · p=0.4129 · small/base/greedy=sí/sí/sí · text: `i els quadrenys, perquè, lògicament,`
+- **pa-010 · és a dir** · `clips/pa-010__s-a-dir__243.25.wav` · p=0.3904 · small/base/greedy=sí/sí/sí · text: `és a dir, interpretables o en teniu dos mitjans en la nostra llengua actual.`
+- **pa-027 · de fet** · `clips/pa-027__de-fet__109.45.wav` · p=0.3832 · small/base/greedy=sí/sí/sí · text: `que de fet es van reunir, van fer seminaris al tercer Té,`
+- **pa-037 · perquè** · `clips/pa-037__perqu__186.29.wav` · p=0.3810 · small/base/greedy=sí/sí/sí · text: `Després, clar, quan va arribar cap al final de tot, ens van informar més,  perquè a final havíem de votar que sí, sinó...`
+- **pa-048 · o sigui** · `clips/pa-048__o-sigui__581.65.wav` · p=0.3651 · small/base/greedy=sí/sí/sí · text: `O sigui que les identitats com les cultures...`
+- **pa-008 · clar** · `clips/pa-008__clar__841.25.wav` · p=0.3522 · small/base/greedy=sí/sí/sí · text: `Clar, hem de pensar que els fallares que 87 van començar a tornar a cremar l'espai públic...`
+- **pa-041 · clar** · `clips/pa-041__clar__0.00.wav` · p=0.3376 · small/base/greedy=sí/sí/sí · text: `El seu principi es va començar amb 38 alumnes  i clar, amb els 5 o 6 anys que jo vaig col·laborar amb l'escola Andorran,  va anar a créixer.`
+- **pa-063 · llavors** · `clips/pa-063__llavors__39.49.wav` · p=0.3329 · small/base/greedy=sí/sí/sí · text: `i no ha de ser el primer que ha de ser.  Ell és la que va crear els primers llavors.`
+- **pa-059 · és a dir** · `clips/pa-059__s-a-dir__487.81.wav` · p=0.3117 · small/base/greedy=sí/sí/sí · text: `És a dir, que sempre hi ha aquesta incognita i evidentment...`
+- **pa-022 · a veure** · `clips/pa-022__a-veure__238.61.wav` · p=0.3096 · small/base/greedy=sí/sí/sí · text: `perquè teníem la poder a veure si ara s'ho dure in extremis.`
+- **pa-037 · vull dir** · `clips/pa-037__vull-dir__414.01.wav` · p=0.2914 · small/base/greedy=sí/sí/sí · text: `Vull dir que una satisfacció personal, com he dit abans,  perquè sabia que hi havia tensions entre els coprínceptes.`
+- **pa-041 · perquè** · `clips/pa-041__perqu__69.25.wav` · p=0.2885 · small/base/greedy=sí/sí/sí · text: `i per tant, parlaven amb altres pares  perquè portessin els fills a l'escola en Dorana.  I això va anar increment...`
+- **pa-041 · bé** · `clips/pa-041__b__130.25.wav` · p=0.2875 · small/base/greedy=sí/sí/sí · text: `Bé, jo crec que hi havia persones més receptives  i d'altres...`
+- **pa-036 · perquè** · `clips/pa-036__perqu__15.65.wav` · p=0.2664 · small/base/greedy=sí/sí/sí · text: `i ara t'ho disserirà.  Ens vam quedar una mica parats,  perquè nosaltres encara volíem anar més lluny i volíem ir més.`
+- **pa-022 · evidentment** · `clips/pa-022__evidentment__303.01.wav` · p=0.2581 · small/base/greedy=sí/sí/sí · text: `evidentment van treballar... ho vam separar per comissions, no?`
+- **pa-065 · o sigui** · `clips/pa-065__o-sigui__191.65.wav` · p=0.2516 · small/base/greedy=sí/sí/sí · text: `O sigui que el paradís som nosaltres.`
+- **pa-009 · o sigui** · `clips/pa-009__o-sigui__234.25.wav` · p=0.2229 · small/base/greedy=sí/sí/sí · text: `però dintre de la mateixa campana, o sigui, a la vora,  l'estructura no té res.`
+- **pa-009 · perquè** · `clips/pa-009__perqu__349.25.wav` · p=0.2138 · small/base/greedy=sí/sí/sí · text: `perquè no hi ha exemplars com aquest i més, tant ben conservats, com el que us parlo ara.`
+- **pa-040 · perquè** · `clips/pa-040__perqu__25.21.wav` · p=0.2038 · small/base/greedy=sí/sí/sí · text: `perquè considero que en Dorre necessita un nou estatut com...`
+- **pa-009 · doncs** · `clips/pa-009__doncs__139.25.wav` · p=0.2017 · small/base/greedy=sí/sí/sí · text: `Doncs com podeu veure amb aquest esquema que tenim aquí al costat, tenim les parts de la campana.`
+- **pa-023 · a veure** · `clips/pa-023__a-veure__268.81.wav` · p=0.1996 · small/base/greedy=sí/sí/sí · text: `A veure, què és l'exemple del 92?`
+- **pa-030 · a veure** · `clips/pa-030__a-veure__673.41.wav` · p=0.1988 · small/base/greedy=sí/sí/sí · text: `A veure, aquí cal dir una cosa.`
+- **pa-045 · o sigui** · `clips/pa-045__o-sigui__226.17.wav` · p=0.1907 · small/base/greedy=sí/sí/sí · text: `o sigui, què et motiva de la teva professió?`
+- **pa-056 · a veure** · `clips/pa-056__a-veure__673.21.wav` · p=0.1806 · small/base/greedy=sí/sí/sí · text: `A veure, aquí que el diu una cosa.`
+- **pa-020 · perquè** · `clips/pa-020__perqu__9.41.wav` · p=0.1574 · small/base/greedy=sí/sí/sí · text: `perquè hi havia una dimissió recent.`
+- **pa-049 · o sigui** · `clips/pa-049__o-sigui__365.21.wav` · p=0.0641 · small/base/greedy=sí/sí/sí · text: `i de la idea de servei.  O sigui, tot té creació de nous serveis.  I hi ha de més dels serveis que eren necessaris en aquell moment.`
+- **pa-011 · és a dir** · `clips/pa-011__s-a-dir__48.09.wav` · p=0.0626 · small/base/greedy=sí/sí/sí · text: `és a dir, una casa és tota la família i tot és les seves propietats.`
+- **pa-022 · o sigui** · `clips/pa-022__o-sigui__42.93.wav` · p=0.0430 · small/base/greedy=sí/sí/sí · text: `No és res a fer, o sigui, el fondo, el que es buscaveré,  tindrà una independència com a país.`
+- **pa-048 · a veure** · `clips/pa-048__a-veure__393.93.wav` · p=0.0287 · small/base/greedy=sí/sí/sí · text: `que no és una cosa que no té res a veure.`
+- **pa-007 · llavors** · `clips/pa-007__llavors__657.25.wav` · p=0.0183 · small/base/greedy=sí/sí/sí · text: `i que es faci una feina de fàcil.  Llavors això, lògicament,  li va mereixer un nom al carrer nacional.`
+- **pa-001 · crec** · `clips/pa-001__crec__97.33.wav` · p=— · small/base/greedy=sí/sí/sí · text: `i crec que fina moment em va acabar a forçar bé.`
+- **pa-001 · perquè** · `clips/pa-001__perqu__59.57.wav` · p=— · small/base/greedy=sí/sí/sí · text: `perquè el que no es veiem, bons ulls, a un...`
+- **pa-002 · a nivell** · `clips/pa-002__a-nivell__714.25.wav` · p=— · small/base/greedy=sí/sí/sí · text: `perquè l'opció de la minoria que va passar  és ser majoria, diguéssim, a nivell consell,  però no ho eren.`
+- **pa-002 · bé** · `clips/pa-002__b__348.25.wav` · p=— · small/base/greedy=sí/sí/sí · text: `que ha sigut el canvi.  Ara el que ens dividiria bé, òbviament, era el control de govern.`
+- **pa-002 · crec** · `clips/pa-002__crec__248.25.wav` · p=— · small/base/greedy=sí/sí/sí · text: `Jo crec que més que espantar diria que no se'n coneixia el contingut.`
+- **pa-002 · perquè** · `clips/pa-002__perqu__18.25.wav` · p=— · small/base/greedy=sí/sí/sí · text: `perquè no deixava de veure els serveis dels copríncipes que tot el ha venut.`
+- **pa-003 · a nivell** · `clips/pa-003__a-nivell__180.17.wav` · p=— · small/base/greedy=sí/sí/sí · text: `Aviam, pel que fa a nivell polític, la primera vegada quan es crea l'amaternal, com he dit,`
+- **pa-003 · crec** · `clips/pa-003__crec__0.00.wav` · p=— · small/base/greedy=sí/sí/sí · text: `Bé, jo crec que de fet ens hem de situar en el context dels anys 80`
+- **pa-003 · de fet** · `clips/pa-003__de-fet__0.00.wav` · p=— · small/base/greedy=sí/sí/sí · text: `Bé, jo crec que de fet ens hem de situar en el context dels anys 80`
+- **pa-003 · evidentment** · `clips/pa-003__evidentment__158.81.wav` · p=— · small/base/greedy=sí/sí/sí · text: `dels mestres evidentment i també de les persones que havíem estat treballant en el projecte.`
+- **pa-003 · perquè** · `clips/pa-003__perqu__201.57.wav` · p=— · small/base/greedy=sí/sí/sí · text: `i que el que ha de ser executiu, perquè aleshores no era govern, era consell executiu,`
+- **pa-003 · tirar endavant** · `clips/pa-003__tirar-endavant__361.93.wav` · p=— · small/base/greedy=sí/sí/sí · text: `per crear i tirar endavant un sistema educatiu propi.`
+- **pa-003 · és a dir** · `clips/pa-003__s-a-dir__65.05.wav` · p=— · small/base/greedy=sí/sí/sí · text: `És a dir, crec que això és important.  No es crea com anem...`
+- **pa-005 · doncs** · `clips/pa-005__doncs__71.13.wav` · p=0.6435;0.3084 · small/base/greedy=sí/sí/sí · text: `Doncs bé, doncs deveu demanar què és això dels hostals comunals.`
+- **pa-008 · aleshores** · `clips/pa-008__aleshores__1315.25.wav` · p=— · small/base/greedy=sí/sí/sí · text: `que feien camp. Aleshores va aproficiar aquest retrobament, es va constituir...`
+- **pa-013 · bé** · `clips/pa-013__b__196.65.wav` · p=— · small/base/greedy=sí/sí/sí · text: `que em sofre i que va bé per la pell, pel sistema digestiu i també té altres propietats.  Propietats que...`
+- **pa-014 · bé** · `clips/pa-014__b__165.65.wav` · p=— · small/base/greedy=sí/sí/sí · text: `Bé, el resultat d'això va ser molt bonic, perquè...  És a dir, he conviscut amb gent, m'han explicat coses,  m'han entrat i...`
+- **pa-014 · vull dir** · `clips/pa-014__vull-dir__19.65.wav` · p=— · small/base/greedy=sí/sí/sí · text: `el passat.  Així es començo jo sempre,  vull dir, com a voluntari divulgador del patrimoni  que tenim al nostre país.`
+- **pa-024 · clar** · `clips/pa-024__clar__648.09.wav` · p=— · small/base/greedy=sí/sí/sí · text: `per tant, teníem clar al cap la idea d'una constitució  i la volia, sincerament.`
+- **pa-024 · crec** · `clips/pa-024__crec__368.01.wav` · p=— · small/base/greedy=sí/sí/sí · text: `i que, per tant, jo crec que els carrers, desfocats,`
+- **pa-024 · de fet** · `clips/pa-024__de-fet__482.25.wav` · p=— · small/base/greedy=sí/sí/sí · text: `de fet ens va dibuixar una mica la seva teoria.`
+- **pa-027 · és a dir** · `clips/pa-027__s-a-dir__185.61.wav` · p=— · small/base/greedy=sí/sí/sí · text: `de grup, és a dir, amb els que l'havien portat a l'acció de fer amb reunió de grup.`
+- **pa-030 · aleshores** · `clips/pa-030__aleshores__392.41.wav` · p=— · small/base/greedy=sí/sí/sí · text: `i, aleshores, això està tan quadriculat`
+- **pa-030 · doncs** · `clips/pa-030__doncs__43.53.wav` · p=— · small/base/greedy=sí/sí/sí · text: `com estaven, doncs evidentment no era el nostre tarantà.  Per almenys el meu.`
+- **pa-030 · tirar endavant** · `clips/pa-030__tirar-endavant__185.61.wav` · p=— · small/base/greedy=sí/sí/sí · text: `que estem d'acord, doncs vam tirar endavant,  es va fer la comissió constituent,  i ja...`
+- **pa-032 · aleshores** · `clips/pa-032__aleshores__79.09.wav` · p=— · small/base/greedy=sí/sí/sí · text: `i, aleshores, els dos oponents es van posar d'acord al moment.  Al moment.`
+- **pa-033 · bé** · `clips/pa-033__b__103.09.wav` · p=0.9744;0.9997 · small/base/greedy=sí/sí/sí · text: `i estem bé com estem i no ho toquem, que tot es fa molt bé.`
+- **pa-033 · de fet** · `clips/pa-033__de-fet__249.69.wav` · p=— · small/base/greedy=sí/sí/sí · text: `Ho capgira tot, de fet, eh?`
+- **pa-033 · és a dir** · `clips/pa-033__s-a-dir__39.29.wav` · p=— · small/base/greedy=sí/sí/sí · text: `és a dir, un govern sense massa funcions,`
+- **pa-045 · a nivell** · `clips/pa-045__a-nivell__624.85.wav` · p=— · small/base/greedy=sí/sí/sí · text: `No t'he cap importància, a nivell...`
+- **pa-045 · perquè** · `clips/pa-045__perqu__175.33.wav` · p=— · small/base/greedy=sí/sí/sí · text: `Algú va fer això.  Perquè... què va induir?  A fer aquesta obra.`
+- **pa-048 · doncs** · `clips/pa-048__doncs__302.89.wav` · p=— · small/base/greedy=sí/sí/sí · text: `i els origens.  Bueno, doncs no amaguem els origens.`
+- **pa-048 · vull dir** · `clips/pa-048__vull-dir__993.69.wav` · p=0.0263;0.4736 · small/base/greedy=sí/sí/sí · text: `i que no hi hagi ningú que sigui igual.  Vull dir, amb això, vull dir que vostè, a través...`
+- **pa-049 · perquè** · `clips/pa-049__perqu__68.85.wav` · p=— · small/base/greedy=sí/sí/sí · text: `L'home ha cuidat els aferts exteriors i de la guerra.  Però aquesta és una frase feta perquè la llarga i sobretot entén.`
+- **pa-051 · crec** · `clips/pa-051__crec__208.57.wav` · p=— · small/base/greedy=sí/sí/sí · text: `No crec que arribi amb totes les ovelles de canillo sent.`
+- **pa-051 · perquè** · `clips/pa-051__perqu__123.85.wav` · p=— · small/base/greedy=sí/sí/sí · text: `perquè els guardaven els pollins, els guardaven fins l'enquivècara,  en sobre anys.`
+- **pa-052 · clar** · `clips/pa-052__clar__59.97.wav` · p=— · small/base/greedy=sí/sí/sí · text: `i, a més, un de aquests és clar, més meus padrins.`
+- **pa-057 · tirar endavant** · `clips/pa-057__tirar-endavant__56.61.wav` · p=— · small/base/greedy=sí/sí/sí · text: `i que vesim també d'autodisoldre per la incapacitat de poder tirar endavant.`
+- **pa-063 · crec** · `clips/pa-063__crec__758.81.wav` · p=— · small/base/greedy=sí/sí/sí · text: `que comprin.  Això és el que hem d'intentar i jo crec que s'està fent.`
+- **pa-064 · perquè** · `clips/pa-064__perqu__27.57.wav` · p=— · small/base/greedy=sí/sí/sí · text: `i que no és permanent.  En realitat potser no és així perquè mai acabem de marxar.`
+
+## C-dos-models
+
+- **pa-065 · bé** · `clips/pa-065__b__138.57.wav` · p=0.9995 · small/base/greedy=sí/sí/no · text: `i el que va passar és que el que va passar és que el que va passar  va ser que el que va passar és que el que va passar és que el que va passar`
+- **pa-016 · bé** · `clips/pa-016__b__170.05.wav` · p=0.9990 · small/base/greedy=sí/no/sí · text: `És una disolució, entres encara amb molta més responsabilitat de dir  "estàs bé, hem de fer bé".`
+- **pa-028 · bé** · `clips/pa-028__b__182.49.wav` · p=0.9916 · small/base/greedy=sí/sí/no · text: `i que no hi hagi una altra.`
+- **pa-039 · bé** · `clips/pa-039__b__27.77.wav` · p=0.9914 · small/base/greedy=sí/no/sí · text: `fins a la prostitució no ja està bé.`
+- **pa-061 · crec** · `clips/pa-061__crec__428.85.wav` · p=0.9809 · small/base/greedy=sí/sí/no · text: `i que no es poden fer.  I això és molt important.`
+- **pa-045 · a veure** · `clips/pa-045__a-veure__340.93.wav` · p=0.9709 · small/base/greedy=sí/sí/no · text: `No ho veiem perquè...  No ho sé, no ho veiem.`
+- **pa-013 · perquè** · `clips/pa-013__perqu__433.89.wav` · p=0.9497 · small/base/greedy=sí/no/sí · text: `perquè us sabem, doncs perquè es conserven múltiples testimonis fotogràfics  gràcies a Josep Elzina.`
+- **pa-009 · clar** · `clips/pa-009__clar__99.25.wav` · p=0.9195 · small/base/greedy=sí/sí/no · text: `que hi havia el mestre campaner al poble.`
+- **pa-029 · a nivell** · `clips/pa-029__a-nivell__417.09.wav` · p=0.9070 · small/base/greedy=sí/no/sí · text: `i això ha de deixar a quatre,  a algú que els valta els quatre a nivell nacional.`
+- **pa-030 · vull dir** · `clips/pa-030__vull-dir__842.69.wav` · p=0.9049 · small/base/greedy=sí/sí/no · text: `i que no hi hagi una altra part de l'independentisme.`
+- **pa-019 · llavors** · `clips/pa-019__llavors__422.25.wav` · p=0.9040 · small/base/greedy=sí/no/sí · text: `perquè ens donava eines per poder fer més coses  que podíem fer fins al llavors.`
+- **pa-005 · o sigui** · `clips/pa-005__o-sigui__373.33.wav` · p=0.8872 · small/base/greedy=sí/no/sí · text: `Un formatxar i dues fogaces de pa.  O sigui que hi ha poques bromes.`
+- **pa-021 · perquè** · `clips/pa-021__perqu__15.45.wav` · p=0.8815 · small/base/greedy=sí/no/sí · text: `perquè em van convèncer perquè fos candidat.`
+- **pa-049 · bueno** · `clips/pa-049__bueno__269.05.wav` · p=0.8754 · small/base/greedy=sí/no/sí · text: `-Aquí, a mi. -A vostra via de més feia de...  -De més... -De més de més de més de més de més de més.  Bueno, de més de més de...`
+- **pa-040 · evidentment** · `clips/pa-040__evidentment__103.93.wav` · p=0.8726 · small/base/greedy=sí/sí/no · text: `que no s'ha de fer.`
+- **pa-014 · evidentment** · `clips/pa-014__evidentment__28.65.wav` · p=0.8709 · small/base/greedy=sí/sí/no · text: `per a l'estratègia de l'estratègia de l'estratègia de l'estratègia de l'estratègia de l'estratègia de l'estratègia de l'estratègia de l'estratègia de l'estratègia de l'estratègia de l'estratègia de l'estratègia de l'estratègia de l'estratègia de l'estratègia de l'estratègia de l'estratègia de l'estratègia de l'estratègia de l'estratègia de l'estratègia de l'estratègia de l'estratègia de l'estratègia de l'estratègia de l'estratègia de l'estratègia de l'estratègia de l'estratègia de l'estratègia de`
+- **pa-036 · clar** · `clips/pa-036__clar__136.45.wav` · p=0.8695 · small/base/greedy=sí/sí/no · text: `que s'està fent.`
+- **pa-055 · a nivell** · `clips/pa-055__a-nivell__38.09.wav` · p=0.8532 · small/base/greedy=sí/no/sí · text: `però a nivell nacional volia dir, per 89,`
+- **pa-010 · crec** · `clips/pa-010__crec__1033.25.wav` · p=0.8283 · small/base/greedy=sí/no/sí · text: `és Joan Grumines i que crec que és prou encertada.`
+- **pa-061 · a nivell** · `clips/pa-061__a-nivell__1357.21.wav` · p=0.8152 · small/base/greedy=sí/sí/no · text: `i que no hi hagi una altra.`
+- **pa-033 · vull dir** · `clips/pa-033__vull-dir__56.25.wav` · p=0.8126 · small/base/greedy=sí/no/sí · text: `perquè, clar, vull dir, tot el que veia és...  Dels exigències que tenien al centre.`
+- **pa-023 · a nivell** · `clips/pa-023__a-nivell__418.57.wav` · p=0.8081 · small/base/greedy=sí/no/sí · text: `i després també a nivell d'agricultura.`
+- **pa-006 · bé** · `clips/pa-006__b__151.25.wav` · p=0.8041 · small/base/greedy=sí/no/sí · text: `on feien o instal·lacions al costat del riu  o bé ponts o mitjos ponts que entraven dintre del cor de l'aigua amb una de les...`
+- **pa-008 · de fet** · `clips/pa-008__de-fet__799.25.wav` · p=0.7983 · small/base/greedy=sí/no/sí · text: `que embutava el terra, de fet va haver-hi algun incident crement algun tendal.`
+- **pa-028 · de fet** · `clips/pa-028__de-fet__31.17.wav` · p=0.7839 · small/base/greedy=sí/sí/no · text: `i van entendre que Sant Marino era d'Itàlia.`
+- **pa-058 · diguem** · `clips/pa-058__diguem__715.21.wav` · p=0.7829 · small/base/greedy=sí/sí/no · text: `que ens van apropar a vosaltres.`
+- **pa-034 · a nivell** · `clips/pa-034__a-nivell__143.81.wav` · p=0.7736 · small/base/greedy=sí/sí/no · text: `i que no ens ha de fer res.`
+- **pa-019 · evidentment** · `clips/pa-019__evidentment__93.25.wav` · p=0.7612 · small/base/greedy=sí/no/sí · text: `que va ser un factor que també, evidentment, posava una certa...`
+- **pa-016 · llavors** · `clips/pa-016__llavors__15.05.wav` · p=0.7574 · small/base/greedy=sí/no/sí · text: `i llavors li toca al meu marit ser redó de contès, i és així.`
+- **pa-021 · doncs** · `clips/pa-021__doncs__12.25.wav` · p=0.7531 · small/base/greedy=sí/sí/no · text: `i va ser el que va complir.`
+- **pa-029 · diguem** · `clips/pa-029__diguem__929.69.wav` · p=0.7442 · small/base/greedy=sí/no/sí · text: `però que no siguis un club, diguem-ho així.`
+- **pa-025 · evidentment** · `clips/pa-025__evidentment__1156.61.wav` · p=0.7289 · small/base/greedy=sí/sí/no · text: `i que no es pot fer.`
+- **pa-033 · diguem** · `clips/pa-033__diguem__49.01.wav` · p=0.7151 · small/base/greedy=sí/no/sí · text: `normalment es revia amb... amb interès, diguem.`
+- **pa-042 · perquè** · `clips/pa-042__perqu__29.13.wav` · p=0.7110 · small/base/greedy=sí/sí/no · text: `i que no hi hagi una escola.`
+- **pa-055 · a veure** · `clips/pa-055__a-veure__63.89.wav` · p=0.7076 · small/base/greedy=sí/no/sí · text: `Sí, sí, a veure.`
+- **pa-063 · doncs** · `clips/pa-063__doncs__609.05.wav` · p=0.7069 · small/base/greedy=sí/no/sí · text: `i com sigui, doncs ho haurem de patir i s'haurà de fer,  i si no, no en sortirem.`
+- **pa-032 · bé** · `clips/pa-032__b__270.41.wav` · p=0.7044 · small/base/greedy=sí/sí/no · text: `Aquí, aquí, aquí, els pasos perduts, el cas d'eniva ve un...`
+- **pa-026 · a veure** · `clips/pa-026__a-veure__64.09.wav` · p=0.6966 · small/base/greedy=sí/no/sí · text: `Sí, és el que... a veure.`
+- **pa-028 · clar** · `clips/pa-028__clar__290.33.wav` · p=0.6888 · small/base/greedy=sí/sí/no · text: `i el que em va dir és que no em va dir que era un malalt.`
+- **pa-065 · crec** · `clips/pa-065__crec__1276.85.wav` · p=0.6866 · small/base/greedy=sí/no/sí · text: `Jo crec que... i aquests camins, i aquests cims...`
+- **pa-063 · clar** · `clips/pa-063__clar__392.49.wav` · p=0.6773 · small/base/greedy=sí/sí/no · text: `i que no hi hagi un altre.`
+- **pa-037 · bueno** · `clips/pa-037__bueno__105.29.wav` · p=0.6636 · small/base/greedy=sí/no/sí · text: `i que s'ha constituït.  Gailbé, existim tothom.  Jo, personalment, he passat tots els altres anys que no he pogut anar.  Però, bueno, aquí està el mateix, he bainat.  I torne bé.  Bona ambient, molt bona ambient.  Molt bona ambient.  Torna a comentar coses del que ha fet passat,  però sobretot...`
+- **pa-021 · bueno** · `clips/pa-021__bueno__12.25.wav` · p=0.6500 · small/base/greedy=sí/sí/no · text: `i va ser el que va complir.`
+- **pa-025 · de fet** · `clips/pa-025__de-fet__890.85.wav` · p=0.6469 · small/base/greedy=sí/no/sí · text: `que eren les llicències de fet o en part.`
+- **pa-045 · bé** · `clips/pa-045__b__83.49.wav` · p=0.6354 · small/base/greedy=sí/no/sí · text: `o bé el que considerem imprescindible i no deixa de ser innecessari.`
+- **pa-060 · a veure** · `clips/pa-060__a-veure__268.57.wav` · p=0.6349 · small/base/greedy=sí/no/sí · text: `A veure, que les eleccions són de l'1.92.`
+- **pa-013 · és a dir** · `clips/pa-013__s-a-dir__579.17.wav` · p=0.6284 · small/base/greedy=sí/no/sí · text: `d'urrana. És a dir, l'arquitectura de granit es dona en un moment de reconversió gradual  del nostre país, que passa de ser...`
+- **pa-060 · crec** · `clips/pa-060__crec__42.05.wav` · p=0.6236 · small/base/greedy=sí/no/sí · text: `que no es vegués.  No depenia del govern el que vam crear, crec que l'hem 84.`
+- **pa-061 · a veure** · `clips/pa-061__a-veure__579.17.wav` · p=0.6223 · small/base/greedy=sí/sí/no · text: `i els llocs de la gent que es va fer.`
+- **pa-012 · perquè** · `clips/pa-012__perqu__369.25.wav` · p=0.6158 · small/base/greedy=sí/no/sí · text: `perquè la gent es recordi d'aquestes eines.`
+- **pa-053 · perquè** · `clips/pa-053__perqu__113.93.wav` · p=0.6129 · small/base/greedy=sí/sí/no · text: `que no hi hagi una persona que no té cap problema.`
+- **pa-062 · bueno** · `clips/pa-062__bueno__297.17.wav` · p=0.6062 · small/base/greedy=sí/sí/no · text: `i que no es pot fer res.`
+- **pa-011 · perquè** · `clips/pa-011__perqu__27.61.wav` · p=0.6057 · small/base/greedy=sí/no/sí · text: `escoltar perquè era de la família escoltar que volia.`
+- **pa-038 · clar** · `clips/pa-038__clar__96.41.wav` · p=0.6020 · small/base/greedy=sí/sí/no · text: `però la meva motivació va ser...`
+- **pa-007 · doncs** · `clips/pa-007__doncs__59.25.wav` · p=0.5996 · small/base/greedy=sí/no/sí · text: `Doncs si bé no és una paraula que estigui o apareixi molt a la nostra llengua nacional, proveu el grec!`
+- **pa-004 · vull dir** · `clips/pa-004__vull-dir__143.45.wav` · p=0.5771 · small/base/greedy=sí/sí/no · text: `i també es podia conregar.`
+- **pa-016 · de fet** · `clips/pa-016__de-fet__318.53.wav` · p=0.5592 · small/base/greedy=sí/no/sí · text: `i no ens passarien perquè de fet,  la altra comissió que estava, que era la comissió de finances,`
+- **pa-061 · llavors** · `clips/pa-061__llavors__380.77.wav` · p=0.5349 · small/base/greedy=sí/no/sí · text: `-Exacte.  -Bueno, llavors comença tot una agredació.`
+- **pa-020 · clar** · `clips/pa-020__clar__89.81.wav` · p=0.5345 · small/base/greedy=sí/sí/no · text: `i que no hi hagi cap problema.`
+- **pa-006 · doncs** · `clips/pa-006__doncs__180.25.wav` · p=0.5306 · small/base/greedy=sí/no/sí · text: `i la rota, doncs, passava per sobreborda i era accedir a l'aigua que circulava.`
+- **pa-016 · a veure** · `clips/pa-016__a-veure__369.73.wav` · p=0.5117 · small/base/greedy=sí/no/sí · text: `I, a veure, tu quan saps que tens un termini per fer les coses, doncs...`
+- **pa-036 · doncs** · `clips/pa-036__doncs__367.25.wav` · p=0.5064 · small/base/greedy=sí/no/sí · text: `i que ens trobem amb què ens parlen d'això i ens proposen això.  Doncs nosaltres ja hem d'anar, hem de fer la constitució  i tots els comparteixen.`
+- **pa-017 · és a dir** · `clips/pa-017__s-a-dir__487.25.wav` · p=0.4956 · small/base/greedy=sí/sí/no · text: `i és el que hi hem perd.  Sempre hi ha aquesta incognita,  i evidentment que tenim nosaltres, sí que ho havíem,  però el que n'havia de ser...`
+- **pa-034 · reformeta** · `clips/pa-034__reformeta__191.33.wav` · p=0.4659 · small/base/greedy=sí/sí/no · text: `que el país volia necessitar.`
+- **pa-033 · clar** · `clips/pa-033__clar__54.49.wav` · p=0.4406 · small/base/greedy=sí/no/sí · text: `i que es vegi un interès per què el clar`
+- **pa-021 · evidentment** · `clips/pa-021__evidentment__211.41.wav` · p=0.4338 · small/base/greedy=sí/no/sí · text: `i ells evidentment em donaven el seu pare.`
+- **pa-066 · bé** · `clips/pa-066__b__10.13.wav` · p=0.4289 · small/base/greedy=sí/sí/no · text: `i que el trànsit estigui complicat.`
+- **pa-011 · doncs** · `clips/pa-011__doncs__61.49.wav` · p=0.4045 · small/base/greedy=sí/no/sí · text: `Escolta, què va passar? Doncs que el 1435 l'Ereu de la Casa es va fer mitcari de la Massana.`
+- **pa-016 · vull dir** · `clips/pa-016__vull-dir__322.53.wav` · p=0.4016 · small/base/greedy=sí/no/sí · text: `i els mesos de finances, algunes de les que van fer les van passar, vull dir, que va ser així.`
+- **pa-027 · diguem** · `clips/pa-027__diguem__57.77.wav` · p=0.3965 · small/base/greedy=sí/no/sí · text: `i permanent, diguem sovint que és l'àstima que no haguéssim allargat.`
+- **pa-045 · llavors** · `clips/pa-045__llavors__194.93.wav` · p=0.3678 · small/base/greedy=sí/no/sí · text: `Allò.  Clar, llavors, el caçador recollitor,  que està en un lloc fos, que és la Cobra,`
+- **pa-021 · és a dir** · `clips/pa-021__s-a-dir__32.29.wav` · p=0.3647 · small/base/greedy=sí/no/sí · text: `i no en dorran.  És a dir, que el poble ens va a elegir per això.`
+- **pa-030 · és a dir** · `clips/pa-030__s-a-dir__193.13.wav` · p=0.3545 · small/base/greedy=sí/no/sí · text: `i es van anar.  És a dir, aquí poc temps abans hi havia hagut una autodissolució.`
+- **pa-057 · diguem** · `clips/pa-057__diguem__929.81.wav` · p=0.3385 · small/base/greedy=sí/sí/no · text: `però que no siguis un club, diríem així,`
+- **pa-043 · és a dir** · `clips/pa-043__s-a-dir__107.25.wav` · p=0.3177 · small/base/greedy=sí/no/sí · text: `crec, és a dir, tots els alumnes que hem sigut petits,`
+- **pa-046 · doncs** · `clips/pa-046__doncs__135.61.wav` · p=0.2825 · small/base/greedy=sí/sí/no · text: `i que no hi hagi una altra.`
+- **pa-010 · perquè** · `clips/pa-010__perqu__196.65.wav` · p=0.2814 · small/base/greedy=sí/no/sí · text: `perquè també poden ser el reflex de noms fixats a la llengua que encara es fa.`
+- **pa-022 · perquè** · `clips/pa-022__perqu__111.69.wav` · p=0.2534 · small/base/greedy=sí/no/sí · text: `perquè si no s'arriba a fer la Constitució i continuem...`
+- **pa-006 · perquè** · `clips/pa-006__perqu__110.25.wav` · p=0.2439 · small/base/greedy=sí/no/sí · text: `i us aprofita la velocitat de l'aigua,  perquè les aletes que té tot el voltant de la roda,  que no us veu ni aquí al·liment,`
+- **pa-043 · bueno** · `clips/pa-043__bueno__0.00.wav` · p=0.2337 · small/base/greedy=sí/sí/no · text: `El 15 més 15 és una idea que venia de nada.`
+- **pa-039 · evidentment** · `clips/pa-039__evidentment__184.17.wav` · p=0.2293 · small/base/greedy=sí/no/sí · text: `Evidentment, la siniciatura, claro.`
+- **pa-030 · bueno** · `clips/pa-030__bueno__459.05.wav` · p=0.2181 · small/base/greedy=sí/sí/no · text: `No sé si ho entenc més o no, però no seré jo qui la canvio.`
+- **pa-017 · tirar endavant** · `clips/pa-017__tirar-endavant__49.85.wav` · p=0.2057 · small/base/greedy=sí/no/sí · text: `i les decisions que em perpugui tirar endavant amb tot el que era la justícia,  l'immigració, tenia...`
+- **pa-033 · perquè** · `clips/pa-033__perqu__18.89.wav` · p=0.2034 · small/base/greedy=sí/no/sí · text: `perquè recordeu que en aquella època,  encara els valls tenien una força...`
+- **pa-014 · aviam** · `clips/pa-014__aviam__875.45.wav` · p=0.1944 · small/base/greedy=sí/no/sí · text: `i es pot fer una cosa, i van dir, escuteu, aviam,  imagineu-vos que les merdes apareixen.  Què passa amb el contrapàs? Es deixarà de ballar.`
+- **pa-035 · és a dir** · `clips/pa-035__s-a-dir__582.29.wav` · p=0.1928 · small/base/greedy=sí/no/sí · text: `És a dir, fer un estat de dret modern amb la separació de poderes.`
+- **pa-023 · perquè** · `clips/pa-023__perqu__29.09.wav` · p=0.1482 · small/base/greedy=sí/no/sí · text: `perquè els copríncets, sobretot els representants,`
+- **pa-020 · aviam** · `clips/pa-020__aviam__252.21.wav` · p=0.1339 · small/base/greedy=sí/sí/no · text: `I a mi em sembla que és el que em sembla.`
+- **pa-011 · a veure** · `clips/pa-011__a-veure__551.81.wav` · p=0.1111 · small/base/greedy=sí/sí/no · text: `acabo d'exposicions i activitats que tenen sempre el veu de amb el patrimoni.`
+- **pa-060 · és a dir** · `clips/pa-060__s-a-dir__207.33.wav` · p=0.1095 · small/base/greedy=sí/no/sí · text: `i va disfrutar.  És a dir, el que vam disfrutar molt va ser que hi va haver un ambient molt temps,  però gràcies.`
+- **pa-038 · o sigui** · `clips/pa-038__o-sigui__16.65.wav` · p=0.1004 · small/base/greedy=sí/no/sí · text: `O sigui, en Dorre, malgrat ser un dels parlaments,`
+- **pa-007 · és a dir** · `clips/pa-007__s-a-dir__684.25.wav` · p=0.0916 · small/base/greedy=sí/no/sí · text: `és a dir, canviar el nom de carrers,`
+- **pa-064 · clar** · `clips/pa-064__clar__109.97.wav` · p=0.0737 · small/base/greedy=sí/sí/no · text: `i que no es pot fer res.`
+- **pa-048 · és a dir** · `clips/pa-048__s-a-dir__1130.61.wav` · p=0.0362 · small/base/greedy=sí/no/sí · text: `i que no hi ha una bogada, és a dir,  ja no hi ha el diàleg, ja no hi ha la...`
+- **pa-066 · evidentment** · `clips/pa-066__evidentment__89.75.wav` · p=0.0340 · small/base/greedy=sí/no/sí · text: `i ara, evidentment, tota la part del sota  em va quedar absolutament inundat.`
+- **pa-023 · és a dir** · `clips/pa-023__s-a-dir__207.17.wav` · p=0.0165 · small/base/greedy=sí/no/sí · text: `i va poder disfrutar.  És a dir, el que vam disfrutar molt va ser que hi va haver un ambient molt temps,  però gran.`
+- **pa-001 · a nivell** · `clips/pa-001__a-nivell__135.37.wav` · p=— · small/base/greedy=no/sí/sí · text: `i a nivell de representació internacional no ens em nega.`
+- **pa-001 · evidentment** · `clips/pa-001__evidentment__1067.69.wav` · p=— · small/base/greedy=sí/sí/no · text: `i que no es pot fer una altra cosa.`
+- **pa-002 · a veure** · `clips/pa-002__a-veure__126.25.wav` · p=— · small/base/greedy=sí/sí/no · text: `No era fàcil.`
+- **pa-002 · de fet** · `clips/pa-002__de-fet__72.25.wav` · p=— · small/base/greedy=sí/no/sí · text: `Jo crec que va servir per això, de fet,  per evidenciar amb la seva feina.`
+- **pa-002 · evidentment** · `clips/pa-002__evidentment__205.25.wav` · p=— · small/base/greedy=sí/sí/no · text: `Providament no hi havia d'altra fórmula.`
+- **pa-002 · llavors** · `clips/pa-002__llavors__550.25.wav` · p=— · small/base/greedy=sí/no/sí · text: `però, bueno, llavors he de començar a veure les maniobres.`
+- **pa-002 · reformeta** · `clips/pa-002__reformeta__12.25.wav` · p=— · small/base/greedy=sí/no/sí · text: `per molt que s'hagués fet, el que se'n va dir reformeta,`
+- **pa-003 · aviam** · `clips/pa-003__aviam__180.17.wav` · p=— · small/base/greedy=no/sí/sí · text: `Aviam, pel que fa a nivell polític, la primera vegada quan es crea l'amaternal, com he dit,`
+- **pa-003 · bueno** · `clips/pa-003__bueno__227.05.wav` · p=— · small/base/greedy=sí/no/sí · text: `totalitari perquè hi havia pares en el sentit de dir  "bueno, hi existeix un sistema educatiu ric".`
+- **pa-003 · bé** · `clips/pa-003__b__0.00.wav` · p=— · small/base/greedy=sí/no/sí · text: `Bé, jo crec que de fet ens hem de situar en el context dels anys 80`
+- **pa-003 · clar** · `clips/pa-003__clar__451.89.wav` · p=— · small/base/greedy=sí/no/sí · text: `Sí, perquè és clar, aviam l'educació són persones.`
+- **pa-003 · ensenyança** · `clips/pa-003__ensenyan-a__279.69.wav` · p=— · small/base/greedy=sí/no/sí · text: `que s'integre amb una primera ensenyança de sistemes educatius estrangers,  com?`
+- **pa-005 · llavors** · `clips/pa-005__llavors__433.29.wav` · p=— · small/base/greedy=sí/no/sí · text: `perquè tenen frau, a llavors es quedaven tot a l'import de la denúncia.`
+- **pa-006 · clar** · `clips/pa-006__clar__379.25.wav` · p=— · small/base/greedy=sí/no/sí · text: `i que no hi hagi poc d'aigua, si hi hagués molt poc d'aigua, molt poc d'aigua, perquè, clar, aquí no és el lloc.`
+- **pa-006 · diguem** · `clips/pa-006__diguem__530.25.wav` · p=— · small/base/greedy=sí/no/sí · text: `modernes. Les primeres instal·lacions de producció elèctrica, diguem endorra,`
+- **pa-008 · perquè** · `clips/pa-008__perqu__55.25.wav` · p=— · small/base/greedy=sí/no/sí · text: `Per què? Perquè el que fem als fallares és la seva escorsa,  pelar-la.`
+- **pa-011 · aleshores** · `clips/pa-011__aleshores__89.33.wav` · p=— · small/base/greedy=no/sí/sí · text: `i era ells, aleshores amb la seva mare,  reivindult d'escutera, la més trés home de la casa,  van decidir...`
+- **pa-011 · evidentment** · `clips/pa-011__evidentment__157.65.wav` · p=— · small/base/greedy=sí/no/sí · text: `evidentment que el Pal és una casa molt més gran que qualsevol casa més humil.`
+- **pa-012 · bé** · `clips/pa-012__b__160.25.wav` · p=— · small/base/greedy=sí/no/sí · text: `o bé algunes campanes d'un campanat un poble.`
+- **pa-013 · doncs** · `clips/pa-013__doncs__56.85.wav` · p=— · small/base/greedy=sí/no/sí · text: `i més recentment, també, doncs, si pot accedir, hi ha l'avió...`
+- **pa-014 · a veure** · `clips/pa-014__a-veure__617.45.wav` · p=— · small/base/greedy=sí/no/sí · text: `és els anys 40, 43, 44,  que ha hagut un viatge que fa en Barcelona,  una sèrie d'autoritats i una sèrie de dentsites del contrapàs,  que van a veure com actuaven els esbarcs a baix a Barcelona,  amb veu una espectacle que hi havia.`
+- **pa-014 · clar** · `clips/pa-014__clar__978.45.wav` · p=— · small/base/greedy=sí/no/sí · text: `i també ho puguem dir-ho, perquè és clar,  tot el que ens ha passat no ho sabem segur.`
+- **pa-014 · és a dir** · `clips/pa-014__s-a-dir__95.45.wav` · p=— · small/base/greedy=no/sí/sí · text: `M'he assabentat de moltes coses,  és a dir, m'he fet una miqueta,  com diríem, una miqueta estudiós del ball del contrapràs.`
+- **pa-015 · bé** · `clips/pa-015__b__42.25.wav` · p=— · small/base/greedy=sí/no/sí · text: `15. Bé, hem de pensar que és una família prou rellevant en aquest`
+- **pa-015 · llavors** · `clips/pa-015__llavors__197.25.wav` · p=— · small/base/greedy=sí/no/sí · text: `lletat. I llavors, a part de tindre aquest sis,`
+- **pa-016 · és a dir** · `clips/pa-016__s-a-dir__85.97.wav` · p=— · small/base/greedy=sí/no/sí · text: `i sempre.  És a dir, després he tingut altres càrrecs i encara que no ho sembli, doncs...`
+- **pa-017 · bueno** · `clips/pa-017__bueno__823.25.wav` · p=— · small/base/greedy=no/sí/sí · text: `i els dones ens diuen "bueno, mira, les han ficat aquí, les han aparcat una mica,  que faiggin el que hagin de fer, però que caiguin".`
+- **pa-017 · evidentment** · `clips/pa-017__evidentment__152.25.wav` · p=— · small/base/greedy=sí/no/sí · text: `Evidentment, amb coses diferents,  perquè penso que el que era la part endorra la vella i escaldes`
+- **pa-018 · a nivell** · `clips/pa-018__a-nivell__188.45.wav` · p=— · small/base/greedy=sí/sí/no · text: `quan se vol. A nivells de programa polític,  s'havia de...`
+- **pa-018 · llavors** · `clips/pa-018__llavors__1055.09.wav` · p=— · small/base/greedy=sí/no/sí · text: `llavors, com més desapercebut passa, millor.`
+- **pa-018 · és a dir** · `clips/pa-018__s-a-dir__74.49.wav` · p=— · small/base/greedy=no/sí/sí · text: `i no en viure, és a dir, que nosaltres podíem dir que volíem ser`
+- **pa-019 · clar** · `clips/pa-019__clar__415.25.wav` · p=— · small/base/greedy=sí/no/sí · text: `i, clar, trasladals i que la Constitució no seria un miracle.`
+- **pa-019 · perquè** · `clips/pa-019__perqu__101.25.wav` · p=— · small/base/greedy=sí/sí/no · text: `i ha pensat que va ser un consell molt intens.  Es va treballar moltíssim.`
+- **pa-020 · doncs** · `clips/pa-020__doncs__247.37.wav` · p=— · small/base/greedy=sí/no/sí · text: `perquè, doncs, quan no li ha d'anar bé per pinjar,`
+- **pa-021 · a veure** · `clips/pa-021__a-veure__108.77.wav` · p=— · small/base/greedy=sí/no/sí · text: `i a veure anar a Boma a fer aquesta Constitució, que no era fàcil.`
+- **pa-021 · bé** · `clips/pa-021__b__257.61.wav` · p=— · small/base/greedy=sí/sí/no · text: `és ben veritat que, com es diu,`
+- **pa-022 · bé** · `clips/pa-022__b__270.45.wav` · p=— · small/base/greedy=sí/sí/no · text: `i que no es poden fer per fer-ho.`
+- **pa-023 · bueno** · `clips/pa-023__bueno__96.81.wav` · p=— · small/base/greedy=sí/no/sí · text: `bueno, del aldosa de Caní,`
+- **pa-023 · bé** · `clips/pa-023__b__409.37.wav` · p=— · small/base/greedy=sí/sí/no · text: `i un bomber que preni les mides.`
+- **pa-023 · de fet** · `clips/pa-023__de-fet__72.49.wav` · p=— · small/base/greedy=sí/no/sí · text: `i de les legislatures que van ocupar 4 anys, de fet.`
+- **pa-023 · llavors** · `clips/pa-023__llavors__48.81.wav` · p=— · small/base/greedy=sí/no/sí · text: `84, 82% i llavors vull dir no hi havia ministre de l'interior.`
+- **pa-023 · vull dir** · `clips/pa-023__vull-dir__22.05.wav` · p=— · small/base/greedy=sí/no/sí · text: `i vull dir els que fan part de la Junta Constitucional.`
+- **pa-024 · a nivell** · `clips/pa-024__a-nivell__1547.93.wav` · p=— · small/base/greedy=sí/sí/no · text: `i això és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és el que és`
+- **pa-024 · perquè** · `clips/pa-024__perqu__225.53.wav` · p=— · small/base/greedy=sí/no/sí · text: `Doncs vaig així, perquè va ser unes votacions molt interessants,  van repetir diverses...`
+- **pa-025 · aleshores** · `clips/pa-025__aleshores__361.93.wav` · p=— · small/base/greedy=sí/no/sí · text: `i aleshores ens tornem més primirats.`
+- **pa-025 · clar** · `clips/pa-025__clar__116.09.wav` · p=— · small/base/greedy=sí/sí/no · text: `i que el govern també ha de ser un partit.`
+- **pa-025 · o sigui** · `clips/pa-025__o-sigui__1462.85.wav` · p=— · small/base/greedy=sí/no/sí · text: `i t'hi he rebut com l'home de França.  O sigui, aleshores era una mica perillós, amb aquest sentit.`
+- **pa-026 · bueno** · `clips/pa-026__bueno__194.89.wav` · p=— · small/base/greedy=no/sí/sí · text: `i, bueno, ben proposat, ben guanyat les eleccions del 89,`
+- **pa-026 · bé** · `clips/pa-026__b__99.97.wav` · p=— · small/base/greedy=sí/sí/no · text: `Vale? Doncs aquí és el mateix.`
+- **pa-026 · o sigui** · `clips/pa-026__o-sigui__434.17.wav` · p=— · small/base/greedy=sí/no/sí · text: `o sigui, que tenim una vista important.`
+- **pa-026 · vull dir** · `clips/pa-026__vull-dir__311.77.wav` · p=— · small/base/greedy=sí/no/sí · text: `que està adonant, vull dir, que vol ser un bon cap de govern.`
+- **pa-027 · bé** · `clips/pa-027__b__30.97.wav` · p=— · small/base/greedy=no/sí/sí · text: `i ara la meva escritlla està parlant molt públic.  M'agradaria molt públic i va bé, bullíssim.`
+- **pa-027 · clar** · `clips/pa-027__clar__35.13.wav` · p=— · small/base/greedy=sí/no/sí · text: `i, bueno, clar, per tu, va ser un cop,`
+- **pa-029 · o sigui** · `clips/pa-029__o-sigui__243.13.wav` · p=— · small/base/greedy=sí/no/sí · text: `que no hi hagués un cau, o sigui, que no hi hagués un desgovern.`
+- **pa-030 · llavors** · `clips/pa-030__llavors__157.61.wav` · p=— · small/base/greedy=sí/no/sí · text: `i vam tornar-hi, i llavors ja va vendre el Cíndic Farras i companyia,  i el que sí és...`
+- **pa-031 · a veure** · `clips/pa-031__a-veure__4.25.wav` · p=— · small/base/greedy=sí/sí/no · text: `i es va decidir que quins sindic podien portar.`
+- **pa-031 · clar** · `clips/pa-031__clar__154.57.wav` · p=— · small/base/greedy=sí/no/sí · text: `i els coprínceptes tampoc no siguin clar  a veure el que sí, el que podíem fer, no podíem arribar.`
+- **pa-031 · doncs** · `clips/pa-031__doncs__414.05.wav` · p=— · small/base/greedy=sí/no/sí · text: `i el que hem hagut, doncs ja ho defensarem,  i es va decidir que sí.  I vam decidir.`
+- **pa-031 · tirar endavant** · `clips/pa-031__tirar-endavant__146.09.wav` · p=— · small/base/greedy=sí/no/sí · text: `que s'havia de tirar endavant de la manera que fos.`
+- **pa-032 · doncs** · `clips/pa-032__doncs__21.61.wav` · p=— · small/base/greedy=sí/sí/no · text: `i van firmar un paper allà per presentar una candidatura per veure...`
+- **pa-033 · llavors** · `clips/pa-033__llavors__71.53.wav` · p=— · small/base/greedy=sí/no/sí · text: `i llavors normalment ja la gent que més o menys va a tractar`
+- **pa-033 · tirar endavant** · `clips/pa-033__tirar-endavant__135.69.wav` · p=— · small/base/greedy=sí/sí/no · text: `i havia vingut aquí tirant de banda tot aquest projecte.`
+- **pa-034 · bé** · `clips/pa-034__b__18.85.wav` · p=— · small/base/greedy=sí/no/sí · text: `de la Vall, passar bé a algú, que és plancar-te, uns llançors.`
+- **pa-035 · doncs** · `clips/pa-035__doncs__195.49.wav` · p=— · small/base/greedy=sí/no/sí · text: `I, ara, ja he vingut a participar, doncs, una mica.`
+- **pa-037 · bé** · `clips/pa-037__b__105.29.wav` · p=0.9336;0.4035;0.9620;0.9723;0.3064 · small/base/greedy=sí/no/sí · text: `i que s'ha constituït.  Gailbé, existim tothom.  Jo, personalment, he passat tots els altres anys que no he pogut anar.  Però, bueno, aquí està el mateix, he bainat.  I torne bé.  Bona ambient, molt bona ambient.  Molt bona ambient.  Torna a comentar coses del que ha fet passat,  però sobretot...`
+- **pa-037 · clar** · `clips/pa-037__clar__186.29.wav` · p=— · small/base/greedy=sí/no/sí · text: `Després, clar, quan va arribar cap al final de tot, ens van informar més,  perquè a final havíem de votar que sí, sinó...`
+- **pa-037 · crec** · `clips/pa-037__crec__424.61.wav` · p=— · small/base/greedy=sí/no/sí · text: `de fa molts anys en darrere, i a bon regat d'extensió,  hem de mirar que s'acabin i s'han acabat,  jo crec que s'han acabat.`
+- **pa-038 · diguem** · `clips/pa-038__diguem__251.25.wav` · p=— · small/base/greedy=no/sí/sí · text: `el seu gust, però generalment inspirats o, diguem, teledirigits.`
+- **pa-038 · doncs** · `clips/pa-038__doncs__2008.17.wav` · p=— · small/base/greedy=sí/no/sí · text: `No? Doncs era per això.  Perquè no eren de la corda.`
+- **pa-041 · a veure** · `clips/pa-041__a-veure__200.25.wav` · p=— · small/base/greedy=sí/no/sí · text: `vol dir que material pedagògic no...  A veure, era molt limitat.`
+- **pa-041 · llavors** · `clips/pa-041__llavors__108.25.wav` · p=— · small/base/greedy=no/sí/sí · text: `Era una pinya, llavors abans ho parlàvem  amb una persona implicada en la cuina de l'escola, els pares.`
+- **pa-041 · tirar endavant** · `clips/pa-041__tirar-endavant__102.25.wav` · p=— · small/base/greedy=sí/sí/no · text: `i que es poden fer unes coses.`
+- **pa-045 · clar** · `clips/pa-045__clar__399.85.wav` · p=0.9012;0.9997 · small/base/greedy=sí/no/sí · text: `amb el qual estava... amb res.  Amb el qual estava bastant clar.  Semblava bastant clar.`
+- **pa-046 · aleshores** · `clips/pa-046__aleshores__527.57.wav` · p=— · small/base/greedy=sí/no/sí · text: `i no pot tenir.  La veritat és que es degrada el servei  i aleshores ho perdem tot.`
+- **pa-049 · a veure** · `clips/pa-049__a-veure__244.85.wav` · p=0.0989;0.9962 · small/base/greedy=sí/sí/no · text: `i el meu pare es va veure després a la xarxa.`
+- **pa-049 · aleshores** · `clips/pa-049__aleshores__110.29.wav` · p=— · small/base/greedy=sí/no/sí · text: `i cada vestit és diferent segons la persona,  com cada vida també és diferent.  Aleshores, voldria m'arrancar un moment.`
+- **pa-049 · bé** · `clips/pa-049__b__74.21.wav` · p=— · small/base/greedy=sí/no/sí · text: `perquè a la llarga i sobretot en petits països,  s'ha de partir de la base d'entre tots fer-ho tot.  O bé que la dona ara...`
+- **pa-049 · evidentment** · `clips/pa-049__evidentment__117.17.wav` · p=— · small/base/greedy=sí/no/sí · text: `Vull dir, a més, voldria m'arrancar el moment primer,  el primer fil del teu contacte amb la vida,  que evidentment és el lloc on...`
+- **pa-049 · llavors** · `clips/pa-049__llavors__230.45.wav` · p=— · small/base/greedy=sí/no/sí · text: `i aquí en Dorre va vindre llavors el delegat de premsa de la Casa Blanca.  No sé si va ser arreu realment d'aquesta carta.`
+- **pa-049 · vull dir** · `clips/pa-049__vull-dir__208.09.wav` · p=— · small/base/greedy=sí/no/sí · text: `Va fer una carta al president dels Estats Units  aprofitant que la família de la Moàbia, vull dir,  que l'arenya...`
+- **pa-051 · clar** · `clips/pa-051__clar__161.85.wav` · p=— · small/base/greedy=sí/sí/no · text: `en tor, per anar a xorda i joclar això l'he rendat als remats.`
+- **pa-052 · bueno** · `clips/pa-052__bueno__41.97.wav` · p=— · small/base/greedy=sí/no/sí · text: `I, bueno, tinc certs germans.`
+- **pa-052 · perquè** · `clips/pa-052__perqu__92.65.wav` · p=— · small/base/greedy=sí/no/sí · text: `i ara m'amaguen, ja no hi ve, ja perquè li venen.`
+- **pa-054 · a veure** · `clips/pa-054__a-veure__77.97.wav` · p=— · small/base/greedy=sí/no/sí · text: `i a veure si va anar a Barcelona, es pertenyés a l'únic portant mai a la presó.`
+- **pa-054 · llavors** · `clips/pa-054__llavors__156.57.wav` · p=— · small/base/greedy=sí/no/sí · text: `i llavors sortirem a l'oposició.`
+- **pa-055 · bueno** · `clips/pa-055__bueno__194.93.wav` · p=— · small/base/greedy=no/sí/sí · text: `i, bueno, ben proposat ben guanyar les eleccions del 89.`
+- **pa-055 · vull dir** · `clips/pa-055__vull-dir__311.73.wav` · p=— · small/base/greedy=sí/no/sí · text: `que ha estat d'onar, vull dir, que vol ser un bon cap de govern.`
+- **pa-056 · aleshores** · `clips/pa-056__aleshores__393.13.wav` · p=— · small/base/greedy=sí/no/sí · text: `i, aleshores, això està tan quadriculat.`
+- **pa-056 · bé** · `clips/pa-056__b__436.49.wav` · p=— · small/base/greedy=sí/sí/no · text: `...pues pasàve o sentimeno, però no animitat.`
+- **pa-056 · doncs** · `clips/pa-056__doncs__43.45.wav` · p=— · small/base/greedy=sí/no/sí · text: `com estaven, doncs evidentment no era el nostre tarantà.  Per almenys el meu.`
+- **pa-056 · llavors** · `clips/pa-056__llavors__157.77.wav` · p=— · small/base/greedy=sí/no/sí · text: `i llavors ja va vendre el Cíndic Farlas i companyia,  i el que sí és...`
+- **pa-057 · a nivell** · `clips/pa-057__a-nivell__417.13.wav` · p=— · small/base/greedy=sí/no/sí · text: `A l'altre es volien els 4 a nivell nacional i la situació és molt bona.`
+- **pa-057 · bé** · `clips/pa-057__b__203.57.wav` · p=— · small/base/greedy=sí/no/sí · text: `i que el sistema està bé amb la capacitat d'un solució.`
+- **pa-058 · a nivell** · `clips/pa-058__a-nivell__188.37.wav` · p=— · small/base/greedy=sí/sí/no · text: `quan se vol.`
+- **pa-059 · evidentment** · `clips/pa-059__evidentment__152.13.wav` · p=— · small/base/greedy=sí/no/sí · text: `i que no hi hem fet. Evidentment, amb coses diferents,  perquè penso que el que era la part d'endorra la vella i escaldes  era en potser...`
+- **pa-060 · a nivell** · `clips/pa-060__a-nivell__201.93.wav` · p=— · small/base/greedy=sí/no/sí · text: `Hi havia un ambient molt tens a nivell de consell per no disfrutar.`
+- **pa-060 · bé** · `clips/pa-060__b__415.73.wav` · p=— · small/base/greedy=no/sí/sí · text: `que fan els metros, a més, que anar bé creixent.`
+- **pa-060 · llavors** · `clips/pa-060__llavors__48.77.wav` · p=— · small/base/greedy=sí/no/sí · text: `84, 82%, i llavors vull dir,  "nevi, ministre de l'Interior".`
+- **pa-060 · vull dir** · `clips/pa-060__vull-dir__20.65.wav` · p=— · small/base/greedy=sí/no/sí · text: `que el consell... vull dir, els que fem part de la Junta Constitucional,  vull dir...`
+- **pa-061 · bueno** · `clips/pa-061__bueno__171.05.wav` · p=0.1212;0.5101 · small/base/greedy=sí/no/sí · text: `Bueno, t'hi anem. Bueno, va.  Amor, una cantina.`
+- **pa-061 · vull dir** · `clips/pa-061__vull-dir__193.57.wav` · p=— · small/base/greedy=sí/no/sí · text: `No hi havia res a en Dorre.  Vull dir que tot era una gran novetat.`
+- **pa-062 · o sigui** · `clips/pa-062__o-sigui__236.01.wav` · p=— · small/base/greedy=sí/no/sí · text: `que és una cosa que tenim.  O sigui que és tota una... tota una col·lecció.  Això mateix.`
+- **pa-063 · o sigui** · `clips/pa-063__o-sigui__826.09.wav` · p=— · small/base/greedy=sí/sí/no · text: `i és modern.`
+- **pa-065 · a nivell** · `clips/pa-065__a-nivell__529.09.wav` · p=— · small/base/greedy=sí/sí/no · text: `que no podreu donar.  Nosaltres venim als santuaris,  trobades en un tètre,  en nivell català i en nivell de...`
+- **pa-065 · bueno** · `clips/pa-065__bueno__1389.05.wav` · p=— · small/base/greedy=sí/no/sí · text: `És així, eh?  Bueno, diuen que els cansats fan de feina.`
+
+## D-un-model
+
+- **pa-058 · és a dir** · `clips/pa-058__s-a-dir__74.41.wav` · p=0.9532 · small/base/greedy=sí/no/no · text: `i que no hi hagi una persona que no hagi tingut un lloc.`
+- **pa-057 · perquè** · `clips/pa-057__perqu__249.45.wav` · p=0.9119 · small/base/greedy=sí/no/no · text: `i molt poc temps per a això es va fer el "Tom de I8".  Més o ràpid.`
+- **pa-046 · bé** · `clips/pa-046__b__348.81.wav` · p=0.8391 · small/base/greedy=sí/no/no · text: `i volen pensar dins del camp.`
+- **pa-026 · a nivell** · `clips/pa-026__a-nivell__38.25.wav` · p=0.8241 · small/base/greedy=sí/no/no · text: `i que ha de ser un llibre de la Generalitat.`
+- **pa-066 · llavors** · `clips/pa-066__llavors__16.21.wav` · p=0.7958 · small/base/greedy=sí/no/no · text: `i que la gent no s'ha de fer.`
+- **pa-064 · o sigui** · `clips/pa-064__o-sigui__36.73.wav` · p=0.7590 · small/base/greedy=sí/no/no · text: `i el que ha de fer és fer-ho.`
+- **pa-017 · llavors** · `clips/pa-017__llavors__361.25.wav` · p=0.7556 · small/base/greedy=sí/no/no · text: `i a Montès, algunes perroquies bloquejarem completament el comú.  Nosaltres anirem concients.`
+- **pa-066 · de fet** · `clips/pa-066__de-fet__44.37.wav` · p=0.7471 · small/base/greedy=sí/no/no · text: `i el moment en aquest edifici va ser l'únic, va ser important.`
+- **pa-034 · crec** · `clips/pa-034__crec__651.65.wav` · p=0.6687 · small/base/greedy=sí/no/no · text: `i que no hi hagi una altra manera de fer-ho.  I és molt fàcil.`
+- **pa-049 · diguem** · `clips/pa-049__diguem__213.13.wav` · p=0.6594 · small/base/greedy=sí/no/no · text: `i que no hi hagi una informació.`
+- **pa-037 · doncs** · `clips/pa-037__doncs__20.49.wav` · p=0.6135 · small/base/greedy=sí/no/no · text: `i quan va arribar el consell constituent,  ha vint arribat també amb bastant tensos  i l'enriqueçament...`
+- **pa-049 · clar** · `clips/pa-049__clar__382.01.wav` · p=0.6076 · small/base/greedy=sí/no/no · text: `i que no hi hagi unes persones que no han tingut cap problema.`
+- **pa-032 · clar** · `clips/pa-032__clar__155.33.wav` · p=0.5817 · small/base/greedy=sí/no/no · text: `i això ja li teniu posat al cap.`
+- **pa-060 · perquè** · `clips/pa-060__perqu__29.05.wav` · p=0.4717 · small/base/greedy=sí/no/no · text: `i que no hi hagi cap problema.`
+- **pa-061 · bé** · `clips/pa-061__b__662.89.wav` · p=0.4650 · small/base/greedy=sí/no/no · text: `i que no hi hagi una altra.`
+- **pa-008 · bé** · `clips/pa-008__b__61.25.wav` · p=0.4059 · small/base/greedy=sí/no/no · text: `En un pal, ja sigui de boix o ve amb una branca del mateix ves  i elaborar el que hem de fer.`
+- **pa-057 · llavors** · `clips/pa-057__llavors__42.85.wav` · p=0.3304 · small/base/greedy=sí/no/no · text: `i això plenava molt sobre...  sense que es digués molt, però tothom...`
+- **pa-019 · bueno** · `clips/pa-019__bueno__328.25.wav` · p=0.1975 · small/base/greedy=sí/no/no · text: `Però la corrent aquesta jo crec que ja era a mi imperable.`
+- **pa-028 · llavors** · `clips/pa-028__llavors__151.01.wav` · p=0.1910 · small/base/greedy=sí/no/no · text: `i de vegades es va fer un moment de feina.`
+- **pa-022 · és a dir** · `clips/pa-022__s-a-dir__11.49.wav` · p=0.1417 · small/base/greedy=sí/no/no · text: `i que no haguéssiu demanat mai dir-ho d'una certa manera.`
+- **pa-065 · és a dir** · `clips/pa-065__s-a-dir__221.29.wav` · p=0.1110 · small/base/greedy=sí/no/no · text: `Jo tinc clar que l'Evangeli és on tinc el macar.`
+- **pa-048 · llavors** · `clips/pa-048__llavors__1244.97.wav` · p=0.1077 · small/base/greedy=sí/no/no · text: `A més, els catalans han volgut...`
+- **pa-039 · perquè** · `clips/pa-039__perqu__18.09.wav` · p=0.0785 · small/base/greedy=sí/no/no · text: `i que es va fer un altre dia.`
+- **pa-031 · perquè** · `clips/pa-031__perqu__32.69.wav` · p=0.0697 · small/base/greedy=sí/no/no · text: `i que no s'ha de fer.`
+- **pa-036 · vull dir** · `clips/pa-036__vull-dir__632.25.wav` · p=0.0457 · small/base/greedy=sí/no/no · text: `i el 2001, el nou reglament, el nou sistema,  veïn les dues coses.  Pensa que la Constitució...`
+- **pa-063 · perquè** · `clips/pa-063__perqu__142.61.wav` · p=0.0412 · small/base/greedy=sí/no/no · text: `i que no hi hagi una altra manera.`
+- **pa-064 · és a dir** · `clips/pa-064__s-a-dir__258.61.wav` · p=0.0375 · small/base/greedy=sí/no/no · text: `i es diu que el d'Orlaire va al rural en cap d'aquests temps.`
+- **pa-038 · llavors** · `clips/pa-038__llavors__264.13.wav` · p=0.0343 · small/base/greedy=sí/no/no · text: `I això va ser la meva motivació principal, va ser que va acabar amb el meu.`
+- **pa-063 · a veure** · `clips/pa-063__a-veure__402.13.wav` · p=0.0333 · small/base/greedy=sí/no/no · text: `i que no es pot fer.`
+- **pa-006 · o sigui** · `clips/pa-006__o-sigui__136.25.wav` · p=0.0187 · small/base/greedy=sí/no/no · text: `i el que ha de ser el que ha de ser.`
+- **pa-001 · a veure** · `clips/pa-001__a-veure__341.57.wav` · p=— · small/base/greedy=no/sí/no · text: `que més depresivo.`
+- **pa-001 · bé** · `clips/pa-001__b__49.17.wav` · p=— · small/base/greedy=no/sí/no · text: `i que es va fer a la resta de la gent.`
+- **pa-001 · clar** · `clips/pa-001__clar__129.77.wav` · p=— · small/base/greedy=no/no/sí · text: `perquè, clar, no es veu mateix estar sobre la impara de dos cobrínxers`
+- **pa-001 · de fet** · `clips/pa-001__de-fet__68.49.wav` · p=— · small/base/greedy=sí/no/no · text: `i la famosa rebrana.`
+- **pa-001 · llavors** · `clips/pa-001__llavors__837.17.wav` · p=— · small/base/greedy=sí/no/no · text: `i el seu figura de la manera que hi hagi,  doncs, quan s'acabàvem de regalar...`
+- **pa-002 · bueno** · `clips/pa-002__bueno__433.25.wav` · p=— · small/base/greedy=no/no/sí · text: `Bueno, aquí es va decidir,  en aquell moment no hi havia comensió.`
+- **pa-002 · clar** · `clips/pa-002__clar__186.25.wav` · p=— · small/base/greedy=sí/no/no · text: `i que és una diferència de totes les gràpies.`
+- **pa-002 · vull dir** · `clips/pa-002__vull-dir__172.25.wav` · p=— · small/base/greedy=no/sí/no · text: `no sé si un dit al tutorial tampoc autoritària.`
+- **pa-003 · diguem** · `clips/pa-003__diguem__212.85.wav` · p=— · small/base/greedy=no/sí/no · text: `aquesta és la primera acció d'ordre polític.`
+- **pa-004 · doncs** · `clips/pa-004__doncs__416.21.wav` · p=— · small/base/greedy=no/sí/no · text: `i costava una punyera de gra que representava uns 3 quilos de gra.`
+- **pa-005 · clar** · `clips/pa-005__clar__155.93.wav` · p=— · small/base/greedy=no/sí/no · text: `i que no hi hagi una altra.`
+- **pa-006 · evidentment** · `clips/pa-006__evidentment__124.25.wav` · p=— · small/base/greedy=no/sí/no · text: `Aquest tipus de rota d'aigua es veu servir amb rius amb una gran quantitat d'aigua.`
+- **pa-006 · llavors** · `clips/pa-006__llavors__214.25.wav` · p=— · small/base/greedy=no/sí/no · text: `i els veus en un moment que es veu.  I ho farem.  I deixarem caure per a un altre.`
+- **pa-008 · bueno** · `clips/pa-008__bueno__969.25.wav` · p=— · small/base/greedy=no/no/sí · text: `anys 90, anys 80, doncs, bueno,  eren considerats com uns regellabrats  que l'únic que els hi ha...`
+- **pa-008 · diguem** · `clips/pa-008__diguem__374.25.wav` · p=— · small/base/greedy=no/sí/no · text: `de Carlet.  Diuem que pràcticament la definició de les falles d'Andorra és absurd.`
+- **pa-008 · doncs** · `clips/pa-008__doncs__55.25.wav` · p=— · small/base/greedy=no/sí/no · text: `Per què? Perquè el que fem als fallares és la seva escorsa,  pelar-la.`
+- **pa-009 · diguem** · `clips/pa-009__diguem__60.25.wav` · p=— · small/base/greedy=no/sí/no · text: `que seria l'aliació perfecta per tenir una bona sonoritat.`
+- **pa-012 · aleshores** · `clips/pa-012__aleshores__246.25.wav` · p=— · small/base/greedy=sí/no/no · text: `i al deshore se s'ha format un camp que era molt més...`
+- **pa-013 · evidentment** · `clips/pa-013__evidentment__530.29.wav` · p=— · small/base/greedy=no/sí/no · text: `i algunes de les seves característiques són l'ús del graní, un material difícil de treballar, però molt bons resultats.`
+- **pa-014 · doncs** · `clips/pa-014__doncs__180.05.wav` · p=— · small/base/greedy=no/sí/no · text: `i això és el més bonic que hi ha.  M'ha apassionat més,  vull ensenyar quan m'ho demana...`
+- **pa-016 · crec** · `clips/pa-016__crec__93.17.wav` · p=— · small/base/greedy=sí/no/no · text: `i la responsabilitat que tens per mi és imposa.  Jo no tinc...`
+- **pa-016 · o sigui** · `clips/pa-016__o-sigui__311.25.wav` · p=— · small/base/greedy=sí/no/no · text: `i a vegades encara s'han regulat, però molts anys després.`
+- **pa-018 · a veure** · `clips/pa-018__a-veure__825.61.wav` · p=— · small/base/greedy=no/sí/no · text: `i que no hi hagi una altra manera de fer-ho.`
+- **pa-020 · a nivell** · `clips/pa-020__a-nivell__409.37.wav` · p=— · small/base/greedy=sí/no/no · text: `i que precisament em porti, que han d'anar com una altra.`
+- **pa-020 · diguem** · `clips/pa-020__diguem__1459.77.wav` · p=— · small/base/greedy=sí/no/no · text: `Dic que és el que pensem, després de les votacions,`
+- **pa-020 · evidentment** · `clips/pa-020__evidentment__117.57.wav` · p=— · small/base/greedy=no/sí/no · text: `i que no hi hagi una altra.`
+- **pa-021 · clar** · `clips/pa-021__clar__125.89.wav` · p=— · small/base/greedy=no/sí/no · text: `i que no hi hagi una altra.`
+- **pa-022 · vull dir** · `clips/pa-022__vull-dir__308.17.wav` · p=— · small/base/greedy=sí/no/no · text: `i també hi acaben de treballar les lleis que estan...`
+- **pa-023 · crec** · `clips/pa-023__crec__42.93.wav` · p=— · small/base/greedy=no/sí/no · text: `No depenia del Govern, el PAM crea que era en 84.`
+- **pa-024 · evidentment** · `clips/pa-024__evidentment__518.89.wav` · p=— · small/base/greedy=sí/no/no · text: `i el que el dia l'oli garquia o el dia lleveu.`
+- **pa-025 · doncs** · `clips/pa-025__doncs__59.89.wav` · p=— · small/base/greedy=no/sí/no · text: `i que la gent que va a la presó,  que va a la presó,  que va a la presó,  que va a la presó,`
+- **pa-026 · clar** · `clips/pa-026__clar__6.33.wav` · p=— · small/base/greedy=no/sí/no · text: `i no el comú, amb quatre anys.`
+- **pa-027 · bueno** · `clips/pa-027__bueno__35.13.wav` · p=— · small/base/greedy=no/no/sí · text: `i, bueno, clar, per tu, va ser un cop,`
+- **pa-028 · perquè** · `clips/pa-028__perqu__142.89.wav` · p=— · small/base/greedy=no/sí/no · text: `i que no hi hagi una altra manera de fer-ho.`
+- **pa-029 · clar** · `clips/pa-029__clar__358.61.wav` · p=— · small/base/greedy=no/sí/no · text: `En aquell moment hi va haver un compromís, 100%.`
+- **pa-030 · bé** · `clips/pa-030__b__436.45.wav` · p=— · small/base/greedy=sí/no/no · text: `per a la vida.`
+- **pa-030 · clar** · `clips/pa-030__clar__61.89.wav` · p=— · small/base/greedy=no/sí/no · text: `i que no podíem fer el que havia de fer.`
+- **pa-030 · o sigui** · `clips/pa-030__o-sigui__1016.41.wav` · p=— · small/base/greedy=sí/no/no · text: `o si algú vol vendre gent, s'etivoca.`
+- **pa-030 · perquè** · `clips/pa-030__perqu__31.89.wav` · p=— · small/base/greedy=no/sí/no · text: `i que no hi hagi una altra.`
+- **pa-031 · aleshores** · `clips/pa-031__aleshores__54.09.wav` · p=— · small/base/greedy=sí/no/no · text: `i els dos em passen la cara i l'home i veieu.`
+- **pa-032 · a veure** · `clips/pa-032__a-veure__212.45.wav` · p=— · small/base/greedy=no/no/sí · text: `I si això veu a veure alguna de la més grossa vacilia  és perdre dels consellers.`
+- **pa-032 · vull dir** · `clips/pa-032__vull-dir__389.29.wav` · p=— · small/base/greedy=sí/no/no · text: `i amb l'altre igual.  Saps que a Vili no és allò que m'he tingut un de dir,  ara aquest no.`
+- **pa-033 · doncs** · `clips/pa-033__doncs__6.61.wav` · p=— · small/base/greedy=no/sí/no · text: `i els temps de tribuna que portàvem aquesta idea al cap i al nivell nacional,  nosaltres consideràvem.`
+- **pa-034 · doncs** · `clips/pa-034__doncs__110.53.wav` · p=— · small/base/greedy=no/no/sí · text: `i que, en una manera, la política que es feia,  que era, doncs, això, casatal, casatal, no?`
+- **pa-034 · perquè** · `clips/pa-034__perqu__51.85.wav` · p=— · small/base/greedy=no/sí/no · text: `i que no hi hagi una altra.`
+- **pa-034 · vull dir** · `clips/pa-034__vull-dir__58.29.wav` · p=— · small/base/greedy=no/sí/no · text: `i els Mossos perdut està bebuda de goma-goma.`
+- **pa-034 · és a dir** · `clips/pa-034__s-a-dir__319.09.wav` · p=— · small/base/greedy=sí/no/no · text: `i que no hi hagi cap dubte.`
+- **pa-035 · bé** · `clips/pa-035__b__715.81.wav` · p=— · small/base/greedy=no/sí/no · text: `i que no hi hagi una altra solució.`
+- **pa-039 · bueno** · `clips/pa-039__bueno__530.89.wav` · p=— · small/base/greedy=no/sí/no · text: `i que no es poden fer res.`
+- **pa-040 · bé** · `clips/pa-040__b__32.81.wav` · p=— · small/base/greedy=no/no/sí · text: `i que es poden fer una feina de la seva interès.  Jo recordo molt bé,`
+- **pa-041 · bueno** · `clips/pa-041__bueno__165.25.wav` · p=— · small/base/greedy=sí/no/no · text: `i que tingués més en compte les peculiaritats endurranes.`
+- **pa-041 · doncs** · `clips/pa-041__doncs__209.25.wav` · p=— · small/base/greedy=no/sí/no · text: `i per altra banda, si aquesta maternal endurrana  que estava ubicada en unes aules...`
+- **pa-042 · crec** · `clips/pa-042__crec__32.01.wav` · p=— · small/base/greedy=no/sí/no · text: `i que no hi hagi una altra.`
+- **pa-043 · doncs** · `clips/pa-043__doncs__15.25.wav` · p=— · small/base/greedy=no/sí/no · text: `i a part era això de fa 15 anys que tinc 15 anys, que és.`
+- **pa-045 · aleshores** · `clips/pa-045__aleshores__1193.41.wav` · p=— · small/base/greedy=no/sí/no · text: `i que no es pot fer.`
+- **pa-045 · bueno** · `clips/pa-045__bueno__261.05.wav` · p=— · small/base/greedy=no/sí/no · text: `i que no hi hagi una altra gent que no hi hagi un altre.  I el que és evident és que és una altra gent que no hi hagi un altre.`
+- **pa-045 · crec** · `clips/pa-045__crec__240.61.wav` · p=— · small/base/greedy=no/sí/no · text: `i que no hi hagi una altra.`
+- **pa-045 · doncs** · `clips/pa-045__doncs__283.01.wav` · p=— · small/base/greedy=sí/no/no · text: `i que la gent que va a la cova produeix alteracions,  és millor tant caro, no està claríssim.`
+- **pa-046 · llavors** · `clips/pa-046__llavors__381.13.wav` · p=— · small/base/greedy=sí/no/no · text: `i que no hi hagi una altra manera de fer-ho.`
+- **pa-046 · o sigui** · `clips/pa-046__o-sigui__230.61.wav` · p=— · small/base/greedy=no/sí/no · text: `i que no hi hagi una situació de la qual es pot fer.`
+- **pa-046 · és a dir** · `clips/pa-046__s-a-dir__135.61.wav` · p=— · small/base/greedy=sí/no/no · text: `i que no hi hagi una altra.`
+- **pa-048 · bueno** · `clips/pa-048__bueno__227.17.wav` · p=— · small/base/greedy=no/no/sí · text: `i ens deixem nosaltres.  Bueno, però, juntant l'aigua, la pedra.  La pedra ha fet pedra, a verga, de mi és...`
+- **pa-048 · perquè** · `clips/pa-048__perqu__186.93.wav` · p=— · small/base/greedy=no/sí/no · text: `i que no hi hagi una altra manera de fer-ho.`
+- **pa-051 · bueno** · `clips/pa-051__bueno__41.97.wav` · p=— · small/base/greedy=no/no/sí · text: `Sempre l'estiu, bueno, hi ha bantes fins que van moure el camp i que ja tenien...`
+- **pa-053 · llavors** · `clips/pa-053__llavors__40.73.wav` · p=— · small/base/greedy=sí/no/no · text: `A la bons, com vam tenir, que vaig tenir per de 15 o 16 anys,  que em van apassar.`
+- **pa-054 · bé** · `clips/pa-054__b__128.77.wav` · p=— · small/base/greedy=no/sí/no · text: `I la gossa era el sisket de pui, es vestia de gossa.`
+- **pa-055 · bé** · `clips/pa-055__b__358.57.wav` · p=— · small/base/greedy=no/sí/no · text: `B, no?`
+- **pa-055 · clar** · `clips/pa-055__clar__6.29.wav` · p=— · small/base/greedy=no/sí/no · text: `i no el comú, amb quatre anys.`
+- **pa-055 · o sigui** · `clips/pa-055__o-sigui__434.17.wav` · p=— · small/base/greedy=sí/no/no · text: `que teníem una vista important.`
+- **pa-056 · bueno** · `clips/pa-056__bueno__458.97.wav` · p=— · small/base/greedy=no/sí/no · text: `No seré jo qui la canviï.`
+- **pa-057 · o sigui** · `clips/pa-057__o-sigui__249.45.wav` · p=— · small/base/greedy=sí/no/no · text: `i molt poc temps per a això es va fer el "Tom de I8".  Més o ràpid.`
+- **pa-058 · a veure** · `clips/pa-058__a-veure__828.61.wav` · p=— · small/base/greedy=no/no/sí · text: `i que, en totes maneres, forçarà a veure si fins a l'última hora...`
+- **pa-058 · crec** · `clips/pa-058__crec__6.69.wav` · p=— · small/base/greedy=no/sí/no · text: `i que no hi hagi una altra cosa.`
+- **pa-058 · doncs** · `clips/pa-058__doncs__200.41.wav` · p=— · small/base/greedy=no/sí/no · text: `i els electors quedarien en paper mullat perquè no...`
+- **pa-059 · bueno** · `clips/pa-059__bueno__166.17.wav` · p=— · small/base/greedy=sí/no/no · text: `Bé, tot el que ens deia que anàvem cap a una proporció nacional,`
+- **pa-059 · o sigui** · `clips/pa-059__o-sigui__266.13.wav` · p=— · small/base/greedy=no/sí/no · text: `que anar a l'una perquè, si no, no haguéssim pogut fer el que es va fer,  penso en jo.`
+- **pa-060 · doncs** · `clips/pa-060__doncs__177.97.wav` · p=— · small/base/greedy=sí/no/no · text: `i va ser meva, que si m'haguia de dir no plegàvem,  pots presentar-me, vull dir que és disolgir.`
+- **pa-061 · o sigui** · `clips/pa-061__o-sigui__161.05.wav` · p=— · small/base/greedy=sí/no/no · text: `i que no hi hagi una altra gent que no té cap problema.`
+- **pa-062 · bé** · `clips/pa-062__b__401.61.wav` · p=— · small/base/greedy=no/sí/no · text: `i que no hi hagi una altra.`
+- **pa-062 · clar** · `clips/pa-062__clar__202.37.wav` · p=— · small/base/greedy=no/sí/no · text: `i això ho he pogut trametre dins el meu petit negoci.`
+- **pa-063 · vull dir** · `clips/pa-063__vull-dir__822.45.wav` · p=— · small/base/greedy=sí/no/no · text: `i que la gent no ha de ser a l'estat espanyol.`
+- **pa-064 · evidentment** · `clips/pa-064__evidentment__485.89.wav` · p=— · small/base/greedy=no/sí/no · text: `i que no es pot fer.`
+- **pa-065 · aleshores** · `clips/pa-065__aleshores__170.69.wav` · p=— · small/base/greedy=sí/no/no · text: `i a les nostres dones, com aquest caminar que fem per aquí al Txec.`
+
+## E-cap-model
+
+- **pa-001 · aleshores** · `clips/pa-001__aleshores__10.13.wav` · p=— · small/base/greedy=no/no/no · text: `i s'ha de posar en qüestió.`
+- **pa-001 · bueno** · `clips/pa-001__bueno__207.01.wav` · p=— · small/base/greedy=no/no/no · text: `i els problemes que es van fer a les hores.  I aleshores van anar sortint els problemes del dia a dia,  van anar sortint tot el dia a dia.`
+- **pa-001 · o sigui** · `clips/pa-001__o-sigui__49.17.wav` · p=— · small/base/greedy=no/no/no · text: `i que es va fer a la resta de la gent.`
+- **pa-001 · vull dir** · `clips/pa-001__vull-dir__621.37.wav` · p=— · small/base/greedy=no/no/no · text: `i que té reunions.`
+- **pa-001 · és a dir** · `clips/pa-001__s-a-dir__890.97.wav` · p=— · small/base/greedy=no/no/no · text: `i que no hi hagi una altra.`
+- **pa-002 · és a dir** · `clips/pa-002__s-a-dir__12.25.wav` · p=— · small/base/greedy=no/no/no · text: `per molt que s'hagués fet, el que se'n va dir reformeta,`
+- **pa-003 · aleshores** · `clips/pa-003__aleshores__18.69.wav` · p=— · small/base/greedy=no/no/no · text: `també. A les hores dins d'aquest context l'escola...`
+- **pa-007 · bueno** · `clips/pa-007__bueno__475.25.wav` · p=— · small/base/greedy=no/no/no · text: `d'aquesta manera deuen i la resta dels sandorrans.  Precisament d'aquest mossèn de mossèn...`
+- **pa-009 · llavors** · `clips/pa-009__llavors__201.25.wav` · p=— · small/base/greedy=no/no/no · text: `i la campana de la sèrie del consell General és de 1856 i és per a que ho digui.`
+- **pa-010 · bé** · `clips/pa-010__b__24.65.wav` · p=— · small/base/greedy=no/no/no · text: `d'un comínia ruscogeològics.  I doncs vei avui com a col·laboració dins d'aquest cicle de capsules d'història en temps de confinament.`
+- **pa-012 · doncs** · `clips/pa-012__doncs__411.25.wav` · p=— · small/base/greedy=no/no/no · text: `aquí veient un equip de dalles eres que estan treballant.`
+- **pa-014 · aleshores** · `clips/pa-014__aleshores__119.85.wav` · p=— · small/base/greedy=no/no/no · text: `i les hores va ser quan em van trencar més aquell neguit de dir "crai",  no potser va dir que un ball que està arreglat en dorre,  que tot el que va passar...`
+- **pa-014 · llavors** · `clips/pa-014__llavors__228.25.wav` · p=— · small/base/greedy=no/no/no · text: `I la feina per tots, amb una casa, no n'hi havia.  La feina per tots,  vols escenar i buscar-se la vida per ajudar a casa?`
+- **pa-015 · o sigui** · `clips/pa-015__o-sigui__104.25.wav` · p=— · small/base/greedy=no/no/no · text: `i el carlo aumenta, sigui que ha de desenvolupar unes estratègies.`
+- **pa-016 · aviam** · `clips/pa-016__aviam__729.65.wav` · p=— · small/base/greedy=no/no/no · text: `i ho hem de col·lucionar.  O sigui, havíem de venir un estat democràtic, modern,  un estat de dret, no?, i calia fer una Constitució.  Per mi, jo tenia clar que calia fer una Constitució,  i em sembla que...`
+- **pa-016 · bueno** · `clips/pa-016__bueno__93.17.wav` · p=— · small/base/greedy=no/no/no · text: `i la responsabilitat que tens per mi és imposa.  Jo no tinc...`
+- **pa-017 · bé** · `clips/pa-017__b__112.25.wav` · p=— · small/base/greedy=no/no/no · text: `i va començar a veure la paraula de missió, de missió, de missió.`
+- **pa-018 · bueno** · `clips/pa-018__bueno__23.21.wav` · p=— · small/base/greedy=no/no/no · text: `i, a bompes, busquem allà a fer sis propostes,`
+- **pa-018 · bé** · `clips/pa-018__b__210.65.wav` · p=— · small/base/greedy=no/no/no · text: `dins de l'UCPA, quan es va formar.`
+- **pa-018 · clar** · `clips/pa-018__clar__112.73.wav` · p=— · small/base/greedy=no/no/no · text: `i que es poden fer unes coses.`
+- **pa-018 · doncs** · `clips/pa-018__doncs__33.53.wav` · p=— · small/base/greedy=no/no/no · text: `i els altres eren menys evolutives i molt més conservadores.`
+- **pa-019 · doncs** · `clips/pa-019__doncs__46.25.wav` · p=— · small/base/greedy=no/no/no · text: `que venien en costa de dictadura.`
+- **pa-019 · és a dir** · `clips/pa-019__s-a-dir__56.25.wav` · p=— · small/base/greedy=no/no/no · text: `Una de les coses que ens va deixar a Marencia,`
+- **pa-020 · bueno** · `clips/pa-020__bueno__13.57.wav` · p=— · small/base/greedy=no/no/no · text: `i vam anar a la reunió, vam començar a parlar, vam veure'm a la màxima.`
+- **pa-020 · tirar endavant** · `clips/pa-020__tirar-endavant__33.45.wav` · p=— · small/base/greedy=no/no/no · text: `i de tirant de manis, de...`
+- **pa-020 · vull dir** · `clips/pa-020__vull-dir__165.45.wav` · p=— · small/base/greedy=no/no/no · text: `i posar-ho a...  I a vegades, companys que el consul o el segon consul,  sobretot...`
+- **pa-021 · aleshores** · `clips/pa-021__aleshores__12.25.wav` · p=— · small/base/greedy=no/no/no · text: `i va ser el que va complir.`
+- **pa-022 · bueno** · `clips/pa-022__bueno__122.85.wav` · p=— · small/base/greedy=no/no/no · text: `i el que ha passat és que el que ha passat és que el que ha passat`
+- **pa-022 · de fet** · `clips/pa-022__de-fet__420.21.wav` · p=— · small/base/greedy=no/no/no · text: `i que no s'ha de fer.`
+- **pa-022 · diguem** · `clips/pa-022__diguem__447.57.wav` · p=— · small/base/greedy=no/no/no · text: `i guardar el mateix temps als usos certs usos i costums.`
+- **pa-022 · doncs** · `clips/pa-022__doncs__122.85.wav` · p=— · small/base/greedy=no/no/no · text: `i el que ha passat és que el que ha passat és que el que ha passat`
+- **pa-022 · llavors** · `clips/pa-022__llavors__57.37.wav` · p=— · small/base/greedy=no/no/no · text: `I una cosa amb un gran record que tinc de l'Ebonzi,  encara duré ara...`
+- **pa-023 · diguem** · `clips/pa-023__diguem__55.05.wav` · p=— · small/base/greedy=no/no/no · text: `i el que em va dir a la policia era que els vegués.`
+- **pa-024 · a veure** · `clips/pa-024__a-veure__590.77.wav` · p=— · small/base/greedy=no/no/no · text: `i que no hi hagi una altra.`
+- **pa-024 · bueno** · `clips/pa-024__bueno__147.29.wav` · p=— · small/base/greedy=no/no/no · text: `i que no hi hagi una altra manera de fer-ho.`
+- **pa-024 · bé** · `clips/pa-024__b__175.29.wav` · p=— · small/base/greedy=no/no/no · text: `i per partits, diguéssim, de l'antirrègic,`
+- **pa-024 · doncs** · `clips/pa-024__doncs__83.01.wav` · p=— · small/base/greedy=no/no/no · text: `que el que ha passat és que la gent que ha fet el que ha fet  el que ha passat és que la gent que ha fet el que ha passat  ha de fer el que ha passat.  La representativitat del Consell General  considerava que calia establir la separació de poder.  Considerava, des del punt de vista socioeconòmic,  que calia ser capaços de programar el creixement.  que es va promoure l'informe Bricalh.`
+- **pa-024 · llavors** · `clips/pa-024__llavors__336.85.wav` · p=— · small/base/greedy=no/no/no · text: `i que no hi hagi una altra.`
+- **pa-024 · o sigui** · `clips/pa-024__o-sigui__554.49.wav` · p=— · small/base/greedy=no/no/no · text: `i que no es pot fer el nostre.  I tots coincidin  amb la necessitat de fer un saldes del procés de reforma  cap al procés constituent.`
+- **pa-024 · és a dir** · `clips/pa-024__s-a-dir__78.49.wav` · p=— · small/base/greedy=no/no/no · text: `que democratisà més el país, que li haig d'expandir...`
+- **pa-025 · bueno** · `clips/pa-025__bueno__909.25.wav` · p=— · small/base/greedy=no/no/no · text: `El que ens molesta és que el que ens fa més malament`
+- **pa-025 · bé** · `clips/pa-025__b__1023.77.wav` · p=— · small/base/greedy=no/no/no · text: `Tenia directe el que s'estava fent i com ho estàvem fent, perquè era molt clau.`
+- **pa-025 · vull dir** · `clips/pa-025__vull-dir__643.73.wav` · p=— · small/base/greedy=no/no/no · text: `i que no hi hagi una altra.`
+- **pa-025 · és a dir** · `clips/pa-025__s-a-dir__64.61.wav` · p=— · small/base/greedy=no/no/no · text: `que no teníem veritat plenum.`
+- **pa-026 · doncs** · `clips/pa-026__doncs__6.33.wav` · p=— · small/base/greedy=no/no/no · text: `i no el comú, amb quatre anys.`
+- **pa-026 · evidentment** · `clips/pa-026__evidentment__1648.81.wav` · p=— · small/base/greedy=no/no/no · text: `i que no es pot fer.`
+- **pa-026 · llavors** · `clips/pa-026__llavors__81.13.wav` · p=— · small/base/greedy=no/no/no · text: `i els vots...`
+- **pa-026 · és a dir** · `clips/pa-026__s-a-dir__64.09.wav` · p=— · small/base/greedy=no/no/no · text: `Sí, és el que... a veure.`
+- **pa-027 · doncs** · `clips/pa-027__doncs__18.01.wav` · p=— · small/base/greedy=no/no/no · text: `i inicialment el cíndic parlava amb els consellers.`
+- **pa-027 · llavors** · `clips/pa-027__llavors__137.93.wav` · p=— · small/base/greedy=no/no/no · text: `i que no hi hagi unes reunions.`
+- **pa-027 · o sigui** · `clips/pa-027__o-sigui__361.61.wav` · p=— · small/base/greedy=no/no/no · text: `i el que hem de fer,  que és que el que hem de fer és que el que hem de fer`
+- **pa-027 · vull dir** · `clips/pa-027__vull-dir__254.25.wav` · p=— · small/base/greedy=no/no/no · text: `però jo crec que el mèrit d'aquella comissió és que tots van...`
+- **pa-028 · bueno** · `clips/pa-028__bueno__28.37.wav` · p=— · small/base/greedy=no/no/no · text: `I el que em va dir és que no em va dir que no hi havia una persona.`
+- **pa-028 · diguem** · `clips/pa-028__diguem__168.89.wav` · p=— · small/base/greedy=no/no/no · text: `i a més, a més forta, a més de lloc.`
+- **pa-029 · a veure** · `clips/pa-029__a-veure__17.49.wav` · p=— · small/base/greedy=no/no/no · text: `i que la majoria de les persones que tenen el dret a la vida`
+- **pa-029 · bueno** · `clips/pa-029__bueno__720.69.wav` · p=— · small/base/greedy=no/no/no · text: `i a més menor, però aquestes dors són d'una manera important.`
+- **pa-029 · bé** · `clips/pa-029__b__42.97.wav` · p=— · small/base/greedy=no/no/no · text: `i això plenava molt sense que es digui.`
+- **pa-029 · doncs** · `clips/pa-029__doncs__127.61.wav` · p=— · small/base/greedy=no/no/no · text: `i que la resta de la gent que ha de ser institucional,`
+- **pa-029 · llavors** · `clips/pa-029__llavors__42.97.wav` · p=— · small/base/greedy=no/no/no · text: `i això plenava molt sense que es digui.`
+- **pa-029 · perquè** · `clips/pa-029__perqu__249.69.wav` · p=— · small/base/greedy=no/no/no · text: `i no hi ha cap problema.`
+- **pa-029 · és a dir** · `clips/pa-029__s-a-dir__20.17.wav` · p=— · small/base/greedy=no/no/no · text: `i que va marcar tot el procés constituent,`
+- **pa-031 · bueno** · `clips/pa-031__bueno__111.73.wav` · p=— · small/base/greedy=no/no/no · text: `i pensàvem que jo pensava i els consellers, els companys de la...`
+- **pa-031 · bé** · `clips/pa-031__b__329.13.wav` · p=— · small/base/greedy=no/no/no · text: `A la llarga, sí, no la veia, mala sort, però...`
+- **pa-031 · vull dir** · `clips/pa-031__vull-dir__207.77.wav` · p=— · small/base/greedy=no/no/no · text: `i que no hi hagi això.`
+- **pa-032 · llavors** · `clips/pa-032__llavors__174.13.wav` · p=— · small/base/greedy=no/no/no · text: `i el que ha de fer és que el que ha de fer és que el que ha de fer és que el que ha de fer és que el que ha de fer és que el que ha de fer és que el que ha de fer és que el que ha de fer és que el que ha de fer és que el que ha de fer és que el que ha de fer és que el que ha de fer és que el que ha de fer és que el que ha de fer és que el que ha de fer és que el que ha de fer és que el que ha de fer és que el que ha de fer és que el que ha de fer és que el que ha de fer és que el que ha de fer és que el que ha de fer és que el que ha de fer és que el que ha de fer és que el que ha de fer és que el que ha de fer és que el que ha de fer és que el que ha de fer és que el que ha de fer és que el que ha de fer és que el que ha de fer és que el`
+- **pa-033 · a nivell** · `clips/pa-033__a-nivell__6.61.wav` · p=— · small/base/greedy=no/no/no · text: `i els temps de tribuna que portàvem aquesta idea al cap i al nivell nacional,  nosaltres consideràvem.`
+- **pa-034 · bueno** · `clips/pa-034__bueno__33.81.wav` · p=— · small/base/greedy=no/no/no · text: `i va dir "bé, continuava", i pujava les escales,`
+- **pa-034 · clar** · `clips/pa-034__clar__55.05.wav` · p=— · small/base/greedy=no/no/no · text: `i que no hi hagi una altra.`
+- **pa-034 · llavors** · `clips/pa-034__llavors__29.17.wav` · p=— · small/base/greedy=no/no/no · text: `Ja es va pujar, va haver a veure el posclava, que hi havia molta gent.`
+- **pa-034 · o sigui** · `clips/pa-034__o-sigui__1106.09.wav` · p=— · small/base/greedy=no/no/no · text: `"Consell, perquè si no acabarem molt tard..."  "Mmm..."`
+- **pa-035 · a veure** · `clips/pa-035__a-veure__211.09.wav` · p=— · small/base/greedy=no/no/no · text: `però anirà bé 6 mesos de grups polítics comuns`
+- **pa-035 · bueno** · `clips/pa-035__bueno__195.49.wav` · p=— · small/base/greedy=no/no/no · text: `I, ara, ja he vingut a participar, doncs, una mica.`
+- **pa-035 · clar** · `clips/pa-035__clar__223.61.wav` · p=— · small/base/greedy=no/no/no · text: `No podia sortir res de important de banda de les 6 constitucions.`
+- **pa-035 · evidentment** · `clips/pa-035__evidentment__472.93.wav` · p=— · small/base/greedy=no/no/no · text: `i que no hi havia cap problema.  I el que va passar és que no hi havia cap problema.  I el que va passar és que no hi havia cap problema.`
+- **pa-036 · bueno** · `clips/pa-036__bueno__76.25.wav` · p=— · small/base/greedy=no/no/no · text: `però, com que sentiu, és parlar d'aquesta gent  que està ben directament implicant-se  la vida política de primera línia, tant d'Espanya.`
+- **pa-036 · llavors** · `clips/pa-036__llavors__535.25.wav` · p=— · small/base/greedy=no/no/no · text: `i que no hi hagi una altra.`
+- **pa-038 · a veure** · `clips/pa-038__a-veure__1070.33.wav` · p=— · small/base/greedy=no/no/no · text: `"Encant, quants sou que voleu a Blanco Negre, vam dir quatre?"`
+- **pa-039 · clar** · `clips/pa-039__clar__45.29.wav` · p=— · small/base/greedy=no/no/no · text: `i que hi hagi una altra gent que no hi hagi algunes persones.`
+- **pa-039 · diguem** · `clips/pa-039__diguem__144.37.wav` · p=— · small/base/greedy=no/no/no · text: `i d'altres amb certa representativitat de país, digueu-ho així, no?`
+- **pa-039 · doncs** · `clips/pa-039__doncs__12.77.wav` · p=— · small/base/greedy=no/no/no · text: `i la història dels vegès i dels copríncepts feudals,`
+- **pa-039 · és a dir** · `clips/pa-039__s-a-dir__209.05.wav` · p=— · small/base/greedy=no/no/no · text: `i una reunió de la comissió de l'Economia.`
+- **pa-040 · doncs** · `clips/pa-040__doncs__210.05.wav` · p=— · small/base/greedy=no/no/no · text: `A la aprovació, l'atenció previst que hi va haver,  es van tenir que fer molts passígios per a la llibertat.`
+- **pa-040 · o sigui** · `clips/pa-040__o-sigui__115.73.wav` · p=— · small/base/greedy=no/no/no · text: `Demanar el vot, demanar ben convençut amb molts arguments.`
+- **pa-041 · és a dir** · `clips/pa-041__s-a-dir__259.25.wav` · p=— · small/base/greedy=no/no/no · text: `Saps?  El plantejament lingüístic potser va ser també un element...`
+- **pa-042 · clar** · `clips/pa-042__clar__101.97.wav` · p=— · small/base/greedy=no/no/no · text: `i que no es faci el mateix que faig abans.`
+- **pa-045 · vull dir** · `clips/pa-045__vull-dir__779.57.wav` · p=— · small/base/greedy=no/no/no · text: `i que no hi hagi una altra manera de fer-ho.  I això és un problema que no hi hagi.`
+- **pa-046 · bueno** · `clips/pa-046__bueno__128.01.wav` · p=— · small/base/greedy=no/no/no · text: `i que no es pot fer res.`
+- **pa-046 · clar** · `clips/pa-046__clar__172.53.wav` · p=— · small/base/greedy=no/no/no · text: `i que no es poden fer res.`
+- **pa-046 · crec** · `clips/pa-046__crec__208.41.wav` · p=— · small/base/greedy=no/no/no · text: `i que no s'ha de fer.`
+- **pa-046 · evidentment** · `clips/pa-046__evidentment__705.69.wav` · p=— · small/base/greedy=no/no/no · text: `i que no es podria fer.`
+- **pa-046 · perquè** · `clips/pa-046__perqu__140.85.wav` · p=— · small/base/greedy=no/no/no · text: `que és un valor afegit del país i de tothom.`
+- **pa-048 · aleshores** · `clips/pa-048__aleshores__701.05.wav` · p=— · small/base/greedy=no/no/no · text: `de la física, les hores, els temes de la paraula donada.`
+- **pa-048 · clar** · `clips/pa-048__clar__389.65.wav` · p=— · small/base/greedy=no/no/no · text: `i que no hi hagi una altra.`
+- **pa-049 · a nivell** · `clips/pa-049__a-nivell__1396.25.wav` · p=— · small/base/greedy=no/no/no · text: `i que no hi hagi una altra.`
+- **pa-049 · aviam** · `clips/pa-049__aviam__897.25.wav` · p=— · small/base/greedy=no/no/no · text: `i no ho ha de fer.`
+- **pa-049 · doncs** · `clips/pa-049__doncs__1092.25.wav` · p=— · small/base/greedy=no/no/no · text: `que els haurien de fer.`
+- **pa-049 · és a dir** · `clips/pa-049__s-a-dir__907.25.wav` · p=— · small/base/greedy=no/no/no · text: `que no és una cosa que no és una cosa que no és una cosa que no és una`
+- **pa-051 · de fet** · `clips/pa-051__de-fet__200.81.wav` · p=— · small/base/greedy=no/no/no · text: `i que no hi hagi una altra.`
+- **pa-051 · llavors** · `clips/pa-051__llavors__47.61.wav` · p=— · small/base/greedy=no/no/no · text: `i que no hi hagi cap problema.`
+- **pa-052 · llavors** · `clips/pa-052__llavors__68.73.wav` · p=— · small/base/greedy=no/no/no · text: `i el estiu de vosaltres que hi hagi patormes.`
+- **pa-053 · bé** · `clips/pa-053__b__90.81.wav` · p=— · small/base/greedy=no/no/no · text: `i el meu germà el fevi amb una corda i jo els pujava.`
+- **pa-055 · doncs** · `clips/pa-055__doncs__6.29.wav` · p=— · small/base/greedy=no/no/no · text: `i no el comú, amb quatre anys.`
+- **pa-055 · llavors** · `clips/pa-055__llavors__105.37.wav` · p=— · small/base/greedy=no/no/no · text: `És el mateix.  Doncs la Casa dels Endurans.`
+- **pa-055 · és a dir** · `clips/pa-055__s-a-dir__63.89.wav` · p=— · small/base/greedy=no/no/no · text: `Sí, sí, a veure.`
+- **pa-056 · o sigui** · `clips/pa-056__o-sigui__1016.49.wav` · p=— · small/base/greedy=no/no/no · text: `A més, a més, a més, a més, a més, a més, a més, a més,`
+- **pa-056 · és a dir** · `clips/pa-056__s-a-dir__7.45.wav` · p=— · small/base/greedy=no/no/no · text: `que ha de ser el que ha de fer.`
+- **pa-057 · a veure** · `clips/pa-057__a-veure__16.97.wav` · p=— · small/base/greedy=no/no/no · text: `i que la gent no ha de ser a l'estat espanyol.`
+- **pa-057 · bueno** · `clips/pa-057__bueno__1128.89.wav` · p=— · small/base/greedy=no/no/no · text: `i que la gent que no té cap problema,  que no té cap problema,  que no té cap problema,`
+- **pa-057 · clar** · `clips/pa-057__clar__357.57.wav` · p=— · small/base/greedy=no/no/no · text: `que el moment hi va haver un compromís de 100% territorial.`
+- **pa-057 · de fet** · `clips/pa-057__de-fet__561.25.wav` · p=— · small/base/greedy=no/no/no · text: `i van buscar una solució que no sí, la votació del conseller General.`
+- **pa-057 · doncs** · `clips/pa-057__doncs__127.21.wav` · p=— · small/base/greedy=no/no/no · text: `i que la gent no ha de ser a l'estat espanyol.`
+- **pa-057 · és a dir** · `clips/pa-057__s-a-dir__19.89.wav` · p=— · small/base/greedy=no/no/no · text: `que va marcar tot el procés constituent.`
+- **pa-058 · bueno** · `clips/pa-058__bueno__23.17.wav` · p=— · small/base/greedy=no/no/no · text: `i, a bompes, busquem allà a fer sis propostes, es posen...`
+- **pa-058 · bé** · `clips/pa-058__b__210.61.wav` · p=— · small/base/greedy=no/no/no · text: `dins de l'UCPA, quan es va formar.`
+- **pa-058 · clar** · `clips/pa-058__clar__112.81.wav` · p=— · small/base/greedy=no/no/no · text: `i que no es poden fer res.`
+- **pa-058 · llavors** · `clips/pa-058__llavors__1054.41.wav` · p=— · small/base/greedy=no/no/no · text: `i, com més desapercebut passa, millor quan va per la lluita.`
+- **pa-059 · bé** · `clips/pa-059__b__112.41.wav` · p=— · small/base/greedy=no/no/no · text: `D'acord?  A partir d'aquí va començar a veure la paraula d'emissió,  d'emissió, d'emissió,  i tot va anar...`
+- **pa-059 · doncs** · `clips/pa-059__doncs__245.81.wav` · p=— · small/base/greedy=no/no/no · text: `que es deriva amb un compromís.`
+- **pa-059 · llavors** · `clips/pa-059__llavors__361.49.wav` · p=— · small/base/greedy=no/no/no · text: `i a Montès, algunes parròquies bloquejant completament el comú.`
+- **pa-060 · aleshores** · `clips/pa-060__aleshores__147.17.wav` · p=— · small/base/greedy=no/no/no · text: `Per continuar, a d'abons.`
+- **pa-060 · bueno** · `clips/pa-060__bueno__150.05.wav` · p=— · small/base/greedy=no/no/no · text: `i no va, i no va, i no va, i no va, i no va, i no va, i no va,  i no va, i no va, i no va, i no va, i no va, i no va,`
+- **pa-060 · diguem** · `clips/pa-060__diguem__55.05.wav` · p=— · small/base/greedy=no/no/no · text: `i el que em va dir a la policia era que els vegués.`
+- **pa-061 · clar** · `clips/pa-061__clar__376.69.wav` · p=— · small/base/greedy=no/no/no · text: `i que no hi hagi una altra.`
+- **pa-061 · doncs** · `clips/pa-061__doncs__242.09.wav` · p=— · small/base/greedy=no/no/no · text: `És una mica tornar a les relles de la creació del grup.`
+- **pa-061 · perquè** · `clips/pa-061__perqu__117.17.wav` · p=— · small/base/greedy=no/no/no · text: `i que la gent no ha de ser a la presó.`
+- **pa-062 · doncs** · `clips/pa-062__doncs__302.09.wav` · p=— · small/base/greedy=no/no/no · text: `i que no hi hagi una altra.`
+- **pa-062 · evidentment** · `clips/pa-062__evidentment__163.29.wav` · p=— · small/base/greedy=no/no/no · text: `però també cultivà.`
+- **pa-062 · vull dir** · `clips/pa-062__vull-dir__316.81.wav` · p=— · small/base/greedy=no/no/no · text: `i que no es pot fer res.`
+- **pa-063 · aleshores** · `clips/pa-063__aleshores__151.45.wav` · p=— · small/base/greedy=no/no/no · text: `i que s'havia de fer.`
+- **pa-063 · bueno** · `clips/pa-063__bueno__801.17.wav` · p=— · small/base/greedy=no/no/no · text: `i que no hi hagi una altra.`
+- **pa-064 · doncs** · `clips/pa-064__doncs__456.73.wav` · p=— · small/base/greedy=no/no/no · text: `i el pas d'uns agafables amb els jips.`
+- **pa-064 · llavors** · `clips/pa-064__llavors__713.33.wav` · p=— · small/base/greedy=no/no/no · text: `Tot el... tot el que deuen dir.`
+- **pa-065 · a veure** · `clips/pa-065__a-veure__578.25.wav` · p=— · small/base/greedy=no/no/no · text: `i el que ha de fer és que el que hagi de fer és que el que hagi de fer és que el que hagi de fer és que el que hagi de fer és que el que hagi de fer és que el que hagi de fer és que el que hagi de fer és que el que hagi de fer és que el que hagi de fer és que el que hagi de fer és que el que hagi de fer és que el que hagi de fer és que el que hagi de fer és que el que hagi de fer és que el que hagi de fer és que el que hagi de fer és que el que hagi de fer és que el que hagi de fer és que el que hagi de fer és que el que hagi de fer és que el que hagi de fer és que el que hagi de fer és que el que hagi de fer és que el que hagi de fer és que el que hagi de fer és que el que hagi de fer és que el que ha`
+- **pa-065 · de fet** · `clips/pa-065__de-fet__883.97.wav` · p=— · small/base/greedy=no/no/no · text: `i el poble no cal fer com a Jesús encarnar-se amb el poble.`
+- **pa-065 · llavors** · `clips/pa-065__llavors__612.13.wav` · p=— · small/base/greedy=no/no/no · text: `i que no es poden fer res.`
+- **pa-065 · vull dir** · `clips/pa-065__vull-dir__1401.05.wav` · p=— · small/base/greedy=no/no/no · text: `i els crítiques.`
+
+## Anotació
+
+Completar `registre-audicio.tsv` amb decisió, variant, fonètica, prosòdia i nota segons `protocol-audicio-anotacio.md`.

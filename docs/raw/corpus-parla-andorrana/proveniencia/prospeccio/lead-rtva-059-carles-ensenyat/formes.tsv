@@ -1,0 +1,45 @@
+forma	categoria	small	base	consens	model_localitzador	context_small	context_base	prob_min_segment_small	prob_mean_segment_small	prob_min_segment_base	prob_mean_segment_base	clip	inici_ms	final_ms	estat
+a nivell	discurs	0	0	no											ASR textual; atribució i audició pendents
+a veure	discurs	0	0	no											ASR textual; atribució i audició pendents
+aleshores	discurs	0	0	no											ASR textual; atribució i audició pendents
+aviam	discurs	0	0	no											ASR textual; atribució i audició pendents
+bueno	discurs	0	0	no											ASR textual; atribució i audició pendents
+bé	discurs	2	2	sí	small	Ara bé, el temps ens permet contemplar les coses amb una altra perspectiva,	Ara bé, el temps ens permet contemplar les coses	0.5970	0.9169	0.8530	0.9346	lead-rtva-059-carles-ensenyat__06__b.wav	310200	313200	ASR textual; atribució i audició pendents
+clar	discurs	0	0	no											ASR textual; atribució i audició pendents
+de fet	discurs	0	0	no											ASR textual; atribució i audició pendents
+diguem	discurs	0	0	no											ASR textual; atribució i audició pendents
+doncs	discurs	1	1	sí	small	És normal, doncs, que aquesta qüestió hagi estat present	És normal, doncs, que aquesta qüestió hagi estat present	0.4511	0.8955	0.5351	0.8928	lead-rtva-059-carles-ensenyat__10__doncs.wav	576320	578720	ASR textual; atribució i audició pendents
+evidentment	discurs	1	1	sí	small	N'hi ha moltes altres, evidentment,	N'hi ha moltes altres, evidentment,	0.4637	0.9221	0.4810	0.8827	lead-rtva-059-carles-ensenyat__11__evidentment.wav	378800	380800	ASR textual; atribució i audició pendents
+llavors	discurs	0	0	no											ASR textual; atribució i audició pendents
+no?	discurs	0	0	no											ASR textual; atribució i audició pendents
+o sigui	discurs	0	0	no											ASR textual; atribució i audició pendents
+per tant	discurs	0	0	no											ASR textual; atribució i audició pendents
+perquè	discurs	11	11	sí	small	perquè la idea inicial dels arquitectes Anna i Ricardo Fill	perquè l'idea inicial dels arquitectes Anna i Ricard Bafill prevella una intervenció molt més extensa i més monumental.	0.3587	0.8754	0.1667	0.7468	lead-rtva-059-carles-ensenyat__16__perqu.wav	74600	78200	ASR textual; atribució i audició pendents
+vull dir	discurs	0	0	no											ASR textual; atribució i audició pendents
+és a dir	discurs	0	0	no											ASR textual; atribució i audició pendents
+Canillo	territorial	0	0	no											ASR textual; atribució i audició pendents
+Escaldes	territorial	1	1	sí	small	amb la creació de la paròquia d'escaldes en Gordany.	d'escaldes en Gordany.	0.3137	0.7978	0.1226	0.6312	lead-rtva-059-carles-ensenyat__20__escaldes.wav	226280	229280	ASR textual; atribució i audició pendents
+Massana	territorial	0	0	no											ASR textual; atribució i audició pendents
+Ordino	territorial	0	0	no											ASR textual; atribució i audició pendents
+Sant Julià	territorial	0	0	no											ASR textual; atribució i audició pendents
+aiguats	territorial	0	0	no											ASR textual; atribució i audició pendents
+andorrana	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunal	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunals	territorial	0	0	no											ASR textual; atribució i audició pendents
+comuns	territorial	1	1	sí	small	el consell General, el Govern i els comuns.	el consell general, el govern i els comuns.	0.5229	0.8127	0.6083	0.8920	lead-rtva-059-carles-ensenyat__28__comuns.wav	499600	502840	ASR textual; atribució i audició pendents
+comú	territorial	0	0	no											ASR textual; atribució i audició pendents
+copríncep	territorial	0	0	no											ASR textual; atribució i audició pendents
+coprínceps	territorial	0	0	no											ASR textual; atribució i audició pendents
+padrí	territorial	0	0	no											ASR textual; atribució i audició pendents
+parròquia	territorial	0	1	no	base		amb la creació de la parròquia,			0.1318	0.8091	lead-rtva-059-carles-ensenyat__33__parr-quia.wav	226480	227880	ASR textual; atribució i audició pendents
+santuari	territorial	12	12	sí	small	El 8 de setembre de 1972, un incèndip a destruir el santuari de Meritxell	El 8 de setembre, 1972, un incendi va destruir el santuari de Miricell	0.2624	0.8416	0.2390	0.7092	lead-rtva-059-carles-ensenyat__34__santuari.wav	29200	34200	ASR textual; atribució i audició pendents
+veguer	territorial	0	0	no											ASR textual; atribució i audició pendents
+síndic general	institucions	0	0	no											ASR textual; atribució i audició pendents
+Sindicatura	institucions	1	0	no	small	La sindicatura és plenament conscient		0.7918	0.9509			lead-rtva-059-carles-ensenyat__37__sindicatura.wav	589520	591320	ASR textual; atribució i audició pendents
+Consell General	institucions	3	2	sí	small	el consell General, el Govern i els comuns.	el consell general, el govern i els comuns.	0.5229	0.8127	0.6083	0.8920	lead-rtva-059-carles-ensenyat__38__consell-general.wav	499600	502840	ASR textual; atribució i audició pendents
+Meritxell	memòria	6	2	sí	small	El 8 de setembre de 1972, un incèndip a destruir el santuari de Meritxell	es van fer seu el nou Santuari de Meritxell,	0.2624	0.8416	0.2512	0.7768	lead-rtva-059-carles-ensenyat__39__meritxell.wav	29200	34200	ASR textual; atribució i audició pendents
+habitatge	societat	4	3	sí	small	La necessitat de trobar solucions a la manca d'habitatge	La qüestió de l'habitatge era urgén i important al 2023	0.7604	0.9577	0.2806	0.8373	lead-rtva-059-carles-ensenyat__40__habitatge.wav	362160	365360	ASR textual; atribució i audició pendents
+avortament	societat	0	0	no											ASR textual; atribució i audició pendents
+Europa	institucions	0	0	no											ASR textual; atribució i audició pendents
+coprincipat	institucions	1	0	no	small	unita l'objectiu igualment important de preservar el coprincipat parlamentari		0.3991	0.8493			lead-rtva-059-carles-ensenyat__43__coprincipat.wav	507520	511480	ASR textual; atribució i audició pendents
+andorrà	gentilici	0	0	no											ASR textual; atribució i audició pendents

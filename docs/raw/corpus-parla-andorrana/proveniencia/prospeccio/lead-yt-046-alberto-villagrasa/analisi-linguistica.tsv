@@ -1,0 +1,3 @@
+expedient	model	tokens	tipus_lexics	type_token_ratio	repeticio_3gram	marcadors_discursius	formes_territorials	formes_contacte	pronoms_clitics	perifrasi_past_aparent	primera_persona	negacio	nota	estat
+lead-yt-046-alberto-villagrasa	small	3015	769	0.2551	0.0885	bé=3;bueno=10;clar=16;doncs=4;llavors=1;és a dir=6;o sigui=1;a veure=3;evidentment=1;no?=6	comú=3	castellà=1;espanyol=1	291	16	25	60	recompte ASR; validar contra àudio	inventari ASR; pendent d'audició
+lead-yt-046-alberto-villagrasa	base	2976	807	0.2712	0.0599	bé=4;bueno=9;clar=10;doncs=5;és a dir=4;o sigui=1;a veure=2;aviam=1;evidentment=1;no?=10	comú=2	castellà=1;espanyol=1	291	17	22	67	recompte ASR; validar contra àudio	inventari ASR; pendent d'audició

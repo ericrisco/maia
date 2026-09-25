@@ -1,0 +1,5 @@
+forma	segment	inici_forma_s	final_forma_s	clip	inici_clip_s	final_clip_s	small	base	prioritat	centre_rel_s	f0_hz	f1_hz	f2_hz	f3_hz	estat_mesura
+per tant	26	91.480	96.240	clips/xavier-espot__per-tant__91.48.wav	90.480	97.240	1	1	A-consens-ASR	3.380		318.58	2264.87	3292.42	mesura instrumental; pendent d’audició
+perquè	10	37.880	41.040	clips/xavier-espot__perqu__37.88.wav	36.880	42.040	1	1	A-consens-ASR	2.580		539.10	1500.48	2589.16	mesura instrumental; pendent d’audició
+comú	29	103.480	107.480	clips/xavier-espot__com__103.48.wav	102.480	108.480	1	1	A-consens-ASR	3.000	110.66	374.66	1622.30	2542.40	mesura instrumental; pendent d’audició
+andorrana	17	58.760	61.760	clips/xavier-espot__andorrana__58.76.wav	57.760	62.760	1	0	B-un-model-ASR	2.500		480.47	1495.01	2429.17	mesura instrumental; pendent d’audició

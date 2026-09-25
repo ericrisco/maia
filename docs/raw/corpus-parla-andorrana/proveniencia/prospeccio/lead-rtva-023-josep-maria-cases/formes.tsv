@@ -1,0 +1,85 @@
+forma	categoria	small	base	consens	model_localitzador	context_small	context_base	prob_min_segment_small	prob_mean_segment_small	prob_min_segment_base	prob_mean_segment_base	clip	inici_ms	final_ms	estat
+a nivell	discurs	4	1	sí	small	i que et faran malament, inclús a nivell familiar,	a nivell econòmic.	0.4306	0.8714	0.6417	0.8703	lead-rtva-023__01__a-nivell.wav	136000	138320	ASR textual; atribució i audició pendents
+a veure	discurs	8	33	sí	small	A veure, tot el que hi hagi un gust,	A veure, tot el que ja hi hagi un gust ja algunes marques	0.3575	0.8748	0.0526	0.7046	lead-rtva-023__02__a-veure.wav	535120	537240	ASR textual; atribució i audició pendents
+aleshores	discurs	0	0	no											ASR textual; atribució i audició pendents
+aviam	discurs	2	0	no	small	Aviam, aquí, amb aquests diners, sempre he hagut una mica de coses, però...		0.4906	0.8494			lead-rtva-023__04__aviam.wav	1190520	1194240	ASR textual; atribució i audició pendents
+bueno	discurs	20	16	sí	small	Bueno...Què li diuen els seus clients?	Bueno, què li diuen els seus clients?	0.4455	0.8154	0.5441	0.8335	lead-rtva-023__05__bueno.wav	450080	452560	ASR textual; atribució i audició pendents
+bé	discurs	40	31	sí	small	Què deia, Tandorra? Bé.	Bé, mai ho ha fet sol,	0.3852	0.7046	0.3114	0.8242	lead-rtva-023__06__b.wav	98680	100680	ASR textual; atribució i audició pendents
+clar	discurs	13	11	sí	small	Clar, es pot dir per tant que vostè va començar la seva aventura tabaquera	Clar, es pot ir per tant que vostè va començar la seva aventura	0.2771	0.8304	0.1739	0.7823	lead-rtva-023__07__clar.wav	661200	667640	ASR textual; atribució i audició pendents
+de fet	discurs	2	0	no	small	que, de fet, també ens ho ha facilitat a vostè,		0.3449	0.8201			lead-rtva-023__08__de-fet.wav	1267000	1270000	ASR textual; atribució i audició pendents
+diguem	discurs	5	5	sí	small	Però una vegada el devia convidar, diguem, en petit comitè, no?	que és el..., diguem-ne,	0.1232	0.8266	0.0393	0.7061	lead-rtva-023__09__diguem.wav	871400	875320	ASR textual; atribució i audició pendents
+doncs	discurs	9	2	sí	small	segur doncs que li ha anat moments molt bons.	Doncs Déu dirà, diu Déu, dirà al final, no el principi, això...	0.4357	0.7743	0.0442	0.6098	lead-rtva-023__10__doncs.wav	355040	359800	ASR textual; atribució i audició pendents
+evidentment	discurs	0	0	no											ASR textual; atribució i audició pendents
+llavors	discurs	6	2	sí	small	Llavors, si ha durat 500 anys, jo crec que encara té futur.	La plaça del diamant, la colometa, i llavors, si el viem un,	0.3691	0.8821	0.1498	0.5784	lead-rtva-023__12__llavors.wav	387440	392320	ASR textual; atribució i audició pendents
+no?	discurs	45	38	sí	small	¿Vostè ha estat una mica aventurer o no?	Bostè ha estat una mica aventure o no?	0.1686	0.9026	0.3427	0.8452	lead-rtva-023__13__no.wav	58480	61080	ASR textual; atribució i audició pendents
+o sigui	discurs	8	3	sí	small	O sigui que...	O sigui, és algo relativament complicat.	0.5586	0.7299	0.0613	0.7751	lead-rtva-023__14__o-sigui.wav	207320	208800	ASR textual; atribució i audició pendents
+per tant	discurs	12	9	sí	small	Per tant, deixem els detalls, a banda.	Per tant, deixem els detall i sabant-te.	0.1273	0.8277	0.2556	0.6829	lead-rtva-023__15__per-tant.wav	143920	145960	ASR textual; atribució i audició pendents
+perquè	discurs	39	29	sí	small	perquè sempre hi ha coses que et costen molts diners	perquè sempre hi ha coses que et costen molt diners	0.9246	0.9732	0.4792	0.8675	lead-rtva-023__16__perqu.wav	131480	134200	ASR textual; atribució i audició pendents
+vull dir	discurs	3	1	sí	small	Sí, no tenim una bona relació, però vull dir...	Vull dir que es va diluir la pel·lícula aquesta,	0.5314	0.8460	0.1571	0.7947	lead-rtva-023__17__vull-dir.wav	1484800	1488080	ASR textual; atribució i audició pendents
+és a dir	discurs	0	0	no											ASR textual; atribució i audició pendents
+Canillo	territorial	0	0	no											ASR textual; atribució i audició pendents
+Escaldes	territorial	0	0	no											ASR textual; atribució i audició pendents
+Massana	territorial	0	0	no											ASR textual; atribució i audició pendents
+Ordino	territorial	1	1	sí	small	i van pujar de vacances a Andorra, concretament a Ordino.	i vam pujar a de vacances a d'orra concretament ordino.	0.1794	0.8012	0.2722	0.7277	lead-rtva-023__22__ordino.wav	188920	193760	ASR textual; atribució i audició pendents
+Sant Julià	territorial	0	0	no											ASR textual; atribució i audició pendents
+aiguats	territorial	0	0	no											ASR textual; atribució i audició pendents
+andorrana	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunal	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunals	territorial	0	0	no											ASR textual; atribució i audició pendents
+comuns	territorial	0	0	no											ASR textual; atribució i audició pendents
+comú	territorial	1	1	sí	small	Tots dos estan abocats completament a ser membres del mercat comú	Tots dos estan abocats, completament a cemembras del mercat comú	0.2269	0.8569	0.2986	0.7292	lead-rtva-023__29__com.wav	1862120	1866680	ASR textual; atribució i audició pendents
+copríncep	territorial	0	0	no											ASR textual; atribució i audició pendents
+coprínceps	territorial	0	0	no											ASR textual; atribució i audició pendents
+padrí	territorial	0	0	no											ASR textual; atribució i audició pendents
+parròquia	territorial	0	0	no											ASR textual; atribució i audició pendents
+santuari	territorial	0	0	no											ASR textual; atribució i audició pendents
+veguer	territorial	0	0	no											ASR textual; atribució i audició pendents
+empresari	economia	12	11	sí	small	Avui farem memòria d'un país amb un empresari de la indústria del debat,	Avui farem memòria d'un país amb un empresari de la indústria del tabac,	0.2903	0.8868	0.1839	0.8265	lead-rtva-023__36__empresari.wav	15120	19760	ASR textual; atribució i audició pendents
+empresa	economia	20	20	sí	small	l'empresa familiar Endurran Alefa i l'Automòbil Club d'Antònia.	I a la passant, més social, ha presidit l'empresa familiar	0.3028	0.7566	0.0867	0.7896	lead-rtva-023__37__empresa.wav	38080	42640	ASR textual; atribució i audició pendents
+empresarial	economia	5	2	sí	small	durant tota la vida i tota la vida empresarial.	durant tota la vida i tota la vida empresarial.	0.8261	0.9705	0.7751	0.9489	lead-rtva-023__38__empresarial.wav	94520	96520	ASR textual; atribució i audició pendents
+economia	economia	1	1	sí	small	però no era d'economia,	Pots d'economia, de...	0.0206	0.5114	0.4183	0.7282	lead-rtva-023__39__economia.wav	881960	883920	ASR textual; atribució i audició pendents
+comerç	economia	0	0	no											ASR textual; atribució i audició pendents
+negoci	economia	5	5	sí	small	i que ha estat en mi el negoci i crec que he tingut molta sort.	i que ha estat amb mi al negoci.	0.1409	0.7426	0.1518	0.6396	lead-rtva-023__41__negoci.wav	258200	264800	ASR textual; atribució i audició pendents
+inversió	economia	0	0	no											ASR textual; atribució i audició pendents
+família	societat	5	4	sí	small	Que funcioni la família i que funcioni l'empresa.	que funcione la família i que funcione l'empresa.	0.4424	0.8970	0.4191	0.8833	lead-rtva-023__43__fam-lia.wav	1582240	1585680	ASR textual; atribució i audició pendents
+successió	societat	0	0	no											ASR textual; atribució i audició pendents
+president	institucions	10	18	sí	small	Que era el fesa d'alerta president,	I que ja era el fissar a l'allerta president,	0.1084	0.5169	0.1949	0.4638	lead-rtva-023__45__president.wav	1045760	1048480	ASR textual; atribució i audició pendents
+Govern	institucions	9	8	sí	small	"i em va dir ""sí, però ara tindréu aquest govern,"	El seu govern.	0.3023	0.8115	0.2029	0.6275	lead-rtva-023__46__govern.wav	917760	921000	ASR textual; atribució i audició pendents
+Andorra	toponim	18	1	sí	small	i van pujar de vacances a Andorra, concretament a Ordino.	Crec, andorra.	0.1794	0.8012	0.0218	0.5382	lead-rtva-023__47__andorra.wav	188920	193760	ASR textual; atribució i audició pendents
+cultura	cultura	0	0	no											ASR textual; atribució i audició pendents
+joventut	societat	0	0	no											ASR textual; atribució i audició pendents
+esports	esport	0	0	no											ASR textual; atribució i audició pendents
+patrimoni	cultura	1	1	sí	small	Amb la finalitat de conservar un patrimoni per la família,	O amb la finalitat de conservar un patrimoni per la família,	0.5550	0.8736	0.3597	0.7869	lead-rtva-023__51__patrimoni.wav	3212200	3216920	ASR textual; atribució i audició pendents
+museu	cultura	0	0	no											ASR textual; atribució i audició pendents
+biblioteca	cultura	0	0	no											ASR textual; atribució i audició pendents
+arxiu	cultura	0	0	no											ASR textual; atribució i audició pendents
+federació	esport	1	1	sí	small	que era el president de la Federació Internacional de la Fia?	que era el president de la Federació Internacional de la Fia?	0.6350	0.8921	0.3686	0.8031	lead-rtva-023__55__federaci.wav	2516920	2521640	ASR textual; atribució i audició pendents
+ministres	institucions	0	0	no											ASR textual; atribució i audició pendents
+conseller	institucions	0	0	no											ASR textual; atribució i audició pendents
+consell	institucions	2	1	sí	small	"que serà govern, tindréu aquest consell, que serà així, que serà així""."	Oh, i també estic al consell d'una empresa de aromas i sabors,	0.1927	0.8313	0.0115	0.6998	lead-rtva-023__58__consell.wav	921080	924960	ASR textual; atribució i audició pendents
+futbol	esport	0	0	no											ASR textual; atribució i audició pendents
+bàsquet	esport	0	0	no											ASR textual; atribució i audició pendents
+pavelló	esport	0	0	no											ASR textual; atribució i audició pendents
+pavelló Toni Martí	esport	0	0	no											ASR textual; atribució i audició pendents
+Comitè Olímpic	esport	0	0	no											ASR textual; atribució i audició pendents
+Comú d’Andorra la Vella	institucions	0	0	no											ASR textual; atribució i audició pendents
+Andorra la Vella	toponim	0	0	no											ASR textual; atribució i audició pendents
+La Massana	toponim	0	0	no											ASR textual; atribució i audició pendents
+Santa Coloma	toponim	0	0	no											ASR textual; atribució i audició pendents
+andorrà	gentilici	0	0	no											ASR textual; atribució i audició pendents
+andorrans	gentilici	0	0	no											ASR textual; atribució i audició pendents
+projecte	institucions	0	0	no											ASR textual; atribució i audició pendents
+concessió	institucions	0	0	no											ASR textual; atribució i audició pendents
+estadi	esport	0	0	no											ASR textual; atribució i audició pendents
+esdeveniment	cultura	0	0	no											ASR textual; atribució i audició pendents
+premis	cultura	1	1	sí	small	Molts grans premis, no sé quants, però vam seguir molts.	molts grans premis, els aquests, però vam ser molts.	0.2225	0.7695	0.2510	0.7010	lead-rtva-023__74__premis.wav	2613920	2617200	ASR textual; atribució i audició pendents
+Toni Martí	memòria	1	1	sí	small	el malaguanyat Toni Martí, amic seu, també.	el malagonyat Toni Martí, amic seu, també.	0.3318	0.8092	0.3305	0.7451	lead-rtva-023__75__toni-mart.wav	2510120	2514240	ASR textual; atribució i audició pendents
+jocs	esport	0	0	no											ASR textual; atribució i audició pendents
+festa	cultura	0	1	no	base		El festa ja va a vostès, castra.			0.0898	0.5201	lead-rtva-023__77__festa.wav	1292800	1297880	ASR textual; atribució i audició pendents
+equip	esport	3	3	sí	small	Però sempre... en un equip sempre hi ha algú que empenyeu.	però sempre en un equip sempre hi ha algú que em pen.	0.2887	0.7953	0.2021	0.8145	lead-rtva-023__78__equip.wav	102840	105320	ASR textual; atribució i audició pendents
+català	sociolingüística	1	0	no	small	m'agrada el caràcter català, trobo l'Espanya, té moltes virtuts...		0.2783	0.8763			lead-rtva-023__79__catal.wav	2732000	2736320	ASR textual; atribució i audició pendents
+francès	contacte	0	0	no											ASR textual; atribució i audició pendents
+castellà	contacte	0	0	no											ASR textual; atribució i audició pendents
+hipermotion	esport	0	0	no											ASR textual; atribució i audició pendents
+lliga	esport	0	0	no											ASR textual; atribució i audició pendents
+comissió legislativa	institucions	0	0	no											ASR textual; atribució i audició pendents

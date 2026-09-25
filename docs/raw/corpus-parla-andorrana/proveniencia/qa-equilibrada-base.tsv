@@ -1,0 +1,129 @@
+id_persona	forma	clip	prob_small	text_small	text_base	forma_en_base	json_base	txt_base	estat
+pa-001	evidentment	clips/pa-001__evidentment__1067.69.wav	0.8911	evidentment	en Espanya Mècubuca, evidentment, però no...	sí	qa-equilibrada-base/pa-001__evidentment__1067_69.json	qa-equilibrada-base/pa-001__evidentment__1067_69.txt	pendent-audicio
+pa-002	reformeta	clips/pa-002__reformeta__12.25.wav	0.3873	reformeta	Però no que s'hagués fet que s'havia de reformar-te.	no	qa-equilibrada-base/pa-002__reformeta__12_25.json	qa-equilibrada-base/pa-002__reformeta__12_25.txt	pendent-audicio
+pa-002	evidentment	clips/pa-002__evidentment__205.25.wav	0.9889	evidentment	Però evidentment no hi havia d'altra forma.	sí	qa-equilibrada-base/pa-002__evidentment__205_25.json	qa-equilibrada-base/pa-002__evidentment__205_25.txt	pendent-audicio
+pa-003	ensenyança	clips/pa-003__ensenyan-a__279.69.wav	0.6760	ensenyança	que s'integre amb una primera enseñanza de sistemes educatius estrangers.	no	qa-equilibrada-base/pa-003__ensenyan-a__279_69.json	qa-equilibrada-base/pa-003__ensenyan-a__279_69.txt	pendent-audicio
+pa-003	tirar endavant	clips/pa-003__tirar-endavant__361.93.wav	0.9453	tirar endavant	"per crear i tirar endavant un sistema educatiu propi.
+ És a dir..."	sí	qa-equilibrada-base/pa-003__tirar-endavant__361_93.json	qa-equilibrada-base/pa-003__tirar-endavant__361_93.txt	pendent-audicio
+pa-004	evidentment	clips/pa-004__evidentment__522.93.wav	0.9676	evidentment	"i doncs prohibiré aigua suficient, evidentment,
+ i el que li va dir."	sí	qa-equilibrada-base/pa-004__evidentment__522_93.json	qa-equilibrada-base/pa-004__evidentment__522_93.txt	pendent-audicio
+pa-005	o sigui	clips/pa-005__o-sigui__373.33.wav	0.8872	O sigui	n'ha de dir un format xar i dues fogaixes de pas, així que hi ha poques bromes.	no	qa-equilibrada-base/pa-005__o-sigui__373_33.json	qa-equilibrada-base/pa-005__o-sigui__373_33.txt	pendent-audicio
+pa-006	de fet	clips/pa-006__de-fet__285.25.wav	0.8407	de fet	de plat és que de fet només ja que una sola peça amui men i una sola peça	sí	qa-equilibrada-base/pa-006__de-fet__285_25.json	qa-equilibrada-base/pa-006__de-fet__285_25.txt	pendent-audicio
+pa-006	aleshores	clips/pa-006__aleshores__513.25.wav	0.5916	Aleshores	Aleshores era molt fàcil a agafar i aprofitar la força de l'aigua a la ixant per l'entrada.	sí	qa-equilibrada-base/pa-006__aleshores__513_25.json	qa-equilibrada-base/pa-006__aleshores__513_25.txt	pendent-audicio
+pa-007	a veure	clips/pa-007__a-veure__89.25.wav	0.9934	a veure	"que he tingut a veure amb la història del nostre país
+ i que vaig publicar a un dels meus llibres que tinc per aquí."	sí	qa-equilibrada-base/pa-007__a-veure__89_25.json	qa-equilibrada-base/pa-007__a-veure__89_25.txt	pendent-audicio
+pa-007	diguem	clips/pa-007__diguem__585.25.wav	0.7294	diguem	"per la funtera, diguem que es va generar un debat força en ces a les corses penones.
+ I aquí..."	sí	qa-equilibrada-base/pa-007__diguem__585_25.json	qa-equilibrada-base/pa-007__diguem__585_25.txt	pendent-audicio
+pa-008	a veure	clips/pa-008__a-veure__668.25.wav	0.9915	a veure	tot això no té res a veure amb el que 3 anys abans	sí	qa-equilibrada-base/pa-008__a-veure__668_25.json	qa-equilibrada-base/pa-008__a-veure__668_25.txt	pendent-audicio
+pa-008	aleshores	clips/pa-008__aleshores__1315.25.wav	0.6411	Aleshores	que feien camp. Aleshores va propiciar aquest retrobament, es va constituir	sí	qa-equilibrada-base/pa-008__aleshores__1315_25.json	qa-equilibrada-base/pa-008__aleshores__1315_25.txt	pendent-audicio
+pa-009	bé	clips/pa-009__b__557.25.wav	0.9969	bé	de corades i són campanes que sonen molt bé.	sí	qa-equilibrada-base/pa-009__b__557_25.json	qa-equilibrada-base/pa-009__b__557_25.txt	pendent-audicio
+pa-009	evidentment	clips/pa-009__evidentment__947.25.wav	0.9520	evidentment	Lora de penia, evidentment, si era l'estiu o era l'hivern, tancaven el dia.	sí	qa-equilibrada-base/pa-009__evidentment__947_25.json	qa-equilibrada-base/pa-009__evidentment__947_25.txt	pendent-audicio
+pa-010	clar	clips/pa-010__clar__334.85.wav	0.9866	clar	que ho són tan. Us arcojaré un parell d'exemplos i ho veureu més clar.	sí	qa-equilibrada-base/pa-010__clar__334_85.json	qa-equilibrada-base/pa-010__clar__334_85.txt	pendent-audicio
+pa-011	bé	clips/pa-011__b__185.57.wav	0.9983	bé	de la casa es va molt bé.	sí	qa-equilibrada-base/pa-011__b__185_57.json	qa-equilibrada-base/pa-011__b__185_57.txt	pendent-audicio
+pa-012	perquè	clips/pa-012__perqu__369.25.wav	0.6158	perquè	per que la gent és recording d'aquesta setmana.	no	qa-equilibrada-base/pa-012__perqu__369_25.json	qa-equilibrada-base/pa-012__perqu__369_25.txt	pendent-audicio
+pa-013	bé	clips/pa-013__b__196.65.wav	0.9863	bé	que em sofre i que la ve per la pell, pel sistema digestiu, i també té altres propietats.	no	qa-equilibrada-base/pa-013__b__196_65.json	qa-equilibrada-base/pa-013__b__196_65.txt	pendent-audicio
+pa-013	és a dir	clips/pa-013__s-a-dir__579.17.wav	0.6284	És a dir	és de dir, l'arquitectura de granites dona en un moment de reconversió gradual del nostre país que passa de ser	no	qa-equilibrada-base/pa-013__s-a-dir__579_17.json	qa-equilibrada-base/pa-013__s-a-dir__579_17.txt	pendent-audicio
+pa-014	o sigui	clips/pa-014__o-sigui__658.45.wav	0.6862	o sigui	"És a dir, els homes amb baratina, o sigui, amb pantolons de barit, nergres, faixa i baratina vermella,
+ que missa blanca, mitjons blancs, i vigatants."	sí	qa-equilibrada-base/pa-014__o-sigui__658_45.json	qa-equilibrada-base/pa-014__o-sigui__658_45.txt	pendent-audicio
+pa-014	aviam	clips/pa-014__aviam__875.45.wav	0.1944	aviam	"d'una cosa, i van dir, escolteu, ho havíem.
+ Imaginau-se que les malades apareix.
+ Què passa amb el contrapass?
+ Estàs deixant el de ballar?"	no	qa-equilibrada-base/pa-014__aviam__875_45.json	qa-equilibrada-base/pa-014__aviam__875_45.txt	pendent-audicio
+pa-015	doncs	clips/pa-015__doncs__83.25.wav	0.8466	doncs	que és important, doncs és important per una senzilla rau.	sí	qa-equilibrada-base/pa-015__doncs__83_25.json	qa-equilibrada-base/pa-015__doncs__83_25.txt	pendent-audicio
+pa-015	llavors	clips/pa-015__llavors__197.25.wav	0.8028	llavors	d'edat i abans a part de tindre a la G3	no	qa-equilibrada-base/pa-015__llavors__197_25.json	qa-equilibrada-base/pa-015__llavors__197_25.txt	pendent-audicio
+pa-016	bé	clips/pa-016__b__170.05.wav	0.9990	bé	"És una disolució, mentre ens encarà amb molta responsabilitat de diòstres,
+ és que bon de febre, amb de..."	no	qa-equilibrada-base/pa-016__b__170_05.json	qa-equilibrada-base/pa-016__b__170_05.txt	pendent-audicio
+pa-016	clar	clips/pa-016__clar__175.69.wav	0.9439	clar	"I hem de tenir un objectiu molt clar i hem d'assolir.
+ Al fet de que..."	sí	qa-equilibrada-base/pa-016__clar__175_69.json	qa-equilibrada-base/pa-016__clar__175_69.txt	pendent-audicio
+pa-017	clar	clips/pa-017__clar__34.45.wav	0.9757	clar	Nosaltres teníem clar que havíem de fer el pas,	sí	qa-equilibrada-base/pa-017__clar__34_45.json	qa-equilibrada-base/pa-017__clar__34_45.txt	pendent-audicio
+pa-017	doncs	clips/pa-017__doncs__459.25.wav	0.9049	doncs	I perfecte, doncs a partir d'aquí, sempre ja que duté desenvolupar-te, és	sí	qa-equilibrada-base/pa-017__doncs__459_25.json	qa-equilibrada-base/pa-017__doncs__459_25.txt	pendent-audicio
+pa-018	crec	clips/pa-018__crec__7.49.wav	0.9969	crec	I després, jo crec que el problema que hi ha dels 78 és de què...	sí	qa-equilibrada-base/pa-018__crec__7_49.json	qa-equilibrada-base/pa-018__crec__7_49.txt	pendent-audicio
+pa-018	perquè	clips/pa-018__perqu__91.09.wav	0.9663	perquè	i resoria perquè no podíem acabar mai de decidir que una mica.	sí	qa-equilibrada-base/pa-018__perqu__91_09.json	qa-equilibrada-base/pa-018__perqu__91_09.txt	pendent-audicio
+pa-019	a nivell	clips/pa-019__a-nivell__122.25.wav	0.9056	a nivell	amb la Constitució, som, quan se vol té vegades que entres a nivell de comissions.	sí	qa-equilibrada-base/pa-019__a-nivell__122_25.json	qa-equilibrada-base/pa-019__a-nivell__122_25.txt	pendent-audicio
+pa-019	llavors	clips/pa-019__llavors__422.25.wav	0.9040	llavors	perquè ens donava eines per fer més coses als que podíem fer fins allà.	no	qa-equilibrada-base/pa-019__llavors__422_25.json	qa-equilibrada-base/pa-019__llavors__422_25.txt	pendent-audicio
+pa-020	aviam	clips/pa-020__aviam__252.21.wav	0.1339	aviam	I jo m'han resultat que clar, jo sóc, aviam, puc ser va futbol.	sí	qa-equilibrada-base/pa-020__aviam__252_21.json	qa-equilibrada-base/pa-020__aviam__252_21.txt	pendent-audicio
+pa-021	crec	clips/pa-021__crec__115.53.wav	0.9550	crec	"Jo crec que el fet de què m'alconseguin anterior
+ va ser el que va passar."	sí	qa-equilibrada-base/pa-021__crec__115_53.json	qa-equilibrada-base/pa-021__crec__115_53.txt	pendent-audicio
+pa-021	vull dir	clips/pa-021__vull-dir__314.29.wav	0.7440	vull dir	I nosaltres, malgrat que no vull dir de que no vulguessim de cap manera, no?	sí	qa-equilibrada-base/pa-021__vull-dir__314_29.json	qa-equilibrada-base/pa-021__vull-dir__314_29.txt	pendent-audicio
+pa-022	clar	clips/pa-022__clar__107.73.wav	0.9951	clar	"L'objectiu tenia molt clar que t'he jugat molt.
+ Perquè si no se'n volia."	sí	qa-equilibrada-base/pa-022__clar__107_73.json	qa-equilibrada-base/pa-022__clar__107_73.txt	pendent-audicio
+pa-022	reformeta	clips/pa-022__reformeta__125.53.wav	0.6595	reformeta	de la reformeta, de no sé què, que no s'ha acabat.	sí	qa-equilibrada-base/pa-022__reformeta__125_53.json	qa-equilibrada-base/pa-022__reformeta__125_53.txt	pendent-audicio
+pa-023	a nivell	clips/pa-023__a-nivell__418.57.wav	0.8081	a nivell	i després també aniré de agricultura.	no	qa-equilibrada-base/pa-023__a-nivell__418_57.json	qa-equilibrada-base/pa-023__a-nivell__418_57.txt	pendent-audicio
+pa-024	crec	clips/pa-024__crec__368.01.wav	0.9944	crec	Jo crec que los carribes, però no...	sí	qa-equilibrada-base/pa-024__crec__368_01.json	qa-equilibrada-base/pa-024__crec__368_01.txt	pendent-audicio
+pa-025	aleshores	clips/pa-025__aleshores__361.93.wav	0.7026	aleshores	I a les hores ens es tornen més primirats.	no	qa-equilibrada-base/pa-025__aleshores__361_93.json	qa-equilibrada-base/pa-025__aleshores__361_93.txt	pendent-audicio
+pa-025	diguem	clips/pa-025__diguem__500.89.wav	0.6352	diguem	i de competències que hem francesen, diguem, regalien, és la vida.	sí	qa-equilibrada-base/pa-025__diguem__500_89.json	qa-equilibrada-base/pa-025__diguem__500_89.txt	pendent-audicio
+pa-026	reformeta	clips/pa-026__reformeta__138.61.wav	0.9543	reformeta	ho vam aconseguir. La diferència és que la reformeta tractàvem missatge.	sí	qa-equilibrada-base/pa-026__reformeta__138_61.json	qa-equilibrada-base/pa-026__reformeta__138_61.txt	pendent-audicio
+pa-027	és a dir	clips/pa-027__s-a-dir__185.61.wav	0.6623	és a dir	de grup, és a dir, jo amb els que havíem portat a l'acció a fer amb reunió de grup.	sí	qa-equilibrada-base/pa-027__s-a-dir__185_61.json	qa-equilibrada-base/pa-027__s-a-dir__185_61.txt	pendent-audicio
+pa-028	doncs	clips/pa-028__doncs__329.33.wav	0.8421	Doncs	Doncs conyes que, realment, en valora que t'acosti tu, si ho trobava...	sí	qa-equilibrada-base/pa-028__doncs__329_33.json	qa-equilibrada-base/pa-028__doncs__329_33.txt	pendent-audicio
+pa-029	tirar endavant	clips/pa-029__tirar-endavant__56.73.wav	0.8813	tirar endavant	i que veiem també d'autodisoldre per a l'incapacitat de poder tirar endavant.	sí	qa-equilibrada-base/pa-029__tirar-endavant__56_73.json	qa-equilibrada-base/pa-029__tirar-endavant__56_73.txt	pendent-audicio
+pa-029	a nivell	clips/pa-029__a-nivell__417.09.wav	0.9070	a nivell	"i xarquatres, o que els altres volien als quadren i veig nacional,
+ i l'aconseguiria."	no	qa-equilibrada-base/pa-029__a-nivell__417_09.json	qa-equilibrada-base/pa-029__a-nivell__417_09.txt	pendent-audicio
+pa-030	tirar endavant	clips/pa-030__tirar-endavant__185.61.wav	0.8976	tirar endavant	"Aquestem d'acord, vam tirar endavant.
+ Es va fer la conseqüència constituent."	sí	qa-equilibrada-base/pa-030__tirar-endavant__185_61.json	qa-equilibrada-base/pa-030__tirar-endavant__185_61.txt	pendent-audicio
+pa-030	vull dir	clips/pa-030__vull-dir__842.69.wav	0.9049	vull dir	Bé, vull dir també perquè cal recordar-ho.	sí	qa-equilibrada-base/pa-030__vull-dir__842_69.json	qa-equilibrada-base/pa-030__vull-dir__842_69.txt	pendent-audicio
+pa-031	de fet	clips/pa-031__de-fet__9.93.wav	0.8205	de fet	i de fet, no em va portar d'ingú, jo em vaig portar.	sí	qa-equilibrada-base/pa-031__de-fet__9_93.json	qa-equilibrada-base/pa-031__de-fet__9_93.txt	pendent-audicio
+pa-031	tirar endavant	clips/pa-031__tirar-endavant__146.09.wav	0.8395	tirar endavant	de la manera que fos i que s'havia de dir en davant de la manera que fos.	no	qa-equilibrada-base/pa-031__tirar-endavant__146_09.json	qa-equilibrada-base/pa-031__tirar-endavant__146_09.txt	pendent-audicio
+pa-032	bueno	clips/pa-032__bueno__44.73.wav	0.8330	bueno	I bueno, l'últim bapsig que quatre que ens ho vam apuntar i van dir que era que fàcil.	sí	qa-equilibrada-base/pa-032__bueno__44_73.json	qa-equilibrada-base/pa-032__bueno__44_73.txt	pendent-audicio
+pa-032	aleshores	clips/pa-032__aleshores__79.09.wav	0.2226	aleshores	li he llistat, i aleshores els dos oponents es van posar de cort al moment, al moment.	sí	qa-equilibrada-base/pa-032__aleshores__79_09.json	qa-equilibrada-base/pa-032__aleshores__79_09.txt	pendent-audicio
+pa-033	diguem	clips/pa-033__diguem__49.01.wav	0.7151	diguem	Doncs normalment es revie amb interès.	no	qa-equilibrada-base/pa-033__diguem__49_01.json	qa-equilibrada-base/pa-033__diguem__49_01.txt	pendent-audicio
+pa-033	de fet	clips/pa-033__de-fet__249.69.wav	0.9628	de fet	Ucabzi de tot de fet, eh?	sí	qa-equilibrada-base/pa-033__de-fet__249_69.json	qa-equilibrada-base/pa-033__de-fet__249_69.txt	pendent-audicio
+pa-034	a veure	clips/pa-034__a-veure__94.05.wav	0.9578	a veure	"que la vaig fer a la vació.
+ Podíem venir a veure, perquè clar, ja s'havia de començar a preparar,
+ avui dels candidats."	sí	qa-equilibrada-base/pa-034__a-veure__94_05.json	qa-equilibrada-base/pa-034__a-veure__94_05.txt	pendent-audicio
+pa-034	diguem	clips/pa-034__diguem__504.45.wav	0.7193	diguem	de la corentena, diguem, no?	sí	qa-equilibrada-base/pa-034__diguem__504_45.json	qa-equilibrada-base/pa-034__diguem__504_45.txt	pendent-audicio
+pa-035	doncs	clips/pa-035__doncs__195.49.wav	0.9025	doncs	i jo vaig participar d'un amic, una mica.	no	qa-equilibrada-base/pa-035__doncs__195_49.json	qa-equilibrada-base/pa-035__doncs__195_49.txt	pendent-audicio
+pa-036	evidentment	clips/pa-036__evidentment__202.85.wav	0.9393	evidentment	va costar fer aquest pas important, després evidentment entre la legislatura crítica o la més forte.	sí	qa-equilibrada-base/pa-036__evidentment__202_85.json	qa-equilibrada-base/pa-036__evidentment__202_85.txt	pendent-audicio
+pa-036	a nivell	clips/pa-036__a-nivell__386.45.wav	0.8938	a nivell	"Tots i que les reglacions entrenganm i altres perroquies
+ no eren bones a nivell electoral, no s'havia perdut."	sí	qa-equilibrada-base/pa-036__a-nivell__386_45.json	qa-equilibrada-base/pa-036__a-nivell__386_45.txt	pendent-audicio
+pa-037	bueno	clips/pa-037__bueno__105.29.wav	0.6636	bueno	d'acompanyar-se, d'acompanyar-se.	no	qa-equilibrada-base/pa-037__bueno__105_29.json	qa-equilibrada-base/pa-037__bueno__105_29.txt	pendent-audicio
+pa-037	bé	clips/pa-037__b__105.29.wav	0.9723	bé	d'acompanyar-se, d'acompanyar-se.	no	qa-equilibrada-base/pa-037__b__105_29.json	qa-equilibrada-base/pa-037__b__105_29.txt	pendent-audicio
+pa-038	vull dir	clips/pa-038__vull-dir__1576.57.wav	0.9837	vull dir	Ja et dic els agents exteriors, sigui ja no vull dir quins, però...	sí	qa-equilibrada-base/pa-038__vull-dir__1576_57.json	qa-equilibrada-base/pa-038__vull-dir__1576_57.txt	pendent-audicio
+pa-038	reformeta	clips/pa-038__reformeta__1821.69.wav	0.9688	reformeta	que ho vulguis, s'agressen a contentar-te amb una reformeta.	sí	qa-equilibrada-base/pa-038__reformeta__1821_69.json	qa-equilibrada-base/pa-038__reformeta__1821_69.txt	pendent-audicio
+pa-039	bé	clips/pa-039__b__27.77.wav	0.9914	bé	fins a la prostitució no hi estava.	no	qa-equilibrada-base/pa-039__b__27_77.json	qa-equilibrada-base/pa-039__b__27_77.txt	pendent-audicio
+pa-040	de fet	clips/pa-040__de-fet__70.17.wav	0.9576	de fet	que ho trobava, i de fet el meu pare el portarés sempre sobre què hi pensem per el portar.	sí	qa-equilibrada-base/pa-040__de-fet__70_17.json	qa-equilibrada-base/pa-040__de-fet__70_17.txt	pendent-audicio
+pa-041	vull dir	clips/pa-041__vull-dir__264.25.wav	0.9947	vull dir	"No vull dir potser de discursió,
+ però potser no s'aclava d'entendre bé."	sí	qa-equilibrada-base/pa-041__vull-dir__264_25.json	qa-equilibrada-base/pa-041__vull-dir__264_25.txt	pendent-audicio
+pa-041	ensenyança	clips/pa-041__ensenyan-a__523.25.wav	0.7954	ensenyança	I aquest material pedagogic que tingués continuïtat també de cara a tota la primera ensenyança.	sí	qa-equilibrada-base/pa-041__ensenyan-a__523_25.json	qa-equilibrada-base/pa-041__ensenyan-a__523_25.txt	pendent-audicio
+pa-042	perquè	clips/pa-042__perqu__29.13.wav	0.7110	perquè	A més que res, perquè tenia els nens petits, crec que...	sí	qa-equilibrada-base/pa-042__perqu__29_13.json	qa-equilibrada-base/pa-042__perqu__29_13.txt	pendent-audicio
+pa-043	crec	clips/pa-043__crec__102.25.wav	0.9942	crec	"que està a dir.
+ Per mi l'escola Endor Rana és que es veu una identitat, no, jo crec.
+ És a dir, tots els albertats."	sí	qa-equilibrada-base/pa-043__crec__102_25.json	qa-equilibrada-base/pa-043__crec__102_25.txt	pendent-audicio
+pa-045	evidentment	clips/pa-045__evidentment__290.13.wav	0.9812	evidentment	"que tenen senyar-ho, evidentment, amb una sèrie de condicions molt clares,
+ perquè hi ha nombre de persones."	sí	qa-equilibrada-base/pa-045__evidentment__290_13.json	qa-equilibrada-base/pa-045__evidentment__290_13.txt	pendent-audicio
+pa-045	clar	clips/pa-045__clar__399.85.wav	0.9997	clar	No ho he fet, no ho he fet, no ho he fet, no ho he fet, no ho he fet.	no	qa-equilibrada-base/pa-045__clar__399_85.json	qa-equilibrada-base/pa-045__clar__399_85.txt	pendent-audicio
+pa-046	és a dir	clips/pa-046__s-a-dir__135.61.wav	0.8034	és a dir	Som filers, doncs es veiem el dia a dia i hem espanyol.	no	qa-equilibrada-base/pa-046__s-a-dir__135_61.json	qa-equilibrada-base/pa-046__s-a-dir__135_61.txt	pendent-audicio
+pa-046	diguem	clips/pa-046__diguem__626.01.wav	0.6911	diguem	de les patates o les trumfes que diguem a canellos.	sí	qa-equilibrada-base/pa-046__diguem__626_01.json	qa-equilibrada-base/pa-046__diguem__626_01.txt	pendent-audicio
+pa-048	crec	clips/pa-048__crec__110.97.wav	0.9866	crec	Si hi ha cel, jo no crec ni el meu infern, ni el purgatori, ni el cel.	sí	qa-equilibrada-base/pa-048__crec__110_97.json	qa-equilibrada-base/pa-048__crec__110_97.txt	pendent-audicio
+pa-048	a nivell	clips/pa-048__a-nivell__435.77.wav	0.8845	a nivell	No, perquè normalment quan t'imbitan a nivell oficial t'imbitan a tal...	sí	qa-equilibrada-base/pa-048__a-nivell__435_77.json	qa-equilibrada-base/pa-048__a-nivell__435_77.txt	pendent-audicio
+pa-049	llavors	clips/pa-049__llavors__230.45.wav	0.9191	llavors	"I aquí en Dorra va vindre llabons el delegat de prensa de la casa blanca.
+ No sé si va ser arreu de la càrrecament de aquesta càrrec."	no	qa-equilibrada-base/pa-049__llavors__230_45.json	qa-equilibrada-base/pa-049__llavors__230_45.txt	pendent-audicio
+pa-049	a veure	clips/pa-049__a-veure__244.85.wav	0.9962	a veure	"I ja no ens ho pot dir.
+ Ja no ens ho pot dir.
+ Però va anar a tablar a visitar-te amb el meu pare,
+ amb el meu pare, els van a veure després o aixec."	sí	qa-equilibrada-base/pa-049__a-veure__244_85.json	qa-equilibrada-base/pa-049__a-veure__244_85.txt	pendent-audicio
+pa-051	crec	clips/pa-051__crec__208.57.wav	0.9924	crec	No crec que arribi amb totes les húuelles de canilla, seny.	sí	qa-equilibrada-base/pa-051__crec__208_57.json	qa-equilibrada-base/pa-051__crec__208_57.txt	pendent-audicio
+pa-052	bueno	clips/pa-052__bueno__41.97.wav	0.7880	bueno	i heu erro de dins de germans.	no	qa-equilibrada-base/pa-052__bueno__41_97.json	qa-equilibrada-base/pa-052__bueno__41_97.txt	pendent-audicio
+pa-053	perquè	clips/pa-053__perqu__113.93.wav	0.6129	perquè	n'hi hagi d'aquí, n'havien guanyat una pel·la perquè volem desprotar la gent.	sí	qa-equilibrada-base/pa-053__perqu__113_93.json	qa-equilibrada-base/pa-053__perqu__113_93.txt	pendent-audicio
+pa-054	bueno	clips/pa-054__bueno__51.69.wav	0.8263	bueno	I, bueno, és el primer fàjum i l'àmbit.	sí	qa-equilibrada-base/pa-054__bueno__51_69.json	qa-equilibrada-base/pa-054__bueno__51_69.txt	pendent-audicio
+pa-055	reformeta	clips/pa-055__reformeta__139.05.wav	0.9557	reformeta	La diferència és que la reformeta tracta ben missatge.	sí	qa-equilibrada-base/pa-055__reformeta__139_05.json	qa-equilibrada-base/pa-055__reformeta__139_05.txt	pendent-audicio
+pa-056	aleshores	clips/pa-056__aleshores__393.13.wav	0.5797	aleshores	i a desarres això està tan quadrícolat.	no	qa-equilibrada-base/pa-056__aleshores__393_13.json	qa-equilibrada-base/pa-056__aleshores__393_13.txt	pendent-audicio
+pa-056	vull dir	clips/pa-056__vull-dir__842.65.wav	0.9342	vull dir	Bé, vull dir també perquè cal recordar-ho.	sí	qa-equilibrada-base/pa-056__vull-dir__842_65.json	qa-equilibrada-base/pa-056__vull-dir__842_65.txt	pendent-audicio
+pa-057	tirar endavant	clips/pa-057__tirar-endavant__56.61.wav	0.9330	tirar endavant	puguessin avançar i que vesim també d'autodisoldre per incapacitat de poder tirar endavant.	sí	qa-equilibrada-base/pa-057__tirar-endavant__56_61.json	qa-equilibrada-base/pa-057__tirar-endavant__56_61.txt	pendent-audicio
+pa-058	és a dir	clips/pa-058__s-a-dir__74.41.wav	0.9532	És a dir	que volien ser com un pare.	no	qa-equilibrada-base/pa-058__s-a-dir__74_41.json	qa-equilibrada-base/pa-058__s-a-dir__74_41.txt	pendent-audicio
+pa-058	perquè	clips/pa-058__perqu__91.09.wav	0.9674	perquè	i risòria, perquè no podíem acabar mai de decidir que una cosa...	sí	qa-equilibrada-base/pa-058__perqu__91_09.json	qa-equilibrada-base/pa-058__perqu__91_09.txt	pendent-audicio
+pa-059	clar	clips/pa-059__clar__36.61.wav	0.9810	clar	Els altres teníem clar que havíem de fer el pas.	sí	qa-equilibrada-base/pa-059__clar__36_61.json	qa-equilibrada-base/pa-059__clar__36_61.txt	pendent-audicio
+pa-060	de fet	clips/pa-060__de-fet__72.57.wav	0.8385	de fet	que van ocupar quatre anys de fet.	sí	qa-equilibrada-base/pa-060__de-fet__72_57.json	qa-equilibrada-base/pa-060__de-fet__72_57.txt	pendent-audicio
+pa-061	o sigui	clips/pa-061__o-sigui__161.05.wav	0.6361	O sigui	Si la primera activitat dels germans, despionés, peri...	no	qa-equilibrada-base/pa-061__o-sigui__161_05.json	qa-equilibrada-base/pa-061__o-sigui__161_05.txt	pendent-audicio
+pa-061	llavors	clips/pa-061__llavors__380.77.wav	0.5349	llavors	"-Exactament.
+ -Ella abans comença a tornar a agradar-s'hi."	no	qa-equilibrada-base/pa-061__llavors__380_77.json	qa-equilibrada-base/pa-061__llavors__380_77.txt	pendent-audicio
+pa-062	és a dir	clips/pa-062__s-a-dir__973.65.wav	0.7665	és a dir	"que ens donaven, és a dir que sin estaurés entre el món polític
+ i el món empresarial, un diàleg."	sí	qa-equilibrada-base/pa-062__s-a-dir__973_65.json	qa-equilibrada-base/pa-062__s-a-dir__973_65.txt	pendent-audicio
+pa-063	crec	clips/pa-063__crec__758.81.wav	0.9939	crec	"Això és el que hem d'intentar.
+ Jo crec que s'està fent naturalment."	sí	qa-equilibrada-base/pa-063__crec__758_81.json	qa-equilibrada-base/pa-063__crec__758_81.txt	pendent-audicio
+pa-063	o sigui	clips/pa-063__o-sigui__826.09.wav	0.6737	O sigui	O sigui que vam estar a la primera paix amb comets.	sí	qa-equilibrada-base/pa-063__o-sigui__826_09.json	qa-equilibrada-base/pa-063__o-sigui__826_09.txt	pendent-audicio
+pa-064	o sigui	clips/pa-064__o-sigui__36.73.wav	0.7590	o sigui	A més, les seves gràcies a les eleccions d'aquesta vegada.	no	qa-equilibrada-base/pa-064__o-sigui__36_73.json	qa-equilibrada-base/pa-064__o-sigui__36_73.txt	pendent-audicio
+pa-064	a veure	clips/pa-064__a-veure__587.61.wav	0.9952	a veure	-El set de nata veure amb els anys.	no	qa-equilibrada-base/pa-064__a-veure__587_61.json	qa-equilibrada-base/pa-064__a-veure__587_61.txt	pendent-audicio
+pa-065	bé	clips/pa-065__b__138.57.wav	0.9995	bé	M'agrada molt bé, el Serre Benopardis va marxar el paradis.	sí	qa-equilibrada-base/pa-065__b__138_57.json	qa-equilibrada-base/pa-065__b__138_57.txt	pendent-audicio
+pa-065	doncs	clips/pa-065__doncs__157.49.wav	0.7556	doncs	i quan hi ha amor, doncs deu haver-te entès els nostres coses.	sí	qa-equilibrada-base/pa-065__doncs__157_49.json	qa-equilibrada-base/pa-065__doncs__157_49.txt	pendent-audicio
+pa-066	llavors	clips/pa-066__llavors__16.21.wav	0.7958	llavors	que es poden fer a l'estudio de la ciutadania.	no	qa-equilibrada-base/pa-066__llavors__16_21.json	qa-equilibrada-base/pa-066__llavors__16_21.txt	pendent-audicio
+pa-066	bueno	clips/pa-066__bueno__357.23.wav	0.8366	bueno	periferia i, bueno, jo recordo de passat, si no.	sí	qa-equilibrada-base/pa-066__bueno__357_23.json	qa-equilibrada-base/pa-066__bueno__357_23.txt	pendent-audicio

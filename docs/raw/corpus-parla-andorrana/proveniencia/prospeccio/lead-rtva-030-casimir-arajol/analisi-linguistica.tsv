@@ -1,0 +1,3 @@
+expedient	model	tokens	tipus_lexics	type_token_ratio	repeticio_3gram	marcadors_discursius	formes_territorials	formes_contacte	pronoms_clitics	perifrasi_past_aparent	primera_persona	negacio	nota	estat
+lead-rtva-030-casimir-arajol	small	7916	1613	0.2038	0.0887	bé=21;bueno=6;clar=10;doncs=6;llavors=8;de fet=2;o sigui=3;vull dir=2;a veure=7;aviam=1;diguem=2;evidentment=1;per tant=2;a nivell=1;no?=21	andorrana=2;Constitució=1;principat=1	espanyol=3;francès=4	988	265	130	262	recompte ASR; validar contra àudio	inventari ASR; pendent d'audició
+lead-rtva-030-casimir-arajol	base	10554	1416	0.1342	0.8393	bé=13;bueno=7;clar=8;doncs=2;llavors=1;a veure=3;diguem=1;per tant=1;no?=15	comú=1;comunal=2		1536	295	151	361	recompte ASR; validar contra àudio	inventari ASR; pendent d'audició

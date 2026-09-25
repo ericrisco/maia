@@ -1,0 +1,267 @@
+segment	inici_s	final_s	speaker_hipotesi	confiança_regla	evidencia_regla	text_asr	estat
+1	0.000	2.320	entrevistador-probable	0.78	interrogació o fórmula de pregunta	-Què tal, Joan? Bona tarda, com estàs? -Bona tarda.	hipòtesi; pendent d’audició
+2	2.400	4.440	entrevistador-probable	0.78	interrogació o fórmula de pregunta	Suposo que content de tornar a casa.	hipòtesi; pendent d’audició
+3	4.520	6.640	indeterminat	0.30	cap indici textual suficient	Te'l dic que deus anar molt atrafagat.	hipòtesi; pendent d’audició
+4	6.720	10.160	indeterminat	0.30	cap indici textual suficient	Molts mitjans, imagino, que per això t'agraïm especialment,	hipòtesi; pendent d’audició
+5	10.240	11.960	joan-probable	0.60	primera persona o resposta declarativa	que estiguis aquí amb nosaltres.	hipòtesi; pendent d’audició
+6	12.040	14.840	joan-probable	0.60	primera persona o resposta declarativa	Ja sé, amb vosaltres sempre és un plaer cansat.	hipòtesi; pendent d’audició
+7	14.920	19.480	joan-probable	0.60	primera persona o resposta declarativa	Ara vaig arribar fa dos dies, una mica tot revolucionar,	hipòtesi; pendent d’audició
+8	19.560	22.920	indeterminat	0.30	cap indici textual suficient	de tests físics avui, però ara ja més tranquil,	hipòtesi; pendent d’audició
+9	23.000	25.720	indeterminat	0.30	cap indici textual suficient	ara uns dies de més calma, compartíem família,	hipòtesi; pendent d’audició
+10	25.800	28.160	indeterminat	0.30	cap indici textual suficient	i ràpidament tornem a marxar al dia 1,	hipòtesi; pendent d’audició
+11	28.240	32.280	entrevistador-probable	0.78	interrogació o fórmula de pregunta	perquè la pròxima carrera és el set i no tenim massa temps per badar.	hipòtesi; pendent d’audició
+12	32.360	35.560	joan-probable	0.60	primera persona o resposta declarativa	Sabem que aquests tres mesos són megaintensos i estem preparats.	hipòtesi; pendent d’audició
+13	35.640	39.160	indeterminat	0.30	cap indici textual suficient	Ho deia a l'introducció, segurament el millor cap de setmana	hipòtesi; pendent d’audició
+14	39.240	43.840	joan-probable	0.60	primera persona o resposta declarativa	de la història de la Federació, fa quatre dies, no em faig dir,	hipòtesi; pendent d’audició
+15	43.920	47.720	indeterminat	0.30	cap indici textual suficient	5, 10 anys batallàvem i de quina manera	hipòtesi; pendent d’audició
+16	47.800	50.080	indeterminat	0.30	cap indici textual suficient	per rescar algun punt en Copa d'Europa.	hipòtesi; pendent d’audició
+17	50.160	54.360	joan-probable	0.60	primera persona o resposta declarativa	En quatre dies hem aconseguit 54 punts a la Copa del Món.	hipòtesi; pendent d’audició
+18	54.440	56.440	mixt-indeterminat	0.35	pregunta i primera persona en el mateix segment	Ens hem de passegar, eh?	hipòtesi; pendent d’audició
+19	56.520	58.280	indeterminat	0.30	cap indici textual suficient	Sí, sí, sí.	hipòtesi; pendent d’audició
+20	58.360	63.080	indeterminat	0.30	cap indici textual suficient	Ha estat un camí complicat i adverts en molts moments,	hipòtesi; pendent d’audició
+21	63.160	65.880	indeterminat	0.30	cap indici textual suficient	creuant les jocs importants,	hipòtesi; pendent d’audició
+22	65.960	70.000	indeterminat	0.30	cap indici textual suficient	però que ara surti en els fruits, doncs és genial,	hipòtesi; pendent d’audició
+23	70.080	71.960	joan-probable	0.60	primera persona o resposta declarativa	estem esquiant molt fort,	hipòtesi; pendent d’audició
+24	72.040	74.360	indeterminat	0.30	cap indici textual suficient	s'està fent un gran treball al meu voltant,	hipòtesi; pendent d’audició
+25	74.440	77.120	indeterminat	0.30	cap indici textual suficient	al voltant de la ferració, des de la base,	hipòtesi; pendent d’audició
+26	77.200	79.000	indeterminat	0.30	cap indici textual suficient	i bueno, s'està notant molt.	hipòtesi; pendent d’audició
+27	79.080	83.000	indeterminat	0.30	cap indici textual suficient	Bé, fes 44 punts en aquestes dues dutgens places	hipòtesi; pendent d’audició
+28	83.080	84.600	indeterminat	0.30	cap indici textual suficient	i els deu de la Candi.	hipòtesi; pendent d’audició
+29	84.680	87.800	entrevistador-probable	0.78	interrogació o fórmula de pregunta	El fet de no estar sol, a més, encara és un plus, no?	hipòtesi; pendent d’audició
+30	87.880	92.200	indeterminat	0.30	cap indici textual suficient	Això és brutal, o sigui, ja no només tiràvem-ho individualment,	hipòtesi; pendent d’audició
+31	92.280	94.280	indeterminat	0.30	cap indici textual suficient	sinó com a equip i com a país, és brutal.	hipòtesi; pendent d’audició
+32	94.360	96.480	joan-probable	0.60	primera persona o resposta declarativa	A veure, amb l'Aracan li tinc una relació boníssima,	hipòtesi; pendent d’audició
+33	96.560	99.240	joan-probable	0.60	primera persona o resposta declarativa	ens intentem ajudar amb tot el que podem,	hipòtesi; pendent d’audició
+34	99.320	104.080	joan-probable	0.60	primera persona o resposta declarativa	i em vaig alegrar moltíssim, i ojalà segueixi creixent tot l'equip,	hipòtesi; pendent d’audició
+35	104.160	107.240	indeterminat	0.30	cap indici textual suficient	que, a mi també en beneficia, de cara a fora,	hipòtesi; pendent d’audició
+36	107.320	109.320	indeterminat	0.30	cap indici textual suficient	de cara als altres països, de cara als entrenaments,	hipòtesi; pendent d’audició
+37	109.400	111.000	indeterminat	0.30	cap indici textual suficient	és molt millor tenir un equip fort.	hipòtesi; pendent d’audició
+38	111.080	114.600	indeterminat	0.30	cap indici textual suficient	Per tant, l'Aracan ha estat excel·lent,	hipòtesi; pendent d’audició
+39	114.680	118.280	indeterminat	0.30	cap indici textual suficient	amb l'Ujjove que és i amb la disciplina de descens, que té la.	hipòtesi; pendent d’audició
+40	118.360	120.160	joan-probable	0.60	primera persona o resposta declarativa	Anem pas a pas.	hipòtesi; pendent d’audició
+41	120.240	124.360	indeterminat	0.30	cap indici textual suficient	"Venies de ""Solden"", de ""Valdiger"", de fer un molt bon esquí."	hipòtesi; pendent d’audició
+42	124.440	128.280	indeterminat	0.30	cap indici textual suficient	"A ""Solden"" entres a la segona mànega, sortida de pista."	hipòtesi; pendent d’audició
+43	128.360	130.560	indeterminat	0.30	cap indici textual suficient	"A ""Valdiger"" també estaves fent bons parcials"	hipòtesi; pendent d’audició
+44	130.640	133.760	joan-probable	0.60	primera persona o resposta declarativa	i no vas poder completar aquesta primera mànega.	hipòtesi; pendent d’audició
+45	133.840	137.080	entrevistador-probable	0.78	interrogació o fórmula de pregunta	Suposo que això, d'alguna manera, va aixecar una pressió	hipòtesi; pendent d’audició
+46	137.160	139.160	entrevistador-probable	0.78	interrogació o fórmula de pregunta	perquè un dels grans objectius de la temporada	hipòtesi; pendent d’audició
+47	139.240	142.240	indeterminat	0.30	cap indici textual suficient	s'ha de ser aquesta clasificació per les finals de la Copa del Mundo,	hipòtesi; pendent d’audició
+48	142.320	144.320	indeterminat	0.30	cap indici textual suficient	només entre els 25 primers.	hipòtesi; pendent d’audició
+49	144.400	148.400	entrevistador-probable	0.78	interrogació o fórmula de pregunta	et situa en la porta de sortida d'aquesta primera mànega al Tava Díaz.	hipòtesi; pendent d’audició
+50	148.480	151.120	mixt-indeterminat	0.35	pregunta i primera persona en el mateix segment	Com estàveu? Perquè jo et veig veure una mica diferent	hipòtesi; pendent d’audició
+51	151.200	154.200	indeterminat	0.30	cap indici textual suficient	en aquella primera mànega respecte a les altres mànigues	hipòtesi; pendent d’audició
+52	154.280	155.440	indeterminat	0.30	cap indici textual suficient	que vas fer després.	hipòtesi; pendent d’audició
+53	155.520	157.800	indeterminat	0.30	cap indici textual suficient	Sí, ho has dit molt bé. Un amic el resum és aquest.	hipòtesi; pendent d’audició
+54	157.880	161.600	joan-probable	0.60	primera persona o resposta declarativa	Estem esquiant molt, molt forts amb entrenament,	hipòtesi; pendent d’audició
+55	161.680	164.000	entrevistador-probable	0.78	interrogació o fórmula de pregunta	compartint entrenaments amb grans esquiadors,	hipòtesi; pendent d’audició
+56	164.080	166.080	indeterminat	0.30	cap indici textual suficient	teníem referències boníssimes cada dia,	hipòtesi; pendent d’audició
+57	166.160	169.400	indeterminat	0.30	cap indici textual suficient	esquiant un nivell boníssim i en aquestes dues primeres copes del món,	hipòtesi; pendent d’audició
+58	169.480	172.800	indeterminat	0.30	cap indici textual suficient	sol de ni i valdiser, va passar això.	hipòtesi; pendent d’audició
+59	172.880	175.880	joan-probable	0.60	primera persona o resposta declarativa	Vaig sortir a Pertotes amb grans objectius personals,	hipòtesi; pendent d’audició
+60	175.960	180.040	joan-probable	0.60	primera persona o resposta declarativa	i, bueno, no vaig poder acabar malauradament les manes,	hipòtesi; pendent d’audició
+61	180.120	182.120	indeterminat	0.30	cap indici textual suficient	i això el que va fer és que a la tercera carrera	hipòtesi; pendent d’audició
+62	182.200	185.200	indeterminat	0.30	cap indici textual suficient	tenia una premsa afegida de, com has comentat molt bé,	hipòtesi; pendent d’audició
+63	185.280	188.480	joan-probable	0.60	primera persona o resposta declarativa	l'objectiu principal és poder estar a les finals de la Copa del Món	hipòtesi; pendent d’audició
+64	188.560	190.560	indeterminat	0.30	cap indici textual suficient	i s'han de sumar punts.	hipòtesi; pendent d’audició
+65	190.640	192.640	indeterminat	0.30	cap indici textual suficient	Per tant, aquesta primera mà negada dalt de dia,	hipòtesi; pendent d’audició
+66	192.720	195.200	joan-probable	0.60	primera persona o resposta declarativa	me la vaig prendre conscients del bon nivell que teníem.	hipòtesi; pendent d’audició
+67	195.280	197.280	indeterminat	0.30	cap indici textual suficient	No ho assegura, evidentment,	hipòtesi; pendent d’audició
+68	197.360	199.360	entrevistador-probable	0.78	interrogació o fórmula de pregunta	perquè estàs comparant amb els millors del món	hipòtesi; pendent d’audició
+69	199.440	202.880	indeterminat	0.30	cap indici textual suficient	i és una mica el Fredema que no entén els 30 millors.	hipòtesi; pendent d’audició
+70	202.960	207.080	indeterminat	0.30	cap indici textual suficient	Portem anys i anys intentant lluitar per entrar en aquests 30 millors,	hipòtesi; pendent d’audició
+71	207.160	211.200	indeterminat	0.30	cap indici textual suficient	i, evidentment, si et guardes una mica és impossible,	hipòtesi; pendent d’audició
+72	211.280	214.280	indeterminat	0.30	cap indici textual suficient	però sí que és que hi ha una mica més intel·ligent	hipòtesi; pendent d’audició
+73	214.360	216.600	indeterminat	0.30	cap indici textual suficient	del que estava, potser, fent anteriorment,	hipòtesi; pendent d’audició
+74	216.680	219.480	indeterminat	0.30	cap indici textual suficient	que buscava reventar tots els parcials,	hipòtesi; pendent d’audició
+75	219.560	223.000	joan-probable	0.60	primera persona o resposta declarativa	i això em va servir a tenir una bona oportunitat de cara a la segona mànega,	hipòtesi; pendent d’audició
+76	223.080	225.480	joan-probable	0.60	primera persona o resposta declarativa	que vaig sortir tercer amb la pista neta,	hipòtesi; pendent d’audició
+77	225.560	227.560	joan-probable	0.60	primera persona o resposta declarativa	i ja vaig poder exprimir el meu màxim esquí,	hipòtesi; pendent d’audició
+78	227.640	230.400	indeterminat	0.30	cap indici textual suficient	i, com sabeu, una grandíssima màniga,	hipòtesi; pendent d’audició
+79	230.480	233.800	indeterminat	0.30	cap indici textual suficient	guanyant a tothom amb clar avantatge,	hipòtesi; pendent d’audició
+80	233.880	238.200	indeterminat	0.30	cap indici textual suficient	remontant moltes posicions i demostrant tot el treball	hipòtesi; pendent d’audició
+81	238.280	240.640	indeterminat	0.30	cap indici textual suficient	i tot l'esquí que havia fet durant els mesos anteriors	hipòtesi; pendent d’audició
+82	240.720	242.920	indeterminat	0.30	cap indici textual suficient	que no havia pogut demostrar a Sol de Ney Abaldizer,	hipòtesi; pendent d’audició
+83	243.000	244.680	indeterminat	0.30	cap indici textual suficient	pues fer-ho aquí al Tava Díaz.	hipòtesi; pendent d’audició
+84	244.760	248.320	indeterminat	0.30	cap indici textual suficient	I això et va permetre també estar a una bona estona xupant càmera,	hipòtesi; pendent d’audició
+85	248.400	251.800	indeterminat	0.30	cap indici textual suficient	que, al final, és un objectiu de país, de federació,	hipòtesi; pendent d’audició
+86	251.880	253.480	indeterminat	0.30	cap indici textual suficient	i de Joan Verdul, sense dubte,	hipòtesi; pendent d’audició
+87	253.560	258.560	indeterminat	0.30	cap indici textual suficient	amb aquell seient que està exclusiu als millors classificats.	hipòtesi; pendent d’audició
+88	258.640	260.640	entrevistador-probable	0.78	interrogació o fórmula de pregunta	Quant d'estona vas estar?	hipòtesi; pendent d’audició
+89	260.720	263.320	joan-probable	0.60	primera persona o resposta declarativa	Una bona estona, a veure. Vaig remontar 16 posicions	hipòtesi; pendent d’audició
+90	263.400	267.320	indeterminat	0.30	cap indici textual suficient	i més o menys són dos minuts per corredor, doncs mitja oreta.	hipòtesi; pendent d’audició
+91	267.400	269.400	indeterminat	0.30	cap indici textual suficient	És un moment molt especial.	hipòtesi; pendent d’audició
+92	269.480	271.480	indeterminat	0.30	cap indici textual suficient	Sobretot amb la mànega que havia fet,	hipòtesi; pendent d’audició
+93	271.560	273.560	indeterminat	0.30	cap indici textual suficient	veure grans noms que anaven baixant,	hipòtesi; pendent d’audició
+94	273.640	275.640	joan-probable	0.60	primera persona o resposta declarativa	que em portaven bastant de diferència.	hipòtesi; pendent d’audició
+95	275.720	277.720	indeterminat	0.30	cap indici textual suficient	Tot i així sent anar endarrere, brutal.	hipòtesi; pendent d’audició
+96	277.800	281.440	indeterminat	0.30	cap indici textual suficient	I, a més, com deies tu, vas guanyar aquella mànega,	hipòtesi; pendent d’audició
+97	281.520	284.400	indeterminat	0.30	cap indici textual suficient	Però això potser no s'ha dit tant,	hipòtesi; pendent d’audició
+98	284.480	286.880	indeterminat	0.30	cap indici textual suficient	sí que s'ha comentat que va ser el millor resultat	hipòtesi; pendent d’audició
+99	286.960	288.960	indeterminat	0.30	cap indici textual suficient	de l'Història de l'Esquí endurant Copa del Món,	hipòtesi; pendent d’audició
+100	289.040	291.040	indeterminat	0.30	cap indici textual suficient	aquesta dutzena posició, amb la que vas a acabar.	hipòtesi; pendent d’audició
+101	291.120	296.000	indeterminat	0.30	cap indici textual suficient	Però també va ser la teva millor puntuació, fins que havies aconseguit mai.	hipòtesi; pendent d’audició
+102	296.080	299.160	joan-probable	0.60	primera persona o resposta declarativa	Sí, sí, correcte. Vaig puntuar 9 punts fins.	hipòtesi; pendent d’audició
+103	299.240	302.040	joan-probable	0.60	primera persona o resposta declarativa	Això ara ja no ens hi fixem tant,	hipòtesi; pendent d’audició
+104	302.120	305.120	entrevistador-probable	0.78	interrogació o fórmula de pregunta	perquè el tenir punts Copa del Món és el que marca el dorsal,	hipòtesi; pendent d’audició
+105	305.200	306.800	indeterminat	0.30	cap indici textual suficient	però també està bé,	hipòtesi; pendent d’audició
+106	306.880	309.200	joan-probable	0.60	primera persona o resposta declarativa	ja que en el cas que hem fèssim fora dels 30 millors,	hipòtesi; pendent d’audició
+107	309.280	312.080	joan-probable	0.60	primera persona o resposta declarativa	A partir d'aquí sí que em tornaria a regir per els puntsfis.	hipòtesi; pendent d’audició
+108	312.160	315.200	indeterminat	0.30	cap indici textual suficient	Per tant, una puntuació important era...	hipòtesi; pendent d’audició
+109	315.280	318.880	indeterminat	0.30	cap indici textual suficient	molt exigent, el traçat, molt llarg, ho vinc cada mànega...	hipòtesi; pendent d’audició
+110	318.960	323.920	indeterminat	0.30	cap indici textual suficient	I, uau, una bona guerra i una pista mítica com és altafadia,	hipòtesi; pendent d’audició
+111	324.000	327.400	joan-probable	0.60	primera persona o resposta declarativa	doncs poder fer una carrera així allà és increïble.	hipòtesi; pendent d’audició
+112	327.480	330.400	entrevistador-probable	0.78	interrogació o fórmula de pregunta	M'has resportat una mica la pregunta que també et volia fer.	hipòtesi; pendent d’audició
+113	330.480	332.680	entrevistador-probable	0.78	interrogació o fórmula de pregunta	Et serveixen d'alguna cosa, ara que ets nou,	hipòtesi; pendent d’audició
+114	332.760	334.760	indeterminat	0.30	cap indici textual suficient	amb 50 puntsfis que vas aconseguir,	hipòtesi; pendent d’audició
+115	334.840	337.160	entrevistador-probable	0.78	interrogació o fórmula de pregunta	perquè ara et regeixes per la one-top-start list,	hipòtesi; pendent d’audició
+116	337.240	341.520	indeterminat	0.30	cap indici textual suficient	I imagino que els mundial també estaràs amb aquesta llista.	hipòtesi; pendent d’audició
+117	341.600	343.600	entrevistador-probable	0.78	interrogació o fórmula de pregunta	Et serveix d'alguna cosa o no?	hipòtesi; pendent d’audició
+118	343.680	347.800	joan-probable	0.60	primera persona o resposta declarativa	Ara mateix no, només serviria en el cas de que em treguessin fora dels 30.	hipòtesi; pendent d’audició
+119	347.880	351.080	entrevistador-probable	0.78	interrogació o fórmula de pregunta	Perquè llavors, a partir d'allà, un altre cop seria ranking per punts fills.	hipòtesi; pendent d’audició
+120	351.160	354.080	entrevistador-probable	0.78	interrogació o fórmula de pregunta	I llavors, doncs, bueno, també està bé, és com un seguro, no?	hipòtesi; pendent d’audició
+121	354.160	357.880	indeterminat	0.30	cap indici textual suficient	Diguéssim, si et fan fora, no saps que no sortiràs a més 60 i pico com sortia abans,	hipòtesi; pendent d’audició
+122	357.960	359.960	indeterminat	0.30	cap indici textual suficient	sinó que tindràs el 30 a poc.	hipòtesi; pendent d’audició
+123	360.040	363.320	entrevistador-probable	0.78	interrogació o fórmula de pregunta	Ara que ja ho has dit tu, te l'anava a fer més tard aquesta pregunta,	hipòtesi; pendent d’audició
+124	363.400	365.560	indeterminat	0.30	cap indici textual suficient	però te la llenço ja.	hipòtesi; pendent d’audició
+125	365.640	370.520	indeterminat	0.30	cap indici textual suficient	Tornes a estar dintre de l'1 que va estar lista entre els 30.	hipòtesi; pendent d’audició
+126	370.600	373.320	joan-probable	0.60	primera persona o resposta declarativa	De fet, segurament sorties, em poso que el 25 no està tot el 26,	hipòtesi; pendent d’audició
+127	373.400	375.240	entrevistador-probable	0.78	interrogació o fórmula de pregunta	però es poso que el 25, no?	hipòtesi; pendent d’audició
+128	375.320	378.000	entrevistador-probable	0.78	interrogació o fórmula de pregunta	Això sí que és clau, no?	hipòtesi; pendent d’audició
+129	378.080	381.480	mixt-indeterminat	0.35	pregunta i primera persona en el mateix segment	Completament, i ens hem donat content, encara més,	hipòtesi; pendent d’audició
+130	381.560	386.000	indeterminat	0.30	cap indici textual suficient	aquests dies el dorsal és clau per...	hipòtesi; pendent d’audició
+131	387.080	389.720	indeterminat	0.30	cap indici textual suficient	al nivell on volem anar els objectius els que apuntem,	hipòtesi; pendent d’audició
+132	389.800	393.080	indeterminat	0.30	cap indici textual suficient	necessitem seguir construint, seguir construint dorsal,	hipòtesi; pendent d’audició
+133	393.160	396.000	indeterminat	0.30	cap indici textual suficient	pas a pas, és un factor bastant important,	hipòtesi; pendent d’audició
+134	396.080	398.200	indeterminat	0.30	cap indici textual suficient	les pistes estan degradant molt	hipòtesi; pendent d’audició
+135	398.280	400.640	indeterminat	0.30	cap indici textual suficient	i el fet de sortir amb un dos sal més alt	hipòtesi; pendent d’audició
+136	400.720	404.840	indeterminat	0.30	cap indici textual suficient	que us et condiciona, òbviament, a la teva carrera i, llavors...	hipòtesi; pendent d’audició
+137	405.920	409.960	joan-probable	0.60	primera persona o resposta declarativa	Sabem i som conscients i jo confio moltíssim en mi	hipòtesi; pendent d’audició
+138	410.040	413.240	joan-probable	0.60	primera persona o resposta declarativa	i sé que puc, és que hi ha un nivell altíssim,	hipòtesi; pendent d’audició
+139	413.320	415.920	joan-probable	0.60	primera persona o resposta declarativa	però també hem de ser realistes amb el procés	hipòtesi; pendent d’audició
+140	416.000	419.600	indeterminat	0.30	cap indici textual suficient	i seguir lluitant per aquest dos sal, anar pujant dos sal	hipòtesi; pendent d’audició
+141	419.680	423.360	indeterminat	0.30	cap indici textual suficient	i tenir més facilitats, no sempre anar a contracorrent,	hipòtesi; pendent d’audició
+142	423.440	426.240	joan-probable	0.60	primera persona o resposta declarativa	tenir més facilitats per el dia que tinc una bona oportunitat,	hipòtesi; pendent d’audició
+143	426.320	428.320	indeterminat	0.30	cap indici textual suficient	atacar i mossegar fort.	hipòtesi; pendent d’audició
+144	428.400	432.280	entrevistador-probable	0.78	interrogació o fórmula de pregunta	Perquè, justament, m'havia sortit d'aquest top 30,	hipòtesi; pendent d’audició
+145	432.360	435.080	indeterminat	0.30	cap indici textual suficient	i, clar, és una anyomica de construcció, suposo,	hipòtesi; pendent d’audició
+146	435.160	437.960	mixt-indeterminat	0.35	pregunta i primera persona en el mateix segment	perquè jo penso, personalment,	hipòtesi; pendent d’audició
+147	438.040	440.280	indeterminat	0.30	cap indici textual suficient	que potser ara tens un nivell per estar en un top 10,	hipòtesi; pendent d’audició
+148	440.360	443.200	joan-probable	0.60	primera persona o resposta declarativa	però, clar, s'ha d'anar construint per poder arribar allà	hipòtesi; pendent d’audició
+149	443.280	445.760	mixt-indeterminat	0.35	pregunta i primera persona en el mateix segment	i tenir la estratègia correcta per poder arribar-hi, no?	hipòtesi; pendent d’audició
+150	445.840	448.280	joan-probable	0.60	primera persona o resposta declarativa	Bueno, mira aquí, t'anava a dir entre tu i jo,	hipòtesi; pendent d’audició
+151	448.360	450.200	joan-probable	0.60	primera persona o resposta declarativa	Però no, òbviament no és la idea jo.	hipòtesi; pendent d’audició
+152	450.280	453.360	joan-probable	0.60	primera persona o resposta declarativa	Aquest any el tinc una mica condicionat, entre cometes,	hipòtesi; pendent d’audició
+153	453.440	455.760	indeterminat	0.30	cap indici textual suficient	per el gran objectiu que tenim aquí a casa.	hipòtesi; pendent d’audició
+154	455.840	457.880	entrevistador-probable	0.78	interrogació o fórmula de pregunta	Perquè, de ser sumar punts,	hipòtesi; pendent d’audició
+155	457.960	461.360	joan-probable	0.60	primera persona o resposta declarativa	vull estar entre els 25 millors, a final de temporada,	hipòtesi; pendent d’audició
+156	461.440	463.960	indeterminat	0.30	cap indici textual suficient	i això m'obliga, que cada carrera ha de ser regular,	hipòtesi; pendent d’audició
+157	464.040	468.800	indeterminat	0.30	cap indici textual suficient	a intentar sumar, i això potser, de altra manera, potser,	hipòtesi; pendent d’audició
+158	468.880	471.080	indeterminat	0.30	cap indici textual suficient	si no tingués aquest objectiu aquest any,	hipòtesi; pendent d’audició
+159	471.160	475.440	indeterminat	0.30	cap indici textual suficient	potser aniria més a per totes,	hipòtesi; pendent d’audició
+160	475.520	478.680	indeterminat	0.30	cap indici textual suficient	realment buscar i exprimir el meu màxim esquí,	hipòtesi; pendent d’audició
+161	478.760	481.440	indeterminat	0.30	cap indici textual suficient	però això va lligat de la mà amb més risc,	hipòtesi; pendent d’audició
+162	481.520	484.320	indeterminat	0.30	cap indici textual suficient	amb més sortides de pista o més caigudes.	hipòtesi; pendent d’audició
+163	484.400	486.600	joan-probable	0.60	primera persona o resposta declarativa	Llavors, com que no m'ho puc permetre ara mateix,	hipòtesi; pendent d’audició
+164	486.680	491.760	joan-probable	0.60	primera persona o resposta declarativa	doncs vull esquiar més intel·ligent, eh, guarda, això.	hipòtesi; pendent d’audició
+165	491.840	494.560	joan-probable	0.60	primera persona o resposta declarativa	Això, estem parlant aquí, tu i jo, sentats on s'ho fa,	hipòtesi; pendent d’audició
+166	494.640	497.720	indeterminat	0.30	cap indici textual suficient	però després et tires allà a la pista, amb un minut ho has de donar tot,	hipòtesi; pendent d’audició
+167	497.800	500.200	indeterminat	0.30	cap indici textual suficient	no pots treure la calculadora i fer els números,	hipòtesi; pendent d’audició
+168	500.280	502.760	indeterminat	0.30	cap indici textual suficient	però sí que ser, en certs moments, una miqueta més...	hipòtesi; pendent d’audició
+169	502.840	507.680	indeterminat	0.30	cap indici textual suficient	precabut, amb línia o el que sigui, per tenir mena aquests punts	hipòtesi; pendent d’audició
+170	507.760	509.760	indeterminat	0.30	cap indici textual suficient	i seguir construint tota la temporada.	hipòtesi; pendent d’audició
+171	509.840	513.280	indeterminat	0.30	cap indici textual suficient	Punts que són ara mateix a 44, que et situen en el lloc 19,	hipòtesi; pendent d’audició
+172	513.360	518.600	indeterminat	0.30	cap indici textual suficient	l'any passat, el XXII, tenia 40 punts.	hipòtesi; pendent d’audició
+173	518.680	521.080	entrevistador-probable	0.78	interrogació o fórmula de pregunta	A veure, això és molt relatiu, eh?	hipòtesi; pendent d’audició
+174	521.160	523.440	joan-probable	0.60	primera persona o resposta declarativa	Però al final de temporada, vull dir.	hipòtesi; pendent d’audició
+175	523.520	526.240	entrevistador-probable	0.78	interrogació o fórmula de pregunta	Et dona una mica la idea d'on pot estar el tall.	hipòtesi; pendent d’audició
+176	526.320	528.480	indeterminat	0.30	cap indici textual suficient	Igualment varia bastant de segons l'any,	hipòtesi; pendent d’audició
+177	528.560	531.920	joan-probable	0.60	primera persona o resposta declarativa	però jo el que vull fer és un esquí solit,	hipòtesi; pendent d’audició
+178	532.000	535.840	indeterminat	0.30	cap indici textual suficient	seguir consolidant-me en la Govalmón, que és el màxim objectiu,	hipòtesi; pendent d’audició
+179	535.920	538.720	indeterminat	0.30	cap indici textual suficient	i, a partir d'aquí, guanyar d'orsal	hipòtesi; pendent d’audició
+180	538.800	542.320	indeterminat	0.30	cap indici textual suficient	i les copes del món, les finals, vindran de la mà.	hipòtesi; pendent d’audició
+181	542.400	544.720	indeterminat	0.30	cap indici textual suficient	Però el que volia dir és que, d'alguna manera,	hipòtesi; pendent d’audició
+182	544.800	546.480	entrevistador-probable	0.78	interrogació o fórmula de pregunta	això et dona una tranquil·litat, no?	hipòtesi; pendent d’audició
+183	546.560	550.080	indeterminat	0.30	cap indici textual suficient	Fins i tot aquests 44 punts podria ser que t'entressin dins d'aquestes finals,	hipòtesi; pendent d’audició
+184	550.160	551.920	joan-probable	0.60	primera persona o resposta declarativa	jo estic segur que em vindran més,	hipòtesi; pendent d’audició
+185	552.000	555.200	entrevistador-probable	0.78	interrogació o fórmula de pregunta	però et dona aquesta tranquil·litat i et fa treballar millor, potser, o no?	hipòtesi; pendent d’audició
+186	555.280	556.480	indeterminat	0.30	cap indici textual suficient	Sí, sí, òbviament.	hipòtesi; pendent d’audició
+187	556.560	560.360	indeterminat	0.30	cap indici textual suficient	les dues carrers de dalt a dia, amb l'inici d'emporada una mica complicat.	hipòtesi; pendent d’audició
+188	560.440	563.800	joan-probable	0.60	primera persona o resposta declarativa	Tinc una treta un pes de sobre, no només perquè he vist	hipòtesi; pendent d’audició
+189	563.880	565.880	indeterminat	0.30	cap indici textual suficient	que sóc capaç d'estar a un gran dissing nivell,	hipòtesi; pendent d’audició
+190	565.960	568.160	indeterminat	0.30	cap indici textual suficient	sinó també perquè ja tenim una base de punts important	hipòtesi; pendent d’audició
+191	568.240	572.040	indeterminat	0.30	cap indici textual suficient	i ara, per poc que sumem, doncs la cosa hauria d'anar bé.	hipòtesi; pendent d’audició
+192	572.120	575.280	indeterminat	0.30	cap indici textual suficient	Tot i que això ja et dic mai sessat, podem passar mil coses,	hipòtesi; pendent d’audició
+193	575.360	579.840	joan-probable	0.60	primera persona o resposta declarativa	però nosaltres ens entrem a entrenar com el millor que podem,	hipòtesi; pendent d’audició
+194	579.920	583.800	indeterminat	0.30	cap indici textual suficient	el dia de carrera està al màxim concentrat per donar el nostre millor esquí,	hipòtesi; pendent d’audició
+195	583.880	585.880	indeterminat	0.30	cap indici textual suficient	i a partir d'aquí la resta vindrà sol.	hipòtesi; pendent d’audició
+196	585.960	590.080	indeterminat	0.30	cap indici textual suficient	Adelboden, si no recordo malament és on l'ha impassat avies d'anar	hipòtesi; pendent d’audició
+197	590.160	592.160	mixt-indeterminat	0.35	pregunta i primera persona en el mateix segment	i no has poder pel tema del Covid, no?	hipòtesi; pendent d’audició
+198	592.240	596.080	entrevistador-probable	0.78	interrogació o fórmula de pregunta	Comences la pista, digues-nos una mica què esperes.	hipòtesi; pendent d’audició
+199	596.160	601.120	indeterminat	0.30	cap indici textual suficient	Conec la pista, pista molt guapa i molt exigena de vegada.	hipòtesi; pendent d’audició
+200	601.200	605.080	indeterminat	0.30	cap indici textual suficient	Surto amb aquest dorsal 25, aproximadament.	hipòtesi; pendent d’audició
+201	605.160	608.000	indeterminat	0.30	cap indici textual suficient	Venim d'un bus de confiança important.	hipòtesi; pendent d’audició
+202	608.080	611.680	joan-probable	0.60	primera persona o resposta declarativa	Estem tranquils, estem confiats, estem motivadíssims.	hipòtesi; pendent d’audició
+203	611.760	614.160	joan-probable	0.60	primera persona o resposta declarativa	Personalment tinc moltes ganes d'aquesta carrera,	hipòtesi; pendent d’audició
+204	614.240	617.880	entrevistador-probable	0.78	interrogació o fórmula de pregunta	perquè he dit una mica, avui seguir en aquest esquí tan sòlid,	hipòtesi; pendent d’audició
+205	617.960	621.080	joan-probable	0.60	primera persona o resposta declarativa	no cada cara podrà ser un 12è, jo, evidentment,	hipòtesi; pendent d’audició
+206	621.160	624.400	indeterminat	0.30	cap indici textual suficient	però seguir sòlid en aquests 30,	hipòtesi; pendent d’audició
+207	624.480	628.080	indeterminat	0.30	cap indici textual suficient	i tenir oportunitats de quan la pista estigui un pelet millor,	hipòtesi; pendent d’audició
+208	628.160	630.680	joan-probable	0.60	primera persona o resposta declarativa	doncs poder exprimir-me al màxim i anar a buscar punts.	hipòtesi; pendent d’audició
+209	630.760	632.920	entrevistador-probable	0.78	interrogació o fórmula de pregunta	Tornarà a haver-hi club de fans per allà o no?	hipòtesi; pendent d’audició
+210	633.000	635.440	indeterminat	0.30	cap indici textual suficient	Sí, segurament, segurament, sí, sí, sí.	hipòtesi; pendent d’audició
+211	635.520	639.520	indeterminat	0.30	cap indici textual suficient	No, està bé, perquè allà, si no, tot és austria, suïssa...	hipòtesi; pendent d’audició
+212	639.600	644.320	indeterminat	0.30	cap indici textual suficient	i que desbarrereixi una mica de països com el nostre,	hipòtesi; pendent d’audició
+213	644.400	646.840	entrevistador-probable	0.78	interrogació o fórmula de pregunta	entre les grans nacions de l'esquí, d'on està molt bé?	hipòtesi; pendent d’audició
+214	646.920	649.920	indeterminat	0.30	cap indici textual suficient	La televisió d'Andorra s'ha recuperat una mica	hipòtesi; pendent d’audició
+215	650.000	652.960	indeterminat	0.30	cap indici textual suficient	el que passava amb el Lluís Marín, que havia en les copes del món,	hipòtesi; pendent d’audició
+216	653.040	655.360	indeterminat	0.30	cap indici textual suficient	i veies que la gent s'ajuntava sota la televisió.	hipòtesi; pendent d’audició
+217	655.440	659.160	joan-probable	0.60	primera persona o resposta declarativa	Ara, tot em sap un del carro, ara que fas aquests resultats brutals,	hipòtesi; pendent d’audició
+218	659.240	665.520	indeterminat	0.30	cap indici textual suficient	la gent s'ajuntava sota la televisió per viure en directe les teves màneques.	hipòtesi; pendent d’audició
+219	665.600	667.480	entrevistador-probable	0.78	interrogació o fórmula de pregunta	Imagino que això passa tot el país, clar.	hipòtesi; pendent d’audició
+220	667.560	671.400	indeterminat	0.30	cap indici textual suficient	no he notat molt suport de moltíssima gent,	hipòtesi; pendent d’audició
+221	671.480	673.800	indeterminat	0.30	cap indici textual suficient	en general, que seguien l'estiu anteriorment,	hipòtesi; pendent d’audició
+222	673.880	675.880	indeterminat	0.30	cap indici textual suficient	o que l'han començat a seguir ara.	hipòtesi; pendent d’audició
+223	675.960	679.120	joan-probable	0.60	primera persona o resposta declarativa	I jo em sento la diferència, una mica, en el meu cas,	hipòtesi; pendent d’audició
+224	679.200	684.080	indeterminat	0.30	cap indici textual suficient	en el nostre cas d'Andorra amb la diferència d'altres corredors,	hipòtesi; pendent d’audició
+225	684.160	687.360	indeterminat	0.30	cap indici textual suficient	és que tenen una història com Suïssa, Òstria,	hipòtesi; pendent d’audició
+226	687.440	691.800	indeterminat	0.30	cap indici textual suficient	de constantment campions, grans esquíadors,	hipòtesi; pendent d’audició
+227	691.880	695.000	joan-probable	0.60	primera persona o resposta declarativa	i nosaltres és com un corredor sol,	hipòtesi; pendent d’audició
+228	695.080	698.560	joan-probable	0.60	primera persona o resposta declarativa	I em sento com molt part de tot el suport,	hipòtesi; pendent d’audició
+229	698.640	701.240	indeterminat	0.30	cap indici textual suficient	sento el suport, represento el meu país,	hipòtesi; pendent d’audició
+230	701.320	703.320	joan-probable	0.60	primera persona o resposta declarativa	i això encara em dona un puj extra.	hipòtesi; pendent d’audició
+231	703.400	705.920	indeterminat	0.30	cap indici textual suficient	I un puj extra també t'ha donat el tema del YouTube.	hipòtesi; pendent d’audició
+232	706.000	708.000	joan-probable	0.60	primera persona o resposta declarativa	Ara ets YouTuber, no sé si...	hipòtesi; pendent d’audició
+233	708.080	710.080	entrevistador-probable	0.78	interrogació o fórmula de pregunta	Bé, bé, poc a poc, eh?	hipòtesi; pendent d’audició
+234	710.160	712.520	entrevistador-probable	0.78	interrogació o fórmula de pregunta	Imagino que t'ajuda un pli, una mica...	hipòtesi; pendent d’audició
+235	712.600	715.200	joan-probable	0.60	primera persona o resposta declarativa	A veure, tu ho he destacat jo moltes vegades,	hipòtesi; pendent d’audició
+236	715.280	717.280	indeterminat	0.30	cap indici textual suficient	que sembla una vida fàcil la vostra,	hipòtesi; pendent d’audició
+237	717.360	721.080	indeterminat	0.30	cap indici textual suficient	però, clar, no tens la vida d'algú de 20 anys normal,	hipòtesi; pendent d’audició
+238	721.160	723.360	indeterminat	0.30	cap indici textual suficient	que pot estar amb els seus amics quan acaba de treballar.	hipòtesi; pendent d’audició
+239	723.440	726.480	entrevistador-probable	0.78	interrogació o fórmula de pregunta	Imagino que t'omple aquests espais buits i, d'alguna manera, els profit.	hipòtesi; pendent d’audició
+240	726.560	730.120	indeterminat	0.30	cap indici textual suficient	Sí, la idea del YouTube era, justament això,	hipòtesi; pendent d’audició
+241	730.200	733.760	indeterminat	0.30	cap indici textual suficient	intentar mostrar tot el treball que hi ha darrere,	hipòtesi; pendent d’audició
+242	733.840	738.160	entrevistador-probable	0.78	interrogació o fórmula de pregunta	perquè, al final, només es veuen quatre imatges a les xarxes socials	hipòtesi; pendent d’audició
+243	738.240	741.920	indeterminat	0.30	cap indici textual suficient	o alguna manera a la tele, però no es veu tota la preparació que hi ha darrere,	hipòtesi; pendent d’audició
+244	742.000	746.840	indeterminat	0.30	cap indici textual suficient	no només d'esquí, sinó de preparació física, d'alimentació, de tot,	hipòtesi; pendent d’audició
+245	746.920	750.320	indeterminat	0.30	cap indici textual suficient	tot el que abarca a una preparació de copa del món.	hipòtesi; pendent d’audició
+246	750.400	753.560	joan-probable	0.60	primera persona o resposta declarativa	I, bueno, estem dedicant ganes, energia,	hipòtesi; pendent d’audició
+247	753.640	756.840	joan-probable	0.60	primera persona o resposta declarativa	ens ho passem bé, intentem fer un format professional,	hipòtesi; pendent d’audició
+248	756.920	758.920	indeterminat	0.30	cap indici textual suficient	però la vegada que sí, divertit i entretingut,	hipòtesi; pendent d’audició
+249	759.000	761.800	joan-probable	0.60	primera persona o resposta declarativa	de moment tinc superbon feedback, la gent està encantadíssima,	hipòtesi; pendent d’audició
+250	761.880	764.280	joan-probable	0.60	primera persona o resposta declarativa	també no toco que anem coneixent més,	hipòtesi; pendent d’audició
+251	764.360	767.160	indeterminat	0.30	cap indici textual suficient	ostres, no temo un suport molt gran amb l'equip,	hipòtesi; pendent d’audició
+252	767.240	769.240	joan-probable	0.60	primera persona o resposta declarativa	i és el que ens agrada fer, i seguirem fent.	hipòtesi; pendent d’audició
+253	769.320	771.320	indeterminat	0.30	cap indici textual suficient	I, bueno, posar resultats així també acompanya.	hipòtesi; pendent d’audició
+254	771.400	773.400	entrevistador-probable	0.78	interrogació o fórmula de pregunta	Sí, trobo que és superinteressant, eh?	hipòtesi; pendent d’audició
+255	773.480	775.960	indeterminat	0.30	cap indici textual suficient	Pogués seguir la vida d'un esquí de professional,	hipòtesi; pendent d’audició
+256	776.040	778.040	joan-probable	0.60	primera persona o resposta declarativa	del teu equip, que som com una família,	hipòtesi; pendent d’audició
+257	778.120	782.480	joan-probable	0.60	primera persona o resposta declarativa	I bé, per l'experiència pròpia et puc dir que gent que no li agrada l'esquit...	hipòtesi; pendent d’audició
+258	782.560	784.840	entrevistador-probable	0.78	interrogació o fórmula de pregunta	et segueix el YouTube i li agrada.	hipòtesi; pendent d’audició
+259	784.920	786.360	indeterminat	0.30	cap indici textual suficient	Molt bé, merci.	hipòtesi; pendent d’audició
+260	786.440	790.560	indeterminat	0.30	cap indici textual suficient	Per cert, aquests dies aquí et veurem fent de dijous a la Varset.	hipòtesi; pendent d’audició
+261	790.640	793.960	indeterminat	0.30	cap indici textual suficient	Això és que ho he comentat a l'últim vídeo.	hipòtesi; pendent d’audició
+262	794.040	797.800	indeterminat	0.30	cap indici textual suficient	Si la temporada va molt bé faré un dijous a la Varset de celebració.	hipòtesi; pendent d’audició
+263	797.880	800.240	joan-probable	0.60	primera persona o resposta declarativa	Doncs tampoc ens ho perdrem.	hipòtesi; pendent d’audició
+264	800.320	803.480	joan-probable	0.60	primera persona o resposta declarativa	"Merci per estar amb nosaltres a ""L'Andorra en Blanca"", Joan Verdu,"	hipòtesi; pendent d’audició
+265	803.560	805.560	indeterminat	0.30	cap indici textual suficient	i rei tot el millor. Adéu-vos-les.	hipòtesi; pendent d’audició
+266	805.640	807.360	indeterminat	0.30	cap indici textual suficient	Moltes gràcies a vosaltres.	hipòtesi; pendent d’audició

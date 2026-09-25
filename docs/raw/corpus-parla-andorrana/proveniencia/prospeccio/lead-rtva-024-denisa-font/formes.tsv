@@ -1,0 +1,86 @@
+forma	categoria	small	base	consens	model_localitzador	context_small	context_base	prob_min_segment_small	prob_mean_segment_small	prob_min_segment_base	prob_mean_segment_base	clip	inici_ms	final_ms	estat
+a nivell	discurs	1	3	sí	small	No, és a nivell de tronfes, sí.	que és a nivell de senyor Ruguet,	0.2803	0.7096	0.1077	0.5198	lead-rtva-024__01__a-nivell.wav	2935880	2937920	ASR textual; atribució i audició pendents
+a veure	discurs	7	6	sí	small	I era més aviat, i ara s'ha hagut d'anar a veure la literatura.	la liberació, moltes pel·lícules, vostè eren a veure'i.	0.0694	0.6847	0.0782	0.6794	lead-rtva-024__02__a-veure.wav	634040	637960	ASR textual; atribució i audició pendents
+aleshores	discurs	9	0	no	small	"Que es deien ""pons arnau"", que aleshores n'hi havia com noms."		0.3123	0.7896			lead-rtva-024__03__aleshores.wav	207360	211800	ASR textual; atribució i audició pendents
+aviam	discurs	0	0	no											ASR textual; atribució i audició pendents
+bueno	discurs	9	10	sí	small	Sí, bueno, Canillo.	Bueno. Per mi com era petita, per mi era fàcil.	0.5453	0.8397	0.2504	0.7251	lead-rtva-024__05__bueno.wav	250840	252520	ASR textual; atribució i audició pendents
+bé	discurs	26	23	sí	small	o bé l'altrapallà, que també feia de mestre.	La casa és molt bé, la nostra casa ha quedat de 1.400,	0.1663	0.6778	0.1508	0.6384	lead-rtva-024__06__b.wav	98280	100800	ASR textual; atribució i audició pendents
+clar	discurs	12	8	sí	small	És un cas de Puigcernal. Clar, a cal Puigcernal de Prats...	Clar. La gent del pop, el claritat ben pel nom de la casa.	0.0643	0.6695	0.1411	0.7372	lead-rtva-024__07__clar.wav	233760	236760	ASR textual; atribució i audició pendents
+de fet	discurs	1	1	sí	small	de fet, totes les generacions havien de treballar per la casa, no?	De fet, tota les generacions havien de treballar per la casa, no?	0.4455	0.9156	0.6031	0.8995	lead-rtva-024__08__de-fet.wav	343360	347560	ASR textual; atribució i audició pendents
+diguem	discurs	1	0	no	small	diguem que és el que li heu anat més satisfaccions		0.3478	0.8277			lead-rtva-024__09__diguem.wav	1433000	1437400	ASR textual; atribució i audició pendents
+doncs	discurs	5	7	sí	small	-Vin de trucar... -Doncs jo vaig néixer i teníem el telèfon.	però les dones tenen més paciència, doncs.	0.1958	0.7487	0.2315	0.7681	lead-rtva-024__10__doncs.wav	314920	317760	ASR textual; atribució i audició pendents
+evidentment	discurs	0	0	no											ASR textual; atribució i audició pendents
+llavors	discurs	1	1	sí	small	Llavors, he vingut a anar a la repopleta com a quilòmetre,	Llavors vam posar a fer un esplai durant cada dia, quan sortien del col·le, quan sortien del col·legi,	0.0724	0.6162	0.1011	0.7140	lead-rtva-024__12__llavors.wav	252600	256600	ASR textual; atribució i audició pendents
+no?	discurs	25	32	sí	small	Vostè creu que no? No gaire, de dividir.	-O se creu que no?-No.	0.1258	0.7569	0.1346	0.5490	lead-rtva-024__13__no.wav	111920	114320	ASR textual; atribució i audició pendents
+o sigui	discurs	2	1	sí	small	Imagini, més de 30 anys, o sigui, fins a la jubilació.	"o sigui fins a la lluvia dels fills""."	0.1790	0.7651	0.0318	0.5354	lead-rtva-024__14__o-sigui.wav	1131080	1134120	ASR textual; atribució i audició pendents
+per tant	discurs	2	7	sí	small	Per tant, a la família no li va haver d'anar nou,	que ara, així, per tant, de la 4 regla de dividir,	0.1866	0.7849	0.1519	0.6736	lead-rtva-024__15__per-tant.wav	552720	556840	ASR textual; atribució i audició pendents
+perquè	discurs	46	44	sí	small	perquè molts de Canílio graven de treballar a França.	perquè molts de Canillo graven a treballar a França.	0.2372	0.8999	0.2358	0.7780	lead-rtva-024__16__perqu.wav	71320	74000	ASR textual; atribució i audició pendents
+vull dir	discurs	4	3	sí	small	Vull dir, Sant Acreu, el 14 de setembre.	I de veure la ciutra, la seva la seva, però no l'ho vull dir.	0.0906	0.7042	0.1202	0.5845	lead-rtva-024__17__vull-dir.wav	2331920	2334280	ASR textual; atribució i audició pendents
+és a dir	discurs	2	2	sí	small	El 83. És un escarvat, és a dir.	És a dir, molt portadès es neva en arribar.	0.2232	0.6615	0.1709	0.4568	lead-rtva-024__18__s-a-dir.wav	2498880	2500680	ASR textual; atribució i audició pendents
+Canillo	territorial	26	8	sí	small	que va exercir de docena canillo	que va exercer de docen a Canillo	0.5918	0.8567	0.2373	0.6444	lead-rtva-024__19__canillo.wav	20280	22560	ASR textual; atribució i audició pendents
+Escaldes	territorial	0	0	no											ASR textual; atribució i audició pendents
+Massana	territorial	0	0	no											ASR textual; atribució i audició pendents
+Ordino	territorial	0	0	no											ASR textual; atribució i audició pendents
+Sant Julià	territorial	0	0	no											ASR textual; atribució i audició pendents
+aiguats	territorial	0	0	no											ASR textual; atribució i audició pendents
+andorrana	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunal	territorial	1	1	sí	small	Tot va ser positiu en aquesta època comunal,	Tot passé positiu en aquesta època comunal,	0.5424	0.8574	0.2777	0.7457	lead-rtva-024__26__comunal.wav	2047720	2050720	ASR textual; atribució i audició pendents
+comunals	territorial	1	1	sí	small	La maestra ja jubilada es va presentar a les eleccions comunals,	La mestra ja és jubilada, es va presentar les eleccions comunals	0.2733	0.8292	0.2384	0.7320	lead-rtva-024__27__comunals.wav	27000	30840	ASR textual; atribució i audició pendents
+comuns	territorial	0	0	no											ASR textual; atribució i audició pendents
+comú	territorial	11	9	sí	small	Ja de consellera del comú de Canillo,	Ja de consellera del Comú de Camillo,	0.3287	0.7461	0.3473	0.6637	lead-rtva-024__29__com.wav	34040	36400	ASR textual; atribució i audició pendents
+copríncep	territorial	0	0	no											ASR textual; atribució i audició pendents
+coprínceps	territorial	0	0	no											ASR textual; atribució i audició pendents
+padrí	territorial	7	0	no	small	ha vingut a fer el meu padrí.		0.1593	0.6458			lead-rtva-024__32__padr.wav	286760	291680	ASR textual; atribució i audició pendents
+parròquia	territorial	2	0	no	small	a la parròquia que s'estima i on l'estimen.		0.4386	0.8664			lead-rtva-024__33__parr-quia.wav	30920	33960	ASR textual; atribució i audició pendents
+santuari	territorial	0	0	no											ASR textual; atribució i audició pendents
+veguer	territorial	0	0	no											ASR textual; atribució i audició pendents
+tradició	cultura	0	0	no											ASR textual; atribució i audició pendents
+tradicions	cultura	0	0	no											ASR textual; atribució i audició pendents
+història	memòria	0	1	no	base		sobre història d'endorre,			0.0544	0.6523	lead-rtva-024__38__hist-ria.wav	1947200	1949480	ASR textual; atribució i audició pendents
+casa	societat	22	25	sí	small	perquè els conglés eren nombrosos i es quedava a casa l'areu	perquè ara és com que hi hagi ernombroses i es quedava a casa l'areu.	0.1601	0.6406	0.0449	0.6260	lead-rtva-024__39__casa.wav	76240	79480	ASR textual; atribució i audició pendents
+família	societat	5	5	sí	small	La seva família, la vostra família,	La seva família, la vostra família,	0.7750	0.9500	0.7876	0.9384	lead-rtva-024__40__fam-lia.wav	484320	486920	ASR textual; atribució i audició pendents
+poble	societat	4	6	sí	small	Quan jugàvem amb els altres nenes del poble, sempre era jo la mestra.	a molts altres menens del poble sempre hi haurà la mestre.	0.0402	0.7269	0.1788	0.6311	lead-rtva-024__41__poble.wav	504200	510080	ASR textual; atribució i audició pendents
+costum	cultura	0	0	no											ASR textual; atribució i audició pendents
+costums	cultura	1	1	sí	small	Vol dir que hi conserveixi la llengua i tots els costums.	i totes les costums que es feia, perquè encara...	0.1859	0.7029	0.4008	0.6533	lead-rtva-024__43__costums.wav	3141240	3151680	ASR textual; atribució i audició pendents
+article	cultura	0	0	no											ASR textual; atribució i audició pendents
+llibre	cultura	18	20	sí	small	i un dels seus llegats és un magnífic llibre de memòries de la parròquia,	i un dels seus llagats és un magnífic llibre de memòries	0.5892	0.9317	0.5992	0.8524	lead-rtva-024__45__llibre.wav	38680	43320	ASR textual; atribució i audició pendents
+escriptor	cultura	0	0	no											ASR textual; atribució i audició pendents
+Andorra	toponim	13	6	sí	small	fins i tot molts d'ells i d'elles fora de l'enginyament d'Andorra.	Escolti, diu que hi parla en Andorra, vostè.	0.2136	0.8440	0.1743	0.8080	lead-rtva-024__47__andorra.wav	63720	68240	ASR textual; atribució i audició pendents
+cultura	cultura	5	4	sí	small	s'hi va ocupar de cultura i aferes socials,	se'n va ocupar de cultura i a fer associals,	0.1418	0.7477	0.3518	0.7797	lead-rtva-024__48__cultura.wav	36480	38600	ASR textual; atribució i audició pendents
+joventut	societat	0	0	no											ASR textual; atribució i audició pendents
+esports	esport	0	0	no											ASR textual; atribució i audició pendents
+patrimoni	cultura	0	0	no											ASR textual; atribució i audició pendents
+museu	cultura	0	0	no											ASR textual; atribució i audició pendents
+biblioteca	cultura	0	0	no											ASR textual; atribució i audició pendents
+arxiu	cultura	0	0	no											ASR textual; atribució i audició pendents
+federació	esport	0	0	no											ASR textual; atribució i audició pendents
+ministres	institucions	0	0	no											ASR textual; atribució i audició pendents
+Govern	institucions	0	0	no											ASR textual; atribució i audició pendents
+conseller	institucions	1	0	no	small	hauria estat conseller a ella.		0.3780	0.5728			lead-rtva-024__58__conseller.wav	2180280	2181960	ASR textual; atribució i audició pendents
+consell	institucions	0	1	no	base		que a si la deu la vermó era encarre la consell.			0.0571	0.3751	lead-rtva-024__59__consell.wav	1411040	1413200	ASR textual; atribució i audició pendents
+futbol	esport	0	0	no											ASR textual; atribució i audició pendents
+bàsquet	esport	0	0	no											ASR textual; atribució i audició pendents
+pavelló	esport	0	0	no											ASR textual; atribució i audició pendents
+pavelló Toni Martí	esport	0	0	no											ASR textual; atribució i audició pendents
+Comitè Olímpic	esport	0	0	no											ASR textual; atribució i audició pendents
+Comú d’Andorra la Vella	institucions	0	0	no											ASR textual; atribució i audició pendents
+Andorra la Vella	toponim	0	0	no											ASR textual; atribució i audició pendents
+La Massana	toponim	0	0	no											ASR textual; atribució i audició pendents
+Santa Coloma	toponim	0	0	no											ASR textual; atribució i audició pendents
+andorrà	gentilici	0	0	no											ASR textual; atribució i audició pendents
+andorrans	gentilici	0	0	no											ASR textual; atribució i audició pendents
+projecte	institucions	0	0	no											ASR textual; atribució i audició pendents
+concessió	institucions	0	0	no											ASR textual; atribució i audició pendents
+estadi	esport	0	0	no											ASR textual; atribució i audició pendents
+esdeveniment	cultura	0	0	no											ASR textual; atribució i audició pendents
+premis	cultura	0	0	no											ASR textual; atribució i audició pendents
+Toni Martí	memòria	0	0	no											ASR textual; atribució i audició pendents
+jocs	esport	0	0	no											ASR textual; atribució i audició pendents
+festa	cultura	5	2	sí	small	I em vaig venir quan era festa, em quedava allà a una casa de països, a pensió.	Ja em vas venir quan he de festa.	0.0892	0.6713	0.1618	0.5388	lead-rtva-024__78__festa.wav	903080	909080	ASR textual; atribució i audició pendents
+equip	esport	0	0	no											ASR textual; atribució i audició pendents
+català	sociolingüística	7	6	sí	small	Quan vaig començar a l'escola, els meus pares m'havien de fer el català.	Que llegia, a català, a aquella època.	0.0997	0.7010	0.1708	0.6359	lead-rtva-024__80__catal.wav	517520	522520	ASR textual; atribució i audició pendents
+francès	contacte	13	0	no	small	i l'enginyament francès a Canílio va que ha activat		0.0229	0.4913			lead-rtva-024__81__franc-s.wav	56160	60640	ASR textual; atribució i audició pendents
+castellà	contacte	0	0	no											ASR textual; atribució i audició pendents
+hipermotion	esport	0	0	no											ASR textual; atribució i audició pendents
+lliga	esport	0	0	no											ASR textual; atribució i audició pendents
+comissió legislativa	institucions	0	0	no											ASR textual; atribució i audició pendents

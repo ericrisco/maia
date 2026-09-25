@@ -1,0 +1,367 @@
+model	categoria	forma	segment	inici_s	final_s	prob_min_segment	text_asr	estat
+small	discurs	doncs	2	11.200	13.200	0.0000	Vinga, doncs ja hi som posats.	candidat ASR; pendent d'audició
+small	discurs	doncs	6	19.520	21.520	0.0000	-Doncs sí, hola, bona tarda. -Com estàs?	candidat ASR; pendent d'audició
+small	discurs	bé	7	21.600	23.600	0.0000	Molt bé, vosaltres.	candidat ASR; pendent d'audició
+small	discurs	doncs	10	29.640	31.640	0.0000	-Tens fia cap escaldes? -Doncs no, no.	candidat ASR; pendent d'audició
+small	territorial	Escaldes	10	29.640	31.640	0.0000	-Tens fia cap escaldes? -Doncs no, no.	candidat ASR; pendent d'audició
+small	discurs	bé	11	31.720	33.720	0.0000	-Com estàs? -Molt bé, gràcies a vosaltres.	candidat ASR; pendent d'audició
+small	discurs	bé	12	33.800	36.280	0.0000	Bé, contents, allò que tornes de vacances.	candidat ASR; pendent d'audició
+small	discurs	clar	15	40.920	42.920	0.0000	Però t'arriben. Algun dia, sí, clar.	candidat ASR; pendent d'audició
+small	discurs	clar	19	49.240	51.240	0.0000	Clar, el Julió diu moltes coses.	candidat ASR; pendent d'audició
+small	discurs	a veure	21	53.400	57.400	0.0000	Ara em deies, Mireia, a veure, festa major, una cosa o una altra,	candidat ASR; pendent d'audició
+small	discurs	bueno	22	57.480	59.800	0.0000	què està present? Sí, bueno, evidentment...	candidat ASR; pendent d'audició
+small	discurs	evidentment	22	57.480	59.800	0.0000	què està present? Sí, bueno, evidentment...	candidat ASR; pendent d'audició
+small	discurs	evidentment	24	61.960	63.960	0.0000	Durant aquests darrers anys, evidentment,	candidat ASR; pendent d'audició
+small	discurs	bé	30	75.960	79.800	0.0000	o, bé, l'estiu, amb temporada alta, tant Julió el com l'agost,	candidat ASR; pendent d'audició
+small	discurs	perquè	38	103.000	105.000	0.0000	Perquè a vegades la gent pensa...	candidat ASR; pendent d'audició
+small	discurs	bé	39	105.080	107.080	0.0000	"""No, té un càrrec polític i que bé que viu i tal."""	candidat ASR; pendent d'audició
+small	discurs	evidentment	43	115.320	118.760	0.0000	Hem d'estar tot l'equip i fem un bon equip tots plegats, evidentment.	candidat ASR; pendent d'audició
+small	discurs	bé	45	121.800	124.360	0.0000	Sí, però bé, és una feina que t'agrada.	candidat ASR; pendent d'audició
+small	discurs	per tant	46	124.440	126.760	0.0000	Per tant, ho fas amb moltes ganes.	candidat ASR; pendent d'audició
+small	discurs	doncs	49	131.080	134.200	0.0000	Doncs, escolta, que estic molt content que ens visitis avui.	candidat ASR; pendent d'audició
+small	discurs	a veure	55	146.440	149.240	0.0000	Parlen una mica d'aquestes visites, a veure què podrà veure la gent.	candidat ASR; pendent d'audició
+small	discurs	doncs	56	149.320	153.160	0.0000	Doncs, aquestes visites estan tins al mar dels itineraris guiats.	candidat ASR; pendent d'audició
+small	discurs	perquè	58	156.280	158.440	0.0000	Ja sigui perquè els ciutadans en d'orra	candidat ASR; pendent d'audició
+small	discurs	aleshores	61	164.040	168.040	0.0000	Aleshores, una de les visites teatralitzades d'aquest any de l'estiu	candidat ASR; pendent d'audició
+small	discurs	perquè	65	176.440	179.960	0.0000	Avui no pete parla amb tu, perquè per telèfon m'has recordat allò	candidat ASR; pendent d'audició
+small	discurs	doncs	68	185.400	187.400	0.0000	Doncs sí, la veritat és que sí.	candidat ASR; pendent d'audició
+small	discurs	bé	72	201.320	204.840	0.0000	i la veritat és que els turistes i els ciutadans s'ho passen molt bé.	candidat ASR; pendent d'audició
+small	discurs	clar	74	207.240	209.240	0.0000	No, clar, tu prens com una cosa seriosa, no?	candidat ASR; pendent d'audició
+small	discurs	no?	74	207.240	209.240	0.0000	No, clar, tu prens com una cosa seriosa, no?	candidat ASR; pendent d'audició
+small	discurs	és a dir	78	216.920	218.920	0.0000	És a dir, a l'hora d'escriure els guions una cosa altra,	candidat ASR; pendent d'audició
+small	discurs	bé	80	221.080	224.120	0.0000	No, bé, vam contractar amb una empresa que es dedica...	candidat ASR; pendent d'audició
+small	territorial	Escaldes	81	224.200	232.440	0.0000	Precisament aquesta és l'animal a l'escola d'escaldes amb l'airina i amb el Juanma,	candidat ASR; pendent d'audició
+small	discurs	aleshores	82	232.520	234.520	0.0000	i aleshores vam demanar aquests que...	candidat ASR; pendent d'audició
+small	discurs	doncs	88	248.120	250.120	0.0000	doncs treballem amb dandarà.	candidat ASR; pendent d'audició
+small	discurs	doncs	89	250.200	253.240	0.0000	Per tant, sempre ens agrada, doncs treballem tothom, no?	candidat ASR; pendent d'audició
+small	discurs	no?	89	250.200	253.240	0.0000	Per tant, sempre ens agrada, doncs treballem tothom, no?	candidat ASR; pendent d'audició
+small	discurs	per tant	89	250.200	253.240	0.0000	Per tant, sempre ens agrada, doncs treballem tothom, no?	candidat ASR; pendent d'audició
+small	discurs	bueno	90	253.320	255.960	0.0000	I, bueno, els vam demanar que ens fessin un guió,	candidat ASR; pendent d'audició
+small	discurs	bé	91	256.040	259.640	0.0000	i bé, doncs, ho deixo així una miqueta...	candidat ASR; pendent d'audició
+small	discurs	doncs	91	256.040	259.640	0.0000	i bé, doncs, ho deixo així una miqueta...	candidat ASR; pendent d'audició
+small	discurs	a veure	92	259.720	262.600	0.0000	-A l'aire. -A l'aire, perquè ens vingueu a veure tots, clar.	candidat ASR; pendent d'audició
+small	discurs	clar	92	259.720	262.600	0.0000	-A l'aire. -A l'aire, perquè ens vingueu a veure tots, clar.	candidat ASR; pendent d'audició
+small	discurs	perquè	92	259.720	262.600	0.0000	-A l'aire. -A l'aire, perquè ens vingueu a veure tots, clar.	candidat ASR; pendent d'audició
+small	discurs	no?	93	262.680	264.680	0.0000	-No ho s'acaba spoiler, no? -No.	candidat ASR; pendent d'audició
+small	discurs	bé	95	266.840	270.200	0.0000	Doncs bé, doncs, són tres personatges.	candidat ASR; pendent d'audició
+small	discurs	doncs	95	266.840	270.200	0.0000	Doncs bé, doncs, són tres personatges.	candidat ASR; pendent d'audició
+small	discurs	aleshores	98	274.920	278.120	0.0000	i aleshores fem un seguit dins l'art patrimonial,	candidat ASR; pendent d'audició
+small	discurs	per tant	118	326.600	330.200	0.0000	i, per tant, és un bosc molt bonic de veritat,	candidat ASR; pendent d'audició
+small	discurs	a veure	119	330.280	333.320	0.0000	per relaxar-se, per anar-lo a veure i per estar amb la natura perfecte.	candidat ASR; pendent d'audició
+small	discurs	clar	120	333.400	336.440	0.0000	-Clar, però això ja és de pensar que existeix allò.	candidat ASR; pendent d'audició
+small	discurs	clar	122	339.480	341.480	0.0000	-Sí, clar.	candidat ASR; pendent d'audició
+small	discurs	clar	124	343.640	347.480	0.0000	-Sí, clar, però nosaltres a la feina és la promoció,	candidat ASR; pendent d'audició
+small	discurs	clar	129	359.000	363.240	0.0000	és amb la veïda en clar, la veïda en clar també.	candidat ASR; pendent d'audició
+small	discurs	perquè	133	370.280	374.200	0.0000	Perquè abans era en d'hora, un carrer ple de botigues.	candidat ASR; pendent d'audició
+small	discurs	de fet	144	398.600	403.000	0.0000	Realment, de fet, igualment, anem cap aquí, tots.	candidat ASR; pendent d'audició
+small	territorial	parròquia	145	403.080	407.720	0.0000	Ja sigui cada parròquia té les seves estratègies comercials i turístiques.	candidat ASR; pendent d'audició
+small	discurs	no?	154	433.560	436.600	0.0000	El que són les vacances, en definitiva, no?	candidat ASR; pendent d'audició
+small	discurs	llavors	156	441.320	443.800	0.0000	i quan baixes, llavors, te'n vas de compres i et relaxes.	candidat ASR; pendent d'audició
+small	discurs	clar	157	443.880	446.680	0.0000	Clar, és que ho tenim tot. El nostre país ho tenim tot,	candidat ASR; pendent d'audició
+small	territorial	parròquia	158	446.760	448.760	0.0000	i el nostre parròquia també ho tenim tot.	candidat ASR; pendent d'audició
+small	territorial	Canillo	165	466.200	468.920	0.0000	tu pots pensar que jo sóc d'aquí de tota la vida, en fi, de canillo,	candidat ASR; pendent d'audició
+small	discurs	per tant	168	476.200	478.200	0.0000	"i dius ""Santa Coloma, dona per tant""."	candidat ASR; pendent d'audició
+small	discurs	a veure	175	492.760	495.720	0.0000	i quan ho veien a veure, un dissabte el matí va i flipava.	candidat ASR; pendent d'audició
+small	discurs	aleshores	179	504.440	507.960	0.0000	Aleshores, Santa Coloma té un art patrimoni molt important.	candidat ASR; pendent d'audició
+small	discurs	vull dir	182	515.480	518.760	0.0000	I el pont de la margineda, vull dir, és que n'hi ha molt, hi ha molt.	candidat ASR; pendent d'audició
+small	discurs	perquè	184	521.960	525.080	0.0000	Esplica'm una miqueta, perquè aquí no va la Mireia Pérez Colla,	candidat ASR; pendent d'audició
+small	discurs	per tant	194	550.040	553.160	0.0000	Per tant, els agrada molt l'oficina de turisme treballar,	candidat ASR; pendent d'audició
+small	discurs	vull dir	195	553.240	557.080	0.0000	i és molt dinàmica, cada dia és diferent, vull dir, no és una monotonia.	candidat ASR; pendent d'audició
+small	discurs	per tant	196	557.160	560.280	0.0000	Per tant, són joves que tenen moltes ganes de treballar	candidat ASR; pendent d'audició
+small	discurs	perquè	198	562.440	565.240	0.0000	I que se'ls ha hagut de formar perquè puguin explicar el que hem d'explicar?	candidat ASR; pendent d'audició
+small	discurs	no?	205	581.560	583.560	0.0000	A les nois i noies, és molt joves, no?	candidat ASR; pendent d'audició
+small	discurs	perquè	208	589.400	593.000	0.0000	perquè després ja busquen un altre tipus de formació, oi?	candidat ASR; pendent d'audició
+small	discurs	doncs	211	598.200	600.200	0.0000	Doncs sí, els pitufos...	candidat ASR; pendent d'audició
+small	discurs	doncs	212	600.280	604.120	0.0000	Doncs els pitufos, aquest any, se li diu el programa Coruia.	candidat ASR; pendent d'audició
+small	discurs	aleshores	213	604.200	606.840	0.0000	Aleshores són a nos de 16 i 17 anys,	candidat ASR; pendent d'audició
+small	territorial	comú	214	606.920	609.800	0.0000	que estan treballant en diferents apartaments al comú.	candidat ASR; pendent d'audició
+small	discurs	aleshores	218	616.120	619.400	0.0000	Aleshores, els pitufos han passat al programa Coruia,	candidat ASR; pendent d'audició
+small	discurs	bé	220	622.520	624.840	0.0000	I la veritat és que està funcionant molt bé.	candidat ASR; pendent d'audició
+small	discurs	perquè	229	651.640	653.640	0.0000	perquè ens fan aquest guiatge,	candidat ASR; pendent d'audició
+small	discurs	no?	234	668.440	671.240	0.0000	encara que sigui una persona d'aquí del país, també ha de saber on va, no?	candidat ASR; pendent d'audició
+small	discurs	a veure	235	671.320	674.840	0.0000	La gent que us trobeu saben què van a veure o van a descobrir.	candidat ASR; pendent d'audició
+small	discurs	evidentment	241	691.160	694.760	0.0000	Evidentment no se'ls explicarà tot, perquè sinó després no té cap encant.	candidat ASR; pendent d'audició
+small	discurs	perquè	241	691.160	694.760	0.0000	Evidentment no se'ls explicarà tot, perquè sinó després no té cap encant.	candidat ASR; pendent d'audició
+small	discurs	a veure	242	694.840	699.080	0.0000	La gent sap si va a veure el romànic, l'espai colomba, això allò.	candidat ASR; pendent d'audició
+small	discurs	a veure	245	703.480	707.000	0.0000	"No és com em passa que vegi mai al cine i dic ""mira, vaja a veure el que passa""."	candidat ASR; pendent d'audició
+small	discurs	a veure	246	707.080	709.400	0.0000	Normalment, quan vols anar a veure un museu,	candidat ASR; pendent d'audició
+small	discurs	a veure	247	709.480	714.040	0.0000	quan vols anar a veure, per exemple, una de les visites teatralitzades,	candidat ASR; pendent d'audició
+small	discurs	és a dir	250	719.480	723.000	0.0000	És a dir, dient-ho de manera planera i de bon rotllo saber vendre la moto.	candidat ASR; pendent d'audició
+small	discurs	bueno	251	723.080	725.800	0.0000	Bueno, sí, d'aquesta manera. Podem dir així.	candidat ASR; pendent d'audició
+small	discurs	bé	252	725.880	728.360	0.0000	Però bé, per això tenim els informadors turístics	candidat ASR; pendent d'audició
+small	discurs	evidentment	256	737.720	740.040	0.0000	I, evidentment, això, i tu deia abans fora d'antena,	candidat ASR; pendent d'audició
+small	discurs	bueno	260	748.360	751.240	0.0000	Bueno, pel que fa a les contractacions de recursos humans,	candidat ASR; pendent d'audició
+small	discurs	no?	261	751.320	753.720	0.0000	a l'import real tampoc no el sé massa, no?	candidat ASR; pendent d'audició
+small	discurs	no?	265	763.720	765.640	0.0000	i jo he de contractar amb una empresa, no?	candidat ASR; pendent d'audició
+small	discurs	perquè	266	765.720	770.040	0.0000	Perquè hem facit tota la visita al guia que contractem, també.	candidat ASR; pendent d'audició
+small	discurs	perquè	268	772.200	774.040	0.0000	Això s'ha peredicte, o perquè hi ha molt poques empreses	candidat ASR; pendent d'audició
+small	discurs	bueno	271	778.200	781.000	0.0000	Perquè, bueno, jo pel que sé només en conec una,	candidat ASR; pendent d'audició
+small	discurs	perquè	271	778.200	781.000	0.0000	Perquè, bueno, jo pel que sé només en conec una,	candidat ASR; pendent d'audició
+small	discurs	doncs	276	790.680	792.760	0.0000	doncs té molta repercussió, vull dir,	candidat ASR; pendent d'audició
+small	discurs	vull dir	276	790.680	792.760	0.0000	doncs té molta repercussió, vull dir,	candidat ASR; pendent d'audició
+small	discurs	vull dir	285	813.000	814.760	0.0000	I, igual, vull dir, l'altre dia, per exemple,	candidat ASR; pendent d'audició
+small	discurs	a veure	287	817.320	819.880	0.0000	que va anar a veure la visita teatralitzada a Santa Coloma.	candidat ASR; pendent d'audició
+small	discurs	vull dir	288	819.960	822.680	0.0000	Vull dir, no té per què, vull dir família o no familia.	candidat ASR; pendent d'audició
+small	discurs	bueno	307	869.560	871.560	0.0000	Perquè, bueno, això amb més estadístiques,	candidat ASR; pendent d'audició
+small	discurs	perquè	307	869.560	871.560	0.0000	Perquè, bueno, això amb més estadístiques,	candidat ASR; pendent d'audició
+small	discurs	doncs	309	874.760	878.680	0.0000	doncs és més aviat turística, no?	candidat ASR; pendent d'audició
+small	discurs	no?	309	874.760	878.680	0.0000	doncs és més aviat turística, no?	candidat ASR; pendent d'audició
+small	discurs	doncs	316	894.680	898.520	0.0000	doncs es compren un usuari del país.	candidat ASR; pendent d'audició
+small	discurs	bé	317	898.600	900.600	0.0000	Que està molt bé, que ens posem una miqueta enviat.	candidat ASR; pendent d'audició
+small	discurs	clar	318	900.680	902.680	0.0000	Clar que sí, em deconeix.	candidat ASR; pendent d'audició
+small	discurs	no?	319	902.760	904.760	0.0000	Nosaltres és el que volem, no?	candidat ASR; pendent d'audició
+small	discurs	perquè	324	914.280	916.280	0.0000	Jo perquè soc com sóc, eh,	candidat ASR; pendent d'audició
+small	discurs	perquè	325	916.360	918.360	0.0000	i perquè sóc així mig nacionalista i tal,	candidat ASR; pendent d'audició
+small	discurs	bueno	335	938.360	942.440	0.0000	Sí, bueno, i segueixen fent història d'Andorra.	candidat ASR; pendent d'audició
+small	discurs	vull dir	340	954.760	957.640	0.0000	però potser caldria, potser que en fessin més, no ho sé, vull dir.	candidat ASR; pendent d'audició
+small	discurs	bé	341	957.720	960.120	0.0000	Clar, que està bé, és endè educativa, no la conec,	candidat ASR; pendent d'audició
+small	discurs	clar	341	957.720	960.120	0.0000	Clar, que està bé, és endè educativa, no la conec,	candidat ASR; pendent d'audició
+small	discurs	bé	343	962.280	964.280	0.0000	"Quins grans records em queden a mi d'""Esté bé l'Opes""."	candidat ASR; pendent d'audició
+small	discurs	a veure	348	972.680	975.240	0.0000	Doncs, a veure, que preto, perquè ens queden res, dos, tres minutets.	candidat ASR; pendent d'audició
+small	discurs	doncs	348	972.680	975.240	0.0000	Doncs, a veure, que preto, perquè ens queden res, dos, tres minutets.	candidat ASR; pendent d'audició
+small	discurs	perquè	348	972.680	975.240	0.0000	Doncs, a veure, que preto, perquè ens queden res, dos, tres minutets.	candidat ASR; pendent d'audició
+small	discurs	bueno	355	988.920	993.640	0.0000	No, però diria que vinguessis perquè, bueno, d'alguna cosa es parla, també.	candidat ASR; pendent d'audició
+small	discurs	perquè	355	988.920	993.640	0.0000	No, però diria que vinguessis perquè, bueno, d'alguna cosa es parla, també.	candidat ASR; pendent d'audició
+small	discurs	doncs	357	995.800	998.520	0.0000	Doncs, tot això de submergir els visitants,	candidat ASR; pendent d'audició
+small	discurs	evidentment	364	1014.120	1016.120	0.0000	Evidentment, i depèn de cada grup.	candidat ASR; pendent d'audició
+small	discurs	doncs	365	1016.200	1018.200	0.0000	Doncs a vegades hi ha grups que són més serioses.	candidat ASR; pendent d'audició
+small	discurs	aleshores	366	1018.280	1021.400	0.0000	Aleshores els ja has d'entonar d'una altra manera, diguéssim.	candidat ASR; pendent d'audició
+small	discurs	bueno	367	1021.480	1023.480	0.0000	I, bueno, ens trobem de tot.	candidat ASR; pendent d'audició
+small	discurs	no?	372	1035.880	1037.880	0.0000	És la novetat d'aquest any, no?	candidat ASR; pendent d'audició
+small	discurs	aleshores	379	1052.680	1057.720	0.0000	i aleshores el que es fa és que se surt de l'oficina de turisme,	candidat ASR; pendent d'audició
+small	discurs	aleshores	382	1062.920	1068.920	0.0000	i aleshores amb el guia de muntanya els fa un circuit fins a Pratzepaquetaire,	candidat ASR; pendent d'audició
+small	discurs	aleshores	384	1071.400	1073.400	0.0000	aleshores arriben més juny o no.	candidat ASR; pendent d'audició
+small	discurs	doncs	385	1073.480	1076.040	0.0000	Doncs aquí li he fet un corta i pega perquè jo ho he ajuntat tot.	candidat ASR; pendent d'audició
+small	discurs	perquè	385	1073.480	1076.040	0.0000	Doncs aquí li he fet un corta i pega perquè jo ho he ajuntat tot.	candidat ASR; pendent d'audició
+small	discurs	a veure	387	1078.680	1081.000	0.0000	A veure, acabo, mira, ja no t'atabaló més.	candidat ASR; pendent d'audició
+small	discurs	perquè	391	1089.880	1093.240	0.0000	perquè jo penso que les tenim molt ben organitzades,	candidat ASR; pendent d'audició
+small	discurs	aleshores	392	1093.320	1095.800	0.0000	aleshores alguns dies les fem amb català,	candidat ASR; pendent d'audició
+small	discurs	aleshores	394	1098.360	1103.160	0.0000	Aleshores està molt clar quins dies les fem amb cada idioma.	candidat ASR; pendent d'audició
+small	discurs	clar	394	1098.360	1103.160	0.0000	Aleshores està molt clar quins dies les fem amb cada idioma.	candidat ASR; pendent d'audició
+small	discurs	per tant	395	1103.240	1105.800	0.0000	Per tant, de moment no és una barrera.	candidat ASR; pendent d'audició
+small	discurs	no?	396	1105.880	1107.880	0.0000	I encara no podem anar com als museus, no?,	candidat ASR; pendent d'audició
+small	discurs	no?	400	1112.360	1114.800	0.0000	La veritat és que el guiat també ens agraeix, no?,	candidat ASR; pendent d'audició
+small	discurs	no?	401	1114.880	1117.400	0.0000	també que tingui el contacte amb el grup, no?, per això.	candidat ASR; pendent d'audició
+small	discurs	aleshores	407	1130.360	1133.440	0.0000	aleshores, clar, vull dir, la informació te l'emportes	candidat ASR; pendent d'audició
+small	discurs	clar	407	1130.360	1133.440	0.0000	aleshores, clar, vull dir, la informació te l'emportes	candidat ASR; pendent d'audició
+small	discurs	vull dir	407	1130.360	1133.440	0.0000	aleshores, clar, vull dir, la informació te l'emportes	candidat ASR; pendent d'audició
+small	discurs	no?	408	1133.520	1136.240	0.0000	i és molt més teva, no?, que no, amb els cascos i...	candidat ASR; pendent d'audició
+small	discurs	perquè	410	1138.920	1142.120	0.0000	amb grups reduïts, no sé si és perquè s'apunten més o menys gent,	candidat ASR; pendent d'audició
+small	discurs	clar	412	1145.160	1147.200	0.0000	clar, és com una classe particular, això.	candidat ASR; pendent d'audició
+small	discurs	doncs	431	1200.600	1203.080	0.0000	Doncs potser sí que anirem a ser aquestes 6.	candidat ASR; pendent d'audició
+small	discurs	doncs	433	1204.440	1207.680	0.0000	Doncs les reserves han de dur a terme prèviament a l'oficina de turisme,	candidat ASR; pendent d'audició
+small	discurs	evidentment	435	1209.480	1213.640	0.0000	Entrades, el preu, perquè evidentment encara que sembli un preu simbòlic.	candidat ASR; pendent d'audició
+small	discurs	perquè	435	1209.480	1213.640	0.0000	Entrades, el preu, perquè evidentment encara que sembli un preu simbòlic.	candidat ASR; pendent d'audició
+small	discurs	perquè	444	1237.080	1239.080	0.0000	perquè això m'ho ha explicat més d'un que ha vingut per aquí.	candidat ASR; pendent d'audició
+small	discurs	perquè	446	1241.240	1244.160	0.0000	Perquè m'ho he explicat d'un que fa visites a Inglis i em diu,	candidat ASR; pendent d'audició
+small	discurs	clar	450	1252.320	1255.800	0.0000	"doncs clar, els dius, ""No, ben calçat, aigua, a la gorra,"	candidat ASR; pendent d'audició
+small	discurs	doncs	450	1252.320	1255.800	0.0000	"doncs clar, els dius, ""No, ben calçat, aigua, a la gorra,"	candidat ASR; pendent d'audició
+small	discurs	doncs	451	1255.880	1257.880	0.0000	"que és superimportant, doncs..."""	candidat ASR; pendent d'audició
+small	discurs	doncs	453	1260.040	1262.640	0.0000	Com que estem de vacances, doncs ens és igual tot, no?	candidat ASR; pendent d'audició
+small	discurs	no?	453	1260.040	1262.640	0.0000	Com que estem de vacances, doncs ens és igual tot, no?	candidat ASR; pendent d'audició
+small	discurs	doncs	457	1270.040	1272.040	0.0000	Doncs, escolta, que l'oferta és xulíssima,	candidat ASR; pendent d'audició
+small	discurs	doncs	459	1274.200	1276.200	0.0000	Tenim, doncs, totes aquestes propostes,	candidat ASR; pendent d'audició
+small	discurs	bé	462	1280.440	1282.440	0.0000	i ho he passat molt bé, doncs quan vulgueu...	candidat ASR; pendent d'audició
+small	discurs	doncs	462	1280.440	1282.440	0.0000	i ho he passat molt bé, doncs quan vulgueu...	candidat ASR; pendent d'audició
+small	discurs	a veure	464	1284.600	1286.600	0.0000	A veure, que ens ho passem bé aquí, l'Ober per vacances,	candidat ASR; pendent d'audició
+small	discurs	bé	464	1284.600	1286.600	0.0000	A veure, que ens ho passem bé aquí, l'Ober per vacances,	candidat ASR; pendent d'audició
+small	discurs	bé	466	1288.760	1290.760	0.0000	i que la gent sàpigui que s'ho pot passar molt bé,	candidat ASR; pendent d'audició
+small	discurs	per tant	472	1301.240	1306.760	0.0000	les visites estatralitzades, algunes són al dissabte, per tant, el dia o a les 6 de la tarda.	candidat ASR; pendent d'audició
+small	discurs	doncs	474	1309.920	1311.920	0.0000	doncs ja està, organitzes una miqueta la gent de del dia i ja està,	candidat ASR; pendent d'audició
+small	discurs	bé	475	1312.000	1314.000	0.0000	i tu pots passar fantàsticament bé.	candidat ASR; pendent d'audició
+small	territorial	Canillo	482	1326.560	1333.400	0.0000	Veuen el romànic, veuen una cosa, veuen una altra. I a gent que pensava que Endorra s'acabava a Canillo,	candidat ASR; pendent d'audició
+small	territorial	Escaldes	483	1333.480	1336.480	0.0000	o els que pugen d'Endorra a la veia cap a Escaldes	candidat ASR; pendent d'audició
+small	discurs	doncs	485	1338.640	1340.640	0.0000	Doncs no, hi ha la font del metge, hi ha 50.000 coses per veure.	candidat ASR; pendent d'audició
+small	discurs	doncs	488	1344.880	1348.280	0.0000	I Endorra a la veia, doncs, és això, té un gran potencial,	candidat ASR; pendent d'audició
+small	discurs	a nivell	489	1348.360	1350.360	0.0000	un gran potencial a nivell patrimoni natural.	candidat ASR; pendent d'audició
+small	discurs	doncs	491	1352.520	1354.520	0.0000	-Doncs sí. -Pollata.	candidat ASR; pendent d'audició
+small	discurs	doncs	492	1354.600	1357.600	0.0000	Doncs que tornis quan vulguis, que sempre seràs benvinguda.	candidat ASR; pendent d'audició
+small	discurs	bé	494	1359.760	1362.720	0.0000	Mireia, bé d'escoll, la cap de servei de desenvolupament de projectes turístics.	candidat ASR; pendent d'audició
+small	discurs	perquè	495	1362.800	1365.520	0.0000	I, imatiatament, el canvi radical, perquè anem a parlar de còmics,	candidat ASR; pendent d'audició
+small	discurs	bé	498	1369.760	1371.760	0.0000	però la veritat és que molt bé com ho expliqui,	candidat ASR; pendent d'audició
+small	discurs	perquè	499	1371.840	1374.360	0.0000	perquè ho expliqui i quina importància té aquest personatge,	candidat ASR; pendent d'audició
+base	discurs	doncs	2	11.160	15.240	0.0000	Vinga, doncs ja hi som posats, passen uns a minuts de les 3 de la tarda,	candidat ASR; pendent d'audició
+base	discurs	doncs	4	18.880	20.560	0.0000	Doncs si jo, la bona tarda.	candidat ASR; pendent d'audició
+base	discurs	bé	5	20.640	22.560	0.0000	Com estàs? Molt bé, vosaltres.	candidat ASR; pendent d'audició
+base	discurs	doncs	9	30.760	32.200	0.0000	Doncs no, no. Com estàs?	candidat ASR; pendent d'audició
+base	discurs	bé	10	32.280	34.160	0.0000	Molt bé, gràcies d'hi uns altres, sí.	candidat ASR; pendent d'audició
+base	discurs	bé	11	34.240	37.360	0.0000	Bé, contents, allò que torres de vacances, moltes ganes l'entens,	candidat ASR; pendent d'audició
+base	discurs	clar	17	49.160	51.040	0.0000	Clar, el Juliòria moltes coses.	candidat ASR; pendent d'audició
+base	discurs	a veure	19	52.640	55.560	0.0000	Ara, ara em deia, és Mireia, a veure...	candidat ASR; pendent d'audició
+base	discurs	bueno	21	58.200	59.440	0.0000	Sí, bueno, evidentment...	candidat ASR; pendent d'audició
+base	discurs	evidentment	21	58.200	59.440	0.0000	Sí, bueno, evidentment...	candidat ASR; pendent d'audició
+base	discurs	evidentment	23	61.080	64.080	0.0000	Correcte. Durant aquests darrers anys, evidentment,	candidat ASR; pendent d'audició
+base	discurs	bé	28	76.040	79.840	0.0000	o bé, l'estiu, amb temporada alta, tan Juliòl com l'agost,	candidat ASR; pendent d'audició
+base	discurs	bé	34	91.000	92.200	0.0000	Sí, bé, no piquen els contens.	candidat ASR; pendent d'audició
+base	discurs	bé	37	98.080	100.520	0.0000	o bé, amb l'equip fixe.	candidat ASR; pendent d'audició
+base	discurs	perquè	39	102.800	105.360	0.0000	"perquè a vegades la gent pensa, ""no, té un carrer polític"	candidat ASR; pendent d'audició
+base	discurs	evidentment	45	116.600	118.920	0.0000	i fem un bon equip, tots plegats, evidentment.	candidat ASR; pendent d'audició
+base	discurs	bé	47	122.160	124.560	0.0000	Sí, però, bé, és una feina que t'agrada,	candidat ASR; pendent d'audició
+base	discurs	doncs	51	131.400	134.680	0.0000	Doncs escolta, aquesta imulcantent d'aquests visitis avui,	candidat ASR; pendent d'audició
+base	discurs	a veure	59	147.800	149.400	0.0000	A veure, què podrà veure a la gent?	candidat ASR; pendent d'audició
+base	discurs	doncs	60	149.480	153.240	0.0000	Doncs a aquestes visites estan tins al marc dels itineraris guiats.	candidat ASR; pendent d'audició
+base	discurs	aleshores	64	163.960	167.120	0.0000	Aleshores, una de les visites està totalitzades d'aquest any.	candidat ASR; pendent d'audició
+base	discurs	diguem	67	174.120	176.440	0.0000	Això saps que m'ha recordat a mi? Diguem.	candidat ASR; pendent d'audició
+base	discurs	bueno	71	183.320	185.040	0.0000	Bueno, ja m'ho he trobat el títol.	candidat ASR; pendent d'audició
+base	discurs	doncs	72	185.120	187.040	0.0000	Doncs sí, la veritat és que sí.	candidat ASR; pendent d'audició
+base	discurs	no?	79	207.160	209.400	0.0000	la t'oprens com una cosa seriosa, no?	candidat ASR; pendent d'audició
+base	discurs	és a dir	83	216.640	218.840	0.0000	És a dir, a l'hora descriure els guions de la cosa altra,	candidat ASR; pendent d'audició
+base	discurs	bé	85	220.200	223.920	0.0000	No, bé, vam contractar amb una empresa que es dedica...	candidat ASR; pendent d'audició
+base	discurs	bueno	86	224.000	227.000	0.0000	que es dedica, bueno, precisament aquesta és l'animal,	candidat ASR; pendent d'audició
+base	territorial	Escaldes	87	227.080	230.280	0.0000	l'escola d'escaldes.	candidat ASR; pendent d'audició
+base	discurs	doncs	94	248.200	250.960	0.0000	Doncs treballa, vam d'andar per tant, sempre ens agrada,	candidat ASR; pendent d'audició
+base	discurs	per tant	94	248.200	250.960	0.0000	Doncs treballa, vam d'andar per tant, sempre ens agrada,	candidat ASR; pendent d'audició
+base	discurs	doncs	95	251.040	253.320	0.0000	doncs treballa amb tothom, no?	candidat ASR; pendent d'audició
+base	discurs	no?	95	251.040	253.320	0.0000	doncs treballa amb tothom, no?	candidat ASR; pendent d'audició
+base	discurs	bueno	96	253.400	255.960	0.0000	I, bueno, algeu amb demana, que ens fessin un guió.	candidat ASR; pendent d'audició
+base	discurs	bé	97	256.040	259.600	0.0000	I bé, doncs, m'ho deixo així una miqueta...	candidat ASR; pendent d'audició
+base	discurs	doncs	97	256.040	259.600	0.0000	I bé, doncs, m'ho deixo així una miqueta...	candidat ASR; pendent d'audició
+base	discurs	a veure	98	259.680	262.480	0.0000	A l'Airé. A l'Airé, perquè ens vingau a veure tots, clar.	candidat ASR; pendent d'audició
+base	discurs	clar	98	259.680	262.480	0.0000	A l'Airé. A l'Airé, perquè ens vingau a veure tots, clar.	candidat ASR; pendent d'audició
+base	discurs	perquè	98	259.680	262.480	0.0000	A l'Airé. A l'Airé, perquè ens vingau a veure tots, clar.	candidat ASR; pendent d'audició
+base	discurs	no?	99	262.560	264.000	0.0000	No vols acabar espoilers, no?	candidat ASR; pendent d'audició
+base	discurs	doncs	101	265.160	266.880	0.0000	Doncs no és una primícia.	candidat ASR; pendent d'audició
+base	discurs	bé	102	266.960	271.680	0.0000	Doncs bé, doncs són tres personatges, comencem a l'espai colomba.	candidat ASR; pendent d'audició
+base	discurs	doncs	102	266.960	271.680	0.0000	Doncs bé, doncs són tres personatges, comencem a l'espai colomba.	candidat ASR; pendent d'audició
+base	discurs	aleshores	104	274.880	278.120	0.0000	i aleshores fem un seguit dins l'arpatrimonial,	candidat ASR; pendent d'audició
+base	discurs	a veure	110	292.320	295.200	0.0000	i col·laboradora a veure durant l'any, doncs ens va explicar mil i una cosa,	candidat ASR; pendent d'audició
+base	discurs	doncs	110	292.320	295.200	0.0000	i col·laboradora a veure durant l'any, doncs ens va explicar mil i una cosa,	candidat ASR; pendent d'audició
+base	discurs	per tant	121	327.160	330.240	0.0000	i per tant és un boss molt bonic, de veritat,	candidat ASR; pendent d'audició
+base	discurs	a veure	122	330.320	333.240	0.0000	per relaxar-se, per anar-lo a veure, per estar amb la natura perfecte.	candidat ASR; pendent d'audició
+base	discurs	clar	123	333.320	336.360	0.0000	Clar, però això jo has de pensar que existeix allò.	candidat ASR; pendent d'audició
+base	discurs	és a dir	124	336.440	339.360	0.0000	És a dir, aquí hi ha un treball previ bastant heavy.	candidat ASR; pendent d'audició
+base	discurs	clar	125	340.160	342.000	0.0000	Sí, clar. M'ha quedat xulo al rudo.	candidat ASR; pendent d'audició
+base	discurs	clar	127	343.440	347.680	0.0000	Sí, clar, però nosaltres a la nostra feina és la promoció,	candidat ASR; pendent d'audició
+base	territorial	parròquia	128	347.760	351.520	0.0000	la promoció d'aquests atractius turístics que tenim a la parròquia.	candidat ASR; pendent d'audició
+base	discurs	perquè	135	370.320	374.080	0.0000	Perquè abans, ero amb d'or, un carrer, ple de botigues.	candidat ASR; pendent d'audició
+base	territorial	parròquia	149	403.120	406.120	0.0000	ja sigui cada parròquia, té les seves estrategies,	candidat ASR; pendent d'audició
+base	discurs	no?	161	433.560	436.920	0.0000	és que són les vacances, en definitiva, no?	candidat ASR; pendent d'audició
+base	discurs	clar	165	444.320	445.320	0.0000	Clar, és que ho tenim tot,	candidat ASR; pendent d'audició
+base	territorial	parròquia	166	445.400	447.360	0.0000	el nostre país ho tenim tot i la nostra parròquia,	candidat ASR; pendent d'audició
+base	discurs	clar	175	465.720	467.640	0.0000	clar, tu pots pensar, jo sóc d'aquí de tota la vida,	candidat ASR; pendent d'audició
+base	discurs	per tant	180	476.120	477.880	0.0000	i dius, santa colomba, doné per tant.	candidat ASR; pendent d'audició
+base	discurs	perquè	182	480.040	482.160	0.0000	perquè tenim l'espai columba,	candidat ASR; pendent d'audició
+base	discurs	per tant	185	487.800	490.040	0.0000	"I amb el vídeo ""Mapatge"", que ja és l'eclésia, per tant."	candidat ASR; pendent d'audició
+base	territorial	comú	189	499.280	501.280	0.0000	"i el vídeo ""Mapatge"" i un també amb el comú,"	candidat ASR; pendent d'audició
+base	discurs	aleshores	191	504.000	508.000	0.0000	Aleshores, santa colomba té un art patrimonial molt important.	candidat ASR; pendent d'audició
+base	discurs	perquè	198	523.520	525.760	0.0000	perquè aquí no va a la Mireia Pedescolla, aquí a soroll,	candidat ASR; pendent d'audició
+base	discurs	doncs	201	529.040	533.800	0.0000	Doncs tenim un equip a l'oficina de turisme d'unes 4 o 5 persones,	candidat ASR; pendent d'audició
+base	discurs	bé	206	544.240	546.760	0.0000	els llobes no s'acaben d'enganxar el tema aquest o bé.	candidat ASR; pendent d'audició
+base	discurs	per tant	208	550.240	553.360	0.0000	per tant, els hi ha rada amb ol oficina de turisme treballari,	candidat ASR; pendent d'audició
+base	discurs	per tant	210	555.720	558.440	0.0000	vull dir, no és una monotonia, per tant, són llobes,	candidat ASR; pendent d'audició
+base	discurs	vull dir	210	555.720	558.440	0.0000	vull dir, no és una monotonia, per tant, són llobes,	candidat ASR; pendent d'audició
+base	discurs	perquè	212	561.920	564.840	0.0000	Però i que s'ha hagut de formar, perquè puguin explicar el que han de ser.	candidat ASR; pendent d'audició
+base	discurs	no?	218	581.360	583.520	0.0000	No hi hagi cinoïs molt joves, no?	candidat ASR; pendent d'audició
+base	discurs	bueno	219	583.600	586.360	0.0000	Bueno, estem parlant de xavals a partir de 18 anys,	candidat ASR; pendent d'audició
+base	discurs	no?	221	589.360	593.040	0.0000	perquè després hi haguis que en un altre tipus de formació, no?	candidat ASR; pendent d'audició
+base	discurs	perquè	221	589.360	593.040	0.0000	perquè després hi haguis que en un altre tipus de formació, no?	candidat ASR; pendent d'audició
+base	discurs	doncs	224	598.880	601.000	0.0000	Doncs sí, doncs els pitufos.	candidat ASR; pendent d'audició
+base	discurs	doncs	225	601.080	604.440	0.0000	"Doncs els pitufos, a aquesta anys, se li diu el programa ""Curuya""."	candidat ASR; pendent d'audició
+base	discurs	aleshores	226	604.520	607.200	0.0000	Aleshores, són nannos de 16 i 17 anys,	candidat ASR; pendent d'audició
+base	territorial	comú	227	607.280	610.280	0.0000	que estan treballant en diferents apartaments, el comú.	candidat ASR; pendent d'audició
+base	discurs	a veure	228	610.360	612.520	0.0000	Aquestes mes que em posen a veure visos a la vida del cotxe,	candidat ASR; pendent d'audició
+base	discurs	aleshores	230	615.040	619.760	0.0000	"Sí, doncs, aleshores, els pitufos han passat el programa ""Curuya"","	candidat ASR; pendent d'audició
+base	discurs	doncs	230	615.040	619.760	0.0000	"Sí, doncs, aleshores, els pitufos han passat el programa ""Curuya"","	candidat ASR; pendent d'audició
+base	discurs	bé	232	622.600	625.120	0.0000	I la veritat és que està funcionant molt bé.	candidat ASR; pendent d'audició
+base	discurs	no?	237	635.720	637.200	0.0000	en farant de ser a feina del futur, no?	candidat ASR; pendent d'audició
+base	discurs	perquè	243	651.680	656.720	0.0000	perquè ens fan sina aquest guiage, és un guiage a sigui turístic cultural o de muntanya,	candidat ASR; pendent d'audició
+base	discurs	no?	247	670.000	671.400	0.0000	també, de saber on va, no?	candidat ASR; pendent d'audició
+base	discurs	a veure	248	671.480	675.000	0.0000	La gent que us trobeu, sabem què va anar a veure o va anar a descobrir,	candidat ASR; pendent d'audició
+base	discurs	perquè	251	680.160	683.320	0.0000	perquè, com prind, diguéssim, aquests itineris guiats,	candidat ASR; pendent d'audició
+base	discurs	no?	254	688.600	691.240	0.0000	i a partir d'allà també és una experiència per ells, no?	candidat ASR; pendent d'audició
+base	discurs	evidentment	255	691.320	693.040	0.0000	Evidentment, no se'ls explicarà tot,	candidat ASR; pendent d'audició
+base	discurs	perquè	256	693.120	695.040	0.0000	perquè, si no, després no té cap en can.	candidat ASR; pendent d'audició
+base	discurs	és a dir	257	695.120	698.680	0.0000	És a dir, la gent saps si va veure els romànic, les païcolums,	candidat ASR; pendent d'audició
+base	discurs	a veure	261	706.360	709.520	0.0000	No, normalment quan vols anar a veure un museu,	candidat ASR; pendent d'audició
+base	discurs	a veure	262	709.600	713.240	0.0000	quan vols anar a veure, o, per exemple, una de les visites,	candidat ASR; pendent d'audició
+base	discurs	no?	263	713.320	715.880	0.0000	t'he atralitzat, ells, i explica, perquè et compre, no?	candidat ASR; pendent d'audició
+base	discurs	perquè	263	713.320	715.880	0.0000	t'he atralitzat, ells, i explica, perquè et compre, no?	candidat ASR; pendent d'audició
+base	discurs	vull dir	264	715.960	719.360	0.0000	Vull dir, tu t'hagessin de les teves eines de venda per captar.	candidat ASR; pendent d'audició
+base	discurs	bé	266	721.600	723.360	0.0000	s'ha bé vendre la moto.	candidat ASR; pendent d'audició
+base	discurs	bueno	267	723.440	725.720	0.0000	Bueno, sí, d'aquesta manera, podem dir així,	candidat ASR; pendent d'audició
+base	discurs	bueno	268	725.800	728.240	0.0000	però bueno, per això tenim els informadors turístics	candidat ASR; pendent d'audició
+base	discurs	evidentment	273	737.600	739.880	0.0000	i, evidentment, això, i tu, d'allà abans, fora d'entena,	candidat ASR; pendent d'audició
+base	discurs	bueno	277	748.240	751.240	0.0000	Bueno, perquè fa les contractacions de recursos humans,	candidat ASR; pendent d'audició
+base	discurs	perquè	277	748.240	751.240	0.0000	Bueno, perquè fa les contractacions de recursos humans,	candidat ASR; pendent d'audició
+base	discurs	no?	278	751.320	753.640	0.0000	a l'impor real, tampoc no el sé massa, no?	candidat ASR; pendent d'audició
+base	discurs	perquè	279	753.720	756.680	0.0000	Però, perquè fa als itenaris guiats, que diguéssim que és tota la producció,	candidat ASR; pendent d'audició
+base	discurs	no?	282	763.840	765.240	0.0000	de contractar amb una empresa, no?	candidat ASR; pendent d'audició
+base	discurs	perquè	286	773.200	775.240	0.0000	o perquè hi ha molt poques empreses que s'ediquin a d'això.	candidat ASR; pendent d'audició
+base	discurs	bueno	288	778.360	781.280	0.0000	Perquè, bueno, jo, pel que sé només en conecuna,	candidat ASR; pendent d'audició
+base	discurs	perquè	288	778.360	781.280	0.0000	Perquè, bueno, jo, pel que sé només en conecuna,	candidat ASR; pendent d'audició
+base	discurs	doncs	293	790.680	792.200	0.0000	doncs té molta repercussió.	candidat ASR; pendent d'audició
+base	discurs	no?	294	792.280	795.680	0.0000	Les famílies surten ancantades o no?	candidat ASR; pendent d'audició
+base	discurs	doncs	301	809.880	813.040	0.0000	Producte familiar, o vegades, doncs parelles, o soles, igual,	candidat ASR; pendent d'audició
+base	discurs	a veure	303	814.600	818.200	0.0000	entre una senyora del país que va anar a veure la visita	candidat ASR; pendent d'audició
+base	discurs	vull dir	305	820.040	822.800	0.0000	Vull dir, no té per què, vull dir família, no família,	candidat ASR; pendent d'audició
+base	discurs	vull dir	306	822.880	827.240	0.0000	vull dir, és un contingut que tothom pot gaudir, né?	candidat ASR; pendent d'audició
+base	discurs	és a dir	317	850.040	853.280	0.0000	És a dir, potser, fins i tot, els d'aquí hauríem de profitar de tot això,	candidat ASR; pendent d'audició
+base	discurs	bueno	323	869.600	872.360	0.0000	Perquè, bueno, això, amb més tàstiques, nosaltres ho tenim,	candidat ASR; pendent d'audició
+base	discurs	perquè	323	869.600	872.360	0.0000	Perquè, bueno, això, amb més tàstiques, nosaltres ho tenim,	candidat ASR; pendent d'audició
+base	discurs	doncs	324	872.440	877.880	0.0000	però, per exemple, la Vall d'Enclà, doncs és més aviat turística.	candidat ASR; pendent d'audició
+base	discurs	doncs	331	894.640	898.440	0.0000	doncs es compren un usuari del país.	candidat ASR; pendent d'audició
+base	discurs	bé	332	898.520	900.680	0.0000	Que està molt bé, que ens posem una miqueta amb la Vall d'Enclà,	candidat ASR; pendent d'audició
+base	discurs	vull dir	333	900.760	903.960	0.0000	que sí hem de conèixer, vull dir, nosaltres, és el que volem,	candidat ASR; pendent d'audició
+base	discurs	bueno	347	938.080	942.320	0.0000	Sí, sí. Sí, bueno, segueixen fent història d'endorra.	candidat ASR; pendent d'audició
+base	discurs	doncs	349	945.160	949.640	0.0000	doncs és una història d'endorra, i dins de la classeca,	candidat ASR; pendent d'audició
+base	discurs	clar	352	956.800	959.360	0.0000	no ho sé, vull dir, clar que està més endèl·educativa,	candidat ASR; pendent d'audició
+base	discurs	vull dir	352	956.800	959.360	0.0000	no ho sé, vull dir, clar que està més endèl·educativa,	candidat ASR; pendent d'audició
+base	discurs	bé	356	966.880	969.720	0.0000	Esté bé lopes que hem fet la classe d'història d'endorra que l'he espectacular.	candidat ASR; pendent d'audició
+base	discurs	a veure	358	972.320	975.120	0.0000	A veure, que preto, perquè ens queden res dels 3 minutets,	candidat ASR; pendent d'audició
+base	discurs	perquè	358	972.320	975.120	0.0000	A veure, que preto, perquè ens queden res dels 3 minutets,	candidat ASR; pendent d'audició
+base	territorial	parròquia	359	975.200	979.200	0.0000	un dels objectius de l'oferta d'aquest ediciós potencial de la parròquia,	candidat ASR; pendent d'audició
+base	discurs	bueno	364	991.520	993.800	0.0000	perquè, bueno, d'alguna cosa es parla també.	candidat ASR; pendent d'audició
+base	discurs	perquè	364	991.520	993.800	0.0000	perquè, bueno, d'alguna cosa es parla també.	candidat ASR; pendent d'audició
+base	discurs	evidentment	373	1014.120	1015.920	0.0000	Evidentment, i depèn de cada grup,	candidat ASR; pendent d'audició
+base	discurs	doncs	374	1016.000	1017.960	0.0000	doncs ja vegades hi ha grups, que són més serioses,	candidat ASR; pendent d'audició
+base	discurs	bueno	376	1021.720	1024.880	0.0000	I, bueno, ens trobem de tot, vull dir, però és pergaudir.	candidat ASR; pendent d'audició
+base	discurs	vull dir	376	1021.720	1024.880	0.0000	I, bueno, ens trobem de tot, vull dir, però és pergaudir.	candidat ASR; pendent d'audició
+base	discurs	no?	377	1024.960	1027.720	0.0000	Definitiva, vegades les vacances són pergaudir-les, no?	candidat ASR; pendent d'audició
+base	discurs	no?	381	1036.160	1038.160	0.0000	És la novetat d'aquest any, no?	candidat ASR; pendent d'audició
+base	discurs	doncs	391	1063.040	1066.640	0.0000	i a les aules de muntanya, doncs els hi fan circuit fins...	candidat ASR; pendent d'audició
+base	discurs	doncs	394	1071.480	1073.480	0.0000	doncs a les aules arriben més lluny o no?	candidat ASR; pendent d'audició
+base	discurs	no?	394	1071.480	1073.480	0.0000	doncs a les aules arriben més lluny o no?	candidat ASR; pendent d'audició
+base	discurs	perquè	395	1073.560	1076.520	0.0000	Aquí ho he fet un corta i pega perquè ho he ajuntat tot.	candidat ASR; pendent d'audició
+base	discurs	a veure	397	1078.800	1081.040	0.0000	A veure, acabo, mira, ja no t'atava al mes.	candidat ASR; pendent d'audició
+base	discurs	perquè	401	1089.800	1093.320	0.0000	perquè l'estenim... jo penso que l'estenim molt ben esorganitzades,	candidat ASR; pendent d'audició
+base	discurs	clar	404	1099.000	1103.000	0.0000	A les aules està molt clar, quins dies les fem amb cada idioma.	candidat ASR; pendent d'audició
+base	discurs	per tant	405	1103.080	1105.800	0.0000	Per tant, de moment no és una barreira.	candidat ASR; pendent d'audició
+base	discurs	no?	409	1112.400	1117.240	0.0000	El guiat també ens agraden que tingui el contacte amb el grum, no?	candidat ASR; pendent d'audició
+base	discurs	no?	410	1117.320	1118.760	0.0000	No, sí que ho veia, no?	candidat ASR; pendent d'audició
+base	discurs	a veure	413	1124.800	1126.920	0.0000	A veure, a despreferir això també és a aquest contacte,	candidat ASR; pendent d'audició
+base	discurs	clar	415	1128.920	1131.160	0.0000	si tens diverses preguntes, a les aules clar,	candidat ASR; pendent d'audició
+base	discurs	perquè	419	1139.760	1142.040	0.0000	No sé si és perquè s'apuntem més o menys gent,	candidat ASR; pendent d'audició
+base	discurs	doncs	441	1200.680	1203.320	0.0000	Doncs potser sí, que rendi en aquestes 6.	candidat ASR; pendent d'audició
+base	discurs	doncs	443	1204.480	1206.680	0.0000	Doncs a la Reserra s'han de dues termes previamente,	candidat ASR; pendent d'audició
+base	discurs	evidentment	446	1210.200	1212.120	0.0000	al preu, perquè, evidentment,	candidat ASR; pendent d'audició
+base	discurs	perquè	446	1210.200	1212.120	0.0000	al preu, perquè, evidentment,	candidat ASR; pendent d'audició
+base	discurs	clar	454	1226.440	1230.440	0.0000	que és la de la Vaiden, clar, que tenen un preu de uns 12 euros,	candidat ASR; pendent d'audició
+base	discurs	bé	457	1236.160	1238.360	0.0000	m'ho sé que bé, primer, perquè això m'ho has explicat més d'un que vingut,	candidat ASR; pendent d'audició
+base	discurs	perquè	457	1236.160	1238.360	0.0000	m'ho sé que bé, primer, perquè això m'ho has explicat més d'un que vingut,	candidat ASR; pendent d'audició
+base	discurs	perquè	458	1238.440	1240.920	0.0000	perquè potser s'ha de saber quines condicions físiques estàs.	candidat ASR; pendent d'audició
+base	discurs	perquè	459	1241.000	1243.760	0.0000	Perquè vinc-ho explicar a punt, que fa visites a ínglis,	candidat ASR; pendent d'audició
+base	discurs	clar	462	1250.680	1252.480	0.0000	amb xancles, com se li diu, doncs clar,	candidat ASR; pendent d'audició
+base	discurs	doncs	462	1250.680	1252.480	0.0000	amb xancles, com se li diu, doncs clar,	candidat ASR; pendent d'audició
+base	discurs	vull dir	463	1252.560	1254.680	0.0000	vull dir, abans, els idus, no, ven calçat,	candidat ASR; pendent d'audició
+base	discurs	doncs	464	1254.760	1257.560	0.0000	aigua, a la gorra, que és superimportant, doncs...	candidat ASR; pendent d'audició
+base	discurs	doncs	466	1259.960	1262.600	0.0000	com que estem de vacances, doncs, no ens és igual, tothom, no?	candidat ASR; pendent d'audició
+base	discurs	no?	466	1259.960	1262.600	0.0000	com que estem de vacances, doncs, no ens és igual, tothom, no?	candidat ASR; pendent d'audició
+base	discurs	doncs	473	1274.120	1278.400	0.0000	Doncs totes aquestes propostes i, en fi, que torno a convuls,	candidat ASR; pendent d'audició
+base	discurs	bé	476	1282.840	1285.040	0.0000	i no passa molt bé, doncs, com vulguem, pot tornar.	candidat ASR; pendent d'audició
+base	discurs	doncs	476	1282.840	1285.040	0.0000	i no passa molt bé, doncs, com vulguem, pot tornar.	candidat ASR; pendent d'audició
+base	discurs	a veure	477	1285.120	1287.280	0.0000	-A veure, que ens ho passem bé aquí,	candidat ASR; pendent d'audició
+base	discurs	bé	477	1285.120	1287.280	0.0000	-A veure, que ens ho passem bé aquí,	candidat ASR; pendent d'audició
+base	discurs	bé	479	1290.040	1292.200	0.0000	que s'ho pot passar molt bé, i que no tot s'acabe,	candidat ASR; pendent d'audició
+base	discurs	doncs	480	1292.280	1294.600	0.0000	doncs a entrar a botigues supermercats i altres coses,	candidat ASR; pendent d'audició
+base	discurs	doncs	485	1303.360	1305.560	0.0000	no són el dissabte, doncs per tant, amb l'estat.	candidat ASR; pendent d'audició
+base	discurs	per tant	485	1303.360	1305.560	0.0000	no són el dissabte, doncs per tant, amb l'estat.	candidat ASR; pendent d'audició
+base	discurs	bé	487	1307.360	1310.120	0.0000	-El que pica bé l'escombra el pis de del que els hi ha d'organització,	candidat ASR; pendent d'audició
+base	discurs	bé	490	1315.360	1317.680	0.0000	-I s'ha bé vendre, que van estudiar amb l'home,	candidat ASR; pendent d'audició
+base	discurs	bé	491	1317.760	1319.600	0.0000	però no s'ha bé vendre en la moto,	candidat ASR; pendent d'audició
+base	discurs	bé	497	1330.800	1333.720	0.0000	I a gent que pensava que Endorra s'acaba bé canilló,	candidat ASR; pendent d'audició
+base	territorial	Escaldes	498	1333.800	1336.360	0.0000	o els que pujen Endorra la vella cap a escaldes,	candidat ASR; pendent d'audició
+base	discurs	llavors	500	1338.480	1340.920	0.0000	Llavors, no, ja la font del metge, ja 50.000 coses per veure...	candidat ASR; pendent d'audició
+base	discurs	doncs	503	1345.080	1348.240	0.0000	-I Endorra la vella, doncs és això té un gran potencial,	candidat ASR; pendent d'audició
+base	discurs	doncs	507	1354.960	1356.960	0.0000	-Doncs que torni quan vulguis. -Gràcies, escà.	candidat ASR; pendent d'audició
+base	discurs	perquè	511	1365.440	1368.440	0.0000	Perquè anem a parlar de cómics, anem a parlar de super-slopes.	candidat ASR; pendent d'audició
+base	discurs	perquè	514	1372.680	1375.680	0.0000	perquè ho explique i quina importància té aquest personatge.	candidat ASR; pendent d'audició

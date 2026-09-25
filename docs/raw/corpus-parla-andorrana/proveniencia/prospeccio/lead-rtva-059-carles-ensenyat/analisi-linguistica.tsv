@@ -1,0 +1,3 @@
+expedient	model	tokens	tipus_lexics	type_token_ratio	repeticio_3gram	marcadors_discursius	formes_territorials	formes_contacte	pronoms_clitics	perifrasi_past_aparent	primera_persona	negacio	nota	estat
+lead-rtva-059-carles-ensenyat	small	2465	876	0.3554	0.0384	bé=2;doncs=1;evidentment=1	comuns=1;santuari=12;Escaldes=1;Constitució=2;coprincipat=1		307	23	10	27	recompte ASR; validar contra àudio	inventari ASR; pendent d'audició
+lead-rtva-059-carles-ensenyat	base	2607	908	0.3483	0.0787	bé=2;doncs=1;evidentment=1	parròquia=1;comuns=1;santuari=12;Escaldes=1;Constitució=2		316	26	10	135	recompte ASR; validar contra àudio	inventari ASR; pendent d'audició

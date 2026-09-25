@@ -1,0 +1,50 @@
+forma	categoria	small	base	consens	model_localitzador	context_small	context_base	prob_min_segment_small	prob_mean_segment_small	prob_min_segment_base	prob_mean_segment_base	clip	inici_ms	final_ms	estat
+a nivell	discurs	1	1	sí	small	el gurú de l'àudio a nivell mundial era el senyor Morita,	a nivell mundial, era el senyor Morita, Sony,	0.3820	0.8553	0.2994	0.7612	lead-yt-052-valenti-closa__01__a-nivell.wav	955040	960520	ASR textual; atribució i audició pendents
+a veure	discurs	3	4	sí	small	per anar a veure a l'interès de Fuà, me'n puc anar a Marcia,	per anar a veure alguna cosa d'afuà, me'n puc anar a marxar,	0.1649	0.7770	0.2540	0.7480	lead-yt-052-valenti-closa__02__a-veure.wav	1099600	1102200	ASR textual; atribució i audició pendents
+aleshores	discurs	0	0	no											ASR textual; atribució i audició pendents
+aviam	discurs	4	1	sí	small	I el que et deia, tinc la percepció de que tu aviam no tot ha canviat.	Aviam, festival, quan comença el festival de jazz que fa l'edició número?	0.1471	0.7771	0.3450	0.7437	lead-yt-052-valenti-closa__04__aviam.wav	104600	109600	ASR textual; atribució i audició pendents
+bueno	discurs	39	35	sí	small	Bueno, a part d'ignorar-ho si electoralment hi ha alguna raó,	Bueno, tu sempre em fas parlar, sempre que tinc la sort de parlar amb tu,	0.1233	0.7957	0.1951	0.7407	lead-yt-052-valenti-closa__05__bueno.wav	25800	30520	ASR textual; atribució i audició pendents
+bé	discurs	25	30	sí	small	-Què tal, Valentí? Benvingut. -Molt bé. Bona nit.	És que té el valentí benvingut. Molt bé, bona nit.	0.2493	0.8219	0.0979	0.7033	lead-yt-052-valenti-closa__06__b.wav	0	4160	ASR textual; atribució i audició pendents
+clar	discurs	14	11	sí	small	clar, m'imagino que el reso del primer any,	Clar, a mi, així no que el reçó del primer any,	0.2171	0.6962	0.1790	0.5961	lead-yt-052-valenti-closa__07__clar.wav	335040	337560	ASR textual; atribució i audició pendents
+de fet	discurs	2	2	sí	small	Tu el gestiones, tu el pots dirigir, el pots coordinar, però, de fet,	però, de fet, és part de la ciutadania.	0.2491	0.8578	0.1333	0.8258	lead-yt-052-valenti-closa__08__de-fet.wav	1035440	1039920	ASR textual; atribució i audició pendents
+diguem	discurs	0	0	no											ASR textual; atribució i audició pendents
+doncs	discurs	10	4	sí	small	Doncs, bueno, això és com, no sé, tu que tens una edat,	Doncs me'n vaig des d'afuà, que ja tinc previs una feixa,	0.2917	0.7848	0.0985	0.5721	lead-yt-052-valenti-closa__10__doncs.wav	233120	235960	ASR textual; atribució i audició pendents
+evidentment	discurs	0	0	no											ASR textual; atribució i audició pendents
+llavors	discurs	25	9	sí	small	I llavors cultiva l'amor dels seus fills, cultiva les amistats, que després no ho fas,	Llavors, era molt xemanet, jo pensava, bueno, és que el jazz...	0.2446	0.8324	0.0523	0.6057	lead-yt-052-valenti-closa__12__llavors.wav	251040	257640	ASR textual; atribució i audició pendents
+no?	discurs	19	25	sí	small	-A costum a passar. -A costum a passar, no?	A costuma passar. A costuma passar, no?	0.1462	0.7348	0.0986	0.6738	lead-yt-052-valenti-closa__13__no.wav	13040	15600	ASR textual; atribució i audició pendents
+o sigui	discurs	14	12	sí	small	Que està a d'intermediària per facilitat. Exactament, intermediaris, o sigui, tu presentes i jo tinc aquí una sort, una avantatge o desvantatge.	o sigui, la malanculia, és un amformatat.	0.0708	0.7058	0.3216	0.7140	lead-yt-052-valenti-closa__14__o-sigui.wav	404600	414000	ASR textual; atribució i audició pendents
+per tant	discurs	2	1	sí	small	-per tant vinil sí -vinil sí, té la seva justificació	Les per tant, Vinil sí.	0.0848	0.7307	0.0090	0.4980	lead-yt-052-valenti-closa__15__per-tant.wav	910320	914760	ASR textual; atribució i audició pendents
+perquè	discurs	36	36	sí	small	Gràcies per venir, perquè entenc que és un petit esforç pujar de...	Gràcies per venir, perquè entenc que és un petit esforç pujada...	0.4371	0.8586	0.2448	0.8116	lead-yt-052-valenti-closa__16__perqu.wav	4240	7480	ASR textual; atribució i audició pendents
+vull dir	discurs	1	1	sí	small	Sí, ja està. Vull dir, ja és xoriol, o sigui, que estarem ja i comencem amb una figura que és el Michel Portal,	Vull dir, ja hi ha juriól, o sigui, d'aerfé com.	0.1698	0.6292	0.1148	0.5668	lead-yt-052-valenti-closa__17__vull-dir.wav	609720	619760	ASR textual; atribució i audició pendents
+és a dir	discurs	2	0	no	small	És a dir, que les freqüències són diferents.		0.6217	0.8960			lead-yt-052-valenti-closa__18__s-a-dir.wav	835120	837120	ASR textual; atribució i audició pendents
+Canillo	territorial	0	0	no											ASR textual; atribució i audició pendents
+Escaldes	territorial	7	6	sí	small	-Tu vius a Escaldes. -Jo vi a Escaldes, eh.	Tu vius escaldes. Jo vi que escaldes.	0.4073	0.7311	0.3613	0.7317	lead-yt-052-valenti-closa__20__escaldes.wav	7560	10080	ASR textual; atribució i audició pendents
+Massana	territorial	0	0	no											ASR textual; atribució i audició pendents
+Ordino	territorial	0	0	no											ASR textual; atribució i audició pendents
+Sant Julià	territorial	1	0	no	small	Pots passar que viure a Escaldes i ser conseller de Sant Julià,		0.1897	0.8578			lead-yt-052-valenti-closa__23__sant-juli.wav	15680	19600	ASR textual; atribució i audició pendents
+aiguats	territorial	0	0	no											ASR textual; atribució i audició pendents
+andorrana	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunal	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunals	territorial	0	0	no											ASR textual; atribució i audició pendents
+comuns	territorial	0	0	no											ASR textual; atribució i audició pendents
+comú	territorial	2	2	sí	small	a la sala d'actes del comú,	grups de 100, perquè si no és molt difícil 200 nens a la sala d'actes del comú i farem	0.5238	0.8490	0.1861	0.7829	lead-yt-052-valenti-closa__29__com.wav	1171640	1174760	ASR textual; atribució i audició pendents
+copríncep	territorial	0	0	no											ASR textual; atribució i audició pendents
+coprínceps	territorial	0	0	no											ASR textual; atribució i audició pendents
+padrí	territorial	1	1	sí	small	I llavors, com que va ser a l'època el padrí del festival,	I a vegades, com que va ser la l'aèpoca, el padrí del festival,	0.1765	0.7713	0.0608	0.5732	lead-yt-052-valenti-closa__32__padr.wav	1751480	1756480	ASR textual; atribució i audició pendents
+parròquia	territorial	7	5	sí	small	tens que estar dins de la parròquia, de la que presentes...	Valenticlosa, que viu la millor parròquia. Jo penso que viu la millor parròquia, que té... en aquests moments, que està el país té problemes, però com té anar a tras.	0.3281	0.8670	0.3596	0.9533	lead-yt-052-valenti-closa__33__parr-quia.wav	34040	37120	ASR textual; atribució i audició pendents
+santuari	territorial	0	0	no											ASR textual; atribució i audició pendents
+veguer	territorial	0	0	no											ASR textual; atribució i audició pendents
+conseller	institucions	2	0	no	small	A part de ser conseller d'Escaldes, vi a Escaldes.		0.4596	0.8693			lead-yt-052-valenti-closa__36__conseller.wav	10160	12960	ASR textual; atribució i audició pendents
+cultura	societat	2	2	sí	small	el jazz com va dir la Unesco, com a entitat que d'això de la cultura	el jazz, com va dir, l'onesco, com a entitat que això de la cultura en sap,	0.1813	0.7964	0.0734	0.6812	lead-yt-052-valenti-closa__37__cultura.wav	1117200	1124200	ASR textual; atribució i audició pendents
+aparcaments	societat	0	0	no											ASR textual; atribució i audició pendents
+Escaldes-Engordany	toponim	0	0	no											ASR textual; atribució i audició pendents
+mobilitat	societat	0	0	no											ASR textual; atribució i audició pendents
+equipaments	societat	0	0	no											ASR textual; atribució i audició pendents
+serveis	societat	0	0	no											ASR textual; atribució i audició pendents
+Andorra	toponim	0	0	no											ASR textual; atribució i audició pendents
+andorrà	gentilici	0	0	no											ASR textual; atribució i audició pendents
+turisme	societat	0	0	no											ASR textual; atribució i audició pendents
+pressupost	economia	3	0	no	small	com que no l'importa, amb el pressupost, amb el mateix pressupost que l'ha impassat.		0.0721	0.7351			lead-yt-052-valenti-closa__46__pressupost.wav	2219280	2226720	ASR textual; atribució i audició pendents
+joves	societat	6	1	sí	small	i després, sobretot, els joves.	i després, sobretot els joves, va dir, primer,	0.7424	0.9147	0.2602	0.7854	lead-yt-052-valenti-closa__47__joves.wav	1331920	1333920	ASR textual; atribució i audició pendents
+música	societat	13	13	sí	small	M'agrada molt la música clàssica.	joventut joventut, m'agrada molt la música clàssica.	0.6257	0.8988	0.2257	0.7439	lead-yt-052-valenti-closa__48__m-sica.wav	428400	430880	ASR textual; atribució i audició pendents
+festival	societat	25	23	sí	small	si mires l'època del festival de jazz, que eren els anys 80, 85,	o si m'hi hauràs l'època del festival de jazz,	0.3553	0.7831	0.1282	0.6536	lead-yt-052-valenti-closa__49__festival.wav	88600	92600	ASR textual; atribució i audició pendents

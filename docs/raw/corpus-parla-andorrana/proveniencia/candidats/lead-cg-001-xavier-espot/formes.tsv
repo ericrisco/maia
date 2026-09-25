@@ -1,0 +1,8 @@
+model	categoria	forma	segment	inici_s	final_s	prob_min_segment	text_asr	estat
+small	discurs	perquè	10	37.880	41.040	0.4230	perquè és en virtut d'aquells resultats que avui estem aquí	candidat ASR; pendent d'audició
+small	territorial	andorrana	17	58.760	61.760	0.5158	demostra la pluralitat de la societat andorrana,	candidat ASR; pendent d'audició
+small	discurs	per tant	26	91.480	96.240	0.6239	que volen un consell plural i, per tant, un govern plural.	candidat ASR; pendent d'audició
+small	territorial	comú	29	103.480	107.480	0.7335	al tom d'un projecte comú en benefici de totes les persones.	candidat ASR; pendent d'audició
+base	discurs	perquè	13	37.920	41.040	0.4930	perquè és en virtud d'aquells resultats que avui estem aquí	candidat ASR; pendent d'audició
+base	discurs	per tant	28	91.400	96.160	0.3110	que volen un consell plural i, per tant, un govern plural.	candidat ASR; pendent d'audició
+base	territorial	comú	32	103.480	107.280	0.4720	al tom d'un projecte comú en benefici de totes les persones.	candidat ASR; pendent d'audició

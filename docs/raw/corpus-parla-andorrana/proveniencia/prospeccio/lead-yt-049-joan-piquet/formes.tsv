@@ -1,0 +1,53 @@
+forma	categoria	small	base	consens	model_localitzador	context_small	context_base	prob_min_segment_small	prob_mean_segment_small	prob_min_segment_base	prob_mean_segment_base	clip	inici_ms	final_ms	estat
+a nivell	discurs	1	1	sí	small	però també a nivell d'equilibrat energètic i físic també hi ha hagut miracles.	però també a nivell de equilibrat energètic i físic també hi ha hagut miracles.	0.4091	0.8956	0.2199	0.8117	lead-yt-049__01__a-nivell.wav	855160	861080	ASR textual; atribució i audició pendents
+a veure	discurs	3	4	sí	small	Anem a veure, anem a veure.	Anem a veure. Anem a veure.	0.5571	0.8891	0.4870	0.8687	lead-yt-049__02__a-veure.wav	80200	82400	ASR textual; atribució i audició pendents
+aleshores	discurs	0	0	no											ASR textual; atribució i audició pendents
+aviam	discurs	4	2	sí	small	Aviam aquesta fina línia a on acabem definint què és i què no és.	Vaig estar en cartors a ocasions. El japon investigant és podrinyant aviam què era això del rei aquí.	0.1610	0.7982	0.1617	0.7061	lead-yt-049__04__aviam.wav	168480	173920	ASR textual; atribució i audició pendents
+bueno	discurs	9	10	sí	small	Bueno, penso que m'ha recomanat perquè és un gran amant de la espiritualitat,	Bueno, penso que m'ha recomendat,	0.4484	0.9152	0.4066	0.8352	lead-yt-049__05__bueno.wav	42600	47400	ASR textual; atribució i audició pendents
+bé	discurs	1	2	sí	small	Vas bé per aquí o que em digui, Sergi Mas, tu no ets receptor, tu ets negat,	Sergi, parlant bé, que faràs una bona entrevista.	0.3146	0.8257	0.3518	0.8043	lead-yt-049__06__b.wav	646400	652640	ASR textual; atribució i audició pendents
+clar	discurs	1	1	sí	small	Clar, quan dius que el reiki no és religió i és espiritualitat,	Vol repetir-la amb mi, és clar.	0.6089	0.9503	0.2265	0.5873	lead-yt-049__07__clar.wav	164400	168480	ASR textual; atribució i audició pendents
+de fet	discurs	1	1	sí	small	Per què penses que Ferran Prat, bon amic de la Casa de Fet, que fa un programa diari a Radio Valira	Per què penses que ferre'n prat bona amic de la casa de fet,	0.3230	0.8138	0.1632	0.7550	lead-yt-049__08__de-fet.wav	29000	35400	ASR textual; atribució i audició pendents
+diguem	discurs	5	4	sí	small	Diguem-ne que dins del reiki, no només el reiki ens ajuda a tindre una vida millor,	Diguem-ne que dins del rei aquí no només el rei aquí ens ajuda a tindre una vida millor,	0.3852	0.8946	0.2084	0.7933	lead-yt-049__09__diguem.wav	143840	149920	ASR textual; atribució i audició pendents
+doncs	discurs	8	2	sí	small	No és religió. Quina diferència hi ha, doncs, de religió i spiritualitat?	Doncs de religió actualitat.	0.3721	0.8934	0.2193	0.7371	lead-yt-049__10__doncs.wav	179040	183640	ASR textual; atribució i audició pendents
+evidentment	discurs	3	3	sí	small	En principi, m'has dit que no és una religió, i evidentment no confirmes. No ho és. No ho és.	i evidentment no confirmas, no ho és, no ho és.	0.2758	0.8035	0.1874	0.7249	lead-yt-049__11__evidentment.wav	173920	179040	ASR textual; atribució i audició pendents
+llavors	discurs	14	12	sí	small	llavors el reiki no només ens dona espiritualitat,	Llavors, el rei qui no només ens dona espiritualitat,	0.7600	0.9007	0.2381	0.7608	lead-yt-049__12__llavors.wav	119480	123880	ASR textual; atribució i audició pendents
+no?	discurs	4	8	sí	small	Sí, és espiritualitat, sí és, com tu deies, el principi d'aquest programa, no?	No és religió. Quina diferència ja, no?	0.2454	0.8465	0.5040	0.7741	lead-yt-049__13__no.wav	108280	115200	ASR textual; atribució i audició pendents
+o sigui	discurs	1	1	sí	small	O sigui, no té res a veure una cosa amb l'altra, però si una persona és catòlica cristiana,	O sigui, no té res a veure una cosa amb l'altra, però si una persona és catòlica cristiana	0.4342	0.8858	0.2332	0.8452	lead-yt-049__14__o-sigui.wav	503640	511160	ASR textual; atribució i audició pendents
+per tant	discurs	5	5	sí	small	Per tant, ja tenim la primera gran pedra que acompanya el reiki, que és meditació.	Per tant, ja tenim la primera gran pedra que acompanya el riqui, que és meditació.	0.1537	0.8909	0.1108	0.8096	lead-yt-049__15__per-tant.wav	307480	315000	ASR textual; atribució i audició pendents
+perquè	discurs	23	22	sí	small	Bueno, penso que m'ha recomanat perquè és un gran amant de la espiritualitat,	perquè és un gran amant de la espiritualitat,	0.4484	0.9152	0.4488	0.8759	lead-yt-049__16__perqu.wav	42600	47400	ASR textual; atribució i audició pendents
+vull dir	discurs	1	2	sí	small	Vull dir, aquest tipus de pràctiques ens apropen a Déu.	jo crec que aquí tindrem un debat i no vull dir debat ni lios i s'hi sien lios que hagin lios,	0.4618	0.8778	0.2874	0.9420	lead-yt-049__17__vull-dir.wav	912120	918240	ASR textual; atribució i audició pendents
+és a dir	discurs	2	2	sí	small	Sí, és a dir, que aquesta nit ja no podria, ni demà al matí.	Sí, és a dir que aquesta nit ja no podria, ni demà el matí.	0.6000	0.9045	0.5060	0.8407	lead-yt-049__18__s-a-dir.wav	624680	628480	ASR textual; atribució i audició pendents
+Canillo	territorial	0	0	no											ASR textual; atribució i audició pendents
+Escaldes	territorial	0	0	no											ASR textual; atribució i audició pendents
+Massana	territorial	0	0	no											ASR textual; atribució i audició pendents
+Ordino	territorial	0	0	no											ASR textual; atribució i audició pendents
+Sant Julià	territorial	0	0	no											ASR textual; atribució i audició pendents
+aiguats	territorial	0	0	no											ASR textual; atribució i audició pendents
+andorrana	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunal	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunals	territorial	0	0	no											ASR textual; atribució i audició pendents
+comuns	territorial	0	0	no											ASR textual; atribució i audició pendents
+comú	territorial	0	0	no											ASR textual; atribució i audició pendents
+copríncep	territorial	0	0	no											ASR textual; atribució i audició pendents
+coprínceps	territorial	0	0	no											ASR textual; atribució i audició pendents
+padrí	territorial	0	0	no											ASR textual; atribució i audició pendents
+parròquia	territorial	0	0	no											ASR textual; atribució i audició pendents
+santuari	territorial	0	0	no											ASR textual; atribució i audició pendents
+veguer	territorial	0	0	no											ASR textual; atribució i audició pendents
+reiki	salut	39	12	sí	small	i el nostre convidat mestre Reiki és Joan Piquet, que jo diria que ja ens escolta.	Jo, per mi, per molta gent que no sap què és el Reiki,	0.3036	0.8601	0.0872	0.7612	lead-yt-049__36__reiki.wav	0	5000	ASR textual; atribució i audició pendents
+Reiky	salut	0	0	no											ASR textual; atribució i audició pendents
+energia	salut	6	6	sí	small	a més enllà d'un moviment físic, perquè treballem amb una energia en la que no estem acostumats.	perquè no hi hem en una energia en la que no estem acostumats.	0.1005	0.8393	0.0419	0.7416	lead-yt-049__38__energia.wav	219560	226360	ASR textual; atribució i audició pendents
+meditació	salut	8	8	sí	small	que m'han acompanyat d'una meditació molt fàcil de comprendre a uns nivells bàsics.	que m'ha acompanyat d'una meditació molt fàcil de compendre a uns nivells bàsics.	0.4756	0.9137	0.1747	0.7873	lead-yt-049__39__meditaci.wav	137480	143840	ASR textual; atribució i audició pendents
+teràpia	salut	0	0	no											ASR textual; atribució i audició pendents
+teràpies	salut	1	0	no	small	Em dedico a donar teràpies, em dedico a donar cursos...		0.2935	0.9317			lead-yt-049__41__ter-pies.wav	1195480	1198680	ASR textual; atribució i audició pendents
+cursos	educació	3	2	sí	small	Ja hem fet una sèrie de cursos anteriorment i hem vist com científicament és impossible,	abans dels nostres cursos, abans de la formació ha viscut ja un miracle.	0.4370	0.9018	0.5187	0.8334	lead-yt-049__42__cursos.wav	793480	800480	ASR textual; atribució i audició pendents
+mestre	professió	5	1	sí	small	i el nostre convidat mestre Reiki és Joan Piquet, que jo diria que ja ens escolta.	i el nostre convidat, Mestre, Reyki és Joan Piquet, que jo diria que ja ens escolta.	0.3036	0.8601	0.2147	0.7517	lead-yt-049__43__mestre.wav	0	5000	ASR textual; atribució i audició pendents
+cos	salut	3	3	sí	small	perquè hi ha posicions d'amants que, quan toquem el cos estimulem punts senergetics específics,	el cos estimulant punts energètics,	0.2028	0.8740	0.4047	0.7510	lead-yt-049__44__cos.wav	430960	438360	ASR textual; atribució i audició pendents
+emocions	societat	0	0	no											ASR textual; atribució i audició pendents
+consciència	societat	0	0	no											ASR textual; atribució i audició pendents
+Andorra	toponim	0	3	no	base		Si anem a la natura, per exemple, que amb mi andorra m'encanta i si anem a les muntanyes podem veure...			0.0551	0.7108	lead-yt-049__47__andorra.wav	241000	250520	ASR textual; atribució i audició pendents
+andorrà	gentilici	0	0	no											ASR textual; atribució i audició pendents
+família	societat	0	0	no											ASR textual; atribució i audició pendents
+alumnes	educació	0	0	no											ASR textual; atribució i audició pendents
+formació	educació	11	12	sí	small	Bueno, diguem-ne que per practicar reiki primer s'ha de fer un curs, no? És una formació.	És una formació.	0.3931	0.8801	0.7014	0.8967	lead-yt-049__51__formaci.wav	582080	588240	ASR textual; atribució i audició pendents
+benestar	salut	2	1	sí	small	El reiki ens ajuda a tindre aquesta vibració de benestar permanentment	Aquesta vibració de benestar permanentment gràcies a unes pràctiques que entre ella s'està la meditació.	0.5519	0.8925	0.4068	0.8157	lead-yt-049__52__benestar.wav	296480	302880	ASR textual; atribució i audició pendents

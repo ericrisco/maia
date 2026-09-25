@@ -1,0 +1,53 @@
+forma	categoria	small	base	consens	model_localitzador	context_small	context_base	prob_min_segment_small	prob_mean_segment_small	prob_min_segment_base	prob_mean_segment_base	clip	inici_ms	final_ms	estat
+a nivell	discurs	0	0	no											ASR textual; atribució i audició pendents
+a veure	discurs	3	2	sí	small	Què has de fer quan el pare comença a veure que el nen...	Que has de fer, quan el pare comença a veure que el nen	0.4657	0.9007	0.4995	0.8587	lead-yt-046__02__a-veure.wav	343680	346360	ASR textual; atribució i audició pendents
+aleshores	discurs	0	0	no											ASR textual; atribució i audició pendents
+aviam	discurs	0	1	no	base		aviam, una cosa que el nen ja tingui 18 anys i amb 18 anys,			0.1186	0.7553	lead-yt-046__04__aviam.wav	536600	539480	ASR textual; atribució i audició pendents
+bueno	discurs	10	9	sí	small	Però, bueno, diríem allò d'accident domèstic, no?	Però bueno, el direm d'allò d'accident doméstic, no?	0.3534	0.7976	0.2105	0.6972	lead-yt-046__05__bueno.wav	32120	35520	ASR textual; atribució i audició pendents
+bé	discurs	3	4	sí	small	Hola. Molt bé, bona nit.	Molt bé, bona nit.	0.5105	0.8251	0.6909	0.8859	lead-yt-046__06__b.wav	15840	17840	ASR textual; atribució i audició pendents
+clar	discurs	16	10	sí	small	I, clar, deixar-li a una cafèteria, un nen, amb tot això...	I clar, deixar-li una cafeteria un nen amb tot això és un perill,	0.3320	0.7757	0.1759	0.7294	lead-yt-046__07__clar.wav	117960	121440	ASR textual; atribució i audició pendents
+de fet	discurs	0	0	no											ASR textual; atribució i audició pendents
+diguem	discurs	0	0	no											ASR textual; atribució i audició pendents
+doncs	discurs	4	5	sí	small	Doncs pot ser un padrastre tranquil·lament,	i acabant doncs...	0.3285	0.7906	0.1432	0.7209	lead-yt-046__10__doncs.wav	293840	296520	ASR textual; atribució i audició pendents
+evidentment	discurs	1	1	sí	small	Sí, però bueno, això evidentment t'obliga com a pare	Sí, però bueno, això evidentment t'obliga com a pare	0.3855	0.8805	0.3298	0.8160	lead-yt-046__11__evidentment.wav	676880	680760	ASR textual; atribució i audició pendents
+llavors	discurs	1	0	no	small	Llavors pot haver-hi d'intentar aconseguir informació,		0.2170	0.7752			lead-yt-046__12__llavors.wav	278280	283880	ASR textual; atribució i audició pendents
+no?	discurs	6	10	sí	small	Però, bueno, diríem allò d'accident domèstic, no?	Però bueno, el direm d'allò d'accident doméstic, no?	0.3534	0.7976	0.2105	0.6972	lead-yt-046__13__no.wav	32120	35520	ASR textual; atribució i audició pendents
+o sigui	discurs	1	1	sí	small	O sigui, diuen, quan un es tanca de seguida la habitació,	O sigui, quan l'unes estan quedes allí d'aquí d'aquí d'aquí,	0.1121	0.6725	0.0539	0.5580	lead-yt-046__14__o-sigui.wav	807960	810880	ASR textual; atribució i audició pendents
+per tant	discurs	0	0	no											ASR textual; atribució i audició pendents
+perquè	discurs	26	23	sí	small	Hauríem de ser més conscients, jo ja, perquè els meus fills són grans,	Avui hem de ser més conscients, jo ja, perquè els meus fills són grans,	0.4633	0.8700	0.0441	0.7557	lead-yt-046__16__perqu.wav	127960	130840	ASR textual; atribució i audició pendents
+vull dir	discurs	0	0	no											ASR textual; atribució i audició pendents
+és a dir	discurs	6	4	sí	small	és a dir, fa anys, fa dècades, el nen era...	en aquest sentit, és a dir, explicar-li amb un llenguatge que pugui entendre al nen.	0.6300	0.9394	0.3569	0.7244	lead-yt-046__18__s-a-dir.wav	51600	54680	ASR textual; atribució i audició pendents
+Canillo	territorial	0	0	no											ASR textual; atribució i audició pendents
+Escaldes	territorial	0	0	no											ASR textual; atribució i audició pendents
+Massana	territorial	0	0	no											ASR textual; atribució i audició pendents
+Ordino	territorial	0	0	no											ASR textual; atribució i audició pendents
+Sant Julià	territorial	0	0	no											ASR textual; atribució i audició pendents
+aiguats	territorial	0	0	no											ASR textual; atribució i audició pendents
+andorrana	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunal	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunals	territorial	0	0	no											ASR textual; atribució i audició pendents
+comuns	territorial	0	0	no											ASR textual; atribució i audició pendents
+comú	territorial	3	2	sí	small	i també que jugui a l'esperi comú de la casa,	i també que jugui a l'espai comú de la casa.	0.4890	0.8842	0.4483	0.8796	lead-yt-046__29__com.wav	431720	436440	ASR textual; atribució i audició pendents
+copríncep	territorial	0	0	no											ASR textual; atribució i audició pendents
+coprínceps	territorial	0	0	no											ASR textual; atribució i audició pendents
+padrí	territorial	0	0	no											ASR textual; atribució i audició pendents
+parròquia	territorial	0	0	no											ASR textual; atribució i audició pendents
+santuari	territorial	0	0	no											ASR textual; atribució i audició pendents
+veguer	territorial	0	0	no											ASR textual; atribució i audició pendents
+ciberseguretat	tecnologia	1	0	no	small	I això ha passat, és una dada que tu com a expert en xarxes i ciberseguretat, això ha passat.		0.4494	0.8442			lead-yt-046__36__ciberseguretat.wav	410040	415640	ASR textual; atribució i audició pendents
+seguretat	tecnologia	1	1	sí	small	Avui parlem de la seguretat dels mòbils	Avui parlem de la seguretat dels mòbils i els nens	0.8227	0.9718	0.4059	0.8575	lead-yt-046__37__seguretat.wav	39800	45200	ASR textual; atribució i audició pendents
+internet	tecnologia	4	4	sí	small	Sí, sí. A final de la xarxa social si internet tenen moltes avantatges i si hi ha algun dret per aprendre pel col·legi, tenen moltes avantatges, però també és molt perillós.	Sí, sí, ha fet la xarxa social si internet té una morta santaxa,	0.0615	0.7520	0.0567	0.5047	lead-yt-046__38__internet.wav	72240	86640	ASR textual; atribució i audició pendents
+xarxes	tecnologia	10	8	sí	small	En depèn del que sempre dic, que darrere de les xarxes no sabem què hi ha i què pot passar.	En de pensar que sempre dic que darrere de les xarxes,	0.0423	0.7995	0.0409	0.6714	lead-yt-046__39__xarxes.wav	86640	94640	ASR textual; atribució i audició pendents
+dades	tecnologia	1	1	sí	small	No hi ha envia fotografies, si no comença a donar dades, per molt en secret, que ho tingui el nen perquè el Pedrasta li diu que això no ho digui a ningú, però clar, un cop tens la informació com es d'actuar, entenc que et troca la policia i clar, perquè és que o reventar-li, o reventar-li la cara aquest senyor, que és seriu, no, sí, és que al final és més directe, és més directe.	no hi ha envia fotografies, si no començat una dades,	0.0795	0.8123	0.2927	0.6990	lead-yt-046__40__dades.wav	346440	369440	ASR textual; atribució i audició pendents
+privacitat	tecnologia	0	0	no											ASR textual; atribució i audició pendents
+tecnologia	tecnologia	0	0	no											ASR textual; atribució i audició pendents
+informació	tecnologia	4	3	sí	small	Llavors pot haver-hi d'intentar aconseguir informació,	Hem vist informació personal de quan estem a casa per vindre el ruat.	0.2170	0.7752	0.0701	0.4733	lead-yt-046__43__informaci.wav	278280	283880	ASR textual; atribució i audició pendents
+policia	institucions	1	1	sí	small	No hi ha envia fotografies, si no comença a donar dades, per molt en secret, que ho tingui el nen perquè el Pedrasta li diu que això no ho digui a ningú, però clar, un cop tens la informació com es d'actuar, entenc que et troca la policia i clar, perquè és que o reventar-li, o reventar-li la cara aquest senyor, que és seriu, no, sí, és que al final és més directe, és més directe.	Tinc que trucar a la policia,	0.0795	0.8123	0.0497	0.6218	lead-yt-046__44__policia.wav	346440	369440	ASR textual; atribució i audició pendents
+estafa	societat	0	0	no											ASR textual; atribució i audició pendents
+fraus	societat	0	0	no											ASR textual; atribució i audició pendents
+Andorra	toponim	0	0	no											ASR textual; atribució i audició pendents
+andorrà	gentilici	0	0	no											ASR textual; atribució i audició pendents
+joves	societat	0	0	no											ASR textual; atribució i audició pendents
+educació	educació	0	0	no											ASR textual; atribució i audició pendents
+família	societat	0	0	no											ASR textual; atribució i audició pendents
+mòbil	tecnologia	4	12	sí	small	"Niño, que te calles, ""cock"", i ara està substituït per ""toma el mòbil y juega y calla y déjame a mí que hable con la mamá y que hable con mi amigo y que hable con mi amiga""."	(mòbil)	0.0631	0.7661	0.1458	0.3704	lead-yt-046__52__m-bil.wav	57240	67640	ASR textual; atribució i audició pendents

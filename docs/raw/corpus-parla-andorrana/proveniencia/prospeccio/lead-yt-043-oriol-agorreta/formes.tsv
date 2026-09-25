@@ -1,0 +1,56 @@
+forma	categoria	small	base	consens	model_localitzador	context_small	context_base	prob_min_segment_small	prob_mean_segment_small	prob_min_segment_base	prob_mean_segment_base	clip	inici_ms	final_ms	estat
+a nivell	discurs	0	0	no											ASR textual; atribució i audició pendents
+a veure	discurs	7	6	sí	small	Bé, bé, tot bé i fantàstic. I aquí estic. A veure què fem.	-Bé, bé, tot bé i fantàstic i aquí estic, a veure què fem.	0.3767	0.8575	0.2416	0.7471	lead-yt-043__02__a-veure.wav	8480	13720	ASR textual; atribució i audició pendents
+aleshores	discurs	0	0	no											ASR textual; atribució i audició pendents
+aviam	discurs	0	0	no											ASR textual; atribució i audició pendents
+bueno	discurs	10	10	sí	small	I, bueno, doncs ara també escric, ja des de fa uns quants anys que escric, i la veritat és que és tan satisfactori poder escriure,	I, bueno, això, doncs ja em converteix una mica amb el escritor,	0.3449	0.8493	0.2366	0.7078	lead-yt-043__05__bueno.wav	68240	77240	ASR textual; atribució i audició pendents
+bé	discurs	24	16	sí	small	Bé, bé, tot bé i fantàstic. I aquí estic. A veure què fem.	-Bé, bé, tot bé i fantàstic i aquí estic, a veure què fem.	0.3767	0.8575	0.2416	0.7471	lead-yt-043__06__b.wav	8480	13720	ASR textual; atribució i audició pendents
+clar	discurs	6	3	sí	small	Per tu és molt fàcil, però clar, és que jo no sabia ni escriure ni la primera paraula d'una opera.	Per tu és molt fàcil, però clar, és que ja no sabria ni escriure ni la primera paraula d'una òpera.	0.1520	0.8487	0.1020	0.7829	lead-yt-043__07__clar.wav	367560	373320	ASR textual; atribució i audició pendents
+de fet	discurs	5	4	sí	small	De fet, ells volien una cantada, però ho convertirem en una d'òpera.	per escriure unaòpera, de fet ens volia en una cantata,	0.3799	0.8902	0.1226	0.7199	lead-yt-043__08__de-fet.wav	180680	183600	ASR textual; atribució i audició pendents
+diguem	discurs	1	0	no	small	Diguem si has fet la presentació i com va anar la presentació d'aquests petits contes.		0.4648	0.8958			lead-yt-043__09__diguem.wav	1101780	1106780	ASR textual; atribució i audició pendents
+doncs	discurs	13	13	sí	small	I, bueno, doncs ara també escric, ja des de fa uns quants anys que escric, i la veritat és que és tan satisfactori poder escriure,	doncs realment en aquest moment estic vivint un moment molt dolce de la meva vida	0.3449	0.8493	0.2334	0.7924	lead-yt-043__10__doncs.wav	68240	77240	ASR textual; atribució i audició pendents
+evidentment	discurs	3	3	sí	small	on cada dia puc parlar amb molta gent, amb moltes persones que estan molt contents, evidentment,	amb moltes persones que estan molt contents, evidentment,	0.7096	0.9477	0.4928	0.8606	lead-yt-043__11__evidentment.wav	147360	152640	ASR textual; atribució i audició pendents
+llavors	discurs	2	2	sí	small	Llavors, no és complicat.	Llavors, ja tens una història que, al final, només s'ha de desarrollar,	0.4462	0.8234	0.2795	0.7547	lead-yt-043__12__llavors.wav	233880	238680	ASR textual; atribució i audició pendents
+no?	discurs	1	2	sí	small	que diràs que m'estàs posant el cap com un timbal, no?	No té... Vaja, potser jo ho vegi molt fàcil perquè, per mi, és posar-me i estar, no?	0.1899	0.8160	0.1336	0.7215	lead-yt-043__13__no.wav	518800	521760	ASR textual; atribució i audició pendents
+o sigui	discurs	0	0	no											ASR textual; atribució i audició pendents
+per tant	discurs	6	6	sí	small	Per tant, has de tenir una mica de referències del que és una òpera.	Per tant, has de tenir una mica de referències del que és una òpera.	0.3935	0.8822	0.0782	0.7944	lead-yt-043__15__per-tant.wav	226880	233880	ASR textual; atribució i audició pendents
+perquè	discurs	21	20	sí	small	Jo vaig començar a ser en Juer, perquè venia de la família,	Jo vaig començar a ser juillet perquè venia a la família	0.1592	0.8108	0.3540	0.7447	lead-yt-043__16__perqu.wav	108080	112280	ASR textual; atribució i audició pendents
+vull dir	discurs	0	0	no											ASR textual; atribució i audició pendents
+és a dir	discurs	3	2	sí	small	Has de tornar tirant rera, Oriol, és a dir, m'has parlat de joie, m'has parlat d'escriptor,	És a dir, més parlat de juillet, més parlat de escritor,	0.1732	0.8675	0.1079	0.7203	lead-yt-043__18__s-a-dir.wav	201600	207480	ASR textual; atribució i audició pendents
+Canillo	territorial	0	0	no											ASR textual; atribució i audició pendents
+Escaldes	territorial	0	0	no											ASR textual; atribució i audició pendents
+Massana	territorial	0	0	no											ASR textual; atribució i audició pendents
+Ordino	territorial	0	0	no											ASR textual; atribució i audició pendents
+Sant Julià	territorial	0	0	no											ASR textual; atribució i audició pendents
+aiguats	territorial	0	0	no											ASR textual; atribució i audició pendents
+andorrana	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunal	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunals	territorial	0	0	no											ASR textual; atribució i audició pendents
+comuns	territorial	0	0	no											ASR textual; atribució i audició pendents
+comú	territorial	0	0	no											ASR textual; atribució i audició pendents
+copríncep	territorial	0	0	no											ASR textual; atribució i audició pendents
+coprínceps	territorial	0	0	no											ASR textual; atribució i audició pendents
+padrí	territorial	0	0	no											ASR textual; atribució i audició pendents
+parròquia	territorial	0	0	no											ASR textual; atribució i audició pendents
+santuari	territorial	0	0	no											ASR textual; atribució i audició pendents
+veguer	territorial	0	0	no											ASR textual; atribució i audició pendents
+joier	professió	1	0	no	small	Va a la dica, sí. La meva professió realment és ser joier. El que passa és que la creativitat porta una cosa a porta l'altra.		0.2961	0.8004			lead-yt-043__36__joier.wav	59240	68240	ASR textual; atribució i audició pendents
+òpera	cultura	15	7	sí	small	Però mira, fa poc vaig guanyar un premi d'Andorra Lírica per escriure una d'òpera.	Bé, el primer t'ha de agradar l'òpera, una mica.	0.1123	0.8297	0.2365	0.7496	lead-yt-043__37__pera.wav	175840	180680	ASR textual; atribució i audició pendents
+òperes	cultura	0	0	no											ASR textual; atribució i audició pendents
+contes	cultura	17	13	sí	small	Ara, si vols, anem als contes.	Ara si vols anar més contes. Oriol, jo crec que per parlar d'aquest tema fem un salt,	0.5405	0.8572	0.1295	0.6954	lead-yt-043__39__contes.wav	545600	547440	ASR textual; atribució i audició pendents
+escriure	cultura	18	17	sí	small	I, bueno, doncs ara també escric, ja des de fa uns quants anys que escric, i la veritat és que és tan satisfactori poder escriure,	La veritat és que és tan satisfaptor i poder escriure,	0.3449	0.8493	0.3034	0.6828	lead-yt-043__40__escriure.wav	68240	77240	ASR textual; atribució i audició pendents
+escriptor	cultura	4	1	sí	small	el tema de l'escriptura. Ja ets oficialment escriptor.	Ja ets oficialment escriptor.	0.4682	0.8945	0.2930	0.7606	lead-yt-043__41__escriptor.wav	165760	169200	ASR textual; atribució i audició pendents
+música	cultura	2	2	sí	small	que és que ja no sé què més puc demanar, que li posi música.	que és que no sé què més puc demanar, que hi posi música.	0.5215	0.8514	0.4004	0.7227	lead-yt-043__42__m-sica.wav	80280	85560	ASR textual; atribució i audició pendents
+teatre	cultura	1	1	sí	small	No volien entrar i sortir d'un teatre.	No voldrien entrar i sortir d'un teatre.	0.6882	0.9482	0.2049	0.7531	lead-yt-043__43__teatre.wav	458960	462000	ASR textual; atribució i audició pendents
+art	cultura	3	1	sí	small	Hem de tornar una altra vegada a la cultura, a l'art i sobretot als valors humans.	de tantes art que no és tard	0.3585	0.9300	0.5702	0.8945	lead-yt-043__44__art.wav	1013580	1018580	ASR textual; atribució i audició pendents
+joies	economia	0	0	no											ASR textual; atribució i audició pendents
+or	economia	0	0	no											ASR textual; atribució i audició pendents
+plata	economia	0	0	no											ASR textual; atribució i audició pendents
+Andorra	toponim	6	0	no	small	Però mira, fa poc vaig guanyar un premi d'Andorra Lírica per escriure una d'òpera.		0.1123	0.8297			lead-yt-043__48__andorra.wav	175840	180680	ASR textual; atribució i audició pendents
+andorrà	gentilici	0	0	no											ASR textual; atribució i audició pendents
+La Massana	toponim	0	0	no											ASR textual; atribució i audició pendents
+literatura	cultura	0	0	no											ASR textual; atribució i audició pendents
+escenari	cultura	0	0	no											ASR textual; atribució i audició pendents
+personatge	cultura	0	0	no											ASR textual; atribució i audició pendents
+novel·la	cultura	0	0	no											ASR textual; atribució i audició pendents
+creativitat	cultura	1	1	sí	small	Va a la dica, sí. La meva professió realment és ser joier. El que passa és que la creativitat porta una cosa a porta l'altra.	El que passa és que la creativitat porta una cosa porta a l'altra.	0.2961	0.8004	0.0390	0.7005	lead-yt-043__55__creativitat.wav	59240	68240	ASR textual; atribució i audició pendents

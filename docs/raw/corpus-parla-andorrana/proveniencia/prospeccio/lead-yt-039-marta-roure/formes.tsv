@@ -1,0 +1,72 @@
+forma	categoria	small	base	consens	model_localitzador	context_small	context_base	prob_min_segment_small	prob_mean_segment_small	prob_min_segment_base	prob_mean_segment_base	clip	inici_ms	final_ms	estat
+a nivell	discurs	3	2	sí	small	de com estiguis posicionat a nivell geogràfic, penso.	a nivell geuràfic, penses.	0.4718	0.8825	0.1772	0.5784	lead-yt-039__01__a-nivell.wav	693720	697360	ASR textual; atribució i audició pendents
+a veure	discurs	2	1	sí	small	i, de fet, no té res a veure,	i de fet no té res a veure, penso anar a un festival,	0.3523	0.8708	0.3006	0.7736	lead-yt-039__02__a-veure.wav	214800	217840	ASR textual; atribució i audició pendents
+aleshores	discurs	1	0	no	small	Aleshores, faig coses que em venen de gust i ja està.		0.1115	0.7877			lead-yt-039__03__aleshores.wav	1446840	1452800	ASR textual; atribució i audició pendents
+aviam	discurs	0	0	no											ASR textual; atribució i audició pendents
+bueno	discurs	8	12	sí	small	Bueno, feia ja parell d'anta,	I, bueno, en trobar després hi ha amb el tornàme d'octubre.	0.0881	0.6366	0.0888	0.5843	lead-yt-039__05__bueno.wav	35520	38480	ASR textual; atribució i audició pendents
+bé	discurs	14	11	sí	small	està bé que també escoltin la nostra llengua.	Està bé que també escolti la nostra llengua.	0.6817	0.9387	0.2848	0.7278	lead-yt-039__06__b.wav	426960	430720	ASR textual; atribució i audició pendents
+clar	discurs	20	16	sí	small	però, clar, anava passant els càstings.	però, clar, anava passant els càstins.	0.3022	0.8963	0.3638	0.8518	lead-yt-039__07__clar.wav	66720	70640	ASR textual; atribució i audició pendents
+de fet	discurs	2	1	sí	small	i, de fet, no té res a veure,	i de fet no té res a veure, penso anar a un festival,	0.3523	0.8708	0.3006	0.7736	lead-yt-039__08__de-fet.wav	214800	217840	ASR textual; atribució i audició pendents
+diguem	discurs	0	0	no											ASR textual; atribució i audició pendents
+doncs	discurs	5	7	sí	small	Bueno, doncs...	El programa, doncs a punts, que es va metre, doncs per les dues cadenes.	0.4448	0.7356	0.2151	0.7530	lead-yt-039__10__doncs.wav	740920	743440	ASR textual; atribució i audició pendents
+evidentment	discurs	2	0	no	small	Evidentment, això ens fa riqui.		0.2734	0.6576			lead-yt-039__11__evidentment.wav	430840	432840	ASR textual; atribució i audició pendents
+llavors	discurs	7	3	sí	small	Llavors em limitaven moltíssim, sempre tenia que anar amb un traductor.	Llavors, també, després de tant anys,	0.3703	0.7725	0.2437	0.7057	lead-yt-039__12__llavors.wav	278560	283120	ASR textual; atribució i audició pendents
+no?	discurs	15	23	sí	small	que sí que van passant tots els països, no?	m'has conegut a tota l'ésseri, no?	0.3906	0.8639	0.0370	0.4907	lead-yt-039__13__no.wav	233600	236960	ASR textual; atribució i audició pendents
+o sigui	discurs	4	2	sí	small	o sigui, 3 minuts, aquells 3 minuts,	És molt difícil amb 3 minuts. O sigui, 3 minuts, aquells 3 minuts.	0.4579	0.8919	0.8432	0.9808	lead-yt-039__14__o-sigui.wav	480640	482960	ASR textual; atribució i audició pendents
+per tant	discurs	7	12	sí	small	per tant, tot és nou, tot és un país meravellós,	per tant tot és nou, tot és un país maravallós.	0.4362	0.8830	0.3980	0.8472	lead-yt-039__15__per-tant.wav	198200	202520	ASR textual; atribució i audició pendents
+perquè	discurs	19	25	sí	small	El 23, perquè era el Michael Jordan.	El 23, perquè era l'udat Michael Jordan,	0.7639	0.9643	0.0716	0.4609	lead-yt-039__16__perqu.wav	132880	134840	ASR textual; atribució i audició pendents
+vull dir	discurs	1	0	no	small	Vull dir que és molt més fàcil que a la clau.		0.0296	0.3690			lead-yt-039__17__vull-dir.wav	306440	308960	ASR textual; atribució i audició pendents
+és a dir	discurs	0	0	no											ASR textual; atribució i audició pendents
+Canillo	territorial	0	0	no											ASR textual; atribució i audició pendents
+Escaldes	territorial	0	0	no											ASR textual; atribució i audició pendents
+Massana	territorial	0	0	no											ASR textual; atribució i audició pendents
+Ordino	territorial	0	0	no											ASR textual; atribució i audició pendents
+Sant Julià	territorial	0	0	no											ASR textual; atribució i audició pendents
+aiguats	territorial	0	0	no											ASR textual; atribució i audició pendents
+andorrana	territorial	1	0	no	small	Ja de per si vam anar-hi 15 dies, i vam anar a la del·lació d'Andorrana,		0.0501	0.7654			lead-yt-039__25__andorrana.wav	172240	175840	ASR textual; atribució i audició pendents
+comunal	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunals	territorial	0	0	no											ASR textual; atribució i audició pendents
+comuns	territorial	0	0	no											ASR textual; atribució i audició pendents
+comú	territorial	0	0	no											ASR textual; atribució i audició pendents
+copríncep	territorial	0	0	no											ASR textual; atribució i audició pendents
+coprínceps	territorial	0	0	no											ASR textual; atribució i audició pendents
+padrí	territorial	0	0	no											ASR textual; atribució i audició pendents
+parròquia	territorial	0	0	no											ASR textual; atribució i audició pendents
+santuari	territorial	0	0	no											ASR textual; atribució i audició pendents
+veguer	territorial	0	0	no											ASR textual; atribució i audició pendents
+Eurovisió	cultura	9	5	sí	small	l'idea d'Adaptandor es presentava a Eurovisió,	a Eurovisió, també la primera persona que va cantar en català del festival,	0.0669	0.7100	0.5756	0.9225	lead-yt-039__36__eurovisi.wav	38560	41800	ASR textual; atribució i audició pendents
+Eurovision	cultura	1	0	no	small	Eurovision és quan em va guanyar Portugal.		0.1067	0.7113			lead-yt-039__37__eurovision.wav	752800	755360	ASR textual; atribució i audició pendents
+Marta Roure	persona	0	0	no											ASR textual; atribució i audició pendents
+cantant	cultura	2	2	sí	small	jo seré la cantant de Eurovisió,	Jo seré la cantant d'augubisió que anirà repressantà d'augurra	0.4454	0.8297	0.1859	0.7739	lead-yt-039__39__cantant.wav	47040	51080	ASR textual; atribució i audició pendents
+cançó	cultura	5	3	sí	small	És per donar conèixer tant la cançó com l'artista.	És per donar conèixer tant la cançó, com l'artista,	0.3360	0.8229	0.1650	0.6779	lead-yt-039__40__can.wav	260360	266240	ASR textual; atribució i audició pendents
+català	sociolingüística	6	9	sí	small	però que és el català, el castellà i el francès.	a Eurovisió, també la primera persona que va cantar en català del festival,	0.3529	0.8692	0.5756	0.9225	lead-yt-039__41__catal.wav	290400	292800	ASR textual; atribució i audició pendents
+llengua	sociolingüística	3	3	sí	small	que nosaltres portàvem la llengua del país.	O és a pensar, i a més a més em toca portar-nos que nosaltres s'otarem la llengua del país.	0.8231	0.9555	0.6262	0.9570	lead-yt-039__42__llengua.wav	375400	378080	ASR textual; atribució i audició pendents
+idioma	sociolingüística	4	2	sí	small	tant de país com d'idioma.	Tant de país com d'aire idioma, no?	0.3726	0.8238	0.1943	0.7729	lead-yt-039__43__idioma.wav	399440	402320	ASR textual; atribució i audició pendents
+Andorra	toponim	12	5	sí	small	I ara, ja més parlant d'Andorra en general,	I, s'ho sanc George Dí, també representant d'Andorra,	0.0804	0.7482	0.0508	0.6468	lead-yt-039__44__andorra.wav	626920	633240	ASR textual; atribució i audició pendents
+andorrà	gentilici	0	0	no											ASR textual; atribució i audició pendents
+andorrans	gentilici	1	0	no	small	També són els andorrans i les andorranes,		0.3336	0.7326			lead-yt-039__46__andorrans.wav	1058160	1061840	ASR textual; atribució i audició pendents
+andorranes	gentilici	1	0	no	small	També són els andorrans i les andorranes,		0.3336	0.7326			lead-yt-039__47__andorranes.wav	1058160	1061840	ASR textual; atribució i audició pendents
+representant	cultura	2	2	sí	small	que n'hi ha representant el d'Orra i obri càstings.	Hola, tothom. A la Marta Rua, la primera representant d'endorra,	0.1513	0.5969	0.6727	0.9668	lead-yt-039__48__representant.wav	55160	60800	ASR textual; atribució i audició pendents
+festival	cultura	9	10	sí	small	per aspirar-ne al festival d'Europiso?	a Eurovisió, també la primera persona que va cantar en català del festival,	0.1868	0.7458	0.5756	0.9225	lead-yt-039__49__festival.wav	29440	32480	ASR textual; atribució i audició pendents
+TV3	mitjans	4	4	sí	small	que es va organitzar des de TV3 i de la televisió d'Orrana	Per TV3 com parla de televisió en Urbana.	0.0628	0.6945	0.0237	0.5352	lead-yt-039__50__tv3.wav	16760	22160	ASR textual; atribució i audició pendents
+televisió	mitjans	5	5	sí	small	que es va organitzar des de TV3 i de la televisió d'Orrana	i la televisió d'orana per espiran el festival d'Europicó.	0.0628	0.6945	0.0350	0.4912	lead-yt-039__51__televisi.wav	16760	22160	ASR textual; atribució i audició pendents
+Istanbul	toponim	1	1	sí	small	Jo estic a Istanbul.	I si hi ha un cop, jo estic a Istanbul. Sí.	0.0430	0.6799	0.6026	0.9300	lead-yt-039__52__istanbul.wav	162120	172120	ASR textual; atribució i audició pendents
+Turquia	toponim	3	2	sí	small	Un cop arribes a Turquia,	Al festival, un cop arriba a Turquia,	0.1029	0.7682	0.0524	0.5370	lead-yt-039__53__turquia.wav	194520	198080	ASR textual; atribució i audició pendents
+Catalunya	toponim	3	2	sí	small	Quan va començar a atarrar gent de Catalunya,	I quan va començar a donar tarrar gent de Catalunya,	0.4486	0.7984	0.1691	0.6770	lead-yt-039__54__catalunya.wav	95480	99040	ASR textual; atribució i audició pendents
+francès	sociolingüística	1	0	no	small	però que és el català, el castellà i el francès.		0.3529	0.8692			lead-yt-039__55__franc-s.wav	290400	292800	ASR textual; atribució i audició pendents
+castellà	sociolingüística	1	0	no	small	però que és el català, el castellà i el francès.		0.3529	0.8692			lead-yt-039__56__castell.wav	290400	292800	ASR textual; atribució i audició pendents
+anglès	sociolingüística	3	1	sí	small	Jo vaig ser un gran pro que era, jo no sé, parlar l'anglès.	que era, ja no sé, per l'anglès.	0.0257	0.6404	0.3536	0.6879	lead-yt-039__57__angl-s.wav	272520	278440	ASR textual; atribució i audició pendents
+artista	cultura	7	3	sí	small	No sé si és una cosa que la gent es fa amb l'artista i l'artista.	És per donar conèixer tant la cançó, com l'artista,	0.0108	0.3018	0.1650	0.6779	lead-yt-039__58__artista.wav	244680	250280	ASR textual; atribució i audició pendents
+escenari	cultura	3	0	no	small	i el festival en sí que anaves assajant a l'escenari,		0.2186	0.7918			lead-yt-039__59__escenari.wav	209160	214680	ASR textual; atribució i audició pendents
+semifinal	cultura	1	1	sí	small	clar, arribar a la semifinal d'Aurovisió,	clar, arribar a la semifinal d'aurovisió,	0.5825	0.9294	0.1705	0.7606	lead-yt-039__60__semifinal.wav	150360	156560	ASR textual; atribució i audició pendents
+països	toponim	8	7	sí	small	que sí que van passant tots els països, no?	d'espectar que s'hi acaben passant tots els països.	0.3906	0.8639	0.0776	0.7165	lead-yt-039__61__pa-sos.wav	233600	236960	ASR textual; atribució i audició pendents
+microestat	institucions	0	0	no											ASR textual; atribució i audició pendents
+emigració	societat	0	1	no	base		Però també és probable que, quan tenim molta emigració de puntual,			0.0288	0.4953	lead-yt-039__63__emigraci.wav	659160	665480	ASR textual; atribució i audició pendents
+França	toponim	2	2	sí	small	Només tenim França i Espanya.	només tenim França i Espanya.	0.1621	0.8533	0.9257	0.9590	lead-yt-039__64__fran-a.wav	661360	664920	ASR textual; atribució i audició pendents
+Espanya	toponim	2	3	sí	small	Només tenim França i Espanya.	només tenim França i Espanya.	0.1621	0.8533	0.9257	0.9590	lead-yt-039__65__espanya.wav	661360	664920	ASR textual; atribució i audició pendents
+Portugal	toponim	3	2	sí	small	És probable que com que tenim molta migració de Portugal,	és quan va guanyar Portugal.	0.2012	0.7707	0.3232	0.9153	lead-yt-039__66__portugal.wav	665040	672120	ASR textual; atribució i audició pendents
+família	societat	1	1	sí	small	perquè la vostra família, la música corra per la sang.	perquè la vostra família la posiga a córrer per la sang.	0.3922	0.8378	0.1915	0.7642	lead-yt-039__67__fam-lia.wav	1531280	1535000	ASR textual; atribució i audició pendents
+fills	societat	1	1	sí	small	I ara tens dos fills, si no m'equivoquo.	I ara tens dos fills i no m'equivoco un de 19 anys, un de 5, més o menys.	0.2703	0.7497	0.3093	0.7411	lead-yt-039__68__fills.wav	1455360	1458720	ASR textual; atribució i audició pendents
+universitat	educació	1	1	sí	small	El Julen, que té 19 anys, ja està a la universitat.	El Julen que té 19 i ja està a l'universitat.	0.5677	0.8445	0.2919	0.7438	lead-yt-039__69__universitat.wav	1462640	1467040	ASR textual; atribució i audició pendents
+advocats	professió	1	1	sí	small	Estic amb un bufet d'advocats.	estic amb un bufet d'advocats, treballant,	0.5436	0.9069	0.0624	0.7019	lead-yt-039__70__advocats.wav	1396440	1399040	ASR textual; atribució i audició pendents
+pandèmia	societat	1	1	sí	small	I teníem a treballar tot. Pensar que els hotel... i clar, arribar a la pandèmia...	i també m'està allà sóc pensat, els hotels i que ve la pandèmia	0.4681	0.9042	0.0598	0.5473	lead-yt-039__71__pand-mia.wav	1419640	1427640	ASR textual; atribució i audició pendents

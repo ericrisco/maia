@@ -1,0 +1,143 @@
+segment	inici_s	final_s	rol_provisional	confiança	motiu	text_asr	estat
+1	0.000	17.000	dj-neura-probable	baixa	segment llarg compatible amb resposta	Hola, bona nit. Aquí estem a l'actorama de freqüència electrònica. Aquesta nit tenim uns dades a DJ Neura, i li farem unes preguntes per saber una mica més de la seva tradició.	heurística textual; pendent d'audició
+2	17.000	20.000	indeterminat	baixa	no hi ha senyal textual suficient	Bona nit, Julià. Hola, molt bona nit.	heurística textual; pendent d'audició
+3	24.000	29.000	entrevistador-probable	mitjana	marcador interrogatiu o inici de pregunta	Com vas iniciar el teu camí a la música electrònica i quines van ser els seus principals influències?	heurística textual; pendent d'audició
+4	30.000	33.000	dj-neura-probable	baixa	primera persona i resposta desenvolupada	La meva principal influència va ser el meu germà.	heurística textual; pendent d'audició
+5	33.000	39.000	dj-neura-probable	baixa	primera persona i resposta desenvolupada	De fet, i jo ens portem una diferència d'edat bastant significativa a veure els 80 anys i mig.	heurística textual; pendent d'audició
+6	39.000	44.000	dj-neura-probable	baixa	primera persona i resposta desenvolupada	I, bueno, on que ell era més gran que jo i quan ell va començar a sortir de festa,	heurística textual; pendent d'audició
+7	44.000	50.000	entrevistador-probable	mitjana	marcador interrogatiu o inici de pregunta	doncs la música electrònica va estar bé amb el seu millor moment, no?, els anys 90.	heurística textual; pendent d'audició
+8	50.000	53.520	dj-neura-probable	baixa	primera persona i resposta desenvolupada	Aleshores, clar, hi havia un recopilatori que em va cautivar molt,	heurística textual; pendent d'audició
+9	53.600	56.720	indeterminat	baixa	no hi ha senyal textual suficient	que a més avui en dia és un recopilatori molt molt antic i molt pastelós,	heurística textual; pendent d'audició
+10	56.800	60.880	indeterminat	baixa	no hi ha senyal textual suficient	que és el Sonic Mix, que tenia una cançó que es deia de la Minerva,	heurística textual; pendent d'audició
+11	60.960	62.760	indeterminat	baixa	no hi ha senyal textual suficient	"en la de ""Estoy llorando por ti""."	heurística textual; pendent d'audició
+12	62.840	65.400	indeterminat	baixa	no hi ha senyal textual suficient	Que entené, entené... Està empillat, aquí.	heurística textual; pendent d'audició
+13	65.480	68.400	indeterminat	baixa	no hi ha senyal textual suficient	I això va ser gràcies al...	heurística textual; pendent d'audició
+14	69.480	71.240	indeterminat	baixa	no hi ha senyal textual suficient	al museu, al virus.	heurística textual; pendent d'audició
+15	71.320	74.520	indeterminat	baixa	no hi ha senyal textual suficient	A mi s'ha de dir que després veig tindre la influència	heurística textual; pendent d'audició
+16	74.600	76.600	entrevistador-probable	mitjana	marcador interrogatiu o inici de pregunta	d'altres companys, no?	heurística textual; pendent d'audició
+17	76.680	79.520	entrevistador-probable	mitjana	marcador interrogatiu o inici de pregunta	Com podries haver sigut tu, com podria haver sigut el Marquis...	heurística textual; pendent d'audició
+18	80.000	84.520	indeterminat	baixa	no hi ha senyal textual suficient	I la veritat és que vam fer una molt bona pinya sempre petits.	heurística textual; pendent d'audició
+19	86.680	89.960	entrevistador-probable	mitjana	marcador interrogatiu o inici de pregunta	On descriuries l'evolució del teu estil musical al llarg de la teva carrera?	heurística textual; pendent d'audició
+20	91.560	93.840	indeterminat	baixa	no hi ha senyal textual suficient	Amb una sola paraula seria progressiu.	heurística textual; pendent d'audició
+21	94.920	100.840	dj-neura-probable	baixa	primera persona i resposta desenvolupada	Vaig iniciar-me amb cançons molt dents, molt pastelosos, molt comercials.	heurística textual; pendent d'audició
+22	101.480	103.920	indeterminat	baixa	no hi ha senyal textual suficient	D'aquí vam passar a la música progressiva,	heurística textual; pendent d'audició
+23	106.040	108.400	entrevistador-probable	mitjana	marcador interrogatiu o inici de pregunta	que ja era més rotllo més tecno, no?	heurística textual; pendent d'audició
+24	109.680	116.160	indeterminat	baixa	no hi ha senyal textual suficient	"Aleshores d'aquí vam passar a la música ""Màquina"" i després ja vam evolucionar cap al ""Hardcore""."	heurística textual; pendent d'audició
+25	116.160	122.400	dj-neura-probable	baixa	primera persona i resposta desenvolupada	"Avui en dia una de les meves passions encara segueixen al ""Hardcore"", però sempre i quan sigui ""Harmony""."	heurística textual; pendent d'audició
+26	122.400	128.960	indeterminat	baixa	no hi ha senyal textual suficient	I el que faig amb la nova controladora, que és una gran màquina, que el dius.	heurística textual; pendent d'audició
+27	128.960	136.320	dj-neura-probable	baixa	primera persona i resposta desenvolupada	"Em doné la possibilitat de poder fer més cles amb cançons indie, indie-pop, amb ""Hardcore""."	heurística textual; pendent d'audició
+28	136.320	140.840	indeterminat	baixa	no hi ha senyal textual suficient	I aleshores, doncs, el que és aquesta combinació és bastant bona.	heurística textual; pendent d'audició
+29	140.920	143.120	indeterminat	baixa	no hi ha senyal textual suficient	A mi la veritat és que m'omple molt.	heurística textual; pendent d'audició
+30	146.600	149.720	entrevistador-probable	mitjana	marcador interrogatiu o inici de pregunta	Quina ha estat el moment més memorable de la teva carrera com a DJ?	heurística textual; pendent d'audició
+31	149.800	151.280	indeterminat	baixa	no hi ha senyal textual suficient	Fins ara, podríem dir.	heurística textual; pendent d'audició
+32	152.400	156.120	indeterminat	baixa	no hi ha senyal textual suficient	Doncs mira, després d'haver estat punxant amb sales mítiques,	heurística textual; pendent d'audició
+33	156.200	160.480	entrevistador-probable	mitjana	marcador interrogatiu o inici de pregunta	com podria haver estat un Ponaeri a les 12 hores,	heurística textual; pendent d'audició
+34	160.560	163.560	entrevistador-probable	mitjana	marcador interrogatiu o inici de pregunta	com podria haver estat un coliseu,	heurística textual; pendent d'audició
+35	163.640	168.640	entrevistador-probable	mitjana	marcador interrogatiu o inici de pregunta	com una franquícia d'aquesta ve a Barcelona.	heurística textual; pendent d'audició
+36	168.640	173.640	indeterminat	baixa	no hi ha senyal textual suficient	Doncs la veritat, els millors moments han sigut de rave.	heurística textual; pendent d'audició
+37	173.640	177.640	indeterminat	baixa	no hi ha senyal textual suficient	A l'aire lliure, amb gent molt maca,	heurística textual; pendent d'audició
+38	177.640	181.640	entrevistador-probable	mitjana	marcador interrogatiu o inici de pregunta	on els límits acústics no existeixen,	heurística textual; pendent d'audició
+39	181.640	186.640	indeterminat	baixa	no hi ha senyal textual suficient	la gent a les orelles es deixa fluir més per el que tu estàs fent.	heurística textual; pendent d'audició
+40	186.640	192.640	dj-neura-probable	baixa	primera persona i resposta desenvolupada	Al final, com ha dit jo, que el que més aprecio	heurística textual; pendent d'audició
+41	192.640	194.960	indeterminat	baixa	no hi ha senyal textual suficient	és l'alegria que pots arribar a transmetre	heurística textual; pendent d'audició
+42	195.040	197.240	indeterminat	baixa	no hi ha senyal textual suficient	o l'energia que pots arribar a transmetre	heurística textual; pendent d'audició
+43	197.320	198.880	indeterminat	baixa	no hi ha senyal textual suficient	i que la gent t'ho retorni.	heurística textual; pendent d'audició
+44	200.320	202.920	indeterminat	baixa	no hi ha senyal textual suficient	Dintre d'una sala, això és més complicat,	heurística textual; pendent d'audició
+45	203.800	206.360	indeterminat	baixa	no hi ha senyal textual suficient	però a l'aire lliure això s'aconsegueix fàcilment.	heurística textual; pendent d'audició
+46	207.640	209.240	indeterminat	baixa	no hi ha senyal textual suficient	Clar, això és una mica així.	heurística textual; pendent d'audició
+47	209.320	213.360	entrevistador-probable	mitjana	marcador interrogatiu o inici de pregunta	Quan no hi ha límits, ja siguin barreres, siguin oraris,	heurística textual; pendent d'audició
+48	213.440	216.600	indeterminat	baixa	no hi ha senyal textual suficient	i una mica de tot, tot són diferents.	heurística textual; pendent d'audició
+49	219.680	225.080	entrevistador-probable	mitjana	marcador interrogatiu o inici de pregunta	Si poguessis col·laborar amb qualsevol artista actual o d'abans, qui seria i per què?	heurística textual; pendent d'audició
+50	226.280	234.280	dj-neura-probable	baixa	segment llarg compatible amb resposta	Doncs si et dic la veritat, després d'haver estat desconectat de la cena musical durant pràcticament una dècada...	heurística textual; pendent d'audició
+51	235.280	240.480	dj-neura-probable	baixa	primera persona i resposta desenvolupada	Si et dic la veritat, considero que qualsevol dels artistes que van començar la mateixa època que vaig començar jo,	heurística textual; pendent d'audició
+52	240.480	246.080	indeterminat	baixa	no hi ha senyal textual suficient	o inclús els que van començar fa una dècada, que també el segueixo per deixar-se socials...	heurística textual; pendent d'audició
+53	246.680	250.520	indeterminat	baixa	no hi ha senyal textual suficient	tots estan a l'alçada dels millors del món.	heurística textual; pendent d'audició
+54	250.600	254.480	indeterminat	baixa	no hi ha senyal textual suficient	Aquí en Dorre no tenim res a envejar	heurística textual; pendent d'audició
+55	254.560	258.720	indeterminat	baixa	no hi ha senyal textual suficient	amb qualitat i professionalitat a darrere de la càbina.	heurística textual; pendent d'audició
+56	260.480	262.160	indeterminat	baixa	no hi ha senyal textual suficient	Això és una gran veritat.	heurística textual; pendent d'audició
+57	267.560	270.520	indeterminat	baixa	no hi ha senyal textual suficient	Tens alguna anècdota curiosa o divertida	heurística textual; pendent d'audició
+58	270.600	273.160	entrevistador-probable	mitjana	marcador interrogatiu o inici de pregunta	durant aquestes actuacions en directe?	heurística textual; pendent d'audició
+59	274.680	280.680	indeterminat	baixa	no hi ha senyal textual suficient	La veritat, tinc una molt divertida, de quan està bé treballant al festa i n'hi t'endorra,	heurística textual; pendent d'audició
+60	280.680	287.680	indeterminat	baixa	no hi ha senyal textual suficient	al costat de l'actual MacAuto, que hi haurà molta gent que, al igual, no ens recorda d'això,	heurística textual; pendent d'audició
+61	287.680	292.680	dj-neura-probable	baixa	primera persona i resposta desenvolupada	en el qual la gent tenia la costum de vindre a cabina i, com que jo era molt novei,	heurística textual; pendent d'audició
+62	292.680	295.680	dj-neura-probable	baixa	primera persona i resposta desenvolupada	doncs quan em feien alguna petició de dedicatòria o el que fos,	heurística textual; pendent d'audició
+63	295.680	298.680	dj-neura-probable	baixa	primera persona i resposta desenvolupada	doncs jo seria i les dedicava, no tenia aquest problema.	heurística textual; pendent d'audició
+64	298.680	301.680	indeterminat	baixa	no hi ha senyal textual suficient	Però amb el llarg del temps, doncs això era una amigueta esgotada.	heurística textual; pendent d'audició
+65	301.680	304.680	indeterminat	baixa	no hi ha senyal textual suficient	me'n recordo una nit que m'han demanat no sé quantes vegades que dic.	heurística textual; pendent d'audició
+66	304.680	306.680	indeterminat	baixa	no hi ha senyal textual suficient	És cançó que ja sabe fins als naços de dir coses pel micro.	heurística textual; pendent d'audició
+67	306.680	309.680	dj-neura-probable	baixa	primera persona i resposta desenvolupada	"Em ve una noia i em diu ""se la puedes dedicar""."	heurística textual; pendent d'audició
+68	309.680	311.680	indeterminat	baixa	no hi ha senyal textual suficient	Una amiga se va no me'n recordo aquí, eh.	heurística textual; pendent d'audició
+69	311.680	315.680	dj-neura-probable	baixa	primera persona i resposta desenvolupada	"I re li vaig dir ""si me dan la braga sí""."	heurística textual; pendent d'audició
+70	315.680	319.680	indeterminat	baixa	no hi ha senyal textual suficient	I agafé la tia i sí, se les va treure, les calces i me les va donar	heurística textual; pendent d'audició
+71	319.680	321.680	dj-neura-probable	baixa	primera persona i resposta desenvolupada	i em vaig tenir que menjar les meves paraules	heurística textual; pendent d'audició
+72	321.680	323.680	indeterminat	baixa	no hi ha senyal textual suficient	i dedicar-li la cançó a la seva amiga.	heurística textual; pendent d'audició
+73	326.680	328.680	indeterminat	baixa	no hi ha senyal textual suficient	Molt bé, molt bé, molt bona aquesta.	heurística textual; pendent d'audició
+74	330.680	335.680	entrevistador-probable	mitjana	marcador interrogatiu o inici de pregunta	Com veus, el futur de la música electrònica a Quindorra, al nostre país?	heurística textual; pendent d'audició
+75	335.680	342.680	indeterminat	baixa	no hi ha senyal textual suficient	Home, la veritat, el que és l'escena música a l'Andorra té molt de futur.	heurística textual; pendent d'audició
+76	342.680	347.680	indeterminat	baixa	no hi ha senyal textual suficient	"Després d'haver vist com tu com a col·laborador a ""Milly Better Nation"","	heurística textual; pendent d'audició
+77	347.680	351.680	dj-neura-probable	baixa	primera persona i resposta desenvolupada	ho he aconseguit tant de rendiment, aquí al pas de la casa,	heurística textual; pendent d'audició
+78	351.680	356.680	entrevistador-probable	mitjana	marcador interrogatiu o inici de pregunta	com podria haver estat el festival que es va intentar muntar amb el David Queta,	heurística textual; pendent d'audició
+79	356.680	359.680	indeterminat	baixa	no hi ha senyal textual suficient	que, lamentablement, no es va poder portar a termer final.	heurística textual; pendent d'audició
+80	359.680	367.000	dj-neura-probable	baixa	segment llarg compatible amb resposta	al final, però les intencions hi són. I vulguis o no, això abans era impensable a la nostra	heurística textual; pendent d'audició
+81	367.000	374.200	indeterminat	baixa	no hi ha senyal textual suficient	època, que la gent vulgués apostar per nosaltres als dijocs i per l'escenari musical electrònic.	heurística textual; pendent d'audició
+82	374.200	381.200	indeterminat	baixa	no hi ha senyal textual suficient	La veritat és que aquest paradigma ha canviat. I té moltes perspectives per arribar a ser un	heurística textual; pendent d'audició
+83	381.200	387.000	dj-neura-probable	baixa	segment llarg compatible amb resposta	lloc molt atractiu, no només per a l'esquí, sinó també per als events musicals que puguem a solar.	heurística textual; pendent d'audició
+84	387.000	394.080	dj-neura-probable	baixa	segment llarg compatible amb resposta	Sí, la veritat que, bueno, vam començar nosaltres, això era impensable fer un festival de música electrònica aquí al país.	heurística textual; pendent d'audició
+85	394.080	402.880	dj-neura-probable	baixa	segment llarg compatible amb resposta	Bé, si encara estancava l'estès, eren les maties i xarxes, o sigui que, si fiquem com a exemple això, tot allò de més no cal dir res més.	heurística textual; pendent d'audició
+86	406.680	411.680	entrevistador-probable	mitjana	marcador interrogatiu o inici de pregunta	Com et prepares abans d'una actuació? Tens alguna rutina o ritual específic?	heurística textual; pendent d'audició
+87	412.920	416.760	indeterminat	baixa	no hi ha senyal textual suficient	Doncs la veritat és que el ritual que tinc és intentar posar-me	heurística textual; pendent d'audició
+88	416.760	421.440	indeterminat	baixa	no hi ha senyal textual suficient	el menys nerviós possible perquè tot ja així, amb els anys que hi porto punxant,	heurística textual; pendent d'audició
+89	422.160	425.960	indeterminat	baixa	no hi ha senyal textual suficient	si és que no hi punxes cada dia, cada dia davant de molt de públic,	heurística textual; pendent d'audició
+90	427.480	429.640	indeterminat	baixa	no hi ha senyal textual suficient	el que és el poesènic no marxa.	heurística textual; pendent d'audició
+91	429.640	433.440	indeterminat	baixa	no hi ha senyal textual suficient	Fins que no poso els dos primers temes, tremolo com un flam.	heurística textual; pendent d'audició
+92	433.840	437.880	indeterminat	baixa	no hi ha senyal textual suficient	Aleshores, intento estar el més tranquil possible abans de començar una sècie.	heurística textual; pendent d'audició
+93	438.560	442.840	indeterminat	baixa	no hi ha senyal textual suficient	Aquest és l'únic ritual que tinc, intento mantenir la calma tu.	heurística textual; pendent d'audició
+94	442.920	447.720	dj-neura-probable	baixa	primera persona i resposta desenvolupada	Sí, crec que això ens passa una mica tots, hi ha gent que més, hi ha gent que menys.	heurística textual; pendent d'audició
+95	447.720	450.000	dj-neura-probable	baixa	primera persona i resposta desenvolupada	Jo soc dels que també els hi passa, la veritat.	heurística textual; pendent d'audició
+96	450.000	458.200	dj-neura-probable	baixa	segment llarg compatible amb resposta	I sigui amb un gran escenari, sigui amb un petit escenari, amb un gran event, o bueno, continua passant, continua passant.	heurística textual; pendent d'audició
+97	460.600	465.080	entrevistador-probable	mitjana	marcador interrogatiu o inici de pregunta	Quines són les teves fons d'inspiració fora de la mà de música?	heurística textual; pendent d'audició
+98	466.080	471.800	indeterminat	baixa	no hi ha senyal textual suficient	Doncs la veritat, la inspiració més gran que tinc és el medi ambient.	heurística textual; pendent d'audició
+99	471.800	476.640	indeterminat	baixa	no hi ha senyal textual suficient	Encara que soni una miqueta estrany per a la gent que no ho pugui entendre,	heurística textual; pendent d'audició
+100	476.640	480.600	indeterminat	baixa	no hi ha senyal textual suficient	per mi el medi ambient és essencial, visc al costat de la muntanya.	heurística textual; pendent d'audició
+101	480.600	485.520	dj-neura-probable	baixa	primera persona i resposta desenvolupada	Surto cada dia a passejar-me al meu gos i pujo cap a la muntanya.	heurística textual; pendent d'audició
+102	485.520	491.000	indeterminat	baixa	no hi ha senyal textual suficient	La tranquil·litat, sentir l'aigua corrent del rec,	heurística textual; pendent d'audició
+103	491.000	497.640	dj-neura-probable	baixa	primera persona i resposta desenvolupada	o el pujar cap als 3 milions, perquè jo visco aquí a Andorra.	heurística textual; pendent d'audició
+104	497.640	504.120	dj-neura-probable	baixa	primera persona i resposta desenvolupada	Aquesta paula, aquesta tranquil·litat és el que em doné després les ganes i l'energia	heurística textual; pendent d'audició
+105	504.120	510.720	indeterminat	baixa	no hi ha senyal textual suficient	d'agafar la música, agafar els plats, agafar la controladora i posar-me mans a l'obra.	heurística textual; pendent d'audició
+106	510.720	514.920	dj-neura-probable	baixa	primera persona i resposta desenvolupada	I dir, avui vaig a crear algo que realment ressoni.	heurística textual; pendent d'audició
+107	514.920	524.040	dj-neura-probable	baixa	segment llarg compatible amb resposta	Sí, la veritat és que, bueno, en el nostre país vivim amb moltes dades de natura i això no té preu.	heurística textual; pendent d'audició
+108	524.040	529.040	indeterminat	baixa	no hi ha senyal textual suficient	La gent no sap la sort que té de viure en el país que viu.	heurística textual; pendent d'audició
+109	530.040	543.040	indeterminat	baixa	no hi ha senyal textual suficient	Lamentablement, tenim algunes persones que estan fent que la natura del nostre país estigui massa comercialitzada.	heurística textual; pendent d'audició
+110	543.040	547.040	dj-neura-probable	baixa	primera persona i resposta desenvolupada	No hauria de ser així. Sota el meu punt de veure que aquí copin el que vulguin.	heurística textual; pendent d'audició
+111	551.040	555.960	indeterminat	baixa	no hi ha senyal textual suficient	Aquí seguim amb digneures, sabent una miqueta més i ficant-nos al dia.	heurística textual; pendent d'audició
+112	556.520	559.080	indeterminat	baixa	no hi ha senyal textual suficient	Si la teva música fos un plat típic endorrar,	heurística textual; pendent d'audició
+113	559.160	561.640	entrevistador-probable	mitjana	marcador interrogatiu o inici de pregunta	quin seria i quins ingredients tindria?	heurística textual; pendent d'audició
+114	563.760	566.640	indeterminat	baixa	no hi ha senyal textual suficient	Si fos un plat típic endorrar...	heurística textual; pendent d'audició
+115	568.840	571.320	indeterminat	baixa	no hi ha senyal textual suficient	l'escubella, per qui porti de tot.	heurística textual; pendent d'audició
+116	572.520	575.880	dj-neura-probable	baixa	primera persona i resposta desenvolupada	I com que a mi m'agrada més clar-ho tot, doncs, escubella.	heurística textual; pendent d'audició
+117	578.440	583.000	dj-neura-probable	baixa	segment llarg compatible amb resposta	És una bona opció i ara que ja comença a fer fresqueta és un molt bon plat, la veritat.	heurística textual; pendent d'audició
+118	585.800	590.240	indeterminat	baixa	no hi ha senyal textual suficient	Això va finalitzant aquesta entrevista, ens ho hem passat molt bé, la veritat.	heurística textual; pendent d'audició
+119	590.720	592.280	indeterminat	baixa	no hi ha senyal textual suficient	Teníem molts dies que no parlàvem.	heurística textual; pendent d'audició
+120	592.720	597.240	indeterminat	baixa	no hi ha senyal textual suficient	Fem la pregunta absurda de les entrevistes del Freqüència Electrònica,	heurística textual; pendent d'audició
+121	597.240	600.840	indeterminat	baixa	no hi ha senyal textual suficient	que per aquesta edició m'he escullit aquesta.	heurística textual; pendent d'audició
+122	601.240	604.400	indeterminat	baixa	no hi ha senyal textual suficient	És una mica estranya, però a tothom li està fent molta gràcia.	heurística textual; pendent d'audició
+123	604.960	608.160	entrevistador-probable	mitjana	marcador interrogatiu o inici de pregunta	Si fosis una fruita, mentre es punxes, quina fruita series?	heurística textual; pendent d'audició
+124	608.440	613.880	entrevistador-probable	mitjana	marcador interrogatiu o inici de pregunta	Si jo fos una fruita, quina fruita seria?	heurística textual; pendent d'audició
+125	613.880	618.200	indeterminat	baixa	no hi ha senyal textual suficient	Doncs encara que no t'ho sembli, seria una castanya.	heurística textual; pendent d'audició
+126	618.200	622.680	dj-neura-probable	baixa	primera persona i resposta desenvolupada	"Així quan la gent diria ""toma castanya"", jo diria ""toma jo""."	heurística textual; pendent d'audició
+127	622.680	627.680	indeterminat	baixa	no hi ha senyal textual suficient	Molt bé, està molt bé.	heurística textual; pendent d'audició
+128	627.680	631.080	indeterminat	baixa	no hi ha senyal textual suficient	Vale, doncs ha estat un plaer.	heurística textual; pendent d'audició
+129	631.080	633.800	indeterminat	baixa	no hi ha senyal textual suficient	Tindré aquí el programa, la freqüència electrònica.	heurística textual; pendent d'audició
+130	633.800	641.080	indeterminat	baixa	no hi ha senyal textual suficient	només recordarem que et podem buscar a les xarxes qui vulguis escoltar-te i tot seguit també	heurística textual; pendent d'audició
+131	641.080	647.600	indeterminat	baixa	no hi ha senyal textual suficient	escoltarem una sessió de Tecno, poc habitual amb tu, però amb els seus stocks una mica comercials	heurística textual; pendent d'audició
+132	647.600	655.600	dj-neura-probable	baixa	segment llarg compatible amb resposta	i el teu estil. Així que un plaer tindré't i si ens recordes esteu a les xarxes socials la gent t'agrairà.	heurística textual; pendent d'audició
+133	655.600	662.600	dj-neura-probable	baixa	primera persona i resposta desenvolupada	Doncs em podeu trobar a qualsevol dels serveis de podcast que pugueu tindre els vostres serveis	heurística textual; pendent d'audició
+134	662.600	667.800	indeterminat	baixa	no hi ha senyal textual suficient	amb els vostres termes dels mòbils, com pot ser Apple Podcast o Google Podcast,	heurística textual; pendent d'audició
+135	667.800	672.640	indeterminat	baixa	no hi ha senyal textual suficient	o inclús en podeu trobar YouTube, en podeu trobar la plataforma principal on treballo,	heurística textual; pendent d'audició
+136	672.640	676.800	indeterminat	baixa	no hi ha senyal textual suficient	que se'n diu eardis.at, és una miqueta complexa,	heurística textual; pendent d'audició
+137	676.800	681.280	indeterminat	baixa	no hi ha senyal textual suficient	d'entendre-ho, escutxa esto.at, amb anglès, i re,	heurística textual; pendent d'audició
+138	681.280	687.280	indeterminat	baixa	no hi ha senyal textual suficient	i si us agrada, doncs ja sabeu, like, a seguir, i força!	heurística textual; pendent d'audició
+139	687.280	691.480	indeterminat	baixa	no hi ha senyal textual suficient	Molt bé, la veritat és que si amb aquesta última plataforma que has dit	heurística textual; pendent d'audició
+140	691.480	694.720	indeterminat	baixa	no hi ha senyal textual suficient	és on estem creant la plataforma que tenim del programa	heurística textual; pendent d'audició
+141	694.800	698.560	indeterminat	baixa	no hi ha senyal textual suficient	i on es podran escoltar també els nostres podcasts.	heurística textual; pendent d'audició
+142	698.640	701.400	indeterminat	baixa	no hi ha senyal textual suficient	Així que, un plaer, moltes gràcies i bona nit.	heurística textual; pendent d'audició

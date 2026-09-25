@@ -1,0 +1,54 @@
+forma	categoria	small	base	consens	model_localitzador	context_small	context_base	prob_min_segment_small	prob_mean_segment_small	prob_min_segment_base	prob_mean_segment_base	clip	inici_ms	final_ms	estat
+a nivell	discurs	4	4	sí	small	Són 15 medalles a nivell internacional,	perquè són 15 medalles a nivell internacional,	0.0430	0.6382	0.3133	0.7532	lead-yt-048__01__a-nivell.wav	113200	115760	ASR textual; atribució i audició pendents
+a veure	discurs	4	2	sí	small	amb ganes de pujar-te a veure allà i conèixer el teu nou país,	I m'he d'ara que tinc una mica lluny amb ganes de pujar-te a veure allà	0.4689	0.9242	0.3343	0.8339	lead-yt-048__02__a-veure.wav	24000	28000	ASR textual; atribució i audició pendents
+aleshores	discurs	0	0	no											ASR textual; atribució i audició pendents
+aviam	discurs	0	0	no											ASR textual; atribució i audició pendents
+bueno	discurs	17	16	sí	small	Eh, que sí, són els 58, bueno, els 59 que faré d'aquí un mes.	És que sí, són els 58, bueno, els 50 no ho que faré d'aquí un mes.	0.2062	0.7790	0.0705	0.7020	lead-yt-048__05__bueno.wav	8000	13000	ASR textual; atribució i audició pendents
+bé	discurs	21	20	sí	small	Molt bé, molt contenta, xerrant tu, i m'he d'anar una mica lluny,	Vull parlar amb l'ander, m'hi dan bé, parlant de medalles.	0.2269	0.7799	0.1108	0.5939	lead-yt-048__06__b.wav	20000	24000	ASR textual; atribució i audició pendents
+clar	discurs	15	11	sí	small	No sortís la corbata així, l'americana, perquè clar, els hem de donar la mà.	que també va recollir una, clar, la Ruit Betia me'l és un oranta.	0.0914	0.7206	0.3862	0.8457	lead-yt-048__07__clar.wav	286080	289600	ASR textual; atribució i audició pendents
+de fet	discurs	0	0	no											ASR textual; atribució i audició pendents
+diguem	discurs	0	0	no											ASR textual; atribució i audició pendents
+doncs	discurs	9	2	sí	small	que no es fa, doncs mira,	Doncs es mira tot molt amb l'opadre.	0.1592	0.6340	0.2392	0.6689	lead-yt-048__10__doncs.wav	204160	206240	ASR textual; atribució i audició pendents
+evidentment	discurs	0	0	no											ASR textual; atribució i audició pendents
+llavors	discurs	1	0	no	small	llavors és més perquè estàs en un lloc que no estàs acostumat.		0.7629	0.9525			lead-yt-048__12__llavors.wav	369200	372040	ASR textual; atribució i audició pendents
+no?	discurs	16	13	sí	small	Ja era hora, no? Això és Alejandro Blanco.	i us presidente a Alejandro, presidente, sí, no?	0.2064	0.8315	0.3269	0.7659	lead-yt-048__13__no.wav	170960	173160	ASR textual; atribució i audició pendents
+o sigui	discurs	0	1	no	base		O sigui, no hi ha vén diferents que el Sergi.			0.0599	0.7132	lead-yt-048__14__o-sigui.wav	1044800	1046520	ASR textual; atribució i audició pendents
+per tant	discurs	4	5	sí	small	Per tant, crec que s'ha d'estar molt orgullós,	Això ho sentis per a l'èfon, per tant, que el que trobes a casa et tremola.	0.6724	0.9286	0.4119	0.9311	lead-yt-048__15__per-tant.wav	782280	784440	ASR textual; atribució i audició pendents
+perquè	discurs	32	38	sí	small	Com va ser el teu dia, ahir, quan sabies, perquè això no és un teleprograma,	perquè són 15 medalles a nivell internacional,	0.3714	0.8624	0.3133	0.7532	lead-yt-048__16__perqu.wav	180160	184960	ASR textual; atribució i audició pendents
+vull dir	discurs	0	0	no											ASR textual; atribució i audició pendents
+és a dir	discurs	8	9	sí	small	és a dir, que intento estar en forma perquè ho necessito mentalment.	És a dir, crec que crear un projecte o un programa	0.5979	0.9361	0.1739	0.8931	lead-yt-048__18__s-a-dir.wav	617840	621600	ASR textual; atribució i audició pendents
+Canillo	territorial	0	0	no											ASR textual; atribució i audició pendents
+Escaldes	territorial	0	0	no											ASR textual; atribució i audició pendents
+Massana	territorial	0	0	no											ASR textual; atribució i audició pendents
+Ordino	territorial	0	0	no											ASR textual; atribució i audició pendents
+Sant Julià	territorial	0	0	no											ASR textual; atribució i audició pendents
+aiguats	territorial	0	0	no											ASR textual; atribució i audició pendents
+andorrana	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunal	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunals	territorial	0	0	no											ASR textual; atribució i audició pendents
+comuns	territorial	0	0	no											ASR textual; atribució i audició pendents
+comú	territorial	1	2	sí	small	Hi ha un tema que no ha sortit a la conversa, que és un tema comú i que igual penses que pot sortir.	A partir de l'estric comú, d'estir relaxat, amb la camisa hau allà i allà tot protocolari,	0.1548	0.8798	0.0731	0.4777	lead-yt-048__29__com.wav	1722300	1729780	ASR textual; atribució i audició pendents
+copríncep	territorial	0	0	no											ASR textual; atribució i audició pendents
+coprínceps	territorial	0	0	no											ASR textual; atribució i audició pendents
+padrí	territorial	0	0	no											ASR textual; atribució i audició pendents
+parròquia	territorial	0	0	no											ASR textual; atribució i audició pendents
+santuari	territorial	0	0	no											ASR textual; atribució i audició pendents
+veguer	territorial	0	0	no											ASR textual; atribució i audició pendents
+esport	esport	10	16	sí	small	perquè veig que són legendes de l'esport d'Espanyol,	la llament gual, perquè veigis que són la gent des de l'esport d'Espanyol.	0.3522	0.8313	0.1543	0.6754	lead-yt-048__36__esport.wav	208760	211600	ASR textual; atribució i audició pendents
+esports	esport	2	1	sí	small	en tot no existia ni una federació espanyola d'esports de gel,	Podíem... potser, seure, potser, potser alguns esports	0.2222	0.6761	0.2218	0.6862	lead-yt-048__37__esports.wav	250120	252440	ASR textual; atribució i audició pendents
+esportista	esport	4	5	sí	small	Per mi seria obligatòria que l'esportista que arribi a una subvenció	i crec que som el país que més esportista d'estar portant.	0.1728	0.6942	0.2651	0.7830	lead-yt-048__38__esportista.wav	1229220	1233060	ASR textual; atribució i audició pendents
+Skeleton	esport	0	0	no											ASR textual; atribució i audició pendents
+atleta	esport	1	0	no	small	Bueno, hem parlat, ja has vist, amb un atleta com tu, 22 anys, i amb permís del Noel, 22 anys, té el Noel, tu tens algú més,		0.0634	0.7447			lead-yt-048__40__atleta.wav	54520	64280	ASR textual; atribució i audició pendents
+Jocs Olímpics	esport	3	0	no	small	després dels quatre Jocs Olímpics,		0.7233	0.9267			lead-yt-048__41__jocs-ol-mpics.wav	105400	106960	ASR textual; atribució i audició pendents
+Jocs Paralímpics	esport	1	1	sí	small	Sí, hi ha els Jocs Olímpics i els Jocs Paralímpics.	Sí, hi ha els Jocs Límpics i els Jocs Paralímpics.	0.5091	0.9015	0.3299	0.8185	lead-yt-048__42__jocs-paral-mpics.wav	900820	904660	ASR textual; atribució i audició pendents
+medalla	esport	11	8	sí	small	però acaba de guanyar una medalla per un país com Andorra, que és petitó, petitó, petitó, 80.000 persones.	però acaba de guanyar una medalla per un país que, un país com Andorra,	0.3782	0.9016	0.1913	0.8530	lead-yt-048__43__medalla.wav	64280	71000	ASR textual; atribució i audició pendents
+competició	esport	4	4	sí	small	Hem fet la primera competició	Se'n fet la primera competició	0.6096	0.9418	0.1089	0.7319	lead-yt-048__44__competici.wav	1032060	1034060	ASR textual; atribució i audició pendents
+entrenament	esport	1	0	no	small	Avui hem tingut 3 hores d'entrenament de vol i platja,		0.4500	0.8998			lead-yt-048__45__entrenament.wav	607520	610320	ASR textual; atribució i audició pendents
+Andorra	toponim	7	3	sí	small	però acaba de guanyar una medalla per un país com Andorra, que és petitó, petitó, petitó, 80.000 persones.	però acaba de guanyar una medalla per un país que, un país com Andorra,	0.3782	0.9016	0.1913	0.8530	lead-yt-048__46__andorra.wav	64280	71000	ASR textual; atribució i audició pendents
+andorrà	gentilici	0	0	no											ASR textual; atribució i audició pendents
+Barcelona	toponim	0	0	no											ASR textual; atribució i audició pendents
+família	societat	5	5	sí	small	només de la família, i va ser molt emocionant,	quan vaig arribar a la carta oficial, no ho vaig dir ningú més de la família,	0.5742	0.8613	0.2710	0.8039	lead-yt-048__49__fam-lia.wav	198560	201440	ASR textual; atribució i audició pendents
+fundació	societat	2	1	sí	small	i que he engegat aquest any, amb la fundació d'Higitra Esteve,	Quan tu presentes al fundació i d'Hydra Esteve,	0.0739	0.7484	0.0556	0.5231	lead-yt-048__50__fundaci.wav	919100	921900	ASR textual; atribució i audició pendents
+joves	societat	0	1	no	base		que l'unitit més això és els valors de lluitar per anar uns joves l'impics			0.1930	0.6110	lead-yt-048__51__joves.wav	640920	645560	ASR textual; atribució i audició pendents
+neu	medi ambient	1	1	sí	small	que tracten molt bé, que t'estàs fent el món de la neu,	T'estàs fent el món de la neu, que jo tenia els vortubtes,	0.3594	0.8464	0.0633	0.6737	lead-yt-048__52__neu.wav	28000	31640	ASR textual; atribució i audició pendents
+muntanya	territori	0	0	no											ASR textual; atribució i audició pendents

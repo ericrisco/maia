@@ -1,0 +1,74 @@
+forma	categoria	small	base	consens	model_localitzador	context_small	context_base	prob_min_segment_small	prob_mean_segment_small	prob_min_segment_base	prob_mean_segment_base	clip	inici_ms	final_ms	estat
+a nivell	discurs	2	2	sí	small	o a nivell de tots els professionals	o a nivell de...	0.5637	0.8901	0.6778	0.8433	lead-rtva-020__01__a-nivell.wav	239480	243960	ASR textual; atribució i audició pendents
+a veure	discurs	9	6	sí	small	i ara estem començant a veure alguns fruits.	i ara estem començant a veure alguns fruits.	0.5258	0.9166	0.7095	0.8767	lead-rtva-020__02__a-veure.wav	121280	123920	ASR textual; atribució i audició pendents
+aleshores	discurs	0	0	no											ASR textual; atribució i audició pendents
+aviam	discurs	0	0	no											ASR textual; atribució i audició pendents
+bueno	discurs	9	7	sí	small	Bueno... Vostè està bé?	-Bueno. -Vostè està bé?	0.2970	0.7746	0.3395	0.7127	lead-rtva-020__05__bueno.wav	45360	46720	ASR textual; atribució i audició pendents
+bé	discurs	19	20	sí	small	Bueno... Vostè està bé?	-Bueno. -Vostè està bé?	0.2970	0.7746	0.3395	0.7127	lead-rtva-020__06__b.wav	45360	46720	ASR textual; atribució i audició pendents
+clar	discurs	6	3	sí	small	Li trec el tema o no?Sí, clar.	-Litreca el tema o no? -Sí, clar.	0.5519	0.8401	0.3126	0.7703	lead-rtva-020__07__clar.wav	810680	813360	ASR textual; atribució i audició pendents
+de fet	discurs	2	1	sí	small	Que van incrementant, de fet.Apesar de moments difícils...	De fet, el Comité Organitzador ja s'està reunint cada mes	0.3578	0.7040	0.3802	0.7922	lead-rtva-020__08__de-fet.wav	701520	704560	ASR textual; atribució i audició pendents
+diguem	discurs	1	1	sí	small	Però és un negoci, és una font d'ingressos, diguem-ne.	Però és un negoci, és una fond d'ingressos, diguem-ne?	0.6842	0.9148	0.3225	0.8516	lead-rtva-020__09__diguem.wav	1977880	1981160	ASR textual; atribució i audició pendents
+doncs	discurs	37	35	sí	small	Doncs no.	Doncs no.	0.8748	0.9376	0.7692	0.8427	lead-rtva-020__10__doncs.wav	39640	40640	ASR textual; atribució i audició pendents
+evidentment	discurs	1	1	sí	small	Evidentment, ens han demanat, doncs, al govern,	del multifuncional, evidentment ens hem demanat.	0.2887	0.8762	0.4743	0.8393	lead-rtva-020__11__evidentment.wav	1236160	1240080	ASR textual; atribució i audició pendents
+llavors	discurs	4	4	sí	small	Llavors, Borda Mateu, Santa Coloma, anallava a priori	Llavors, Borda Mateus, Santa Coloma, anallava a priori l'estadi del futbol clupandorra	0.2430	0.7605	0.2624	0.6983	lead-rtva-020__12__llavors.wav	908480	912000	ASR textual; atribució i audició pendents
+no?	discurs	17	15	sí	small	El millor... ja ho veurem, no?, els anys que queden per endavant,	El millor, ja ho veurem, no?	0.2936	0.8538	0.3919	0.7824	lead-rtva-020__13__no.wav	106560	110920	ASR textual; atribució i audició pendents
+o sigui	discurs	2	0	no	small	O sigui, la pressió la porten a dintre, perquè sí...		0.1076	0.6917			lead-rtva-020__14__o-sigui.wav	221560	224960	ASR textual; atribució i audició pendents
+per tant	discurs	7	6	sí	small	Per tant, hem d'intentar si volem tindre resultats	Per tant, tenen el nostre suport.	0.2595	0.8558	0.1100	0.7171	lead-rtva-020__15__per-tant.wav	631240	634160	ASR textual; atribució i audició pendents
+perquè	discurs	45	41	sí	small	Jo li argumento, perquè penso que és el millor moment,	Jo li argumento, perquè penso que és el millor moment.	0.6885	0.9064	0.3546	0.8436	lead-rtva-020__16__perqu.wav	132960	135800	ASR textual; atribució i audició pendents
+vull dir	discurs	1	0	no	small	Vull dir, aquí, realment hi ha un esforç econòmic important		0.3396	0.8866			lead-rtva-020__17__vull-dir.wav	758760	762880	ASR textual; atribució i audició pendents
+és a dir	discurs	1	0	no	small	És a dir, hi ha hagut promocions immobiliàries de molts duros,		0.5480	0.9318			lead-rtva-020__18__s-a-dir.wav	1189640	1192640	ASR textual; atribució i audició pendents
+Canillo	territorial	1	0	no	small	com a consulmenor de Canillo, sí, que me'n recordo perfectament.		0.2044	0.8090			lead-rtva-020__19__canillo.wav	1801440	1804400	ASR textual; atribució i audició pendents
+Escaldes	territorial	0	0	no											ASR textual; atribució i audició pendents
+Massana	territorial	0	0	no											ASR textual; atribució i audició pendents
+Ordino	territorial	1	1	sí	small	hem continuat invertint en el centre de tecnificació d'ordino,	hem continuat invertint en el centre de significació d'ordino,	0.3882	0.8610	0.3205	0.7607	lead-rtva-020__22__ordino.wav	749200	752520	ASR textual; atribució i audició pendents
+Sant Julià	territorial	0	0	no											ASR textual; atribució i audició pendents
+aiguats	territorial	0	0	no											ASR textual; atribució i audició pendents
+andorrana	territorial	2	0	no	small	Tot i que és veritat que també la Federació Andorrana de Fútbol,		0.1255	0.8580			lead-rtva-020__25__andorrana.wav	1071120	1075040	ASR textual; atribució i audició pendents
+comunal	territorial	2	0	no	small	A l'estadi comunal hi ha d'haver certes millores.		0.3597	0.8301			lead-rtva-020__26__comunal.wav	1744920	1747680	ASR textual; atribució i audició pendents
+comunals	territorial	0	0	no											ASR textual; atribució i audició pendents
+comuns	territorial	1	1	sí	small	que s'organitzen des de govern o des dels comuns,	que s'organitzen des de govern o des dels comuns.	0.4181	0.8922	0.4029	0.8552	lead-rtva-020__28__comuns.wav	2017720	2020880	ASR textual; atribució i audició pendents
+comú	territorial	1	4	sí	small	que són la Federació de Rupi i el VPC i el Comú d'Encam,	Una part de terreny que el comú d'endorre la vella ha de concedir	0.3623	0.7494	0.4960	0.8094	lead-rtva-020__29__com.wav	1699360	1703560	ASR textual; atribució i audició pendents
+copríncep	territorial	0	0	no											ASR textual; atribució i audició pendents
+coprínceps	territorial	0	0	no											ASR textual; atribució i audició pendents
+padrí	territorial	0	0	no											ASR textual; atribució i audició pendents
+parròquia	territorial	1	1	sí	small	i aquests clubs de futbol és estrany que hagin de marxar de la parròquia,	I aquests clups de fútbol és estrany que és indemarxada de la parròquia.	0.5381	0.9041	0.3117	0.7895	lead-rtva-020__33__parr-quia.wav	1152560	1158560	ASR textual; atribució i audició pendents
+santuari	territorial	0	0	no											ASR textual; atribució i audició pendents
+veguer	territorial	0	0	no											ASR textual; atribució i audició pendents
+ministra	institucions	8	6	sí	small	36843, si teniu preguntes per la ministra.	Som les 9 i 6 minutets. Avui el cafè el fem amb la ministra de Cultura i Sports Monica.	0.2755	0.8345	0.1395	0.6856	lead-rtva-020__36__ministra.wav	68000	71000	ASR textual; atribució i audició pendents
+ministeri	institucions	5	6	sí	small	Molt agraïda, i la veritat és que és un ministeri agraït,	I la veritat és que és un ministeri agraït,	0.6259	0.9386	0.7120	0.9183	lead-rtva-020__37__ministeri.wav	50640	54960	ASR textual; atribució i audició pendents
+cultura	cultura	4	1	sí	small	Són les 9 i 6 minuts, avui el fem amb la ministre de Cultura i Esports,	Som les 9 i 6 minutets. Avui el cafè el fem amb la ministra de Cultura i Sports Monica.	0.3015	0.7766	0.1395	0.6856	lead-rtva-020__38__cultura.wav	28520	32360	ASR textual; atribució i audició pendents
+joventut	societat	0	0	no											ASR textual; atribució i audició pendents
+esports	esport	8	5	sí	small	Són les 9 i 6 minuts, avui el fem amb la ministre de Cultura i Esports,	que va les esports també la fatient millor que jo,	0.3015	0.7766	0.0318	0.4560	lead-rtva-020__40__esports.wav	28520	32360	ASR textual; atribució i audició pendents
+patrimoni	cultura	0	0	no											ASR textual; atribució i audició pendents
+museu	cultura	0	0	no											ASR textual; atribució i audició pendents
+biblioteca	cultura	0	0	no											ASR textual; atribució i audició pendents
+arxiu	cultura	0	0	no											ASR textual; atribució i audició pendents
+federació	esport	5	6	sí	small	Tot i que és veritat que també la Federació Andorrana de Fútbol,	Aquí ja ha hagut un gran esforç per part de federació,	0.1255	0.8580	0.2805	0.7365	lead-rtva-020__45__federaci.wav	1071120	1075040	ASR textual; atribució i audició pendents
+futbol	esport	27	15	sí	small	Això és l'estadi del Futbol Club Andorra,	Això és l'estadi del futbol clupandorra, el nou estadi de nou instal·lació	0.3935	0.8952	0.2739	0.7868	lead-rtva-020__46__futbol.wav	828400	830600	ASR textual; atribució i audició pendents
+bàsquet	esport	3	0	no	small	començant pel bàsquet,		0.3893	0.8471			lead-rtva-020__47__b-squet.wav	1844640	1847200	ASR textual; atribució i audició pendents
+pavelló	esport	7	0	no	small	o fins i tot el pavelló de govern,		0.6369	0.9020			lead-rtva-020__48__pavell.wav	1253360	1255760	ASR textual; atribució i audició pendents
+pavelló Toni Martí	esport	0	0	no											ASR textual; atribució i audició pendents
+Comitè Olímpic	esport	1	0	no	small	I després, doncs, també, s'hi va afegir el comitè olímpic,		0.2700	0.8179			lead-rtva-020__50__comit-ol-mpic.wav	1847280	1851400	ASR textual; atribució i audició pendents
+Govern	institucions	23	16	sí	small	que des de govern des del ministeri s'ha donat suport,	I el Nauel, per exemple, la Beca és de 16.000, de govern,	0.5457	0.8844	0.1165	0.6741	lead-rtva-020__51__govern.wav	117760	121200	ASR textual; atribució i audició pendents
+Comú d’Andorra la Vella	institucions	0	0	no											ASR textual; atribució i audició pendents
+Andorra la Vella	toponim	0	0	no											ASR textual; atribució i audició pendents
+La Massana	toponim	0	0	no											ASR textual; atribució i audició pendents
+Santa Coloma	toponim	1	1	sí	small	Llavors, Borda Mateu, Santa Coloma, anallava a priori	Llavors, Borda Mateus, Santa Coloma, anallava a priori l'estadi del futbol clupandorra	0.2430	0.7605	0.2624	0.6983	lead-rtva-020__55__santa-coloma.wav	908480	912000	ASR textual; atribució i audició pendents
+Andorra	toponim	27	5	sí	small	Està vostè gestionant el millor moment de l'Història de l'esport a Andorra?	Està vostè gestionant el millor moment de l'història de l'esport Andorra?	0.1058	0.8476	0.1158	0.8191	lead-rtva-020__56__andorra.wav	91000	94400	ASR textual; atribució i audició pendents
+andorrà	gentilici	0	0	no											ASR textual; atribució i audició pendents
+andorrans	gentilici	0	0	no											ASR textual; atribució i audició pendents
+projecte	institucions	9	9	sí	small	que estan treballant en aquest projecte.	que estan treballant en aquest projecte.	0.6202	0.9417	0.7476	0.9262	lead-rtva-020__59__projecte.wav	976800	978960	ASR textual; atribució i audició pendents
+concessió	institucions	3	3	sí	small	amb el vestit plau del govern que faria una concessió	que faria una concessió sol d'un ultipuncional al futbol clopantorra.	0.1022	0.7673	0.1308	0.6897	lead-rtva-020__60__concessi.wav	936600	939240	ASR textual; atribució i audició pendents
+estadi	esport	24	14	sí	small	Això és l'estadi del Futbol Club Andorra,	Això és l'estadi del futbol clupandorra, el nou estadi de nou instal·lació	0.3935	0.8952	0.2739	0.7868	lead-rtva-020__61__estadi.wav	828400	830600	ASR textual; atribució i audició pendents
+esdeveniment	cultura	4	2	sí	small	que és aquest esdeveniment més gran que tenim	que és aquest esdeveniment més gran, que tenim,	0.4859	0.8723	0.4420	0.8439	lead-rtva-020__62__esdeveniment.wav	1300120	1303480	ASR textual; atribució i audició pendents
+premis	cultura	4	3	sí	small	però són premis que, segons les medalles que has aconseguit,	a l'anit de l'esport, però són premis que, segons les medalles,	0.5551	0.9343	0.1601	0.7552	lead-rtva-020__63__premis.wav	662760	666120	ASR textual; atribució i audició pendents
+Toni Martí	memòria	2	2	sí	small	que aquest Pavelló ha aviat, doncs, es dirà Toni Martí.	havia doncs es dirà Toni Martí, pàvelló Toni Martí.	0.3508	0.8043	0.2526	0.8190	lead-rtva-020__64__toni-mart.wav	1863160	1866960	ASR textual; atribució i audició pendents
+jocs	esport	6	2	sí	small	perquè aquest és un any de Jocs Olímpics d'Estiu, eh?	perquè és un any de Jocs o Límpics Estiua,	0.5347	0.8639	0.3539	0.7512	lead-rtva-020__65__jocs.wav	148080	150280	ASR textual; atribució i audició pendents
+festa	cultura	0	0	no											ASR textual; atribució i audició pendents
+equip	esport	5	4	sí	small	Doncs s'apren molt divers i tinc un gran equip que m'envolta	A vostè li sembla bé que no tinguin equip de base?	0.1419	0.8120	0.2233	0.7309	lead-rtva-020__67__equip.wav	55040	60760	ASR textual; atribució i audició pendents
+català	sociolingüística	0	0	no											ASR textual; atribució i audició pendents
+francès	contacte	0	0	no											ASR textual; atribució i audició pendents
+castellà	contacte	0	0	no											ASR textual; atribució i audició pendents
+hipermotion	esport	3	0	no	small	que ho diu millor que jo, perquè jo dic hipermotion.		0.2863	0.8094			lead-rtva-020__71__hipermotion.wav	899600	901800	ASR textual; atribució i audició pendents
+lliga	esport	4	5	sí	small	de la lliga de futbol professional espanyola.	tipus mínims de la lliga de futbol professional espanyola.	0.4277	0.9036	0.4153	0.8453	lead-rtva-020__72__lliga.wav	883560	886120	ASR textual; atribució i audició pendents
+comissió legislativa	institucions	1	0	no	small	la comissió legislativa i el comodant d'Orlavella,		0.1849	0.7795			lead-rtva-020__73__comissi-legislativa.wav	1851480	1855840	ASR textual; atribució i audició pendents

@@ -1,0 +1,285 @@
+categoria	forma	parlants	comptatge_total	nota
+discurs	a nivell	pa-001,pa-002,pa-003,pa-016,pa-017,pa-018,pa-019,pa-020,pa-023,pa-024,pa-026,pa-029,pa-033,pa-034,pa-036,pa-038,pa-045,pa-048,pa-049,pa-055,pa-057,pa-058,pa-059,pa-060,pa-061,pa-063,pa-065,pa-066	108	recompte ASR; revisió auditiva pendent
+discurs	a veure	pa-001,pa-002,pa-007,pa-008,pa-011,pa-014,pa-016,pa-018,pa-021,pa-022,pa-023,pa-024,pa-025,pa-026,pa-029,pa-030,pa-031,pa-032,pa-034,pa-035,pa-036,pa-038,pa-041,pa-045,pa-048,pa-049,pa-054,pa-055,pa-056,pa-057,pa-058,pa-060,pa-061,pa-063,pa-064,pa-065	109	recompte ASR; revisió auditiva pendent
+discurs	aleshores	pa-001,pa-003,pa-006,pa-008,pa-011,pa-012,pa-014,pa-021,pa-025,pa-030,pa-031,pa-032,pa-045,pa-046,pa-048,pa-049,pa-056,pa-060,pa-063,pa-065	88	recompte ASR; revisió auditiva pendent
+discurs	aviam	pa-003,pa-014,pa-016,pa-020,pa-049	9	recompte ASR; revisió auditiva pendent
+discurs	bueno	pa-001,pa-002,pa-003,pa-007,pa-008,pa-016,pa-017,pa-018,pa-019,pa-020,pa-021,pa-022,pa-023,pa-024,pa-025,pa-026,pa-027,pa-028,pa-029,pa-030,pa-031,pa-032,pa-034,pa-035,pa-036,pa-037,pa-038,pa-039,pa-041,pa-043,pa-045,pa-046,pa-048,pa-049,pa-051,pa-052,pa-054,pa-055,pa-056,pa-057,pa-058,pa-059,pa-060,pa-061,pa-062,pa-063,pa-065,pa-066	392	recompte ASR; revisió auditiva pendent
+discurs	bé	pa-001,pa-002,pa-003,pa-004,pa-005,pa-006,pa-007,pa-008,pa-009,pa-010,pa-011,pa-012,pa-013,pa-014,pa-015,pa-016,pa-017,pa-018,pa-019,pa-020,pa-021,pa-022,pa-023,pa-024,pa-025,pa-026,pa-027,pa-028,pa-029,pa-030,pa-031,pa-032,pa-033,pa-034,pa-035,pa-036,pa-037,pa-038,pa-039,pa-040,pa-041,pa-045,pa-046,pa-048,pa-049,pa-053,pa-054,pa-055,pa-056,pa-057,pa-058,pa-059,pa-060,pa-061,pa-062,pa-063,pa-064,pa-065,pa-066	409	recompte ASR; revisió auditiva pendent
+discurs	clar	pa-001,pa-002,pa-003,pa-005,pa-006,pa-007,pa-008,pa-009,pa-010,pa-014,pa-016,pa-017,pa-018,pa-019,pa-020,pa-021,pa-022,pa-024,pa-025,pa-026,pa-027,pa-028,pa-029,pa-030,pa-031,pa-032,pa-033,pa-034,pa-035,pa-036,pa-037,pa-038,pa-039,pa-041,pa-042,pa-045,pa-046,pa-048,pa-049,pa-051,pa-052,pa-055,pa-056,pa-057,pa-058,pa-059,pa-061,pa-062,pa-063,pa-064,pa-065	388	recompte ASR; revisió auditiva pendent
+discurs	de fet	pa-001,pa-002,pa-003,pa-004,pa-006,pa-008,pa-010,pa-011,pa-016,pa-022,pa-023,pa-024,pa-025,pa-027,pa-028,pa-031,pa-033,pa-040,pa-051,pa-057,pa-060,pa-065,pa-066	39	recompte ASR; revisió auditiva pendent
+discurs	diguem	pa-003,pa-006,pa-007,pa-008,pa-009,pa-018,pa-019,pa-020,pa-022,pa-023,pa-025,pa-027,pa-028,pa-029,pa-033,pa-034,pa-037,pa-038,pa-039,pa-046,pa-049,pa-057,pa-058,pa-060,pa-062	39	recompte ASR; revisió auditiva pendent
+discurs	doncs	pa-004,pa-005,pa-006,pa-007,pa-008,pa-009,pa-010,pa-011,pa-012,pa-013,pa-014,pa-015,pa-016,pa-017,pa-018,pa-019,pa-020,pa-021,pa-022,pa-024,pa-025,pa-026,pa-027,pa-028,pa-029,pa-030,pa-031,pa-032,pa-033,pa-034,pa-035,pa-036,pa-037,pa-038,pa-039,pa-040,pa-041,pa-043,pa-045,pa-046,pa-048,pa-049,pa-055,pa-056,pa-057,pa-058,pa-059,pa-060,pa-061,pa-062,pa-063,pa-064,pa-065	435	recompte ASR; revisió auditiva pendent
+discurs	evidentment	pa-001,pa-002,pa-003,pa-004,pa-006,pa-007,pa-009,pa-011,pa-013,pa-014,pa-016,pa-017,pa-019,pa-020,pa-021,pa-022,pa-024,pa-025,pa-026,pa-027,pa-030,pa-035,pa-036,pa-039,pa-040,pa-041,pa-045,pa-046,pa-049,pa-055,pa-056,pa-059,pa-061,pa-062,pa-064,pa-066	108	recompte ASR; revisió auditiva pendent
+discurs	llavors	pa-001,pa-002,pa-005,pa-006,pa-007,pa-009,pa-010,pa-014,pa-015,pa-016,pa-017,pa-018,pa-019,pa-022,pa-023,pa-024,pa-026,pa-027,pa-028,pa-029,pa-030,pa-032,pa-033,pa-034,pa-036,pa-037,pa-038,pa-041,pa-045,pa-046,pa-048,pa-049,pa-051,pa-052,pa-053,pa-054,pa-055,pa-056,pa-057,pa-058,pa-059,pa-060,pa-061,pa-063,pa-064,pa-065,pa-066	245	recompte ASR; revisió auditiva pendent
+discurs	no?	pa-001,pa-002,pa-004,pa-007,pa-008,pa-011,pa-016,pa-019,pa-020,pa-021,pa-022,pa-024,pa-025,pa-026,pa-027,pa-028,pa-029,pa-030,pa-032,pa-034,pa-038,pa-039,pa-042,pa-045,pa-046,pa-048,pa-049,pa-055,pa-056,pa-057,pa-058,pa-061,pa-062,pa-063,pa-064,pa-066	348	recompte ASR; revisió auditiva pendent
+discurs	o sigui	pa-001,pa-005,pa-006,pa-009,pa-014,pa-015,pa-016,pa-022,pa-024,pa-025,pa-026,pa-027,pa-029,pa-030,pa-034,pa-038,pa-040,pa-045,pa-046,pa-048,pa-049,pa-055,pa-056,pa-057,pa-059,pa-061,pa-062,pa-063,pa-064,pa-065	109	recompte ASR; revisió auditiva pendent
+discurs	per tant	pa-001,pa-002,pa-004,pa-005,pa-008,pa-009,pa-010,pa-011,pa-012,pa-013,pa-016,pa-017,pa-019,pa-024,pa-025,pa-026,pa-027,pa-030,pa-034,pa-036,pa-039,pa-041,pa-055,pa-056,pa-059,pa-062,pa-063,pa-064,pa-065,pa-066	119	recompte ASR; revisió auditiva pendent
+discurs	perquè	pa-001,pa-002,pa-003,pa-004,pa-006,pa-007,pa-008,pa-009,pa-010,pa-011,pa-012,pa-013,pa-014,pa-015,pa-016,pa-017,pa-018,pa-019,pa-020,pa-021,pa-022,pa-023,pa-024,pa-025,pa-026,pa-027,pa-028,pa-029,pa-030,pa-031,pa-032,pa-033,pa-034,pa-035,pa-036,pa-037,pa-038,pa-039,pa-040,pa-041,pa-042,pa-045,pa-046,pa-048,pa-049,pa-051,pa-052,pa-053,pa-054,pa-055,pa-056,pa-057,pa-058,pa-059,pa-060,pa-061,pa-062,pa-063,pa-064,pa-065,pa-066	1096	recompte ASR; revisió auditiva pendent
+discurs	vull dir	pa-001,pa-002,pa-004,pa-014,pa-016,pa-017,pa-020,pa-021,pa-022,pa-023,pa-025,pa-026,pa-027,pa-030,pa-031,pa-032,pa-033,pa-034,pa-036,pa-037,pa-038,pa-041,pa-045,pa-048,pa-049,pa-055,pa-056,pa-058,pa-059,pa-060,pa-061,pa-062,pa-063,pa-065	306	recompte ASR; revisió auditiva pendent
+discurs	és a dir	pa-001,pa-002,pa-003,pa-007,pa-008,pa-010,pa-011,pa-013,pa-014,pa-016,pa-017,pa-018,pa-019,pa-021,pa-022,pa-023,pa-024,pa-025,pa-026,pa-027,pa-029,pa-030,pa-033,pa-034,pa-035,pa-039,pa-041,pa-043,pa-046,pa-048,pa-049,pa-055,pa-056,pa-057,pa-058,pa-059,pa-060,pa-062,pa-064,pa-065	176	recompte ASR; revisió auditiva pendent
+gramatica	contacte_castella_candidat=bueno	pa-001,pa-002,pa-003,pa-007,pa-008,pa-016,pa-017,pa-018,pa-019,pa-020,pa-021,pa-022,pa-023,pa-024,pa-025,pa-026,pa-027,pa-028,pa-029,pa-030,pa-031,pa-032,pa-034,pa-035,pa-036,pa-037,pa-038,pa-039,pa-041,pa-043,pa-045,pa-046,pa-048,pa-049,pa-051,pa-052,pa-054,pa-055,pa-056,pa-057,pa-058,pa-059,pa-060,pa-061,pa-062,pa-063,pa-065,pa-066	392	recompte ASR; revisió auditiva pendent
+gramatica	contacte_castella_candidat=pues	pa-016,pa-018,pa-024,pa-025,pa-026,pa-032,pa-034,pa-037,pa-038,pa-049,pa-055,pa-058,pa-059	17	recompte ASR; revisió auditiva pendent
+gramatica	contacte_castella_candidat=vale	pa-018,pa-024,pa-034,pa-038	6	recompte ASR; revisió auditiva pendent
+gramatica	incoatiu_eix_candidat=coneix	pa-008,pa-013,pa-030,pa-056,pa-063	9	recompte ASR; revisió auditiva pendent
+gramatica	incoatiu_eix_candidat=coneixen	pa-008,pa-039,pa-048	3	recompte ASR; revisió auditiva pendent
+gramatica	incoatiu_eix_candidat=coneixeu	pa-007,pa-025,pa-038	4	recompte ASR; revisió auditiva pendent
+gramatica	incoatiu_eix_candidat=converteix	pa-009,pa-013,pa-025	3	recompte ASR; revisió auditiva pendent
+gramatica	incoatiu_eix_candidat=desapareix	pa-014,pa-024,pa-045	6	recompte ASR; revisió auditiva pendent
+gramatica	incoatiu_eix_candidat=existeix	pa-003,pa-062,pa-065	4	recompte ASR; revisió auditiva pendent
+gramatica	incoatiu_eix_candidat=llegeix	pa-009,pa-030,pa-056	3	recompte ASR; revisió auditiva pendent
+gramatica	incoatiu_eix_candidat=produeix	pa-008,pa-045,pa-046,pa-049	4	recompte ASR; revisió auditiva pendent
+gramatica	incoatiu_eix_candidat=segueix	pa-011,pa-021,pa-046	3	recompte ASR; revisió auditiva pendent
+gramatica	incoatiu_eix_candidat=segueixen	pa-018,pa-046,pa-049,pa-058,pa-064	5	recompte ASR; revisió auditiva pendent
+gramatica	incoatiu_eix_candidat=serveixen	pa-009,pa-012,pa-027,pa-038,pa-062	5	recompte ASR; revisió auditiva pendent
+gramatica	negacio_lexical_candidat=mai	pa-001,pa-002,pa-007,pa-009,pa-010,pa-016,pa-017,pa-018,pa-019,pa-020,pa-022,pa-024,pa-025,pa-026,pa-027,pa-030,pa-032,pa-035,pa-036,pa-037,pa-038,pa-040,pa-042,pa-045,pa-046,pa-048,pa-049,pa-054,pa-055,pa-056,pa-058,pa-059,pa-061,pa-062,pa-063,pa-064,pa-065	72	recompte ASR; revisió auditiva pendent
+gramatica	negacio_lexical_candidat=tampoc	pa-001,pa-002,pa-004,pa-010,pa-014,pa-016,pa-017,pa-018,pa-019,pa-020,pa-021,pa-022,pa-024,pa-025,pa-027,pa-028,pa-029,pa-030,pa-031,pa-032,pa-034,pa-035,pa-036,pa-037,pa-038,pa-041,pa-045,pa-048,pa-049,pa-056,pa-057,pa-058,pa-059,pa-061,pa-063,pa-065	86	recompte ASR; revisió auditiva pendent
+gramatica	negacio_no_pas_candidat=no ... pas	pa-001,pa-007,pa-009,pa-016,pa-018,pa-033,pa-036,pa-038,pa-045,pa-058	14	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va acabar	pa-001,pa-018,pa-023,pa-024,pa-026,pa-029,pa-030,pa-031,pa-036,pa-038,pa-039,pa-040,pa-049,pa-055,pa-056,pa-057,pa-058,pa-060	31	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va acollir	pa-020,pa-021,pa-062,pa-066	5	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va aconseguir	pa-007,pa-022,pa-024	3	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va agafar	pa-014,pa-017,pa-020,pa-026,pa-037,pa-055,pa-059,pa-062	9	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va aixecar	pa-026,pa-027,pa-055	3	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va ajudar	pa-020,pa-022,pa-025,pa-029,pa-051,pa-057,pa-064	13	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va al	pa-008,pa-038,pa-045	3	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va anar	pa-001,pa-002,pa-005,pa-011,pa-014,pa-016,pa-017,pa-018,pa-019,pa-020,pa-024,pa-026,pa-030,pa-036,pa-037,pa-041,pa-049,pa-053,pa-054,pa-055,pa-056,pa-058,pa-059,pa-061,pa-062,pa-063	45	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va aportar	pa-023,pa-055,pa-060,pa-063	4	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va arribar	pa-006,pa-007,pa-017,pa-018,pa-026,pa-031,pa-033,pa-037,pa-046,pa-055,pa-058,pa-059,pa-061,pa-065	16	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va avançar	pa-027,pa-029,pa-057	3	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va buscar	pa-022,pa-024,pa-029,pa-057	4	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va bé	pa-001,pa-005,pa-013,pa-021,pa-024,pa-026,pa-027,pa-029,pa-030,pa-031,pa-032,pa-034,pa-038,pa-055,pa-056,pa-057,pa-064	21	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va canviar	pa-007,pa-025,pa-027,pa-028,pa-029,pa-030,pa-032,pa-056,pa-057,pa-060	12	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va caure	pa-020,pa-024,pa-026,pa-034,pa-055	6	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va començar	pa-008,pa-010,pa-011,pa-014,pa-017,pa-020,pa-026,pa-031,pa-034,pa-036,pa-038,pa-041,pa-046,pa-049,pa-055,pa-059,pa-061,pa-063,pa-064	38	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va comprar	pa-026,pa-045,pa-046,pa-049,pa-055	5	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va considerar	pa-023,pa-024,pa-025,pa-060	4	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va construir	pa-011,pa-013,pa-046	5	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va contestar	pa-026,pa-027,pa-055	3	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va continuar	pa-020,pa-024,pa-035	3	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va convidar	pa-004,pa-026,pa-055	5	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va costar	pa-002,pa-023,pa-026,pa-027,pa-030,pa-031,pa-034,pa-036,pa-049,pa-055,pa-056,pa-060	24	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va crear	pa-008,pa-014,pa-022,pa-023,pa-028,pa-029,pa-033,pa-035,pa-045,pa-057,pa-060,pa-062,pa-063,pa-064	15	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va decidir	pa-002,pa-008,pa-017,pa-024,pa-031,pa-059	11	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va dedicar	pa-007,pa-010,pa-013,pa-035	4	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va defensar	pa-007,pa-018,pa-058	3	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va deixar	pa-002,pa-017,pa-019,pa-022,pa-034,pa-038,pa-059,pa-064	9	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va delegar	pa-026,pa-039,pa-055	3	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va demanar	pa-002,pa-003,pa-012,pa-020,pa-026,pa-029,pa-035,pa-040,pa-055,pa-057	11	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va dibuixar	pa-024,pa-029,pa-057	3	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va dir	pa-001,pa-002,pa-012,pa-014,pa-017,pa-018,pa-020,pa-022,pa-023,pa-024,pa-025,pa-026,pa-027,pa-029,pa-031,pa-032,pa-033,pa-034,pa-035,pa-036,pa-038,pa-039,pa-045,pa-053,pa-055,pa-057,pa-058,pa-059,pa-060,pa-062,pa-065	122	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va disoldre	pa-019,pa-023,pa-060	3	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va donar	pa-002,pa-003,pa-010,pa-015,pa-018,pa-024,pa-025,pa-026,pa-029,pa-034,pa-049,pa-055,pa-057,pa-058,pa-062,pa-066	25	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va durar	pa-002,pa-014,pa-019	3	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va entrar	pa-002,pa-018,pa-023,pa-026,pa-032,pa-035,pa-036,pa-055,pa-058,pa-060,pa-064	17	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va estar	pa-004,pa-009,pa-021,pa-026,pa-029,pa-034,pa-035,pa-045,pa-049,pa-055,pa-059,pa-061,pa-063,pa-064,pa-066	19	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va explicar	pa-024,pa-025,pa-037	3	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va fent	pa-002,pa-024,pa-025	3	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va fer	pa-001,pa-002,pa-009,pa-010,pa-011,pa-016,pa-017,pa-018,pa-019,pa-020,pa-022,pa-023,pa-024,pa-025,pa-026,pa-027,pa-028,pa-029,pa-030,pa-031,pa-032,pa-034,pa-035,pa-036,pa-037,pa-038,pa-039,pa-040,pa-045,pa-049,pa-053,pa-055,pa-056,pa-057,pa-058,pa-059,pa-060,pa-061,pa-062,pa-063,pa-064,pa-065,pa-066	181	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va formar	pa-018,pa-024,pa-035,pa-058,pa-061	5	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va generar	pa-007,pa-019,pa-029,pa-057	4	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va guanyar	pa-026,pa-036,pa-055	3	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va haver	pa-001,pa-002,pa-003,pa-008,pa-014,pa-016,pa-017,pa-018,pa-019,pa-020,pa-021,pa-022,pa-023,pa-024,pa-025,pa-026,pa-027,pa-029,pa-030,pa-031,pa-032,pa-033,pa-034,pa-035,pa-036,pa-037,pa-038,pa-039,pa-040,pa-048,pa-049,pa-055,pa-056,pa-057,pa-058,pa-059,pa-060,pa-061,pa-062,pa-064,pa-066	153	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va i	pa-017,pa-059,pa-063	3	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va inaugurar	pa-011,pa-013,pa-061,pa-063	4	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va incorporar	pa-014,pa-026,pa-055	3	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va llegir	pa-002,pa-020,pa-033	5	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va mantenir	pa-008,pa-029,pa-057	3	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va marxar	pa-004,pa-064,pa-066	3	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va molt	pa-020,pa-038,pa-064	3	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va morir	pa-007,pa-011,pa-016,pa-062,pa-064	7	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va més	pa-018,pa-048,pa-058	3	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va no	pa-018,pa-031,pa-034,pa-058	4	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va nominar	pa-002,pa-026,pa-035,pa-055	5	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va néixer	pa-018,pa-029,pa-049,pa-057,pa-058	5	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va obrir	pa-024,pa-062,pa-065	4	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va optar	pa-029,pa-041,pa-057	3	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va parar	pa-022,pa-026,pa-055	5	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va parlar	pa-001,pa-002,pa-010,pa-024,pa-036	7	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va participar	pa-018,pa-029,pa-057,pa-058	8	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va passar	pa-001,pa-002,pa-007,pa-008,pa-011,pa-013,pa-016,pa-018,pa-020,pa-021,pa-022,pa-024,pa-025,pa-026,pa-030,pa-031,pa-034,pa-038,pa-046,pa-049,pa-055,pa-056,pa-058	54	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va pensar	pa-016,pa-039,pa-066	3	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va per	pa-010,pa-030,pa-034,pa-049	4	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va permetre	pa-023,pa-024,pa-029,pa-036,pa-049,pa-057,pa-060	7	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va plantejar	pa-002,pa-026,pa-038,pa-055	4	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va plegar	pa-023,pa-038,pa-051,pa-060	4	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va poder	pa-002,pa-004,pa-008,pa-011,pa-018,pa-020,pa-024,pa-036,pa-045,pa-049,pa-058,pa-066	17	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va portar	pa-005,pa-014,pa-018,pa-025,pa-026,pa-027,pa-031,pa-036,pa-038,pa-049,pa-058,pa-062	14	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va posar	pa-002,pa-010,pa-020,pa-021,pa-024,pa-026,pa-027,pa-030,pa-033,pa-038,pa-041,pa-055,pa-056,pa-064,pa-066	20	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va presentar	pa-031,pa-032,pa-035	4	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va propiciar	pa-008,pa-019,pa-038	4	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va provocar	pa-002,pa-019,pa-024,pa-029,pa-036,pa-057	8	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va publicar	pa-005,pa-008,pa-025	4	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va quedar	pa-001,pa-011,pa-013,pa-017,pa-018,pa-025,pa-026,pa-029,pa-034,pa-035,pa-036,pa-038,pa-039,pa-049,pa-055,pa-057,pa-058,pa-059,pa-066	27	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va rebre	pa-002,pa-024,pa-026,pa-055,pa-062	10	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va semblar	pa-024,pa-031,pa-035,pa-062	4	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va ser	pa-001,pa-002,pa-003,pa-004,pa-005,pa-007,pa-008,pa-010,pa-011,pa-013,pa-014,pa-016,pa-017,pa-018,pa-019,pa-020,pa-021,pa-022,pa-023,pa-024,pa-025,pa-026,pa-027,pa-028,pa-029,pa-030,pa-031,pa-032,pa-033,pa-034,pa-035,pa-036,pa-037,pa-038,pa-039,pa-040,pa-041,pa-045,pa-049,pa-052,pa-053,pa-055,pa-056,pa-057,pa-058,pa-059,pa-060,pa-061,pa-062,pa-063,pa-064,pa-065,pa-066	407	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va sorgir	pa-026,pa-041,pa-055	3	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va sortir	pa-001,pa-002,pa-017,pa-019,pa-022,pa-029,pa-036,pa-049,pa-057,pa-059,pa-063,pa-064	16	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va tancar	pa-001,pa-017,pa-024,pa-059	4	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va tenir	pa-002,pa-011,pa-014,pa-017,pa-018,pa-019,pa-020,pa-021,pa-023,pa-024,pa-025,pa-029,pa-031,pa-039,pa-049,pa-057,pa-058,pa-059,pa-060,pa-062,pa-065,pa-066	29	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va tindre	pa-002,pa-022,pa-038,pa-049,pa-061	6	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va tocar	pa-001,pa-026,pa-029,pa-038,pa-039,pa-055,pa-057,pa-063	11	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va tornar	pa-007,pa-017,pa-049,pa-059	4	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va treballar	pa-016,pa-019,pa-037,pa-049,pa-057	7	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va trobar	pa-001,pa-005,pa-018,pa-019,pa-027,pa-045,pa-054,pa-058	8	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va va	pa-020,pa-034,pa-048	3	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va venir	pa-017,pa-018,pa-026,pa-034,pa-035,pa-045,pa-046,pa-055,pa-058,pa-059,pa-062,pa-063,pa-066	28	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va veure	pa-001,pa-002,pa-018,pa-026,pa-027,pa-031,pa-055,pa-058,pa-062	16	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va vindre	pa-002,pa-026,pa-030,pa-031,pa-038,pa-049,pa-055,pa-056	12	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va viure	pa-008,pa-036,pa-049,pa-062	4	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va voler	pa-027,pa-032,pa-039,pa-063	4	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=va votar	pa-002,pa-018,pa-020,pa-026,pa-029,pa-032,pa-034,pa-035,pa-038,pa-055,pa-057,pa-058	16	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vaig anar	pa-020,pa-024,pa-025,pa-026,pa-030,pa-031,pa-052,pa-055,pa-056,pa-064,pa-065	15	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vaig arribar	pa-018,pa-030,pa-034,pa-056,pa-058,pa-062	6	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vaig començar	pa-014,pa-034,pa-053,pa-063,pa-064	5	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vaig considerar	pa-001,pa-017,pa-035,pa-059	4	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vaig creure	pa-034,pa-035,pa-045	4	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vaig demanar	pa-001,pa-030,pa-035,pa-056	4	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vaig dir	pa-001,pa-002,pa-016,pa-018,pa-020,pa-024,pa-025,pa-026,pa-030,pa-031,pa-034,pa-038,pa-042,pa-052,pa-055,pa-056,pa-058,pa-063,pa-065	36	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vaig donar	pa-030,pa-031,pa-056	3	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vaig entrar	pa-019,pa-037,pa-038	3	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vaig estar	pa-020,pa-024,pa-029,pa-035,pa-057,pa-063,pa-064	8	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vaig fer	pa-002,pa-020,pa-021,pa-024,pa-033,pa-034,pa-037,pa-051,pa-053,pa-062	10	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vaig parlar	pa-024,pa-026,pa-030,pa-055,pa-056,pa-062	11	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vaig participar	pa-035,pa-037,pa-041	3	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vaig pensar	pa-024,pa-034,pa-062	6	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vaig poder	pa-002,pa-016,pa-018,pa-036,pa-058,pa-066	6	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vaig posar	pa-026,pa-055,pa-064	4	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vaig pujar	pa-016,pa-034,pa-053	4	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vaig quedar	pa-001,pa-002,pa-025,pa-026,pa-030,pa-034,pa-037,pa-055,pa-056,pa-064,pa-066	14	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vaig ser	pa-021,pa-034,pa-035,pa-038,pa-045,pa-062	8	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vaig tenir	pa-010,pa-017,pa-018,pa-021,pa-034,pa-052,pa-053,pa-058,pa-059,pa-062,pa-063,pa-065	17	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vaig treballar	pa-016,pa-041,pa-045,pa-064	7	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vaig trobar	pa-005,pa-017,pa-034,pa-036,pa-059,pa-062	12	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vaig veure	pa-020,pa-028,pa-034,pa-038	7	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vaig viure	pa-019,pa-020,pa-030,pa-034,pa-036,pa-056	12	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vaig voler	pa-017,pa-043,pa-059	3	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vaig votar	pa-021,pa-030,pa-037,pa-056	6	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vam acabar	pa-002,pa-025,pa-036	4	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vam acordar	pa-018,pa-019,pa-058	3	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vam agafar	pa-026,pa-027,pa-031,pa-035,pa-055	5	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vam anar	pa-002,pa-014,pa-016,pa-017,pa-018,pa-020,pa-024,pa-025,pa-026,pa-035,pa-036,pa-055,pa-058,pa-059	38	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vam arribar	pa-020,pa-022,pa-023,pa-024,pa-025,pa-030,pa-031,pa-033,pa-056,pa-060	13	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vam començar	pa-002,pa-017,pa-018,pa-020,pa-025,pa-026,pa-028,pa-034,pa-035,pa-038,pa-049,pa-055,pa-058,pa-063,pa-065	26	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vam conèixer	pa-002,pa-026,pa-055	3	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vam decidir	pa-025,pa-028,pa-031	6	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vam deixar	pa-001,pa-020,pa-027,pa-036	5	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vam demanar	pa-018,pa-020,pa-025,pa-026,pa-035,pa-049,pa-055,pa-058	8	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vam dir	pa-002,pa-014,pa-017,pa-018,pa-020,pa-022,pa-025,pa-028,pa-030,pa-031,pa-032,pa-034,pa-035,pa-036,pa-037,pa-038,pa-039,pa-049,pa-058,pa-059	33	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vam disfrutar	pa-023,pa-035,pa-060	5	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vam donar	pa-002,pa-017,pa-028,pa-031,pa-059	6	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vam entrar	pa-020,pa-021,pa-026,pa-028,pa-032,pa-035,pa-037,pa-038,pa-042,pa-055	17	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vam estar	pa-002,pa-024,pa-025,pa-026,pa-029,pa-030,pa-032,pa-034,pa-035,pa-036,pa-055,pa-056,pa-057,pa-063	18	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vam fer	pa-002,pa-016,pa-017,pa-018,pa-020,pa-021,pa-022,pa-024,pa-025,pa-026,pa-027,pa-028,pa-029,pa-031,pa-033,pa-034,pa-037,pa-038,pa-045,pa-053,pa-055,pa-057,pa-058,pa-059,pa-063,pa-066	73	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vam guanyar	pa-018,pa-024,pa-026,pa-055,pa-058	9	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vam intentar	pa-017,pa-018,pa-021,pa-058,pa-059	5	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vam marxar	pa-025,pa-026,pa-037,pa-055,pa-065	6	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vam obrir	pa-018,pa-058,pa-061,pa-063	6	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vam obtenir	pa-018,pa-035,pa-058	3	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vam parlar	pa-024,pa-026,pa-036,pa-055	6	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vam passar	pa-026,pa-027,pa-029,pa-046,pa-055,pa-057	6	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vam perdre	pa-018,pa-036,pa-038,pa-058	5	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vam poder	pa-002,pa-029,pa-036,pa-057	15	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vam posar	pa-020,pa-023,pa-026,pa-032,pa-038,pa-056,pa-060,pa-065,pa-066	10	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vam quedar	pa-002,pa-020,pa-027,pa-030,pa-035,pa-036,pa-056	14	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vam rebre	pa-026,pa-045,pa-055	3	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vam reunir	pa-002,pa-027,pa-030,pa-032,pa-056	6	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vam ser	pa-002,pa-016,pa-021,pa-024,pa-025,pa-027,pa-028,pa-030,pa-032,pa-034,pa-041,pa-042,pa-055,pa-056,pa-064	19	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vam sortir	pa-002,pa-022,pa-024,pa-025,pa-026,pa-035,pa-038,pa-055	9	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vam tenir	pa-004,pa-018,pa-021,pa-022,pa-025,pa-026,pa-029,pa-031,pa-032,pa-034,pa-035,pa-036,pa-038,pa-046,pa-053,pa-055,pa-057,pa-058,pa-059,pa-064,pa-066	42	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vam tindre	pa-016,pa-020,pa-026,pa-031,pa-038	5	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vam tornar	pa-018,pa-026,pa-030,pa-055,pa-056,pa-058	6	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vam treballar	pa-016,pa-017,pa-022,pa-027,pa-034,pa-036,pa-059	10	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vam trobar	pa-020,pa-021,pa-026,pa-034,pa-045,pa-055	8	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vam veure	pa-020,pa-025,pa-035,pa-036	4	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vam votar	pa-018,pa-020,pa-021,pa-026,pa-055,pa-058	8	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=van acabar	pa-002,pa-018,pa-020,pa-025,pa-038,pa-058	9	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=van acceptar	pa-018,pa-019,pa-020,pa-058	6	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=van adherir	pa-026,pa-038,pa-055	3	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=van ajudar	pa-020,pa-025,pa-029,pa-057	8	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=van amb	pa-026,pa-055,pa-064	3	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=van anar	pa-001,pa-002,pa-004,pa-013,pa-016,pa-018,pa-020,pa-024,pa-025,pa-027,pa-046,pa-051,pa-054,pa-055,pa-058,pa-066	26	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=van arribar	pa-002,pa-013,pa-016,pa-017,pa-025,pa-059	6	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=van baixar	pa-001,pa-025,pa-051,pa-052	6	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=van buscar	pa-018,pa-029,pa-058	3	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=van començar	pa-002,pa-008,pa-025,pa-029,pa-053,pa-057,pa-061,pa-063	11	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=van convidar	pa-025,pa-026,pa-055	4	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=van convocar	pa-025,pa-026,pa-030,pa-055,pa-056	5	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=van crear	pa-023,pa-049,pa-062,pa-063,pa-064	6	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=van creure	pa-018,pa-035,pa-049,pa-058	4	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=van decidir	pa-011,pa-030,pa-056	4	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=van dir	pa-002,pa-008,pa-014,pa-018,pa-020,pa-022,pa-024,pa-027,pa-030,pa-032,pa-034,pa-035,pa-036,pa-037,pa-038,pa-056,pa-057,pa-058	31	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=van entrar	pa-023,pa-027,pa-049,pa-060,pa-061	5	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=van estar	pa-008,pa-018,pa-022,pa-025,pa-030,pa-036,pa-039,pa-049,pa-056,pa-058,pa-066	15	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=van fer	pa-001,pa-002,pa-004,pa-008,pa-009,pa-016,pa-017,pa-018,pa-020,pa-022,pa-023,pa-024,pa-025,pa-027,pa-029,pa-030,pa-034,pa-035,pa-036,pa-038,pa-039,pa-040,pa-041,pa-045,pa-049,pa-056,pa-057,pa-058,pa-059,pa-060,pa-064,pa-065	76	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=van firmar	pa-002,pa-023,pa-032	3	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=van haver	pa-004,pa-016,pa-029,pa-037,pa-057	5	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=van obrir	pa-013,pa-029,pa-057	3	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=van parlar	pa-022,pa-025,pa-030,pa-056	4	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=van participar	pa-018,pa-023,pa-028,pa-038,pa-058,pa-060	6	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=van passar	pa-002,pa-007,pa-016,pa-023,pa-036,pa-060	11	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=van pensar	pa-020,pa-028,pa-036	4	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=van poder	pa-002,pa-018,pa-036,pa-058	5	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=van posar	pa-002,pa-005,pa-020,pa-026,pa-032,pa-035,pa-038,pa-055	12	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=van pujar	pa-001,pa-026,pa-055	5	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=van quedar	pa-001,pa-004,pa-010,pa-066	5	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=van reunir	pa-026,pa-034,pa-055	3	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=van seguir	pa-002,pa-018,pa-058,pa-066	5	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=van ser	pa-002,pa-003,pa-004,pa-014,pa-017,pa-018,pa-019,pa-020,pa-023,pa-024,pa-025,pa-027,pa-028,pa-029,pa-032,pa-037,pa-038,pa-039,pa-045,pa-049,pa-054,pa-057,pa-058,pa-059,pa-060,pa-062,pa-064	41	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=van sortir	pa-018,pa-031,pa-058	3	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=van tenir	pa-021,pa-023,pa-033,pa-045,pa-054,pa-060,pa-064	7	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=van tindre	pa-002,pa-016,pa-038,pa-040,pa-049,pa-061	9	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=van tornar	pa-023,pa-025,pa-037,pa-060	5	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=van trobar	pa-002,pa-008,pa-011,pa-018,pa-020,pa-029,pa-038,pa-039,pa-057,pa-058	13	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=van venir	pa-018,pa-024,pa-035,pa-048,pa-058,pa-062,pa-065	10	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=van veure	pa-007,pa-014,pa-019,pa-020,pa-023,pa-025,pa-031,pa-033,pa-060,pa-066	13	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=van vindre	pa-002,pa-030,pa-056	4	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=van viure	pa-022,pa-023,pa-034,pa-060	6	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=van voler	pa-001,pa-027,pa-038	4	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=van votar	pa-016,pa-018,pa-019,pa-020,pa-021,pa-027,pa-030,pa-038,pa-039,pa-056,pa-058	16	recompte ASR; revisió auditiva pendent
+gramatica	perifrasi_past_candidata=vas tu	pa-026,pa-055,pa-063	3	recompte ASR; revisió auditiva pendent
+gramatica	possessius_candidat=meu	pa-001,pa-002,pa-003,pa-008,pa-009,pa-016,pa-018,pa-019,pa-020,pa-021,pa-022,pa-025,pa-026,pa-027,pa-030,pa-034,pa-036,pa-037,pa-038,pa-039,pa-040,pa-042,pa-045,pa-048,pa-049,pa-051,pa-053,pa-054,pa-055,pa-056,pa-058,pa-061,pa-062,pa-063,pa-064,pa-065	121	recompte ASR; revisió auditiva pendent
+gramatica	possessius_candidat=meus	pa-007,pa-017,pa-018,pa-026,pa-027,pa-032,pa-035,pa-037,pa-038,pa-039,pa-042,pa-043,pa-049,pa-052,pa-054,pa-055,pa-059,pa-062,pa-064	27	recompte ASR; revisió auditiva pendent
+gramatica	possessius_candidat=meva	pa-001,pa-002,pa-003,pa-005,pa-007,pa-009,pa-012,pa-016,pa-018,pa-020,pa-021,pa-022,pa-023,pa-024,pa-025,pa-026,pa-028,pa-030,pa-031,pa-034,pa-035,pa-036,pa-038,pa-040,pa-041,pa-042,pa-045,pa-046,pa-048,pa-049,pa-052,pa-053,pa-054,pa-055,pa-056,pa-058,pa-060,pa-061,pa-062,pa-063,pa-064,pa-065,pa-066	112	recompte ASR; revisió auditiva pendent
+gramatica	possessius_candidat=meves	pa-025,pa-035,pa-056,pa-062,pa-065	8	recompte ASR; revisió auditiva pendent
+gramatica	possessius_candidat=nostra	pa-002,pa-005,pa-006,pa-007,pa-008,pa-009,pa-010,pa-012,pa-013,pa-016,pa-017,pa-018,pa-019,pa-020,pa-021,pa-024,pa-027,pa-031,pa-034,pa-036,pa-037,pa-043,pa-045,pa-046,pa-048,pa-049,pa-058,pa-059,pa-062,pa-063,pa-066	63	recompte ASR; revisió auditiva pendent
+gramatica	possessius_candidat=nostre	pa-002,pa-003,pa-004,pa-005,pa-007,pa-009,pa-010,pa-012,pa-013,pa-014,pa-016,pa-017,pa-018,pa-020,pa-021,pa-024,pa-026,pa-027,pa-029,pa-030,pa-031,pa-034,pa-038,pa-039,pa-043,pa-045,pa-046,pa-055,pa-056,pa-057,pa-058,pa-059,pa-061,pa-062,pa-063,pa-064,pa-065	107	recompte ASR; revisió auditiva pendent
+gramatica	possessius_candidat=nostres	pa-001,pa-002,pa-007,pa-008,pa-009,pa-010,pa-015,pa-017,pa-018,pa-019,pa-020,pa-024,pa-031,pa-033,pa-035,pa-036,pa-038,pa-039,pa-045,pa-046,pa-048,pa-049,pa-058,pa-059,pa-061,pa-062,pa-063,pa-065,pa-066	71	recompte ASR; revisió auditiva pendent
+gramatica	possessius_candidat=seu	pa-001,pa-002,pa-004,pa-006,pa-008,pa-009,pa-010,pa-011,pa-013,pa-014,pa-015,pa-018,pa-019,pa-020,pa-021,pa-023,pa-024,pa-025,pa-026,pa-027,pa-029,pa-030,pa-031,pa-033,pa-034,pa-035,pa-036,pa-037,pa-038,pa-039,pa-040,pa-041,pa-045,pa-046,pa-048,pa-049,pa-055,pa-056,pa-057,pa-058,pa-060,pa-061,pa-062,pa-063,pa-064,pa-065,pa-066	151	recompte ASR; revisió auditiva pendent
+gramatica	possessius_candidat=seus	pa-001,pa-002,pa-005,pa-006,pa-008,pa-009,pa-011,pa-013,pa-018,pa-020,pa-022,pa-024,pa-025,pa-026,pa-027,pa-029,pa-032,pa-033,pa-038,pa-042,pa-045,pa-046,pa-048,pa-055,pa-057,pa-058,pa-061,pa-062,pa-063,pa-065	50	recompte ASR; revisió auditiva pendent
+gramatica	possessius_candidat=seva	pa-001,pa-006,pa-007,pa-008,pa-009,pa-010,pa-011,pa-012,pa-013,pa-014,pa-015,pa-018,pa-019,pa-020,pa-021,pa-024,pa-027,pa-029,pa-030,pa-031,pa-033,pa-034,pa-036,pa-037,pa-040,pa-041,pa-042,pa-046,pa-048,pa-049,pa-056,pa-057,pa-058,pa-061,pa-062,pa-063,pa-064,pa-065	132	recompte ASR; revisió auditiva pendent
+gramatica	possessius_candidat=seves	pa-002,pa-004,pa-008,pa-011,pa-012,pa-013,pa-014,pa-015,pa-017,pa-018,pa-019,pa-020,pa-024,pa-027,pa-035,pa-038,pa-039,pa-042,pa-058,pa-059,pa-063,pa-065	43	recompte ASR; revisió auditiva pendent
+gramatica	possessius_candidat=teu	pa-002,pa-003,pa-037,pa-038,pa-048,pa-049,pa-061,pa-063	11	recompte ASR; revisió auditiva pendent
+gramatica	possessius_candidat=teus	pa-025,pa-032,pa-061,pa-062	4	recompte ASR; revisió auditiva pendent
+gramatica	possessius_candidat=teva	pa-010,pa-016,pa-018,pa-038,pa-045,pa-048,pa-049,pa-058,pa-062	10	recompte ASR; revisió auditiva pendent
+gramatica	possessius_candidat=vostra	pa-001,pa-005,pa-009,pa-012,pa-013,pa-046,pa-049,pa-061,pa-062	16	recompte ASR; revisió auditiva pendent
+gramatica	possessius_candidat=vostre	pa-010,pa-012,pa-049,pa-061	8	recompte ASR; revisió auditiva pendent
+gramatica	pronom_en_candidat=en	pa-001,pa-002,pa-003,pa-004,pa-005,pa-006,pa-007,pa-008,pa-009,pa-010,pa-011,pa-012,pa-013,pa-014,pa-015,pa-016,pa-017,pa-018,pa-019,pa-020,pa-021,pa-022,pa-023,pa-024,pa-025,pa-026,pa-027,pa-028,pa-029,pa-030,pa-031,pa-032,pa-033,pa-034,pa-035,pa-036,pa-037,pa-038,pa-039,pa-040,pa-041,pa-042,pa-045,pa-046,pa-048,pa-049,pa-051,pa-052,pa-053,pa-054,pa-055,pa-056,pa-057,pa-058,pa-059,pa-060,pa-061,pa-062,pa-063,pa-064,pa-065,pa-066	1573	recompte ASR; revisió auditiva pendent
+gramatica	pronom_en_candidat=n	pa-038,pa-039,pa-045,pa-049,pa-065	5	recompte ASR; revisió auditiva pendent
+gramatica	pronom_en_candidat=n'anaven	pa-014,pa-041,pa-064	3	recompte ASR; revisió auditiva pendent
+gramatica	pronom_en_candidat=n'estic	pa-003,pa-039,pa-062,pa-063	5	recompte ASR; revisió auditiva pendent
+gramatica	pronom_en_candidat=n'ha	pa-002,pa-011,pa-014,pa-018,pa-024,pa-048,pa-058,pa-064	8	recompte ASR; revisió auditiva pendent
+gramatica	pronom_en_candidat=n'havia	pa-017,pa-021,pa-023,pa-029,pa-035,pa-057,pa-059,pa-064	11	recompte ASR; revisió auditiva pendent
+gramatica	pronom_en_candidat=n'he	pa-002,pa-004,pa-014,pa-032	4	recompte ASR; revisió auditiva pendent
+gramatica	pronom_en_candidat=n'hem	pa-002,pa-024,pa-025,pa-046,pa-048	6	recompte ASR; revisió auditiva pendent
+gramatica	pronom_en_candidat=n'hi	pa-002,pa-004,pa-005,pa-006,pa-008,pa-014,pa-018,pa-021,pa-022,pa-024,pa-025,pa-026,pa-027,pa-030,pa-031,pa-032,pa-034,pa-036,pa-037,pa-038,pa-041,pa-051,pa-055,pa-058,pa-062,pa-065	39	recompte ASR; revisió auditiva pendent
+gramatica	pronom_en_candidat=n'és	pa-022,pa-029,pa-057	4	recompte ASR; revisió auditiva pendent
+gramatica	pronom_en_candidat=n'éssim	pa-009,pa-023,pa-058,pa-060	4	recompte ASR; revisió auditiva pendent
+gramatica	pronom_hi_candidat=hi	pa-001,pa-002,pa-003,pa-004,pa-005,pa-006,pa-007,pa-008,pa-009,pa-010,pa-011,pa-012,pa-013,pa-014,pa-016,pa-017,pa-018,pa-019,pa-020,pa-021,pa-022,pa-023,pa-024,pa-025,pa-026,pa-027,pa-028,pa-029,pa-030,pa-031,pa-032,pa-033,pa-034,pa-035,pa-036,pa-037,pa-038,pa-039,pa-040,pa-041,pa-042,pa-043,pa-045,pa-046,pa-048,pa-049,pa-051,pa-052,pa-053,pa-054,pa-055,pa-056,pa-057,pa-058,pa-059,pa-060,pa-061,pa-062,pa-063,pa-064,pa-065,pa-066	1568	recompte ASR; revisió auditiva pendent
+gramatica	pronom_ho_candidat=ho	pa-001,pa-002,pa-004,pa-005,pa-006,pa-007,pa-008,pa-009,pa-010,pa-011,pa-012,pa-014,pa-015,pa-016,pa-017,pa-018,pa-019,pa-020,pa-021,pa-022,pa-023,pa-024,pa-025,pa-026,pa-027,pa-028,pa-029,pa-030,pa-031,pa-032,pa-033,pa-034,pa-035,pa-036,pa-037,pa-038,pa-039,pa-040,pa-041,pa-042,pa-043,pa-045,pa-046,pa-048,pa-049,pa-051,pa-053,pa-054,pa-055,pa-056,pa-057,pa-058,pa-059,pa-060,pa-061,pa-062,pa-063,pa-064,pa-065,pa-066	886	recompte ASR; revisió auditiva pendent
+territorial	Canillo	pa-002,pa-005,pa-007,pa-009,pa-016,pa-018,pa-021,pa-023,pa-026,pa-027,pa-030,pa-031,pa-034,pa-036,pa-037,pa-038,pa-039,pa-046,pa-056,pa-058,pa-060,pa-062,pa-065	55	recompte ASR; revisió auditiva pendent
+territorial	Escaldes	pa-002,pa-004,pa-005,pa-006,pa-007,pa-008,pa-010,pa-013,pa-014,pa-017,pa-018,pa-024,pa-025,pa-026,pa-033,pa-035,pa-036,pa-038,pa-045,pa-049,pa-053,pa-054,pa-055,pa-056,pa-058,pa-059,pa-066	95	recompte ASR; revisió auditiva pendent
+territorial	Massana	pa-002,pa-007,pa-020,pa-025,pa-026,pa-030,pa-031,pa-034,pa-055,pa-056,pa-064	21	recompte ASR; revisió auditiva pendent
+territorial	Ordino	pa-002,pa-004,pa-005,pa-006,pa-007,pa-008,pa-009,pa-010,pa-011,pa-014,pa-016,pa-020,pa-025,pa-026,pa-027,pa-029,pa-030,pa-032,pa-036,pa-055,pa-056,pa-057	47	recompte ASR; revisió auditiva pendent
+territorial	Sant Julià	pa-002,pa-004,pa-005,pa-006,pa-007,pa-008,pa-009,pa-014,pa-017,pa-018,pa-020,pa-023,pa-024,pa-025,pa-026,pa-030,pa-036,pa-039,pa-042,pa-054,pa-055,pa-056,pa-058,pa-059,pa-066	49	recompte ASR; revisió auditiva pendent
+territorial	aiguats	pa-004,pa-049,pa-066	4	recompte ASR; revisió auditiva pendent
+territorial	andorrana	pa-001,pa-003,pa-007,pa-018,pa-048,pa-049,pa-057	11	recompte ASR; revisió auditiva pendent
+territorial	comunal	pa-004,pa-005,pa-020,pa-045	6	recompte ASR; revisió auditiva pendent
+territorial	comunals	pa-005,pa-016,pa-020,pa-025,pa-026,pa-051,pa-055	8	recompte ASR; revisió auditiva pendent
+territorial	comuns	pa-001,pa-005,pa-010,pa-018,pa-019,pa-020,pa-025,pa-027,pa-029,pa-035,pa-038,pa-057,pa-058	26	recompte ASR; revisió auditiva pendent
+territorial	comú	pa-002,pa-004,pa-005,pa-007,pa-008,pa-009,pa-014,pa-017,pa-018,pa-020,pa-034,pa-035,pa-036,pa-037,pa-039,pa-049,pa-051,pa-058,pa-059,pa-065	36	recompte ASR; revisió auditiva pendent
+territorial	copríncep	pa-001,pa-002,pa-007,pa-017,pa-018,pa-020,pa-025,pa-026,pa-036,pa-038,pa-055,pa-058,pa-059	34	recompte ASR; revisió auditiva pendent
+territorial	coprínceps	pa-017,pa-025,pa-027,pa-030,pa-038,pa-058	25	recompte ASR; revisió auditiva pendent
+territorial	padrí	pa-009,pa-014,pa-062,pa-064	6	recompte ASR; revisió auditiva pendent
+territorial	parròquia	pa-002,pa-004,pa-005,pa-008,pa-009,pa-015,pa-016,pa-018,pa-021,pa-023,pa-024,pa-025,pa-027,pa-030,pa-033,pa-034,pa-037,pa-038,pa-040,pa-049,pa-056,pa-058,pa-060	50	recompte ASR; revisió auditiva pendent
+territorial	santuari	pa-009,pa-045,pa-048,pa-065	7	recompte ASR; revisió auditiva pendent
+territorial	veguer	pa-001,pa-002,pa-025,pa-027,pa-038,pa-064	8	recompte ASR; revisió auditiva pendent

@@ -1,0 +1,1081 @@
+id_parlant	nom_public	mostres_id	n_mostres	categoria	candidat	referencia	indicador_automatic	estat_indicador	observacio_auditiva
+spk-001	Alan Ward	pa-006	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-001	Alan Ward	pa-006	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-001	Alan Ward	pa-006	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-001	Alan Ward	pa-006	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=Ordino=1;Escaldes=2;Sant Julià=3 (ASR)	candidat lèxic; validar àudio	
+spk-001	Alan Ward	pa-006	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=Ordino=1;Escaldes=2;Sant Julià=3 (ASR)	candidat lèxic; validar àudio	
+spk-001	Alan Ward	pa-006	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials=Ordino=1;Escaldes=2;Sant Julià=3 (ASR)	candidat lèxic; validar àudio	
+spk-001	Alan Ward	pa-006	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-001	Alan Ward	pa-006	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-001	Alan Ward	pa-006	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=3;clar=1;doncs=3;llavors=3;aleshores=1;de fet=2;o sigui=4;diguem=1;evidentment=2;perquè=6	indicador textual; validar àudio	
+spk-001	Alan Ward	pa-006	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=133.36; f0_sd_hz=78.15; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat	
+spk-001	Alan Ward	pa-006	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=4 (ASR)	indicador textual; validar àudio	
+spk-001	Alan Ward	pa-006	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-001	Alan Ward	pa-006	1	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat	
+spk-001	Alan Ward	pa-006	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-001	Alan Ward	pa-006	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-001	Alan Ward	pa-006	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-001	Alan Ward	pa-006	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-001	Alan Ward	pa-006	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-002	Albert Gelabert Grau	pa-001	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-002	Albert Gelabert Grau	pa-001	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-002	Albert Gelabert Grau	pa-001	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-002	Albert Gelabert Grau	pa-001	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=andorrana=1;comuns=3;copríncep=1;veguer=1 (ASR)	candidat lèxic; validar àudio	
+spk-002	Albert Gelabert Grau	pa-001	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=andorrana=1;comuns=3;copríncep=1;veguer=1 (ASR)	candidat lèxic; validar àudio	
+spk-002	Albert Gelabert Grau	pa-001	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials=andorrana=1;comuns=3;copríncep=1;veguer=1 (ASR)	candidat lèxic; validar àudio	
+spk-002	Albert Gelabert Grau	pa-001	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-002	Albert Gelabert Grau	pa-001	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-002	Albert Gelabert Grau	pa-001	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=10;bueno=2;clar=5;llavors=1;aleshores=23;de fet=1;és a dir=1;o sigui=10;vull dir=2;a veure=3;evidentment=1;perquè=20;per tant=6;a nivell=3;no?=4	indicador textual; validar àudio	
+spk-002	Albert Gelabert Grau	pa-001	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=90.78; f0_sd_hz=72.22; pausa_mediana_s=0.06	descriptor acústic; no és tret confirmat	
+spk-002	Albert Gelabert Grau	pa-001	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=64 (ASR)	indicador textual; validar àudio	
+spk-002	Albert Gelabert Grau	pa-001	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-002	Albert Gelabert Grau	pa-001	1	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat	
+spk-002	Albert Gelabert Grau	pa-001	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-002	Albert Gelabert Grau	pa-001	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-002	Albert Gelabert Grau	pa-001	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-002	Albert Gelabert Grau	pa-001	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-002	Albert Gelabert Grau	pa-001	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-003	Albert Roig	pa-008	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-003	Albert Roig	pa-008	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-003	Albert Roig	pa-008	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-003	Albert Roig	pa-008	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=parròquia=1;comú=2;Ordino=3;Escaldes=4;Sant Julià=3 (ASR)	candidat lèxic; validar àudio	
+spk-003	Albert Roig	pa-008	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=parròquia=1;comú=2;Ordino=3;Escaldes=4;Sant Julià=3 (ASR)	candidat lèxic; validar àudio	
+spk-003	Albert Roig	pa-008	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials=parròquia=1;comú=2;Ordino=3;Escaldes=4;Sant Julià=3 (ASR)	candidat lèxic; validar àudio	
+spk-003	Albert Roig	pa-008	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-003	Albert Roig	pa-008	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-003	Albert Roig	pa-008	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=3;bueno=1;clar=1;doncs=16;aleshores=1;de fet=1;és a dir=2;a veure=2;diguem=1;perquè=21;per tant=3;no?=3	indicador textual; validar àudio	
+spk-003	Albert Roig	pa-008	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=112.23; f0_sd_hz=196.69; pausa_mediana_s=0.10	descriptor acústic; no és tret confirmat	
+spk-003	Albert Roig	pa-008	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=46 (ASR)	indicador textual; validar àudio	
+spk-003	Albert Roig	pa-008	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-003	Albert Roig	pa-008	1	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat	
+spk-003	Albert Roig	pa-008	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-003	Albert Roig	pa-008	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-003	Albert Roig	pa-008	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-003	Albert Roig	pa-008	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-003	Albert Roig	pa-008	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-004	Albert Rossa Naudí	pa-012	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-004	Albert Rossa Naudí	pa-012	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-004	Albert Rossa Naudí	pa-012	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-004	Albert Rossa Naudí	pa-012	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials= (ASR)	candidat lèxic; validar àudio	
+spk-004	Albert Rossa Naudí	pa-012	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials= (ASR)	candidat lèxic; validar àudio	
+spk-004	Albert Rossa Naudí	pa-012	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials= (ASR)	candidat lèxic; validar àudio	
+spk-004	Albert Rossa Naudí	pa-012	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-004	Albert Rossa Naudí	pa-012	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-004	Albert Rossa Naudí	pa-012	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=12;doncs=2;aleshores=3;perquè=2;per tant=1	indicador textual; validar àudio	
+spk-004	Albert Rossa Naudí	pa-012	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=67.25; f0_sd_hz=566.01; pausa_mediana_s=0.14	descriptor acústic; no és tret confirmat	
+spk-004	Albert Rossa Naudí	pa-012	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=4 (ASR)	indicador textual; validar àudio	
+spk-004	Albert Rossa Naudí	pa-012	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-004	Albert Rossa Naudí	pa-012	1	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat	
+spk-004	Albert Rossa Naudí	pa-012	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-004	Albert Rossa Naudí	pa-012	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-004	Albert Rossa Naudí	pa-012	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-004	Albert Rossa Naudí	pa-012	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-004	Albert Rossa Naudí	pa-012	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-005	Alfred Llahí	pa-007	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-005	Alfred Llahí	pa-007	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-005	Alfred Llahí	pa-007	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-005	Alfred Llahí	pa-007	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=andorrana=1;comú=1;copríncep=2;Canillo=3;Ordino=1;Escaldes=4;Massana=2;Sant Julià=5 (ASR)	candidat lèxic; validar àudio	
+spk-005	Alfred Llahí	pa-007	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=andorrana=1;comú=1;copríncep=2;Canillo=3;Ordino=1;Escaldes=4;Massana=2;Sant Julià=5 (ASR)	candidat lèxic; validar àudio	
+spk-005	Alfred Llahí	pa-007	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials=andorrana=1;comú=1;copríncep=2;Canillo=3;Ordino=1;Escaldes=4;Massana=2;Sant Julià=5 (ASR)	candidat lèxic; validar àudio	
+spk-005	Alfred Llahí	pa-007	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-005	Alfred Llahí	pa-007	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-005	Alfred Llahí	pa-007	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=1;bueno=1;clar=1;doncs=6;llavors=1;és a dir=2;a veure=1;diguem=1;evidentment=1;perquè=6;no?=4	indicador textual; validar àudio	
+spk-005	Alfred Llahí	pa-007	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=124.14; f0_sd_hz=100.25; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat	
+spk-005	Alfred Llahí	pa-007	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=24 (ASR)	indicador textual; validar àudio	
+spk-005	Alfred Llahí	pa-007	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-005	Alfred Llahí	pa-007	1	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat	
+spk-005	Alfred Llahí	pa-007	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-005	Alfred Llahí	pa-007	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-005	Alfred Llahí	pa-007	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-005	Alfred Llahí	pa-007	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-005	Alfred Llahí	pa-007	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-006	Andreu Gaspà Picart	pa-032	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-006	Andreu Gaspà Picart	pa-032	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-006	Andreu Gaspà Picart	pa-032	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-006	Andreu Gaspà Picart	pa-032	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=Ordino=2 (ASR)	candidat lèxic; validar àudio	
+spk-006	Andreu Gaspà Picart	pa-032	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=Ordino=2 (ASR)	candidat lèxic; validar àudio	
+spk-006	Andreu Gaspà Picart	pa-032	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials=Ordino=2 (ASR)	candidat lèxic; validar àudio	
+spk-006	Andreu Gaspà Picart	pa-032	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-006	Andreu Gaspà Picart	pa-032	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-006	Andreu Gaspà Picart	pa-032	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=3;bueno=3;clar=6;doncs=4;llavors=11;aleshores=2;vull dir=1;a veure=2;perquè=4;no?=2	indicador textual; validar àudio	
+spk-006	Andreu Gaspà Picart	pa-032	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=65.89; f0_sd_hz=68.73; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat	
+spk-006	Andreu Gaspà Picart	pa-032	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=40 (ASR)	indicador textual; validar àudio	
+spk-006	Andreu Gaspà Picart	pa-032	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-006	Andreu Gaspà Picart	pa-032	1	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat	
+spk-006	Andreu Gaspà Picart	pa-032	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-006	Andreu Gaspà Picart	pa-032	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-006	Andreu Gaspà Picart	pa-032	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-006	Andreu Gaspà Picart	pa-032	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-006	Andreu Gaspà Picart	pa-032	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-007	Angelina Mas	pa-049	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-007	Angelina Mas	pa-049	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-007	Angelina Mas	pa-049	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-007	Angelina Mas	pa-049	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=andorrana=1;parròquia=3;comú=1;aiguats=1;Escaldes=1 (ASR)	candidat lèxic; validar àudio	
+spk-007	Angelina Mas	pa-049	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=andorrana=1;parròquia=3;comú=1;aiguats=1;Escaldes=1 (ASR)	candidat lèxic; validar àudio	
+spk-007	Angelina Mas	pa-049	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials=andorrana=1;parròquia=3;comú=1;aiguats=1;Escaldes=1 (ASR)	candidat lèxic; validar àudio	
+spk-007	Angelina Mas	pa-049	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-007	Angelina Mas	pa-049	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-007	Angelina Mas	pa-049	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=10;bueno=11;clar=19;doncs=1;llavors=12;aleshores=2;és a dir=1;o sigui=8;vull dir=23;a veure=1;aviam=4;diguem=1;evidentment=2;perquè=36;a nivell=1;no?=4	indicador textual; validar àudio	
+spk-007	Angelina Mas	pa-049	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=127.15; f0_sd_hz=113.56; pausa_mediana_s=0.06	descriptor acústic; no és tret confirmat	
+spk-007	Angelina Mas	pa-049	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=66 (ASR)	indicador textual; validar àudio	
+spk-007	Angelina Mas	pa-049	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-007	Angelina Mas	pa-049	1	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat	
+spk-007	Angelina Mas	pa-049	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-007	Angelina Mas	pa-049	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-007	Angelina Mas	pa-049	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-007	Angelina Mas	pa-049	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-007	Angelina Mas	pa-049	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-008	Antoni Armengol Vila	pa-023,pa-060	2	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-008	Antoni Armengol Vila	pa-023,pa-060	2	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-008	Antoni Armengol Vila	pa-023,pa-060	2	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-008	Antoni Armengol Vila	pa-023,pa-060	2	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=parròquia=1;Canillo=3;Sant Julià=1 (ASR) | formes_territorials=parròquia=1;Canillo=3 (ASR)	candidat lèxic; validar àudio	
+spk-008	Antoni Armengol Vila	pa-023,pa-060	2	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=parròquia=1;Canillo=3;Sant Julià=1 (ASR) | formes_territorials=parròquia=1;Canillo=3 (ASR)	candidat lèxic; validar àudio	
+spk-008	Antoni Armengol Vila	pa-023,pa-060	2	lèxic	variants occidentals	ALDC; Veny	formes_territorials=parròquia=1;Canillo=3;Sant Julià=1 (ASR) | formes_territorials=parròquia=1;Canillo=3 (ASR)	candidat lèxic; validar àudio	
+spk-008	Antoni Armengol Vila	pa-023,pa-060	2	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-008	Antoni Armengol Vila	pa-023,pa-060	2	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-008	Antoni Armengol Vila	pa-023,pa-060	2	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=2;bueno=3;llavors=4;de fet=2;és a dir=4;vull dir=20;a veure=3;diguem=1;perquè=11;a nivell=3 | bé=1;bueno=4;doncs=2;llavors=1;aleshores=3;de fet=2;és a dir=4;vull dir=20;a veure=3;diguem=1;perquè=10;a nivell=4	indicador textual; validar àudio	
+spk-008	Antoni Armengol Vila	pa-023,pa-060	2	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=50.15; f0_sd_hz=72.44; pausa_mediana_s=0.08 | f0_iqr_hz=54.02; f0_sd_hz=75.63; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat	
+spk-008	Antoni Armengol Vila	pa-023,pa-060	2	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=61 (ASR) | perifrasi_past_aparent=62 (ASR)	indicador textual; validar àudio	
+spk-008	Antoni Armengol Vila	pa-023,pa-060	2	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-008	Antoni Armengol Vila	pa-023,pa-060	2	variació	localitat i generació	Rabassa; ALDC	context no documentat | Andorra (parròquia no fixada en aquesta fitxa)	contextual; no prova varietat	
+spk-008	Antoni Armengol Vila	pa-023,pa-060	2	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-008	Antoni Armengol Vila	pa-023,pa-060	2	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-008	Antoni Armengol Vila	pa-023,pa-060	2	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-008	Antoni Armengol Vila	pa-023,pa-060	2	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-008	Antoni Armengol Vila	pa-023,pa-060	2	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-009	Antoni Jordi Areny	pa-033	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-009	Antoni Jordi Areny	pa-033	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-009	Antoni Jordi Areny	pa-033	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-009	Antoni Jordi Areny	pa-033	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=parròquia=1;Escaldes=1 (ASR)	candidat lèxic; validar àudio	
+spk-009	Antoni Jordi Areny	pa-033	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=parròquia=1;Escaldes=1 (ASR)	candidat lèxic; validar àudio	
+spk-009	Antoni Jordi Areny	pa-033	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials=parròquia=1;Escaldes=1 (ASR)	candidat lèxic; validar àudio	
+spk-009	Antoni Jordi Areny	pa-033	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-009	Antoni Jordi Areny	pa-033	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-009	Antoni Jordi Areny	pa-033	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=3;clar=1;doncs=5;llavors=1;de fet=1;és a dir=4;vull dir=2;diguem=3;perquè=4;a nivell=1	indicador textual; validar àudio	
+spk-009	Antoni Jordi Areny	pa-033	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=181.07; f0_sd_hz=122.26; pausa_mediana_s=0.06	descriptor acústic; no és tret confirmat	
+spk-009	Antoni Jordi Areny	pa-033	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=18 (ASR)	indicador textual; validar àudio	
+spk-009	Antoni Jordi Areny	pa-033	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-009	Antoni Jordi Areny	pa-033	1	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat	
+spk-009	Antoni Jordi Areny	pa-033	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-009	Antoni Jordi Areny	pa-033	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-009	Antoni Jordi Areny	pa-033	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-009	Antoni Jordi Areny	pa-033	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-009	Antoni Jordi Areny	pa-033	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-010	Antoni Morell	pa-048	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-010	Antoni Morell	pa-048	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-010	Antoni Morell	pa-048	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-010	Antoni Morell	pa-048	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=andorrana=1;santuari=1 (ASR)	candidat lèxic; validar àudio	
+spk-010	Antoni Morell	pa-048	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=andorrana=1;santuari=1 (ASR)	candidat lèxic; validar àudio	
+spk-010	Antoni Morell	pa-048	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials=andorrana=1;santuari=1 (ASR)	candidat lèxic; validar àudio	
+spk-010	Antoni Morell	pa-048	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-010	Antoni Morell	pa-048	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-010	Antoni Morell	pa-048	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=2;bueno=3;clar=1;doncs=1;llavors=2;aleshores=2;és a dir=1;o sigui=1;vull dir=2;a veure=3;perquè=24;a nivell=2;no?=5	indicador textual; validar àudio	
+spk-010	Antoni Morell	pa-048	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=130.35; f0_sd_hz=79.24; pausa_mediana_s=0.10	descriptor acústic; no és tret confirmat	
+spk-010	Antoni Morell	pa-048	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=13 (ASR)	indicador textual; validar àudio	
+spk-010	Antoni Morell	pa-048	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-010	Antoni Morell	pa-048	1	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat	
+spk-010	Antoni Morell	pa-048	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-010	Antoni Morell	pa-048	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-010	Antoni Morell	pa-048	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-010	Antoni Morell	pa-048	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-010	Antoni Morell	pa-048	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-011	Carles Sasplugas	pa-066	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-011	Carles Sasplugas	pa-066	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-011	Carles Sasplugas	pa-066	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-011	Carles Sasplugas	pa-066	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=aiguats=1;Escaldes=4;Sant Julià=1 (ASR)	candidat lèxic; validar àudio	
+spk-011	Carles Sasplugas	pa-066	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=aiguats=1;Escaldes=4;Sant Julià=1 (ASR)	candidat lèxic; validar àudio	
+spk-011	Carles Sasplugas	pa-066	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials=aiguats=1;Escaldes=4;Sant Julià=1 (ASR)	candidat lèxic; validar àudio	
+spk-011	Carles Sasplugas	pa-066	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-011	Carles Sasplugas	pa-066	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-011	Carles Sasplugas	pa-066	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=3;bueno=1;llavors=2;de fet=1;evidentment=2;perquè=5;per tant=2;a nivell=1;no?=1	indicador textual; validar àudio	
+spk-011	Carles Sasplugas	pa-066	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=103.92; f0_sd_hz=528.01; pausa_mediana_s=0.06	descriptor acústic; no és tret confirmat	
+spk-011	Carles Sasplugas	pa-066	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=65 (ASR)	indicador textual; validar àudio	
+spk-011	Carles Sasplugas	pa-066	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-011	Carles Sasplugas	pa-066	1	variació	localitat i generació	Rabassa; ALDC	pendent de documentació	contextual; no prova varietat	
+spk-011	Carles Sasplugas	pa-066	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-011	Carles Sasplugas	pa-066	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-011	Carles Sasplugas	pa-066	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-011	Carles Sasplugas	pa-066	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-011	Carles Sasplugas	pa-066	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-012	Casimir Arajol	pa-044	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-012	Casimir Arajol	pa-044	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-012	Casimir Arajol	pa-044	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-012	Casimir Arajol	pa-044	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=veguer=1 (ASR)	candidat lèxic; validar àudio	
+spk-012	Casimir Arajol	pa-044	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=veguer=1 (ASR)	candidat lèxic; validar àudio	
+spk-012	Casimir Arajol	pa-044	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials=veguer=1 (ASR)	candidat lèxic; validar àudio	
+spk-012	Casimir Arajol	pa-044	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-012	Casimir Arajol	pa-044	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-012	Casimir Arajol	pa-044	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=10;bueno=11;clar=2;doncs=3;llavors=3;és a dir=1;o sigui=7;vull dir=2;a veure=2;perquè=18;a nivell=1;no?=4	indicador textual; validar àudio	
+spk-012	Casimir Arajol	pa-044	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=172.24; f0_sd_hz=326.85; pausa_mediana_s=0.06	descriptor acústic; no és tret confirmat	
+spk-012	Casimir Arajol	pa-044	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=78 (ASR)	indicador textual; validar àudio	
+spk-012	Casimir Arajol	pa-044	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-012	Casimir Arajol	pa-044	1	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat	
+spk-012	Casimir Arajol	pa-044	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-012	Casimir Arajol	pa-044	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-012	Casimir Arajol	pa-044	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-012	Casimir Arajol	pa-044	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-012	Casimir Arajol	pa-044	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-013	Cielo	pa-042	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-013	Cielo	pa-042	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-013	Cielo	pa-042	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-013	Cielo	pa-042	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=Sant Julià=1 (ASR)	candidat lèxic; validar àudio	
+spk-013	Cielo	pa-042	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=Sant Julià=1 (ASR)	candidat lèxic; validar àudio	
+spk-013	Cielo	pa-042	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials=Sant Julià=1 (ASR)	candidat lèxic; validar àudio	
+spk-013	Cielo	pa-042	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-013	Cielo	pa-042	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-013	Cielo	pa-042	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	clar=12;perquè=4;no?=3	indicador textual; validar àudio	
+spk-013	Cielo	pa-042	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=109.19; f0_sd_hz=360.19; pausa_mediana_s=0.06	descriptor acústic; no és tret confirmat	
+spk-013	Cielo	pa-042	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=10 (ASR)	indicador textual; validar àudio	
+spk-013	Cielo	pa-042	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-013	Cielo	pa-042	1	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat	
+spk-013	Cielo	pa-042	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-013	Cielo	pa-042	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-013	Cielo	pa-042	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-013	Cielo	pa-042	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-013	Cielo	pa-042	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-014	Daniel Armengol	pa-064	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-014	Daniel Armengol	pa-064	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-014	Daniel Armengol	pa-064	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-014	Daniel Armengol	pa-064	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=veguer=1;padrí=1;Massana=2 (ASR)	candidat lèxic; validar àudio	
+spk-014	Daniel Armengol	pa-064	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=veguer=1;padrí=1;Massana=2 (ASR)	candidat lèxic; validar àudio	
+spk-014	Daniel Armengol	pa-064	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials=veguer=1;padrí=1;Massana=2 (ASR)	candidat lèxic; validar àudio	
+spk-014	Daniel Armengol	pa-064	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-014	Daniel Armengol	pa-064	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-014	Daniel Armengol	pa-064	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=6;clar=3;doncs=7;llavors=5;és a dir=7;o sigui=7;a veure=3;evidentment=1;perquè=20;per tant=3;no?=1	indicador textual; validar àudio	
+spk-014	Daniel Armengol	pa-064	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=148.43; f0_sd_hz=159.91; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat	
+spk-014	Daniel Armengol	pa-064	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=60 (ASR)	indicador textual; validar àudio	
+spk-014	Daniel Armengol	pa-064	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-014	Daniel Armengol	pa-064	1	variació	localitat i generació	Rabassa; ALDC	Andorra; vinculació documentada amb la policia	contextual; no prova varietat	
+spk-014	Daniel Armengol	pa-064	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-014	Daniel Armengol	pa-064	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-014	Daniel Armengol	pa-064	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-014	Daniel Armengol	pa-064	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-014	Daniel Armengol	pa-064	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-015	Enric Casadevall Medrano	pa-027	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-015	Enric Casadevall Medrano	pa-027	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-015	Enric Casadevall Medrano	pa-027	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-015	Enric Casadevall Medrano	pa-027	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=parròquia=4;comuns=3;coprínceps=1;veguer=1;Canillo=8;Ordino=1 (ASR)	candidat lèxic; validar àudio	
+spk-015	Enric Casadevall Medrano	pa-027	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=parròquia=4;comuns=3;coprínceps=1;veguer=1;Canillo=8;Ordino=1 (ASR)	candidat lèxic; validar àudio	
+spk-015	Enric Casadevall Medrano	pa-027	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials=parròquia=4;comuns=3;coprínceps=1;veguer=1;Canillo=8;Ordino=1 (ASR)	candidat lèxic; validar àudio	
+spk-015	Enric Casadevall Medrano	pa-027	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-015	Enric Casadevall Medrano	pa-027	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-015	Enric Casadevall Medrano	pa-027	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=6;bueno=7;clar=11;doncs=10;llavors=8;de fet=3;és a dir=6;o sigui=1;vull dir=5;diguem=1;evidentment=1;perquè=17;per tant=6;no?=4	indicador textual; validar àudio	
+spk-015	Enric Casadevall Medrano	pa-027	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=156.24; f0_sd_hz=89.40; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat	
+spk-015	Enric Casadevall Medrano	pa-027	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=66 (ASR)	indicador textual; validar àudio	
+spk-015	Enric Casadevall Medrano	pa-027	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-015	Enric Casadevall Medrano	pa-027	1	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat	
+spk-015	Enric Casadevall Medrano	pa-027	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-015	Enric Casadevall Medrano	pa-027	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-015	Enric Casadevall Medrano	pa-027	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-015	Enric Casadevall Medrano	pa-027	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-015	Enric Casadevall Medrano	pa-027	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-016	Enric Dolsa Font	pa-030,pa-056	2	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-016	Enric Dolsa Font	pa-030,pa-056	2	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-016	Enric Dolsa Font	pa-030,pa-056	2	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-016	Enric Dolsa Font	pa-030,pa-056	2	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=parròquia=1;coprínceps=1;Canillo=2;Ordino=10;Massana=2;Sant Julià=2 (ASR) | formes_territorials=parròquia=1;Canillo=2;Ordino=9;Escaldes=1;Massana=1;Sant Julià=2 (ASR)	candidat lèxic; validar àudio	
+spk-016	Enric Dolsa Font	pa-030,pa-056	2	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=parròquia=1;coprínceps=1;Canillo=2;Ordino=10;Massana=2;Sant Julià=2 (ASR) | formes_territorials=parròquia=1;Canillo=2;Ordino=9;Escaldes=1;Massana=1;Sant Julià=2 (ASR)	candidat lèxic; validar àudio	
+spk-016	Enric Dolsa Font	pa-030,pa-056	2	lèxic	variants occidentals	ALDC; Veny	formes_territorials=parròquia=1;coprínceps=1;Canillo=2;Ordino=10;Massana=2;Sant Julià=2 (ASR) | formes_territorials=parròquia=1;Canillo=2;Ordino=9;Escaldes=1;Massana=1;Sant Julià=2 (ASR)	candidat lèxic; validar àudio	
+spk-016	Enric Dolsa Font	pa-030,pa-056	2	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-016	Enric Dolsa Font	pa-030,pa-056	2	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-016	Enric Dolsa Font	pa-030,pa-056	2	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=8;bueno=3;clar=9;doncs=7;llavors=2;aleshores=2;és a dir=10;o sigui=1;vull dir=1;a veure=1;evidentment=4;perquè=25;per tant=10;no?=11 | bé=8;bueno=5;clar=7;doncs=9;llavors=1;aleshores=3;és a dir=10;o sigui=1;vull dir=1;a veure=3;evidentment=4;perquè=27;per tant=10;no?=10	indicador textual; validar àudio	
+spk-016	Enric Dolsa Font	pa-030,pa-056	2	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=138.96; f0_sd_hz=102.45; pausa_mediana_s=0.06 | f0_iqr_hz=140.69; f0_sd_hz=83.64; pausa_mediana_s=0.06	descriptor acústic; no és tret confirmat	
+spk-016	Enric Dolsa Font	pa-030,pa-056	2	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=88 (ASR) | perifrasi_past_aparent=86 (ASR)	indicador textual; validar àudio	
+spk-016	Enric Dolsa Font	pa-030,pa-056	2	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-016	Enric Dolsa Font	pa-030,pa-056	2	variació	localitat i generació	Rabassa; ALDC	context no documentat | d'Ordino	contextual; no prova varietat	
+spk-016	Enric Dolsa Font	pa-030,pa-056	2	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-016	Enric Dolsa Font	pa-030,pa-056	2	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-016	Enric Dolsa Font	pa-030,pa-056	2	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-016	Enric Dolsa Font	pa-030,pa-056	2	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-016	Enric Dolsa Font	pa-030,pa-056	2	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-017	Esther Jover	pa-011	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-017	Esther Jover	pa-011	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-017	Esther Jover	pa-011	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-017	Esther Jover	pa-011	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=Ordino=1 (ASR)	candidat lèxic; validar àudio	
+spk-017	Esther Jover	pa-011	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=Ordino=1 (ASR)	candidat lèxic; validar àudio	
+spk-017	Esther Jover	pa-011	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials=Ordino=1 (ASR)	candidat lèxic; validar àudio	
+spk-017	Esther Jover	pa-011	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-017	Esther Jover	pa-011	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-017	Esther Jover	pa-011	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=2;doncs=10;aleshores=4;de fet=1;és a dir=1;a veure=1;evidentment=1;perquè=8;per tant=1;no?=1	indicador textual; validar àudio	
+spk-017	Esther Jover	pa-011	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=123.98; f0_sd_hz=643.74; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat	
+spk-017	Esther Jover	pa-011	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=24 (ASR)	indicador textual; validar àudio	
+spk-017	Esther Jover	pa-011	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-017	Esther Jover	pa-011	1	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat	
+spk-017	Esther Jover	pa-011	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-017	Esther Jover	pa-011	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-017	Esther Jover	pa-011	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-017	Esther Jover	pa-011	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-017	Esther Jover	pa-011	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-018	Eudald Guillamet	pa-045	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-018	Eudald Guillamet	pa-045	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-018	Eudald Guillamet	pa-045	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-018	Eudald Guillamet	pa-045	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=comunal=1;santuari=1;Escaldes=1 (ASR)	candidat lèxic; validar àudio	
+spk-018	Eudald Guillamet	pa-045	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=comunal=1;santuari=1;Escaldes=1 (ASR)	candidat lèxic; validar àudio	
+spk-018	Eudald Guillamet	pa-045	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials=comunal=1;santuari=1;Escaldes=1 (ASR)	candidat lèxic; validar àudio	
+spk-018	Eudald Guillamet	pa-045	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-018	Eudald Guillamet	pa-045	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-018	Eudald Guillamet	pa-045	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=8;bueno=6;clar=9;doncs=2;llavors=10;aleshores=1;o sigui=20;vull dir=3;a veure=1;evidentment=12;perquè=16;a nivell=1;no?=8	indicador textual; validar àudio	
+spk-018	Eudald Guillamet	pa-045	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=114.17; f0_sd_hz=92.87; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat	
+spk-018	Eudald Guillamet	pa-045	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=48 (ASR)	indicador textual; validar àudio	
+spk-018	Eudald Guillamet	pa-045	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-018	Eudald Guillamet	pa-045	1	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat	
+spk-018	Eudald Guillamet	pa-045	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-018	Eudald Guillamet	pa-045	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-018	Eudald Guillamet	pa-045	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-018	Eudald Guillamet	pa-045	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-018	Eudald Guillamet	pa-045	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-019	Francina Pons	pa-004	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-019	Francina Pons	pa-004	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-019	Francina Pons	pa-004	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-019	Francina Pons	pa-004	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=parròquia=2;comú=3;comunal=2;bordes=1;aiguats=2;Ordino=1;Escaldes=1;Sant Julià=1 (ASR)	candidat lèxic; validar àudio	
+spk-019	Francina Pons	pa-004	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=parròquia=2;comú=3;comunal=2;bordes=1;aiguats=2;Ordino=1;Escaldes=1;Sant Julià=1 (ASR)	candidat lèxic; validar àudio	
+spk-019	Francina Pons	pa-004	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials=parròquia=2;comú=3;comunal=2;bordes=1;aiguats=2;Ordino=1;Escaldes=1;Sant Julià=1 (ASR)	candidat lèxic; validar àudio	
+spk-019	Francina Pons	pa-004	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-019	Francina Pons	pa-004	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-019	Francina Pons	pa-004	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=4;doncs=9;de fet=2;vull dir=1;evidentment=1;perquè=6;per tant=3;no?=5	indicador textual; validar àudio	
+spk-019	Francina Pons	pa-004	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=172.81; f0_sd_hz=507.81; pausa_mediana_s=0.14	descriptor acústic; no és tret confirmat	
+spk-019	Francina Pons	pa-004	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=26 (ASR)	indicador textual; validar àudio	
+spk-019	Francina Pons	pa-004	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-019	Francina Pons	pa-004	1	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat	
+spk-019	Francina Pons	pa-004	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-019	Francina Pons	pa-004	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-019	Francina Pons	pa-004	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-019	Francina Pons	pa-004	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-019	Francina Pons	pa-004	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-020	Gabriel Dallerès Codina	pa-029,pa-057	2	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-020	Gabriel Dallerès Codina	pa-029,pa-057	2	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-020	Gabriel Dallerès Codina	pa-029,pa-057	2	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-020	Gabriel Dallerès Codina	pa-029,pa-057	2	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=comuns=1;Ordino=1 (ASR) | formes_territorials=andorrana=2;comuns=1;Ordino=1 (ASR)	candidat lèxic; validar àudio	
+spk-020	Gabriel Dallerès Codina	pa-029,pa-057	2	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=comuns=1;Ordino=1 (ASR) | formes_territorials=andorrana=2;comuns=1;Ordino=1 (ASR)	candidat lèxic; validar àudio	
+spk-020	Gabriel Dallerès Codina	pa-029,pa-057	2	lèxic	variants occidentals	ALDC; Veny	formes_territorials=comuns=1;Ordino=1 (ASR) | formes_territorials=andorrana=2;comuns=1;Ordino=1 (ASR)	candidat lèxic; validar àudio	
+spk-020	Gabriel Dallerès Codina	pa-029,pa-057	2	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-020	Gabriel Dallerès Codina	pa-029,pa-057	2	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-020	Gabriel Dallerès Codina	pa-029,pa-057	2	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=14;bueno=2;clar=1;doncs=17;llavors=8;és a dir=3;o sigui=2;a veure=2;diguem=1;perquè=21;a nivell=4;no?=3 | bé=12;bueno=1;clar=1;doncs=10;llavors=7;de fet=1;és a dir=1;o sigui=1;a veure=1;diguem=1;perquè=20;a nivell=4;no?=3	indicador textual; validar àudio	
+spk-020	Gabriel Dallerès Codina	pa-029,pa-057	2	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=191.39; f0_sd_hz=123.35; pausa_mediana_s=0.08 | f0_iqr_hz=192.97; f0_sd_hz=101.47; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat	
+spk-020	Gabriel Dallerès Codina	pa-029,pa-057	2	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=110 (ASR) | perifrasi_past_aparent=109 (ASR)	indicador textual; validar àudio	
+spk-020	Gabriel Dallerès Codina	pa-029,pa-057	2	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-020	Gabriel Dallerès Codina	pa-029,pa-057	2	variació	localitat i generació	Rabassa; ALDC	context no documentat | d'Encamp	contextual; no prova varietat	
+spk-020	Gabriel Dallerès Codina	pa-029,pa-057	2	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-020	Gabriel Dallerès Codina	pa-029,pa-057	2	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-020	Gabriel Dallerès Codina	pa-029,pa-057	2	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-020	Gabriel Dallerès Codina	pa-029,pa-057	2	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-020	Gabriel Dallerès Codina	pa-029,pa-057	2	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-021	Gualbert Osorio	pa-047	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-021	Gualbert Osorio	pa-047	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-021	Gualbert Osorio	pa-047	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-021	Gualbert Osorio	pa-047	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials= (ASR)	candidat lèxic; validar àudio	
+spk-021	Gualbert Osorio	pa-047	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials= (ASR)	candidat lèxic; validar àudio	
+spk-021	Gualbert Osorio	pa-047	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials= (ASR)	candidat lèxic; validar àudio	
+spk-021	Gualbert Osorio	pa-047	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-021	Gualbert Osorio	pa-047	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-021	Gualbert Osorio	pa-047	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=4;bueno=4;doncs=1;llavors=1;aleshores=1;és a dir=1;o sigui=2;vull dir=1;a veure=1;perquè=19;per tant=2;a nivell=1;no?=1	indicador textual; validar àudio	
+spk-021	Gualbert Osorio	pa-047	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=141.79; f0_sd_hz=147.29; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat	
+spk-021	Gualbert Osorio	pa-047	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=62 (ASR)	indicador textual; validar àudio	
+spk-021	Gualbert Osorio	pa-047	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-021	Gualbert Osorio	pa-047	1	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat	
+spk-021	Gualbert Osorio	pa-047	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-021	Gualbert Osorio	pa-047	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-021	Gualbert Osorio	pa-047	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-021	Gualbert Osorio	pa-047	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-021	Gualbert Osorio	pa-047	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-022	Guillem Areny Argelich	pa-020	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-022	Guillem Areny Argelich	pa-020	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-022	Guillem Areny Argelich	pa-020	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-022	Guillem Areny Argelich	pa-020	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=comú=2;comuns=4;copríncep=5;comunal=1;comunals=1;Ordino=1;Massana=4;Sant Julià=3 (ASR)	candidat lèxic; validar àudio	
+spk-022	Guillem Areny Argelich	pa-020	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=comú=2;comuns=4;copríncep=5;comunal=1;comunals=1;Ordino=1;Massana=4;Sant Julià=3 (ASR)	candidat lèxic; validar àudio	
+spk-022	Guillem Areny Argelich	pa-020	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials=comú=2;comuns=4;copríncep=5;comunal=1;comunals=1;Ordino=1;Massana=4;Sant Julià=3 (ASR)	candidat lèxic; validar àudio	
+spk-022	Guillem Areny Argelich	pa-020	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-022	Guillem Areny Argelich	pa-020	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-022	Guillem Areny Argelich	pa-020	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=24;bueno=22;clar=29;doncs=3;vull dir=12;aviam=2;diguem=1;evidentment=7;perquè=22;a nivell=2;no?=8	indicador textual; validar àudio	
+spk-022	Guillem Areny Argelich	pa-020	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=73.03; f0_sd_hz=63.02; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat	
+spk-022	Guillem Areny Argelich	pa-020	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=190 (ASR)	indicador textual; validar àudio	
+spk-022	Guillem Areny Argelich	pa-020	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-022	Guillem Areny Argelich	pa-020	1	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat	
+spk-022	Guillem Areny Argelich	pa-020	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-022	Guillem Areny Argelich	pa-020	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-022	Guillem Areny Argelich	pa-020	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-022	Guillem Areny Argelich	pa-020	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-022	Guillem Areny Argelich	pa-020	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-023	Irene Clua	pa-043	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-023	Irene Clua	pa-043	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-023	Irene Clua	pa-043	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-023	Irene Clua	pa-043	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials= (ASR)	candidat lèxic; validar àudio	
+spk-023	Irene Clua	pa-043	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials= (ASR)	candidat lèxic; validar àudio	
+spk-023	Irene Clua	pa-043	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials= (ASR)	candidat lèxic; validar àudio	
+spk-023	Irene Clua	pa-043	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-023	Irene Clua	pa-043	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-023	Irene Clua	pa-043	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bueno=1;doncs=2;és a dir=1	indicador textual; validar àudio	
+spk-023	Irene Clua	pa-043	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=147.12; f0_sd_hz=658.80; pausa_mediana_s=0.06	descriptor acústic; no és tret confirmat	
+spk-023	Irene Clua	pa-043	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=1 (ASR)	indicador textual; validar àudio	
+spk-023	Irene Clua	pa-043	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-023	Irene Clua	pa-043	1	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat	
+spk-023	Irene Clua	pa-043	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-023	Irene Clua	pa-043	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-023	Irene Clua	pa-043	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-023	Irene Clua	pa-043	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-023	Irene Clua	pa-043	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-024	Jaume Bartumeu Cassany	pa-025	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-024	Jaume Bartumeu Cassany	pa-025	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-024	Jaume Bartumeu Cassany	pa-025	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-024	Jaume Bartumeu Cassany	pa-025	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=parròquia=1;comuns=3;copríncep=4;coprínceps=4;veguer=3;comunals=1;Ordino=1;Escaldes=3;Massana=2;Sant Julià=1 (ASR)	candidat lèxic; validar àudio	
+spk-024	Jaume Bartumeu Cassany	pa-025	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=parròquia=1;comuns=3;copríncep=4;coprínceps=4;veguer=3;comunals=1;Ordino=1;Escaldes=3;Massana=2;Sant Julià=1 (ASR)	candidat lèxic; validar àudio	
+spk-024	Jaume Bartumeu Cassany	pa-025	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials=parròquia=1;comuns=3;copríncep=4;coprínceps=4;veguer=3;comunals=1;Ordino=1;Escaldes=3;Massana=2;Sant Julià=1 (ASR)	candidat lèxic; validar àudio	
+spk-024	Jaume Bartumeu Cassany	pa-025	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-024	Jaume Bartumeu Cassany	pa-025	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-024	Jaume Bartumeu Cassany	pa-025	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=3;bueno=8;clar=9;doncs=13;aleshores=5;de fet=2;és a dir=7;o sigui=1;vull dir=1;a veure=4;diguem=3;evidentment=4;perquè=39;per tant=6;no?=5	indicador textual; validar àudio	
+spk-024	Jaume Bartumeu Cassany	pa-025	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=110.17; f0_sd_hz=85.39; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat	
+spk-024	Jaume Bartumeu Cassany	pa-025	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=98 (ASR)	indicador textual; validar àudio	
+spk-024	Jaume Bartumeu Cassany	pa-025	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-024	Jaume Bartumeu Cassany	pa-025	1	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat	
+spk-024	Jaume Bartumeu Cassany	pa-025	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-024	Jaume Bartumeu Cassany	pa-025	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-024	Jaume Bartumeu Cassany	pa-025	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-024	Jaume Bartumeu Cassany	pa-025	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-024	Jaume Bartumeu Cassany	pa-025	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-025	Joan Santamaria Terré	pa-039	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-025	Joan Santamaria Terré	pa-039	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-025	Joan Santamaria Terré	pa-039	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-025	Joan Santamaria Terré	pa-039	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=comú=1;Canillo=1;Sant Julià=4 (ASR)	candidat lèxic; validar àudio	
+spk-025	Joan Santamaria Terré	pa-039	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=comú=1;Canillo=1;Sant Julià=4 (ASR)	candidat lèxic; validar àudio	
+spk-025	Joan Santamaria Terré	pa-039	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials=comú=1;Canillo=1;Sant Julià=4 (ASR)	candidat lèxic; validar àudio	
+spk-025	Joan Santamaria Terré	pa-039	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-025	Joan Santamaria Terré	pa-039	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-025	Joan Santamaria Terré	pa-039	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=8;bueno=1;clar=9;doncs=5;és a dir=1;diguem=2;evidentment=1;perquè=13;per tant=4;no?=5	indicador textual; validar àudio	
+spk-025	Joan Santamaria Terré	pa-039	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=52.68; f0_sd_hz=72.93; pausa_mediana_s=0.10	descriptor acústic; no és tret confirmat	
+spk-025	Joan Santamaria Terré	pa-039	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=35 (ASR)	indicador textual; validar àudio	
+spk-025	Joan Santamaria Terré	pa-039	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-025	Joan Santamaria Terré	pa-039	1	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat	
+spk-025	Joan Santamaria Terré	pa-039	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-025	Joan Santamaria Terré	pa-039	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-025	Joan Santamaria Terré	pa-039	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-025	Joan Santamaria Terré	pa-039	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-025	Joan Santamaria Terré	pa-039	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-026	Jordi Farràs Forné	pa-002	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-026	Jordi Farràs Forné	pa-002	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-026	Jordi Farràs Forné	pa-002	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-026	Jordi Farràs Forné	pa-002	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=parròquia=4;comú=1;copríncep=3;veguer=1;Canillo=1;Ordino=2;Escaldes=4;Massana=4;Sant Julià=2 (ASR)	candidat lèxic; validar àudio	
+spk-026	Jordi Farràs Forné	pa-002	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=parròquia=4;comú=1;copríncep=3;veguer=1;Canillo=1;Ordino=2;Escaldes=4;Massana=4;Sant Julià=2 (ASR)	candidat lèxic; validar àudio	
+spk-026	Jordi Farràs Forné	pa-002	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials=parròquia=4;comú=1;copríncep=3;veguer=1;Canillo=1;Ordino=2;Escaldes=4;Massana=4;Sant Julià=2 (ASR)	candidat lèxic; validar àudio	
+spk-026	Jordi Farràs Forné	pa-002	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-026	Jordi Farràs Forné	pa-002	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-026	Jordi Farràs Forné	pa-002	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=11;bueno=11;clar=14;llavors=13;de fet=6;és a dir=24;vull dir=5;a veure=5;evidentment=10;perquè=55;per tant=4;a nivell=2;no?=4	indicador textual; validar àudio	
+spk-026	Jordi Farràs Forné	pa-002	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=127.21; f0_sd_hz=2569.93; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat	
+spk-026	Jordi Farràs Forné	pa-002	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=218 (ASR)	indicador textual; validar àudio	
+spk-026	Jordi Farràs Forné	pa-002	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-026	Jordi Farràs Forné	pa-002	1	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat	
+spk-026	Jordi Farràs Forné	pa-002	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-026	Jordi Farràs Forné	pa-002	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-026	Jordi Farràs Forné	pa-002	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-026	Jordi Farràs Forné	pa-002	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-026	Jordi Farràs Forné	pa-002	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-027	Jordi Marquet	pa-062	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-027	Jordi Marquet	pa-062	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-027	Jordi Marquet	pa-062	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-027	Jordi Marquet	pa-062	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=padrí=3;Canillo=1 (ASR)	candidat lèxic; validar àudio	
+spk-027	Jordi Marquet	pa-062	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=padrí=3;Canillo=1 (ASR)	candidat lèxic; validar àudio	
+spk-027	Jordi Marquet	pa-062	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials=padrí=3;Canillo=1 (ASR)	candidat lèxic; validar àudio	
+spk-027	Jordi Marquet	pa-062	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-027	Jordi Marquet	pa-062	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-027	Jordi Marquet	pa-062	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=4;bueno=1;clar=3;doncs=3;és a dir=2;o sigui=4;vull dir=10;diguem=2;evidentment=4;perquè=31;per tant=1;no?=1	indicador textual; validar àudio	
+spk-027	Jordi Marquet	pa-062	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=144.82; f0_sd_hz=246.07; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat	
+spk-027	Jordi Marquet	pa-062	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=71 (ASR)	indicador textual; validar àudio	
+spk-027	Jordi Marquet	pa-062	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-027	Jordi Marquet	pa-062	1	variació	localitat i generació	Rabassa; ALDC	Canillo	contextual; no prova varietat	
+spk-027	Jordi Marquet	pa-062	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-027	Jordi Marquet	pa-062	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-027	Jordi Marquet	pa-062	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-027	Jordi Marquet	pa-062	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-027	Jordi Marquet	pa-062	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-028	Jordi Mas Torres	pa-036	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-028	Jordi Mas Torres	pa-036	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-028	Jordi Mas Torres	pa-036	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-028	Jordi Mas Torres	pa-036	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=comú=5;copríncep=1;Canillo=1;Ordino=1;Escaldes=1;Sant Julià=1 (ASR)	candidat lèxic; validar àudio	
+spk-028	Jordi Mas Torres	pa-036	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=comú=5;copríncep=1;Canillo=1;Ordino=1;Escaldes=1;Sant Julià=1 (ASR)	candidat lèxic; validar àudio	
+spk-028	Jordi Mas Torres	pa-036	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials=comú=5;copríncep=1;Canillo=1;Ordino=1;Escaldes=1;Sant Julià=1 (ASR)	candidat lèxic; validar àudio	
+spk-028	Jordi Mas Torres	pa-036	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-028	Jordi Mas Torres	pa-036	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-028	Jordi Mas Torres	pa-036	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=4;bueno=3;clar=5;doncs=1;llavors=1;vull dir=1;a veure=1;evidentment=4;perquè=22;per tant=2;a nivell=1	indicador textual; validar àudio	
+spk-028	Jordi Mas Torres	pa-036	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=156.51; f0_sd_hz=163.61; pausa_mediana_s=0.06	descriptor acústic; no és tret confirmat	
+spk-028	Jordi Mas Torres	pa-036	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=81 (ASR)	indicador textual; validar àudio	
+spk-028	Jordi Mas Torres	pa-036	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-028	Jordi Mas Torres	pa-036	1	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat	
+spk-028	Jordi Mas Torres	pa-036	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-028	Jordi Mas Torres	pa-036	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-028	Jordi Mas Torres	pa-036	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-028	Jordi Mas Torres	pa-036	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-028	Jordi Mas Torres	pa-036	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-029	Jordi Torres Alís	pa-040	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-029	Jordi Torres Alís	pa-040	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-029	Jordi Torres Alís	pa-040	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-029	Jordi Torres Alís	pa-040	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=parròquia=1 (ASR)	candidat lèxic; validar àudio	
+spk-029	Jordi Torres Alís	pa-040	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=parròquia=1 (ASR)	candidat lèxic; validar àudio	
+spk-029	Jordi Torres Alís	pa-040	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials=parròquia=1 (ASR)	candidat lèxic; validar àudio	
+spk-029	Jordi Torres Alís	pa-040	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-029	Jordi Torres Alís	pa-040	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-029	Jordi Torres Alís	pa-040	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=3;doncs=1;de fet=1;o sigui=1;evidentment=1;perquè=5	indicador textual; validar àudio	
+spk-029	Jordi Torres Alís	pa-040	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=120.07; f0_sd_hz=88.10; pausa_mediana_s=0.06	descriptor acústic; no és tret confirmat	
+spk-029	Jordi Torres Alís	pa-040	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=18 (ASR)	indicador textual; validar àudio	
+spk-029	Jordi Torres Alís	pa-040	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-029	Jordi Torres Alís	pa-040	1	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat	
+spk-029	Jordi Torres Alís	pa-040	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-029	Jordi Torres Alís	pa-040	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-029	Jordi Torres Alís	pa-040	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-029	Jordi Torres Alís	pa-040	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-029	Jordi Torres Alís	pa-040	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-030	Josep Areny	pa-046	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-030	Josep Areny	pa-046	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-030	Josep Areny	pa-046	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-030	Josep Areny	pa-046	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=Canillo=2 (ASR)	candidat lèxic; validar àudio	
+spk-030	Josep Areny	pa-046	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=Canillo=2 (ASR)	candidat lèxic; validar àudio	
+spk-030	Josep Areny	pa-046	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials=Canillo=2 (ASR)	candidat lèxic; validar àudio	
+spk-030	Josep Areny	pa-046	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-030	Josep Areny	pa-046	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-030	Josep Areny	pa-046	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=13;bueno=15;clar=12;doncs=16;llavors=3;aleshores=4;és a dir=4;o sigui=2;diguem=2;evidentment=3;perquè=18;no?=13	indicador textual; validar àudio	
+spk-030	Josep Areny	pa-046	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=120.97; f0_sd_hz=97.11; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat	
+spk-030	Josep Areny	pa-046	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=22 (ASR)	indicador textual; validar àudio	
+spk-030	Josep Areny	pa-046	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-030	Josep Areny	pa-046	1	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat	
+spk-030	Josep Areny	pa-046	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-030	Josep Areny	pa-046	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-030	Josep Areny	pa-046	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-030	Josep Areny	pa-046	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-030	Josep Areny	pa-046	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-031	Josep Areny Fité	pa-021	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-031	Josep Areny Fité	pa-021	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-031	Josep Areny Fité	pa-021	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-031	Josep Areny Fité	pa-021	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=parròquia=3;Canillo=10 (ASR)	candidat lèxic; validar àudio	
+spk-031	Josep Areny Fité	pa-021	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=parròquia=3;Canillo=10 (ASR)	candidat lèxic; validar àudio	
+spk-031	Josep Areny Fité	pa-021	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials=parròquia=3;Canillo=10 (ASR)	candidat lèxic; validar àudio	
+spk-031	Josep Areny Fité	pa-021	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-031	Josep Areny Fité	pa-021	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-031	Josep Areny Fité	pa-021	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=16;bueno=11;clar=9;doncs=26;aleshores=2;és a dir=10;vull dir=2;a veure=4;evidentment=6;perquè=20;no?=9	indicador textual; validar àudio	
+spk-031	Josep Areny Fité	pa-021	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=156.52; f0_sd_hz=876.17; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat	
+spk-031	Josep Areny Fité	pa-021	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=52 (ASR)	indicador textual; validar àudio	
+spk-031	Josep Areny Fité	pa-021	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-031	Josep Areny Fité	pa-021	1	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat	
+spk-031	Josep Areny Fité	pa-021	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-031	Josep Areny Fité	pa-021	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-031	Josep Areny Fité	pa-021	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-031	Josep Areny Fité	pa-021	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-031	Josep Areny Fité	pa-021	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-032	Josep Casal	pa-051	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-032	Josep Casal	pa-051	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-032	Josep Casal	pa-051	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-032	Josep Casal	pa-051	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=comú=1;comunals=1 (ASR)	candidat lèxic; validar àudio	
+spk-032	Josep Casal	pa-051	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=comú=1;comunals=1 (ASR)	candidat lèxic; validar àudio	
+spk-032	Josep Casal	pa-051	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials=comú=1;comunals=1 (ASR)	candidat lèxic; validar àudio	
+spk-032	Josep Casal	pa-051	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-032	Josep Casal	pa-051	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-032	Josep Casal	pa-051	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bueno=2;clar=2;llavors=1;de fet=1;perquè=5	indicador textual; validar àudio	
+spk-032	Josep Casal	pa-051	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=150.64; f0_sd_hz=81.67; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat	
+spk-032	Josep Casal	pa-051	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=11 (ASR)	indicador textual; validar àudio	
+spk-032	Josep Casal	pa-051	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-032	Josep Casal	pa-051	1	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat	
+spk-032	Josep Casal	pa-051	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-032	Josep Casal	pa-051	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-032	Josep Casal	pa-051	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-032	Josep Casal	pa-051	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-032	Josep Casal	pa-051	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-033	Josep Garrallà Rossell	pa-031	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-033	Josep Garrallà Rossell	pa-031	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-033	Josep Garrallà Rossell	pa-031	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-033	Josep Garrallà Rossell	pa-031	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=Canillo=1;Massana=1 (ASR)	candidat lèxic; validar àudio	
+spk-033	Josep Garrallà Rossell	pa-031	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=Canillo=1;Massana=1 (ASR)	candidat lèxic; validar àudio	
+spk-033	Josep Garrallà Rossell	pa-031	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials=Canillo=1;Massana=1 (ASR)	candidat lèxic; validar àudio	
+spk-033	Josep Garrallà Rossell	pa-031	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-033	Josep Garrallà Rossell	pa-031	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-033	Josep Garrallà Rossell	pa-031	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=2;bueno=13;clar=4;doncs=1;aleshores=7;de fet=1;vull dir=2;a veure=2;perquè=16	indicador textual; validar àudio	
+spk-033	Josep Garrallà Rossell	pa-031	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=143.87; f0_sd_hz=84.61; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat	
+spk-033	Josep Garrallà Rossell	pa-031	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=75 (ASR)	indicador textual; validar àudio	
+spk-033	Josep Garrallà Rossell	pa-031	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-033	Josep Garrallà Rossell	pa-031	1	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat	
+spk-033	Josep Garrallà Rossell	pa-031	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-033	Josep Garrallà Rossell	pa-031	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-033	Josep Garrallà Rossell	pa-031	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-033	Josep Garrallà Rossell	pa-031	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-033	Josep Garrallà Rossell	pa-031	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-034	Josep Marsal Riba	pa-035	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-034	Josep Marsal Riba	pa-035	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-034	Josep Marsal Riba	pa-035	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-034	Josep Marsal Riba	pa-035	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=comú=1;comuns=1;Escaldes=1 (ASR)	candidat lèxic; validar àudio	
+spk-034	Josep Marsal Riba	pa-035	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=comú=1;comuns=1;Escaldes=1 (ASR)	candidat lèxic; validar àudio	
+spk-034	Josep Marsal Riba	pa-035	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials=comú=1;comuns=1;Escaldes=1 (ASR)	candidat lèxic; validar àudio	
+spk-034	Josep Marsal Riba	pa-035	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-034	Josep Marsal Riba	pa-035	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-034	Josep Marsal Riba	pa-035	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=3;bueno=1;clar=2;doncs=2;és a dir=1;a veure=2;evidentment=1;perquè=7	indicador textual; validar àudio	
+spk-034	Josep Marsal Riba	pa-035	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=89.82; f0_sd_hz=75.77; pausa_mediana_s=0.10	descriptor acústic; no és tret confirmat	
+spk-034	Josep Marsal Riba	pa-035	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=92 (ASR)	indicador textual; validar àudio	
+spk-034	Josep Marsal Riba	pa-035	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-034	Josep Marsal Riba	pa-035	1	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat	
+spk-034	Josep Marsal Riba	pa-035	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-034	Josep Marsal Riba	pa-035	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-034	Josep Marsal Riba	pa-035	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-034	Josep Marsal Riba	pa-035	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-034	Josep Marsal Riba	pa-035	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-035	Ladislau Baró Solà	pa-024	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-035	Ladislau Baró Solà	pa-024	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-035	Ladislau Baró Solà	pa-024	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-035	Ladislau Baró Solà	pa-024	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=parròquia=4;Escaldes=2;Sant Julià=3 (ASR)	candidat lèxic; validar àudio	
+spk-035	Ladislau Baró Solà	pa-024	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=parròquia=4;Escaldes=2;Sant Julià=3 (ASR)	candidat lèxic; validar àudio	
+spk-035	Ladislau Baró Solà	pa-024	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials=parròquia=4;Escaldes=2;Sant Julià=3 (ASR)	candidat lèxic; validar àudio	
+spk-035	Ladislau Baró Solà	pa-024	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-035	Ladislau Baró Solà	pa-024	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-035	Ladislau Baró Solà	pa-024	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=8;bueno=23;clar=21;doncs=6;llavors=12;de fet=2;és a dir=5;o sigui=2;a veure=4;evidentment=2;perquè=24;per tant=8;a nivell=1;no?=23	indicador textual; validar àudio	
+spk-035	Ladislau Baró Solà	pa-024	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=89.23; f0_sd_hz=143.79; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat	
+spk-035	Ladislau Baró Solà	pa-024	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=135 (ASR)	indicador textual; validar àudio	
+spk-035	Ladislau Baró Solà	pa-024	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-035	Ladislau Baró Solà	pa-024	1	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat	
+spk-035	Ladislau Baró Solà	pa-024	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-035	Ladislau Baró Solà	pa-024	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-035	Ladislau Baró Solà	pa-024	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-035	Ladislau Baró Solà	pa-024	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-035	Ladislau Baró Solà	pa-024	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-036	Ludmilla Lacueva	pa-005	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-036	Ludmilla Lacueva	pa-005	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-036	Ludmilla Lacueva	pa-005	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-036	Ludmilla Lacueva	pa-005	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=parròquia=1;comú=7;comuns=3;comunal=2;comunals=2;Canillo=1;Ordino=2;Escaldes=4;Sant Julià=3 (ASR)	candidat lèxic; validar àudio	
+spk-036	Ludmilla Lacueva	pa-005	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=parròquia=1;comú=7;comuns=3;comunal=2;comunals=2;Canillo=1;Ordino=2;Escaldes=4;Sant Julià=3 (ASR)	candidat lèxic; validar àudio	
+spk-036	Ludmilla Lacueva	pa-005	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials=parròquia=1;comú=7;comuns=3;comunal=2;comunals=2;Canillo=1;Ordino=2;Escaldes=4;Sant Julià=3 (ASR)	candidat lèxic; validar àudio	
+spk-036	Ludmilla Lacueva	pa-005	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-036	Ludmilla Lacueva	pa-005	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-036	Ludmilla Lacueva	pa-005	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=3;clar=3;doncs=4;llavors=1;o sigui=1;per tant=1	indicador textual; validar àudio	
+spk-036	Ludmilla Lacueva	pa-005	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=31.89; f0_sd_hz=55.96; pausa_mediana_s=0.92	descriptor acústic; no és tret confirmat	
+spk-036	Ludmilla Lacueva	pa-005	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=15 (ASR)	indicador textual; validar àudio	
+spk-036	Ludmilla Lacueva	pa-005	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-036	Ludmilla Lacueva	pa-005	1	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat	
+spk-036	Ludmilla Lacueva	pa-005	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-036	Ludmilla Lacueva	pa-005	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-036	Ludmilla Lacueva	pa-005	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-036	Ludmilla Lacueva	pa-005	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-036	Ludmilla Lacueva	pa-005	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-037	Maria Reig Moles	pa-038	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-037	Maria Reig Moles	pa-038	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-037	Maria Reig Moles	pa-038	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-037	Maria Reig Moles	pa-038	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=parròquia=1;comuns=2;copríncep=1;coprínceps=12;veguer=1;Canillo=1;Escaldes=4 (ASR)	candidat lèxic; validar àudio	
+spk-037	Maria Reig Moles	pa-038	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=parròquia=1;comuns=2;copríncep=1;coprínceps=12;veguer=1;Canillo=1;Escaldes=4 (ASR)	candidat lèxic; validar àudio	
+spk-037	Maria Reig Moles	pa-038	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials=parròquia=1;comuns=2;copríncep=1;coprínceps=12;veguer=1;Canillo=1;Escaldes=4 (ASR)	candidat lèxic; validar àudio	
+spk-037	Maria Reig Moles	pa-038	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-037	Maria Reig Moles	pa-038	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-037	Maria Reig Moles	pa-038	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=25;bueno=1;clar=7;doncs=2;llavors=9;o sigui=7;vull dir=1;a veure=1;diguem=3;perquè=16;a nivell=2;no?=8	indicador textual; validar àudio	
+spk-037	Maria Reig Moles	pa-038	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=58.17; f0_sd_hz=53.87; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat	
+spk-037	Maria Reig Moles	pa-038	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=116 (ASR)	indicador textual; validar àudio	
+spk-037	Maria Reig Moles	pa-038	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-037	Maria Reig Moles	pa-038	1	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat	
+spk-037	Maria Reig Moles	pa-038	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-037	Maria Reig Moles	pa-038	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-037	Maria Reig Moles	pa-038	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-037	Maria Reig Moles	pa-038	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-037	Maria Reig Moles	pa-038	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-038	Mercè Segura	pa-041	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-038	Mercè Segura	pa-041	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-038	Mercè Segura	pa-041	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-038	Mercè Segura	pa-041	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials= (ASR)	candidat lèxic; validar àudio	
+spk-038	Mercè Segura	pa-041	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials= (ASR)	candidat lèxic; validar àudio	
+spk-038	Mercè Segura	pa-041	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials= (ASR)	candidat lèxic; validar àudio	
+spk-038	Mercè Segura	pa-041	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-038	Mercè Segura	pa-041	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-038	Mercè Segura	pa-041	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=3;bueno=3;clar=6;doncs=4;llavors=2;és a dir=2;vull dir=1;a veure=6;evidentment=1;perquè=18;per tant=10	indicador textual; validar àudio	
+spk-038	Mercè Segura	pa-041	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=131.33; f0_sd_hz=172.17; pausa_mediana_s=0.06	descriptor acústic; no és tret confirmat	
+spk-038	Mercè Segura	pa-041	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=16 (ASR)	indicador textual; validar àudio	
+spk-038	Mercè Segura	pa-041	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-038	Mercè Segura	pa-041	1	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat	
+spk-038	Mercè Segura	pa-041	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-038	Mercè Segura	pa-041	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-038	Mercè Segura	pa-041	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-038	Mercè Segura	pa-041	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-038	Mercè Segura	pa-041	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-039	Miquel Aleix Areny	pa-018,pa-058	2	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-039	Miquel Aleix Areny	pa-018,pa-058	2	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-039	Miquel Aleix Areny	pa-018,pa-058	2	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-039	Miquel Aleix Areny	pa-018,pa-058	2	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=andorrana=1;parròquia=3;comú=1;comuns=1;copríncep=3;Canillo=1;Escaldes=4;Sant Julià=1 (ASR) | formes_territorials=parròquia=3;comú=1;comuns=1;copríncep=10;coprínceps=5;Canillo=1;Escaldes=4;Sant Julià=1 (ASR)	candidat lèxic; validar àudio	
+spk-039	Miquel Aleix Areny	pa-018,pa-058	2	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=andorrana=1;parròquia=3;comú=1;comuns=1;copríncep=3;Canillo=1;Escaldes=4;Sant Julià=1 (ASR) | formes_territorials=parròquia=3;comú=1;comuns=1;copríncep=10;coprínceps=5;Canillo=1;Escaldes=4;Sant Julià=1 (ASR)	candidat lèxic; validar àudio	
+spk-039	Miquel Aleix Areny	pa-018,pa-058	2	lèxic	variants occidentals	ALDC; Veny	formes_territorials=andorrana=1;parròquia=3;comú=1;comuns=1;copríncep=3;Canillo=1;Escaldes=4;Sant Julià=1 (ASR) | formes_territorials=parròquia=3;comú=1;comuns=1;copríncep=10;coprínceps=5;Canillo=1;Escaldes=4;Sant Julià=1 (ASR)	candidat lèxic; validar àudio	
+spk-039	Miquel Aleix Areny	pa-018,pa-058	2	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-039	Miquel Aleix Areny	pa-018,pa-058	2	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-039	Miquel Aleix Areny	pa-018,pa-058	2	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=6;bueno=49;clar=12;doncs=34;llavors=2;és a dir=3;a veure=4;diguem=2;perquè=49;a nivell=15 | bé=6;bueno=36;clar=12;doncs=29;llavors=2;és a dir=3;vull dir=1;a veure=5;diguem=2;perquè=50;a nivell=15;no?=1	indicador textual; validar àudio	
+spk-039	Miquel Aleix Areny	pa-018,pa-058	2	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=63.93; f0_sd_hz=309.19; pausa_mediana_s=0.10 | f0_iqr_hz=64.28; f0_sd_hz=98.04; pausa_mediana_s=0.10	descriptor acústic; no és tret confirmat	
+spk-039	Miquel Aleix Areny	pa-018,pa-058	2	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=142 (ASR) | perifrasi_past_aparent=143 (ASR)	indicador textual; validar àudio	
+spk-039	Miquel Aleix Areny	pa-018,pa-058	2	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-039	Miquel Aleix Areny	pa-018,pa-058	2	variació	localitat i generació	Rabassa; ALDC	context no documentat | Escaldes-Engordany (circumscripció documentada)	contextual; no prova varietat	
+spk-039	Miquel Aleix Areny	pa-018,pa-058	2	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-039	Miquel Aleix Areny	pa-018,pa-058	2	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-039	Miquel Aleix Areny	pa-018,pa-058	2	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-039	Miquel Aleix Areny	pa-018,pa-058	2	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-039	Miquel Aleix Areny	pa-018,pa-058	2	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-040	Miquel Armengol Pons	pa-022	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-040	Miquel Armengol Pons	pa-022	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-040	Miquel Armengol Pons	pa-022	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-040	Miquel Armengol Pons	pa-022	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials= (ASR)	candidat lèxic; validar àudio	
+spk-040	Miquel Armengol Pons	pa-022	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials= (ASR)	candidat lèxic; validar àudio	
+spk-040	Miquel Armengol Pons	pa-022	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials= (ASR)	candidat lèxic; validar àudio	
+spk-040	Miquel Armengol Pons	pa-022	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-040	Miquel Armengol Pons	pa-022	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-040	Miquel Armengol Pons	pa-022	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=4;bueno=12;clar=2;doncs=3;llavors=6;de fet=1;és a dir=1;o sigui=1;vull dir=4;a veure=2;diguem=1;evidentment=2;perquè=17;no?=12	indicador textual; validar àudio	
+spk-040	Miquel Armengol Pons	pa-022	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=190.60; f0_sd_hz=96.74; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat	
+spk-040	Miquel Armengol Pons	pa-022	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=68 (ASR)	indicador textual; validar àudio	
+spk-040	Miquel Armengol Pons	pa-022	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-040	Miquel Armengol Pons	pa-022	1	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat	
+spk-040	Miquel Armengol Pons	pa-022	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-040	Miquel Armengol Pons	pa-022	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-040	Miquel Armengol Pons	pa-022	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-040	Miquel Armengol Pons	pa-022	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-040	Miquel Armengol Pons	pa-022	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-041	Miquel Naudi Casal	pa-037	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-041	Miquel Naudi Casal	pa-037	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-041	Miquel Naudi Casal	pa-037	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-041	Miquel Naudi Casal	pa-037	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=parròquia=1;comú=1;Canillo=1 (ASR)	candidat lèxic; validar àudio	
+spk-041	Miquel Naudi Casal	pa-037	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=parròquia=1;comú=1;Canillo=1 (ASR)	candidat lèxic; validar àudio	
+spk-041	Miquel Naudi Casal	pa-037	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials=parròquia=1;comú=1;Canillo=1 (ASR)	candidat lèxic; validar àudio	
+spk-041	Miquel Naudi Casal	pa-037	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-041	Miquel Naudi Casal	pa-037	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-041	Miquel Naudi Casal	pa-037	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=5;bueno=4;clar=4;doncs=3;llavors=3;vull dir=1;diguem=1;perquè=8	indicador textual; validar àudio	
+spk-041	Miquel Naudi Casal	pa-037	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=164.46; f0_sd_hz=92.36; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat	
+spk-041	Miquel Naudi Casal	pa-037	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=36 (ASR)	indicador textual; validar àudio	
+spk-041	Miquel Naudi Casal	pa-037	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-041	Miquel Naudi Casal	pa-037	1	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat	
+spk-041	Miquel Naudi Casal	pa-037	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-041	Miquel Naudi Casal	pa-037	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-041	Miquel Naudi Casal	pa-037	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-041	Miquel Naudi Casal	pa-037	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-041	Miquel Naudi Casal	pa-037	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-042	Mossèn Ramon de Canillo	pa-065	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-042	Mossèn Ramon de Canillo	pa-065	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-042	Mossèn Ramon de Canillo	pa-065	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-042	Mossèn Ramon de Canillo	pa-065	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=comú=1;santuari=4;Canillo=3 (ASR)	candidat lèxic; validar àudio	
+spk-042	Mossèn Ramon de Canillo	pa-065	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=comú=1;santuari=4;Canillo=3 (ASR)	candidat lèxic; validar àudio	
+spk-042	Mossèn Ramon de Canillo	pa-065	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials=comú=1;santuari=4;Canillo=3 (ASR)	candidat lèxic; validar àudio	
+spk-042	Mossèn Ramon de Canillo	pa-065	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-042	Mossèn Ramon de Canillo	pa-065	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-042	Mossèn Ramon de Canillo	pa-065	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=6;bueno=3;clar=13;doncs=23;llavors=8;aleshores=15;de fet=1;és a dir=7;o sigui=4;vull dir=1;a veure=6;perquè=34;per tant=6;a nivell=2	indicador textual; validar àudio	
+spk-042	Mossèn Ramon de Canillo	pa-065	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=118.07; f0_sd_hz=280.02; pausa_mediana_s=0.10	descriptor acústic; no és tret confirmat	
+spk-042	Mossèn Ramon de Canillo	pa-065	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=41 (ASR)	indicador textual; validar àudio	
+spk-042	Mossèn Ramon de Canillo	pa-065	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-042	Mossèn Ramon de Canillo	pa-065	1	variació	localitat i generació	Rabassa; ALDC	Canillo	contextual; no prova varietat	
+spk-042	Mossèn Ramon de Canillo	pa-065	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-042	Mossèn Ramon de Canillo	pa-065	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-042	Mossèn Ramon de Canillo	pa-065	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-042	Mossèn Ramon de Canillo	pa-065	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-042	Mossèn Ramon de Canillo	pa-065	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-043	Nadia Aleix Tugas	pa-017,pa-059	2	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-043	Nadia Aleix Tugas	pa-017,pa-059	2	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-043	Nadia Aleix Tugas	pa-017,pa-059	2	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-043	Nadia Aleix Tugas	pa-017,pa-059	2	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=comú=1;copríncep=1;coprínceps=2;Escaldes=5;Sant Julià=1 (ASR) | formes_territorials=comú=1;copríncep=1;Escaldes=5;Sant Julià=1 (ASR)	candidat lèxic; validar àudio	
+spk-043	Nadia Aleix Tugas	pa-017,pa-059	2	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=comú=1;copríncep=1;coprínceps=2;Escaldes=5;Sant Julià=1 (ASR) | formes_territorials=comú=1;copríncep=1;Escaldes=5;Sant Julià=1 (ASR)	candidat lèxic; validar àudio	
+spk-043	Nadia Aleix Tugas	pa-017,pa-059	2	lèxic	variants occidentals	ALDC; Veny	formes_territorials=comú=1;copríncep=1;coprínceps=2;Escaldes=5;Sant Julià=1 (ASR) | formes_territorials=comú=1;copríncep=1;Escaldes=5;Sant Julià=1 (ASR)	candidat lèxic; validar àudio	
+spk-043	Nadia Aleix Tugas	pa-017,pa-059	2	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-043	Nadia Aleix Tugas	pa-017,pa-059	2	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-043	Nadia Aleix Tugas	pa-017,pa-059	2	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=4;bueno=2;clar=5;doncs=3;llavors=2;és a dir=1;vull dir=5;evidentment=3;perquè=23;per tant=1;a nivell=9 | bé=5;bueno=4;clar=5;doncs=6;llavors=2;és a dir=1;o sigui=1;vull dir=5;evidentment=3;perquè=23;per tant=1;a nivell=9	indicador textual; validar àudio	
+spk-043	Nadia Aleix Tugas	pa-017,pa-059	2	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=119.98; f0_sd_hz=68.10; pausa_mediana_s=0.10 | f0_iqr_hz=122.28; f0_sd_hz=76.24; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat	
+spk-043	Nadia Aleix Tugas	pa-017,pa-059	2	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=61 (ASR) | perifrasi_past_aparent=63 (ASR)	indicador textual; validar àudio	
+spk-043	Nadia Aleix Tugas	pa-017,pa-059	2	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-043	Nadia Aleix Tugas	pa-017,pa-059	2	variació	localitat i generació	Rabassa; ALDC	context no documentat | Escaldes-Engordany	contextual; no prova varietat	
+spk-043	Nadia Aleix Tugas	pa-017,pa-059	2	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-043	Nadia Aleix Tugas	pa-017,pa-059	2	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-043	Nadia Aleix Tugas	pa-017,pa-059	2	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-043	Nadia Aleix Tugas	pa-017,pa-059	2	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-043	Nadia Aleix Tugas	pa-017,pa-059	2	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-044	Olga Adellach Coma	pa-016	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-044	Olga Adellach Coma	pa-016	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-044	Olga Adellach Coma	pa-016	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-044	Olga Adellach Coma	pa-016	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=parròquia=2;comunals=1;Canillo=1;Ordino=3 (ASR)	candidat lèxic; validar àudio	
+spk-044	Olga Adellach Coma	pa-016	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=parròquia=2;comunals=1;Canillo=1;Ordino=3 (ASR)	candidat lèxic; validar àudio	
+spk-044	Olga Adellach Coma	pa-016	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials=parròquia=2;comunals=1;Canillo=1;Ordino=3 (ASR)	candidat lèxic; validar àudio	
+spk-044	Olga Adellach Coma	pa-016	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-044	Olga Adellach Coma	pa-016	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-044	Olga Adellach Coma	pa-016	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=5;bueno=4;clar=12;doncs=10;llavors=10;de fet=2;és a dir=2;o sigui=2;vull dir=2;a veure=4;aviam=1;evidentment=3;perquè=18;per tant=2;a nivell=4;no?=4	indicador textual; validar àudio	
+spk-044	Olga Adellach Coma	pa-016	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=57.65; f0_sd_hz=69.93; pausa_mediana_s=0.06	descriptor acústic; no és tret confirmat	
+spk-044	Olga Adellach Coma	pa-016	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=52 (ASR)	indicador textual; validar àudio	
+spk-044	Olga Adellach Coma	pa-016	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-044	Olga Adellach Coma	pa-016	1	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat	
+spk-044	Olga Adellach Coma	pa-016	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-044	Olga Adellach Coma	pa-016	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-044	Olga Adellach Coma	pa-016	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-044	Olga Adellach Coma	pa-016	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-044	Olga Adellach Coma	pa-016	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-045	Patrick Pérez	pa-061	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-045	Patrick Pérez	pa-061	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-045	Patrick Pérez	pa-061	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-045	Patrick Pérez	pa-061	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials= (ASR)	candidat lèxic; validar àudio	
+spk-045	Patrick Pérez	pa-061	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials= (ASR)	candidat lèxic; validar àudio	
+spk-045	Patrick Pérez	pa-061	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials= (ASR)	candidat lèxic; validar àudio	
+spk-045	Patrick Pérez	pa-061	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-045	Patrick Pérez	pa-061	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-045	Patrick Pérez	pa-061	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=6;bueno=12;clar=7;doncs=5;llavors=3;o sigui=7;vull dir=2;a veure=1;evidentment=2;perquè=25;a nivell=1;no?=9	indicador textual; validar àudio	
+spk-045	Patrick Pérez	pa-061	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=112.12; f0_sd_hz=2043.35; pausa_mediana_s=0.06	descriptor acústic; no és tret confirmat	
+spk-045	Patrick Pérez	pa-061	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=31 (ASR)	indicador textual; validar àudio	
+spk-045	Patrick Pérez	pa-061	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-045	Patrick Pérez	pa-061	1	variació	localitat i generació	Rabassa; ALDC	Andorra (activitat empresarial documentada)	contextual; no prova varietat	
+spk-045	Patrick Pérez	pa-061	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-045	Patrick Pérez	pa-061	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-045	Patrick Pérez	pa-061	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-045	Patrick Pérez	pa-061	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-045	Patrick Pérez	pa-061	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-046	Pere Altimir Pintat	pa-019	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-046	Pere Altimir Pintat	pa-019	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-046	Pere Altimir Pintat	pa-019	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-046	Pere Altimir Pintat	pa-019	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=comuns=2 (ASR)	candidat lèxic; validar àudio	
+spk-046	Pere Altimir Pintat	pa-019	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=comuns=2 (ASR)	candidat lèxic; validar àudio	
+spk-046	Pere Altimir Pintat	pa-019	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials=comuns=2 (ASR)	candidat lèxic; validar àudio	
+spk-046	Pere Altimir Pintat	pa-019	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-046	Pere Altimir Pintat	pa-019	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-046	Pere Altimir Pintat	pa-019	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=6;bueno=3;clar=1;doncs=1;llavors=1;és a dir=6;diguem=4;evidentment=4;perquè=15;per tant=2;a nivell=3;no?=3	indicador textual; validar àudio	
+spk-046	Pere Altimir Pintat	pa-019	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=189.51; f0_sd_hz=99.83; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat	
+spk-046	Pere Altimir Pintat	pa-019	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=41 (ASR)	indicador textual; validar àudio	
+spk-046	Pere Altimir Pintat	pa-019	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-046	Pere Altimir Pintat	pa-019	1	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat	
+spk-046	Pere Altimir Pintat	pa-019	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-046	Pere Altimir Pintat	pa-019	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-046	Pere Altimir Pintat	pa-019	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-046	Pere Altimir Pintat	pa-019	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-046	Pere Altimir Pintat	pa-019	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-047	Pere Torres	pa-053	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-047	Pere Torres	pa-053	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-047	Pere Torres	pa-053	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-047	Pere Torres	pa-053	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=Escaldes=1 (ASR)	candidat lèxic; validar àudio	
+spk-047	Pere Torres	pa-053	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=Escaldes=1 (ASR)	candidat lèxic; validar àudio	
+spk-047	Pere Torres	pa-053	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials=Escaldes=1 (ASR)	candidat lèxic; validar àudio	
+spk-047	Pere Torres	pa-053	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-047	Pere Torres	pa-053	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-047	Pere Torres	pa-053	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=1;llavors=7;perquè=2	indicador textual; validar àudio	
+spk-047	Pere Torres	pa-053	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=137.73; f0_sd_hz=80.89; pausa_mediana_s=0.06	descriptor acústic; no és tret confirmat	
+spk-047	Pere Torres	pa-053	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=18 (ASR)	indicador textual; validar àudio	
+spk-047	Pere Torres	pa-053	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-047	Pere Torres	pa-053	1	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat	
+spk-047	Pere Torres	pa-053	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-047	Pere Torres	pa-053	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-047	Pere Torres	pa-053	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-047	Pere Torres	pa-053	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-047	Pere Torres	pa-053	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-048	Ramon Canut Bové	pa-026,pa-055	2	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-048	Ramon Canut Bové	pa-026,pa-055	2	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-048	Ramon Canut Bové	pa-026,pa-055	2	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-048	Ramon Canut Bové	pa-026,pa-055	2	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=copríncep=1;comunals=1;Canillo=1;Ordino=1;Escaldes=3;Massana=1;Sant Julià=1 (ASR) | formes_territorials=copríncep=1;comunals=1;Ordino=1;Escaldes=3;Massana=1;Sant Julià=1 (ASR)	candidat lèxic; validar àudio	
+spk-048	Ramon Canut Bové	pa-026,pa-055	2	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=copríncep=1;comunals=1;Canillo=1;Ordino=1;Escaldes=3;Massana=1;Sant Julià=1 (ASR) | formes_territorials=copríncep=1;comunals=1;Ordino=1;Escaldes=3;Massana=1;Sant Julià=1 (ASR)	candidat lèxic; validar àudio	
+spk-048	Ramon Canut Bové	pa-026,pa-055	2	lèxic	variants occidentals	ALDC; Veny	formes_territorials=copríncep=1;comunals=1;Canillo=1;Ordino=1;Escaldes=3;Massana=1;Sant Julià=1 (ASR) | formes_territorials=copríncep=1;comunals=1;Ordino=1;Escaldes=3;Massana=1;Sant Julià=1 (ASR)	candidat lèxic; validar àudio	
+spk-048	Ramon Canut Bové	pa-026,pa-055	2	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-048	Ramon Canut Bové	pa-026,pa-055	2	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-048	Ramon Canut Bové	pa-026,pa-055	2	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=23;bueno=24;clar=10;doncs=11;llavors=15;és a dir=1;o sigui=4;vull dir=2;a veure=8;evidentment=1;perquè=33;per tant=1;a nivell=3;no?=26 | bé=17;bueno=27;clar=11;doncs=16;llavors=14;és a dir=1;o sigui=5;vull dir=2;a veure=8;evidentment=1;perquè=32;per tant=1;a nivell=3;no?=31	indicador textual; validar àudio	
+spk-048	Ramon Canut Bové	pa-026,pa-055	2	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=172.05; f0_sd_hz=447.72; pausa_mediana_s=0.08 | f0_iqr_hz=173.29; f0_sd_hz=255.77; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat	
+spk-048	Ramon Canut Bové	pa-026,pa-055	2	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=187 (ASR) | perifrasi_past_aparent=186 (ASR)	indicador textual; validar àudio	
+spk-048	Ramon Canut Bové	pa-026,pa-055	2	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-048	Ramon Canut Bové	pa-026,pa-055	2	variació	localitat i generació	Rabassa; ALDC	context no documentat | d'Escaldes-Engordany	contextual; no prova varietat	
+spk-048	Ramon Canut Bové	pa-026,pa-055	2	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-048	Ramon Canut Bové	pa-026,pa-055	2	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-048	Ramon Canut Bové	pa-026,pa-055	2	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-048	Ramon Canut Bové	pa-026,pa-055	2	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-048	Ramon Canut Bové	pa-026,pa-055	2	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-049	Robert Cassany Vila	pa-028	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-049	Robert Cassany Vila	pa-028	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-049	Robert Cassany Vila	pa-028	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-049	Robert Cassany Vila	pa-028	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials= (ASR)	candidat lèxic; validar àudio	
+spk-049	Robert Cassany Vila	pa-028	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials= (ASR)	candidat lèxic; validar àudio	
+spk-049	Robert Cassany Vila	pa-028	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials= (ASR)	candidat lèxic; validar àudio	
+spk-049	Robert Cassany Vila	pa-028	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-049	Robert Cassany Vila	pa-028	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-049	Robert Cassany Vila	pa-028	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=3;bueno=12;clar=2;doncs=2;llavors=3;de fet=1;diguem=1;perquè=7;no?=3	indicador textual; validar àudio	
+spk-049	Robert Cassany Vila	pa-028	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=32.23; f0_sd_hz=48.63; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat	
+spk-049	Robert Cassany Vila	pa-028	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=20 (ASR)	indicador textual; validar àudio	
+spk-049	Robert Cassany Vila	pa-028	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-049	Robert Cassany Vila	pa-028	1	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat	
+spk-049	Robert Cassany Vila	pa-028	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-049	Robert Cassany Vila	pa-028	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-049	Robert Cassany Vila	pa-028	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-049	Robert Cassany Vila	pa-028	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-049	Robert Cassany Vila	pa-028	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-050	Robert Lizarte	pa-009	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-050	Robert Lizarte	pa-009	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-050	Robert Lizarte	pa-009	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-050	Robert Lizarte	pa-009	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=parròquia=4;comú=3;santuari=1;padrí=1;Canillo=2;Encamp=1;Ordino=2;Sant Julià=3 (ASR)	candidat lèxic; validar àudio	
+spk-050	Robert Lizarte	pa-009	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=parròquia=4;comú=3;santuari=1;padrí=1;Canillo=2;Encamp=1;Ordino=2;Sant Julià=3 (ASR)	candidat lèxic; validar àudio	
+spk-050	Robert Lizarte	pa-009	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials=parròquia=4;comú=3;santuari=1;padrí=1;Canillo=2;Encamp=1;Ordino=2;Sant Julià=3 (ASR)	candidat lèxic; validar àudio	
+spk-050	Robert Lizarte	pa-009	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-050	Robert Lizarte	pa-009	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-050	Robert Lizarte	pa-009	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=2;clar=1;doncs=14;llavors=1;o sigui=2;diguem=1;evidentment=1;perquè=7;per tant=3	indicador textual; validar àudio	
+spk-050	Robert Lizarte	pa-009	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=64.42; f0_sd_hz=43.93; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat	
+spk-050	Robert Lizarte	pa-009	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=10 (ASR)	indicador textual; validar àudio	
+spk-050	Robert Lizarte	pa-009	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-050	Robert Lizarte	pa-009	1	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat	
+spk-050	Robert Lizarte	pa-009	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-050	Robert Lizarte	pa-009	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-050	Robert Lizarte	pa-009	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-050	Robert Lizarte	pa-009	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-050	Robert Lizarte	pa-009	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-051	Rosa Maria Mandicó Alcobé	pa-034	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-051	Rosa Maria Mandicó Alcobé	pa-034	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-051	Rosa Maria Mandicó Alcobé	pa-034	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-051	Rosa Maria Mandicó Alcobé	pa-034	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=parròquia=2;comú=1;Canillo=5;Massana=1 (ASR)	candidat lèxic; validar àudio	
+spk-051	Rosa Maria Mandicó Alcobé	pa-034	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=parròquia=2;comú=1;Canillo=5;Massana=1 (ASR)	candidat lèxic; validar àudio	
+spk-051	Rosa Maria Mandicó Alcobé	pa-034	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials=parròquia=2;comú=1;Canillo=5;Massana=1 (ASR)	candidat lèxic; validar àudio	
+spk-051	Rosa Maria Mandicó Alcobé	pa-034	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-051	Rosa Maria Mandicó Alcobé	pa-034	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-051	Rosa Maria Mandicó Alcobé	pa-034	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=25;bueno=26;clar=57;doncs=28;llavors=25;és a dir=3;o sigui=1;vull dir=156;a veure=7;diguem=1;perquè=32;per tant=14;a nivell=9;no?=109	indicador textual; validar àudio	
+spk-051	Rosa Maria Mandicó Alcobé	pa-034	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=131.84; f0_sd_hz=98.90; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat	
+spk-051	Rosa Maria Mandicó Alcobé	pa-034	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=116 (ASR)	indicador textual; validar àudio	
+spk-051	Rosa Maria Mandicó Alcobé	pa-034	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-051	Rosa Maria Mandicó Alcobé	pa-034	1	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat	
+spk-051	Rosa Maria Mandicó Alcobé	pa-034	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-051	Rosa Maria Mandicó Alcobé	pa-034	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-051	Rosa Maria Mandicó Alcobé	pa-034	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-051	Rosa Maria Mandicó Alcobé	pa-034	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-051	Rosa Maria Mandicó Alcobé	pa-034	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-052	Rosa Vidal	pa-052	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-052	Rosa Vidal	pa-052	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-052	Rosa Vidal	pa-052	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-052	Rosa Vidal	pa-052	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials= (ASR)	candidat lèxic; validar àudio	
+spk-052	Rosa Vidal	pa-052	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials= (ASR)	candidat lèxic; validar àudio	
+spk-052	Rosa Vidal	pa-052	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials= (ASR)	candidat lèxic; validar àudio	
+spk-052	Rosa Vidal	pa-052	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-052	Rosa Vidal	pa-052	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-052	Rosa Vidal	pa-052	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bueno=1;clar=1;llavors=1;perquè=2	indicador textual; validar àudio	
+spk-052	Rosa Vidal	pa-052	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=70.01; f0_sd_hz=76.80; pausa_mediana_s=0.07	descriptor acústic; no és tret confirmat	
+spk-052	Rosa Vidal	pa-052	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=10 (ASR)	indicador textual; validar àudio	
+spk-052	Rosa Vidal	pa-052	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-052	Rosa Vidal	pa-052	1	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat	
+spk-052	Rosa Vidal	pa-052	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-052	Rosa Vidal	pa-052	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-052	Rosa Vidal	pa-052	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-052	Rosa Vidal	pa-052	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-052	Rosa Vidal	pa-052	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-053	Roser Bastida	pa-003	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-053	Roser Bastida	pa-003	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-053	Roser Bastida	pa-003	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-053	Roser Bastida	pa-003	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=andorrana=4 (ASR)	candidat lèxic; validar àudio	
+spk-053	Roser Bastida	pa-003	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=andorrana=4 (ASR)	candidat lèxic; validar àudio	
+spk-053	Roser Bastida	pa-003	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials=andorrana=4 (ASR)	candidat lèxic; validar àudio	
+spk-053	Roser Bastida	pa-003	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-053	Roser Bastida	pa-003	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-053	Roser Bastida	pa-003	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=3;bueno=1;clar=1;aleshores=2;de fet=1;és a dir=11;aviam=1;diguem=1;evidentment=4;perquè=9;a nivell=1	indicador textual; validar àudio	
+spk-053	Roser Bastida	pa-003	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=126.05; f0_sd_hz=1076.05; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat	
+spk-053	Roser Bastida	pa-003	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=9 (ASR)	indicador textual; validar àudio	
+spk-053	Roser Bastida	pa-003	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-053	Roser Bastida	pa-003	1	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat	
+spk-053	Roser Bastida	pa-003	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-053	Roser Bastida	pa-003	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-053	Roser Bastida	pa-003	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-053	Roser Bastida	pa-003	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-053	Roser Bastida	pa-003	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-054	Roser Jordana	pa-063	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-054	Roser Jordana	pa-063	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-054	Roser Jordana	pa-063	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-054	Roser Jordana	pa-063	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials= (ASR)	candidat lèxic; validar àudio	
+spk-054	Roser Jordana	pa-063	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials= (ASR)	candidat lèxic; validar àudio	
+spk-054	Roser Jordana	pa-063	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials= (ASR)	candidat lèxic; validar àudio	
+spk-054	Roser Jordana	pa-063	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-054	Roser Jordana	pa-063	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-054	Roser Jordana	pa-063	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=12;bueno=1;clar=3;doncs=7;llavors=5;aleshores=4;o sigui=6;vull dir=1;a veure=3;perquè=51;per tant=5;a nivell=2;no?=2	indicador textual; validar àudio	
+spk-054	Roser Jordana	pa-063	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=63.11; f0_sd_hz=53.44; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat	
+spk-054	Roser Jordana	pa-063	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=52 (ASR)	indicador textual; validar àudio	
+spk-054	Roser Jordana	pa-063	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-054	Roser Jordana	pa-063	1	variació	localitat i generació	Rabassa; ALDC	pendent de documentació	contextual; no prova varietat	
+spk-054	Roser Jordana	pa-063	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-054	Roser Jordana	pa-063	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-054	Roser Jordana	pa-063	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-054	Roser Jordana	pa-063	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-054	Roser Jordana	pa-063	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-055	Ruth Casabella	pa-013	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-055	Ruth Casabella	pa-013	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-055	Ruth Casabella	pa-013	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-055	Ruth Casabella	pa-013	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=Escaldes=25 (ASR)	candidat lèxic; validar àudio	
+spk-055	Ruth Casabella	pa-013	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=Escaldes=25 (ASR)	candidat lèxic; validar àudio	
+spk-055	Ruth Casabella	pa-013	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials=Escaldes=25 (ASR)	candidat lèxic; validar àudio	
+spk-055	Ruth Casabella	pa-013	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-055	Ruth Casabella	pa-013	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-055	Ruth Casabella	pa-013	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=1;doncs=6;és a dir=2;evidentment=1;perquè=3;per tant=1	indicador textual; validar àudio	
+spk-055	Ruth Casabella	pa-013	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=130.26; f0_sd_hz=157.22; pausa_mediana_s=0.06	descriptor acústic; no és tret confirmat	
+spk-055	Ruth Casabella	pa-013	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=26 (ASR)	indicador textual; validar àudio	
+spk-055	Ruth Casabella	pa-013	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-055	Ruth Casabella	pa-013	1	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat	
+spk-055	Ruth Casabella	pa-013	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-055	Ruth Casabella	pa-013	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-055	Ruth Casabella	pa-013	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-055	Ruth Casabella	pa-013	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-055	Ruth Casabella	pa-013	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-056	Sara Ubach	pa-015	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-056	Sara Ubach	pa-015	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-056	Sara Ubach	pa-015	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-056	Sara Ubach	pa-015	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=parròquia=5 (ASR)	candidat lèxic; validar àudio	
+spk-056	Sara Ubach	pa-015	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=parròquia=5 (ASR)	candidat lèxic; validar àudio	
+spk-056	Sara Ubach	pa-015	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials=parròquia=5 (ASR)	candidat lèxic; validar àudio	
+spk-056	Sara Ubach	pa-015	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-056	Sara Ubach	pa-015	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-056	Sara Ubach	pa-015	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=3;doncs=7;llavors=1;o sigui=1;perquè=2	indicador textual; validar àudio	
+spk-056	Sara Ubach	pa-015	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=107.42; f0_sd_hz=180.17; pausa_mediana_s=0.12	descriptor acústic; no és tret confirmat	
+spk-056	Sara Ubach	pa-015	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=1 (ASR)	indicador textual; validar àudio	
+spk-056	Sara Ubach	pa-015	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-056	Sara Ubach	pa-015	1	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat	
+spk-056	Sara Ubach	pa-015	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-056	Sara Ubach	pa-015	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-056	Sara Ubach	pa-015	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-056	Sara Ubach	pa-015	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-056	Sara Ubach	pa-015	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-057	Teo Armengol	pa-014	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-057	Teo Armengol	pa-014	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-057	Teo Armengol	pa-014	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-057	Teo Armengol	pa-014	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=comú=1;padrí=1;Ordino=1;Escaldes=3;Sant Julià=3 (ASR)	candidat lèxic; validar àudio	
+spk-057	Teo Armengol	pa-014	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=comú=1;padrí=1;Ordino=1;Escaldes=3;Sant Julià=3 (ASR)	candidat lèxic; validar àudio	
+spk-057	Teo Armengol	pa-014	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials=comú=1;padrí=1;Ordino=1;Escaldes=3;Sant Julià=3 (ASR)	candidat lèxic; validar àudio	
+spk-057	Teo Armengol	pa-014	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-057	Teo Armengol	pa-014	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-057	Teo Armengol	pa-014	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=8;clar=1;doncs=10;llavors=4;aleshores=2;és a dir=10;o sigui=1;vull dir=8;a veure=1;aviam=1;evidentment=7;perquè=11	indicador textual; validar àudio	
+spk-057	Teo Armengol	pa-014	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=44.30; f0_sd_hz=52.86; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat	
+spk-057	Teo Armengol	pa-014	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=28 (ASR)	indicador textual; validar àudio	
+spk-057	Teo Armengol	pa-014	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-057	Teo Armengol	pa-014	1	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat	
+spk-057	Teo Armengol	pa-014	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-057	Teo Armengol	pa-014	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-057	Teo Armengol	pa-014	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-057	Teo Armengol	pa-014	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-057	Teo Armengol	pa-014	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-058	Trini Mandicó Baró	pa-054	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-058	Trini Mandicó Baró	pa-054	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-058	Trini Mandicó Baró	pa-054	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-058	Trini Mandicó Baró	pa-054	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=Escaldes=3;Sant Julià=1 (ASR)	candidat lèxic; validar àudio	
+spk-058	Trini Mandicó Baró	pa-054	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=Escaldes=3;Sant Julià=1 (ASR)	candidat lèxic; validar àudio	
+spk-058	Trini Mandicó Baró	pa-054	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials=Escaldes=3;Sant Julià=1 (ASR)	candidat lèxic; validar àudio	
+spk-058	Trini Mandicó Baró	pa-054	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-058	Trini Mandicó Baró	pa-054	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-058	Trini Mandicó Baró	pa-054	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=4;bueno=2;llavors=4;a veure=1;perquè=3	indicador textual; validar àudio	
+spk-058	Trini Mandicó Baró	pa-054	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=139.97; f0_sd_hz=80.53; pausa_mediana_s=0.06	descriptor acústic; no és tret confirmat	
+spk-058	Trini Mandicó Baró	pa-054	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=7 (ASR)	indicador textual; validar àudio	
+spk-058	Trini Mandicó Baró	pa-054	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-058	Trini Mandicó Baró	pa-054	1	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat	
+spk-058	Trini Mandicó Baró	pa-054	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-058	Trini Mandicó Baró	pa-054	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-058	Trini Mandicó Baró	pa-054	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-058	Trini Mandicó Baró	pa-054	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-058	Trini Mandicó Baró	pa-054	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-059	Xavier Planas	pa-010	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-059	Xavier Planas	pa-010	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-059	Xavier Planas	pa-010	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-059	Xavier Planas	pa-010	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=comuns=1;Ordino=1;Escaldes=1 (ASR)	candidat lèxic; validar àudio	
+spk-059	Xavier Planas	pa-010	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=comuns=1;Ordino=1;Escaldes=1 (ASR)	candidat lèxic; validar àudio	
+spk-059	Xavier Planas	pa-010	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials=comuns=1;Ordino=1;Escaldes=1 (ASR)	candidat lèxic; validar àudio	
+spk-059	Xavier Planas	pa-010	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-059	Xavier Planas	pa-010	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-059	Xavier Planas	pa-010	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=3;clar=5;doncs=7;llavors=5;de fet=3;és a dir=10;perquè=16;per tant=1	indicador textual; validar àudio	
+spk-059	Xavier Planas	pa-010	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=158.13; f0_sd_hz=86.75; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat	
+spk-059	Xavier Planas	pa-010	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=22 (ASR)	indicador textual; validar àudio	
+spk-059	Xavier Planas	pa-010	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-059	Xavier Planas	pa-010	1	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat	
+spk-059	Xavier Planas	pa-010	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-059	Xavier Planas	pa-010	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-059	Xavier Planas	pa-010	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-059	Xavier Planas	pa-010	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-059	Xavier Planas	pa-010	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-060	Àngels Mach	pa-050	1	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta	
+spk-060	Àngels Mach	pa-050	1	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-060	Àngels Mach	pa-050	1	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta	
+spk-060	Àngels Mach	pa-050	1	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials= (ASR)	candidat lèxic; validar àudio	
+spk-060	Àngels Mach	pa-050	1	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials= (ASR)	candidat lèxic; validar àudio	
+spk-060	Àngels Mach	pa-050	1	lèxic	variants occidentals	ALDC; Veny	formes_territorials= (ASR)	candidat lèxic; validar àudio	
+spk-060	Àngels Mach	pa-050	1	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta	
+spk-060	Àngels Mach	pa-050	1	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta	
+spk-060	Àngels Mach	pa-050	1	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=2;clar=2;llavors=2;aleshores=2;de fet=4;o sigui=1;a veure=1;perquè=8;per tant=3;no?=1	indicador textual; validar àudio	
+spk-060	Àngels Mach	pa-050	1	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=116.65; f0_sd_hz=113.62; pausa_mediana_s=0.06	descriptor acústic; no és tret confirmat	
+spk-060	Àngels Mach	pa-050	1	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=398 (ASR)	indicador textual; validar àudio	
+spk-060	Àngels Mach	pa-050	1	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context	
+spk-060	Àngels Mach	pa-050	1	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat	
+spk-060	Àngels Mach	pa-050	1	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-060	Àngels Mach	pa-050	1	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-060	Àngels Mach	pa-050	1	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	
+spk-060	Àngels Mach	pa-050	1	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta	
+spk-060	Àngels Mach	pa-050	1	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta	

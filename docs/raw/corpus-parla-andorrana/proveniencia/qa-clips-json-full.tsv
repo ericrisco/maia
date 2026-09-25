@@ -1,0 +1,304 @@
+id_persona	forma	clip	json_full	estat
+pa-007	bé	clips/pa-007__b__59.25.wav	qa-clips-json-full/pa-007__b__59_25.json	pendent-audicio
+pa-007	llavors	clips/pa-007__llavors__657.25.wav	qa-clips-json-full/pa-007__llavors__657_25.json	pendent-audicio
+pa-010	crec	clips/pa-010__crec__1033.25.wav	qa-clips-json-full/pa-010__crec__1033_25.json	pendent-audicio
+pa-041	vull dir	clips/pa-041__vull-dir__264.25.wav	qa-clips-json-full/pa-041__vull-dir__264_25.json	pendent-audicio
+pa-004	bé	clips/pa-004__b__319.61.wav	qa-clips-json-full/pa-004__b__319_61.json	pendent-audicio
+pa-004	de fet	clips/pa-004__de-fet__601.17.wav	qa-clips-json-full/pa-004__de-fet__601_17.json	pendent-audicio
+pa-004	evidentment	clips/pa-004__evidentment__522.93.wav	qa-clips-json-full/pa-004__evidentment__522_93.json	pendent-audicio
+pa-004	perquè	clips/pa-004__perqu__464.09.wav	qa-clips-json-full/pa-004__perqu__464_09.json	pendent-audicio
+pa-004	vull dir	clips/pa-004__vull-dir__143.45.wav	qa-clips-json-full/pa-004__vull-dir__143_45.json	pendent-audicio
+pa-005	bé	clips/pa-005__b__51.09.wav	qa-clips-json-full/pa-005__b__51_09.json	pendent-audicio
+pa-005	doncs	clips/pa-005__doncs__71.13.wav	qa-clips-json-full/pa-005__doncs__71_13.json	pendent-audicio
+pa-005	o sigui	clips/pa-005__o-sigui__373.33.wav	qa-clips-json-full/pa-005__o-sigui__373_33.json	pendent-audicio
+pa-006	aleshores	clips/pa-006__aleshores__513.25.wav	qa-clips-json-full/pa-006__aleshores__513_25.json	pendent-audicio
+pa-006	bé	clips/pa-006__b__151.25.wav	qa-clips-json-full/pa-006__b__151_25.json	pendent-audicio
+pa-006	de fet	clips/pa-006__de-fet__285.25.wav	qa-clips-json-full/pa-006__de-fet__285_25.json	pendent-audicio
+pa-006	doncs	clips/pa-006__doncs__180.25.wav	qa-clips-json-full/pa-006__doncs__180_25.json	pendent-audicio
+pa-006	o sigui	clips/pa-006__o-sigui__136.25.wav	qa-clips-json-full/pa-006__o-sigui__136_25.json	pendent-audicio
+pa-006	perquè	clips/pa-006__perqu__110.25.wav	qa-clips-json-full/pa-006__perqu__110_25.json	pendent-audicio
+pa-007	a veure	clips/pa-007__a-veure__89.25.wav	qa-clips-json-full/pa-007__a-veure__89_25.json	pendent-audicio
+pa-007	clar	clips/pa-007__clar__344.25.wav	qa-clips-json-full/pa-007__clar__344_25.json	pendent-audicio
+pa-007	diguem	clips/pa-007__diguem__585.25.wav	qa-clips-json-full/pa-007__diguem__585_25.json	pendent-audicio
+pa-007	doncs	clips/pa-007__doncs__59.25.wav	qa-clips-json-full/pa-007__doncs__59_25.json	pendent-audicio
+pa-007	evidentment	clips/pa-007__evidentment__778.25.wav	qa-clips-json-full/pa-007__evidentment__778_25.json	pendent-audicio
+pa-007	perquè	clips/pa-007__perqu__101.25.wav	qa-clips-json-full/pa-007__perqu__101_25.json	pendent-audicio
+pa-007	és a dir	clips/pa-007__s-a-dir__684.25.wav	qa-clips-json-full/pa-007__s-a-dir__684_25.json	pendent-audicio
+pa-008	a veure	clips/pa-008__a-veure__668.25.wav	qa-clips-json-full/pa-008__a-veure__668_25.json	pendent-audicio
+pa-008	bé	clips/pa-008__b__61.25.wav	qa-clips-json-full/pa-008__b__61_25.json	pendent-audicio
+pa-008	clar	clips/pa-008__clar__841.25.wav	qa-clips-json-full/pa-008__clar__841_25.json	pendent-audicio
+pa-008	de fet	clips/pa-008__de-fet__799.25.wav	qa-clips-json-full/pa-008__de-fet__799_25.json	pendent-audicio
+pa-008	és a dir	clips/pa-008__s-a-dir__1110.25.wav	qa-clips-json-full/pa-008__s-a-dir__1110_25.json	pendent-audicio
+pa-009	bé	clips/pa-009__b__557.25.wav	qa-clips-json-full/pa-009__b__557_25.json	pendent-audicio
+pa-009	clar	clips/pa-009__clar__99.25.wav	qa-clips-json-full/pa-009__clar__99_25.json	pendent-audicio
+pa-009	doncs	clips/pa-009__doncs__139.25.wav	qa-clips-json-full/pa-009__doncs__139_25.json	pendent-audicio
+pa-009	evidentment	clips/pa-009__evidentment__947.25.wav	qa-clips-json-full/pa-009__evidentment__947_25.json	pendent-audicio
+pa-009	o sigui	clips/pa-009__o-sigui__234.25.wav	qa-clips-json-full/pa-009__o-sigui__234_25.json	pendent-audicio
+pa-009	perquè	clips/pa-009__perqu__349.25.wav	qa-clips-json-full/pa-009__perqu__349_25.json	pendent-audicio
+pa-010	clar	clips/pa-010__clar__334.85.wav	qa-clips-json-full/pa-010__clar__334_85.json	pendent-audicio
+pa-010	de fet	clips/pa-010__de-fet__647.25.wav	qa-clips-json-full/pa-010__de-fet__647_25.json	pendent-audicio
+pa-010	doncs	clips/pa-010__doncs__24.65.wav	qa-clips-json-full/pa-010__doncs__24_65.json	pendent-audicio
+pa-010	llavors	clips/pa-010__llavors__386.25.wav	qa-clips-json-full/pa-010__llavors__386_25.json	pendent-audicio
+pa-010	perquè	clips/pa-010__perqu__196.65.wav	qa-clips-json-full/pa-010__perqu__196_65.json	pendent-audicio
+pa-010	és a dir	clips/pa-010__s-a-dir__243.25.wav	qa-clips-json-full/pa-010__s-a-dir__243_25.json	pendent-audicio
+pa-011	a veure	clips/pa-011__a-veure__551.81.wav	qa-clips-json-full/pa-011__a-veure__551_81.json	pendent-audicio
+pa-011	bé	clips/pa-011__b__185.57.wav	qa-clips-json-full/pa-011__b__185_57.json	pendent-audicio
+pa-011	de fet	clips/pa-011__de-fet__557.25.wav	qa-clips-json-full/pa-011__de-fet__557_25.json	pendent-audicio
+pa-011	doncs	clips/pa-011__doncs__61.49.wav	qa-clips-json-full/pa-011__doncs__61_49.json	pendent-audicio
+pa-011	perquè	clips/pa-011__perqu__27.61.wav	qa-clips-json-full/pa-011__perqu__27_61.json	pendent-audicio
+pa-011	és a dir	clips/pa-011__s-a-dir__48.09.wav	qa-clips-json-full/pa-011__s-a-dir__48_09.json	pendent-audicio
+pa-012	perquè	clips/pa-012__perqu__369.25.wav	qa-clips-json-full/pa-012__perqu__369_25.json	pendent-audicio
+pa-013	perquè	clips/pa-013__perqu__433.89.wav	qa-clips-json-full/pa-013__perqu__433_89.json	pendent-audicio
+pa-013	és a dir	clips/pa-013__s-a-dir__579.17.wav	qa-clips-json-full/pa-013__s-a-dir__579_17.json	pendent-audicio
+pa-014	aviam	clips/pa-014__aviam__875.45.wav	qa-clips-json-full/pa-014__aviam__875_45.json	pendent-audicio
+pa-014	crec	clips/pa-014__crec__153.25.wav	qa-clips-json-full/pa-014__crec__153_25.json	pendent-audicio
+pa-014	evidentment	clips/pa-014__evidentment__28.65.wav	qa-clips-json-full/pa-014__evidentment__28_65.json	pendent-audicio
+pa-014	o sigui	clips/pa-014__o-sigui__658.45.wav	qa-clips-json-full/pa-014__o-sigui__658_45.json	pendent-audicio
+pa-014	perquè	clips/pa-014__perqu__105.85.wav	qa-clips-json-full/pa-014__perqu__105_85.json	pendent-audicio
+pa-015	doncs	clips/pa-015__doncs__83.25.wav	qa-clips-json-full/pa-015__doncs__83_25.json	pendent-audicio
+pa-015	perquè	clips/pa-015__perqu__86.25.wav	qa-clips-json-full/pa-015__perqu__86_25.json	pendent-audicio
+pa-016	a nivell	clips/pa-016__a-nivell__333.81.wav	qa-clips-json-full/pa-016__a-nivell__333_81.json	pendent-audicio
+pa-016	a veure	clips/pa-016__a-veure__369.73.wav	qa-clips-json-full/pa-016__a-veure__369_73.json	pendent-audicio
+pa-016	bé	clips/pa-016__b__170.05.wav	qa-clips-json-full/pa-016__b__170_05.json	pendent-audicio
+pa-016	clar	clips/pa-016__clar__175.69.wav	qa-clips-json-full/pa-016__clar__175_69.json	pendent-audicio
+pa-016	de fet	clips/pa-016__de-fet__318.53.wav	qa-clips-json-full/pa-016__de-fet__318_53.json	pendent-audicio
+pa-016	doncs	clips/pa-016__doncs__62.33.wav	qa-clips-json-full/pa-016__doncs__62_33.json	pendent-audicio
+pa-016	evidentment	clips/pa-016__evidentment__456.85.wav	qa-clips-json-full/pa-016__evidentment__456_85.json	pendent-audicio
+pa-016	llavors	clips/pa-016__llavors__15.05.wav	qa-clips-json-full/pa-016__llavors__15_05.json	pendent-audicio
+pa-016	perquè	clips/pa-016__perqu__79.77.wav	qa-clips-json-full/pa-016__perqu__79_77.json	pendent-audicio
+pa-016	vull dir	clips/pa-016__vull-dir__322.53.wav	qa-clips-json-full/pa-016__vull-dir__322_53.json	pendent-audicio
+pa-017	a nivell	clips/pa-017__a-nivell__143.25.wav	qa-clips-json-full/pa-017__a-nivell__143_25.json	pendent-audicio
+pa-017	clar	clips/pa-017__clar__34.45.wav	qa-clips-json-full/pa-017__clar__34_45.json	pendent-audicio
+pa-017	doncs	clips/pa-017__doncs__459.25.wav	qa-clips-json-full/pa-017__doncs__459_25.json	pendent-audicio
+pa-017	llavors	clips/pa-017__llavors__361.25.wav	qa-clips-json-full/pa-017__llavors__361_25.json	pendent-audicio
+pa-017	perquè	clips/pa-017__perqu__4.25.wav	qa-clips-json-full/pa-017__perqu__4_25.json	pendent-audicio
+pa-017	tirar endavant	clips/pa-017__tirar-endavant__49.85.wav	qa-clips-json-full/pa-017__tirar-endavant__49_85.json	pendent-audicio
+pa-017	vull dir	clips/pa-017__vull-dir__272.25.wav	qa-clips-json-full/pa-017__vull-dir__272_25.json	pendent-audicio
+pa-017	és a dir	clips/pa-017__s-a-dir__487.25.wav	qa-clips-json-full/pa-017__s-a-dir__487_25.json	pendent-audicio
+pa-018	a nivell	clips/pa-018__a-nivell__188.45.wav	qa-clips-json-full/pa-018__a-nivell__188_45.json	pendent-audicio
+pa-018	crec	clips/pa-018__crec__7.49.wav	qa-clips-json-full/pa-018__crec__7_49.json	pendent-audicio
+pa-018	diguem	clips/pa-018__diguem__715.49.wav	qa-clips-json-full/pa-018__diguem__715_49.json	pendent-audicio
+pa-018	perquè	clips/pa-018__perqu__91.09.wav	qa-clips-json-full/pa-018__perqu__91_09.json	pendent-audicio
+pa-019	a nivell	clips/pa-019__a-nivell__122.25.wav	qa-clips-json-full/pa-019__a-nivell__122_25.json	pendent-audicio
+pa-019	bueno	clips/pa-019__bueno__328.25.wav	qa-clips-json-full/pa-019__bueno__328_25.json	pendent-audicio
+pa-019	bé	clips/pa-019__b__195.25.wav	qa-clips-json-full/pa-019__b__195_25.json	pendent-audicio
+pa-019	crec	clips/pa-019__crec__27.25.wav	qa-clips-json-full/pa-019__crec__27_25.json	pendent-audicio
+pa-019	diguem	clips/pa-019__diguem__109.25.wav	qa-clips-json-full/pa-019__diguem__109_25.json	pendent-audicio
+pa-019	evidentment	clips/pa-019__evidentment__93.25.wav	qa-clips-json-full/pa-019__evidentment__93_25.json	pendent-audicio
+pa-019	llavors	clips/pa-019__llavors__422.25.wav	qa-clips-json-full/pa-019__llavors__422_25.json	pendent-audicio
+pa-020	aviam	clips/pa-020__aviam__252.21.wav	qa-clips-json-full/pa-020__aviam__252_21.json	pendent-audicio
+pa-020	bé	clips/pa-020__b__146.37.wav	qa-clips-json-full/pa-020__b__146_37.json	pendent-audicio
+pa-020	clar	clips/pa-020__clar__89.81.wav	qa-clips-json-full/pa-020__clar__89_81.json	pendent-audicio
+pa-020	perquè	clips/pa-020__perqu__9.41.wav	qa-clips-json-full/pa-020__perqu__9_41.json	pendent-audicio
+pa-021	bueno	clips/pa-021__bueno__12.25.wav	qa-clips-json-full/pa-021__bueno__12_25.json	pendent-audicio
+pa-021	crec	clips/pa-021__crec__115.53.wav	qa-clips-json-full/pa-021__crec__115_53.json	pendent-audicio
+pa-021	doncs	clips/pa-021__doncs__12.25.wav	qa-clips-json-full/pa-021__doncs__12_25.json	pendent-audicio
+pa-021	evidentment	clips/pa-021__evidentment__211.41.wav	qa-clips-json-full/pa-021__evidentment__211_41.json	pendent-audicio
+pa-021	perquè	clips/pa-021__perqu__15.45.wav	qa-clips-json-full/pa-021__perqu__15_45.json	pendent-audicio
+pa-021	vull dir	clips/pa-021__vull-dir__314.29.wav	qa-clips-json-full/pa-021__vull-dir__314_29.json	pendent-audicio
+pa-021	és a dir	clips/pa-021__s-a-dir__32.29.wav	qa-clips-json-full/pa-021__s-a-dir__32_29.json	pendent-audicio
+pa-022	a veure	clips/pa-022__a-veure__238.61.wav	qa-clips-json-full/pa-022__a-veure__238_61.json	pendent-audicio
+pa-022	clar	clips/pa-022__clar__107.73.wav	qa-clips-json-full/pa-022__clar__107_73.json	pendent-audicio
+pa-022	crec	clips/pa-022__crec__243.73.wav	qa-clips-json-full/pa-022__crec__243_73.json	pendent-audicio
+pa-022	evidentment	clips/pa-022__evidentment__303.01.wav	qa-clips-json-full/pa-022__evidentment__303_01.json	pendent-audicio
+pa-022	o sigui	clips/pa-022__o-sigui__42.93.wav	qa-clips-json-full/pa-022__o-sigui__42_93.json	pendent-audicio
+pa-022	perquè	clips/pa-022__perqu__111.69.wav	qa-clips-json-full/pa-022__perqu__111_69.json	pendent-audicio
+pa-022	reformeta	clips/pa-022__reformeta__125.53.wav	qa-clips-json-full/pa-022__reformeta__125_53.json	pendent-audicio
+pa-022	és a dir	clips/pa-022__s-a-dir__11.49.wav	qa-clips-json-full/pa-022__s-a-dir__11_49.json	pendent-audicio
+pa-023	a nivell	clips/pa-023__a-nivell__418.57.wav	qa-clips-json-full/pa-023__a-nivell__418_57.json	pendent-audicio
+pa-023	a veure	clips/pa-023__a-veure__268.81.wav	qa-clips-json-full/pa-023__a-veure__268_81.json	pendent-audicio
+pa-023	bé	clips/pa-023__b__409.37.wav	qa-clips-json-full/pa-023__b__409_37.json	pendent-audicio
+pa-023	perquè	clips/pa-023__perqu__29.09.wav	qa-clips-json-full/pa-023__perqu__29_09.json	pendent-audicio
+pa-023	és a dir	clips/pa-023__s-a-dir__207.17.wav	qa-clips-json-full/pa-023__s-a-dir__207_17.json	pendent-audicio
+pa-025	a veure	clips/pa-025__a-veure__388.01.wav	qa-clips-json-full/pa-025__a-veure__388_01.json	pendent-audicio
+pa-025	crec	clips/pa-025__crec__4.25.wav	qa-clips-json-full/pa-025__crec__4_25.json	pendent-audicio
+pa-025	de fet	clips/pa-025__de-fet__890.85.wav	qa-clips-json-full/pa-025__de-fet__890_85.json	pendent-audicio
+pa-025	diguem	clips/pa-025__diguem__500.89.wav	qa-clips-json-full/pa-025__diguem__500_89.json	pendent-audicio
+pa-025	evidentment	clips/pa-025__evidentment__1156.61.wav	qa-clips-json-full/pa-025__evidentment__1156_61.json	pendent-audicio
+pa-025	perquè	clips/pa-025__perqu__37.17.wav	qa-clips-json-full/pa-025__perqu__37_17.json	pendent-audicio
+pa-025	reformeta	clips/pa-025__reformeta__1085.53.wav	qa-clips-json-full/pa-025__reformeta__1085_53.json	pendent-audicio
+pa-026	a nivell	clips/pa-026__a-nivell__38.25.wav	qa-clips-json-full/pa-026__a-nivell__38_25.json	pendent-audicio
+pa-026	a veure	clips/pa-026__a-veure__64.09.wav	qa-clips-json-full/pa-026__a-veure__64_09.json	pendent-audicio
+pa-026	perquè	clips/pa-026__perqu__150.53.wav	qa-clips-json-full/pa-026__perqu__150_53.json	pendent-audicio
+pa-026	reformeta	clips/pa-026__reformeta__138.61.wav	qa-clips-json-full/pa-026__reformeta__138_61.json	pendent-audicio
+pa-027	crec	clips/pa-027__crec__8.81.wav	qa-clips-json-full/pa-027__crec__8_81.json	pendent-audicio
+pa-027	de fet	clips/pa-027__de-fet__109.45.wav	qa-clips-json-full/pa-027__de-fet__109_45.json	pendent-audicio
+pa-027	diguem	clips/pa-027__diguem__57.77.wav	qa-clips-json-full/pa-027__diguem__57_77.json	pendent-audicio
+pa-027	evidentment	clips/pa-027__evidentment__174.09.wav	qa-clips-json-full/pa-027__evidentment__174_09.json	pendent-audicio
+pa-027	perquè	clips/pa-027__perqu__8.81.wav	qa-clips-json-full/pa-027__perqu__8_81.json	pendent-audicio
+pa-028	bé	clips/pa-028__b__182.49.wav	qa-clips-json-full/pa-028__b__182_49.json	pendent-audicio
+pa-028	clar	clips/pa-028__clar__290.33.wav	qa-clips-json-full/pa-028__clar__290_33.json	pendent-audicio
+pa-028	de fet	clips/pa-028__de-fet__31.17.wav	qa-clips-json-full/pa-028__de-fet__31_17.json	pendent-audicio
+pa-028	doncs	clips/pa-028__doncs__329.33.wav	qa-clips-json-full/pa-028__doncs__329_33.json	pendent-audicio
+pa-028	llavors	clips/pa-028__llavors__151.01.wav	qa-clips-json-full/pa-028__llavors__151_01.json	pendent-audicio
+pa-029	a nivell	clips/pa-029__a-nivell__417.09.wav	qa-clips-json-full/pa-029__a-nivell__417_09.json	pendent-audicio
+pa-029	diguem	clips/pa-029__diguem__929.69.wav	qa-clips-json-full/pa-029__diguem__929_69.json	pendent-audicio
+pa-029	tirar endavant	clips/pa-029__tirar-endavant__56.73.wav	qa-clips-json-full/pa-029__tirar-endavant__56_73.json	pendent-audicio
+pa-030	a veure	clips/pa-030__a-veure__673.41.wav	qa-clips-json-full/pa-030__a-veure__673_41.json	pendent-audicio
+pa-030	bueno	clips/pa-030__bueno__459.05.wav	qa-clips-json-full/pa-030__bueno__459_05.json	pendent-audicio
+pa-030	bé	clips/pa-030__b__436.45.wav	qa-clips-json-full/pa-030__b__436_45.json	pendent-audicio
+pa-030	crec	clips/pa-030__crec__346.45.wav	qa-clips-json-full/pa-030__crec__346_45.json	pendent-audicio
+pa-030	evidentment	clips/pa-030__evidentment__43.53.wav	qa-clips-json-full/pa-030__evidentment__43_53.json	pendent-audicio
+pa-030	vull dir	clips/pa-030__vull-dir__842.69.wav	qa-clips-json-full/pa-030__vull-dir__842_69.json	pendent-audicio
+pa-030	és a dir	clips/pa-030__s-a-dir__193.13.wav	qa-clips-json-full/pa-030__s-a-dir__193_13.json	pendent-audicio
+pa-031	crec	clips/pa-031__crec__87.01.wav	qa-clips-json-full/pa-031__crec__87_01.json	pendent-audicio
+pa-031	de fet	clips/pa-031__de-fet__9.93.wav	qa-clips-json-full/pa-031__de-fet__9_93.json	pendent-audicio
+pa-031	perquè	clips/pa-031__perqu__32.69.wav	qa-clips-json-full/pa-031__perqu__32_69.json	pendent-audicio
+pa-032	bueno	clips/pa-032__bueno__44.73.wav	qa-clips-json-full/pa-032__bueno__44_73.json	pendent-audicio
+pa-032	bé	clips/pa-032__b__270.41.wav	qa-clips-json-full/pa-032__b__270_41.json	pendent-audicio
+pa-032	clar	clips/pa-032__clar__155.33.wav	qa-clips-json-full/pa-032__clar__155_33.json	pendent-audicio
+pa-032	perquè	clips/pa-032__perqu__9.21.wav	qa-clips-json-full/pa-032__perqu__9_21.json	pendent-audicio
+pa-033	bé	clips/pa-033__b__103.09.wav	qa-clips-json-full/pa-033__b__103_09.json	pendent-audicio
+pa-033	clar	clips/pa-033__clar__54.49.wav	qa-clips-json-full/pa-033__clar__54_49.json	pendent-audicio
+pa-033	diguem	clips/pa-033__diguem__49.01.wav	qa-clips-json-full/pa-033__diguem__49_01.json	pendent-audicio
+pa-033	perquè	clips/pa-033__perqu__18.89.wav	qa-clips-json-full/pa-033__perqu__18_89.json	pendent-audicio
+pa-033	vull dir	clips/pa-033__vull-dir__56.25.wav	qa-clips-json-full/pa-033__vull-dir__56_25.json	pendent-audicio
+pa-034	a nivell	clips/pa-034__a-nivell__143.81.wav	qa-clips-json-full/pa-034__a-nivell__143_81.json	pendent-audicio
+pa-034	a veure	clips/pa-034__a-veure__94.05.wav	qa-clips-json-full/pa-034__a-veure__94_05.json	pendent-audicio
+pa-034	crec	clips/pa-034__crec__651.65.wav	qa-clips-json-full/pa-034__crec__651_65.json	pendent-audicio
+pa-034	diguem	clips/pa-034__diguem__504.45.wav	qa-clips-json-full/pa-034__diguem__504_45.json	pendent-audicio
+pa-034	reformeta	clips/pa-034__reformeta__191.33.wav	qa-clips-json-full/pa-034__reformeta__191_33.json	pendent-audicio
+pa-034	tirar endavant	clips/pa-034__tirar-endavant__690.33.wav	qa-clips-json-full/pa-034__tirar-endavant__690_33.json	pendent-audicio
+pa-035	crec	clips/pa-035__crec__872.77.wav	qa-clips-json-full/pa-035__crec__872_77.json	pendent-audicio
+pa-035	perquè	clips/pa-035__perqu__181.13.wav	qa-clips-json-full/pa-035__perqu__181_13.json	pendent-audicio
+pa-035	és a dir	clips/pa-035__s-a-dir__582.29.wav	qa-clips-json-full/pa-035__s-a-dir__582_29.json	pendent-audicio
+pa-036	a nivell	clips/pa-036__a-nivell__386.45.wav	qa-clips-json-full/pa-036__a-nivell__386_45.json	pendent-audicio
+pa-036	a veure	clips/pa-036__a-veure__153.05.wav	qa-clips-json-full/pa-036__a-veure__153_05.json	pendent-audicio
+pa-036	bé	clips/pa-036__b__69.45.wav	qa-clips-json-full/pa-036__b__69_45.json	pendent-audicio
+pa-036	clar	clips/pa-036__clar__136.45.wav	qa-clips-json-full/pa-036__clar__136_45.json	pendent-audicio
+pa-036	doncs	clips/pa-036__doncs__367.25.wav	qa-clips-json-full/pa-036__doncs__367_25.json	pendent-audicio
+pa-036	evidentment	clips/pa-036__evidentment__202.85.wav	qa-clips-json-full/pa-036__evidentment__202_85.json	pendent-audicio
+pa-036	perquè	clips/pa-036__perqu__15.65.wav	qa-clips-json-full/pa-036__perqu__15_65.json	pendent-audicio
+pa-036	vull dir	clips/pa-036__vull-dir__632.25.wav	qa-clips-json-full/pa-036__vull-dir__632_25.json	pendent-audicio
+pa-037	bueno	clips/pa-037__bueno__105.29.wav	qa-clips-json-full/pa-037__bueno__105_29.json	pendent-audicio
+pa-037	bé	clips/pa-037__b__105.29.wav	qa-clips-json-full/pa-037__b__105_29.json	pendent-audicio
+pa-037	diguem	clips/pa-037__diguem__469.77.wav	qa-clips-json-full/pa-037__diguem__469_77.json	pendent-audicio
+pa-037	doncs	clips/pa-037__doncs__20.49.wav	qa-clips-json-full/pa-037__doncs__20_49.json	pendent-audicio
+pa-037	llavors	clips/pa-037__llavors__92.53.wav	qa-clips-json-full/pa-037__llavors__92_53.json	pendent-audicio
+pa-037	perquè	clips/pa-037__perqu__186.29.wav	qa-clips-json-full/pa-037__perqu__186_29.json	pendent-audicio
+pa-037	vull dir	clips/pa-037__vull-dir__414.01.wav	qa-clips-json-full/pa-037__vull-dir__414_01.json	pendent-audicio
+pa-038	a nivell	clips/pa-038__a-nivell__455.49.wav	qa-clips-json-full/pa-038__a-nivell__455_49.json	pendent-audicio
+pa-038	bueno	clips/pa-038__bueno__874.61.wav	qa-clips-json-full/pa-038__bueno__874_61.json	pendent-audicio
+pa-038	bé	clips/pa-038__b__26.77.wav	qa-clips-json-full/pa-038__b__26_77.json	pendent-audicio
+pa-038	clar	clips/pa-038__clar__96.41.wav	qa-clips-json-full/pa-038__clar__96_41.json	pendent-audicio
+pa-038	crec	clips/pa-038__crec__220.69.wav	qa-clips-json-full/pa-038__crec__220_69.json	pendent-audicio
+pa-038	llavors	clips/pa-038__llavors__264.13.wav	qa-clips-json-full/pa-038__llavors__264_13.json	pendent-audicio
+pa-038	o sigui	clips/pa-038__o-sigui__16.65.wav	qa-clips-json-full/pa-038__o-sigui__16_65.json	pendent-audicio
+pa-038	perquè	clips/pa-038__perqu__279.13.wav	qa-clips-json-full/pa-038__perqu__279_13.json	pendent-audicio
+pa-038	reformeta	clips/pa-038__reformeta__1821.69.wav	qa-clips-json-full/pa-038__reformeta__1821_69.json	pendent-audicio
+pa-038	vull dir	clips/pa-038__vull-dir__1576.57.wav	qa-clips-json-full/pa-038__vull-dir__1576_57.json	pendent-audicio
+pa-039	bé	clips/pa-039__b__27.77.wav	qa-clips-json-full/pa-039__b__27_77.json	pendent-audicio
+pa-039	crec	clips/pa-039__crec__90.85.wav	qa-clips-json-full/pa-039__crec__90_85.json	pendent-audicio
+pa-039	evidentment	clips/pa-039__evidentment__184.17.wav	qa-clips-json-full/pa-039__evidentment__184_17.json	pendent-audicio
+pa-039	perquè	clips/pa-039__perqu__18.09.wav	qa-clips-json-full/pa-039__perqu__18_09.json	pendent-audicio
+pa-040	crec	clips/pa-040__crec__4.37.wav	qa-clips-json-full/pa-040__crec__4_37.json	pendent-audicio
+pa-040	de fet	clips/pa-040__de-fet__70.17.wav	qa-clips-json-full/pa-040__de-fet__70_17.json	pendent-audicio
+pa-040	evidentment	clips/pa-040__evidentment__103.93.wav	qa-clips-json-full/pa-040__evidentment__103_93.json	pendent-audicio
+pa-040	perquè	clips/pa-040__perqu__25.21.wav	qa-clips-json-full/pa-040__perqu__25_21.json	pendent-audicio
+pa-041	bé	clips/pa-041__b__130.25.wav	qa-clips-json-full/pa-041__b__130_25.json	pendent-audicio
+pa-041	clar	clips/pa-041__clar__0.00.wav	qa-clips-json-full/pa-041__clar__0_00.json	pendent-audicio
+pa-041	crec	clips/pa-041__crec__56.25.wav	qa-clips-json-full/pa-041__crec__56_25.json	pendent-audicio
+pa-041	ensenyança	clips/pa-041__ensenyan-a__523.25.wav	qa-clips-json-full/pa-041__ensenyan-a__523_25.json	pendent-audicio
+pa-041	evidentment	clips/pa-041__evidentment__353.25.wav	qa-clips-json-full/pa-041__evidentment__353_25.json	pendent-audicio
+pa-041	perquè	clips/pa-041__perqu__69.25.wav	qa-clips-json-full/pa-041__perqu__69_25.json	pendent-audicio
+pa-042	perquè	clips/pa-042__perqu__29.13.wav	qa-clips-json-full/pa-042__perqu__29_13.json	pendent-audicio
+pa-043	bueno	clips/pa-043__bueno__0.00.wav	qa-clips-json-full/pa-043__bueno__0_00.json	pendent-audicio
+pa-043	crec	clips/pa-043__crec__102.25.wav	qa-clips-json-full/pa-043__crec__102_25.json	pendent-audicio
+pa-043	és a dir	clips/pa-043__s-a-dir__107.25.wav	qa-clips-json-full/pa-043__s-a-dir__107_25.json	pendent-audicio
+pa-045	a veure	clips/pa-045__a-veure__340.93.wav	qa-clips-json-full/pa-045__a-veure__340_93.json	pendent-audicio
+pa-045	bé	clips/pa-045__b__83.49.wav	qa-clips-json-full/pa-045__b__83_49.json	pendent-audicio
+pa-045	clar	clips/pa-045__clar__399.85.wav	qa-clips-json-full/pa-045__clar__399_85.json	pendent-audicio
+pa-045	evidentment	clips/pa-045__evidentment__290.13.wav	qa-clips-json-full/pa-045__evidentment__290_13.json	pendent-audicio
+pa-045	llavors	clips/pa-045__llavors__194.93.wav	qa-clips-json-full/pa-045__llavors__194_93.json	pendent-audicio
+pa-045	o sigui	clips/pa-045__o-sigui__226.17.wav	qa-clips-json-full/pa-045__o-sigui__226_17.json	pendent-audicio
+pa-046	bé	clips/pa-046__b__348.81.wav	qa-clips-json-full/pa-046__b__348_81.json	pendent-audicio
+pa-046	diguem	clips/pa-046__diguem__626.01.wav	qa-clips-json-full/pa-046__diguem__626_01.json	pendent-audicio
+pa-046	doncs	clips/pa-046__doncs__135.61.wav	qa-clips-json-full/pa-046__doncs__135_61.json	pendent-audicio
+pa-048	a nivell	clips/pa-048__a-nivell__435.77.wav	qa-clips-json-full/pa-048__a-nivell__435_77.json	pendent-audicio
+pa-048	a veure	clips/pa-048__a-veure__393.93.wav	qa-clips-json-full/pa-048__a-veure__393_93.json	pendent-audicio
+pa-048	bé	clips/pa-048__b__495.73.wav	qa-clips-json-full/pa-048__b__495_73.json	pendent-audicio
+pa-048	crec	clips/pa-048__crec__110.97.wav	qa-clips-json-full/pa-048__crec__110_97.json	pendent-audicio
+pa-048	llavors	clips/pa-048__llavors__1244.97.wav	qa-clips-json-full/pa-048__llavors__1244_97.json	pendent-audicio
+pa-048	o sigui	clips/pa-048__o-sigui__581.65.wav	qa-clips-json-full/pa-048__o-sigui__581_65.json	pendent-audicio
+pa-048	vull dir	clips/pa-048__vull-dir__993.69.wav	qa-clips-json-full/pa-048__vull-dir__993_69.json	pendent-audicio
+pa-048	és a dir	clips/pa-048__s-a-dir__1130.61.wav	qa-clips-json-full/pa-048__s-a-dir__1130_61.json	pendent-audicio
+pa-049	a veure	clips/pa-049__a-veure__244.85.wav	qa-clips-json-full/pa-049__a-veure__244_85.json	pendent-audicio
+pa-049	bueno	clips/pa-049__bueno__269.05.wav	qa-clips-json-full/pa-049__bueno__269_05.json	pendent-audicio
+pa-049	clar	clips/pa-049__clar__382.01.wav	qa-clips-json-full/pa-049__clar__382_01.json	pendent-audicio
+pa-049	crec	clips/pa-049__crec__371.85.wav	qa-clips-json-full/pa-049__crec__371_85.json	pendent-audicio
+pa-049	diguem	clips/pa-049__diguem__213.13.wav	qa-clips-json-full/pa-049__diguem__213_13.json	pendent-audicio
+pa-049	o sigui	clips/pa-049__o-sigui__365.21.wav	qa-clips-json-full/pa-049__o-sigui__365_21.json	pendent-audicio
+pa-053	perquè	clips/pa-053__perqu__113.93.wav	qa-clips-json-full/pa-053__perqu__113_93.json	pendent-audicio
+pa-054	bueno	clips/pa-054__bueno__51.69.wav	qa-clips-json-full/pa-054__bueno__51_69.json	pendent-audicio
+pa-054	perquè	clips/pa-054__perqu__80.45.wav	qa-clips-json-full/pa-054__perqu__80_45.json	pendent-audicio
+pa-055	a nivell	clips/pa-055__a-nivell__38.09.wav	qa-clips-json-full/pa-055__a-nivell__38_09.json	pendent-audicio
+pa-055	a veure	clips/pa-055__a-veure__63.89.wav	qa-clips-json-full/pa-055__a-veure__63_89.json	pendent-audicio
+pa-055	evidentment	clips/pa-055__evidentment__1644.01.wav	qa-clips-json-full/pa-055__evidentment__1644_01.json	pendent-audicio
+pa-055	perquè	clips/pa-055__perqu__148.53.wav	qa-clips-json-full/pa-055__perqu__148_53.json	pendent-audicio
+pa-055	reformeta	clips/pa-055__reformeta__139.05.wav	qa-clips-json-full/pa-055__reformeta__139_05.json	pendent-audicio
+pa-056	a veure	clips/pa-056__a-veure__673.21.wav	qa-clips-json-full/pa-056__a-veure__673_21.json	pendent-audicio
+pa-056	clar	clips/pa-056__clar__62.45.wav	qa-clips-json-full/pa-056__clar__62_45.json	pendent-audicio
+pa-056	crec	clips/pa-056__crec__347.05.wav	qa-clips-json-full/pa-056__crec__347_05.json	pendent-audicio
+pa-056	evidentment	clips/pa-056__evidentment__43.45.wav	qa-clips-json-full/pa-056__evidentment__43_45.json	pendent-audicio
+pa-056	perquè	clips/pa-056__perqu__31.73.wav	qa-clips-json-full/pa-056__perqu__31_73.json	pendent-audicio
+pa-056	tirar endavant	clips/pa-056__tirar-endavant__185.53.wav	qa-clips-json-full/pa-056__tirar-endavant__185_53.json	pendent-audicio
+pa-056	vull dir	clips/pa-056__vull-dir__842.65.wav	qa-clips-json-full/pa-056__vull-dir__842_65.json	pendent-audicio
+pa-057	diguem	clips/pa-057__diguem__929.81.wav	qa-clips-json-full/pa-057__diguem__929_81.json	pendent-audicio
+pa-057	llavors	clips/pa-057__llavors__42.85.wav	qa-clips-json-full/pa-057__llavors__42_85.json	pendent-audicio
+pa-057	perquè	clips/pa-057__perqu__249.45.wav	qa-clips-json-full/pa-057__perqu__249_45.json	pendent-audicio
+pa-058	a nivell	clips/pa-058__a-nivell__188.37.wav	qa-clips-json-full/pa-058__a-nivell__188_37.json	pendent-audicio
+pa-058	diguem	clips/pa-058__diguem__715.21.wav	qa-clips-json-full/pa-058__diguem__715_21.json	pendent-audicio
+pa-058	perquè	clips/pa-058__perqu__91.09.wav	qa-clips-json-full/pa-058__perqu__91_09.json	pendent-audicio
+pa-058	vull dir	clips/pa-058__vull-dir__975.13.wav	qa-clips-json-full/pa-058__vull-dir__975_13.json	pendent-audicio
+pa-058	és a dir	clips/pa-058__s-a-dir__74.41.wav	qa-clips-json-full/pa-058__s-a-dir__74_41.json	pendent-audicio
+pa-059	a nivell	clips/pa-059__a-nivell__142.93.wav	qa-clips-json-full/pa-059__a-nivell__142_93.json	pendent-audicio
+pa-059	clar	clips/pa-059__clar__36.61.wav	qa-clips-json-full/pa-059__clar__36_61.json	pendent-audicio
+pa-059	perquè	clips/pa-059__perqu__4.09.wav	qa-clips-json-full/pa-059__perqu__4_09.json	pendent-audicio
+pa-059	tirar endavant	clips/pa-059__tirar-endavant__49.77.wav	qa-clips-json-full/pa-059__tirar-endavant__49_77.json	pendent-audicio
+pa-059	vull dir	clips/pa-059__vull-dir__271.81.wav	qa-clips-json-full/pa-059__vull-dir__271_81.json	pendent-audicio
+pa-059	és a dir	clips/pa-059__s-a-dir__487.81.wav	qa-clips-json-full/pa-059__s-a-dir__487_81.json	pendent-audicio
+pa-060	a veure	clips/pa-060__a-veure__268.57.wav	qa-clips-json-full/pa-060__a-veure__268_57.json	pendent-audicio
+pa-060	crec	clips/pa-060__crec__42.05.wav	qa-clips-json-full/pa-060__crec__42_05.json	pendent-audicio
+pa-060	de fet	clips/pa-060__de-fet__72.57.wav	qa-clips-json-full/pa-060__de-fet__72_57.json	pendent-audicio
+pa-060	perquè	clips/pa-060__perqu__29.05.wav	qa-clips-json-full/pa-060__perqu__29_05.json	pendent-audicio
+pa-060	és a dir	clips/pa-060__s-a-dir__207.33.wav	qa-clips-json-full/pa-060__s-a-dir__207_33.json	pendent-audicio
+pa-061	a nivell	clips/pa-061__a-nivell__1357.21.wav	qa-clips-json-full/pa-061__a-nivell__1357_21.json	pendent-audicio
+pa-061	a veure	clips/pa-061__a-veure__579.17.wav	qa-clips-json-full/pa-061__a-veure__579_17.json	pendent-audicio
+pa-061	bueno	clips/pa-061__bueno__171.05.wav	qa-clips-json-full/pa-061__bueno__171_05.json	pendent-audicio
+pa-061	bé	clips/pa-061__b__662.89.wav	qa-clips-json-full/pa-061__b__662_89.json	pendent-audicio
+pa-061	crec	clips/pa-061__crec__428.85.wav	qa-clips-json-full/pa-061__crec__428_85.json	pendent-audicio
+pa-061	evidentment	clips/pa-061__evidentment__672.69.wav	qa-clips-json-full/pa-061__evidentment__672_69.json	pendent-audicio
+pa-061	llavors	clips/pa-061__llavors__380.77.wav	qa-clips-json-full/pa-061__llavors__380_77.json	pendent-audicio
+pa-062	bueno	clips/pa-062__bueno__297.17.wav	qa-clips-json-full/pa-062__bueno__297_17.json	pendent-audicio
+pa-062	crec	clips/pa-062__crec__1037.89.wav	qa-clips-json-full/pa-062__crec__1037_89.json	pendent-audicio
+pa-062	diguem	clips/pa-062__diguem__191.37.wav	qa-clips-json-full/pa-062__diguem__191_37.json	pendent-audicio
+pa-062	perquè	clips/pa-062__perqu__73.97.wav	qa-clips-json-full/pa-062__perqu__73_97.json	pendent-audicio
+pa-062	és a dir	clips/pa-062__s-a-dir__973.65.wav	qa-clips-json-full/pa-062__s-a-dir__973_65.json	pendent-audicio
+pa-063	a nivell	clips/pa-063__a-nivell__1143.61.wav	qa-clips-json-full/pa-063__a-nivell__1143_61.json	pendent-audicio
+pa-063	a veure	clips/pa-063__a-veure__402.13.wav	qa-clips-json-full/pa-063__a-veure__402_13.json	pendent-audicio
+pa-063	bé	clips/pa-063__b__105.97.wav	qa-clips-json-full/pa-063__b__105_97.json	pendent-audicio
+pa-063	clar	clips/pa-063__clar__392.49.wav	qa-clips-json-full/pa-063__clar__392_49.json	pendent-audicio
+pa-063	doncs	clips/pa-063__doncs__609.05.wav	qa-clips-json-full/pa-063__doncs__609_05.json	pendent-audicio
+pa-063	llavors	clips/pa-063__llavors__39.49.wav	qa-clips-json-full/pa-063__llavors__39_49.json	pendent-audicio
+pa-063	perquè	clips/pa-063__perqu__142.61.wav	qa-clips-json-full/pa-063__perqu__142_61.json	pendent-audicio
+pa-064	a veure	clips/pa-064__a-veure__587.61.wav	qa-clips-json-full/pa-064__a-veure__587_61.json	pendent-audicio
+pa-064	bé	clips/pa-064__b__97.93.wav	qa-clips-json-full/pa-064__b__97_93.json	pendent-audicio
+pa-064	clar	clips/pa-064__clar__109.97.wav	qa-clips-json-full/pa-064__clar__109_97.json	pendent-audicio
+pa-064	crec	clips/pa-064__crec__1335.77.wav	qa-clips-json-full/pa-064__crec__1335_77.json	pendent-audicio
+pa-064	o sigui	clips/pa-064__o-sigui__36.73.wav	qa-clips-json-full/pa-064__o-sigui__36_73.json	pendent-audicio
+pa-064	és a dir	clips/pa-064__s-a-dir__258.61.wav	qa-clips-json-full/pa-064__s-a-dir__258_61.json	pendent-audicio
+pa-065	bé	clips/pa-065__b__138.57.wav	qa-clips-json-full/pa-065__b__138_57.json	pendent-audicio
+pa-065	clar	clips/pa-065__clar__221.29.wav	qa-clips-json-full/pa-065__clar__221_29.json	pendent-audicio
+pa-065	crec	clips/pa-065__crec__1276.85.wav	qa-clips-json-full/pa-065__crec__1276_85.json	pendent-audicio
+pa-065	doncs	clips/pa-065__doncs__157.49.wav	qa-clips-json-full/pa-065__doncs__157_49.json	pendent-audicio
+pa-065	o sigui	clips/pa-065__o-sigui__191.65.wav	qa-clips-json-full/pa-065__o-sigui__191_65.json	pendent-audicio
+pa-065	perquè	clips/pa-065__perqu__129.17.wav	qa-clips-json-full/pa-065__perqu__129_17.json	pendent-audicio
+pa-065	és a dir	clips/pa-065__s-a-dir__221.29.wav	qa-clips-json-full/pa-065__s-a-dir__221_29.json	pendent-audicio
+pa-066	a nivell	clips/pa-066__a-nivell__25.21.wav	qa-clips-json-full/pa-066__a-nivell__25_21.json	pendent-audicio
+pa-066	bueno	clips/pa-066__bueno__357.23.wav	qa-clips-json-full/pa-066__bueno__357_23.json	pendent-audicio
+pa-066	bé	clips/pa-066__b__10.13.wav	qa-clips-json-full/pa-066__b__10_13.json	pendent-audicio
+pa-066	crec	clips/pa-066__crec__219.63.wav	qa-clips-json-full/pa-066__crec__219_63.json	pendent-audicio
+pa-066	de fet	clips/pa-066__de-fet__44.37.wav	qa-clips-json-full/pa-066__de-fet__44_37.json	pendent-audicio
+pa-066	evidentment	clips/pa-066__evidentment__89.75.wav	qa-clips-json-full/pa-066__evidentment__89_75.json	pendent-audicio
+pa-066	llavors	clips/pa-066__llavors__16.21.wav	qa-clips-json-full/pa-066__llavors__16_21.json	pendent-audicio
+pa-066	perquè	clips/pa-066__perqu__21.81.wav	qa-clips-json-full/pa-066__perqu__21_81.json	pendent-audicio

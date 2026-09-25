@@ -1,0 +1,54 @@
+forma	categoria	small	base	consens	model_localitzador	context_small	context_base	prob_min_segment_small	prob_mean_segment_small	prob_min_segment_base	prob_mean_segment_base	clip	inici_ms	final_ms	estat
+a nivell	discurs	1	1	sí	small	és d'un arquitecte que fa coses també molt interessants a nivell de materials, d'atmòsperes,	a nivell de materials atmosferes.	0.5185	0.8629	0.2820	0.5478	lead-yt-045__01__a-nivell.wav	197960	202720	ASR textual; atribució i audició pendents
+a veure	discurs	1	1	sí	small	A veure, el Toni, si pot passar el següent...	A veure, Toni, si passa la segurena...	0.1015	0.6381	0.2438	0.5899	lead-yt-045__02__a-veure.wav	783720	786600	ASR textual; atribució i audició pendents
+aleshores	discurs	0	0	no											ASR textual; atribució i audició pendents
+aviam	discurs	0	0	no											ASR textual; atribució i audició pendents
+bueno	discurs	25	19	sí	small	-Bueno, com ve saps, avui tenim uns quants problemes... -Lantarote, eh, lantarote...	Bueno, com ve sap, s'ha avui estén tenint uns quants problemes.	0.1413	0.7267	0.2046	0.7188	lead-yt-045__05__bueno.wav	38120	43120	ASR textual; atribució i audició pendents
+bé	discurs	16	9	sí	small	-Soc de pey, fina i blanqueta. -Bé, doncs...	Estic de bé i fina i blanqueta.	0.1918	0.7657	0.5737	0.9657	lead-yt-045__06__b.wav	67360	71280	ASR textual; atribució i audició pendents
+clar	discurs	17	13	sí	small	I Arnau, però sí, sí, sí, està clar que per mantenir tot això	Ja anava un porcho exterior. Sí, sí. Està clar que per mantenir tot això,	0.1895	0.7384	0.0321	0.5273	lead-yt-045__07__clar.wav	495840	499560	ASR textual; atribució i audició pendents
+de fet	discurs	2	1	sí	small	però això de fet només les parets, per exemple, hi ha el sostre i el terra separat,	Sempre està obert, i hi ha molts projectes de fet que s'hi fixes,	0.4491	0.8432	0.0773	0.7037	lead-yt-045__08__de-fet.wav	366760	371640	ASR textual; atribució i audició pendents
+diguem	discurs	0	0	no											ASR textual; atribució i audició pendents
+doncs	discurs	8	8	sí	small	-Soc de pey, fina i blanqueta. -Bé, doncs...	Tu vas, doncs passant d'una vista a l'altra,	0.1918	0.7657	0.1664	0.7599	lead-yt-045__10__doncs.wav	67360	71280	ASR textual; atribució i audició pendents
+evidentment	discurs	0	0	no											ASR textual; atribució i audició pendents
+llavors	discurs	9	4	sí	small	Llavors, una manera de no poder posar el vidre fins a dalt.	Llavors, tot això, la visual sí que la tens a tota la oportunitat.	0.3687	0.8195	0.1656	0.7543	lead-yt-045__12__llavors.wav	408320	412160	ASR textual; atribució i audició pendents
+no?	discurs	10	21	sí	small	M'ho vull dir, que són molts materials, no?	-No té per què? -No té per què, no?	0.2298	0.7862	0.2945	0.7812	lead-yt-045__13__no.wav	168200	171880	ASR textual; atribució i audició pendents
+o sigui	discurs	1	0	no	small	són 3 habitacions, 4, o sigui són 3 més la suite,		0.3093	0.7740			lead-yt-045__14__o-sigui.wav	486640	490720	ASR textual; atribució i audició pendents
+per tant	discurs	1	1	sí	small	-Això no serà al lleide. Per tant, anem avançant.	Per tant, anem avançant.	0.3224	0.8184	0.2972	0.8140	lead-yt-045__15__per-tant.wav	22840	27120	ASR textual; atribució i audició pendents
+perquè	discurs	18	15	sí	small	-La pregunta és Catalunya o Espanya? Espanya, bien. Aquí ho deixo, aquí ho deixem, no tenim perquè...	Aquí ho deixem, no tenim, perquè...	0.0512	0.7063	0.3344	0.7377	lead-yt-045__16__perqu.wav	27120	38120	ASR textual; atribució i audició pendents
+vull dir	discurs	2	1	sí	small	M'ho vull dir, que són molts materials, no?	I arriba al jardí, vull dir que està molt ben integrada l'entorn,	0.2298	0.7862	0.1925	0.7740	lead-yt-045__17__vull-dir.wav	168200	171880	ASR textual; atribució i audició pendents
+és a dir	discurs	0	0	no											ASR textual; atribució i audició pendents
+Canillo	territorial	0	0	no											ASR textual; atribució i audició pendents
+Escaldes	territorial	0	0	no											ASR textual; atribució i audició pendents
+Massana	territorial	0	0	no											ASR textual; atribució i audició pendents
+Ordino	territorial	0	0	no											ASR textual; atribució i audició pendents
+Sant Julià	territorial	0	0	no											ASR textual; atribució i audició pendents
+aiguats	territorial	0	0	no											ASR textual; atribució i audició pendents
+andorrana	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunal	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunals	territorial	0	0	no											ASR textual; atribució i audició pendents
+comuns	territorial	0	0	no											ASR textual; atribució i audició pendents
+comú	territorial	0	0	no											ASR textual; atribució i audició pendents
+copríncep	territorial	0	0	no											ASR textual; atribució i audició pendents
+coprínceps	territorial	0	0	no											ASR textual; atribució i audició pendents
+padrí	territorial	0	0	no											ASR textual; atribució i audició pendents
+parròquia	territorial	0	0	no											ASR textual; atribució i audició pendents
+santuari	territorial	0	0	no											ASR textual; atribució i audició pendents
+veguer	territorial	0	0	no											ASR textual; atribució i audició pendents
+arquitecte	professió	3	3	sí	small	és d'un arquitecte que fa coses també molt interessants a nivell de materials, d'atmòsperes,	És d'una arquitecte que fa coses també molt interessants	0.5185	0.8629	0.3397	0.7981	lead-yt-045__36__arquitecte.wav	197960	202720	ASR textual; atribució i audició pendents
+arquitectura	professió	5	5	sí	small	Avui és una mica arquitectura de muntanya.	Avui és una mica arquitectura de muntanya?	0.4973	0.8994	0.2528	0.7786	lead-yt-045__37__arquitectura.wav	147440	149440	ASR textual; atribució i audició pendents
+edifici	infraestructures	1	0	no	small	Tot, mai pots dir que està tancat una edifici.		0.0849	0.7325			lead-yt-045__38__edifici.wav	619360	622320	ASR textual; atribució i audició pendents
+edificis	infraestructures	0	0	no											ASR textual; atribució i audició pendents
+fusta	materials	16	15	sí	small	"Arquitectura de muntanya és ""Cases de fusta"", més o menys, o no sempre?"	-Arquitectura de muntanya és cases de fusta més o menys o no sempre.	0.3653	0.8768	0.4680	0.8876	lead-yt-045__40__fusta.wav	157840	159840	ASR textual; atribució i audició pendents
+obra	infraestructures	1	2	sí	small	S'assemblen en obra de manera que et permet tenir tot aquest perimetre interior per evitar.	S'ençamblen en obra, de manera que permet tenir tot aquest parimatra interior per evitar, no?	0.2558	0.7586	0.0902	0.5545	lead-yt-045__41__obra.wav	240160	247160	ASR textual; atribució i audició pendents
+paisatge	territori	2	1	sí	small	permet tenir aquests grans finestrals que enmarquen tot el paisatge de l'entorn,	que marcan tot el paisatge de l'entorn,	0.2637	0.8643	0.3008	0.7859	lead-yt-045__42__paisatge.wav	371640	377600	ASR textual; atribució i audició pendents
+muntanya	territori	5	5	sí	small	Avui és una mica arquitectura de muntanya.	Avui és una mica arquitectura de muntanya?	0.4973	0.8994	0.2528	0.7786	lead-yt-045__43__muntanya.wav	147440	149440	ASR textual; atribució i audició pendents
+habitatge	societat	0	0	no											ASR textual; atribució i audició pendents
+casa	infraestructures	27	19	sí	small	M'he portat una casa de la Cerdanya avui.	m'ha portat una casa de la sardanya avui.	0.1278	0.8979	0.0259	0.7386	lead-yt-045__45__casa.wav	143360	145880	ASR textual; atribució i audició pendents
+Andorra	toponim	0	0	no											ASR textual; atribució i audició pendents
+andorrà	gentilici	0	0	no											ASR textual; atribució i audició pendents
+La Massana	toponim	0	0	no											ASR textual; atribució i audició pendents
+materials	infraestructures	3	2	sí	small	M'ho vull dir, que són molts materials, no?	a nivell de materials atmosferes.	0.2298	0.7862	0.2820	0.5478	lead-yt-045__49__materials.wav	168200	171880	ASR textual; atribució i audició pendents
+disseny	cultura	1	1	sí	small	algunes estratègies de disseny.	algunes estratègies de disseny.	0.6227	0.9044	0.2464	0.6970	lead-yt-045__50__disseny.wav	155760	157760	ASR textual; atribució i audició pendents
+natura	medi ambient	0	0	no											ASR textual; atribució i audició pendents
+sostenibilitat	medi ambient	0	0	no											ASR textual; atribució i audició pendents
+turisme	economia	0	0	no											ASR textual; atribució i audició pendents

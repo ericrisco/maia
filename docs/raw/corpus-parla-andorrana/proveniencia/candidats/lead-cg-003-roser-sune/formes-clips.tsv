@@ -1,0 +1,4 @@
+forma	segment	inici_forma_s	final_forma_s	clip	inici_clip_s	final_clip_s	small	base	prioritat	estat
+a nivell	64	229.920	232.120	clips/roser-sune__a-nivell__229.92.wav	228.920	233.120	1	0	B-un-model-ASR	pendent d'audició
+doncs	137	445.360	448.000	clips/roser-sune__doncs__445.36.wav	444.360	449.000	1	0	B-un-model-ASR	pendent d'audició
+és a dir	93	313.200	315.480	clips/roser-sune__s-a-dir__313.20.wav	312.200	316.480	1	0	B-un-model-ASR	pendent d'audició

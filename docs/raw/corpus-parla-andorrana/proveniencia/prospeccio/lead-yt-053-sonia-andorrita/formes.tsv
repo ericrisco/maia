@@ -1,0 +1,53 @@
+forma	categoria	small	base	consens	model_localitzador	context_small	context_base	prob_min_segment_small	prob_mean_segment_small	prob_min_segment_base	prob_mean_segment_base	clip	inici_ms	final_ms	estat
+a nivell	discurs	0	0	no											ASR textual; atribució i audició pendents
+a veure	discurs	5	2	sí	small	A veure, sopita, amb bocadillo...	-A veure. -Sí, veràs.	0.3675	0.8331	0.1994	0.6576	lead-yt-053-sonia-andorrita__02__a-veure.wav	15080	17400	ASR textual; atribució i audició pendents
+aleshores	discurs	1	0	no	small	Aleshores, com expliques tu el nom?		0.2863	0.7706			lead-yt-053-sonia-andorrita__03__aleshores.wav	434360	436440	ASR textual; atribució i audició pendents
+aviam	discurs	1	0	no	small	Oye, vamos a ver. Sonia, vamos a ver. Aviam què creer algo, no?		0.1141	0.7156			lead-yt-053-sonia-andorrita__04__aviam.wav	307280	311280	ASR textual; atribució i audició pendents
+bueno	discurs	5	5	sí	small	Bueno, no cal que... La pròxima regala.	Bueno, no cal que vols que...	0.1604	0.7392	0.0274	0.5810	lead-yt-053-sonia-andorrita__05__bueno.wav	71200	73200	ASR textual; atribució i audició pendents
+bé	discurs	16	19	sí	small	Estic molt bé, molt contenta d'estar aquí, al teu costat, ja està.	Estic molt bé, molt contenta.	0.0751	0.8279	0.6189	0.8913	lead-yt-053-sonia-andorrita__06__b.wav	6520	10920	ASR textual; atribució i audició pendents
+clar	discurs	5	6	sí	small	Perquè clar, tu com a enfitriona, tu fas el requeriment si les propostes a través de les xarxes socials...	-Amb la cança s'estava molt bé, perquè vaig... -Amb la cança, clar.	0.3432	0.8438	0.1702	0.5924	lead-yt-053-sonia-andorrita__07__clar.wav	567340	574340	ASR textual; atribució i audició pendents
+de fet	discurs	1	1	sí	small	Amb la C, de fet, tinc molta família d'arragó,	De fet, tinc molta família de ragons, que és un poquico, un poquico,	0.1641	0.6753	0.2267	0.7231	lead-yt-053-sonia-andorrita__08__de-fet.wav	363440	366640	ASR textual; atribució i audició pendents
+diguem	discurs	0	0	no											ASR textual; atribució i audició pendents
+doncs	discurs	1	1	sí	small	Doncs em va gravar un vídeo i va enviar els poques contactes que tenia al país	"Per què no hi ha? Doncs no hi ha, ho creas."""	0.1297	0.7580	0.1443	0.6613	lead-yt-053-sonia-andorrita__10__doncs.wav	450880	458840	ASR textual; atribució i audició pendents
+evidentment	discurs	0	0	no											ASR textual; atribució i audició pendents
+llavors	discurs	4	2	sí	small	I llavors jo he rebut el correl electrònic i em poso en contacte amb la persona	Llavors, a mi és que està la mateixa burrera del meu carrer.	0.1726	0.7590	0.1960	0.6340	lead-yt-053-sonia-andorrita__12__llavors.wav	597340	603340	ASR textual; atribució i audició pendents
+no?	discurs	17	18	sí	small	No?	Reposo m'agrada, no?	0.3093	0.6441	0.1893	0.6484	lead-yt-053-sonia-andorrita__13__no.wav	73200	75200	ASR textual; atribució i audició pendents
+o sigui	discurs	0	0	no											ASR textual; atribució i audició pendents
+per tant	discurs	1	1	sí	small	Per tant, el meu cas seria Sergi, 14 mesos, Barcelona.	Per tant, el muca seria Sergi. Sergi.	0.2968	0.8297	0.8253	0.9835	lead-yt-053-sonia-andorrita__15__per-tant.wav	702260	707540	ASR textual; atribució i audició pendents
+perquè	discurs	25	30	sí	small	Sí, perquè penso que en altres provinces d'Espanya, sobretot al sud,	ara m'explicaràs perquè has vingut en dorra, perquè va venir en dorra, però primer anem al sopar.	0.3200	0.8716	0.1798	0.7027	lead-yt-053-sonia-andorrita__16__perqu.wav	115200	119120	ASR textual; atribució i audició pendents
+vull dir	discurs	0	0	no											ASR textual; atribució i audició pendents
+és a dir	discurs	2	1	sí	small	És a dir, el que vas patir i després que tu expliquessis a responsables del comú d'escaldes,	No és el cas, és a dir, no és una ciència de matrimoni, és...	0.2965	0.8506	0.0456	0.7782	lead-yt-053-sonia-andorrita__18__s-a-dir.wav	442560	447440	ASR textual; atribució i audició pendents
+Canillo	territorial	0	0	no											ASR textual; atribució i audició pendents
+Escaldes	territorial	1	1	sí	small	És a dir, el que vas patir i després que tu expliquessis a responsables del comú d'escaldes,	si s'ha responsables del comú d'escaldes, arribar a casa i dir,	0.2965	0.8506	0.2943	0.7076	lead-yt-053-sonia-andorrita__20__escaldes.wav	442560	447440	ASR textual; atribució i audició pendents
+Massana	territorial	0	0	no											ASR textual; atribució i audició pendents
+Ordino	territorial	0	0	no											ASR textual; atribució i audició pendents
+Sant Julià	territorial	0	0	no											ASR textual; atribució i audició pendents
+aiguats	territorial	0	0	no											ASR textual; atribució i audició pendents
+andorrana	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunal	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunals	territorial	0	0	no											ASR textual; atribució i audició pendents
+comuns	territorial	0	0	no											ASR textual; atribució i audició pendents
+comú	territorial	1	1	sí	small	És a dir, el que vas patir i després que tu expliquessis a responsables del comú d'escaldes,	si s'ha responsables del comú d'escaldes, arribar a casa i dir,	0.2965	0.8506	0.2943	0.7076	lead-yt-053-sonia-andorrita__29__com.wav	442560	447440	ASR textual; atribució i audició pendents
+copríncep	territorial	0	0	no											ASR textual; atribució i audició pendents
+coprínceps	territorial	0	0	no											ASR textual; atribució i audició pendents
+padrí	territorial	0	0	no											ASR textual; atribució i audició pendents
+parròquia	territorial	0	0	no											ASR textual; atribució i audició pendents
+santuari	territorial	0	0	no											ASR textual; atribució i audició pendents
+veguer	territorial	0	0	no											ASR textual; atribució i audició pendents
+Sonia	persona	2	4	sí	small	Oye, vamos a ver. Sonia, vamos a ver. Aviam què creer algo, no?	Trorrain, o la Sonia.	0.1141	0.7156	0.0957	0.5251	lead-yt-053-sonia-andorrita__36__sonia.wav	307280	311280	ASR textual; atribució i audició pendents
+Andorrita	societat	14	7	sí	small	Per què li poses a Andorrita? Per què és simpàtic?	-Vale. -Però Andorrita va crecer.	0.2779	0.7422	0.1560	0.6084	lead-yt-053-sonia-andorrita__37__andorrita.wav	339840	342840	ASR textual; atribució i audició pendents
+comerç	economia	0	0	no											ASR textual; atribució i audició pendents
+botiga	economia	1	0	no	small	Mira, aquest d'aquí, de la taula del costat, és el de la botiga.		0.3108	0.7995			lead-yt-053-sonia-andorrita__39__botiga.wav	196400	200600	ASR textual; atribució i audició pendents
+productes	economia	0	0	no											ASR textual; atribució i audició pendents
+clients	economia	0	0	no											ASR textual; atribució i audició pendents
+serveis	societat	0	0	no											ASR textual; atribució i audició pendents
+Andorra	toponim	14	11	sí	small	però sempre he viscut a Madrid, i des de fa 3 anys, més o menys, a Andorra.	I des de fa 3 anys, més o menys, a Andorra.	0.1268	0.8098	0.4361	0.8235	lead-yt-053-sonia-andorrita__43__andorra.wav	45360	51760	ASR textual; atribució i audició pendents
+andorrà	gentilici	0	0	no											ASR textual; atribució i audició pendents
+empresa	economia	0	0	no											ASR textual; atribució i audició pendents
+emprenedoria	economia	0	0	no											ASR textual; atribució i audició pendents
+economia	economia	0	0	no											ASR textual; atribució i audició pendents
+comunitat	societat	3	3	sí	small	-Sempre fas, sempre feu acción solidària. -Sí, sí, perquè penso que som una comunitat divertida, una comunitat agradable,	Sí, perquè penso que som una comunitat divertida,	0.4473	0.8846	0.4280	0.8449	lead-yt-053-sonia-andorrita__48__comunitat.wav	858740	865340	ASR textual; atribució i audició pendents
+persones	societat	10	10	sí	small	i aquesta vídeo es va viralitzar i van acudir a la primera trobada 26 persones.	i van acudir a la primera trobada 26 persones.	0.6593	0.9005	0.3432	0.8146	lead-yt-053-sonia-andorrita__49__persones.wav	458840	465200	ASR textual; atribució i audició pendents
+solidària	societat	4	3	sí	small	A més a més, aquesta trobada per mi és una mica especial. Sí, perquè vam fer una acción solidària.	Perquè van fer una acció solidària.	0.5500	0.8857	0.2349	0.7722	lead-yt-053-sonia-andorrita__50__solid-ria.wav	852500	858740	ASR textual; atribució i audició pendents
+associacions	societat	2	2	sí	small	Farem una acción solidària. Una acción solidària d'Ocè por d'Ocè, que és un espai meravelloso que dona suport a la empresió particular si posen contacte amb associacions senceràremes de lucre.	Ara sempre és el particular si posen contacte amb associacions s'han animo de lucre,	0.0634	0.7163	0.0298	0.5082	lead-yt-053-sonia-andorrita__51__associacions.wav	872660	886980	ASR textual; atribució i audició pendents
+inscripció	societat	1	1	sí	small	"Però abans, sobretot, la inscripció a ""Antorita.com""."	"Però avant sobretot la inscripció ""En Torri.com"", jo sabeu, ""Sónia com ser per a felicitat"", ""Senhora bona"", ""Sés per tu""."	0.1494	0.8349	0.0267	0.4863	lead-yt-053-sonia-andorrita__52__inscripci.wav	963780	966180	ASR textual; atribució i audició pendents

@@ -1,0 +1,44 @@
+forma	categoria	small	base	consens	model_localitzador	context_small	context_base	prob_min_segment_small	prob_mean_segment_small	prob_min_segment_base	prob_mean_segment_base	clip	inici_ms	final_ms	estat
+a nivell	discurs	0	0	no											ASR textual; atribució i audició pendents
+a veure	discurs	0	0	no											ASR textual; atribució i audició pendents
+aleshores	discurs	0	0	no											ASR textual; atribució i audició pendents
+aviam	discurs	0	0	no											ASR textual; atribució i audició pendents
+bueno	discurs	0	0	no											ASR textual; atribució i audició pendents
+bé	discurs	0	0	no											ASR textual; atribució i audició pendents
+clar	discurs	0	0	no											ASR textual; atribució i audició pendents
+de fet	discurs	0	0	no											ASR textual; atribució i audició pendents
+diguem	discurs	0	0	no											ASR textual; atribució i audició pendents
+doncs	discurs	0	0	no											ASR textual; atribució i audició pendents
+evidentment	discurs	0	0	no											ASR textual; atribució i audició pendents
+llavors	discurs	0	0	no											ASR textual; atribució i audició pendents
+no?	discurs	0	1	no	base		perquè la identitat no és una mercaderia, no?			0.1999	0.8126	lead-rtva-061-antoni-morell__13__no.wav	58360	63000	ASR textual; atribució i audició pendents
+o sigui	discurs	0	0	no											ASR textual; atribució i audició pendents
+per tant	discurs	0	0	no											ASR textual; atribució i audició pendents
+perquè	discurs	1	1	sí	small	Però, atenció a la multiculturalitat, perquè la identitat no és una mercaderia.	perquè la identitat no és una mercaderia, no?	0.1585	0.7629	0.1999	0.8126	lead-rtva-061-antoni-morell__16__perqu.wav	52800	62800	ASR textual; atribució i audició pendents
+vull dir	discurs	0	0	no											ASR textual; atribució i audició pendents
+és a dir	discurs	0	0	no											ASR textual; atribució i audició pendents
+Canillo	territorial	0	0	no											ASR textual; atribució i audició pendents
+Escaldes	territorial	0	0	no											ASR textual; atribució i audició pendents
+Massana	territorial	1	0	no	small	A la Massana, pel seu vincle mascage, el van homenatjar,		0.2954	0.6986			lead-rtva-061-antoni-morell__21__massana.wav	84400	86960	ASR textual; atribució i audició pendents
+Ordino	territorial	0	0	no											ASR textual; atribució i audició pendents
+Sant Julià	territorial	0	0	no											ASR textual; atribució i audició pendents
+aiguats	territorial	0	0	no											ASR textual; atribució i audició pendents
+andorrana	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunal	territorial	1	1	sí	small	posant el seu nom a la biblioteca comunal,	el van humanitzar posant el seu nom a la biblioteca comunal,	0.4821	0.8910	0.0302	0.7032	lead-rtva-061-antoni-morell__26__comunal.wav	87040	89080	ASR textual; atribució i audició pendents
+comunals	territorial	0	0	no											ASR textual; atribució i audició pendents
+comuns	territorial	0	0	no											ASR textual; atribució i audició pendents
+comú	territorial	0	0	no											ASR textual; atribució i audició pendents
+copríncep	territorial	0	0	no											ASR textual; atribució i audició pendents
+coprínceps	territorial	0	0	no											ASR textual; atribució i audició pendents
+padrí	territorial	0	0	no											ASR textual; atribució i audició pendents
+parròquia	territorial	0	0	no											ASR textual; atribució i audició pendents
+santuari	territorial	0	0	no											ASR textual; atribució i audició pendents
+veguer	territorial	0	0	no											ASR textual; atribució i audició pendents
+literatura andorrana	cultura	0	0	no											ASR textual; atribució i audició pendents
+identitat andorrana	memòria	0	0	no											ASR textual; atribució i audició pendents
+Sindicatura General	institucions	1	1	sí	small	El 1971 va ser nomenat secretari general de la Sindicatura General,	El 1971 va ser nomenat secretari general de la sindicatura general,	0.3399	0.8379	0.2705	0.7491	lead-rtva-061-antoni-morell__38__sindicatura-general.wav	101400	105640	ASR textual; atribució i audició pendents
+secretari general	institucions	2	2	sí	small	El 1971 va ser nomenat secretari general de la Sindicatura General,	El 1971 va ser nomenat secretari general de la sindicatura general,	0.3399	0.8379	0.2705	0.7491	lead-rtva-061-antoni-morell__39__secretari-general.wav	101400	105640	ASR textual; atribució i audició pendents
+ambaixador	institucions	1	0	no	small	seria també ambaixador al Baticà.		0.2767	0.7468			lead-rtva-061-antoni-morell__40__ambaixador.wav	117080	119080	ASR textual; atribució i audició pendents
+Constitució	institucions	0	0	no											ASR textual; atribució i audició pendents
+Andorra	toponim	0	3	no	base		Aquest llibre, juntament amb Boris Primer, ri d'Andorra,			0.0811	0.7361	lead-rtva-061-antoni-morell__42__andorra.wav	14000	17000	ASR textual; atribució i audició pendents
+andorrà	gentilici	0	0	no											ASR textual; atribució i audició pendents

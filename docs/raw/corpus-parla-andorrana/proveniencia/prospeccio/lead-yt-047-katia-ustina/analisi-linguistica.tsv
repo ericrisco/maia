@@ -1,0 +1,3 @@
+expedient	model	tokens	tipus_lexics	type_token_ratio	repeticio_3gram	marcadors_discursius	formes_territorials	formes_contacte	pronoms_clitics	perifrasi_past_aparent	primera_persona	negacio	nota	estat
+lead-yt-047-katia-ustina	small	2100	694	0.3305	0.0340	bé=12;bueno=23;doncs=1;llavors=1;o sigui=3;per tant=1;no?=2			213	11	6	42	recompte ASR; validar contra àudio	inventari ASR; pendent d'audició
+lead-yt-047-katia-ustina	base	2093	700	0.3344	0.0377	bé=7;bueno=22;doncs=2;o sigui=1;diguem=1;no?=1			199	9	13	46	recompte ASR; validar contra àudio	inventari ASR; pendent d'audició

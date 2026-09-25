@@ -1,0 +1,58 @@
+forma	categoria	small	base	consens	model_localitzador	context_small	context_base	prob_min_segment_small	prob_mean_segment_small	prob_min_segment_base	prob_mean_segment_base	clip	inici_ms	final_ms	estat
+a nivell	discurs	0	0	no											ASR textual; atribució i audició pendents
+a veure	discurs	5	7	sí	small	És un debat que té a veure amb el que va passar a l'Estat d'Ajuntament,	El que té a veure és que la Bèl·la Europea					lead-rtva-012__02__a-veure.wav	541280	545440	ASR textual; atribució i audició pendents
+aleshores	discurs	0	0	no											ASR textual; atribució i audició pendents
+aviam	discurs	0	0	no											ASR textual; atribució i audició pendents
+bueno	discurs	2	3	sí	small	Sí, la més llarga, bueno, va començar a la Seu d'Urgell.	T'hi trobes, dit-ho, bueno, l'emperador de Japó va ser una mica especial,					lead-rtva-012__05__bueno.wav	279000	281560	ASR textual; atribució i audició pendents
+bé	discurs	16	19	sí	small	Bé, això s'ha de dir que quan ell va arribar en d'hora,	van demanar una persona i van agafar 3, de fet, que va anar molt bé.					lead-rtva-012__06__b.wav	107840	110480	ASR textual; atribució i audició pendents
+clar	discurs	15	21	sí	small	Va ser molt clar que tota la família balancà	És clar, resulta que el meu pare era advocat i, lògicament,					lead-rtva-012__07__clar.wav	170440	174440	ASR textual; atribució i audició pendents
+de fet	discurs	15	20	sí	small	De fet, aquest edifici el va fer el meu padri,	Aquesta edifició, sí, de fet, aquesta edifició va fer el meu Padrí,					lead-rtva-012__08__de-fet.wav	152880	155760	ASR textual; atribució i audició pendents
+diguem	discurs	2	0	no	small	I llavors, diguem-ne, si no ho ha de aprovar,						lead-rtva-012__09__diguem.wav	679480	681480	ASR textual; atribució i audició pendents
+doncs	discurs	5	6	sí	small	Doncs per què es va decidir vostè a fer dreta per a Soledad?	Doncs per què es va decidir vostè fer dreta per solar-la?					lead-rtva-012__10__doncs.wav	242960	245200	ASR textual; atribució i audició pendents
+evidentment	discurs	1	1	sí	small	Ara va ser un moment difícil, per mi, evidentment, però clar.	Ara va ser un moment difícil, per mi, evidentment.					lead-rtva-012__11__evidentment.wav	744920	747480	ASR textual; atribució i audició pendents
+llavors	discurs	14	13	sí	small	fins a quin punt va influir en el jove llavors marforné?	fins a quin punt va influir en el jove llavors Marforney,					lead-rtva-012__12__llavors.wav	219680	224600	ASR textual; atribució i audició pendents
+no?	discurs	27	34	sí	small	les xarxes de lesió als fugitius del nazisme, no?	la xarxa es divisió els positius del nazisme, no?					lead-rtva-012__13__no.wav	105000	107760	ASR textual; atribució i audició pendents
+o sigui	discurs	1	0	no	small	O sigui, la seva primera sortida llarga d'Andorra						lead-rtva-012__14__o-sigui.wav	273560	276520	ASR textual; atribució i audició pendents
+per tant	discurs	10	11	sí	small	per tant, no podia s'endarrar el meu pare.	per tant, no podia ser endorra al meu pare.					lead-rtva-012__15__per-tant.wav	100840	102840	ASR textual; atribució i audició pendents
+perquè	discurs	60	67	sí	small	perquè el meu pare ja va ser polític abans de la guerra civil espanyola,	Perquè el meu pare ja va ser polític					lead-rtva-012__16__perqu.wav	61120	64640	ASR textual; atribució i audició pendents
+vull dir	discurs	1	5	sí	small	No, vostè, el seu fill, vull dir.	Això que em vol dir, vull dir que és més difícil ser cap de garnar,					lead-rtva-012__17__vull-dir.wav	2303000	2305000	ASR textual; atribució i audició pendents
+és a dir	discurs	3	0	no	small	És a dir, la poca gent que som, que som quatre gats,						lead-rtva-012__18__s-a-dir.wav	917560	920400	ASR textual; atribució i audició pendents
+Canillo	territorial	1	0	no	small	Avui dia, Canillo, en d'hora, vota el 90%.						lead-rtva-012__19__canillo.wav	1618520	1621200	ASR textual; atribució i audició pendents
+Escaldes	territorial	1	1	sí	small	no van poder fer altra cosa que en d'Ore i Escaldes.	com els grans capitals, m'entorre la vella escaldes,					lead-rtva-012__20__escaldes.wav	1454920	1457560	ASR textual; atribució i audició pendents
+Massana	territorial	1	3	sí	small	La meva cocina, el que ha estat consul de la Massana,	d'allòs els portaven en d'hora de la massana.					lead-rtva-012__21__massana.wav	234320	236800	ASR textual; atribució i audició pendents
+Ordino	territorial	1	1	sí	small	I ordino.	Avui diga que ni jo, per exemple, encara voto al 90% i ordino.					lead-rtva-012__22__ordino.wav	1623080	1624320	ASR textual; atribució i audició pendents
+Sant Julià	territorial	0	0	no											ASR textual; atribució i audició pendents
+aiguats	territorial	0	0	no											ASR textual; atribució i audició pendents
+andorrana	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunal	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunals	territorial	1	1	sí	small	La sort que t'endorres és que les muntanyes són comunals,	la sort que t'endorres, que les muntanyes són comunals,					lead-rtva-012__27__comunals.wav	2776360	2779880	ASR textual; atribució i audició pendents
+comuns	territorial	1	1	sí	small	no per tany en els comuns ni al govern ni a ningú,	no pertanyen als comuns ni al govern ni a ningú,					lead-rtva-012__28__comuns.wav	2780000	2782880	ASR textual; atribució i audició pendents
+comú	territorial	0	1	no	base		és considerant el problema pel comú de la massana encara ara,					lead-rtva-012__29__com.wav	2243840	2246680	ASR textual; atribució i audició pendents
+copríncep	territorial	1	0	no	small	Sí, partint d'una base, que el nostre copríncep Giscard						lead-rtva-012__30__copr-ncep.wav	968240	971400	ASR textual; atribució i audició pendents
+coprínceps	territorial	0	0	no											ASR textual; atribució i audició pendents
+padrí	territorial	2	2	sí	small	està en ell, el meu padrí, el meu tiet, el tiet Sisquet, el greu,	Aquesta edifició, sí, de fet, aquesta edifició va fer el meu Padrí,					lead-rtva-012__32__padr.wav	174560	178120	ASR textual; atribució i audició pendents
+parròquia	territorial	0	0	no											ASR textual; atribució i audició pendents
+santuari	territorial	0	0	no											ASR textual; atribució i audició pendents
+veguer	territorial	0	0	no											ASR textual; atribució i audició pendents
+síndic general	institucions	0	0	no											ASR textual; atribució i audició pendents
+conseller	institucions	9	8	sí	small	i conseller generals i consuls en general.	i conseller generals i consuls en general,					lead-rtva-012__37__conseller.wav	231600	234240	ASR textual; atribució i audició pendents
+ambaixador	institucions	0	0	no											ASR textual; atribució i audició pendents
+ambaixada	institucions	0	0	no											ASR textual; atribució i audició pendents
+ministre	institucions	5	6	sí	small	El meu ministre era exterior de llavors,	conseller, ministre del govern del Senyor José Pintat,					lead-rtva-012__40__ministre.wav	952160	954760	ASR textual; atribució i audició pendents
+cònsol	institucions	0	0	no											ASR textual; atribució i audició pendents
+Consell General	institucions	1	1	sí	small	a l'any 1969, serveix públics del Consell General.	a serveis públics del consell general que hi feia llavors.					lead-rtva-012__42__consell-general.wav	401480	405560	ASR textual; atribució i audició pendents
+Constitució	institucions	5	6	sí	small	de veure-se aprovar la Constitució.	Les eleccions generals, les primeres constituent després de la Constitució,					lead-rtva-012__43__constituci.wav	584160	586040	ASR textual; atribució i audició pendents
+Andorra	toponim	62	8	sí	small	que va ser el tercer cap de govern d'Andorra entre Òscar Ribes	També va ser un dels fundadors del partit liberal d'Andorra,					lead-rtva-012__44__andorra.wav	20720	25040	ASR textual; atribució i audició pendents
+andorrà	gentilici	0	0	no											ASR textual; atribució i audició pendents
+andorrans	gentilici	0	0	no											ASR textual; atribució i audició pendents
+Encamp	toponim	0	0	no											ASR textual; atribució i audició pendents
+poesia	literatura	0	0	no											ASR textual; atribució i audició pendents
+poeta	literatura	0	0	no											ASR textual; atribució i audició pendents
+novel·la	literatura	0	0	no											ASR textual; atribució i audició pendents
+Frontera endins	literatura	0	0	no											ASR textual; atribució i audició pendents
+llengua	sociolingüística	3	0	no	small	L'únic país del món en el qual la nostra llengua és la catalana,						lead-rtva-012__52__llengua.wav	2904000	2907440	ASR textual; atribució i audició pendents
+català	sociolingüística	6	7	sí	small	Andorra, no ho és, un país català, és Andorra, i ara amb avanç.	No ho és, un pes català. No és entorra. I ara m'avancem.					lead-rtva-012__53__catal.wav	815360	818200	ASR textual; atribució i audició pendents
+francès	contacte	6	4	sí	small	Segur, el major ma francès va fer ciències, per cert,	i mercaderies amb els governs espanyol i francès,					lead-rtva-012__54__franc-s.wav	261040	263880	ASR textual; atribució i audició pendents
+castellà	contacte	0	0	no											ASR textual; atribució i audició pendents
+Pirineus	territori	0	0	no											ASR textual; atribució i audició pendents
+principat	territori	0	0	no											ASR textual; atribució i audició pendents

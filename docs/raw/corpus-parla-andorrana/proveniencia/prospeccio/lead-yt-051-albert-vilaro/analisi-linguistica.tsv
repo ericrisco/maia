@@ -1,0 +1,3 @@
+expedient	model	tokens	tipus_lexics	type_token_ratio	repeticio_3gram	marcadors_discursius	formes_territorials	formes_contacte	pronoms_clitics	perifrasi_past_aparent	primera_persona	negacio	nota	estat
+lead-yt-051-albert-vilaro	small	2164	682	0.3152	0.0510	bé=12;bueno=3;clar=11;doncs=4;de fet=1;és a dir=6;vull dir=1;a veure=3;aviam=2;diguem=2;per tant=1;no?=1			243	12	10	51	recompte ASR; validar contra àudio	inventari ASR; pendent d'audició
+lead-yt-051-albert-vilaro	base	2200	690	0.3136	0.0407	bé=17;bueno=3;clar=12;doncs=8;és a dir=2;vull dir=1;a veure=2;aviam=1;diguem=1;per tant=1;no?=1			246	17	11	63	recompte ASR; validar contra àudio	inventari ASR; pendent d'audició

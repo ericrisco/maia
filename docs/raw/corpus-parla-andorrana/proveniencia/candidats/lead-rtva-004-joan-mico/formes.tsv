@@ -1,0 +1,328 @@
+model	categoria	forma	segment	inici_s	final_s	prob_min_segment	text_asr	estat
+small	discurs	per tant	5	42.280	48.640	0.4449	per tant, no demà, sinó el següent, a la Universitat Catalana d'Estiu.	candidat ASR; pendent d'audició
+small	discurs	vull dir	9	60.840	64.240	0.3684	Tenim un quart d'hora, vull dir que no és molt temps, però intentem una mica...	candidat ASR; pendent d'audició
+small	discurs	no?	10	64.240	70.240	0.3413	Després hi ha moltes potències, jo crec que al final la gent tindrà una idea molt clara de com som, no?	candidat ASR; pendent d'audició
+small	discurs	bueno	12	75.240	81.120	0.1971	Sí. Bueno, jo crec que i precisament quan la sociologia,	candidat ASR; pendent d'audició
+small	discurs	perquè	15	87.000	92.200	0.1860	Vull dir, són els factors per quals, perquè sí, hi ha persones que tenen...	candidat ASR; pendent d'audició
+small	discurs	vull dir	15	87.000	92.200	0.1860	Vull dir, són els factors per quals, perquè sí, hi ha persones que tenen...	candidat ASR; pendent d'audició
+small	discurs	doncs	16	92.280	97.240	0.2818	Doncs està en una situació diferent dins de la estructura social, no?	candidat ASR; pendent d'audició
+small	discurs	no?	16	92.280	97.240	0.2818	Doncs està en una situació diferent dins de la estructura social, no?	candidat ASR; pendent d'audició
+small	discurs	no?	17	97.320	103.040	0.4542	Ja poden ser factors que són endogàmics per com som, no?	candidat ASR; pendent d'audició
+small	discurs	bueno	22	121.760	126.440	0.4096	Bueno, hi ha una de les més importants seria aquest, la part socioeconòmica.	candidat ASR; pendent d'audició
+small	discurs	no?	23	126.520	128.040	0.4375	I després es barreja, no?	candidat ASR; pendent d'audició
+small	discurs	bé	30	154.520	160.200	0.1900	Endorra ha tingut un model que en aquest sentit realment ha funcionat bé,	candidat ASR; pendent d'audició
+small	discurs	bé	32	165.920	172.040	0.1590	doncs la censor social ha funcionat relativament bé i això ha atenuat, són petits,	candidat ASR; pendent d'audició
+small	discurs	doncs	32	165.920	172.040	0.1590	doncs la censor social ha funcionat relativament bé i això ha atenuat, són petits,	candidat ASR; pendent d'audició
+small	discurs	perquè	35	182.480	186.560	0.3350	perquè al final és el contrari, que ara per exemple necessita gent,	candidat ASR; pendent d'audició
+small	discurs	no?	37	190.760	194.520	0.2725	Vull dir que hi ha uns factors que relativitzen, però existeixen, no?	candidat ASR; pendent d'audició
+small	discurs	vull dir	37	190.760	194.520	0.2725	Vull dir que hi ha uns factors que relativitzen, però existeixen, no?	candidat ASR; pendent d'audició
+small	discurs	perquè	39	199.280	202.840	0.4650	hem d'estendre la mà als nou vinguts perquè s'integrin	candidat ASR; pendent d'audició
+small	discurs	clar	41	205.880	208.520	0.6759	Sí, clar, aquí és el...	candidat ASR; pendent d'audició
+small	discurs	vull dir	43	211.800	215.400	0.2145	Vull dir que en Dorre ja és un país diferent,	candidat ASR; pendent d'audició
+small	discurs	vull dir	46	223.480	227.480	0.1901	Vull dir, som una societat cosmopolita, hem de ser oberts,	candidat ASR; pendent d'audició
+small	discurs	perquè	47	227.480	230.480	0.5011	perquè a part ens venen 8 o 9 milions de turistes.	candidat ASR; pendent d'audició
+small	discurs	vull dir	48	230.480	234.480	0.3866	Vull dir que és una societat que, a més, tenim un estil de vida molt...	candidat ASR; pendent d'audició
+small	discurs	no?	49	234.480	239.480	0.2265	quasi urbà, no? Més urbà que per per els hàbits que tenim.	candidat ASR; pendent d'audició
+small	discurs	llavors	50	239.480	243.480	0.2262	Vull dir que llavors el... I amb la primera edat que tenim,	candidat ASR; pendent d'audició
+small	discurs	vull dir	50	239.480	243.480	0.2262	Vull dir que llavors el... I amb la primera edat que tenim,	candidat ASR; pendent d'audició
+small	discurs	perquè	52	249.160	256.240	0.0453	perquè al enviar-se a la població, simplement per reemplar les persones que s'han de jubilar,	candidat ASR; pendent d'audició
+small	discurs	doncs	53	256.240	261.240	0.4113	doncs no tenim suficients fills, no? No tenim.	candidat ASR; pendent d'audició
+small	discurs	no?	53	256.240	261.240	0.4113	doncs no tenim suficients fills, no? No tenim.	candidat ASR; pendent d'audició
+small	discurs	clar	55	265.200	270.200	0.1038	Vull dir que és un procés irreversible. És clar, això, com passa també a altres ciutats europeus,	candidat ASR; pendent d'audició
+small	discurs	vull dir	55	265.200	270.200	0.1038	Vull dir que és un procés irreversible. És clar, això, com passa també a altres ciutats europeus,	candidat ASR; pendent d'audició
+small	discurs	clar	58	289.200	296.200	0.4164	Sí, sí, clar, quan parlem de desigualtat són molts factors, llavors el gènere és un dels factors.	candidat ASR; pendent d'audició
+small	discurs	llavors	58	289.200	296.200	0.4164	Sí, sí, clar, quan parlem de desigualtat són molts factors, llavors el gènere és un dels factors.	candidat ASR; pendent d'audició
+small	discurs	vull dir	60	303.200	306.200	0.3443	Vull dir que el gènere és important, però no és el mateix.	candidat ASR; pendent d'audició
+small	discurs	doncs	61	306.200	318.200	0.2361	Doncs una senyora anantolla que està treballant de cuidadora o de netejar no que sigui, que en major part són dones.	candidat ASR; pendent d'audició
+small	discurs	vull dir	62	318.200	324.200	0.3050	Vull dir que això és una desigualtat que no una persona que treballa a l'administració, que té un carrer cal i que és una dona.	candidat ASR; pendent d'audició
+small	discurs	vull dir	63	324.200	328.680	0.0442	Vull dir que, realment, hi ha altres factors que determinen també.	candidat ASR; pendent d'audició
+small	discurs	bueno	67	336.680	339.800	0.2503	Bueno, el sostre de vidre és un tema molt, molt interessant,	candidat ASR; pendent d'audició
+small	discurs	perquè	68	339.800	342.680	0.6096	perquè en societats que, en principi,	candidat ASR; pendent d'audició
+small	discurs	doncs	70	346.680	350.920	0.2629	com al nord europei i tal, doncs encarar el continuant tenint.	candidat ASR; pendent d'audició
+small	discurs	clar	76	379.880	386.320	0.1048	doncs no tenen, o sigui, clar, els homes es poden dedicar a fer més hores,	candidat ASR; pendent d'audició
+small	discurs	doncs	76	379.880	386.320	0.1048	doncs no tenen, o sigui, clar, els homes es poden dedicar a fer més hores,	candidat ASR; pendent d'audició
+small	discurs	o sigui	76	379.880	386.320	0.1048	doncs no tenen, o sigui, clar, els homes es poden dedicar a fer més hores,	candidat ASR; pendent d'audició
+small	discurs	no?	77	386.320	389.120	0.4179	el que sigui, al final això condiciona molt, no?	candidat ASR; pendent d'audició
+small	discurs	clar	78	389.120	393.240	0.1559	Clar, la solució ha de passar per això, perquè tant els homes com les dones,	candidat ASR; pendent d'audició
+small	discurs	perquè	78	389.120	393.240	0.1559	Clar, la solució ha de passar per això, perquè tant els homes com les dones,	candidat ASR; pendent d'audició
+small	discurs	doncs	79	393.240	398.840	0.2235	doncs dediquem el mateix temps a la cura dels tres fills, no?	candidat ASR; pendent d'audició
+small	discurs	no?	79	393.240	398.840	0.2235	doncs dediquem el mateix temps a la cura dels tres fills, no?	candidat ASR; pendent d'audició
+small	discurs	bueno	81	403.960	414.920	0.1151	Sí, sí, sí, al final també és la, bueno, el monument feminista és una gran revolució que hem tingut.	candidat ASR; pendent d'audició
+small	discurs	bé	82	414.920	422.280	0.3577	I el monument feminista ha passat i que està molt bé amb el fet que les dones podien fer les mateixes coses que els som a més.	candidat ASR; pendent d'audició
+small	discurs	no?	83	422.280	426.920	0.2068	Però en el procés ara inversa, no? De les coses tradicionals que feien.	candidat ASR; pendent d'audició
+small	discurs	o sigui	84	426.920	435.520	0.1641	O sigui, la paraquesta de cura en un sistema, que tot el que ens paga no es valora.	candidat ASR; pendent d'audició
+small	discurs	vull dir	85	435.520	438.760	0.0390	Vull dir, nosaltres amb ella no hem assumit aquesta banda,	candidat ASR; pendent d'audició
+small	discurs	bueno	87	441.720	446.000	0.3231	Bueno, això és el dilema.	candidat ASR; pendent d'audició
+small	discurs	clar	88	446.000	449.240	0.2605	Clar, llavors dius que els homes no ho volen fer, no, és més complexe.	candidat ASR; pendent d'audició
+small	discurs	llavors	88	446.000	449.240	0.2605	Clar, llavors dius que els homes no ho volen fer, no, és més complexe.	candidat ASR; pendent d'audició
+small	discurs	vull dir	89	449.240	451.880	0.4796	Vull dir que també el sistema també no dificulta.	candidat ASR; pendent d'audició
+small	discurs	vull dir	90	451.880	456.400	0.2104	Dificulta, vull dir que segurament cada cop ja en més països	candidat ASR; pendent d'audició
+small	discurs	clar	97	476.440	479.480	0.3398	Clar. No, no, és que la solució no és que diguis...	candidat ASR; pendent d'audició
+small	discurs	bé	99	485.200	489.120	0.0816	I està molt bé que sigui tradicionalment que hi hagi les dones	candidat ASR; pendent d'audició
+small	discurs	vull dir	106	520.520	528.200	0.3461	Tinc la sensació, això és collita pròpia, de que ho tenim tots plegats i tots plegats, vull dir, homes i dones, molt interioritzats.	candidat ASR; pendent d'audició
+small	discurs	no?	107	528.200	536.840	0.1053	-Sí. -Jo he conegut dones que no et donen ni peu, no? No, no, això m'encarrego jo, no?	candidat ASR; pendent d'audició
+small	discurs	bueno	108	536.840	542.000	0.0776	Bueno, perquè és perquè ja és clar, això ja ve de la costum, no?	candidat ASR; pendent d'audició
+small	discurs	clar	108	536.840	542.000	0.0776	Bueno, perquè és perquè ja és clar, això ja ve de la costum, no?	candidat ASR; pendent d'audició
+small	discurs	no?	108	536.840	542.000	0.0776	Bueno, perquè és perquè ja és clar, això ja ve de la costum, no?	candidat ASR; pendent d'audició
+small	discurs	perquè	108	536.840	542.000	0.0776	Bueno, perquè és perquè ja és clar, això ja ve de la costum, no?	candidat ASR; pendent d'audició
+small	discurs	o sigui	109	542.360	549.600	0.2930	I ja veig, o sigui, el fet d'aquesta vegada, o sigui, el que es tracta és que es valori aquesta feina.	candidat ASR; pendent d'audició
+small	discurs	no?	110	549.600	557.840	0.1584	És com si tens un fill i una filla i abans la filla és la que es cuidava de la que ajudava la mare, que això està fatal, no?	candidat ASR; pendent d'audició
+small	discurs	no?	111	557.840	560.720	0.4893	Però el que no pot ser és que ni la filla ni el fill ajudi, no?	candidat ASR; pendent d'audició
+small	discurs	vull dir	112	560.720	569.840	0.0495	Vull dir que les feines de casa domèstiques que siguin feines que es valorin també,	candidat ASR; pendent d'audició
+small	discurs	bé	114	572.240	575.760	0.1113	Vull dir que el que tradicionaven feines les dones estava molt bé.	candidat ASR; pendent d'audició
+small	discurs	vull dir	114	572.240	575.760	0.1113	Vull dir que el que tradicionaven feines les dones estava molt bé.	candidat ASR; pendent d'audició
+small	discurs	bueno	118	591.920	594.920	0.1494	-Bueno, això és... Home, jo crec que ara això...	candidat ASR; pendent d'audició
+small	discurs	no?	123	605.920	607.920	0.2859	que és divu, no?	candidat ASR; pendent d'audició
+small	discurs	doncs	131	641.920	644.360	0.0736	doncs això tenen uns salaris més sals, en canvi,	candidat ASR; pendent d'audició
+small	discurs	doncs	133	647.600	651.240	0.0385	per tant, per oqueria i tal, doncs tenen els salaris menors.	candidat ASR; pendent d'audició
+small	discurs	per tant	133	647.600	651.240	0.0385	per tant, per oqueria i tal, doncs tenen els salaris menors.	candidat ASR; pendent d'audició
+small	discurs	bé	135	653.520	657.720	0.2275	Bé, ara ja més factors, però vull dir que, a final,	candidat ASR; pendent d'audició
+small	discurs	vull dir	135	653.520	657.720	0.2275	Bé, ara ja més factors, però vull dir que, a final,	candidat ASR; pendent d'audició
+small	discurs	no?	137	662.240	663.600	0.1508	segueix aquesta, no?	candidat ASR; pendent d'audició
+small	discurs	no?	139	668.200	669.920	0.2541	a millor no és tan elevada, no?	candidat ASR; pendent d'audició
+small	discurs	doncs	143	679.320	683.360	0.1217	doncs poden dedicar més hores a la feina, a fer més hores extres,	candidat ASR; pendent d'audició
+small	discurs	perquè	145	689.160	692.880	0.4526	perquè les dones estan més dedicades a la llal,	candidat ASR; pendent d'audició
+small	discurs	vull dir	146	692.960	697.520	0.1801	vull dir que tot això és com... és junta,	candidat ASR; pendent d'audició
+small	discurs	bé	152	714.200	716.600	0.4446	Perquè si jo tinc una empresa i vull que funcioni bé,	candidat ASR; pendent d'audició
+small	discurs	perquè	152	714.200	716.600	0.4446	Perquè si jo tinc una empresa i vull que funcioni bé,	candidat ASR; pendent d'audició
+small	discurs	clar	155	726.200	728.280	0.2574	-Clar. -Sí, sí.	candidat ASR; pendent d'audició
+small	discurs	vull dir	157	731.600	734.200	0.2327	Vull dir, això de la paritat és a vegades pervers,	candidat ASR; pendent d'audició
+small	discurs	perquè	158	734.280	736.040	0.2020	perquè el mío em fan falta més dones comes.	candidat ASR; pendent d'audició
+small	discurs	bueno	159	736.120	740.440	0.3387	Clar, bueno, jo crec que poden ser polítiques puntuals,	candidat ASR; pendent d'audició
+small	discurs	clar	159	736.120	740.440	0.3387	Clar, bueno, jo crec que poden ser polítiques puntuals,	candidat ASR; pendent d'audició
+small	discurs	vull dir	162	746.440	749.600	0.4270	Vull dir que no que un empresari	candidat ASR; pendent d'audició
+small	discurs	doncs	164	754.400	759.680	0.0881	Han de ser la meitat. No, això no és un més que d'obligar, és que estructuralment, doncs,	candidat ASR; pendent d'audició
+small	discurs	de fet	166	766.480	772.080	0.1749	A final, això no ha de ser tan important. De fet, doncs el que dius, tu abans, a vegades,	candidat ASR; pendent d'audició
+small	discurs	doncs	166	766.480	772.080	0.1749	A final, això no ha de ser tan important. De fet, doncs el que dius, tu abans, a vegades,	candidat ASR; pendent d'audició
+small	discurs	doncs	167	772.080	778.240	0.3506	el discurs d'una dona pot ser molt masclista, i el d'un home, doncs, és molt feminista,	candidat ASR; pendent d'audició
+small	discurs	vull dir	168	778.240	781.600	0.0715	O no vull dir que això no és una gran funció també.	candidat ASR; pendent d'audició
+small	discurs	clar	169	781.800	784.400	0.4333	Seria tot molt més fàcil, si fos tot tan clar.	candidat ASR; pendent d'audició
+small	discurs	perquè	177	806.520	814.760	0.2283	perquè sí que en les gestions més joves hi havia la mòcsexualitat,	candidat ASR; pendent d'audició
+small	discurs	de fet	185	853.240	858.240	0.2470	Però no es viu de manera tan dramàtica, de fet.	candidat ASR; pendent d'audició
+small	discurs	de fet	194	900.640	903.440	0.4492	de fet ens ho deies tot al principi, Joan,	candidat ASR; pendent d'audició
+small	discurs	vull dir	195	903.640	909.840	0.5217	és l'Ètnia, no ens enganyem, vull dir, no podem ser falsos.	candidat ASR; pendent d'audició
+small	discurs	bueno	197	916.080	918.720	0.1843	Sí, sí, bueno, a...	candidat ASR; pendent d'audició
+small	discurs	no?	198	918.720	923.040	0.1334	Esperant-se, hi ha molts estudis sobre aquest tema, o sigui que ja depèn del barri, no?	candidat ASR; pendent d'audició
+small	discurs	o sigui	198	918.720	923.040	0.1334	Esperant-se, hi ha molts estudis sobre aquest tema, o sigui que ja depèn del barri, no?	candidat ASR; pendent d'audició
+small	discurs	no?	199	923.040	928.000	0.4552	Tu envies un currículum d'un barri o d'un altre i a millor tens més voluntat de trobar feina, no?	candidat ASR; pendent d'audició
+small	discurs	no?	200	928.000	932.800	0.3288	Sí, i això està associat amb els estirotips i amb els prejudicis, no?	candidat ASR; pendent d'audició
+small	discurs	vull dir	201	932.800	938.280	0.2780	Vull dir que, al final, sí que és molt important dissoldre aquests prejudicis,	candidat ASR; pendent d'audició
+small	discurs	no?	202	938.280	942.880	0.2786	perquè, a final, les persones són molt més similars de la que ens pensem, no?	candidat ASR; pendent d'audició
+small	discurs	perquè	202	938.280	942.880	0.2786	perquè, a final, les persones són molt més similars de la que ens pensem, no?	candidat ASR; pendent d'audició
+small	discurs	llavors	203	942.880	947.560	0.2190	Vull dir que, llavors, quan posa això, jutges,	candidat ASR; pendent d'audició
+small	discurs	vull dir	203	942.880	947.560	0.2190	Vull dir que, llavors, quan posa això, jutges,	candidat ASR; pendent d'audició
+small	discurs	perquè	205	951.200	956.040	0.4079	és una cosa molt perillosa i ja perquè no és irracional.	candidat ASR; pendent d'audició
+small	discurs	vull dir	206	956.040	958.440	0.8595	Vull dir, ho fem tots, però és irracional.	candidat ASR; pendent d'audició
+small	discurs	bé	209	962.080	965.000	0.4423	Bé, tota la població, 80.000, no som iguals,	candidat ASR; pendent d'audició
+small	discurs	clar	210	965.000	971.320	0.2954	però si això ho tenim clar, és impensable pensar que totes d'un país, que són milions, siguin iguals.	candidat ASR; pendent d'audició
+small	discurs	o sigui	211	971.320	979.280	0.2398	És que no té cap sentit. O sigui, ho fem tot, però estem fent una cosa que no és racional, correcte?	candidat ASR; pendent d'audició
+small	discurs	no?	213	981.160	987.200	0.4862	Un altre desigualtat que aniria llegada amb això que ens estàs explicant és el territori, no?	candidat ASR; pendent d'audició
+small	discurs	perquè	215	989.200	995.920	0.3058	El territori crea desigualtat, sí, perquè crea diferents oportunitats d'accés a això,	candidat ASR; pendent d'audició
+small	territorial	comuns	216	995.920	1001.080	0.1948	als vents comuns o les diferències que pot crear moltes desigualtats.	candidat ASR; pendent d'audició
+small	discurs	clar	217	1001.080	1006.160	0.0882	Clar, no és un país petit, llavors això és no tan menys, però sí que és veritat que depèn dels vius,	candidat ASR; pendent d'audició
+small	discurs	llavors	217	1001.080	1006.160	0.0882	Clar, no és un país petit, llavors això és no tan menys, però sí que és veritat que depèn dels vius,	candidat ASR; pendent d'audició
+small	discurs	doncs	218	1006.160	1012.000	0.1637	doncs les combinacions pot complicar una mica la vida i som un país molt petit.	candidat ASR; pendent d'audició
+small	discurs	clar	219	1012.000	1018.360	0.3634	Com parlen de països grans, clar, això també països com Espanya o França s'ha anat diluint,	candidat ASR; pendent d'audició
+small	discurs	no?	222	1025.840	1030.800	0.1386	També hi havia uns estirotips que a vegades es fan bromes, però sí que continuen nabent, no?	candidat ASR; pendent d'audició
+small	discurs	bé	223	1030.800	1036.840	0.2116	I tot i que ara ja els serveis dels pobles són, estan molt bé, no?	candidat ASR; pendent d'audició
+small	discurs	no?	223	1030.800	1036.840	0.2116	I tot i que ara ja els serveis dels pobles són, estan molt bé, no?	candidat ASR; pendent d'audició
+small	discurs	perquè	227	1055.960	1066.960	0.3881	I això sí, perquè s'ha de valorar i s'ha de donar les possibilitats perquè tot el món o totes les persones puguin tenir les mateixes oportunitats.	candidat ASR; pendent d'audició
+small	discurs	no?	228	1066.960	1071.520	0.2755	Això és veritat, sí. S'han fet molts grans passos, no?	candidat ASR; pendent d'audició
+small	discurs	bueno	229	1071.600	1075.640	0.4467	Però, bueno, cada cop s'han de fer més, no? Sí, sí.	candidat ASR; pendent d'audició
+small	discurs	no?	229	1071.600	1075.640	0.4467	Però, bueno, cada cop s'han de fer més, no? Sí, sí.	candidat ASR; pendent d'audició
+small	discurs	perquè	230	1075.720	1078.920	0.1567	També al final, perquè hi ha aquests estereotips, també condicionen.	candidat ASR; pendent d'audició
+small	discurs	no?	232	1082.480	1086.080	0.4169	però aquests estereotips també hem de continuar canviant-los, no?	candidat ASR; pendent d'audició
+small	discurs	vull dir	235	1092.080	1094.480	0.6421	i amb això no vull dir que sigui ni tots ni totes	candidat ASR; pendent d'audició
+small	discurs	no?	239	1104.560	1107.560	0.5147	Crees aquesta distància, no? Ostres, tu...	candidat ASR; pendent d'audició
+small	discurs	clar	240	1107.560	1111.560	0.2948	Clar, sí, sí. No, no. Es crea aquesta distància.	candidat ASR; pendent d'audició
+small	discurs	no?	241	1111.560	1113.560	0.1599	I després per què ha anat canviant els paradigmes, no?	candidat ASR; pendent d'audició
+small	discurs	bé	243	1118.560	1122.560	0.1755	Per bé d'ells, no?, s'havien d'estar en institucions diferents.	candidat ASR; pendent d'audició
+small	discurs	no?	243	1118.560	1122.560	0.1755	Per bé d'ells, no?, s'havien d'estar en institucions diferents.	candidat ASR; pendent d'audició
+small	discurs	clar	244	1122.560	1125.480	0.1018	Clar, ara la mentalitat és totalment diferent.	candidat ASR; pendent d'audició
+small	discurs	vull dir	245	1125.480	1130.840	0.2644	Vull dir, no, al contrari, les persones que tenen algun més cavament el que sigui	candidat ASR; pendent d'audició
+small	discurs	no?	246	1130.840	1136.520	0.3164	han de tenir l'aportunitat de viure amb igualtat de condicions amb tothom i barrejar-se, no?	candidat ASR; pendent d'audició
+small	discurs	vull dir	247	1136.520	1140.520	0.1390	Vull dir, però això són canvis de paradigma que tu estàs a millor, no sigui que vol...	candidat ASR; pendent d'audició
+small	discurs	perquè	253	1158.720	1165.920	0.1168	perquè, a final, la diferència tampoc és que estem tots una mica dependents del que et pot passar.	candidat ASR; pendent d'audició
+small	discurs	clar	255	1170.720	1179.840	0.2845	i llavors això, és clar, hem d'assumir que això és una normalitat i que la llenem de buscar que tinguin total...	candidat ASR; pendent d'audició
+small	discurs	llavors	255	1170.720	1179.840	0.2845	i llavors això, és clar, hem d'assumir que això és una normalitat i que la llenem de buscar que tinguin total...	candidat ASR; pendent d'audició
+small	discurs	doncs	260	1213.800	1217.000	0.1443	-Això és el que ha passat més. -Doncs ara et deixes més tocat.	candidat ASR; pendent d'audició
+small	discurs	perquè	261	1217.000	1221.480	0.1009	-Sí, ara et deixes més tocat perquè jo parlo de fa 40 anys. -No, però sí.	candidat ASR; pendent d'audició
+small	discurs	bueno	263	1226.840	1234.000	0.3220	Bueno, canvi de tema, però una cosa interessant és que algun treball que hem fet sobre pobreza també passa igual.	candidat ASR; pendent d'audició
+small	discurs	perquè	265	1237.160	1240.040	0.6390	perquè al final és com la idea aquesta	candidat ASR; pendent d'audició
+small	discurs	perquè	266	1240.120	1242.880	0.2944	de que ets pobre perquè has fet alguna cosa malament.	candidat ASR; pendent d'audició
+small	discurs	perquè	268	1247.760	1249.800	0.3207	D'exclusió, perquè és culpa teva.	candidat ASR; pendent d'audició
+small	discurs	perquè	271	1257.520	1263.520	0.2413	Són dures, perquè és una mica que al final la culpa és teva.	candidat ASR; pendent d'audició
+small	discurs	bé	272	1263.600	1266.000	0.1775	i això també és bastant bé.	candidat ASR; pendent d'audició
+small	discurs	doncs	275	1272.000	1275.720	0.4758	perquè a vegades, doncs això, si el nucli familiar	candidat ASR; pendent d'audició
+small	discurs	perquè	275	1272.000	1275.720	0.4758	perquè a vegades, doncs això, si el nucli familiar	candidat ASR; pendent d'audició
+small	discurs	doncs	276	1277.000	1280.920	0.5889	doncs té un sou per anar fent, per anar vivint,	candidat ASR; pendent d'audició
+small	discurs	clar	277	1281.320	1283.600	0.3969	clar, aquests nens i nenes estan exposats	candidat ASR; pendent d'audició
+small	discurs	vull dir	289	1328.880	1334.000	0.0758	Vull dir que, al final, els nens tampoc fan una altra cosa que imita el que fem fora.	candidat ASR; pendent d'audició
+small	discurs	vull dir	290	1334.080	1336.320	0.5701	Vull dir que, al final, els nens fan...	candidat ASR; pendent d'audició
+small	discurs	no?	291	1336.400	1341.040	0.2765	No, és que som una societat on fem, no?	candidat ASR; pendent d'audició
+small	discurs	perquè	296	1356.760	1362.080	0.2607	Totes resumeixen, Joan, perquè acabem ja, en educació i respecte?	candidat ASR; pendent d'audició
+small	discurs	no?	298	1367.480	1373.560	0.1739	I no entrar amb els estirotips, no? Això ho veiem.	candidat ASR; pendent d'audició
+small	discurs	perquè	299	1373.640	1379.960	0.4980	És superdifícil, perquè ho fem tots, però això és la base.	candidat ASR; pendent d'audició
+small	discurs	clar	310	1411.160	1414.160	0.3584	Clar, quan està de moda, llavors és el màxim.	candidat ASR; pendent d'audició
+small	discurs	llavors	310	1411.160	1414.160	0.3584	Clar, quan està de moda, llavors és el màxim.	candidat ASR; pendent d'audició
+small	discurs	no?	313	1420.160	1422.160	0.6978	Vull dir, empatia, no?	candidat ASR; pendent d'audició
+small	discurs	vull dir	313	1420.160	1422.160	0.6978	Vull dir, empatia, no?	candidat ASR; pendent d'audició
+small	discurs	perquè	314	1422.160	1424.160	0.5833	Perquè el millor està passant fatal	candidat ASR; pendent d'audició
+small	discurs	perquè	322	1443.560	1445.760	0.3059	Perquè aquest segle XX ha vingut molt fort en aquest tema.	candidat ASR; pendent d'audició
+small	discurs	bueno	324	1448.960	1452.880	0.3180	Sí, bueno, perquè final és tema amb la mateixa dinàmica de sempre.	candidat ASR; pendent d'audició
+small	discurs	perquè	324	1448.960	1452.880	0.3180	Sí, bueno, perquè final és tema amb la mateixa dinàmica de sempre.	candidat ASR; pendent d'audició
+small	discurs	bé	326	1455.000	1458.200	0.2707	Perquè final és bé que, si tens això, seràs més feliç.	candidat ASR; pendent d'audició
+small	discurs	perquè	326	1455.000	1458.200	0.2707	Perquè final és bé que, si tens això, seràs més feliç.	candidat ASR; pendent d'audició
+small	discurs	no?	330	1466.840	1473.840	0.0553	De manera subconscient. Aquests pantalons estripats que avançarà ara és caríssim, no?	candidat ASR; pendent d'audició
+small	discurs	no?	332	1477.840	1484.840	0.1985	És irracional, però entrem sense cap... completament de manera crítica, no?	candidat ASR; pendent d'audició
+base	discurs	per tant	5	41.160	44.520	0.1382	et dissabte vinent, per tant, no demà, sinó el següent.	candidat ASR; pendent d'audició
+base	discurs	bé	7	50.760	51.760	0.1046	Bé, bon dia.	candidat ASR; pendent d'audició
+base	discurs	vull dir	11	60.880	62.960	0.2207	Tenim un quart d'hora, vull dir que no és molt temps,	candidat ASR; pendent d'audició
+base	discurs	no?	14	66.520	69.920	0.1265	la gent tindrà una idea molt clara de com som, no?	candidat ASR; pendent d'audició
+base	discurs	bueno	17	74.920	77.840	0.3334	Sí, bueno, jo crec que...	candidat ASR; pendent d'audició
+base	discurs	perquè	22	90.600	94.080	0.1484	perquè hi ha persones que tenen una situació diferent	candidat ASR; pendent d'audició
+base	discurs	bueno	31	121.680	125.040	0.3243	Bueno, hi ha una de les més importants seria aquest,	candidat ASR; pendent d'audició
+base	discurs	no?	33	126.480	128.000	0.4619	I després es barreja, no?	candidat ASR; pendent d'audició
+base	discurs	bé	42	158.960	161.360	0.1487	relativament, ha funció al bé que és que les persones	candidat ASR; pendent d'audició
+base	discurs	bé	45	166.280	169.560	0.1767	La sensació social ha anat funcionant relativament bé,	candidat ASR; pendent d'audició
+base	discurs	no?	50	181.480	184.480	0.2311	aquí no hi és, perquè a final és el contrari, no?	candidat ASR; pendent d'audició
+base	discurs	perquè	50	181.480	184.480	0.2311	aquí no hi és, perquè a final és el contrari, no?	candidat ASR; pendent d'audició
+base	discurs	no?	51	184.560	186.560	0.3084	Ara, per exemple, es necessita gent, no?	candidat ASR; pendent d'audició
+base	discurs	vull dir	53	190.840	193.120	0.1172	Vull dir que hi ha uns factors que relativitzen,	candidat ASR; pendent d'audició
+base	discurs	bueno	54	193.200	194.560	0.3823	però, bueno, existeixen, no?	candidat ASR; pendent d'audició
+base	discurs	no?	54	193.200	194.560	0.3823	però, bueno, existeixen, no?	candidat ASR; pendent d'audició
+base	discurs	clar	55	194.640	197.760	0.3553	Clar, tant els nacionales, com els residents,	candidat ASR; pendent d'audició
+base	discurs	perquè	57	200.520	202.760	0.0733	Els no ho vinguts perquè s'integuin,	candidat ASR; pendent d'audició
+base	discurs	clar	59	205.840	208.360	0.3987	Sí, clar, aquí és el...	candidat ASR; pendent d'audició
+base	discurs	o sigui	61	211.680	215.320	0.0523	O sigui, en Dorra ja és un país diferent,	candidat ASR; pendent d'audició
+base	discurs	o sigui	65	223.120	225.640	0.0506	O sigui, som una situació molt polita,	candidat ASR; pendent d'audició
+base	discurs	no?	66	225.720	228.880	0.1343	hem de ser ubers perquè a part ens venen, no?	candidat ASR; pendent d'audició
+base	discurs	perquè	66	225.720	228.880	0.1343	hem de ser ubers perquè a part ens venen, no?	candidat ASR; pendent d'audició
+base	discurs	llavors	70	239.200	243.720	0.0864	Vull dir que hi ha llavors i amb l'àpia a més de què tenim,	candidat ASR; pendent d'audició
+base	discurs	vull dir	70	239.200	243.720	0.0864	Vull dir que hi ha llavors i amb l'àpia a més de què tenim,	candidat ASR; pendent d'audició
+base	discurs	perquè	73	249.320	251.520	0.2276	perquè a l'emvegir-se la població,	candidat ASR; pendent d'audició
+base	discurs	clar	82	288.920	290.360	0.5732	Sí, sí, clar.	candidat ASR; pendent d'audició
+base	discurs	llavors	84	294.280	296.320	0.1554	Llavors, els gènere són dels factors.	candidat ASR; pendent d'audició
+base	discurs	vull dir	88	303.600	306.520	0.0813	Vull dir que el gènere és important, però no és un mateix.	candidat ASR; pendent d'audició
+base	discurs	doncs	89	306.600	311.160	0.0767	Doncs, no, una senyora o una noia que està treballant.	candidat ASR; pendent d'audició
+base	discurs	no?	95	324.880	328.560	0.2455	La mene, ja altres factors que determinan, també, no?	candidat ASR; pendent d'audició
+base	discurs	no?	96	328.640	331.320	0.3329	Però el gènere és un factor, no?	candidat ASR; pendent d'audició
+base	discurs	bueno	98	334.240	337.240	0.3056	Sí, sí, bueno,	candidat ASR; pendent d'audició
+base	discurs	perquè	100	339.800	345.200	0.1124	perquè en societats que en principi semblaria que traïs una mena	candidat ASR; pendent d'audició
+base	discurs	llavors	103	350.880	357.000	0.1393	Llavors, és anem cap als passos de que això	candidat ASR; pendent d'audició
+base	discurs	clar	108	369.680	374.680	0.1073	i sobretot, les dones, clar, són les que, al final, se n'ocupen més	candidat ASR; pendent d'audició
+base	discurs	clar	111	381.360	384.680	0.1081	Si clar, les dones poden dedicar a tenir...	candidat ASR; pendent d'audició
+base	discurs	no?	112	384.760	389.040	0.1073	A fer més hora, el que sigui, al final, això condicina molt, no?	candidat ASR; pendent d'audició
+base	discurs	clar	113	389.120	391.320	0.1886	Clar, la suïció de passar per això,	candidat ASR; pendent d'audició
+base	discurs	perquè	114	391.400	393.320	0.2376	perquè tant, el som és com les dones,	candidat ASR; pendent d'audició
+base	discurs	no?	118	410.000	413.880	0.1434	Hola, el moviment feminista és una gran revolució, no?,	candidat ASR; pendent d'audició
+base	discurs	bé	120	417.160	420.480	0.4597	i que està molt bé amb el fet de que les dones podien fer	candidat ASR; pendent d'audició
+base	discurs	no?	122	422.240	424.680	0.2606	Però, en el procés a la inversa, no?,	candidat ASR; pendent d'audició
+base	discurs	vull dir	126	435.400	438.560	0.0221	vull dir, nosaltres amb un nom assomita que estava banda,	candidat ASR; pendent d'audició
+base	discurs	bueno	128	442.720	445.760	0.7322	Bueno, això és el dilema.	candidat ASR; pendent d'audició
+base	discurs	no?	129	445.840	448.080	0.1032	Clàia, és que els homes no volen fer, no?	candidat ASR; pendent d'audició
+base	discurs	vull dir	131	451.920	456.360	0.2210	dificulta, vull dir que segurament cada cop ja més països	candidat ASR; pendent d'audició
+base	discurs	no?	133	461.640	465.440	0.1975	Però tot això s'ha d'anar a més cap aquí, no?	candidat ASR; pendent d'audició
+base	discurs	clar	138	475.720	477.520	0.4771	Clar, clar.	candidat ASR; pendent d'audició
+base	discurs	no?	139	477.600	480.240	0.1316	No, és que la solució no és que diguis, no?, és que...	candidat ASR; pendent d'audició
+base	discurs	clar	140	480.320	485.320	0.3668	Clar, és que la cura dels fills és que a mi és una factor de realització personal, no?	candidat ASR; pendent d'audició
+base	discurs	no?	140	480.320	485.320	0.3668	Clar, és que la cura dels fills és que a mi és una factor de realització personal, no?	candidat ASR; pendent d'audició
+base	discurs	bé	141	485.400	488.840	0.1268	I està molt bé que sigui, traïs una mica i està de les dones	candidat ASR; pendent d'audició
+base	discurs	no?	142	488.920	491.520	0.3478	i el que hem de fer nosaltres és que sigui el mateix, no?	candidat ASR; pendent d'audició
+base	discurs	vull dir	153	523.880	526.040	0.3159	De que ho tenim tots plegats i tots plegats vull dir,	candidat ASR; pendent d'audició
+base	discurs	no?	156	529.280	535.040	0.1515	Jo he conegut dones que no et donen ni peu, no?	candidat ASR; pendent d'audició
+base	discurs	no?	157	535.120	536.840	0.2861	No, no, això m'encarregui jo, no?	candidat ASR; pendent d'audició
+base	discurs	bueno	158	536.920	541.840	0.2885	Bueno, perquè ja he escoltat, això ja ve de la costum, no?	candidat ASR; pendent d'audició
+base	discurs	no?	158	536.920	541.840	0.2885	Bueno, perquè ja he escoltat, això ja ve de la costum, no?	candidat ASR; pendent d'audició
+base	discurs	perquè	158	536.920	541.840	0.2885	Bueno, perquè ja he escoltat, això ja ve de la costum, no?	candidat ASR; pendent d'audició
+base	discurs	o sigui	159	541.920	549.360	0.0811	I hi ha vegades, o sigui, el fet d'aquest valor i aquesta feina,	candidat ASR; pendent d'audició
+base	discurs	o sigui	160	549.440	552.240	0.4102	o sigui, com si tens un fill i una filla,	candidat ASR; pendent d'audició
+base	discurs	bé	166	572.200	575.600	0.1096	Lo que tradicionalment feia en les dones estava molt bé.	candidat ASR; pendent d'audició
+base	discurs	bueno	172	591.800	594.240	0.0859	Bueno, això és el millor que crec...	candidat ASR; pendent d'audició
+base	discurs	no?	186	637.400	640.400	0.3088	tot això, que continua sent, no?	candidat ASR; pendent d'audició
+base	discurs	bueno	191	653.440	657.560	0.2272	Bueno, ja m'he factorçat, però vull dir que a final,	candidat ASR; pendent d'audició
+base	discurs	vull dir	191	653.440	657.560	0.2272	Bueno, ja m'he factorçat, però vull dir que a final,	candidat ASR; pendent d'audició
+base	discurs	no?	193	661.880	663.480	0.3052	posigui a aquesta, no?	candidat ASR; pendent d'audició
+base	discurs	no?	195	668.040	670.040	0.3304	a millor, no està elevada, no?	candidat ASR; pendent d'audició
+base	discurs	bé	209	714.520	718.440	0.0240	Jo tinc una empresa i vull que funcioni bé, i faig sena entrevistes.	candidat ASR; pendent d'audició
+base	discurs	clar	212	726.320	728.320	0.4341	Clar, vull dir... Sí, sí.	candidat ASR; pendent d'audició
+base	discurs	vull dir	212	726.320	728.320	0.4341	Clar, vull dir... Sí, sí.	candidat ASR; pendent d'audició
+base	discurs	perquè	215	734.240	736.320	0.4843	perquè el meu em fa falta més dones comes.	candidat ASR; pendent d'audició
+base	discurs	bueno	216	736.400	740.480	0.4723	Clar, bueno, jo crec que podem ser polítiques puntuals,	candidat ASR; pendent d'audició
+base	discurs	clar	216	736.400	740.480	0.4723	Clar, bueno, jo crec que podem ser polítiques puntuals,	candidat ASR; pendent d'audició
+base	discurs	és a dir	219	746.680	752.720	0.0468	És a dir, no que un empresari o dintre de l'administració	candidat ASR; pendent d'audició
+base	discurs	de fet	226	769.200	775.160	0.2367	De fet, el discurs d'una dona pot ser molt masculista	candidat ASR; pendent d'audició
+base	discurs	clar	229	781.720	784.440	0.4137	Seria tot molt més fàcil, si fos tot tan clar.	candidat ASR; pendent d'audició
+base	discurs	perquè	236	804.840	807.520	0.3126	és molt interessant, perquè sí que...	candidat ASR; pendent d'audició
+base	discurs	bueno	237	807.600	811.080	0.1510	Bueno, la gestió és més jove,	candidat ASR; pendent d'audició
+base	discurs	no?	245	837.480	842.560	0.1838	Això és un venteix que és molt curiós i que és interessant, no?	candidat ASR; pendent d'audició
+base	discurs	bueno	250	853.600	857.440	0.1841	Però, bueno, clar, no ajuda a manera tan dramàtica,	candidat ASR; pendent d'audició
+base	discurs	clar	250	853.600	857.440	0.1841	Però, bueno, clar, no ajuda a manera tan dramàtica,	candidat ASR; pendent d'audició
+base	discurs	de fet	251	857.520	862.640	0.0903	de fet, mira, això és una enquesta que m'han fet amadol sense	candidat ASR; pendent d'audició
+base	discurs	doncs	253	867.680	871.640	0.0437	i, pues, me'n vaig, doncs no sé si hi havia entre els altres,	candidat ASR; pendent d'audició
+base	discurs	clar	255	875.320	880.400	0.2570	tenia... no sé clar, o sigui, tenia la mateixa atracció,	candidat ASR; pendent d'audició
+base	discurs	o sigui	255	875.320	880.400	0.2570	tenia... no sé clar, o sigui, tenia la mateixa atracció,	candidat ASR; pendent d'audició
+base	discurs	no?	256	880.480	884.240	0.1662	tan de nois com de noies, no? És nois o tan, però,	candidat ASR; pendent d'audició
+base	discurs	vull dir	262	905.160	909.880	0.3337	No ens enganyem, vull dir, no, no podem ser falsos.	candidat ASR; pendent d'audició
+base	discurs	bueno	265	916.000	920.320	0.0362	Sí, sí, bueno, ja ha exprançallat molts estudis	candidat ASR; pendent d'audició
+base	discurs	no?	268	925.840	928.080	0.1079	i a millor, té més vul·litat de trobar feina, no?	candidat ASR; pendent d'audició
+base	discurs	perquè	272	938.240	941.400	0.3787	perquè, al final, les persones són molt més similats	candidat ASR; pendent d'audició
+base	discurs	clar	280	965.200	967.200	0.2345	però si això ho tenim clar,	candidat ASR; pendent d'audició
+base	discurs	o sigui	283	974.560	978.760	0.4091	O sigui, ho fem tot, però estem fent una cosa que no és racional.	candidat ASR; pendent d'audició
+base	discurs	no?	286	983.880	986.640	0.6487	amb això que ens estàs explicant, és el territori, no?	candidat ASR; pendent d'audició
+base	discurs	perquè	289	990.800	995.720	0.1960	perquè crea diferents oportunitats d'accesar el posació,	candidat ASR; pendent d'audició
+base	territorial	comuns	290	995.800	999.440	0.0664	els ben comuns o les diferències,	candidat ASR; pendent d'audició
+base	discurs	perquè	291	999.520	1001.080	0.0657	perquè hi ha moltes de psiquantats.	candidat ASR; pendent d'audició
+base	discurs	clar	292	1001.160	1004.080	0.1187	Clar, no és un pais petit, no hi ha avançat, això és notament.	candidat ASR; pendent d'audició
+base	discurs	clar	293	1004.160	1006.160	0.1287	Però sí que és veritat que, clar, ha de prendre un views	candidat ASR; pendent d'audició
+base	discurs	perquè	294	1006.240	1010.320	0.1182	perquè les combinacions també pot complicar una mica a la vida.	candidat ASR; pendent d'audició
+base	discurs	clar	295	1010.400	1012.200	0.1577	I són un país molt petit, clar.	candidat ASR; pendent d'audició
+base	discurs	perquè	315	1055.920	1061.240	0.4679	i això sí, perquè s'ha de valorar i s'ha de donar les possibilitats,	candidat ASR; pendent d'audició
+base	discurs	perquè	316	1061.320	1066.840	0.5239	perquè tot el món o totes les persones puin tenir les mateixes oportunitats.	candidat ASR; pendent d'audició
+base	discurs	no?	318	1071.360	1075.400	0.2534	però, però, en cada cop s'han de fer més, no? Sí, sí.	candidat ASR; pendent d'audició
+base	discurs	perquè	319	1075.480	1078.840	0.1278	També al final, perquè ja que és estriotips i també condicionen.	candidat ASR; pendent d'audició
+base	discurs	vull dir	325	1092.040	1094.520	0.4120	i això no vull dir que sí, ni tots, ni totes,	candidat ASR; pendent d'audició
+base	discurs	no?	329	1103.760	1106.640	0.2046	Comenceu? Creies aquesta distància, ¿no?	candidat ASR; pendent d'audició
+base	discurs	no?	333	1111.640	1113.960	0.1228	I després precanat canviant els paradíms, no?	candidat ASR; pendent d'audició
+base	discurs	bueno	335	1117.400	1120.000	0.0579	Bueno, pel bé d'eïs, no?	candidat ASR; pendent d'audició
+base	discurs	bé	335	1117.400	1120.000	0.0579	Bueno, pel bé d'eïs, no?	candidat ASR; pendent d'audició
+base	discurs	no?	335	1117.400	1120.000	0.0579	Bueno, pel bé d'eïs, no?	candidat ASR; pendent d'audició
+base	discurs	clar	337	1122.360	1125.320	0.1486	Clar, ara la mentalitat és totalment diferent,	candidat ASR; pendent d'audició
+base	discurs	vull dir	338	1125.400	1126.720	0.0905	vull dir, no, no, al contrari.	candidat ASR; pendent d'audició
+base	discurs	no?	342	1133.400	1136.560	0.1747	amb igualtat de condicions amb Tutoni, i va rejar-se, no?	candidat ASR; pendent d'audició
+base	discurs	perquè	350	1158.760	1160.920	0.3813	perquè, al final, la diferència tampoc...	candidat ASR; pendent d'audició
+base	discurs	clar	354	1169.320	1171.720	0.0686	que estic una situació i això és clar.	candidat ASR; pendent d'audició
+base	discurs	llavors	369	1221.480	1224.560	0.0389	Llavors, alguns treball que hem fet, sí que algun cas passa.	candidat ASR; pendent d'audició
+base	discurs	bueno	371	1226.800	1230.160	0.2113	Bueno, canvio de tema, però una cosa interessant és que	candidat ASR; pendent d'audició
+base	discurs	perquè	374	1237.160	1241.120	0.3947	perquè, al final, és com la idea que està de que ets pobre,	candidat ASR; pendent d'audició
+base	discurs	perquè	375	1241.200	1244.360	0.0627	perquè has fet algú malament, o tens una problema.	candidat ASR; pendent d'audició
+base	discurs	no?	377	1245.520	1247.680	0.1370	Mi con problema de això, no?	candidat ASR; pendent d'audició
+base	discurs	perquè	378	1247.760	1249.760	0.2508	Desculsió, perquè és culpa teva.	candidat ASR; pendent d'audició
+base	discurs	no?	379	1249.840	1252.680	0.2434	Això també fa que la llenès retregui, no?	candidat ASR; pendent d'audició
+base	discurs	no?	380	1252.760	1257.360	0.0978	I que és sentit som societats que som durats, no?	candidat ASR; pendent d'audició
+base	discurs	perquè	381	1257.440	1260.360	0.1829	Són durats, perquè és una mica de que...	candidat ASR; pendent d'audició
+base	discurs	no?	382	1260.440	1263.760	0.3125	Al final, la culpa és teva, no?	candidat ASR; pendent d'audició
+base	discurs	bé	383	1263.840	1265.760	0.6191	Això també està bé.	candidat ASR; pendent d'audició
+base	discurs	perquè	385	1268.920	1273.200	0.1712	per posar-te sobre la taula nens i nenes perquè vagades,	candidat ASR; pendent d'audició
+base	discurs	doncs	386	1273.320	1279.920	0.4201	doncs això, si el núcle familiar té un sou per anar fent,	candidat ASR; pendent d'audició
+base	discurs	clar	388	1281.760	1286.640	0.3134	clar que nens i nenes estan exposats a aquesta exclusió social,	candidat ASR; pendent d'audició
+base	discurs	a veure	394	1307.840	1314.240	0.0941	A veure el cas, això és la teoria, la pràctica és que s'arriba o s'intenta arriba,	candidat ASR; pendent d'audició
+base	discurs	vull dir	399	1328.960	1331.880	0.1983	Vull dir que, a final, els nens, tampoc fan una altra cosa	candidat ASR; pendent d'audició
+base	discurs	vull dir	401	1334.280	1336.800	0.0922	Vull dir que, a final, els nens van volir, no.	candidat ASR; pendent d'audició
+base	discurs	perquè	407	1356.800	1361.760	0.0556	Totes resumeix jugant perquè acabem ja en educació i respecte.	candidat ASR; pendent d'audició
+base	discurs	bueno	410	1367.400	1371.560	0.1591	I... i... i, bueno, i no entra amb els estirotips, no?	candidat ASR; pendent d'audició
+base	discurs	no?	410	1367.400	1371.560	0.1591	I... i... i, bueno, i no entra amb els estirotips, no?	candidat ASR; pendent d'audició
+base	discurs	perquè	412	1373.520	1376.840	0.5356	És super difícil, perquè ho fem tots, eh?	candidat ASR; pendent d'audició
+base	discurs	no?	413	1376.920	1380.000	0.4136	Sí. Però això és la base, no?	candidat ASR; pendent d'audició
+base	discurs	clar	427	1411.360	1414.040	0.0729	Clar, quan està de moda, ja ho van ser, és la màxima.	candidat ASR; pendent d'audició
+base	discurs	clar	429	1417.160	1419.960	0.5387	Clar. I dius, saps la seva situació?	candidat ASR; pendent d'audició
+base	discurs	clar	430	1420.040	1422.120	0.1036	Clar, avui vull dir, amb patia, no?	candidat ASR; pendent d'audició
+base	discurs	no?	430	1420.040	1422.120	0.1036	Clar, avui vull dir, amb patia, no?	candidat ASR; pendent d'audició
+base	discurs	vull dir	430	1420.040	1422.120	0.1036	Clar, avui vull dir, amb patia, no?	candidat ASR; pendent d'audició
+base	discurs	no?	434	1428.920	1433.120	0.2352	És segurament lo que dius, tu és lo més important, la empatia, no?	candidat ASR; pendent d'audició
+base	discurs	bueno	440	1448.640	1452.680	0.2001	Ufff, sí, bueno, perquè final és tema amb la mateixa dinàmica de sempre,	candidat ASR; pendent d'audició
+base	discurs	perquè	440	1448.640	1452.680	0.2001	Ufff, sí, bueno, perquè final és tema amb la mateixa dinàmica de sempre,	candidat ASR; pendent d'audició
+base	discurs	vull dir	441	1452.760	1454.680	0.1409	vull dir que final que, per què compren coses?	candidat ASR; pendent d'audició
+base	discurs	perquè	442	1454.760	1459.440	0.3426	Perquè final és benen que, si tens això, seràs més feliç amb el qual ho compres	candidat ASR; pendent d'audició
+base	discurs	no?	449	1481.480	1484.280	0.0350	Competament demanarà com ven a crítica, no?	candidat ASR; pendent d'audició
+base	discurs	bé	457	1505.280	1506.760	0.1088	-Au, Salta. -Age molt bé.	candidat ASR; pendent d'audició

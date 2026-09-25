@@ -1,0 +1,3 @@
+expedient	model	tokens	tipus_lexics	type_token_ratio	repeticio_3gram	marcadors_discursius	formes_territorials	formes_contacte	pronoms_clitics	perifrasi_past_aparent	primera_persona	negacio	nota	estat
+lead-yt-039-marta-roure	small	3120	782	0.2506	0.1057	bé=14;bueno=8;clar=20;doncs=5;llavors=7;aleshores=1;de fet=2;o sigui=4;vull dir=1;a veure=2;evidentment=2;per tant=7;a nivell=3;no?=15	andorrana=1	castellà=1;espanyol=1;francès=1;anglès=3	331	86	33	100	recompte ASR; validar contra àudio	inventari ASR; pendent d'audició
+lead-yt-039-marta-roure	base	3265	862	0.2640	0.0859	bé=11;bueno=12;clar=16;doncs=7;llavors=3;de fet=1;o sigui=2;a veure=1;per tant=12;a nivell=2;no?=23		anglès=1	350	72	34	131	recompte ASR; validar contra àudio	inventari ASR; pendent d'audició

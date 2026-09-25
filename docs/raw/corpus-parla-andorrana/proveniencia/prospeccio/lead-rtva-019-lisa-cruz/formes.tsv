@@ -1,0 +1,75 @@
+forma	categoria	small	base	consens	model_localitzador	context_small	context_base	prob_min_segment_small	prob_mean_segment_small	prob_min_segment_base	prob_mean_segment_base	clip	inici_ms	final_ms	estat
+a nivell	discurs	1	0	no	small	sinó que és una decisió que deprendré a nivell polític		0.1390	0.8532			lead-rtva-019__01__a-nivell.wav	1354720	1357080	ASR textual; atribució i audició pendents
+a veure	discurs	2	1	sí	small	han començat a veure alguna qüestió tangible	S'hi haurà d'anar a veure el que ha de fer.	0.3536	0.8912	0.0115	0.2653	lead-rtva-019__02__a-veure.wav	542200	545040	ASR textual; atribució i audició pendents
+aleshores	discurs	0	0	no											ASR textual; atribució i audició pendents
+aviam	discurs	0	0	no											ASR textual; atribució i audició pendents
+bueno	discurs	1	3	sí	small	i no teniu que trencar-se el cap buscant maneres de, bueno, de sobreviure al final.	Bueno... té sobreviure, al final.	0.3128	0.8503	0.1714	0.6524	lead-rtva-019__05__bueno.wav	156640	165200	ASR textual; atribució i audició pendents
+bé	discurs	4	2	sí	small	que fins als 45 no podré tindre-ho bé ben comprat.	tindreu bé ben comprat.	0.6777	0.9157	0.2628	0.7222	lead-rtva-019__06__b.wav	103280	107600	ASR textual; atribució i audició pendents
+clar	discurs	5	1	sí	small	Està clar que l'acord d'associació ha encarat cap als joves.	Està clar que són coses molt diferents,	0.5514	0.8808	0.1685	0.7912	lead-rtva-019__07__clar.wav	1224560	1228520	ASR textual; atribució i audició pendents
+de fet	discurs	4	3	sí	small	i de fet els vam fer remarcar en algunes ocasions,	Els programes d'ajuda govern i, de fet, els hi vam fer remarquant	0.5648	0.8574	0.1641	0.6652	lead-rtva-019__08__de-fet.wav	367840	370040	ASR textual; atribució i audició pendents
+diguem	discurs	0	0	no											ASR textual; atribució i audició pendents
+doncs	discurs	2	2	sí	small	i després això no dona, que puguis anar a parciar, doncs és com un cercle.	doncs no podrà ser, però, bueno, de cara al 2026,	0.0461	0.7635	0.1738	0.7419	lead-rtva-019__10__doncs.wav	131760	134760	ASR textual; atribució i audició pendents
+evidentment	discurs	0	0	no											ASR textual; atribució i audició pendents
+llavors	discurs	8	8	sí	small	Llavors, fins i tot, algú que sigui només resident,	Llavors fins i tot,	0.2597	0.8207	0.4150	0.8196	lead-rtva-019__12__llavors.wav	666600	669280	ASR textual; atribució i audició pendents
+no?	discurs	4	3	sí	small	multiplicat pel nombre de joves, i tenim la xifra final, no?	tan que vam decidir fer un estudi dels drets laborals per als joves, no?	0.3029	0.8711	0.3007	0.7611	lead-rtva-019__13__no.wav	765480	768640	ASR textual; atribució i audició pendents
+o sigui	discurs	2	1	sí	small	O sigui, no pots tindre, no sé quants estudis, i tindrà quatre anys d'experiència si tens 22 anys.	és real, o sigui, i no només és real en el nostre país,	0.4122	0.8552	0.0259	0.7446	lead-rtva-019__14__o-sigui.wav	144980	151160	ASR textual; atribució i audició pendents
+per tant	discurs	4	2	sí	small	Per tant, 2025, més o menys amb les xifres que el govern ja deu haver comunicat,	Per tant, el 2025 més o menys amb les cifres que el govern	0.4337	0.8136	0.3276	0.7185	lead-rtva-019__15__per-tant.wav	932920	937320	ASR textual; atribució i audició pendents
+perquè	discurs	19	15	sí	small	perquè joves també es puguin informar de quins són els seus drets,	perquè als joves també es puguin informar	0.3652	0.8524	0.2143	0.8021	lead-rtva-019__16__perqu.wav	450280	453360	ASR textual; atribució i audició pendents
+vull dir	discurs	0	0	no											ASR textual; atribució i audició pendents
+és a dir	discurs	0	0	no											ASR textual; atribució i audició pendents
+Canillo	territorial	0	0	no											ASR textual; atribució i audició pendents
+Escaldes	territorial	0	0	no											ASR textual; atribució i audició pendents
+Massana	territorial	0	0	no											ASR textual; atribució i audició pendents
+Ordino	territorial	0	0	no											ASR textual; atribució i audició pendents
+Sant Julià	territorial	0	0	no											ASR textual; atribució i audició pendents
+aiguats	territorial	0	0	no											ASR textual; atribució i audició pendents
+andorrana	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunal	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunals	territorial	0	0	no											ASR textual; atribució i audició pendents
+comuns	territorial	4	1	sí	small	I aquí també potser govern, comuns, partits polítics, etcètera,	I aquí també potser govern comuns, partits polítics,	0.4208	0.7824	0.4862	0.8017	lead-rtva-019__28__comuns.wav	1183760	1187000	ASR textual; atribució i audició pendents
+comú	territorial	3	2	sí	small	Ja potser la relació entre el comú i el jove	Potser la relació entre el comú i el jove és distància una mica.	0.5469	0.8854	0.0467	0.6929	lead-rtva-019__29__com.wav	1628960	1632200	ASR textual; atribució i audició pendents
+copríncep	territorial	0	0	no											ASR textual; atribució i audició pendents
+coprínceps	territorial	0	0	no											ASR textual; atribució i audició pendents
+padrí	territorial	0	0	no											ASR textual; atribució i audició pendents
+parròquia	territorial	0	0	no											ASR textual; atribució i audició pendents
+santuari	territorial	0	0	no											ASR textual; atribució i audició pendents
+veguer	territorial	0	0	no											ASR textual; atribució i audició pendents
+joventut	societat	3	0	no	small	del PN de joventut i d'altres projectes al voltant		0.1840	0.7843			lead-rtva-019__36__joventut.wav	775120	777800	ASR textual; atribució i audició pendents
+jove	societat	11	61	sí	small	per al que es cobra una persona jove,	de la jove i de la jove de la jove de la jove de la jove de la jove de la jove de la jove de la jove de la jove de la jove de la jove de la jove de la jove de la jove de la jove de la jove de la jove de la jove de la jove de la jove de la jove de la jove de la jove de la jove de la jove de la jove de la jove de la jove de la jove de la jove de la jove de la jove de la jove de la jove de la jove de la jove de la jove de la jove de la jove de la jove de la jove de la jove de la jove de la jove de la jove de la jove de la jove de la jove de la jove de la jove de la jove de la jove de la jove de la	0.0830	0.5760	0.0740	0.9354	lead-rtva-019__37__jove.wav	86400	89040	ASR textual; atribució i audició pendents
+joves	societat	40	17	sí	small	Hem conegut les preocupacions als neguïts dels joves.	algunes ocasions no tenien l'encontre dels joves,	0.1850	0.7840	0.1679	0.7293	lead-rtva-019__38__joves.wav	187840	190960	ASR textual; atribució i audició pendents
+Fòrum de la Joventut	institucions	0	0	no											ASR textual; atribució i audició pendents
+habitatge	societat	8	3	sí	small	L'habitatge i els sou, i crec que són qüestions molt importants	L'habitatge i el sou.	0.1652	0.8453	0.1665	0.6962	lead-rtva-019__40__habitatge.wav	60000	66400	ASR textual; atribució i audició pendents
+lloguer	economia	2	2	sí	small	de les noves generacions al lloguer,	el lloguer és el que hauria de ser per sobre la compra, com ho veu.	0.2845	0.8258	0.2731	0.7156	lead-rtva-019__41__lloguer.wav	345280	348800	ASR textual; atribució i audició pendents
+comprar	economia	4	4	sí	small	tanto para alquilar como para comprar ya es imposible.	tanto para alquilar como para comprar ya es imposible.	0.6126	0.8991	0.3962	0.8152	lead-rtva-019__42__comprar.wav	80400	83400	ASR textual; atribució i audició pendents
+sou	economia	1	1	sí	small	L'habitatge i els sou, i crec que són qüestions molt importants	L'habitatge i el sou.	0.1652	0.8453	0.1665	0.6962	lead-rtva-019__43__sou.wav	60000	66400	ASR textual; atribució i audició pendents
+feina	economia	10	6	sí	small	A l'hora de trobar habitatge o sobretot ser jocs de feina.	La lora de trobar habitatge, o sobretot, ser jox i de feina.	0.2822	0.8764	0.1905	0.7225	lead-rtva-019__44__feina.wav	71000	77600	ASR textual; atribució i audició pendents
+estudis	educació	5	1	sí	small	Més estudis, més estudis, més estudis, més estudis, i també et demanen experiència.	No pot tindre... no sé quants estudis i tindrà quatre anys a experiència si tens 22 anys.	0.2878	0.8345	0.2092	0.6853	lead-rtva-019__45__estudis.wav	140720	144980	ASR textual; atribució i audició pendents
+estudiant	educació	2	2	sí	small	Ens diuen molts joves que fins i tot quan estaven fora estudiant	ens diuen que fins i tot quan estaven fora estudiant	0.3779	0.8368	0.1765	0.6136	lead-rtva-019__46__estudiant.wav	283760	287040	ASR textual; atribució i audició pendents
+universitat	educació	0	0	no											ASR textual; atribució i audició pendents
+participació	institucions	11	6	sí	small	ha tingut una participació activa en la seva confacció,	La participació dels joves, el país sempre ha sigut	0.4317	0.8945	0.4192	0.8341	lead-rtva-019__48__participaci.wav	461120	464800	ASR textual; atribució i audició pendents
+política	institucions	13	9	sí	small	que a mi interessa molt, joves i política.	o no se'n necessarem en compte de qualsevol política,	0.5611	0.8827	0.1006	0.5248	lead-rtva-019__49__pol-tica.wav	952800	955240	ASR textual; atribució i audició pendents
+eleccions	institucions	0	39	no	base		Hi ha molts llocs a les eleccions de la Covid-19.			0.0080	0.4358	lead-rtva-019__50__eleccions.wav	1595400	1598760	ASR textual; atribució i audició pendents
+militància	institucions	1	0	no	small	els costa tenir allò militància jove i responsables		0.1311	0.7552			lead-rtva-019__51__milit-ncia.wav	1092800	1095920	ASR textual; atribució i audició pendents
+institucions	institucions	6	4	sí	small	l'organisme que connecta el col·lectiu amb les institucions	l'organisme que connecta el col·lectiu amb les institucions	0.4913	0.9225	0.5142	0.8560	lead-rtva-019__52__institucions.wav	40960	44560	ASR textual; atribució i audició pendents
+Andorra	toponim	1	1	sí	small	Parlem molt d'economia amb la directora d'Andorra Business.	I parlarem molt d'aconomia amb la directora d'Andorra Business.	0.3609	0.8616	0.3981	0.7967	lead-rtva-019__53__andorra.wav	1761080	1764720	ASR textual; atribució i audició pendents
+andorrà	gentilici	0	0	no											ASR textual; atribució i audició pendents
+andorrans	gentilici	0	0	no											ASR textual; atribució i audició pendents
+joventut andorrana	societat	0	0	no											ASR textual; atribució i audició pendents
+col·lectiu	societat	2	2	sí	small	l'organisme que connecta el col·lectiu amb les institucions	l'organisme que connecta el col·lectiu amb les institucions	0.4913	0.9225	0.5142	0.8560	lead-rtva-019__57__col-lectiu.wav	40960	44560	ASR textual; atribució i audició pendents
+drets	institucions	2	5	sí	small	i que vella d'una manera més precisa pels seus drets.	i que vellet d'una manera més precisa, pel seus drets.	0.3619	0.9006	0.2162	0.7421	lead-rtva-019__58__drets.wav	44680	48280	ASR textual; atribució i audició pendents
+present	temps	1	1	sí	small	dels qui per descomptat són present,	des del punt de vista dels que, per descontats, són present,	0.6071	0.8307	0.3782	0.7891	lead-rtva-019__59__present.wav	33040	35160	ASR textual; atribució i audició pendents
+futur	temps	2	1	sí	small	però també representen el futur.	però també representen el futur.	0.5297	0.8869	0.8696	0.9236	lead-rtva-019__60__futur.wav	35280	37200	ASR textual; atribució i audició pendents
+amic	societat	0	0	no											ASR textual; atribució i audició pendents
+company	societat	0	0	no											ASR textual; atribució i audició pendents
+comunicació	societat	1	1	sí	small	i en aquest sentit tenim una tècnica de comunicació	Hi ha una tècnica de comunicació que fa una fina fantàstica,	0.3373	0.9062	0.1355	0.7434	lead-rtva-019__63__comunicaci.wav	713200	715280	ASR textual; atribució i audició pendents
+xarxes socials	societat	0	0	no											ASR textual; atribució i audició pendents
+català	sociolingüística	0	0	no											ASR textual; atribució i audició pendents
+castellà	contacte	0	0	no											ASR textual; atribució i audició pendents
+espanyol	contacte	0	0	no											ASR textual; atribució i audició pendents
+francès	contacte	0	0	no											ASR textual; atribució i audició pendents
+habitatge assequible	economia	0	0	no											ASR textual; atribució i audició pendents
+desafecció	societat	1	0	no	small	Realment hi ha una desafecció, jo crec, bastant genèrica,		0.3371	0.8444			lead-rtva-019__70__desafecci.wav	1059040	1061280	ASR textual; atribució i audició pendents
+responsable	institucions	0	0	no											ASR textual; atribució i audició pendents
+activa	societat	6	3	sí	small	ha tingut una participació activa en la seva confacció,	tota una participació activa, com ens agradaria,	0.4317	0.8945	0.3343	0.8194	lead-rtva-019__72__activa.wav	461120	464800	ASR textual; atribució i audició pendents
+acollit	societat	1	0	no	small	Tenim una taula permanent que s'ha acollit per l'assemblament		0.0161	0.5535			lead-rtva-019__73__acollit.wav	615840	618960	ASR textual; atribució i audició pendents
+Constitució	institucions	0	0	no											ASR textual; atribució i audició pendents

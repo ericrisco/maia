@@ -1,0 +1,452 @@
+id_persona	forma	clip	occurrence	local_start_s	local_end_s	absolute_start_s	absolute_end_s	prob_min	text	centre_rel_s	f0_hz	f1_hz	f2_hz	f3_hz	estat
+pa-002	bé	clips/pa-002__b__348.25.wav	1	3.800	3.950	352.050	352.200	0.2970	bé	3.875	83.18	360.60	2095.00	2555.60	tokenització small; no és consens de dos models; pendent d'audició
+pa-003	bé	clips/pa-003__b__0.00.wav	1	0.100	0.400	0.100	0.400	0.3207	Bé	0.250		542.30	1570.24	2795.00	tokenització small; no és consens de dos models; pendent d'audició
+pa-004	bé	clips/pa-004__b__319.61.wav	1	1.280	1.540	320.890	321.150	0.9828	bé	1.410	132.22	236.30	1989.86	2971.38	tokenització small; no és consens de dos models; pendent d'audició
+pa-005	bé	clips/pa-005__b__51.09.wav	1	1.520	2.000	52.610	53.090	0.9921	bé	1.760	228.27	422.68	1940.04	2838.07	tokenització small; no és consens de dos models; pendent d'audició
+pa-006	bé	clips/pa-006__b__151.25.wav	1	3.350	3.600	154.600	154.850	0.8041	bé	3.475		934.29	2515.11	3134.60	tokenització small; no és consens de dos models; pendent d'audició
+pa-007	bé	clips/pa-007__b__59.25.wav	1	0.670	0.930	59.920	60.180	0.6477	bé	0.800	141.62	339.44	1366.62	2425.23	tokenització small; no és consens de dos models; pendent d'audició
+pa-008	bé	clips/pa-008__b__61.25.wav	1	1.890	2.020	63.140	63.270	0.4059	bé	1.955	145.28	519.31	1624.25	2634.11	tokenització small; no és consens de dos models; pendent d'audició
+pa-009	bé	clips/pa-009__b__557.25.wav	1	3.060	3.430	560.310	560.680	0.9969	bé	3.245		358.21	1745.11	2534.70	tokenització small; no és consens de dos models; pendent d'audició
+pa-011	bé	clips/pa-011__b__185.57.wav	1	2.920	2.940	188.490	188.510	0.9983	bé	2.930		798.21	1751.95	3114.63	tokenització small; no és consens de dos models; pendent d'audició
+pa-012	bé	clips/pa-012__b__160.25.wav	1	0.200	0.280	160.450	160.530	0.5550	bé	0.240		1439.82	1690.29	2195.05	tokenització small; no és consens de dos models; pendent d'audició
+pa-013	bé	clips/pa-013__b__196.65.wav	1	1.120	1.310	197.770	197.960	0.9863	bé	1.215		545.17	1096.24	1975.63	tokenització small; no és consens de dos models; pendent d'audició
+pa-014	bé	clips/pa-014__b__165.65.wav	1	0.000	0.330	165.650	165.980	0.5972	Bé	0.165		775.31	1744.80	2318.31	tokenització small; no és consens de dos models; pendent d'audició
+pa-015	bé	clips/pa-015__b__42.25.wav	1	1.400	1.790	43.650	44.040	0.5589	Bé	1.595	94.74	535.90	1839.69	2935.35	tokenització small; no és consens de dos models; pendent d'audició
+pa-016	bé	clips/pa-016__b__170.05.wav	1	5.940	6.280	175.990	176.330	0.9990	bé	6.110		767.66	1918.85	2839.31	tokenització small; no és consens de dos models; pendent d'audició
+pa-019	bé	clips/pa-019__b__195.25.wav	1	5.410	5.600	200.660	200.850	0.9932	bé	5.505		828.25	1682.88	2647.25	tokenització small; no és consens de dos models; pendent d'audició
+pa-020	bé	clips/pa-020__b__146.37.wav	1	3.090	3.410	149.460	149.780	0.9976	bé	3.250	79.16	418.16	1749.66	2333.66	tokenització small; no és consens de dos models; pendent d'audició
+pa-026	bé	clips/pa-026__b__99.97.wav	1	0.160	0.400	100.130	100.370	0.9415	bé	0.280		816.27	2305.67	3313.90	tokenització small; no és consens de dos models; pendent d'audició
+pa-028	bé	clips/pa-028__b__182.49.wav	1	3.030	3.120	185.520	185.610	0.9916	bé	3.075	126.72	159.05	1562.72	2871.58	tokenització small; no és consens de dos models; pendent d'audició
+pa-032	bé	clips/pa-032__b__270.41.wav	1	3.120	3.250	273.530	273.660	0.7044	bé	3.185	114.88	459.22	1104.75	2338.95	tokenització small; no és consens de dos models; pendent d'audició
+pa-033	bé	clips/pa-033__b__103.09.wav	1	0.970	1.210	104.060	104.300	0.9744	bé	1.090	95.17	388.99	593.28	2444.60	tokenització small; no és consens de dos models; pendent d'audició
+pa-033	bé	clips/pa-033__b__103.09.wav	2	3.070	3.190	106.160	106.280	0.9997	bé	3.130	163.29	479.05	1742.93	2441.42	tokenització small; no és consens de dos models; pendent d'audició
+pa-034	bé	clips/pa-034__b__18.85.wav	1	1.200	1.430	20.050	20.280	0.8242	bé	1.315	150.28	602.02	2334.34	3157.00	tokenització small; no és consens de dos models; pendent d'audició
+pa-036	bé	clips/pa-036__b__69.45.wav	1	2.510	2.720	71.960	72.170	0.9995	bé	2.615	104.09	429.12	1609.59	2396.21	tokenització small; no és consens de dos models; pendent d'audició
+pa-037	bé	clips/pa-037__b__105.29.wav	1	10.530	11.500	115.820	116.790	0.9336	bé	11.015	204.50	442.44	1872.81	2347.08	tokenització small; no és consens de dos models; pendent d'audició
+pa-037	bé	clips/pa-037__b__105.29.wav	2	13.190	13.860	118.480	119.150	0.4035	bé	13.525	162.80	459.96	1557.15	2743.56	tokenització small; no és consens de dos models; pendent d'audició
+pa-037	bé	clips/pa-037__b__105.29.wav	3	14.960	15.390	120.250	120.680	0.9620	bé	15.175	143.17	444.26	874.47	2824.03	tokenització small; no és consens de dos models; pendent d'audició
+pa-037	bé	clips/pa-037__b__105.29.wav	4	15.890	16.210	121.180	121.500	0.9723	bé	16.050	138.37	333.56	864.40	2545.13	tokenització small; no és consens de dos models; pendent d'audició
+pa-037	bé	clips/pa-037__b__105.29.wav	5	18.490	18.660	123.780	123.950	0.3064	bé	18.575		830.27	1658.31	2528.97	tokenització small; no és consens de dos models; pendent d'audició
+pa-038	bé	clips/pa-038__b__26.77.wav	1	0.810	1.000	27.580	27.770	0.9083	bé	0.905	262.14	313.60	704.26	2394.23	tokenització small; no és consens de dos models; pendent d'audició
+pa-039	bé	clips/pa-039__b__27.77.wav	1	3.220	3.270	30.990	31.040	0.9914	bé	3.245		484.73	1503.18	2358.34	tokenització small; no és consens de dos models; pendent d'audició
+pa-041	bé	clips/pa-041__b__130.25.wav	1	0.000	0.440	130.250	130.690	0.2875	Bé	0.220		746.19	1377.00	2450.98	tokenització small; no és consens de dos models; pendent d'audició
+pa-045	bé	clips/pa-045__b__83.49.wav	1	0.090	0.360	83.580	83.850	0.6354	bé	0.225		623.54	1974.81	3696.55	tokenització small; no és consens de dos models; pendent d'audició
+pa-046	bé	clips/pa-046__b__348.81.wav	1	2.320	2.560	351.130	351.370	0.8391	bé	2.440	98.90	715.74	2597.88	3914.06	tokenització small; no és consens de dos models; pendent d'audició
+pa-048	bé	clips/pa-048__b__495.73.wav	1	0.000	1.190	495.730	496.920	0.6658	Bé	0.595		758.04	1491.46	3269.83	tokenització small; no és consens de dos models; pendent d'audició
+pa-049	bé	clips/pa-049__b__74.21.wav	1	7.000	7.000	81.210	81.210	0.8685	bé	7.000		955.74	1568.01	2431.53	tokenització small; no és consens de dos models; pendent d'audició
+pa-057	bé	clips/pa-057__b__203.57.wav	1	1.690	2.000	205.260	205.570	0.8791	bé	1.845	101.04	429.94	1818.91	2486.75	tokenització small; no és consens de dos models; pendent d'audició
+pa-061	bé	clips/pa-061__b__662.89.wav	1	1.920	2.000	664.810	664.890	0.4650	bé	1.960		1793.75	2475.62	3380.73	tokenització small; no és consens de dos models; pendent d'audició
+pa-063	bé	clips/pa-063__b__105.97.wav	1	0.000	0.330	105.970	106.300	0.5648	Bé	0.165	492.70	494.36	1982.83	2791.93	tokenització small; no és consens de dos models; pendent d'audició
+pa-064	bé	clips/pa-064__b__97.93.wav	1	0.000	0.430	97.930	98.360	0.6509	Bé	0.215	473.85	482.31	1772.30	2819.72	tokenització small; no és consens de dos models; pendent d'audició
+pa-065	bé	clips/pa-065__b__138.57.wav	1	1.470	1.770	140.040	140.340	0.9995	bé	1.620	125.83	440.27	1885.92	2382.21	tokenització small; no és consens de dos models; pendent d'audició
+pa-066	bé	clips/pa-066__b__10.13.wav	1	2.540	3.430	12.670	13.560	0.4289	bé	2.985	113.12	330.95	2282.09	3005.13	tokenització small; no és consens de dos models; pendent d'audició
+pa-001	de fet	clips/pa-001__de-fet__68.49.wav	1	0.800	1.200	69.290	69.690	0.5778	de fet	1.000	79.99	364.57	1501.81	2696.68	tokenització small; no és consens de dos models; pendent d'audició
+pa-002	de fet	clips/pa-002__de-fet__72.25.wav	1	3.030	3.110	75.280	75.360	0.2739	de fet	3.070		959.40	2448.21	3187.05	tokenització small; no és consens de dos models; pendent d'audició
+pa-003	de fet	clips/pa-003__de-fet__0.00.wav	1	1.900	2.620	1.900	2.620	0.6679	de fet	2.260	245.11	502.04	2233.93	2852.92	tokenització small; no és consens de dos models; pendent d'audició
+pa-004	de fet	clips/pa-004__de-fet__601.17.wav	1	2.750	3.000	603.920	604.170	0.6882	de fet	2.875	160.90	332.18	1189.25	2533.59	tokenització small; no és consens de dos models; pendent d'audició
+pa-006	de fet	clips/pa-006__de-fet__285.25.wav	1	1.270	2.070	286.520	287.320	0.8407	de fet	1.670	122.56	363.37	2364.66	2621.87	tokenització small; no és consens de dos models; pendent d'audició
+pa-008	de fet	clips/pa-008__de-fet__799.25.wav	1	2.440	2.690	801.690	801.940	0.7983	de fet	2.565		327.20	1584.62	2808.90	tokenització small; no és consens de dos models; pendent d'audició
+pa-010	de fet	clips/pa-010__de-fet__647.25.wav	1	1.480	1.990	648.730	649.240	0.6151	de fet	1.735		1543.46	2465.09	3706.89	tokenització small; no és consens de dos models; pendent d'audició
+pa-011	de fet	clips/pa-011__de-fet__557.25.wav	1	0.000	0.690	557.250	557.940	0.5130	de fet	0.345		1698.55	2004.88	3277.22	tokenització small; no és consens de dos models; pendent d'audició
+pa-016	de fet	clips/pa-016__de-fet__318.53.wav	1	2.270	2.360	320.800	320.890	0.5592	de fet	2.315	142.38	523.52	1846.52	2483.13	tokenització small; no és consens de dos models; pendent d'audició
+pa-023	de fet	clips/pa-023__de-fet__72.49.wav	1	4.670	4.870	77.160	77.360	0.7118	de fet	4.770		668.23	1887.76	2690.21	tokenització small; no és consens de dos models; pendent d'audició
+pa-024	de fet	clips/pa-024__de-fet__482.25.wav	1	0.040	0.330	482.290	482.580	0.2345	de fet	0.185	154.60	475.52	1582.75	2096.62	tokenització small; no és consens de dos models; pendent d'audició
+pa-025	de fet	clips/pa-025__de-fet__890.85.wav	1	1.590	2.000	892.440	892.850	0.6469	de fet	1.795	110.78	421.40	2301.84	2931.58	tokenització small; no és consens de dos models; pendent d'audició
+pa-027	de fet	clips/pa-027__de-fet__109.45.wav	1	0.540	1.040	109.990	110.490	0.3832	de fet	0.790		730.21	1584.45	2749.03	tokenització small; no és consens de dos models; pendent d'audició
+pa-028	de fet	clips/pa-028__de-fet__31.17.wav	1	4.600	4.870	35.770	36.040	0.7839	de fet	4.735		589.11	1676.27	2417.92	tokenització small; no és consens de dos models; pendent d'audició
+pa-031	de fet	clips/pa-031__de-fet__9.93.wav	1	0.930	1.630	10.860	11.560	0.8205	de fet	1.280	109.94	318.84	1820.82	2487.31	tokenització small; no és consens de dos models; pendent d'audició
+pa-033	de fet	clips/pa-033__de-fet__249.69.wav	1	1.180	1.460	250.870	251.150	0.9628	de fet	1.320	168.84	491.82	1276.30	2504.00	tokenització small; no és consens de dos models; pendent d'audició
+pa-040	de fet	clips/pa-040__de-fet__70.17.wav	1	1.080	1.380	71.250	71.550	0.9576	de fet	1.230	95.61	486.38	1338.61	2631.94	tokenització small; no és consens de dos models; pendent d'audició
+pa-060	de fet	clips/pa-060__de-fet__72.57.wav	1	4.700	4.840	77.270	77.410	0.8385	de fet	4.770	148.05	492.15	1921.29	2401.89	tokenització small; no és consens de dos models; pendent d'audició
+pa-066	de fet	clips/pa-066__de-fet__44.37.wav	1	1.460	1.790	45.830	46.160	0.7471	de fet	1.625	97.51	393.16	1396.52	2616.10	tokenització small; no és consens de dos models; pendent d'audició
+pa-003	és a dir	clips/pa-003__s-a-dir__65.05.wav	1	0.000	0.510	65.050	65.560	0.4942	És a dir	0.255		668.26	2079.50	2973.03	tokenització small; no és consens de dos models; pendent d'audició
+pa-007	és a dir	clips/pa-007__s-a-dir__684.25.wav	1	0.000	1.170	684.250	685.420	0.0916	és a dir	0.585		1133.07	2208.25	3104.55	tokenització small; no és consens de dos models; pendent d'audició
+pa-008	és a dir	clips/pa-008__s-a-dir__1110.25.wav	1	2.300	2.600	1112.550	1112.850	0.4791	És a dir	2.450	127.65	337.67	2217.54	2776.08	tokenització small; no és consens de dos models; pendent d'audició
+pa-010	és a dir	clips/pa-010__s-a-dir__243.25.wav	1	0.000	0.380	243.250	243.630	0.3904	és a dir	0.190	107.84	565.23	1497.58	2238.23	tokenització small; no és consens de dos models; pendent d'audició
+pa-011	és a dir	clips/pa-011__s-a-dir__48.09.wav	1	0.000	0.850	48.090	48.940	0.0626	és a dir	0.425		1165.31	2500.44	3719.53	tokenització small; no és consens de dos models; pendent d'audició
+pa-013	és a dir	clips/pa-013__s-a-dir__579.17.wav	1	1.200	1.540	580.370	580.710	0.6284	És a dir	1.370	181.82	771.33	1797.60	2756.48	tokenització small; no és consens de dos models; pendent d'audició
+pa-016	és a dir	clips/pa-016__s-a-dir__85.97.wav	1	1.000	1.170	86.970	87.140	0.1726	És a dir	1.085	80.16	485.64	1725.72	2796.33	tokenització small; no és consens de dos models; pendent d'audició
+pa-017	és a dir	clips/pa-017__s-a-dir__487.25.wav	1	1.520	1.710	488.770	488.960	0.4956	és a dir	1.615	157.49	374.10	2101.48	3249.60	tokenització small; no és consens de dos models; pendent d'audició
+pa-021	és a dir	clips/pa-021__s-a-dir__32.29.wav	1	1.130	2.120	33.420	34.410	0.3647	És a dir	1.625		1436.94	2556.24	3639.97	tokenització small; no és consens de dos models; pendent d'audició
+pa-022	és a dir	clips/pa-022__s-a-dir__11.49.wav	1	3.800	4.560	15.290	16.050	0.1417	És a dir	4.180	97.75	104.92	1853.69	3076.84	tokenització small; no és consens de dos models; pendent d'audició
+pa-023	és a dir	clips/pa-023__s-a-dir__207.17.wav	1	0.000	0.550	207.170	207.720	0.0165	És a dir	0.275	112.06	700.41	2323.99	3545.92	tokenització small; no és consens de dos models; pendent d'audició
+pa-027	és a dir	clips/pa-027__s-a-dir__185.61.wav	1	1.000	1.770	186.610	187.380	0.6623	és a dir	1.385		842.98	1679.14	2767.57	tokenització small; no és consens de dos models; pendent d'audició
+pa-030	és a dir	clips/pa-030__s-a-dir__193.13.wav	1	1.080	1.470	194.210	194.600	0.3545	És a dir	1.275	125.70	309.11	2231.08	2710.21	tokenització small; no és consens de dos models; pendent d'audició
+pa-033	és a dir	clips/pa-033__s-a-dir__39.29.wav	1	0.000	0.460	39.290	39.750	0.2217	és a dir	0.230	105.91	444.15	947.45	2465.27	tokenització small; no és consens de dos models; pendent d'audició
+pa-033	és a dir	clips/pa-033__s-a-dir__39.29.wav	2	1.550	1.890	40.840	41.180	0.4670	és a dir	1.720		566.94	1680.27	2386.18	tokenització small; no és consens de dos models; pendent d'audició
+pa-034	és a dir	clips/pa-034__s-a-dir__319.09.wav	1	0.800	1.340	319.890	320.430	0.6783	és a dir	1.070	133.69	284.81	1591.85	3131.58	tokenització small; no és consens de dos models; pendent d'audició
+pa-035	és a dir	clips/pa-035__s-a-dir__582.29.wav	1	0.000	0.750	582.290	583.040	0.1928	És a dir	0.375		615.77	1578.96	2842.32	tokenització small; no és consens de dos models; pendent d'audició
+pa-043	és a dir	clips/pa-043__s-a-dir__107.25.wav	1	1.000	1.330	108.250	108.580	0.3177	És a dir	1.165	172.26	409.45	1669.31	2832.71	tokenització small; no és consens de dos models; pendent d'audició
+pa-046	és a dir	clips/pa-046__s-a-dir__135.61.wav	1	2.000	2.320	137.610	137.930	0.8034	és a dir	2.160		623.52	1487.97	3004.25	tokenització small; no és consens de dos models; pendent d'audició
+pa-048	és a dir	clips/pa-048__s-a-dir__1130.61.wav	1	0.000	1.530	1130.610	1132.140	0.0362	és a dir	0.765		1269.95	2272.00	3322.19	tokenització small; no és consens de dos models; pendent d'audició
+pa-058	és a dir	clips/pa-058__s-a-dir__74.41.wav	1	1.090	1.660	75.500	76.070	0.9532	És a dir	1.375	110.89	342.21	2315.24	2691.94	tokenització small; no és consens de dos models; pendent d'audició
+pa-059	és a dir	clips/pa-059__s-a-dir__487.81.wav	1	0.000	0.560	487.810	488.370	0.3117	És a dir	0.280		699.56	1889.81	2962.25	tokenització small; no és consens de dos models; pendent d'audició
+pa-060	és a dir	clips/pa-060__s-a-dir__207.33.wav	1	0.030	0.530	207.360	207.860	0.1095	És a dir	0.280	116.28	571.75	1197.12	2407.81	tokenització small; no és consens de dos models; pendent d'audició
+pa-062	és a dir	clips/pa-062__s-a-dir__973.65.wav	1	1.000	1.770	974.650	975.420	0.7665	és a dir	1.385		658.98	1618.07	2518.15	tokenització small; no és consens de dos models; pendent d'audició
+pa-064	és a dir	clips/pa-064__s-a-dir__258.61.wav	1	0.080	0.670	258.690	259.280	0.0375	És a dir	0.375	128.58	418.11	1558.83	2649.85	tokenització small; no és consens de dos models; pendent d'audició
+pa-065	és a dir	clips/pa-065__s-a-dir__221.29.wav	1	0.000	0.690	221.290	221.980	0.1110	És a dir	0.345		964.46	1768.45	3106.82	tokenització small; no és consens de dos models; pendent d'audició
+pa-006	aleshores	clips/pa-006__aleshores__513.25.wav	1	0.030	0.740	513.280	513.990	0.5916	Aleshores	0.385		1567.02	2587.02	3187.61	tokenització small; no és consens de dos models; pendent d'audició
+pa-008	aleshores	clips/pa-008__aleshores__1315.25.wav	1	1.160	1.630	1316.410	1316.880	0.6411	Aleshores	1.395		802.79	1379.08	2682.19	tokenització small; no és consens de dos models; pendent d'audició
+pa-012	aleshores	clips/pa-012__aleshores__246.25.wav	1	0.340	1.150	246.590	247.400	0.2041	aleshores	0.745		1679.23	2036.34	4081.36	tokenització small; no és consens de dos models; pendent d'audició
+pa-025	aleshores	clips/pa-025__aleshores__361.93.wav	1	0.410	1.640	362.340	363.570	0.7026	aleshores	1.025	106.86	515.64	1304.32	2436.74	tokenització small; no és consens de dos models; pendent d'audició
+pa-030	aleshores	clips/pa-030__aleshores__392.41.wav	1	0.120	1.250	392.530	393.660	0.3657	aleshores	0.685		735.68	1212.57	2488.49	tokenització small; no és consens de dos models; pendent d'audició
+pa-031	aleshores	clips/pa-031__aleshores__54.09.wav	1	0.770	1.230	54.860	55.320	0.4175	aleshores	1.000	98.98	459.96	1462.62	2769.19	tokenització small; no és consens de dos models; pendent d'audició
+pa-032	aleshores	clips/pa-032__aleshores__79.09.wav	1	0.210	2.140	79.300	81.230	0.2226	aleshores	1.175		869.09	1811.44	2531.72	tokenització small; no és consens de dos models; pendent d'audició
+pa-046	aleshores	clips/pa-046__aleshores__527.57.wav	1	2.800	3.290	530.370	530.860	0.5334	aleshores	3.045	121.20	417.97	1793.68	2351.00	tokenització small; no és consens de dos models; pendent d'audició
+pa-049	aleshores	clips/pa-049__aleshores__110.29.wav	1	6.080	6.370	116.370	116.660	0.8959	Aleshores	6.225		1304.39	2532.53	3418.09	tokenització small; no és consens de dos models; pendent d'audició
+pa-056	aleshores	clips/pa-056__aleshores__393.13.wav	1	0.300	1.210	393.430	394.340	0.5797	aleshores	0.755		804.24	2099.02	3162.82	tokenització small; no és consens de dos models; pendent d'audició
+pa-065	aleshores	clips/pa-065__aleshores__170.69.wav	1	0.090	0.940	170.780	171.630	0.4565	aleshores	0.515		905.60	1546.04	2806.85	tokenització small; no és consens de dos models; pendent d'audició
+pa-001	evidentment	clips/pa-001__evidentment__1067.69.wav	1	2.230	2.360	1069.920	1070.050	0.8911	evidentment	2.295	91.79	455.66	1982.25	2714.29	tokenització small; no és consens de dos models; pendent d'audició
+pa-002	evidentment	clips/pa-002__evidentment__205.25.wav	1	0.610	1.580	205.860	206.830	0.9889	evidentment	1.095	80.49	781.83	1072.49	2189.95	tokenització small; no és consens de dos models; pendent d'audició
+pa-003	evidentment	clips/pa-003__evidentment__158.81.wav	1	0.850	1.530	159.660	160.340	0.3957	evidentment	1.190	177.78	529.44	2020.95	3169.99	tokenització small; no és consens de dos models; pendent d'audició
+pa-004	evidentment	clips/pa-004__evidentment__522.93.wav	1	3.920	3.970	526.850	526.900	0.9676	evidentment	3.945	74.80	434.36	2049.83	2923.89	tokenització small; no és consens de dos models; pendent d'audició
+pa-007	evidentment	clips/pa-007__evidentment__778.25.wav	1	4.080	4.880	782.330	783.130	0.9315	evidentment	4.480	141.83	338.46	1620.34	2204.76	tokenització small; no és consens de dos models; pendent d'audició
+pa-009	evidentment	clips/pa-009__evidentment__947.25.wav	1	1.000	1.740	948.250	948.990	0.9520	evidentment	1.370	150.34	457.97	1691.63	2233.40	tokenització small; no és consens de dos models; pendent d'audició
+pa-011	evidentment	clips/pa-011__evidentment__157.65.wav	1	0.000	0.860	157.650	158.510	0.1852	evidentment	0.430		870.30	1532.37	2258.63	tokenització small; no és consens de dos models; pendent d'audició
+pa-014	evidentment	clips/pa-014__evidentment__28.65.wav	1	3.180	3.330	31.830	31.980	0.8709	evidentment	3.255		1082.29	1610.28	2651.07	tokenització small; no és consens de dos models; pendent d'audició
+pa-016	evidentment	clips/pa-016__evidentment__456.85.wav	1	0.220	1.050	457.070	457.900	0.7723	evidentment	0.635		797.79	1956.70	3187.13	tokenització small; no és consens de dos models; pendent d'audició
+pa-017	evidentment	clips/pa-017__evidentment__152.25.wav	1	0.000	2.050	152.250	154.300	0.1209	Evidentment	1.025	176.62	409.23	2053.50	2879.50	tokenització small; no és consens de dos models; pendent d'audició
+pa-019	evidentment	clips/pa-019__evidentment__93.25.wav	1	2.080	2.940	95.330	96.190	0.7612	evidentment	2.510	81.01	555.88	1922.19	2161.21	tokenització small; no és consens de dos models; pendent d'audició
+pa-021	evidentment	clips/pa-021__evidentment__211.41.wav	1	0.510	1.640	211.920	213.050	0.4338	evidentment	1.075		1303.60	2312.36	2671.52	tokenització small; no és consens de dos models; pendent d'audició
+pa-022	evidentment	clips/pa-022__evidentment__303.01.wav	1	0.000	1.230	303.010	304.240	0.2581	Evidentment	0.615		451.23	1467.68	2632.83	tokenització small; no és consens de dos models; pendent d'audició
+pa-024	evidentment	clips/pa-024__evidentment__518.89.wav	1	3.450	3.750	522.340	522.640	0.6014	evidentment	3.600	84.60	339.08	1432.84	2582.69	tokenització small; no és consens de dos models; pendent d'audició
+pa-025	evidentment	clips/pa-025__evidentment__1156.61.wav	1	0.800	1.360	1157.410	1157.970	0.7289	evidentment	1.080	99.38	437.84	2170.37	3156.60	tokenització small; no és consens de dos models; pendent d'audició
+pa-027	evidentment	clips/pa-027__evidentment__174.09.wav	1	1.220	1.830	175.310	175.920	0.8805	evidentment	1.525	479.42	548.88	1391.91	2484.70	tokenització small; no és consens de dos models; pendent d'audició
+pa-030	evidentment	clips/pa-030__evidentment__43.53.wav	1	1.320	2.040	44.850	45.570	0.8964	evidentment	1.680	116.62	616.51	1717.09	1932.86	tokenització small; no és consens de dos models; pendent d'audició
+pa-036	evidentment	clips/pa-036__evidentment__202.85.wav	1	5.100	5.570	207.950	208.420	0.9393	evidentment	5.335	96.02	372.78	1773.38	2587.48	tokenització small; no és consens de dos models; pendent d'audició
+pa-039	evidentment	clips/pa-039__evidentment__184.17.wav	1	0.000	0.910	184.170	185.080	0.2293	Evidentment	0.455		806.93	2324.14	3116.27	tokenització small; no és consens de dos models; pendent d'audició
+pa-040	evidentment	clips/pa-040__evidentment__103.93.wav	1	1.880	2.190	105.810	106.120	0.8726	Evidentment	2.035	66.57	607.26	1633.82	2334.69	tokenització small; no és consens de dos models; pendent d'audició
+pa-041	evidentment	clips/pa-041__evidentment__353.25.wav	1	4.070	4.500	357.320	357.750	0.5787	evidentment	4.285		821.55	1826.68	3013.44	tokenització small; no és consens de dos models; pendent d'audició
+pa-045	evidentment	clips/pa-045__evidentment__290.13.wav	1	1.190	1.960	291.320	292.090	0.9812	evidentment	1.575	73.00	539.26	1404.56	2075.75	tokenització small; no és consens de dos models; pendent d'audició
+pa-049	evidentment	clips/pa-049__evidentment__117.17.wav	1	7.210	7.990	124.380	125.160	0.7421	evidentment	7.600	173.76	356.36	2089.81	2485.58	tokenització small; no és consens de dos models; pendent d'audició
+pa-055	evidentment	clips/pa-055__evidentment__1644.01.wav	1	4.940	5.150	1648.950	1649.160	0.4660	evidentment	5.045		1378.25	2777.08	3622.11	tokenització small; no és consens de dos models; pendent d'audició
+pa-056	evidentment	clips/pa-056__evidentment__43.45.wav	1	1.310	1.980	44.760	45.430	0.8623	evidentment	1.645	114.24	280.60	1375.31	2222.02	tokenització small; no és consens de dos models; pendent d'audició
+pa-059	evidentment	clips/pa-059__evidentment__152.13.wav	1	0.000	1.420	152.130	153.550	0.0478	Evidentment	0.710		910.76	2081.50	3216.03	tokenització small; no és consens de dos models; pendent d'audició
+pa-061	evidentment	clips/pa-061__evidentment__672.69.wav	1	2.040	2.670	674.730	675.360	0.9005	evidentment	2.355	96.80	401.74	1924.77	2365.01	tokenització small; no és consens de dos models; pendent d'audició
+pa-066	evidentment	clips/pa-066__evidentment__89.75.wav	1	0.000	1.380	89.750	91.130	0.0340	evidentment	0.690	79.19	575.32	1385.10	2493.70	tokenització small; no és consens de dos models; pendent d'audició
+pa-006	diguem	clips/pa-006__diguem__530.25.wav	1	4.720	4.990	534.970	535.240	0.4405	diguem	4.855	99.41	281.16	2330.99	2827.29	tokenització small; no és consens de dos models; pendent d'audició
+pa-007	diguem	clips/pa-007__diguem__585.25.wav	1	1.210	1.420	586.460	586.670	0.7294	diguem	1.315	302.11	327.47	1983.25	2640.08	tokenització small; no és consens de dos models; pendent d'audició
+pa-018	diguem	clips/pa-018__diguem__715.49.wav	1	2.430	2.720	717.920	718.210	0.4794	diguem	2.575	139.52	376.01	1839.23	2573.60	tokenització small; no és consens de dos models; pendent d'audició
+pa-020	diguem	clips/pa-020__diguem__1459.77.wav	1	0.120	0.520	1459.890	1460.290	0.1053	Diguem	0.320	100.73	281.44	1239.91	2972.84	tokenització small; no és consens de dos models; pendent d'audició
+pa-025	diguem	clips/pa-025__diguem__500.89.wav	1	3.030	3.470	503.920	504.360	0.6352	diguem	3.250	113.43	343.93	2243.20	2339.35	tokenització small; no és consens de dos models; pendent d'audició
+pa-027	diguem	clips/pa-027__diguem__57.77.wav	1	1.070	1.490	58.840	59.260	0.3965	diguem	1.280	143.31	311.09	2443.74	3725.40	tokenització small; no és consens de dos models; pendent d'audició
+pa-033	diguem	clips/pa-033__diguem__49.01.wav	1	5.130	5.530	54.140	54.540	0.7151	diguem	5.330		2555.08	3137.06	3452.11	tokenització small; no és consens de dos models; pendent d'audició
+pa-034	diguem	clips/pa-034__diguem__504.45.wav	1	2.160	2.360	506.610	506.810	0.7193	diguem	2.260	122.97	247.51	1548.90	2800.31	tokenització small; no és consens de dos models; pendent d'audició
+pa-046	diguem	clips/pa-046__diguem__626.01.wav	1	2.250	2.490	628.260	628.500	0.6911	diguem	2.370	121.23	485.41	1411.43	2465.02	tokenització small; no és consens de dos models; pendent d'audició
+pa-049	diguem	clips/pa-049__diguem__213.13.wav	1	5.960	6.240	219.090	219.370	0.6594	Diguem	6.100		1032.70	1849.60	3136.34	tokenització small; no és consens de dos models; pendent d'audició
+pa-058	diguem	clips/pa-058__diguem__715.21.wav	1	2.720	2.910	717.930	718.120	0.7829	diguem	2.815	137.13	364.46	2166.95	3282.88	tokenització small; no és consens de dos models; pendent d'audició
+pa-062	diguem	clips/pa-062__diguem__191.37.wav	1	3.720	4.080	195.090	195.450	0.6091	diguem	3.900	73.82	385.90	1174.85	2585.03	tokenització small; no és consens de dos models; pendent d'audició
+pa-001	crec	clips/pa-001__crec__97.33.wav	1	0.070	0.340	97.400	97.670	0.0886	crec	0.205	98.22	476.44	1879.31	2944.89	tokenització small; no és consens de dos models; pendent d'audició
+pa-002	crec	clips/pa-002__crec__248.25.wav	1	0.310	0.480	248.560	248.730	0.9653	crec	0.395		738.87	2070.89	3316.52	tokenització small; no és consens de dos models; pendent d'audició
+pa-003	crec	clips/pa-003__crec__0.00.wav	1	1.390	1.490	1.390	1.490	0.9968	crec	1.440	203.85	483.09	2739.86	3491.71	tokenització small; no és consens de dos models; pendent d'audició
+pa-010	crec	clips/pa-010__crec__1033.25.wav	1	0.390	0.760	1033.640	1034.010	0.8283	crec	0.575	96.12	301.65	931.41	3176.72	tokenització small; no és consens de dos models; pendent d'audició
+pa-014	crec	clips/pa-014__crec__153.25.wav	1	0.310	0.720	153.560	153.970	0.9940	crec	0.515		1334.01	2031.63	3393.21	tokenització small; no és consens de dos models; pendent d'audició
+pa-016	crec	clips/pa-016__crec__93.17.wav	1	5.960	6.240	99.130	99.410	0.2252	Crec	6.100		1231.85	2052.59	3040.50	tokenització small; no és consens de dos models; pendent d'audició
+pa-018	crec	clips/pa-018__crec__7.49.wav	1	1.060	1.450	8.550	8.940	0.9969	crec	1.255	132.11	280.86	1944.35	2432.62	tokenització small; no és consens de dos models; pendent d'audició
+pa-019	crec	clips/pa-019__crec__27.25.wav	1	1.270	1.570	28.520	28.820	0.9925	crec	1.420	71.90	592.68	1227.67	2307.88	tokenització small; no és consens de dos models; pendent d'audició
+pa-021	crec	clips/pa-021__crec__115.53.wav	1	0.800	1.060	116.330	116.590	0.9550	crec	0.930	124.35	527.62	2056.23	3683.17	tokenització small; no és consens de dos models; pendent d'audició
+pa-022	crec	clips/pa-022__crec__243.73.wav	1	0.210	0.360	243.940	244.090	0.9941	crec	0.285		1615.47	2579.88	4077.49	tokenització small; no és consens de dos models; pendent d'audició
+pa-024	crec	clips/pa-024__crec__368.01.wav	1	2.710	2.740	370.720	370.750	0.9944	crec	2.725		713.59	1973.17	2469.58	tokenització small; no és consens de dos models; pendent d'audició
+pa-025	crec	clips/pa-025__crec__4.25.wav	1	0.800	0.900	5.050	5.150	0.9899	crec	0.850	139.87	296.47	1764.92	2829.07	tokenització small; no és consens de dos models; pendent d'audició
+pa-027	crec	clips/pa-027__crec__8.81.wav	1	1.900	2.020	10.710	10.830	0.9514	crec	1.960		792.65	2476.69	3689.17	tokenització small; no és consens de dos models; pendent d'audició
+pa-030	crec	clips/pa-030__crec__346.45.wav	1	1.730	2.060	348.180	348.510	0.9742	crec	1.895		1060.38	2250.43	3446.05	tokenització small; no és consens de dos models; pendent d'audició
+pa-031	crec	clips/pa-031__crec__87.01.wav	1	2.720	3.570	89.730	90.580	0.9956	crec	3.145		1238.68	1994.62	3171.76	tokenització small; no és consens de dos models; pendent d'audició
+pa-034	crec	clips/pa-034__crec__651.65.wav	1	2.540	2.640	654.190	654.290	0.6687	crec	2.590	179.16	513.58	2068.09	2931.69	tokenització small; no és consens de dos models; pendent d'audició
+pa-035	crec	clips/pa-035__crec__872.77.wav	1	0.660	0.730	873.430	873.500	0.9666	crec	0.695	174.25	221.86	1231.96	2633.52	tokenització small; no és consens de dos models; pendent d'audició
+pa-037	crec	clips/pa-037__crec__424.61.wav	1	11.520	11.760	436.130	436.370	0.3842	crec	11.640	101.33	755.61	2042.83	3017.81	tokenització small; no és consens de dos models; pendent d'audició
+pa-038	crec	clips/pa-038__crec__220.69.wav	1	1.010	1.590	221.700	222.280	0.9981	crec	1.300	197.49	613.07	2476.79	3117.34	tokenització small; no és consens de dos models; pendent d'audició
+pa-039	crec	clips/pa-039__crec__90.85.wav	1	1.640	1.950	92.490	92.800	0.9907	crec	1.795	134.84	354.92	1576.19	2547.10	tokenització small; no és consens de dos models; pendent d'audició
+pa-040	crec	clips/pa-040__crec__4.37.wav	1	0.180	0.530	4.550	4.900	0.9886	crec	0.355		1069.80	2117.13	3343.08	tokenització small; no és consens de dos models; pendent d'audició
+pa-041	crec	clips/pa-041__crec__56.25.wav	1	1.310	1.810	57.560	58.060	0.9905	crec	1.560	189.25	770.52	1433.03	2592.38	tokenització small; no és consens de dos models; pendent d'audició
+pa-043	crec	clips/pa-043__crec__102.25.wav	1	5.100	5.190	107.350	107.440	0.9942	crec	5.145	113.88	756.89	1764.73	2507.09	tokenització small; no és consens de dos models; pendent d'audició
+pa-048	crec	clips/pa-048__crec__110.97.wav	1	2.580	3.120	113.550	114.090	0.9866	crec	2.850	174.16	498.93	1479.69	2856.93	tokenització small; no és consens de dos models; pendent d'audició
+pa-049	crec	clips/pa-049__crec__371.85.wav	1	3.020	3.380	374.870	375.230	0.9717	crec	3.200	132.10	344.98	2109.70	3272.87	tokenització small; no és consens de dos models; pendent d'audició
+pa-051	crec	clips/pa-051__crec__208.57.wav	1	0.140	0.420	208.710	208.990	0.9924	crec	0.280	109.97	498.20	1680.84	2647.95	tokenització small; no és consens de dos models; pendent d'audició
+pa-056	crec	clips/pa-056__crec__347.05.wav	1	1.270	1.780	348.320	348.830	0.9856	crec	1.525		577.22	1608.82	2535.89	tokenització small; no és consens de dos models; pendent d'audició
+pa-060	crec	clips/pa-060__crec__42.05.wav	1	6.130	6.320	48.180	48.370	0.6236	crec	6.225	151.81	523.18	1182.39	2284.08	tokenització small; no és consens de dos models; pendent d'audició
+pa-061	crec	clips/pa-061__crec__428.85.wav	1	1.940	2.000	430.790	430.850	0.9809	crec	1.970	151.30	699.65	1719.22	2464.46	tokenització small; no és consens de dos models; pendent d'audició
+pa-062	crec	clips/pa-062__crec__1037.89.wav	1	1.040	1.290	1038.930	1039.180	0.9952	crec	1.165		643.61	1391.02	3033.20	tokenització small; no és consens de dos models; pendent d'audició
+pa-063	crec	clips/pa-063__crec__758.81.wav	1	2.740	3.000	761.550	761.810	0.9939	crec	2.870		559.72	1633.81	2732.64	tokenització small; no és consens de dos models; pendent d'audició
+pa-064	crec	clips/pa-064__crec__1335.77.wav	1	2.300	2.670	1338.070	1338.440	0.9844	crec	2.485		732.28	2105.36	3105.72	tokenització small; no és consens de dos models; pendent d'audició
+pa-065	crec	clips/pa-065__crec__1276.85.wav	1	0.830	0.940	1277.680	1277.790	0.6866	crec	0.885	186.15	468.95	1444.69	2520.31	tokenització small; no és consens de dos models; pendent d'audició
+pa-066	crec	clips/pa-066__crec__219.63.wav	1	4.560	5.020	224.190	224.650	0.4971	crec	4.790	103.02	552.78	1375.75	2495.31	tokenització small; no és consens de dos models; pendent d'audició
+pa-003	bueno	clips/pa-003__bueno__227.05.wav	1	4.370	4.580	231.420	231.630	0.0756	Bueno	4.475	151.19	357.94	2112.49	3460.57	tokenització small; no és consens de dos models; pendent d'audició
+pa-019	bueno	clips/pa-019__bueno__328.25.wav	1	0.320	0.600	328.570	328.850	0.1975	bueno	0.460		828.56	1695.17	3099.12	tokenització small; no és consens de dos models; pendent d'audició
+pa-021	bueno	clips/pa-021__bueno__12.25.wav	1	1.950	2.400	14.200	14.650	0.6500	bueno	2.175	134.51	607.48	1099.97	2789.96	tokenització small; no és consens de dos models; pendent d'audició
+pa-023	bueno	clips/pa-023__bueno__96.81.wav	1	0.000	0.370	96.810	97.180	0.2301	bueno	0.185		998.61	2343.77	2850.31	tokenització small; no és consens de dos models; pendent d'audició
+pa-030	bueno	clips/pa-030__bueno__459.05.wav	1	1.100	1.380	460.150	460.430	0.2181	bueno	1.240		758.75	1784.94	2489.82	tokenització small; no és consens de dos models; pendent d'audició
+pa-032	bueno	clips/pa-032__bueno__44.73.wav	1	0.270	0.730	45.000	45.460	0.8330	bueno	0.500		761.40	1934.99	2786.85	tokenització small; no és consens de dos models; pendent d'audició
+pa-037	bueno	clips/pa-037__bueno__105.29.wav	1	6.650	6.950	111.940	112.240	0.6636	bueno	6.800		755.32	1614.23	2587.05	tokenització small; no és consens de dos models; pendent d'audició
+pa-038	bueno	clips/pa-038__bueno__874.61.wav	1	0.110	0.660	874.720	875.270	0.5072	Bueno	0.385	279.20	675.88	1390.84	1987.27	tokenització small; no és consens de dos models; pendent d'audició
+pa-041	bueno	clips/pa-041__bueno__165.25.wav	1	1.320	2.420	166.570	167.670	0.2602	bueno	1.870		418.49	1323.55	2497.87	tokenització small; no és consens de dos models; pendent d'audició
+pa-043	bueno	clips/pa-043__bueno__0.00.wav	1	0.110	0.270	0.110	0.270	0.2337	Bueno	0.190		796.41	1634.00	2895.33	tokenització small; no és consens de dos models; pendent d'audició
+pa-049	bueno	clips/pa-049__bueno__269.05.wav	1	5.560	5.790	274.610	274.840	0.8754	Bueno	5.675	166.81	1035.86	2330.10	3429.25	tokenització small; no és consens de dos models; pendent d'audició
+pa-052	bueno	clips/pa-052__bueno__41.97.wav	1	1.710	2.230	43.680	44.200	0.7880	bueno	1.970	205.62	641.05	1755.08	2933.12	tokenització small; no és consens de dos models; pendent d'audició
+pa-054	bueno	clips/pa-054__bueno__51.69.wav	1	0.790	0.920	52.480	52.610	0.8263	bueno	0.855	169.47	357.05	2260.92	3340.06	tokenització small; no és consens de dos models; pendent d'audició
+pa-059	bueno	clips/pa-059__bueno__166.17.wav	1	0.330	0.430	166.500	166.600	0.0580	Bueno	0.380		1025.86	1874.48	3165.56	tokenització small; no és consens de dos models; pendent d'audició
+pa-061	bueno	clips/pa-061__bueno__171.05.wav	1	0.000	0.260	171.050	171.310	0.1212	Bueno	0.130	108.31	683.07	1618.03	3053.80	tokenització small; no és consens de dos models; pendent d'audició
+pa-061	bueno	clips/pa-061__bueno__171.05.wav	2	1.240	1.590	172.290	172.640	0.5101	Bueno	1.415		1024.45	1660.59	2556.52	tokenització small; no és consens de dos models; pendent d'audició
+pa-062	bueno	clips/pa-062__bueno__297.17.wav	1	1.560	1.910	298.730	299.080	0.6062	Bueno	1.735	140.55	351.39	1285.77	2603.11	tokenització small; no és consens de dos models; pendent d'audició
+pa-065	bueno	clips/pa-065__bueno__1389.05.wav	1	1.080	1.420	1390.130	1390.470	0.4485	Bueno	1.250	130.71	757.71	1850.79	2617.91	tokenització small; no és consens de dos models; pendent d'audició
+pa-066	bueno	clips/pa-066__bueno__357.23.wav	1	1.470	2.070	358.700	359.300	0.8366	bueno	1.770	97.13	368.86	597.75	2204.49	tokenització small; no és consens de dos models; pendent d'audició
+pa-002	clar	clips/pa-002__clar__186.25.wav	1	1.050	1.650	187.300	187.900	0.3371	clar	1.350	85.43	426.22	948.57	2523.99	tokenització small; no és consens de dos models; pendent d'audició
+pa-003	clar	clips/pa-003__clar__451.89.wav	1	2.770	3.340	454.660	455.230	0.9938	clar	3.055		567.50	1894.53	3137.06	tokenització small; no és consens de dos models; pendent d'audició
+pa-006	clar	clips/pa-006__clar__379.25.wav	1	3.450	3.810	382.700	383.060	0.3707	clar	3.630	111.09	446.72	1035.24	2655.60	tokenització small; no és consens de dos models; pendent d'audició
+pa-007	clar	clips/pa-007__clar__344.25.wav	1	0.260	0.610	344.510	344.860	0.4951	clar	0.435		1673.80	1930.57	3170.37	tokenització small; no és consens de dos models; pendent d'audició
+pa-008	clar	clips/pa-008__clar__841.25.wav	1	0.160	0.470	841.410	841.720	0.3522	Clar	0.315		1485.68	2760.42	2832.41	tokenització small; no és consens de dos models; pendent d'audició
+pa-009	clar	clips/pa-009__clar__99.25.wav	1	3.230	3.520	102.480	102.770	0.9195	clar	3.375		1076.84	1736.28	2729.34	tokenització small; no és consens de dos models; pendent d'audició
+pa-010	clar	clips/pa-010__clar__334.85.wav	1	3.280	3.500	338.130	338.350	0.9866	clar	3.390		499.53	1825.84	3431.68	tokenització small; no és consens de dos models; pendent d'audició
+pa-014	clar	clips/pa-014__clar__978.45.wav	1	1.660	1.820	980.110	980.270	0.2909	clar	1.740	103.75	502.81	875.33	1856.69	tokenització small; no és consens de dos models; pendent d'audició
+pa-016	clar	clips/pa-016__clar__175.69.wav	1	1.640	1.990	177.330	177.680	0.9439	clar	1.815	170.89	484.94	1190.58	2462.03	tokenització small; no és consens de dos models; pendent d'audició
+pa-017	clar	clips/pa-017__clar__34.45.wav	1	3.900	4.130	38.350	38.580	0.9757	clar	4.015		877.05	1934.95	3178.95	tokenització small; no és consens de dos models; pendent d'audició
+pa-019	clar	clips/pa-019__clar__415.25.wav	1	1.150	1.290	416.400	416.540	0.8680	clar	1.220		921.26	1759.75	2944.08	tokenització small; no és consens de dos models; pendent d'audició
+pa-020	clar	clips/pa-020__clar__89.81.wav	1	3.480	3.620	93.290	93.430	0.5345	clar	3.550	136.79	518.68	1068.51	2203.93	tokenització small; no és consens de dos models; pendent d'audició
+pa-022	clar	clips/pa-022__clar__107.73.wav	1	1.380	1.580	109.110	109.310	0.9951	clar	1.480	125.72	657.85	1267.06	2548.47	tokenització small; no és consens de dos models; pendent d'audició
+pa-024	clar	clips/pa-024__clar__648.09.wav	1	2.440	3.050	650.530	651.140	0.7141	clar	2.745		578.20	1635.90	2634.11	tokenització small; no és consens de dos models; pendent d'audició
+pa-025	clar	clips/pa-025__clar__116.09.wav	1	1.530	1.830	117.620	117.920	0.6852	clar	1.680	116.60	605.99	1950.57	2760.06	tokenització small; no és consens de dos models; pendent d'audició
+pa-027	clar	clips/pa-027__clar__35.13.wav	1	1.310	1.650	36.440	36.780	0.5283	clar	1.480	124.90	336.99	804.99	2318.31	tokenització small; no és consens de dos models; pendent d'audició
+pa-028	clar	clips/pa-028__clar__290.33.wav	1	1.490	1.620	291.820	291.950	0.6888	clar	1.555	108.26	977.42	2103.77	2891.50	tokenització small; no és consens de dos models; pendent d'audició
+pa-031	clar	clips/pa-031__clar__154.57.wav	1	2.000	2.000	156.570	156.570	0.4557	clar	2.000	115.78	428.31	994.29	2103.35	tokenització small; no és consens de dos models; pendent d'audició
+pa-032	clar	clips/pa-032__clar__155.33.wav	1	2.070	2.760	157.400	158.090	0.5817	clar	2.415		361.05	1984.76	2550.85	tokenització small; no és consens de dos models; pendent d'audició
+pa-033	clar	clips/pa-033__clar__54.49.wav	1	2.000	2.340	56.490	56.830	0.4406	clar	2.170	98.66	475.33	1000.61	2464.78	tokenització small; no és consens de dos models; pendent d'audició
+pa-036	clar	clips/pa-036__clar__136.45.wav	1	5.090	5.270	141.540	141.720	0.8695	clar	5.180	99.67	605.74	1078.98	2588.69	tokenització small; no és consens de dos models; pendent d'audició
+pa-037	clar	clips/pa-037__clar__186.29.wav	1	1.310	1.840	187.600	188.130	0.3643	clar	1.575	105.66	342.89	1639.75	2671.82	tokenització small; no és consens de dos models; pendent d'audició
+pa-038	clar	clips/pa-038__clar__96.41.wav	1	3.450	3.810	99.860	100.220	0.6020	clar	3.630		574.27	1927.45	3093.49	tokenització small; no és consens de dos models; pendent d'audició
+pa-041	clar	clips/pa-041__clar__0.00.wav	1	3.880	4.480	3.880	4.480	0.3376	clar	4.180	136.06	378.65	1800.74	2486.97	tokenització small; no és consens de dos models; pendent d'audició
+pa-045	clar	clips/pa-045__clar__399.85.wav	1	3.680	4.020	403.530	403.870	0.9012	clar	3.850		579.70	1314.42	2642.67	tokenització small; no és consens de dos models; pendent d'audició
+pa-045	clar	clips/pa-045__clar__399.85.wav	2	5.020	5.200	404.870	405.050	0.9997	clar	5.110		518.06	1312.80	2463.93	tokenització small; no és consens de dos models; pendent d'audició
+pa-049	clar	clips/pa-049__clar__382.01.wav	1	1.080	1.330	383.090	383.340	0.6076	Clar	1.205	207.40	607.86	1644.83	2662.67	tokenització small; no és consens de dos models; pendent d'audició
+pa-052	clar	clips/pa-052__clar__59.97.wav	1	2.370	2.530	62.340	62.500	0.4297	clar	2.450	189.96	714.50	1370.64	2815.71	tokenització small; no és consens de dos models; pendent d'audició
+pa-056	clar	clips/pa-056__clar__62.45.wav	1	1.270	1.740	63.720	64.190	0.9842	clar	1.505	219.88	456.51	1260.10	2022.72	tokenització small; no és consens de dos models; pendent d'audició
+pa-059	clar	clips/pa-059__clar__36.61.wav	1	1.850	2.050	38.460	38.660	0.9810	clar	1.950		681.47	2162.30	2995.95	tokenització small; no és consens de dos models; pendent d'audició
+pa-063	clar	clips/pa-063__clar__392.49.wav	1	0.360	0.630	392.850	393.120	0.6773	clar	0.495	138.49	654.88	2014.55	2384.39	tokenització small; no és consens de dos models; pendent d'audició
+pa-064	clar	clips/pa-064__clar__109.97.wav	1	0.370	1.870	110.340	111.840	0.0737	clar	1.120		1172.10	2565.91	3675.30	tokenització small; no és consens de dos models; pendent d'audició
+pa-065	clar	clips/pa-065__clar__221.29.wav	1	1.590	2.000	222.880	223.290	0.9627	clar	1.795		1133.99	1569.61	2495.53	tokenització small; no és consens de dos models; pendent d'audició
+pa-004	vull dir	clips/pa-004__vull-dir__143.45.wav	1	1.710	2.230	145.160	145.680	0.5771	vull dir	1.970	149.75	306.20	1586.63	2953.89	tokenització small; no és consens de dos models; pendent d'audició
+pa-014	vull dir	clips/pa-014__vull-dir__19.65.wav	1	4.160	4.610	23.810	24.260	0.7609	vull dir	4.385	131.55	259.83	1617.50	2353.06	tokenització small; no és consens de dos models; pendent d'audició
+pa-016	vull dir	clips/pa-016__vull-dir__322.53.wav	1	2.990	3.120	325.520	325.650	0.4016	vull dir	3.055	142.08	445.28	2244.61	2620.75	tokenització small; no és consens de dos models; pendent d'audició
+pa-017	vull dir	clips/pa-017__vull-dir__272.25.wav	1	0.000	0.750	272.250	273.000	0.6073	Vull dir	0.375	149.50	331.18	1820.17	2635.01	tokenització small; no és consens de dos models; pendent d'audició
+pa-021	vull dir	clips/pa-021__vull-dir__314.29.wav	1	3.710	4.840	318.000	319.130	0.7440	vull dir	4.275	134.88	453.62	902.78	3100.86	tokenització small; no és consens de dos models; pendent d'audició
+pa-022	vull dir	clips/pa-022__vull-dir__308.17.wav	1	0.990	2.000	309.160	310.170	0.0749	vull dir	1.495	203.71	229.43	1424.61	2337.82	tokenització small; no és consens de dos models; pendent d'audició
+pa-023	vull dir	clips/pa-023__vull-dir__22.05.wav	1	0.000	0.460	22.050	22.510	0.1096	Vull dir	0.230	118.36	495.60	2199.35	2730.33	tokenització small; no és consens de dos models; pendent d'audició
+pa-026	vull dir	clips/pa-026__vull-dir__311.77.wav	1	2.000	2.070	313.770	313.840	0.5121	vull dir	2.035	91.24	442.73	2229.24	3548.51	tokenització small; no és consens de dos models; pendent d'audició
+pa-030	vull dir	clips/pa-030__vull-dir__842.69.wav	1	0.680	1.660	843.370	844.350	0.9049	vull dir	1.170		793.66	1681.36	2628.64	tokenització small; no és consens de dos models; pendent d'audició
+pa-032	vull dir	clips/pa-032__vull-dir__389.29.wav	1	1.510	1.880	390.800	391.170	0.1701	vull dir	1.695	115.76	262.04	1426.88	2456.48	tokenització small; no és consens de dos models; pendent d'audició
+pa-033	vull dir	clips/pa-033__vull-dir__56.25.wav	1	0.610	0.890	56.860	57.140	0.8126	vull dir	0.750		726.37	1226.06	2100.01	tokenització small; no és consens de dos models; pendent d'audició
+pa-036	vull dir	clips/pa-036__vull-dir__632.25.wav	1	0.000	0.550	632.250	632.800	0.0457	Vull dir	0.275	137.18	400.28	1574.04	2518.38	tokenització small; no és consens de dos models; pendent d'audició
+pa-037	vull dir	clips/pa-037__vull-dir__414.01.wav	1	0.000	0.690	414.010	414.700	0.2914	Vull dir	0.345		876.48	1783.51	2868.56	tokenització small; no és consens de dos models; pendent d'audició
+pa-038	vull dir	clips/pa-038__vull-dir__1576.57.wav	1	4.180	4.640	1580.750	1581.210	0.9837	vull dir	4.410	178.78	434.84	1598.88	2343.74	tokenització small; no és consens de dos models; pendent d'audició
+pa-041	vull dir	clips/pa-041__vull-dir__264.25.wav	1	1.210	2.000	265.460	266.250	0.9947	vull dir	1.605		320.02	1654.50	2599.84	tokenització small; no és consens de dos models; pendent d'audició
+pa-048	vull dir	clips/pa-048__vull-dir__993.69.wav	1	0.000	0.730	993.690	994.420	0.0263	Vull dir	0.365	135.50	674.93	1136.90	3060.93	tokenització small; no és consens de dos models; pendent d'audició
+pa-048	vull dir	clips/pa-048__vull-dir__993.69.wav	2	3.150	4.160	996.840	997.850	0.4736	vull dir	3.655	192.64	198.64	1096.07	2783.42	tokenització small; no és consens de dos models; pendent d'audició
+pa-049	vull dir	clips/pa-049__vull-dir__208.09.wav	1	5.360	5.660	213.450	213.750	0.3766	vull dir	5.510	103.38	413.69	1364.39	2170.71	tokenització small; no és consens de dos models; pendent d'audició
+pa-055	vull dir	clips/pa-055__vull-dir__311.73.wav	1	2.010	2.080	313.740	313.810	0.4485	vull dir	2.045	90.30	505.52	2440.47	3562.40	tokenització small; no és consens de dos models; pendent d'audició
+pa-056	vull dir	clips/pa-056__vull-dir__842.65.wav	1	0.650	1.560	843.300	844.210	0.9342	vull dir	1.105		863.56	1727.02	2602.99	tokenització small; no és consens de dos models; pendent d'audició
+pa-058	vull dir	clips/pa-058__vull-dir__975.13.wav	1	2.240	2.800	977.370	977.930	0.7520	vull dir	2.520	135.48	425.18	1573.67	2628.97	tokenització small; no és consens de dos models; pendent d'audició
+pa-059	vull dir	clips/pa-059__vull-dir__271.81.wav	1	0.000	0.910	271.810	272.720	0.6171	Vull dir	0.455		776.35	2077.81	3061.87	tokenització small; no és consens de dos models; pendent d'audició
+pa-060	vull dir	clips/pa-060__vull-dir__20.65.wav	1	2.000	2.330	22.650	22.980	0.6268	vull dir	2.165	128.24	314.48	1933.89	2648.24	tokenització small; no és consens de dos models; pendent d'audició
+pa-061	vull dir	clips/pa-061__vull-dir__193.57.wav	1	1.990	2.800	195.560	196.370	0.3112	vull dir	2.395		532.77	1602.54	2688.49	tokenització small; no és consens de dos models; pendent d'audició
+pa-063	vull dir	clips/pa-063__vull-dir__822.45.wav	1	0.000	1.540	822.450	823.990	0.0089	Vull dir	0.770	177.48	548.89	1853.93	2595.13	tokenització small; no és consens de dos models; pendent d'audició
+pa-005	o sigui	clips/pa-005__o-sigui__373.33.wav	1	3.600	4.060	376.930	377.390	0.8872	O sigui	3.830		367.21	2303.18	3409.75	tokenització small; no és consens de dos models; pendent d'audició
+pa-006	o sigui	clips/pa-006__o-sigui__136.25.wav	1	0.000	0.490	136.250	136.740	0.0187	o sigui	0.245		359.50	1646.10	2972.81	tokenització small; no és consens de dos models; pendent d'audició
+pa-009	o sigui	clips/pa-009__o-sigui__234.25.wav	1	2.110	2.460	236.360	236.710	0.2229	o sigui	2.285		1840.13	2728.25	3251.38	tokenització small; no és consens de dos models; pendent d'audició
+pa-014	o sigui	clips/pa-014__o-sigui__658.45.wav	1	4.030	4.120	662.480	662.570	0.6862	o sigui	4.075	108.48	467.77	1866.05	2369.32	tokenització small; no és consens de dos models; pendent d'audició
+pa-016	o sigui	clips/pa-016__o-sigui__311.25.wav	1	0.000	0.370	311.250	311.620	0.0240	O sigui	0.185	171.14	552.69	1673.52	2731.93	tokenització small; no és consens de dos models; pendent d'audició
+pa-022	o sigui	clips/pa-022__o-sigui__42.93.wav	1	0.000	0.540	42.930	43.470	0.0430	O sigui	0.270	107.90	500.32	1357.28	2390.81	tokenització small; no és consens de dos models; pendent d'audició
+pa-025	o sigui	clips/pa-025__o-sigui__1462.85.wav	1	1.880	2.990	1464.730	1465.840	0.3767	O sigui	2.435	100.86	482.40	1389.02	2611.73	tokenització small; no és consens de dos models; pendent d'audició
+pa-026	o sigui	clips/pa-026__o-sigui__434.17.wav	1	0.000	0.280	434.170	434.450	0.0723	O sigui	0.140	100.18	328.53	1152.95	2574.51	tokenització small; no és consens de dos models; pendent d'audició
+pa-029	o sigui	clips/pa-029__o-sigui__243.13.wav	1	2.680	2.700	245.810	245.830	0.2868	o sigui	2.690		1090.37	1644.58	3091.47	tokenització small; no és consens de dos models; pendent d'audició
+pa-030	o sigui	clips/pa-030__o-sigui__1016.41.wav	1	0.000	0.410	1016.410	1016.820	0.0381	O sigui	0.205	119.54	342.20	2041.30	2844.40	tokenització small; no és consens de dos models; pendent d'audició
+pa-038	o sigui	clips/pa-038__o-sigui__16.65.wav	1	0.000	0.850	16.650	17.500	0.1004	O sigui	0.425		752.92	1443.27	2656.41	tokenització small; no és consens de dos models; pendent d'audició
+pa-045	o sigui	clips/pa-045__o-sigui__226.17.wav	1	0.000	1.490	226.170	227.660	0.1907	o sigui	0.745		612.29	1548.03	2708.28	tokenització small; no és consens de dos models; pendent d'audició
+pa-048	o sigui	clips/pa-048__o-sigui__581.65.wav	1	0.000	0.500	581.650	582.150	0.3651	O sigui	0.250		937.62	1827.32	3310.65	tokenització small; no és consens de dos models; pendent d'audició
+pa-049	o sigui	clips/pa-049__o-sigui__365.21.wav	1	1.580	1.870	366.790	367.080	0.0641	o sigui	1.725		670.15	2132.56	2878.38	tokenització small; no és consens de dos models; pendent d'audició
+pa-055	o sigui	clips/pa-055__o-sigui__434.17.wav	1	0.000	0.310	434.170	434.480	0.0180	O sigui	0.155	123.83	400.16	1421.48	1942.21	tokenització small; no és consens de dos models; pendent d'audició
+pa-057	o sigui	clips/pa-057__o-sigui__249.45.wav	1	3.600	3.970	253.050	253.420	0.3063	o sigui	3.785		463.37	2066.06	2811.88	tokenització small; no és consens de dos models; pendent d'audició
+pa-061	o sigui	clips/pa-061__o-sigui__161.05.wav	1	1.200	1.550	162.250	162.600	0.6361	O sigui	1.375	188.12	368.02	2059.89	2336.61	tokenització small; no és consens de dos models; pendent d'audició
+pa-062	o sigui	clips/pa-062__o-sigui__236.01.wav	1	1.080	1.380	237.090	237.390	0.6273	O sigui	1.230		715.19	1718.76	2485.03	tokenització small; no és consens de dos models; pendent d'audició
+pa-063	o sigui	clips/pa-063__o-sigui__826.09.wav	1	1.080	1.270	827.170	827.360	0.6737	O sigui	1.175	258.67	356.10	2409.95	2576.81	tokenització small; no és consens de dos models; pendent d'audició
+pa-064	o sigui	clips/pa-064__o-sigui__36.73.wav	1	1.520	1.870	38.250	38.600	0.7590	o sigui	1.695		1337.80	2039.14	3105.24	tokenització small; no és consens de dos models; pendent d'audició
+pa-065	o sigui	clips/pa-065__o-sigui__191.65.wav	1	0.000	0.460	191.650	192.110	0.2516	O sigui	0.230		788.57	2599.51	3157.85	tokenització small; no és consens de dos models; pendent d'audició
+pa-001	llavors	clips/pa-001__llavors__837.17.wav	1	2.010	3.060	839.180	840.230	0.0495	llavors	2.535	110.39	446.76	1005.26	2762.07	tokenització small; no és consens de dos models; pendent d'audició
+pa-002	llavors	clips/pa-002__llavors__550.25.wav	1	2.150	2.840	552.400	553.090	0.5684	llavors	2.495	77.38	316.71	1148.94	2342.22	tokenització small; no és consens de dos models; pendent d'audició
+pa-005	llavors	clips/pa-005__llavors__433.29.wav	1	1.060	1.520	434.350	434.810	0.3601	llavors	1.290	187.67	525.60	1385.00	2757.21	tokenització small; no és consens de dos models; pendent d'audició
+pa-007	llavors	clips/pa-007__llavors__657.25.wav	1	0.000	0.420	657.250	657.670	0.0183	llavors	0.210		1089.39	2393.95	3355.26	tokenització small; no és consens de dos models; pendent d'audició
+pa-010	llavors	clips/pa-010__llavors__386.25.wav	1	0.850	1.720	387.100	387.970	0.7955	llavors	1.285	123.36	251.26	1749.14	2495.81	tokenització small; no és consens de dos models; pendent d'audició
+pa-015	llavors	clips/pa-015__llavors__197.25.wav	1	2.040	3.590	199.290	200.840	0.8028	llavors	2.815		227.31	1143.91	2292.14	tokenització small; no és consens de dos models; pendent d'audició
+pa-016	llavors	clips/pa-016__llavors__15.05.wav	1	0.080	0.530	15.130	15.580	0.7574	llavors	0.305		325.21	1715.95	3554.47	tokenització small; no és consens de dos models; pendent d'audició
+pa-017	llavors	clips/pa-017__llavors__361.25.wav	1	1.080	1.830	362.330	363.080	0.7556	Llavors	1.455		503.46	1618.85	3043.99	tokenització small; no és consens de dos models; pendent d'audició
+pa-018	llavors	clips/pa-018__llavors__1055.09.wav	1	0.000	0.550	1055.090	1055.640	0.1727	llavors	0.275		856.65	1815.41	2913.12	tokenització small; no és consens de dos models; pendent d'audició
+pa-019	llavors	clips/pa-019__llavors__422.25.wav	1	3.760	4.150	426.010	426.400	0.9040	llavors	3.955	95.58	351.12	1804.64	3335.20	tokenització small; no és consens de dos models; pendent d'audició
+pa-023	llavors	clips/pa-023__llavors__48.81.wav	1	2.970	3.750	51.780	52.560	0.2808	llavors	3.360	121.69	495.00	2392.39	2877.85	tokenització small; no és consens de dos models; pendent d'audició
+pa-028	llavors	clips/pa-028__llavors__151.01.wav	1	2.720	3.140	153.730	154.150	0.1910	llavors	2.930	111.32	262.45	2028.83	3652.60	tokenització small; no és consens de dos models; pendent d'audició
+pa-030	llavors	clips/pa-030__llavors__157.61.wav	1	1.050	1.430	158.660	159.040	0.4872	llavors	1.240	113.02	457.38	1626.57	2145.05	tokenització small; no és consens de dos models; pendent d'audició
+pa-033	llavors	clips/pa-033__llavors__71.53.wav	1	0.090	0.570	71.620	72.100	0.6221	llavors	0.330		961.96	2265.73	3366.09	tokenització small; no és consens de dos models; pendent d'audició
+pa-037	llavors	clips/pa-037__llavors__92.53.wav	1	3.220	3.470	95.750	96.000	0.7037	llavors	3.345	212.16	474.31	967.96	2622.85	tokenització small; no és consens de dos models; pendent d'audició
+pa-038	llavors	clips/pa-038__llavors__264.13.wav	1	0.000	0.760	264.130	264.890	0.0343	Llavors	0.380		815.93	2007.53	3077.16	tokenització small; no és consens de dos models; pendent d'audició
+pa-045	llavors	clips/pa-045__llavors__194.93.wav	1	1.370	1.710	196.300	196.640	0.3678	llavors	1.540	140.35	473.23	1716.40	2951.34	tokenització small; no és consens de dos models; pendent d'audició
+pa-046	llavors	clips/pa-046__llavors__381.13.wav	1	1.880	2.460	383.010	383.590	0.5263	llavors	2.170		1674.05	2414.69	3532.13	tokenització small; no és consens de dos models; pendent d'audició
+pa-048	llavors	clips/pa-048__llavors__1244.97.wav	1	0.000	0.530	1244.970	1245.500	0.1077	Llavors	0.265		1036.20	2242.74	3209.89	tokenització small; no és consens de dos models; pendent d'audició
+pa-049	llavors	clips/pa-049__llavors__230.45.wav	1	1.400	1.820	231.850	232.270	0.9191	llavors	1.610		1318.05	2646.88	3399.61	tokenització small; no és consens de dos models; pendent d'audició
+pa-053	llavors	clips/pa-053__llavors__40.73.wav	1	0.000	1.540	40.730	42.270	0.0781	Llavors	0.770		489.64	1321.26	2715.36	tokenització small; no és consens de dos models; pendent d'audició
+pa-054	llavors	clips/pa-054__llavors__156.57.wav	1	0.100	0.670	156.670	157.240	0.4426	llavors	0.385	205.97	415.09	1355.86	2245.17	tokenització small; no és consens de dos models; pendent d'audició
+pa-056	llavors	clips/pa-056__llavors__157.77.wav	1	0.000	0.700	157.770	158.470	0.0284	llavors	0.350	127.95	609.42	1308.14	2047.40	tokenització small; no és consens de dos models; pendent d'audició
+pa-057	llavors	clips/pa-057__llavors__42.85.wav	1	0.110	0.870	42.960	43.720	0.3304	llavors	0.490	99.24	643.75	1393.82	2591.87	tokenització small; no és consens de dos models; pendent d'audició
+pa-060	llavors	clips/pa-060__llavors__48.77.wav	1	2.800	3.800	51.570	52.570	0.3053	llavors	3.300	122.55	526.80	2297.45	3025.74	tokenització small; no és consens de dos models; pendent d'audició
+pa-061	llavors	clips/pa-061__llavors__380.77.wav	1	1.480	1.890	382.250	382.660	0.5349	llavors	1.685	192.71	754.58	1094.07	2152.52	tokenització small; no és consens de dos models; pendent d'audició
+pa-063	llavors	clips/pa-063__llavors__39.49.wav	1	3.670	4.600	43.160	44.090	0.3329	llavors	4.135	157.98	581.86	1681.09	2761.63	tokenització small; no és consens de dos models; pendent d'audició
+pa-066	llavors	clips/pa-066__llavors__16.21.wav	1	1.400	1.840	17.610	18.050	0.7958	llavors	1.620		682.98	1834.10	2914.91	tokenització small; no és consens de dos models; pendent d'audició
+pa-002	a veure	clips/pa-002__a-veure__126.25.wav	1	2.180	3.510	128.430	129.760	0.6605	a veure	2.845		345.89	2071.49	2407.41	tokenització small; no és consens de dos models; pendent d'audició
+pa-007	a veure	clips/pa-007__a-veure__89.25.wav	1	1.280	1.800	90.530	91.050	0.9934	a veure	1.540	145.45	374.23	898.89	2345.39	tokenització small; no és consens de dos models; pendent d'audició
+pa-008	a veure	clips/pa-008__a-veure__668.25.wav	1	1.910	2.640	670.160	670.890	0.9915	a veure	2.275	180.44	533.13	1520.53	2422.28	tokenització small; no és consens de dos models; pendent d'audició
+pa-011	a veure	clips/pa-011__a-veure__551.81.wav	1	3.040	3.450	554.850	555.260	0.1111	a veure	3.245	184.31	742.85	1649.99	2436.40	tokenització small; no és consens de dos models; pendent d'audició
+pa-014	a veure	clips/pa-014__a-veure__617.45.wav	1	14.780	15.230	632.230	632.680	0.7543	a veure	15.005	177.82	555.27	1520.13	2443.44	tokenització small; no és consens de dos models; pendent d'audició
+pa-016	a veure	clips/pa-016__a-veure__369.73.wav	1	1.210	2.120	370.940	371.850	0.5117	a veure	1.665	179.11	695.50	1509.90	2725.11	tokenització small; no és consens de dos models; pendent d'audició
+pa-021	a veure	clips/pa-021__a-veure__108.77.wav	1	0.170	1.190	108.940	109.960	0.5298	a veure	0.680		802.47	1719.83	2624.82	tokenització small; no és consens de dos models; pendent d'audició
+pa-022	a veure	clips/pa-022__a-veure__238.61.wav	1	2.000	2.500	240.610	241.110	0.3096	a veure	2.250		982.35	1166.89	2373.00	tokenització small; no és consens de dos models; pendent d'audició
+pa-023	a veure	clips/pa-023__a-veure__268.81.wav	1	0.010	0.510	268.820	269.320	0.1996	A veure	0.260		632.84	1856.14	3211.37	tokenització small; no és consens de dos models; pendent d'audició
+pa-025	a veure	clips/pa-025__a-veure__388.01.wav	1	1.000	1.740	389.010	389.750	0.7039	A veure	1.370	127.06	571.68	1148.84	2638.56	tokenització small; no és consens de dos models; pendent d'audició
+pa-026	a veure	clips/pa-026__a-veure__64.09.wav	1	1.550	2.490	65.640	66.580	0.6966	a veure	2.020		859.71	1905.96	3107.83	tokenització small; no és consens de dos models; pendent d'audició
+pa-030	a veure	clips/pa-030__a-veure__673.41.wav	1	0.000	0.250	673.410	673.660	0.1988	A veure	0.125	159.32	619.46	1526.32	2244.06	tokenització small; no és consens de dos models; pendent d'audició
+pa-031	a veure	clips/pa-031__a-veure__4.25.wav	1	2.170	2.400	6.420	6.650	0.0804	a veure	2.285		1026.58	2105.15	3227.64	tokenització small; no és consens de dos models; pendent d'audició
+pa-034	a veure	clips/pa-034__a-veure__94.05.wav	1	1.180	1.990	95.230	96.040	0.9578	a veure	1.585	152.68	766.15	1450.75	3113.69	tokenització small; no és consens de dos models; pendent d'audició
+pa-036	a veure	clips/pa-036__a-veure__153.05.wav	1	1.100	1.500	154.150	154.550	0.4770	a veure	1.300	110.30	440.01	1202.12	2317.75	tokenització small; no és consens de dos models; pendent d'audició
+pa-041	a veure	clips/pa-041__a-veure__200.25.wav	1	2.440	3.090	202.690	203.340	0.7229	a veure	2.765	159.14	502.61	1743.35	2821.51	tokenització small; no és consens de dos models; pendent d'audició
+pa-045	a veure	clips/pa-045__a-veure__340.93.wav	1	4.090	4.160	345.020	345.090	0.9709	a veure	4.125	70.93	479.78	1284.64	2565.99	tokenització small; no és consens de dos models; pendent d'audició
+pa-048	a veure	clips/pa-048__a-veure__393.93.wav	1	0.000	0.550	393.930	394.480	0.0287	A veure	0.275	173.91	231.38	1288.36	2673.87	tokenització small; no és consens de dos models; pendent d'audició
+pa-049	a veure	clips/pa-049__a-veure__244.85.wav	1	3.260	3.550	248.110	248.400	0.0989	a veure	3.405	160.70	596.96	1455.97	2559.70	tokenització small; no és consens de dos models; pendent d'audició
+pa-049	a veure	clips/pa-049__a-veure__244.85.wav	2	5.900	6.230	250.750	251.080	0.9962	a veure	6.065		693.24	1743.93	2706.32	tokenització small; no és consens de dos models; pendent d'audició
+pa-055	a veure	clips/pa-055__a-veure__63.89.wav	1	1.380	2.120	65.270	66.010	0.7076	a veure	1.750		369.74	2054.92	2939.98	tokenització small; no és consens de dos models; pendent d'audició
+pa-056	a veure	clips/pa-056__a-veure__673.21.wav	1	0.000	0.400	673.210	673.610	0.1806	A veure	0.200	146.84	702.87	1176.01	2174.72	tokenització small; no és consens de dos models; pendent d'audició
+pa-060	a veure	clips/pa-060__a-veure__268.57.wav	1	2.000	2.160	270.570	270.730	0.6349	a veure	2.080	125.10	478.80	1574.30	2440.35	tokenització small; no és consens de dos models; pendent d'audició
+pa-061	a veure	clips/pa-061__a-veure__579.17.wav	1	2.610	3.170	581.780	582.340	0.6223	a veure	2.890	133.70	574.00	1542.35	2508.20	tokenització small; no és consens de dos models; pendent d'audició
+pa-063	a veure	clips/pa-063__a-veure__402.13.wav	1	0.000	1.060	402.130	403.190	0.0333	A veure	0.530		630.85	1742.86	3228.17	tokenització small; no és consens de dos models; pendent d'audició
+pa-064	a veure	clips/pa-064__a-veure__587.61.wav	1	1.270	1.890	588.880	589.500	0.9952	a veure	1.580		499.50	1347.08	2590.44	tokenització small; no és consens de dos models; pendent d'audició
+pa-014	aviam	clips/pa-014__aviam__875.45.wav	1	2.000	2.000	877.450	877.450	0.1944	aviam	2.000		658.24	1627.67	2437.73	tokenització small; no és consens de dos models; pendent d'audició
+pa-020	aviam	clips/pa-020__aviam__252.21.wav	1	3.060	3.400	255.270	255.610	0.1339	aviam	3.230	120.35	495.07	1810.49	2561.87	tokenització small; no és consens de dos models; pendent d'audició
+pa-005	doncs	clips/pa-005__doncs__71.13.wav	1	0.000	0.490	71.130	71.620	0.6435	Doncs	0.245		727.29	1925.11	3624.15	tokenització small; no és consens de dos models; pendent d'audició
+pa-005	doncs	clips/pa-005__doncs__71.13.wav	2	0.960	1.450	72.090	72.580	0.3084	doncs	1.205		536.77	2181.61	2833.85	tokenització small; no és consens de dos models; pendent d'audició
+pa-006	doncs	clips/pa-006__doncs__180.25.wav	1	0.980	1.540	181.230	181.790	0.5306	doncs	1.260		1098.31	2348.64	3392.55	tokenització small; no és consens de dos models; pendent d'audició
+pa-007	doncs	clips/pa-007__doncs__59.25.wav	1	0.130	0.480	59.380	59.730	0.5996	Doncs	0.305		902.12	1893.86	2969.69	tokenització small; no és consens de dos models; pendent d'audició
+pa-009	doncs	clips/pa-009__doncs__139.25.wav	1	0.000	0.500	139.250	139.750	0.2017	Doncs	0.250		1869.58	3298.29	3916.76	tokenització small; no és consens de dos models; pendent d'audició
+pa-010	doncs	clips/pa-010__doncs__24.65.wav	1	2.510	2.770	27.160	27.420	0.4795	doncs	2.640	149.45	443.73	1474.45	2487.36	tokenització small; no és consens de dos models; pendent d'audició
+pa-011	doncs	clips/pa-011__doncs__61.49.wav	1	1.480	1.940	62.970	63.430	0.4045	doncs	1.710		693.14	2038.66	2905.90	tokenització small; no és consens de dos models; pendent d'audició
+pa-013	doncs	clips/pa-013__doncs__56.85.wav	1	2.440	2.750	59.290	59.600	0.4874	doncs	2.595	166.44	479.97	1711.13	3232.99	tokenització small; no és consens de dos models; pendent d'audició
+pa-015	doncs	clips/pa-015__doncs__83.25.wav	1	1.130	1.530	84.380	84.780	0.8466	doncs	1.330		1655.08	2889.62	3626.41	tokenització small; no és consens de dos models; pendent d'audició
+pa-016	doncs	clips/pa-016__doncs__62.33.wav	1	4.880	5.070	67.210	67.400	0.5311	Doncs	4.975	159.77	461.47	1414.88	2669.69	tokenització small; no és consens de dos models; pendent d'audició
+pa-017	doncs	clips/pa-017__doncs__459.25.wav	1	1.340	1.630	460.590	460.880	0.9049	doncs	1.485	179.57	535.38	1090.69	2887.19	tokenització small; no és consens de dos models; pendent d'audició
+pa-020	doncs	clips/pa-020__doncs__247.37.wav	1	0.840	1.310	248.210	248.680	0.6183	doncs	1.075		713.11	1865.06	2744.20	tokenització small; no és consens de dos models; pendent d'audició
+pa-021	doncs	clips/pa-021__doncs__12.25.wav	1	3.660	3.750	15.910	16.000	0.7531	doncs	3.705		1096.85	2591.96	3692.28	tokenització small; no és consens de dos models; pendent d'audició
+pa-028	doncs	clips/pa-028__doncs__329.33.wav	1	1.080	1.330	330.410	330.660	0.8421	Doncs	1.205	133.81	208.97	1934.59	2471.57	tokenització small; no és consens de dos models; pendent d'audició
+pa-030	doncs	clips/pa-030__doncs__43.53.wav	1	1.120	1.320	44.650	44.850	0.2935	doncs	1.220	105.91	2117.99	2650.61	4275.58	tokenització small; no és consens de dos models; pendent d'audició
+pa-031	doncs	clips/pa-031__doncs__414.05.wav	1	0.000	0.220	414.050	414.270	0.0397	Doncs	0.110	200.15	406.33	2371.43	3036.01	tokenització small; no és consens de dos models; pendent d'audició
+pa-032	doncs	clips/pa-032__doncs__21.61.wav	1	0.000	0.110	21.610	21.720	0.0158	Doncs	0.055	195.58	274.55	1522.98	2724.25	tokenització small; no és consens de dos models; pendent d'audició
+pa-035	doncs	clips/pa-035__doncs__195.49.wav	1	2.650	3.200	198.140	198.690	0.9025	doncs	2.925	153.74	293.60	1790.97	2130.76	tokenització small; no és consens de dos models; pendent d'audició
+pa-036	doncs	clips/pa-036__doncs__367.25.wav	1	5.000	5.370	372.250	372.620	0.5064	Doncs	5.185		934.60	1675.42	2417.95	tokenització small; no és consens de dos models; pendent d'audició
+pa-037	doncs	clips/pa-037__doncs__20.49.wav	1	0.270	0.750	20.760	21.240	0.6135	doncs	0.510		496.49	1399.82	2539.72	tokenització small; no és consens de dos models; pendent d'audició
+pa-038	doncs	clips/pa-038__doncs__2008.17.wav	1	0.470	0.570	2008.640	2008.740	0.7782	Doncs	0.520	266.70	491.49	1357.00	3255.09	tokenització small; no és consens de dos models; pendent d'audició
+pa-045	doncs	clips/pa-045__doncs__283.01.wav	1	1.800	1.960	284.810	284.970	0.7735	Doncs	1.880		347.22	2455.34	3247.48	tokenització small; no és consens de dos models; pendent d'audició
+pa-046	doncs	clips/pa-046__doncs__135.61.wav	1	1.000	1.700	136.610	137.310	0.2825	doncs	1.350		620.12	1451.53	3027.40	tokenització small; no és consens de dos models; pendent d'audició
+pa-048	doncs	clips/pa-048__doncs__302.89.wav	1	1.440	1.750	304.330	304.640	0.5376	doncs	1.595	175.41	478.69	1580.38	2130.47	tokenització small; no és consens de dos models; pendent d'audició
+pa-056	doncs	clips/pa-056__doncs__43.45.wav	1	1.160	1.310	44.610	44.760	0.2840	doncs	1.235	116.16	442.52	1584.16	2315.85	tokenització small; no és consens de dos models; pendent d'audició
+pa-060	doncs	clips/pa-060__doncs__177.97.wav	1	2.400	2.590	180.370	180.560	0.1036	doncs	2.495	125.27	477.21	1521.78	2461.19	tokenització small; no és consens de dos models; pendent d'audició
+pa-063	doncs	clips/pa-063__doncs__609.05.wav	1	0.700	1.050	609.750	610.100	0.7069	doncs	0.875		570.18	1540.46	2430.67	tokenització small; no és consens de dos models; pendent d'audició
+pa-065	doncs	clips/pa-065__doncs__157.49.wav	1	2.230	2.260	159.720	159.750	0.7556	doncs	2.245	145.56	254.66	1619.66	2731.29	tokenització small; no és consens de dos models; pendent d'audició
+pa-001	perquè	clips/pa-001__perqu__59.57.wav	1	0.720	1.140	60.290	60.710	0.7317	perquè	0.930	99.15	413.35	1273.80	2257.06	tokenització small; no és consens de dos models; pendent d'audició
+pa-002	perquè	clips/pa-002__perqu__18.25.wav	1	0.950	1.700	19.200	19.950	0.7556	perquè	1.325	86.50	371.15	1222.70	2503.04	tokenització small; no és consens de dos models; pendent d'audició
+pa-003	perquè	clips/pa-003__perqu__201.57.wav	1	0.790	0.950	202.360	202.520	0.9495	perquè	0.870		554.00	1729.36	2688.09	tokenització small; no és consens de dos models; pendent d'audició
+pa-004	perquè	clips/pa-004__perqu__464.09.wav	1	3.990	4.710	468.080	468.800	0.6217	perquè	4.350	133.42	269.92	1125.51	1916.27	tokenització small; no és consens de dos models; pendent d'audició
+pa-006	perquè	clips/pa-006__perqu__110.25.wav	1	3.200	3.880	113.450	114.130	0.2439	perquè	3.540	98.12	311.69	1880.39	2503.01	tokenització small; no és consens de dos models; pendent d'audició
+pa-007	perquè	clips/pa-007__perqu__101.25.wav	1	2.000	2.060	103.250	103.310	0.8509	perquè	2.030	135.16	419.68	1073.27	2084.14	tokenització small; no és consens de dos models; pendent d'audició
+pa-008	perquè	clips/pa-008__perqu__55.25.wav	1	1.000	1.260	56.250	56.510	0.4598	Perquè	1.130		598.83	1894.12	2446.27	tokenització small; no és consens de dos models; pendent d'audició
+pa-009	perquè	clips/pa-009__perqu__349.25.wav	1	0.000	0.560	349.250	349.810	0.2138	perquè	0.280	136.60	395.64	1494.25	2679.44	tokenització small; no és consens de dos models; pendent d'audició
+pa-010	perquè	clips/pa-010__perqu__196.65.wav	1	0.000	0.300	196.650	196.950	0.2814	perquè	0.150		514.86	1785.02	2435.89	tokenització small; no és consens de dos models; pendent d'audició
+pa-011	perquè	clips/pa-011__perqu__27.61.wav	1	1.240	1.490	28.850	29.100	0.6057	perquè	1.365		520.55	1797.91	2829.21	tokenització small; no és consens de dos models; pendent d'audició
+pa-012	perquè	clips/pa-012__perqu__369.25.wav	1	0.000	0.110	369.250	369.360	0.6158	perquè	0.055		433.36	1700.56	2252.79	tokenització small; no és consens de dos models; pendent d'audició
+pa-013	perquè	clips/pa-013__perqu__433.89.wav	1	2.270	2.640	436.160	436.530	0.9497	perquè	2.455	193.22	633.14	1877.14	2552.27	tokenització small; no és consens de dos models; pendent d'audició
+pa-014	perquè	clips/pa-014__perqu__105.85.wav	1	2.390	2.810	108.240	108.660	0.8193	perquè	2.600	168.07	501.33	1958.09	2492.23	tokenització small; no és consens de dos models; pendent d'audició
+pa-015	perquè	clips/pa-015__perqu__86.25.wav	1	2.000	2.480	88.250	88.730	0.4134	perquè	2.240	278.47	550.24	2233.90	3081.49	tokenització small; no és consens de dos models; pendent d'audició
+pa-016	perquè	clips/pa-016__perqu__79.77.wav	1	2.190	2.860	81.960	82.630	0.8479	perquè	2.525		813.58	2050.14	2985.58	tokenització small; no és consens de dos models; pendent d'audició
+pa-017	perquè	clips/pa-017__perqu__4.25.wav	1	2.150	2.640	6.400	6.890	0.6669	perquè	2.395	136.00	547.52	2298.62	2735.19	tokenització small; no és consens de dos models; pendent d'audició
+pa-018	perquè	clips/pa-018__perqu__91.09.wav	1	1.070	1.760	92.160	92.850	0.9663	perquè	1.415		657.39	1698.80	2850.42	tokenització small; no és consens de dos models; pendent d'audició
+pa-019	perquè	clips/pa-019__perqu__101.25.wav	1	0.010	0.310	101.260	101.560	0.0227	perquè	0.160		643.03	2175.98	3347.76	tokenització small; no és consens de dos models; pendent d'audició
+pa-020	perquè	clips/pa-020__perqu__9.41.wav	1	0.030	0.410	9.440	9.820	0.1574	perquè	0.220		1485.98	2096.07	3085.92	tokenització small; no és consens de dos models; pendent d'audició
+pa-021	perquè	clips/pa-021__perqu__15.45.wav	1	1.670	2.000	17.120	17.450	0.8815	perquè	1.835	180.15	346.00	1487.94	2855.49	tokenització small; no és consens de dos models; pendent d'audició
+pa-022	perquè	clips/pa-022__perqu__111.69.wav	1	0.000	0.470	111.690	112.160	0.2534	perquè	0.235		595.17	1533.96	2648.78	tokenització small; no és consens de dos models; pendent d'audició
+pa-023	perquè	clips/pa-023__perqu__29.09.wav	1	0.000	0.940	29.090	30.030	0.1482	perquè	0.470	121.80	516.71	1829.91	2737.29	tokenització small; no és consens de dos models; pendent d'audició
+pa-024	perquè	clips/pa-024__perqu__225.53.wav	1	2.000	2.310	227.530	227.840	0.8661	perquè	2.155	81.58	380.35	1829.51	2365.92	tokenització small; no és consens de dos models; pendent d'audició
+pa-025	perquè	clips/pa-025__perqu__37.17.wav	1	0.550	0.980	37.720	38.150	0.8440	perquè	0.765		920.80	2224.30	3239.35	tokenització small; no és consens de dos models; pendent d'audició
+pa-026	perquè	clips/pa-026__perqu__150.53.wav	1	0.420	0.610	150.950	151.140	0.6276	perquè	0.515	126.11	536.27	1611.09	2303.71	tokenització small; no és consens de dos models; pendent d'audició
+pa-027	perquè	clips/pa-027__perqu__8.81.wav	1	1.370	1.700	10.180	10.510	0.7631	perquè	1.535	132.14	434.10	1329.92	2358.98	tokenització small; no és consens de dos models; pendent d'audició
+pa-031	perquè	clips/pa-031__perqu__32.69.wav	1	0.000	0.570	32.690	33.260	0.0697	perquè	0.285	111.29	458.57	1379.77	2203.13	tokenització small; no és consens de dos models; pendent d'audició
+pa-032	perquè	clips/pa-032__perqu__9.21.wav	1	0.000	0.860	9.210	10.070	0.5112	perquè	0.430		317.59	1322.10	2882.20	tokenització small; no és consens de dos models; pendent d'audició
+pa-033	perquè	clips/pa-033__perqu__18.89.wav	1	0.000	0.350	18.890	19.240	0.2034	perquè	0.175	480.81	473.77	1692.17	2699.82	tokenització small; no és consens de dos models; pendent d'audició
+pa-035	perquè	clips/pa-035__perqu__181.13.wav	1	0.070	0.080	181.200	181.210	0.6201	perquè	0.075		732.95	1925.11	2752.69	tokenització small; no és consens de dos models; pendent d'audició
+pa-036	perquè	clips/pa-036__perqu__15.65.wav	1	2.470	2.640	18.120	18.290	0.2664	perquè	2.555	97.40	440.65	1760.86	2139.24	tokenització small; no és consens de dos models; pendent d'audició
+pa-037	perquè	clips/pa-037__perqu__186.29.wav	1	8.480	9.140	194.770	195.430	0.3810	Perquè	8.810		1009.34	2199.71	3176.70	tokenització small; no és consens de dos models; pendent d'audició
+pa-038	perquè	clips/pa-038__perqu__279.13.wav	1	0.420	0.790	279.550	279.920	0.5824	perquè	0.605	290.10	548.29	1601.93	2914.94	tokenització small; no és consens de dos models; pendent d'audició
+pa-039	perquè	clips/pa-039__perqu__18.09.wav	1	0.000	0.570	18.090	18.660	0.0785	perquè	0.285	170.47	679.68	1400.17	2625.70	tokenització small; no és consens de dos models; pendent d'audició
+pa-040	perquè	clips/pa-040__perqu__25.21.wav	1	0.000	0.510	25.210	25.720	0.2038	perquè	0.255	400.14	417.92	2023.72	2707.14	tokenització small; no és consens de dos models; pendent d'audició
+pa-041	perquè	clips/pa-041__perqu__69.25.wav	1	3.890	4.330	73.140	73.580	0.2885	perquè	4.110		593.35	1489.88	2508.66	tokenització small; no és consens de dos models; pendent d'audició
+pa-042	perquè	clips/pa-042__perqu__29.13.wav	1	2.100	2.460	31.230	31.590	0.7110	perquè	2.280	266.80	547.75	1994.54	2496.87	tokenització small; no és consens de dos models; pendent d'audició
+pa-045	perquè	clips/pa-045__perqu__175.33.wav	1	2.080	2.980	177.410	178.310	0.8252	Perquè	2.530		692.96	1590.55	2775.79	tokenització small; no és consens de dos models; pendent d'audició
+pa-049	perquè	clips/pa-049__perqu__68.85.wav	1	5.300	5.660	74.150	74.510	0.6920	perquè	5.480		540.15	1647.56	2835.78	tokenització small; no és consens de dos models; pendent d'audició
+pa-051	perquè	clips/pa-051__perqu__123.85.wav	1	0.040	0.320	123.890	124.170	0.3220	perquè	0.180	130.33	455.42	2065.90	2856.99	tokenització small; no és consens de dos models; pendent d'audició
+pa-052	perquè	clips/pa-052__perqu__92.65.wav	1	2.540	2.830	95.190	95.480	0.3050	perquè	2.685	183.25	581.99	1823.13	2377.58	tokenització small; no és consens de dos models; pendent d'audició
+pa-053	perquè	clips/pa-053__perqu__113.93.wav	1	3.910	4.160	117.840	118.090	0.6129	perquè	4.035	100.60	451.35	1634.60	2129.73	tokenització small; no és consens de dos models; pendent d'audició
+pa-054	perquè	clips/pa-054__perqu__80.45.wav	1	2.720	3.340	83.170	83.790	0.7099	perquè	3.030	110.76	786.22	2069.73	3034.98	tokenització small; no és consens de dos models; pendent d'audició
+pa-055	perquè	clips/pa-055__perqu__148.53.wav	1	2.380	2.530	150.910	151.060	0.8312	perquè	2.455	118.24	535.18	1603.74	2243.91	tokenització small; no és consens de dos models; pendent d'audició
+pa-056	perquè	clips/pa-056__perqu__31.73.wav	1	0.720	1.150	32.450	32.880	0.4129	perquè	0.935		752.05	1692.04	2665.25	tokenització small; no és consens de dos models; pendent d'audició
+pa-057	perquè	clips/pa-057__perqu__249.45.wav	1	0.760	1.140	250.210	250.590	0.9119	perquè	0.950		969.80	2844.91	3678.28	tokenització small; no és consens de dos models; pendent d'audició
+pa-058	perquè	clips/pa-058__perqu__91.09.wav	1	1.010	1.630	92.100	92.720	0.9674	perquè	1.320		797.36	1961.25	3076.75	tokenització small; no és consens de dos models; pendent d'audició
+pa-059	perquè	clips/pa-059__perqu__4.09.wav	1	2.320	2.640	6.410	6.730	0.6817	perquè	2.480	135.45	497.34	2243.13	2557.78	tokenització small; no és consens de dos models; pendent d'audició
+pa-060	perquè	clips/pa-060__perqu__29.05.wav	1	2.000	2.280	31.050	31.330	0.4717	perquè	2.140		1190.30	2397.66	3383.67	tokenització small; no és consens de dos models; pendent d'audició
+pa-062	perquè	clips/pa-062__perqu__73.97.wav	1	1.190	1.720	75.160	75.690	0.9024	perquè	1.455	127.42	278.54	1378.01	3051.72	tokenització small; no és consens de dos models; pendent d'audició
+pa-063	perquè	clips/pa-063__perqu__142.61.wav	1	0.000	0.480	142.610	143.090	0.0412	perquè	0.240		696.58	2189.21	2744.00	tokenització small; no és consens de dos models; pendent d'audició
+pa-064	perquè	clips/pa-064__perqu__27.57.wav	1	3.300	3.590	30.870	31.160	0.4829	perquè	3.445		906.35	1744.42	2409.44	tokenització small; no és consens de dos models; pendent d'audició
+pa-065	perquè	clips/pa-065__perqu__129.17.wav	1	2.530	2.870	131.700	132.040	0.8717	perquè	2.700	136.69	379.14	1783.93	2188.07	tokenització small; no és consens de dos models; pendent d'audició
+pa-066	perquè	clips/pa-066__perqu__21.81.wav	1	2.190	2.260	24.000	24.070	0.4434	perquè	2.225	101.42	263.62	912.24	2321.13	tokenització small; no és consens de dos models; pendent d'audició
+pa-002	a nivell	clips/pa-002__a-nivell__714.25.wav	1	7.330	8.080	721.580	722.330	0.7873	a nivell	7.705		475.07	1307.89	2726.71	tokenització small; no és consens de dos models; pendent d'audició
+pa-003	a nivell	clips/pa-003__a-nivell__180.17.wav	1	1.290	2.470	181.460	182.640	0.8186	a nivell	1.880	220.70	638.70	1333.45	3077.19	tokenització small; no és consens de dos models; pendent d'audició
+pa-016	a nivell	clips/pa-016__a-nivell__333.81.wav	1	3.610	4.160	337.420	337.970	0.7040	a nivell	3.885		805.40	1709.20	2867.97	tokenització small; no és consens de dos models; pendent d'audició
+pa-017	a nivell	clips/pa-017__a-nivell__143.25.wav	1	3.360	3.840	146.610	147.090	0.7278	a nivell	3.600	161.22	484.04	2081.18	2536.33	tokenització small; no és consens de dos models; pendent d'audició
+pa-019	a nivell	clips/pa-019__a-nivell__122.25.wav	1	3.350	3.830	125.600	126.080	0.9056	a nivell	3.590	90.41	383.80	2110.96	2848.96	tokenització small; no és consens de dos models; pendent d'audició
+pa-020	a nivell	clips/pa-020__a-nivell__409.37.wav	1	3.420	3.850	412.790	413.220	0.2023	a nivell	3.635		445.21	1858.74	2785.98	tokenització small; no és consens de dos models; pendent d'audició
+pa-023	a nivell	clips/pa-023__a-nivell__418.57.wav	1	1.300	1.800	419.870	420.370	0.8081	a nivell	1.550	140.15	566.70	1786.47	2561.78	tokenització small; no és consens de dos models; pendent d'audició
+pa-024	a nivell	clips/pa-024__a-nivell__1547.93.wav	1	2.160	2.250	1550.090	1550.180	0.2444	a nivell	2.205	104.07	455.37	1630.37	2612.42	tokenització small; no és consens de dos models; pendent d'audició
+pa-026	a nivell	clips/pa-026__a-nivell__38.25.wav	1	1.420	2.020	39.670	40.270	0.8241	a nivell	1.720	129.53	333.78	1428.75	2451.85	tokenització small; no és consens de dos models; pendent d'audició
+pa-029	a nivell	clips/pa-029__a-nivell__417.09.wav	1	1.570	2.200	418.660	419.290	0.9070	a nivell	1.885	93.63	804.16	2102.64	2422.59	tokenització small; no és consens de dos models; pendent d'audició
+pa-034	a nivell	clips/pa-034__a-nivell__143.81.wav	1	2.700	3.360	146.510	147.170	0.7736	a nivell	3.030		1033.71	1953.43	3083.00	tokenització small; no és consens de dos models; pendent d'audició
+pa-036	a nivell	clips/pa-036__a-nivell__386.45.wav	1	7.580	8.050	394.030	394.500	0.8938	a nivell	7.815	95.21	355.13	1884.39	2492.61	tokenització small; no és consens de dos models; pendent d'audició
+pa-038	a nivell	clips/pa-038__a-nivell__455.49.wav	1	0.650	1.150	456.140	456.640	0.5767	a nivell	0.900	186.69	559.26	1850.56	2467.55	tokenització small; no és consens de dos models; pendent d'audició
+pa-045	a nivell	clips/pa-045__a-nivell__624.85.wav	1	1.760	2.320	626.610	627.170	0.5800	a nivell	2.040		562.16	1189.09	2221.57	tokenització small; no és consens de dos models; pendent d'audició
+pa-048	a nivell	clips/pa-048__a-nivell__435.77.wav	1	3.520	3.740	439.290	439.510	0.8845	a nivell	3.630		1007.74	2457.18	3383.11	tokenització small; no és consens de dos models; pendent d'audició
+pa-055	a nivell	clips/pa-055__a-nivell__38.09.wav	1	0.360	1.190	38.450	39.280	0.8532	a nivell	0.775		794.55	1446.74	2640.90	tokenització small; no és consens de dos models; pendent d'audició
+pa-057	a nivell	clips/pa-057__a-nivell__417.13.wav	1	2.680	3.070	419.810	420.200	0.8796	a nivell	2.875		679.03	1720.53	2485.65	tokenització small; no és consens de dos models; pendent d'audició
+pa-059	a nivell	clips/pa-059__a-nivell__142.93.wav	1	3.600	3.840	146.530	146.770	0.6888	a nivell	3.720	143.66	584.03	1942.54	3000.57	tokenització small; no és consens de dos models; pendent d'audició
+pa-060	a nivell	clips/pa-060__a-nivell__201.93.wav	1	3.790	4.180	205.720	206.110	0.6465	a nivell	3.985	124.35	460.11	1746.14	2410.62	tokenització small; no és consens de dos models; pendent d'audició
+pa-061	a nivell	clips/pa-061__a-nivell__1357.21.wav	1	1.210	1.970	1358.420	1359.180	0.8152	a nivell	1.590	142.96	716.20	1596.29	2488.07	tokenització small; no és consens de dos models; pendent d'audició
+pa-063	a nivell	clips/pa-063__a-nivell__1143.61.wav	1	2.440	2.860	1146.050	1146.470	0.7218	a nivell	2.650	172.69	402.79	1702.63	2771.91	tokenització small; no és consens de dos models; pendent d'audició
+pa-065	a nivell	clips/pa-065__a-nivell__529.09.wav	1	4.260	5.440	533.350	534.530	0.2078	a nivell	4.850		1146.32	1895.07	3362.50	tokenització small; no és consens de dos models; pendent d'audició
+pa-065	a nivell	clips/pa-065__a-nivell__529.09.wav	2	6.810	7.160	535.900	536.250	0.6973	a nivell	6.985		861.69	2096.13	3232.88	tokenització small; no és consens de dos models; pendent d'audició
+pa-066	a nivell	clips/pa-066__a-nivell__25.21.wav	1	2.800	3.080	28.010	28.290	0.6618	a nivell	2.940	90.32	428.24	1808.50	2615.37	tokenització small; no és consens de dos models; pendent d'audició
+pa-003	tirar endavant	clips/pa-003__tirar-endavant__361.93.wav	1	0.980	2.000	362.910	363.930	0.9453	tirar endavant	1.490		598.99	1996.39	3141.58	tokenització small; no és consens de dos models; pendent d'audició
+pa-017	tirar endavant	clips/pa-017__tirar-endavant__49.85.wav	1	2.520	2.800	52.370	52.650	0.2057	tirar endavant	2.660	165.36	776.27	1807.60	3107.29	tokenització small; no és consens de dos models; pendent d'audició
+pa-029	tirar endavant	clips/pa-029__tirar-endavant__56.73.wav	1	4.940	5.640	61.670	62.370	0.8813	tirar endavant	5.290	96.64	531.97	1679.56	2495.43	tokenització small; no és consens de dos models; pendent d'audició
+pa-030	tirar endavant	clips/pa-030__tirar-endavant__185.61.wav	1	1.620	2.480	187.230	188.090	0.8976	tirar endavant	2.050	111.23	675.34	2043.46	3871.85	tokenització small; no és consens de dos models; pendent d'audició
+pa-031	tirar endavant	clips/pa-031__tirar-endavant__146.09.wav	1	0.970	2.000	147.060	148.090	0.8395	tirar endavant	1.485		819.12	1525.80	2620.74	tokenització small; no és consens de dos models; pendent d'audició
+pa-033	tirar endavant	clips/pa-033__tirar-endavant__135.69.wav	1	2.580	3.370	138.270	139.060	0.9053	tirar endavant	2.975	101.60	393.59	2016.90	2689.83	tokenització small; no és consens de dos models; pendent d'audició
+pa-034	tirar endavant	clips/pa-034__tirar-endavant__690.33.wav	1	3.440	4.350	693.770	694.680	0.8661	tirar endavant	3.895	182.02	376.80	2535.15	3097.48	tokenització small; no és consens de dos models; pendent d'audició
+pa-041	tirar endavant	clips/pa-041__tirar-endavant__102.25.wav	1	0.200	1.000	102.450	103.250	0.9401	tirar endavant	0.600	152.49	404.10	2234.81	2740.50	tokenització small; no és consens de dos models; pendent d'audició
+pa-056	tirar endavant	clips/pa-056__tirar-endavant__185.53.wav	1	1.620	2.520	187.150	188.050	0.9073	tirar endavant	2.070	105.22	1300.85	2292.14	3951.58	tokenització small; no és consens de dos models; pendent d'audició
+pa-057	tirar endavant	clips/pa-057__tirar-endavant__56.61.wav	1	4.990	5.730	61.600	62.340	0.9330	tirar endavant	5.360	97.58	480.53	1704.35	2473.20	tokenització small; no és consens de dos models; pendent d'audició
+pa-059	tirar endavant	clips/pa-059__tirar-endavant__49.77.wav	1	2.270	2.800	52.040	52.570	0.7573	tirar endavant	2.535	150.58	591.97	1475.80	2775.32	tokenització small; no és consens de dos models; pendent d'audició
+pa-003	ensenyança	clips/pa-003__ensenyan-a__279.69.wav	1	2.720	3.590	282.410	283.280	0.6760	ensenyança	3.155	161.49	656.50	854.82	1855.85	tokenització small; no és consens de dos models; pendent d'audició
+pa-041	ensenyança	clips/pa-041__ensenyan-a__523.25.wav	1	6.270	6.940	529.520	530.190	0.7954	ensenyança	6.605	145.05	433.77	1670.25	2698.89	tokenització small; no és consens de dos models; pendent d'audició
+pa-002	reformeta	clips/pa-002__reformeta__12.25.wav	1	3.500	4.400	15.750	16.650	0.3873	reformeta	3.950		722.84	2133.10	3577.82	tokenització small; no és consens de dos models; pendent d'audició
+pa-022	reformeta	clips/pa-022__reformeta__125.53.wav	1	2.700	3.400	128.230	128.930	0.6595	reformeta	3.050	120.08	412.42	1343.62	2307.46	tokenització small; no és consens de dos models; pendent d'audició
+pa-025	reformeta	clips/pa-025__reformeta__1085.53.wav	1	2.140	2.900	1087.670	1088.430	0.4505	reformeta	2.520	194.08	360.05	2218.53	3237.70	tokenització small; no és consens de dos models; pendent d'audició
+pa-026	reformeta	clips/pa-026__reformeta__138.61.wav	1	3.050	3.740	141.660	142.350	0.9543	reformeta	3.395		1614.53	2453.52	3662.27	tokenització small; no és consens de dos models; pendent d'audició
+pa-034	reformeta	clips/pa-034__reformeta__191.33.wav	1	6.120	6.680	197.450	198.010	0.4659	reformeta	6.400	197.33	521.85	693.49	2143.04	tokenització small; no és consens de dos models; pendent d'audició
+pa-038	reformeta	clips/pa-038__reformeta__1821.69.wav	1	2.840	3.710	1824.530	1825.400	0.9688	reformeta	3.275	193.86	520.45	1443.84	3004.74	tokenització small; no és consens de dos models; pendent d'audició
+pa-055	reformeta	clips/pa-055__reformeta__139.05.wav	1	2.850	3.800	141.900	142.850	0.9557	reformeta	3.325		368.71	1818.78	2634.03	tokenització small; no és consens de dos models; pendent d'audició

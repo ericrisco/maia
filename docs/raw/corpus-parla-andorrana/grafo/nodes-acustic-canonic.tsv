@@ -1,0 +1,61 @@
+id	persona	n_clips	n_formant_tokens	f0_hz	f1_hz	f2_hz	f3_hz	pausa_mediana_s	veu_proporcio	estat
+spk-001	Alan Ward	10	8	105.2500	405.0450	2339.8150	2900.0500	0.0800	0.5404	mesura agregada; pendent d'audició
+spk-002	Albert Gelabert Grau	14	5	98.2200	446.7600	1501.8100	2714.2900	0.0700	0.6855	mesura agregada; pendent d'audició
+spk-003	Albert Roig	10	7	145.2800	533.1300	1624.2500	2682.1900	0.0800	0.4749	mesura agregada; pendent d'audició
+spk-004	Albert Rossa Naudí	4	3		1439.8200	1700.5600	2252.7900	0.1100	0.6523	mesura agregada; pendent d'audició
+spk-005	Alfred Llahí	10	9	141.8300	419.6800	1893.8600	2640.0800	0.0700	0.5759	mesura agregada; pendent d'audició
+spk-006	Andreu Gaspà Picart	9	7	115.7600	361.0500	1522.9800	2550.8500	0.0700	0.5177	mesura agregada; pendent d'audició
+spk-007	Angelina Mas	16	13	163.7550	670.1500	1849.6000	2835.7800	0.0600	0.6745	mesura agregada; pendent d'audició
+spk-008	Antoni Armengol Vila	24	17	124.3500	523.1800	1887.7600	2690.2100	0.0800	0.6353	mesura agregada; pendent d'audició
+spk-009	Antoni Jordi Areny	11	11	105.9100	479.0500	1680.2700	2465.2700	0.0600	0.5346	mesura agregada; pendent d'audició
+spk-010	Antoni Morell	13	10	174.1600	716.4850	1535.9200	3135.4100	0.1000	0.4745	mesura agregada; pendent d'audició
+spk-011	Carles Sasplugas	8	8	97.5100	410.7000	1390.8100	2555.3400	0.0550	0.7201	mesura agregada; pendent d'audició
+spk-012	Casimir Arajol	0	0							mesura agregada; pendent d'audició
+spk-013	Cielo	3	1	266.8000	547.7500	1994.5400	2496.8700	0.0800	0.6917	mesura agregada; pendent d'audició
+spk-014	Daniel Armengol	10	7	301.2150	732.2800	1772.3000	2819.7200	0.1100	0.4686	mesura agregada; pendent d'audició
+spk-015	Enric Casadevall Medrano	13	7	137.7250	548.8800	1584.4500	2749.0300	0.0900	0.5674	mesura agregada; pendent d'audició
+spk-016	Enric Dolsa Font	28	21	116.6200	675.3400	1692.0400	2535.8900	0.0800	0.4488	mesura agregada; pendent d'audició
+spk-017	Esther Jover	8	7	184.3100	798.2100	1797.9100	2905.9000	0.0950	0.4642	mesura agregada; pendent d'audició
+spk-018	Eudald Guillamet	13	10	73.0000	550.7100	1476.2950	2675.4750	0.0800	0.4828	mesura agregada; pendent d'audició
+spk-019	Francina Pons	6	5	133.4200	306.2000	1586.6300	2923.8900	0.1750	0.1604	mesura agregada; pendent d'audició
+spk-020	Gabriel Dallerès Codina	25	9	97.5800	643.7500	1720.5300	2495.4300	0.0600	0.5464	mesura agregada; pendent d'audició
+spk-021	Gualbert Osorio	0	0							mesura agregada; pendent d'audició
+spk-022	Guillem Areny Argelich	11	7	110.5400	495.0700	1810.4900	2744.2000	0.0800	0.5577	mesura agregada; pendent d'audició
+spk-023	Irene Clua	4	3	143.0700	756.8900	1669.3100	2832.7100	0.0700	0.5742	mesura agregada; pendent d'audició
+spk-024	Jaume Bartumeu Cassany	15	10	113.4300	460.1200	2060.4700	2794.5650	0.1000	0.6000	mesura agregada; pendent d'audició
+spk-025	Joan Santamaria Terré	9	4	152.6550	582.2050	1539.6850	2586.4000	0.1000	0.4970	mesura agregada; pendent d'audició
+spk-026	Jordi Farràs Forné	13	10	83.1800	450.6450	1689.3900	2539.7950	0.1000	0.4733	mesura agregada; pendent d'audició
+spk-027	Jordi Marquet	11	6	127.4200	514.7550	1384.5150	2594.0700	0.0800	0.5811	mesura agregada; pendent d'audició
+spk-028	Jordi Mas Torres	10	8	99.6700	434.5650	1642.5050	2455.2800	0.0600	0.6855	mesura agregada; pendent d'audició
+spk-029	Jordi Torres Alís	7	4	95.6100	546.8200	1828.7700	2669.5400	0.0500	0.6687	mesura agregada; pendent d'audició
+spk-030	Josep Areny	12	6	121.2000	621.8200	1640.8250	3015.8250	0.0700	0.6021	mesura agregada; pendent d'audició
+spk-031	Josep Areny Fité	11	8	134.6950	704.9750	1888.0300	2978.1750	0.0600	0.5870	mesura agregada; pendent d'audició
+spk-032	Josep Casal	6	2	120.1500	476.8100	1873.3700	2752.4700	0.0800	0.6540	mesura agregada; pendent d'audició
+spk-033	Josep Garrallà Rossell	11	8	111.2900	459.2650	1673.3100	2694.9650	0.1000	0.5867	mesura agregada; pendent d'audició
+spk-034	Josep Marsal Riba	9	4	163.9950	454.6850	1684.9650	2693.1050	0.1500	0.4121	mesura agregada; pendent d'audició
+spk-035	Ladislau Baró Solà	13	6	94.3350	465.4450	1633.1350	2526.1350	0.0600	0.5500	mesura agregada; pendent d'audició
+spk-036	Ludmilla Lacueva	5	5	207.9700	525.6000	1940.0400	2838.0700	0.2800	0.0297	mesura agregada; pendent d'audició
+spk-037	Maria Reig Moles	13	11	229.8150	559.2600	1598.8800	2914.9400	0.1000	0.5526	mesura agregada; pendent d'audició
+spk-038	Mercè Segura	13	10	152.4900	468.1900	1662.3750	2596.1100	0.0600	0.6019	mesura agregada; pendent d'audició
+spk-039	Miquel Aleix Areny	23	8	135.4800	400.5950	1891.7900	2771.1800	0.0800	0.6045	mesura agregada; pendent d'audició
+spk-040	Miquel Armengol Pons	15	9	120.0800	500.3200	1424.6100	2548.4700	0.0800	0.6029	mesura agregada; pendent d'audició
+spk-041	Miquel Naudi Casal	9	12	143.1700	485.4000	1626.9900	2647.3350	0.0800	0.4536	mesura agregada; pendent d'audició
+spk-042	Mossèn Ramon de Canillo	14	11	136.6900	788.5700	1783.9300	2731.2900	0.1100	0.4339	mesura agregada; pendent d'audició
+spk-043	Nadia Aleix Tugas	23	17	154.0350	584.0300	1942.5400	2995.9500	0.1000	0.5630	mesura agregada; pendent d'audició
+spk-044	Olga Adellach Coma	15	13	159.7700	552.6900	1725.7200	2796.3300	0.0600	0.5862	mesura agregada; pendent d'audició
+spk-045	Patrick Pérez	12	10	142.9600	691.3600	1639.3100	2498.1350	0.0800	0.6595	mesura agregada; pendent d'audició
+spk-046	Pere Altimir Pintat	11	8	85.7100	617.8550	1782.1950	2896.5200	0.0600	0.5446	mesura agregada; pendent d'audició
+spk-047	Pere Torres	3	2	100.6000	470.4950	1477.9300	2422.5450	0.1000	0.6417	mesura agregada; pendent d'audició
+spk-048	Ramon Canut Bové	26	14	118.2400	520.3500	1862.3700	2790.4400	0.1000	0.4062	mesura agregada; pendent d'audició
+spk-049	Robert Cassany Vila	8	5	119.0200	262.4500	1934.5900	2871.5800	0.0900	0.4498	mesura agregada; pendent d'audició
+spk-050	Robert Lizarte	8	6	143.4700	767.4050	1740.6950	2704.3900	0.0850	0.5244	mesura agregada; pendent d'audició
+spk-051	Rosa Maria Mandicó Alcobé	15	8	152.6800	517.7150	1772.6400	3090.2400	0.0900	0.5929	mesura agregada; pendent d'audició
+spk-052	Rosa Vidal	4	3	189.9600	641.0500	1755.0800	2815.7100	0.0400	0.7670	mesura agregada; pendent d'audició
+spk-053	Roser Bastida	14	11	190.8150	554.0000	1996.3900	3077.1900	0.0650	0.6163	mesura agregada; pendent d'audició
+spk-054	Roser Jordana	12	10	175.0850	564.9500	1798.3950	2738.3200	0.0800	0.6239	mesura agregada; pendent d'audició
+spk-055	Ruth Casabella	5	4	181.8200	589.1550	1754.3650	2654.3750	0.0600	0.7120	mesura agregada; pendent d'audició
+spk-056	Sara Ubach	5	4	186.6050	543.0700	2036.7950	3008.4200	0.1400	0.8358	mesura agregada; pendent d'audició
+spk-057	Teo Armengol	13	9	131.5500	555.2700	1627.6700	2437.7300	0.0800	0.5903	mesura agregada; pendent d'audició
+spk-058	Trini Mandicó Baró	5	3	169.4700	415.0900	2069.7300	3034.9800	0.0600	0.6139	mesura agregada; pendent d'audició
+spk-059	Xavier Planas	8	7	115.6000	499.5300	1749.1400	2495.8100	0.0850	0.6058	mesura agregada; pendent d'audició
+spk-060	Àngels Mach	0	0							mesura agregada; pendent d'audició

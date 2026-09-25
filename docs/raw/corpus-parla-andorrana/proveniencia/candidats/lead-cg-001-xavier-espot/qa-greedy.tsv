@@ -1,0 +1,5 @@
+forma	clip	small	base	greedy	text_greedy	estat
+per tant	clips/xavier-espot__per-tant__91.48.wav	1	1	sí	de forma clara que volen un consell plural i per tant un govern plural.	tercera ASR greedy; pendent d'audició
+perquè	clips/xavier-espot__perqu__37.88.wav	1	1	no	i que la gent que ha de fer el que ha de fer.	tercera ASR greedy; pendent d'audició
+comú	clips/xavier-espot__com__103.48.wav	1	1	sí	per la diversitat al tom d'un projecte comú en benefici de totes les persones.	tercera ASR greedy; pendent d'audició
+andorrana	clips/xavier-espot__andorrana__58.76.wav	1	0	no	que el Partit Popular de la Generalitat de Catalunya ha de ser el que ha de fer.	tercera ASR greedy; pendent d'audició

@@ -1,0 +1,657 @@
+forma	id_persona	interval_escolta	interval_base	clip	estat_clip	sha256	duracio_s
+bé	pa-001	49.17-54.35		clips/pa-001__b__49.17.wav	existent-extraient-sense-overlap	e30d5df251638f7c7f0edd9cc400f8c4eea5af967862abd6906dad2785fe1670	5.180
+bé	pa-002	348.25-355.75		clips/pa-002__b__348.25.wav	existent-extraient-sense-overlap	4e31cb66ba3c12e600dd20dfe1255aa214a465a49eb98dce47e2b589649517b8	7.500
+bé	pa-003	0.00-7.19		clips/pa-003__b__0.00.wav	existent-extraient-sense-overlap	008eb3fe6d9be6fb42738890fa5177d68247f534391c20920525c41994e35dd1	7.190
+bé	pa-004	319.61-322.59	319.32-321.32	clips/pa-004__b__319.61.wav	existent	df7d24cb4e6e4fad2990bb079bddcc77304bfd0271739dcac0bfd3c31fc3d9f8	2.980
+bé	pa-005	51.09-56.07	51.80-55.36	clips/pa-005__b__51.09.wav	existent	705d6cb898f2bf5527351d34b6efec68717e495cf43064cdd8b8546d677dda0f	4.980
+bé	pa-006	151.25-159.75	154.68-158.84	clips/pa-006__b__151.25.wav	existent	8ecb14864a2cbc485956de412094aeebb300609ce9ce7058fe118bb9d3351ed9	8.500
+bé	pa-007	59.25-66.75	59.72-65.24	clips/pa-007__b__59.25.wav	existent	7bcafbd2c7cfcd294fc5f3127d39c12303eba4ce1e54675fd5e7be02556993a9	7.500
+bé	pa-008	61.25-65.75	63.08-64.88	clips/pa-008__b__61.25.wav	existent	2ba6447522d9e1a68ddefe23659bbbb2019f14d192b88b5d3c76ec9645fd7d72	4.500
+bé	pa-009	557.25-561.75	557.76-563.20	clips/pa-009__b__557.25.wav	existent	b2df5a5659372b5420f121ee03d4321eb31516e78dc9f30f2d4c47056c949be1	4.500
+bé	pa-010	24.65-31.67	27.32-31.00	clips/pa-010__b__24.65.wav	existent	309b173e7d6f30301d9e7648b7163fb5f2d33aa940f2eaa4129fa4ee34282ff2	7.020
+bé	pa-011	185.57-189.31	186.32-188.52	clips/pa-011__b__185.57.wav	existent	034b819677a59b8d383b5ddb60c9951a3331f66f42a86724202ce1b2c815ec04	3.740
+bé	pa-012	160.25-164.75		clips/pa-012__b__160.25.wav	existent-extraient-sense-overlap	ae20200d9709a8bf8fe19b27833a765647c898f29d383731fc285c0fbecbc187	4.500
+bé	pa-013	196.65-203.47		clips/pa-013__b__196.65.wav	existent-extraient-sense-overlap	4be0dce49624a07cf218029bdefa30dac94a6d0f63074f1550a6c4d46f76cc72	6.820
+bé	pa-014	165.65-181.55		clips/pa-014__b__165.65.wav	existent-extraient-sense-overlap	84e592b342e07ed19da4d3591c763ba3a1106e7f5f6a38d75ad4fe0154e52775	15.900
+bé	pa-015	42.25-48.75		clips/pa-015__b__42.25.wav	existent-extraient-sense-overlap	9d687504f670441620fcf71087d8c7ead97a5676a33cc55c5d782287307ad378	6.500
+bé	pa-016	170.05-177.19	174.44-175.92	clips/pa-016__b__170.05.wav	existent	3114a077311c96bb91a613edf7f8772cf1201008f33c622cc6d733e2d72bd791	7.140
+bé	pa-017	112.25-118.15		clips/pa-017__b__112.25.wav	existent-extraient-sense-overlap	185a7b75ebc42147af7b53be580161cf6a37b6e1386ca1e1047404849d1dcd76	5.900
+bé	pa-018	210.65-215.47	215.12-222.96	clips/pa-018__b__210.65.wav	existent	faa0207a3ea1c2e6fa89296a70c6705003e1991e64fef1964f8695d02b9023d8	4.820
+bé	pa-019	195.25-201.75	196.80-200.60	clips/pa-019__b__195.25.wav	existent	baca99f8f5fc8e98cc25c4c717d198785f470a2547be4a6579e579dbed79980a	6.500
+bé	pa-020	146.37-152.31	147.16-151.44	clips/pa-020__b__146.37.wav	existent	5038754b1feaf6561e715b580dbcb16e056fb406fda76ee42616555e4a2cdd07	5.940
+bé	pa-021	257.61-263.59		clips/pa-021__b__257.61.wav	existent-extraient-sense-overlap	1099f23456a12240f6264e7c6ccf06849e0002d5f845209d206c73d48af120a4	5.980
+bé	pa-022	270.45-275.35		clips/pa-022__b__270.45.wav	existent-extraient-sense-overlap	2a0bb5a666bded8fb4b9efd227432e84cee69baabbd831c6b0c5338443159342	4.900
+bé	pa-023	409.37-413.47	410.04-412.56	clips/pa-023__b__409.37.wav	existent	33c26058d9915691b86d8d6c945a3532d840afe96691661568cc1693dbff5dfc	4.100
+bé	pa-024	175.29-180.79		clips/pa-024__b__175.29.wav	existent-extraient-sense-overlap	7ff0e44ad22568f52fcae0c2797499c6bc50b1e7a4a1d90736c0467b9a88ccc8	5.500
+bé	pa-025	1023.77-1027.67	1024.60-1026.84	clips/pa-025__b__1023.77.wav	existent	9e360170ebd3186c4ce3da3fc91d1f3b1fd226a47d76b4c8d530d36695e31f4f	3.900
+bé	pa-026	99.97-103.47		clips/pa-026__b__99.97.wav	existent-extraient-sense-overlap	3a8194a3a67fdc205826ec52089924e2899e14e33d1dc8d0f7405916efd9401e	3.500
+bé	pa-027	30.97-36.55	31.76-35.72	clips/pa-027__b__30.97.wav	existent	7ebff0507fbda5ef34795127464479092bbe4b9b0524f45963d6493e990f80fe	5.580
+bé	pa-028	182.49-187.39	183.32-186.72	clips/pa-028__b__182.49.wav	existent	5ae58c23f4052ae6cec4c027ae68a73d8815470c74464f804e71b0333fa4c75c	4.900
+bé	pa-029	42.97-46.79		clips/pa-029__b__42.97.wav	existent-extraient-sense-overlap	446ec5b2d51a02a0ef8a699502b7eb63ec5109afb9ef33a0b01ff6bb6845ab73	3.820
+bé	pa-030	436.45-441.63	437.76-440.80	clips/pa-030__b__436.45.wav	existent	a2c22fe4e653269b64a3b7ec83b036a7c3abd3365f8c7cc42117f002eafa0952	5.180
+bé	pa-031	329.13-333.07		clips/pa-031__b__329.13.wav	existent-extraient-sense-overlap	c680c63dfdd7c2d74eb0878c279ea82bb0eb55725c0691e749bf3a8bcd42792f	3.940
+bé	pa-032	270.41-274.95	272.92-276.80	clips/pa-032__b__270.41.wav	existent	88e847eb334de667032cb557c02e66845e7087862b7c33cae06edb1efa1b65e3	4.540
+bé	pa-033	103.09-107.43	103.88-106.52	clips/pa-033__b__103.09.wav	existent	725afb8868c8e1569d935fba4ca043d834faa1535a5b5f66a934de8f1a3ff987	4.340
+bé	pa-034	18.85-23.15		clips/pa-034__b__18.85.wav	existent-extraient-sense-overlap	1f30c9f13a81e15ff61db047cab9d99d2e40492184c452071145911d324552e8	4.300
+bé	pa-035	715.81-720.31	716.20-719.20	clips/pa-035__b__715.81.wav	existent	3bee08777cae7cfb8a9cf69ee991e50de4e3a6df2dcc6fa1c3ba08e8e03a9507	4.500
+bé	pa-036	69.45-75.15	70.40-73.16	clips/pa-036__b__69.45.wav	existent	92f1604a22b86f3c74aa7470883843d51e3dff1b7b7ce032f1b62aa1ee5ea6a5	5.700
+bé	pa-037	105.29-124.79	107.08-109.72	clips/pa-037__b__105.29.wav	existent	06492e67f98cb5ff6ac0d9ccce990af01b2ac560f6a02ec29f9173dfe995ec1d	19.500
+bé	pa-038	26.77-31.71	26.32-30.60	clips/pa-038__b__26.77.wav	existent	9a8b5b80d6eb8653df738050cd79666a39bc0cf09610a317185389a897599200	4.940
+bé	pa-039	27.77-32.03	28.96-31.16	clips/pa-039__b__27.77.wav	existent	9f205fdb77948f20db612fa965d1b98ea9dbc5150d1a003937b7c95e563147d6	4.260
+bé	pa-040	32.81-38.63	34.04-37.96	clips/pa-040__b__32.81.wav	existent	51b3eada431d0bcb5efe581e64a820ef089bd36a1baf27a15188ae4da8889b38	5.820
+bé	pa-041	130.25-137.75	131.16-134.56	clips/pa-041__b__130.25.wav	existent	a68aff31d4d7e3d50c926aba76d9f17f320b994cb7e11d53f0d490839d7f8276	7.500
+bé	pa-045	83.49-91.43	83.16-86.40	clips/pa-045__b__83.49.wav	existent	361724fa3ca9a5367697b671f81950f433a0411978eaf451e4c8caa62c80e325	7.940
+bé	pa-046	348.81-352.55	349.64-351.80	clips/pa-046__b__348.81.wav	existent	3b278759a27898565a9ba4b20321e1da89b959bed4c0db4ef3e3c77fbb2509bf	3.740
+bé	pa-048	495.73-502.83	496.24-499.24	clips/pa-048__b__495.73.wav	existent	c387285fa37a49bf0183699c28c6cb6ad52afae3d174891ae1339efe5fd8ea55	7.100
+bé	pa-049	74.21-82.63		clips/pa-049__b__74.21.wav	existent-extraient-sense-overlap	ef676d09815d210cee31283bdddfd05be42d436a5698ffae0e503200b028ab61	8.420
+bé	pa-053	90.81-95.91		clips/pa-053__b__90.81.wav	existent-extraient-sense-overlap	9115c12d369b3bb197dfd272adb3d2860e2a3852cdc1be7efef9bd8739b77ed1	5.100
+bé	pa-054	128.77-134.43		clips/pa-054__b__128.77.wav	existent-extraient-sense-overlap	a47dc6b094324d82ae2182181c82f324cf26cccdab245eedc3d6e602d0e91998	5.660
+bé	pa-055	358.57-362.07	359.84-363.84	clips/pa-055__b__358.57.wav	existent	34d71f23eaa5314c8bbc13163699ad7326deffbea0194e1fd6adcb261df23837	3.500
+bé	pa-056	436.49-441.47		clips/pa-056__b__436.49.wav	existent-extraient-sense-overlap	be3e64d686c52927c96745d0ba7df289b9d0957d0da403ef1b1da9fb03b1766d	4.980
+bé	pa-057	203.57-209.03		clips/pa-057__b__203.57.wav	existent-extraient-sense-overlap	5492b3b2cf53849c1b03e9bc5aea26566bf9aff819e50f36a6b5389fd86c814e	5.460
+bé	pa-058	210.61-215.39		clips/pa-058__b__210.61.wav	existent-extraient-sense-overlap	6674c5322827709752c45df8853aea9f030442669673f32267ca5b008003ce5c	4.780
+bé	pa-059	112.41-118.27		clips/pa-059__b__112.41.wav	existent-extraient-sense-overlap	4b3ab0927fdabdd652bcb7faa3cb5a0c80780548e50790644a0a6ae55fc097da	5.860
+bé	pa-060	415.73-419.91		clips/pa-060__b__415.73.wav	existent-extraient-sense-overlap	b2c9be9d1b9b85533e5b640f318feeecb75e793dfa829fffa2954a1b1f8327fb	4.180
+bé	pa-061	662.89-667.43	663.60-666.76	clips/pa-061__b__662.89.wav	generat	ad23a7e65a7e9490e9e5ba9c51d87ef1f6a686ba78779eb4b9f279378b67f46e	4.540
+bé	pa-062	401.61-406.47	401.04-403.08	clips/pa-062__b__401.61.wav	generat	38f02c1b9070498812dd505aaa226cc78810c5dc0364f2295dd706915d2fa0bf	4.860
+bé	pa-063	105.97-110.35	106.84-109.48	clips/pa-063__b__105.97.wav	generat	5e555865701ba251187855e9f64c41a4da8a64883a220b860aff83a141c6c032	4.380
+bé	pa-064	97.93-104.11	98.72-103.44	clips/pa-064__b__97.93.wav	generat	f2853c6daf3f83d218c44e2ece3d6b4dcf75210e30882a7d464881930c4dabf0	6.180
+bé	pa-065	138.57-144.67	139.20-142.00	clips/pa-065__b__138.57.wav	generat	13d706fe597ebef3b508b59a531d16f8db00f85915f3493c1489e5b33de6329c	6.100
+bé	pa-066	10.13-15.71	12.92-17.00	clips/pa-066__b__10.13.wav	generat	250a23141136c42f1e2836ff2f3758048ad53d182346bd09d0ab497ea3c06b02	5.580
+de fet	pa-001	68.49-71.99		clips/pa-001__de-fet__68.49.wav	existent-extraient-sense-overlap	851dbae6253ffdface9f901f96eef681d2f9f9cb30bda66c54f5144e53b30041	3.500
+de fet	pa-002	72.25-76.75		clips/pa-002__de-fet__72.25.wav	existent-extraient-sense-overlap	847f1018b1b45bc0a38c4eca4b30755512db15e0dba03ec14eebf6bbdda2cfd1	4.500
+de fet	pa-003	0.00-7.19		clips/pa-003__de-fet__0.00.wav	existent-extraient-sense-overlap	008eb3fe6d9be6fb42738890fa5177d68247f534391c20920525c41994e35dd1	7.190
+de fet	pa-004	601.17-607.35	603.56-612.84	clips/pa-004__de-fet__601.17.wav	existent	6f305ce3b656fbd3f74eb3e3bb1eef5471b8898aeee64dcd05c7049966915832	6.180
+de fet	pa-006	285.25-291.75	285.92-290.52	clips/pa-006__de-fet__285.25.wav	existent	1bf772774bb8043b9f1f91446680ac19da3b91704a57ad5bee82b37b0b9ac226	6.500
+de fet	pa-008	799.25-804.75	797.42-802.42	clips/pa-008__de-fet__799.25.wav	existent	258cb96e038458f4aed2481073381e1b001bb4cffe92535d5efb901a8055498a	5.500
+de fet	pa-010	647.25-652.75	647.80-651.40	clips/pa-010__de-fet__647.25.wav	existent	6f7245008f39b5a51b16fca07169d000b0e91a17cb7b40b0141731471492bcd9	5.500
+de fet	pa-011	557.25-561.31	557.52-560.52	clips/pa-011__de-fet__557.25.wav	existent	74feacb443cae46de84816b37e1b0a352845e9eeff6cfeb557c32be14d1e361e	4.060
+de fet	pa-016	318.53-324.03	319.24-322.16	clips/pa-016__de-fet__318.53.wav	existent	84cbcc4e1c24b07e98c045a58a1d6b4ca47a7767d60667070ce816649d43935f	5.500
+de fet	pa-022	420.21-424.71	421.08-424.08	clips/pa-022__de-fet__420.21.wav	existent	af302f4211879739bd8091c79ba3e5666401bde824ff072650352bc78559b913	4.500
+de fet	pa-023	72.49-78.31		clips/pa-023__de-fet__72.49.wav	existent-extraient-sense-overlap	22d5efac82b842a1fc62f7b0bf600c5aea467e1f0ff55ab879d4b1f4f65ffbda	5.820
+de fet	pa-024	482.25-489.07		clips/pa-024__de-fet__482.25.wav	existent-extraient-sense-overlap	59ccb13d083f2806c40f8e502377c50015681fba7bdcbce4f997877b1351a63a	6.820
+de fet	pa-025	890.85-894.31	891.36-895.76	clips/pa-025__de-fet__890.85.wav	existent	a559a2cde3a26d3892dd1f6c0429cb20c6210324f18046d1afc84744ceff4cf2	3.460
+de fet	pa-027	109.45-115.11	111.04-114.24	clips/pa-027__de-fet__109.45.wav	existent	62772c63d9db7198189ed0009cd36dde8e4b071838889fc6b2ca1a9d9b845908	5.660
+de fet	pa-028	31.17-37.07	33.48-36.36	clips/pa-028__de-fet__31.17.wav	existent	aeff5683a84ab11ea5d8a8f1aaf029d27cdd3720613c2afeac4659324f031326	5.900
+de fet	pa-031	9.93-14.23	10.72-13.40	clips/pa-031__de-fet__9.93.wav	existent	5785296cce7554b7cb749c80b7cb6e1fbe29aa36ce7eaa2ff059ae184192b98a	4.300
+de fet	pa-033	249.69-252.55		clips/pa-033__de-fet__249.69.wav	existent-extraient-sense-overlap	46a44cd237981a6175ace71efc9c7211829ef554ac1021d65b6c74757ae97af0	2.860
+de fet	pa-040	70.17-73.51	70.92-73.88	clips/pa-040__de-fet__70.17.wav	existent	1a1f4d6fe223de8ca0f3798029daa9a58cc783b6c68421e0666332a6e0bbdf51	3.340
+de fet	pa-051	200.81-205.31		clips/pa-051__de-fet__200.81.wav	existent-extraient-sense-overlap	0285ad57f4c9bdaafb7811096af2b37d99e3a1ca2edd83ce3d307d428d21a609	4.500
+de fet	pa-057	561.25-569.07		clips/pa-057__de-fet__561.25.wav	existent-extraient-sense-overlap	f60689c72422dd191b8e8e1427701fbb4c3f158b74a781b44419188b83c10e25	7.820
+de fet	pa-060	72.57-78.35	73.24-77.60	clips/pa-060__de-fet__72.57.wav	existent	c9b4a528445a1057a5f3a047b6e68cb9f6ab9e2db61b98a7394c4753d3c7d8a6	5.780
+de fet	pa-065	883.97-888.71		clips/pa-065__de-fet__883.97.wav	existent-extraient-sense-overlap	5685365f3b00bfe1a63764e888abf93b90b4eebbd10b79ceca8eabde8f0ff101	4.740
+de fet	pa-066	44.37-49.71	46.08-49.00	clips/pa-066__de-fet__44.37.wav	generat	dbe5e9976b2c7b08c17418d9f351cc61ea16589892a902afae955be09045087b	5.340
+és a dir	pa-001	890.97-894.47		clips/pa-001__s-a-dir__890.97.wav	existent-extraient-sense-overlap	f66753c5bc118e0315902c298296c8a5beb477ca293933638f85bba7ae2b7388	3.500
+és a dir	pa-002	12.25-17.75		clips/pa-002__s-a-dir__12.25.wav	existent-extraient-sense-overlap	6aa060c5245db509abfb70f46cd39abe070648e52010c2146d0e3f65b9f9adf2	5.500
+és a dir	pa-003	65.05-70.51		clips/pa-003__s-a-dir__65.05.wav	existent-extraient-sense-overlap	59b64c066f1c3da6cb7dda74af1439a5735602573b5b739c14a9957829358293	5.460
+és a dir	pa-007	684.25-687.75	684.90-687.50	clips/pa-007__s-a-dir__684.25.wav	existent	90b5e99b7d6efac4f8a32ffbc80d1fc68cc5d31b28e5dfec4aea16991c4a2132	3.500
+és a dir	pa-008	1110.25-1114.75	1112.24-1117.88	clips/pa-008__s-a-dir__1110.25.wav	existent	d7847079f3efecbd32a84cafe9c06c682f01f3697e52af62b036a54b2c607e25	4.500
+és a dir	pa-010	243.25-249.55	241.76-245.60	clips/pa-010__s-a-dir__243.25.wav	existent	be9f18bc86f42531bca48f45180c65afcc40de7b6246c72a4e1ddeb93c5171b6	6.300
+és a dir	pa-011	48.09-54.67	47.72-51.72	clips/pa-011__s-a-dir__48.09.wav	existent	e1904cb81b1d6adbcad154c83d7ba280b510707fe8a0fca66629592f681002f0	6.580
+és a dir	pa-013	579.17-586.75	578.28-583.56	clips/pa-013__s-a-dir__579.17.wav	existent	30f54ca8f95556f452e42047d54e4de6a1235335e4afb66e77b83fe5bd922380	7.580
+és a dir	pa-014	95.45-107.35	99.44-103.28	clips/pa-014__s-a-dir__95.45.wav	existent	937818a38ad39abcac08411c2e0188ba532abd50c204a759271d8a052d426d23	11.900
+és a dir	pa-016	85.97-90.59		clips/pa-016__s-a-dir__85.97.wav	existent-extraient-sense-overlap	5e147da8e76844f2f8ce04867a23c97da0fe02cba43a70432c0fc2c8afe66cee	4.620
+és a dir	pa-017	487.25-494.75	488.44-490.92	clips/pa-017__s-a-dir__487.25.wav	existent	76794b4314dd38ba0f8979bf00b317b78e187016f5a11beabb485f65ae5c05ab	7.500
+és a dir	pa-018	74.49-79.83	75.12-79.12	clips/pa-018__s-a-dir__74.49.wav	existent	c1b8c86cc470f9191fdb5a34c4d5e4886e4a9927206a0b5de46c8b13140e5cca	5.340
+és a dir	pa-019	56.25-60.75		clips/pa-019__s-a-dir__56.25.wav	existent-extraient-sense-overlap	67da3a42e6228a1a0479c7ecc4b896b1974bcb60d2a01532042cc03c077f04fe	4.500
+és a dir	pa-021	32.29-38.55	34.20-38.00	clips/pa-021__s-a-dir__32.29.wav	existent	651bafcfdb72346d819678d5e876950ff54398179738962c2a5e629a3a3fc465	6.260
+és a dir	pa-022	11.49-17.91	10.88-17.20	clips/pa-022__s-a-dir__11.49.wav	existent	d843e8305006a5a4c5272cf8b7a7f216adc3828d8b4629f2914eea67b0dab85b	6.420
+és a dir	pa-023	207.17-213.55	207.80-212.80	clips/pa-023__s-a-dir__207.17.wav	existent	4e68e4319d2a18e6dff4e3460aa1f69cc7efa50f5c0440b12fd0dc4e08e4eee2	6.380
+és a dir	pa-024	78.49-84.39		clips/pa-024__s-a-dir__78.49.wav	existent-extraient-sense-overlap	a1c469ae4499b42f14fb3519630a085e61dd4916629f9c6d058664d998c00ff2	5.900
+és a dir	pa-025	64.61-70.95	65.24-70.16	clips/pa-025__s-a-dir__64.61.wav	existent	9fb60f0251e2633eca14340bff258dad7323703f418efa58bfa5ccca7e72efe1	6.340
+és a dir	pa-026	64.09-68.39	63.04-67.44	clips/pa-026__s-a-dir__64.09.wav	existent	a0131f905fc6b5055935b9db4e5f641e9c8dd15f1c33156a2430926f27383e95	4.300
+és a dir	pa-027	185.61-192.87		clips/pa-027__s-a-dir__185.61.wav	existent-extraient-sense-overlap	396166e7dcac8577bd565408d3f51829e90f5e81bdbee5c08cf4fdf2ec70940e	7.260
+és a dir	pa-029	20.17-25.95		clips/pa-029__s-a-dir__20.17.wav	existent-extraient-sense-overlap	ef9474026c7f18f4fb50a9dc8f3f7bacb81d8d3aa0ba4e40508fdf169f37aff9	5.780
+és a dir	pa-030	193.13-199.43	194.12-198.44	clips/pa-030__s-a-dir__193.13.wav	existent	e639a844cd0b4096368c9713a4168e0f23d36386cb8f61585d15fe2591a67a46	6.300
+és a dir	pa-033	39.29-44.27		clips/pa-033__s-a-dir__39.29.wav	existent-extraient-sense-overlap	59ceeb2bbceabed226bbe4c6145e2f79311fe783fdce01469fe6a656b015b748	4.980
+és a dir	pa-034	319.09-323.47		clips/pa-034__s-a-dir__319.09.wav	existent-extraient-sense-overlap	9331f5ffd757dadab35eb80f7cc82ec0684643d885f860870dc8eab5aac98eeb	4.380
+és a dir	pa-035	582.29-589.75	583.08-588.44	clips/pa-035__s-a-dir__582.29.wav	existent	f2bcfd4264c9b77392e1804d4c2b2c3dc756b035221279fa8a75d134b3a9e40c	7.460
+és a dir	pa-039	209.05-216.11		clips/pa-039__s-a-dir__209.05.wav	existent-extraient-sense-overlap	c7ec91fc0d849e8070eb6d0be7503180d1e28b59632ca1c372f4773ed0964d2c	7.060
+és a dir	pa-041	259.25-265.75	260.20-262.48	clips/pa-041__s-a-dir__259.25.wav	existent	17d1710a17d525e56b3b02cf45cf664432a56df1654241b50d9005df0068ee78	6.500
+és a dir	pa-043	107.25-111.75	107.80-111.08	clips/pa-043__s-a-dir__107.25.wav	existent	0df85958790c617518e71266c51c91d6f68d1a832a6edac50e3eacd6b9763caf	4.500
+és a dir	pa-046	135.61-140.07		clips/pa-046__s-a-dir__135.61.wav	existent-extraient-sense-overlap	cd35ebbe856f24d950b4f7bdec74c37fa4dd26a1523fca161dddc698c05bfab4	4.460
+és a dir	pa-048	1130.61-1135.31	1131.28-1137.68	clips/pa-048__s-a-dir__1130.61.wav	existent	04877838ff772e15984f20b318b32547932ad38359b416d80b043ec25f100cfc	4.700
+és a dir	pa-049	907.25-911.75		clips/pa-049__s-a-dir__907.25.wav	existent-extraient-sense-overlap	f673b179258a15426f515386474b876cc5727b919573bb400dd86409224e6273	4.500
+és a dir	pa-055	63.89-68.59	59.00-67.24	clips/pa-055__s-a-dir__63.89.wav	existent	5a77a923a35da12ae764c729ea54da5af9922d6b7fc57f4732ea86f932e9d997	4.700
+és a dir	pa-056	7.45-10.87	8.16-10.24	clips/pa-056__s-a-dir__7.45.wav	existent	40d9f02c140bc82760202413f77bf7ec1b4f259d55aab187e178087026217ac3	3.420
+és a dir	pa-057	19.89-25.51		clips/pa-057__s-a-dir__19.89.wav	existent-extraient-sense-overlap	b7377ca3f46b1c14527d019f4fa4e786402b6bb189423a6a6cac92637f3a19e3	5.620
+és a dir	pa-058	74.41-79.87	75.12-79.20	clips/pa-058__s-a-dir__74.41.wav	existent	3270b5a32a26b56d13f5e7a311d8571acb19fbe6c6b2bdb68cc78cd598fafc4b	5.460
+és a dir	pa-059	487.81-491.67	488.48-491.68	clips/pa-059__s-a-dir__487.81.wav	existent	17b296a0e5a6e402bdd257057aa768211153ae1f07c592f8fb1986e8c2a6655c	3.860
+és a dir	pa-060	207.33-213.63	208.00-212.92	clips/pa-060__s-a-dir__207.33.wav	existent	2471390a14b2c0fb36e070e927579b78a9ce4e80deca71d2cbf396266f737081	6.300
+és a dir	pa-062	973.65-980.31	974.40-978.16	clips/pa-062__s-a-dir__973.65.wav	generat	fb0f7ddeaa9f328943a90c2dda128ececea860d7ceb0eca6da117ce7d4218d21	6.660
+és a dir	pa-064	258.61-265.03	259.44-262.76	clips/pa-064__s-a-dir__258.61.wav	generat	6f88494f23f3f6d31519bbd2bab3319a6562eda4c3d55c7e809aeb164f191e1c	6.420
+és a dir	pa-065	221.29-226.15	221.96-226.32	clips/pa-065__s-a-dir__221.29.wav	generat	547318df114e2471986fb9928eb93f947d264d0a16c6ebc99e598df803658079	4.860
+aleshores	pa-001	10.13-13.63		clips/pa-001__aleshores__10.13.wav	existent-extraient-sense-overlap	fd634d674954d7ff8177d2765a9587aa75732bed51b4de4715487319bb373218	3.500
+aleshores	pa-003	18.69-23.19		clips/pa-003__aleshores__18.69.wav	existent-extraient-sense-overlap	3d13e526e074748662304e0786ba52952d1e22332ddd5dd249c018336479bad9	4.500
+aleshores	pa-006	513.25-518.75	513.38-518.38	clips/pa-006__aleshores__513.25.wav	existent	cac256c27dcd20d9a0f265adeaf6a2fdb6e5da095f09436154680c700b58f2d5	5.500
+aleshores	pa-008	1315.25-1319.75		clips/pa-008__aleshores__1315.25.wav	existent-extraient-sense-overlap	acfe1234f287ab39e2606044e4d008e299c4e0f01dde49bfbdf93e1686854e87	4.500
+aleshores	pa-011	89.33-95.07		clips/pa-011__aleshores__89.33.wav	existent-extraient-sense-overlap	afdb15fd72d7e509681355d6909f7f4d4f08fbc5d3e9195c5a6bdd2ce45edc91	5.740
+aleshores	pa-012	246.25-250.75		clips/pa-012__aleshores__246.25.wav	existent-extraient-sense-overlap	1309d0c47db87d1eb9034c2daaf36ba9e488654f66ec11c3e024c501221bbc9b	4.500
+aleshores	pa-014	119.85-128.75		clips/pa-014__aleshores__119.85.wav	existent-extraient-sense-overlap	63911bfb2d3d460013e3215e932ec4e6e6878c29586645ca7af2f37b28cb5a95	8.900
+aleshores	pa-021	12.25-16.87		clips/pa-021__aleshores__12.25.wav	existent-extraient-sense-overlap	b97222824a9a6be0d866aa21eafb8c01052f4bb3111192b54b4a5c46d926e1c0	4.620
+aleshores	pa-025	361.93-368.19		clips/pa-025__aleshores__361.93.wav	existent-extraient-sense-overlap	be98cda03e68589b1f774916fa60ef4aaa649b0210bc777f4c57af1c79ddf586	6.260
+aleshores	pa-030	392.41-397.91		clips/pa-030__aleshores__392.41.wav	existent-extraient-sense-overlap	94a8266333b15baea8afe7b77f311b56ad8e65e588f0b8ba61dadd364c3c3aa4	5.500
+aleshores	pa-031	54.09-57.91		clips/pa-031__aleshores__54.09.wav	existent-extraient-sense-overlap	d019cc898eb7cba9c1eeabe1e3a717ec298b1722c0c6b338cef450a0e1b97693	3.820
+aleshores	pa-032	79.09-87.19		clips/pa-032__aleshores__79.09.wav	existent-extraient-sense-overlap	1b1bb44e83c8d79ff3c87e0634c94d781b3e1577af3346519993523c255137aa	8.100
+aleshores	pa-045	1193.41-1197.91	1193.04-1197.04	clips/pa-045__aleshores__1193.41.wav	existent	a9cfd2561f71e8fc53262af15e35b36c2fac9c2301b4bb5186e43064c98074f5	4.500
+aleshores	pa-046	527.57-532.55		clips/pa-046__aleshores__527.57.wav	existent-extraient-sense-overlap	0a52865bd466cef70ba154b285ba86e85eede5248397fdf5f4c5bfda26a8f1a7	4.980
+aleshores	pa-048	701.05-707.67		clips/pa-048__aleshores__701.05.wav	existent-extraient-sense-overlap	92ea6396d4bee45e7243a825cbdb34d7bec6c809ecf317d9034027cb7baa06d3	6.620
+aleshores	pa-049	110.29-118.67		clips/pa-049__aleshores__110.29.wav	existent-extraient-sense-overlap	ec9ab55dbb6b883a6759f0d6a2b3d0c7dc6c96a0ecf27d7215720a2ccafdbd08	8.380
+aleshores	pa-056	393.13-397.83		clips/pa-056__aleshores__393.13.wav	existent-extraient-sense-overlap	8f6abda40a406d4b6d088777e6d46ad924a000b59b216e4e16aa25cd13af6759	4.700
+aleshores	pa-060	147.17-151.47		clips/pa-060__aleshores__147.17.wav	existent-extraient-sense-overlap	56a437e5c2d386d9048f86609e58b9100f68164d9a4c45467cdd88148cc54fe6	4.300
+aleshores	pa-063	151.45-155.23		clips/pa-063__aleshores__151.45.wav	existent-extraient-sense-overlap	9af43539cd8ed891d2454f4fe0b0a7589c5c483d856a08243a22b0aebd0b3d4c	3.780
+aleshores	pa-065	170.69-174.71		clips/pa-065__aleshores__170.69.wav	existent-extraient-sense-overlap	bf12d48589a11da8bee2eaa45f351cad6d63b683c0ee3ad57be7124bc98c4b47	4.020
+evidentment	pa-001	1067.69-1071.19		clips/pa-001__evidentment__1067.69.wav	existent-extraient-sense-overlap	ad54c14d5dc00ab16f689e248f37749b4112bf0047d872729259001fa74b6986	3.500
+evidentment	pa-002	205.25-209.75		clips/pa-002__evidentment__205.25.wav	existent-extraient-sense-overlap	e4e97c121a809d5972929da11e022022281e79bf427f53b087fd9ba50dbdca9f	4.500
+evidentment	pa-003	158.81-165.19		clips/pa-003__evidentment__158.81.wav	existent-extraient-sense-overlap	d695c569a87de0b7d9e337834f0d9d2bc05ae440b72c0708cda3268d6d115657	6.380
+evidentment	pa-004	522.93-528.15	523.84-527.40	clips/pa-004__evidentment__522.93.wav	existent	f55e29919d590c73fed4a0a8d149750111fc97e3c65a84379c0b6f017a42626a	5.220
+evidentment	pa-006	124.25-131.75	126.12-128.92	clips/pa-006__evidentment__124.25.wav	existent	922664af514ab81e3c91bbd737eba2871910d5db1b3ab0793a88a5c865a3cca6	7.500
+evidentment	pa-007	778.25-783.75	777.82-782.82	clips/pa-007__evidentment__778.25.wav	existent	d32a68b87812d899b0dbf2cb121f620532107d367553232e74d4a867f9e37369	5.500
+evidentment	pa-009	947.25-951.75	945.80-953.80	clips/pa-009__evidentment__947.25.wav	existent	1b7aa96e46a8e0f9f97e04d9c5fd52a7612d816ec981baae45d556914c293227	4.500
+evidentment	pa-011	157.65-163.71		clips/pa-011__evidentment__157.65.wav	existent-extraient-sense-overlap	8d12436107d6808746ff6c6eb831972630986ea97a387a9a8cc76397acdc7b4e	6.060
+evidentment	pa-013	530.29-540.27	533.24-535.48	clips/pa-013__evidentment__530.29.wav	existent	262441d5ab75225badb99d3976b5fde0348e30a7f8568f2ac4c5ad3f8567f6e3	9.980
+evidentment	pa-014	28.65-37.55	29.32-36.92	clips/pa-014__evidentment__28.65.wav	existent	e2cb865bc7e09464c8f948268e765f5492b45c0bd13ca62d55176c73d3abec1e	8.900
+evidentment	pa-016	456.85-463.03	457.64-462.24	clips/pa-016__evidentment__456.85.wav	existent	e45bc97b4949bcd378c832ec0d1b6d8bf7a0afcfb70010e7a924ee7809e7dd71	6.180
+evidentment	pa-017	152.25-161.75		clips/pa-017__evidentment__152.25.wav	existent-extraient-sense-overlap	0980d5d809cf7b308771b4695670175f03fda42842b539c973425ea41d4b74fe	9.500
+evidentment	pa-019	93.25-97.75	91.04-96.44	clips/pa-019__evidentment__93.25.wav	existent	ca3b2af5f4193ed9e28d5786ffcc7040c1ede6ee015a0393cc1b7d659521f5fc	4.500
+evidentment	pa-020	117.57-122.27	118.20-121.36	clips/pa-020__evidentment__117.57.wav	existent	1e01d9ea60f3605eddeaf0dcdcf81c237c79078ccfc0d472d0b754d46ed1a143	4.700
+evidentment	pa-021	211.41-215.75	212.40-214.88	clips/pa-021__evidentment__211.41.wav	existent	a6392b4b89c49d2c7d873e6fd4628ace365d89e143b40e5cda5e9bd6ddeaea59	4.340
+evidentment	pa-022	303.01-309.59	303.52-308.52	clips/pa-022__evidentment__303.01.wav	existent	00a3842e23e67cb71ec84332e7917e44fdb15bbec0065a2a2f41f4f189334a4c	6.580
+evidentment	pa-024	518.89-523.51		clips/pa-024__evidentment__518.89.wav	existent-extraient-sense-overlap	9bff1d39098b11c7ebc6e7b8e43d5374f965b8b4bd8adefbdd9fd8e001a023e9	4.620
+evidentment	pa-025	1156.61-1160.31	1154.44-1157.80	clips/pa-025__evidentment__1156.61.wav	existent	8325a86028bf65a5e09d1dc15c6543dceb3e2a992217eb149f324658f27bc217	3.700
+evidentment	pa-026	1648.81-1653.83	1646.16-1650.36	clips/pa-026__evidentment__1648.81.wav	existent	1790cdc33ec45e2b7549147f3941d5042385d631d801697f859360ec485e34c3	5.020
+evidentment	pa-027	174.09-178.23	174.72-177.32	clips/pa-027__evidentment__174.09.wav	existent	612fd96bf9dce7a7eb60afe7b3a9fac5b17aa74c679283e98db991cda6f397da	4.140
+evidentment	pa-030	43.53-48.63	44.52-48.32	clips/pa-030__evidentment__43.53.wav	existent	2a791ded5c43a33365aa74d972ca0174e560615308ee892e8a6059a279162a46	5.100
+evidentment	pa-035	472.93-481.79	475.28-477.28	clips/pa-035__evidentment__472.93.wav	existent	8bd1eac538bff526d09524f82db90333d8bc97f08b780a5c744588058d400b9f	8.860
+evidentment	pa-036	202.85-211.95	207.36-210.96	clips/pa-036__evidentment__202.85.wav	existent	ad58ae8bb7fcdeb37f4ac6aac790f51c9fa7265b5bfe9b5554975ac5c4a88a9c	9.100
+evidentment	pa-039	184.17-188.67	183.88-187.00	clips/pa-039__evidentment__184.17.wav	existent	4d885928def64ec7bb908b5d67d18fcc1a632af33430663fbe409d0854c72f54	4.500
+evidentment	pa-040	103.93-106.95	104.60-110.04	clips/pa-040__evidentment__103.93.wav	existent	0a8352575dcb431d01399f17d08b13d39e8a37be6070f68f1b0b18a07f6d698e	3.020
+evidentment	pa-041	353.25-360.75	354.16-357.28	clips/pa-041__evidentment__353.25.wav	existent	2d5d8e7dfe88d737da80df58dad2a0fde0e0f18de6f07507113d9703304e9c28	7.500
+evidentment	pa-045	290.13-298.31	290.44-297.60	clips/pa-045__evidentment__290.13.wav	existent	c24d3885c6cb09b8e089ded26fac1df462068c9ae1e9b4d948e9307ea9c3bf93	8.180
+evidentment	pa-046	705.69-711.03	706.20-708.08	clips/pa-046__evidentment__705.69.wav	existent	52122562e30025725d236858944055360ebbcab26505706b859da779634a5aec	5.340
+evidentment	pa-049	117.17-126.51		clips/pa-049__evidentment__117.17.wav	existent-extraient-sense-overlap	8a788c806eda6852d5e3be7657d05e92c25b293cc8a6ba24f1be7f09bb1b8617	9.340
+evidentment	pa-055	1644.01-1651.31	1645.64-1650.32	clips/pa-055__evidentment__1644.01.wav	existent	e6d3db4c6e1e754db78913c2baaa29fd138e063e6afbdd6ff0e9c1ce714c16ad	7.300
+evidentment	pa-056	43.45-48.59	44.40-48.12	clips/pa-056__evidentment__43.45.wav	existent	09dcc9eb778bfd5d9f45bcd5ca185c0c89c9aadfd03d4e0de98e63bb43458bce	5.140
+evidentment	pa-059	152.13-162.03		clips/pa-059__evidentment__152.13.wav	existent-extraient-sense-overlap	54c4fd53452593e2320033e7bdf759fba890a8885fa76b9599c25224769a11b5	9.900
+evidentment	pa-061	672.69-677.43	673.44-676.68	clips/pa-061__evidentment__672.69.wav	generat	da1fae8a0550bf441d3b25ac4671a7766b80593b26baeda24f8f4d57d0910889	4.740
+evidentment	pa-062	163.29-166.67		clips/pa-062__evidentment__163.29.wav	existent-extraient-sense-overlap	5081a3d7f5256edf099925b73f40ae2843e0ef93df7a1af1ad0076b10a126d45	3.380
+evidentment	pa-064	485.89-491.71	485.68-490.84	clips/pa-064__evidentment__485.89.wav	generat	d43b8ed4624d8891d1a2c0f9311c614e19afbd7a307ad5bd0dd2507db91038da	5.820
+evidentment	pa-066	89.75-95.41	89.96-94.52	clips/pa-066__evidentment__89.75.wav	generat	94cdda4106aec814c3eb0cadccda1203eda24a19f2ecbd4c692d6c8c8130aeba	5.660
+diguem	pa-003	212.85-219.51		clips/pa-003__diguem__212.85.wav	existent-extraient-sense-overlap	de6d76cc285b1f0330aa259fd8776bda7c0dc3965c864084d6961c65b940ce68	6.660
+diguem	pa-006	530.25-535.75		clips/pa-006__diguem__530.25.wav	existent-extraient-sense-overlap	ea5bb328b7da36c15773be969d856276ce7d7e48e2eb09621b0c2bcd669662e2	5.500
+diguem	pa-007	585.25-591.75	582.70-587.70	clips/pa-007__diguem__585.25.wav	existent	c70b6b51a669d6fb01dabdca4e6938a74bdc2008c6bfff1d1247242c25a4f16c	6.500
+diguem	pa-008	374.25-379.75	375.12-382.56	clips/pa-008__diguem__374.25.wav	existent	9e49fc98f3b1d2bdcffb9bb5b8c6dfbed1c58e20f752f21e3dd13cb60f524e55	5.500
+diguem	pa-009	60.25-66.75	63.12-66.12	clips/pa-009__diguem__60.25.wav	existent	f505a5bffc7ef89a153b867745d73bcbd77b389eff390bf8bf7b9f836b8e20a5	6.500
+diguem	pa-018	715.49-721.19	716.04-718.92	clips/pa-018__diguem__715.49.wav	existent	41bfe21a8110960c70025ef311d48cb52313f70b28d4238188295de0015226f5	5.700
+diguem	pa-019	109.25-113.75	109.52-112.60	clips/pa-019__diguem__109.25.wav	existent	d6cc52cc133929929579dc7615f84bd18a4b38c989acd3d848c7c49c41c4d42e	4.500
+diguem	pa-020	1459.77-1463.95		clips/pa-020__diguem__1459.77.wav	existent-extraient-sense-overlap	256c0082ac4c6aab568931f81c724f401cb654e90a17e1c447b6de6c4c05823f	4.180
+diguem	pa-022	447.57-453.55		clips/pa-022__diguem__447.57.wav	existent-extraient-sense-overlap	7cfcb5e709237ea88570d72ecf6161178984d12057971c2905b619ebd34da29c	5.980
+diguem	pa-023	55.05-60.95		clips/pa-023__diguem__55.05.wav	existent-extraient-sense-overlap	97e18c4a9050642fa23263888a451c807fce2433cb830e41667ed1eda2b6191e	5.900
+diguem	pa-025	500.89-506.43	501.76-505.44	clips/pa-025__diguem__500.89.wav	existent	d31e71bc7da322771f5cb7e142782f69d9f3beadc6f4a551fe191856fc9b3193	5.540
+diguem	pa-027	57.77-63.27	58.72-62.64	clips/pa-027__diguem__57.77.wav	existent	67a718a572bf62c7088d55152fdd6960795b85eb4002d3a2cf85830fec818a90	5.500
+diguem	pa-028	168.89-174.15	169.68-176.48	clips/pa-028__diguem__168.89.wav	existent	eba0f0c2eb3e5b23649a889b77ffe7d243c49bcedf2616096117287e52b4f201	5.260
+diguem	pa-029	929.69-935.51	930.60-934.60	clips/pa-029__diguem__929.69.wav	existent	fbabb17291402ae46c90c26c58a132d2f2bb9aab4e8bf3ddecdec3d226bdf002	5.820
+diguem	pa-033	49.01-55.91	49.68-54.72	clips/pa-033__diguem__49.01.wav	existent	ad631b7215d4c5aac568cd226501c4d126fc0de5e788f583c08df99c46d29db7	6.900
+diguem	pa-034	504.45-508.51	504.08-507.08	clips/pa-034__diguem__504.45.wav	existent	cc573f2b5119d203646f32c63cb0a3073eb0cb9579a20fd0c32ffd63b2fa7850	4.060
+diguem	pa-037	469.77-482.03	473.24-478.04	clips/pa-037__diguem__469.77.wav	existent	179d02ed2f679a5dfc5dd9477d04c713a6953c8f92973bc6236632aaf2dcadbb	12.260
+diguem	pa-038	251.25-260.55	254.68-260.72	clips/pa-038__diguem__251.25.wav	existent	90a1e72710479ba6c817fade3148d558de1494f11654d994a136de18ee0a01b9	9.300
+diguem	pa-039	144.37-152.95		clips/pa-039__diguem__144.37.wav	existent-extraient-sense-overlap	0320e09ad9c590b375395e4bff0207e74a2b4f7fe7edfe168f8dd15e924c4cd4	8.580
+diguem	pa-046	626.01-630.19	626.48-629.36	clips/pa-046__diguem__626.01.wav	existent	6734d0bf1a0cc2e3ff4b3ac55500d671822c2df5204f80f755bca866795392df	4.180
+diguem	pa-049	213.13-220.43	219.08-221.28	clips/pa-049__diguem__213.13.wav	existent	3f4b68a21914d0d9d2c900b8f984ddb47868024903d6c201f7bbdf0fd73b895a	7.300
+diguem	pa-057	929.81-935.31	930.48-934.60	clips/pa-057__diguem__929.81.wav	existent	092ef4224ff15548271df7b2ab48b06e378fe2eca316740252be82c5846687b0	5.500
+diguem	pa-058	715.21-718.91	715.92-718.76	clips/pa-058__diguem__715.21.wav	existent	9bb6e92443b6fedf5e1506a78ac5d5779e7d9d3bc2acda740db28bdde4ab20bd	3.700
+diguem	pa-060	55.05-60.91		clips/pa-060__diguem__55.05.wav	existent-extraient-sense-overlap	4ad5687ebd632ff5d78597a5790d649767933cfff49084f9d59b45302a761978	5.860
+diguem	pa-062	191.37-197.03	192.00-196.20	clips/pa-062__diguem__191.37.wav	generat	79428a3395cd75785dc3dbe738a8b222895b6f27d54d1f1c6772789461a02275	5.660
+crec	pa-001	97.33-100.95		clips/pa-001__crec__97.33.wav	existent-extraient-sense-overlap	8ab1dee10f6d4be0b6af2e9fd9e0c7f37098eed68b55b282f9af7fa1005bfe61	3.620
+crec	pa-002	248.25-254.75		clips/pa-002__crec__248.25.wav	existent-extraient-sense-overlap	fa04f503572d4b05cfdaebe51bfa505d292abce136f9447f20d434ed4631b2de	6.500
+crec	pa-003	0.00-7.19		clips/pa-003__crec__0.00.wav	existent-extraient-sense-overlap	008eb3fe6d9be6fb42738890fa5177d68247f534391c20920525c41994e35dd1	7.190
+crec	pa-010	1033.25-1036.75	1028.60-1036.44	clips/pa-010__crec__1033.25.wav	existent	ca690daf51e87de33d499f3db006bcb84f1b27f14b8eefcb926b80072829b220	3.500
+crec	pa-014	153.25-160.55	153.12-165.12	clips/pa-014__crec__153.25.wav	existent	d1adf9ea570bf83162f04b831acc72834c8b1e91470390a2278090d158bb4bd9	7.300
+crec	pa-016	93.17-100.83		clips/pa-016__crec__93.17.wav	existent-extraient-sense-overlap	d661d3b8b2c95553348351694c13d16814f8b04780691b866af6bb9066ebf1ab	7.660
+crec	pa-018	7.49-12.83	4.96-14.12	clips/pa-018__crec__7.49.wav	existent	892fa937d3f28d1abb2e8634864fdad187b0fb5c9380fa33c4086189c763f430	5.340
+crec	pa-019	27.25-31.75	23.72-28.52	clips/pa-019__crec__27.25.wav	existent	240696e84b931381e9f59809c8a1c3951ea15eaa8e9b10125861402ce54f8d7a	4.500
+crec	pa-021	115.53-120.03	116.20-119.16	clips/pa-021__crec__115.53.wav	existent	3258b10743d8cab81625debfd526fc9a66d620cbf7a637e1c99bb78f1dc91ebe	4.500
+crec	pa-022	243.73-249.43	244.16-248.08	clips/pa-022__crec__243.73.wav	existent	b48248228d01c42da3ebd0a223e819a27f5c35c47ced0f985f08c421015e935d	5.700
+crec	pa-023	42.93-50.23	48.12-51.24	clips/pa-023__crec__42.93.wav	existent	0d9335330d570180f0da266ad3fc204795a96679dc8d2ea20092888b4d7d4899	7.300
+crec	pa-024	368.01-372.63		clips/pa-024__crec__368.01.wav	existent-extraient-sense-overlap	af256840702c4389fa217b6dc3be7f0c6c325a6a7ba223a27a63829aa69d8843	4.620
+crec	pa-025	4.25-9.11	0.00-12.00	clips/pa-025__crec__4.25.wav	existent	7de72df51862b2b11412ebf1a1e2f8cdb431d26349d1044b6d76b25f680842f7	4.860
+crec	pa-027	8.81-14.39	8.80-12.04	clips/pa-027__crec__8.81.wav	existent	e8162daab616860e81e55a9b17c1dd1824cef34ede88bf377dfcddb1b9284c85	5.580
+crec	pa-030	346.45-352.99	347.16-352.44	clips/pa-030__crec__346.45.wav	existent	3d80e74eb5491d0a003e0062009915dd4c540cbdfedbda3c6e10fbeb00015386	6.540
+crec	pa-031	87.01-92.63	87.16-93.72	clips/pa-031__crec__87.01.wav	existent	da4bb71e4ef7e8e432dc615542087f22ae8f360022bac972aed0d6b95b782247	5.620
+crec	pa-034	651.65-657.27	652.12-656.32	clips/pa-034__crec__651.65.wav	existent	e4da9577a002f0319c1115b0484fa87525472d8dc4d75f10a9b7b6fe4fb3ccea	5.620
+crec	pa-035	872.77-879.91	873.32-877.60	clips/pa-035__crec__872.77.wav	existent	a65164bf8dbfb44cb34b9055050ba2c7df72078ae201fda57823c78dae14755e	7.140
+crec	pa-037	424.61-437.99		clips/pa-037__crec__424.61.wav	existent-extraient-sense-overlap	5b2742fefbe15706eaf91830a3890b06b2e61e295fff68d5a71085472c118863	13.380
+crec	pa-038	220.69-226.79	220.60-226.68	clips/pa-038__crec__220.69.wav	existent	884b1e51ce66cd952b496f16d9b454d9faf9baeeb8ce3edb28fb408a519c8e49	6.100
+crec	pa-039	90.85-95.95	92.16-95.08	clips/pa-039__crec__90.85.wav	existent	575399cb596411cfa195b0cab9d0fa81b7024afe65156b6f10736c3b4d69689f	5.100
+crec	pa-040	4.37-7.79	5.20-7.20	clips/pa-040__crec__4.37.wav	existent	a999b825a79286639188b920f4623328429fe6012ee2136a2cc15da8dcda8cd6	3.420
+crec	pa-041	56.25-62.75	57.20-60.00	clips/pa-041__crec__56.25.wav	existent	c754c42f61d1a844b0e89dd6aa34ca6235ca671b32270c10a006ea3cc6d2e6f3	6.500
+crec	pa-042	32.01-37.35	32.96-36.64	clips/pa-042__crec__32.01.wav	existent	202bfb935faae4dd23aaa0780321dcacad3c2e65ca92d3efdee883f1c095af4a	5.340
+crec	pa-043	102.25-108.75	103.12-107.64	clips/pa-043__crec__102.25.wav	existent	852ada4cda576e3cba651abb69c4496002392d4a973ffaf363b98f39cc530610	6.500
+crec	pa-045	240.61-245.63	242.88-245.56	clips/pa-045__crec__240.61.wav	existent	53627fa00e9acb7eb3ba5b2a8db51707f46493d1d85e9559b12bf7001c4e85c3	5.020
+crec	pa-046	208.41-212.47	208.80-211.72	clips/pa-046__crec__208.41.wav	existent	3b919fd83c48be155312321bcca841c04606a3dfb7281b4c6f4484355b913a4c	4.060
+crec	pa-048	110.97-117.27	111.44-116.44	clips/pa-048__crec__110.97.wav	existent	49369d24af002dcf807cd314d250b79f985e1ac6c53f1fdba415c0136cf438b5	6.300
+crec	pa-049	371.85-383.51	373.32-375.84	clips/pa-049__crec__371.85.wav	existent	ab8d72defe810b63aee2e81900eff080282a811b632a7d0634123c62a03d6b1c	11.660
+crec	pa-051	208.57-213.39		clips/pa-051__crec__208.57.wav	existent-extraient-sense-overlap	bd3f988c1d3f228686ac1604eca57ac0194a2699c56f2cbc580ef173d40e93d4	4.820
+crec	pa-056	347.05-353.03	347.28-352.28	clips/pa-056__crec__347.05.wav	existent	c6b13c6b9d3220d48bcbc80673d634f9626036aa85ba62f7f03f1410d8dca09a	5.980
+crec	pa-058	6.69-12.71	8.12-11.92	clips/pa-058__crec__6.69.wav	existent	df035a432e201a92046e1f930c23e2cbca7fe650b7b14ab17d4a2252a532e6e5	6.020
+crec	pa-060	42.05-50.19	47.40-51.20	clips/pa-060__crec__42.05.wav	existent	c01302c1afa04855142d06e5fbbad2db3cf9fbb1b42737d245fb8a2f3d89d1e5	8.140
+crec	pa-061	428.85-435.63	431.88-435.08	clips/pa-061__crec__428.85.wav	generat	b1b47f70bd65d620b7a68085c54a4ee30b62c2cb8a28e36b00b33c36c4e950ae	6.780
+crec	pa-062	1037.89-1041.47	1035.40-1041.44	clips/pa-062__crec__1037.89.wav	generat	8693c3c984493a7c9b96f618cf5368e56a7669a6b873c54873d7de6741f1f2e3	3.580
+crec	pa-063	758.81-763.23		clips/pa-063__crec__758.81.wav	existent-extraient-sense-overlap	d727c6acd359cecd21e87d844090fb53ec2090421c35982fe329d439f328f9a8	4.420
+crec	pa-064	1335.77-1345.39	1336.88-1344.40	clips/pa-064__crec__1335.77.wav	generat	24e38c2296ecdbeecbcad313fbb71537d83c359247b9d9f8bf54853b2cdc92cc	9.620
+crec	pa-065	1276.85-1281.67	1277.40-1280.04	clips/pa-065__crec__1276.85.wav	generat	7c9f4bdf8b67dfeb1069692a0346cc6348ac7257cd57d936fa4004ef945e1ee1	4.820
+crec	pa-066	219.63-227.13	220.16-226.84	clips/pa-066__crec__219.63.wav	generat	84b08930cde174dc567947e04d69959667fdcb38196e3a8cdbac338c0c3cdd76	7.500
+bueno	pa-001	207.01-212.99		clips/pa-001__bueno__207.01.wav	existent-extraient-sense-overlap	bd7d5dd8b59e49c27891490359b5c8259830cd33745018e5b8c256319fe63c1f	5.980
+bueno	pa-002	433.25-440.75		clips/pa-002__bueno__433.25.wav	existent-extraient-sense-overlap	2c24c0c4127d4bd8ffa30596c82d20da92e67ca7b237a8d4f002e5dde4ec932d	7.500
+bueno	pa-003	227.05-235.71		clips/pa-003__bueno__227.05.wav	existent-extraient-sense-overlap	b09fe36d23840ea27f088ec612688e179d9d90eabdd20dd66fc0dc6d6b186e1a	8.660
+bueno	pa-007	475.25-480.75		clips/pa-007__bueno__475.25.wav	existent-extraient-sense-overlap	3b9bccb3c50e16a4a387c6e812596708da326a492bdf9f7bebacd8fd9958a62e	5.500
+bueno	pa-008	969.25-973.75		clips/pa-008__bueno__969.25.wav	existent-extraient-sense-overlap	d24646b51717b8bb9da76f2016faa88f96798229f7ffde72e7d06d8b6224f1b4	4.500
+bueno	pa-016	93.17-100.83	93.80-99.16	clips/pa-016__bueno__93.17.wav	existent	bd8eea9705b9609def83d87cd68eea3797379713c24d294a03d6458fab682ef7	7.660
+bueno	pa-017	823.25-829.75		clips/pa-017__bueno__823.25.wav	existent-extraient-sense-overlap	a5df84eaf109b5eb7d1e483d28ac60461426ff4fff82890b1a896ad8a62edefc	6.500
+bueno	pa-018	23.21-28.91		clips/pa-018__bueno__23.21.wav	existent-extraient-sense-overlap	07e745a86c519ae8077ca78d7614f6d6916175f6a5500c821061a58128fc4bab	5.700
+bueno	pa-019	328.25-333.75	328.92-331.80	clips/pa-019__bueno__328.25.wav	existent	f0818f297de7e1c3617c6d35201598ba1a00d71571802490b34f0268e5b4def5	5.500
+bueno	pa-020	13.57-19.47		clips/pa-020__bueno__13.57.wav	existent-extraient-sense-overlap	657918048bbefd1bb9b6c885b2d4181ac03146e37be677ac3c1d2a874abe0ee9	5.900
+bueno	pa-021	12.25-16.87	13.76-17.48	clips/pa-021__bueno__12.25.wav	existent	caa7b27a9303c6a472d419c643ce71ba705f0b079f5db22863a73bd5090cdc6b	4.620
+bueno	pa-022	122.85-126.95		clips/pa-022__bueno__122.85.wav	existent-extraient-sense-overlap	67f0bb703016287592fac90bfe25a8f60063df63a68f142792da4ac6c3881044	4.100
+bueno	pa-023	96.81-100.35		clips/pa-023__bueno__96.81.wav	existent-extraient-sense-overlap	a5060cba5237b03e06a31ac59d3c2da7f844f775c957bab83f464debd36d4230	3.540
+bueno	pa-024	147.29-152.07		clips/pa-024__bueno__147.29.wav	existent-extraient-sense-overlap	0cbbddeabb79e471879a20850096fdea4099f06d0856bb598ddcac2abfd101c2	4.780
+bueno	pa-025	909.25-914.07	909.72-913.12	clips/pa-025__bueno__909.25.wav	existent	aaa7334c234912f5f5f3ac142822f42e1893fb62f45dd401fae17e9f72d3c32c	4.820
+bueno	pa-026	194.89-200.75	195.76-200.04	clips/pa-026__bueno__194.89.wav	existent	8f323763676772aa09ecc0d718b3823279d109261b715e10db20f69742e2bd21	5.860
+bueno	pa-027	35.13-40.47		clips/pa-027__bueno__35.13.wav	existent-extraient-sense-overlap	9d8ba029161adf8c61335b298092d1a09bc100a57a7c12c8ae9f809a4fc5bd1a	5.340
+bueno	pa-028	28.37-32.59	28.60-30.40	clips/pa-028__bueno__28.37.wav	existent	4e443d28b496af155729ebcd512858e587bb47b3ffec5b2c269e1fc7c47dee12	4.220
+bueno	pa-029	720.69-724.19		clips/pa-029__bueno__720.69.wav	existent-extraient-sense-overlap	b7ece43741bb6431ac4e75d71eac985b7c719c3cff2923d7a9578e6dbc7b1169	3.500
+bueno	pa-030	459.05-463.07	459.76-462.04	clips/pa-030__bueno__459.05.wav	existent	2cb82f32d38b1fb885a1cc1c84cfd73ec7a8ce9c7247caf463e3a50e61d9089b	4.020
+bueno	pa-031	111.73-115.67	110.00-116.80	clips/pa-031__bueno__111.73.wav	existent	ebeb26e6a45d5eb80e9dba66394a52dc7b487d2730f45da3082776541d155753	3.940
+bueno	pa-032	44.73-50.63	44.64-49.64	clips/pa-032__bueno__44.73.wav	existent	ecfa14d10598ee1565c45d37de1b5b8f2b856e8f98d2759d8ef79112535f895e	5.900
+bueno	pa-034	33.81-39.07		clips/pa-034__bueno__33.81.wav	existent-extraient-sense-overlap	111155476ae7536943d7505f7b39639a6ba9adf8f97e6ba8a6cff1bf4ec5eb8a	5.260
+bueno	pa-035	195.49-202.11		clips/pa-035__bueno__195.49.wav	existent-extraient-sense-overlap	407b7e368e7e93f22b9df827c4fd303b5cdb9de07bb6943545a1d368e7b1b6bc	6.620
+bueno	pa-036	76.25-84.15		clips/pa-036__bueno__76.25.wav	existent-extraient-sense-overlap	c0c8a09da5c844ed2cdaf5ee1c39414b0640f3c416e0ef213081bab78ca74099	7.900
+bueno	pa-037	105.29-124.79	112.12-113.84	clips/pa-037__bueno__105.29.wav	existent	06492e67f98cb5ff6ac0d9ccce990af01b2ac560f6a02ec29f9173dfe995ec1d	19.500
+bueno	pa-038	874.61-878.11	875.28-877.08	clips/pa-038__bueno__874.61.wav	existent	4c81a348cd3587cfa70a5c4df46491ebe90e94f97251eba1799d7846dfb84efe	3.500
+bueno	pa-039	530.89-537.23	531.68-535.20	clips/pa-039__bueno__530.89.wav	existent	9e450f76456f7d3fdf8116ef8dfc3987cd0eb18b02b4e769c5f590276057b1cf	6.340
+bueno	pa-041	165.25-173.75		clips/pa-041__bueno__165.25.wav	existent-extraient-sense-overlap	6eb7647c17b2b69ef9c288119192a2480a8f02d7f3c0c6e33ba5dfa3c736203d	8.500
+bueno	pa-043	0.00-3.75	0.00-3.28	clips/pa-043__bueno__0.00.wav	existent	bd43cfd69016ec42cd71c369e39bc2384bbc326549b9f9e5bd888c80bf596a1c	3.750
+bueno	pa-045	261.05-270.91	261.68-270.52	clips/pa-045__bueno__261.05.wav	existent	2bcc819d098d9e8e57af9440438ab2f7cebca9e2117c2cfab404d2e98b45afb7	9.860
+bueno	pa-046	128.01-131.51	128.80-131.60	clips/pa-046__bueno__128.01.wav	existent	68199601a6ca3eb281cac90e1bb26d0453131abb1cde08ddf3b67ff3bfc07cb3	3.500
+bueno	pa-048	227.17-233.03	227.92-232.36	clips/pa-048__bueno__227.17.wav	existent	b512fb39edd9698dd627aef3e18224d02d038f00a6bb9f7b317dce49ebf17b16	5.860
+bueno	pa-049	269.05-275.83	274.68-277.80	clips/pa-049__bueno__269.05.wav	existent	c58b1a61ae62f2dca6f421353a24451bab30e09349c7af2034cf64428bd62b46	6.780
+bueno	pa-051	41.97-47.43		clips/pa-051__bueno__41.97.wav	existent-extraient-sense-overlap	2a38a9072fd6b3881a812426f46090b596ab60d548476dc08f1c988725232e12	5.460
+bueno	pa-052	41.97-47.23		clips/pa-052__bueno__41.97.wav	existent-extraient-sense-overlap	2401ffa57294c6b4d966a1fb548363cb209d3408905f66768c0360c49bcc39da	5.260
+bueno	pa-054	51.69-55.75	52.28-55.08	clips/pa-054__bueno__51.69.wav	existent	3f04ee88b4dc96889303168191c0c41c51d79e6f0af5a4e5ccac70a766474dae	4.060
+bueno	pa-055	194.93-200.67	191.64-199.24	clips/pa-055__bueno__194.93.wav	existent	176d5c02efbeac36ba192a77f2c38b0cefe6fd6ed962b8edb2bf482ccfcf7334	5.740
+bueno	pa-056	458.97-462.83	459.68-462.20	clips/pa-056__bueno__458.97.wav	existent	b383b3df457f61205bb32b28cc692be4fa3a980feb86bbf4e53ff2bb83bf75e0	3.860
+bueno	pa-057	1128.89-1136.35		clips/pa-057__bueno__1128.89.wav	existent-extraient-sense-overlap	db5f0b2efd4acb04b7158c6944cb6d4a7170e5f450b3642b358e7ef9c75f56f4	7.460
+bueno	pa-058	23.17-28.91	24.12-28.08	clips/pa-058__bueno__23.17.wav	existent	30a474be1940ca88ec4ab6bd5b38edf5eef14c7146c1c2a62fe910b2c87ae37d	5.740
+bueno	pa-059	166.17-173.63		clips/pa-059__bueno__166.17.wav	existent-extraient-sense-overlap	a7e0aa9daf674fa219b0594acfe9eef9e1e6569f0e195ea30630eb14c9e97287	7.460
+bueno	pa-060	150.05-157.07		clips/pa-060__bueno__150.05.wav	existent-extraient-sense-overlap	10634bb11abd9ad0433e08d85d9cd0cdeb0be17fd403123cfd6d59784f61aaac	7.020
+bueno	pa-061	171.05-174.55	170.12-173.00	clips/pa-061__bueno__171.05.wav	generat	283d79af1ebf76f04471e7b544eb169abc7d95fa966f1e25723f36759b84bf47	3.500
+bueno	pa-062	297.17-302.03	298.08-302.56	clips/pa-062__bueno__297.17.wav	generat	abd725a816f45691bca20854a30d8755e97db9418067579f6df2e9bc5dd7f930	4.860
+bueno	pa-063	801.17-804.67		clips/pa-063__bueno__801.17.wav	existent-extraient-sense-overlap	fa649606ad3227584c38aa0f1a868faeb1edf402f62cfec02b58efc2b5bca3c2	3.500
+bueno	pa-065	1389.05-1393.75		clips/pa-065__bueno__1389.05.wav	existent-extraient-sense-overlap	88f28418eb8ecb704c8304edae29daffdd580009da4ac58c2a3d5def609b7194	4.700
+bueno	pa-066	357.23-362.57	358.08-363.44	clips/pa-066__bueno__357.23.wav	generat	8ed8e7a1a01fb2743b592fc06dad5b50f6e56f99256fe92029fa58f22ff2b7a7	5.340
+clar	pa-001	129.77-134.51		clips/pa-001__clar__129.77.wav	existent-extraient-sense-overlap	1908ef66ecd39e0bee1be361bede73f49a589cb68dd058c8028c4fda4fea905e	4.740
+clar	pa-002	186.25-190.75		clips/pa-002__clar__186.25.wav	existent-extraient-sense-overlap	c6839448e8fb55f52873bb34d7f715f525e8e2e2d44ff10f147942bed8b0aa0c	4.500
+clar	pa-003	451.89-459.15		clips/pa-003__clar__451.89.wav	existent-extraient-sense-overlap	991dca80dc0beb94fa67d90e36ed6e59db676d92cb368aaa0be0418a8b65fb97	7.260
+clar	pa-005	155.93-159.99	157.68-164.68	clips/pa-005__clar__155.93.wav	existent	a7f3758bf94fa8a725e2cea74402d6a35547dcdd957539843eabc13a33e0ee29	4.060
+clar	pa-006	379.25-383.75		clips/pa-006__clar__379.25.wav	existent-extraient-sense-overlap	8726400b517fb9572a5f0a9e3749e00bb4a4665506377ce8c3ebbb7416d88f6c	4.500
+clar	pa-007	344.25-349.75	345.12-351.44	clips/pa-007__clar__344.25.wav	existent	863958a4a11fc83946d741de9a4ae8e2831044645b0c24c771b2b80aa539fa78	5.500
+clar	pa-008	841.25-846.75	841.48-846.48	clips/pa-008__clar__841.25.wav	existent	ad7d6db8749635e60cb305eb402f3a82ebe0cf88f7ef0b9acd77ee72d1fd75b8	5.500
+clar	pa-009	99.25-105.75	100.52-102.36	clips/pa-009__clar__99.25.wav	existent	efed7fab4d7e4e83e12e0fb597746b1ac7679d593a53f6d51461db5b4e90905d	6.500
+clar	pa-010	334.85-339.35	335.72-338.52	clips/pa-010__clar__334.85.wav	existent	5f880ecdc700d1894c240df5b3ff38246092008085ba9b90f26ff09bd4540f4e	4.500
+clar	pa-014	978.45-982.95		clips/pa-014__clar__978.45.wav	existent-extraient-sense-overlap	218b4cc294a09e69e19befded6da6a06061fd0624734a0d30254857fcc6393a8	4.500
+clar	pa-016	175.69-180.35	175.92-179.28	clips/pa-016__clar__175.69.wav	existent	53417c5937ebd77eea674c73a53a00c5def89cc1388d4d9ba7af2c08352a5321	4.660
+clar	pa-017	34.45-42.35	35.28-41.52	clips/pa-017__clar__34.45.wav	existent	af312c7026f7ee8277a947a1f0ee4eae5b3cc637ce0450d40bf05c79ba88bd85	7.900
+clar	pa-018	112.73-117.35		clips/pa-018__clar__112.73.wav	existent-extraient-sense-overlap	9f99c40c90b527107f14fef527032d9f8906eb3379b001ebc8d3c14d13de7a77	4.620
+clar	pa-019	415.25-419.75		clips/pa-019__clar__415.25.wav	existent-extraient-sense-overlap	668cf4a7ad0f0a538d2f432f86d3d38fa5ff0c2e511cc31da8c27277f66af70e	4.500
+clar	pa-020	89.81-94.31	90.60-95.16	clips/pa-020__clar__89.81.wav	existent	d75e9b20dcd5527823d263a7bb16b4bb1503efbd33c615801fde083f9c9804eb	4.500
+clar	pa-021	125.89-131.23	126.60-130.48	clips/pa-021__clar__125.89.wav	existent	a913f12752af63b9fb420bf3f07d16ae26899951962f41db96261006b8cd764d	5.340
+clar	pa-022	107.73-113.11	108.40-110.92	clips/pa-022__clar__107.73.wav	existent	e9a457dd00829350bb1cd8d5427e351a52d5363a4c2877a49f4e6d076eb4c7d1	5.380
+clar	pa-024	648.09-656.83		clips/pa-024__clar__648.09.wav	existent-extraient-sense-overlap	be55c69e1f0b1c7f3ec433cdd1244c6d8c47f85b9c12a199d31cc8ef88bd1881	8.740
+clar	pa-025	116.09-119.95		clips/pa-025__clar__116.09.wav	existent-extraient-sense-overlap	46494f8ec2e92591568b22d9a59e10df8399f80880302ddd3678715240190c57	3.860
+clar	pa-026	6.33-9.67	7.16-8.88	clips/pa-026__clar__6.33.wav	existent	1d49e01fa80a08bbda2aa49c7ebdb27cb1e1603703304f86d6bef7ef20814dfe	3.340
+clar	pa-027	35.13-40.47		clips/pa-027__clar__35.13.wav	existent-extraient-sense-overlap	9d8ba029161adf8c61335b298092d1a09bc100a57a7c12c8ae9f809a4fc5bd1a	5.340
+clar	pa-028	290.33-295.15	291.00-295.12	clips/pa-028__clar__290.33.wav	existent	7a8fcc4e174d2133f4d84a6e5fa4cbe7930766f7184da3dcb28d785e3899110f	4.820
+clar	pa-029	358.61-362.11	358.28-363.28	clips/pa-029__clar__358.61.wav	existent	87ecea6d257f5da503c66a8e517dab342f32eb1a5275bac62c8d24dda54a74dd	3.500
+clar	pa-030	61.89-66.83	62.40-66.00	clips/pa-030__clar__61.89.wav	existent	759b80baa9808fbaec47e8a3436ea20e520e4c779823b92e8c720cf3abef2ff6	4.940
+clar	pa-031	154.57-158.95		clips/pa-031__clar__154.57.wav	existent-extraient-sense-overlap	10f948731d0a7cb883305dc1da54266020830d4a347d2dc1ecdb41b3e1e9cf75	4.380
+clar	pa-032	155.33-162.15	156.08-160.60	clips/pa-032__clar__155.33.wav	existent	846365fa08da239dccd9a5a3ed12b80a4d507b4ea1436808dea82c94d5d2bbde	6.820
+clar	pa-033	54.49-57.67	54.80-57.52	clips/pa-033__clar__54.49.wav	existent	9fde768e2bbb3890c1286e6232445126a385643e4ff6e0a5009872803c47f3f3	3.180
+clar	pa-034	55.05-59.71	56.00-59.24	clips/pa-034__clar__55.05.wav	existent	6e24a95f03374284bd9534cbd2568433bbff99f0eb18f012402d5b93ab7a47f9	4.660
+clar	pa-035	223.61-233.59		clips/pa-035__clar__223.61.wav	existent-extraient-sense-overlap	717cb21087aa7774e57f37a538421d8db9c6f742df244243eef4e2899876dbd1	9.980
+clar	pa-036	136.45-147.15	140.04-146.28	clips/pa-036__clar__136.45.wav	existent	20cc605a72028b4133fee24acc6d8027bd03a752cb74eecbbb503cf86f111062	10.700
+clar	pa-037	186.29-198.91		clips/pa-037__clar__186.29.wav	existent-extraient-sense-overlap	73d73c3562dcacc6e849e7c1a2734f4e4eae27304de9809df796b491ea1188a1	12.620
+clar	pa-038	96.41-101.31	99.84-103.84	clips/pa-038__clar__96.41.wav	existent	04d4613595fd21b42a10322f146d76f8c5ae685057542168ab046d87e50d4eb8	4.900
+clar	pa-039	45.29-49.71	46.00-48.88	clips/pa-039__clar__45.29.wav	existent	93389b5c50195a6f48c4256f2f2a8fc8b5e6af26a01369b63123b5a317eb803c	4.420
+clar	pa-041	0.00-10.75	3.40-9.20	clips/pa-041__clar__0.00.wav	existent	8a78e3b7550e1bfa0ede3ba57a9757ef0ee59a12f06a149797408b5e50e1b873	10.750
+clar	pa-042	101.97-106.63	99.40-102.44	clips/pa-042__clar__101.97.wav	existent	1b7a4de95f014e88625785c7c8788f9f87cd04a944542d64c66df2be0dba01d2	4.660
+clar	pa-045	399.85-405.95	400.48-405.20	clips/pa-045__clar__399.85.wav	existent	512b50fe62e74c159ca6f43e8bf607bdbad775cd06d5d9177e4a69471db78924	6.100
+clar	pa-046	172.53-177.71		clips/pa-046__clar__172.53.wav	existent-extraient-sense-overlap	c857ae81e31bbea074db46f4b57609fff303f00678938c1cfac5bd4e592941c3	5.180
+clar	pa-048	389.65-392.15	390.28-391.28	clips/pa-048__clar__389.65.wav	existent	61e1c0b496edb4b519e8f1d57f9def04696d8e91a9bd1bb247dbff87e177fd42	2.500
+clar	pa-049	382.01-390.11	382.56-385.60	clips/pa-049__clar__382.01.wav	existent	c3bf269cec30303c81a2ba4e662150801834f8642b0e39dbaa49df755e4e4975	8.100
+clar	pa-051	161.85-167.07		clips/pa-051__clar__161.85.wav	existent-extraient-sense-overlap	545932defa84f6321f60fb9f8544bbb9c24df1c4bfd7d943082b9341fe070151	5.220
+clar	pa-052	59.97-64.67		clips/pa-052__clar__59.97.wav	existent-extraient-sense-overlap	738d7c352c58f00979f5959fd7f04bf013195fcbd3c72b83315bd050ed7d4c21	4.700
+clar	pa-055	6.29-9.67	7.12-8.84	clips/pa-055__clar__6.29.wav	existent	63b2c87679de74c726e44daf350da1e6c2406c7ec39a8a446600f0b4c9b063f7	3.380
+clar	pa-056	62.45-66.87	62.64-66.20	clips/pa-056__clar__62.45.wav	existent	ced37f6983faa095bef188c9472cac2a64e98688ad844a3e1f2eda35829d1268	4.420
+clar	pa-057	357.57-364.07		clips/pa-057__clar__357.57.wav	existent-extraient-sense-overlap	6ae3c85ca2e9e8ba771756a9e36130f54f57aecdacb0fedb71b15c36eedd4794	6.500
+clar	pa-058	112.81-117.27		clips/pa-058__clar__112.81.wav	existent-extraient-sense-overlap	e688a5e98c4bb4ec62c22ccffb0a751623f330ae0f89fc3b1b1341412d16ca65	4.460
+clar	pa-059	36.61-42.23	35.08-41.52	clips/pa-059__clar__36.61.wav	existent	64525ab92616f6fedb386d04f9fc635597e6aa9ae86b52c7e2994a02ffa36894	5.620
+clar	pa-061	376.69-382.19	377.52-380.52	clips/pa-061__clar__376.69.wav	generat	b8310f5fa973661200f86d40c9dd13717e371c61df44a697ddd7cd478edf79e1	5.500
+clar	pa-062	202.37-208.31	204.00-207.80	clips/pa-062__clar__202.37.wav	generat	ee81b5bb8f1272811fb20594bc9aaf0fccbefbbbffc9579e180da74578a80176	5.940
+clar	pa-063	392.49-397.11	393.32-396.52	clips/pa-063__clar__392.49.wav	generat	8b373cc8ddf4b0a5c766b5bd06c838cba3311bcb82fd2f0173710cd466cda425	4.620
+clar	pa-064	109.97-115.87	111.04-115.36	clips/pa-064__clar__109.97.wav	generat	5c316125378b8dc2b6e27928d84fd351ab4690a2ea9a110d01a137fc97f73fca	5.900
+clar	pa-065	221.29-226.15	221.96-226.32	clips/pa-065__clar__221.29.wav	generat	547318df114e2471986fb9928eb93f947d264d0a16c6ebc99e598df803658079	4.860
+vull dir	pa-001	621.37-625.39		clips/pa-001__vull-dir__621.37.wav	existent-extraient-sense-overlap	1a89257225e607d2e9f9d2050fa15d77c3ce907fda823afb1b2748a5a89ef7cb	4.020
+vull dir	pa-002	172.25-176.75		clips/pa-002__vull-dir__172.25.wav	existent-extraient-sense-overlap	38073b4edd0f703bf0d91b25b1a14c4d3546f6025131a46905108253144c922f	4.500
+vull dir	pa-004	143.45-150.59	141.88-147.88	clips/pa-004__vull-dir__143.45.wav	existent	4758815736e4bf86fdc22a71ef46374a38f497db04efd5bf7e575fb0560c700c	7.140
+vull dir	pa-014	19.65-30.15		clips/pa-014__vull-dir__19.65.wav	existent-extraient-sense-overlap	11eff0bed809d8e02c39d39b28aacde2e337876d239f35009778a26ab743df21	10.500
+vull dir	pa-016	322.53-327.83	325.32-328.04	clips/pa-016__vull-dir__322.53.wav	existent	c4956e68050d50a1c8ccda03dc69a1624bd7b1cce8b4aceadb19e6ada55a7f9a	5.300
+vull dir	pa-017	272.25-279.75	272.28-278.72	clips/pa-017__vull-dir__272.25.wav	existent	4725f6236da3147eea4fa81615c2564e9cffc55f282315babb393c99ed4ad23f	7.500
+vull dir	pa-020	165.45-170.99		clips/pa-020__vull-dir__165.45.wav	existent-extraient-sense-overlap	d001be41b780a6f16ff777ecc40b678707a0e9852080752668c2f12d3c913190	5.540
+vull dir	pa-021	314.29-323.11	315.16-322.32	clips/pa-021__vull-dir__314.29.wav	existent	e6426f1d9f78724e1b7290e1fbacc05e4e093a28a4dd39e938500813ceb21c16	8.820
+vull dir	pa-022	308.17-312.27		clips/pa-022__vull-dir__308.17.wav	existent-extraient-sense-overlap	ba77b7c4c4f128bc932202089348b07770809c746337ef1336c26a45fdde2c37	4.100
+vull dir	pa-023	22.05-26.43		clips/pa-023__vull-dir__22.05.wav	existent-extraient-sense-overlap	23f067ed9b94b892b4ad3ef4997d4eccd7ab8e2a0fd1a33d60c46d94cc1302aa	4.380
+vull dir	pa-025	643.73-649.59	644.48-646.72	clips/pa-025__vull-dir__643.73.wav	existent	d89ac60effac713bc4f8b8a94184170d33056eaf9707f3290b885d922f4ed0a9	5.860
+vull dir	pa-026	311.77-316.07		clips/pa-026__vull-dir__311.77.wav	existent-extraient-sense-overlap	9a3419391132ce6ea9b8378361a2f365bc0b741f098b91e18363c65c8916a42d	4.300
+vull dir	pa-027	254.25-260.87		clips/pa-027__vull-dir__254.25.wav	existent-extraient-sense-overlap	a437e3e323e4760aa243981bebd81f1b14e993243fa82108b5c343fc363f01fb	6.620
+vull dir	pa-030	842.69-848.23	843.52-847.56	clips/pa-030__vull-dir__842.69.wav	existent	e8f71c838cc57af6bbb4d19b07f09f072436f569a2fdeec8945b755e4a243dd8	5.540
+vull dir	pa-031	207.77-212.75	208.44-210.84	clips/pa-031__vull-dir__207.77.wav	existent	766570d12e4b95bedbb21736a7c1510052f7b60350460bb1b14fb071af67890a	4.980
+vull dir	pa-032	389.29-393.79		clips/pa-032__vull-dir__389.29.wav	existent-extraient-sense-overlap	bd0b39fa835b8abc3f65c0415a9f6efa80aa92fdcc55794305d2f3f856a5ea48	4.500
+vull dir	pa-033	56.25-62.63	54.80-57.52	clips/pa-033__vull-dir__56.25.wav	existent	3176514bdf255ed02125bedfc4a31fe3291dd609a2001906b56ec4eae05ca3df	6.380
+vull dir	pa-034	58.29-61.51		clips/pa-034__vull-dir__58.29.wav	existent-extraient-sense-overlap	880c6fe29bcf68da7836beca3b462ba1348bd847b4cff593d15893d094ab548c	3.220
+vull dir	pa-036	632.25-637.75	633.12-635.44	clips/pa-036__vull-dir__632.25.wav	existent	8139e8062997e5deb456bf3cd5d6fa58fb604deffd9eca3b80626ec8395a9044	5.500
+vull dir	pa-037	414.01-426.11	413.44-417.72	clips/pa-037__vull-dir__414.01.wav	existent	b9ea0bd74bb90c22f5348d705633f79a3d7e343c571b9264e358efc7fb1be258	12.100
+vull dir	pa-038	1576.57-1582.39	1575.72-1581.80	clips/pa-038__vull-dir__1576.57.wav	existent	a32fa9f85404bb12274c7111daef9b76d6847ba1f7d0d2406a4428ddc78c2ac3	5.820
+vull dir	pa-041	264.25-271.75	265.28-268.28	clips/pa-041__vull-dir__264.25.wav	existent	30c9b43017918ddcd0935a3e0ad2948d48f28c4fa80779af4c8f54decb491b14	7.500
+vull dir	pa-045	779.57-785.23		clips/pa-045__vull-dir__779.57.wav	existent-extraient-sense-overlap	43be9c23b05611daa8eabc0b29d98fcc530bfedcbe70ace15c374a6080147e83	5.660
+vull dir	pa-048	993.69-999.19	994.36-1000.96	clips/pa-048__vull-dir__993.69.wav	existent	524676543b7954409cbc9a52e43d717642a9f6ce463b79b0dd62d2a599f4ff10	5.500
+vull dir	pa-049	208.09-214.63		clips/pa-049__vull-dir__208.09.wav	existent-extraient-sense-overlap	ea4eed62f53887191819af43512cb77ca332f6baa54e823b93d14daf30f3e031	6.540
+vull dir	pa-055	311.73-315.91		clips/pa-055__vull-dir__311.73.wav	existent-extraient-sense-overlap	d7ae0825474e3f10ae876c4035100da982bb8f6502fe01991b90d4b916378712	4.180
+vull dir	pa-056	842.65-848.07	843.48-847.52	clips/pa-056__vull-dir__842.65.wav	existent	66a0b9648889fdf52c4f4b2c0d8b06b93f983546570ea9c69230ac18342dd77b	5.420
+vull dir	pa-058	975.13-979.55	975.48-978.84	clips/pa-058__vull-dir__975.13.wav	existent	6f17a29c4a7ccb17522085ed2258a1978524bb477ea6b40d10bcb96297a72a49	4.420
+vull dir	pa-059	271.81-279.35	272.36-278.68	clips/pa-059__vull-dir__271.81.wav	existent	ecd5a30e086b248161651ab1f91dc733b6b1827dd6c754eacf3743266a1f0e70	7.540
+vull dir	pa-060	20.65-26.35		clips/pa-060__vull-dir__20.65.wav	existent-extraient-sense-overlap	1d033dd9c965fdfb0b39777963adbdc13bc8ef2f4d8178f4bf1a565ee8c413d9	5.700
+vull dir	pa-061	193.57-200.03		clips/pa-061__vull-dir__193.57.wav	existent-extraient-sense-overlap	fd5841b6f4e163609ab929cca3676492547a6cf1509ef4418857f898a0d861d7	6.460
+vull dir	pa-062	316.81-326.39		clips/pa-062__vull-dir__316.81.wav	existent-extraient-sense-overlap	c1b552b0b5e3a7ea2e1324bcd8fc17c86f523cc0068134c92468fead50b673ba	9.580
+vull dir	pa-063	822.45-827.51		clips/pa-063__vull-dir__822.45.wav	existent-extraient-sense-overlap	c5d97b41a90a7a71f656aeaf5f5614bd01af4f4f8ec9cd8e58b9b6d52572bb08	5.060
+vull dir	pa-065	1401.05-1404.55	1402.08-1403.88	clips/pa-065__vull-dir__1401.05.wav	generat	4fba2f022b26b5ae8f3cd8fb6ad28366028dee3d7adb490fa2e01233fd339c26	3.500
+o sigui	pa-001	49.17-54.35		clips/pa-001__o-sigui__49.17.wav	existent-extraient-sense-overlap	e30d5df251638f7c7f0edd9cc400f8c4eea5af967862abd6906dad2785fe1670	5.180
+o sigui	pa-005	373.33-379.95	376.88-378.88	clips/pa-005__o-sigui__373.33.wav	existent	e012a0a257dc06ff00777d412bdd6a5e595872f15519fd8daf177f55d9e63550	6.620
+o sigui	pa-006	136.25-143.75	136.96-140.92	clips/pa-006__o-sigui__136.25.wav	existent	7e6d0ea47c07af8ce368432aa6c97091573acd56d9425f39765c6bb82851565e	7.500
+o sigui	pa-009	234.25-238.75	234.80-237.36	clips/pa-009__o-sigui__234.25.wav	existent	89c81b950aa1d82e5aa53cb10e9f5755eae30ceba1ff32dde2d333f7f848c9af	4.500
+o sigui	pa-014	658.45-674.95	659.32-664.92	clips/pa-014__o-sigui__658.45.wav	existent	5fa2db8a2f3ffeef11efe825ad0cf8482ac53328738c0ac535238b38648e3bd7	16.500
+o sigui	pa-015	104.25-109.75		clips/pa-015__o-sigui__104.25.wav	existent-extraient-sense-overlap	2031ec4abdc61b842e65f4f9cef72b73c77b305580e181b8b675b0f8c1a0d4a6	5.500
+o sigui	pa-016	311.25-316.15		clips/pa-016__o-sigui__311.25.wav	existent-extraient-sense-overlap	2de6a158bd22e6816f8e07e7036d6175f72b8ba25a53f7e2f3b1f054162b0824	4.900
+o sigui	pa-022	42.93-48.95	43.68-45.76	clips/pa-022__o-sigui__42.93.wav	existent	c2304436ad8e17cc4b83e721b993789c74981eea43bb88c8ae7147d8bffe57c1	6.020
+o sigui	pa-024	554.49-565.07		clips/pa-024__o-sigui__554.49.wav	existent-extraient-sense-overlap	467a8db344883b0e0c75aae939476ef92e8ab85b1624b185bef77c3c6be0652d	10.580
+o sigui	pa-025	1462.85-1472.59		clips/pa-025__o-sigui__1462.85.wav	existent-extraient-sense-overlap	15f197561de14a5be117006d839bd1c3b94d4f4c1898e94342c7f902a47a2ae7	9.740
+o sigui	pa-026	434.17-437.67		clips/pa-026__o-sigui__434.17.wav	existent-extraient-sense-overlap	e3093c80ba3db9f874aedd28c3eb0286c37f6dfac2bc003566be1c58e85233d0	3.500
+o sigui	pa-027	361.61-366.71		clips/pa-027__o-sigui__361.61.wav	existent-extraient-sense-overlap	e3ae62069bc6a12407f46ac28f7ef364be39795cd42a5d54d4bcfd1c5fe75fec	5.100
+o sigui	pa-029	243.13-248.63		clips/pa-029__o-sigui__243.13.wav	existent-extraient-sense-overlap	21506083e606124b8fffc59a96aa71728200ff1bfe8b2fdfc5b93babbf00aa2a	5.500
+o sigui	pa-030	1016.41-1021.47		clips/pa-030__o-sigui__1016.41.wav	existent-extraient-sense-overlap	5dac1315dee188b61c2a7402899c6f321ed309f7ae60e9913ef86f6ac1c38b26	5.060
+o sigui	pa-034	1106.09-1110.75		clips/pa-034__o-sigui__1106.09.wav	existent-extraient-sense-overlap	518ad8c4721e637cfbab3600674362519e8dc6784e68dd79c85b8d26bfa0976b	4.660
+o sigui	pa-038	16.65-22.87	16.96-26.32	clips/pa-038__o-sigui__16.65.wav	existent	5a835572eaea77f74516f5c54321cfb3d3cd28968fddc0ca9dc4ce2b8697d0c5	6.220
+o sigui	pa-040	115.73-119.91		clips/pa-040__o-sigui__115.73.wav	existent-extraient-sense-overlap	983a24b766a74c414cfd84dbda3d730d59db02b87d5828707f2eb2d21a6a9dc9	4.180
+o sigui	pa-045	226.17-233.31	226.76-232.72	clips/pa-045__o-sigui__226.17.wav	existent	eed067d165541fa40b17bac59c7266127e529af275f989f401c12a70ede0d3b8	7.140
+o sigui	pa-046	230.61-235.23		clips/pa-046__o-sigui__230.61.wav	existent-extraient-sense-overlap	abe84c7cb9f96a1d2a61399da7d299b89f5fe850eeb3fb688f513f0fbabb26d6	4.620
+o sigui	pa-048	581.65-585.99	582.16-584.92	clips/pa-048__o-sigui__581.65.wav	existent	4d22a4d0185795715d2c859b20c681826c14862a14a4afac18ee1eff8e0ab722	4.340
+o sigui	pa-049	365.21-373.35	365.80-368.72	clips/pa-049__o-sigui__365.21.wav	existent	93fd6ec146f5be2a8ede394b9c5a7319509f4190e0dff7326271dc6bcf8fc88a	8.140
+o sigui	pa-055	434.17-437.67		clips/pa-055__o-sigui__434.17.wav	existent-extraient-sense-overlap	52147f9974473099dc2dd07dc30f0f61d142173e7c5603b3a4a7ec3879f3c111	3.500
+o sigui	pa-056	1016.49-1021.67		clips/pa-056__o-sigui__1016.49.wav	existent-extraient-sense-overlap	fdafe36ed2e857f344ec3ab062e7b6f9b1c4cad058dbb82d5ab8f283fcfbba84	5.180
+o sigui	pa-057	249.45-254.11		clips/pa-057__o-sigui__249.45.wav	existent-extraient-sense-overlap	fa2feee6b0a55fac92052ff181a7e40bf4dd20ceb3d55a48b4bffd2e3c025771	4.660
+o sigui	pa-059	266.13-271.15		clips/pa-059__o-sigui__266.13.wav	existent-extraient-sense-overlap	89a4464d3162ca9d047c613a31caa2cc813e9721adcebfaa0cbbfc4d26ee5e8b	5.020
+o sigui	pa-061	161.05-167.39		clips/pa-061__o-sigui__161.05.wav	existent-extraient-sense-overlap	ca6151a6593172914136beb224aaaab1693599e809741fd0b5fc8ba29e314626	6.340
+o sigui	pa-062	236.01-241.71		clips/pa-062__o-sigui__236.01.wav	existent-extraient-sense-overlap	08c58cd0af921a21b45eae4d37879ff3a7bc924185ea8a84098d779bc2104ac2	5.700
+o sigui	pa-063	826.09-830.95		clips/pa-063__o-sigui__826.09.wav	existent-extraient-sense-overlap	43d1e56df2aeaa0cf363b869db3023f71b79bad98855e7545e63d1b35d7ab7b9	4.860
+o sigui	pa-064	36.73-40.23	36.12-39.28	clips/pa-064__o-sigui__36.73.wav	generat	57c81b2557424a116da39a11fc60cc435ef0f229250d92b510aaefae28a84c83	3.500
+o sigui	pa-065	191.65-195.15	192.16-194.40	clips/pa-065__o-sigui__191.65.wav	generat	455f018a5dec1eb3d070cd7277490aee3889afce7c343a14bd63179877dcd85f	3.500
+llavors	pa-001	837.17-841.11		clips/pa-001__llavors__837.17.wav	existent-extraient-sense-overlap	686148eff56c3a33afe1956099e3de1891df77d039057543e9b9865a143857f3	3.940
+llavors	pa-002	550.25-556.75		clips/pa-002__llavors__550.25.wav	existent-extraient-sense-overlap	6736c8fa12192297db4fcfd115501950a96f76ef408f57897a93ae04c1ea0683	6.500
+llavors	pa-005	433.29-439.27		clips/pa-005__llavors__433.29.wav	existent-extraient-sense-overlap	830cd1d9a97c4094fcc85e694963ea2e874772dfad35e9eeba7c5b29a783154a	5.980
+llavors	pa-006	214.25-220.75		clips/pa-006__llavors__214.25.wav	existent-extraient-sense-overlap	245ff697b5f6b0b73bbba3bc795baaec74fe025ddd48b2004c2985328119dee3	6.500
+llavors	pa-007	657.25-663.75	657.94-662.86	clips/pa-007__llavors__657.25.wav	existent	b308f35dca35f7ce54daf305e889f8e455065a8a890abda46dfad17bc544c3fd	6.500
+llavors	pa-009	201.25-207.75		clips/pa-009__llavors__201.25.wav	existent-extraient-sense-overlap	ce397e94b2bcfa134c421e5e7cdf76090797d5287f0d9d9f33679ebf721f9517	6.500
+llavors	pa-010	386.25-391.75	386.28-391.24	clips/pa-010__llavors__386.25.wav	existent	741eada65e54b04dc67e372cbd3029acc7bf1b95f486befa64a0a9537164fb26	5.500
+llavors	pa-014	228.25-237.35		clips/pa-014__llavors__228.25.wav	existent-extraient-sense-overlap	afc74ef94fae4b8e8cb0a75389b613d9823a5e923d1784e20c6f685c04157111	9.100
+llavors	pa-015	197.25-204.75		clips/pa-015__llavors__197.25.wav	existent-extraient-sense-overlap	398a121cdb719ac84692a4b54a82005a4f7c1872d8e93ccd7c691867aa04a003	7.500
+llavors	pa-016	15.05-20.91	15.72-19.28	clips/pa-016__llavors__15.05.wav	existent	aaa2ba549b3188eb7994516ac9217506805dabe0d28740f9f2f651ed725fbf1b	5.860
+llavors	pa-017	361.25-368.75	362.00-366.76	clips/pa-017__llavors__361.25.wav	existent	2fe5779ceefac11dc7dc1a671d83edb8a0961697aed1703530bc1bf2d9830109	7.500
+llavors	pa-018	1055.09-1058.87		clips/pa-018__llavors__1055.09.wav	existent-extraient-sense-overlap	001016bea51b3a1897cc30b16e7f59828867074ad3a1757c1bf2f64bfd2cdd23	3.780
+llavors	pa-019	422.25-427.75	423.56-426.88	clips/pa-019__llavors__422.25.wav	existent	11f80fb011244ef741e3376e5f8494c7a3893876378c983f6d6f5585d71f4aaa	5.500
+llavors	pa-022	57.37-61.35		clips/pa-022__llavors__57.37.wav	existent-extraient-sense-overlap	2fd887364783ad8339b8dc4e1675fccc353755291d63ea253cff50826c8261c0	3.980
+llavors	pa-023	48.81-56.07		clips/pa-023__llavors__48.81.wav	existent-extraient-sense-overlap	66233d4d86cdcce0687d1fbef460e033c648ed45c61ea09d2821803ec7e2faa8	7.260
+llavors	pa-024	336.85-341.27		clips/pa-024__llavors__336.85.wav	existent-extraient-sense-overlap	b8d368fb6cc3ce9dd8c602d17afc1f4194b458587ae6d3acff7d8b6a6dee5cda	4.420
+llavors	pa-026	81.13-84.63		clips/pa-026__llavors__81.13.wav	existent-extraient-sense-overlap	be7e9082199f9d69749e5284c80fb9c7f742c3e09f74e8fdf1c77ff227aa7a13	3.500
+llavors	pa-027	137.93-143.43		clips/pa-027__llavors__137.93.wav	existent-extraient-sense-overlap	f79df3fbb506eced6bfadb940a7f2b5ba9b49321f949a229dfc69db6456289ab	5.500
+llavors	pa-028	151.01-155.91	151.80-155.08	clips/pa-028__llavors__151.01.wav	existent	958b8c710fb5f6f94c8ce352884c92d202f336bf70e4368a2e0ef3e334b451dd	4.900
+llavors	pa-029	42.97-46.79		clips/pa-029__llavors__42.97.wav	existent-extraient-sense-overlap	446ec5b2d51a02a0ef8a699502b7eb63ec5109afb9ef33a0b01ff6bb6845ab73	3.820
+llavors	pa-030	157.61-163.15		clips/pa-030__llavors__157.61.wav	existent-extraient-sense-overlap	d149421cb93ae030f0769b6aff932ece541e3bb2f41e4f301a5336616e9fff18	5.540
+llavors	pa-032	174.13-178.67		clips/pa-032__llavors__174.13.wav	existent-extraient-sense-overlap	e071519ce390db619b4063300cf65cf5017f23feafc77e0ef92ffa4272292c4f	4.540
+llavors	pa-033	71.53-76.35		clips/pa-033__llavors__71.53.wav	existent-extraient-sense-overlap	a2f7c35a058301655359b86257ec29fc3a00ae08115a1dee25f1466e784cbaa3	4.820
+llavors	pa-034	29.17-32.67		clips/pa-034__llavors__29.17.wav	existent-extraient-sense-overlap	ce223327ca7f425c2ddebddfad738754c6429f23dfe4fa48202c1b440bb20d20	3.500
+llavors	pa-036	535.25-538.75	535.88-538.08	clips/pa-036__llavors__535.25.wav	existent	8d94bca4282eb8bc3104719a1cbbe34fc2d1ffc84bbe9064193f4e6a618860f1	3.500
+llavors	pa-037	92.53-106.79	93.40-98.04	clips/pa-037__llavors__92.53.wav	existent	6bfc6a3fa5e743479496e7bed171406f06ecbd7152788472c2fe6d31ad15d4be	14.260
+llavors	pa-038	264.13-269.83	265.44-269.04	clips/pa-038__llavors__264.13.wav	existent	e559a95e3096306c2c08a7bba355331d65f3a05d1d547891eeed5a9178433631	5.700
+llavors	pa-041	108.25-115.75	105.72-110.72	clips/pa-041__llavors__108.25.wav	existent	9ebd58d611e413d345aa9db81ebe1e282c6e1cae63807471d8c50354bb225c82	7.500
+llavors	pa-045	194.93-200.31	195.76-199.48	clips/pa-045__llavors__194.93.wav	existent	0b477e5ebdd17090179afd01eda98dc42ecba39e6577c95dbfc9aab92f0583a6	5.380
+llavors	pa-046	381.13-388.19		clips/pa-046__llavors__381.13.wav	existent-extraient-sense-overlap	85917ea9ab6716cc1846c5db14aa502404f4806e4020ed4aa34b163495491489	7.060
+llavors	pa-048	1244.97-1248.95	1245.72-1248.24	clips/pa-048__llavors__1244.97.wav	existent	0c6c516dc79d362da72c4822c760d8c867e7af305bc72947d502ba5ab258b796	3.980
+llavors	pa-049	230.45-239.67		clips/pa-049__llavors__230.45.wav	existent-extraient-sense-overlap	15816ac71e01ce131564ffb48b96500bc67d759120ea181db1ccf2b01f772f77	9.220
+llavors	pa-051	47.61-51.11		clips/pa-051__llavors__47.61.wav	existent-extraient-sense-overlap	fe347bb0b5784decf5ace5cb0686de935ce19db61e3504200acefaf5f6318f1d	3.500
+llavors	pa-052	68.73-73.23		clips/pa-052__llavors__68.73.wav	existent-extraient-sense-overlap	b98fff91f8de095cacd2d47fd2fab29af64d73a0350cbe7de02f0fd6d9cf2d42	4.500
+llavors	pa-053	40.73-47.71		clips/pa-053__llavors__40.73.wav	existent-extraient-sense-overlap	389afbbc7816917e24c342eca9eaa1091bda2cc79f3fccb4dec80e1b09907f37	6.980
+llavors	pa-054	156.57-161.51		clips/pa-054__llavors__156.57.wav	existent-extraient-sense-overlap	b16e05f54953409ad1229feb1050d114da956864a0ff57dee84339826f39045c	4.940
+llavors	pa-055	105.37-110.27		clips/pa-055__llavors__105.37.wav	existent-extraient-sense-overlap	0ebf4cde8569f919c523a114477aea88e8f2f7e1af508d58650fb96666a697be	4.900
+llavors	pa-056	157.77-163.11		clips/pa-056__llavors__157.77.wav	existent-extraient-sense-overlap	a0b2e7043b0b44939611edbe61ead607b1a746d70a5504ae40e8ce4504e0795e	5.340
+llavors	pa-057	42.85-47.99	43.72-47.20	clips/pa-057__llavors__42.85.wav	existent	59bb9de81d0fd6c97634d98b11e51ac7282379e94cb3442d473c99cc7080fa7d	5.140
+llavors	pa-058	1054.41-1059.35		clips/pa-058__llavors__1054.41.wav	existent-extraient-sense-overlap	a68bba01d84e771c376dcaeaca28d9c79a66174866684137b1f9ed8084f6b554	4.940
+llavors	pa-059	361.49-368.39	362.08-366.76	clips/pa-059__llavors__361.49.wav	existent	201577f99b71eac44af69cafcc78f97091f05e35de80b4b22468fef3230b4b18	6.900
+llavors	pa-060	48.77-56.07		clips/pa-060__llavors__48.77.wav	existent-extraient-sense-overlap	7b61662d31c07bead4f10d1c5c2cb7e3eb078e8d4675f3f78a815c2b0711441b	7.300
+llavors	pa-061	380.77-385.15	382.00-386.12	clips/pa-061__llavors__380.77.wav	generat	e20bc8319ccc4237e38b44777091712e6b80bb2cd4aa633ad9d31bc9c02b6fe6	4.380
+llavors	pa-063	39.49-44.79	40.64-44.04	clips/pa-063__llavors__39.49.wav	generat	400ccca1d3f1c2f12951f9bb9877ce744de1e26c17f718ba3ec7c4586b20da95	5.300
+llavors	pa-064	713.33-717.15		clips/pa-064__llavors__713.33.wav	existent-extraient-sense-overlap	384deb854e764f74170c2497fc31b237bd4640e3079364b12c2d267faecc93ee	3.820
+llavors	pa-065	612.13-617.87		clips/pa-065__llavors__612.13.wav	existent-extraient-sense-overlap	4cb300945e63cf3e3eb3e9e497cb2b56d5fefb341dea2a1968f277d8328e5635	5.740
+llavors	pa-066	16.21-20.35	17.12-19.72	clips/pa-066__llavors__16.21.wav	generat	5d3f190d42be6a68e145c600b829752671c073bd48638714b774062785861411	4.140
+a veure	pa-001	341.57-345.59		clips/pa-001__a-veure__341.57.wav	existent-extraient-sense-overlap	6cf0421c6b94afbc5fb77c2e23fcad5242620b604b8fbef21a2669ca70b4b6d0	4.020
+a veure	pa-002	126.25-132.75		clips/pa-002__a-veure__126.25.wav	existent-extraient-sense-overlap	38db2238afad6ff0cda8d052428ac946c1502fe9e478748a5d5a10c304f4787c	6.500
+a veure	pa-007	89.25-96.75	88.24-92.24	clips/pa-007__a-veure__89.25.wav	existent	2e33ec4258f16610796effef83c0b15f586de483c9feea9356e66c28bcb48f98	7.500
+a veure	pa-008	668.25-673.75	669.32-672.76	clips/pa-008__a-veure__668.25.wav	existent	b8ec0ea035f80dc7781e0482c5309e8d1c8801ed3c891425c324353862e4f9ea	5.500
+a veure	pa-011	551.81-556.27	554.12-557.52	clips/pa-011__a-veure__551.81.wav	existent	3d97427de28fc34ef2fbb6e9f043e58092da0546973ce8b3bca9331b53a5bd7b	4.460
+a veure	pa-014	617.45-637.95		clips/pa-014__a-veure__617.45.wav	existent-extraient-sense-overlap	1ecfd71b7e585ea710847503e4b096787c1afdff39d5b0fab976e56af5c9dedf	20.500
+a veure	pa-016	369.73-375.91	370.24-375.08	clips/pa-016__a-veure__369.73.wav	existent	04e982fcf900339e61932d0688d03c07221f39e5e11352e378d022981622bc67	6.180
+a veure	pa-018	825.61-833.55		clips/pa-018__a-veure__825.61.wav	existent-extraient-sense-overlap	f85d17b85019ab9afaee772a248ae9ee7befc9dbc58de94604aead518bf29f20	7.940
+a veure	pa-021	108.77-116.95		clips/pa-021__a-veure__108.77.wav	existent-extraient-sense-overlap	a414dcaedfce8f46c78fc77e8d5ad8733a82d2ecc90cca07471723204ceab88d	8.180
+a veure	pa-022	238.61-245.15	238.60-244.08	clips/pa-022__a-veure__238.61.wav	existent	bbd94477eb114a1ffabb48116b8907dc339789165916fe947c9e3a3c2ba027cd	6.540
+a veure	pa-023	268.81-272.59	269.52-272.00	clips/pa-023__a-veure__268.81.wav	existent	addeae7da8659156e43287f650334aeecae3c998787d1a218497b4ea51d30739	3.780
+a veure	pa-024	590.77-595.39		clips/pa-024__a-veure__590.77.wav	existent-extraient-sense-overlap	b692baf8e9b4b0fbc83cc7da1b600dba23f3aa0184188d4d5f63d2a0058396d6	4.620
+a veure	pa-025	388.01-395.23	388.80-390.96	clips/pa-025__a-veure__388.01.wav	existent	ac41c9bd2a75300f05015ffb965c075ec19565e75485decbd94da09268e2fd9f	7.220
+a veure	pa-026	64.09-68.39	63.04-67.44	clips/pa-026__a-veure__64.09.wav	existent	a0131f905fc6b5055935b9db4e5f641e9c8dd15f1c33156a2430926f27383e95	4.300
+a veure	pa-029	17.49-21.59		clips/pa-029__a-veure__17.49.wav	existent-extraient-sense-overlap	0c49c79d6f3d3945e1b570396e750ad2b18dffab6442099a0af5c31eb523b5ea	4.100
+a veure	pa-030	673.41-676.91	673.84-675.92	clips/pa-030__a-veure__673.41.wav	existent	8d8d6cfa9ad9300ff3240685c9ed04204b82264cc1242f4fcdccefe0fc9e98fd	3.500
+a veure	pa-031	4.25-9.07		clips/pa-031__a-veure__4.25.wav	existent-extraient-sense-overlap	470c2fc3c9e46f483323eef86d5080dd5f22a318b8a26f0d8d524a8fbc37a15a	4.820
+a veure	pa-032	212.45-218.19		clips/pa-032__a-veure__212.45.wav	existent-extraient-sense-overlap	e7faa715389f8349a619a12d56001129ec9c9d78bd8404383dea0b1d027a13b4	5.740
+a veure	pa-034	94.05-100.39	94.72-99.44	clips/pa-034__a-veure__94.05.wav	existent	f11ae47cfb296a410bc792f10d50a4670333a71827c336ac9c126292c960a427	6.340
+a veure	pa-035	211.09-218.51		clips/pa-035__a-veure__211.09.wav	existent-extraient-sense-overlap	50a42e1496440e919a2bffc10ef6447431d7949c6ad9dea989657538f38d5b8c	7.420
+a veure	pa-036	153.05-160.15	154.16-159.36	clips/pa-036__a-veure__153.05.wav	existent	e46402ec8e4acb176e917eee73f8cd3dc7797233647d67d688221838195ade2a	7.100
+a veure	pa-038	1070.33-1076.43		clips/pa-038__a-veure__1070.33.wav	existent-extraient-sense-overlap	002a2e40a5ab01996b6757320c33036a847b16bca587dc6cefc2077b85071afe	6.100
+a veure	pa-041	200.25-205.75		clips/pa-041__a-veure__200.25.wav	existent-extraient-sense-overlap	d94803f0ff6a582f1d54ceb3f53aee9ed0eeb766fc0f5943cdf67c5ba821168c	5.500
+a veure	pa-045	340.93-345.91	341.48-345.00	clips/pa-045__a-veure__340.93.wav	existent	03b4ff733fc095b5e926d8dbcce71e7393cab5145040dc1fd0986181631f2506	4.980
+a veure	pa-048	393.93-397.03	395.48-398.80	clips/pa-048__a-veure__393.93.wav	existent	9102f274c38e674445da844dc3a02ad058fc647815947cdce0cb5df2242acbd7	3.100
+a veure	pa-049	244.85-252.03	250.28-252.28	clips/pa-049__a-veure__244.85.wav	existent	7b71fcc78c5080a21279eadcf1cc4451262936076575f74fb3f5f9663ea5a47f	7.180
+a veure	pa-054	77.97-81.87		clips/pa-054__a-veure__77.97.wav	existent-extraient-sense-overlap	4ad08421bfe41e0cfc81cc6bdd086ac64a523d79c32cb56c789f1a30804af9a9	3.900
+a veure	pa-055	63.89-68.59	59.00-67.24	clips/pa-055__a-veure__63.89.wav	existent	5a77a923a35da12ae764c729ea54da5af9922d6b7fc57f4732ea86f932e9d997	4.700
+a veure	pa-056	673.21-676.71	674.04-675.76	clips/pa-056__a-veure__673.21.wav	existent	5ef05ab6a846afd680570ee327ab385147f23ae2bfd3e0969bca3b6a22e56f60	3.500
+a veure	pa-057	16.97-21.31		clips/pa-057__a-veure__16.97.wav	existent-extraient-sense-overlap	25edbe6ee2ddb939add2dfcf2ff74f7ca2b67f068d5ec63de105b41444ecd828	4.340
+a veure	pa-058	828.61-833.55		clips/pa-058__a-veure__828.61.wav	existent-extraient-sense-overlap	c48759c37e1d258fecb1a4ac137471a67087f3aae37b58ef6ab8e36e79c88c49	4.940
+a veure	pa-060	268.57-272.67	269.56-274.32	clips/pa-060__a-veure__268.57.wav	existent	36b54db63c2eed299ee8e70eb28f480ec74849e47b12e0ccc689925b290d1908	4.100
+a veure	pa-061	579.17-583.39	580.32-582.92	clips/pa-061__a-veure__579.17.wav	generat	9276ee455c7ba9bccd36d3ff17a83e98130fcbd4bd4d1f322b4bb92b1f565f1a	4.220
+a veure	pa-063	402.13-408.03	402.92-410.80	clips/pa-063__a-veure__402.13.wav	generat	0644b2672a390cfdd420ae5dc9cb1daf653ab25978ffe35b3fae25cde107aacf	5.900
+a veure	pa-064	587.61-591.67	588.36-590.84	clips/pa-064__a-veure__587.61.wav	generat	d2b367717082674c001d5c114930374201ac81a40b44b1fc5d7f1e21b2e8fe9c	4.060
+a veure	pa-065	578.25-582.71		clips/pa-065__a-veure__578.25.wav	existent-extraient-sense-overlap	a4e9c9e0676616d451756731b415e13234c4d8707b88bb585f494d7520866026	4.460
+aviam	pa-003	180.17-188.79		clips/pa-003__aviam__180.17.wav	existent-extraient-sense-overlap	d1ae1d021e368a2062a13569c08ba1cc212d527200b0aae366cd7d0ac1b2fa77	8.620
+aviam	pa-014	875.45-883.95	876.08-878.08	clips/pa-014__aviam__875.45.wav	existent	f0734d64362e54adeb066fb426217e22af46539c4fe68eff7e4d9a9e2375209f	8.500
+aviam	pa-016	729.65-741.19		clips/pa-016__aviam__729.65.wav	existent-extraient-sense-overlap	73448a932688ec22288fc11a6653ccb0ffb5cd88c46bb5e64560304de9f9e2da	11.540
+aviam	pa-020	252.21-256.43	254.56-259.00	clips/pa-020__aviam__252.21.wav	existent	d939cc85022682c4190eb9152a29c2c1e37d97058b8fcbfbf17401b197db1820	4.220
+aviam	pa-049	897.25-901.75		clips/pa-049__aviam__897.25.wav	existent-extraient-sense-overlap	49a6821640c054b05381a46cf68e3b16a2bd0813cfece34af5fa4560cf6a5aeb	4.500
+doncs	pa-004	416.21-423.31	417.04-422.76	clips/pa-004__doncs__416.21.wav	existent	66a0b6d71bfc9f7d9aa51a0679961950ad4a21de67dad876013e124cb766df6b	7.100
+doncs	pa-005	71.13-77.11	71.52-75.88	clips/pa-005__doncs__71.13.wav	existent	05acf64b455e436ae6562ee6d71bcf7e28df15f3f60e9dc2e79e865ee570a1e0	5.980
+doncs	pa-006	180.25-187.75	181.36-187.28	clips/pa-006__doncs__180.25.wav	existent	2053f514cf7a7bfe2fa9b0327ab0b7f71664c2773313f582ee534a7e50119033	7.500
+doncs	pa-007	59.25-66.75	59.72-65.24	clips/pa-007__doncs__59.25.wav	existent	7bcafbd2c7cfcd294fc5f3127d39c12303eba4ce1e54675fd5e7be02556993a9	7.500
+doncs	pa-008	55.25-59.75	55.64-59.04	clips/pa-008__doncs__55.25.wav	existent	608e166c3f7d4f63850c8b47c45178cd79999982a966fc2cdc0df2df4761570d	4.500
+doncs	pa-009	139.25-145.75	139.64-145.04	clips/pa-009__doncs__139.25.wav	existent	a8fb9cccca0c31582eb8fd38688a29fc8664ac0fabcd1c9ff2bf59681828303e	6.500
+doncs	pa-010	24.65-31.67	27.32-31.00	clips/pa-010__doncs__24.65.wav	existent	309b173e7d6f30301d9e7648b7163fb5f2d33aa940f2eaa4129fa4ee34282ff2	7.020
+doncs	pa-011	61.49-69.07	62.12-68.52	clips/pa-011__doncs__61.49.wav	existent	5aa1c51a8900c6ce6d1c161b52cc6fd8c8ed60de090521b6adbff36b7ea0d508	7.580
+doncs	pa-012	411.25-416.75	411.54-415.14	clips/pa-012__doncs__411.25.wav	existent	4b2398a041243a0406c39b974765556d1c37b840bfea8c9e2d8afdce5d572a2a	5.500
+doncs	pa-013	56.85-61.87		clips/pa-013__doncs__56.85.wav	existent-extraient-sense-overlap	a331902281b4ef37a1e91529a4569ab16b95b175dddd11dca72c1653f8a31d1a	5.020
+doncs	pa-014	180.05-188.55	181.12-183.56	clips/pa-014__doncs__180.05.wav	existent	cdc02498c52762dbdcee2ae5598710e71e87033689815e8295ffd5ba9f76fd45	8.500
+doncs	pa-015	83.25-87.75	81.04-87.76	clips/pa-015__doncs__83.25.wav	existent	2f666e1eff8fed57c0a6be7a4e79f9d130981b91570781073aa7d5de5609591b	4.500
+doncs	pa-016	62.33-69.43	67.24-69.56	clips/pa-016__doncs__62.33.wav	existent	30e79f4822a2421b9b7fdd1c17a2fe7019b7802f73ea5469821a94a2b14026ad	7.100
+doncs	pa-017	459.25-464.75	460.32-464.32	clips/pa-017__doncs__459.25.wav	existent	88468d412a21fe20d4f5f076302a7cc9b4e3d98f87e2f3e7c3089cbe5a6a7c2d	5.500
+doncs	pa-018	33.53-39.87		clips/pa-018__doncs__33.53.wav	existent-extraient-sense-overlap	dab50c106ed0ca9ff8077a6ebca1b9f2a6643b5570a0a9f2d566e95b69d73b4b	6.340
+doncs	pa-019	46.25-49.75	44.88-48.24	clips/pa-019__doncs__46.25.wav	existent	23755859fe786628ba31bc7d04552e89c6d005243328bf665c758ab58f133a2c	3.500
+doncs	pa-020	247.37-252.03		clips/pa-020__doncs__247.37.wav	existent-extraient-sense-overlap	ac7ae50067955964395511abc509716004b73c35c836bfd2be1d2d7eae21d7e4	4.660
+doncs	pa-021	12.25-16.87	13.76-17.48	clips/pa-021__doncs__12.25.wav	existent	caa7b27a9303c6a472d419c643ce71ba705f0b079f5db22863a73bd5090cdc6b	4.620
+doncs	pa-022	122.85-126.95		clips/pa-022__doncs__122.85.wav	existent-extraient-sense-overlap	67f0bb703016287592fac90bfe25a8f60063df63a68f142792da4ac6c3881044	4.100
+doncs	pa-024	83.01-114.51		clips/pa-024__doncs__83.01.wav	existent-extraient-sense-overlap	e566446c8cd47ba690f7fa9cdcd98e35951722afdf5df53b1290bf4be7a3d57c	31.500
+doncs	pa-025	59.89-66.03	60.52-65.16	clips/pa-025__doncs__59.89.wav	existent	bc55b2725047786d4f8ce751bcd2abf007f43c80bd8526d1784826e612428d3e	6.140
+doncs	pa-026	6.33-9.67		clips/pa-026__doncs__6.33.wav	existent-extraient-sense-overlap	aa895f9eceaa0c9562e211b003c58ea4806f71d7a8b9be80e8bad416032c8278	3.340
+doncs	pa-027	18.01-24.51	18.88-23.72	clips/pa-027__doncs__18.01.wav	existent	38a642e1c4cf1e5b359e5c5f93a5ea243179a12da826b4b12cef6935f990b214	6.500
+doncs	pa-028	329.33-334.79	329.84-333.72	clips/pa-028__doncs__329.33.wav	existent	3805ccfc9d6eb1cf6e51c39cc3b10f1068e476b393b1b19c19030c8ae72c9bc5	5.460
+doncs	pa-029	127.61-131.67		clips/pa-029__doncs__127.61.wav	existent-extraient-sense-overlap	39e640e7a71446af0d3465c1c64c03586e6895011486aecda1e23f60f0173c2f	4.060
+doncs	pa-030	43.53-48.63		clips/pa-030__doncs__43.53.wav	existent-extraient-sense-overlap	2a791ded5c43a33365aa74d972ca0174e560615308ee892e8a6059a279162a46	5.100
+doncs	pa-031	414.05-419.11		clips/pa-031__doncs__414.05.wav	existent-extraient-sense-overlap	4ac69e3c84c89e14c5394684402f9532cf50bb7d2f06465aa722df3c43217b0a	5.060
+doncs	pa-032	21.61-27.23		clips/pa-032__doncs__21.61.wav	existent-extraient-sense-overlap	7978969c8d5ca1dfa8fdba8af3a14e5fe554f0d4a3decfe7999825e2ede14062	5.620
+doncs	pa-033	6.61-10.79	7.28-9.96	clips/pa-033__doncs__6.61.wav	existent	2334bb93e8368ef15722191494cea98bfa1cf6473d3fe42030bb789622343d3a	4.180
+doncs	pa-034	110.53-116.23		clips/pa-034__doncs__110.53.wav	existent-extraient-sense-overlap	969a7dcbf66d598c05ee6ebe5b513ba7b126ddddfdc083e369f75d2487debffd	5.700
+doncs	pa-035	195.49-202.11		clips/pa-035__doncs__195.49.wav	existent-extraient-sense-overlap	407b7e368e7e93f22b9df827c4fd303b5cdb9de07bb6943545a1d368e7b1b6bc	6.620
+doncs	pa-036	367.25-376.75	372.40-375.92	clips/pa-036__doncs__367.25.wav	existent	79170e20e49fc9ecd4f3e6e8920a76e8fc9646d2b4ecfb09b8871a7b22e5aa00	9.500
+doncs	pa-037	20.49-28.07	21.20-24.72	clips/pa-037__doncs__20.49.wav	existent	6b6832a65d1cd2750662eb13139673692a652101568d9ca89268da6b2ca79fc5	7.580
+doncs	pa-038	2008.17-2013.95		clips/pa-038__doncs__2008.17.wav	existent-extraient-sense-overlap	c11cc452775c8860e95e68ffd1f00b4bffac4f398c2ed687dc1b8a02d6c69dae	5.780
+doncs	pa-039	12.77-19.51		clips/pa-039__doncs__12.77.wav	existent-extraient-sense-overlap	9731f90cc7b275e9f8a45cfdda6e09bba1752731587ce805333097d9ae17656e	6.740
+doncs	pa-040	210.05-214.99	210.00-212.84	clips/pa-040__doncs__210.05.wav	existent	07fe4438a688a94f1330ec8715fb827b8f6e48efce252902c6e37e39fac24266	4.940
+doncs	pa-041	209.25-217.75	210.44-214.32	clips/pa-041__doncs__209.25.wav	existent	456d3f4d57f1f273bc1992f48e4f8a53c04eb9f60a7604e06f0326ee2b8b33bd	8.500
+doncs	pa-043	15.25-19.75	15.72-19.04	clips/pa-043__doncs__15.25.wav	existent	fe38e7be7f83121938450485105993045cd46a153f7b061e0fb8f5c3025a0ef9	4.500
+doncs	pa-045	283.01-287.39		clips/pa-045__doncs__283.01.wav	existent-extraient-sense-overlap	26adcfe3a26d9a3b60b789516595f84b3d5ddc67b459a520b8461e903dd50405	4.380
+doncs	pa-046	135.61-140.07	135.00-139.24	clips/pa-046__doncs__135.61.wav	existent	3258ae8b054646860843583a2ffb1792164175e4bd33de0635765c12fdd8ab2d	4.460
+doncs	pa-048	302.89-306.79		clips/pa-048__doncs__302.89.wav	existent-extraient-sense-overlap	aaf363ff4b73cad2996e1e87eafdccbdede1302092dcd61ff25efe27e9fd68aa	3.900
+doncs	pa-049	1092.25-1095.75		clips/pa-049__doncs__1092.25.wav	existent-extraient-sense-overlap	9e5dcb2d1aed521859f02d62f4d557ad1e68f1360e2b884a74502dece7b2ac84	3.500
+doncs	pa-055	6.29-9.67		clips/pa-055__doncs__6.29.wav	existent-extraient-sense-overlap	784e9c63f9248d7850d920158099e853b5c805911b3126d17b8deb30b5f6944a	3.380
+doncs	pa-056	43.45-48.59		clips/pa-056__doncs__43.45.wav	existent-extraient-sense-overlap	5369240f16b54d3a0871052b64ccb84fb720167f0789d2cb3a120bd39b1f683b	5.140
+doncs	pa-057	127.21-131.71		clips/pa-057__doncs__127.21.wav	existent-extraient-sense-overlap	97611dd2498ed71d29648969c7a06660ac4f8246bb6d5fd912922b81c04459cd	4.500
+doncs	pa-058	200.41-205.27		clips/pa-058__doncs__200.41.wav	existent-extraient-sense-overlap	b825d5b264fd70da271a46ea83654e04581323aaeff6ed3321f149dbf81c954e	4.860
+doncs	pa-059	245.81-250.79		clips/pa-059__doncs__245.81.wav	existent-extraient-sense-overlap	baf3a30e6b884ef8e98a80da6980e83da1386fcb897d2ad706bb51d5adbdd1c8	4.980
+doncs	pa-060	177.97-182.63		clips/pa-060__doncs__177.97.wav	existent-extraient-sense-overlap	514b7c0d44b5d8238187d52962a2ff575fec300bcabe9a496a82cc436a16b60d	4.660
+doncs	pa-061	242.09-249.23		clips/pa-061__doncs__242.09.wav	existent-extraient-sense-overlap	ffeaa7cee08f842242e644eb80f2eb9aa09eda53ee21e15a5e800fe0ae88d5b9	7.140
+doncs	pa-062	302.09-307.51		clips/pa-062__doncs__302.09.wav	existent-extraient-sense-overlap	b33349812d8086c20603f8bfd5cdee8780d061972f46835e2e1109d238fb3040	5.420
+doncs	pa-063	609.05-614.11	609.80-613.44	clips/pa-063__doncs__609.05.wav	generat	b47bb5e4624b646111d8b819c56b972ff2c8b7f96f2076116966d014fa14ad04	5.060
+doncs	pa-064	456.73-460.43	457.36-463.36	clips/pa-064__doncs__456.73.wav	generat	83ee834bba2d5b3b2ce8eb82ef397a47d10bb28e013dd4363f3989904c6351a4	3.700
+doncs	pa-065	157.49-162.27	158.08-161.08	clips/pa-065__doncs__157.49.wav	generat	fa6b643feaf38740c3c673bdf0240a4181c5a163af029a8b9849d97c40d783a2	4.780
+perquè	pa-001	59.57-63.31		clips/pa-001__perqu__59.57.wav	existent-extraient-sense-overlap	8f2339307585715bdef5bd403e14bd6eaaf7848b25bfbb07c4b75ef53ae6c53a	3.740
+perquè	pa-002	18.25-23.75		clips/pa-002__perqu__18.25.wav	existent-extraient-sense-overlap	fd992eaa1c36075c7d61eb5415a88873e62c9cd1a814028961f837c177c0450f	5.500
+perquè	pa-003	201.57-207.03		clips/pa-003__perqu__201.57.wav	existent-extraient-sense-overlap	4d89850da4f75cb15a2bb18d7e50f0591347b9b46c178f4ecadb12808bdf31e1	5.460
+perquè	pa-004	464.09-471.39	468.00-471.96	clips/pa-004__perqu__464.09.wav	existent	34897a3ceeddad5ddce803ce923ebf0b03ac5b546f9540b0aa7ade39a63929c5	7.300
+perquè	pa-006	110.25-117.75	113.12-116.72	clips/pa-006__perqu__110.25.wav	existent	f5110cd0a97a9b8260146db20c19982de730e54683234b9f745c4699755a734d	7.500
+perquè	pa-007	101.25-107.75	102.24-104.24	clips/pa-007__perqu__101.25.wav	existent	8adbcbe949e214503a8ac8893a4ebed08f3735f6e7e851f441dc210aa4575174	6.500
+perquè	pa-008	55.25-59.75		clips/pa-008__perqu__55.25.wav	existent-extraient-sense-overlap	2c1d31909c548f5c61ab8d46f6e06ce7b91aec623fb61107c00475a4dfbdb129	4.500
+perquè	pa-009	349.25-356.75	348.48-352.24	clips/pa-009__perqu__349.25.wav	existent	4564d03841139f4f9416a21333c3b911f275de8124513c2907e82712a9000466	7.500
+perquè	pa-010	196.65-201.55	193.64-199.04	clips/pa-010__perqu__196.65.wav	existent	649287324f69546d014108e4929ec6af6c207ea994c805ff69727151f99526f9	4.900
+perquè	pa-011	27.61-31.55	26.72-30.72	clips/pa-011__perqu__27.61.wav	existent	29135be54b4b147d0eda34d59bebcaf5560c412009f5de70ab50001845ee234c	3.940
+perquè	pa-012	369.25-374.75	367.78-374.46	clips/pa-012__perqu__369.25.wav	existent	4f44df390cad8205ba3046068dfa49ceef24647ed6707c5a8be4e626ea6880ae	5.500
+perquè	pa-013	433.89-442.03	432.88-437.28	clips/pa-013__perqu__433.89.wav	existent	0aa03038c99007d9249ce58a724a195f4f86c1bc4d2099383396de3531e1f431	8.140
+perquè	pa-014	105.85-115.75	107.92-109.36	clips/pa-014__perqu__105.85.wav	existent	55393fbc618c75d97938a8322291a70144c4bdbc594f681ca01cf3577a1f664c	9.900
+perquè	pa-015	86.25-92.75	87.76-91.76	clips/pa-015__perqu__86.25.wav	existent	920109045896e7d94de1457f918d197e77aaacebd657e63b73cb06aa841730f8	6.500
+perquè	pa-016	79.77-85.39	80.68-84.56	clips/pa-016__perqu__79.77.wav	existent	63ff86102f02e1c79131c26c271b764dcf2fee00757ceb1742483bf13b84d8aa	5.620
+perquè	pa-017	4.25-12.15	4.96-7.88	clips/pa-017__perqu__4.25.wav	existent	c37d0e81a67035f14b21a3d9acf65e9e4d89259751bedffb0718788bff25ba73	7.900
+perquè	pa-018	91.09-96.47	91.84-95.80	clips/pa-018__perqu__91.09.wav	existent	26189b0a263714ef40ca0fe1cde356c2818cdb993a4fba5c05348fc3e0037b55	5.380
+perquè	pa-019	101.25-105.75		clips/pa-019__perqu__101.25.wav	existent-extraient-sense-overlap	d8b885acfaeaa08e383bd0ef2cfa0513b99713e7bf1a070c9cc7219cb5caaf33	4.500
+perquè	pa-020	9.41-12.91	9.84-11.84	clips/pa-020__perqu__9.41.wav	existent	685c2253092a80703a48aa722308efa55b16603ada59926e97085bdd6f010811	3.500
+perquè	pa-021	15.45-19.67	17.56-22.24	clips/pa-021__perqu__15.45.wav	existent	b5da3c833208a879a53426b7f5e9a0b928e4b560e6d6f9577f08ad125321950b	4.220
+perquè	pa-022	111.69-115.67	112.32-114.80	clips/pa-022__perqu__111.69.wav	existent	fb2ffe0dbf5e8edef8dff934b62be786708f56c40fda8becaa5c14c141aff790	3.980
+perquè	pa-023	29.09-34.79	30.00-34.12	clips/pa-023__perqu__29.09.wav	existent	a53c55737a3ea627dfc1975487041bc23708b7667b47e9e81592d2cbcb46a20c	5.700
+perquè	pa-024	225.53-230.35		clips/pa-024__perqu__225.53.wav	existent-extraient-sense-overlap	d09d1bc1d872d54d288ff2424248c5de18fa9d8b76f314bb0a4e675d489085f5	4.820
+perquè	pa-025	37.17-40.43	37.92-39.60	clips/pa-025__perqu__37.17.wav	existent	a891fcf66565de45043e5673202939ffd53995c708fbce926de37ecf2ab3a200	3.260
+perquè	pa-026	150.53-156.67	150.32-155.88	clips/pa-026__perqu__150.53.wav	existent	a06efbfdb2e318c890b420026c97961f9e15ee10139b75a171678569811766b4	6.140
+perquè	pa-027	8.81-14.39	8.80-12.04	clips/pa-027__perqu__8.81.wav	existent	e8162daab616860e81e55a9b17c1dd1824cef34ede88bf377dfcddb1b9284c85	5.580
+perquè	pa-028	142.89-147.99	143.48-149.12	clips/pa-028__perqu__142.89.wav	existent	5b1e188c8fcea870766593da2a3077f6730dd34d379eaea586edb4f2f65ae03c	5.100
+perquè	pa-029	249.69-254.43		clips/pa-029__perqu__249.69.wav	existent-extraient-sense-overlap	ab0a4f86d61a08b2713c29e243689f6690d79aab735bee1859dfda92408cd1e8	4.740
+perquè	pa-030	31.89-36.39	32.72-35.72	clips/pa-030__perqu__31.89.wav	existent	c8563f20f7d6628968378f3a440d6a7ad4939624141215ec351d27a364919d73	4.500
+perquè	pa-031	32.69-37.47	33.48-36.64	clips/pa-031__perqu__32.69.wav	existent	cf617f19e1ca890dcf6dfb89e425ddba5e51d8739e0266d23d3f88905606219e	4.780
+perquè	pa-032	9.21-15.07	10.00-14.72	clips/pa-032__perqu__9.21.wav	existent	66b02c6db84050aebf90008226b3eceeceb63d28f24f6f2dabcd5df79040e592	5.860
+perquè	pa-033	18.89-23.43	19.64-24.36	clips/pa-033__perqu__18.89.wav	existent	83a8fe60b3c3d92ff7983f58a8039aa092f30492036b4e85d45ff73f735dcdb1	4.540
+perquè	pa-034	51.85-56.47	54.32-55.92	clips/pa-034__perqu__51.85.wav	existent	42c2240a9e852c9b3f38b820a029fd9cf367a55c2470b17dff14d3bdd74dff5f	4.620
+perquè	pa-035	181.13-186.35	181.72-184.96	clips/pa-035__perqu__181.13.wav	existent	f38c54cf7b06763648129d2747c0f1ced80eb9516a046f7e7ef3daa04b563f16	5.220
+perquè	pa-036	15.65-20.75	16.48-19.92	clips/pa-036__perqu__15.65.wav	existent	0b689f9cb1c151358edd130106775c8b163806eb401b210c4a81db43371b53bd	5.100
+perquè	pa-037	186.29-198.91	193.24-198.88	clips/pa-037__perqu__186.29.wav	existent	1cbed31b6a828f4d1d14b5d0776606717bcd4713ad7782068c048ddfcc358a3d	12.620
+perquè	pa-038	279.13-283.51	279.96-282.12	clips/pa-038__perqu__279.13.wav	existent	c31eb633958fc9fd8bd88b6bfbe0bfc3cbd45b63478165ca802023b152926f29	4.380
+perquè	pa-039	18.09-21.31	17.76-20.32	clips/pa-039__perqu__18.09.wav	existent	dff331596c9e82aa7bb44ebbf55c1110e2144bf7e68ffeececaa17ec019e4216	3.220
+perquè	pa-040	25.21-30.07	25.32-29.32	clips/pa-040__perqu__25.21.wav	existent	1dddceb3b8b20aa203c0beebdb84beb91ca4e0eeee9207dfb2c471483bc2bd35	4.860
+perquè	pa-041	69.25-76.75	73.04-75.64	clips/pa-041__perqu__69.25.wav	existent	7719b475b5c82063849dcb098fa742a7a21e636a25256d974be9d5877e957376	7.500
+perquè	pa-042	29.13-33.43	30.08-32.88	clips/pa-042__perqu__29.13.wav	existent	070ca7096afab41fd8168729d4884fa32c4920392328afd39413d4653ba181c7	4.300
+perquè	pa-045	175.33-183.63		clips/pa-045__perqu__175.33.wav	existent-extraient-sense-overlap	fed7356d7f153694bcb35a3111387ee9b69251ce5f0607d814d1f2e03a15c256	8.300
+perquè	pa-046	140.85-146.79		clips/pa-046__perqu__140.85.wav	existent-extraient-sense-overlap	078e50f04cb2167854b9bf1084520f6d233b0f4873cf10b36b9b28c4a204f428	5.940
+perquè	pa-048	186.93-191.19		clips/pa-048__perqu__186.93.wav	existent-extraient-sense-overlap	1126abd618f49f845eab2af7b8347b639f779ddf619ecc137b9baeb594f6c7a2	4.260
+perquè	pa-049	68.85-75.71		clips/pa-049__perqu__68.85.wav	existent-extraient-sense-overlap	8321d95aea1b69b8c4d947bacc843e69c4c10e2b9758cd1da8e59333740e3e75	6.860
+perquè	pa-051	123.85-128.35		clips/pa-051__perqu__123.85.wav	existent-extraient-sense-overlap	1f0d28974908a7c494a071375ac33db09c394b10c1fdfb96ff4573510ea2f247	4.500
+perquè	pa-052	92.65-96.47		clips/pa-052__perqu__92.65.wav	existent-extraient-sense-overlap	f69d26e6be851f69420d20c3b397fa0d96af1da10109ab2573fe1606e5debadb	3.820
+perquè	pa-053	113.93-120.79	114.48-121.48	clips/pa-053__perqu__113.93.wav	existent	64fcdd3ba28a2bf0be76550ffa94d3e071ac713bf39b61138ae6714812d35997	6.860
+perquè	pa-054	80.45-85.43	83.04-87.96	clips/pa-054__perqu__80.45.wav	existent	ffc694724e6dee7981aa1274ff326d33d52b1f8c9629b145be982388906f5422	4.980
+perquè	pa-055	148.53-153.11	151.00-155.84	clips/pa-055__perqu__148.53.wav	existent	af435e03412b13a8f1f0e38be16e6c6691f7c2136a0a7dbed35189a2cceca69f	4.580
+perquè	pa-056	31.73-35.07	33.08-35.72	clips/pa-056__perqu__31.73.wav	existent	9f71dfe954cf724b30e0fd26a32bb82e1cf4001827c9a00dc3d77bbcf1fd2f75	3.340
+perquè	pa-057	249.45-254.11	250.16-252.80	clips/pa-057__perqu__249.45.wav	existent	11e76ce20d00eeac2b1ee4e984b72cf2ed8e12ee2dde186db264b6e0aaa03f8f	4.660
+perquè	pa-058	91.09-96.47	94.44-96.92	clips/pa-058__perqu__91.09.wav	existent	17c00630e6e803a985f847462ce1cc0756a6d99fe77b0dbc37d90092396a6b3a	5.380
+perquè	pa-059	4.09-12.43	4.96-7.92	clips/pa-059__perqu__4.09.wav	existent	1495fd16f5a4cb8523ec35eb4a95e735fda16bd565eeec8237c4615b9ed03594	8.340
+perquè	pa-060	29.05-34.75	29.84-35.20	clips/pa-060__perqu__29.05.wav	existent	d27dd69eb55f2a4a3ef8d936e2a551a7c7654dc7e06489d2d8b7c6b45d67a2c8	5.700
+perquè	pa-061	117.17-123.75	117.92-122.92	clips/pa-061__perqu__117.17.wav	generat	eb43780cda9d3fb56ecf25ced885ca315567304de13b6168afcf37f8775d33f1	6.580
+perquè	pa-062	73.97-78.19	74.76-77.52	clips/pa-062__perqu__73.97.wav	generat	7070b669e8f307c0f0bb661f510a478ec77f06c192911d26336bd1760525586b	4.220
+perquè	pa-063	142.61-146.79	143.28-145.88	clips/pa-063__perqu__142.61.wav	generat	8e4e02b38e6529f4c6080e9746c1f1c60c4db9f524b54a6728bd97a71f1c7974	4.180
+perquè	pa-064	27.57-33.27		clips/pa-064__perqu__27.57.wav	existent-extraient-sense-overlap	ae786c4acf39d47c492c5b65071ad9e13b069b8181eb920451225da3b13311ff	5.700
+perquè	pa-065	129.17-134.51	130.00-133.88	clips/pa-065__perqu__129.17.wav	generat	eb219b11a8c0b1ce377bc1296b53d7c88e40f5abd3701e30f5a3bd91c345681c	5.340
+perquè	pa-066	21.81-26.71	22.68-25.92	clips/pa-066__perqu__21.81.wav	generat	611964253e5d0c918aaa0d6f637572b69a16e40362043c76053c53612b494e7c	4.900
+a nivell	pa-001	135.37-139.03		clips/pa-001__a-nivell__135.37.wav	existent-extraient-sense-overlap	e5b0f06ce3e039baf4cc85c24f32902f435f90fd841cd5059b91697c435f962c	3.660
+a nivell	pa-002	714.25-724.75		clips/pa-002__a-nivell__714.25.wav	existent-extraient-sense-overlap	847941dc5c4a39dd092dd381d2b198be577237db1ea9cc301b4b4bb3aac42d83	10.500
+a nivell	pa-003	180.17-188.79		clips/pa-003__a-nivell__180.17.wav	existent-extraient-sense-overlap	d1ae1d021e368a2062a13569c08ba1cc212d527200b0aae366cd7d0ac1b2fa77	8.620
+a nivell	pa-016	333.81-340.39	334.52-339.28	clips/pa-016__a-nivell__333.81.wav	existent	499e9b02540fe43be5ddcfdc7c5d9b12a1385c0a6920736e628f8de953084967	6.580
+a nivell	pa-017	143.25-149.75	143.80-149.44	clips/pa-017__a-nivell__143.25.wav	existent	06fc8aa6e76e04f2143ad72203708c86aa984d0169a6a5e1fefb8c3f4c7f6b98	6.500
+a nivell	pa-018	188.45-191.87	189.20-194.56	clips/pa-018__a-nivell__188.45.wav	existent	50582c32479da048eb0ddafc0c929c3346e261944b74d746154b4b2e01349325	3.420
+a nivell	pa-019	122.25-127.75	123.80-126.68	clips/pa-019__a-nivell__122.25.wav	existent	bfbb6fbfec9bb2459306cba449dc2ad4694b256a0b9276b3e49813b7e8ba9b99	5.500
+a nivell	pa-020	409.37-414.43		clips/pa-020__a-nivell__409.37.wav	existent-extraient-sense-overlap	3e0763e87fb6b08a8245ad1e1c98790524449d2854905a56c1ad8ceeb0bb98b4	5.060
+a nivell	pa-023	418.57-422.99	419.28-424.16	clips/pa-023__a-nivell__418.57.wav	existent	a6b0d9ecbff2c19bebc2926abc5f29acea6e08f0fd8f9a68c89181c3c9376826	4.420
+a nivell	pa-024	1547.93-1552.91		clips/pa-024__a-nivell__1547.93.wav	existent-extraient-sense-overlap	df8caaa5d5a0577e3f624407f3948b33e17c3beb4631bfd092565638ab8545db	4.980
+a nivell	pa-026	38.25-41.75	39.24-45.72	clips/pa-026__a-nivell__38.25.wav	existent	0463fb98ceee4e18c24ffb3637d64d5989b7211af171203c63b9a320d7e6a7a1	3.500
+a nivell	pa-029	417.09-421.47	417.84-420.76	clips/pa-029__a-nivell__417.09.wav	existent	4cbd9b08de52bbc1f76e9ea3305ef525452f8eee82b0f7294a7fa58491fe1f57	4.380
+a nivell	pa-033	6.61-10.79		clips/pa-033__a-nivell__6.61.wav	existent-extraient-sense-overlap	1bca564e9bc3228a50d7d409f250f7c44da78e18a3ec61902d4702255502410b	4.180
+a nivell	pa-034	143.81-148.91	144.52-148.04	clips/pa-034__a-nivell__143.81.wav	existent	08f04eb67070f08eee907c3b870bd08c7a9d4e4736544059c8189c99cba383ac	5.100
+a nivell	pa-036	386.45-395.95	391.92-395.16	clips/pa-036__a-nivell__386.45.wav	existent	09ded2303ce7bfb7ec5936ed492a4b05bbe17bdfc3b340fd4ea3c8df6cd5546b	9.500
+a nivell	pa-038	455.49-460.15	452.64-460.32	clips/pa-038__a-nivell__455.49.wav	existent	e86fe3445a396db0b1d5667dbce69375b7c4066666effef7946fc1aaab550e13	4.660
+a nivell	pa-045	624.85-629.07		clips/pa-045__a-nivell__624.85.wav	existent-extraient-sense-overlap	2f7a1e5265619378dc531b4f401cf3af5e737e6a94a1f0c93b9d1dd19bf116ab	4.220
+a nivell	pa-048	435.77-441.27	436.60-441.80	clips/pa-048__a-nivell__435.77.wav	existent	d56fd7a76ac688f574fc3bd1fb9dc7aec6209cb3d29b8ad4cb0311806f515600	5.500
+a nivell	pa-049	1396.25-1400.75	1394.12-1398.68	clips/pa-049__a-nivell__1396.25.wav	existent	02b85270bab91ce51be2e3ebb972932e9781abe3ef5273be40a1379d529e53a0	4.500
+a nivell	pa-055	38.09-44.07	36.48-45.48	clips/pa-055__a-nivell__38.09.wav	existent	43d8bd7f8b3c9a6cf49f93fe7ea6592467c2543ba14edca421f82014d511f92e	5.980
+a nivell	pa-057	417.13-421.51		clips/pa-057__a-nivell__417.13.wav	existent-extraient-sense-overlap	1d790650a43835ed2c5b89a60f8b2adbf68c1fe8c159baadf9bc413134a36515	4.380
+a nivell	pa-058	188.37-191.87	189.28-191.24	clips/pa-058__a-nivell__188.37.wav	existent	8a34b9065342d744da066cd603e068ab15a78c90bb13a18feaede556d95a3cc0	3.500
+a nivell	pa-059	142.93-150.35	143.84-149.36	clips/pa-059__a-nivell__142.93.wav	existent	07026b9506b6ef45eca6d55ae0b44b2bfbb4cad62e9ebca196077af12c35373d	7.420
+a nivell	pa-060	201.93-208.63		clips/pa-060__a-nivell__201.93.wav	existent-extraient-sense-overlap	7e6901cdfedab2d586f875bca0a5d559975987f137f38bcb34714ede99f5e819	6.700
+a nivell	pa-061	1357.21-1360.71	1357.84-1360.04	clips/pa-061__a-nivell__1357.21.wav	generat	2988f083a7f5e0dc979eb4f7a47795da07d26dcb6cfe574fdd5b7b2a92f5963c	3.500
+a nivell	pa-063	1143.61-1148.07	1144.60-1147.76	clips/pa-063__a-nivell__1143.61.wav	generat	a7e84e6dbacc13d4a9672fc1210d2517b325fe12e0579a2f7c038a2e74744e70	4.460
+a nivell	pa-065	529.09-536.75		clips/pa-065__a-nivell__529.09.wav	existent-extraient-sense-overlap	e2dc715c5100e31cd70b2ce2edbafe7f667e02939c3a7db2dc4081e9fa02cce6	7.660
+a nivell	pa-066	25.21-29.71	26.04-29.04	clips/pa-066__a-nivell__25.21.wav	generat	3b5d791c9724f7ff314083e54a02e6b261e6e7922bcbf129a4d28fedac972488	4.500
+tirar endavant	pa-003	361.93-366.63		clips/pa-003__tirar-endavant__361.93.wav	existent-extraient-sense-overlap	3c9e5d455711d2d75cb1417b65ef934c50b4b07120d8ec51ac1e2f7923e892f6	4.700
+tirar endavant	pa-017	49.85-56.15	50.60-54.16	clips/pa-017__tirar-endavant__49.85.wav	existent	c2b5df070b3c990839afd6b65dcd61d635188c6b3e345de94b32e0f8dc3d1328	6.300
+tirar endavant	pa-020	33.45-36.95	32.04-34.92	clips/pa-020__tirar-endavant__33.45.wav	existent	e6e98394c57d55c43971781c201cd5203c68167b696423da2b327adb2a4c942f	3.500
+tirar endavant	pa-029	56.73-63.23	57.44-62.44	clips/pa-029__tirar-endavant__56.73.wav	existent	5f14096867f46ed1299f44511f099ef4bcd6601b91b66853dcd31a78016ff2f1	6.500
+tirar endavant	pa-030	185.61-192.15		clips/pa-030__tirar-endavant__185.61.wav	existent-extraient-sense-overlap	54728c1e80d1ff918a2b8576ab1fe83cd1ee5c2bd2316505671c1a6130c9dbb7	6.540
+tirar endavant	pa-031	146.09-150.31		clips/pa-031__tirar-endavant__146.09.wav	existent-extraient-sense-overlap	734d4da29e4c231453e9e940f971b4dd0ceda1bf2974d757185523ad8dd47825	4.220
+tirar endavant	pa-033	135.69-141.51		clips/pa-033__tirar-endavant__135.69.wav	existent-extraient-sense-overlap	b0ced1667205dbd0576e2aa29110e1c4233b60cd3a5e7c78193727ec9255a2cc	5.820
+tirar endavant	pa-034	690.33-695.67	691.36-695.16	clips/pa-034__tirar-endavant__690.33.wav	existent	887e5c0e8735076a705a05f6736e118de3a711b18ed0bad74d5bf935da11d415	5.340
+tirar endavant	pa-041	102.25-106.75		clips/pa-041__tirar-endavant__102.25.wav	existent-extraient-sense-overlap	a7497670b752e9e978075d0c6d35176f4d2051bcbe82c1b671ad5a7a338e3c6e	4.500
+tirar endavant	pa-056	185.53-189.19	185.52-188.28	clips/pa-056__tirar-endavant__185.53.wav	existent	66f61aaf1326783e5ec385ff520a8d5559f030dca90fd7967bfcfa4bcdfd45bb	3.660
+tirar endavant	pa-057	56.61-63.15		clips/pa-057__tirar-endavant__56.61.wav	existent-extraient-sense-overlap	659575b8fab9339b4de7daf0f12cd188b2b2ca6c3d65ba19fb03e1adfd3e0f6b	6.540
+tirar endavant	pa-059	49.77-54.87	50.40-54.00	clips/pa-059__tirar-endavant__49.77.wav	existent	4b0d26cb4d48c00cefebbaad711fea18780d6f55eee62c2c5e56143158d4316a	5.100
+ensenyança	pa-003	279.69-286.23		clips/pa-003__ensenyan-a__279.69.wav	existent-extraient-sense-overlap	e3eda433ac0c897ef09df433bce38d62ce0bfd4fd1321cb14f3c94577b7ccab7	6.540
+ensenyança	pa-041	523.25-531.75	529.12-530.68	clips/pa-041__ensenyan-a__523.25.wav	existent	44a988b8bdc291ade600ca53a9e336d6f494e952083278c092bed9a16ad7760c	8.500
+reformeta	pa-002	12.25-17.75		clips/pa-002__reformeta__12.25.wav	existent-extraient-sense-overlap	6aa060c5245db509abfb70f46cd39abe070648e52010c2146d0e3f65b9f9adf2	5.500
+reformeta	pa-022	125.53-130.67	126.52-130.00	clips/pa-022__reformeta__125.53.wav	existent	c65e84e357dec2ff67419ceba790d9bee1687552e4277c7d1b3c11b2cfe97367	5.140
+reformeta	pa-025	1085.53-1091.51	1081.24-1088.24	clips/pa-025__reformeta__1085.53.wav	existent	7e1acb1fac50c0b5fe564092ea901384c15f9ab7327e8d900f96cfb237bfe0d8	5.980
+reformeta	pa-026	138.61-145.67	139.40-144.92	clips/pa-026__reformeta__138.61.wav	existent	9ecc153c139b2e8eee21dd2b57aff9f5505a367f856e1bb5009943f99b73b282	7.060
+reformeta	pa-034	191.33-198.59	193.96-197.92	clips/pa-034__reformeta__191.33.wav	existent	26454002f2a120936955f591b2e5c6cfaf9c4d35d2ae4e3566a113a4e5a5f470	7.260
+reformeta	pa-038	1821.69-1828.07	1822.52-1825.76	clips/pa-038__reformeta__1821.69.wav	existent	c8f3ae6d77e84f493a44d32e456e11f78217167340f1dd1218caa7b91e6146c8	6.380
+reformeta	pa-055	139.05-145.83	139.84-145.64	clips/pa-055__reformeta__139.05.wav	existent	25559cd9532afec3a83f8784fb253837ddde48d96cfa14708531d62f457f57c2	6.780

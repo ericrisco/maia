@@ -1,0 +1,12 @@
+origen	desti	relacio	pes	evidencia
+pa-002	trait-connector-és-a-dir	usa	1	pa-002.md:anàlisi-discurs
+pa-003	trait-connector-és-a-dir	usa	1	pa-003.md:anàlisi-discurs
+pa-002	trait-connector-evidentment	usa	1	pa-002.md:anàlisi-discurs
+pa-003	trait-connector-evidentment	usa	1	pa-003.md:anàlisi-discurs
+pa-001	trait-connector-bueno	usa	1	pa-001.md:anàlisi-discurs
+pa-002	trait-connector-bueno	usa	1	pa-002.md:anàlisi-discurs
+pa-003	trait-connector-bueno	usa	1	pa-003.md:anàlisi-discurs
+pa-002	trait-perifrasis-obligacio	usa	1	pa-002.md:anàlisi-morfosintaxi
+pa-003	trait-perifrasis-obligacio	usa	1	pa-003.md:anàlisi-morfosintaxi
+pa-003	trait-lex-ensenyança	usa	1	pa-003.md:lèxic
+pa-002	trait-lex-reformeta	usa	1	pa-002.md:lèxic

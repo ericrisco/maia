@@ -1,0 +1,14 @@
+forma	segment	clip	inici_forma_s	final_forma_s	durada_s	veu_proporcio	rms_p10_db	rms_p50_db	rms_p90_db	zcr_p10	zcr_p90	f0_median_hz	f0_iqr_hz	centroid_median_hz	centroid_p90_hz	segments_veu	pausa_mediana_s	mostres_f0	estat
+a nivell	135	clips/robert-guirao__a-nivell__383.20.wav	383.200	386.200	5.000	0.3695	-55.67	-37.83	-26.59	0.0548	0.3052	328.12	44.92	1270.95	2374.14	21	0.060	46	descriptor orientatiu; pendent d’audició
+a veure	21	clips/robert-guirao__a-veure__48.84.wav	48.840	51.360	4.520	0.8444	-35.92	-22.68	-16.40	0.0329	0.3509	250.00	148.44	967.15	3094.41	7	0.100	96	descriptor orientatiu; pendent d’audició
+bueno	31	clips/robert-guirao__bueno__78.84.wav	78.840	82.360	5.520	0.3055	-55.01	-41.07	-27.39	0.0469	0.1534	343.75	1.95	1084.25	1648.25	16	0.080	40	descriptor orientatiu; pendent d’audició
+bé	16	clips/robert-guirao__b__39.60.wav	39.600	41.400	3.800	0.6243	-50.99	-31.20	-20.40	0.0501	0.2532	289.06	74.22	1235.02	2555.56	9	0.080	59	descriptor orientatiu; pendent d’audició
+de fet	118	clips/robert-guirao__de-fet__324.04.wav	324.040	328.040	6.000	0.3846	-59.11	-40.56	-25.67	0.0466	0.1405	328.12	46.88	1115.33	1737.78	11	0.110	59	descriptor orientatiu; pendent d’audició
+doncs	2	clips/robert-guirao__doncs__6.84.wav	6.840	8.520	3.680	0.8306	-40.00	-23.84	-16.14	0.0394	0.2642	250.00	187.50	1086.95	2853.52	7	0.070	77	descriptor orientatiu; pendent d’audició
+evidentment	50	clips/robert-guirao__evidentment__131.92.wav	131.920	133.520	3.600	0.8547	-40.30	-23.27	-18.65	0.0360	0.2889	234.38	148.44	1040.54	2532.73	6	0.020	77	descriptor orientatiu; pendent d’audició
+no?	40	clips/robert-guirao__no__104.20.wav	104.200	106.200	4.000	0.8241	-43.86	-25.37	-19.72	0.0344	0.2191	242.19	156.25	950.97	2556.21	12	0.020	81	descriptor orientatiu; pendent d’audició
+o sigui	47	clips/robert-guirao__o-sigui__123.60.wav	123.600	126.640	5.040	0.1235	-57.82	-43.75	-34.18	0.0423	0.3005	316.41	197.27	1253.89	2481.37	8	0.300	16	descriptor orientatiu; pendent d’audició
+perquè	27	clips/robert-guirao__perqu__64.36.wav	64.360	68.600	6.240	0.3859	-55.26	-37.23	-29.80	0.0563	0.1972	343.75	23.44	1159.11	1986.05	27	0.060	59	descriptor orientatiu; pendent d’audició
+és a dir	29	clips/robert-guirao__s-a-dir__72.72.wav	72.720	76.360	5.640	0.5338	-53.81	-34.45	-25.81	0.0485	0.1283	335.94	46.88	905.17	1493.92	21	0.070	76	descriptor orientatiu; pendent d’audició
+comú	73	clips/robert-guirao__com__194.08.wav	194.080	197.240	5.160	0.2529	-58.40	-42.41	-29.98	0.0501	0.2172	324.22	146.48	1239.30	1832.69	14	0.140	34	descriptor orientatiu; pendent d’audició
+diguem	109	clips/robert-guirao__diguem__301.32.wav	301.320	305.320	6.000	0.1639	-59.77	-46.37	-30.44	0.0485	0.1534	312.50	156.25	1402.59	1741.76	8	0.140	25	descriptor orientatiu; pendent d’audició

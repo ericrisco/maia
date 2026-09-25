@@ -1,0 +1,12 @@
+# Tercera descodificació greedy — lead-cg-001-xavier-espot
+
+La passada `greedy` usa `ggml-small.bin` amb beam 1 sobre els **4 clips** de formes. El text és una tercera evidència ASR, no una decisió auditiva ni una atribució de veu.
+
+| categoria | clips |
+|---|---:|
+| A-tres-models | 2 |
+| B-dos-models | 1 |
+| C-un-model | 1 |
+| D-cap-model | 0 |
+
+El detall és a `qa-greedy.tsv`; els JSON i TXT de cada clip es conserven a `qa-greedy/`.

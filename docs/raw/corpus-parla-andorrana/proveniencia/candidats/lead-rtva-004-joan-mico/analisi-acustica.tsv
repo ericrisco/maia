@@ -1,0 +1,13 @@
+forma	segment	clip	inici_forma_s	final_forma_s	durada_s	veu_proporcio	rms_p10_db	rms_p50_db	rms_p90_db	zcr_p10	zcr_p90	f0_median_hz	f0_iqr_hz	centroid_median_hz	centroid_p90_hz	segments_veu	pausa_mediana_s	mostres_f0	estat
+bueno	12	clips/joan-mico__bueno__75.24.wav	75.240	81.120	7.880	0.7532	-45.71	-25.72	-17.16	0.0188	0.2144	156.25	78.12	886.97	2461.82	15	0.020	147	descriptor orientatiu; pendent d’audició
+bé	30	clips/joan-mico__b__154.52.wav	154.520	160.200	7.680	0.7258	-49.91	-29.50	-25.41	0.0172	0.1543	132.81	15.62	754.54	1986.04	19	0.080	140	descriptor orientatiu; pendent d’audició
+clar	41	clips/joan-mico__clar__205.88.wav	205.880	208.520	4.640	0.6926	-48.11	-27.53	-20.65	0.0266	0.2660	136.72	70.31	824.35	2727.13	14	0.060	80	descriptor orientatiu; pendent d’audició
+de fet	166	clips/joan-mico__de-fet__766.48.wav	766.480	772.080	7.600	0.6385	-52.18	-27.77	-20.93	0.0188	0.2520	132.81	23.44	904.88	2578.39	20	0.100	122	descriptor orientatiu; pendent d’audició
+doncs	16	clips/joan-mico__doncs__92.28.wav	92.280	97.240	6.960	0.7608	-47.67	-26.91	-21.31	0.0188	0.2156	132.81	23.44	803.64	2453.28	17	0.070	133	descriptor orientatiu; pendent d’audició
+llavors	50	clips/joan-mico__llavors__239.48.wav	239.480	243.480	6.000	0.7023	-48.00	-24.94	-20.51	0.0250	0.1474	156.25	54.69	885.17	2097.59	15	0.100	105	descriptor orientatiu; pendent d’audició
+no?	10	clips/joan-mico__no__64.24.wav	64.240	70.240	8.000	0.7669	-45.33	-25.43	-20.01	0.0156	0.2022	132.81	23.44	786.90	2209.81	19	0.050	154	descriptor orientatiu; pendent d’audició
+o sigui	76	clips/joan-mico__o-sigui__379.88.wav	379.880	386.320	8.440	0.6960	-52.57	-29.24	-22.88	0.0172	0.1894	132.81	31.25	825.06	2252.47	21	0.080	144	descriptor orientatiu; pendent d’audició
+per tant	5	clips/joan-mico__per-tant__42.28.wav	42.280	48.640	8.360	0.7746	-43.87	-26.86	-18.89	0.0282	0.1368	218.75	85.94	1218.95	2003.91	19	0.080	162	descriptor orientatiu; pendent d’audició
+perquè	15	clips/joan-mico__perqu__87.00.wav	87.000	92.200	7.200	0.6128	-58.78	-27.29	-19.68	0.0188	0.2448	140.62	15.62	906.34	2548.00	21	0.080	110	descriptor orientatiu; pendent d’audició
+vull dir	9	clips/joan-mico__vull-dir__60.84.wav	60.840	64.240	5.400	0.7948	-45.92	-24.76	-18.57	0.0188	0.1538	140.62	27.34	744.39	2132.25	15	0.040	107	descriptor orientatiu; pendent d’audició
+comuns	216	clips/joan-mico__comuns__995.92.wav	995.920	1001.080	7.160	0.6218	-53.92	-31.82	-25.35	0.0156	0.1189	125.00	23.44	717.62	1919.28	24	0.080	113	descriptor orientatiu; pendent d’audició

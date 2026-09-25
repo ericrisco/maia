@@ -1,0 +1,43 @@
+forma	categoria	small	base	consens	model_localitzador	context_small	context_base	prob_min_segment_small	prob_mean_segment_small	prob_min_segment_base	prob_mean_segment_base	clip	inici_ms	final_ms	estat
+a nivell	discurs	0	0	no											ASR textual; atribució i audició pendents
+a veure	discurs	0	0	no											ASR textual; atribució i audició pendents
+aleshores	discurs	0	0	no											ASR textual; atribució i audició pendents
+aviam	discurs	0	0	no											ASR textual; atribució i audició pendents
+bueno	discurs	0	0	no											ASR textual; atribució i audició pendents
+bé	discurs	0	0	no											ASR textual; atribució i audició pendents
+clar	discurs	0	0	no											ASR textual; atribució i audició pendents
+de fet	discurs	0	0	no											ASR textual; atribució i audició pendents
+diguem	discurs	0	0	no											ASR textual; atribució i audició pendents
+doncs	discurs	0	0	no											ASR textual; atribució i audició pendents
+evidentment	discurs	0	0	no											ASR textual; atribució i audició pendents
+llavors	discurs	0	0	no											ASR textual; atribució i audició pendents
+no?	discurs	0	1	no	base		I això és el que ens estem acabant de formar, no?			0.3570	0.8874	lead-rtva-060-xavier-espot-actual__13__no.wav	137480	140000	ASR textual; atribució i audició pendents
+o sigui	discurs	0	0	no											ASR textual; atribució i audició pendents
+per tant	discurs	1	1	sí	small	i, per tant, amb la garantia que puguem aprovar	i, per tant, amb la garantia de que poguem aprovar	0.4302	0.8872	0.2250	0.7567	lead-rtva-060-xavier-espot-actual__15__per-tant.wav	118920	120920	ASR textual; atribució i audició pendents
+perquè	discurs	0	0	no											ASR textual; atribució i audició pendents
+vull dir	discurs	0	0	no											ASR textual; atribució i audició pendents
+és a dir	discurs	0	0	no											ASR textual; atribució i audició pendents
+Canillo	territorial	0	0	no											ASR textual; atribució i audició pendents
+Escaldes	territorial	0	0	no											ASR textual; atribució i audició pendents
+Massana	territorial	0	0	no											ASR textual; atribució i audició pendents
+Ordino	territorial	0	0	no											ASR textual; atribució i audició pendents
+Sant Julià	territorial	0	0	no											ASR textual; atribució i audició pendents
+aiguats	territorial	0	0	no											ASR textual; atribució i audició pendents
+andorrana	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunal	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunals	territorial	0	0	no											ASR textual; atribució i audició pendents
+comuns	territorial	0	0	no											ASR textual; atribució i audició pendents
+comú	territorial	0	0	no											ASR textual; atribució i audició pendents
+copríncep	territorial	0	0	no											ASR textual; atribució i audició pendents
+coprínceps	territorial	0	0	no											ASR textual; atribució i audició pendents
+padrí	territorial	0	0	no											ASR textual; atribució i audició pendents
+parròquia	territorial	0	0	no											ASR textual; atribució i audició pendents
+santuari	territorial	2	2	sí	small	Dia especial de Meritxell amb la celebració del 50 aniversari del santuari.	I especial de Meritzeia amb la celebració del 50 aniversari del Santuari.	0.0793	0.7762	0.0398	0.7464	lead-rtva-060-xavier-espot-actual__34__santuari.wav	0	4360	ASR textual; atribució i audició pendents
+veguer	territorial	0	0	no											ASR textual; atribució i audició pendents
+cap de Govern	institucions	0	0	no											ASR textual; atribució i audició pendents
+Govern	institucions	1	1	sí	small	El govern endorre, el que és d'adquirir	El govern Endorra, el que és d'adquirir com a conseqüència d'aquest diàleg,	0.4277	0.8172	0.1959	0.8050	lead-rtva-060-xavier-espot-actual__37__govern.wav	126320	128320	ASR textual; atribució i audició pendents
+avortament	societat	4	0	no	small	com l'habitatge a l'avortament i l'acostament a Europa.		0.3900	0.9061			lead-rtva-060-xavier-espot-actual__38__avortament.wav	10560	13360	ASR textual; atribució i audició pendents
+Santa Seu	institucions	1	2	sí	small	de la Santa Seu.	tot recordant que no esperen cap pronunciament explicit de la Santa Seu.	0.2646	0.8442	0.2720	0.8084	lead-rtva-060-xavier-espot-actual__39__santa-seu.wav	110880	112000	ASR textual; atribució i audició pendents
+eleccions	institucions	1	1	sí	small	abans de les eleccions.	i confia poder d'aspanalitzar-lo abans de les eleccions.	0.9691	0.9911	0.1645	0.7940	lead-rtva-060-xavier-espot-actual__40__eleccions.wav	102200	103600	ASR textual; atribució i audició pendents
+Andorra	toponim	2	0	no	small	i un nou exemple de l'equilibri que Andorra s'ha hagut trobar al llarg de la seva història.		0.1668	0.8876			lead-rtva-060-xavier-espot-actual__41__andorra.wav	58440	62880	ASR textual; atribució i audició pendents
+andorrà	gentilici	0	0	no											ASR textual; atribució i audició pendents

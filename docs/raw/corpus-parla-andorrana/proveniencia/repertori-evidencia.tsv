@@ -1,0 +1,1189 @@
+id_persona	categoria	candidat	referencia	indicador_automatic	estat_indicador	observacio_auditiva	n_clips_consens_boundary	intervals_consens_boundary	estat_evidencia	delta_f0_z_median_persona	delta_veu_median_persona	delta_pausa_median_persona
+pa-001	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-001	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-001	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-001	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-001	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-001	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-001	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-001	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-001	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-001	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-001	lèxic	variants occidentals	ALDC; Veny	formes_territorials=andorrana=1;comuns=3;copríncep=1;veguer=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-001	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=andorrana=1;comuns=3;copríncep=1;veguer=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-001	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=andorrana=1;comuns=3;copríncep=1;veguer=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-001	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=64 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-001	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=10;bueno=2;clar=5;llavors=1;aleshores=23;de fet=1;és a dir=1;o sigui=10;vull dir=2;a veure=3;evidentment=1;perquè=20;per tant=6;a nivell=3;no?=4	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-001	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=90.78; f0_sd_hz=72.22; pausa_mediana_s=0.06	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	0.081	-0.0138	0.040
+pa-001	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-001	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-003	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-003	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-003	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-003	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-003	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-003	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-003	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-003	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-003	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-003	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-003	lèxic	variants occidentals	ALDC; Veny	formes_territorials=andorrana=4 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-003	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=andorrana=4 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-003	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=andorrana=4 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-003	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=9 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-003	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=3;bueno=1;clar=1;aleshores=2;de fet=1;és a dir=11;aviam=1;diguem=1;evidentment=4;perquè=9;a nivell=1	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-003	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=126.05; f0_sd_hz=1076.05; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	-0.387	-0.0549	-0.020
+pa-003	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-003	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-002	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-002	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-002	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-002	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-002	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-002	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-002	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-002	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-002	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-002	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-002	lèxic	variants occidentals	ALDC; Veny	formes_territorials=parròquia=4;comú=1;copríncep=3;veguer=1;Canillo=1;Ordino=2;Escaldes=4;Massana=4;Sant Julià=2 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-002	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=parròquia=4;comú=1;copríncep=3;veguer=1;Canillo=1;Ordino=2;Escaldes=4;Massana=4;Sant Julià=2 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-002	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=parròquia=4;comú=1;copríncep=3;veguer=1;Canillo=1;Ordino=2;Escaldes=4;Massana=4;Sant Julià=2 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-002	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=218 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-002	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=11;bueno=11;clar=14;llavors=13;de fet=6;és a dir=24;vull dir=5;a veure=5;evidentment=10;perquè=55;per tant=4;a nivell=2;no?=4	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-002	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=127.21; f0_sd_hz=2569.93; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	0.167	0.0566	0.005
+pa-002	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-002	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-004	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-004	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-004	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-004	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-004	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-004	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-004	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-004	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-004	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-004	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-004	lèxic	variants occidentals	ALDC; Veny	formes_territorials=parròquia=2;comú=3;comunal=2;bordes=1;aiguats=2;Ordino=1;Escaldes=1;Sant Julià=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-004	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=parròquia=2;comú=3;comunal=2;bordes=1;aiguats=2;Ordino=1;Escaldes=1;Sant Julià=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-004	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=parròquia=2;comú=3;comunal=2;bordes=1;aiguats=2;Ordino=1;Escaldes=1;Sant Julià=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-004	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=26 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-004	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=4;doncs=9;de fet=2;vull dir=1;evidentment=1;perquè=6;per tant=3;no?=5	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-004	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=172.81; f0_sd_hz=507.81; pausa_mediana_s=0.14	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	-0.107	-0.0699	0.020
+pa-004	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-004	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-005	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-005	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-005	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-005	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-005	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-005	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-005	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-005	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-005	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-005	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-005	lèxic	variants occidentals	ALDC; Veny	formes_territorials=parròquia=1;comú=7;comuns=3;comunal=2;comunals=2;Canillo=1;Ordino=2;Escaldes=4;Sant Julià=3 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-005	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=parròquia=1;comú=7;comuns=3;comunal=2;comunals=2;Canillo=1;Ordino=2;Escaldes=4;Sant Julià=3 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-005	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=parròquia=1;comú=7;comuns=3;comunal=2;comunals=2;Canillo=1;Ordino=2;Escaldes=4;Sant Julià=3 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-005	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=15 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-005	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=3;clar=3;doncs=4;llavors=1;o sigui=1;per tant=1	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-005	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=31.89; f0_sd_hz=55.96; pausa_mediana_s=0.92	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	0.505	0.0237	-0.705
+pa-005	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-005	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-006	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-006	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-006	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-006	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-006	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-006	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-006	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-006	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-006	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-006	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-006	lèxic	variants occidentals	ALDC; Veny	formes_territorials=Ordino=1;Escaldes=2;Sant Julià=3 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-006	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=Ordino=1;Escaldes=2;Sant Julià=3 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-006	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=Ordino=1;Escaldes=2;Sant Julià=3 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-006	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=4 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-006	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=3;clar=1;doncs=3;llavors=3;aleshores=1;de fet=2;o sigui=4;diguem=1;evidentment=2;perquè=6	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-006	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=133.36; f0_sd_hz=78.15; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	-0.299	-0.0593	0.005
+pa-006	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-006	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-007	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-007	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-007	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-007	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-007	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-007	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-007	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-007	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-007	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-007	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-007	lèxic	variants occidentals	ALDC; Veny	formes_territorials=andorrana=1;comú=1;copríncep=2;Canillo=3;Ordino=1;Escaldes=4;Massana=2;Sant Julià=5 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-007	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=andorrana=1;comú=1;copríncep=2;Canillo=3;Ordino=1;Escaldes=4;Massana=2;Sant Julià=5 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-007	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=andorrana=1;comú=1;copríncep=2;Canillo=3;Ordino=1;Escaldes=4;Massana=2;Sant Julià=5 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-007	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=24 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-007	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=1;bueno=1;clar=1;doncs=6;llavors=1;és a dir=2;a veure=1;diguem=1;evidentment=1;perquè=6;no?=4	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-007	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=124.14; f0_sd_hz=100.25; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	0.201	0.0286	0.000
+pa-007	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-007	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-008	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-008	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-008	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-008	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-008	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-008	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-008	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-008	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-008	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-008	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-008	lèxic	variants occidentals	ALDC; Veny	formes_territorials=parròquia=1;comú=2;Ordino=3;Escaldes=4;Sant Julià=3 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-008	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=parròquia=1;comú=2;Ordino=3;Escaldes=4;Sant Julià=3 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-008	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=parròquia=1;comú=2;Ordino=3;Escaldes=4;Sant Julià=3 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-008	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=46 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-008	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=3;bueno=1;clar=1;doncs=16;aleshores=1;de fet=1;és a dir=2;a veure=2;diguem=1;perquè=21;per tant=3;no?=3	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-008	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=112.23; f0_sd_hz=196.69; pausa_mediana_s=0.10	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	-0.046	0.0381	-0.035
+pa-008	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-008	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-009	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-009	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-009	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-009	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-009	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-009	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-009	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-009	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-009	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-009	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-009	lèxic	variants occidentals	ALDC; Veny	formes_territorials=parròquia=4;comú=3;santuari=1;padrí=1;Canillo=2;Encamp=1;Ordino=2;Sant Julià=3 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-009	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=parròquia=4;comú=3;santuari=1;padrí=1;Canillo=2;Encamp=1;Ordino=2;Sant Julià=3 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-009	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=parròquia=4;comú=3;santuari=1;padrí=1;Canillo=2;Encamp=1;Ordino=2;Sant Julià=3 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-009	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=10 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-009	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=2;clar=1;doncs=14;llavors=1;o sigui=2;diguem=1;evidentment=1;perquè=7;per tant=3	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-009	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=64.42; f0_sd_hz=43.93; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	0.040	-0.0191	0.005
+pa-009	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-009	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-010	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-010	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-010	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-010	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-010	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-010	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-010	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-010	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-010	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-010	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-010	lèxic	variants occidentals	ALDC; Veny	formes_territorials=comuns=1;Ordino=1;Escaldes=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-010	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=comuns=1;Ordino=1;Escaldes=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-010	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=comuns=1;Ordino=1;Escaldes=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-010	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=22 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-010	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=3;clar=5;doncs=7;llavors=5;de fet=3;és a dir=10;perquè=16;per tant=1	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-010	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=158.13; f0_sd_hz=86.75; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	-0.377	0.0124	-0.010
+pa-010	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-010	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-011	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-011	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-011	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-011	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-011	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-011	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-011	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-011	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-011	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-011	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-011	lèxic	variants occidentals	ALDC; Veny	formes_territorials=Ordino=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-011	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=Ordino=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-011	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=Ordino=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-011	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=24 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-011	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=2;doncs=10;aleshores=4;de fet=1;és a dir=1;a veure=1;evidentment=1;perquè=8;per tant=1;no?=1	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-011	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=123.98; f0_sd_hz=643.74; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	-0.169	-0.2218	0.075
+pa-011	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-011	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-012	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-012	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-012	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-012	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-012	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-012	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-012	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-012	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-012	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-012	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-012	lèxic	variants occidentals	ALDC; Veny	formes_territorials= (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-012	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials= (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-012	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials= (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-012	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=4 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-012	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=12;doncs=2;aleshores=3;perquè=2;per tant=1	indicador textual; validar àudio		0		sense evidència específica			
+pa-012	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=67.25; f0_sd_hz=566.01; pausa_mediana_s=0.14	descriptor acústic; no és tret confirmat		0		sense evidència específica			
+pa-012	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-012	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-013	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-013	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-013	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-013	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-013	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-013	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-013	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-013	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-013	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-013	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-013	lèxic	variants occidentals	ALDC; Veny	formes_territorials=Escaldes=25 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-013	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=Escaldes=25 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-013	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=Escaldes=25 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-013	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=26 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-013	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=1;doncs=6;és a dir=2;evidentment=1;perquè=3;per tant=1	indicador textual; validar àudio		0		sense evidència específica			
+pa-013	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=130.26; f0_sd_hz=157.22; pausa_mediana_s=0.06	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	-0.075	-0.0539	-0.020
+pa-013	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-013	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-014	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-014	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-014	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-014	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-014	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-014	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-014	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-014	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-014	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-014	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-014	lèxic	variants occidentals	ALDC; Veny	formes_territorials=comú=1;padrí=1;Ordino=1;Escaldes=3;Sant Julià=3 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-014	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=comú=1;padrí=1;Ordino=1;Escaldes=3;Sant Julià=3 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-014	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=comú=1;padrí=1;Ordino=1;Escaldes=3;Sant Julià=3 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-014	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=28 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-014	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=8;clar=1;doncs=10;llavors=4;aleshores=2;és a dir=10;o sigui=1;vull dir=8;a veure=1;aviam=1;evidentment=7;perquè=11	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-014	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=44.30; f0_sd_hz=52.86; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	0.029	0.0247	0.000
+pa-014	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-014	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-015	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-015	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-015	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-015	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-015	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-015	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-015	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-015	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-015	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-015	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-015	lèxic	variants occidentals	ALDC; Veny	formes_territorials=parròquia=5 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-015	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=parròquia=5 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-015	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=parròquia=5 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-015	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=1 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-015	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=3;doncs=7;llavors=1;o sigui=1;perquè=2	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-015	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=107.42; f0_sd_hz=180.17; pausa_mediana_s=0.12	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	-0.058	0.0286	-0.025
+pa-015	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-015	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-016	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-016	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-016	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-016	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-016	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-016	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-016	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-016	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-016	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-016	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-016	lèxic	variants occidentals	ALDC; Veny	formes_territorials=parròquia=2;comunals=1;Canillo=1;Ordino=3 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-016	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=parròquia=2;comunals=1;Canillo=1;Ordino=3 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-016	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=parròquia=2;comunals=1;Canillo=1;Ordino=3 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-016	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=52 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-016	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=5;bueno=4;clar=12;doncs=10;llavors=10;de fet=2;és a dir=2;o sigui=2;vull dir=2;a veure=4;aviam=1;evidentment=3;perquè=18;per tant=2;a nivell=4;no?=4	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-016	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=57.65; f0_sd_hz=69.93; pausa_mediana_s=0.06	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	0.058	-0.0079	0.010
+pa-016	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-016	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-017	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-017	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-017	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-017	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-017	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-017	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-017	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-017	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-017	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-017	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-017	lèxic	variants occidentals	ALDC; Veny	formes_territorials=comú=1;copríncep=1;coprínceps=2;Escaldes=5;Sant Julià=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-017	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=comú=1;copríncep=1;coprínceps=2;Escaldes=5;Sant Julià=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-017	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=comú=1;copríncep=1;coprínceps=2;Escaldes=5;Sant Julià=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-017	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=61 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-017	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=4;bueno=2;clar=5;doncs=3;llavors=2;és a dir=1;vull dir=5;evidentment=3;perquè=23;per tant=1;a nivell=9	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-017	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=119.98; f0_sd_hz=68.10; pausa_mediana_s=0.10	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	-0.003	-0.0093	0.000
+pa-017	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-017	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-018	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-018	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-018	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-018	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-018	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-018	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-018	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-018	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-018	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-018	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-018	lèxic	variants occidentals	ALDC; Veny	formes_territorials=andorrana=1;parròquia=3;comú=1;comuns=1;copríncep=3;Canillo=1;Escaldes=4;Sant Julià=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-018	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=andorrana=1;parròquia=3;comú=1;comuns=1;copríncep=3;Canillo=1;Escaldes=4;Sant Julià=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-018	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=andorrana=1;parròquia=3;comú=1;comuns=1;copríncep=3;Canillo=1;Escaldes=4;Sant Julià=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-018	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=142 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-018	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=6;bueno=49;clar=12;doncs=34;llavors=2;és a dir=3;a veure=4;diguem=2;perquè=49;a nivell=15	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-018	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=63.93; f0_sd_hz=309.19; pausa_mediana_s=0.10	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	-0.007	0.0399	-0.030
+pa-018	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-018	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-019	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-019	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-019	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-019	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-019	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-019	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-019	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-019	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-019	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-019	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-019	lèxic	variants occidentals	ALDC; Veny	formes_territorials=comuns=2 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-019	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=comuns=2 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-019	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=comuns=2 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-019	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=41 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-019	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=6;bueno=3;clar=1;doncs=1;llavors=1;és a dir=6;diguem=4;evidentment=4;perquè=15;per tant=2;a nivell=3;no?=3	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-019	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=189.51; f0_sd_hz=99.83; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	-0.079	0.0748	0.000
+pa-019	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-019	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-020	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-020	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-020	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-020	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-020	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-020	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-020	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-020	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-020	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-020	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-020	lèxic	variants occidentals	ALDC; Veny	formes_territorials=comú=2;comuns=4;copríncep=5;comunal=1;comunals=1;Ordino=1;Massana=4;Sant Julià=3 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-020	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=comú=2;comuns=4;copríncep=5;comunal=1;comunals=1;Ordino=1;Massana=4;Sant Julià=3 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-020	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=comú=2;comuns=4;copríncep=5;comunal=1;comunals=1;Ordino=1;Massana=4;Sant Julià=3 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-020	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=190 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-020	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=24;bueno=22;clar=29;doncs=3;vull dir=12;aviam=2;diguem=1;evidentment=7;perquè=22;a nivell=2;no?=8	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-020	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=73.03; f0_sd_hz=63.02; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	-0.026	0.0203	0.000
+pa-020	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-020	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-021	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-021	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-021	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-021	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-021	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-021	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-021	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-021	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-021	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-021	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-021	lèxic	variants occidentals	ALDC; Veny	formes_territorials=parròquia=3;Canillo=10 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-021	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=parròquia=3;Canillo=10 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-021	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=parròquia=3;Canillo=10 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-021	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=52 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-021	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=16;bueno=11;clar=9;doncs=26;aleshores=2;és a dir=10;vull dir=2;a veure=4;evidentment=6;perquè=20;no?=9	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-021	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=156.52; f0_sd_hz=876.17; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	0.071	0.0105	-0.020
+pa-021	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-021	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-022	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-022	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-022	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-022	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-022	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-022	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-022	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-022	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-022	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-022	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-022	lèxic	variants occidentals	ALDC; Veny	formes_territorials= (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-022	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials= (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-022	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials= (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-022	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=68 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-022	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=4;bueno=12;clar=2;doncs=3;llavors=6;de fet=1;és a dir=1;o sigui=1;vull dir=4;a veure=2;diguem=1;evidentment=2;perquè=17;no?=12	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-022	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=190.60; f0_sd_hz=96.74; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	0.203	-0.0223	0.000
+pa-022	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-022	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-023	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-023	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-023	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-023	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-023	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-023	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-023	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-023	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-023	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-023	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-023	lèxic	variants occidentals	ALDC; Veny	formes_territorials=parròquia=1;Canillo=3;Sant Julià=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-023	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=parròquia=1;Canillo=3;Sant Julià=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-023	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=parròquia=1;Canillo=3;Sant Julià=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-023	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=61 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-023	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=2;bueno=3;llavors=4;de fet=2;és a dir=4;vull dir=20;a veure=3;diguem=1;perquè=11;a nivell=3	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-023	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=50.15; f0_sd_hz=72.44; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	-0.076	-0.0418	0.055
+pa-023	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-023	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-024	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-024	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-024	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-024	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-024	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-024	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-024	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-024	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-024	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-024	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-024	lèxic	variants occidentals	ALDC; Veny	formes_territorials=parròquia=4;Escaldes=2;Sant Julià=3 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-024	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=parròquia=4;Escaldes=2;Sant Julià=3 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-024	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=parròquia=4;Escaldes=2;Sant Julià=3 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-024	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=135 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-024	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=8;bueno=23;clar=21;doncs=6;llavors=12;de fet=2;és a dir=5;o sigui=2;a veure=4;evidentment=2;perquè=24;per tant=8;a nivell=1;no?=23	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-024	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=89.23; f0_sd_hz=143.79; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	-0.280	-0.0618	0.020
+pa-024	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-024	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-025	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-025	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-025	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-025	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-025	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-025	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-025	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-025	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-025	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-025	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-025	lèxic	variants occidentals	ALDC; Veny	formes_territorials=parròquia=1;comuns=3;copríncep=4;coprínceps=4;veguer=3;comunals=1;Ordino=1;Escaldes=3;Massana=2;Sant Julià=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-025	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=parròquia=1;comuns=3;copríncep=4;coprínceps=4;veguer=3;comunals=1;Ordino=1;Escaldes=3;Massana=2;Sant Julià=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-025	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=parròquia=1;comuns=3;copríncep=4;coprínceps=4;veguer=3;comunals=1;Ordino=1;Escaldes=3;Massana=2;Sant Julià=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-025	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=98 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-025	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=3;bueno=8;clar=9;doncs=13;aleshores=5;de fet=2;és a dir=7;o sigui=1;vull dir=1;a veure=4;diguem=3;evidentment=4;perquè=39;per tant=6;no?=5	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-025	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=110.17; f0_sd_hz=85.39; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	0.057	0.0515	-0.020
+pa-025	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-025	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-026	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-026	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-026	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-026	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-026	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-026	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-026	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-026	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-026	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-026	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-026	lèxic	variants occidentals	ALDC; Veny	formes_territorials=copríncep=1;comunals=1;Canillo=1;Ordino=1;Escaldes=3;Massana=1;Sant Julià=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-026	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=copríncep=1;comunals=1;Canillo=1;Ordino=1;Escaldes=3;Massana=1;Sant Julià=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-026	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=copríncep=1;comunals=1;Canillo=1;Ordino=1;Escaldes=3;Massana=1;Sant Julià=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-026	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=187 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-026	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=23;bueno=24;clar=10;doncs=11;llavors=15;és a dir=1;o sigui=4;vull dir=2;a veure=8;evidentment=1;perquè=33;per tant=1;a nivell=3;no?=26	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-026	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=172.05; f0_sd_hz=447.72; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	-0.028	-0.0319	0.000
+pa-026	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-026	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-027	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-027	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-027	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-027	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-027	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-027	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-027	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-027	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-027	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-027	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-027	lèxic	variants occidentals	ALDC; Veny	formes_territorials=parròquia=4;comuns=3;coprínceps=1;veguer=1;Canillo=8;Ordino=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-027	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=parròquia=4;comuns=3;coprínceps=1;veguer=1;Canillo=8;Ordino=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-027	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=parròquia=4;comuns=3;coprínceps=1;veguer=1;Canillo=8;Ordino=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-027	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=66 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-027	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=6;bueno=7;clar=11;doncs=10;llavors=8;de fet=3;és a dir=6;o sigui=1;vull dir=5;diguem=1;evidentment=1;perquè=17;per tant=6;no?=4	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-027	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=156.24; f0_sd_hz=89.40; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	0.014	0.0171	-0.020
+pa-027	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-027	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-028	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-028	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-028	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-028	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-028	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-028	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-028	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-028	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-028	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-028	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-028	lèxic	variants occidentals	ALDC; Veny	formes_territorials= (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-028	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials= (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-028	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials= (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-028	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=20 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-028	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=3;bueno=12;clar=2;doncs=2;llavors=3;de fet=1;diguem=1;perquè=7;no?=3	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-028	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=32.23; f0_sd_hz=48.63; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	0.019	0.0896	0.000
+pa-028	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-028	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-029	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-029	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-029	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-029	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-029	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-029	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-029	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-029	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-029	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-029	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-029	lèxic	variants occidentals	ALDC; Veny	formes_territorials=comuns=1;Ordino=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-029	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=comuns=1;Ordino=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-029	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=comuns=1;Ordino=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-029	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=110 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-029	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=14;bueno=2;clar=1;doncs=17;llavors=8;és a dir=3;o sigui=2;a veure=2;diguem=1;perquè=21;a nivell=4;no?=3	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-029	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=191.39; f0_sd_hz=123.35; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	0.065	0.1297	-0.020
+pa-029	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-029	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-030	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-030	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-030	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-030	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-030	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-030	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-030	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-030	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-030	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-030	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-030	lèxic	variants occidentals	ALDC; Veny	formes_territorials=parròquia=1;coprínceps=1;Canillo=2;Ordino=10;Massana=2;Sant Julià=2 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-030	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=parròquia=1;coprínceps=1;Canillo=2;Ordino=10;Massana=2;Sant Julià=2 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-030	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=parròquia=1;coprínceps=1;Canillo=2;Ordino=10;Massana=2;Sant Julià=2 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-030	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=88 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-030	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=8;bueno=3;clar=9;doncs=7;llavors=2;aleshores=2;és a dir=10;o sigui=1;vull dir=1;a veure=1;evidentment=4;perquè=25;per tant=10;no?=11	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-030	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=138.96; f0_sd_hz=102.45; pausa_mediana_s=0.06	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	-0.043	-0.1112	0.020
+pa-030	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-030	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-031	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-031	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-031	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-031	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-031	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-031	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-031	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-031	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-031	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-031	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-031	lèxic	variants occidentals	ALDC; Veny	formes_territorials=Canillo=1;Massana=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-031	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=Canillo=1;Massana=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-031	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=Canillo=1;Massana=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-031	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=75 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-031	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=2;bueno=13;clar=4;doncs=1;aleshores=7;de fet=1;vull dir=2;a veure=2;perquè=16	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-031	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=143.87; f0_sd_hz=84.61; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	-0.047	-0.0260	0.000
+pa-031	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-031	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-032	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-032	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-032	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-032	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-032	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-032	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-032	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-032	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-032	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-032	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-032	lèxic	variants occidentals	ALDC; Veny	formes_territorials=Ordino=2 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-032	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=Ordino=2 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-032	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=Ordino=2 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-032	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=40 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-032	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=3;bueno=3;clar=6;doncs=4;llavors=11;aleshores=2;vull dir=1;a veure=2;perquè=4;no?=2	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-032	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=65.89; f0_sd_hz=68.73; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	0.035	-0.0042	0.000
+pa-032	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-032	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-033	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-033	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-033	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-033	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-033	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-033	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-033	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-033	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-033	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-033	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-033	lèxic	variants occidentals	ALDC; Veny	formes_territorials=parròquia=1;Escaldes=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-033	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=parròquia=1;Escaldes=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-033	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=parròquia=1;Escaldes=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-033	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=18 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-033	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=3;clar=1;doncs=5;llavors=1;de fet=1;és a dir=4;vull dir=2;diguem=3;perquè=4;a nivell=1	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-033	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=181.07; f0_sd_hz=122.26; pausa_mediana_s=0.06	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	0.006	-0.0391	0.000
+pa-033	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-033	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-034	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-034	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-034	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-034	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-034	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-034	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-034	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-034	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-034	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-034	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-034	lèxic	variants occidentals	ALDC; Veny	formes_territorials=parròquia=2;comú=1;Canillo=5;Massana=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-034	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=parròquia=2;comú=1;Canillo=5;Massana=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-034	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=parròquia=2;comú=1;Canillo=5;Massana=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-034	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=116 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-034	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=25;bueno=26;clar=57;doncs=28;llavors=25;és a dir=3;o sigui=1;vull dir=156;a veure=7;diguem=1;perquè=32;per tant=14;a nivell=9;no?=109	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-034	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=131.84; f0_sd_hz=98.90; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	-0.076	-0.0425	0.000
+pa-034	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-034	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-035	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-035	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-035	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-035	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-035	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-035	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-035	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-035	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-035	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-035	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-035	lèxic	variants occidentals	ALDC; Veny	formes_territorials=comú=1;comuns=1;Escaldes=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-035	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=comú=1;comuns=1;Escaldes=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-035	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=comú=1;comuns=1;Escaldes=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-035	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=92 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-035	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=3;bueno=1;clar=2;doncs=2;és a dir=1;a veure=2;evidentment=1;perquè=7	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-035	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=89.82; f0_sd_hz=75.77; pausa_mediana_s=0.10	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	-0.091	-0.0363	0.000
+pa-035	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-035	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-036	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-036	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-036	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-036	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-036	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-036	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-036	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-036	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-036	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-036	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-036	lèxic	variants occidentals	ALDC; Veny	formes_territorials=comú=5;copríncep=1;Canillo=1;Ordino=1;Escaldes=1;Sant Julià=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-036	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=comú=5;copríncep=1;Canillo=1;Ordino=1;Escaldes=1;Sant Julià=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-036	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=comú=5;copríncep=1;Canillo=1;Ordino=1;Escaldes=1;Sant Julià=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-036	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=81 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-036	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=4;bueno=3;clar=5;doncs=1;llavors=1;vull dir=1;a veure=1;evidentment=4;perquè=22;per tant=2;a nivell=1	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-036	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=156.51; f0_sd_hz=163.61; pausa_mediana_s=0.06	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	0.061	-0.0042	0.000
+pa-036	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-036	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-037	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-037	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-037	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-037	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-037	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-037	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-037	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-037	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-037	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-037	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-037	lèxic	variants occidentals	ALDC; Veny	formes_territorials=parròquia=1;comú=1;Canillo=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-037	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=parròquia=1;comú=1;Canillo=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-037	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=parròquia=1;comú=1;Canillo=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-037	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=36 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-037	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=5;bueno=4;clar=4;doncs=3;llavors=3;vull dir=1;diguem=1;perquè=8	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-037	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=164.46; f0_sd_hz=92.36; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	0.013	-0.0398	0.005
+pa-037	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-037	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-038	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-038	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-038	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-038	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-038	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-038	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-038	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-038	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-038	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-038	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-038	lèxic	variants occidentals	ALDC; Veny	formes_territorials=parròquia=1;comuns=2;copríncep=1;coprínceps=12;veguer=1;Canillo=1;Escaldes=4 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-038	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=parròquia=1;comuns=2;copríncep=1;coprínceps=12;veguer=1;Canillo=1;Escaldes=4 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-038	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=parròquia=1;comuns=2;copríncep=1;coprínceps=12;veguer=1;Canillo=1;Escaldes=4 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-038	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=116 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-038	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=25;bueno=1;clar=7;doncs=2;llavors=9;o sigui=7;vull dir=1;a veure=1;diguem=3;perquè=16;a nivell=2;no?=8	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-038	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=58.17; f0_sd_hz=53.87; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	-0.097	-0.0106	0.020
+pa-038	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-038	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-039	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-039	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-039	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-039	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-039	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-039	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-039	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-039	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-039	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-039	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-039	lèxic	variants occidentals	ALDC; Veny	formes_territorials=comú=1;Canillo=1;Sant Julià=4 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-039	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=comú=1;Canillo=1;Sant Julià=4 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-039	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=comú=1;Canillo=1;Sant Julià=4 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-039	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=35 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-039	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=8;bueno=1;clar=9;doncs=5;és a dir=1;diguem=2;evidentment=1;perquè=13;per tant=4;no?=5	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-039	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=52.68; f0_sd_hz=72.93; pausa_mediana_s=0.10	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	0.521	-0.0011	-0.020
+pa-039	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-039	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-040	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-040	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-040	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-040	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-040	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-040	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-040	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-040	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-040	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-040	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-040	lèxic	variants occidentals	ALDC; Veny	formes_territorials=parròquia=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-040	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=parròquia=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-040	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=parròquia=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-040	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=18 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-040	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=3;doncs=1;de fet=1;o sigui=1;evidentment=1;perquè=5	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-040	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=120.07; f0_sd_hz=88.10; pausa_mediana_s=0.06	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	0.012	0.0072	-0.015
+pa-040	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-040	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-041	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-041	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-041	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-041	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-041	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-041	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-041	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-041	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-041	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-041	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-041	lèxic	variants occidentals	ALDC; Veny	formes_territorials= (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-041	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials= (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-041	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials= (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-041	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=16 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-041	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=3;bueno=3;clar=6;doncs=4;llavors=2;és a dir=2;vull dir=1;a veure=6;evidentment=1;perquè=18;per tant=10	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-041	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=131.33; f0_sd_hz=172.17; pausa_mediana_s=0.06	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	0.153	-0.0185	0.010
+pa-041	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-041	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-042	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-042	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-042	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-042	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-042	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-042	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-042	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-042	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-042	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-042	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-042	lèxic	variants occidentals	ALDC; Veny	formes_territorials=Sant Julià=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-042	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=Sant Julià=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-042	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=Sant Julià=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-042	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=10 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-042	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	clar=12;perquè=4;no?=3	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-042	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=109.19; f0_sd_hz=360.19; pausa_mediana_s=0.06	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	0.117	-0.0846	0.020
+pa-042	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-042	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-043	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-043	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-043	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-043	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-043	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-043	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-043	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-043	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-043	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-043	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-043	lèxic	variants occidentals	ALDC; Veny	formes_territorials= (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-043	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials= (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-043	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials= (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-043	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=1 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-043	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bueno=1;doncs=2;és a dir=1	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-043	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=147.12; f0_sd_hz=658.80; pausa_mediana_s=0.06	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	0.013	0.0377	0.010
+pa-043	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-043	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-044	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-044	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-044	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-044	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-044	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-044	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-044	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-044	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-044	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-044	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-044	lèxic	variants occidentals	ALDC; Veny	formes_territorials=veguer=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-044	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=veguer=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-044	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=veguer=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-044	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=78 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-044	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=10;bueno=11;clar=2;doncs=3;llavors=3;és a dir=1;o sigui=7;vull dir=2;a veure=2;perquè=18;a nivell=1;no?=4	indicador textual; validar àudio		0		sense evidència específica			
+pa-044	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=172.24; f0_sd_hz=326.85; pausa_mediana_s=0.06	descriptor acústic; no és tret confirmat		0		sense evidència específica			
+pa-044	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-044	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-045	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-045	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-045	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-045	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-045	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-045	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-045	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-045	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-045	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-045	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-045	lèxic	variants occidentals	ALDC; Veny	formes_territorials=comunal=1;santuari=1;Escaldes=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-045	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=comunal=1;santuari=1;Escaldes=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-045	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=comunal=1;santuari=1;Escaldes=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-045	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=48 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-045	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=8;bueno=6;clar=9;doncs=2;llavors=10;aleshores=1;o sigui=20;vull dir=3;a veure=1;evidentment=12;perquè=16;a nivell=1;no?=8	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-045	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=114.17; f0_sd_hz=92.87; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	0.012	-0.0258	0.000
+pa-045	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-045	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-046	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-046	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-046	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-046	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-046	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-046	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-046	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-046	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-046	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-046	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-046	lèxic	variants occidentals	ALDC; Veny	formes_territorials=Canillo=2 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-046	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=Canillo=2 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-046	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=Canillo=2 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-046	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=22 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-046	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=13;bueno=15;clar=12;doncs=16;llavors=3;aleshores=4;és a dir=4;o sigui=2;diguem=2;evidentment=3;perquè=18;no?=13	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-046	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=120.97; f0_sd_hz=97.11; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	0.020	0.0076	-0.020
+pa-046	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-046	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-047	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-047	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-047	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-047	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-047	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-047	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-047	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-047	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-047	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-047	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-047	lèxic	variants occidentals	ALDC; Veny	formes_territorials= (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-047	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials= (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-047	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials= (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-047	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=62 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-047	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=4;bueno=4;doncs=1;llavors=1;aleshores=1;és a dir=1;o sigui=2;vull dir=1;a veure=1;perquè=19;per tant=2;a nivell=1;no?=1	indicador textual; validar àudio		0		sense evidència específica			
+pa-047	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=141.79; f0_sd_hz=147.29; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat		0		sense evidència específica			
+pa-047	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-047	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-048	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-048	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-048	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-048	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-048	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-048	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-048	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-048	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-048	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-048	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-048	lèxic	variants occidentals	ALDC; Veny	formes_territorials=andorrana=1;santuari=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-048	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=andorrana=1;santuari=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-048	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=andorrana=1;santuari=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-048	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=13 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-048	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=2;bueno=3;clar=1;doncs=1;llavors=2;aleshores=2;és a dir=1;o sigui=1;vull dir=2;a veure=3;perquè=24;a nivell=2;no?=5	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-048	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=130.35; f0_sd_hz=79.24; pausa_mediana_s=0.10	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	0.079	0.0361	-0.020
+pa-048	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-048	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-049	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-049	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-049	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-049	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-049	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-049	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-049	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-049	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-049	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-049	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-049	lèxic	variants occidentals	ALDC; Veny	formes_territorials=andorrana=1;parròquia=3;comú=1;aiguats=1;Escaldes=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-049	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=andorrana=1;parròquia=3;comú=1;aiguats=1;Escaldes=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-049	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=andorrana=1;parròquia=3;comú=1;aiguats=1;Escaldes=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-049	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=66 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-049	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=10;bueno=11;clar=19;doncs=1;llavors=12;aleshores=2;és a dir=1;o sigui=8;vull dir=23;a veure=1;aviam=4;diguem=1;evidentment=2;perquè=36;a nivell=1;no?=4	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-049	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=127.15; f0_sd_hz=113.56; pausa_mediana_s=0.06	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	-0.096	0.0709	0.000
+pa-049	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-049	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-050	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-050	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-050	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-050	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-050	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-050	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-050	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-050	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-050	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-050	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-050	lèxic	variants occidentals	ALDC; Veny	formes_territorials= (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-050	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials= (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-050	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials= (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-050	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=398 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-050	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=2;clar=2;llavors=2;aleshores=2;de fet=4;o sigui=1;a veure=1;perquè=8;per tant=3;no?=1	indicador textual; validar àudio		0		sense evidència específica			
+pa-050	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=116.65; f0_sd_hz=113.62; pausa_mediana_s=0.06	descriptor acústic; no és tret confirmat		0		sense evidència específica			
+pa-050	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-050	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-051	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-051	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-051	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-051	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-051	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-051	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-051	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-051	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-051	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-051	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-051	lèxic	variants occidentals	ALDC; Veny	formes_territorials=comú=1;comunals=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-051	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=comú=1;comunals=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-051	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=comú=1;comunals=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-051	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=11 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-051	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bueno=2;clar=2;llavors=1;de fet=1;perquè=5	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-051	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=150.64; f0_sd_hz=81.67; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	0.030	0.0055	0.000
+pa-051	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-051	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-052	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-052	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-052	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-052	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-052	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-052	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-052	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-052	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-052	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-052	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-052	lèxic	variants occidentals	ALDC; Veny	formes_territorials= (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-052	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials= (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-052	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials= (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-052	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=10 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-052	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bueno=1;clar=1;llavors=1;perquè=2	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-052	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=70.01; f0_sd_hz=76.80; pausa_mediana_s=0.07	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	-0.400	-0.1357	-0.010
+pa-052	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-052	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-053	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-053	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-053	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-053	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-053	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-053	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-053	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-053	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-053	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-053	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-053	lèxic	variants occidentals	ALDC; Veny	formes_territorials=Escaldes=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-053	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=Escaldes=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-053	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=Escaldes=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-053	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=18 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-053	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=1;llavors=7;perquè=2	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-053	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=137.73; f0_sd_hz=80.89; pausa_mediana_s=0.06	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	-0.389	-0.0118	0.040
+pa-053	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-053	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-054	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-054	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-054	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-054	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-054	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-054	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-054	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-054	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-054	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-054	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-054	lèxic	variants occidentals	ALDC; Veny	formes_territorials=Escaldes=3;Sant Julià=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-054	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=Escaldes=3;Sant Julià=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-054	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=Escaldes=3;Sant Julià=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-054	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=7 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-054	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=4;bueno=2;llavors=4;a veure=1;perquè=3	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-054	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=139.97; f0_sd_hz=80.53; pausa_mediana_s=0.06	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	-0.105	-0.1158	0.005
+pa-054	variació	localitat i generació	Rabassa; ALDC	context no documentat	contextual; no prova varietat		0		sense evidència específica			
+pa-054	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-055	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-055	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-055	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-055	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-055	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-055	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-055	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-055	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-055	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-055	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-055	lèxic	variants occidentals	ALDC; Veny	formes_territorials=copríncep=1;comunals=1;Ordino=1;Escaldes=3;Massana=1;Sant Julià=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-055	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=copríncep=1;comunals=1;Ordino=1;Escaldes=3;Massana=1;Sant Julià=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-055	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=copríncep=1;comunals=1;Ordino=1;Escaldes=3;Massana=1;Sant Julià=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-055	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=186 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-055	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=17;bueno=27;clar=11;doncs=16;llavors=14;és a dir=1;o sigui=5;vull dir=2;a veure=8;evidentment=1;perquè=32;per tant=1;a nivell=3;no?=31	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-055	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=173.29; f0_sd_hz=255.77; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	0.116	-0.0583	0.020
+pa-055	variació	localitat i generació	Rabassa; ALDC	d'Escaldes-Engordany	contextual; no prova varietat		0		sense evidència específica			
+pa-055	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-056	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-056	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-056	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-056	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-056	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-056	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-056	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-056	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-056	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-056	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-056	lèxic	variants occidentals	ALDC; Veny	formes_territorials=parròquia=1;Canillo=2;Ordino=9;Escaldes=1;Massana=1;Sant Julià=2 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-056	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=parròquia=1;Canillo=2;Ordino=9;Escaldes=1;Massana=1;Sant Julià=2 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-056	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=parròquia=1;Canillo=2;Ordino=9;Escaldes=1;Massana=1;Sant Julià=2 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-056	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=86 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-056	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=8;bueno=5;clar=7;doncs=9;llavors=1;aleshores=3;és a dir=10;o sigui=1;vull dir=1;a veure=3;evidentment=4;perquè=27;per tant=10;no?=10	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-056	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=140.69; f0_sd_hz=83.64; pausa_mediana_s=0.06	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	-0.035	-0.0663	0.005
+pa-056	variació	localitat i generació	Rabassa; ALDC	d'Ordino	contextual; no prova varietat		0		sense evidència específica			
+pa-056	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-057	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-057	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-057	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-057	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-057	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-057	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-057	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-057	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-057	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-057	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-057	lèxic	variants occidentals	ALDC; Veny	formes_territorials=andorrana=2;comuns=1;Ordino=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-057	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=andorrana=2;comuns=1;Ordino=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-057	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=andorrana=2;comuns=1;Ordino=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-057	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=109 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-057	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=12;bueno=1;clar=1;doncs=10;llavors=7;de fet=1;és a dir=1;o sigui=1;a veure=1;diguem=1;perquè=20;a nivell=4;no?=3	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-057	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=192.97; f0_sd_hz=101.47; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	0.087	0.0062	0.000
+pa-057	variació	localitat i generació	Rabassa; ALDC	d'Encamp	contextual; no prova varietat		0		sense evidència específica			
+pa-057	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-058	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-058	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-058	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-058	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-058	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-058	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-058	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-058	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-058	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-058	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-058	lèxic	variants occidentals	ALDC; Veny	formes_territorials=parròquia=3;comú=1;comuns=1;copríncep=10;coprínceps=5;Canillo=1;Escaldes=4;Sant Julià=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-058	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=parròquia=3;comú=1;comuns=1;copríncep=10;coprínceps=5;Canillo=1;Escaldes=4;Sant Julià=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-058	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=parròquia=3;comú=1;comuns=1;copríncep=10;coprínceps=5;Canillo=1;Escaldes=4;Sant Julià=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-058	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=143 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-058	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=6;bueno=36;clar=12;doncs=29;llavors=2;és a dir=3;vull dir=1;a veure=5;diguem=2;perquè=50;a nivell=15;no?=1	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-058	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=64.28; f0_sd_hz=98.04; pausa_mediana_s=0.10	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	-0.010	0.0478	-0.030
+pa-058	variació	localitat i generació	Rabassa; ALDC	Escaldes-Engordany (circumscripció documentada)	contextual; no prova varietat		0		sense evidència específica			
+pa-058	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-059	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-059	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-059	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-059	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-059	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-059	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-059	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-059	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-059	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-059	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-059	lèxic	variants occidentals	ALDC; Veny	formes_territorials=comú=1;copríncep=1;Escaldes=5;Sant Julià=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-059	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=comú=1;copríncep=1;Escaldes=5;Sant Julià=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-059	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=comú=1;copríncep=1;Escaldes=5;Sant Julià=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-059	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=63 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-059	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=5;bueno=4;clar=5;doncs=6;llavors=2;és a dir=1;o sigui=1;vull dir=5;evidentment=3;perquè=23;per tant=1;a nivell=9	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-059	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=122.28; f0_sd_hz=76.24; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	0.082	-0.0037	0.010
+pa-059	variació	localitat i generació	Rabassa; ALDC	Escaldes-Engordany	contextual; no prova varietat		0		sense evidència específica			
+pa-059	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-060	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-060	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-060	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-060	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-060	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-060	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-060	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-060	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-060	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-060	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-060	lèxic	variants occidentals	ALDC; Veny	formes_territorials=parròquia=1;Canillo=3 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-060	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=parròquia=1;Canillo=3 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-060	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=parròquia=1;Canillo=3 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-060	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=62 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-060	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=1;bueno=4;doncs=2;llavors=1;aleshores=3;de fet=2;és a dir=4;vull dir=20;a veure=3;diguem=1;perquè=10;a nivell=4	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-060	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=54.02; f0_sd_hz=75.63; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	0.220	0.0375	-0.030
+pa-060	variació	localitat i generació	Rabassa; ALDC	Andorra (parròquia no fixada en aquesta fitxa)	contextual; no prova varietat		0		sense evidència específica			
+pa-060	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-061	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-061	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-061	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-061	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-061	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-061	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-061	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-061	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-061	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-061	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-061	lèxic	variants occidentals	ALDC; Veny	formes_territorials= (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-061	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials= (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-061	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials= (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-061	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=31 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-061	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=6;bueno=12;clar=7;doncs=5;llavors=3;o sigui=7;vull dir=2;a veure=1;evidentment=2;perquè=25;a nivell=1;no?=9	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-061	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=112.12; f0_sd_hz=2043.35; pausa_mediana_s=0.06	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	0.018	0.0861	0.010
+pa-061	variació	localitat i generació	Rabassa; ALDC	Andorra (activitat empresarial documentada)	contextual; no prova varietat		0		sense evidència específica			
+pa-061	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-062	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-062	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-062	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-062	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-062	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-062	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-062	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-062	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-062	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-062	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-062	lèxic	variants occidentals	ALDC; Veny	formes_territorials=padrí=3;Canillo=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-062	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=padrí=3;Canillo=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-062	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=padrí=3;Canillo=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-062	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=71 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-062	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=4;bueno=1;clar=3;doncs=3;és a dir=2;o sigui=4;vull dir=10;diguem=2;evidentment=4;perquè=31;per tant=1;no?=1	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-062	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=144.82; f0_sd_hz=246.07; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	-0.403	0.1042	0.000
+pa-062	variació	localitat i generació	Rabassa; ALDC	Canillo	contextual; no prova varietat		0		sense evidència específica			
+pa-062	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-063	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-063	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-063	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-063	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-063	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-063	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-063	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-063	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-063	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-063	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-063	lèxic	variants occidentals	ALDC; Veny	formes_territorials= (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-063	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials= (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-063	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials= (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-063	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=52 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-063	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=12;bueno=1;clar=3;doncs=7;llavors=5;aleshores=4;o sigui=6;vull dir=1;a veure=3;perquè=51;per tant=5;a nivell=2;no?=2	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-063	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=63.11; f0_sd_hz=53.44; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	-0.416	-0.0236	0.005
+pa-063	variació	localitat i generació	Rabassa; ALDC	pendent de documentació	contextual; no prova varietat		0		sense evidència específica			
+pa-063	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-064	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-064	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-064	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-064	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-064	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-064	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-064	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-064	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-064	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-064	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-064	lèxic	variants occidentals	ALDC; Veny	formes_territorials=veguer=1;padrí=1;Massana=2 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-064	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=veguer=1;padrí=1;Massana=2 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-064	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=veguer=1;padrí=1;Massana=2 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-064	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=60 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-064	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=6;clar=3;doncs=7;llavors=5;és a dir=7;o sigui=7;a veure=3;evidentment=1;perquè=20;per tant=3;no?=1	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-064	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=148.43; f0_sd_hz=159.91; pausa_mediana_s=0.08	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	0.298	-0.0446	0.040
+pa-064	variació	localitat i generació	Rabassa; ALDC	Andorra; vinculació documentada amb la policia	contextual; no prova varietat		0		sense evidència específica			
+pa-064	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-065	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-065	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-065	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-065	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-065	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-065	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-065	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-065	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-065	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-065	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-065	lèxic	variants occidentals	ALDC; Veny	formes_territorials=comú=1;santuari=4;Canillo=3 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-065	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=comú=1;santuari=4;Canillo=3 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-065	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=comú=1;santuari=4;Canillo=3 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-065	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=41 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-065	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=6;bueno=3;clar=13;doncs=23;llavors=8;aleshores=15;de fet=1;és a dir=7;o sigui=4;vull dir=1;a veure=6;perquè=34;per tant=6;a nivell=2	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-065	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=118.07; f0_sd_hz=280.02; pausa_mediana_s=0.10	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	0.231	-0.0825	0.000
+pa-065	variació	localitat i generació	Rabassa; ALDC	Canillo	contextual; no prova varietat		0		sense evidència específica			
+pa-065	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			
+pa-066	vocalisme	distinció a/e àtones	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-066	vocalisme	neutralització a/e en vocal neutra	ALDC; variació generacional	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-066	vocalisme	manteniment de o àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-066	vocalisme	alternança o/u àtona	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-066	vocalisme	obertura de e tònica	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-066	morfologia	incoatius en -ix-	ALDC; Veny	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-066	morfologia	morfologia nominal i adjectival	Rabassa	pendent de revisió manual	requereix escolta		0		sense evidència específica			
+pa-066	fonosintaxi	contacte entre mots	Rabassa	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-066	fonètica	palatalització i velarització	ALDC; Veny	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-066	fonètica	realització de r i consonants finals	Rabassa; ALDC	no inferible de la grafia ASR	requereix escolta		0		sense evidència específica			
+pa-066	lèxic	variants occidentals	ALDC; Veny	formes_territorials=aiguats=1;Escaldes=4;Sant Julià=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-066	lèxic	andorranismes administratius	Govern d'Andorra; DIEC2	formes_territorials=aiguats=1;Escaldes=4;Sant Julià=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-066	lèxic	terminologia d'esports d'hivern	Govern d'Andorra	formes_territorials=aiguats=1;Escaldes=4;Sant Julià=1 (ASR)	candidat lèxic; validar àudio		0		sense evidència específica			
+pa-066	sintaxi	perífrasis i règim verbal	Rull	perifrasi_past_aparent=65 (ASR)	indicador textual; validar àudio		0		sense evidència específica			
+pa-066	pragmàtica	marcadors i reformulacions	corpus actual; revisió pròpia	bé=3;bueno=1;llavors=2;de fet=1;evidentment=2;perquè=5;per tant=2;a nivell=1;no?=1	indicador textual; validar àudio		0		marcadors textuals consensuals; forma global pendent			
+pa-066	prosòdia	entonació, ritme i pauses	Rabassa; revisió pròpia	f0_iqr_hz=103.92; f0_sd_hz=528.01; pausa_mediana_s=0.06	descriptor acústic; no és tret confirmat		0		descriptor acústic normalitzat	0.218	0.1099	-0.010
+pa-066	variació	localitat i generació	Rabassa; ALDC	pendent de documentació	contextual; no prova varietat		0		sense evidència específica			
+pa-066	variació	contacte amb castellà i francès	Govern d'Andorra; sociolingüística	no inferible sense biografia i àudio	requereix escolta i context		0		sense evidència específica			

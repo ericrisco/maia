@@ -1,0 +1,92 @@
+id	tipus	etiqueta	font_ref	notes
+pa-001	persona	Albert Gelabert Grau	pa-001	veu institucional; Massana documentada
+pa-003	persona	Roser Bastida	pa-003	veu RTVA; Escola Andorrana documentada
+pa-002	persona	Jordi Farràs Forné	pa-002	veu institucional; síndic general del Consell Constituent
+trait-connector-és-a-dir	tret	és a dir	pa-002,pa-003	marcador documentat en dues mostres
+trait-connector-evidentment	tret	evidentment	pa-002,pa-003	marcador documentat en dues mostres
+trait-connector-bueno	tret	bueno	pa-001,pa-002,pa-003	present en les tres mostres; funció pendent de comparar
+trait-perifrasis-obligacio	tret	perífrasis d'obligació	pa-002,pa-003	hem de / s'havia de / es tenia de
+trait-lex-ensenyança	tret	ensenyança	pa-003	lèxic educatiu de la mostra
+trait-lex-reformeta	tret	reformeta	pa-002	diminutiu polític de la mostra
+pa-004	persona	Francina Pons	pa-004	veu de la font corresponent; lectura contextual manual ampliada
+pa-005	persona	Ludmilla Lacueva	pa-005	veu de la font corresponent; lectura contextual manual ampliada
+pa-006	persona	Alan Ward	pa-006	veu de la font corresponent; lectura contextual manual ampliada
+pa-007	persona	Alfred Llahí	pa-007	veu de la font corresponent; lectura contextual manual ampliada
+pa-008	persona	Albert Roig	pa-008	analitzada-provisional-contextual
+pa-009	persona	Robert Lizarte	pa-009	analitzada-provisional-contextual
+pa-010	persona	Xavier Planas	pa-010	analitzada-provisional-contextual
+pa-011	persona	Esther Jover	pa-011	analitzada-provisional-contextual
+pa-012	persona	Albert Rossa Naudí	pa-012	analitzada-provisional-contextual
+pa-013	persona	Ruth Casabella	pa-013	analitzada-provisional-contextual
+pa-014	persona	Teo Armengol	pa-014	analitzada-provisional-contextual
+pa-015	persona	Sara Ubach	pa-015	analitzada-provisional-contextual
+pa-016	persona	Olga Adellach Coma	pa-016	veu de la font corresponent; lectura contextual manual ampliada
+pa-017	persona	Nadia Aleix Tugas	pa-017	veu de la font corresponent; lectura contextual manual ampliada
+pa-018	persona	Miquel Aleix Areny	pa-018	veu de la font corresponent; lectura contextual manual ampliada
+pa-019	persona	Pere Altimir Pintat	pa-019	veu de la font corresponent; lectura contextual manual ampliada
+pa-020	persona	Guillem Areny Argelich	pa-020	analitzada-provisional-contextual
+pa-021	persona	Josep Areny Fité	pa-021	analitzada-provisional-contextual
+pa-022	persona	Miquel Armengol Pons	pa-022	analitzada-provisional-contextual
+pa-023	persona	Antoni Armengol Vila	pa-023	analitzada-provisional-contextual
+pa-024	persona	Ladislau Baró Solà	pa-024	analitzada-provisional-contextual; resegmentació base 60 s; revisar àudio
+pa-025	persona	Jaume Bartumeu Cassany	pa-025	analitzada-provisional-contextual
+pa-026	persona	Ramon Canut Bové	pa-026	analitzada-provisional-contextual
+pa-027	persona	Enric Casadevall Medrano	pa-027	analitzada-provisional-contextual
+pa-028	persona	Robert Cassany Vila	pa-028	analitzada-provisional-contextual
+pa-029	persona	Gabriel Dallerès Codina	pa-029	analitzada-provisional-contextual
+pa-030	persona	Enric Dolsa Font	pa-030	analitzada-provisional-contextual
+pa-031	persona	Josep Garrallà Rossell	pa-031	analitzada-provisional-contextual
+pa-032	persona	Andreu Gaspà Picart	pa-032	analitzada-provisional-contextual
+pa-033	persona	Antoni Jordi Areny	pa-033	analitzada-provisional-contextual
+pa-034	persona	Rosa Maria Mandicó Alcobé	pa-034	analitzada-provisional-contextual
+pa-035	persona	Josep Marsal Riba	pa-035	analitzada-provisional-contextual
+pa-036	persona	Jordi Mas Torres	pa-036	analitzada-provisional-contextual
+pa-037	persona	Miquel Naudi Casal	pa-037	analitzada-provisional-contextual
+pa-038	persona	Maria Reig Moles	pa-038	analitzada-provisional-contextual
+pa-039	persona	Joan Santamaria Terré	pa-039	analitzada-provisional-contextual
+pa-040	persona	Jordi Torres Alís	pa-040	analitzada-provisional-contextual
+pa-041	persona	Mercè Segura	pa-041	veu de la font corresponent; lectura contextual manual ampliada
+pa-042	persona	Cielo	pa-042	analitzada-provisional-contextual
+pa-043	persona	Irene Clua	pa-043	analitzada-provisional-contextual
+pa-044	persona	Casimir Arajol	pa-044	quarantena ASR; fora de les arestes automàtiques fins a resegmentació
+pa-045	persona	Eudald Guillamet	pa-045	veu de la font corresponent; lectura contextual manual ampliada
+pa-046	persona	Josep Areny	pa-046	veu de la font corresponent; lectura contextual manual ampliada
+pa-047	persona	Gualbert Osorio	pa-047	quarantena ASR; fora de les arestes automàtiques fins a resegmentació
+pa-048	persona	Antoni Morell	pa-048	analitzada-provisional-contextual
+pa-049	persona	Angelina Mas	pa-049	analitzada-provisional-contextual
+pa-050	persona	Àngels Mach	pa-050	quarantena-asr
+trait-be	tret	bé	pa-001,pa-002,pa-003,pa-004,pa-005,pa-006,pa-007,pa-008,pa-009,pa-010,pa-011,pa-012,pa-013,pa-014,pa-015,pa-016,pa-017,pa-018,pa-019,pa-020,pa-021,pa-022,pa-023,pa-024,pa-025,pa-026,pa-027,pa-028,pa-029,pa-030,pa-031,pa-032,pa-033,pa-034,pa-035,pa-036,pa-037,pa-038,pa-039,pa-040,pa-041,pa-045,pa-046,pa-048,pa-049,pa-053,pa-054,pa-055,pa-056,pa-057,pa-058,pa-059,pa-060,pa-061,pa-062,pa-063,pa-064,pa-065,pa-066	candidat compartit; recompte ASR pendent de revisió auditiva
+trait-de-fet	tret	de fet	pa-001,pa-002,pa-003,pa-004,pa-006,pa-008,pa-010,pa-011,pa-016,pa-022,pa-023,pa-024,pa-025,pa-027,pa-028,pa-031,pa-033,pa-040,pa-051,pa-057,pa-060,pa-065,pa-066	candidat compartit; recompte ASR pendent de revisió auditiva
+trait-es-a-dir	tret	és a dir	pa-001,pa-002,pa-003,pa-007,pa-008,pa-010,pa-011,pa-013,pa-014,pa-016,pa-017,pa-018,pa-019,pa-021,pa-022,pa-023,pa-024,pa-025,pa-026,pa-027,pa-029,pa-030,pa-033,pa-034,pa-035,pa-039,pa-041,pa-043,pa-046,pa-048,pa-049,pa-055,pa-056,pa-057,pa-058,pa-059,pa-060,pa-062,pa-064,pa-065	candidat compartit; recompte ASR pendent de revisió auditiva
+trait-aleshores	tret	aleshores	pa-001,pa-003,pa-006,pa-008,pa-011,pa-012,pa-014,pa-021,pa-025,pa-030,pa-031,pa-032,pa-045,pa-046,pa-048,pa-049,pa-056,pa-060,pa-063,pa-065	candidat compartit; recompte ASR pendent de revisió auditiva
+trait-evidentment	tret	evidentment	pa-001,pa-002,pa-003,pa-004,pa-006,pa-007,pa-009,pa-011,pa-013,pa-014,pa-016,pa-017,pa-019,pa-020,pa-021,pa-022,pa-024,pa-025,pa-026,pa-027,pa-030,pa-035,pa-036,pa-039,pa-040,pa-041,pa-045,pa-046,pa-049,pa-055,pa-056,pa-059,pa-061,pa-062,pa-064,pa-066	candidat compartit; recompte ASR pendent de revisió auditiva
+trait-diguem	tret	diguem	pa-003,pa-006,pa-007,pa-008,pa-009,pa-018,pa-019,pa-020,pa-022,pa-023,pa-025,pa-027,pa-028,pa-029,pa-033,pa-034,pa-037,pa-038,pa-039,pa-046,pa-049,pa-057,pa-058,pa-060,pa-062	candidat compartit; recompte ASR pendent de revisió auditiva
+trait-crec	tret	crec	pa-001,pa-002,pa-003,pa-010,pa-014,pa-016,pa-018,pa-019,pa-021,pa-022,pa-023,pa-024,pa-025,pa-027,pa-030,pa-031,pa-034,pa-035,pa-037,pa-038,pa-039,pa-040,pa-041,pa-042,pa-043,pa-045,pa-046,pa-048,pa-049,pa-051,pa-056,pa-058,pa-060,pa-061,pa-062,pa-063,pa-064,pa-065,pa-066	candidat compartit; recompte ASR pendent de revisió auditiva
+trait-bueno	tret	bueno	pa-001,pa-002,pa-003,pa-007,pa-008,pa-016,pa-017,pa-018,pa-019,pa-020,pa-021,pa-022,pa-023,pa-024,pa-025,pa-026,pa-027,pa-028,pa-029,pa-030,pa-031,pa-032,pa-034,pa-035,pa-036,pa-037,pa-038,pa-039,pa-041,pa-043,pa-045,pa-046,pa-048,pa-049,pa-051,pa-052,pa-054,pa-055,pa-056,pa-057,pa-058,pa-059,pa-060,pa-061,pa-062,pa-063,pa-065,pa-066	candidat compartit; recompte ASR pendent de revisió auditiva
+trait-clar	tret	clar	pa-001,pa-002,pa-003,pa-005,pa-006,pa-007,pa-008,pa-009,pa-010,pa-014,pa-016,pa-017,pa-018,pa-019,pa-020,pa-021,pa-022,pa-024,pa-025,pa-026,pa-027,pa-028,pa-029,pa-030,pa-031,pa-032,pa-033,pa-034,pa-035,pa-036,pa-037,pa-038,pa-039,pa-041,pa-042,pa-045,pa-046,pa-048,pa-049,pa-051,pa-052,pa-055,pa-056,pa-057,pa-058,pa-059,pa-061,pa-062,pa-063,pa-064,pa-065	candidat compartit; recompte ASR pendent de revisió auditiva
+trait-vull-dir	tret	vull dir	pa-001,pa-002,pa-004,pa-014,pa-016,pa-017,pa-020,pa-021,pa-022,pa-023,pa-025,pa-026,pa-027,pa-030,pa-031,pa-032,pa-033,pa-034,pa-036,pa-037,pa-038,pa-041,pa-045,pa-048,pa-049,pa-055,pa-056,pa-058,pa-059,pa-060,pa-061,pa-062,pa-063,pa-065	candidat compartit; recompte ASR pendent de revisió auditiva
+trait-o-sigui	tret	o sigui	pa-001,pa-005,pa-006,pa-009,pa-014,pa-015,pa-016,pa-022,pa-024,pa-025,pa-026,pa-027,pa-029,pa-030,pa-034,pa-038,pa-040,pa-045,pa-046,pa-048,pa-049,pa-055,pa-056,pa-057,pa-059,pa-061,pa-062,pa-063,pa-064,pa-065	candidat compartit; recompte ASR pendent de revisió auditiva
+trait-llavors	tret	llavors	pa-001,pa-002,pa-005,pa-006,pa-007,pa-009,pa-010,pa-014,pa-015,pa-016,pa-017,pa-018,pa-019,pa-022,pa-023,pa-024,pa-026,pa-027,pa-028,pa-029,pa-030,pa-032,pa-033,pa-034,pa-036,pa-037,pa-038,pa-041,pa-045,pa-046,pa-048,pa-049,pa-051,pa-052,pa-053,pa-054,pa-055,pa-056,pa-057,pa-058,pa-059,pa-060,pa-061,pa-063,pa-064,pa-065,pa-066	candidat compartit; recompte ASR pendent de revisió auditiva
+trait-a-veure	tret	a veure	pa-001,pa-002,pa-007,pa-008,pa-011,pa-014,pa-016,pa-018,pa-021,pa-022,pa-023,pa-024,pa-025,pa-026,pa-029,pa-030,pa-031,pa-032,pa-034,pa-035,pa-036,pa-038,pa-041,pa-045,pa-048,pa-049,pa-054,pa-055,pa-056,pa-057,pa-058,pa-060,pa-061,pa-063,pa-064,pa-065	candidat compartit; recompte ASR pendent de revisió auditiva
+trait-aviam	tret	aviam	pa-003,pa-014,pa-016,pa-020,pa-049	candidat compartit; recompte ASR pendent de revisió auditiva
+trait-doncs	tret	doncs	pa-004,pa-005,pa-006,pa-007,pa-008,pa-009,pa-010,pa-011,pa-012,pa-013,pa-014,pa-015,pa-016,pa-017,pa-018,pa-019,pa-020,pa-021,pa-022,pa-024,pa-025,pa-026,pa-027,pa-028,pa-029,pa-030,pa-031,pa-032,pa-033,pa-034,pa-035,pa-036,pa-037,pa-038,pa-039,pa-040,pa-041,pa-043,pa-045,pa-046,pa-048,pa-049,pa-055,pa-056,pa-057,pa-058,pa-059,pa-060,pa-061,pa-062,pa-063,pa-064,pa-065	candidat compartit; recompte ASR pendent de revisió auditiva
+trait-perque	tret	perquè	pa-001,pa-002,pa-003,pa-004,pa-006,pa-007,pa-008,pa-009,pa-010,pa-011,pa-012,pa-013,pa-014,pa-015,pa-016,pa-017,pa-018,pa-019,pa-020,pa-021,pa-022,pa-023,pa-024,pa-025,pa-026,pa-027,pa-028,pa-029,pa-030,pa-031,pa-032,pa-033,pa-034,pa-035,pa-036,pa-037,pa-038,pa-039,pa-040,pa-041,pa-042,pa-045,pa-046,pa-048,pa-049,pa-051,pa-052,pa-053,pa-054,pa-055,pa-056,pa-057,pa-058,pa-059,pa-060,pa-061,pa-062,pa-063,pa-064,pa-065,pa-066	candidat compartit; recompte ASR pendent de revisió auditiva
+trait-a-nivell	tret	a nivell	pa-001,pa-002,pa-003,pa-016,pa-017,pa-018,pa-019,pa-020,pa-023,pa-024,pa-026,pa-029,pa-033,pa-034,pa-036,pa-038,pa-045,pa-048,pa-049,pa-055,pa-057,pa-058,pa-059,pa-060,pa-061,pa-063,pa-065,pa-066	candidat compartit; recompte ASR pendent de revisió auditiva
+trait-tirar-endavant	tret	tirar endavant	pa-003,pa-017,pa-020,pa-029,pa-030,pa-031,pa-033,pa-034,pa-041,pa-056,pa-057,pa-059	candidat compartit; recompte ASR pendent de revisió auditiva
+trait-reformeta	tret	reformeta	pa-002,pa-022,pa-025,pa-026,pa-034,pa-038,pa-055	candidat compartit; recompte ASR pendent de revisió auditiva
+pa-051	persona	Josep Casal	pa-051	analitzada-provisional-contextual; Canillo documentat
+pa-052	persona	Rosa Vidal	pa-052	analitzada-provisional-contextual; Tor/Sispony documentats
+pa-053	persona	Pere Torres	pa-053	veu de l'Arxiu d'Etnografia; Casa Toni, Canillo/El Forn; revisió manual pendent
+pa-054	persona	Trini Mandicó Baró	pa-054	veu de l'Arxiu d'Etnografia; Sispony (1926); revisió manual pendent
+pa-055	persona	Ramon Canut Bové	pa-055	analitzada-provisional-automatica
+pa-056	persona	Enric Dolsa Font	pa-056	analitzada-provisional-automatica
+pa-057	persona	Gabriel Dallerès Codina	pa-057	analitzada-provisional-automatica
+pa-058	persona	Miquel Aleix Areny	pa-058	analitzada-provisional-automatica
+pa-059	persona	Nadia Aleix Tugas	pa-059	analitzada-provisional-automatica
+pa-060	persona	Antoni Armengol Vila	pa-060	analitzada-provisional-automatica
+pa-061	persona	Patrick Pérez	pa-061	analitzada-provisional-automatica
+pa-062	persona	Jordi Marquet	pa-062	analitzada-provisional-automatica
+pa-063	persona	Roser Jordana	pa-063	analitzada-provisional-automatica
+pa-064	persona	Daniel Armengol	pa-064	analitzada-provisional-automatica
+pa-065	persona	Mossèn Ramon de Canillo	pa-065	analitzada-provisional-automatica
+pa-066	persona	Carles Sasplugas	pa-066	analitzada-provisional-automatica

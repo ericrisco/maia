@@ -1,0 +1,53 @@
+forma	categoria	small	base	consens	model_localitzador	context_small	context_base	prob_min_segment_small	prob_mean_segment_small	prob_min_segment_base	prob_mean_segment_base	clip	inici_ms	final_ms	estat
+a nivell	discurs	0	0	no											ASR textual; atribució i audició pendents
+a veure	discurs	5	6	sí	small	però sí que situacions davant de les jocs, de la incertesa aquesta setmana anem amb quadra o tenim molts problemes i a veure què passa i l'equip sempre se'n sortia.	i a veure què passa, i l'equip sempre se'n sortia.	0.0871	0.7703	0.3893	0.7555	lead-yt-047__02__a-veure.wav	159160	170680	ASR textual; atribució i audició pendents
+aleshores	discurs	0	0	no											ASR textual; atribució i audició pendents
+aviam	discurs	0	0	no											ASR textual; atribució i audició pendents
+bueno	discurs	17	24	sí	small	-Però el míster del macho. -Bueno, el míster, jo crec que...	Bueno, matemàticament va ho assolir la sense la penúltima jornada.	0.0468	0.7877	0.1276	0.7377	lead-yt-047__05__bueno.wav	92960	96080	ASR textual; atribució i audició pendents
+bé	discurs	35	32	sí	small	-Apreneu televisió com estàs? -Molt bé, molt content.	-Aplieneus televisió com estàs? -Molt bé, molt content.	0.2966	0.8758	0.1882	0.7966	lead-yt-047__06__b.wav	9160	12240	ASR textual; atribució i audició pendents
+clar	discurs	15	15	sí	small	i tenia molt clar com havia de portar l'equip.	i tenia molt clar com havia d'aportar l'equip.	0.6075	0.9569	0.4521	0.9084	lead-yt-047__07__clar.wav	102320	107440	ASR textual; atribució i audició pendents
+de fet	discurs	0	0	no											ASR textual; atribució i audició pendents
+diguem	discurs	3	3	sí	small	Us han respectat bé? Us han, diguem, cuidat bé?	Us han respectat bé, us han, diguem, cuidat bé...	0.1373	0.7840	0.3469	0.7899	lead-yt-047__09__diguem.wav	667400	670040	ASR textual; atribució i audició pendents
+doncs	discurs	9	16	sí	small	I com et deia, doncs al final tens una idea, la construeixes, la treballes,	Que al final l'equip, doncs va mostrar aquest ADN competitiu	0.2494	0.8444	0.0702	0.7012	lead-yt-047__10__doncs.wav	238320	244800	ASR textual; atribució i audició pendents
+evidentment	discurs	1	1	sí	small	-Trevall psicològic del míster, una treball de tots, evidentment. -Molt.	Molt evidentment, molt.	0.2450	0.7709	0.0772	0.5609	lead-yt-047__11__evidentment.wav	89920	92960	ASR textual; atribució i audició pendents
+llavors	discurs	7	1	sí	small	Llavors valorar el treball haguéssim dit que ens hem equivocat	Llavors, valorar el treball haguéssim dit que ens hem equivocat	0.1933	0.7741	0.0890	0.7054	lead-yt-047__12__llavors.wav	223680	226920	ASR textual; atribució i audició pendents
+no?	discurs	25	29	sí	small	hi ha moments com micropartits, no?	hi ha moments com micro partits, no?	0.3166	0.8052	0.5289	0.8327	lead-yt-047__13__no.wav	50320	52680	ASR textual; atribució i audició pendents
+o sigui	discurs	6	4	sí	small	o sigui, si no arriba a fer aquella assistèria ens haguéssim mantingut el...	o sigui, el parelló estava dividint en tres pistes.	0.2689	0.7788	0.2243	0.6482	lead-yt-047__14__o-sigui.wav	220680	223480	ASR textual; atribució i audició pendents
+per tant	discurs	1	1	sí	small	l'executes i et surt bé. Per tant, poques coses podem dir que ens en sortim malament.	Per tant, poques coses podem dir que ens han sortit malament, no?	0.3617	0.8418	0.4321	0.8159	lead-yt-047__15__per-tant.wav	244800	252240	ASR textual; atribució i audició pendents
+perquè	discurs	29	30	sí	small	perquè quasi no vam entrenar i, com deien, cada dia ha d'estilar un poco,	perquè quasi no va m'entrenar.	0.2234	0.7250	0.3884	0.7508	lead-yt-047__16__perqu.wav	33320	38040	ASR textual; atribució i audició pendents
+vull dir	discurs	2	1	sí	small	Exacte, vull dir que s'ha adaptat molt bé, li encanta passejar, li encanta la natura.	-Ei, d'ac, vull dir que s'ha adaptat molt bé, li encanta passejar,	0.6296	0.9197	0.0880	0.6952	lead-yt-047__17__vull-dir.wav	1045820	1050380	ASR textual; atribució i audició pendents
+és a dir	discurs	0	0	no											ASR textual; atribució i audició pendents
+Canillo	territorial	0	0	no											ASR textual; atribució i audició pendents
+Escaldes	territorial	0	0	no											ASR textual; atribució i audició pendents
+Massana	territorial	0	0	no											ASR textual; atribució i audició pendents
+Ordino	territorial	0	0	no											ASR textual; atribució i audició pendents
+Sant Julià	territorial	0	0	no											ASR textual; atribució i audició pendents
+aiguats	territorial	0	0	no											ASR textual; atribució i audició pendents
+andorrana	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunal	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunals	territorial	0	0	no											ASR textual; atribució i audició pendents
+comuns	territorial	0	0	no											ASR textual; atribució i audició pendents
+comú	territorial	0	0	no											ASR textual; atribució i audició pendents
+copríncep	territorial	0	0	no											ASR textual; atribució i audició pendents
+coprínceps	territorial	0	0	no											ASR textual; atribució i audició pendents
+padrí	territorial	0	0	no											ASR textual; atribució i audició pendents
+parròquia	territorial	0	0	no											ASR textual; atribució i audició pendents
+santuari	territorial	0	0	no											ASR textual; atribució i audició pendents
+veguer	territorial	0	0	no											ASR textual; atribució i audició pendents
+bàsquet	esport	2	2	sí	small	hi ha hagut un partit de bàsquet, també de futbol,	Surtal Xavi, m'ho jo també, juguen a bàsquet.	0.3718	0.8381	0.1233	0.5321	lead-yt-047__36__b-squet.wav	47480	50320	ASR textual; atribució i audició pendents
+esport	esport	0	0	no											ASR textual; atribució i audició pendents
+equip	esport	29	24	sí	small	però jo crec que al final l'equip va mostrar aquest ADN competitiu	Que al final l'equip, doncs va mostrar aquest ADN competitiu	0.4250	0.8584	0.0702	0.7012	lead-yt-047__38__equip.wav	25400	29720	ASR textual; atribució i audició pendents
+jugadors	esport	12	10	sí	small	dissenyes l'equip amb 12 jugadors i durant l'any et van passant coses.	doncs de desenyes de l'equip amb tots els jugadors,	0.1132	0.8485	0.1637	0.6579	lead-yt-047__39__jugadors.wav	116840	121040	ASR textual; atribució i audició pendents
+partit	esport	10	11	sí	small	hi ha hagut un partit de bàsquet, també de futbol,	i ha hagut a partit basquet, també de futbol,	0.3718	0.8381	0.3025	0.7331	lead-yt-047__40__partit.wav	47480	50320	ASR textual; atribució i audició pendents
+victòria	esport	2	2	sí	small	-I l'última va ser una mica de... -L'última va ser una altra victòria.	-Una altra victòria. -Una altra victòria, que bueno,	0.1498	0.8892	0.0172	0.7118	lead-yt-047__41__vict-ria.wav	17160	22360	ASR textual; atribució i audició pendents
+lliga	esport	4	2	sí	small	doncs vas a Castellón, que és el primer partit del Lliga,	Bàs a Castellon, que és el primer partit de Lliga,	0.3451	0.8584	0.0919	0.7689	lead-yt-047__42__lliga.wav	346160	348960	ASR textual; atribució i audició pendents
+play-off	esport	0	0	no											ASR textual; atribució i audició pendents
+Andorra	toponim	5	1	sí	small	Jo crec que la imatge que té tothom del Morabang Andorra	Enhorabona, tenim un dinapendent des de fa dos mesos que van fer una entrevista al diari d'Andorra i ho farem.	0.1439	0.7481	0.0684	0.7570	lead-yt-047__44__andorra.wav	662080	665080	ASR textual; atribució i audició pendents
+andorrà	gentilici	0	0	no											ASR textual; atribució i audició pendents
+joves	societat	1	0	no	small	i els joves que espiren a pujar, llavors aquesta combinació és la que et dona.		0.3675	0.8906			lead-yt-047__46__joves.wav	804060	808060	ASR textual; atribució i audició pendents
+formació	societat	0	0	no											ASR textual; atribució i audició pendents
+Palència	toponim	3	2	sí	small	Que el fet de guanyar l'altre rival directe que vam tenir, que és el Palència, a casa, a primera setmana de març, allà ja vam agafar aquesta avantatge.	que m'entenia, que és el Palència.	0.0696	0.7896	0.2055	0.6184	lead-yt-047__48__pal-ncia.wav	66000	78240	ASR textual; atribució i audició pendents
+Burgos	toponim	4	2	sí	small	Sobretot. Jo crec que era la paraula principal que vam posar a sobre de taula el com vam començar el mes d'agost que havíem de ser humils, que havíem de respectar molt els rivals, fos qui fos, fos el Burgos, que era el nostre gran rival el mes de setembre abans de començar o els estudiants com a l'Adbacete, que era un recent ascendidor.	Però el que és el País Vasc, Palència Burgos.	0.1044	0.8057	0.0953	0.5278	lead-yt-047__49__burgos.wav	283920	305520	ASR textual; atribució i audició pendents
+turisme	societat	0	0	no											ASR textual; atribució i audició pendents
+treball	societat	3	3	sí	small	-Trevall psicològic del míster, una treball de tots, evidentment. -Molt.	Travall psicològic del mister, una treball de tothom.	0.2450	0.7709	0.1806	0.6324	lead-yt-047__51__treball.wav	89920	92960	ASR textual; atribució i audició pendents
+família	societat	0	0	no											ASR textual; atribució i audició pendents

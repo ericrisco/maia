@@ -1,0 +1,15 @@
+forma	segment	clip	inici_forma_s	final_forma_s	durada_s	veu_proporcio	rms_p10_db	rms_p50_db	rms_p90_db	zcr_p10	zcr_p90	f0_median_hz	f0_iqr_hz	centroid_median_hz	centroid_p90_hz	segments_veu	pausa_mediana_s	mostres_f0	estat
+a nivell	146	clips/jaume-tomas__a-nivell__434.96.wav	434.960	438.480	5.520	0.7527	-51.80	-25.88	-17.22	0.0407	0.2056	199.22	68.36	1039.07	2053.72	15	0.050	106	descriptor orientatiu; pendent d’audició
+bueno	27	clips/jaume-tomas__bueno__79.36.wav	79.360	84.240	6.880	0.7201	-58.55	-28.07	-20.61	0.0394	0.1969	187.50	125.00	1091.50	2241.60	15	0.050	125	descriptor orientatiu; pendent d’audició
+bé	73	clips/jaume-tomas__b__218.48.wav	218.480	221.920	5.440	0.7196	-47.05	-30.53	-22.06	0.0376	0.2817	171.88	101.56	1036.84	2754.72	13	0.050	98	descriptor orientatiu; pendent d’audició
+clar	24	clips/jaume-tomas__clar__71.76.wav	71.760	73.760	4.000	0.8090	-40.45	-25.89	-20.42	0.0435	0.1427	210.94	117.19	892.27	1708.66	9	0.060	81	descriptor orientatiu; pendent d’audició
+de fet	285	clips/jaume-tomas__de-fet__916.00.wav	916.000	918.000	4.000	0.8442	-37.37	-25.62	-18.26	0.0282	0.1352	203.12	95.70	914.27	1629.11	15	0.040	84	descriptor orientatiu; pendent d’audició
+doncs	9	clips/jaume-tomas__doncs__35.36.wav	35.360	37.120	3.760	0.7380	-43.52	-27.56	-21.67	0.0448	0.2222	289.06	109.38	1043.23	2382.94	12	0.040	70	descriptor orientatiu; pendent d’audició
+evidentment	137	clips/jaume-tomas__evidentment__404.16.wav	404.160	408.400	6.240	0.8264	-40.38	-24.33	-17.97	0.0313	0.1674	210.94	85.94	945.29	2076.22	13	0.040	128	descriptor orientatiu; pendent d’audició
+llavors	39	clips/jaume-tomas__llavors__119.28.wav	119.280	121.600	4.320	0.6744	-47.83	-32.16	-25.37	0.0407	0.2545	156.25	134.77	1085.23	2532.41	17	0.050	72	descriptor orientatiu; pendent d’audició
+no?	54	clips/jaume-tomas__no__158.80.wav	158.800	161.600	4.800	0.7364	-49.97	-27.91	-21.06	0.0391	0.2870	187.50	140.62	1020.36	2615.19	11	0.050	89	descriptor orientatiu; pendent d’audició
+per tant	458	clips/jaume-tomas__per-tant__1393.88.wav	1393.880	1395.880	4.000	0.5729	-45.34	-32.85	-23.33	0.0341	0.2964	195.31	134.77	1129.86	2664.84	12	0.140	56	descriptor orientatiu; pendent d’audició
+perquè	12	clips/jaume-tomas__perqu__43.12.wav	43.120	45.600	4.480	0.7130	-43.77	-29.01	-16.43	0.0407	0.3014	250.00	154.30	1168.85	2909.58	13	0.050	78	descriptor orientatiu; pendent d’audició
+vull dir	461	clips/jaume-tomas__vull-dir__1401.12.wav	1401.120	1405.120	6.000	0.8060	-40.76	-26.86	-19.75	0.0313	0.1208	257.81	76.17	900.66	1491.83	15	0.080	122	descriptor orientatiu; pendent d’audició
+és a dir	41	clips/jaume-tomas__s-a-dir__123.76.wav	123.760	126.480	4.720	0.6000	-49.00	-31.46	-22.50	0.0329	0.1167	175.78	164.06	909.47	1370.79	9	0.080	72	descriptor orientatiu; pendent d’audició
+o sigui	385	clips/jaume-tomas__o-sigui__1221.28.wav	1221.280	1223.640	4.360	0.6406	-58.65	-30.73	-24.01	0.0479	0.2598	257.81	93.75	1226.87	2342.82	8	0.040	70	descriptor orientatiu; pendent d’audició

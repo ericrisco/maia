@@ -1,0 +1,4 @@
+model	categoria	forma	segment	inici_s	final_s	prob_min_segment	text_asr	estat
+small	discurs	a nivell	64	229.920	232.120	0.0000	tant a nivell nacional com a internacional	candidat ASR; pendent d'audició
+small	discurs	és a dir	93	313.200	315.480	0.0000	és a dir, s'ha pogut assistir presencialment	candidat ASR; pendent d'audició
+small	discurs	doncs	137	445.360	448.000	0.0000	Així doncs destacaré les segues actuacions.	candidat ASR; pendent d'audició

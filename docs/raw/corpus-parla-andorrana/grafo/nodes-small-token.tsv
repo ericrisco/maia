@@ -1,0 +1,67 @@
+id_persona	nom_public	estat_persona	n_formes_small	n_ocurrencies_small	prob_median	formes	estat
+pa-001	Albert Gelabert Grau	analitzada-provisional-contextual	5	5	0.5778	crec;de fet;evidentment;llavors;perquè	tokenització small; pendent d'audició
+pa-003	Roser Bastida	analitzada-provisional-contextual	11	11	0.6760	a nivell;bueno;bé;clar;crec;de fet;ensenyança;evidentment;perquè;tirar endavant;és a dir	tokenització small; pendent d'audició
+pa-002	Jordi Farràs Forné	analitzada-provisional-contextual	10	10	0.6144	a nivell;a veure;bé;clar;crec;de fet;evidentment;llavors;perquè;reformeta	tokenització small; pendent d'audició
+pa-004	Francina Pons	analitzada-provisional-contextual	5	5	0.6882	bé;de fet;evidentment;perquè;vull dir	tokenització small; pendent d'audició
+pa-005	Ludmilla Lacueva	analitzada-provisional-contextual	4	5	0.6435	bé;doncs;llavors;o sigui	tokenització small; pendent d'audició
+pa-006	Alan Ward	analitzada-provisional-contextual	8	8	0.4855	aleshores;bé;clar;de fet;diguem;doncs;o sigui;perquè	tokenització small; pendent d'audició
+pa-007	Alfred Llahí	analitzada-provisional-contextual	9	9	0.6477	a veure;bé;clar;diguem;doncs;evidentment;llavors;perquè;és a dir	tokenització small; pendent d'audició
+pa-008	Albert Roig	analitzada-provisional-contextual	7	7	0.4791	a veure;aleshores;bé;clar;de fet;perquè;és a dir	tokenització small; pendent d'audició
+pa-009	Robert Lizarte	analitzada-provisional-contextual	6	6	0.5712	bé;clar;doncs;evidentment;o sigui;perquè	tokenització small; pendent d'audició
+pa-010	Xavier Planas	analitzada-provisional-contextual	7	7	0.6151	clar;crec;de fet;doncs;llavors;perquè;és a dir	tokenització small; pendent d'audició
+pa-011	Esther Jover	analitzada-provisional-contextual	7	7	0.4045	a veure;bé;de fet;doncs;evidentment;perquè;és a dir	tokenització small; pendent d'audició
+pa-012	Albert Rossa Naudí	analitzada-provisional-contextual	3	3	0.5550	aleshores;bé;perquè	tokenització small; pendent d'audició
+pa-013	Ruth Casabella	analitzada-provisional-contextual	4	4	0.7891	bé;doncs;perquè;és a dir	tokenització small; pendent d'audició
+pa-014	Teo Armengol	analitzada-provisional-contextual	9	9	0.7543	a veure;aviam;bé;clar;crec;evidentment;o sigui;perquè;vull dir	tokenització small; pendent d'audició
+pa-015	Sara Ubach	analitzada-provisional-contextual	4	4	0.6808	bé;doncs;llavors;perquè	tokenització small; pendent d'audició
+pa-016	Olga Adellach Coma	analitzada-provisional-contextual	13	13	0.5592	a nivell;a veure;bé;clar;crec;de fet;doncs;evidentment;llavors;o sigui;perquè;vull dir;és a dir	tokenització small; pendent d'audició
+pa-017	Nadia Aleix Tugas	analitzada-provisional-contextual	9	9	0.6669	a nivell;clar;doncs;evidentment;llavors;perquè;tirar endavant;vull dir;és a dir	tokenització small; pendent d'audició
+pa-018	Miquel Aleix Areny	analitzada-provisional-contextual	4	4	0.7228	crec;diguem;llavors;perquè	tokenització small; pendent d'audició
+pa-019	Pere Altimir Pintat	analitzada-provisional-contextual	8	8	0.8860	a nivell;bueno;bé;clar;crec;evidentment;llavors;perquè	tokenització small; pendent d'audició
+pa-020	Guillem Areny Argelich	analitzada-provisional-contextual	7	7	0.2023	a nivell;aviam;bé;clar;diguem;doncs;perquè	tokenització small; pendent d'audició
+pa-021	Josep Areny Fité	analitzada-provisional-contextual	8	8	0.6970	a veure;bueno;crec;doncs;evidentment;perquè;vull dir;és a dir	tokenització small; pendent d'audició
+pa-022	Miquel Armengol Pons	analitzada-provisional-contextual	9	9	0.2581	a veure;clar;crec;evidentment;o sigui;perquè;reformeta;vull dir;és a dir	tokenització small; pendent d'audició
+pa-023	Antoni Armengol Vila	analitzada-provisional-contextual	8	8	0.2148	a nivell;a veure;bueno;de fet;llavors;perquè;vull dir;és a dir	tokenització small; pendent d'audició
+pa-024	Ladislau Baró Solà	analitzada-provisional-contextual	6	6	0.6578	a nivell;clar;crec;de fet;evidentment;perquè	tokenització small; pendent d'audició
+pa-025	Jaume Bartumeu Cassany	analitzada-provisional-contextual	10	10	0.6939	a veure;aleshores;clar;crec;de fet;diguem;evidentment;o sigui;perquè;reformeta	tokenització small; pendent d'audició
+pa-026	Ramon Canut Bové	analitzada-provisional-contextual	7	7	0.6966	a nivell;a veure;bé;o sigui;perquè;reformeta;vull dir	tokenització small; pendent d'audició
+pa-027	Enric Casadevall Medrano	analitzada-provisional-contextual	7	7	0.6623	clar;crec;de fet;diguem;evidentment;perquè;és a dir	tokenització small; pendent d'audició
+pa-028	Robert Cassany Vila	analitzada-provisional-contextual	5	5	0.7839	bé;clar;de fet;doncs;llavors	tokenització small; pendent d'audició
+pa-029	Gabriel Dallerès Codina	analitzada-provisional-contextual	3	3	0.8813	a nivell;o sigui;tirar endavant	tokenització small; pendent d'audició
+pa-030	Enric Dolsa Font	analitzada-provisional-contextual	11	11	0.3657	a veure;aleshores;bueno;crec;doncs;evidentment;llavors;o sigui;tirar endavant;vull dir;és a dir	tokenització small; pendent d'audició
+pa-031	Josep Garrallà Rossell	analitzada-provisional-contextual	8	8	0.4366	a veure;aleshores;clar;crec;de fet;doncs;perquè;tirar endavant	tokenització small; pendent d'audició
+pa-032	Andreu Gaspà Picart	analitzada-provisional-contextual	7	7	0.5112	aleshores;bueno;bé;clar;doncs;perquè;vull dir	tokenització small; pendent d'audició
+pa-033	Antoni Jordi Areny	analitzada-provisional-contextual	9	11	0.7151	bé;clar;de fet;diguem;llavors;perquè;tirar endavant;vull dir;és a dir	tokenització small; pendent d'audició
+pa-034	Rosa Maria Mandicó Alcobé	analitzada-provisional-contextual	8	8	0.7465	a nivell;a veure;bé;crec;diguem;reformeta;tirar endavant;és a dir	tokenització small; pendent d'audició
+pa-035	Josep Marsal Riba	analitzada-provisional-contextual	4	4	0.7613	crec;doncs;perquè;és a dir	tokenització small; pendent d'audició
+pa-036	Jordi Mas Torres	analitzada-provisional-contextual	8	8	0.6880	a nivell;a veure;bé;clar;doncs;evidentment;perquè;vull dir	tokenització small; pendent d'audició
+pa-037	Miquel Naudi Casal	analitzada-provisional-contextual	8	12	0.5085	bueno;bé;clar;crec;doncs;llavors;perquè;vull dir	tokenització small; pendent d'audició
+pa-038	Maria Reig Moles	analitzada-provisional-contextual	11	11	0.6020	a nivell;bueno;bé;clar;crec;doncs;llavors;o sigui;perquè;reformeta;vull dir	tokenització small; pendent d'audició
+pa-039	Joan Santamaria Terré	analitzada-provisional-contextual	4	4	0.6100	bé;crec;evidentment;perquè	tokenització small; pendent d'audició
+pa-040	Jordi Torres Alís	analitzada-provisional-contextual	4	4	0.9151	crec;de fet;evidentment;perquè	tokenització small; pendent d'audició
+pa-041	Mercè Segura	analitzada-provisional-contextual	10	10	0.6508	a veure;bueno;bé;clar;crec;ensenyança;evidentment;perquè;tirar endavant;vull dir	tokenització small; pendent d'audició
+pa-042	Cielo	analitzada-provisional-contextual	1	1	0.7110	perquè	tokenització small; pendent d'audició
+pa-043	Irene Clua	analitzada-provisional-contextual	3	3	0.3177	bueno;crec;és a dir	tokenització small; pendent d'audició
+pa-044	Casimir Arajol	quarantena-asr	0	0			tokenització small; pendent d'audició
+pa-045	Eudald Guillamet	analitzada-provisional-contextual	9	10	0.7994	a nivell;a veure;bé;clar;doncs;evidentment;llavors;o sigui;perquè	tokenització small; pendent d'audició
+pa-046	Josep Areny	analitzada-provisional-contextual	6	6	0.6122	aleshores;bé;diguem;doncs;llavors;és a dir	tokenització small; pendent d'audició
+pa-047	Gualbert Osorio	quarantena-asr	0	0			tokenització small; pendent d'audició
+pa-048	Antoni Morell	analitzada-provisional-contextual	9	10	0.4194	a nivell;a veure;bé;crec;doncs;llavors;o sigui;vull dir;és a dir	tokenització small; pendent d'audició
+pa-049	Angelina Mas	analitzada-provisional-contextual	12	13	0.7421	a veure;aleshores;bueno;bé;clar;crec;diguem;evidentment;llavors;o sigui;perquè;vull dir	tokenització small; pendent d'audició
+pa-050	Àngels Mach	quarantena-asr	0	0			tokenització small; pendent d'audició
+pa-051	Josep Casal	analitzada-provisional-contextual	2	2	0.6572	crec;perquè	tokenització small; pendent d'audició
+pa-052	Rosa Vidal	analitzada-provisional-contextual	3	3	0.4297	bueno;clar;perquè	tokenització small; pendent d'audició
+pa-053	Pere Torres	analitzada-provisional-contextual	2	2	0.3455	llavors;perquè	tokenització small; pendent d'audició
+pa-054	Trini Mandicó Baró	analitzada-provisional-contextual	3	3	0.7099	bueno;llavors;perquè	tokenització small; pendent d'audició
+pa-055	Ramon Canut Bové	analitzada-provisional-automatica	7	7	0.7076	a nivell;a veure;evidentment;o sigui;perquè;reformeta;vull dir	tokenització small; pendent d'audició
+pa-056	Enric Dolsa Font	analitzada-provisional-automatica	10	10	0.7210	a veure;aleshores;clar;crec;doncs;evidentment;llavors;perquè;tirar endavant;vull dir	tokenització small; pendent d'audició
+pa-057	Gabriel Dallerès Codina	analitzada-provisional-automatica	6	6	0.8794	a nivell;bé;llavors;o sigui;perquè;tirar endavant	tokenització small; pendent d'audició
+pa-058	Miquel Aleix Areny	analitzada-provisional-automatica	4	4	0.8680	diguem;perquè;vull dir;és a dir	tokenització small; pendent d'audició
+pa-059	Nadia Aleix Tugas	analitzada-provisional-automatica	8	8	0.6494	a nivell;bueno;clar;evidentment;perquè;tirar endavant;vull dir;és a dir	tokenització small; pendent d'audició
+pa-060	Antoni Armengol Vila	analitzada-provisional-automatica	9	9	0.6236	a nivell;a veure;crec;de fet;doncs;llavors;perquè;vull dir;és a dir	tokenització small; pendent d'audició
+pa-061	Patrick Pérez	analitzada-provisional-automatica	9	10	0.5786	a nivell;a veure;bueno;bé;crec;evidentment;llavors;o sigui;vull dir	tokenització small; pendent d'audició
+pa-062	Jordi Marquet	analitzada-provisional-automatica	6	6	0.6969	bueno;crec;diguem;o sigui;perquè;és a dir	tokenització small; pendent d'audició
+pa-063	Roser Jordana	analitzada-provisional-automatica	10	10	0.6192	a nivell;a veure;bé;clar;crec;doncs;llavors;o sigui;perquè;vull dir	tokenització small; pendent d'audició
+pa-064	Daniel Armengol	analitzada-provisional-automatica	7	7	0.6509	a veure;bé;clar;crec;o sigui;perquè;és a dir	tokenització small; pendent d'audició
+pa-065	Mossèn Ramon de Canillo	analitzada-provisional-automatica	10	11	0.6866	a nivell;aleshores;bueno;bé;clar;crec;doncs;o sigui;perquè;és a dir	tokenització small; pendent d'audició
+pa-066	Carles Sasplugas	analitzada-provisional-automatica	8	8	0.5795	a nivell;bueno;bé;crec;de fet;evidentment;llavors;perquè	tokenització small; pendent d'audició

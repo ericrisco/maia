@@ -1,0 +1,56 @@
+forma	categoria	small	base	consens	model_localitzador	context_small	context_base	prob_min_segment_small	prob_mean_segment_small	prob_min_segment_base	prob_mean_segment_base	clip	inici_ms	final_ms	estat
+a nivell	discurs	0	0	no											ASR textual; atribució i audició pendents
+a veure	discurs	1	1	sí	small	i recomani l'editor a veure si creu que allò val la pena de publicar-se o no.	a veure si creu que llò va la pena de publicar-se o no.	0.4605	0.8871	0.1713	0.8090	lead-yt-044__02__a-veure.wav	1097520	1102560	ASR textual; atribució i audició pendents
+aleshores	discurs	0	0	no											ASR textual; atribució i audició pendents
+aviam	discurs	0	0	no											ASR textual; atribució i audició pendents
+bueno	discurs	8	4	sí	small	Bueno, que sàpigues que demà tinc un examen.	Bueno, que sàpigues que demà tinc un examen.	0.4879	0.8772	0.4802	0.8184	lead-yt-044__05__bueno.wav	65600	67080	ASR textual; atribució i audició pendents
+bé	discurs	26	23	sí	small	-Que li va anar molt bé per cert. -Sí.	Que li van a molt bé, per ser. Sí, va triunfa, va triunfa.	0.3719	0.7402	0.2694	0.7387	lead-yt-044__06__b.wav	57040	58680	ASR textual; atribució i audició pendents
+clar	discurs	16	17	sí	small	-El Marcos. -El Marcos, clar, fa poques setmanes.	Al marcos, clar. Sí, sí, sí, sí, sí, al marcos urban.	0.1735	0.8158	0.3457	0.7086	lead-yt-044__07__clar.wav	48800	52240	ASR textual; atribució i audició pendents
+de fet	discurs	1	1	sí	small	Perquè clar, jo treballo i de fet el escenari principal de les estrelles de l'Elite és aquí, és en Camp.	Perquè clar, jo altre ballo i de fet, a l'escenari principal de les estrelles de l'Elites aquí, és en Cam.	0.3459	0.8122	0.1662	0.6463	lead-yt-044__08__de-fet.wav	1193240	1199360	ASR textual; atribució i audició pendents
+diguem	discurs	1	0	no	small	Sí, una és una novel·la, és un conte llarg, diguem, que es va publicar perquè va guanyar un premi,		0.1185	0.8329			lead-yt-044__09__diguem.wav	413400	418360	ASR textual; atribució i audició pendents
+doncs	discurs	10	9	sí	small	Sí, sí, doncs jo...	Sí, sí, doncs jo.	0.8428	0.9414	0.4453	0.8873	lead-yt-044__10__doncs.wav	320680	322040	ASR textual; atribució i audició pendents
+evidentment	discurs	0	0	no											ASR textual; atribució i audició pendents
+llavors	discurs	27	11	sí	small	"Llavors, un premi que es diu ""Foment de la lectura"", per mi és un somni."	"I llavors, un prèmic, es diu ""foment de la lectura"", és per mi, és un somni."	0.3290	0.8776	0.3006	0.7161	lead-yt-044__12__llavors.wav	214120	218560	ASR textual; atribució i audició pendents
+no?	discurs	5	8	sí	small	Perquè és que si no m'ha arribat a advertir, m'hauria caigut. Entre la il·lusió que tenia i la emoció i que pesa, 30, no?, però 5 o 6 o 7 quilos sí.	-No? -No pot ser.	0.3088	0.8110	0.5863	0.8174	lead-yt-044__13__no.wav	123040	132280	ASR textual; atribució i audició pendents
+o sigui	discurs	0	0	no											ASR textual; atribució i audició pendents
+per tant	discurs	1	4	sí	small	Per tant, t'entén perfectament amb això que deius	I ja, per tant, m'està bé molt contenta, de fer l'entrevista.	0.4525	0.8038	0.0206	0.7227	lead-yt-044__15__per-tant.wav	191360	193720	ASR textual; atribució i audició pendents
+perquè	discurs	32	27	sí	small	"Jo em sentia culpable perquè dic ""ostres, estem allargant l'entrevista"	Jo em feia sentia culpable perquè dikostres estem allargant l'entrevista	0.2858	0.8127	0.0898	0.6794	lead-yt-044__16__perqu.wav	61120	64120	ASR textual; atribució i audició pendents
+vull dir	discurs	0	1	no	base		Vull dir que és difícil.			0.0293	0.3783	lead-yt-044__17__vull-dir.wav	848600	850320	ASR textual; atribució i audició pendents
+és a dir	discurs	7	5	sí	small	És a dir, el premi pesa com, no sé, 30 kilos.	És a dir, el prèmic pes, com, no sé, 30 kilos,	0.1993	0.8298	0.3323	0.7396	lead-yt-044__18__s-a-dir.wav	107360	110600	ASR textual; atribució i audició pendents
+Canillo	territorial	3	3	sí	small	Hi ha personatges furmos sent Ramon de Canillo,	La personatge es forma sense remont de Canillo,	0.1312	0.7614	0.0840	0.5498	lead-yt-044__19__canillo.wav	1355040	1357400	ASR textual; atribució i audició pendents
+Escaldes	territorial	1	1	sí	small	Jo participo en un club d'electora molt xulo, que fem a la paròquia d'escaldes,	que fem a la parròquia d'escaldes, que es diu Literart,	0.3202	0.8766	0.2212	0.6990	lead-yt-044__20__escaldes.wav	1391080	1394880	ASR textual; atribució i audició pendents
+Massana	territorial	0	0	no											ASR textual; atribució i audició pendents
+Ordino	territorial	0	0	no											ASR textual; atribució i audició pendents
+Sant Julià	territorial	0	0	no											ASR textual; atribució i audició pendents
+aiguats	territorial	0	0	no											ASR textual; atribució i audició pendents
+andorrana	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunal	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunals	territorial	0	0	no											ASR textual; atribució i audició pendents
+comuns	territorial	0	0	no											ASR textual; atribució i audició pendents
+comú	territorial	0	0	no											ASR textual; atribució i audició pendents
+copríncep	territorial	0	0	no											ASR textual; atribució i audició pendents
+coprínceps	territorial	0	0	no											ASR textual; atribució i audició pendents
+padrí	territorial	0	0	no											ASR textual; atribució i audició pendents
+parròquia	territorial	0	1	no	base		que fem a la parròquia d'escaldes, que es diu Literart,			0.2212	0.6990	lead-yt-044__33__parr-quia.wav	1393280	1396040	ASR textual; atribució i audició pendents
+santuari	territorial	0	0	no											ASR textual; atribució i audició pendents
+veguer	territorial	0	0	no											ASR textual; atribució i audició pendents
+escriptora	professió	1	0	no	small	Jo soc una escriptora aficionadeta, però soc una gran lectora.		0.3063	0.8089			lead-yt-044__36__escriptora.wav	205680	209920	ASR textual; atribució i audició pendents
+escriure	cultura	11	9	sí	small	Em va faltar temps, tant aviat va sortir el llibre per escriure,	Amb va faltar temps, t'han aviat va sortir el llibre per escriure.	0.3147	0.8713	0.1708	0.7498	lead-yt-044__37__escriure.wav	37960	41480	ASR textual; atribució i audició pendents
+escriptura	cultura	0	0	no											ASR textual; atribució i audició pendents
+contes	cultura	2	2	sí	small	perquè va ser allà on vaig començar a escriure contes i vaig començar a presentar concursos.	vaig començar a escriure contes i vaig començar a presentar concursos.	0.4283	0.9251	0.8682	0.9902	lead-yt-044__39__contes.wav	430560	435160	ASR textual; atribució i audició pendents
+novel·la	cultura	22	21	sí	small	Sí, una és una novel·la, és un conte llarg, diguem, que es va publicar perquè va guanyar un premi,	Sí, una és una novel·la, és un conteller que es va publicar,	0.1185	0.8329	0.6212	0.9567	lead-yt-044__40__novel-la.wav	413400	418360	ASR textual; atribució i audició pendents
+llibres	cultura	7	7	sí	small	Sí, és una fira de llibres que es fa, des que fa molts anys a organjar i jo me l'estimo molt a aquesta fira,	Sí, és una fira de llibres que es fa des de fa molts anys a organar,	0.1524	0.8462	0.8330	0.9831	lead-yt-044__41__llibres.wav	423320	430560	ASR textual; atribució i audició pendents
+lectura	educació	11	20	sí	small	"del premi carlemany del ""Foment de la lectura""."	Això sóc una escritora aficionadeta, però sóc una gran lectura.	0.1238	0.7342	0.2851	0.7352	lead-yt-044__42__lectura.wav	193720	196480	ASR textual; atribució i audició pendents
+literatura	cultura	0	0	no											ASR textual; atribució i audició pendents
+premi	cultura	20	9	sí	small	La vida és així. I la vida és aquest programa i a la vida ens visita Laura Casanovas Premi Carleman.	I endonava en un premi el millor goaljador d'Europa,	0.1526	0.8016	0.0548	0.7014	lead-yt-044__44__premi.wav	0	4480	ASR textual; atribució i audició pendents
+premis	cultura	0	0	no											ASR textual; atribució i audició pendents
+personatges	cultura	3	1	sí	small	Jo crec que s'emoa gairebé a tots els personatges que escric,	Agraeve't tots els personatges que es cric,	0.2884	0.8747	0.4571	0.8102	lead-yt-044__46__personatges.wav	712540	716540	ASR textual; atribució i audició pendents
+argument	cultura	0	0	no											ASR textual; atribució i audició pendents
+Andorra	toponim	9	1	sí	small	Llavors l'editorial escoll unes quatre dels originals que es presenten, després els passen a uns professors d'Andorra i després són nous, nois i noies d'Andorra entre 14 i 16 anys que se'n llegeixen durant uns mesos i són els nois i noies els que fan de jurat.	l'èxit és estar aquí passar avui per un conescola de Andorra i veurò que estan llegint el teu llibre	0.2689	0.8684	0.0934	0.6535	lead-yt-044__48__andorra.wav	229640	246640	ASR textual; atribució i audició pendents
+andorrà	gentilici	0	0	no											ASR textual; atribució i audició pendents
+Pirineus	toponim	2	1	sí	small	el premi de Pirineus de Narrativa, és un conte llarg i llavors va publicar...	perquè va guanyar un premi, el premi de Pirineus de Narrativa,	0.5026	0.8780	0.9597	0.9959	lead-yt-044__50__pirineus.wav	418360	422320	ASR textual; atribució i audició pendents
+editorial	cultura	6	4	sí	small	M'encantaria entrevistar-te, que sí que sí que sí, però l'editorial va dir...	M'encantaria entrevista, arta, que sí que sí, però l'editorial va dir...	0.5877	0.9016	0.1461	0.7610	lead-yt-044__51__editorial.wav	20320	24160	ASR textual; atribució i audició pendents
+infants	societat	0	0	no											ASR textual; atribució i audició pendents
+joves	societat	0	0	no											ASR textual; atribució i audició pendents
+família	societat	0	0	no											ASR textual; atribució i audició pendents
+català	sociolingüística	5	4	sí	small	"No tant com el noi que ha vingut abans, eh? Diu el Toni, dir que això serà ""ombre, ricombre, pobre"", perquè els escriptors i professors de català no..."	M'he de ser escritosi, professores de català.	0.2982	0.7666	0.6758	0.9224	lead-yt-044__55__catal.wav	547220	556780	ASR textual; atribució i audició pendents

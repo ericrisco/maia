@@ -1,0 +1,56 @@
+forma	categoria	small	base	consens	model_localitzador	context_small	context_base	prob_min_segment_small	prob_mean_segment_small	prob_min_segment_base	prob_mean_segment_base	clip	inici_ms	final_ms	estat
+a nivell	discurs	1	1	sí	small	Home, la situació de la dona...A nivell cultural.	-Home, la situació de l'on. -A nivell cultural.					lead-rtva-010__01__a-nivell.wav	2951360	2954080	ASR textual; atribució i audició pendents
+a veure	discurs	5	7	sí	small	A veure, aquests mestres volien que jo estudies,	Sí, sí. A veure, aquests mestres volien que jo estudies.					lead-rtva-010__02__a-veure.wav	575800	580480	ASR textual; atribució i audició pendents
+aleshores	discurs	0	0	no											ASR textual; atribució i audició pendents
+aviam	discurs	0	0	no											ASR textual; atribució i audició pendents
+bueno	discurs	15	14	sí	small	Bueno, els nens tenien una altra llibertat que no teníem les nenes.	Bueno, no ho sé, amb la forma de caràcter, no ho sé...					lead-rtva-010__05__bueno.wav	107960	113680	ASR textual; atribució i audició pendents
+bé	discurs	25	27	sí	small	Per bé?Ha canviat per bé.	Per bé. Ha canviat per bé.					lead-rtva-010__06__b.wav	115840	117840	ASR textual; atribució i audició pendents
+clar	discurs	3	3	sí	small	dintre del que hi havia en aquell moment, clar.	Però els meus pares no tenien clar,					lead-rtva-010__07__clar.wav	464960	469760	ASR textual; atribució i audició pendents
+de fet	discurs	1	1	sí	small	Perquè, de fet, tot el que es diu en anglès es pot ingatalar perfectament, no?	De fet, igualtat i igualtat al 100% mai no serà,					lead-rtva-010__08__de-fet.wav	1174360	1178280	ASR textual; atribució i audició pendents
+diguem	discurs	2	2	sí	small	o, diguem-ne, era una condició a banda d'indispensable	o, diguem-ne, era una condició abana d'indispensable					lead-rtva-010__09__diguem.wav	691000	696640	ASR textual; atribució i audició pendents
+doncs	discurs	10	9	sí	small	doncs sempre teníem cura dels germans més petits,	doncs sempre teníem cura dels germans més pedits,					lead-rtva-010__10__doncs.wav	101240	105400	ASR textual; atribució i audició pendents
+evidentment	discurs	14	12	sí	small	encara hi és, evidentment,	encara hi és, evidentment, en el passant de gens propietaris,					lead-rtva-010__11__evidentment.wav	321240	326120	ASR textual; atribució i audició pendents
+llavors	discurs	4	1	sí	small	ens hi dirigim en castellà, i llavors la conversa a vegades continua així, no?	Quan hi ha una petita, i llavors per Nadal també es feia pa coca, coca de Nadal,					lead-rtva-010__12__llavors.wav	1359480	1364520	ASR textual; atribució i audició pendents
+no?	discurs	36	24	sí	small	però veig que ni queda molta per fer encara, no?	És com hi ha una fotografia d'ordi, no?					lead-rtva-010__13__no.wav	56000	58480	ASR textual; atribució i audició pendents
+o sigui	discurs	4	3	sí	small	O sigui, no només gallines, eh? Vaques.	parlant d'una llengua plena de barbarismes, o sigui,					lead-rtva-010__14__o-sigui.wav	267880	270360	ASR textual; atribució i audició pendents
+per tant	discurs	2	3	sí	small	I, per tant, amb projectes que vostè vol portar a la realitat,	Aquí estem amb ganes de fer-la, solut i, per tant,					lead-rtva-010__15__per-tant.wav	69200	76720	ASR textual; atribució i audició pendents
+perquè	discurs	37	34	sí	small	Avui lluita perquè al principi d'Andorra	Avui he lluita perquè el principi d'endorria hi hagi un centre					lead-rtva-010__16__perqu.wav	33720	35960	ASR textual; atribució i audició pendents
+vull dir	discurs	5	5	sí	small	Vull dir, va ser una experiència pels nens	Bueno, jo no vull dir què, però la gent que em coneix,					lead-rtva-010__17__vull-dir.wav	971680	977240	ASR textual; atribució i audició pendents
+és a dir	discurs	0	0	no											ASR textual; atribució i audició pendents
+Canillo	territorial	0	0	no											ASR textual; atribució i audició pendents
+Escaldes	territorial	1	0	no	small	S'ha fet escaldes, han tornat a reviure'l,						lead-rtva-010__20__escaldes.wav	1031520	1035440	ASR textual; atribució i audició pendents
+Massana	territorial	0	0	no											ASR textual; atribució i audició pendents
+Ordino	territorial	19	10	sí	small	Sí.Cal Nicolau d'Ordino.	Cald-Nicolaú d'Ordino,					lead-rtva-010__22__ordino.wav	86520	88520	ASR textual; atribució i audició pendents
+Sant Julià	territorial	4	3	sí	small	I a Sant Julià va tenir una professora, també, no?	I a Sant Julià va tenir una professora, també, no?					lead-rtva-010__23__sant-juli.wav	486000	489440	ASR textual; atribució i audició pendents
+aiguats	territorial	0	0	no											ASR textual; atribució i audició pendents
+andorrana	territorial	1	0	no	small	de les xifres, d'Andorrana.						lead-rtva-010__25__andorrana.wav	1906160	1910600	ASR textual; atribució i audició pendents
+comunal	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunals	territorial	1	1	sí	small	i vaig tenir que anar amb les autoritats comunals,	I vaig tenir que anar amb les autoritats comunals i el mossèn,					lead-rtva-010__27__comunals.wav	2809280	2812880	ASR textual; atribució i audició pendents
+comuns	territorial	0	0	no											ASR textual; atribució i audició pendents
+comú	territorial	1	1	sí	small	això que es diu el cuc de dedicar-se al servei del bé comú,	El coquet de dedicar-se al servei del bé comú,					lead-rtva-010__29__com.wav	2843640	2850640	ASR textual; atribució i audició pendents
+copríncep	territorial	0	0	no											ASR textual; atribució i audició pendents
+coprínceps	territorial	0	0	no											ASR textual; atribució i audició pendents
+padrí	territorial	0	0	no											ASR textual; atribució i audició pendents
+parròquia	territorial	2	2	sí	small	que ens van deixar propietaris de la parròquia.	que ens van deixar a propietaris de la parròquia.					lead-rtva-010__33__parr-quia.wav	1869440	1873280	ASR textual; atribució i audició pendents
+santuari	territorial	0	0	no											ASR textual; atribució i audició pendents
+veguer	territorial	0	0	no											ASR textual; atribució i audició pendents
+macarulla	lexic local	4	0	no	small	Macarulla.						lead-rtva-010__36__macarulla.wav	1420880	1422880	ASR textual; atribució i audició pendents
+resclar	lexic pagesia	2	2	sí	small	el que ha de l'herba, resclar, recollir netejar els prats.	Però sobretot, a l'estiu, a l'època de l'herba, resclar.					lead-rtva-010__37__resclar.wav	200440	206800	ASR textual; atribució i audició pendents
+tronfès	lexic pagesia	1	0	no	small	I després algun dia sembra tronfès, un altre dia...						lead-rtva-010__38__tronf-s.wav	223560	229720	ASR textual; atribució i audició pendents
+pagesia	lexic local	2	0	no	small	hi hagi un centre d'interpretació de la pagesia						lead-rtva-010__39__pagesia.wav	36040	39240	ASR textual; atribució i audició pendents
+ramaderia	lexic local	1	1	sí	small	Doncs era una casa que, a part de dedicar-se a l'agricultura i a la ramaderia,	Era una casa que, a part de dedicar-se a l'agricultura i a la ramaderia,					lead-rtva-010__40__ramaderia.wav	137600	143120	ASR textual; atribució i audició pendents
+xarcuteria	lexic local	0	0	no											ASR textual; atribució i audició pendents
+matança	lexic pagesia	3	1	sí	small	I com que ja portava un vagatge de la matança del port d'Andorra,	dominava la tècnica de la matança del porc i tot,					lead-rtva-010__42__matan-a.wav	339360	344400	ASR textual; atribució i audició pendents
+Andorra	toponim	18	7	sí	small	Avui lluita perquè al principi d'Andorra	I com que ja portava un vegatge de la matància del port d'Andorra,					lead-rtva-010__43__andorra.wav	33720	35960	ASR textual; atribució i audició pendents
+andorrà	gentilici	0	0	no											ASR textual; atribució i audició pendents
+prats	pagesia	1	1	sí	small	el que ha de l'herba, resclar, recollir netejar els prats.	Reculli netejar els prats.					lead-rtva-010__45__prats.wav	200440	206800	ASR textual; atribució i audició pendents
+filigranes	metàfora	1	1	sí	small	però també tenim molta gent que fa filigranes per arribar a final de mes.	però també tenim molta gent que fa filigranes					lead-rtva-010__46__filigranes.wav	3050320	3057320	ASR textual; atribució i audició pendents
+a l’estiu	temps	0	0	no											ASR textual; atribució i audició pendents
+a l'estiu	temps	3	1	sí	small	Poc, però sobretot a l'estiu...	Però sobretot, a l'estiu, a l'època de l'herba, resclar.					lead-rtva-010__48__a-l-estiu.wav	185160	189720	ASR textual; atribució i audició pendents
+gent gran	sociolingüística	6	4	sí	small	i perquè la gent gran ho copi al lloc que li correspon	i perquè la gent gran ocupi en lloc que li correspon en una societat					lead-rtva-010__49__gent-gran.wav	39320	42520	ASR textual; atribució i audició pendents
+parella lingüística	sociolingüística	1	1	sí	small	tinc una parella lingüística,	Tinc una parella lingüística i fem esforços per recuperar,					lead-rtva-010__50__parella-ling-stica.wav	1205520	1207520	ASR textual; atribució i audició pendents
+escola andorrana	educació	0	0	no											ASR textual; atribució i audició pendents
+barbarismes	sociolingüística	2	2	sí	small	Parlen una llengua plena de barbarismes.	parlant d'una llengua plena de barbarismes, o sigui,					lead-rtva-010__52__barbarismes.wav	1374680	1377720	ASR textual; atribució i audició pendents
+cuc	metàfora	1	0	no	small	això que es diu el cuc de dedicar-se al servei del bé comú,						lead-rtva-010__53__cuc.wav	2843640	2850640	ASR textual; atribució i audició pendents
+cònsul	institucions	3	0	no	small	També va ser cònsul...						lead-rtva-010__54__c-nsul.wav	2773040	2775640	ASR textual; atribució i audició pendents
+conseller general	institucions	3	2	sí	small	Ara en veurem una altra de fotografia del seu pare ja de conseller general.	Ah, sí? De conseller general.					lead-rtva-010__55__conseller-general.wav	2726600	2731520	ASR textual; atribució i audició pendents

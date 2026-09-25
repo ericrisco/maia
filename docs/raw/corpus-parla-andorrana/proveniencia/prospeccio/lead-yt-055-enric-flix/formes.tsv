@@ -1,0 +1,53 @@
+forma	categoria	small	base	consens	model_localitzador	context_small	context_base	prob_min_segment_small	prob_mean_segment_small	prob_min_segment_base	prob_mean_segment_base	clip	inici_ms	final_ms	estat
+a nivell	discurs	0	0	no											ASR textual; atribució i audició pendents
+a veure	discurs	6	5	sí	small	-Sí, sí. -Vull dir, a veure, José Magallito.	A veure, sí, me'n...	0.1548	0.5728	0.1911	0.5176	lead-yt-047__02__a-veure.wav	1150560	1152160	ASR textual; atribució i audició pendents
+aleshores	discurs	2	1	sí	small	I aleshores vam pujar junts,	Aleshores, són molt menys materialistes que nosaltres.	0.4224	0.7913	0.3572	0.7190	lead-yt-047__03__aleshores.wav	292160	294480	ASR textual; atribució i audició pendents
+aviam	discurs	11	9	sí	small	Aviam.	Aviam, no tot és bo, eh? No, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no,	0.5149	0.7133	0.0988	0.9093	lead-yt-047__04__aviam.wav	43320	44320	ASR textual; atribució i audició pendents
+bueno	discurs	24	25	sí	small	veniu pels impostos, bueno, venim per moltes coses.	"diuen ""verió pel simpòstus"", bueno, venim pel moltes coses."	0.2556	0.8078	0.2006	0.6585	lead-yt-047__05__bueno.wav	39320	42320	ASR textual; atribució i audició pendents
+bé	discurs	16	13	sí	small	pels valors, per l'idioma, tot bé, per moltes coses.	Pals valors, per l'idioma, per bé, per moltes coses.	0.1152	0.7629	0.1507	0.7010	lead-yt-047__06__b.wav	55320	62320	ASR textual; atribució i audició pendents
+clar	discurs	37	29	sí	small	Ah, no, no, clar. Passa el document.	Ah, no, no, clar. Passa el document.	0.4806	0.8328	0.4932	0.7820	lead-yt-047__07__clar.wav	215000	217000	ASR textual; atribució i audició pendents
+de fet	discurs	0	0	no											ASR textual; atribució i audició pendents
+diguem	discurs	0	0	no											ASR textual; atribució i audició pendents
+doncs	discurs	26	19	sí	small	doncs jo parlo de que em fa poc i ja no sé digue-ho més.	doncs jo parlo de que em fa poit i ja no s'hi digo más.	0.2041	0.8569	0.2778	0.8441	lead-yt-047__10__doncs.wav	13880	16480	ASR textual; atribució i audició pendents
+evidentment	discurs	8	8	sí	small	evidentment les nostres vides van separar.	evidentment, les nostres vides van separar.	0.5809	0.8645	0.3261	0.7781	lead-yt-047__11__evidentment.wav	294560	296680	ASR textual; atribució i audició pendents
+llavors	discurs	11	5	sí	small	I llavors, bueno, hi ha un vincle molt especial.	Llavors ara tot i que visc aquí, he muntat una empresa a Venezuela,	0.2684	0.7679	0.1768	0.6341	lead-yt-047__12__llavors.wav	320680	324680	ASR textual; atribució i audició pendents
+no?	discurs	19	17	sí	small	Va ser riscà molt, no?, perquè molta gent deia...	quan s'opacava les piles del caset, no?	0.1548	0.6773	0.1941	0.7326	lead-yt-047__13__no.wav	441520	444160	ASR textual; atribució i audició pendents
+o sigui	discurs	0	1	no	base		o del que vulguin explicar del que passa, o sigui una televisió nacional pública,			0.2089	0.8156	lead-yt-047__14__o-sigui.wav	1871680	1875680	ASR textual; atribució i audició pendents
+per tant	discurs	7	8	sí	small	Sí, sí, sí. I, per tant, doncs, es tracta de...	I per tant, doncs es tracta de...	0.4244	0.8346	0.3614	0.7943	lead-yt-047__15__per-tant.wav	333240	336680	ASR textual; atribució i audició pendents
+perquè	discurs	32	22	sí	small	Sí, perquè aquesta és una altra.	Sí, perquè aquesta és una altra, eh, com rep, endorre,	0.3059	0.7516	0.2365	0.6363	lead-yt-047__16__perqu.wav	31320	33320	ASR textual; atribució i audició pendents
+vull dir	discurs	2	1	sí	small	No, però el que et vull dir és que Caracas és una ciutat que hi ha de tot.	-No, però el que vull dir és que ara, que és una ciutat que allà de tot, no falta res.	0.2643	0.8479	0.1102	0.6462	lead-yt-047__17__vull-dir.wav	576720	580600	ASR textual; atribució i audició pendents
+és a dir	discurs	21	13	sí	small	Doncs és així, és a dir, nosaltres tota la vida lluitem i lluitem i mai entenem prou i volem més,	Doncs és així, és a dir,	0.3962	0.8571	0.3485	0.7286	lead-yt-047__18__s-a-dir.wav	606600	613400	ASR textual; atribució i audició pendents
+Canillo	territorial	0	0	no											ASR textual; atribució i audició pendents
+Escaldes	territorial	0	0	no											ASR textual; atribució i audició pendents
+Massana	territorial	0	0	no											ASR textual; atribució i audició pendents
+Ordino	territorial	1	1	sí	small	Ara en tinc una primària a Criscaldes, la segona a Secundària a Ordino	Ara en tinc una primària fiscal·les, la segona secundària ordino.	0.1520	0.7559	0.0805	0.7391	lead-yt-047__22__ordino.wav	396040	401520	ASR textual; atribució i audició pendents
+Sant Julià	territorial	1	0	no	small	Jo, per sort, els he vist a Sant Julià Gratis.		0.1759	0.7360			lead-yt-047__23__sant-juli.wav	1729640	1732040	ASR textual; atribució i audició pendents
+aiguats	territorial	0	0	no											ASR textual; atribució i audició pendents
+andorrana	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunal	territorial	0	0	no											ASR textual; atribució i audició pendents
+comunals	territorial	0	0	no											ASR textual; atribució i audició pendents
+comuns	territorial	0	0	no											ASR textual; atribució i audició pendents
+comú	territorial	0	0	no											ASR textual; atribució i audició pendents
+copríncep	territorial	0	0	no											ASR textual; atribució i audició pendents
+coprínceps	territorial	0	0	no											ASR textual; atribució i audició pendents
+padrí	territorial	0	0	no											ASR textual; atribució i audició pendents
+parròquia	territorial	0	0	no											ASR textual; atribució i audició pendents
+santuari	territorial	0	0	no											ASR textual; atribució i audició pendents
+veguer	territorial	0	0	no											ASR textual; atribució i audició pendents
+empresari	economia	1	1	sí	small	Enric Fliix, empresari, què tal? Bona nit, Enric.	Enrique Fliix, empresari. Què tal, bona nit, Enrique?	0.2057	0.8157	0.1385	0.6363	lead-yt-047__36__empresari.wav	0	3560	ASR textual; atribució i audició pendents
+empresa	economia	2	2	sí	small	He muntat una empresa a Venezuela, amb aquest cas, a Caracas,	Llavors ara tot i que visc aquí, he muntat una empresa a Venezuela,	0.2805	0.7543	0.1768	0.6341	lead-yt-047__37__empresa.wav	479680	482640	ASR textual; atribució i audició pendents
+negoci	economia	0	0	no											ASR textual; atribució i audició pendents
+emprenedor	economia	0	0	no											ASR textual; atribució i audició pendents
+emprenedoria	economia	0	0	no											ASR textual; atribució i audició pendents
+televisió	cultura	4	5	sí	small	Tot el que són la televisió,	Tot el que són la televisió,	0.6232	0.8799	0.7200	0.8775	lead-yt-047__41__televisi.wav	1744720	1747040	ASR textual; atribució i audició pendents
+tele	cultura	20	18	sí	small	Jo vaig treballar durant molts anys a la tele,	Jo vaig treballar durant molts anys a la tele,	0.4533	0.8915	0.3246	0.8082	lead-yt-047__42__tele.wav	2075720	2078160	ASR textual; atribució i audició pendents
+TDT	cultura	6	1	sí	small	I per això fem això per la TDT, de tota la vida, no.	Però la TDT, que és l'any 2000, no és de la catapu,	0.3037	0.8141	0.3046	0.7713	lead-yt-047__43__tdt.wav	2355320	2358480	ASR textual; atribució i audició pendents
+programa	cultura	2	3	sí	small	Un dia veurem aquest programa gravat al 2023...	Nosaltres tenim aquest programa de culo, veo, culo, quiero.	0.3195	0.8068	0.2031	0.6805	lead-yt-047__44__programa.wav	2010520	2013960	ASR textual; atribució i audició pendents
+esport	esport	2	0	no	small	quan cobrir l'esport era una altra cosa, jo me'n recordo.		0.1566	0.8833			lead-yt-047__45__esport.wav	2106680	2109600	ASR textual; atribució i audició pendents
+Barcelona	toponim	4	4	sí	small	Doncs mira, per internet, i ell està a Barcelona,	Jo vaig estar al port de Barcelona o a la zona?	0.2199	0.7394	0.1473	0.7429	lead-yt-047__46__barcelona.wav	179040	181880	ASR textual; atribució i audició pendents
+Andorra	toponim	13	6	sí	small	parades a l'estranger, després van atarrissar aquí a Andorra.	"no és informació, que el 90% de gent del país dirà ""Europa, andorra té que tenim 18.000 anys, què ens han de canviar ara si estem aquí?"""	0.2442	0.7754	0.1909	0.7747	lead-yt-047__47__andorra.wav	302880	306240	ASR textual; atribució i audició pendents
+andorrà	gentilici	0	0	no											ASR textual; atribució i audició pendents
+família	societat	0	0	no											ASR textual; atribució i audició pendents
+treball	societat	0	0	no											ASR textual; atribució i audició pendents
+internet	tecnologia	9	9	sí	small	Nosaltres, de jovenets, ni wifi, ni internet, ni mòbils, ni res.	Nosaltres, de jovenets, ni wifi, ni internet, ni mòbils, ni res,	0.4463	0.8312	0.1277	0.7105	lead-yt-047__51__internet.wav	132640	139880	ASR textual; atribució i audició pendents
+mòbil	tecnologia	3	1	sí	small	i el primer mòbil el va tenir el 95.	Clar, és que, quan anàtes, tu fes memòria i el primer mòbil,	0.5087	0.8329	0.1624	0.7199	lead-yt-047__52__m-bil.wav	1967480	1970880	ASR textual; atribució i audició pendents

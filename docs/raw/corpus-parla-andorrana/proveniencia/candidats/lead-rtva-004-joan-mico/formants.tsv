@@ -1,0 +1,13 @@
+forma	segment	inici_forma_s	final_forma_s	clip	inici_clip_s	final_clip_s	small	base	prioritat	centre_rel_s	f0_hz	f1_hz	f2_hz	f3_hz	estat_mesura
+bueno	12	75.240	81.120	clips/joan-mico__bueno__75.24.wav	74.240	82.120	12	16	A-consens-ASR	3.940	157.89	381.10	1741.56	2574.70	mesura instrumental; pendent d’audició
+bé	30	154.520	160.200	clips/joan-mico__b__154.52.wav	153.520	161.200	12	10	A-consens-ASR	3.840	129.74	177.63	1276.87	2474.22	mesura instrumental; pendent d’audició
+clar	41	205.880	208.520	clips/joan-mico__clar__205.88.wav	204.880	209.520	19	23	A-consens-ASR	2.320	124.84	286.53	2316.79	2321.52	mesura instrumental; pendent d’audició
+de fet	166	766.480	772.080	clips/joan-mico__de-fet__766.48.wav	765.480	773.080	3	2	A-consens-ASR	3.800		777.27	1907.04	2491.68	mesura instrumental; pendent d’audició
+doncs	16	92.280	97.240	clips/joan-mico__doncs__92.28.wav	91.280	98.240	17	3	A-consens-ASR	3.480	127.01	467.75	1739.28	2387.85	mesura instrumental; pendent d’audició
+llavors	50	239.480	243.480	clips/joan-mico__llavors__239.48.wav	238.480	244.480	7	4	A-consens-ASR	3.000	212.47	296.77	2311.55	2966.74	mesura instrumental; pendent d’audició
+no?	10	64.240	70.240	clips/joan-mico__no__64.24.wav	63.240	71.240	36	40	A-consens-ASR	4.000	125.26	235.26	774.69	2269.78	mesura instrumental; pendent d’audició
+o sigui	76	379.880	386.320	clips/joan-mico__o-sigui__379.88.wav	378.880	387.320	5	6	A-consens-ASR	4.220	144.01	222.77	1263.44	2434.89	mesura instrumental; pendent d’audició
+per tant	5	42.280	48.640	clips/joan-mico__per-tant__42.28.wav	41.280	49.640	2	1	A-consens-ASR	4.180	103.35	749.82	1327.62	3012.57	mesura instrumental; pendent d’audició
+perquè	15	87.000	92.200	clips/joan-mico__perqu__87.00.wav	86.000	93.200	30	27	A-consens-ASR	3.600		327.88	1544.32	2711.40	mesura instrumental; pendent d’audició
+vull dir	9	60.840	64.240	clips/joan-mico__vull-dir__60.84.wav	59.840	65.240	32	16	A-consens-ASR	2.700	144.46	430.22	871.20	2191.75	mesura instrumental; pendent d’audició
+comuns	216	995.920	1001.080	clips/joan-mico__comuns__995.92.wav	994.920	1002.080	1	1	A-consens-ASR	3.580	116.89	474.32	1098.27	2404.01	mesura instrumental; pendent d’audició

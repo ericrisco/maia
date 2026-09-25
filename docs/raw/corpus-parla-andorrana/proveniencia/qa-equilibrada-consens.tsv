@@ -1,0 +1,129 @@
+ordre	id_persona	forma	clip	prob_small	text_small	text_base	forma_en_base	categoria	decisio_audicio
+1	pa-001	evidentment	clips/pa-001__evidentment__1067.69.wav	0.8911	evidentment	en Espanya Mècubuca, evidentment, però no...	sí	A-doble-coincidencia	
+2	pa-002	reformeta	clips/pa-002__reformeta__12.25.wav	0.3873	reformeta	Però no que s'hagués fet que s'havia de reformar-te.	no	B-small-only	
+3	pa-002	evidentment	clips/pa-002__evidentment__205.25.wav	0.9889	evidentment	Però evidentment no hi havia d'altra forma.	sí	A-doble-coincidencia	
+4	pa-003	ensenyança	clips/pa-003__ensenyan-a__279.69.wav	0.6760	ensenyança	que s'integre amb una primera enseñanza de sistemes educatius estrangers.	no	B-small-only	
+5	pa-003	tirar endavant	clips/pa-003__tirar-endavant__361.93.wav	0.9453	tirar endavant	"per crear i tirar endavant un sistema educatiu propi.
+ És a dir..."	sí	A-doble-coincidencia	
+6	pa-004	evidentment	clips/pa-004__evidentment__522.93.wav	0.9676	evidentment	"i doncs prohibiré aigua suficient, evidentment,
+ i el que li va dir."	sí	A-doble-coincidencia	
+7	pa-005	o sigui	clips/pa-005__o-sigui__373.33.wav	0.8872	O sigui	n'ha de dir un format xar i dues fogaixes de pas, així que hi ha poques bromes.	no	B-small-only	
+8	pa-006	de fet	clips/pa-006__de-fet__285.25.wav	0.8407	de fet	de plat és que de fet només ja que una sola peça amui men i una sola peça	sí	A-doble-coincidencia	
+9	pa-006	aleshores	clips/pa-006__aleshores__513.25.wav	0.5916	Aleshores	Aleshores era molt fàcil a agafar i aprofitar la força de l'aigua a la ixant per l'entrada.	sí	A-doble-coincidencia	
+10	pa-007	a veure	clips/pa-007__a-veure__89.25.wav	0.9934	a veure	"que he tingut a veure amb la història del nostre país
+ i que vaig publicar a un dels meus llibres que tinc per aquí."	sí	A-doble-coincidencia	
+11	pa-007	diguem	clips/pa-007__diguem__585.25.wav	0.7294	diguem	"per la funtera, diguem que es va generar un debat força en ces a les corses penones.
+ I aquí..."	sí	A-doble-coincidencia	
+12	pa-008	a veure	clips/pa-008__a-veure__668.25.wav	0.9915	a veure	tot això no té res a veure amb el que 3 anys abans	sí	A-doble-coincidencia	
+13	pa-008	aleshores	clips/pa-008__aleshores__1315.25.wav	0.6411	Aleshores	que feien camp. Aleshores va propiciar aquest retrobament, es va constituir	sí	A-doble-coincidencia	
+14	pa-009	bé	clips/pa-009__b__557.25.wav	0.9969	bé	de corades i són campanes que sonen molt bé.	sí	A-doble-coincidencia	
+15	pa-009	evidentment	clips/pa-009__evidentment__947.25.wav	0.9520	evidentment	Lora de penia, evidentment, si era l'estiu o era l'hivern, tancaven el dia.	sí	A-doble-coincidencia	
+16	pa-010	clar	clips/pa-010__clar__334.85.wav	0.9866	clar	que ho són tan. Us arcojaré un parell d'exemplos i ho veureu més clar.	sí	A-doble-coincidencia	
+17	pa-011	bé	clips/pa-011__b__185.57.wav	0.9983	bé	de la casa es va molt bé.	sí	A-doble-coincidencia	
+18	pa-012	perquè	clips/pa-012__perqu__369.25.wav	0.6158	perquè	per que la gent és recording d'aquesta setmana.	no	B-small-only	
+19	pa-013	bé	clips/pa-013__b__196.65.wav	0.9863	bé	que em sofre i que la ve per la pell, pel sistema digestiu, i també té altres propietats.	no	B-small-only	
+20	pa-013	és a dir	clips/pa-013__s-a-dir__579.17.wav	0.6284	És a dir	és de dir, l'arquitectura de granites dona en un moment de reconversió gradual del nostre país que passa de ser	no	B-small-only	
+21	pa-014	o sigui	clips/pa-014__o-sigui__658.45.wav	0.6862	o sigui	"És a dir, els homes amb baratina, o sigui, amb pantolons de barit, nergres, faixa i baratina vermella,
+ que missa blanca, mitjons blancs, i vigatants."	sí	A-doble-coincidencia	
+22	pa-014	aviam	clips/pa-014__aviam__875.45.wav	0.1944	aviam	"d'una cosa, i van dir, escolteu, ho havíem.
+ Imaginau-se que les malades apareix.
+ Què passa amb el contrapass?
+ Estàs deixant el de ballar?"	no	B-small-only	
+23	pa-015	doncs	clips/pa-015__doncs__83.25.wav	0.8466	doncs	que és important, doncs és important per una senzilla rau.	sí	A-doble-coincidencia	
+24	pa-015	llavors	clips/pa-015__llavors__197.25.wav	0.8028	llavors	d'edat i abans a part de tindre a la G3	no	B-small-only	
+25	pa-016	bé	clips/pa-016__b__170.05.wav	0.9990	bé	"És una disolució, mentre ens encarà amb molta responsabilitat de diòstres,
+ és que bon de febre, amb de..."	no	B-small-only	
+26	pa-016	clar	clips/pa-016__clar__175.69.wav	0.9439	clar	"I hem de tenir un objectiu molt clar i hem d'assolir.
+ Al fet de que..."	sí	A-doble-coincidencia	
+27	pa-017	clar	clips/pa-017__clar__34.45.wav	0.9757	clar	Nosaltres teníem clar que havíem de fer el pas,	sí	A-doble-coincidencia	
+28	pa-017	doncs	clips/pa-017__doncs__459.25.wav	0.9049	doncs	I perfecte, doncs a partir d'aquí, sempre ja que duté desenvolupar-te, és	sí	A-doble-coincidencia	
+29	pa-018	crec	clips/pa-018__crec__7.49.wav	0.9969	crec	I després, jo crec que el problema que hi ha dels 78 és de què...	sí	A-doble-coincidencia	
+30	pa-018	perquè	clips/pa-018__perqu__91.09.wav	0.9663	perquè	i resoria perquè no podíem acabar mai de decidir que una mica.	sí	A-doble-coincidencia	
+31	pa-019	a nivell	clips/pa-019__a-nivell__122.25.wav	0.9056	a nivell	amb la Constitució, som, quan se vol té vegades que entres a nivell de comissions.	sí	A-doble-coincidencia	
+32	pa-019	llavors	clips/pa-019__llavors__422.25.wav	0.9040	llavors	perquè ens donava eines per fer més coses als que podíem fer fins allà.	no	B-small-only	
+33	pa-020	aviam	clips/pa-020__aviam__252.21.wav	0.1339	aviam	I jo m'han resultat que clar, jo sóc, aviam, puc ser va futbol.	sí	A-doble-coincidencia	
+34	pa-021	crec	clips/pa-021__crec__115.53.wav	0.9550	crec	"Jo crec que el fet de què m'alconseguin anterior
+ va ser el que va passar."	sí	A-doble-coincidencia	
+35	pa-021	vull dir	clips/pa-021__vull-dir__314.29.wav	0.7440	vull dir	I nosaltres, malgrat que no vull dir de que no vulguessim de cap manera, no?	sí	A-doble-coincidencia	
+36	pa-022	clar	clips/pa-022__clar__107.73.wav	0.9951	clar	"L'objectiu tenia molt clar que t'he jugat molt.
+ Perquè si no se'n volia."	sí	A-doble-coincidencia	
+37	pa-022	reformeta	clips/pa-022__reformeta__125.53.wav	0.6595	reformeta	de la reformeta, de no sé què, que no s'ha acabat.	sí	A-doble-coincidencia	
+38	pa-023	a nivell	clips/pa-023__a-nivell__418.57.wav	0.8081	a nivell	i després també aniré de agricultura.	no	B-small-only	
+39	pa-024	crec	clips/pa-024__crec__368.01.wav	0.9944	crec	Jo crec que los carribes, però no...	sí	A-doble-coincidencia	
+40	pa-025	aleshores	clips/pa-025__aleshores__361.93.wav	0.7026	aleshores	I a les hores ens es tornen més primirats.	no	B-small-only	
+41	pa-025	diguem	clips/pa-025__diguem__500.89.wav	0.6352	diguem	i de competències que hem francesen, diguem, regalien, és la vida.	sí	A-doble-coincidencia	
+42	pa-026	reformeta	clips/pa-026__reformeta__138.61.wav	0.9543	reformeta	ho vam aconseguir. La diferència és que la reformeta tractàvem missatge.	sí	A-doble-coincidencia	
+43	pa-027	és a dir	clips/pa-027__s-a-dir__185.61.wav	0.6623	és a dir	de grup, és a dir, jo amb els que havíem portat a l'acció a fer amb reunió de grup.	sí	A-doble-coincidencia	
+44	pa-028	doncs	clips/pa-028__doncs__329.33.wav	0.8421	Doncs	Doncs conyes que, realment, en valora que t'acosti tu, si ho trobava...	sí	A-doble-coincidencia	
+45	pa-029	tirar endavant	clips/pa-029__tirar-endavant__56.73.wav	0.8813	tirar endavant	i que veiem també d'autodisoldre per a l'incapacitat de poder tirar endavant.	sí	A-doble-coincidencia	
+46	pa-029	a nivell	clips/pa-029__a-nivell__417.09.wav	0.9070	a nivell	"i xarquatres, o que els altres volien als quadren i veig nacional,
+ i l'aconseguiria."	no	B-small-only	
+47	pa-030	tirar endavant	clips/pa-030__tirar-endavant__185.61.wav	0.8976	tirar endavant	"Aquestem d'acord, vam tirar endavant.
+ Es va fer la conseqüència constituent."	sí	A-doble-coincidencia	
+48	pa-030	vull dir	clips/pa-030__vull-dir__842.69.wav	0.9049	vull dir	Bé, vull dir també perquè cal recordar-ho.	sí	A-doble-coincidencia	
+49	pa-031	de fet	clips/pa-031__de-fet__9.93.wav	0.8205	de fet	i de fet, no em va portar d'ingú, jo em vaig portar.	sí	A-doble-coincidencia	
+50	pa-031	tirar endavant	clips/pa-031__tirar-endavant__146.09.wav	0.8395	tirar endavant	de la manera que fos i que s'havia de dir en davant de la manera que fos.	no	B-small-only	
+51	pa-032	bueno	clips/pa-032__bueno__44.73.wav	0.8330	bueno	I bueno, l'últim bapsig que quatre que ens ho vam apuntar i van dir que era que fàcil.	sí	A-doble-coincidencia	
+52	pa-032	aleshores	clips/pa-032__aleshores__79.09.wav	0.2226	aleshores	li he llistat, i aleshores els dos oponents es van posar de cort al moment, al moment.	sí	A-doble-coincidencia	
+53	pa-033	diguem	clips/pa-033__diguem__49.01.wav	0.7151	diguem	Doncs normalment es revie amb interès.	no	B-small-only	
+54	pa-033	de fet	clips/pa-033__de-fet__249.69.wav	0.9628	de fet	Ucabzi de tot de fet, eh?	sí	A-doble-coincidencia	
+55	pa-034	a veure	clips/pa-034__a-veure__94.05.wav	0.9578	a veure	"que la vaig fer a la vació.
+ Podíem venir a veure, perquè clar, ja s'havia de començar a preparar,
+ avui dels candidats."	sí	A-doble-coincidencia	
+56	pa-034	diguem	clips/pa-034__diguem__504.45.wav	0.7193	diguem	de la corentena, diguem, no?	sí	A-doble-coincidencia	
+57	pa-035	doncs	clips/pa-035__doncs__195.49.wav	0.9025	doncs	i jo vaig participar d'un amic, una mica.	no	B-small-only	
+58	pa-036	evidentment	clips/pa-036__evidentment__202.85.wav	0.9393	evidentment	va costar fer aquest pas important, després evidentment entre la legislatura crítica o la més forte.	sí	A-doble-coincidencia	
+59	pa-036	a nivell	clips/pa-036__a-nivell__386.45.wav	0.8938	a nivell	"Tots i que les reglacions entrenganm i altres perroquies
+ no eren bones a nivell electoral, no s'havia perdut."	sí	A-doble-coincidencia	
+60	pa-037	bueno	clips/pa-037__bueno__105.29.wav	0.6636	bueno	d'acompanyar-se, d'acompanyar-se.	no	B-small-only	
+61	pa-037	bé	clips/pa-037__b__105.29.wav	0.9723	bé	d'acompanyar-se, d'acompanyar-se.	no	B-small-only	
+62	pa-038	vull dir	clips/pa-038__vull-dir__1576.57.wav	0.9837	vull dir	Ja et dic els agents exteriors, sigui ja no vull dir quins, però...	sí	A-doble-coincidencia	
+63	pa-038	reformeta	clips/pa-038__reformeta__1821.69.wav	0.9688	reformeta	que ho vulguis, s'agressen a contentar-te amb una reformeta.	sí	A-doble-coincidencia	
+64	pa-039	bé	clips/pa-039__b__27.77.wav	0.9914	bé	fins a la prostitució no hi estava.	no	B-small-only	
+65	pa-040	de fet	clips/pa-040__de-fet__70.17.wav	0.9576	de fet	que ho trobava, i de fet el meu pare el portarés sempre sobre què hi pensem per el portar.	sí	A-doble-coincidencia	
+66	pa-041	vull dir	clips/pa-041__vull-dir__264.25.wav	0.9947	vull dir	"No vull dir potser de discursió,
+ però potser no s'aclava d'entendre bé."	sí	A-doble-coincidencia	
+67	pa-041	ensenyança	clips/pa-041__ensenyan-a__523.25.wav	0.7954	ensenyança	I aquest material pedagogic que tingués continuïtat també de cara a tota la primera ensenyança.	sí	A-doble-coincidencia	
+68	pa-042	perquè	clips/pa-042__perqu__29.13.wav	0.7110	perquè	A més que res, perquè tenia els nens petits, crec que...	sí	A-doble-coincidencia	
+69	pa-043	crec	clips/pa-043__crec__102.25.wav	0.9942	crec	"que està a dir.
+ Per mi l'escola Endor Rana és que es veu una identitat, no, jo crec.
+ És a dir, tots els albertats."	sí	A-doble-coincidencia	
+70	pa-045	evidentment	clips/pa-045__evidentment__290.13.wav	0.9812	evidentment	"que tenen senyar-ho, evidentment, amb una sèrie de condicions molt clares,
+ perquè hi ha nombre de persones."	sí	A-doble-coincidencia	
+71	pa-045	clar	clips/pa-045__clar__399.85.wav	0.9997	clar	No ho he fet, no ho he fet, no ho he fet, no ho he fet, no ho he fet.	no	B-small-only	
+72	pa-046	és a dir	clips/pa-046__s-a-dir__135.61.wav	0.8034	és a dir	Som filers, doncs es veiem el dia a dia i hem espanyol.	no	B-small-only	
+73	pa-046	diguem	clips/pa-046__diguem__626.01.wav	0.6911	diguem	de les patates o les trumfes que diguem a canellos.	sí	A-doble-coincidencia	
+74	pa-048	crec	clips/pa-048__crec__110.97.wav	0.9866	crec	Si hi ha cel, jo no crec ni el meu infern, ni el purgatori, ni el cel.	sí	A-doble-coincidencia	
+75	pa-048	a nivell	clips/pa-048__a-nivell__435.77.wav	0.8845	a nivell	No, perquè normalment quan t'imbitan a nivell oficial t'imbitan a tal...	sí	A-doble-coincidencia	
+76	pa-049	llavors	clips/pa-049__llavors__230.45.wav	0.9191	llavors	"I aquí en Dorra va vindre llabons el delegat de prensa de la casa blanca.
+ No sé si va ser arreu de la càrrecament de aquesta càrrec."	no	B-small-only	
+77	pa-049	a veure	clips/pa-049__a-veure__244.85.wav	0.9962	a veure	"I ja no ens ho pot dir.
+ Ja no ens ho pot dir.
+ Però va anar a tablar a visitar-te amb el meu pare,
+ amb el meu pare, els van a veure després o aixec."	sí	A-doble-coincidencia	
+78	pa-051	crec	clips/pa-051__crec__208.57.wav	0.9924	crec	No crec que arribi amb totes les húuelles de canilla, seny.	sí	A-doble-coincidencia	
+79	pa-052	bueno	clips/pa-052__bueno__41.97.wav	0.7880	bueno	i heu erro de dins de germans.	no	B-small-only	
+80	pa-053	perquè	clips/pa-053__perqu__113.93.wav	0.6129	perquè	n'hi hagi d'aquí, n'havien guanyat una pel·la perquè volem desprotar la gent.	sí	A-doble-coincidencia	
+81	pa-054	bueno	clips/pa-054__bueno__51.69.wav	0.8263	bueno	I, bueno, és el primer fàjum i l'àmbit.	sí	A-doble-coincidencia	
+82	pa-055	reformeta	clips/pa-055__reformeta__139.05.wav	0.9557	reformeta	La diferència és que la reformeta tracta ben missatge.	sí	A-doble-coincidencia	
+83	pa-056	aleshores	clips/pa-056__aleshores__393.13.wav	0.5797	aleshores	i a desarres això està tan quadrícolat.	no	B-small-only	
+84	pa-056	vull dir	clips/pa-056__vull-dir__842.65.wav	0.9342	vull dir	Bé, vull dir també perquè cal recordar-ho.	sí	A-doble-coincidencia	
+85	pa-057	tirar endavant	clips/pa-057__tirar-endavant__56.61.wav	0.9330	tirar endavant	puguessin avançar i que vesim també d'autodisoldre per incapacitat de poder tirar endavant.	sí	A-doble-coincidencia	
+86	pa-058	és a dir	clips/pa-058__s-a-dir__74.41.wav	0.9532	És a dir	que volien ser com un pare.	no	B-small-only	
+87	pa-058	perquè	clips/pa-058__perqu__91.09.wav	0.9674	perquè	i risòria, perquè no podíem acabar mai de decidir que una cosa...	sí	A-doble-coincidencia	
+88	pa-059	clar	clips/pa-059__clar__36.61.wav	0.9810	clar	Els altres teníem clar que havíem de fer el pas.	sí	A-doble-coincidencia	
+89	pa-060	de fet	clips/pa-060__de-fet__72.57.wav	0.8385	de fet	que van ocupar quatre anys de fet.	sí	A-doble-coincidencia	
+90	pa-061	o sigui	clips/pa-061__o-sigui__161.05.wav	0.6361	O sigui	Si la primera activitat dels germans, despionés, peri...	no	B-small-only	
+91	pa-061	llavors	clips/pa-061__llavors__380.77.wav	0.5349	llavors	"-Exactament.
+ -Ella abans comença a tornar a agradar-s'hi."	no	B-small-only	
+92	pa-062	és a dir	clips/pa-062__s-a-dir__973.65.wav	0.7665	és a dir	"que ens donaven, és a dir que sin estaurés entre el món polític
+ i el món empresarial, un diàleg."	sí	A-doble-coincidencia	
+93	pa-063	crec	clips/pa-063__crec__758.81.wav	0.9939	crec	"Això és el que hem d'intentar.
+ Jo crec que s'està fent naturalment."	sí	A-doble-coincidencia	
+94	pa-063	o sigui	clips/pa-063__o-sigui__826.09.wav	0.6737	O sigui	O sigui que vam estar a la primera paix amb comets.	sí	A-doble-coincidencia	
+95	pa-064	o sigui	clips/pa-064__o-sigui__36.73.wav	0.7590	o sigui	A més, les seves gràcies a les eleccions d'aquesta vegada.	no	B-small-only	
+96	pa-064	a veure	clips/pa-064__a-veure__587.61.wav	0.9952	a veure	-El set de nata veure amb els anys.	no	B-small-only	
+97	pa-065	bé	clips/pa-065__b__138.57.wav	0.9995	bé	M'agrada molt bé, el Serre Benopardis va marxar el paradis.	sí	A-doble-coincidencia	
+98	pa-065	doncs	clips/pa-065__doncs__157.49.wav	0.7556	doncs	i quan hi ha amor, doncs deu haver-te entès els nostres coses.	sí	A-doble-coincidencia	
+99	pa-066	llavors	clips/pa-066__llavors__16.21.wav	0.7958	llavors	que es poden fer a l'estudio de la ciutadania.	no	B-small-only	
+100	pa-066	bueno	clips/pa-066__bueno__357.23.wav	0.8366	bueno	periferia i, bueno, jo recordo de passat, si no.	sí	A-doble-coincidencia	
