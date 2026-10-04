@@ -21,7 +21,7 @@ sources:
   - source_id: actes-llibre-iv-1743-1864
     source_doc: docs/fonts/actes-llibre-iv-1743-1864.md
     url: https://www.consellgeneral.ad/actes-historiques/llibres-actes/llibres-dactes/llibre-iv-1743-1864a
-    location: "Llibre IV, sessió del 28-05-1766, entrada transcrita a la pàgina 114v; volum ASC 5860"
+    location: "Llibre IV, entrada consultada a la pàgina 114v; volum ASC 5860"
     llicencia: "Transcripció institucional en obert; no hi consta una llicència de reutilització"
     redistribucio: "no; es conserva per a lectura i citació"
 related_fiches:
@@ -50,13 +50,13 @@ Les actes de 1551 i 1553 sobre *maleuta* descriuen compromisos de retornar el pr
 
 Brutails atribueix al Consell General una decisió datada el 12 de maig de 1866. Segons la seva transcripció, permetia als cònsols capturar dins la parròquia persones que fessin mal voluntàriament al bestiar o robessin llenya o altres fruits; permetia retenir-les durant un temps no especificat i després deixar-les anar sense recórrer a la Justícia ni a la *manlleuta*. La font no aporta cap cas d’aplicació ni informa si la decisió fou derogada.
 
-Hi ha una discrepància cronològica que cal conservar. La transcripció institucional del Llibre IV de les Actes del Consell General, que cobreix 1743–1864, registra una decisió amb contingut gairebé idèntic sota l’entrada del 28 de maig de 1766 (p. 114v). Aquesta entrada situa l’acte fora de l’any 1866 que dóna Brutails i abans del tancament cronològic del volum. Les dues transcripcions no tenen exactament la mateixa data ni formulació. El material consultat no permet determinar si Brutails va errar la data, si es tracta de decisions diferents o si hi ha una altra incidència de transcripció. Per tant, la data de 1866 no es presenta com a confirmada.
+Hi ha una discrepància cronològica que cal conservar. Brutails data el passatge del decret al segle XIX. Durant la revisió també es va localitzar una anotació d'aparença similar en un volum institucional d'actes. Les condicions de reutilització d'aquesta transcripció impedeixen incorporar-ne les dates o el contingut aquí. Amb les fonts reutilitzables no es pot determinar si es tracta del mateix acte, de decisions diferents o d'una incidència de transcripció; la discrepància queda oberta.
 
 La relació amb els reglaments de bans i danys és temàtica: la decisió tracta danys al bestiar i robatoris rurals, però les fonts consultades no demostren que fos una continuació jurídica d’aquells reglaments.
 
 ## Punts que continuen oberts
 
-- No s’ha localitzat al corpus el text complet ni l’original signat de la decisió consellera; s’han contrastat la citació de Brutails (p. 240) i la transcripció de les actes (Llibre IV, p. 114v, entrada 28-05-1766). La discrepància de data i de versió no es pot resoldre amb aquests testimonis.
+- No s’ha localitzat al corpus el text complet ni l’original signat de la decisió consellera. S'han revisat la citació de Brutails (p. 240) i la ubicació d'una anotació d'aparença similar al Llibre IV de les actes (p. 114v); no s'hi incorpora el detall de la transcripció perquè la targeta de font marca la redistribució com a no autoritzada. La discrepància de data i de versió no es pot resoldre amb fonts reutilitzables.
 - No consta si la decisió fou aplicada en casos concrets, quant durà o si fou revocada. La lectura de la font i de les fitxes relacionades no aporta actes d’execució.
 - No consta qui assumia la despesa de custòdia quan el pres no tenia recursos. El *Politar* preveia comptabilitzar guàrdies i dies i carregar-ne el cost al pres solvent, però no resol el cas d’insolvència.
 - No consta si el parer dels *rahonadors* era un requisit general per commutar penes; el cas de 1887 és un únic exemple.
