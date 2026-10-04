@@ -18,6 +18,12 @@ sources:
     location: "A001/A003, juliol del 2026, publicat el 13-08-2026: p. 3, taula 1.1 (estimació per parròquia), i p. 7, taula 3.1 (població registrada i estimada), referència 31-07-2026."
     llicencia: CC BY 4.0 per a la informació estadística pròpia, llevat d'indicació contrària
     redistribucio: si
+  - source_id: estadistica-a001-a003-2023-altaveu
+    source_doc: docs/fonts/estadistica-a001-a003-2023-altaveu.md
+    url: https://www.altaveu.com/uploads/s1/16/00/49/3/dades-poblacio-2023.pdf
+    location: "Còpia de tercers identificada com NP_A001_A003_20240118; registrada només com a referència de recerca, sense incorporar-ne dades."
+    llicencia: "L'avís legal d'Altaveu consultat el 04-10-2026 no declara una llicència ni un permís de redistribució aplicable a aquesta còpia."
+    redistribucio: pendent
   - source_id: ros-pascuet-poblacio-migracions-1989
     source_doc: docs/fonts/ros-pascuet-poblacio-migracions-1989.md
     url: https://www.calaix.cultura.gencat.cat/handle/10687/427966
@@ -47,7 +53,7 @@ related_fiches:
 
 La Constitució enumera Escaldes-Engordany en setè i darrer lloc entre les parròquies. Aquesta dada descriu l'ordre de l'article 1.5; no demostra per si sola un protocol general ni que l'antiguitat sigui el criteri que el determina.
 
-La publicació A001/A003 del Departament d'Estadística diferencia dues magnituds per a **31 de juliol del 2026**: l'estimació de població resident era de **16.350 persones** (taula 1.1, p. 3), mentre que els registres comunals recollien **17.298 persones** (taula 3.1, p. 7). La diferència era de **948 persones**, un **5,8%** respecte de l'estimació. La xifra **15.506 del 2023** de la fitxa inicial no identifica la font ni el tipus de recompte i, per tant, no es presenta com una dada directament comparable a cap de les dues sèries.
+La publicació A001/A003 del Departament d'Estadística diferencia dues magnituds per a **31 de juliol del 2026**: l'estimació de població resident era de **16.350 persones** (taula 1.1, p. 3), mentre que els registres comunals recollien **17.298 persones** (taula 3.1, p. 7). La diferència era de **948 persones**, un **5,8%** respecte de l'estimació. La fitxa inicial dona una xifra de població per al 2023 sense font identificada. Una còpia de tercers que podria ajudar a aclarir-ne la definició no s'incorpora perquè no se n'han pogut verificar l'origen oficial ni els drets d'ús ([fitxa de procedència](../../../../docs/fonts/estadistica-a001-a003-2023-altaveu.md)). La dada del 2023 continua sense resoldre's amb evidència reutilitzable.
 
 ## Del quart a la parròquia
 
@@ -75,7 +81,7 @@ La relació amb l'administració comunal es pot seguir a la fitxa d'origen sobre
 
 - **Decret de creació:** el catàleg de l'Arxiu Nacional identifica el Decret 78-9, del 14 de juny del 1978, però la norma i el seu registre de drets encara no s'han incorporat a `docs/fonts/`. La motivació, el debat i el procediment de segregació no s'han establert.
 - **Superfície:** els 47 km² de la fitxa de partida no tenen font identificada. La dada aproximada de 1989 agrega Escaldes i Andorra la Vella, així que no resol el valor individual actual.
-- **Població del 2023:** els 15.506 habitants no tenen data de referència, tipus de recompte ni font. La publicació A001/A003 del juliol del 2026 s'ha contrastat visualment a les pp. 3 i 7: estima 16.350 residents i registra 17.298 persones als censos comunals. La xifra de 2023 no s'equipara automàticament a cap d'aquests dos indicadors.
+- **Població del 2023:** la xifra de la fitxa original no té font identificada. L'original oficial no s'ha localitzat i els termes de la còpia consultada continuen pendents. No s'incorpora la xifra, la definició ni una comparació temporal al coneixement entrenable. La nota del 2026 s'ha contrastat visualment a les pp. 3 i 7.
 - **Ordre protocol·lari:** la Constitució situa Escaldes en últim lloc de la seva enumeració; no s'ha localitzat una norma que expliqui un protocol general o que fonamenti la idea que l'ordre mesura l'antiguitat.
 - **Quarts actuals:** la font històrica identifica Escaldes com a antic quart, però no s'ha trobat un inventari actual de subdivisions locals de la parròquia.
 - **Termalisme i Caldea:** la recerca ha trobat informació del mateix operador sobre els anys 1987 i 1994. Cal registrar-ne una fitxa de font, revisar l'abast i els drets, i localitzar documentació del Comú o del Govern sobre la decisió i el projecte.
