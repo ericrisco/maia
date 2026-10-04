@@ -5,7 +5,11 @@ from __future__ import annotations
 from pathlib import Path
 
 from training_data.inventory import scan_tree
-from training_data.language import extract_language, write_language_selection
+from training_data.language import (
+    extract_language,
+    write_authentic_speech_segments,
+    write_language_selection,
+)
 
 
 def main() -> int:
@@ -19,11 +23,17 @@ def main() -> int:
         work=language_root / "work",
         reports=language_root / "reports",
     )
+    authenticity = write_authentic_speech_segments(
+        ledger,
+        work=language_root / "work",
+        reports=language_root / "reports",
+    )
     print(
         f"Language selection: {report.eligible_pieces} eligible, "
         f"{report.excluded_pieces} excluded, {report.unresolved_pieces} unresolved "
         f"from {report.speech_documents} speech pieces; "
-        f"{report.uncertainty_spans} uncertainty spans preserved."
+        f"{report.uncertainty_spans} uncertainty spans preserved; "
+        f"{authenticity.generated_segments} generated segments."
     )
     return 0
 

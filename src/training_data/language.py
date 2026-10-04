@@ -82,6 +82,29 @@ class LanguageLedger:
     report: LanguageSelectionReport
 
 
+@dataclass(frozen=True, slots=True)
+class AuthenticSpeechSegment:
+    """Span fontal literal; aquest model no conté camps de text generat."""
+
+    segment_id: str
+    source_path: str
+    piece_id: str
+    source_start: int
+    source_end: int
+    text: str
+
+
+@dataclass(frozen=True, slots=True)
+class LanguageAuthenticityReport:
+    """Volum de spans copiats literalment de peces de parla elegibles."""
+
+    eligible_pieces: int
+    authentic_segments: int
+    source_characters: int
+    rewritten_segments: int
+    generated_segments: int
+
+
 def _source_ids(value: object) -> tuple[str, ...]:
     if isinstance(value, str) and value.strip():
         return (value.strip(),)
@@ -271,6 +294,75 @@ def write_language_selection(
         json.dumps(asdict(ledger.report), ensure_ascii=False, indent=2, sort_keys=True) + "\n",
     )
     return ledger.report
+
+
+def build_authentic_speech_segments(
+    ledger: LanguageLedger,
+) -> tuple[AuthenticSpeechSegment, ...]:
+    """Construeix un span complet per peça elegible, sense alterar cap caràcter."""
+
+    return tuple(
+        AuthenticSpeechSegment(
+            segment_id=f"{piece.path}#body",
+            source_path=piece.path,
+            piece_id=piece.piece_id,
+            source_start=0,
+            source_end=len(piece.text),
+            text=piece.text,
+        )
+        for piece in ledger.pieces
+        if piece.eligibility == "eligible"
+    )
+
+
+def validate_authentic_speech_segments(
+    ledger: LanguageLedger, segments: tuple[AuthenticSpeechSegment, ...]
+) -> None:
+    """Falla si un span no coincide literalment amb una peça elegible."""
+
+    pieces_by_path = {piece.path: piece for piece in ledger.pieces}
+    seen: set[str] = set()
+    for segment in segments:
+        if segment.segment_id in seen:
+            raise ValueError(f"duplicate authentic segment: {segment.segment_id}")
+        seen.add(segment.segment_id)
+        piece = pieces_by_path.get(segment.source_path)
+        if piece is None or piece.eligibility != "eligible":
+            raise ValueError(f"segment source is not eligible: {segment.source_path}")
+        if not 0 <= segment.source_start <= segment.source_end <= len(piece.text):
+            raise ValueError(f"segment offsets are outside the source: {segment.segment_id}")
+        if segment.text != piece.text[segment.source_start : segment.source_end]:
+            raise ValueError(f"segment does not match source span: {segment.segment_id}")
+
+
+def write_authentic_speech_segments(
+    ledger: LanguageLedger, *, work: Path, reports: Path
+) -> LanguageAuthenticityReport:
+    """Valida i desa spans de parla literal i el report de no-inflació."""
+
+    segments = build_authentic_speech_segments(ledger)
+    validate_authentic_speech_segments(ledger, segments)
+    work.mkdir(parents=True, exist_ok=True)
+    _atomic_write(
+        work / "authentic-segments.jsonl",
+        "".join(
+            json.dumps(asdict(segment), ensure_ascii=False, sort_keys=True) + "\n"
+            for segment in segments
+        ),
+    )
+    report = LanguageAuthenticityReport(
+        eligible_pieces=ledger.report.eligible_pieces,
+        authentic_segments=len(segments),
+        source_characters=sum(len(segment.text) for segment in segments),
+        rewritten_segments=0,
+        generated_segments=0,
+    )
+    reports.mkdir(parents=True, exist_ok=True)
+    _atomic_write(
+        reports / "no-inflation.json",
+        json.dumps(asdict(report), ensure_ascii=False, indent=2, sort_keys=True) + "\n",
+    )
+    return report
 
 
 def _atomic_write(path: Path, content: str) -> None:
