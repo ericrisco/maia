@@ -12,6 +12,12 @@ sources:
     location: "p. 193, subsecció sobre el senyoriu dominical del bisbe d'Urgell (988); l'obra s'identifica com a font secundària."
     llicencia: "Publicació acadèmica en accés obert; no consta una llicència de redistribució a la fitxa de font."
     redistribucio: pendent
+  - source_id: crbmc-butlla-silvestre-ii-1001
+    source_doc: docs/fonts/crbmc-butlla-silvestre-ii-1001.md
+    url: https://centrederestauracio.gencat.cat/web/.content/crbmc/pdf/arxiu/butlla.pdf
+    location: "Fitxa patrimonial de la butlla de 1001 adreçada al bisbe Sal·la; la fitxa indica que no n'ofereix transcripció íntegra."
+    llicencia: "Publicació institucional; no s'ha identificat una llicència oberta."
+    redistribucio: no
 related_fiches:
   - knowledge/historia/fichas/la-fundacio-per-carlemany.md
   - knowledge/historia/fichas/carta-pobla-fals-carlemany.md
@@ -29,7 +35,7 @@ La fitxa d'origen identifica una síntesi de Joan Pujol i Balcells com a font se
 
 La revisió de la fitxa d'origen registra que el corpus no conté l'original de l'acte atribuït al 988, la seva signatura d'arxiu ni el text íntegre. Tampoc no identifica quins béns s'haurien lliurat a canvi. Aquestes qüestions continuen sense resoldre's amb els materials verificats.
 
-La fitxa relacionada sobre el Fals de Carlemany tracta una tradició documental diferent; no completa els buits de l'acte del 988. Les fitxes sobre la Constitució i el Pareatge documenten marcs institucionals posteriors, però no substitueixen l'acte ni n'acrediten els termes.
+La fitxa relacionada sobre el Fals de Carlemany tracta una tradició documental diferent; no completa els buits de l'acte del 988. Una targeta del corpus identifica també una butlla papal adreçada al bisbe Sal·la, datada el 1001, però no n'ofereix el text íntegre. Aquesta referència posterior no substitueix l'acte del 988 ni n'acredita els termes. Les fitxes sobre la Constitució i el Pareatge documenten marcs institucionals posteriors.
 
 ## Fitxes relacionades
 
