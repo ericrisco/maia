@@ -38,7 +38,7 @@ sources:
     url: https://example.org/source
     location: page, section, date, or timestamp
     llicencia: exact value recorded in the source card
-    redistribucio: si, no, or pendent
+    redistribucio: exact value recorded in the source card; use "pendent" if no status is recorded
 related_fiches:
   - knowledge/topic/fichas/related-sheet.md
 ```

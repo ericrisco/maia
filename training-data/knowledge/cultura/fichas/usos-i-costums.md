@@ -11,31 +11,31 @@ sources:
     url: https://calaix.gencat.cat/handle/10687/427979
     location: "15a Diada Andorrana, pp. 209–216: definició i manca d'un estudi sistemàtic, p. 209; grups d'informants, pp. 209–210; gegants, sardana i falles, pp. 210–212; còpia de Fiter a partir d'Amades i versions de 1966 de la Cova de l'Ossa, pp. 212–214; cinema, canvi de pràctiques i conservació, pp. 214–216."
     llicencia: "publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya)"
-    redistribucio: pendent
+    redistribucio: "pendent"
   - source_id: canturri-costumari-amades-1994
     source_doc: docs/fonts/canturri-costumari-amades-1994.md
     url: https://www.calaix.cultura.gencat.cat/handle/10687/427971
     location: "7a Diada Andorrana, pp. 33–39: crítica documental de l'ús del Costumari català i comparació amb Un andorrà lluny del poble."
     llicencia: "publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya)"
-    redistribucio: pendent
+    redistribucio: "pendent"
   - source_id: wikipedia-ca-gegants-andorra
     source_doc: docs/fonts/wikipedia-ca-gegants-andorra.md
     url: https://ca.wikipedia.org/wiki/Gresca_Gegantera_d%27Andorra_la_Vella
     location: "Articles sobre la Gresca Gegantera d'Andorra la Vella i Manel Casserras i Boix: constitució de la Gresca i construcció dels gegants el 1985."
-    llicencia: "CC BY-SA 4.0, segons el registre de font."
-    redistribucio: si
+    llicencia: "CC BY-SA 4.0"
+    redistribucio: "si"
   - source_id: vellasolsona-mestre-roure-2006
     source_doc: docs/fonts/vellasolsona-mestre-roure-2006.md
     url: https://vellasolsona.org/wp-content/uploads/2022/09/solsona-homenatja-el-mestre-roure-i-el-seu-llegat-musical-celsona-497-22-12-2006.pdf
     location: "Crònica d'homenatge a Joan Roure i Jané: biografia i etapa a Andorra la Vella des del 1963."
-    llicencia: "Llicència desconeguda segons el registre de font; ús informatiu."
-    redistribucio: no
+    llicencia: "desconeguda, ús informatiu"
+    redistribucio: "no"
   - source_id: sac-perez-carrillo-2016-sardana
     source_doc: docs/fonts/sac-perez-carrillo-2016-sardana.md
     url: https://sac-s3-bucket.s3.eu-west-3.amazonaws.com/20_XX_Jornades_El_sentit_del_folklore_0bafebc270.pdf
     location: "Daniel Pérez i Carrillo, ‘Petita història de la sardana – Agrupació Sardanista Andorrana’, XX Jornades: El sentit del folklore, avui (2016), pp. 69–70; s'hi afirma que Casa de la Vall conserva una fotografia de 1891 de gent ballant sardà. No s'ha inspeccionat la fotografia original."
     llicencia: "Publicació acadèmica en accés obert; llicència de redistribució no verificada"
-    redistribucio: pendent
+    redistribucio: "pendent"
 related_fiches:
   - knowledge/cultura/fichas/el-cas-amades.md
   - knowledge/cultura/fichas/la-canco-popular-andorrana.md
