@@ -4,9 +4,15 @@ id: asc-04695-sentencia-taxes-saigs-1456
 title: "ASC-4695 — Sentència sobre taxes notarials i canvi de saig a batlle, 1456"
 titular: "Arxiu Nacional d’Andorra · Arxiu de les Set Claus"
 url: https://www.arxiuenlinia.ad/fotoweb/archives/5004-Documents-textuals/Documents/ASC/ASC_04695.pdf.info
-llicencia: "Fitxa pública amb consulta i rendicions; no consta una llicència específica de reutilització"
-redistribucio: "Imatges de consulta conservades per a recerca interna; no es publica una transcripció reutilitzable"
-data_consulta: 2026-09-23
+llicencia: >
+  No consta una llicència específica per a aquest document. Els termes generals
+  de l'Arxiu Nacional reserven els drets dels continguts i exigeixen autorització
+  per reproduir-los, distribuir-los o transformar-los. La clàusula de descàrrega
+  d'imatges limita l'ús a finalitats privades o de recerca/docència no comercials,
+  sense difusió ni modificació.
+redistribucio: "No consta permís per entrenar ni redistribuir una transcripció; cal autorització específica."
+termes_url: https://www.arxiuenlinia.ad/fotoweb/views/terms-and-conditions
+data_consulta: 2026-10-04
 abast: "Sentència del 7 de juny de 1456 sobre taxes notarials, Guillem Carreu i la denominació dels saigs com a batlles; 1 foli"
 local:
   raw: ../raw/web/institucions/arxiu-set-claus/sentencia-taxes-saigs-1456/README.md
