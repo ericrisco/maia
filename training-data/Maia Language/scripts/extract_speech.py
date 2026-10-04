@@ -10,6 +10,7 @@ from training_data.language import (
     write_authentic_speech_segments,
     write_language_selection,
 )
+from training_data.language_conversations import write_human_conversations
 
 
 def main() -> int:
@@ -28,12 +29,14 @@ def main() -> int:
         work=language_root / "work",
         reports=language_root / "reports",
     )
+    conversations = write_human_conversations(ledger, work=language_root / "work")
     print(
         f"Language selection: {report.eligible_pieces} eligible, "
         f"{report.excluded_pieces} excluded, {report.unresolved_pieces} unresolved "
         f"from {report.speech_documents} speech pieces; "
         f"{report.uncertainty_spans} uncertainty spans preserved; "
-        f"{authenticity.generated_segments} generated segments."
+        f"{authenticity.generated_segments} generated segments; "
+        f"{conversations.candidates} explicit chat turns."
     )
     return 0
 
