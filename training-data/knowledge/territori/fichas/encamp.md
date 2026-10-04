@@ -15,7 +15,7 @@ sources:
   - source_id: estadistica-ad
     source_doc: docs/fonts/estadistica-ad.md
     url: https://www.estadistica.ad/
-    location: "A001/A003, juliol del 2026, publicat el 13-08-2026: p. 3, taula 1.1, estimació de població per parròquia i sexe, referència 31-07-2026."
+    location: "A001/A003, juliol del 2026, publicat el 13-08-2026: p. 3, taula 1.1, població estimada per parròquia i sexe, i p. 7, taula 3.1, població registrada i estimada, referència 31-07-2026."
     llicencia: CC BY 4.0 per a la informació estadística pròpia, llevat d'indicació contrària
     redistribucio: "si"
   - source_id: ros-pascuet-poblacio-migracions-1989
@@ -24,6 +24,12 @@ sources:
     location: "M. Francesca Ros Pascuet, «Població i migracions actuals», dins Els moviments migratoris a Andorra (1989), p. 32, taula de superfície parroquial; valor aproximat del 1989."
     llicencia: drets reservats; cap llicència oberta declarada al volum
     redistribucio: "no"
+  - source_id: comu-encamp-liquidacio-2020
+    source_doc: docs/fonts/comu-encamp-liquidacio-2020.md
+    url: https://transparencia.comuencamp.ad/informacio-publica/informacio-economica-i-patrimonial/estats-financers-i-pressupostos-anuals/liquidacions/2020-liquidacio-dels-comptes-anuals-del-comu-dencamp.pdf
+    location: "Liquidació dels comptes anuals del Comú d'Encamp 2020, p. 22, secció 1.1, descripció del territori i dels nuclis urbans."
+    llicencia: "Cap llicència oberta identificada per al PDF; l'abast de les condicions del Comú sobre aquest document no queda verificat."
+    redistribucio: pendent
   - source_id: govern-sant-roma-les-bons-2026
     source_doc: docs/fonts/govern-sant-roma-les-bons-2026.md
     url: https://www.govern.ad/ca/l/4668109
@@ -65,11 +71,11 @@ related_fiches:
 
 Encamp és una de les set parròquies del Principat. La Constitució l'esmenta en segon lloc dins la seva relació de parròquies. Aquesta és l'ordre del text constitucional; la font no estableix per si sola una regla protocol·lària general.
 
-El Departament d'Estadística estimava en **13.710** la població resident d'Encamp a **31 de juliol del 2026**. És una estimació, no el recompte de persones inscrites als censos comunals. La xifra de **12.826 habitants el 2023** de la fitxa de partida no identifica una font estadística ni una definició de població, de manera que no es barreja amb aquesta sèrie.
+El Departament d'Estadística estimava en **13.710** la població resident d'Encamp a **31 de juliol del 2026** (taula 1.1, p. 3). La taula 3.1, p. 7, registra **13.893 persones** als censos comunals: **183** més que l'estimació. Són magnituds diferents. La xifra de **12.826 habitants el 2023** de la fitxa de partida no identifica una font estadística ni una definició de població, de manera que no es barreja amb aquesta sèrie.
 
 ## Territori i organització local
 
-La fitxa de partida dona **74 km²** sense una referència concreta. La taula demogràfica de Ros Pascuet publicada el 1989 assigna a Encamp **80 km² aproximats**. No s'ha identificat una font cartogràfica o metodològica que expliqui la diferència, ni una superfície actual comparable. Per això no es presenta cap d'aquestes xifres com a mesura vigent definitiva.
+La fitxa de partida dona **74 km²** sense una referència concreta. La taula demogràfica de Ros Pascuet publicada el 1989 assigna a Encamp **80 km² aproximats**. La liquidació dels comptes del Comú per al 2020 també descriu la superfície territorial (p. 22, §1.1), però no n'explica el mètode; els drets d'aquesta publicació consten com a pendents de verificació i la dada no s'incorpora com a fet entrenable. No s'ha identificat una delimitació o metodologia que permeti comparar les xifres. Per això no se'n presenta cap com a mesura vigent definitiva.
 
 Una font que descriu l'organització d'Andorra cap al 1918 diu que Encamp no tenia quarts. La fitxa de síntesi sobre quarts i veïnats manté que Encamp no té aquesta mena de divisió parroquial, però les fonts consultades no donen un inventari oficial contemporani de les divisions locals. El terme històric «quart» s'ha de distingir d'una llista de pobles o nuclis habitats.
 
@@ -89,8 +95,8 @@ La fitxa inicial també esmenta un **Carnestoltes d'estiu**, la festa major a l'
 
 ## Punts que continuen oberts
 
-- **Superfície actual:** la fitxa inicial dona 74 km² i la font de 1989 dona uns 80 km². No s'ha trobat una definició o sèrie cartogràfica comparable que resolgui la discrepància.
-- **Població de 2023:** no s'ha identificat la font, el tipus de recompte ni la data de referència exacta dels 12.826 habitants. La xifra de 2026 es manté separada perquè descriu una estimació resident.
+- **Superfície actual:** la fitxa inicial dona 74 km² i Ros Pascuet dona uns 80 km² aproximats el 1989. S'ha consultat també la liquidació del Comú de 2020 (p. 22, §1.1), que no explica el mètode de càlcul. El seu registre de drets queda pendent perquè la Seu Electrònica no declara condicions de reutilització i no s'ha establert si l'avís de propietat intel·lectual de GuiaEncamp s'aplica a aquest PDF del portal de transparència. No s'incorpora la xifra d'aquesta peça a training-data; la delimitació o metodologia comparable continua sense identificar-se.
+- **Població de 2023:** no s'ha identificat la font, el tipus de recompte ni la data de referència exacta dels 12.826 habitants. La xifra de 2026 es manté separada perquè descriu una estimació resident; la taula estadística també dona el recompte registrat, de 13.893.
 - **Divisions actuals d'Encamp:** la descripció del 1918 i la síntesi moderna coincideixen que no hi ha quarts, però no s'ha consultat un registre actual que en defineixi formalment l'organització local ni el nombre de nuclis.
 - **Carnestoltes d'estiu:** les fonts consultades no confirmen l'existència de l'activitat a Encamp. No es pot concloure que no s'hagi celebrat mai; falta un programa, una notícia datada o un testimoni local identificat.
 - **Festa major d'agost i falles:** consten a la fitxa de partida sense cita específica. Cal una font del Comú o del Govern que documenti l'edició i l'abast parroquial.
