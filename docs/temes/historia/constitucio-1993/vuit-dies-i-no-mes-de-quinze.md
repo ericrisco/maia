@@ -243,7 +243,7 @@ sense accent, «Farrás» amb accent agut— **que indiquen una conversió de fo
 dels noms propis de la fórmula de promulgació no s'ha contrastat amb el BOPA**.
 
 **`resolt` el 17-09-2026, i el resultat desmenteix la hipòtesi.** El
-[BOPA](../../../fonts/bopa.md) **núm. 24, del 3 de maig del 1993** —**no del 4**—
+[BOPA](../../../fonts/bopa-ad.md) **núm. 24, amb capçalera datada del 4 de maig del 1993**
 porta la Constitució sencera (`docs/raw/lleis/bopa/constitucio-1993-bopa-24.txt`),
 i **les quatre irregularitats sospitoses de conversió hi són totes quatre
 igual**:
@@ -265,17 +265,19 @@ apareix a la fórmula de promulgació, mentre que al cos de la Constitució
 està malament és precisament la de la signatura dels coprínceps.**
 
 **Una data que això aclareix**: **la Constitució entra en vigor el dia de la seva
-publicació al BOPA** (disposició final), **és a dir el 3 de maig del 1993** —
-signada a Casa de la Vall el 28 d'abril, cinc dies abans.
+publicació al BOPA** (disposició final), **és a dir el 4 de maig del 1993** —
+signada a Casa de la Vall el 28 d'abril, sis dies abans. Una còpia consultada
+anteriorment havia motivat la data del 3 de maig; la capçalera de l'exemplar
+oficial del BOPA núm. 24 confirma el 4 de maig.
 
 ~~**No consta la data de publicació al BOPA**, i **és la data d'entrada en vigor**
 per la disposició final. La fitxa pot dir quan es va signar —**28 d'abril de
 1993**— i **no quan va entrar en vigor**.~~ — **`resolt`, i el corpus ja la
 tenia**: **el text que aquesta fitxa llegeix és el del
-[BOPA](../../../fonts/bopa.md) número 24, del 3 de maig del 1993**
+[BOPA](../../../fonts/bopa-ad.md) número 24, amb capçalera del 4 de maig del 1993**
 (`docs/raw/lleis/bopa/constitucio-1993-bopa-24.txt`), **que és justament la data
 que el paràgraf anterior dona.** **La fitxa es contradeia amb ella mateixa**:
-**signada el 28 d'abril, publicada i en vigor el 3 de maig del 1993.**
+**signada el 28 d'abril, publicada i en vigor el 4 de maig del 1993.**
 
 **Es corregeix el 17-09-2026**, i **és el quart cas d'una entrada que el cos ja
 havia tancat i la llista mantenia oberta.**
@@ -295,7 +297,7 @@ d'Andorra, la República francesa i el Regne d'Espanya*, del 3 de juny de
 1993**, publicat el **20 de juliol de 1993** i **aprovat pel Consell General el
 4 de novembre del mateix any**
 (`docs/raw/lleis/bopa/tractat-bon-veinatge-1993-07-20.txt` i `-1993-11-28.txt`).
-**Un mes just després que la Constitució entrés en vigor**: el 3 de maig la Constitució, el 3 de juny el tractat.
+**Un mes just després que la Constitució entrés en vigor**: el 4 de maig la Constitució, el 3 de juny el tractat.
 
 **L'article primer és d'una sola frase i és el que el país esperava des de feia
 set-cents anys:**

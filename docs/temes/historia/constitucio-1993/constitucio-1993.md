@@ -123,7 +123,7 @@ poden resumir així:
   general i **Joan Martí Alanís**, bisbe d'Urgell. Entra en vigor **el dia de la
   publicació al BOPA**, que el corpus encara no té.~~ **`resolt`**: [la fitxa
   que llegeix el BOPA](./vuit-dies-i-no-mes-de-quinze.md) ja documenta que la
-  Constitució es publica al **BOPA núm. 24, el 3 de maig de 1993**, data en què
+  Constitució es publica al **BOPA núm. 24, el 4 de maig de 1993**, data en què
   entra en vigor.
 - ~~**El text no descriu un traspàs de sobirania.** El preàmbul diu que el poble
   andorrà aprova la Constitució **«en exercici de la seva pròpia sobirania»**, i
@@ -139,7 +139,7 @@ poden resumir així:
 **El que segueix obert:** una lectura **article per article i amb comentari
 propi** dels títols II, IV, V, VI, VII i VIII. El corpus ja en conserva el text
 complet i en té el resum de conjunt anterior; la data de publicació al BOPA ja
-és resolta: **núm. 24, 3 de maig de 1993**.
+és resolta: **núm. 24, 4 de maig de 1993**.
 
 ## Related
 

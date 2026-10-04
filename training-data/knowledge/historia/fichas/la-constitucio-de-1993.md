@@ -15,7 +15,7 @@ sources:
   - source_id: bopa-ad
     source_doc: docs/fonts/bopa-ad.md
     url: https://www.bopa.ad/
-    location: BOPA núm. 24, 3 de maig de 1993, Constitució del Principat d'Andorra, preàmbul, articles 1, 43 i 45, disposicions addicionals i final
+    location: BOPA núm. 24, capçalera de 4 de maig de 1993, Constitució del Principat d'Andorra, preàmbul, articles 1, 43 i 45, disposicions addicionals i final
     llicencia: condicions generals d'utilització de la informació de la seu electrònica del BOPA
     redistribucio: si
   - source_id: wikipedia-referendums-andorra
@@ -54,7 +54,7 @@ related_fiches:
 
 ## Procés i entrada en vigor
 
-El Consell General es va constituir en Consell Constituent el 5 de juny de 1992 i va aprovar el projecte constitucional el 2 de febrer de 1993. El text es va sotmetre a referèndum el 14 de març. La publicació oficial es va fer al BOPA núm. 24, el 3 de maig de 1993; la disposició final fixa l'entrada en vigor en la data de publicació. La signatura del text s'havia fet a Casa de la Vall el 28 d'abril de 1993. [La lectura del text constitucional](./vuit-dies-i-no-mes-de-quinze.md) documenta la publicació, la promulgació i les disposicions finals.
+El Consell General es va constituir en Consell Constituent el 5 de juny de 1992 i va aprovar el projecte constitucional el 2 de febrer de 1993. El text es va sotmetre a referèndum el 14 de març. La capçalera de l'exemplar oficial del BOPA núm. 24 data la publicació el 4 de maig de 1993; la disposició final fixa l'entrada en vigor en la data de publicació. La signatura del text s'havia fet a Casa de la Vall el 28 d'abril de 1993. Una còpia consultada anteriorment es va atribuir erròniament al 3 de maig; la data de capçalera del BOPA oficial és la que s'adopta aquí. [La lectura del text constitucional](./vuit-dies-i-no-mes-de-quinze.md) documenta la publicació, la promulgació i les disposicions finals.
 
 ## Marc establert pel text
 
