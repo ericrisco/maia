@@ -1,0 +1,15 @@
+# Generated Knowledge artefacts stay local.
+/Maia Knowledge/work/**
+!/Maia Knowledge/work/.gitkeep
+/Maia Knowledge/output/**
+!/Maia Knowledge/output/.gitkeep
+/Maia Knowledge/reports/**
+!/Maia Knowledge/reports/.gitkeep
+
+# Generated Language artefacts stay local.
+/Maia Language/work/**
+!/Maia Language/work/.gitkeep
+/Maia Language/output/**
+!/Maia Language/output/.gitkeep
+/Maia Language/reports/**
+!/Maia Language/reports/.gitkeep
