@@ -9,7 +9,7 @@ assistant responses are not linguistic sources.
 From the repository root:
 
 ```sh
-uv run python 'training-data/Maia Language/scripts/extract_speech.py'
+uv run python training-data/language/scripts/extract_speech.py
 uv run python training-data/scripts/validate_datasets.py
 ```
 

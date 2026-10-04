@@ -10,9 +10,9 @@ Run from the repository root with Python 3.12 and the project dependencies
 installed through `uv`:
 
 ```sh
-uv run python 'training-data/Maia Knowledge/scripts/extract_inventory.py'
-uv run python 'training-data/Maia Knowledge/scripts/generate_candidates.py'
-uv run python 'training-data/Maia Language/scripts/extract_speech.py'
+uv run python training-data/knowledge/scripts/extract_inventory.py
+uv run python training-data/knowledge/scripts/generate_candidates.py
+uv run python training-data/language/scripts/extract_speech.py
 uv run python training-data/scripts/validate_datasets.py
 ```
 
@@ -25,17 +25,17 @@ one non-empty `user` message followed by one non-empty `assistant` message.
 `validate_datasets.py` rebuilds the ledgers in memory and checks public schema,
 plain text, duplicates, provenance, eligibility, evidence coverage, uncertainty
 filters and split leakage. It writes a detailed local report to
-`Maia Knowledge/reports/validation.json` and exits non-zero on failure. Generated
+`knowledge/reports/validation.json` and exits non-zero on failure. Generated
 JSONL, reports and work files are ignored by Git; only code, documentation and
 empty-directory placeholders are versioned.
 
 ## Dataset boundaries
 
-- [Maia Knowledge](Maia%20Knowledge/README.md) uses documented material from
+- [Maia Knowledge](knowledge/README.md) uses documented material from
   `docs/temes/`. Every answer is traceable to evidence. Conflicts remain
   unresolved, unknowns stay explicit, and volatile facts are excluded from
   fine-tuning.
-- [Maia Language](Maia%20Language/README.md) uses eligible original,
+- [Maia Language](language/README.md) uses eligible original,
   contemporary Andorran speech from `docs/parla/`. It preserves human wording
   and does not synthesize dialogue.
 

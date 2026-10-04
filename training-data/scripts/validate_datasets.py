@@ -38,7 +38,7 @@ def main() -> int:
     training_root = repository_root / "training-data"
     inventory = scan_tree(repository_root / "docs")
 
-    knowledge_root = training_root / "Maia Knowledge"
+    knowledge_root = training_root / "knowledge"
     knowledge_ledger = extract_knowledge(inventory)
     raw_knowledge = (
         *build_knowledge_candidates(knowledge_ledger),
@@ -57,7 +57,7 @@ def main() -> int:
         knowledge_coverage,
     )
 
-    language_root = training_root / "Maia Language"
+    language_root = training_root / "language"
     language_ledger = extract_language(inventory)
     language_candidates = build_human_conversations(language_ledger)
     filtered_language = filter_uncertain_conversations(language_ledger, language_candidates)

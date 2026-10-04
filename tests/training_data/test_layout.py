@@ -10,16 +10,16 @@ TRAINING_DATA = REPOSITORY_ROOT / "training-data"
 def test_both_dataset_areas_have_the_scaffold() -> None:
     required = (
         "README.md",
-        "Maia Knowledge/README.md",
-        "Maia Knowledge/scripts/README.md",
-        "Maia Knowledge/work/.gitkeep",
-        "Maia Knowledge/output/.gitkeep",
-        "Maia Knowledge/reports/.gitkeep",
-        "Maia Language/README.md",
-        "Maia Language/scripts/README.md",
-        "Maia Language/work/.gitkeep",
-        "Maia Language/output/.gitkeep",
-        "Maia Language/reports/.gitkeep",
+        "knowledge/README.md",
+        "knowledge/scripts/README.md",
+        "knowledge/work/.gitkeep",
+        "knowledge/output/.gitkeep",
+        "knowledge/reports/.gitkeep",
+        "language/README.md",
+        "language/scripts/README.md",
+        "language/work/.gitkeep",
+        "language/output/.gitkeep",
+        "language/reports/.gitkeep",
         ".gitignore",
     )
 
@@ -30,14 +30,14 @@ def test_both_dataset_areas_have_the_scaffold() -> None:
 
 def test_generated_files_are_ignored_but_scaffold_is_trackable() -> None:
     ignored = (
-        "training-data/Maia Knowledge/output/train.jsonl",
-        "training-data/Maia Language/work/intermediate.jsonl",
-        "training-data/Maia Language/reports/summary.json",
+        "training-data/knowledge/output/train.jsonl",
+        "training-data/language/work/intermediate.jsonl",
+        "training-data/language/reports/summary.json",
     )
     trackable = (
-        "training-data/Maia Knowledge/output/.gitkeep",
-        "training-data/Maia Language/work/.gitkeep",
-        "training-data/Maia Knowledge/scripts/README.md",
+        "training-data/knowledge/output/.gitkeep",
+        "training-data/language/work/.gitkeep",
+        "training-data/knowledge/scripts/README.md",
     )
 
     for relative_path in ignored:
