@@ -61,6 +61,10 @@ transforma aquesta manca d'evidència admissible en una afirmació històrica
 negativa. Les preguntes de contingut queden pendents fins que es documenti una
 font independent amb condicions d'ús compatibles.
 
+El full d'origen també deixa sense identificar què designava una denominació
+comptable vinculada a les penes pecuniàries i si se'n conserva cap compte. La
+identitat de l'arxiu i l'existència de comptes no queden establertes aquí.
+
 ## Fitxes relacionades
 
 - [Les Corts](un-pernil-i-dos-formatges-per-dobla.md)
