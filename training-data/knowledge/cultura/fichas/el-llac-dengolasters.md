@@ -29,7 +29,7 @@ La fitxa font atribueix el seu relat a *Llegendes d'Andorra*, de Roser Carol i �
 
 Les fitxes relacionades no tanquen la procedència de les variants ni identifiquen el poble que el relat associa al llac. La fitxa de toponímia no proporciona una etimologia d'Engolasters. La fitxa de FHASA situa la central al Grau del Corb, però no documenta quan o com el llac d'Engolasters es va convertir en embassament. La informació històrica sobre usos del Pla d'Engolasters i les dades climàtiques del lloc tampoc no resolen aquests punts.
 
-La connexió concreta entre el llac i les tradicions sobre bruixes continua sense corroboració local suficient. Les fitxes del Roc de les Bruixes, de Sornàs i de les bruixes d'Engolasters descriuen límits documentals diferents; no permeten tractar-les com una sola narració. La primera aparició escrita, les variants orals i la identificació del poble continuen obertes.
+Les fitxes relacionades tenen referències bibliogràfiques pròpies. Els registres revisats no vinculen el recull de Carol i Valls amb les altres referències ni permeten establir una cadena documental comuna. La primera aparició escrita, les variants orals i la identificació del poble continuen obertes.
 
 ## Fitxes relacionades
 
