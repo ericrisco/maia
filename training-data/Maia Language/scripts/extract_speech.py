@@ -10,7 +10,14 @@ from training_data.language import (
     write_authentic_speech_segments,
     write_language_selection,
 )
-from training_data.language_conversations import write_human_conversations
+from training_data.language_conversations import (
+    build_human_conversations,
+    write_human_conversations,
+)
+from training_data.language_uncertainty import (
+    filter_uncertain_conversations,
+    write_language_uncertainty_result,
+)
 
 
 def main() -> int:
@@ -30,13 +37,21 @@ def main() -> int:
         reports=language_root / "reports",
     )
     conversations = write_human_conversations(ledger, work=language_root / "work")
+    filtered = filter_uncertain_conversations(ledger, build_human_conversations(ledger))
+    uncertainty_report = write_language_uncertainty_result(
+        ledger,
+        filtered,
+        work=language_root / "work",
+        reports=language_root / "reports",
+    )
     print(
         f"Language selection: {report.eligible_pieces} eligible, "
         f"{report.excluded_pieces} excluded, {report.unresolved_pieces} unresolved "
         f"from {report.speech_documents} speech pieces; "
         f"{report.uncertainty_spans} uncertainty spans preserved; "
         f"{authenticity.generated_segments} generated segments; "
-        f"{conversations.candidates} explicit chat turns."
+        f"{conversations.candidates} explicit chat turns; "
+        f"{uncertainty_report.excluded_candidates} excluded for uncertainty."
     )
     return 0
 
