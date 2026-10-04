@@ -6,6 +6,7 @@ from pathlib import Path
 
 from training_data.inventory import scan_tree
 from training_data.knowledge import extract_knowledge
+from training_data.knowledge_coverage import build_knowledge_coverage, write_knowledge_coverage
 from training_data.knowledge_generate import (
     build_knowledge_candidates,
     build_relation_candidates,
@@ -30,10 +31,18 @@ def main() -> int:
         work=knowledge_root / "work",
         classification=classification,
     )
+    coverage = build_knowledge_coverage(ledger, classification)
+    write_knowledge_coverage(coverage, reports=knowledge_root / "reports")
     print(
         f"Knowledge candidates: {classification.included_count} included, "
         f"{classification.excluded_count} excluded, "
         f"{classification.unresolved_count} unresolved from {len(candidates)} candidates."
+    )
+    print(
+        f"Evidence coverage: {coverage.represented_units}/{coverage.total_evidence_units} "
+        f"total classified ({coverage.total_coverage:.1%}); "
+        f"{coverage.trainable_represented_units}/{coverage.trainable_units} "
+        f"trainable represented ({coverage.trainable_coverage:.1%})."
     )
     return 0
 
