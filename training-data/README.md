@@ -49,6 +49,17 @@ Use `review_status: complete` only when no material question remains open. Use `
 
 One JSON object per line. Each topic has its own `knowledge/<topic>/dataset.jsonl`. `question_id` is stable and unique. `source_fiche` and `supporting_fiches` point to clean, related fiches under `knowledge/`; `source_doc` preserves the original `docs/` identity. `sources` points to the source record and its exact location.
 
+When a question uses an internal `docs/temes/` sheet directly and that sheet
+has no external source card (for example, an index that describes its own
+scope and links), do not invent an external source. Use a stable internal ID
+such as `internal:docs/temes/societat/dones/dones-index-de-fitxes.md`, repeat
+the path in `source_doc`, and identify the heading or metadata field in
+`location`. Omit `url` when there is no external URL. Set `llicencia` to
+`document intern de Maia; llicència no indicada` and `redistribucio` to
+`només se'n conserva la referència; no se'n copia la prosa`. This cites the
+internal evidence without making a claim about the rights of any linked
+external source.
+
 ```json
 {"question_id":"topic/doc-slug/local-01","topic":"topic","source_fiche":"knowledge/topic/fichas/doc-slug.md","source_doc":"docs/temes/topic/doc-slug.md","question_kind":"local","question":"Question text.","answer":"Grounded answer, or an explicit statement that it could not be established.","answer_status":"answered","supporting_fiches":[],"sources":[{"source_id":"stable-source-id","source_doc":"docs/fonts/stable-source-id.md","url":"https://example.org/source","location":"page, section, date, or timestamp","llicencia":"exact source-card value","redistribucio":"pendent"}]}
 ```
