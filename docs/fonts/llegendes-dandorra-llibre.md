@@ -1,47 +1,47 @@
 ---
 type: font
 id: llegendes-dandorra-llibre
-title: "Llegendes d'Andorra"
-titular: Roser Carol i Àlvar Valls · Editorial andorrana
+title: "Llegendes d'Andorra" (edició d'Anem, 2023)
+titular: Àlvar Valls i Roser Carol · Anem Editors
 autor: Roser Carol; Àlvar Valls
-publicacio: "Llegendes d'Andorra, ISBN 978-84-18865-27-5"
+publicacio: "Llegendes d'Andorra, primera edició d'Anem Editors, 2023, ISBN 978-84-18865-27-5"
 url: https://editorsandorra.com/publicacio/llegendes-dandorra/
 llicencia: obra literària amb drets reservats
 redistribucio: no
-data_consulta: 2026-09-12
-abast: >
-  Recull de cinquanta-sis llegendes andorranes: de la fundació del país per
-  Carlemany als tresors amagats, passant per miracles, éssers fantàstics,
-  bruixes, herois populars, amors i bèsties de muntanya.
+data_consulta: 2026-10-04
+abast: Registre bibliogràfic de l'edició d'Anem Editors; no conté ni autoritza la reproducció del llibre.
 notes: >
-  LA font de referència per a la branca de llegendes. Àlvar Valls és també qui
-  va assumir el repte de publicar el Diccionari enciclopèdic d'Andorra (2007),
-  segons la ponència de l'IEC — el mateix nom apareix a les dues obres
-  fonamentals del corpus escrit andorrà.
-  REDISTRIBUCIÓ: NO. És obra literària amb drets. S'hi cita i s'hi remet; no se
-  n'ha de reproduir el text. El contingut de les llegendes (l'argument) sí que
-  es pot resumir; la redacció de Carol i Valls, no.
-  Cal comprovar l'any d'edició, que no consta a la consulta.
+  Cal distingir tres publicacions amb títols molt semblants. El portal Cultura
+  Popular d'Andorra identifica *Les llegendes d'Andorra*, de Ricard Fiter i
+  Vilajoana, Edicions Andorranes, Andorra, 1966; i *Llegendes d'Andorra*,
+  d'Àlvar Valls i Roser Carol, Publicacions de l'Abadia de Montserrat,
+  Barcelona, 2010. La fitxa editorial d'aquesta targeta correspon a una
+  publicació posterior: *Llegendes d'Andorra*, d'Àlvar Valls i Roser Carol,
+  Anem Editors, 2023, ISBN 978-84-18865-27-5. El registre del corpus no
+  permet determinar quina d'aquestes edicions és la font material consultada
+  per a cada fitxa que només dona el títol i l'autoria.
+
+  REDISTRIBUCIÓ: NO. Obra literària amb drets reservats. Conservar-ne només
+  metadades bibliogràfiques i referències; no reproduir-ne el text.
 ---
 
-# Llegendes d'Andorra
+# Edicions amb títol semblant
 
-Recull de **cinquanta-sis llegendes** andorranes, de Roser Carol i Àlvar Valls.
+## Registres bibliogràfics consultats
 
-Cobreix tot l'arc: **la fundació del país per Carlemany**, **troballes de
-tresors i riqueses**, **miracles**, **éssers fantàstics**, **bruixes**, **herois
-populars**, **amors i desamors** i **bèsties de muntanya**.
+- *Les llegendes d'Andorra*, Ricard Fiter i Vilajoana, Edicions Andorranes,
+  Andorra, 1966. Referència al portal [Cultura Popular d'Andorra, àmbit
+  «Llegendari»](https://www.culturapopular.ad/ambits/el-llegendari).
+- *Llegendes d'Andorra*, Àlvar Valls i Roser Carol, Publicacions de l'Abadia de
+  Montserrat, Barcelona, 2010. El mateix àmbit oficial la descriu com una
+  actualització del recull de Fiter.
+- *Llegendes d'Andorra*, Àlvar Valls i Roser Carol, Anem Editors, 2023, ISBN
+  978-84-18865-27-5. Dades de la [fitxa de l'editorial](https://editorsandorra.com/publicacio/llegendes-dandorra/).
 
-Per a aquest corpus és **la font que faltava**: la branca de llegendes tenia
-tres fitxes i aquesta obra en promet **cinquanta-sis**. Cadascuna hauria de
-tenir fitxa pròpia.
+La pàgina de l'editorial tracta la publicació de 2023 com la primera edició
+d'aquesta edició d'Anem. Aquest registre no fusiona les tres referències ni
+afirma quina edició s'ha consultat per a les fitxes del corpus que només
+identifiquen el recull pel títol i l'autoria.
 
-**Avís de drets**: obra literària viva. Se'n pot resumir l'argument i citar-ne
-l'existència; **no se'n pot reproduir la redacció**. La llegenda és patrimoni;
-la versió escrita de Carol i Valls, no.
-
-També cal recordar el precedent metodològic: **Sergi Mas** figura entre els
-recol·lectors de folklore andorrà, i el llibre d'**Oriol (1997)** conté
-**transcripcions fetes per andorrans mateixos** — que per al corpus de llengua
-valen encara més que el text literari, perquè s'acosten a la
-[veu originària](../CONTRACT.md).
+**Drets i ús:** la redistribució consta com a no. Aquest registre guarda
+metadades bibliogràfiques i enllaços; no reprodueix text del llibre.
