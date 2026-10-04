@@ -5,13 +5,13 @@ from __future__ import annotations
 import json
 import re
 from collections.abc import Iterable
-from dataclasses import asdict, dataclass
+from dataclasses import asdict, dataclass, replace
 from pathlib import Path
 from typing import Literal, Protocol
 
 from training_data.knowledge import EvidenceUnit, KnowledgeLedger
 
-ReviewStatus = Literal["needs_review"]
+ReviewStatus = Literal["needs_review", "human_reviewed"]
 TABLE_SEPARATOR = re.compile(r"^:?-{3,}:?$")
 
 
@@ -105,6 +105,29 @@ def build_knowledge_candidates(
         if candidate is not None:
             candidates.append(candidate)
     return tuple(candidates)
+
+
+def review_candidate(
+    candidate: ConversationCandidate,
+    *,
+    evidence_by_id: dict[str, EvidenceUnit],
+    user: str,
+    assistant: str,
+) -> ConversationCandidate:
+    """Aplica wording revisat per una persona sense canviar-ne la traçabilitat."""
+
+    if not candidate.evidence_ids or any(
+        evidence_id not in evidence_by_id for evidence_id in candidate.evidence_ids
+    ):
+        raise ValueError("candidate evidence IDs must resolve to known evidence units")
+    if not user.strip() or not assistant.strip():
+        raise ValueError("reviewed user and assistant wording must be non-empty")
+    return replace(
+        candidate,
+        user=user.strip(),
+        assistant=assistant.strip(),
+        review_status="human_reviewed",
+    )
 
 
 def write_knowledge_candidates(
