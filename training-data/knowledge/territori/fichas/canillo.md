@@ -15,7 +15,7 @@ sources:
   - source_id: estadistica-ad
     source_doc: docs/fonts/estadistica-ad.md
     url: https://www.estadistica.ad/
-    location: "A001/A003, juliol del 2026, publicat el 13-08-2026: p. 3, taula 1.1, població estimada per parròquia i sexe, referència 31-07-2026."
+    location: "A001/A003, juliol del 2026, publicat el 13-08-2026: p. 3, taula 1.1, població estimada per parròquia i sexe, i p. 7, taula 3.1, població registrada i estimada, referència 31-07-2026."
     llicencia: "CC BY 4.0 per a la informació estadística pròpia, llevat d'indicació contrària"
     redistribucio: "si"
   - source_id: ros-pascuet-poblacio-migracions-1989
@@ -75,7 +75,7 @@ related_fiches: []
 
 Canillo és una de les set parròquies del Principat. L'article 1.5 de la Constitució l'esmenta en primer lloc dins la relació de parròquies. Aquest ordre és el de la llista constitucional; no prova per si sol que hi hagi una regla de precedència protocol·lària aplicable a tots els actes.
 
-El Departament d'Estadística estimava en **6.593** la població resident de Canillo a **31 de juliol del 2026**. És una estimació de residents, no el total de persones inscrites als censos comunals. La mateixa publicació manté diferenciades les dues mesures; cal conservar-ne la definició i la data quan se'n facin comparacions.
+El Departament d'Estadística estimava en **6.593** la població resident de Canillo a **31 de juliol del 2026** (taula 1.1, p. 3). La taula 3.1, p. 7, dona **7.380 persones registrades als censos comunals**, una diferència de **787** respecte de l'estimació. Són mesures diferents, que cal identificar i datar quan se'n facin comparacions.
 
 ## Territori i subdivisions
 
