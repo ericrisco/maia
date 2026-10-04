@@ -24,7 +24,8 @@ indicades. Les còpies d'evidència es mantenen fora del corpus.
 
 | Peça | Identificació i abast de lectura | Evidència |
 | --- | --- | --- |
-| A001. Estimacions de població / A003. Estadística dels censos parroquials. Juliol de 2026 | NP_A001_A003_20260813; publicada 13-08-2026; referència 31-07-2026; p. 1, 7, 8 i 12 llegides | [PDF](../raw/estadistica-poblacio/a001-a003-2026-07.pdf), [text](../raw/estadistica-poblacio/a001-a003-2026-07.txt) |
+| A001. Estimacions de població / A003. Estadística dels censos parroquials. Juliol de 2026 | NP_A001_A003_20260813; publicada 13-08-2026; referència 31-07-2026; p. 1, 7, 8 i 12 llegides; taula 3.1 de p. 7 contrastada visualment | [PDF](../raw/estadistica-poblacio/a001-a003-2026-07.pdf), [text](../raw/estadistica-poblacio/a001-a003-2026-07.txt), [p. 7 renderitzada](../raw/estadistica-poblacio/juliol-2026-p-07.png) |
+| A001/A003. Població anual, 2023 | Identificador `NP_A001_A003_20240118`; còpia allotjada per Altaveu; p. 19, taula 3.1, i p. 21 (metodologia) llegides i taula contrastada visualment; la còpia identifica 31-12-2023 com a referència | [Còpia PDF](../raw/estadistica-poblacio/a001-a003-2023-altaveu.pdf), [text](../raw/estadistica-poblacio/a001-a003-2023-altaveu.txt), [p. 19 renderitzada](../raw/estadistica-poblacio/a001-a003-2023-p-19.png) |
 | Metodologia de les estimacions de població | Codi A001 del Pla 2022–2025; 7 pàgines llegides; p. 2–7 contrastades visualment; sense data de publicació explícita identificada | [PDF](../raw/estadistica-poblacio/metodologia-estimacions-poblacio.pdf), [text](../raw/estadistica-poblacio/metodologia-estimacions-poblacio.txt) |
 | A107. Producció de tabac, any 2024 | NP_A107_20250721; publicada 21-07-2025; p. 1, 3–5 llegides; gràfic i taula contrastats amb les divisions 2404 i 2405 | [PDF](../raw/estadistica-agricultura/a107-2025-07-21.pdf), [text](../raw/estadistica-agricultura/a107-2025-07-21.txt) |
 | A052. Estadística de prestacions per desocupació involuntària, any 2024 | NP_A052_20250403; publicada 03-04-2025; p. 2–5, 9 i 14 llegides; pàgines 5 i 9 contrastades visualment; dades d'Afers Socials tractades per Estadística | [PDF](../raw/estadistica-prestacions/a052-desocupacio-20250403.pdf), [text](../raw/estadistica-prestacions/a052-desocupacio-20250403.txt) |
@@ -33,6 +34,19 @@ indicades. Les còpies d'evidència es mantenen fora del corpus.
 La pàgina del portal de la nota té l'identificador de publicació `36426`;
 la metodologia, `26989`. Les URL originals són al registre
 [d'evidència](../raw/estadistica-poblacio/poblacio-registrada-i-estimada-fora-del-corpus.md).
+
+La nota A001/A003 de 2023 s'ha localitzat com a còpia publicada a Altaveu
+([URL de la còpia](https://www.altaveu.com/uploads/s1/16/00/49/3/dades-poblacio-2023.pdf));
+no s'ha pogut localitzar ni recuperar la publicació original del portal
+d'Estadística. La còpia identifica el Departament d'Estadística com a autor,
+demana citar la nota `NP_A001_A003_20240118` i conté les taules i metodologia
+indicades més amunt. L'avís legal d'Altaveu consultat el 04-10-2026 no declara
+una llicència de reutilització per al PDF ni una autorització per redistribuir
+aquest document; per tant, la situació dels drets sobre la còpia és pendent i
+la seva redistribució no s'autoritza en aquesta fitxa. La llicència CC BY 4.0
+del Departament per a informació estadística pròpia no es tracta com a prova
+dels termes de la còpia allotjada per un tercer. S'han conservat la còpia,
+l'extracte de text, el render de la p. 19 i l'avís legal d'Altaveu a `docs/raw/`.
 
 El portal també ofereix una API pública de dades. La fitxa de l'API registra
 l'accés sense autenticació, la llicència CC BY 4.0 declarada per a les dades

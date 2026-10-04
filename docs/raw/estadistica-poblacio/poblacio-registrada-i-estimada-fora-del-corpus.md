@@ -13,8 +13,13 @@ L'avís legal es va llegir i conservar abans d'incorporar les taules.
 | [Avís legal](avis-legal-2026-09-13.txt) | [Portal, avís legal](https://www.estadistica.ad/portal/apps/sites/#/estadistica-ca/pages/avis-legal); text complet llegit; actualització declarada 02-04-2026 |
 | [Nota de juliol de 2026](a001-a003-2026-07.pdf) | [PDF original](https://sig.govern.ad/SIGDDE.Public/Files/Documents/Notes_premsa_noticies/A001_A003_20260813_A.pdf); NP_A001_A003_20260813, publicació 13-08-2026, referència 31-07-2026 |
 | [Text de la nota](a001-a003-2026-07.txt) | Extracció local amb pdftotext -layout; p. 1, 7, 8 i 12 llegides i contrastades visualment; resta pendent |
+| [Render de la p. 7](juliol-2026-p-07.png) | Comprovació visual de la definició i la taula 3.1, inclosos els dos valors de La Massana i la diferència publicada |
 | [Metodologia](metodologia-estimacions-poblacio.pdf) | [PDF original](https://sig.govern.ad/SIGDDE.Public/Files/Documents/Metodologia_Classificacions/Metodologia%20estimacions%20de%20poblaci%C3%B3.pdf), enllaçat des de la publicació 26989; A001 del Pla 2022–2025 |
 | [Text de metodologia](metodologia-estimacions-poblacio.txt) | Set pàgines llegides; p. 2–7 contrastades visualment; no s'ha identificat data explícita de publicació |
+| [Còpia de la nota A001/A003 de 2023](a001-a003-2023-altaveu.pdf) | Còpia allotjada per [Altaveu](https://www.altaveu.com/uploads/s1/16/00/49/3/dades-poblacio-2023.pdf), no la publicació oficial directament recuperada; `NP_A001_A003_20240118`; p. 19, taula 3.1, i p. 21 llegides; p. 19 contrastada visualment. La còpia etiqueta la dada com a estimació resident a 31-12-2023 i explica la diferència respecte del registre parroquial. Avís legal d'Altaveu consultat 04-10-2026: no s'hi ha trobat llicència/autorització de redistribució aplicable al PDF; drets pendents. |
+| [Text extret de la còpia](a001-a003-2023-altaveu.txt) | Extracció local del PDF, sense estatus de font independent |
+| [Render de la p. 19](a001-a003-2023-p-19.png) | Comprovació visual de la taula 3.1 i les etiquetes de columna |
+| [Avís legal d'Altaveu](altaveu-avis-legal.html) i [text](altaveu-avis-legal.txt) | Captura i extracció consultades 04-10-2026; s'hi llegeixen condicions generals d'ús, però no una llicència de reproducció del PDF |
 
 Els PNG `juliol-2026-p*.png` i `metodologia-p*.png` són renders locals de
 comprovació, no noves fonts. Els de les pàgines 2, 3 i 7 es van generar el

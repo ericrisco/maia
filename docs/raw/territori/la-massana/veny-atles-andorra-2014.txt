@@ -1,0 +1,380 @@
+                           L’Atles lingüístic del domini català i Andorra
+
+
+
+
+                 L’Atles lingüístic del domini català: característiques
+                     L’Atles lingüístic del domini català (ALDC) s’inscriu dins el mètode de la geo-
+                 lingüística, branca de la dialectologia que estudia la diferenciació lingüística en
+                 funció de l’espai. El projecte va ser presentat al VII Congrés Internacional de Lin-
+                 güística Romànica (Barcelona, 1953) per Antoni M. Badia i Margarit i Germà Co-
+                 lón. Les enquestes es realitzarien entre el 1964 i el 1978 a càrrec, entre altres, de
+                 Joan Martí i Castell, Lídia Pons, Joaquim Rafel i Joan Veny. El qüestionari, més
+                 ampli que en atles anteriors (Atlas lingüístic de Catalunya, Atlas lingüístic d’An-
+                 dorra, Atlas lingüístico de la Península Ibérica, Atlas linguistique des Pyrénées Ori-
+                 entales), consta de 2.452 enunciats i es va aplicar a cent noranta poblacions de tot
+                 el domini lingüístic, escollint informadors d’edat avançada, sedentaris, preferent-
+                 ment de l’àmbit agrícola i amb poca instrucció. Les respostes al qüestionari es van
+                 transcriure fonèticament i una part important va ser objecte de gravació magne-
+                 tofònica, la qual cosa va representar un progrés notable en la metodologia de la
+                 recerca dialectal que va fer possible l’enregistrament d’un gran nombre d’etnotex-
+                 tos de cultura popular que recentment han estat objecte de digitalització; milers
+                 de fotografies il·lustren aspectes diversos de la rica cultura material dels nostres
+                 països.
+                     Els avantatges d’aquesta obra són evidents: 1) recollida dels materials quan
+                 encara moltes poblacions no havien sofert la sagnia demogràfica dels anys setanta
+                 i quan no havien irromput els mitjans de comunicació en català; 2) la irrupció i el
+                 progrés de la informàtica han fet possible la formació d’una base de dades i una
+                 presentació tipogràfica més fàcil i més atractiva. La incorporació de l’ALDC com
+
+                                                          13
+
+
+
+
+001-088 II Jornades filologia.indd 13                                                                     25/09/2014 08:43:25
+                      a programa de recerca de l’Institut d’Estudis Catalans (IEC), arran de la reestruc-
+                      turació d’aquest (1989), va donar un impuls als treballs d’ordenació i interpreta-
+                      ció dels materials i a la seva publicació. Comparteixo la direcció amb Lídia Pons,
+                      acompanyat d’un equip competent format per Núria Jolis, Montserrat Roma, Pe-
+                      dro Monzo i Montserrat Badia. Fins ara han vist la llum tres volums i s’està treba-
+                      llant en el quart. Com a subprojecte derivat de l’ALDC, s’ha projectat el Petit atles
+                      lingüístic del domini català, el primer volum del qual apareixerà dins aquest any.
+                      Es tracta d’un atles interpretatiu, amb comentari lingüístic de cada mapa seleccio-
+                      nat, presentat en DIN A4 i en colors.1
+
+                      Participació d’Andorra
+                           Andorra és present a l’ALDC amb dues localitats, Ordino i Santa Coloma
+                      d’Andorra, treballades per Joan Martí i Castell i Joan Mascaró entre el 19 i el 23 de
+                      juliol de 1972. Els informants d’Ordino foren els senyors Ventura Gaspar i Tor-
+                      res, de setanta-set anys, i Josep Ariost i Solana, de setanta-vuit anys, ambdós page-
+                      sos; el de Santa Coloma fou Àngel Calvó i Cerqueda, de setanta-sis anys, pagès i
+                      carnisser. Recollir en pocs dies milers de paraules a còpia de preguntes indirectes
+                      («Com en dieu d’aquell ferro que es posa al morro del porc perquè no furgui?»,
+                      «Com se’n diu de la caseta on les abelles fan la mel? De quina matèria la fan?»,
+                      etc.) a persones d’edat algunes de les quals són avares del seu temps perquè han
+                      d’anar a girar l’herba o a munyir les vaques o que només volen «pau, tranquil·litat
+                      i bons aliments» suposa una abnegació només superable per un ardit amor a la
+                      llengua, als seus mecanismes i als seus misteris.
+                           El Govern d’Andorra figura entre les institucions que generosament, a través
+                      de l’Institut d’Estudis Catalans, han finançat una part de les despeses de publica-
+                      ció d’aquest Atles. Quedi aquí constància de la nostra profunda gratitud.
+                           Des d’ara em proposo comentar breument alguns fenòmens fonètics, morfo-
+                      lògics i lèxics, extrets dels materials corresponents al primer volum i que, d’alguna
+                      manera, han atret la meva atenció.
+
+                      L’andorrà, un dialecte de factura occidental
+                         És coneguda la divisió clàssica del català en dos blocs, l’occidental i l’oriental.
+                      Atenent a les característiques bàsiques que oposen un bloc a l’altre, l’andorrà s’en-
+                      cabeix dins el català occidental per trets com:
+
+                           1. En el moment de lliurar aquest original a l’editor ja han aparegut sis volums de l’ALDC i qua-
+                      tre de Joan Veny, Petit atles lingüístic del domini català, Barcelona, Institut d’Estudis Catalans, 2007,
+                      2009, 2011, 2013; l’obra constarà de nou volums.
+
+
+                                                                        14
+
+
+
+
+001-088 II Jornades filologia.indd 14                                                                                        25/09/2014 08:43:25
+                      a) distinció de [a], [e] àtones: cara, galta, panxa, clenxa (mapes 2, 36, 68, 26,
+                 66 i 32 respectivament), enfront de metge, fetge, colze, gemegar, cervell (mapes
+                 170, 70, 68, 21, 32 respectivament); notem, tanmateix, la possibilitat d’extrem tan-
+                 cament palatal de la e de colze en c[ɔ]lzi (Sta. Coloma) (mapa 68) i una tendència
+                 entre parlants de la tercera generació a neutralitzar a, e en [ə], com ha mostrat
+                 Rabassa en el seu estudi sociodialectològic (1994);
+                      b) manteniment de [o] àtona, sense tancar-se en [u]: corona, plorar (mapes
+                 33, 19); tanmateix, es troba l’alternança amb [u], segons les localitats considera-
+                 des: rotar/rutar, roncar/runcar, forat/furat (mapes 119, 134, 46);
+                      c) incoatius en -i-: patix, servix (materials extrets de la base de dades);
+                      d) la e tancada llatinovulgar es manté com a [e], però amb una certa tendència
+                 a obrir-se en [ε], com en català oriental: sεlles (mapa 14), trεnes (mapa 24), rεga
+                 (mapa 92).
+                      També mostra una vocació occidental en el cas de ginoll, enfront del predomi-
+                 nantment oriental junoll (mapa 87); o de [s]arampió enfront de l’oriental [ſ]aram-
+                 pió, amb consonant palatalitzada (mapa 165).
+                      Diguem que l’andorrà se situa dins el grup occidental, però amb algunes vel·
+                 leïtats amb l’oriental. Aquest capteniment de balanceig entre els dos blocs s’obser-
+                 va en casos com els noms dels ullals (mapa 50): la solució de Santa Coloma, unyals,
+                 variant d’ullals per equivalència acústica (es diu ullals perquè es troben en l’eix
+                 vertical de les òrbites oculars) i que és una solució oriental, es contraposa a la
+                 d’Ordino, avellaners, reducció del perifràstic dents avellaners, com si diguéssim
+                 ‘dents per a trencar les avellanes’, mot propi dels parlars occidentals septentrio-
+                 nals. Igualment, unflada ‘inflada’ (mapa 37), variant occidental, amb una [u] ja
+                 antiga, potser llatinovulgar, potser amb la i velaritzada i labialitzada en [u] per la f,
+                 és pròpia d’Ordino (juntament amb boltida), mentre que botida, de Sta. Coloma,
+                 campa per parlars orientals del nord. Una cosa semblant passa amb penellons (Or-
+                 dino), solució oriental, i perillons (Sta. Coloma) (mapa 112), variant occidental.
+
+                 L’andorrà i el català nord-occidental
+                     Però sovint l’adscripció occidental, més concretament nord-occidental, resta
+                 palesa en casos com (a)lendar ‘alenar, respirar’ (mapa 1 d’aquest estudi), que, a
+                 més d’Andorra, viu des del Pallars Sobirà fins al Segrià i, més al sud, al Matarranya
+                 (mapa 136). Com ja havien dit A. Castro (1919) i Moll (DCVB, 1930), aquest verb
+                 deriva del llat. *alenhitare, metàtesi de anhelitare ‘panteixar, esbufegar’, que,
+                 perdent el sema ‘[respirar] fatigosament, acceleradament’, va esdevenir sinònim de
+                 respirar, amb el qual conviu. Algunes poblacions d’aquesta àrea coneixen la variant
+                 alentar, que s’explicaria per la caiguda matinera de la vocal pretònica (alenhita-
+                 re > *alentare > alentar) enfront de l’altra variant, alendar, en la qual la caiguda
+
+                                                            15
+
+
+
+
+001-088 II Jornades filologia.indd 15                                                                        25/09/2014 08:43:25
+                      hauria estat més tardana, permetent així la sonorització de la dental (alenhitare
+                      > *alenhidare > alendar). No falten, a l’àrea assenyalada, deverbals com alende,
+                      alendo, alén, alendada, alendació, alentació. Aquest tipus lèxic arriba a la vall de
+                      Benasc i parlars de frontera (Graus), i en castellà tenim alentar, però no sembla que
+                      sigui propi de l’aragonès. Haurem de concloure que és una evolució des del llatí. En
+                      valencià no hi ha restes actuals del verb, però aquest s’usava en la llengua medieval
+                      (micer Johan, J. Roig, sant Vicent Ferrer, Tirant), així com el deverbal alende (Vi-
+                      llena, sant Vicent Ferrer, faules isòpiques [alent], Eiximenis i B. Oliver [alenda]).2
+                           Un altre exemple de la relació, ara més estreta, amb els parlars pallaresos i ri-
+                      bagorçans són els mots referents a la ‘canella de la cama’: a Andorra tenim serrell
+                      (Ordino) i serradell [de la cama] (Sta. Coloma) (mapa 89), basats en la imatge de
+                      la serra, ço que contrasta amb l’os, la carena, la canella [de la cama] a l’est, i amb el
+                      séc [de la cama] a l’oest, que en són la motivació.
+
+                      Els arcaismes andorrans
+                          La situació perifèrica respecte del català central, en una àrea muntanyosa, ha
+                      afavorit la presència d’arcaismes, de vells mots o velles construccions superats en
+                      el dialecte central que, com és sabut, ha nodrit bàsicament la llengua estàndard.
+                      Braó ‘part alta del braç o d’altres parts vigoroses del cos humà com també de certs
+                      animals’, coneix a Ordino, segons l’enquesta de l’ALDC, la variant brasó, que, si és
+                      correcta l’etimologia correntment admesa (el fràncic bradon ‘tros de carn’), hau-
+                      ria mantingut la -d- originària en forma de [z] sonora, com alosa < alauda, bé
+                      que sembla que abans de l’accent aquest so hauria d’haver desaparegut (cf. pedu-
+                      culu > pezoll > peoll > poll, Moll, 1952, p. 108-109). I bé, no cal fer d’aquest punt
+                      un problema angoixant. És sabut que les lleis fonètiques no són d’un compliment
+                      inexorable. La imatge proposada per Menéndez Pidal resulta tranquil·litzadora:
+                      així com no totes les fulles flotant sobre el riu són arrossegades amb la mateixa
+                      força puix que n’hi ha que queden retingudes en un recolze, així passa amb les
+                      paraules, que no totes resten sotmeses a la llei del canvi fonètic. De tota manera,
+                      brasó ha de ser anterior a braó i aquella forma, que també es troba per punts del
+                      català septentrional de transició, és el testimoni vivent d’una etapa arcaica.
+                          Dins aquesta mateixa línia m’agradaria parlar de dues variants, picaó ‘picor’ i
+                      tremoladors ‘tremolins’. Al costat de frisança, a Ordino apareix picaó i a Sta. Colo-
+                      ma, picaió, amb i antihiàtica,3 formes que reapareixen en algunes localitats especial-
+
+                           2. Alendar en la traducció catalana del Nebrija potser és un testimoni de la procedència occiden-
+                      tal del traductor, Gabriel Busa.
+                           3. La variant picalló que l’ALPO enregistra a Canillo, Ordino i la Massana podria ser resultat
+                      d’una audició defectuosa, car la ultracorrecció seria sols admissible en una àrea de iodització (vg., per
+                      ex., atzagallada per atzagaiada).
+
+
+                                                                        16
+
+
+
+
+001-088 II Jornades filologia.indd 16                                                                                        25/09/2014 08:43:26
+                 ment nord-occidentals (Arfa, Palau de Noguera, Àger, etc., mapa 5). Es tracta d’un
+                 derivat del llat. picatione, que, com va demostrar brillantment Gulsoy (1993), a
+                 través de pica[z]ó va desembocar en picaó per pèrdua de la [z]; aquesta forma, redu-
+                 ïda a picó (com regasó > regó ‘regada’, segaó > segó ‘segada’, etc.), es va assimilar als
+                 mots acabats en -or (calor, ardor, etc.), i aquest és l’origen de picor i els seus derivats
+                 (picoreta, etc.). De tota manera, podria estranyar la -s- sorda actual de picassó, que
+                 es troba en punts que s’estenen entre el Segrià i el Montsià, en lloc de la -z- sonora
+                 de l’etapa anterior (pica[z]ó): cal explicar-la com a resultat d’un creuament amb les
+                 formes d’origen culte picació, vives encara a la vall de Benasc, les Paüls i Sopeira.
+                      Encara que no ho sembli, crec que la resposta tremoladors de Sta. Coloma per
+                 a ‘tremolins’ té a veure amb aquest sufix -aó. L’antic tremolaó ‘acció de tremolar’
+                 (Gulsoy, 1993, p. 323-324) degué ser interpretat, per ultracorrecció, com
+                 tremolado(r), tremolado(r)s ‘tremolins’; no tindria sentit l’aplicació del sufix -ador
+                 a aquest radical verbal amb el valor d’agent (com a caçador, pescador, etc.), que és
+                 el normal d’aquest sufix.
+                      Sense fugir de la qüestió de l’arcaisme, donarem un cop d’ull a la variant d’ar-
+                 ruga, rua. El llat. ruga ha donat en català ruga, arruga i rua, arrua; aquestes dues,
+                 amb emmudiment de la -g- en contacte amb la u (cf. *puga > pua, agulla > val.
+                 aülla); la a- protètica de arruga, arrua s’explica, com bé diu Coromines, per fono-
+                 sintaxi (una ruga, una rua -> una arruga, una arrua) i per l’atracció del verb arru-
+                 gar, arruar. Quant a la distribució geogràfica, rua i arrua es troben a Andorra,
+                 Cerdanya, Pallars, Baix Camp, Priorat, Ribera d’Ebre, Terra Alta, la major part del
+                 País Valencià i Balears (vg. el mapa 2 d’aquest estudi). La documentació arrenca
+                 del s. xiv i es troba sobretot en autors valencians. En termes d’arcaisme cal dir que
+                 tan arcaica és una forma com l’altra; com tantes vegades, una àrea del domini s’ha
+                 inclinat per una variant i una altra àrea per una altra. La normativa fabriana recull
+                 ruga i arruga, però no rua ni arrua. Fabra, en evitació de pluralitat de variants, es
+                 va decidir per les més etimològiques i predominants al Principat. En canvi, el Dic-
+                 cionari ortogràfic i de pronúncia de l’Acadèmia Valenciana de la Llengua, fidel a
+                 l’estratègia de protegir i prioritzar les formes valencianes, acull la variant arrua
+                 estesa per la seva àrea i arrecerada en la llengua antiga.
+
+                 Morfologia
+                     Tot i que el primer volum de l’ALDC no té cap capítol dedicat a la morfologia,
+                 voldria cridar l’atenció sobre el gènere masculí de tos registrat a Sta. Coloma, que,
+                 segons Riera, es troba també a Canillo, Arinsal, Aixirivall i Nagol, i que passa per
+                 malla al DCVB i al DECat. Tos, pel fet de trobar-se entre els mots no quantificables,
+                 es prestava a un canvi de gènere; recordem la freqüència del mot en contextos sen-
+                 se precisió de gènere: «Té tos, un atac de tos»; podria ajudar-hi, si és que es diu en
+
+                                                             17
+
+
+
+
+001-088 II Jornades filologia.indd 17                                                                          25/09/2014 08:43:26
+                      andorrà, estossec. Per al canvi de gènere, vg. el cas de sang, f. en normativa i m. en
+                      rossellonès, de pols ‘partícules diminutes’, f. en normativa i m. en nord-occidental,
+                      enfront de pols ‘bategament arterial’, que només és m. per la força del plural polsos.
+                           En el context de certes respostes apareix l’article definit clàssic lo, darrere con-
+                      sonant o després de pausa («M’ha rajat lo nas», mapa 35), amb la variant combi-
+                      natòria el després de vocal («La sang del nas). Per a jutjar aquest resultat, cal tenir
+                      en compte l’època de les enquestes (fa trenta-cinc anys) i l’edat dels informadors
+                      (al voltant dels setanta anys). Avui les coses han canviat. L’estudi sociodialectal de
+                      Rabassa (1994, p. 190-195; dades de 1991-1992) confirma l’ús de lo en la primera
+                      generació, reduït, però, al 50 % a la segona, convivint amb el/al, i acabant a zero
+                      casos en la tercera, on domina absolutament el/al: una mostra eloqüent de la pui-
+                      xant orientalització dels parlars andorrans.
+
+                      Notes de lèxic
+                          Unes consideracions pel que fa al lèxic. Els dialectes sovint forneixen materials
+                      genuïns a la llengua estàndard, coincidents gairebé sempre amb la documentació
+                      antiga, amb la tradició escrita. Notem la resposta espontània canell, a les dues po-
+                      blacions andorranes (i altres del Pallars i Ribagorça, juntament amb canella)
+                      (mapa 98) enfront de la castellanitzant i força general munyeca (monyica) i l’occi-
+                      tanitzant punyet del Rosselló. O com, al costat de formes cultes, el poble ha gene-
+                      rat variants populars, empès per la força de la seva creativitat: és el cas de furóncol
+                      ‘tumor’, que, a través de furonclo, ha donat, per metàtesi, floronco. Aquesta és la
+                      forma dels nostres clàssics i dels nostres parlants, que justifica la crítica de Moll
+                      quan furòncol —  ‌‌«forma mixta entre la llatina [furunculus] i la pròpiament catala-
+                      na floronco» (DECat)— era l’única forma normativa del Fabra; justificadament, el
+                      DIEC la hi va introduir.
+                          Però altres vegades la llengua històrica, diatòpica mostra les seves deficiències.
+                      Per ex., els pòmuls manquen de resposta a Andorra i altres localitats: a la resta del
+                      domini, al costat d’alguns casos de pòmuls, trobem el castellanisme pómulos, el
+                      francesisme pometes, o algunes creacions com ossos de la cara o de la galta, galto-
+                      nets, bo de les barres i el preciós mels de sa galta eivissenc que emana efluvis de
+                      Bernat Metge. Igualment, el dit índex no té tampoc resposta, com passa a una quar-
+                      ta part de punts de l’ALDC; algunes respostes molt minoritàries són aprofitables
+                      (apuntador, dit de senyalar), altres aproximatives o ambigües (dit segon), altres tri-
+                      butàries del castellà (índice) o de l’italià (índitxe). D’altra banda, no falten les con-
+                      fusions entre els informadors de ros/roig (mapa 29), pestanyes/parpelles (mapes 15
+                      i 16) i borni/guerxo (mapa 142). Tot apunta a la necessitat imperiosa d’una llengua
+                      estàndard que ompli les llacunes lèxiques dels parlars populars, que en fixi els con-
+                      torns semàntics i els socialitzi a través de l’escola i els mitjans de comunicació.
+
+                                                                 18
+
+
+
+
+001-088 II Jornades filologia.indd 18                                                                        25/09/2014 08:43:26
+                      El llenguatge infantil resulta d’un gran atractiu. L’ALDC deu ser l’únic atles
+                 lingüístic que inclou l’enunciat «Tenir mal els nens» (mapa 22), que ha resultat
+                 onomasiològicament molt productiu. Andorra es comporta amb originalitat dins
+                 l’àrea principatina amb el seu buba (sense aparent relació amb buba ‘pústula’),
+                 compartit amb poblacions veïnes (Alins, Arfa, Gósol), però que també reapareix
+                 en punts del tortosí i del Matarranya, una mostra del batec en punts esparsos del
+                 domini d’un idèntic impuls onomatopeic i, en definitiva, de la nostra unitat lingüís-
+                 tica; a la resta trobem variants també expressives, fonosimbòliques, com bua, nai,
+                 nanai, aïx, iai, mimi, oioi i el suspecte pupa.
+                      L’enunciat «Fer un petó» ha donat resultats interessants a Andorra: estimar, a
+                 Sta. Coloma, i fer una estimada, a Ordino, expressions que, en el seu origen, com
+                 estima, han de tenir a veure amb el món infantil («Estimar Besar [en llenguatge
+                 infantil], Organyà, Costa de Llevant, Camp de Tarragona», DCVB), propagat des-
+                 prés al llenguatge dels adults i que s’estén per punts del nord-occidental i del cata-
+                 là central (mapa 3). Es tracta d’un ús metonímic.
+                      Cada contrada, cada parlar, té, dins el conjunt compartit per altres parlars del
+                 mateix domini, característiques pròpies. N’hem vist algunes del camp de la fonèti-
+                 ca i de la morfologia. Del lèxic caldria destacar fil de l’esquena ‘columna dorsal’
+                 (mapa 67), només repetit a l’Alguer, gargalada ‘gargall’ (mapa 120), garganyol ‘nou
+                 del coll’ (mapa 60), grims ‘grius, tremolons’ (mapa 135), embudar ‘tartamudejar’
+                 (mapa 156), voltaungles ‘voltadits’ (mapa 162), carabassa ‘butllofa’ (mapa 178).
+                      Andorra, malgrat l’oficialitat del català, no ha resistit la instal·lació en el seu
+                 sistema de certs castellanismes. Alguns, com coça, molt general, documentat des
+                 del s. xvi, adaptació del cast. coz a partir del plural (com de cases, sing. casa, de
+                 coces, sing. coça [mapa 95]); altres, com a conseqüència d’un ús eufemístic, com
+                 ro[x]ar ‘vomitar’ (mapa 127), que també pot afectar malalties o defectuositats
+                 com ciego ‘cec’ (mapa 143), bisc ‘estràbic’ (mapa 141); substituir un nom inconve-
+                 nient pel d’una altra llengua sempre ha estat un procediment semàntic freqüent.
+                 En canvi, s’alliberen de l’estigma castellà mots com guinyada o flato, segons les
+                 recerques de Coromines.
+
+                 Introducció d’andorranismes al DIEC
+                      Notem com la Secció Filològica de l’IEC, a proposta del Servei de Política Lin-
+                 güística del Govern d’Andorra, s’ha fet ressò, a través del DIEC, d’una sèrie de
+                 mots andorrans que no tenien cabuda al diccionari normatiu i que no s’encabeixen
+                 dins el primer volum de l’ALDC: averia ‘impost que gravava el bestiar menut’, bo-
+                 tir-se ‘enutjar-se’, donja ‘tipus d’embotit’, manador ‘pregoner comunal’, nunci
+                 ‘conserge de l’administració pública’, padral ‘registre dels animals de renda’, pita-
+                 vola ‘papallona’, serenalla ‘sargantana’, posobra ‘vigília d’una festa’, cascavellic
+
+                                                           19
+
+
+
+
+001-088 II Jornades filologia.indd 19                                                                       25/09/2014 08:43:26
+                      ‘pruna petita i rodona’, cascavelliquer ‘prunera que fa cascavellics’, etc. D’aquesta
+                      manera, un lèxic propi de les valls d’Andorra ha rebut amb tota justícia la benedic-
+                      ció acadèmica.
+
+                      Conclusió
+                           Hem pogut veure, d’una manera succinta, a través dels mapes del primer vo-
+                      lum de l’ALDC, com els parlars d’Andorra queden dignament representats en
+                      aquesta obra ambiciosa de la geolingüística catalana i romànica. S’ha mostrat la
+                      seva pertinença al català nord-occidental, sense, però, menystenir solucions ori-
+                      entals, que s’accentuen en la tercera generació en el cas de la vocal neutra i de
+                      l’article masculí. S’ha subratllat la presència de certs arcaismes contrastant amb
+                      alguns castellanismes, la creativitat infantil, la riquesa d’alguns mots propis en-
+                      front d’eventuals dèficits del parlar col·loquial així com l’acollida de vocables pa-
+                      trimonials d’Andorra en el Diccionari de la llengua catalana de l’IEC. L’ALDC
+                      reflecteix l’estat de la nostra llengua en la dècada dels setanta del segle passat. Serà
+                      un punt de referència en la seva evolució, a més d’un inventari preciós del patri-
+                      moni lingüístic d’Andorra i de totes les terres de parla catalana.
+                                                                                                     Joan Veny
+                                                                                     Institut d’Estudis Catalans
+
+                      Referències bibliogràfiques
+                      ALPO = Guiter, Henri (1966). Atlas linguistique des Pyrénées Orientales. París: Centre
+                          National de la Recherche Scientifique.
+                      Castro, Américo (1919). «Adiciones hispánicas al Diccionario etimológico de W. Meyer-
+                          Lübke». Revista de Filología Española, 6, p. 337-345.
+                      DCVB = Alcover, Antoni M.; Moll, Francesc de B. (1930-1962). Diccionari català-va-
+                          lencià-balear. Palma de Mallorca: Moll.
+                      DECat = Coromines, Joan (1980-1991). Diccionari etimològic i complementari de la llen-
+                          gua catalana. Barcelona: Curial: La Caixa. 10 v.
+                      Gulsoy, Joseph (1993). Estudis de gramàtica històrica. València: Institut Universitari de
+                          Filologia Valenciana; Barcelona: Publicacions de l’Abadia de Montserrat.
+                      Martí i Castell, Joan (2007). «Atles lingüístic del domini català». Ex-libris Casa Bauró
+                          [Andorra], 10, p. 26-32.
+                      Moll, Francesc de B. (1952). Gramática histórica catalana. Madrid: Gredos. [Traducció
+                          catalana, València, Universitat de València, 1991, i amb anotacions, 2006]
+                      Rabassa, Lídia (1994). Phonétique, phonologie et morphologie nominale du catalan an-
+                          dorran: le système et ses variations. Tesi doctoral. Universitat de Tolosa II (Le Mirail).
+                      Riera, Manel (1992). La llengua catalana a Andorra: Estudi dialectològic dels seus parlars
+                          rurals. Barcelona: Institut d’Estudis Andorrans.
+
+
+
+                                                                   20
+
+
+
+
+001-088 II Jornades filologia.indd 20                                                                             25/09/2014 08:43:26
+                 Mapa 1. Àrea de alendar i alentar (ALDC, 131).
+
+
+                                                             21
+
+
+
+
+001-088 II Jornades filologia.indd 21                             25/09/2014 08:43:29
+                      Mapa 2. Distribució de la variant (ar)rues ‘arrugues’ (ALDC, 8).
+
+
+                                                                    22
+
+
+
+
+001-088 II Jornades filologia.indd 22                                                    25/09/2014 08:43:32
+
