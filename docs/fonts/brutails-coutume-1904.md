@@ -249,3 +249,15 @@ decidir què és regla i què és desviació.** Quan aquesta obra qualifica un �
 d'abusiu, de mal fundat o de recent, **ho fa des d'aquesta posició**, no com a
 observador neutre. Vegeu
 [«Predicar miserias y flaquesas de las Valls»](../temes/historia/manual-digest/predicar-miserias-y-flaquesas-de-las-valls.md).
+
+## Derivats d'imatge per a verificació visual — 04-10-2026
+
+Per comprovar visualment els buits dels aranzels citats a la fitxa del *Politar*,
+s'han generat dues imatges de consulta a partir del PDF local
+`docs/raw/llibres/brutails-coutume.pdf`: `docs/raw/llibres/brutails-pages/review-p-124.png`
+i `docs/raw/llibres/brutails-pages/review-p-125.png`, corresponents a les pàgines
+impreses CIV i CV. Són derivats interns de verificació, desats sota `docs/raw/`
+i exclosos de `training-data/`; no se'n redistribueixen les imatges. S'hi
+apliquen les condicions de reutilització registrades en aquesta fitxa:
+reutilització no comercial de Gallica amb atribució, ús comercial amb llicència,
+i elegibilitat per a entrenament encara pendent.

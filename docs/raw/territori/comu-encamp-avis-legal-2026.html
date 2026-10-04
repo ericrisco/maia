@@ -1,0 +1,603 @@
+
+
+
+
+	<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ca">
+<head>
+
+	<title> Avís legal - Comu d&#39;Encamp </title>
+	<meta charset="UTF-8">
+	<meta name="description" content="Seu electrònica de Comu d&#39;Encamp"/>
+	
+	<meta name="keywords" content="seu electr&ograve;nica, sede electr&oacute;nica, carpeta ciutadana, certificat digital, Tauler electr&ograve;nic"/>
+	
+	
+   	<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    
+    
+		<link rel="stylesheet" href="/bootstrap/css/bootstrap.css" />
+	
+	
+	<script>
+    function getCookie(name) {
+        // Split cookie string and get all individual name=value pairs in an array
+        let cookieArr = document.cookie.split(";");
+
+        // Loop through the array elements
+        for(let i = 0; i < cookieArr.length; i++) {
+            let cookiePair = cookieArr[i].split("=");
+
+            /* Removing whitespace at the beginning of the cookie name
+            and compare it with the given string */
+            if(name === cookiePair[0].trim()) {
+                // Decode the cookie value and return
+                return decodeURIComponent(cookiePair[1]);
+            }
+        }
+
+        // Return null if not found
+        return null;
+    }
+    function isGAEnabled() {
+        const cookies = getCookie('cb-enabled');
+        if (cookies != null && cookies !== "") {
+            const json = JSON.parse(cookies);
+            const analytics = json['analytics'] !== undefined ? json['analytics'] : false;
+            const ga = json['ga'] !== undefined ? json['ga'] : false;
+            return analytics || ga;
+        }
+        return false;
+    }
+</script>
+
+<!-- Google Analytics -->
+
+
+
+<!-- Fi de Google Analytics -->
+
+
+
+
+
+<script src="/js/jquery/jquery-3.7.1.min.js"></script>
+<script src="/js/jquery/jquery-ui-1.14.0.min.js"></script>
+
+
+
+
+<script src="/js/jquery/jquery.treeview.js"></script>
+<link rel="stylesheet" href="/css/jquery/jquery.treeview/jquery.treeview.css">
+
+
+
+    <script
+            src="/js/jquery/jquery.ui.datepicker-ca.js"></script>
+
+
+
+
+
+
+
+
+
+
+    <!-- Avisar al sortir -->
+    <script>
+        //<![CDATA[
+
+        function startsWith(original, start) {
+            return original.indexOf(start) === 0;
+        }
+
+        function obtainComparableUrl(url) {
+            var result = url;
+            var parsea = url.split("//", 2);
+
+            if (parsea.length > 1) {
+                result = parsea[1]
+            }
+
+            return result;
+        }
+
+        var urlExcepcions = new Array();
+        urlExcepcions[0] = obtainComparableUrl('http://www.google.com');
+urlExcepcions[1] = obtainComparableUrl('http://tramits.comuencamp.ad');
+
+
+        jQuery(document).ready(function () {
+            jQuery('a').click(function () {
+                var url = jQuery(this).attr('href');
+
+                var url1 = obtainComparableUrl(url);
+                var url2 = obtainComparableUrl('http://seu.comuencamp.ad');
+
+                var excepcio = false;
+                var i = 0;
+                while (i < urlExcepcions.length) {
+                    if (startsWith(url1, urlExcepcions[i]))
+                        excepcio = true;
+                    i++
+                }
+
+                if (url.split('//').length > 1 && !startsWith(url1, url2) && !excepcio) {
+                    return confirm('Està sortint de la Seu Electrònica');
+                } else
+                    return true;
+            });
+        });
+        //]]>
+    </script>
+
+
+
+
+    <script>
+        //<![CDATA[
+        let nSinc = 0;
+        var horaOfi = 1791085808268;
+        var dataSeu = new Date(horaOfi);
+
+        setInterval("actualitzaHora()", 1000);
+
+        function actualitzaHora() {
+            nSinc++;
+            if (nSinc > 60) {
+                ajaxSincronitzaHora();
+            } else {
+
+                horaOfi = horaOfi + 1000;
+                dataSeu.setTime(horaOfi);
+
+                var hor = dataSeu.getHours();
+                if (hor < 10)
+                    hor = "0" + hor
+                var sec = dataSeu.getSeconds();
+                if (sec < 10)
+                    sec = "0" + sec
+                var min = dataSeu.getMinutes();
+                if (min < 10)
+                    min = "0" + min
+
+                jQuery('#horaOficialUpdate .horaOficialTime').html(hor + ":" + min + ":" + sec);
+            }
+
+
+        }
+
+        function ajaxSincronitzaHora() {
+            nSinc = 0;
+            const noString = false
+
+            jQuery.ajax({
+                cache: false,
+                timeout: 300000,
+                url: "/calendariPublic/getHoraOficial2?nSinc=" + nSinc + "&noString=" + noString,
+                success: function (data) {
+                    var foo = data.split('!');
+                    horaOfi = parseInt(foo[1]);
+                    jQuery('#horaOficialUpdate').html(foo[0]);
+                }
+            });
+            return false;
+        }
+
+        //]]>
+    </script>
+
+
+<script>
+    jQuery(document).ready(function () {
+        jQuery(".arbreTramits").treeview({
+            persist: "location",
+            collapsed: true,
+            unique: true
+        });
+    });
+</script>
+
+
+	<link rel="stylesheet" href="/css/jquery/jquery-ui/jquery-ui-1.14.0.css">
+
+	<link rel="stylesheet" href="/comuencamp/icons/css/font-awesome.css" />
+	
+	<script  src="/js/responsiveslides.js"></script>
+	<link rel="stylesheet" href="/css/responsiveslides.css" />
+		
+	<link rel="stylesheet" href="/comuencamp/css/main.css" />
+	<link rel="shortcut icon" href="/comuencamp/images/favicon.ico" type="image/x-icon" />
+	
+	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,400,300,600,700' rel='stylesheet' type='text/css'/>
+		<link rel="apple-touch-icon" sizes="180x180" href="/comuencamp/images/apple-touch-icon.png"/>
+		<link rel="icon" type="image/png" sizes="32x32" href="/comuencamp/images/favicon-32x32.png"/>
+		<link rel="icon" type="image/png" sizes="16x16" href="/comuencamp/images/favicon-16x16.png"/>
+		<link rel="mask-icon" color='#5bbad5' href="/comuencamp/images/safari-pinned-tab.svg"/>
+		<link rel="shortcut icon" href="/comuencamp/images/favicon.ico"/>
+		<meta name="msapplication-config" content="/comuencamp/images/browserconfig.xml"/>
+		<meta name="theme-color" content="#ffffff"/>
+	
+
+	
+    <meta name="layout" content="publicLayout">
+    
+    
+
+	
+	
+	
+</head>
+
+<body class="idioma_ca_es">
+
+	
+		<noscript>
+			<div class="innerPad">
+				El seu navegador no suporta JavaScript
+			</div>
+		</noscript>
+	
+	
+	<div id="marc">
+		<div class="container" id="web">
+		
+			
+			<div id="header" class="">
+			
+				
+			
+				<div id="row1" class="row">
+				
+					<div id="nav1" class="col-sm-6 col-xs-12">
+					
+						<ul id="topLinks" class="list-inline">
+							<li class="first">
+								<a href="/">
+									<span>Inici</span>
+								</a>
+							</li>
+							<li>
+								<a href="http://www.comuencamp.ad/" target="_BLANK">
+									<span>Web del comú</span>
+								</a>
+							</li>
+							
+						</ul>
+					</div>
+					
+					<div id="hora" class="col-sm-6 col-xs-12  text-right">
+						
+						<div id="horaOficialUpdate">
+							<span class='horaOficialText'></span><span class='horaOficialDate'>diumenge 04 d’octubre de 2026, </span><span class='horaOficialTime notranslate'>05:50:08</span>
+						</div>
+						
+							<a href="/public/mostrar/avisLegal" class="bActualitzarHora hidden-xs"
+								title="Sincronitza"
+								onclick="return ajaxSincronitzaHora()">
+								Sincronitza
+							</a>
+						 
+					</div>	
+					
+				</div>
+					
+				<div id="row2" class="row">
+				
+					<div id="logoCap" class="col-md-3 col-sm-6">
+						<img src="/comuencamp/images/logoCap.png" alt="Comu d&#39;Encamp" title="Comu d&#39;Encamp" />
+					</div>
+					
+					<div class="col-md-4 col-sm-6" id="bannerTitol">
+						<div class="padd20 hidden-xs hidden-sm"></div>
+						<span class="nomAjuntament">Seu Electrònica</span>
+					</div>
+					<div class="col-md-5 col-sm-12 text-right" id="cercadorCopia">
+						<div class="padd20 hidden-xs hidden-sm"></div>
+						
+						<div id="searchbox">
+							<form action="/cerca/index/searchableForm" method="post" name="searchableForm" onsubmit="return jsNewW()" id="searchableForm" >
+								
+									<label for="scinput" style="display: none;">Cerca per paraules</label>
+									<input type="text" id="scinput" name="q" value="" />
+									<input type="submit" class="searchbtn" value="" title="Cerca"/>
+									
+									
+								
+							</form>
+						</div>
+						
+						<script >
+							//<![CDATA[
+							jQuery(document).ready(function() {
+								$('#scinput').val("Cerca per paraules");
+								$('#scinput').addClass("dimmedText");
+								$('#scinput').blur(function() {
+									if($('#scinput').val() == "Cerca per paraules" || $('#scinput').val() == ''){
+										$('#scinput').val("Cerca per paraules");
+										$('#scinput').addClass("dimmedText");
+									}
+								});
+						
+								$('#scinput').focus(function() {
+									if($('#scinput').val() == "Cerca per paraules"){
+										$('#scinput').val('');
+									}
+									$('#scinput').removeClass("dimmedText");
+								});
+							});
+							
+							function jsNewW() {
+								var e = document.getElementById("ambit");
+								if (!e) return;
+								var strUser = e.options[e.selectedIndex].value;
+								return true;
+							}
+							//]]>
+						</script>
+						<div id="copiaAut" class="text-left">
+							<a id="linkCopiaAutentica" href="/copiaAutentica/index?url=%252Fpublic%252Fmostrar%252FavisLegal&amp;pdfca=true" title="Obtenir còpia autèntica genera una còpia certificada del contingut de la Seu que s’està visualitzant en aquell moment. Es tracta d’un document electrònic en format pdf, signat digitalment, que reprodueix el contingut original que apareix a la Seu electrònica i amb la mateixa validesa jurídica. La validesa jurídica de la còpia autèntica, només es garanteix en el document digital, no en el document imprès">
+								<span>Obtenir còpia autèntica</span>
+							</a>
+						</div>
+						<div id="copiaAutAyuda">
+							<a href="/public/ajuda">
+								<span>
+									<img src="/comuencamp/images/ajuda.png" alt="Ajuda" title="Ajuda"/>
+								</span>
+							</a>
+						</div>
+						
+					</div>
+				</div>		
+				
+				<div id="row3" class="row hidden-xs">
+				
+					<div class="" >
+						<ul id="" class="rslides">	
+					  		<li><img src="/comuencamp/images/slider-tramits-municipals.jpg" alt=""></li>
+						  
+						</ul>
+					</div>
+				</div>
+
+				
+				<div id="row4" class="row">
+					
+					
+					
+					<div id="iconsNav">
+						<div id="serveisSeu" class="col-sm-3 text-center enabled">
+							<a href="/public/serveis" class="last">								
+								<span>Serveis de la Seu-e</span>
+							</a>
+						</div>
+						<div id="catalegTramits" class="col-sm-3 text-center ">
+							<a href="https://tramits.comuencamp.ad/Ciutadania/">
+								<span>Tràmits</span>
+							</a>
+						</div>
+						<div id="infSeu" class="col-sm-3  text-center ">
+							<a href="/contingutPublic/mostrarCategoria/5">								
+								<span>La Seu-e</span>
+							</a>
+						</div>
+						<div id="infAdmin" class="col-sm-3  text-center ">
+							<a href="/contingutPublic/mostrarCategoria/3">								
+								<span>Informació administrativa</span>
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			
+			
+			
+				<div id="filAriadna" class="row">
+					<div class="col-sm-12 col">
+						<span id="esteuAqui">Esteu aquí:</span>
+						<span id="molletes"><a href="/">Inici</a>&nbsp;&#8594;&nbsp;<a href="/public/mostrar/avisLegal">Avís legal</a></span>
+					</div>
+				</div>
+			
+			
+			
+			<div id="contentWrapper" class="row">
+			
+				
+				<div id="leftCol" class="col-sm-3">							
+					
+
+					
+					
+						
+						<div class="categoria">
+							<div class="titol titol_s">Serveis de la Seu-e</div>
+							<ul class="firstLevelNavigation">
+								
+								
+									
+									<li class="first ">
+									
+										
+										<a href="/contingutPublic/mostrarContingut/17" class="" target="_self">
+											<span>Tauler electrònic </span>										
+										</a>
+										
+										
+										  
+											
+											
+												<ul class="secondLevelNavigation">
+													
+														
+															<li class=""><a href="/taulerAnuncisPublic/cercadorCategoriaPublica/66" class=""><span>Concursos p&uacute;blics</span></a></li>
+													
+													
+														
+															<li class=""><a href="/taulerAnuncisPublic/cercadorCategoriaPublica/68" class=""><span>Consell del Com&uacute;</span></a></li>
+													
+													
+														
+															<li class=""><a href="/taulerAnuncisPublic/cercadorCategoriaPublica/69" class=""><span>Calendari de festius</span></a></li>
+													
+													
+														
+															<li class=""><a href="/taulerAnuncisPublic/cercadorCategoriaPublica/70" class=""><span>Anal&iacute;tiques d&#39;aig&uuml;es</span></a></li>
+													
+													
+														
+															<li class=""><a href="/taulerAnuncisPublic/cercadorCategoriaPublica/75" class=""><span>Edictes de personal</span></a></li>
+													
+													
+														
+															<li class=""><a href="/taulerAnuncisPublic/cercadorCategoriaPublica/74" class=""><span>Legislaci&oacute; i normativa</span></a></li>
+													
+													
+														
+															<li class=""><a href="/taulerAnuncisPublic/cercadorCategoriaPublica/77" class=""><span>Informaci&oacute; P&uacute;blica</span></a></li>
+													
+													
+														
+												</ul>
+											
+											
+											
+										
+									</li>
+									
+								
+							</ul>
+						</div>
+						
+					
+					
+					
+								
+					
+					
+					<!-- DESTACADOS DE POTADA -->
+					
+
+					
+				</div>
+				
+				
+				<div id="rightCol" class="col-sm-9">
+					
+						
+						
+
+<div class="areaTreballContent">
+    
+</div>
+
+					
+				</div>
+				<div class="separador"></div>
+			</div>
+			
+			
+		</div>
+		
+		
+		
+			
+		<div id="footer1">
+			
+			
+							
+			<div id="footer1Row3" class="row">
+				<div class="col-md-3 text-center">
+					
+						<span class="glyphicon glyphicon-copyright-mark"></span><span>Comu d&#39;Encamp</span>
+					
+				</div>
+				<div class="col-md-3 text-center">
+					
+						<span class="glyphicon glyphicon-map-marker"></span><span>Pla&ccedil;a dels Arinsols, 1 - AD200 Encamp (Principat d&#39;Andorra)</span>
+					
+				</div>
+				<div class="col-md-3 text-center">
+					
+						<span class="glyphicon glyphicon-earphone"></span>
+						<span>+376 873 200</span>
+					
+					
+				</div>
+				<div class="col-md-3 text-center">
+					
+						<span class="glyphicon glyphicon-envelope"></span><span>comu@encamp.ad</span>
+					
+				</div>
+				
+			</div>
+			
+			
+		</div>
+		
+	</div>
+
+	
+		
+
+<link rel="stylesheet" href="/css/cookies.css" >
+<script src="/js/cookies/customCookieMethods.js"></script>
+<div id="cookie-notice-popup" class="cookie-notice">
+    <div class="body">
+            <p>
+                L&apos;informem que en aquest lloc web utilitzem cookies tant pròpies com de tercers per oferir un millor servei, d&apos;acord amb els seus hàbits de navegació. <a class="text-primary" target="_blank" href="/contingutPublic/mostrar/politica-cookies">Consulta la política de cookies</a>
+            </p>
+
+            <div class="bottom">
+                
+
+                <div class="bottons">
+                    
+                        <button class="btn btn-danger" onclick="cookieRejected()">
+                            Rebutjar-les totes
+                        </button>
+                    
+
+                    
+                        <button class="btn" onclick="cookieAcceptSystem()">
+                            Acceptar-les totes
+                        </button>
+                    
+                </div>
+            </div>
+
+
+    </div>
+</div>
+
+
+
+		<script src="/js/cookies/jquery.cookie.js"></script>
+	
+
+
+</body>
+</html>
+
+
+

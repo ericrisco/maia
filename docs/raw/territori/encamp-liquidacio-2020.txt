@@ -1,0 +1,2786 @@
+Estat General de Comptes de l’exercici 2020
+
+
+
+
+Liquidació dels
+comptes anuals del
+Comú d’Encamp 2020
+
+                                                   www.comuencamp.ad
+          Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                     www.comuencamp.ad
+                                                                 1
+Comú d'Encamp
+Març 2021
+
+
+
+
+                                                                   Fotografia: @Miquel Mercè
+                Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                           www.comuencamp.ad
+                                                               2
+BASES DE PRESENTACIÓ DELS COMPTES ANUALS
+
+Integren els comptes anuals del Comú d’Encamp:
+
+
+
+A. El balanç de situació                                                            pàgina 4
+
+ B. El compte del resultat econòmic patrimonial                                     pàgina 6
+
+C. Liquidació econòmica del pressupost                                              pàgina 8
+
+D. Liquidació per àrea funcional del pressupost                                     pàgina 14
+
+      Conciliació entre el resultat pressupostari liquidat i el resultat econòmic
+ E.                                                                                 pàgina 15
+      patrimonial
+
+ F. La gestió comptable de despeses                                                 pàgina 16
+
+G. La gestió comptable d’ingressos                                                  pàgina 16
+
+H. La gestió comptable de tresoreria                                                pàgina 17
+
+ I.   La gestió comptable de patrimoni                                              pàgina 18
+
+ J. La gestió comptable de l’endeutament                                            pàgina 19
+
+      Pagaments i cobraments efectuats fins a 31 de gener del 2020, originats
+ K.                                                                           pàgina 20
+      per operacions generades abans del 31 de desembre de 2019
+
+ L. La memòria                                                                      pàgina 21
+
+
+IMATGE FIDEL, PRINCIPIS COMPTABLES I COMPARABILITAT DE LA
+INFORMACIÓ
+
+Aquests estats financers han estat formulats a partir dels registres pressupostaris i
+comptables del Comú d'Encamp tancats el 31 de desembre de 2020. Per elaborar-los
+s’han aplicat les normes previstes en el Pla General de Comptabilitat Pública i els
+principis comptables generalment admesos, amb l’objecte de mostrar la imatge fidel
+del patrimoni, de la situació financera i dels resultats de les operacions del Comú.
+
+
+D’acord amb el Pla General de Comptabilitat Pública, els estats financers es presenten
+a efectes comparatius, en euros i indicant, a més del saldo de l’exercici actual, el
+corresponent a l’exercici anterior.
+
+
+
+
+                        Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                                   www.comuencamp.ad
+                                                                                         3
+     BALANÇ DE SITUACIÓ A 31.12.2020
+
+ Comptes                                            ACTIU                        EXERCICI 2020     EXERCICI 2019
+
+              A) IMMOBILITZAT                                                    101.326.574,05     99.603.594,94
+              I.    Inversions destinades a l'ús general                          26.429.492,55     25.297.895,26
+   200              1. Terrenys i béns naturals                                    1.166.564,06      1.165.395,49
+   201              2. Infraestructures i altres béns destinats a l'ús general    70.959.364,50     67.312.709,91
+   (292)            5. Provisions                                                (45.696.436,01) (43.180.210,14)
+
+              II.   Immobilitzacions immaterials                                     375.396,34       368.457,53
+   215              3. Aplicacions informàtiques                                   1.565.219,97      1.487.184,06
+   (281)            6. Amortitzacions                                             (1.189.823,63)   (1.118.726,53)
+
+              III. Immobilitzacions materials                                     68.445.524,78     67.399.893,15
+ 220,221            1. Terrenys i construccions                                   95.479.980,35     92.765.899,44
+ 222,223            2. Instal·lacions tècniques i maquinària                      16.687.934,42     16.128.616,87
+ 224,226            3. Utillatge i mobiliari                                       1.735.393,63      1.724.942,82
+227,228,229         4. Altre immobilitzat                                          7.626.722,77      7.204.230,63
+   (282)            5. Amortitzacions                                            (53.084.506,39) (50.423.796,61)
+
+              V. Inversions financeres permanents                                  6.076.160,38      6.537.349,00
+250,251,256         1. Cartera de valors a llarg termini                          12.078.399,76     11.198.399,76
+ 260,265            3. Fiances i dipòsits constituïts a llarg termini                    800,00            800,00
+   (297)            4. Provisions                                                 (6.003.039,38)   (4.661.850,76)
+
+
+              C) ACTIU CIRCULANT                                                   2.312.553,59      2.837.791,75
+              I.    Existències                                                      166.278,36       169.319,10
+   31,32            2. Primeres matèries i altres aprovisionaments                   230.200,35       233.241,09
+   (39)             6. Provisions                                                    (63.921,99)      (63.921,99)
+
+              II.   Deutors                                                        2.058.918,50      2.156.770,31
+    43              1. Deutors pressupostaris                                      4.041.048,23      4.054.517,68
+    44              2. Deutors no pressupostaris                                       3.573,29           2.013,20
+    45              3. Deutors per administ. per compte d'altres ens públics
+ 470,471            4. Administracions públiques                                     209.352,07       176.280,24
+550,555,558         5. Altres deutors                                                264.337,25       267.394,07
+   (490)            6. Provisions                                                 (2.459.392,34)   (2.343.434,88)
+
+              III. Inversions financeres temporals                                         0,00              0,00
+ 565,566            3. Fiances i dipòsits constituïts a curt termini                       0,00               0,00
+
+    57        IV. Tresoreria                                                          87.356,73       511.702,34
+
+ 480,580      V.    Ajustaments per periodificació                                         0,00              0,00
+
+                         TOTAL GENERAL ACTIU ( A+C )                             103.639.127,64 102.441.386,69
+
+
+
+
+                                  Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                                             www.comuencamp.ad
+                                                                                                      4
+           BALANÇ DE SITUACIÓ A 31.12.2020
+
+   Comptes                                               PASSIU                          EXERCICI 2020 EXERCICI 2019
+
+                  A) FONS PROPIS                                                          84.534.883,78     84.930.236,75
+                  I.    Patrimoni                                                           (84.042,18)          (84.042,18)
+     (107)              4. Patrimoni lliurat en adscripció                                   (84.042,18)         (84.042,18)
+
+                  III. Resultats d'exercicis anteriors                                    85.014.278,93     82.744.995,94
+     120                1. Resultats positius d'exercicis anteriors                      117.388.112,19    115.118.829,20
+     (121)              2. Resultats negatius d'exercicis anteriors                      (32.373.833,26) (32.373.833,26)
+
+     129          IV. Resultats de l'exercici                                              (395.352,97)      2.269.282,99
+
+
+      14          C) PROVISIONS PER A RISCOS I DESPESES                                            0,00                0,00
+
+
+                  D) CREDITORS A LLARG TERMINI                                            10.964.902,58     12.243.571,11
+                  II.   Altres deutes a llarg termini                                     10.964.902,58     12.243.571,11
+   170,176              1. Deutes amb entitats de crèdit                                  10.802.614,86     12.087.417,82
+   180,185              4. Fiances i dipòsits rebuts a llarg termini                         162.287,72          156.153,29
+
+
+                  E)    CREDITORS A CURT TERMINI                                           8.139.341,28      5.267.578,83
+                  II.   Deutes amb Entitats de crèdit                                      2.826.452,21      1.331.269,77
+     520                1. Préstecs i altres deutes                                        2.765.064,02      1.263.995,56
+     526                2. Deutes per interessos                                              61.388,19           67.274,21
+
+                  III. Creditors                                                           5.312.889,07      3.936.309,06
+      40                1. Creditors pressupostaris                                        4.294.772,47      3.190.666,72
+      41                2. Creditors no pressupostaris                                       898.815,85          629.363,22
+                        3. Creditors per administ. de recursos per compte d'altres ens
+      45                                                                                       7.350,09            1.893,88
+                        públics
+    475,476             4. Administracions públiques                                          83.253,84           97.609,78
+ 521,523,527,
+      528,              5. Altres creditors                                                    6.411,77
+529,550,554,559
+    560,561             6. Fiances i dipòsits rebuts a curt termini                           22.285,05           16.775,46
+
+
+                              TOTAL GENERAL PASSIU (A+C+D+E)                             103.639.127,64 102.441.386,69
+
+
+
+
+                                        Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                                                   www.comuencamp.ad
+                                                                                                             5
+         COMPTE DEL RESULTAT ECONÒMIC PATRIMONIAL DE L’EXERCICI 2020
+
+
+     Comptes                                                DEURE                           EXERCICI 2020 EXERCICI 2019
+
+                      A) DESPESES
+                      2.   Aprovisionaments                                                    525.359,73      554.379,23
+600,(608),(609),610        a) Consum de mercaderies                                               5.913,14        12.371,79
+                           b) Consum de primeres matèries i d'altres materials
+ 601,602,611,612                                                                               519.446,59      542.007,44
+                           consumibles
+
+                           Despeses de gestió ordinària, de funcionament dels serveis i
+                      3.                                                                     23.821.085,90   23.488.187,40
+                           de prestacions socials
+                           a) Despeses de personal                                            9.425.240,54    9.486.580,77
+     640,641                 a1) Sous, salaris i similars                                     8.110.037,17    8.185.722,37
+     642,644                 a2) Càrregues socials                                            1.315.203,37    1.300.858,40
+       645                 b) Prestacions socials                                              277.840,19      138.341,44
+                           c) Dotacions per amortitzacions d'immobilitzat i variacions de
+                                                                                              5.248.032,75    4.845.091,48
+                           fons de provisió per a reparacions
+        68                   c1) Dotacions per a amortitzacions                               2.731.806,88    2.550.162,80
+     692,(792)               c2) Variació de provisió per a reparacions                       2.516.225,87    2.294.928,68
+                           d) Variació de provisions de tràfic                                 115.957,46         45.350,25
+     675,694,                d2) Variació de provisions i pèrdues de crèdits incobrables        115.957,46         45.350,25
+    (794),(795)              d3) Provisions aplicades
+                           e) Altres despeses de gestió                                       7.157.080,05    7.965.847,57
+        62                   e1) Serveis exteriors                                            7.152.203,12    7.961.833,11
+        63                   e2) Tributs                                                          4.876,93          4.014,46
+                           f) Despeses financeres i assimilables                               255.746,29      260.512,77
+661,662,663,665,669          f1) Per deutes                                                     255.746,29        260.512,77
+696,698,699,(796),
+                           g) Variació de les provisions de les variacions financeres         1.341.188,62     746.463,12
+   (798),(799)
+                      4.   Transferències i subvencions                                       2.138.152,16     576.779,88
+       650                 a) Transferències corrents                                         1.885.198,82     576.779,88
+       655                 c) Transferències de capital                                        252.953,34              0,00
+                      5.   Pèrdues i despeses extraordinàries                                   68.237,53         63.918,93
+     670,671               a) Pèrdues procedents de l'immobilitzat                                    0,00             0,00
+       678                 c) Despeses extraordinàries                                            1.106,27         1.852,40
+       679                 d) Despeses i pèrdues d'altres exercicis                              67.131,26        62.066,53
+
+
+                                           Total Deure                                       26.552.835,32   24.683.265,44
+
+
+
+
+                                      Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                                                 www.comuencamp.ad
+                                                                                                              6
+       COMPTE DEL RESULTAT ECONÒMIC PATRIMONIAL DE L’EXERCICI 2020
+
+
+     Comptes                                               HAVER                              EXERCICI 2020 EXERCICI 2019
+
+                      B) INGRESSOS
+                      1.   Vendes i prestacions de serveis                                      2.941.637,09    3.790.498,20
+700,701,702,703,704        a) Vendes                                                               10.625,64         15.439,89
+   705,741,742             b) Prestacions de serveis                                            2.931.011,45    3.775.058,31
+
+                      2.   Augments d'existències de productes acabats                              2.872,40              0,00
+
+                      3.   Ingressos de gestió ordinària                                        6.580.727,13    5.651.178,93
+                           a) Ingressos tributaris                                              6.580.727,13    5.651.178,93
+       725                    a2) Impostos locals                                               3.100.850,22       3.104.067,40
+       730                    a3) Impost sobre transmissions i actes jurídics documentats       1.779.067,34        767.479,41
+       740                    a9) Taxes per prestació de serveis o realització d'activitats     1.550.051,72       1.530.225,31
+       744                    a11) Contribucions especials                                        150.757,85        249.406,81
+
+                      4.   Altres ingressos en gestió ordinària                                 7.482.874,32    8.240.184,01
+                           c) Altres ingressos de gestió                                        5.862.010,32    5.845.619,01
+   775,776,777               c1) Ingressos accessoris i altres de gestió corrent                5.862.010,32       5.845.619,01
+       790                   c2) Excés de provisions de riscos i despeses
+       760                 d) Ingressos de participacions en capital                            1.620.864,00    2.394.565,00
+                           f) Altres ingressos i ingressos assimilats                                   0,00              0,00
+   763,765,769               f1) Altres interessos                                                      0,00               0,00
+
+                      5.   Transferències i subvencions                                         9.134.610,62    9.255.896,23
+       750                 a) Transferències corrents                                           2.754.623,09    1.275.075,05
+       751                 b) Subvencions corrents                                                  1.055,82          9.151,16
+       755                 c) Transferències de capital                                         6.378.931,71    7.971.670,02
+
+                      6.   Beneficis i ingressos extraordinaris                                   14.760,79          14.791,06
+     770,771               a) Beneficis procedents de l'immobilitzat                                                  3.206,31
+       778                 d) Ingressos extraordinaris
+       779                 e) Ingressos i beneficis d'altres exercicis                             14.760,79         11.584,75
+
+
+                                          Total Haver                                          26.157.482,35   26.952.548,43
+
+
+                       RESULTAT DE L'EXERCICI-ESTALVI/DESESTALVI                                (395.352,97)    2.269.282,99
+
+
+
+
+                                    Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                                               www.comuencamp.ad
+                                                                                                               7
+                                                        LIQUIDACIÓ ECONÒMICA PRESSUPOST EXERCICI 2020                                                                                                          MOVIMENTS DE FONS
+                                     Import        Reconducció      Ampliacions i    Suplements i     Transferències de crèdit      TOTAL            Import        % Execució       Import           Imports          Pendent       % Pendent
+             CAPÍTOL
+                                   Pressupostat    Pressupost '19     baixes         Crèdits Extra.   Augment      Disminució    PRESSUPOST         Liquidats       Liquidats   Desvi./Previsió   Pagats/Cobrats     Pag./Cob.      Pag./Cob.
+DESPESES                                                                                                                                                                                              Pagats
+1   Despeses de personal           10.114.570,50         1.646,00      -307.000,00                                                 9.809.216,50    9.703.080,73        98,92%       -106.135,77      9.679.292,28       23.788,45       0,25%
+2   Consums de béns corrents        9.318.570,58       343.324,73      -952.300,00      126.300,00    116.977,40   116.977,40      8.835.895,31    7.677.828,32        86,89%     -1.158.066,99      6.876.191,49      801.636,83      10,44%
+3   Despeses financeres               330.963,86                        -55.000,00                                                   275.963,86      261.632,31        94,81%        -14.331,55        261.632,31            0,00       0,00%
+4   Transferències corrents           635.433,13       152.255,23      -111.000,00    2.005.000,00                                 2.681.688,36    2.137.956,75        79,72%       -543.731,61        366.073,87    1.771.882,88      82,88%
+    Despeses Corrents              20.399.538,07      497.225,96     -1.118.300,00    2.131.300,00    116.977,40   116.977,40                                          91,56%    -1.822.265,92      17.183.189,95   2.597.308,16       13,13%
+                                                                                                                                 21.602.764,03    19.780.498,11
+6   Inversions reals               10.823.632,00     4.719.390,34    -1.814.836,41      606.000,00    112.000,00   112.000,00     14.334.185,93    7.432.200,48        51,85%     -6.901.985,45      6.294.508,23    1.137.692,25      15,31%
+    Despeses de Capital            10.823.632,00     4.719.390,34    -1.814.836,41      606.000,00    112.000,00   112.000,00     14.334.185,93                        51,85%    -6.901.985,45       6.294.508,23    1.137.692,25      15,31%
+                                                                                                                                                   7.432.200,48
+8  Actius financers                   880.002,00                                                                                     880.002,00       880.000,00      100,00%            -2,00         880.000,00            0,00       0,00%
+9  Passius financers                1.267.001,00                                                                                   1.267.001,00     1.263.995,56       99,76%        -3.005,44       1.263.995,56            0,00       0,00%
+   Despeses financeres              2.147.003,00                                                                                   2.147.003,00     2.143.995,56       99,86%        -3.007,44       2.143.995,56            0,00       0,00%
+Total pressupost de despeses       33.370.173,07     5.216.616,30    -2.933.136,41    2.737.300,00    228.977,40   228.977,40     38.083.952,96   29.356.694,15        77,08%    -8.727.258,81      25.621.693,74    3.735.000,41      12,72%
+INGRESSOS                                                                                                                                                                                            Cobrats
+1  Impostos directes                3.485.000,00                                                                                   3.485.000,00    3.100.850,22        88,98%       -384.149,78      2.981.155,17      119.695,05       3,86%
+2  Impostos indirectes                850.000,00                                                                                     850.000,00    1.779.067,34       209,30%        929.067,34      1.535.600,21      243.467,13      13,69%
+3  Taxes i altres ingressos         5.733.534,86                                                                                   5.733.534,86    4.902.577,69        85,51%       -830.957,17      4.311.466,57      591.111,12      12,06%
+4  Transferències corrents          1.906.070,84                                                                                   1.906.070,84    2.755.678,91       144,57%        849.608,07      2.739.424,91       16.254,00       0,59%
+5  Ingressos patrimonials           8.424.932,37                                                                                   8.424.932,37    7.242.323,95        85,96%     -1.182.608,42      7.094.807,82      147.516,13       2,04%
+   Ingressos Corrents              20.399.538,07                                               0,00                               20.399.538,07   19.780.498,11        96,97%       -619.039,96     18.662.454,68    1.118.043,43       5,65%
+6 Alienació d'inversions reals              1,00                                                                                           1,00            0,00         0,00%             -1,00              0,00            0,00       0,00%
+7 Transferències de capital         8.966.437,22                                                                                   8.966.437,22    6.378.931,71        71,14%     -2.587.505,51      6.353.332,55       25.599,16       0,40%
+   Ingressos de Capital             8.966.438,22                                                                                   8.966.438,22    6.378.931,71        71,14%    -2.587.506,51       6.353.332,55       25.599,16       0,40%
+8 Actius financers                          3,00                                      4.713.779,89                                 4.713.782,89            0,00         0,00%     -4.713.782,89              0,00            0,00       0,00%
+9 Passius financers                 4.004.193,78                                                                                   4.004.193,78            0,00         0,00%     -4.004.193,78              0,00            0,00       0,00%
+   Ingressos financers              4.004.196,78                                      4.713.779,89                                 8.717.976,67            0,00         0,00%    -8.717.976,67               0,00            0,00       0,00%
+Total pressupost d'ingressos       33.370.173,07                                      4.713.779,89                                38.083.952,96   26.159.429,82        68,69%   -11.924.523,14      25.015.787,23    1.143.642,59       4,37%
+
+Resultat d'operacions Corrents              0,00                                                                                  -1.203.225,96            0,00         0,00%                        1.479.264,73   -1.479.264,73    -100,00%
+Resultat d'operacions de capital   -1.857.193,78                                                                                  -5.367.747,71   -1.053.268,77        19,62%                           58.824,32   -1.112.093,09   -1890,53%
+Resultat d'operacions financeres    1.857.193,78                                                                                   6.570.973,67   -2.143.995,56       -32,63%                       -2.143.995,56            0,00       0,00%
+RESULTAT PRESSUPOSTARI:                     0,00                                                                                           0,00   -3.197.264,33                                      -605.906,51    -2.591.357,82     427,68%
+
+
+
+
+                                                                                                Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                                                                                                           www.comuencamp.ad
+                                                                                                                                                                                                                     8
+COMPARATIU EXECUCIÓ PRESSUPOST PER CAPÍTOLS AMB ANY
+ANTERIOR :
+                                                      Liquidació         Liquidació
+             CAPÍTOLS DESPESES                                                                     Variació
+                                                         2019               2020
+1 DESPESES PERSONAL                                       9.624.922,21       9.703.080,73        0,81%          78.158,52
+2 DESPESES EN BÉNS CORRENTS I SERVEIS                     8.509.707,41       7.677.828,32       -9,78%        -831.879,09
+3 DESPESES FINANCERES                                       265.969,52         261.632,31       -1,63%          -4.337,21
+4 TRANSFERÈNCIES CORRENTS                                   576.779,88       2.137.956,75      270,67%     1.561.176,87
+
+                          Total despeses corrents        18.977.379,02      19.780.498,11       4,23%         803.119,09
+
+6 INVERSIONS REALS                                       10.378.761,77       7.432.200,48      -28,39%    -2.946.561,29
+
+                      Total despeses de capital          10.378.761,77       7.432.200,48      -28,39%    -2.946.561,29
+
+8 ACTIUS FINANCERS                                        1.871.680,00         880.000,00      -52,98%        -991.680,00
+9 PASSIUS FINANCERS                                       1.240.890,56       1.263.995,56        1,86%          23.105,00
+
+                        Total depeses financeres          3.112.570,56       2.143.995,56      -31,12%        -968.575,00
+
+TOTAL PRESSUPOST DESPESES                             32.468.711,35      29.356.694,15         -9,58% -3.112.017,20
+
+                                                      Liquidació         Liquidació
+             CAPÍTOLS D'INGRÉS                                                                     Variació
+                                                         2019               2020
+1 IMPOSTOS DIRECTES                                       3.104.067,40       3.100.850,22       -0,10%          -3.217,18
+2 IMPOSTOS INDIRECTES                                       767.479,41       1.779.067,34      131,81%     1.011.587,93
+3 TAXES I ALTRES INGRESSOS                                5.921.068,70       4.902.577,69      -17,20%    -1.018.491,01
+4 TRANSFERÈNCIES CORRENTS                                 1.284.226,21       2.755.678,91      114,58%     1.471.452,70
+5 INGRESSOS PATRIMONIALS                                  7.900.537,30       7.242.323,95       -8,33%        -658.213,35
+
+                          Total ingressos corrents       18.977.379,02      19.780.498,11       4,23%         803.119,09
+
+6 ALIENACIÓ D'INVERSIONS REALS                                4.200,00                 0,00   -100,00%          -4.200,00
+7 TRANSFERÈNCIES DE CAPITAL                               7.971.670,02       6.378.931,71      -19,98%    -1.592.738,31
+
+                        Total ingressos de capital        7.975.870,02       6.378.931,71      -20,02%    -1.596.938,31
+
+8 ACTIUS FINANCERS                                                0,00                 0,00   -100,00%               0,00
+9 PASSIUS FINANCERS                                               0,00                 0,00   -100,00%               0,00
+
+              Total ingressos per op. financeres                  0,00                 0,00   -100,00%               0,00
+
+
+TOTAL PRESSUPOST INGRESSOS                            26.953.249,04      26.159.429,82         -2,95%    -793.819,22
+
+Resultat operacions corrents                                     0,00               0,00        0,00%               0,00
+Resultat operacions de capital                          -2.402.891,75      -1.053.268,77      -56,17%     1.349.622,98
+Resultat operacions financeres                          -3.112.570,56      -2.143.995,56      -31,12%       968.575,00
+
+Resultat execució pressupost                           -5.515.462,31     -3.197.264,33        -42,03%    2.318.197,98
+
+
+
+
+                                        Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                                                   www.comuencamp.ad
+                                                                                                          9
+COMPARATIU EXECUCIÓ PRESSUPOST DESPESES PER CONCEPTE AMB ANY
+ANTERIOR
+
+                                                                  Liquidació        Liquidació
+                    Concepte econòmic                                                                            Variació
+                                                                     2019              2020
+                       1 DESPESES PERSONAL                           9.624.922,21     9.703.080,73      0,81%         78.158,52
+
+10 DESPESES DE RETRIBUCIONS                                           333.249,89        347.136,41        4,17%           13.886,52
+100 Retribucions bàsiques                                             333.249,89        347.136,41        4,17%            13.886,52
+11 PERSONAL FUNCIONARI                                               4.314.074,61     4.051.275,15       -6,09%          -262.799,46
+110 Remuneracions personal funcionari                                4.314.074,61     4.051.275,15       -6,09%          -262.799,46
+12 PERSONAL AGENTS ADMINISTRACIÓ PERMANENTS                          1.720.175,05     2.012.993,72       17,02%          292.818,67
+120 Remuneració personal agents administ. permanents                 1.720.175,05     2.012.993,72       17,02%          292.818,67
+13 PERSONAL AGENTS ADMINISTRACIÓ EVENTUALS                           1.582.524,99     1.423.785,70      -10,03%          -158.739,29
+130 Remuneració personal agents administ. eventuals                  1.582.524,99     1.423.785,70      -10,03%          -158.739,29
+14 NOMENAMENTS, DIRECTORS I PERS. REL. ESPECIAL                       235.697,83        274.846,19       16,61%           39.148,36
+140 Remuneració nomenaments, directors i pers. rel. especial          235.697,83        274.846,19       16,61%            39.148,36
+16 QUOTES,PREST.,DESP. SOCIALS CÀRREC EMPLEADOR                      1.439.199,84     1.593.043,56       10,69%          153.843,72
+160 Quotes seguretat social                                          1.289.170,72     1.298.688,62        0,74%             9.517,90
+161 Pensions per jubilacions anticipades del personal laboral         138.341,44        277.840,19      100,84%          139.498,75
+163 Despeses socials del personal                                      11.687,68            16.514,75    41,30%             4.827,07
+
+              2 DESPESES EN BÉNS CORRENTS I SERVEIS                  8.509.707,41     7.677.828,32      -9,78%       -831.879,09
+
+20 LLOGUERS                                                           576.085,24        473.316,96      -17,84%          -102.768,28
+200 Terrenys i béns naturals                                          336.198,55        226.517,89      -32,62%          -109.680,66
+202 Edificis i altres construccions                                    56.439,45            51.636,16    -8,51%             -4.803,29
+203 Maquinària, instal·lacions i utillatge                             44.018,42            44.970,10     2,16%               951,68
+204 Material de transport                                             116.480,91        113.786,31       -2,31%             -2.694,60
+205 Mobiliari i aparells                                               22.947,91            36.406,50    58,65%            13.458,59
+21 REPARACIONS,MANTENIMENT I CONSERVACIÓ                             1.312.696,29     1.386.230,81        5,60%           73.534,52
+212 Edificis i altres construccions                                   130.920,04        121.208,60       -7,42%             -9.711,44
+213 Maquinària, instal·lacions i equipaments                          419.779,61        418.419,87       -0,32%             -1.359,74
+214 Material de transport                                             104.756,60        102.713,14       -1,95%             -2.043,46
+215 Mobiliari i aparells                                               38.803,78            17.055,84   -56,05%           -21.747,94
+216 Equipaments informàtics                                           104.986,34        132.989,64       26,67%            28.003,30
+217 Béns destinats a l'ús general                                     513.449,92        593.843,72       15,66%            80.393,80
+22 MATERIAL,SUBMINISTRAMENTS I ALTRES                                6.620.925,88     5.818.280,55      -12,12%          -802.645,33
+220 Material oficina                                                   96.308,92            64.329,83   -33,20%           -31.979,09
+221 Subministraments                                                 1.539.974,26     1.410.969,34       -8,38%          -129.004,92
+222 Comunicacions                                                     112.337,79        107.634,07       -4,19%             -4.703,72
+223 Transports                                                         32.362,65            26.039,07   -19,54%             -6.323,58
+224 Primes d´assegurances                                             138.698,13        148.883,73        7,34%            10.185,60
+225 Tributs                                                              4.014,46            4.876,93    21,48%               862,47
+
+                                             Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                                                        www.comuencamp.ad
+                                                                                                                    10
+226 Altres serveis                                                     1.179.133,56       814.124,40       -30,96%         -365.009,16
+227 Treballs realitzats per altres empreses i professionals            3.516.243,71      3.240.316,91       -7,85%         -275.926,80
+229 Imprevistos o insuficiències                                           1.852,40            1.106,27    -40,28%             -746,13
+
+                         3 DESPESES FINANCERES                          265.969,52        261.632,31      -1,63%       -4.337,21
+
+31 DESP. FINANCERES DE PRÈSTECS DE L´INTERIOR                           236.476,73        242.674,98        2,62%             6.198,25
+310 Interessos                                                          236.476,73        242.674,98         2,62%            6.198,25
+34 DESP. FINANCERES DE DIPÒSITS FIANCES I ALTRES                         29.492,79            18.957,33    -35,72%         -10.535,46
+349 Altres despeses financeres                                            29.492,79           18.957,33    -35,72%          -10.535,46
+
+                   4 TRANSFERÈNCIES CORRENTS                            576.779,88       2.137.956,75     270,67%    1.561.176,87
+
+41 A EMPRESES PÚBLIQUES                                                        0,00      1.570.692,43     100,00%         1.570.692,43
+414 A altres ens públics (Govern d'Andorra)                                    0,00      1.570.692,43      100,00%        1.570.692,43
+44 A ENTITATS DE LA CORPORACIÓ LOCAL                                     24.999,91            12.314,17    -50,74%         -12.685,74
+449 Altres transferències                                                 24.999,91           12.314,17    -50,74%          -12.685,74
+47 A EMPRESES PRIVADES                                                   46.209,45        252.953,34      447,41%          206.743,89
+470 Ajudes a empreses privades                                            46.209,45       252.953,34       447,41%         206.743,89
+46 A ENTITATS LOCALS                                                    353.256,41        214.650,57       -39,24%        -138.605,84
+463 A entitats que agrupen Comuns                                         52.000,00           22.000,00    -57,69%          -30.000,00
+466 A altres entitats que agrupen Parròquies                                   0,00                0,00   -100,00%                0,00
+467 A entitats en general                                                      0,00                0,00   -100,00%                0,00
+468 A entitats parroquials                                              282.900,86        182.150,57       -35,61%         -100.750,29
+469 A entitats no parroquials                                             18.355,55           10.500,00    -42,80%           -7.855,55
+48 A FAMÍLIES I INSTITUCIONS SENSE FINS DE LUCRE                        152.314,11            87.346,24    -42,65%         -64.967,87
+480 Atencions benèfiques i assistencials                                113.314,11            82.996,24    -26,76%          -30.317,87
+489 Altres transferències                                                 39.000,00            4.350,00    -88,85%          -34.650,00
+
+                          6 INVERSIONS REALS                          10.378.761,77      7.432.200,48     -28,39%    -2.946.561,29
+
+60 INVERS. NOVA ASSOC. A FUNCIO.OPERATIU SERVEI                       10.378.761,77      7.432.200,48      -28,39%    -2.946.561,29
+602 Edificis i altres construccions                                    2.501.200,21      2.319.436,35       -7,27%         -181.763,86
+603 Maquinària, instal·lacions i equipaments                            652.727,26       1.299.446,84       99,08%         646.719,58
+604 Material de transport                                               143.231,13                 0,00   -100,00%         -143.231,13
+605 Mobiliari i estris                                                    14.512,41           10.450,81    -27,99%           -4.061,60
+606 Equips per a processos d'informació                                 202.001,82        155.043,32       -23,25%          -46.958,50
+607 Béns destinats a l'ús general                                      6.865.088,94      3.647.823,16      -46,86%     -3.217.265,78
+
+                  7 TRANSFERÈNCIES DE CAPITAL                                  0,00                0,00   0,00%            0,00
+
+                          8 ACTIUS FINANCERS                           1.871.680,00       880.000,00      -52,98%     -991.680,00
+
+82 ADQUISICIÓ D'ACCIONS                                                1.871.680,00       880.000,00       -52,98%        -991.680,00
+824 A empreses públiques i altres ens públics                          1.871.680,00       880.000,00       -52,98%         -991.680,00
+
+                          9 PASIUS FINANCERS                           1.240.890,56      1.263.995,56     1,86%       23.105,00
+
+91 AMORTITZACIÓ DE PRÈSTECS DE L´INTERIOR                              1.240.890,56      1.263.995,56       1,86%           23.105,00
+913 Amort. préstecs a mig i llarg termini                              1.240.890,56      1.263.995,56        1,86%          23.105,00
+
+TOTALS GENERALS DESPESES                                           32.468.711,35      29.356.694,15       -9,58% -3.112.017,20
+
+
+                                               Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                                                          www.comuencamp.ad
+                                                                                                                     11
+COMPARATIU EXECUCIÓ PRESSUPOST INGRESSOS PER CONCEPTE AMB ANY
+ANTERIOR
+                                                                    Liquidació       Liquidació
+                   Concepte econòmic                                                                        Variació
+                                                                       2019             2020
+                     1 IMPOSTOS DIRECTES                              3.104.067,40     3.100.850,22   -0,10%          -3.217,18
+
+10 SOBRE LA RESIDÈNCIA                                                  207.659,00       213.014,50      2,58%            5.355,50
+100 Foc i Lloc                                                          207.659,00       213.014,50      2,58%            5.355,50
+11 IMPOSTOS DIRECTES SOBRE EL CAPITAL                                 1.344.543,95     1.337.190,23     -0,55%           -7.353,72
+112 Impostos sobre béns immobles                                        642.650,63       644.864,83      0,34%            2.214,20
+115 Impost sobre els rendiments arrendataris                            701.893,32       692.325,40     -1,36%           -9.567,92
+13 IMPOSTOS DIRECTES SOBRE ACTIVITATS ECONÒMIQUES                     1.520.860,06     1.516.669,83     -0,28%           -4.190,23
+130 Impostos sobre activitats econòmiques                             1.520.860,06     1.516.669,83     -0,28%           -4.190,23
+14 IMPOSTOS DIRECTES SOBRE LA CONSTRUCCIÓ                                31.004,39        33.975,66      9,58%            2.971,27
+140 Impostos sobre la construcció                                        31.004,39        33.975,66      9,58%            2.971,27
+
+                    2 IMPOSTOS INDIRECTES                               767.479,41     1.779.067,34   131,81%    1.011.587,93
+
+20 TRANSMISSIONS PATRIMONIALS                                           767.479,41     1.779.067,34    131,81%        1.011.587,93
+200 Adquisició de béns immobles                                         767.479,41     1.779.067,34    131,81%        1.011.587,93
+
+                  3 TAXES I ALTRES INGRESSOS                          5.921.068,70     4.902.577,69   -17,20%    -1.018.491,01
+
+30 VENDES                                                                15.439,89        10.625,64    -31,18%           -4.814,25
+300 Venda Material                                                       15.439,89        10.625,64    -31,18%           -4.814,25
+31 TAXES                                                              1.476.301,56     1.532.043,58      3,78%          55.742,02
+310 Taxes - Prestació serveis grals. (Higiene, Grua circulació)       1.391.340,10     1.449.029,08      4,15%           57.688,98
+312 Taxes - Distribució d’aigua potable                                  15.606,18        13.642,62    -12,58%           -1.963,56
+313 Taxes - Sobre autorització d'obra                                    69.355,28        69.371,88      0,02%               16,60
+34 PREUS PÚBLICS PER PRESTACIÓ DE SERVEIS                             1.080.477,11       911.688,69    -15,62%        -168.788,42
+340 Serveis de caràcter gral. subminist. aigua i activitats           1.080.477,11       911.688,69    -15,62%         -168.788,42
+35 PREUS PÚBL. UTILITZAC. PRIVATIVA, APROV.DOM.PUB.LOC                2.478.507,54     1.909.094,31    -22,97%        -569.413,23
+350 Serveis de caràcter gral. utilització instal·la. i abonaments     2.085.225,41     1.536.637,00    -26,31%         -548.588,41
+352 Via pública                                                         393.282,13       372.457,31     -5,30%          -20.824,82
+36 CONTRIBUCIONS ESPECIALS                                              249.406,81       150.757,85    -39,55%          -98.648,96
+360 Per a l'execució d'obres                                            249.406,81       150.757,85    -39,55%          -98.648,96
+39 ALTRES INGRESSOS                                                     620.935,79       388.367,62    -37,45%        -232.568,17
+391 Sancions i altres ingressos                                         279.043,00       140.055,59    -49,81%         -138.987,41
+392 Recàrrega de constrenyiment                                         109.688,38        92.340,87    -15,82%          -17.347,51
+393 Interessos de demora                                                 10.470,69        12.240,74     16,90%            1.770,05
+399 Altres Ingressos diversos                                           221.733,72       143.730,42    -35,18%          -78.003,30
+
+                  4 TRANSFERÈNCIES CORRENTS                           1.284.226,21     2.755.678,91   114,58%    1.471.452,70
+
+42 DE L'ESTAT                                                         1.237.503,05     2.739.424,91    121,37%        1.501.921,86
+
+
+                                           Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                                                      www.comuencamp.ad
+                                                                                                                 12
+420 Molt Il·lustre Govern                                       1.237.503,05      2.739.424,91      121,37%         1.501.921,86
+
+47 D'EMPRESES PRIVADES                                            37.572,00            16.254,00    -56,74%           -21.318,00
+470 Remuneracions Consell Administració                           37.572,00            16.254,00     -56,74%          -21.318,00
+48 DE PERSONES I INSTITUCIONS SENSE ÀNIMS DE LUCRE                  9.151,16                0,00   -100,00%            -9.151,16
+480 Altres transferències corrents                                  9.151,16                0,00    -100,00%           -9.151,16
+
+                  5 INGRESSOS PATRIMONIALS                      7.900.537,30      7.242.323,95      -8,33%      -658.213,35
+
+53 DIVIDENDS I PARTICIPACIONS EN BENEFICIS                      2.394.565,00      1.620.864,00      -32,31%         -773.701,00
+534 D'empreses públiques                                            1.695,00                0,00    -100,00%           -1.695,00
+536 D'empreses públiques parroquials                            1.369.270,00      1.620.864,00       18,37%          251.594,00
+537 D'empreses privades                                         1.023.600,00                0,00    -100,00%    -1.023.600,00
+54 RENDES DE BÉNS IMMOBLES                                      2.544.295,34      2.816.869,38       10,71%          272.574,04
+541 Producte del lloguer de finques rústiques                    104.820,58            99.263,68      -5,30%           -5.556,90
+543 Adjudicació i subhasta de locals de negoci                    87.901,84            47.524,83     -45,93%          -40.377,01
+544 Cens Emfitèutic                                             2.351.572,92      2.670.080,87       13,54%          318.507,95
+55 PRODUCTES DE CONCESSIONS I APROFITAMENTS
+                                                                2.961.676,96      2.804.590,57       -5,30%         -157.086,39
+ESPECIALS
+550 Concessions administratives                                 2.961.676,96      2.804.590,57        -5,30%         -157.086,39
+
+                6 ALIENACIÓ D'INVERSIONS REALS                      4.200,00                0,00   -100,00%         -4.200,00
+
+61 MES INVERSIONS REALS                                             4.200,00                0,00   -100,00%
+619 Altres Inversions                                               4.200,00                0,00    -100,00%
+
+                 7 TRANSFERÈNCIES DE CAPITAL                    7.971.670,02      6.378.931,71     -19,98%     -1.592.738,31
+
+72 DE L'ESTAT                                                   7.993.877,37      6.339.751,28      -20,69%     -1.654.126,09
+720 Molt Il·lustre Govern                                       7.993.877,37      6.339.751,28       -20,69%    -1.654.126,09
+77 DE EMPRESES PRIVADES O PARTICULARS                            -22.207,35            39.180,43   -276,43%           61.387,78
+771 Planejament derivat POUPE                                     -22.207,35           39.180,43    -276,43%           61.387,78
+
+TOTAL GENERALS D'INGRESSOS                                  26.953.249,04      26.159.429,82        -2,95%     -793.819,22
+
+
+
+
+                                        Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                                                   www.comuencamp.ad
+                                                                                                               13
+COMPARATIU EXECUCIÓ PRESSUPOST PER ÀREA FUNCIONAL AMB ANY
+ANTERIOR:
+
+                                                          Liquidació          Liquidació
+                        DESPESES                                                               Variació
+                                                             2019                2020
+0 - Deute públic                                            1.477.367,29        1.506.670,54         1,98%
+
+1 - Serveis públics bàsics                                  7.525.521,99        7.364.054,80      -2,15%
+
+2 - Actuacions de protecció i promoció social                 621.343,72         667.708,38          7,46%
+
+3 - Producció de béns públics de caràcter preferent         9.130.677,12        8.885.403,64      -2,69%
+
+4 - Actuacions de caràcter econòmic                         8.370.748,03        5.643.294,09     -32,58%
+
+9 - Actuacions de caràcter general                          5.343.053,20        5.289.562,70      -1,00%
+
+TOTAL PRESSUPOST DESPESES                                 32.468.711,35       29.356.694,15      -9,58%
+
+
+                                                          Liquidació          Liquidació
+                       INGRESSOS                                                               Variació
+                                                             2019                2020
+0 - Deute públic                                                    0,00                0,00    -100,00%
+
+1 - Serveis públics bàsics                                  3.701.377,19        3.530.457,57      -4,62%
+
+2 - Actuacions de protecció i promoció social                  17.300,70          12.846,30      -25,75%
+
+3 - Producció de béns públics de caràcter preferent         1.539.586,02         828.764,01      -46,17%
+
+4 - Actuacions de caràcter econòmic                           328.562,81         208.993,46      -36,39%
+
+9 - Actuacions de caràcter general                         21.366.422,32       21.578.368,48         0,99%
+
+TOTAL PRESSUPOST INGRESSOS                                26.953.249,04       26.159.429,82      -2,95%
+
+
+Resultat execució pressupost                              -5.515.462,31       -3.197.264,33     -42,03%
+
+
+
+
+                               Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                                          www.comuencamp.ad
+                                                                                                14
+CONCILIACIÓ DEL RESULTAT PRESSUPOSTARI AMB EL RESULTAT
+FINANCER
+
+Correlació entre la liquidació del pressupost i el compte econòmic- patrimonial
+
+
+Resultat pressupostari de la liquidació del pressupost de l'exercici 2020     -3.197.264,33
+
+
+Mes:                                                                              9.646.342,65
+
+
+Inversions Reals                                                                  7.432.200,48
+Passius Financers                                                                 1.263.995,56
+Actius Financers                                                                   880.000,00
+Augment d'existències                                                                 2.872,40
+Beneficis per modificació de drets de pressupostos tancats                                0,00
+Anul·lació periodificació despeses financeres 2019                                  67.274,21
+Devolució d'ingressos d'exercicis tancats                                                 0,00
+
+
+Menys:                                                                            6.844.431,29
+
+
+Reducció d'existències de mercaderies i altres aprovisionaments                       5.913,14
+Pèrdues per la modificació de drets de pressupostos tancats                          67.131,26
+Dotació de l'amortització de l'immobilitzat immaterial                               71.097,10
+Dotació de l'amortització de l'immobilitzat material                              2.660.709,78
+Dotació provisió reparacions inversions de béns cedits a l'ús general             2.516.225,87
+Dotació provisió per insolvències aplicades                                        115.957,46
+Dotació provisió per valors negociables ll/t                                      1.341.188,62
+Periodificació despeses financeres 2020                                             61.388,19
+Ordre Devolució ingrés pendent a 31/12                                                4.819,87
+Valor comptable dels actius alienats durant l'any                                         0,00
+
+
+Resultat Financer del compte econòmic - patrimonial de l'exercici 2020            -395.352,97
+
+
+
+
+                        Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                                   www.comuencamp.ad
+                                                                                            15
+GESTIÓ COMPTABLE DE DESPESES DE L’EXERCICI ANUAL ACABAT EL 31.12.2020
+
+                                                       Import           Import          Import            Import
+Capítol                 Descripció                                                                                     Import Pagat
+                                                    Pressupostat       Autoritzat     Compromès          Liquidat
+  1       Despeses de personal                       9.809.216,50     9.721.930,55     9.721.930,55     9.703.080,73     9.679.292,28
+  2       Consum de béns corrents i serveis          8.835.895,31     7.928.960,91     7.928.838,95     7.677.828,32     6.876.191,49
+  3       Despeses financeres                         275.963,86        261.632,31       261.632,31      261.632,31       261.632,31
+  4       Transferències corrents                    2.681.688,36     2.270.179,22     2.270.179,22     2.137.956,75      366.073,87
+  6       Inversions reals                          14.334.185,93    13.846.590,92    13.846.590,92     7.432.200,48     6.294.508,23
+  8       Actius financers                            880.002,00        880.000,00       880.000,00      880.000,00       880.000,00
+  9       Passius financers                          1.267.001,00     1.263.995,56     1.263.995,56     1.263.995,56     1.263.995,56
+      Total pressupost de despeses                  38.083.952,96 36.173.289,47 36.173.167,51 29.356.694,15 25.621.693,74
+
+
+
+
+              GESTIÓ COMPTABLE D’INGRESSOS DE L’EXERCICI ANUAL ACABAT EL
+              31.12.2020
+
+                                                                Ingressos                                  Ingressos
+              Capítol                Descripció                                     Drets Reconeguts
+                                                              Pressupostats                                 Cobrats
+                 1       Impostos directes                          3.485.000,00         3.100.850,22        2.981.155,17
+                 2       Impostos indirectes                         850.000,00          1.779.067,34        1.535.600,21
+                 3       Taxes i altres ingressos                   5.733.534,86         4.902.577,69        4.311.466,57
+                 4       Transferències corrents                    1.906.070,84         2.755.678,91        2.739.424,91
+                 5       Ingressos patrimonials                     8.424.932,37         7.242.323,95        7.094.807,82
+                 6       Alienació d'inversions reals                       1,00                 0,00                  0,00
+                 7       Transferències de capital                  8.966.437,22         6.378.931,71        6.353.332,55
+                 8       Actius financers                           4.713.782,89                 0,00                  0,00
+                 9       Passius financers                          4.004.193,78                 0,00                  0,00
+                  TOTAL PRESSUPOST D'INGRESSOS                     38.083.952,96       26.159.429,82       25.015.787,23
+
+
+
+
+                                         Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                                                    www.comuencamp.ad
+                                                                                                                    16
+  GESTIÓ COMPTABLE DE TRESORERIA DE L’EXERCICI ANUAL ACABAT EL
+  31.12.2020
+
+Saldo Entitats Financeres i caixa a 31/12/2019                                          -12.839.711,04
+
+
+ Tresoreria                                                                511.702,34
+ Pòlisses Curt Termini                                                          0,00
+ Préstec Curt Termini                                                  -1.263.995,56
+ Préstec Llarg Termini                                                -12.087.417,82
+
+Total cobraments executats durant l'exercici 2020                                       27.912.494,49
+
+
+ Pressupost Corrent                                                   25.015.787,23
+
+
+ Impostos Directes                                     2.981.155,17
+ Impostos Indirectes                                   1.535.600,21
+ Taxes i altres ingressos                              4.311.466,57
+ Transferències corrents                               2.739.424,91
+ Ingressos patrimonials                                7.094.807,82
+ Alienació d'inversions                                        0,00
+ Transferències de Capital                             6.353.332,55
+ Passius financers (formalització préstec)                     0,00
+
+
+ Operacions no pressupostaries                                          1.806.726,02
+
+ Pressupostos Tancats                                                   1.089.981,24
+
+Total pagaments realitzats durant l'exercici 2020                                       28.553.105,57
+
+
+ Pressupost corrent                                                   25.621.693,74
+
+
+ Despeses de personal                                  9.679.292,28
+ Consums de béns corrents i Serveis                    6.876.191,49
+ Despeses Financeres                                     261.632,31
+ Transferències corrents                                 366.073,87
+ Inversions Reals                                      6.294.508,23
+ Actius financers                                        880.000,00
+ Passius financers (amortització préstec)              1.263.995,56
+
+ Pressupostos Tancats                                                   2.931.411,83
+
+Saldo Entitats Financeres i caixa a 31/12/2020                                          -13.480.322,12
+
+
+ Tresoreria                                                                 87.356,76
+ Pòlisses Curt Termini                                                 -1.480.261,06
+                            Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                                       www.comuencamp.ad
+                                                                                             17
+          Préstec Curt Termini                                                   -1.284.802,96
+          Préstec Llarg Termini                                                 -10.802.614,86
+
+           GESTIÓ COMPTABLE DE PATRIMONI DE L’EXERCICI ANUAL ACABAT EL
+           31.12.2020
+
+
+
+                                                            Patrimoni Inicial                               Patrimoni Final
+Compte                        Descripció                                           Altes          Baixes
+                                                              01/01/2020                                     31/12/2019
+ 200     Terrenys i béns naturals                               1.165.395,49         1.168,57                     1.166.564,06
+ 201     Infraestructures viàries diverses                     31.973.073,11    2.953.769,94                     34.926.843,05
+ 202     Parcs i Jardins diversos                               1.072.759,44     117.929,94                       1.190.689,38
+ 203     Senyalitzacions diverses                               1.482.850,56      14.832,44                       1.497.683,00
+ 204     Infraestructures de serveis diversos                   7.662.251,46      24.727,41                       7.686.978,87
+ 205     Àrees urbanes i rústiques                             25.121.775,34     535.394,86                      25.657.170,20
+ 215     Aplicacions informàtiques                              1.487.184,06      78.035,91                       1.565.219,97
+ 220     Terrenys                                               9.928.949,96               0,00                   9.928.949,96
+ 221     Edificis                                              82.836.949,48    2.714.080,91                     85.551.030,39
+ 222     Instal·lacions tècniques diverses                     14.348.911,01     289.575,45                      14.638.486,46
+ 223     Maquinària                                             1.779.705,86     269.742,10                       2.049.447,96
+ 225     Altres equipaments diversos                            3.341.214,14     345.484,73                       3.686.698,87
+ 226     Mobiliari                                              1.724.942,82      10.450,81                       1.735.393,63
+ 227     Equips per a processaments d´informació                1.439.309,81      77.007,41                       1.516.317,22
+ 228     Elements de transport                                  1.837.068,59               0,00                   1.837.068,59
+ 229     Altre Immobilitzat                                       586.638,09               0,00                     586.638,09
+ 250     Inversions financeres permanents                      11.198.399,76     880.000,00                      12.078.399,76
+ 265     Dipòsits constituïts a llarg termini                         800,00               0,00                         800,00
+                    TOTAL VALOR DE COST                       198.988.178,98    8.312.200,48         0,00     207.300.379,46
+
+ 281     Amortit. acumulada d'immobilitzat immaterial           -1.118.726,53     -71.097,10                      -1.189.823,63
+ 282     Amortit. acumulada de l'immobilitzat material         -50.423.796,61 -2.660.709,78                      -53.084.506,39
+ 292     Provisió d'immobilitzat destinat a l'ús general       -43.180.210,14 -2.516.225,87                      -45.696.436,01
+ 297      Provisió per valors negociables a ll/t.               -4.661.850,76 -1.341.188,62                       -6.003.039,38
+         TOTAL AMORTITZACIÓ I PROVISIÓ ACUM.                  -99.384.584,04 -6.589.221,37           0,00   -105.973.805,41
+
+                      TOTAL VALOR NET                          99.603.594,94    1.722.979,11         0,00   101.326.574,05
+
+
+
+
+                                      Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                                                 www.comuencamp.ad
+                                                                                                            18
+               GESTIÓ COMPTABLE DE L’ENDEUTAMENT DE L’EXERCICI ANUAL ACABAT EL 31.12.2020
+
+
+                                                                                              COMÚ D'ENCAMP
+                                                                           Amortitzat en   Formalitzat en                                                                            Interessos
+                                   Situació 31/12/2019                                                      Traspàs a curt                   Situació 31/12/2020
+                                                                            l'exercici       l'exercici                                                                               Meritats
+                   Llarg termini        Curt Termini                                                                         Llarg termini       Curt Termini
+                                                            Total                                                                                                     Total
+                   compte 170           compte 520                                                                           compte 170          compte 520
+
+   Préstecs         12.087.417,82         1.263.995,56   13.351.413,38      1.263.995,56                      1.284.802,96    10.802.614,86        1.284.802,96    12.087.417,82     211.198,47
+
+
+    Pòlisses                                      0,00              0,00                     1.480.261,06                                          1.480.261,06     1.480.261,06       31.476,51
+
+
+     Totals         12.087.417,82         1.263.995,56   13.351.413,38      1.263.995,56     1.480.261,06     1.284.802,96    10.802.614,86        2.765.064,02    13.567.678,88     242.674,98
+
+
+
+
+                                                                                           FUNITEL D'ENCAMP, SAU
+                                                                           Amortitzat en   Formalitzat en                                                                            Interessos
+                                   Situació 31/12/2019                                                      Traspàs a curt                   Situació 31/12/2020
+                                                                            l'exercici       l'exercici                                                                               Meritats
+                   Llarg termini        Curt Termini                                                                         Llarg termini       Curt Termini
+                                                            Total                                                                                                     Total
+                   compte 170           compte 520                                                                           compte 170          compte 520
+
+   Préstecs                   0,00                0,00              0,00            0,00                              0,00              0,00               0,00               0,00          0,00
+
+
+    Pòlisses                                      0,00              0,00         -374,52           374,52                                                374,52          374,52             0,00
+
+
+     Totals                   0,00                0,00              0,00         -374,52           374,52             0,00              0,00             374,52          374,52             0,00
+
+
+TOTAL GENERAL
+                    12.087.417,82         1.263.995,56   13.351.413,38      1.263.621,04     1.480.635,58     1.284.802,96    10.802.614,86        2.765.438,54    13.568.053,40     242.674,98
+CORPORACIÓ
+
+
+
+
+                                                                    Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                                                                               www.comuencamp.ad
+                                                                                                                                                                        19
+PAGAMENTS I COBRAMENTS EFECTUATS FINS EL 31 DE GENER 2021
+ORIGINATS PER OPERACIONS GENERADES FINS EL 31.12.2020
+
+
+
+                                                               Pagaments gener
+                    CAPÍTOLS DESPESES
+                                                                    2021
+     1 DESPESES PERSONAL                                                 21.388,45
+     2 DESPESES EN BÉNS CORRENTS I SERVEIS                              505.549,48
+     3 DESPESES FINANCERES                                                    0,00
+     4 TRANSFERÈNCIES CORRENTS                                          250.651,13
+
+                                    Total despeses corrents             777.589,06
+
+     6 INVERSIONS REALS                                                 905.756,26
+     7 TRANSFERÈNCIES DE CAPITAL                                              0,00
+
+                                  Total despeses de capital             905.756,26
+
+     8 ACTIUS FINANCERS                                                       0,00
+     9 PASSIUS FINANCERS                                                      0,00
+
+                                  Total depeses financeres                    0,00
+
+     Total pagaments gener 2021                                     1.683.345,32
+
+                                                               Cobraments gener
+                    CAPÍTOLS D'INGRÉS
+                                                                    2021
+     1 IMPOSTOS DIRECTES                                                  7.970,76
+     2 IMPOSTOS INDIRECTES                                              243.467,13
+     3 TAXES I ALTRES INGRESSOS                                         293.935,95
+     4 TRANSFERÈNCIES CORRENTS                                                0,00
+     5 INGRESSOS PATRIMONIALS                                            63.288,09
+
+                                    Total ingressos corrents            608.661,93
+
+     6 ALIENACIÓ D'INVERSIONS REALS                                           0,00
+     7 TRANSFERÈNCIES DE CAPITAL                                              0,00
+
+                                  Total ingressos de capital                  0,00
+
+     8 ACTIUS FINANCERS                                                       0,00
+     9 PASSIUS FINANCERS                                                      0,00
+
+                       Total ingressos per op. financeres                     0,00
+
+
+     Total cobraments gener 2021                                      608.661,93
+
+
+
+
+                    Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                               www.comuencamp.ad
+                                                                                     20
+                 MEMÒRIA DE L’EXERCICI ANUAL
+                    ACABAT EL 31.12.2020
+                                                               ÍNDEX
+
+1.      ORGANITZACIÓ ........................................................................................................... 22
+2.      INFORMACIÓ DE CARÀCTER FINANCER .................................................................... 38
+     2.1       Normes de Valoració .......................................................................................... 38
+     2.2       Notes als epígrafs del balanç de situació ........................................................ 40
+        2.2.1        Inversions destinades a l’ús general i Immobilitzat .................................. 40
+        2.2.2        Immobilitzat immaterial .............................................................................. 40
+        2.2.3        Immobilitzat material .................................................................................. 40
+        2.2.4        Existències ..................................................................................................... 40
+        2.2.5        Inversions financeres permanents.............................................................. 41
+        2.2.6        Deutors .......................................................................................................... 41
+        2.2.7        Fons propis .................................................................................................... 42
+        2.2.8        Endeutament i càlcul dels ratis d’endeutament segons la LFC ............ 42
+        2.2.9        Creditors pressupostaris: .............................................................................. 44
+     2.3       Notes als epígrafs del compte del resultat econòmic patrimonial ............... 45
+        2.3.1        Detall de les despeses del compte de resultat econòmic patrimonial 45
+        2.3.2        Detall dels ingressos del compte del resultat econòmic patrimonial ... 46
+        2.3.3        Detall dels ingressos financers: ................................................................... 47
+        2.3.4        Detall dels ingressos per transferències i subvencions corrents: ............ 47
+        2.3.5        Detall dels ingressos per transferències de capital: ................................ 47
+        2.3.6        Despeses extraordinàries ............................................................................ 47
+     2.4       Quadre de finançament de l’exercici anual acabat el 31.12.2020 .............. 48
+     2.5   Conciliació entre el resultat econòmic patrimonial i els recursos obtinguts
+     d’operacions de gestió: .................................................................................................. 50
+     2.6       Fets destacats sobre la comptabilitat pressupostària ..................................... 51
+     2.7       Transferències de Govern, aplicació de la LQTC ............................................ 55
+     2.8       Romanent de Tresoreria a 31.12.2020 ............................................................... 56
+
+
+
+
+                                  Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                                             www.comuencamp.ad
+                                                                                                                                      21
+1.    ORGANITZACIÓ
+
+
+1.1       Activitat de l’entitat
+
+
+El Comú d’Encamp és una corporació pública elegida democràticament, amb
+personalitat jurídica, potestats i competències pròpies que representa, governa i
+administra la Parròquia d’Encamp i que forma part de l’estructura institucional del
+Principat d’Andorra. Les seves competències i potestats són les establertes per la
+Constitució i per la Llei qualificada de delimitació de competències dels Comuns.
+Formen part de la Parròquia d’Encamp, el territori (84,695 Km2), la població (12.528
+habitants segons cens actualitzat a 31 de desembre de 2020) i l’organització.
+Els nuclis urbans que conformen la parròquia són els següents:
+      •   Encamp
+      •   Pas de La Casa
+      •   Les Bons
+      •   Vila
+
+
+1.2       Estructura organitzativa
+
+
+Els òrgans bàsics del govern durant l’exercici 2020 són els següents:
+
+
+-     Consell de Comú: amb un nombre de 12 Consellers, incloent-hi els Hbles. Cònsol
+      major i Cònsol menor, elegits en data 15 de desembre de 2019.
+
+      El Consell de Comú està constituït pels Honorables:
+
+      Hble. Sra. Laura Mas Barrionuevo - Cònsol major
+      Hble. Sr. Joan Miquel Rascagnères Llagostera - Cònsol menor
+      Hble. Sra. Josefina Rodríguez Blanco - Consellera major
+      Hble. Sr. Éric Alguacil Molné - Conseller menor
+      Hble. Sr. Nino Marot Crespo - Conseller de Comú
+      Hble. Sr. Xavier Benedicte Fernández Carrió - Conseller de Comú
+      Hble. Sr. Andreu Riba Valls - Conseller de Comú
+      Hble. Sr. David Cruz Garcia - Conseller de Comú
+      Hble. Sr. Joan-Marc Pifarré Ros - Conseller de Comú
+      Hble. Sr. David Rios Rius - Conseller de Comú
+      Hble. Sr. Enric Riba Valls - Conseller de Comú
+      Hble. Sra. Esther Vidal Mils - Consellera de Comú
+
+Els grups polítics que han integrat la Corporació són els següents:
+     - Units per al Progrés / Demòcrates per Andorra / Liberals d’Andorra +
+        Independents: 9 Consellers
+                          Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                                     www.comuencamp.ad
+                                                                                 22
+    -   Partit Socialdemòcrata + Independents: 2 Consellers
+    -   Agrupament Encampadà: 1 Consellera
+
+
+El Consell de Comú regula de manera general tots els assumptes d’àmbit i interès
+comunal en els límits fixats per la Constitució i la Llei qualificada de delimitació de
+competències i transferències.
+
+A més d’aquestes, altres atribucions que li reconeguin la legislació vigent i els usos i
+costums, el Cònsol major, representa judicialment i extrajudicialment el Comú, i és el
+responsable de l’execució, per la Junta de Govern, de les decisions del Consell de
+Comú.
+
+La Junta de Govern exerceix les competències delegades expressament pel Consell del
+dia 16.01.2020 i les altres que li atribueixi la legislació, que són les que s’exposen a
+continuació:
+
+
+a) Aprovar, si escau, les propostes formulades per les Comissions.
+b) Acordar i resoldre avisos, protocols, convenis i contractes.
+c) L’adopció dels acords de liquidació tributària previstos per la normativa vigent.
+d) Les autoritzacions per a l’ocupació del domini públic.
+e) La interposició d’accions davant del Tribunal Constitucional, únicament en casos
+d’urgència o d’esgotament de terminis.
+f) L’exercici d’accions judicials i administratives, i la defensa del Comú en matèries de
+la seva competència.
+g) La resolució de procediments sancionadors, inclosos els relatius a urbanisme i
+tributs.
+h) Les resolucions en matèria de personal del comú, inclosa la convocatòria de
+concursos públics i la resolució de procediments sancionadors disciplinaris,
+exceptuant el que estableix en aquesta matèria la Llei 8/2005 dels agents de
+circulació comunals, així com impulsar i proposar sistemes de gestió aplicables a la
+funció pública del Comú, i totes les altres competències que li atorga l’Ordinació de
+la Funció Pública.
+i) Les llicències i les autoritzacions en matèria d’urbanisme i d’activitats comercials,
+empresarials i professionals, o altres exigides per la legislació vigent.
+j) La regulació i les resolucions relatives a la gestió del cens de població comunal i del
+cens electoral.
+k) La regulació i les resolucions relatives al cadastre i als registres immobiliaris.
+l) Autoritzar la contractació d’obres, de gestió de serveis públics, de subministraments,
+de treballs tècnics i de serveis, així com la contractació de tota mena d’informes
+tècnics, assessoraments jurídics, auditories referents a temes que afecten al
+funcionament del Comú i a l’activitat administrativa en general, per imports iguals o
+inferiors a 150.000,00€, d’acord amb l’Ordinació del pressupost de l’exercici en curs.
+m) La resolució dels contractes regulats a la Llei de contractació pública.
+n) Aprovar actuacions relacionades amb el cens emfitèutic i el pla d’ordenació i
+urbanisme de la parròquia.
+                        Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                                   www.comuencamp.ad
+                                                                                        23
+o) Impulsar i controlar la gestió de les societats participades pel Comú d’Encamp.
+p) Aprovar tots aquells actes que afectin al funcionament de les oficines
+administratives del Comú i dels seus serveis exteriors, referents a l’organització dels
+departaments, l’atenció al públic i als horaris d’obertura i tancament.
+q) Prendre decisions en cas d’extrema urgència, havent de donar compte dels afers
+tractats i de les decisions adoptades en la propera sessió del Consell de Comú, que
+haurà de ser convocada amb caràcter d’urgència.
+r) Les altres competències que expressament li atribueixin les lleis i les que la legislació
+assigna al Comú i no adjudica a cap altre òrgan comunal.
+
+La Junta de Govern va ser constituïda pels següents membres del Consell de Comú a
+proposta de la Cònsol major :
+
+    -   Hble. Sra. Laura Mas Barrionuevo - Cònsol major
+    -   Hble. Sr. Joan Miquel Rascagnères Llagostera - Cònsol menor
+    -   Hble. Sra. Josefina Rodríguez Blanco - Consellera major
+    -   Hble. Sr. Éric Alguacil Molné - Conseller menor
+    -   Hble. Sr. Nino Marot Crespo - Conseller de Comú
+    -   Hble. Sr. Xavier Benedicte Fernández Carrió - Conseller de Comú
+    -   Hble. Sr. Andreu Riba Valls - Conseller de Comú
+    -   Hble. Sr. David Cruz Garcia - Conseller de Comú
+    -   Hble. Sr. Joan-Marc Pifarré Ros - Conseller de Comú
+
+Les Comissions són creades per estudiar, informar i formular propostes. Així mateix, els
+informes i les propostes que trameten les comissions al Consell de Comú, no són mai
+vinculants. A proposta del Cònsol major, el Consell de Comú pot, lliurement, crear
+una o diverses comissions, designant i revocant lliurement els seus membres i el seu
+president.
+El president de cada comissió dona compte al Consell de Comú de la tasca
+realitzada.
+
+Les comissions estan constituïdes pels següents membres del Consell de Comú:
+
+▪ COMISSIÓ DE CIRCULACIÓ
+
+           - l’Hble. Sra. Laura Mas Barrionuevo
+           - l’Hble. Sr. Èric Alguacil Molné
+           - l’Hble. Sr. David Cruz Garcia
+           - l'Hble. Sr. Enric Riba Valls
+           - l’Hble. Sra. Esther Vidal Mils
+
+Li correspon la direcció del Servei de Circulació.
+
+▪ COMISSIÓ D’ADMINISTRACIÓ I FINANCES
+
+           - l’Hble. Sra. Josefina Rodríguez Blanco
+           - l’Hble. Sr. Èric Alguacil Molné
+           - l’Hble. Sr. Andreu Riba Valls
+           - l'Hble. Sr. David Ríos Rius
+           - l’Hble. Sra. Esther Vidal Mils
+                       Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                                  www.comuencamp.ad
+                                                                                         24
+Li correspon la direcció del Departament d'Administració i el Departament de
+Finances.
+
+▪ COMISSIÓ DE RECURSOS HUMANS I INFORMÀTICA
+
+          - l’Hble. Sr. Èric Alguacil Molné
+          - l’Hble. Sr. Joan Miquel Rascagnères Llagostera
+          - l’Hble. Sra. Josefina Rodríguez Blanco
+          - l'Hble. Sr. Enric Riba Valls
+          - l’Hble. Sra. Esther Vidal Mils
+
+
+   Li correspon la direcció dels Departaments de Recursos Humans i Informàtica.
+
+▪ COMISSIÓ DE REACTIVACIÓ ECONÒMICA I TURISME
+
+          - l’Hble. Sr. Josep Maria Marot Crespo
+          - l’Hble. Sr. Joan Miquel Rascagnères Llagostera
+          - l’Hble. Sr. Joan-Marc Pifarré Ros
+          - l'Hble. Sr. Enric Riba Valls
+          - l’Hble. Sra. Esther Vidal Mils
+
+Li correspon la direcció del Departament de Turisme.
+
+▪ COMISSIÓ D’APARCAMENTS I VIA PÚBLICA
+
+          - l’Hble. Sr. Xavier Benedicte Fernández Carrió
+          - l’Hble. Sr. David Cruz Garcia
+          - l’Hble. Sr. Joan-Marc Pifarré Ros
+          - l'Hble. Sr. Enric Riba Valls
+          - l’Hble. Sra. Esther Vidal Mils
+
+
+Li correspon la direcció del Departament d’Infraestructures i Manteniment.
+
+▪ COMISSIÓ DE JOVENTUT I ESPORTS:
+
+          - l’Hble. Sr. Xavier Benedicte Fernández Carrio
+          - l’Hble. Sr. David Cruz Garcia
+          - l’Hble. Sr. Josep Maria Marot Crespo
+          - l'Hble. Sr. Enric Riba Valls
+          - l’Hble. Sra. Esther Vidal Mils
+
+
+   Li correspon la direcció dels Departaments de Joventut i Esports.
+
+
+
+                       Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                                  www.comuencamp.ad
+                                                                                  25
+▪ COMISSIÓ D'HIGIENE, MEDI AMBIENT I AGRICULTURA:
+
+           - l’Hble. Sr. Andreu Riba Valls
+           - l'Hble. Sra. Laura Mas Barrionuevo
+           - l'Hble. Sr. Josep Maria Marot Crespo
+           - l'Hble. Sr. David Ríos Rius
+           - l'Hble. Sra. Esther Vidal Mils
+
+    Li correspon la direcció del Departament d'Higiene, Medi Ambient i Agricultura.
+
+▪ COMISSIÓ DE CULTURA I AFERS SOCIALS:
+
+           - l’Hble. Sr. David Cruz Garcia
+           - l’Hble. Sr. Joan Miquel Rascagnères Llagostera
+           - l’Hble. Sra. Josefina Rodríguez Blanco
+           - l'Hble. Sr. David Ríos Rius
+           - l’Hble. Sra. Esther Vidal Mils
+
+    Li correspon la direcció del Departament de Cultura i Afers Socials.
+
+▪ COMISSIÓ D’OBRES PÚBLIQUES I URBANISME
+
+           - l’Hble. Sr. Joan-Marc Pifarré Ros
+           - l’Hble. Sr. Joan Miquel Rascagnères Llagostera
+           - l’Hble. Sr. Andreu Riba Valls
+           - l'Hble. Sr. David Ríos Rius
+            -l’Hble. Sra. Esther Vidal Mils
+
+Li correspon la direcció del Departament d'Obres Públiques i Urbanisme
+
+Totes les àrees de l’organització administrativa comunal queden estructurades sota
+la direcció d’un responsable per cada àrea de gestió del Comú.
+
+Les principals àrees de gestió organitzativa del Comú durant l’exercici 2020 han estat
+les següents:
+
+-   Corporació Comunal: Secretaria General i Intervenció Comunal
+-   Administració
+-   Recursos humans
+-   Finances
+-   Comunicació i Protocol
+-   Informàtica
+-   Manteniment i Infraestructures
+-   Circulació i atenció ciutadana
+-   Higiene, Medi Ambient i Agricultura
+-   Obres i Urbanisme
+-   Cultura i Afers socials
+-   Joventut i Esports
+-   Turisme
+                       Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                                  www.comuencamp.ad
+                                                                                      26
+El dia 15 de desembre de 2019 es celebraren les eleccions comunals per proveir els
+càrrecs de Consellers de Comú de la parròquia d’Encamp per el període 2020 - 2023,
+el nom i càrrec dels candidats elegits van ser els següents:
+
+      -   Hble. Sra. Laura Mas Barrionuevo, Cònsol major.
+      -   Hble. Sr. Joan Miquel Rascagnères Llagostera, Cònsol menor.
+      -   Hble. Sra. Josefina Rodríguez Blanco, Consellera major.
+      -   Hble. Sr. Èric Alguacil Molné, Conseller menor.
+      -   Hble. Sr. Josep Maria Marot Crespo, Conseller.
+      -   Hble. Sr. Xavier Benedicte Fernandez Carrió, Conseller.
+      -   Hble. Sr. Andreu Riba Valls, Conseller.
+      -   Hble. Sr. David Cruz Garcia, Conseller.
+      -   Hble. Sr. Joan-Marc Pifarré Ros, Conseller.
+      -   Hble. Sr. David Ríos Rius, Conseller.
+      -   Hble. Sr. Enric Riba Valls, Conseller.
+      -   Hble. Sra. Esther Vidal Mils, Conseller.
+
+
+1.3       Organització comptable
+
+
+El Departament de Finances garanteix l’elaboració dels comptes del Comú
+controlant els ingressos i les despeses sota les directrius d’actuació de la Intervenció
+comunal.
+
+Es treballa amb la comptabilitat pressupostària, la qual està vinculada a la
+comptabilitat financera, per tal d’obtenir tota la informació comptable requerida
+legalment.
+
+Els principals ingressos propis del Comú són els impostos, les taxes, els preus públics i
+altres ingressos patrimonials.
+
+Cada departament gestiona els seus propis ingressos; és a dir, elabora una caixa
+diària de la recaptació líquida, ingressa aquesta recaptació al banc i emet les
+facturacions mensuals, trimestrals o anuals. Posteriorment, tota la documentació es
+centralitza al Departament de Finances, que tramet les facturacions als bancs i
+comptabilitza les operacions després de supervisar-les i controlar-les.
+
+Existeix una secció per la gestió dels deutors. En una primera fase s’intenta el
+cobrament per la via amistosa i en segona fase es procedeix per la via executiva.
+
+Pel que fa a les despeses, s’enregistren per fases: autorització, compromís, liquidació
+(comptabilització de factures), ordre de pagament i pagament, tot seguint el
+procediment de compres i contractació. Tota la documentació es centralitza al
+Departament de Finances.
+
+Per a les despeses d’inversió existeix un registre auxiliar d’immobilitzat que permet
+conèixer la situació de cada actiu i practicar les amortitzacions anuals pertinents.
+
+El Departament de Finances també controla la tresoreria comunal duent a terme
+conciliacions bancàries mensuals, arquejos de caixa periòdics i el seguiment i control
+de les liquidacions d’interessos i amortitzacions de capital dels préstecs.
+
+
+                        Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                                   www.comuencamp.ad
+                                                                                      27
+En el moment de tancar l’exercici es procedeix als ajustos pertinents i a les operacions
+de tancament i obertura.
+
+El Comú participa en les següents Societats, totes elles governades pel seu corresponent
+Consell d’Administració:
+
+                        Societat                        Sector           President consell
+     Gasolinera del Pas de la Casa, S.A (GASOPAS)      Energètic    Sr. Josep Maria Mas Casellas
+     Serveis Comunals d’Encamp, S.A (SERCENSA)         Energètic    Sr. Jesús Gasset Abella
+     Funitel d’Encamp, S.A.U (FUNICAMP)                Transport    Sr. Jordi Rogel Tohà
+     Societat Anònima d’Equipament Turístic-Esportiu
+                                                         Turístic   Sr. Andreu Riba Valls
+     de la Parròquia d’Encamp, S.A (SAETDE,S.A)
+
+El Comú participa de forma testimonial en les societats S.E.M.T.E.E., S.A. I UNIÓ ELÈCTRICA
+D’ENCAMP.
+
+1.4       Competències i prestació de serveis
+D’acord amb la llei qualificada de delimitació de competències dels Comuns, les
+competències del Comú d’Encamp són les següents:
+
+a)     La conformació, control i manteniment del cens general de població de la
+       Parròquia, d'acord amb les normes generals de coordinació nacional.
+
+b)     L'elaboració, actualització i publicació del cens electoral, llistes electorals, i totes
+       aquelles altres funcions que, en matèria electoral, els atribueix la Llei Qualificada
+       del Règim Electoral i del Referèndum. Així mateix, correspon al Comú la
+       convocatòria de reunions de poble i consultes populars d'abast parroquial.
+
+c)     L'elaboració del cadastre de la Parròquia en coordinació amb l'activitat registral
+       de l'Estat.
+
+d)     L'ordenació del seu territori en allò que es refereix a la revisió de creus de terme i
+       d'emprius comunals i la delimitació de terres comunals amb Quarts i amb
+       particulars.
+
+e)     La regulació, autorització i registre de les condicions d'obertura i establiment
+       d'activitats comercials, industrials, professionals i de serveis en el terme de la
+       Parròquia, dins el marc de la legislació nacional.
+
+f)     La definició de la política urbanística de la Parròquia dins el marc de la general de
+       l'Estat, gestionant, fixant i aplicant els plans generals i parcials d'urbanització, les
+       condicions d'edificabilitat i habitabilitat, les infraestructures viàries i de serveis i els
+       equipaments comunals col·lectius.
+
+g)     L'administració, gestió i govern en general dels béns de domini públic comunal i
+       dels béns de domini privat o patrimonials que hagin adquirit, inclòs l'aprofitament i
+       explotació dels recursos naturals que s'hi trobin, tals com tales de boscos, camps de
+       neu, aigües i minerals.
+
+h)     La definició de les condicions d’instal·lació i conservació de parcs naturals en el
+       terme de la respectiva Parròquia.
+
+
+                           Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                                      www.comuencamp.ad
+                                                                                                28
+i)   La construcció i millora de les vies públiques urbanes, carreteres secundàries,
+     camins comunals i de muntanya, places, jardins, aparcaments i estacionaments.
+     Això no obstant, l'Estat proveirà l'enquitranament de les vies públiques urbanes i el
+     manteniment i l'enquitranament de les carreteres secundàries.
+
+j)   La prestació dels serveis públics comunals en els següents àmbits:
+
+     -   La captació, tractament i distribució pública d'aigües potables i termals i la
+         construcció de fonts públiques
+
+     -   Les instal·lacions de l'enllumenat públic en el terme de la respectiva Parròquia.
+
+     -   Les conduccions generals d'aigües residuals, plujanes, clavegueres i albellons.
+
+     -   La construcció, conservació i administració de cementiris i la prestació dels
+         serveis funeraris.
+
+     -   La neteja de les vies públiques, recollida d'escombraries i deixalles i la protecció
+         ambiental i ecològica.
+
+     -   La inspecció, control i assegurament de la bona convivència ciutadana en les
+         vies públiques, urbanes i rurals, per mitjà dels agents de circulació i els altres
+         agents i cossos comunals. A més, en cas de sinistre o necessitat pública, podrà
+         convocar el Sometent.
+
+k)   La regulació de les condicions de la circulació urbana de vehicles i vianants,
+     establint i definint les zones i horaris d'estacionament, càrrega i descàrrega amb la
+     subsegüent senyalització horitzontal i vertical, així com la retolació de carrers,
+     places, vies públiques i llocs d'interès.
+
+l)   L’organització i promoció d'activitats socials, culturals, esportives i d'educació física
+     no escolar i de les festes tradicionals.
+
+m) L'organització institucional dels seus òrgans, formes i procediments d'actuació dins
+   el marc assenyalat per la Constitució, les lleis generals i els usos i costums.
+
+n)   La realització de qualsevulla activitat i prestació d'altres serveis públics que siguin
+     adients per a la satisfacció de les necessitats i interessos de la comunitat parroquial.
+
+     Com a mostra representativa, els principals serveis que donen compliment a les
+     competències citades anteriorment i que coincideixen amb les previstes en la Llei
+     qualificada de competències dels Comuns, serien els següents:
+
+     -   Realització i manteniment d’obra pública
+     -   Prestació de serveis administratius
+     -   Organització i promoció d’activitats turístiques, culturals, socials i esportives
+     -   Serveis d'Escoles Bressol i espais lleure.
+     -   Serveis per la Joventut
+     -   Atenció social i a la gent gran
+     -   Biblioteques Públiques
+     -   Servei de Circulació i atenció al ciutadà
+     -   Enllumenat públic
+     -   Servei de Cementiri i Tanatori
+                        Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                                   www.comuencamp.ad
+                                                                                             29
+     -   Neteja viària i conservació de via pública
+     -   Tractament de residus
+     -   Recollida d’escombraries i recollida selectiva
+     -   Manteniment zones enjardinades i embelliment
+     -   Cadastre Comunal
+
+
+La forma de gestió que utilitza el Comú d’Encamp, principalment és la gestió directa, i
+en casos concrets la gestió es realitza mitjançant concessió administrativa.
+
+Algunes actuacions dutes a terme en el decurs de l’exercici 2020, en l’àmbit
+d’activitats, socials, culturals, esportives, serveis públics i altres, han estat les següents:
+
+
+ACTIVITATS SOCIALS I CULTURALS
+
+-   Cavalcades de Reis a Encamp i al Pas de la Casa
+-   Escudelles d’Encamp i del Pas de la Casa i Encants de Sant Antoni a Encamp
+-   Carnavals d’Encamp i del Pas de la Casa
+-   Concurs de Punts de llibre
+-   Concurs d’escultures de Neu al Pas de la Casa
+-   Celebració del Dia de la Dona amb l’obre de teatre ’Coitus’
+-   X Premi de narrativa fantàstica i de terror d’Encamp, obert a la Cerdanya i l’Alt
+    Urgell.
+-   Tardes d’estiu, durant els mesos de juliol i agost
+-   Encamp en clau de llum
+-   Acte Inter parroquials de la gent gran (Carnaval)
+-   Activitats tradicionals a les escoles bressol d’Encamp i del Pas de la Casa (visita
+    del Pare Noel, Carnaval)
+-   Revetlla de Sant Joan
+-   Festa del Poble
+-   Festes majors d’Encamp i del Pas de la Casa
+-   Clubs de lectura, xerrades, sessions de conta contes, exposicions bibliogràfiques,
+    projeccions de pel·lícules i tallers a les Biblioteques Comunals d’Encamp i del Pas
+    de la Casa
+-   Festival de titelles a Encamp i al Pas de la Casa
+-   Cavalcada del Pare Noel a Encamp i al Pas de la Casa
+-   Mercat de Nadal organitzat per l’AEE i en col·laboració amb el Departament de
+    Cultura d’Encamp
+-   Musicals infantils a Encamp (2)
+-   Exposició (2)
+-   ONCARRER, col·laboració amb la ONCA.
+-   La Cultura no s’atura col·laboració amb el Ministeri de Cultura
+
+
+
+
+                        Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                                   www.comuencamp.ad
+                                                                                            30
+ACTIVITATS I ACCIONS ESPORTIVES I DE JOVENTUT
+
+JOVENTUT
+
+-   Servei diari de lleure infantil i juvenil a les Àrees de Jovent, Espai Joves i Punt
+    d’informació juvenil, durant tot l’any. (DEL SETEMBRE FINS AL MARÇ I EL MES DE
+    JUNY)
+-   Programacions de lleure educatiu en vacances escolars (Carnaval, Estiu, Tots
+    Sants i Nadal). (PASQUA I PENTECOSTA ANUL·LATS COIVD-19)
+-   Creació de contingut educatiu i d’entreteniment a les xarxes socials i
+    acompanyament de famílies i joves amb sessions de coaching telefònic. (DEL 14
+    DE MARÇ AL 1 DE JUNY)
+-   Consell d’Infants
+-   Consells d’escola (Escola Andorrana i Escola Francesa d’Encamp i El Pas de la
+    Casa – 3 SESSIONS CADA SISTEMA ANUL·LADES PER COVID-19).
+-   Promojove (1 reunió mensual via telemàtica).
+-   Projecte Moviment Jove (de març a setembre).
+-   Xerrades a les escoles del país sobre prevenció de Cànnabis i consum
+-   d’Alcohol (NOVEMBRE I DESEMBRE).
+-   Desfilada per animar als infants des dels balcons durant el confinament. (ABRIL)
+-   Repartició del Test d’Antígens a domicili a la població de 70 anys o més.
+    (DESEMBRE)
+
+ESPORTS
+
+-   Programació d’escoles esportives, activitats per adults i gent gran (curs escolar
+    fins març)
+-   Activitats esportives i Campus en vacances escolars a Encamp i al Pas de la Casa
+    (durant el curs escolar fins al març).
+-   Competicions i lligues regulars dels diferents clubs de la parròquia (de setembre a
+    març).
+-   Estades de clubs esportius de fora del país com el Club Natació Sant Andreu de
+    Barcelona, Federació espanyola de natació, Club futsal indústrias Santa Coloma
+    o les seccions del futbol club Barcelona (bàsquet, handbol i hoquei patins)
+-   Escola de Neu (de gener fins 8 de març).
+-   Col·laboració Spartan Race (setembre)
+-   Organització Trofeu Rítmica Encamp (març)
+-   Organització 1a TRAILDOG (març)
+-   37a edició de la OTSO Travessa d’Encamp (juliol)
+-   OTSO25K, 7K i 7KRoller ski (Octubre)
+-   Organització d’activitats dirigides exteriors (gratuïtes) durant tot l’estiu (juliol -
+    agost – setembre)
+-   Cloenda amb màsterclas solidària de cylcing XXL (setembre)
+-   Campus Total handball camp (THC) juliol a El Pas de la Casa
+-   I Campus “her world her rules” de la federació Andorrana de bàsquet a Encamp
+    (juliol)
+                       Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                                  www.comuencamp.ad
+                                                                                       31
+-   2n torneig Trofeu Encamp, MORABANC ANDORRA - FUTBOL CLUB BARCELONA
+    (agost)
+-   Organització de la fase preliminar de la UEFA CHAMPIONS LEAGUE de futsal entre
+    el SIDECO F.C. ENCAMP i el SALINES TUZLA- 27 i 28/11- Encamp (novembre)
+-   Estades esportives a Encamp i al Pas de la Casa (clubs de natació, clubs de futbol
+    sala, Federació de bàsquet, etc.
+-   Pretemporada i preparació de competicions d’equips i d’esportistes d’èlit de
+    diferents esports als centres esportius de las parròquia.
+-   Col·laboració en la Skimo (Febrer)
+-   Setmanes joves d’Esports dels set comuns (3 activitats).
+-   Col·laboració en la XXI cronoescalada nocturna d’esquí de muntanya al Pas de
+    la Casa (aquesta prova es va passar al Gener 2021 i va ser diürna)
+-   Esponsorització de diferents esportistes encampadans (Edgar Montellà i Roger
+    Ignasi Puig).
+
+
+
+INFRAESTRUCTURES I MANTENIMENT
+
+-   Canvi dels ascensors i refecció de l'escala de l’edifici del Bullidor.
+-   Realització de la connexió de la xarxa d'aigües pluvials entre Vila del Sol i el Torrent
+    de Pont.
+-   Estabilització d’un talús al camí de les Pardines – la Plana, al costat de l’arqueta
+    reductora AR2 afectat per una esllavissada.
+-   Treballs de separació de les aigües residuals i d’escorrentia al pou de bombeig
+    de la planta -3 de l’aparcament dels Arínsols, a Encamp.
+-   Subministrament i col·locació de la maquinària i aparells de control per als
+    aparcaments de Prat de Baró Nou i Torrent Estret.
+-   Realització de l’obra civil per al canvi de boques d’incendi a Encamp.
+-   Arranjament del camí d’Engolasters.
+-   Adjudicació del muntatge de plaques LED en fanals recuperats per al seu
+    posterior muntatge en diversos carrers d’Encamp.
+-   Subministrament i col·locació de baranes de seguretat al poble de Les Bons.
+-   Refecció de l’escala de la plaça de Sant Josep a la plaça dels Vaquers al Pas
+    de la Casa.
+-   Construcció de guals d’aglomerat asfàltic davant de l’Escola Andorrana al carrer
+    del Pedral a Encamp.
+-   Construcció, per via d’urgència, d’un mur de contenció a la zona de la
+    Canadilla, a causa d’una esllavissada.
+-   Pagament del 50% de la pavimentació de l’aparcament del Mitjorn.
+-   Treballs de pintura a l’església de Santa Eulàlia d’Encamp.
+-   Revisió anual de cabalímetres, sondes de pH, pressòstats i sondes de nivell de la
+    xarxa d’aigua potable de la parròquia d’Encamp.
+-   Treballs de realització d’un sistema de drenatge a la totalitat de la planta 0 de
+    l’edifici del Bullidor i per al subministrament i col·locació d’un decantador
+    d’hidrocarburs al final de la xarxa, PB-270/20.
+
+                       Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                                  www.comuencamp.ad
+                                                                                         32
+-   Contractació de l’empresa Sauter Ibèrica, SA per al manteniment del sistema de
+    climatització de Casa Comuna, per a l’any 2020.
+-   Subministrament d’una mini carregadora amb cullera i braç articulat amb cullera
+    i martell picador, PB-272/20.
+-   Redacció del projecte i la direcció facultativa de les obres d’impermeabilització
+    de la terrassa de la planta 1a de Casa Comuna, a Encamp.
+-   Redacció del projecte de reparació i millores, així com la direcció facultativa de
+    les obres de la captació de Feritxet Nou, a Encamp.
+-   Treballs d’impermeabilització de les escales del passeig de l’Alguer al Balcó del
+    Solà.
+-   Subministrament de diversos equips per a l’ETAP de les Pardines i la xarxa d’aigua
+    potable d’Encamp.
+-   Millora de l’enllumenat del carrer del Tirader a Encamp.
+-   Reparació de la mini carregadora CASE 1840 de la secció d’obres.
+-   Sol·licitud per donar de baixa i desballestar tres vehicles del departament.
+-   Adjudicació dels treballs de millora de la xarxa d’aigua potable al sector d’Hort
+    de Godí, a Encamp, PB-273/20.
+-   Adjudicació dels treballs d’actualització del sistema de control i millora de la
+    climatització de Casa Comuna, PB-274/20.
+-   Adjudicació del projecte, subministrament i col·locació d’un parallamps a l’ETAP
+    del Pas de la Casa.
+-   Adjudicació de la direcció facultativa dels treballs d’actualització del sistema de
+    control i millora de la climatització de casa Comuna, PB-274/20.
+-   Convocatòria d’un concurs per efectuar el servei de transport de passatgers per
+    a la temporada d’hivern al Pas de la Casa, PB- 275/20.
+-   Adjudicació dels treballs de reparació de les tanques metàl·liques de seguretat
+    al Pas de la Casa.
+-   Adjudicació dels treballs de manteniment de l’ETAP del Pas de la Casa.
+-   Adjudicació del subministrament de comptadors d’aigua potable.
+-   Adjudicació dels treballs de pintura anti-grafits al passadís que comunica el Balcó
+    del Solà amb el passeig de l’Alguer.
+-   Adjudicació de les obres d’impermeabilització de la terrassa de la planta 1a de
+    Casa Comuna a Encamp, PB- 276/20.
+-   Manteniment de calderes als edificis Comunals.
+-   Manteniment i millores a la xarxa d’enllumenat públic de la Parròquia.
+-   Reparació del tancament perimetral del dipòsit d’Entalàs i captació de Feritxet
+    Nou.
+-   Realització de by-pass a la càmera de càrrega de l’ETAP de les Pardines.
+-   Neteja de captacions d’aigua a Encamp i al Pas de la Casa.
+-   Subministrament i col·locació de una bomba a la captació de la pista de
+    debutants del Pas de la Casa.
+-   Servei de manteniment i neteja de les xarxes d’aigües residuals i pluvials de la
+    parròquia d’Encamp.
+-   Manteniment de calderes als edificis comunals.
+-   Preparació d’un Stop-lab a l’aparcament del Funicamp.
+-   Reparació de fuites a la xarxa d’aigua potable de la Parròquia.
+                      Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                                 www.comuencamp.ad
+                                                                                    33
+HIGIENE, MEDI AMBIENT I AGRICULTURA
+
+-   Reforç neteja i desinfecció durant el període de confinament i primeres fases de
+    desconfinament
+-   Manteniment servei neteja i desinfecció del passeig Mojàcar durant tot l’any
+-   Reforç servei cabines sanitàries al Pas de la Casa en els primers mesos d’accés de
+    persones des de França
+-   Subvencions en la taxa d’higiene per motiu de la crisi econòmica originada per
+    la pandèmia
+-   Col·laboració en la gestió de residus i neteja dels stop-labs per al control
+    d’antígens a la població encampedana
+-   Servei de recollida de residus, durant el confinament i primers mesos de
+    desconfinament, per a aquella gent malalta.
+-   Canvi del servei de recollida de residus porta a porta, programant zonificació per
+    a la lluita de la propagació del covid-19
+-   Neteja de carrers amb l’equip d’alta pressió de la cuba de regar (a banda dels
+    treballs ordinaris d’escombrat, neteja, buidat de papereres i treta de neu)
+-   Control de treballs de neteja viària al Pas de la Casa
+-   Treballs complementaris de treta de neu a Encamp i control dels treballs de treta
+    de neu al Pas de la Casa
+-   Contractació empreses per la treta de neu de les teulades dels edificis comunals
+    al Pas de la Casa
+-   Lloguer, manteniment i neteja de les cabines sanitàries
+-   Subvencions en la taxa d’higiene per la gestió de residus
+-   Neteja viària, gestió de la deixalleria i dels serveis de recollida de residus
+    d’Encamp i del Pas de la Casa
+-   Serveis de Minideixalleries, deixalleries mòbils, recollida d’oli vegetal i recollida de
+    roba i residus tèxtils
+-   Comissions de seguiment de residus
+-   Col·locació de noves papereres per a diversos espais públics
+-   Adjudicació concurs control de plagues i treballs de sanejament per a quatre
+    anys
+-   Adjudicació dels treballs de construcció d’un tancat per als contenidors al C. de
+    la Solana del Pas de la Casa
+-   Participació en la Setmana de prevenció de residus: activitats visuals en
+    coordinació amb l’equip de cultura i social
+-   Acció Dia mundial Medi ambient: Lliurament de bosses reutilitzables per a la
+    compra de fruita i verdura i regal d’un test amb llavors
+-   Treballs de pintura del mobiliari urbà (jardineres, papereres, casetes de
+    contenidors, etc.)
+-   Canvi de motor i porta de la sitja de sal del Pas de la Casa
+-   Treballs d’adequació i compactació de l’abocador de pedres i Terres del Maià
+-   Renovació rètol Deixalleria comunal d’Encamp
+-   Adquisició de carrets per al servei de neteja viària
+-   Comissió de treball de la nova Llei d’Economia circular
+                       Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                                  www.comuencamp.ad
+                                                                                         34
+-   Adquisició turbina llevaneus
+-   Campanya de comunicació Treta de neu
+-   Convocatòria lloguer, en règim de rènting d’una camioneta pick-up per a jardins
+-   Treballs d’arranjament de les zones verdes de Les Pardines – ETAP
+-   Arranjament del tancat del magatzem de Parcs i jardins
+-   Adquisició de coixins i sacs de precultiu amb flors per a jardineres i parterres
+-   Control de les enceses de foc
+-   Obtenció del màxim guardó en la primera participació en el projecte VILES
+    FLORIDES, de Catalunya i Andorra
+-   Acció embelliment floral: Lliurament de geranis als ciutadans durant els treballs de
+    canvi de flor d’estiu a hivern
+-   Adquisició d’una desbrossadora per a l’equip de parcs i jardins
+-   14è concurs d’embelliment floral a Encamp i al Pas de la Casa
+-   Manteniment zones enjardinades de la parròquia
+-   Col·locació de jocs de sobretaula exteriors per a la plaça dels Arínsols
+-   Concurs i execució dels treballs de renovació del paviment de seguretat del parc
+    infantil del Pas de la Casa
+-   Licitació i adjudicació dels treballs d’instal·lació d’equipament per a la gent gran
+    i joc infantils al parc del Notari
+-   Signatura del conveni per a la reducció i eliminació de l’ús de productes
+    fitosanitaris (Govern i comuns)
+-   Enjardinament espais verds església santa Eulàlia
+-   Inici treballs arranjament zones verdes aparcament comunal Prat de Baró
+-   Retolació espais verds i altres espais públics: accés animals de companyia i accés
+    zones enjardinades
+-   Manteniment de refugis i camins de muntanya
+-   Reforma i pintura del refugi del Pla de les Pedres
+-   Construcció del mobiliari per a l’obertura d’un mirador al Cap del Rep
+-   Senyalització de camins de muntanya
+-   Senyalització de noves rutes de BTT, en col·laboració amb el departament de
+    Turisme
+-   Controls d’animals de companyia
+-   Ajuts a l’agricultura amb l’eixivernada
+-   Treballs de control de plaga de la processionària amb canó i helicòpter
+-   Ecoguarda a la Vall del Madriu-Pedrafita-Claror
+-   Col·laboració amb l’organització de l’Spartan Andorra: neteja, marcatge,
+    desmarcatge, arranjament de camins i espais de la prova
+-   Arranjament de punts negres i fotodenúncies
+-   Finalització dels treballs de reconstrucció de l’Orri d’Encenrera – fase 1
+-   Col·laboració amb l’Otso trail dog i repartiment de 100 ampolles de plàstic per a
+    la neteja de miccions de gossos
+-   Participació a la Comissió de seguiment del Pla Nacional de Residus i Estratègia
+    del paisatge
+-   Seguiment de senyalitzacions d’itineraris d’iniciativa privada
+-   Seguiment de les ocupacions temporals de domini públic
+
+
+                      Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                                 www.comuencamp.ad
+                                                                                     35
+-   Col·locació de tres taules per a pícnic al punt de berenada dels Cortals
+    d’Encamp
+-   Millora de la senyalització de camins de muntanya
+-   Col·laboració amb les escoles de la parròquia en el “Clean up day”
+-   Inici d’un projecte PAS amb el centre de Batxillerat de l’Escola andorrana
+-   Treballs de remediació dels sòls dels entorns de l’església del Pas de la Casa
+-   Contractació Treballs silvícoles de millora forestal als entorns d’Engolasters
+-   Arranjament obertura de camí als entorns d’Engolasters
+-   Construcció pont de fusta Ruta dels orris
+-   Reparació dels murs de pedra seca del camí de l’Arena i del camí del Bau
+-   Moratòria de l’Ordinació de cabanes
+-   Modificació de l’Ordinació reguladora de l’accés motoritzat al Medi rural i natural
+-   Modificació de l’Ordinació de control de la tinença d’animals de companyia
+-   Estudi ambiental, tècnic i econòmic d’aprofitament energètic forestal - àmbit
+    nacional
+-   Arranjament passarel·les camí d’Ensagents
+-   Adquisició d’una motoserra per a l’equip de parcs i jardins
+-   Seguiment de diversos cursos formatius d’operaris, oficials, administratius i tècnics
+    del departament: Codi de l’administració, EXCEL, legionel·la, manipulació
+    amiant, gestió de residus
+
+
+
+
+                      Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                                 www.comuencamp.ad
+                                                                                      36
+                CONCURSOS PÚBLICS
+
+                Durant l’any 2020 s’han adjudicat els concursos públics que es detallen a continuació:
+    Expedient                                                                Descripció                                                           Import adjudicat
+
+EC2019032           Subministrament de coixins i dels sacs de precultiu amb flors per a les jardineres i parterres de la parròquia d'Encamp               18.898,78 €
+
+EC2019050           Control de qualitat per la construcció de les noves instal·lacions de l'escola bressol Pas de la Casa fase 2 projecte 491-2           24.794,46 €
+
+EC2019056           Subministrament d'espectacles i activitats de Carnaval d'Encamp                                                                       36.098,00 €
+
+EC2019056           Subministrament d'espectacles i activitats de Carnaval del Pas de la Casa                                                             11.707,32 €
+
+EC2020001           Selecció d'un professional per la redacció projecte per la convivència espai urbà del Pas de la Casa                                  53.400,00 €
+
+EC2020002           Adjudicació del servei Càtering menjador Gent Gran                                                                                    6,50€ menú
+
+EC2020003           Reforma del Bar C. Esportiu del Pas                                                                                                   58.921,56 €
+
+EC2020004           Reforma antiga Casa Comuna per allotjar el servei de circulació projecte 545                                                         197.842,90 €
+
+EC2020005           Enderroc i condicionament Prat Gran                                                                                                       DESERT
+
+EC2020006           Rènting pick-up Parcs i Jardins                                                                                                        2.392,00 €
+
+EC2020007           Canvi paviment sala de festes Centre Esportiu d'Encamp                                                                                76.108,99 €
+
+EC2020008           Armilles de protecció pels agents de circulació comunals                                                                              13.700,00 €
+
+EC2020009           Obres als trampolins i plaques de viratge de la piscina gran del Complex Esportiu i Sociocultural d’Encamp                            67.719,55 €
+
+EC2020010           Obres d'impermeabilització de la piscina del Centre Esportiu del Pas                                                                  97.001,86 €
+
+EC2020011           Subministrament i col·locació d'un decantador d'hidrocarburs al final xarxa PB 270/20                                                104.534,71 €
+
+EC2020012           Subministrament d'una mini carregadora amb cullera i braç articulat i martell picador PB 272/20                                       51.025,00 €
+
+EC2020013           Servei d'higiene sanejament i control de plagues                                                                                       4.995,10 €
+
+EC2020014           Serveis d'auditories dels sistemes d'informació del Comú d'Encamp                                                                     18.638,69 €
+
+EC2020015           Treballs de millora de la xarxa d'aigua potable al sector Hort de Godí a Encamp PB 273/20                                             14.358,92 €
+
+EC2020016           Paviment de seguretat del parc infantil al Pas de la Casa                                                                             22.321,20 €
+                    Concurs d'idees R.P i D.O Construcció del nou parc de lleure de Prat Gran d'Areny i Prat del Germà d'Encamp projecte
+EC2020017                                                                                                                                                283.775,00 €
+                    núm.551
+EC2020018           Inventari patrimonial del Comú d'Encamp                                                                                               69.120,00 €
+
+EC2020019           Equipaments infantils al parc del Prat del Notari                                                                                    111.875,11 €
+
+EC2020020           Treballs de remodelació de la climatització de Casa Comuna                                                                           245.755,04 €
+
+EC2020021           XXIX Saló de la Infància i de la Joventut d'Andorra i Revetlla Cap d'Any - DESERT-                                                        DESERT
+
+EC2020022           Manteniment de gespa artificial de Prada de Moles                                                                                     12.094,50 €
+
+EC2020023           Aparcament horitzontal del Torrent de les Bons - projecte núm.532                                                                    578.256,35 €
+
+EC2020024           Aparcament horitzontal als terrenys Prat de Casa i Prat de Pallarès Casa Tresà projecte 541                                          700.663,99 €
+
+EC2020025           Règim de rènting (lot 1) vehicle turisme 4x4 Panda                                                                                     4.999,32 €
+
+EC2020025           Règim de rènting (lot 2) d'un vehicle suv 4x4 Circulació Dacia                                                                         6.128,52 €
+
+EC2020026           Obres impermeabilització de la terrassa de la Planta 1 casa Comuna PB-276-20 - Desert-                                                    DESERT
+
+EC2020027           Explotació per les unitats immobiliàries per els temporers del Pas de la Casa                                                         46.800,00 €
+
+EC2020028           Ventilació del Centre Esportiu d'Encamp fase 1                                                                                       429.715,58 €
+
+EC2020030           Subministrament de 14 casetes de fusta per al diferents activitats del Comú                                                           88.804,10 €
+
+EC2020031           Subministrament i la configuració de l’aplicació d’ofimàtica del Comú d’Encamp                                                        34.793,13 €
+
+EC2020032           Manteniment d'una plataforma integral per la reactivació econòmica de la parròquia                                                    21.410,00 €
+
+EC2020033           Demanda de pressupost treballs d'impermeabilització de la terrassa de la planta 1 de Casa Comuna                                      55.452,12 €
+
+
+
+
+                                                      Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                                                                 www.comuencamp.ad
+                                                                                                                                                    37
+2.    INFORMACIÓ DE CARÀCTER FINANCER
+2.1      Normes de Valoració
+
+
+Els criteris comptables més significatius aplicats en la formulació dels comptes anuals són
+els que es descriuen a continuació:
+
+a)    Immobilitzat material
+
+      Els béns compresos en l’immobilitzat material es valoren al seu preu d’adquisició
+      o pel cost de producció, fent les correccions valoratives corresponents. Els béns
+      adquirits a títol gratuït o rebuts en cessió es valoren al seu valor venal.
+
+      La dotació a l’amortització econòmica dels béns que integren l’immobilitzat
+      material, a excepció dels terrenys, es calcula linealment aplicant els següents
+      coeficients:
+
+                                                    Anys de         Coeficients
+                            Compte
+                                                    vida útil           %
+               •   Edificis                            50              2,00
+               •   Maquinària                          10             10,00
+               •   Elements de transport               5              20,00
+               •   Mobiliari                           5              20,00
+               •   Equips informàtics                  5              20,00
+               •   Utillatge                           10             10,00
+               •   Instal·lacions tècniques            20              5,00
+               •   Altres equipaments                  5              20,00
+               •   Fons d’art                        10-30           10-3,33
+
+b)    Inversions en infraestructura i béns destinats a ús general
+
+      Les inversions que figuren en aquest epígraf es troben valorades a preu
+      d’adquisició o cost de construcció.
+
+      Per les inversions que han de ser renovades, es realitza una provisió en base a
+      càlculs tècnics sistemàtics, a fi de donar resposta al cost de les despeses de
+      reparació i renovació i que s’imputa a resultats de l’exercici el cost atribuïble a
+      l’exercici.
+
+c)    Immobilitzat immaterial
+
+      Els béns compresos en l’immobilitzat immaterial es valoren al seu preu d’adquisició
+      o pel cost de producció, fent les correccions valoratives corresponents.
+      La dotació a l’amortització econòmica de l’immobilitzat immaterial, es calcula
+      linealment aplicant els següents coeficients:
+
+
+                                                    Anys de         Coeficients
+                            Compte
+                                                    vida útil           %
+
+               •   Aplicacions informàtiques            5              20,00
+
+
+
+
+                        Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                                   www.comuencamp.ad
+                                                                                        38
+d)   Inversions financeres permanents
+
+     El saldo d’aquest epígraf correspon al valor de les participacions en el capital social
+     de les diferents societats participades per el Comú d’Encamp.
+
+     Les inversions financeres permanents es registren pel seu valor d’adquisició i es
+     practiquen les correccions valoratives pertinents si el valor teòric comptable és
+     inferior.
+
+e)   Les existències es valoren al seu preu d’adquisició, realitzant les correccions
+     valoratives pertinents. En cas que la depreciació sigui reversible es dota la
+     corresponent provisió, en el cas que es prevegi irreversible es valoren les existències
+     directament al seu preu de mercat.
+
+     El mètode de valoració de les mateixes és el seu preu mig ponderat.
+
+f)   Deutors
+
+     Els deutors figuren valorats pel seu valor nominal. Pels saldos de difícil realització, el
+     Comú d’Encamp dota una provisió per dubtós cobrament. El criteri que segueix
+     per dotar la provisió de saldos de difícil realització és segons la seva antiguitat,
+     segons el percentatges que segueixen:
+
+
+                 Antiguitat dels saldos                           Percentatge
+           2020 (excepte mes de desembre)                             10%
+                          2019                                        25%
+                          2018                                        50%
+                    2017 i anteriors                                 100%
+
+
+
+g)   Creditors a llarg i curt termini
+
+     Figuren per l’import total a pagar, i es classifiquen a llarg o curt termini en funció
+     de si el seu venciment és inferior o superior a l’any.
+
+     Els interessos dels passius financers s’imputen al compte de resultats d’acord al
+     principi de meritació, independentment del moment en que es produeixin els
+     pagaments dels mateixos.
+
+
+
+
+                        Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                                   www.comuencamp.ad
+                                                                                            39
+h)    Transferències corrents i de capital
+
+      Les transferències rebudes es comptabilitzen en el moment en què existeix
+      documentació fefaent que acrediti l’atorgament de la transferència.
+
+      Les transferències corrents i de capital es comptabilitzen com a ingrés en el compte
+      de resultats.
+
+i)    Ingressos i despeses
+
+      • Comptabilitat financera
+
+         Els ingressos i despeses s’incorporen al compte del resultat econòmic patrimonial
+         atenent els principis de meritació i de la correlació d’ingressos i despeses,
+         independentment del moment en què es cobren o paguen, i d’aquell en què
+         se’n produeixi el reconeixement pressupostari.
+
+      • Liquidació pressupostària
+
+         Els ingressos i despeses s’incorporen a la liquidació pressupostària en el moment
+         en què es produeix l’acte administratiu de reconeixement dels respectius drets i
+         obligacions.
+
+2.2      Notes als epígrafs del balanç de situació
+2.2.1       Inversions destinades a l’ús general i Immobilitzat
+Les inversions de béns destinats a l’ús general durant l’exercici 2020 han ascendit a
+3.647.823,16 euros.
+
+2.2.2       Immobilitzat immaterial
+Les altes en aquest epígraf de balanç durant l’exercici 2020 han estat de
+78.035,91euros les quals corresponen principalment a aplicacions informàtiques.
+
+
+2.2.3       Immobilitzat material
+Les altes d’immobilitzat material durant l’exercici 2020 han estat de 3.706.341,41 euros.
+Aquestes corresponen principalment a inversions realitzades en edificis i instal·lacions
+tècniques comunals.
+
+
+2.2.4       Existències
+Les existències corresponen principalment a material per a la reparació de les
+instal·lacions de la xarxa d’aigua comunal i a material d’oficina pertanyent al Comú,
+amb un valor total de 230.200,35 euros i amb una provisió per obsolescència de
+63.921,99 euros.
+
+
+
+
+                          Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                                     www.comuencamp.ad
+                                                                                       40
+2.2.5           Inversions financeres permanents
+El percentatge de participació del Comú en aquestes empreses es detalla a
+continuació:
+
+                                                        Nombre                                   %
+                          Societat                                    Cost inversió
+                                                       d’accions                           Participació
+ Societat Anònima d’Equipament Turístic-Esportiu
+                                                         3.412             102.532,67        34,12%
+ de la parròquia d’Encamp, S.A (SAETDE,SA)
+ Gasolinera Pas de la Casa, S.A (GASOPAS)                4.284             643.683,96        51,00%
+
+ Serveis Comunals d’Encamp. S.A. (SERCENSA)              2.996              90.031,61        99,98%
+
+ Funitel d’Encamp, S.A.U (FUNICAMP)                     23.000        12.078.399,76          100,00%
+
+ Unió Elèctrica d’Encamp, S.A (LA MOLINA)                 11                     3,31          2%
+
+ S.E.M.T.E.E, S.A (CALDEA)                                111               72.022,21          >1%
+                           Total                                     11.198.399,76
+
+Ha estat necessari practicar una correcció valorativa de la participació en la societat
+Funitel d’Encamp, SAU, donat que el valor de la inversió financera no supera el valor
+dels fons propis en la part proporcional que li correspon segons el % de participació.
+Aquesta correcció valorativa, en forma de provisió sobre el compte 297, presenta un
+import acumulat a 31.12.2020 de 6.003.039,38 euros.
+
+El Comú, durant l’exercici 2020, ha rebut de les seves societats participades, les
+quantitats que es detallen a continuació en concepte de dividends:
+
+                      Societat participada                      Dividend
+                  SERCENSA                                                   548.204,00
+                  GASOPAS                                                  1.071.000,00
+                  UNIÓ ELÈCTRICA LA MOLINA                                       660,00
+                  SAETDE                                                           0,00
+                  SEMTEE                                                           0,00
+                  FUNICAMP                                                         0,00
+                  TOTAL                                                    1.619.864,00
+
+2.2.6           Deutors
+La composició dels deutors pressupostaris per antiguitat és la següent:
+
+
+   Antiguitat
+                               Any 2020                   Any 2019                 Var. 19/20
+     deute
+ 2016 i anteriors                    1.691.547,17                 1.888.794,68      -197.247,51
+        2017                          442.225,02                    542.218,08          -99.993,06
+        2018                          345.030,74                    480.977,60      -135.946,86
+        2019                          418.602,25                  1.142.527,32      -723.925,07
+        2020                         1.143.643,05                                  1.143.643,05
+        Total                        4.041.048,23                 4.054.517,68        -13.469,45
+
+                             Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                                        www.comuencamp.ad
+                                                                                                       41
+                La composició i el moviment de la provisió per insolvències durant l’exercici ha estat
+                la que es detalla en el quadre següent:
+
+
+                    Any Deute         Composició Provisió 2020       Composició Provisió 2019           Var. 19/20
+                  2017 i anteriors                   2.133.772,19                      2.159.903,72          -26.131,53
+                         2018                          172.515,37                       120.244,40           52.270,97
+                         2019                          104.650,56                        63.286,76           41.363,80
+                         2020                           48.454,22                                            48.454,22
+                   Total Provisió                    2.459.392,34                      2.343.434,88      115.957,46
+
+
+
+                2.2.7           Fons propis
+
+
+                El resum dels moviments comptabilitzats en aquest compte és el següent:
+
+                Descripció                     Saldo a 31.12.2019       Altes            Baixes         Traspassos         Saldo a 31.12.2020
+Patrimoni
+Patrimoni rebut en adscripció                           -84.042,18                                                                    -84.042,18
+Resultats positius d’exercicis anteriors            115.118.829,20                                      2.269.282,99              117.388.112,19
+Resultats negatius d’exercicis anteriors            -32.373.833,26                                                                -32.373.833,26
+Resultat de l’exercici                                2.269.282,99    -395.352,97                       -2.269.282,99                -395.352,97
+Total                                                84.930.236,75   -395.352,97              0,00                 0,00           84.534.883,78
+
+
+
+
+                2.2.8     Endeutament i càlcul dels ratis d’endeutament segons la LFC
+
+
+                Respecte els límits d’endeutament previstos en la Llei de Finances Comunals, el Comú
+                presenta els càlculs següents en funció dels imports disposats i dels formalitzats:
+
+                Càlcul de la base:
+
+
+                 INGRESSOS                                                      2019                  2018                  2017
+
+
+                 Ingressos totals liquidats                               26.953.249,04           28.115.910,29           27.246.262,66
+                 - Capítol VI Venda de Patrimoni                                 -4.200,00                                   -17.800,00
+                 - Capítol IX Passius Financers
+                 Total base any                                           26.949.049,04           28.115.910,29       27.228.462,66
+                                                              Mitjana                          27.431.140,66
+
+
+
+
+                                              Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                                                         www.comuencamp.ad
+                                                                                                                             42
+     Comparatiu 2019/2020 d’imports diposats:
+
+
+                                                                                      Paràmetres de
+                Descripció                        2019                 2020          control segons la
+                                                                                            LFC
+Base de càlcul (mitja Ingressos 3 anys )      26.914.672,43         27.431.140,66
+
+
+ENDEUTAMENT TOTAL 31.12                       13.351.411,57         13.568.053,40
+% sobre la base de càlcul                           49,61%                49,46%       Màxim 200%
+
+
+TOTAL CÀRREGA FINANCERA 31.12                  2.469.115,08          1.507.960,50
+% sobre la base de càlcul                            9,17%                  5,50%      Màxim 20%
+
+
+ENDEUTAMENT A CURT TERMINI 31.12                         0,00        1.480.635,58
+% sobre la base de càlcul                            0,00%                  5,40%      Màxim 40%
+
+
+
+     Situació a 31.12.2020, inclosos imports contractats:
+
+
+
+
+                                                     Càlcul sobre          Càlcul sobre      Paràmetres de
+                    Descripció                         imports               imports         control segons
+                                                      disposats            contractats           la LFC
+
+Total base de càlcul
+                                                    27.431.140,66 €        27.431.140,66 €
+(mitja ingressos 3 anys anteriors)
+
+
+Endeutament bancari Comú d'Encamp                   13.567.678,88 €        18.687.417,82 €
+
+Endeutament entitats participades                               374,52 €    1.000.000,00 €
+Endeutament total                                   13.568.053,40 €        19.687.417,82 €
+% sobre base de càlcul                                           49,46%             71,77%   Màxim 200 %
+
+Càrrega financera del Comú                           1.506.670,54 €         1.506.670,54 €
+
+Càrrega financera entitats participades                    1.289,96 €           1.289,96 €
+
+Càrrega financera total                              1.507.960,50 €         1.507.960,50 €
+
+% sobre base de càlcul                                            5,50%             5,50%    Màxim 20 %
+
+Endeutament a curt termini del Comú                  1.480.261,06 €         6.600.000,00 €
+
+Endeutament c.t. entitats participades                          374,52 €    1.000.000,00 €
+Endeutament total a curt termini                     1.480.635,58 €         7.600.000,00 €
+% sobre base de càlcul                                            5,40%             27,71%   Màxim 40 %
+
+
+
+                                 Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                                            www.comuencamp.ad
+                                                                                                         43
+2.2.9      Creditors pressupostaris:
+
+
+A 31 de desembre de 2020 figuren registrats 4.294.772,47 euros en concepte de creditors
+pressupostaris. A continuació es detallen els principals conceptes que engloben els
+creditors pressupostaris:
+
+                   Descripció                           Import
+Despeses de personal                                    23.788,45
+Despeses en béns corrents i serveis                    801.636,83
+Transferències corrents                              1.771.882,88
+Inversions reals                                     1.137.692,25
+Creditors per operacions d'exercicis tancats            77.399,13
+Creditors per devolucions d’ingressos                     4.819,87
+Creditors seguretat social empresa                      172.819,44
+Creditors per operacions pendents d’aplicar             304.733,52
+TOTAL                                                 4.294.772,37
+
+
+
+
+                          Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                                     www.comuencamp.ad
+                                                                                    44
+          2.3        Notes als epígrafs del compte del resultat econòmic patrimonial
+
+
+          2.3.1           Detall de les despeses del compte de resultats econòmic patrimonial
+
+
+Compte                           Descripció                            2019           2020                Variació
+602000   Compres d´altres aprovisionaments                             439.145,26     426.327,18       -2,92%         -12.818,08
+603000   Carburants per a locomoció                                     87.607,27      73.327,46      -16,30%         -14.279,81
+604000   Despeses de compres (transp/duana)                             15.254,91      19.791,95      29,74%           4.537,04
+610      Variació d´existències de mercaderies                          12.371,79         5.913,14    -52,20%          -6.458,65
+621000   Terrenys i béns naturals                                      336.198,55     226.517,89      -32,62%        -109.680,66
+621100   Construccions i edificis                                       56.439,45      51.636,16       -8,51%          -4.803,29
+621200   Instal·lacions tècniques                                       21.225,84      21.225,84       0,00%                0,00
+621400   Utillatge                                                      22.792,58      23.744,26       4,18%             951,68
+621500   Mobiliari i efectes                                            22.947,91      36.406,50      58,65%          13.458,59
+621700   Elements de transport                                         116.480,91     113.786,31       -2,31%          -2.694,60
+621800   Altre immobilitzat material                                    17.107,74         6.247,12    -63,48%         -10.860,62
+622100   Edificis i altres construccions                               130.920,04     121.208,60       -7,42%          -9.711,44
+622200   Instal·lacions tècniques                                      474.240,01     421.474,28      -11,13%         -52.765,73
+622300   Maquinària                                                     14.955,61      14.193,35       -5,10%            -762,26
+622500   Béns destinats a l'ús general                                 513.449,92     593.843,72      15,66%          80.393,80
+622600   Mobiliari                                                      38.803,78      17.055,84      -56,05%         -21.747,94
+622700   Equipaments per al processament d'informació                   35.570,33     115.741,88     225,39%          80.171,55
+622800   Elements de transport                                         104.756,60     102.713,14       -1,95%          -2.043,46
+623000   Estudis i treballs tècnics                                  1.362.503,91    1.249.969,99      -8,26%        -112.533,92
+623100   Auditories i assessoraments                                   524.360,14     477.386,89       -8,96%         -46.973,25
+623200   Jurídics i contenciós                                          60.323,89      19.967,18      -66,90%         -40.356,71
+623300   Servei mèdic i veterinari                                      33.218,30      29.602,31      -10,89%          -3.615,99
+623400   Administratiu i informàtic                                           0,00           0,00    -100,00%               0,00
+623500   Recollida d'escombraries, vidre i deixalleria                 667.325,77     674.798,70       1,12%           7.472,93
+623800   Treballs manteniment i explotació xarxa aigua                  51.672,72      56.519,09       9,38%           4.846,37
+623900   Transport Públic                                              175.229,51      95.440,49      -45,53%         -79.789,02
+625000   Primes d´assegurances                                         138.698,13     148.883,73       7,34%          10.185,60
+627000   Publicitat, propaganda i relacions públiques                1.179.133,66     814.124,40      -30,96%        -365.009,26
+628000   Energia elèctrica                                             569.315,90     566.415,50       -0,51%          -2.900,40
+628100   Aigua                                                          47.830,91      51.811,63       8,32%           3.980,72
+628300   Carburants calefacció                                         396.074,92     293.087,57      -26,00%        -102.987,35
+629000   Material d'oficina ordinari i no inventariable                 63.903,25      39.481,78      -38,22%         -24.421,47
+629100   Premsa, llibres, revistes i altres publicacions                32.405,57      24.848,05      -23,32%          -7.557,52
+629200   Neteja ,Sanejaments i altres tractaments                      637.415,17     634.830,44       -0,41%          -2.584,73
+629300   Seguretat                                                       4.194,30         1.606,41    -61,70%          -2.587,89
+629700   Comunicacions telefòniques i informàtiques                     99.254,14     100.505,63       1,26%           1.251,49
+629800   Comunicacions Postals                                          13.083,65         7.128,44    -45,52%          -5.955,21
+632000   Tributs de caràcter estatal                                     4.014,46         4.876,93    21,48%             862,47
+640000   Sous i salaris                                              7.865.729,71    7.802.002,93      -0,81%         -63.726,78
+640100   Altres remuneracions i variacions salarials                   319.992,66     308.034,24       -3,74%         -11.958,42
+                                           Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                                                      www.comuencamp.ad
+                                                                                                                45
+642000     Cotitzacions socials a càrrec de l'ocupador                  1.289.170,72     1.298.688,62      0,74%            9.517,90
+644000     Formació i perfeccionament del personal                         11.687,68        16.514,75     41,30%            4.827,07
+645000     Prestacions socials diverses                                  138.341,44       277.840,19     100,84%         139.498,75
+650000     Transferències corrents                                       576.779,88      1.885.198,82    226,85%        1.308.418,94
+651000     Subvencions corrents                                                  0,00     252.953,34     100,00%         252.953,34
+662000     Interessos de deutes a llarg termini                          229.933,89       205.312,45     -10,71%          -24.621,44
+663000     Interessos de deutes a curt termini                              1.086,09        31.476,51   2798,15%          30.390,42
+664000     Altres despeses financeres                                      29.492,79        18.957,33    -35,72%          -10.535,46
+6710       Pèrdues procedents de l'immobilitzat material                         0,00            0,00   -100,00%                0,00
+678000     Despeses extraordinàries                                         1.852,40         1.106,27    -40,28%             -746,13
+6791       Pèrdua per la modificació de drets de ppost. tancats            62.066,53        67.131,26      8,16%            5.064,73
+6810       Amortització de l´immobilitzat immaterial                       31.093,52        71.097,10    128,66%          40.003,58
+6820       Amortització de l´immobilitzat material                      2.519.069,28     2.660.709,78      5,62%         141.640,50
+6920       Dotació provisió béns destinats a l’ús general               2.294.928,68     2.516.225,87      9,64%         221.297,19
+694        Dotació provisió per insolvències aplicada                      45.350,25      115.957,46     155,69%          70.607,21
+696        Dotació provisió per a valors negociables a ll/t              746.463,12      1.341.188,62     79,67%         594.725,50
+         Total despeses del compte econòmic patrimonial                24.683.265,44    26.552.835,32      7,57%        1.869.569,88
+
+
+             2.3.2            Detall dels ingressos del compte de resultats econòmic patrimonial
+
+
+Compte                              Descripció                            2019            2020                Variació
+700000     Vendes diverses                                                 15.439,89        10.625,64    -31,18%           -4.814,25
+710        Variació d´existències de mercaderies                                 0,00        2.872,40   100,00%             2.872,40
+725000     Impostos locals                                              3.104.067,40     3.100.850,22     -0,10%           -3.217,18
+730000     Adquisició de béns immobles                                   767.479,41      1.779.067,34   131,81%         1.011.587,93
+740000     Taxes per prestació de serveis o realització activitats.     1.530.225,31     1.550.051,72     1,30%           19.826,41
+741000     Preus públics per prestació de serveis o realització act.    1.277.345,42     1.002.939,30    -21,48%         -274.406,12
+742000     Preus públics per utilit. privativa o aprofitament           2.497.712,89     1.928.072,15    -22,81%         -569.640,74
+744000     Contribucions especials per execució d'obres                  249.406,81       150.757,85     -39,55%          -98.648,96
+750000     Transferències corrents                                      1.275.075,05     2.754.623,09   116,04%         1.479.548,04
+751000     Subvencions corrents                                             9.151,16         1.055,82    -88,46%           -8.095,34
+7550       Transferències de capital                                    7.993.877,37     6.339.751,28    -20,69%    -1.654.126,09
+7555       Transferències de capital/*Planejament derivat                 -22.207,35        39.180,43   -276,43%          61.387,78
+760000     Ingressos de participacions en capital                       2.394.565,00     1.620.864,00    -32,31%         -773.701,00
+7710       Beneficis procedents de l'immobilitzat material                  3.206,31             0,00   -100,00%           -3.206,31
+775000     Ingressos per lloguers                                        192.722,42       146.788,51     -23,83%          -45.933,91
+775100     Cens emfitèutic                                              2.351.572,92     2.670.080,87    13,54%          318.507,95
+775200     Cànons                                                       2.961.676,96     2.804.590,57     -5,30%         -157.086,39
+777000     Altres ingressos                                              339.646,71       240.550,37     -29,18%          -99.096,34
+7790       Benefici per modifica.. d´obligacions ppost. tancats                  0,00            0,00   -100,00%                0,00
+7791       Benefici per modifica.. de drets de ppost. tancats                259,11              0,00   -100,00%             -259,11
+7799       Altres ingressos i beneficis d´exercicis anteriors              11.325,64        14.760,79    30,33%             3.435,15
+         Total despeses del compte econòmic patrimonial                26.952.548,43    26.157.482,35    -2,95%         -795.066,08
+
+
+
+
+                                          Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                                                     www.comuencamp.ad
+                                                                                                                   46
+2.3.3     Detall dels ingressos financers:
+
+
+Tal com s’exposa i es detalla en la nota 2.2.5 els ingressos financers han estat pels
+dividends que el Comú ha rebut, durant l’exercici 2020, de les societats participades
+per valor de 1.619.864,00 euros.
+
+
+2.3.4     Detall dels ingressos per transferències i subvencions corrents:
+
+            Transferència del M.I. Govern “Llei Qualificada transferències”   2.515.237,35
+            Taxa tinença de vehicles                                           223.131,74
+            Consell Administració SAETDE                                        16.254,00
+            Altres                                                                1.055,82
+            Total                                                             2.755.678,91
+
+
+2.3.5     Detall dels ingressos per transferències de capital:
+            Transferència del M.I. Govern “Llei Qualificada transferències”   6.339.751,28
+            Cessió obligatòria i gratuïta per Planejament urbanístic            39.180,43
+            Total                                                             6.378.931,71
+
+
+2.3.6     Despeses extraordinàries
+            Altres despeses extraordinàries                                       1.106,27
+            Despeses i pèrdues d’altres exercicis                               67.131,26
+            Total                                                               68.237,53
+
+Les despeses i pèrdues d’altres exercicis corresponent a la pèrdua per l’anul·lació de
+drets de pressupostos tancats.
+
+
+
+
+                      Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                                 www.comuencamp.ad
+                                                                                     47
+     2.4      Quadre de exercici anual acabat el 31.12.2020
+                                  Fons aplicats                          Exercici 2020      Exercici 2019
+
+1.    Recursos aplicats en operacions de gestió                           19.963.613,95     19.091.710,84
+a) Reducció d'existències de prod. acabats i en curs de fabricació               5.913,14        12.371,79
+b) Aprovisionaments                                                          519.446,59        542.007,44
+c) Serveis exteriors                                                       7.152.203,12       7.961.833,11
+d) Tributs                                                                       4.876,93         4.014,46
+e) Despeses de personal                                                    9.425.240,54       9.486.580,77
+f)    Prestacions socials especials                                          277.840,19        138.341,44
+g) Transferències i subvencions                                            2.138.152,16        576.779,88
+h) Despeses financeres                                                       255.746,29        260.512,77
+i)    Altres pèrdues de gestió corrent i despeses excepcionals                68.237,53          63.918,93
+j)    Dotació per a les provisions d'actius circulants                       115.957,46          45.350,25
+4.    Adquisicions i altres altes d'immobilitzat                           8.312.200,48     12.249.448,08
+a) Destinats a l'ús general                                                3.647.823,16       6.870.692,48
+b) Immobilitzacions immaterials                                               78.035,91        149.775,37
+c) Immobilitzacions materials                                              3.706.341,41       3.357.300,23
+e) Immobilitzacions financeres                                               880.000,00       1.871.680,00
+
+6.    Cancel·lació o traspàs a curt de deutes a llarg                      1.284.802,96       1.263.995,56
+b) Per préstecs rebuts                                                     1.284.802,96       1.263.995,56
+      TOTAL APLICACIONS                                                   29.560.617,39     32.605.154,48
+
+
+
+
+                                 Fons obtinguts                          Exercici 2020      Exercici 2019
+
+
+
+1. Recursos procedents d'operacions de gestió                             26.157.482,35      26.949.342,12
+a) Vendes                                                                     10.625,64          15.439,89
+b) Augment d'existències de productes acabats i en curs de fabricació            2.872,40             0,00
+c) Impostos directes i cotitzacions socials                                3.100.850,22       3.104.067,40
+d) Impostos indirectes                                                     1.779.067,34         767.479,41
+e) Taxes, preus públics i contribucions                                    4.631.821,02       5.554.690,43
+f) Transferències i subvencions                                            9.134.610,62       9.255.896,23
+g) Ingressos financers                                                     1.620.864,00       2.394.565,00
+h) Altres ingressos de gestió corrent i ingressos excepcionals             5.876.771,11       5.857.203,76
+i) Provisions aplicades d'actius circulants                                          0,00             0,00
+
+6. Deutes a llarg termini                                                        6.134,43        13.151,90
+
+c) Altres conceptes                                                              6.134,43        13.151,90
+7. Alienacions i altres baixes d'immobilitzat                                       0,00          3.206,31
+c) Immobilitzacions materials                                                                     3.206,31
+
+
+TOTAL ORIGENS                                                             26.163.616,78      26.965.700,33
+EXCÉS D'APLICACIONS SOBRE ORÍGENS
+(DISMINUCIÓ DEL CAPITAL CIRCULANT)                                         3.397.000,61       5.639.454,15
+
+
+                                  Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                                             www.comuencamp.ad
+                                                                                                        48
+                                                                   Exercici 2020                        Exercici 2019
+                VARIACIÓ CAPITAL CIRCULANT
+                                                           AUGMENTS       DISMINUCIONS          AUGMENTS       DISMINUCIONS
+
+1. Existències                                                                       3.040,74                            12.371,79
+
+2. Deutors                                                    34.631,92            132.483,73     90.556,12         1.424.762,07
+a) Pressupostaris                                                                  129.426,91                       1.419.859,67
+b) No pressupostaris                                           1.560,09                                                   4.902,40
+c) Per administració de recursos d'altres ens                 33.071,83                           90.556,12
+d) Altres deutors                                                                    3.056,82
+
+
+3. Creditors                                                   8.899,73        1.379.970,15       13.258,01             557.261,08
+a) Pressupostaris                                                              1.104.105,75                             255.303,55
+b) No pressupostaris                                                               269.452,63                           301.957,53
+c) Per administració de recursos d'altres ens                  8.899,73                           13.258,01
+d) Altres creditors                                                                  6.411,77
+
+
+5. Emprèstits i altres deutes curt termini                         0,00        1.500.692,03            0,00              92.960,71
+a) Emprèstits i altres emissions
+b) Préstecs rebuts i altres conceptes                                          1.500.692,03                              92.960,71
+
+
+
+
+7. Tresoreria                                                      0,00            424.345,61          0,00         3.655.912,63
+
+
+
+
+TOTAL                                                         43.531,65        3.440.532,26      103.814,13         5.743.268,28
+
+
+TOTAL VARIACIÓ CAPITAL CIRCULANT                           3.397.000,61                         5.639.454,15
+
+
+
+
+                                             Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                                                        www.comuencamp.ad
+                                                                                                                    49
+ 2.5       Conciliació entre el resultat econòmic patrimonial i els recursos obtinguts
+           d’operacions de gestió:
+
+
+                                     Fons aplicats                            Exercici 2020       Exercici 2019
+
+1.   Recursos aplicats en operacions de gestió
+a) Reducció d'existències de productes acabats i en curs de fabricació                5.913,14         12.371,79
+b) Aprovisionaments                                                                519.446,59         542.007,44
+c) Serveis exteriors                                                              7.152.203,12      7.961.833,11
+d) Tributs                                                                            4.876,93            4.014,46
+e) Despeses de personal                                                           9.425.240,54      9.486.580,77
+f)   Prestacions socials especials                                                 277.840,19         138.341,44
+g) Transferències i subvencions                                                   2.138.152,16        576.779,88
+h) Despeses financeres                                                             255.746,29         260.512,77
+i)   Altres pèrdues de gestió corrent i despeses excepcionals                        68.237,53         63.918,93
+j)   Variació de les provisions per crèdits incobrables                            115.957,46          45.350,25
+k)   Dotació per a les provisions d'actius financers
+                                  Total fons aplicats                           19.963.613,95      19.091.710,84
+
+
+                                   Fons obtinguts                            Exercici 2020       Exercici 2019
+
+1. Recursos procedents d'operacions de gestió
+a) Vendes                                                                         10.625,64           15.439,89
+b) Augment d'existències de productes acabats i en curs de fabricació               2.872,40                 0,00
+c) Impostos directes i cotitzacions socials                                     3.100.850,22        3.104.067,40
+d) Impostos indirectes                                                          1.779.067,34         767.479,41
+e) Taxes, preus públics i contribucions                                         4.631.821,02        5.554.690,43
+f) Transferències i subvencions                                                 9.134.610,62        9.255.896,23
+g) Ingressos financers                                                          1.620.864,00        2.394.565,00
+h) Altres ingressos de gestió corrent i ingressos excepcionals                  5.876.771,11        5.857.203,76
+i) Provisions aplicades d'actius circulants                                             0,00                 0,00
+
+
+                               Total fons obtinguts                           26.157.482,35       26.949.342,12
+
+
+
+
+Recursos Generats                                                               6.193.868,40        7.857.631,28
+Menys:
+Amortització de l'immobilitzat immaterial                                        -71.097,10          -31.093,52
+Amortització de l'immobilitzat material                                      -2.660.709,78       -2.519.069,28
+Dotació provisió reparacions béns cedits a l'ús general (692)                -2.516.225,87       -2.294.928,68
+Dotació provisió valors negociables                                          -1.341.188,62         -746.463,12
+
+Mes:
+Beneficis procedents de l’immobilitzat material                                                        3.206,31
+
+Resultat exercici compte econòmic patrimonial                                  -395.352,97        2.269.282,99
+
+
+                              Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                                         www.comuencamp.ad
+                                                                                                     50
+2.6       Fets destacats sobre la comptabilitat pressupostària
+
+
+      -   Liquidació pressupost de despeses
+
+Al pressupost inicial de despeses de 33.370.173,07 euros s’hi han aplicat modificacions
+de crèdits per valor de 8.105.828,01 euros que es distribueixen de la següent manera:
+
+      •   5.216.616,30 euros corresponents a crèdits reconduïts de l’exercici 2019.
+
+      •   1.237.300 euros com a suplements de crèdit destinats a:
+
+             o   6.300 euros, assessorament Dept. d’Obres Públiques i Urbanisme.
+             o   675.000 euros, mesures de dinamització empresarial, comercial i turística
+                 per pal·liar els efectes econòmics derivats de la situació d’emergència
+                 sanitària causada per la pandèmia del SARS-CoV-2.
+             o   90.000 euros, obra de reforma de l’antiga casa comuna.
+             o   386.000 euros, ventilació del Complex Esportiu i Sociocultural d’Encamp,
+                 fase1.
+             o   80.000 euros, subministrament de casetes de fusta prefabricades.
+
+      •   1.500.000 euros com a crèdit extraordinari destinat a participar en el
+          finançament del cost de les mesures excepcionals i urgents per pal·liar els
+          efectes econòmics de la situació d’emergència sanitària ocasionada per la
+          pandèmia del SARS-CoV-2, aprovades per el Consell General i executades per
+          el Govern a càrrec del seu pressupost.
+
+      •   Ampliacions per un valor de 151.911,71 euros, principalment sobre el capítol 1 i
+          finançades mitjançant la baixa de crèdits dins del mateix capítol.
+
+      •   228.977,40 euros corresponents a transferències de crèdit del mateix capítol i
+          departament, sense afectació al pressupost general.
+
+El finançament de les referides modificacions de pressupost ha estat el següent:
+
+      •   Baixes de crèdits:                    2.124.211,71 euros
+      •   Endeutament a curt termini:           5.981.616,30 euros
+
+Així mateix, tal i com es va establir en la memòria d’aprovació dels comptes de l’any
+2019, s’han reduït crèdits per valor de 1.267.836,41 euros, per finançar el romanent de
+tresoreria negatiu de data 31.12.2019.
+
+Amb les referides modificacions pressupostaries, el pressupost total de despeses es situa
+en 38.083.952,96 euros, dels quals se n’han liquidat 29.356.694,15 euros, el que representa
+una execució del 77,08%.
+
+La liquidació del pressupost de despeses de l’exercici 2020 ha estat un 9,58% inferior a
+l’exercici 2019 que, en termes absoluts suposen -3.112.017,20 euros. Aquesta reducció
+és fruit de la variació dels diferents capítols de despesa tal i com es detalla a
+continuació:
+
+
+                         Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                                    www.comuencamp.ad
+                                                                                        51
+✓   Capítol 1 – Despeses de personal, +0,81%, increment de 78.158,52 euros, que es
+    situa per sota de la variació de l’IPC de l’any 2019, fixat en un 1%. Tot i això, en la
+    línia del que ja s’ha anat indicant en les liquidacions trimestrals, la forta reducció
+    de personal interí, -10,03%, i el considerable increment de les pensions per jubilació
+    anticipada donades les persones que es van incorporar al programa de jubilació
+    anticipada del Comú d’Encamp durant el darrer trimestre del 2020. Tot plegat ja
+    previst i justificat en el pressupost 2020. L’execució d’aquest capítol es situa en el
+    98,92% del total del pressupost final per l’any 2020.
+
+✓   Capítol 2 – Despeses de béns corrents i serveis, -9,78%, disminució de 831.879,09
+    euros, degut principalment a la reducció dels conceptes que es detallen a
+    continuació:
+
+           o   Activitats i promoció Joventut i Esports:        -243.818,40 euros
+           o   Subministraments:                                -129.004,92 euros
+           o   Treballs jurídics i tècnics per la corporació:   -127.376,74 euros
+           o   Lloguer de terrenys i béns naturals:             -102.768,28 euros
+           o   Execució contracte monitoratge esportiu:          -97.846,70 euros
+           o   Activitats culturals diverses:                    -72.249,71 euros
+           o   Serveis externs – Dept. de Turisme:               -53.590,14 euros
+
+
+    Destaca l'increment del concepte de béns destinats a l'ús general en +80,393,80
+    euros.
+    L’execució d’aquest capítol es situa en el 86,89% del total del pressupost final per
+    l’any 2020.
+
+✓   Capítol 3 – Despeses financeres, -1,63%, reducció de 4.337,21 euros. Degut a la
+    reducció dels imports liquidats en concepte d’interessos dels préstecs vigents i les
+    comissions bancàries per la tramitació de remeses electròniques de cobrament
+    que. En aquest capítol destaca també l’increment en el pagament d’interessos
+    per la utilització de les pòlisses de crèdit vigents. L’execució d’aquest capítol es
+    situa en el 94,81% del total del pressupost final per l’any 2020.
+
+✓   Capítol 4 – Transferències corrents, +270,67%, increment de 1.561.176,87 euros. La
+    liquidació d’aquest capítol per l’any 2020, no te precedents i, per tant, no és
+    comparable amb cap altre exercici anterior, atès que ha estat condicionada pel
+    context actual de crisis sanitària. Així, s’ha autoritzat, de manera excepcional, la
+    participació en el finançament del cost de les mesures urgents per pal·liar els
+    efectes econòmics de la situació d’emergència sanitària ocasionada per la
+    pandèmia del SARS-CoV-2, aprovades per el Consell General i assumides per el
+    Govern a càrrec del seu pressupost i, també, s’han executat mesures per ajudar
+    de manera directa al teixit empresarial de la parròquia. En aquest mateix context,
+    s’han reduït, també excepcionalment, les subvencions a entitats culturals, socials
+    i d’acció turística davant la impossibilitat de complir amb el seu programa
+    d’activitats previst per l’any 2020. L’execució d’aquest capítol es situa en el 79,72%
+    del total del pressupost final per l’any 2020.
+
+✓   Capítol 6 – Inversions reals, -28,39%, reducció de 2.946.561,29 euros. En aquest capítol
+    s’han liquidat 7.432.200,48 euros, el que suposa un 51,85% del pressupost final per
+    l’any 2020. Es detallen a continuació algunes de les inversions més destacades:
+
+
+                       Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                                  www.comuencamp.ad
+                                                                                         52
+        Remodelació avinguda de Joan Martí                                            2.238.270,51 €
+
+        Nova Escola Bressol i llaç d'animació del Pas de la Casa                      1.770.216,48 €
+
+        Instal·lacions esportives de Prada de Moles                                    394.644,56 €
+
+        Inversions xarxa d'aigua                                                       353.874,50 €
+
+        Entorns església St. Pere del Pas de la Casa                                   304.688,11 €
+
+        Aparcament Torrent Estret                                                      274.627,97 €
+
+        Reformes del Centre Esportiu del Pas de la Casa                                217.057,00 €
+        Reforma antiga Casa Comuna - noves dependència del servei de
+                                                                                       189.615,89 €
+        Circulació
+        Aparcament Prat de Baró                                                        165.059,06 €
+
+        Inversió en equipaments i aplicacions per sistemes d'informació                155.043,00 €
+
+        Inversió en mobiliari urbà i altres elements de la Via Pública                 125.325,53 €
+
+        Aparcament Prat de Baró                                                        124.459,06 €
+
+        Inversió en instal·lacions tècniques del Centre Esportiu del Pas de la Casa    110.415,00 €
+        Sistema de drenatge planta 0 Bullidor + decantador d'hidrocarburs al final
+                                                                                        92.404,71 €
+        de la xarxa
+        Inversió en patrimoni històric/cultural – Orris i altres troballes              87.573,00 €
+
+        Canvi ascensors i refecció escala edif. Bullidor del Pas de la Casa             87.082,75 €
+
+        Reformes del Complex Esportiu d'Encamp                                          75.622,86 €
+
+        Parc Infantil Prat del Notari                                                   73.204,34 €
+
+        Inversió en instal·lacions tècniques del Complex Esportiu d'Encamp              65.419,00 €
+
+        Parc Infantil Prat del Tirader                                                  62.707,44 €
+
+
+
+
+✓   Capítol 8 – Actius financers, -52,98%, reducció de -991.680,00 euros. En aquest
+    capítol es registren les transferències a la societat Funitel d’Encamp SAU. La forta
+    reducció en les aportacions respecte l’any anterior, és conseqüència de la
+    finalització, l’any 2019, de l’únic préstec que tenia contractat la societat des del
+    seu inici. L’execució d’aquest capítol es situa en el 100% del pressupost.
+
+✓   Capítol 9 – Passius financers, +1,86%, increment de 23.105,00 euros. En aquest capítol
+    es comptabilitzen les liquidacions de reducció de capital dels préstecs vigents que,
+    tot i no haver contractat cap nova operació d’endeutament, s’incrementa
+    sensiblement per l’efecte normal de l’amortització de capital que, davant d’un tipus
+    d’interès a la baixa, augmenta cada any l’import de reducció del deute. L’execució
+    d’aquest capítol es situa en el 99,76% del pressupost.
+
+-   Liquidació pressupost d’ingressos
+
+Al pressupost d’ingressos, dels 33.370.173,07 euros inicialment previstos, s’hi afegeixen
+modificacions per valor de 4.713.779,89 euros per finançar les modificacions
+pressupostàries indicades anteriorment, en concret, corresponen als 5.981.616,30 euros
+finançats amb línies de crèdit a curt termini menys el romanent de tresoreria negatiu de
+l’any 2019 situat en -1.267.836,41 euros. Amb tot, el pressupost final d’ingressos queda
+                           Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                                      www.comuencamp.ad
+                                                                                                  53
+equilibrat amb el de despesa en 38.083.952,96 euros, dels quals s’han liquidat
+26.159.429,82 euros que representa una execució pressupostària del 68,69%.
+
+La liquidació d’ingressos mostra una reducció del -2,95%, que en valor absolut suposen
+-793.819,22 euros respecte a l’exercici 2019. Es detallen a continuació les principals
+variacions per capítols:
+
+✓   Capítol 1 – Impostos directes, -0,10%. Es manté el nivell de recaptació de l’any
+    anterior.
+
+✓   Capítol 2 – Impostos indirectes, la integritat d’aquest capítol correspon a la
+    recaptació en concepte d’impost sobre les transmissions patrimonials. Cal
+    assenyalar que aquest any 2020, la recaptació és excepcionalment important,
+    degut a una operació de transmissió que va tenir lloc durant el primer trimestre,
+    situant la recepció d’aquell trimestre en 1.259.787,29€, molt per sobre de l’import
+    estimat de recaptació anual, fixat en 850.000€. La recaptació de tot l’any es situa
+    en 1.779.067,34 euros, el que suposa una diferència respecte l’any anterior del
+    +131,81 %. L’execució d’aquest capítol és del 209,30% del total del pressupost per
+    l’any 2020.
+
+✓   Capítol 3 – Taxes, preus públics i altres ingressos, -17,20%, disminució de
+    1.018.491,01 euros respecte l’any 2019, degut principalment a la reducció dels
+    conceptes que es detallen a continuació:
+
+       o    Centres esportius:                                  -251.797,99 euros
+       o    Facturació mensual Escoles bressol i llaç:          -238.167,20 euros
+       o    Activitats socials, culturals i esportives:         -182.798,48 euros
+       o    Sancions de circulació:                             -141.560,57 euros
+       o    Caixer automàtics aparcaments:                      -133.321,12 euros
+       o    Abocador de terres:                                  -65.857,56 euros
+
+    L’execució d’aquest capítol es situa en el 85,51% del total del pressupost per l’any
+    2020.
+
+✓   Capítol 4 – Transferències corrents, + 114,58%, increment de 1.471.452,70 euros,
+    degut a la redistribució efectuada, de les transferències rebudes de Govern, per
+    assolir l’equilibri de les operacions corrents. Cal assenyalar que per assolir l’equilibri
+    d’operacions corrents s’ha aplicat el 28,40% del total de les transferències de
+    Govern. En el punt 2.8 es detalla la situació d’aquestes transferències.
+
+✓   Capítol 5 – Ingressos Patrimonials, -8,33%, aquest capítol presenta una variació
+    negativa de 658.213,35 euros degut a la reducció en els cànons de les
+    concessions administratives i a la manca de repartiment de dividends de la
+    societat SAETDE. Aquestes reduccions s’han vist esmorteïdes, entre altres motius,
+    per l’increment en els dividends de SERCENSA. L’execució d’aquest capítol es
+    situa en el 85,96% del total del pressupost per l’any 2020.
+
+✓   Capítol 7 – Transferències de capital, - 19,98%, reducció de -1.592.738,31 euros,
+    degut a l’efecte de la redistribució efectuada en l’aplicació de les transferències
+    rebudes de Govern per assolir l’equilibri de les operacions corrents. En el punt 2.8 es
+    detalla la situació del total d’aquestes transferències.
+
+
+                        Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                                   www.comuencamp.ad
+                                                                                           54
+-   Liquidació romanents:
+L’execució pressupostària exposada, inclou operacions amb romanents de l’exercici
+anterior per un import total liquidat de 4.014.328,73 euros, dels quals 308.488,85 euros
+corresponen a despeses corrents i 3.705.839,88 euros són inversions reals.
+
+-     Resultat pressupostari
+La liquidació del pressupost de l’exercici 2020 presenta un dèficit de 3.197.264,33 euros,
+aquest dèficit ve determinat per la forta execució d’inversions, 7,4 milions d’euros, i les
+despeses relacionades amb l’execució de mesures per pal·liar els efectes negatius que
+l’actual crisis sanitària provoca sobre la economia de la Parròquia, sense que s’hagi
+formalitzat cap operació nova d’endeutament.
+
+2.7    Transferències de Govern, aplicació de la LQTC
+
+
+L’any 2020, el Govern d’Andorra ha transferit al Comú d’Encamp la quantitat de
+8.854.988,63 euros en compliment del que estableix la Llei qualificada de transferències
+als comuns (LQTC). Des de l’any 2018 en que es va modificar, aquesta llei determina un
+repartiment entre tots els comuns d’una quantitat base que, per l’any 2018, es va fixar
+en 55 milions d’euros revisable anualment, a l’alça o a la baixa, a raó de la taxa de
+variació de l’avanç del producte interior brut anual respecte l’import anual establert per
+l’any anterior. Així, l’any 2020 la quantitat base s’ha incrementat un 3,4% quedant
+establerta en 58.291.750 euros.
+
+La quantitat percebuda per el Comú d’Encamp l’any 2020 ha estat inferior en 45.534,40
+euros respecte l’any 2019.
+
+El pes del Comú d’Encamp dins del repartiment total de les transferències ha disminuït
+sensiblement passant del 15,79% de l’any 2019 al 15,20% de l’any 2020.
+
+La distribució de les transferències, per finançar les operacions del pressupost de
+despesa, és la següent:
+           ✓   Ingressos corrents:     10,35%
+           ✓   Ingressos de capital:   89,65%
+
+Regularització transferències corresponents a l’any 2017
+
+L’any 2017, quan encara no s’havia modificat l’import base ni les variables de
+repartiment de la LQTC, el Govern no va arribar a repartir la totalitat de les quantitats
+establertes segons els paràmetres de càlcul de la Llei vigent en aquell moment. Segons
+els càlculs efectuats per la Intervenció comunal del Comú d’Encamp, el Govern
+d’Andorra tenia que haver transferit entre tots els comuns la quantitat de 69.723.259€ i
+en va transferir 54.600.000€. Van quedar pendents de regularitzar 15.123.259€, d’aquests,
+aproximadament la meitat 7.549.487€ es van regularitzar a finals de l’any 2018 i, a la
+data d’aquest document resten pendents 7.573.773€.
+
+La quantitat, pendent de percebre, que li correspon al Comú d’Encamp és de
+1.091.097€, que es desglossa com segueix:
+
+           ✓   Import pendent transferències 2017:                      2.253.493,49€
+           ✓   Regularització desembre 2018:                           -1.162.396,94€
+           ✓   Quantitat pendent de regularitzar:                       1.091.096,55€
+
+
+
+                       Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                                  www.comuencamp.ad
+                                                                                        55
+         2.8       Romanent de Tresoreria a 31.12.2020
+
+
+                                  CONCEPTES                                                    IMPORTS
+
+
+1.- (+) Drets pendents de cobrament                                                                      2.050.723,12 €
+ (+) del pressupost corrent                                                       1.143.642,59 €
+ (+) de pressupostos tancats                                                      2.897.405,64 €
+ (+) d'operacions no pressupostàries                                                  475.478,98 €
+ (-) de cobrament dubtós                                                         -2.459.392,32 €
+ (-) drets cobrats pendents d'aplicació definitiva                                     -6.411,77 €
+
+
+2.-(-) Obligacions pendents de pagament                                                              -6.784.954,73 €
+ (+) del pressupost corrent                                                       3.815.385,33 €
+ (+) de pressupostos tancats                                                           77.399,23 €
+ (+) d'operacions no pressupostàries                                              2.893.953,80 €
+ (-) obligacions pagades pendents d'aplicació definitiva                               -1.783,63 €
+
+
+3.- (+) Fons líquids                                                                                       87.356,73 €
+
+
+I Romanent de tresoreria afectat a despeses amb finançament afectat                                              0,00 €
+I.a Ingressos afectats segons art.33 LGOTU - cessions econòmiques:                          0,00 €
+Cessions econòmiques gratuïtes pel planejament 2020 (ECO.77120)                        39.180,43 €
+Inversions ens béns destinats a l'ús general 2020 (Concepte 607)                      -39.180,43 €
+
+
+II Romanent de tresoreria no afectat                                                                 -4.646.874,88 €
+
+III Romanent de tresoreria total (1 - 2 + 3) = (I + II)                                              -4.646.874,88 €
+
+
+
+
+          Aquest romanent de tresoreria negatiu, té una afectació relativa en l’estat de
+          tresoreria del Comú, atès que tant les obligacions com els drets es van materialitzant
+          al mateix temps que altres operacions del pressupost 2021 que fan variar les
+          necessitats reals de tresoreria. Tanmateix, aquest romanent de tresoreria, es finança
+          mitjançant endeutament a curt termini en forma de pòlisses de crèdit contractades
+          amb diferents entitats bancàries del país.
+
+
+
+
+                                       Plaça dels Arínsols 1, AD200 Encamp, Andorra
+                                                  www.comuencamp.ad
+                                                                                                            56
+Plaça dels Arínsols 1, AD200 Encamp, Andorra
+           www.comuencamp.ad
+                                               57
+
