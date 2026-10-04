@@ -319,6 +319,8 @@ def write_knowledge_candidates(
     *,
     work: Path,
     classification: CandidateClassification | None = None,
+    public_candidates: tuple[ConversationCandidate, ...] | None = None,
+    deduplicated_candidates: tuple[ConversationCandidate, ...] | None = None,
 ) -> Path:
     """Escriu candidats interns i missatges aprovats per la classificació local."""
 
@@ -326,8 +328,15 @@ def write_knowledge_candidates(
     internal_path = work / "candidates.jsonl"
     public_path = work / "candidate-messages.jsonl"
     _atomic_jsonl(internal_path, (asdict(candidate) for candidate in candidates))
-    public_candidates = classification.eligible_candidates if classification else candidates
-    _atomic_jsonl(public_path, (candidate.to_public_record() for candidate in public_candidates))
+    if deduplicated_candidates is not None:
+        _atomic_jsonl(
+            work / "deduplicated-candidates.jsonl",
+            (asdict(candidate) for candidate in deduplicated_candidates),
+        )
+    selected_public = public_candidates
+    if selected_public is None:
+        selected_public = classification.eligible_candidates if classification else candidates
+    _atomic_jsonl(public_path, (candidate.to_public_record() for candidate in selected_public))
     if classification is not None:
         _atomic_jsonl(
             work / "candidate-decisions.jsonl",

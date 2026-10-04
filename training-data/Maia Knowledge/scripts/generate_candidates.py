@@ -7,6 +7,10 @@ from pathlib import Path
 from training_data.inventory import scan_tree
 from training_data.knowledge import extract_knowledge
 from training_data.knowledge_coverage import build_knowledge_coverage, write_knowledge_coverage
+from training_data.knowledge_deduplicate import (
+    deduplicate_knowledge_candidates,
+    write_knowledge_deduplication,
+)
 from training_data.knowledge_generate import (
     build_knowledge_candidates,
     build_relation_candidates,
@@ -26,17 +30,25 @@ def main() -> int:
         *build_relation_candidates(ledger),
     )
     classification = classify_knowledge_candidates(candidates, ledger)
+    deduplicated = deduplicate_knowledge_candidates(classification.eligible_candidates)
     write_knowledge_candidates(
         candidates,
         work=knowledge_root / "work",
         classification=classification,
+        public_candidates=deduplicated.candidates,
+        deduplicated_candidates=deduplicated.candidates,
     )
     coverage = build_knowledge_coverage(ledger, classification)
     write_knowledge_coverage(coverage, reports=knowledge_root / "reports")
+    write_knowledge_deduplication(deduplicated.report, reports=knowledge_root / "reports")
     print(
         f"Knowledge candidates: {classification.included_count} included, "
         f"{classification.excluded_count} excluded, "
         f"{classification.unresolved_count} unresolved from {len(candidates)} candidates."
+    )
+    print(
+        f"Knowledge deduplication: {deduplicated.report.exact_records_removed} exact duplicates "
+        f"removed; {deduplicated.report.near_duplicate_family_count} related families reported."
     )
     print(
         f"Evidence coverage: {coverage.represented_units}/{coverage.total_evidence_units} "
