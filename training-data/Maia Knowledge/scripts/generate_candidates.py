@@ -17,6 +17,7 @@ from training_data.knowledge_generate import (
     classify_knowledge_candidates,
     write_knowledge_candidates,
 )
+from training_data.knowledge_split import split_knowledge_candidates, write_knowledge_splits
 
 
 def main() -> int:
@@ -41,6 +42,12 @@ def main() -> int:
     coverage = build_knowledge_coverage(ledger, classification)
     write_knowledge_coverage(coverage, reports=knowledge_root / "reports")
     write_knowledge_deduplication(deduplicated.report, reports=knowledge_root / "reports")
+    split = split_knowledge_candidates(deduplicated.candidates)
+    write_knowledge_splits(
+        split,
+        output=knowledge_root / "output",
+        work=knowledge_root / "work",
+    )
     print(
         f"Knowledge candidates: {classification.included_count} included, "
         f"{classification.excluded_count} excluded, "
@@ -55,6 +62,11 @@ def main() -> int:
         f"total classified ({coverage.total_coverage:.1%}); "
         f"{coverage.trainable_represented_units}/{coverage.trainable_units} "
         f"trainable represented ({coverage.trainable_coverage:.1%})."
+    )
+    print(
+        "Knowledge splits: "
+        + ", ".join(f"{name}={count}" for name, count in split.manifest.actual_counts.items())
+        + f" (seed {split.manifest.seed})."
     )
     return 0
 
