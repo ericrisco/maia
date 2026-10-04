@@ -1,7 +1,7 @@
 ---
 type: knowledge-fiche
 title: "Encamp: parròquia, patrimoni i festes"
-description: "Encamp és una de les set parròquies d'Andorra; les fonts consultades situen la seva població resident estimada el 2026 i documenten el seu patrimoni i el carnaval, mentre que la superfície actual i algunes afirmacions festives continuen per acreditar."
+description: "Encamp és una de les set parròquies d'Andorra; les fonts consultades situen la població resident estimada el 2026 i documenten elements patrimonials; la superfície i diverses afirmacions festives continuen per acreditar o no es poden incorporar per drets."
 topic: territori
 source_doc: docs/temes/territori/parroquies/encamp/encamp.md
 review_status: complete-with-unresolved
@@ -51,7 +51,7 @@ sources:
   - source_id: comu-encamp-carnaval-2026
     source_doc: docs/fonts/comu-encamp-carnaval-2026.md
     url: https://www.comuencamp.ad/fitxers/2026/documents/carnaval-encamp-2026.pdf
-    location: "Programa oficial del Carnaval d'Encamp 2026: calendari del 14 al 18 de febrer; Judici dels Contrabandistes el 15-02-2026, Ball de l'Ossa el 16-02-2026 i Operació del Carnestoltes el 17-02-2026."
+    location: "Programa oficial del Carnaval d'Encamp 2026, p. 1; font revisada i exclosa de les dades entrenables per les condicions de reutilització."
     llicencia: "Drets reservats; document institucional"
     redistribucio: "no"
   - source_id: rios-urruti-andorra-1920
@@ -89,9 +89,9 @@ La narració sobre la **troballa de Meritxell** explica que Canillo i Encamp vol
 
 ## Carnaval i afirmacions festives
 
-El programa del Comú d'Encamp del 2026 fixa el carnaval del **14 al 18 de febrer**. Aquella edició situa el Judici dels Contrabandistes el dia 15, el Ball de l'Ossa el 16 i l'Operació del Carnestoltes el 17. Aquest calendari acredita l'edició del 2026, no una data fixa per als anys següents.
+S’ha consultat el programa oficial del Carnaval d’Encamp del 2026, però la targeta de font declara «Drets reservats; document institucional» i redistribució «no». Per tant, no s’incorporen a aquesta fitxa entrenable les dates, els horaris ni el detall dels actes d’aquella edició. La referència es conserva només per traçabilitat; cal una autorització o una font oficial amb condicions de reutilització compatibles.
 
-La fitxa inicial també esmenta un **Carnestoltes d'estiu**, la festa major a l'agost i les falles. Les fonts primàries registrades i revisades no acrediten que el carnaval d'Encamp se celebri a l'estiu. El programa oficial consultat documenta el carnaval d'hivern del 2026, però això no demostra que mai no hi hagués cap activitat estival amb aquell nom. La festa major a l'agost i la vinculació concreta de les falles amb la parròquia tampoc no queden documentades amb una font identificada a la fitxa original.
+La fitxa inicial també esmenta un **Carnestoltes d'estiu**, la festa major a l'agost i les falles. No s'ha establert amb una font reutilitzable si Encamp va celebrar un carnaval d'hivern el 2026 ni si hi ha hagut mai un Carnestoltes d'estiu. El programa oficial de 2026 s'ha consultat, però s'exclou de les dades entrenables pels drets reservats i la redistribució no autoritzada. La festa major a l'agost i la vinculació concreta de les falles amb la parròquia tampoc no queden documentades amb una font identificada a la fitxa original.
 
 ## Punts que continuen oberts
 
@@ -99,6 +99,7 @@ La fitxa inicial també esmenta un **Carnestoltes d'estiu**, la festa major a l'
 - **Població de 2023:** no s'ha identificat la font, el tipus de recompte ni la data de referència exacta dels 12.826 habitants. La xifra de 2026 es manté separada perquè descriu una estimació resident; la taula estadística també dona el recompte registrat, de 13.893.
 - **Divisions actuals d'Encamp:** la descripció del 1918 i la síntesi moderna coincideixen que no hi ha quarts, però no s'ha consultat un registre actual que en defineixi formalment l'organització local ni el nombre de nuclis.
 - **Carnestoltes d'estiu:** les fonts consultades no confirmen l'existència de l'activitat a Encamp. No es pot concloure que no s'hagi celebrat mai; falta un programa, una notícia datada o un testimoni local identificat.
+- **Calendari del carnaval:** no s’incorpora la celebració d’hivern del 2026 ni els seus actes: el programa consultat té drets reservats i redistribució no. Sense una font reutilitzable, aquest fet resta no resolt per al corpus entrenable.
 - **Festa major d'agost i falles:** consten a la fitxa de partida sense cita específica. Cal una font del Comú o del Govern que documenti l'edició i l'abast parroquial.
 - **La llegenda de Meritxell:** el relat està documentat com a llegenda en una fitxa la font de la qual no identifica cap peça de premsa concreta. La data d'origen i les variants no s'han resolt.
 - **Vall del Madriu-Perafita-Claror:** la fitxa local estableix que Encamp forma part del territori inscrit, però la font primària de la UNESCO encara no està registrada a `docs/fonts/` per aquesta relació.
