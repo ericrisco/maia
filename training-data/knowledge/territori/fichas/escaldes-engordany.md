@@ -15,7 +15,7 @@ sources:
   - source_id: estadistica-ad
     source_doc: docs/fonts/estadistica-ad.md
     url: https://www.estadistica.ad/
-    location: "A001/A003, juliol del 2026, publicat el 13-08-2026: p. 3, taula 1.1 (estimació per parròquia), i p. 7, taula 3.1 (població registrada i estimada); p. 8, taula 2.1 (grans grups d’edat), referència 31-07-2026."
+    location: "A001/A003, juliol del 2026, publicat el 13-08-2026: p. 3, taula 1.1 (estimació per parròquia), i p. 7, taula 3.1 (població registrada i estimada); p. 6, taula 2.2 (nacionalitat); p. 8, taula 2.1 (grans grups d’edat), referència 31-07-2026."
     llicencia: CC BY 4.0 per a la informació estadística pròpia, llevat d'indicació contrària
     redistribucio: si
   - source_id: estadistica-a001-a003-2023-altaveu
@@ -55,7 +55,7 @@ La Constitució enumera Escaldes-Engordany en setè i darrer lloc entre les parr
 
 La publicació A001/A003 del Departament d'Estadística diferencia dues magnituds per a **31 de juliol del 2026**: l'estimació de població resident era de **16.350 persones** (taula 1.1, p. 3), mentre que els registres comunals recollien **17.298 persones** (taula 3.1, p. 7). La diferència era de **948 persones**, un **5,8%** respecte de l'estimació. La fitxa inicial dona una xifra de població per al 2023 sense font identificada. Una còpia de tercers que podria ajudar a aclarir-ne la definició no s'incorpora perquè no se n'han pogut verificar l'origen oficial ni els drets d'ús ([fitxa de procedència](../../../../docs/fonts/estadistica-a001-a003-2023-altaveu.md)). La dada del 2023 continua sense resoldre's amb evidència reutilitzable.
 
-Dins de l'estimació resident del juliol del 2026, **1.726 persones tenien menys de 15 anys** (10,6%), **11.767 tenien entre 15 i 64 anys** (72,0%) i **2.857 tenien 65 anys o més** (17,5%). Són grups d'edat de la mateixa estimació, no del recompte comunal (taula 2.1, p. 8).
+Dins de l'estimació resident del juliol del 2026, **1.726 persones tenien menys de 15 anys** (10,6%), **11.767 tenien entre 15 i 64 anys** (72,0%) i **2.857 tenien 65 anys o més** (17,5%). Són grups d'edat de la mateixa estimació, no del recompte comunal (taula 2.1, p. 8). A la taula de nacionalitat de la mateixa estimació, **8.925 persones** consten com a estrangeres (54,6%) i **7.425** com a andorranes (45,4%) (taula 2.2, p. 6).
 
 ## Del quart a la parròquia
 
