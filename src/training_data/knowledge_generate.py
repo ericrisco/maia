@@ -12,7 +12,28 @@ from typing import Literal, Protocol
 from training_data.knowledge import EvidenceUnit, KnowledgeLedger
 
 ReviewStatus = Literal["needs_review", "human_reviewed"]
+CandidateStatus = Literal["included", "excluded", "unresolved"]
 TABLE_SEPARATOR = re.compile(r"^:?-{3,}:?$")
+CONFLICT_MARKERS = (
+    "discrep",
+    "contradi",
+    "no coincideixen",
+    "versions diferents",
+    "divergeixen",
+    "dues lectures",
+)
+UNKNOWN_MARKERS = (
+    "no consta",
+    "no permet determinar",
+    "no permet establir",
+    "no s'ha pogut",
+    "no s'ha trobat",
+    "no se sap",
+    "no sabem",
+    "buit registrat",
+    "buit pendent",
+    "desconegut",
+)
 
 
 @dataclass(frozen=True, slots=True)
@@ -34,6 +55,29 @@ class ConversationCandidate:
                 {"role": "assistant", "content": self.assistant},
             ]
         }
+
+
+@dataclass(frozen=True, slots=True)
+class CandidateDecision:
+    """Disposició explícita d'un candidat, amb la traça que permet auditar-la."""
+
+    family_id: str
+    evidence_ids: tuple[str, ...]
+    status: CandidateStatus
+    reason: str
+
+
+@dataclass(frozen=True, slots=True)
+class CandidateClassification:
+    """Candidats elegibles i comptadors de les decisions de qualitat."""
+
+    eligible_candidates: tuple[ConversationCandidate, ...]
+    decisions: tuple[CandidateDecision, ...]
+    included_count: int
+    excluded_count: int
+    unresolved_count: int
+    explicit_conflict_count: int
+    explicit_unknown_count: int
 
 
 class CandidateGenerator(Protocol):
@@ -179,6 +223,79 @@ def build_relation_candidates(ledger: KnowledgeLedger) -> tuple[ConversationCand
     return tuple(candidates)
 
 
+def classify_knowledge_candidates(
+    candidates: tuple[ConversationCandidate, ...], ledger: KnowledgeLedger
+) -> CandidateClassification:
+    """Bloqueja procedència no resolta i fets volàtils; preserva conflictes i buits."""
+
+    evidence_by_id = {unit.id: unit for unit in ledger.units}
+    decisions: list[CandidateDecision] = []
+    eligible: list[ConversationCandidate] = []
+    conflict_count = 0
+    unknown_count = 0
+    for candidate in candidates:
+        units = [evidence_by_id[item] for item in candidate.evidence_ids if item in evidence_by_id]
+        if not candidate.evidence_ids or len(units) != len(candidate.evidence_ids):
+            decision = CandidateDecision(
+                candidate.family_id,
+                candidate.evidence_ids,
+                "unresolved",
+                "evidence_reference_missing",
+            )
+        elif any(reference.status != "recorded" for unit in units for reference in unit.provenance):
+            decision = CandidateDecision(
+                candidate.family_id,
+                candidate.evidence_ids,
+                "unresolved",
+                "missing_or_invalid_provenance",
+            )
+        elif any(unit.volatility_score >= 0.5 for unit in units):
+            decision = CandidateDecision(
+                candidate.family_id,
+                candidate.evidence_ids,
+                "excluded",
+                "volatility_threshold",
+            )
+        else:
+            content = " ".join((candidate.assistant, *(unit.content for unit in units))).casefold()
+            if any(marker in content for marker in CONFLICT_MARKERS):
+                conflict_count += 1
+                reason = "explicit_conflict_preserved"
+            elif any(marker in content for marker in UNKNOWN_MARKERS):
+                unknown_count += 1
+                reason = "explicit_unknown_preserved"
+            elif any(
+                reference.redistribution in {"pendent", "pending"}
+                for unit in units
+                for reference in unit.provenance
+            ):
+                reason = "source_redistribution_pending"
+            elif any(
+                reference.redistribution == "no" for unit in units for reference in unit.provenance
+            ):
+                reason = "source_redistribution_no"
+            else:
+                reason = "source_and_evidence_resolved"
+            decision = CandidateDecision(
+                candidate.family_id,
+                candidate.evidence_ids,
+                "included",
+                reason,
+            )
+            eligible.append(candidate)
+        decisions.append(decision)
+
+    return CandidateClassification(
+        eligible_candidates=tuple(eligible),
+        decisions=tuple(decisions),
+        included_count=sum(item.status == "included" for item in decisions),
+        excluded_count=sum(item.status == "excluded" for item in decisions),
+        unresolved_count=sum(item.status == "unresolved" for item in decisions),
+        explicit_conflict_count=conflict_count,
+        explicit_unknown_count=unknown_count,
+    )
+
+
 def _relation_evidence(
     units: list[EvidenceUnit], *, linked_target: str | None = None
 ) -> EvidenceUnit | None:
@@ -198,15 +315,43 @@ def _relation_evidence(
 
 
 def write_knowledge_candidates(
-    candidates: tuple[ConversationCandidate, ...], *, work: Path
+    candidates: tuple[ConversationCandidate, ...],
+    *,
+    work: Path,
+    classification: CandidateClassification | None = None,
 ) -> Path:
-    """Escriu candidats interns i la vista pública provisional en fitxers locals."""
+    """Escriu candidats interns i missatges aprovats per la classificació local."""
 
     work.mkdir(parents=True, exist_ok=True)
     internal_path = work / "candidates.jsonl"
     public_path = work / "candidate-messages.jsonl"
     _atomic_jsonl(internal_path, (asdict(candidate) for candidate in candidates))
-    _atomic_jsonl(public_path, (candidate.to_public_record() for candidate in candidates))
+    public_candidates = classification.eligible_candidates if classification else candidates
+    _atomic_jsonl(public_path, (candidate.to_public_record() for candidate in public_candidates))
+    if classification is not None:
+        _atomic_jsonl(
+            work / "candidate-decisions.jsonl",
+            (asdict(decision) for decision in classification.decisions),
+        )
+        summary_path = work / "candidate-classification.json"
+        temporary = summary_path.with_suffix(".json.tmp")
+        temporary.write_text(
+            json.dumps(
+                {
+                    "included": classification.included_count,
+                    "excluded": classification.excluded_count,
+                    "unresolved": classification.unresolved_count,
+                    "explicit_conflicts": classification.explicit_conflict_count,
+                    "explicit_unknowns": classification.explicit_unknown_count,
+                },
+                ensure_ascii=False,
+                indent=2,
+                sort_keys=True,
+            )
+            + "\n",
+            encoding="utf-8",
+        )
+        temporary.replace(summary_path)
     return internal_path
 
 

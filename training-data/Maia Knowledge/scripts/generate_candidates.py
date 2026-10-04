@@ -9,6 +9,7 @@ from training_data.knowledge import extract_knowledge
 from training_data.knowledge_generate import (
     build_knowledge_candidates,
     build_relation_candidates,
+    classify_knowledge_candidates,
     write_knowledge_candidates,
 )
 
@@ -23,10 +24,16 @@ def main() -> int:
         *build_knowledge_candidates(ledger),
         *build_relation_candidates(ledger),
     )
-    write_knowledge_candidates(candidates, work=knowledge_root / "work")
+    classification = classify_knowledge_candidates(candidates, ledger)
+    write_knowledge_candidates(
+        candidates,
+        work=knowledge_root / "work",
+        classification=classification,
+    )
     print(
-        f"Knowledge candidates: {len(candidates)} candidates from "
-        f"{ledger.report.units_detected} evidence units."
+        f"Knowledge candidates: {classification.included_count} included, "
+        f"{classification.excluded_count} excluded, "
+        f"{classification.unresolved_count} unresolved from {len(candidates)} candidates."
     )
     return 0
 
