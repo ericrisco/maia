@@ -130,6 +130,73 @@ def review_candidate(
     )
 
 
+def build_relation_candidates(ledger: KnowledgeLedger) -> tuple[ConversationCandidate, ...]:
+    """Combina una relació interna amb fragments literals de les dues fitxes."""
+
+    titles = {document.path: document.title or document.path for document in ledger.documents}
+    units_by_path: dict[str, list[EvidenceUnit]] = {}
+    for unit in ledger.units:
+        units_by_path.setdefault(unit.document_path, []).append(unit)
+
+    candidates: list[ConversationCandidate] = []
+    seen: set[tuple[str, str]] = set()
+    for relation in ledger.relations:
+        target_path = relation.target_path
+        if (
+            not relation.internal
+            or not relation.resolved
+            or target_path is None
+            or target_path == relation.source_path
+            or target_path not in titles
+        ):
+            continue
+        pair = (relation.source_path, target_path)
+        if pair in seen:
+            continue
+        source_unit = _relation_evidence(
+            units_by_path.get(relation.source_path, []), linked_target=relation.target
+        )
+        target_unit = _relation_evidence(units_by_path.get(target_path, []))
+        if source_unit is None or target_unit is None:
+            continue
+
+        source_title = titles[relation.source_path]
+        target_title = titles[target_path]
+        candidates.append(
+            ConversationCandidate(
+                family_id=f"relation:{relation.source_path}->{target_path}",
+                evidence_ids=(source_unit.id, target_unit.id),
+                user=f"Quina relació hi ha entre «{source_title}» i «{target_title}»?",
+                assistant=(
+                    f"La fitxa «{source_title}» enllaça amb «{target_title}». "
+                    f"A la primera hi consta: «{source_unit.content.strip()}» "
+                    f"A la segona hi consta: «{target_unit.content.strip()}»"
+                ),
+                review_status="needs_review",
+            )
+        )
+        seen.add(pair)
+    return tuple(candidates)
+
+
+def _relation_evidence(
+    units: list[EvidenceUnit], *, linked_target: str | None = None
+) -> EvidenceUnit | None:
+    preference = {
+        "paragraph": 0,
+        "blockquote": 1,
+        "list_item": 2,
+        "table_row": 3,
+        "metadata_description": 4,
+    }
+    eligible = [unit for unit in units if unit.block_kind in preference and unit.content.strip()]
+    if linked_target is not None:
+        linked = [unit for unit in eligible if linked_target in unit.content]
+        if linked:
+            return min(linked, key=lambda unit: preference[unit.block_kind])
+    return min(eligible, key=lambda unit: preference[unit.block_kind]) if eligible else None
+
+
 def write_knowledge_candidates(
     candidates: tuple[ConversationCandidate, ...], *, work: Path
 ) -> Path:

@@ -6,7 +6,11 @@ from pathlib import Path
 
 from training_data.inventory import scan_tree
 from training_data.knowledge import extract_knowledge
-from training_data.knowledge_generate import build_knowledge_candidates, write_knowledge_candidates
+from training_data.knowledge_generate import (
+    build_knowledge_candidates,
+    build_relation_candidates,
+    write_knowledge_candidates,
+)
 
 
 def main() -> int:
@@ -15,7 +19,10 @@ def main() -> int:
     knowledge_root = Path(__file__).resolve().parents[1]
     repository_root = knowledge_root.parents[1]
     ledger = extract_knowledge(scan_tree(repository_root / "docs"))
-    candidates = build_knowledge_candidates(ledger)
+    candidates = (
+        *build_knowledge_candidates(ledger),
+        *build_relation_candidates(ledger),
+    )
     write_knowledge_candidates(candidates, work=knowledge_root / "work")
     print(
         f"Knowledge candidates: {len(candidates)} candidates from "
