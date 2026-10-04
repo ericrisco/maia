@@ -36,6 +36,18 @@ sources:
     location: "Fitxa patrimonial de Sant Serni de Canillo, apartats d'origen, reformes i retaule."
     llicencia: "drets reservats, sense llicència oberta indicada"
     redistribucio: "no"
+  - source_id: comu-canillo-sant-serni-web
+    source_doc: docs/fonts/comu-canillo-sant-serni-web.md
+    url: https://www.canillo.ad/que-fer/sant-serni-de-canillo
+    location: "Pàgina institucional; peu de pàgina i enllaços als avisos legals, privacitat i galetes, consultats el 2026-10-04 per comprovar les condicions de reutilització."
+    llicencia: "copyright © 2026; no s'ha identificat una llicència oberta ni una autorització general de reutilització"
+    redistribucio: "no"
+  - source_id: museus-ad-sant-serni-web
+    source_doc: docs/fonts/museus-ad-sant-serni-web.md
+    url: https://museus.ad/ca/monuments/sant-serni-de-canillo
+    location: "Pàgina del monument i avís legal del domini, consultats el 2026-10-04 per comprovar les condicions de reutilització."
+    llicencia: "copyright © Govern d'Andorra; l'avís legal consultat no identifica una llicència oberta ni una autorització general de reutilització"
+    redistribucio: "no"
   - source_id: govern-roc-bruxes-2026
     source_doc: docs/fonts/govern-roc-bruxes-2026.md
     url: https://www.govern.ad/ca/l/4671443
@@ -87,7 +99,7 @@ El número **deu** de veïnats que apareixia a la fitxa original no queda justif
 
 ## Elements patrimonials documentats
 
-El Govern situa a Canillo l'església de **Sant Joan de Caselles** i la data entre el final del segle XI i el començament del XII. La seva fitxa patrimonial descriu, entre altres elements, la nau i l'absis romànics; els porxos són posteriors. **Sant Serni de Canillo** també té un origen anterior a la segona meitat del segle XII, amb reformes importants als segles XVII i XVIII. La cronologia no vol dir que els dos edificis conservin avui la mateixa proporció d'obra medieval.
+El Govern situa a Canillo l'església de **Sant Joan de Caselles** i la data entre el final del segle XI i el començament del XII. La seva fitxa patrimonial descriu, entre altres elements, la nau i l'absis romànics; els porxos són posteriors.
 
 El **Roc de les Bruixes** és al sud del poble de Prats, a la partida de Rep, dins Canillo. El Govern el classifica com a bé d'interès cultural i zona arqueològica. La fitxa institucional agrupa els gravats per tècnica i tema; no estableix una datació absoluta per als dos grups principals. El tercer grup inclou figures humanes i un cavall que el Govern considera probablement medievals. Aquesta qualificació probabilística no és una data arqueològica precisa.
 
@@ -100,6 +112,7 @@ El Govern també situa a Canillo el santuari vell de **Meritxell**. La documenta
 - **Ordre protocol·lari:** la Constitució enumera Canillo primer; les fonts consultades no acrediten una norma general de protocol que doni a aquest ordre un abast diferent del text constitucional.
 - **Béns comunals:** la fitxa original qualifica Canillo com la parròquia amb més béns comunals, però les peces consultades no ofereixen un inventari comparatiu ni una mesura de «riquesa» que sostingui la comparació.
 - **Confluència fluvial, molins, cases pairals, festa major i activitat del Tarter:** aquests detalls de la fitxa de partida no han quedat confirmats per les fonts primàries revisades. No se'n dedueix que siguin falsos; resten sense acreditació en aquesta fitxa.
+- **Cronologia de Sant Serni de Canillo:** no s’incorpora al coneixement entrenable. La fitxa patrimonial del Govern té redistribució marcada com a no; les pàgines del Comú i de Museus consultades no indiquen una llicència oberta que n’autoritzi la reutilització. No s’ha localitzat una alternativa amb drets verificats, de manera que les fases, dates i atribucions queden no resoltes per al corpus.
 - **Vista directa entre el Roc i el santuari:** la descripció oficial del Roc confirma la seva localització, però no la línia de visió que afirma la fitxa original. La relació visual no s'ha verificat.
 
 ## Relacions documentals
