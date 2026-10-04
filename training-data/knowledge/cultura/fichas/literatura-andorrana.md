@@ -119,9 +119,7 @@ en el país que la font classifica com a literatura sobre Andorra escrita des
 de fora. La tesi de Jean Becat la cita com a context literari en el seu
 tractament del contraban i reprodueix dos fragments. Aquesta citació no
 substitueix la lectura de la novel·la ni en permet reconstruir el contingut
-sencer. La fitxa font informa que una recerca bibliogràfica posterior va
-localitzar una reedició conjunta titulada *Rossi*, però el text íntegre no és
-al corpus. L'autoria andorrana de Margenat no queda documentalment establerta;
+sencer; el text íntegre no és al corpus. L'autoria andorrana de Margenat no queda documentalment establerta;
 la classificació de l'obra no s'ha de convertir en una afirmació sobre la
 nacionalitat de l'autora. Per a les connexions, vegeu [els descobridors](./els-descobridors.md),
 [l'experiència de migrar](../../societat/fichas/lexperiencia-de-migrar.md),
