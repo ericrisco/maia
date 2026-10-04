@@ -120,12 +120,13 @@ revisats.
 
 En el retrat de país que precedeix el capítol (pp. 9–11), Vilar descriu una
 pràctica de transmissió de la condició de cap de casa a través d'un matrimoni i
-explica l'expressió «fer l'andorrà». Són observacions atribuïdes a un autor de
-1904, no una norma general ni una atestació independent. També presenta la
-neutralitat com una tradició sense acte de neutralització acordat per les
-potències i relata un episodi de 1794 en què dos consellers van defensar el
-territori davant un general francès (p. 11). No s'ha fet una recerca completa
-dels tractats ni dels arxius diplomàtics.
+presenta «fer l'andorrà» com fingir que s'ignora una cosa que se sap; diu que
+l'expressió s'emprava arreu de Catalunya. Són observacions atribuïdes a un autor
+de 1904, no una norma general, una atestació independent ni una prova d'ús
+actual. També presenta la neutralitat com una tradició sense acte de
+neutralització acordat per les potències i relata un episodi de 1794 en què dos
+consellers van defensar el territori davant un general francès (p. 11). No s'ha
+fet una recerca completa dels tractats ni dels arxius diplomàtics.
 
 ## Fonts consultades però no incorporades
 
