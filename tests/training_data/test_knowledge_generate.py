@@ -40,7 +40,7 @@ def test_candidates_are_traceable_and_export_only_public_messages(tmp_path: Path
     assert all(set(candidate.evidence_ids) <= evidence_ids for candidate in candidates)
     assert all(candidate.family_id == candidate.evidence_ids[0] for candidate in candidates)
     assert all(candidate.review_status == "needs_review" for candidate in candidates)
-    assert any(candidate.assistant == "- Primer element de prova." for candidate in candidates)
+    assert any(candidate.assistant == "Primer element de prova." for candidate in candidates)
     assert all("| --- | --- |" not in candidate.assistant for candidate in candidates)
     assert all(
         candidate.assistant != candidate.user.split("«")[1].split("»")[0]

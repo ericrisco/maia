@@ -10,6 +10,7 @@ from pathlib import Path
 from typing import Literal, Protocol
 
 from training_data.knowledge import EvidenceUnit, KnowledgeLedger
+from training_data.text import markdown_to_plain_text
 
 ReviewStatus = Literal["needs_review", "human_reviewed"]
 CandidateStatus = Literal["included", "excluded", "unresolved"]
@@ -91,7 +92,7 @@ class LiteralEvidenceGenerator:
     """Crea una pregunta plantilla i preserva literalment el text de l'evidència."""
 
     def generate(self, evidence: EvidenceUnit, title: str) -> ConversationCandidate | None:
-        content = evidence.content.strip()
+        content = markdown_to_plain_text(evidence.content, block_kind=evidence.block_kind)
         if not content or evidence.block_kind in {
             "heading",
             "code_block",
@@ -104,7 +105,11 @@ class LiteralEvidenceGenerator:
             if cells and all(TABLE_SEPARATOR.fullmatch(cell) for cell in cells):
                 return None
 
-        section = evidence.heading_path[-1] if evidence.heading_path else None
+        title = markdown_to_plain_text(title) or "aquesta fitxa"
+        section = (
+            markdown_to_plain_text(evidence.heading_path[-1]) if evidence.heading_path else None
+        )
+        section = section or None
         if section == title:
             section = None
         if evidence.block_kind == "metadata_description":
@@ -206,6 +211,10 @@ def build_relation_candidates(ledger: KnowledgeLedger) -> tuple[ConversationCand
 
         source_title = titles[relation.source_path]
         target_title = titles[target_path]
+        source_text = markdown_to_plain_text(source_unit.content, block_kind=source_unit.block_kind)
+        target_text = markdown_to_plain_text(target_unit.content, block_kind=target_unit.block_kind)
+        if not source_text or not target_text:
+            continue
         candidates.append(
             ConversationCandidate(
                 family_id=f"relation:{relation.source_path}->{target_path}",
@@ -213,8 +222,8 @@ def build_relation_candidates(ledger: KnowledgeLedger) -> tuple[ConversationCand
                 user=f"Quina relació hi ha entre «{source_title}» i «{target_title}»?",
                 assistant=(
                     f"La fitxa «{source_title}» enllaça amb «{target_title}». "
-                    f"A la primera hi consta: «{source_unit.content.strip()}» "
-                    f"A la segona hi consta: «{target_unit.content.strip()}»"
+                    f"A la primera hi consta: «{source_text}» "
+                    f"A la segona hi consta: «{target_text}»"
                 ),
                 review_status="needs_review",
             )
