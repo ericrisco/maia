@@ -1,17 +1,50 @@
 # Maia Training Data
 
-This directory holds two independent fine-tuning datasets. Keep their sources,
-quality rules and generated records separate.
+This directory contains two independent chat fine-tuning datasets. Both are
+derived only from the versioned `docs/` corpus. Their source eligibility,
+provenance and transformations stay separate.
 
-- [Maia Knowledge](Maia%20Knowledge/README.md) teaches documented knowledge
-  about Andorra from `docs/temes/`.
-- [Maia Language](Maia%20Language/README.md) preserves authentic contemporary
-  Andorran Catalan from eligible human material in `docs/parla/`.
+## Regenerate
 
-Each area has its own `scripts/`, `work/`, `output/` and `reports/` directory.
-Generated work files, reports and JSONL outputs stay local and are excluded by
-this directory's `.gitignore`. The committed `.gitkeep` files preserve the
-empty directory layout when the repository is cloned.
+Run from the repository root with Python 3.12 and the project dependencies
+installed through `uv`:
 
-The two datasets do not share training examples. Their source eligibility,
-generation and validation rules are documented in the child READMEs.
+```sh
+uv run python 'training-data/Maia Knowledge/scripts/extract_inventory.py'
+uv run python 'training-data/Maia Knowledge/scripts/generate_candidates.py'
+uv run python 'training-data/Maia Language/scripts/extract_speech.py'
+uv run python training-data/scripts/validate_datasets.py
+```
+
+The commands read `docs/` and write local intermediate files and reports under
+each dataset's `work/` and `reports/` directories. The generators write
+`train.jsonl`, `validation.jsonl` and `test.jsonl` under each `output/`
+directory. The final public JSONL schema contains only a `messages` array with
+one non-empty `user` message followed by one non-empty `assistant` message.
+
+`validate_datasets.py` rebuilds the ledgers in memory and checks public schema,
+plain text, duplicates, provenance, eligibility, evidence coverage, uncertainty
+filters and split leakage. It writes a detailed local report to
+`Maia Knowledge/reports/validation.json` and exits non-zero on failure. Generated
+JSONL, reports and work files are ignored by Git; only code, documentation and
+empty-directory placeholders are versioned.
+
+## Dataset boundaries
+
+- [Maia Knowledge](Maia%20Knowledge/README.md) uses documented material from
+  `docs/temes/`. Every answer is traceable to evidence. Conflicts remain
+  unresolved, unknowns stay explicit, and volatile facts are excluded from
+  fine-tuning.
+- [Maia Language](Maia%20Language/README.md) uses eligible original,
+  contemporary Andorran speech from `docs/parla/`. It preserves human wording
+  and does not synthesize dialogue.
+
+The Language output is currently empty: 38 corpus pieces meet the metadata
+eligibility rules, but the source contains no explicitly labelled speaker turns
+that can safely be converted into user/assistant pairs. The pipeline does not
+turn monologue or rhetorical questions into invented dialogue.
+
+The source cards for the speech pieces currently mark redistribution as
+`pendent`. Provenance is recorded in local reports and this status is not a
+grant of redistribution permission. The Knowledge pipeline likewise records
+source-card and redistribution status for audit.
