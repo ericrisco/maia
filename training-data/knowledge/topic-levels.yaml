@@ -1,0 +1,18 @@
+# Working baseline for per-fiche Q&A counts.
+# Level 1 = five questions; level 2 = three; level 3 = two.
+# These are training priorities, not claims about the value of a source or topic.
+# Override a fiche's baseline only with a short rationale in its review notes.
+topics:
+  historia: 1
+  institucions: 1
+  llengua: 1
+  economia: 1
+  politica: 1
+  societat: 1
+  territori: 1
+  vida-quotidiana: 1
+  cultura: 2
+  costums: 2
+  gastronomia: 2
+  persones: 2
+  esports: 3

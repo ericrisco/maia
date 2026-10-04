@@ -17,7 +17,7 @@ For each knowledge fiche, prepare these question forms:
 2. A question that needs that sheet and linked sheets.
 3. A question that needs research across the corpus, centered on that sheet.
 
-For less important cultural topics, create three questions per source fiche: one local, one requiring linked fiches, and one requiring wider corpus research. For other topics, use the importance tiers from the project brief: five questions at level 1, three at level 2, and two at level 3. The source tree does not yet label every topic with an importance level; do not guess silently. Record each topic's assigned tier before bulk Q&A production.
+For less important cultural topics, create three questions per source fiche: one local, one requiring linked fiches, and one requiring wider corpus research. For other topics, use the importance tiers from the project brief: five questions at level 1, three at level 2, and two at level 3. The working topic-to-level map is `knowledge/topic-levels.yaml`. It is a project priority decision, not a factual claim from a source; a fiche may receive a different level only with a recorded reason. Level 1 and level 2 fiches cover all three question forms, with additional level 1 questions selected for their value. Level 3 fiches include a local question and the more useful of a linked-fiche or corpus-research question.
 
 Every source sheet, including indexes, must be represented as clean linked text. Q&A should reflect substantive facts and relationships in each sheet; do not omit an index just because it is an index.
 
