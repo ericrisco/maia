@@ -37,6 +37,7 @@ class SpeechConversationCandidate:
     source_path: str
     piece_id: str
     conversation_id: str
+    speaker_id: str | None
     user: str
     assistant: str
     user_start: int
@@ -105,6 +106,7 @@ def _pair_turns(piece: SpeechPiece) -> tuple[SpeechConversationCandidate, ...]:
                     source_path=piece.path,
                     piece_id=piece.piece_id,
                     conversation_id=piece.piece_id,
+                    speaker_id=piece.speaker_id,
                     user=pending_user.text,
                     assistant=turn.text,
                     user_start=pending_user.start,
