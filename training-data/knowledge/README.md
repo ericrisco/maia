@@ -9,8 +9,8 @@ its metadata, links, lists and tables. It does not use `docs/raw/` as a source.
 From the repository root:
 
 ```sh
-uv run python 'training-data/Maia Knowledge/scripts/extract_inventory.py'
-uv run python 'training-data/Maia Knowledge/scripts/generate_candidates.py'
+uv run python training-data/knowledge/scripts/extract_inventory.py
+uv run python training-data/knowledge/scripts/generate_candidates.py
 uv run python training-data/scripts/validate_datasets.py
 ```
 
