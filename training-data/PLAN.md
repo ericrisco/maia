@@ -1,61 +1,62 @@
-# Pla de producció dels datasets de Maia
+# Pla de treball
 
-Aquest pla governa el treball tema a tema a `training-data/knowledge/` i peça a peça a `training-data/language/`. La font factual és el corpus actual de Maia. El format públic és el definit a [SPEC.md](SPEC.md).
+## Regla principal
 
-## Seqüència
+No convertim capítols, títols, taules ni paràgrafs directament en preguntes.
+Primer imaginem què voldria entendre una persona; després comprovem que el
+corpus ho pugui respondre.
 
-### 1. Recuperar una base revisable
+## Com escriurem una conversa
 
-- Mantenir els dos datasets separats.
-- Crear fitxers de revisió humans i conservar els outputs finals en `output/`.
-- Tractar qualsevol generador antic com a eina d'inventari, no com a autoritat editorial ni com a generador final sense superar els exemples i criteris de `knowledge/review/EXEMPLES.md`.
-- Registrar inventari, procedència, unitats d'evidència, relacions, exclusions i errors de parseig en fitxers interns.
+1. Llegir la fitxa sencera i triar una idea amb valor per a una persona.
+2. Escriure la intenció de l'usuari en una frase: què intenta entendre,
+   aclarir, comparar o decidir?
+3. Formular la pregunta com si s'hagués dit en una conversa real. Donar-li el
+   context mínim perquè s'entengui fora de la fitxa.
+4. Respondre directament, amb context suficient i llengua natural. Preservar
+   dates, atribucions, desacords i límits del que se sap.
+5. Afegir un seguiment només si una resposta real podria provocar aquella
+   curiositat. El seguiment ha de partir del que s'acaba de dir i aportar una
+   peça nova.
+6. Llegir el diàleg en veu alta i revisar-lo amb la rúbrica. Si sona a examen,
+   a cerca dins d'un document o a una seqüència de preguntes automàtiques, es
+   reescriu o es descarta.
+7. Guardar la conversa i la seva procedència en fitxers separats. Mantenir-la
+   com a esborrany fins que passin la revisió humana i la comprovació de drets.
 
-### 2. Inventariar tot el corpus
+## Què ha de sonar humà
 
-- Enumerar els 1.477 documents de `docs/temes/` i classificar-los dins de les tretze branques.
-- Extreure unitats semàntiques respectant seccions, llistes, taules i relacions internes.
-- Inspeccionar els 45 documents Markdown de `docs/parla/`; separar fitxes de contingut, índexs i material no elegible.
-- Verificar font, atribució, llicència, termes de redistribució i estat de transcripció abans d'exportar material.
-- Produir un report de cobertura inicial amb quantitats i motius de pendència o exclusió.
+Les preguntes han de tenir un motiu recognoscible: resoldre un dubte, comprovar
+una idea que la persona ja té, entendre per què dues dades semblen contradir-se,
+o saber què implica una regla o un costum. Poden ser breus i col·loquials si el
+context ja és a la conversa.
 
-### 3. Escriure i revisar converses de Knowledge
+No demanarem «què explica aquesta secció», «què indica aquesta fila» ni
+«resumeix la fitxa». Tampoc repetirem motlles com «què és X?» per cada concepte.
+La variació vindrà de les intencions reals, no de canviar quatre paraules d'una
+plantilla.
 
-- Treballar una branca temàtica cada vegada, seguint l'ordre definit a `knowledge/TEMES.md`.
-- Llegir la fitxa sencera abans de redactar preguntes; després tractar cada unitat útil una per una.
-- Convertir conceptes relacionats en converses naturals de dos o més intercanvis, amb seguiments reals.
-- Incloure les preguntes factuals, explicatives, comparatives i contextuals que el corpus pugui respondre. No generar variants mecàniques.
-- Escriure respostes completes en català natural. Preservar qualificadors, atribucions, desacords i desconeixement.
-- Enregistrar la cobertura interna de cada afirmació i rebutjar respostes fragmentàries, genèriques o no sustentades.
-- Tractar les preguntes i respostes de plantilla com a esborranys interns, mai com a registres aptes per entrenar. Només una conversa reescrita i marcada com a revisada per una persona pot avançar.
-- Si la redistribució de qualsevol font és pendent, mantenir la conversa pendent; si és prohibida, excloure-la. No deixar que una resposta sobre incertesa o desacord salti aquest control.
-- Tancar una branca només quan totes les seves fitxes i unitats útils tinguin conversa o exclusió justificada.
+## Convé que les converses siguin multitorn?
 
-### 4. Curar Language sense falsejar la font
+Sí, quan el tema ho demani. La primera resposta ja ha de resoldre bé la pregunta.
+El seguiment pot demanar una conseqüència, una distinció o un detall que neix
+de la resposta. No allargarem una conversa només per arribar a dos torns: un
+bon intercanvi únic és millor que un seguiment artificial.
 
-- Revisar cada peça elegible i cada interval incert.
-- Fer servir només fragments humans que siguin prou fiables i redistribuïbles segons la font.
-- Crear un prompt contextual només quan el fragment és una resposta semànticament vàlida. Conservar literalment el text del parlant i registrar que el prompt és editorial.
-- Si la peça és monòleg, transcripció incerta, veu no acreditada o sense permís suficient, registrar-la com a pendent/exclosa; no fabricar una conversa real ni atribuir torns.
-- Dividir train/validation/test per font, peça i parlant quan sigui possible.
+## Passos del projecte
 
-### 5. Validar i exportar
+1. **Aprovar el patró:** revisar i retocar els exemples pilot i la rúbrica.
+2. **Pilotar Knowledge:** afegir una tanda curta d'un mateix tema i comprovar
+   que les preguntes sonen naturals i que les respostes són completes.
+3. **Ampliar Knowledge:** avançar per temes, registrant cobertura i exclusions
+   sense produir variants redundants.
+4. **Preparar Language a part:** usar només parla humana elegible. No inventar
+   preguntes ni torns atribuïts a una persona quan la font no els dona.
+5. **Aprovar i exportar:** separar fonts, peces i temes entre train,
+   validation i test; exportar només registres revisats, traçables i aptes.
 
-- Validar JSONL, alternança de rols, contingut no buit, duplicats, frases completes, traçabilitat i absència de metadades internes.
-- Auditar manualment tots els casos dubtosos i una mostra de cada branca i font.
-- Comprovar que cap grup d'evidència o peça de parla apareix en més d'un split.
-- Exportar els tres splits només des de registres aprovats.
-- Si encara no hi ha registres aprovats i amb redistribució permesa, no crear fitxers de split buits que semblin datasets acabats; deixar constància al report que l'exportació està pendent.
-- Generar reports de cobertura, exclusions, permisos, splits i validació.
+## Porta d'entrada a l'entrenament
 
-## Regla d'avanç
-
-Cada conversa de Knowledge s'incorpora després d'una revisió de la pregunta, de tots els torns, de la resposta i de la traça. Es valida i es publica en un commit propi abans de passar a la pregunta següent, tal com ha demanat Eric. Els commits no substitueixen la revisió de cobertura del tema complet.
-
-## Definition of done
-
-Knowledge no és complet fins que les tretze branques i totes les seves unitats útils estiguin conciliades amb converses o exclusions motivades, i els tres splits passin les validacions.
-
-Language no és complet fins que totes les peces s'hagin revisat, totes les inclusions siguin traçables i compatibles amb la font, els splits no tinguin fuga i els permisos siguin coneguts o les peces pendents quedin fora de l'exportació.
-
-El projecte complet no s'ha de marcar com acabat mentre un tema, una peça, una exclusió o una condició de procedència resti sense estat justificat.
+Un exemple de revisió no és encara una mostra de producció. Abans d'exportar
+qualsevol conversa cal confirmar-ne la naturalitat, la resposta, la cobertura,
+la procedència i els permisos de redistribució de cada font.
