@@ -1,43 +1,45 @@
-# Mostres per acordar l'estil
+# Exemples de conversa per a Maia Knowledge
 
-Aquestes converses són exemples editorials plausibles, no preguntes reals recollides de persones. Serveixen per decidir si el to i la mida s'acosten a una conversa normal. No són aprovades per exportar. La procedència i els drets es revisen abans que qualsevol registre entri al dataset.
+Aquests són **exemples editorials escrits per definir l'estil**. No són converses recollides de persones, no són registres aprovats i no s'han d'exportar com si fossin llengua humana espontània. Les fonts només justifiquen els fets de les respostes.
 
-## 1. Una curiositat que algú podria haver sentit
+Les converses tenen llargades diferents. El seguiment apareix perquè la resposta anterior fa sorgir una pregunta concreta. No cal copiar-ne el patró ni el nombre de torns.
 
-> —De debò que al Carnaval d'Encamp llancen vísceres al públic?
->
-> —Sí. A l'Operació del Carnestoltes, els metges estrafolaris operen el Carnestoltes i llancen al públic les vísceres de la matança del porc, que es fa diumenge al matí.
+## 1. Una llegenda i el que se'n pot afirmar
 
-La pregunta és espontània i la resposta resol el dubte sense explicar tota la història de la festa. No hi afegim un segon torn: no n'hi ha cap que calgui per completar aquesta resposta.
+```json
+{"messages":[{"role":"user","content":"Com va aparèixer la imatge de Meritxell?"},{"role":"assistant","content":"Segons la llegenda, un pastor la va trobar sota una gavernera florida el dia de Reis. Se la va endur a Canillo, però l'endemà la imatge havia tornat al lloc de la troballa."},{"role":"user","content":"I per què no la van deixar a Canillo?"},{"role":"assistant","content":"El relat diu que també la van deixar a Encamp, però la imatge tornava sempre al mateix indret. Van entendre que volia quedar-s'hi i hi van construir el santuari."},{"role":"user","content":"Això és només llegenda o hi ha alguna data documentada?"},{"role":"assistant","content":"La troballa forma part de la llegenda. Una dada institucional posterior sí que consta: el Consell General la va declarar patrona i protectora del Principat el 24 d'octubre de 1873."}]}
+```
 
-Font de fets: `docs/temes/cultura/teatre/el-teatre-de-carnestoltes.md`, basada en Masegosa (redistribució pendent). Aquesta mostra no està autoritzada per exportar.
+**Per què funciona:** la primera pregunta demana un relat conegut. El primer seguiment surt de l'intent de portar la imatge a una altra parròquia. L'últim separa el relat llegendari del fet institucional, sense presentar la llegenda com a història verificada.
 
-## 2. Un seguiment que surt del que s'acaba de dir
+Font de fets: `docs/temes/cultura/llegendes/la-troballa-de-meritxell.md`. La mostra no està aprovada per exportar.
 
-> —Les caramelles de Sant Julià són un concert?
->
-> —No en un únic escenari. La Coral Rocafort recorre els carrers i s'atura sota balcons o en places per cantar.
->
-> —Ah, i la gent els pot donar alguna cosa quan s'aturen?
->
-> —Sí. També recullen donatius amb una cistella.
+## 2. Una festa vista des del punt de vista de qui hi va
 
-El seguiment demana un detall nou que encaixa amb el recorregut. Si no s'ha dit que els cantaires s'aturen pels carrers, aquesta pregunta no apareixeria. No cal afegir més torns.
+```json
+{"messages":[{"role":"user","content":"A les caramelles de Sant Julià, la coral canta en un escenari o va pels carrers?"},{"role":"assistant","content":"Va pels carrers. La Coral Rocafort s'atura sota balcons i en places per cantar; el recorregut complet dura unes tres hores."},{"role":"user","content":"Tres hores? Això també ho fan així a les altres parròquies?"},{"role":"assistant","content":"Les caramelles es fan a totes les parròquies, però el recorregut complet de tres hores només es manté a Sant Julià."}]}
+```
 
-Font de fets: `docs/raw/web/costums/govern-caramelles-ordino-sant-julia-2026.txt` i `docs/fonts/govern-caramelles-ordino-sant-julia-2026.md` (redistribució no autoritzada). Aquesta mostra és només per revisar l'estil; no es pot exportar sense autorització.
+**Per què funciona:** la primera pregunta parteix d'una imatge fàcil d'entendre. El seguiment compara una característica que la primera resposta acaba de revelar. La resposta no enumera tota la història de les caramelles.
 
-## Exemples que no acceptaríem
+Fonts de fets: `docs/temes/costums/caramelles/les-caramelles.md` i `docs/raw/web/costums/govern-caramelles-ordino-sant-julia-2026.txt`. La font de premsa o institucional no s'exporta automàticament; cal revisar-ne els drets.
 
-- «Què explica la secció “El relat”?» — només té sentit amb la fitxa oberta.
-- «Quins són el lloc, la data, els participants i els objectes de la tradició?» — sembla un examen i acumula demandes independents.
-- «I des de quan es fa?» després de qualsevol resposta — el seguiment no és natural si la conversa no hi porta.
-- Una anècdota inventada en primera persona — no fingim haver presenciat l'acte ni atribuïm una experiència a qui pregunta.
+## 3. Una paraula que porta a una pregunta nova
 
-## Abans d'afegir nous registres
+```json
+{"messages":[{"role":"user","content":"Per què la dansa de la Marratxa es diu així?"},{"role":"assistant","content":"Pel recipient d'aigua perfumada que els dansaires duien a les mans als orígens de la dansa. «Marratxa», «morratxa» i «almorratxa» són variants del nom."},{"role":"user","content":"Encara en porten un quan ballen?"},{"role":"assistant","content":"No. El recipient ja no forma part del ball, però el nom s'ha conservat."}]}
+```
 
-- Llegeix la font completa, no només el fragment que vols convertir en resposta.
-- Escriu primer el dubte en llenguatge corrent; després comprova si la font el pot respondre.
-- Elimina qualsevol pregunta que només existeixi per buidar una fitxa o assolir una quota.
-- No forcis el multitorn: un sol intercanvi és vàlid.
-- Conserva la incertesa i l'abast de la font; no inventis context, intencions ni experiències.
-- Desa els missatges a `conversations.jsonl` i la traça separadament a `provenance.jsonl`.
+**Per què funciona:** la resposta resol l'etimologia i el mateix detall fa natural preguntar si l'objecte encara hi és. No afegim un torn de data o de lloc només per allargar la conversa.
+
+Font de fets: `docs/temes/costums/danses/la-marratxa.md`. La font declarada al corpus té drets i atribució que cal revisar abans d'exportar.
+
+## Exemples que descartem
+
+- «Què explica la secció “El relat” de la fitxa?» demana navegar per un document, no resol un dubte sobre Andorra.
+- «Què indica aquesta fila?» depèn d'una taula que qui pregunta no té per què veure.
+- «Quins són el lloc, la data, els participants i els objectes?» acumula preguntes com un examen.
+- «I des de quan?» afegit a qualsevol resposta és un qüestionari, no una continuació automàtica.
+- Una resposta de poques paraules que completa una frase tallada no és útil només perquè sigui literalment correcta.
+
+Abans d'afegir registres a `conversations.jsonl`, segueix la guia de [disseny de preguntes](QUESTION-DESIGN.md). Desa la procedència per separat a `provenance.jsonl`.
