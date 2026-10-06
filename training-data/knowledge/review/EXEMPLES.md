@@ -33,6 +33,16 @@ comprova una distinció que la primera resposta encara no ha explicat.
 La persona pregunta per un cas concret. El seguiment neix d'un possible dubte
 pràctic sobre què canvia quan no s'inscriuen. El límit legal queda explícit.
 
+## Exemple: entendre dues paraules que s’assemblen
+
+```json
+{"messages":[{"role":"user","content":"A la documentació antiga, *coltia* i *devesa* volien dir el mateix tipus de terreny?"},{"role":"assistant","content":"No. La fitxa distingeix la *coltia*, terra que tornava a l’ús comú un cop retirada la collita, de la *devesa*, un bé apartat del gaudi comú. També hi recull dues mencions antigues: «la coltia de Vila», en un camp venut a Encamp el 1580, i «la devesa del Mas del Solà», en un document del 1551."},{"role":"user","content":"Se sap on eren exactament aquests dos llocs?"},{"role":"assistant","content":"No amb precisió. La fitxa situa a Encamp el camp anomenat «la coltia de Vila», però no localitza amb més detall cap dels dos indrets ni confirma si aquests noms encara s’utilitzen."}]}
+```
+
+La pregunta comença amb una confusió plausible entre dos termes. La resposta els
+distingeix i contextualitza les atestacions. El seguiment pregunta per una dada
+que la resposta acaba d’introduir, i la resposta conserva el límit documental.
+
 ## Evitar
 
 - «Què explica la secció X?» o «Què indica aquesta fila?» — demanen navegar
