@@ -1,5 +1,5 @@
 {
-  "conversations": 66,
+  "conversations": 67,
   "document_coverage": {
     "temes/costums/calendari-festiu/calendari-festiu-index-de-fitxes.md": {
       "evidence_units": 7,
@@ -12758,10 +12758,10 @@
       "evidence_units": 80,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 57,
-      "remaining_unrepresented": 23,
+      "mentioned_in_review": 59,
+      "remaining_unrepresented": 21,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 57
+      "rights_pending_or_restricted": 59
     },
     "temes/territori/geografia-fisica/en-la-ubaga-tot-hom-hi-pot-anar.md": {
       "evidence_units": 135,
@@ -12794,10 +12794,10 @@
       "evidence_units": 89,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 0,
-      "remaining_unrepresented": 89,
+      "mentioned_in_review": 7,
+      "remaining_unrepresented": 82,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 0
+      "rights_pending_or_restricted": 7
     },
     "temes/territori/geografia-fisica/la-ratlla-passa-a-laltra-banda-de-laigua.md": {
       "evidence_units": 92,
@@ -13299,15 +13299,15 @@
   "evidence_units": 87339,
   "evidence_units_explicitly_excluded": 0,
   "evidence_units_export_ready": 0,
-  "evidence_units_mentioned_in_review": 270,
-  "evidence_units_remaining_unrepresented": 87069,
+  "evidence_units_mentioned_in_review": 279,
+  "evidence_units_remaining_unrepresented": 87060,
   "evidence_units_with_redistributable_review_draft": 110,
   "export_ready_records": 0,
   "human_reviewed_records": 0,
-  "provenance_rows": 66,
+  "provenance_rows": 67,
   "records_by_redistribution": {
     "allowed": 31,
-    "pending": 35
+    "pending": 36
   },
   "scope": "docs/temes structural evidence; review mentions are not training approval",
   "stale_evidence_reference_count": 0,
@@ -14428,10 +14428,10 @@
       "evidence_units": 865,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 110,
-      "remaining_unrepresented": 755,
+      "mentioned_in_review": 119,
+      "remaining_unrepresented": 746,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 110
+      "rights_pending_or_restricted": 119
     },
     "temes/territori/paisatge-construit": {
       "documents": 6,
