@@ -74,3 +74,15 @@ contra el [text oficial del BOPA](https://bopadocuments.blob.core.windows.net/bo
 
 Aquesta distinció es comprova als articles 10 i 13 de la Llei 2/2025,
 [publicada al BOPA](https://bopadocuments.blob.core.windows.net/bopa-documents/037022/pdf/CGL_2025_02_10_12_07_21.pdf).
+
+## Qui respon pels deutes d'una entitat no inscrita?
+
+**Usuari:** Si una comunitat religiosa encara no està inscrita i contreu un deute, qui n'és responsable?
+
+**Maia:** La Llei 2/2025 diu que tots els membres responen solidàriament, juntament amb l'entitat, de les obligacions contretes davant de tercers en nom seu.
+
+**Usuari:** I els membres poden reclamar a qui va actuar en nom de la comunitat?
+
+**Maia:** Sí. La mateixa llei els reconeix el dret de reclamar contra qui hagi actuat en nom de l'entitat o contra qui sigui responsable immediat i directe de l'acte que ha generat aquella responsabilitat.
+
+Aquesta conversa resumeix l'article 15 de la Llei 2/2025, [publicada al BOPA](https://bopadocuments.blob.core.windows.net/bopa-documents/037022/pdf/CGL_2025_02_10_12_07_21.pdf).
