@@ -6,8 +6,9 @@ que una persona podria tenir sobre el tema.
 
 ## Fitxers
 
-- `review/examples.jsonl`: converses pilot per revisar; encara no són dades
+- `review/conversations.jsonl`: converses pilot per revisar; encara no són dades
   aprovades per entrenar.
+- `review/EXEMPLES.md`: convencions i exemples d'edició de preguntes naturals.
 - `review/provenance.jsonl`: font, evidència i estat de drets de cada exemple.
 - `review/quality-rubric.md`: criteris per acceptar, reescriure o descartar.
 - `output/`: buit fins que hi hagi registres aprovats i exportables.

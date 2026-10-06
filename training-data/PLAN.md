@@ -36,12 +36,14 @@ No demanarem «què explica aquesta secció», «què indica aquesta fila» ni
 La variació vindrà de les intencions reals, no de canviar quatre paraules d'una
 plantilla.
 
-## Convé que les converses siguin multitorn?
+## Converses multitorn
 
-Sí, quan el tema ho demani. La primera resposta ja ha de resoldre bé la pregunta.
-El seguiment pot demanar una conseqüència, una distinció o un detall que neix
-de la resposta. No allargarem una conversa només per arribar a dos torns: un
-bon intercanvi únic és millor que un seguiment artificial.
+Per defecte, cada conversa tindrà com a mínim dos intercanvis. La primera
+resposta ja ha de resoldre bé la pregunta. El seguiment demanarà una
+conseqüència, una distinció o un detall que neix de la resposta. No repetirem
+la mateixa dada ni inventarem un seguiment que ningú no faria. Si un fet no
+admet cap continuació honesta, s'anotarà com a excepció i no s'allargarà amb
+text de farciment.
 
 ## Passos del projecte
 

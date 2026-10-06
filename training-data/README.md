@@ -17,7 +17,8 @@ training-data/
 ├── knowledge/
 │   ├── README.md
 │   ├── review/
-│   │   ├── examples.jsonl
+│   │   ├── conversations.jsonl
+│   │   ├── EXEMPLES.md
 │   │   ├── provenance.jsonl
 │   │   └── quality-rubric.md
 │   └── output/README.md
@@ -27,7 +28,7 @@ training-data/
     └── output/README.md
 ```
 
-Cada línia de `examples.jsonl` té el format de conversa que pot acabar al
+Cada línia de `conversations.jsonl` té el format de conversa que pot acabar al
 dataset. La traça, l'estat de revisió i les notes editorials van en fitxers
 paral·lels; mai dins del JSONL d'entrenament.
 
