@@ -34,3 +34,17 @@ drets són a `provenance.jsonl`.
 
 Abans d'exportar-les encara cal una revisió editorial final i comprovar que
 l'atribució i les condicions CC BY-SA 4.0 es conservaran en el conjunt derivat.
+
+## Una garantia i un tràmit diferents
+
+**Usuari:** Una comunitat religiosa petita ha de tenir vint membres abans de poder reunir-se per fer culte a Andorra?
+
+**Maia:** No. La Constitució garanteix la llibertat religiosa i de culte. El mínim de vint persones de la Llei 2/2025 és un requisit per inscriure una entitat al Registre i obtenir personalitat jurídica, no una condició per practicar la religió. Les vint persones han de ser andorranes o residents, i almenys una ha de ser major d'edat i tenir plenitud de drets.
+
+**Usuari:** I si s'hi inscriuen, què canvia?
+
+**Maia:** La inscripció dona personalitat jurídica a l'entitat. Com que ha de ser no lucrativa, també pot gaudir dels beneficis que la llei preveu per a les entitats sense ànim de lucre.
+
+Aquest registre ja ha passat una revisió editorial i de drets segons les condicions
+d'ús del BOPA. La formulació legal s'ha comprovat amb el [text oficial de la Llei
+2/2025](https://bopadocuments.blob.core.windows.net/bopa-documents/037022/pdf/CGL_2025_02_10_12_07_21.pdf).
