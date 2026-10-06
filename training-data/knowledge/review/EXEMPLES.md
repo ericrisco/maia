@@ -43,6 +43,16 @@ La pregunta comença amb una confusió plausible entre dos termes. La resposta e
 distingeix i contextualitza les atestacions. El seguiment pregunta per una dada
 que la resposta acaba d’introduir, i la resposta conserva el límit documental.
 
+## Exemple: distingir propietat i dret d’ús
+
+```json
+{"messages":[{"role":"user","content":"Si una finca era d’un particular, com podia acabar tractada com a comunal perquè hi passaven els ramats?"},{"role":"assistant","content":"La fitxa descriu un dret d’ús sobre una propietat, no un canvi automàtic de propietari. Una sentència de 1790 va considerar que un terreny no era «de guarda» perquè, un cop retirada la collita, hi passaven els pastors amb el bestiar. Que s’hi hagués sembrat durant anys no anul·lava el dret de pas i de pastura."},{"role":"user","content":"I si el propietari volia reservar-la perquè no hi entrés el bestiar?"},{"role":"assistant","content":"El decret del 1893 exigia autorització prèvia del comú parroquial per posar una terra «de guarda» i treure-la de l’ús comunal de la *peixena*. Però la fitxa distingeix aquest dret col·lectiu d’una servitud de pas privada que un veí hagués adquirit: reservar la terra no n’anul·lava necessàriament una servitud separada."}]}
+```
+
+La pregunta planteja una situació concreta. La resposta separa la propietat dels
+drets que la poden limitar. El seguiment pregunta què podia fer el propietari;
+la resposta inclou el límit que encara podia continuar vigent.
+
 ## Evitar
 
 - «Què explica la secció X?» o «Què indica aquesta fila?» — demanen navegar
