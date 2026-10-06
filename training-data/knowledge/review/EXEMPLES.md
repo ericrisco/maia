@@ -54,3 +54,10 @@ de premsa amb redistribució no permesa.
 
 Les converses acumulades a `conversations.jsonl` continuen en estat d'esborrany.
 Cal revisar-les amb aquesta mateixa llista, una per una.
+
+## Mostres del nou enfocament
+
+`human-dialogues/conversations.jsonl` recull tres converses completes per
+revisar la naturalitat i els seguiments. `human-dialogues/provenance.jsonl`
+registra fonts i límits de reutilització. La mostra no és un lot aprovat: tots
+els registres continuen pendents de revisió humana i de drets.

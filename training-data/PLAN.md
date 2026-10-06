@@ -11,6 +11,30 @@ La cobertura continua sent exhaustiva. No vol dir convertir cada fragment en una
 pregunta. Cada fet útil ha d'estar cobert per una conversa que algú podria dir en
 veu alta, o quedar exclòs amb un motiu verificable.
 
+## Redisseny de les converses després del primer pilot
+
+El pilot va demostrar que cobrir fragments no garanteix una conversa útil. Es
+retira com a patró qualsevol pregunta que necessiti tenir la fitxa al davant:
+«Què explica la secció…?», «Què indica aquesta fila?» o «I dos topònims que en
+surten:». La persona ha de poder fer la pregunta sense saber com està organitzat
+el document.
+
+El nou punt de partida és una situació conversacional: una confusió entre dues
+xifres, una afirmació que sembla contradictòria, un cas concret o una pregunta
+que surt de la resposta anterior. La primera resposta resol el dubte; el
+seguiment, si n'hi ha, reprèn un detall i avança la conversa. No s'allarguen els
+diàlegs per quota: cada torn ha d'aportar una pregunta nova i plausible.
+
+Les primeres mostres revisables són a
+`knowledge/review/human-dialogues/`. Són material editorial, no exportable:
+cal validar-les amb una persona i resoldre els drets de les fonts abans de fer-les
+servir. Els 74 registres anteriors continuen en quarantena editorial fins que es
+revisin, reescriguin o rebutgin amb motiu.
+
+Aquesta pauta de conversa s'aplica a **Maia Knowledge**. **Maia Language** no
+rep preguntes generades: conserva només diàlegs o torns humans que ja siguin
+presents en material elegible, amb els drets i la transcripció verificats.
+
 ## Prioritat nova: naturalitat abans de volum
 
 El pilot anterior va confondre cobertura amb convertir títols, seccions, files i

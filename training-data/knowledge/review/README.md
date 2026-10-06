@@ -8,3 +8,8 @@
 Cap conversa no passa a `output/` sense revisió de contingut, naturalitat i
 drets. Els exemples amb drets pendents o incompatibles serveixen només per
 discutir l'edició.
+
+Les mostres del nou enfocament són a `human-dialogues/`. Aquesta carpeta conté
+converses editorials completes i la seva traça; encara no són aprovades ni
+exportables. `conversations.jsonl` continua sent el lot antic que cal auditar
+registre per registre.
