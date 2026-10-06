@@ -22,7 +22,7 @@ La cobertura és per document citat i és només un límit inferior: una cita no
 | `economia` | 95 | 0 | 95 |
 | `esports` | 272 | 0 | 272 |
 | `gastronomia` | 15 | 0 | 15 |
-| `historia` | 226 | 0 | 226 |
+| `historia` | 226 | 1 | 225 |
 | `institucions` | 338 | 1 | 337 |
 | `llengua` | 43 | 0 | 43 |
 | `persones` | 43 | 0 | 43 |
@@ -31,7 +31,7 @@ La cobertura és per document citat i és només un límit inferior: una cita no
 | `territori` | 49 | 0 | 49 |
 | `vida-quotidiana` | 11 | 0 | 11 |
 
-**Total:** 1348 fitxes article; **6** tenen almenys una conversa citada i **1342** encara no en tenen.
+**Total:** 1348 fitxes article; **7** tenen almenys una conversa citada i **1341** encara no en tenen.
 
 ## Límits
 
