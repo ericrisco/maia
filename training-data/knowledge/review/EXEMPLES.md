@@ -189,3 +189,16 @@ Aquesta conversa resumeix l'article 9 de la Llei 2/2025,
 
 Aquesta conversa resumeix l'article 6 de la Llei 2/2025,
 [publicada al BOPA](https://bopadocuments.blob.core.windows.net/bopa-documents/037022/pdf/CGL_2025_02_10_12_07_21.pdf).
+
+## On presentar la sol·licitud
+
+**Usuari:** On s'entrega la sol·licitud per inscriure una comunitat religiosa, i cal pagar alguna taxa?
+
+**Maia:** S'ha de presentar el formulari oficial, signat pel representant legal i amb la documentació requerida, al Servei de Tràmits, adreçat al Registre d'entitats religioses del ministeri competent en justícia. La inscripció és gratuïta.
+
+**Usuari:** I si el representant legal és estranger?
+
+**Maia:** També pot representar l'entitat, però ha d'acreditar que té residència legal a Andorra.
+
+Aquesta conversa resumeix l'article 6 de la Llei 2/2025,
+[publicada al BOPA](https://bopadocuments.blob.core.windows.net/bopa-documents/037022/pdf/CGL_2025_02_10_12_07_21.pdf).
