@@ -1,30 +1,28 @@
 {
   "decision_reasons": {
-    "human_review_required": 84
+    "human_review_required": 3
   },
-  "evidence_explicitly_excluded": 17029,
-  "evidence_referenced_by_review_drafts": 300,
+  "evidence_explicitly_excluded": 17031,
+  "evidence_referenced_by_review_drafts": 6,
   "evidence_represented_by_approved_records": 0,
   "evidence_units": 87339,
-  "evidence_unresolved": 70310,
+  "evidence_unresolved": 70308,
   "export_ready_records": 0,
   "markdown_errors": 0,
   "processed_documents": 1477,
-  "records_in_review": 84,
-  "records_requiring_human_review": 84,
+  "records_in_review": 3,
+  "records_requiring_human_review": 3,
   "scope": "all Markdown documents and structural evidence under docs/temes/",
   "source_redistribution_states_in_review": {
-    "no": 5,
-    "si": 90,
-    "si (document públic)": 2
+    "pendent; CC BY-SA 4.0, atribució, compartir igual i compatibilitat amb l’entrenament per resoldre": 3
   },
   "topic_coverage": {
     "temes/costums": {
       "documents": 34,
       "evidence_units": 1335,
-      "excluded": 290,
+      "excluded": 291,
       "represented": 0,
-      "unresolved": 1045
+      "unresolved": 1044
     },
     "temes/cultura": {
       "documents": 83,
@@ -36,9 +34,9 @@
     "temes/economia": {
       "documents": 104,
       "evidence_units": 7911,
-      "excluded": 1378,
+      "excluded": 1379,
       "represented": 0,
-      "unresolved": 6533
+      "unresolved": 6532
     },
     "temes/esports": {
       "documents": 280,

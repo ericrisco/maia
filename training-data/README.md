@@ -5,11 +5,12 @@
 - **Knowledge** ensenya a respondre preguntes reals sobre Andorra amb informació documentada.
 - **Language** conserva català andorrà contemporani produït per persones.
 
-La regla editorial central és simple: cada conversa ha de sonar com una interacció que podria passar entre una persona curiosa i un assistent útil. No convertim títols, seccions o paràgrafs en preguntes automàtiques.
+Per a Knowledge, cada conversa ha de començar d'un dubte que algú podria tenir sense haver obert la font. No convertim títols, apartats, taules o paràgrafs en preguntes automàtiques. El criteri i les mostres són a `knowledge/review/EXEMPLES.md`.
 
 ## Estructura
 
-- `knowledge/review/`: converses candidates per revisar i fitxer de procedència.
+- `knowledge/review/`: converses candidates, rúbrica editorial i procedència.
+- `knowledge/review/quarantine/`: registres antics preservats, fora del lot actiu.
 - `knowledge/output/`: futurs `train.jsonl`, `validation.jsonl` i `test.jsonl`; no s'hi exporta res fins que passi la revisió i els drets.
 - `knowledge/reports/`: cobertura i controls editorials.
 - `language/review/`: fragments i converses candidates extrets de parla elegible.
@@ -17,6 +18,6 @@ La regla editorial central és simple: cada conversa ha de sonar com una interac
 - `language/reports/`: elegibilitat, exclusions i cobertura de Language.
 - `PLAN.md`: procés de creació, criteris i pròxims passos.
 
-Cada línia JSONL és una conversa amb missatges alternats `user` i `assistant`. Les notes de revisió i la procedència van en fitxers separats, mai dins dels missatges d'entrenament.
+Cada línia JSONL és una conversa completa amb missatges alternats `user` i `assistant`. Les notes de revisió i la procedència van en fitxers separats, mai dins dels missatges d'entrenament.
 
-Els exemples actuals són un pilot editorial. No són aprovació de drets ni dades llestes per entrenar.
+`knowledge/review/conversations.jsonl` conté tres mostres editorials per acordar l'estàndard. No són aprovades ni llestes per entrenar. Les carpetes `output/` són deliberadament buides fins que hi hagi registres revisats i drets compatibles amb l'ús final.
