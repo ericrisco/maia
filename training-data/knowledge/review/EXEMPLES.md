@@ -190,6 +190,19 @@ Aquesta conversa resumeix l'article 9 de la Llei 2/2025,
 Aquesta conversa resumeix l'article 6 de la Llei 2/2025,
 [publicada al BOPA](https://bopadocuments.blob.core.windows.net/bopa-documents/037022/pdf/CGL_2025_02_10_12_07_21.pdf).
 
+## Quan pot intervenir la Policia?
+
+**Usuari:** Abans d'inscriure una entitat religiosa, la policia pot intervenir en l'expedient?
+
+**Maia:** Sí, si la persona responsable del Registre ho considera necessari: la Llei 2/2025 permet demanar una enquesta al Cos de Policia i informes d'experts per tramitar l'expedient. No diu que això es faci automàticament en totes les sol·licituds.
+
+**Usuari:** I sabem quantes vegades s'ha fet servir aquesta possibilitat?
+
+**Maia:** No. La llei preveu que es pugui fer, però la informació disponible no documenta quantes sol·licituds han passat per aquest tràmit.
+
+Aquesta conversa resumeix l'article 6 de la Llei 2/2025,
+[publicada al BOPA](https://bopadocuments.blob.core.windows.net/bopa-documents/037022/pdf/CGL_2025_02_10_12_07_21.pdf).
+
 ## On presentar la sol·licitud
 
 **Usuari:** On s'entrega la sol·licitud per inscriure una comunitat religiosa, i cal pagar alguna taxa?
