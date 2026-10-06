@@ -1,10 +1,5 @@
 # Revisió de Maia Knowledge
 
-`conversations.jsonl` conté les mostres actuals per revisar. `provenance.jsonl`
-conté l'evidència i la traça de drets corresponents, una línia per conversa.
-`EXEMPLES.md` defineix la revisió de naturalitat i mostra diàlegs orientatius.
-`quarantine/` conserva els pilots i registres anteriors perquè es puguin
-recuperar o auditar; no són part del lot actiu.
+`conversations.jsonl` conté mostres candidates per acordar l'estil. `provenance.jsonl` en registra fonts, evidència, drets i hash. Les mostres encara no estan aprovades i no es poden exportar.
 
-Les mostres actuals no són aprovades ni exportables. Primer cal acordar-ne
-l'estil, revisar cada afirmació i resoldre els drets per a l'ús final.
+`EXEMPLES.md` defineix la prova de naturalitat i conté diàlegs model. `quarantine/` conserva el lot antic només per a consulta; no el copiïs a les mostres noves sense revisar cada conversa des del principi.

@@ -1,102 +1,65 @@
-# Comprovació de naturalitat per a Maia Knowledge
+# Criteris i exemples de Maia Knowledge
 
-No és un catàleg de motlles. Serveix per detectar preguntes que només sonen
-plausibles perquè hem vist la font.
+## La prova principal
 
-## Rebutja aquestes formes
+Abans d'escriure, acaba aquesta frase: **«La persona pregunta perquè vol saber…»**. Si la resposta és «perquè ho diu el títol», «perquè surt en una taula» o «perquè cal cobrir aquesta dada», no hi ha encara una pregunta humana.
 
-- «Què explica la secció “El relat”?» — depèn d'haver obert el document.
-- «Què indica aquesta fila?» — no diu quin dubte té la persona.
-- «I dos topònims que en surten:» — no és ni una pregunta completa ni una
-  continuació de conversa.
-- Una pregunta de qüestionari com «Quin any es va recuperar?» si apareix sense
-  motiu ni context i només serveix per extreure una dada.
-- Un seguiment com «Aleshores era una màscara antiga?» després que la resposta
-  ja hagi dit que és centenària.
-- Una situació inventada («si la meva família…») que ningú no necessita per
-  entendre el fet.
+La pregunta ha de tenir un motiu recognoscible fora de la font: resoldre una confusió, entendre una xifra, comparar dues opcions, saber què implica una dada o aclarir què se sap i què no. No inventis context personal només per fer més teatral una pregunta.
 
-Canviar dues paraules no arregla una pregunta artificial. La conversa sencera
-ha de tenir un motiu recognoscible.
+## Com ha d'avançar el diàleg
 
-## Mostres editorials
+- Respon primer el dubte principal.
+- Dona el context mínim que evita una lectura equivocada.
+- Fes un seguiment només quan una resposta naturalment el provoqui.
+- El seguiment ha de demanar informació nova. No facis repetir la mateixa resposta.
+- Atura't tan bon punt s'ha resolt el dubte.
+- Escriu com parlaries amb algú, no com si dictessis una fitxa.
 
-Aquestes mostres il·lustren dubtes situats, seguiments útils i límits explícits.
-No són frases per copiar com a plantilla. La llengua ha de variar amb el tema i
-amb la manera com la persona arriba a la pregunta.
+## Mostres de treball
 
-**Calendari i informació que no consta**
+Aquestes mostres són candidates editorials, no aprovacions ni sortides d'entrenament.
 
-> —L'ossa d'Ordino no es feia per Carnaval abans? Ara la fan al desembre, oi?
+### Cost del lloguer
+
+> —M'estic mirant de venir a viure a Andorra. Amb el salari mínim, dona per pagar un lloguer?
 >
-> —Tradicionalment es representava per Carnaval. Després de recuperar-la el
-> 2017, l'Última ossa d'Ordino es fa la primera setmana de desembre.
+> —Les dades de 2025 donen una idea de la pressió: els habitatges de lloguer on la gent feia menys d'un any que hi vivia costaven de mitjana 895,28 € al mes. Això equivalia al 61,9% del salari mínim mensual. És una mitjana, però no diu si una llar concreta se'n sortirà un cop comptades les altres despeses.
 >
-> —Saps per què la van passar al desembre?
+> —Aleshores, un pis que es lloga ara costa uns 895 euros?
 >
-> —La informació recollida explica quan es feia abans i quin calendari té ara,
-> però no diu per què es va canviar.
+> —No necessàriament. Els 895,28 € són la mitjana dels habitatges on els residents feia menys d'un any que hi vivien. No és el preu de cada pis ni una llista d'ofertes actuals.
 
-La pregunta inicial resol una confusió que es pot tenir sense llegir la font.
-El seguiment demana una causa diferent; la resposta no se la inventa.
+El primer dubte és pràctic. El seguiment comprova si la mitjana descriu cada pis. La resposta corregeix aquesta lectura i manté l'any de referència.
 
-**Un detall concret i una inferència que la font no permet**
+### Dues xifres de població
 
-> —A Ordino encara fan servir la mateixa màscara de l'ossa?
+> —Quan miro les dades de població d'Andorra, de vegades surten dos totals. Per què n'hi ha un de registrat i un d'estimat?
 >
-> —Sí. És un cap d'os dissecat, descrit com a centenari i transmès de generació
-> en generació. Es va continuar fent servir després de reprendre la festa el
-> 2017.
+> —El registrat suma les inscripcions dels censos comunals. L'estimat el calcula Estadística contrastant aquests censos amb altres registres administratius, per aproximar quanta gent resideix al país. Són dos recomptes fets amb mètodes diferents.
 >
-> —I la disfressa sencera també és tan antiga?
+> —I quin dels dos em diu quanta gent viu realment aquí?
 >
-> —Això no ho sabem per aquesta descripció. Només diu que, a més de la màscara,
-> s'hi fan servir pells de corders.
+> —L'estimat s'utilitza per aproximar la població resident, però no és un recompte exacte de cada persona. La metodologia diu que només s'acosta fins on és possible al concepte de residència habitual. Per exemple, el 31 de juliol de 2026 hi constaven 94.596 persones registrades i 90.021 d'estimades; sempre cal mirar la data de referència.
 
-El seguiment és plausible, però separa l'edat de la màscara de la resta de la
-disfressa. La resposta respecta aquest límit.
+La persona vol entendre xifres que troba en llocs diferents. El seguiment aclareix què vol dir «estimat». La resposta no presenta cap dels dos totals com un recompte perfecte i data l'exemple.
 
-**Orientació pràctica amb dues festes diferents**
+## Exemples que cal rebutjar
 
-> —Em pensava que l'ossa només es feia a Encamp. També es conserva a Ordino?
->
-> —Sí. A Ordino es conserva l'Última ossa, que es fa la primera setmana de
-> desembre. A Encamp es manté el ball de l'ossa, dilluns de Carnaval.
->
-> —Són dues versions diferents de la mateixa festa?
->
-> —La informació les presenta com les dues manifestacions que encara perviuen
-> de la tradició de l'ossa; no les descriu com la mateixa representació.
+- «Què explica la secció “El relat”?» — depèn d'haver obert la fitxa.
+- «Què indica aquesta fila?» — no identifica cap dubte.
+- «Quan va passar X?» sense context, si només repeteix una cel·la i no serveix una necessitat clara.
+- «I què més?» — no diu què vol saber i no fa avançar el diàleg.
+- Un seguiment que torna a preguntar el que la resposta ja ha contestat.
 
-El diàleg parteix d'una confusió sobre on es conserva la tradició i aclareix la
-relació entre els dos llocs sense afirmar que les representacions siguin
-idèntiques. No cal afegir una pregunta sobre coreografia o personatges si la
-persona no hi ha mostrat interès.
+Canviar paraules no fa natural una pregunta artificial. Si no trobes un motiu humà, descarta la dada com a pregunta autònoma i representa-la en una conversa més àmplia només si encaixa de debò.
 
-## Llista de revisió
+## Revisió abans d'afegir una mostra
 
-Llegeix el diàleg sencer i pregunta't:
+1. La pregunta sonaria normal sense tenir la fitxa oberta?
+2. Entenc per què la persona ho pregunta?
+3. La resposta contesta al principi i s'entén tota sola?
+4. Cada fet és fidel a l'evidència i conserva la data o el matís necessari?
+5. El seguiment neix de la resposta i aporta una cosa nova?
+6. Diria aquest diàleg en veu alta sense que sonés com un examen?
 
-1. Ho podria preguntar algú que no sap com està organitzada la font?
-2. Hi ha una raó clara per fer aquesta pregunta ara?
-3. La resposta comença pel que la persona vol saber?
-4. S'entén sense la font oberta i sense informació interna del pipeline?
-5. Cada afirmació es pot rastrejar fins a l'evidència indicada?
-6. La resposta diferencia el que consta del que no consta?
-7. El seguiment demana alguna cosa nova que realment neix del torn anterior?
-8. Ho diria així una persona? Llegeix-ho en veu alta.
-
-Si falla una de les quatre primeres comprovacions, reescriu o descarta.
-Si només falla el seguiment, acaba el diàleg abans. No hi ha una llargada
-mínima ni quota de tipus de pregunta.
-
-## Estat i ús
-
-`conversations.jsonl` és el lot actiu en revisió; `provenance.jsonl` en registra
-les fonts, l'evidència, els drets i el hash dels missatges. Cap mostra d'aquí no
-és automàticament una aprovació humana ni pot passar a `output/` sense revisar
-contingut, drets i condicions d'ús del model final.
-
-Les mostres provenen de la Viquipèdia en català sota CC BY-SA 4.0. Cal conservar
-l'atribució i resoldre com s'aplica l'obligació de compartir igual al conjunt
-final abans de publicar-lo o utilitzar-lo.
+Si falla una de les sis, reescriu o descarta. Si només falla el seguiment, elimina'l. No cal que totes les converses siguin multitorn.
