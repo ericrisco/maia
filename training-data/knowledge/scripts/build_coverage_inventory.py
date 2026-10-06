@@ -45,19 +45,44 @@ def document_counts(text: str) -> dict[str, int]:
             "list_items": bullets, "markdown_links": links}
 
 
+def font_ids(value: str) -> list[str]:
+    return [part.strip().strip("[]\"'") for part in value.strip().strip("[]").split(",") if part.strip()]
+
+
 def main() -> None:
     docs: list[dict[str, object]] = []
     for path in sorted(DOCS.rglob("*.md")):
         text = path.read_text(encoding="utf-8")
         meta = frontmatter(text)
         rel = path.relative_to(ROOT).as_posix()
+        ids = font_ids(meta.get("font", ""))
+        source_rights = []
+        for font_id in ids:
+            font_path = ROOT / "docs" / "fonts" / f"{font_id}.md"
+            font_meta = frontmatter(font_path.read_text(encoding="utf-8")) if font_path.exists() else {}
+            source_rights.append({
+                "font_id": font_id,
+                "redistribution": font_meta.get("redistribucio", "missing"),
+                "license": font_meta.get("llicencia", "missing"),
+            })
+        statuses = {str(r["redistribution"]) for r in source_rights}
+        if not source_rights or "missing" in statuses:
+            rights_triage = "missing"
+        elif "no" in statuses:
+            rights_triage = "no"
+        elif "pendent" in statuses or "unknown" in statuses:
+            rights_triage = "pending"
+        else:
+            rights_triage = "yes"
         docs.append({
             "path": rel,
             "kind": meta.get("type", "unknown"),
             "title": meta.get("title", path.stem),
             "topic": meta.get("tema", ""),
             "theme": path.relative_to(DOCS).parts[0],
-            "font_ids": [part.strip() for part in meta.get("font", "").split(",") if part.strip()],
+            "font_ids": ids,
+            "source_rights_from_frontmatter": source_rights,
+            "rights_triage_from_frontmatter": rights_triage,
             "counts": document_counts(text),
         })
 
@@ -73,8 +98,10 @@ def main() -> None:
     article_docs = [d for d in docs if d["kind"] == "article"]
     cited = {d["path"] for d in article_docs if d["path"] in source_docs}
     by_theme: dict[str, list[dict[str, object]]] = defaultdict(list)
+    by_rights: dict[str, list[dict[str, object]]] = defaultdict(list)
     for doc in article_docs:
         by_theme[str(doc["theme"])].append(doc)
+        by_rights[str(doc["rights_triage_from_frontmatter"])].append(doc)
 
     INVENTORY.parent.mkdir(parents=True, exist_ok=True)
     INVENTORY.write_text(json.dumps({"documents": docs}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
@@ -105,6 +132,17 @@ def main() -> None:
     for theme, items in sorted(by_theme.items()):
         covered = sum(1 for d in items if d["path"] in cited)
         lines.append(f"| `{theme}` | {len(items)} | {covered} | {len(items) - covered} |")
+    lines += [
+        "",
+        "## Tria inicial de drets a la font principal declarada",
+        "",
+        "Aquesta tria només mira el camp `font` de la capçalera i la seva fitxa a `docs/fonts/`. No comprova totes les fonts citades al cos, ni substitueix una revisió de drets per registre.",
+        "",
+        "| Estat declarat | Fitxes |",
+        "|---|---:|",
+    ]
+    for status in ("yes", "no", "pending", "missing"):
+        lines.append(f"| `{status}` | {len(by_rights[status])} |")
     lines += [
         "",
         f"**Total:** {total} fitxes article; **{len(cited)}** tenen almenys una conversa citada i **{total - len(cited)}** encara no en tenen.",

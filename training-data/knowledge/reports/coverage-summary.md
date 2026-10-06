@@ -31,6 +31,17 @@ La cobertura és per document citat i és només un límit inferior: una cita no
 | `territori` | 49 | 0 | 49 |
 | `vida-quotidiana` | 11 | 0 | 11 |
 
+## Tria inicial de drets a la font principal declarada
+
+Aquesta tria només mira el camp `font` de la capçalera i la seva fitxa a `docs/fonts/`. No comprova totes les fonts citades al cos, ni substitueix una revisió de drets per registre.
+
+| Estat declarat | Fitxes |
+|---|---:|
+| `yes` | 635 |
+| `no` | 108 |
+| `pending` | 604 |
+| `missing` | 1 |
+
 **Total:** 1348 fitxes article; **7** tenen almenys una conversa citada i **1341** encara no en tenen.
 
 ## Límits
