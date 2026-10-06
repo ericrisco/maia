@@ -163,3 +163,16 @@ Aquesta conversa resumeix els criteris de l'article 3 de la Llei 2/2025,
 **Maia:** Dos anys des que la Llei 2/2025 va entrar en vigor. El Portal Jurídic situa l'entrada en vigor el 19 d'agost del 2025; per tant, el termini de dos anys arriba al 19 d'agost del 2027.
 
 La data vigent s'ha comprovat a la [fitxa de situació del Portal Jurídic](https://portaljuridicandorra.ad/L2025002_F); la disposició transitòria i l'entrada en vigor consten al [text oficial de la llei](https://bopadocuments.blob.core.windows.net/bopa-documents/037022/pdf/CGL_2025_02_10_12_07_21.pdf).
+
+## La documentació d'una entitat estrangera
+
+**Usuari:** Una comunitat religiosa d'origen estranger es pot inscriure al registre d'Andorra? Què ha d'acreditar?
+
+**Maia:** Sí, si compleix els requisits generals. A més, ha d'aportar una certificació registral actualitzada del país d'origen amb la identitat dels representants legals i dels designats a Andorra, i acreditar que l'entitat està legalment reconeguda en aquell país.
+
+**Usuari:** Els documents estrangers es poden presentar tal com són?
+
+**Maia:** No. La Llei 2/2025 exigeix que els documents estrangers es presentin degudament legalitzats, postil·lats i traduïts a la llengua oficial del Principat. També estableix que els documents requerits s'han d'elevar a escriptura pública.
+
+Aquesta conversa resumeix l'article 9 de la Llei 2/2025,
+[publicada al BOPA](https://bopadocuments.blob.core.windows.net/bopa-documents/037022/pdf/CGL_2025_02_10_12_07_21.pdf).
