@@ -1,3 +1,4 @@
-# Espai de treball
+# Preparació de Language
 
-Inventaris i anotacions de les peces de parla. No són dades entrenables.
+Àrea per inventaris i fragments temporals de `docs/parla/`. No inclogueu una
+transcripció com a senyal lingüística fins a revisar fiabilitat i drets.

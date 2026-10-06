@@ -1,5 +1,12 @@
 # Maia Knowledge
 
-Converses d'assistent sobre Andorra, redactades a partir de `docs/temes/` i verificades contra les fonts del corpus.
+Entrena respostes factuals sobre Andorra a partir de `docs/temes/`. Cada
+conversa candidate ha de tenir una raó humana per existir, una resposta
+comprovada i procedència separada. Consulta [els exemples](review/EXEMPLES.md)
+abans d'afegir registres.
 
-`review/` conté el pilot editorial i la procedència. Aquests registres encara no s'han aprovat per exportar. `output/` resta buit fins que hi hagi revisió factual, editorial i de drets.
+- `review/`: candidats editorials i fonts que els sustenten.
+- `work/`: inventari i dades temporals de preparació.
+- `output/`: exportacions aprovades; ara buit.
+- `reports/`: cobertura, qualitat, drets i exclusions.
+- `scripts/`: eines de preparació i validació quan s'acordin.

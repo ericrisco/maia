@@ -1,3 +1,4 @@
-# Espai de treball
+# Preparació de Knowledge
 
-Inventaris i anotacions per construir Knowledge. No són dades entrenables.
+Inventaris i fitxers temporals de treball. No són dades d'entrenament i queden
+ignorats per Git, excepte aquest README.

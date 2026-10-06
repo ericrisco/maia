@@ -1,3 +1,4 @@
-# Informes
+# Informes de Maia Language
 
-Recomptes de peces revisades, incloses i excloses, amb motius i limitacions.
+Quan s'auditi `docs/parla/`, informa de peces revisades, incloses i excloses,
+fiabilitat de transcripció, drets, parlants i fragments utilitzats.

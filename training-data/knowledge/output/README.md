@@ -1,3 +1,5 @@
-# Exportacions
+# Exportacions de Maia Knowledge
 
-Encara buit. Només s'hi afegeixen registres aprovats per al seu ús previst i amb drets verificats.
+Encara no hi ha exports. Afegiu `train.jsonl`, `validation.jsonl` i `test.jsonl`
+només quan hi hagi candidats aprovats, drets comprovats, deduplicació i una
+política de separació documentada.

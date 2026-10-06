@@ -1,3 +1,5 @@
-# Informes
+# Informes de Maia Knowledge
 
-Informes de cobertura, qualitat, exclusions i drets. Cal distingir cobertura del corpus de qualitat de conversa.
+Quan comenci la producció, informa de cobertura per fitxa i unitat de
+coneixement, naturalitat, duplicats, drets pendents, registres exclosos i
+recomptes exportats. El nombre de documents amb preguntes no equival a cobertura.

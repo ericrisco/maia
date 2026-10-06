@@ -1,5 +1,9 @@
-# Candidats editorials
+# Revisió de Maia Knowledge
 
-`conversations.jsonl` és un pilot curt per calibrar naturalitat. No és un dataset aprovat. `provenance.jsonl` conté les fonts i les condicions fora dels missatges entrenables.
+`conversations.jsonl` conté una conversa per línia, amb missatges alternats
+`user` i `assistant`. `provenance.jsonl` té una fila per conversa i n'indica la
+font, l'evidència, els drets, l'atribució i l'estat editorial.
 
-Abans d'aprovar cap línia, verifica el document font, l'atribució, els drets, la resposta completa i la naturalitat del diàleg. Si la pregunta només serveix per cobrir una dada, descarta-la.
+Els registres actuals són exemples candidats. No s'han aprovat per entrenar ni
+exportar. Cada línia de conversa ha de tenir una línia de procedència amb el
+mateix `example_id`.

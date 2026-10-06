@@ -1,10 +1,10 @@
-.DS_Store
-
-# Regenerable intermediate ledgers and local exports.
-/knowledge/work/*.jsonl
-/knowledge/work/*.json
+# Generated corpora and temporary inspection data are not committed.
+**/.DS_Store
+/knowledge/work/*
+!/knowledge/work/README.md
 /knowledge/output/*.jsonl
-/language/work/*.jsonl
-/language/work/*.json
+/knowledge/reports/*.json
+/language/work/*
+!/language/work/README.md
 /language/output/*.jsonl
 /language/reports/*.json

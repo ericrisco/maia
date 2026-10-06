@@ -1,73 +1,80 @@
-# Pla per crear converses útils
+# Pla editorial del dataset
 
 ## Objectiu
 
-Fer que Maia respongui com un assistent útil sobre Andorra i, per separat, preservar llengua andorrana autèntica. La qualitat d'una conversa importa més que el nombre de registres.
+Crear exemples que ensenyin Maia a respondre preguntes que una persona faria
+realment. El valor és que la conversa resolgui un dubte, no que esmenti cada
+apartat del corpus. Cobertura i naturalitat es revisen alhora, però cap dada
+no s'ha de convertir en una pregunta forçada per poder marcar-la com a coberta.
 
-## El problema que aquest pla evita
+## Com escriure una conversa de Knowledge
 
-Una fitxa, un títol o una fila de taula no són una conversa. Preguntes com «què explica la secció…?», «què indica aquesta fila?» o una pregunta genèrica feta només per cobrir una dada depenen del document i no representen el que acostuma a preguntar una persona.
+1. Llegeix la fitxa sencera i segueix els enllaços necessaris. Revisa correccions,
+   excepcions, desacords, límits temporals i buits.
+2. Tria una idea concreta que resolgui un dubte humà: una confusió habitual,
+   una decisió pràctica, una dada sorprenent o una curiositat amb context.
+3. Escriu la pregunta sense fer veure que la persona ha llegit la fitxa. Afegeix
+   només el context que li caldria per fer-se entendre.
+4. Contesta el dubte de seguida. Escriu com parlaria un assistent: clar, breu i
+   sense repetir l'estructura, els títols ni les frases de la font.
+5. Continua només si la resposta desperta una pregunta següent concreta. El
+   seguiment ha de dependre del que s'acaba de dir. Una conversa pot tenir un
+   sol intercanvi; no hi ha quota de torns.
+6. Comprova cada fet, xifra i matís contra les fonts. Digues qui sosté una
+   interpretació quan no és un fet establert. Conserva les discrepàncies i la
+   incertesa en llenguatge planer.
+7. Llegeix tota la conversa en veu alta. Si sona com un examen, una cerca dins
+   d'un document o un qüestionari generat, reescriu-la o descarta-la.
+8. Desa la conversa i la procedència en fitxers separats. Revisa llicència,
+   atribució i permís d'ús abans d'exportar-la.
 
-## Maia Knowledge
+### Multitorn natural
 
-Font factual: `docs/temes/`, amb les fonts originals i els registres de `docs/fonts/` i `docs/raw/`.
+Un bon fil fa un pas recognoscible: aclarir una paraula, entendre una
+conseqüència, preguntar pel lloc o el moment, o comprovar una possible
+confusió. No facis que l'usuari pregunti successivament per cada dada de la
+fitxa. No afegeixis una pregunta del tipus «i què més?» només per allargar el
+registre. No inventis biografia ni experiències personals per fer-lo semblar
+real.
 
-Per crear una conversa:
+### Rebutja o reescriu
 
-1. Llegeix el document i comprova la font citada, les correccions, les contradiccions i els buits.
-2. Escriu en privat quin dubte pràctic, curiositat o confusió resoldria aquesta informació.
-3. Formula la pregunta com la diria algú que no té el document al davant. Dona el context mínim perquè s'entengui.
-4. Respon primer el dubte. Afegeix només el context necessari. No copiïs l'estructura de la fitxa.
-5. Afegeix un altre torn d'usuari només si la resposta anterior li dona un motiu clar per preguntar una cosa nova. Si no, acaba la conversa.
-6. Comprova cada afirmació amb l'evidència. Conserva la incertesa amb paraules normals. No converteixis una llegenda, una inferència o una dada antiga en certesa actual.
-7. Llegeix tota la conversa en veu alta. Si sona com un examen, una cerca dins d'un document o un formulari, reescriu-la o descarta-la.
-8. Registra separadament les fonts, els fragments de suport, la llicència, l'atribució, la revisió i la decisió d'ús.
+- «Què explica la secció…?», «què indica aquesta fila?» o preguntes que només
+  tenen sentit amb la fitxa oberta.
+- Preguntes de plantilla repetides per cobrir noms, dates i xifres sense cap
+  motiu humà.
+- Respostes que comencen amb etiquetes internes o que deixen la frase a mitges.
+- Seguiments que demanen una dada sense cap relació amb la resposta anterior.
+- Afirmacions actuals basades només en una font antiga, o certeses que esborren
+  una divergència del corpus.
 
-No cal que cada conversa sigui multitorn. Una sola pregunta ben resolta és millor que dos seguiments artificials. No inventis una experiència personal per fer una pregunta més viva.
+## Knowledge i cobertura
 
-### Prova ràpida
+Les fonts factuals són `docs/temes/` i les seves fonts originals registrades a
+`docs/fonts/` i `docs/raw/`. Quan comenci la producció, s'inventariaran fitxes,
+seccions, taules, llistes i afirmacions rellevants. Per cada peça es decidirà
+si dona lloc a una conversa útil, ja està coberta, es repeteix o no es pot usar.
+La cobertura es mesurarà sobre aquest inventari; el recompte de preguntes per
+si sol no prova que el corpus estigui ben cobert.
 
-- Ho preguntaria una persona sense veure la fitxa?
-- S'entén què vol saber i per què?
-- La resposta contesta directament i sona natural?
-- El seguiment depèn realment del que s'acaba de dir?
-- Cada fet es pot rastrejar fins a una font fiable?
-- Els drets permeten l'ús concret previst?
+## Language
 
-Un «no» a naturalitat o evidència vol dir reescriure o excloure. Un dret pendent vol dir que no s'exporta.
+`language/` només pot ensenyar llengua provinent de parlants humans identificats
+al corpus. No es redacten preguntes d'entrevistador que s'han eliminat, ni es
+converteix un monòleg en una conversa fictícia. Primer cal confirmar la
+transcripció, els drets i que l'estructura real permeti el format d'entrenament.
+Si no hi ha intercanvi humà autèntic, no es fabrica un torn d'usuari per omplir
+un JSONL de xat.
 
-## Maia Language
+## Estat i passos següents
 
-Font: `docs/parla/`, segons el contracte del corpus i els drets de cada peça. Es conserva parla humana real. No es converteixen monòlegs en preguntes i respostes inventades ni es barregen fragments de parlants diferents per fabricar diàlegs.
+1. Revisar aquests exemples i acordar el llindar de naturalitat.
+2. Construir l'inventari exhaustiu de Knowledge i registrar drets per font.
+3. Escriure i revisar converses en lots petits, sense preguntes automàtiques.
+4. Revisar exactitud, naturalitat, redundància, cobertura i drets.
+5. Exportar només registres aprovats als splits de destinació i publicar un
+   informe de cobertura i exclusions.
+6. Auditar `docs/parla/` abans de crear registres de Language.
 
-Abans d'acceptar material, cal verificar que la transcripció sigui llegible, que l'origen i el parlant siguin prou clars i que els drets cobreixin l'ús previst. Les exclusions i els motius queden registrats.
-
-## Flux de revisió
-
-1. Inventaria el corpus i les fonts sense generar preguntes automàticament.
-2. Proposa converses des de dubtes humans identificables.
-3. Revisa naturalitat, exactitud, incertesa, duplicats i drets.
-4. Desa els candidats i la seva procedència per separat a `review/`.
-5. Accepta o exclou cada candidat amb un motiu traçable.
-6. Exporta només registres aprovats per al seu destí. Mantén Knowledge i Language separats.
-7. Publica recomptes, cobertura, exclusions i limitacions. No presentis cobertura documental com si fos qualitat de conversa.
-
-## Format entrenable
-
-Una línia JSONL per conversa, amb missatges alternats:
-
-```json
-{"messages":[{"role":"user","content":"..."},{"role":"assistant","content":"..."}]}
-```
-
-Els missatges no contenen identificadors interns, notes de procedència ni estats de revisió. Aquests viuen en fitxers separats.
-
-## Estructura
-
-- `knowledge/review/`: converses factuals candidates i procedència separada.
-- `knowledge/work/`: inventari i notes de treball, no dades entrenables.
-- `knowledge/output/`: només exportacions aprovades.
-- `knowledge/reports/`: cobertura, qualitat, exclusions i drets.
-- `language/`: mateixos espais, però només per a llengua humana autèntica.
-
-Els fitxers d'exemple actuals són un pilot d'estil. Cal revisar-los abans de tractar-los com a aprovats.
+No es generen splits d'entrenament fins que hi hagi registres aprovats i una
+revisió de drets completa.

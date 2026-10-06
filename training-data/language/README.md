@@ -1,5 +1,6 @@
 # Maia Language
 
-Material de llengua andorrana real procedent de `docs/parla/`. Es preserven els parlants i el context que consten al corpus.
-
-No s'inventen preguntes ni torns de diàleg per transformar monòlegs en converses. `output/` resta buit fins que les peces i els drets estiguin revisats.
+Branca separada per a català andorrà contemporani autèntic de `docs/parla/`.
+No hi ha exemples de conversa inventats. Els monòlegs i les entrevistes sense
+preguntes transcrites no es converteixen en diàlegs ficticis. Cal revisar
+transcripció, parlant, drets i estructura de cada peça abans d'incloure-la.
