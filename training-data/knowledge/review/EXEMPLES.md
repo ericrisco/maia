@@ -24,6 +24,15 @@ drets queden a `provenance.jsonl`.
 La persona intenta entendre dues xifres que semblen xocar; el seguiment
 comprova una distinció que la primera resposta encara no ha explicat.
 
+## Exemple: una situació pràctica
+
+```json
+{"messages":[{"role":"user","content":"Som unes quantes famílies i volem inscriure una comunitat religiosa a Andorra. Cal que siguem vint-i-un i tots majors d'edat?"},{"role":"assistant","content":"No. La Llei 2/2025 fixa un mínim de vint persones físiques, andorranes o residents, i només exigeix que almenys una tingui majoria d'edat i plens drets. També han de compartir les mateixes creences religioses i de culte."},{"role":"user","content":"I si no ens inscrivim, vol dir que no podem ni reunir-nos?"},{"role":"assistant","content":"No és això el que diu la llei. La Constitució garanteix la llibertat religiosa i de culte; la inscripció, en canvi, dona personalitat jurídica. Si una entitat religiosa no inscrita actua en nom seu o contreu obligacions amb tercers, tots els membres en responen solidàriament juntament amb l'entitat, amb dret a reclamar a qui hagi actuat en nom seu o n'hagi estat responsable directe."}]}
+```
+
+La persona pregunta per un cas concret. El seguiment neix d'un possible dubte
+pràctic sobre què canvia quan no s'inscriuen. El límit legal queda explícit.
+
 ## Evitar
 
 - «Què explica la secció X?» o «Què indica aquesta fila?» — demanen navegar
