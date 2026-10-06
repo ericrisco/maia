@@ -7,7 +7,7 @@ Preparar dos conjunts separats, a partir de `docs/`:
 - **Knowledge**: respostes correctes i útils sobre Andorra, basades en `docs/temes/`.
 - **Language**: català andorrà real, extret de parla humana elegible a `docs/parla/`.
 
-Ara només fixem el format i el llindar de qualitat amb uns quants exemples. No intentem omplir el dataset ni cobrir tot el corpus en aquesta fase. Després de validar l'estil, reprendrem els registres un a un.
+L'objectiu és cobrir de manera exhaustiva el coneixement entrenable de `docs/temes/` i revisar totes les peces de `docs/parla/`. Les mostres fixen l'estil; no redueixen l'abast. Treballem document per document i pregunta per pregunta, amb una traça per conversa i un commit/push propi per registre Knowledge.
 
 ## El problema que volem evitar
 
@@ -79,12 +79,14 @@ Abans d'acceptar una conversa, pregunta:
 
 Si la pregunta sembla feta per demostrar que hem llegit la fitxa, es descarta encara que la resposta sigui certa.
 
-## Passos següents, després de validar l'estil
+## Procés de cobertura completa
 
-1. Revisar aquestes mostres i acordar quines sonen naturals.
-2. Recórrer `docs/temes/` i crear només converses que passin el filtre editorial; registrar cobertura i exclusions sense fabricar preguntes.
-3. Revisar totes les peces de `docs/parla/` segons el contracte de llengua, sense inventar diàlegs.
-4. Revisar contingut, duplicats, drets i procedència abans de separar `train`, `validation` i `test`.
-5. Exportar i informar dels recomptes, la cobertura i les limitacions.
+1. Inventariar tots els documents, seccions, taules, llistes, fets, relacions, incerteses i buits de `docs/temes/`.
+2. Reconciliar cada unitat d'evidència amb una conversa natural, una conversa ja existent, o una exclusió explícita amb motiu. Cap tema no es pot ometre en silenci.
+3. Revisar cada fitxa i crear preguntes des de necessitats recognoscibles. Una dada sense pregunta natural queda registrada com a tal; no es força una pregunta només per augmentar el recompte.
+4. Revisar totes les peces de `docs/parla/` segons el contracte de llengua. Incloure la parla humana elegible tal com s'ha produït, sense inventar diàlegs.
+5. Per cada conversa Knowledge, validar resposta i evidència, registrar drets i procedència, actualitzar cobertura, i fer-ne un commit i push separat a `main`.
+6. Revisar duplicats i agrupacions temàtiques abans de dividir en `train`, `validation` i `test`; les variants d'una mateixa font o conversa han de quedar al mateix split.
+7. Exportar només registres aprovats per al destí concret i publicar recomptes de cobertura, exclusions, drets, qualitat i limitacions.
 
-No s'exporta cap mostra fins que estigui revisada per al seu ús previst. No hi ha una quota que justifiqui converses artificials.
+No s'exporta cap mostra fins que estigui revisada per al seu ús previst. No hi ha una quota que justifiqui converses artificials, i la manca de preguntes naturals no autoritza a deixar una fitxa sense revisar ni a ometre-la del report final.
