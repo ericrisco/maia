@@ -1,12 +1,12 @@
 {
   "scope": "docs/temes/**/*.md with frontmatter type=article",
-  "conversation_candidates": 16,
+  "conversation_candidates": 17,
   "article_documents": 1348,
-  "documents_with_candidate_source": 16,
-  "documents_without_candidate_source": 1332,
+  "documents_with_candidate_source": 17,
+  "documents_without_candidate_source": 1331,
   "sections": 10536,
-  "sections_with_explicit_evidence_reference": 10,
-  "sections_without_explicit_evidence_reference": 10526,
+  "sections_with_explicit_evidence_reference": 11,
+  "sections_without_explicit_evidence_reference": 10525,
   "warning": "A source citation does not prove that all facts or sections in a document are covered.",
   "by_topic": {
     "societat/treball": {
@@ -326,8 +326,8 @@
     },
     "temes/historia/segle-xx-primera-meitat": {
       "documents": 30,
-      "documents_with_candidate_source": 0,
-      "documents_without_candidate_source": 30
+      "documents_with_candidate_source": 1,
+      "documents_without_candidate_source": 29
     },
     "temes/institucions/comuns-i-parroquies": {
       "documents": 35,
