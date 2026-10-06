@@ -1,5 +1,5 @@
 {
-  "conversations": 88,
+  "conversations": 89,
   "document_coverage": {
     "temes/costums/calendari-festiu/calendari-festiu-index-de-fitxes.md": {
       "evidence_units": 7,
@@ -86,10 +86,10 @@
       "evidence_units": 26,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 0,
-      "remaining_unrepresented": 26,
+      "mentioned_in_review": 2,
+      "remaining_unrepresented": 24,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 0
+      "rights_pending_or_restricted": 2
     },
     "temes/costums/danses/el-contrapas.md": {
       "evidence_units": 35,
@@ -13299,16 +13299,16 @@
   "evidence_units": 87339,
   "evidence_units_explicitly_excluded": 0,
   "evidence_units_export_ready": 0,
-  "evidence_units_mentioned_in_review": 405,
-  "evidence_units_remaining_unrepresented": 86934,
+  "evidence_units_mentioned_in_review": 407,
+  "evidence_units_remaining_unrepresented": 86932,
   "evidence_units_with_redistributable_review_draft": 113,
   "export_ready_records": 0,
   "human_reviewed_records": 0,
-  "provenance_rows": 88,
+  "provenance_rows": 89,
   "records_by_redistribution": {
     "allowed": 32,
     "pending": 55,
-    "prohibited": 1
+    "prohibited": 2
   },
   "scope": "docs/temes structural evidence; review mentions are not training approval",
   "stale_evidence_reference_count": 0,
@@ -13349,10 +13349,10 @@
       "evidence_units": 415,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 7,
-      "remaining_unrepresented": 408,
+      "mentioned_in_review": 9,
+      "remaining_unrepresented": 406,
       "rights_cleared_in_review": 7,
-      "rights_pending_or_restricted": 0
+      "rights_pending_or_restricted": 2
     },
     "temes/costums/falles": {
       "documents": 2,
