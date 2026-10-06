@@ -112,3 +112,16 @@ Aquesta conversa resumeix els articles 7 i 11 de la Llei 2/2025,
 
 Aquesta conversa resumeix l'article 14 de la Llei 2/2025,
 [publicada al BOPA](https://bopadocuments.blob.core.windows.net/bopa-documents/037022/pdf/CGL_2025_02_10_12_07_21.pdf).
+
+## Dades registrals i privacitat
+
+**Usuari:** Per inscriure una entitat, els membres de la junta han d'autoritzar que les seves dades constin al registre?
+
+**Maia:** La Llei 2/2025 no exigeix el consentiment explícit de les persones que formen part dels òrgans representatius i de govern d'una entitat religiosa inscrita perquè les seves dades constin al Registre. El tractament continua sotmès a la normativa de protecció de dades.
+
+**Usuari:** I qui demana una còpia pot fer-se una base de dades amb informació sobre la religió de les persones?
+
+**Maia:** No. La llei prohibeix a qui rep certificacions o còpies crear fitxers dedicats exclusivament a emmagatzemar dades personals que revelin la religió o les creences. També s'han de respectar la resta de garanties de protecció de dades.
+
+Aquesta conversa resumeix els articles 8 i 12 de la Llei 2/2025,
+[publicada al BOPA](https://bopadocuments.blob.core.windows.net/bopa-documents/037022/pdf/CGL_2025_02_10_12_07_21.pdf).
