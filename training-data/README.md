@@ -1,14 +1,12 @@
 # Maia Training Data
 
-Aquesta carpeta conté dos treballs separats. `knowledge/` prepara converses
-amb fets del corpus `docs/temes/`. `language/` preserva català andorrà real de
-`docs/parla/`. No es barregen.
+Preparació de dades de fine-tuning en dues branques separades:
 
-Knowledge ja conté un primer conjunt petit de converses revisades i exportades;
-encara no cobreix tot el corpus. Language continua pendent de l'auditoria de
-transcripcions i drets. Els registres exportats no inclouen procedència ni notes
-internes; aquestes dades es guarden al costat per poder comprovar cada exemple.
+- `knowledge/` ensenya fets sobre Andorra a partir de `docs/temes/`.
+- `language/` conserva català andorrà humà i verificable de `docs/parla/`.
 
-Segueix [PLAN.md](PLAN.md) i els exemples de naturalitat de
-[Maia Knowledge](knowledge/review/EXEMPLES.md). No exportis cap registre amb
-drets pendents o sense revisió.
+El [pla](PLAN.md) fixa com escriure converses que una persona preguntaria de
+debò. Els exemples de Knowledge són candidats de calibratge; les sortides
+`output/` només s'omplen quan una conversa ha passat la revisió factual,
+editorial i de drets. Cobrir tots els temes vol dir auditar-los, no fabricar una
+pregunta per cada paràgraf.

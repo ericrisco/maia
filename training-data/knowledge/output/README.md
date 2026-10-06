@@ -1,14 +1,12 @@
-# Maia Knowledge: dades exportades
+# Maia Knowledge: sortides
 
-Els fitxers `train.jsonl`, `validation.jsonl` i `test.jsonl` són sortides de
-`scripts/export_approved.py`. Cada línia només conté `messages`; la procedència
-i l'atribució són a `ATTRIBUTION.md` i `../review/provenance.jsonl`.
+`train.jsonl`, `validation.jsonl` i `test.jsonl` contenen només converses
+aprovades, una per línia i amb el camp `messages`. Ara són buits perquè els
+exemples de calibratge encara són candidats. No s'ha d'entrenar amb els
+candidats.
 
-L'exportació actual és parcial. Els grups de fonts assignats a un split no es
-reparteixen entre splits. Per regenerar-la, executa des de l'arrel de Maia:
+Quan hi hagi registres aprovats, es regeneren amb:
 
 ```bash
 python3 training-data/knowledge/scripts/export_approved.py
 ```
-
-Els drets i les atribucions s'han de conservar segons `ATTRIBUTION.md`.
