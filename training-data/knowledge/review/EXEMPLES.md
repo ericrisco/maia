@@ -45,6 +45,54 @@ La situació personal dóna context sense afegir una història fictícia. El seg
 | «I què més?» | Seguiment genèric, sense intenció. | Preguntar per una conseqüència concreta de la resposta anterior. |
 | Quatre variants de «Quan se celebra?» | Redundància sense nova informació. | Conservar una forma natural i cobrir altres dubtes útils. |
 
+## Reescriure els registres que semblen una consulta a la fitxa
+
+Aquests exemples parteixen de preguntes del pilot que depenien del títol d'una secció o d'una fila. Les versions noves plantegen el dubte que una persona podria tenir. Són exemples editorials: abans d'exportar-los encara cal revisar-ne els drets i la procedència.
+
+### Distingir qui demanda a qui
+
+```text
+Persona: En els plets comunals d'aquell període, s'anava al mateix tribunal tant si un particular demandava el comú com si era al revés?
+Assistent: No. La competència depèn de qui presenta la demanda: si el particular demanda el comú o un quart, l'afer va a la jurisdicció política; si el comú o el quart demanda un particular, va als tribunals ordinaris.
+Persona: I si el litigi és sobre un quart, hi ha cap recurs dins d'aquesta via?
+Assistent: Sí. En un afer d'un quart, jutja primer el consell de parròquia i es pot apel·lar al Consell General. Si la interessada és una parròquia, l'afer va directament al Consell General.
+```
+
+La conversa explica la distinció necessària per entendre la regla. No pregunta què diu una secció ni rep com a resposta només «apel·lació al Consell General».
+
+### Llegir un gràfic que discrepa del text
+
+```text
+Persona: El text diu que el castellà va tornar a avançar el català el 2018, però el gràfic sembla mostrar el contrari. Com sabem quina dada és bona?
+Assistent: El gràfic posa el català en verd a 57,6 i el castellà en morat a 56,8, però l'API d'Estadística confirma les xifres del text: 56,8 per al català i 57,6 per al castellà. En aquest punt, el gràfic tenia les dades intercanviades.
+Persona: I el 2014, que és quan el català l'havia avançat?
+Assistent: Aquell any, les xifres confirmades són 57,7 per al català i 56,4 per al castellà. Per tant, el català sí que va passar al davant el 2014; el gràfic encerta aquell any i falla en el 2018.
+```
+
+La resposta situa la xifra en la discrepància i en la verificació posterior. No deixa els colors i valors com una fila sense explicació ni manté un desacord que el corpus ja ha resolt.
+
+### Desfer una contradicció aparent sobre els interessos
+
+```text
+Persona: M'he perdut amb els tipus d'interès: el 1895 era el tres i terç o el cinc per cent?
+Assistent: Depenia del tipus de contracte. El decret del 1895 manté el tres i terç per als censals segons la llei de la Vall i diu que, en la resta de casos, el Consell i el Tribunal de Corts havien acceptat el cinc per cent.
+Persona: Aleshores el decret que rebaixava l'interès dels censals encara era vigent?
+Assistent: Sí. El text de 1895 diu que el tipus del tres i terç continuava vigent per als censals; el cinc per cent s'aplicava als altres casos. Això resol la contradicció aparent entre les dues referències.
+```
+
+El seguiment és plausible perquè la primera resposta introdueix dues categories que la persona pot voler aclarir. La resposta no recita la cronologia sencera del document.
+
+## Llista de control abans d'acceptar un diàleg
+
+- **Obertura autònoma:** s'entén sense veure la fitxa, el títol, la secció ni una taula.
+- **Intenció humana:** demana aclariment, orientació, comparació o comprovació; no una extracció mecànica.
+- **Resposta completa:** conté una frase que respon directament, amb prou context perquè s'entengui fora del document.
+- **Seguiment motivat:** reprèn una distinció o un buit de la resposta anterior i aporta informació nova. Si no hi ha cap seguiment natural, el diàleg s'acaba.
+- **Fidelitat:** separa el que la font afirma, el que se'n pot inferir i el que continua sense resoldre's.
+- **Sense farciment:** no multiplica variants de la mateixa pregunta ni afegeix torns només per fer-lo semblar llarg.
+
+Rebutja el registre si una persona que no ha vist la fitxa no entendria la pregunta, si la resposta sembla tallada, o si cal llegir el document original per saber de què parlen.
+
 ## Regla per al seguiment
 
 Abans d'afegir un altre torn, comprovar: «Després d'escoltar la resposta anterior, és plausible que la persona pregunti això? I obtindrà una informació nova?» Si alguna resposta és no, acabar la conversa o reescriure el seguiment.
