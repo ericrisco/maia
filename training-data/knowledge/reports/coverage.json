@@ -1,5 +1,5 @@
 {
-  "conversations": 60,
+  "conversations": 61,
   "document_coverage": {
     "temes/costums/calendari-festiu/calendari-festiu-index-de-fitxes.md": {
       "evidence_units": 7,
@@ -9878,10 +9878,10 @@
       "evidence_units": 138,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 0,
-      "remaining_unrepresented": 138,
+      "mentioned_in_review": 8,
+      "remaining_unrepresented": 130,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 0
+      "rights_pending_or_restricted": 8
     },
     "temes/institucions/quarts-i-veinats/quarts-i-veinats-index-de-fitxes.md": {
       "evidence_units": 7,
@@ -12758,10 +12758,10 @@
       "evidence_units": 80,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 32,
-      "remaining_unrepresented": 48,
+      "mentioned_in_review": 35,
+      "remaining_unrepresented": 45,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 32
+      "rights_pending_or_restricted": 35
     },
     "temes/territori/geografia-fisica/en-la-ubaga-tot-hom-hi-pot-anar.md": {
       "evidence_units": 135,
@@ -13299,15 +13299,15 @@
   "evidence_units": 87339,
   "evidence_units_explicitly_excluded": 0,
   "evidence_units_export_ready": 0,
-  "evidence_units_mentioned_in_review": 237,
-  "evidence_units_remaining_unrepresented": 87102,
+  "evidence_units_mentioned_in_review": 248,
+  "evidence_units_remaining_unrepresented": 87091,
   "evidence_units_with_redistributable_review_draft": 110,
   "export_ready_records": 0,
   "human_reviewed_records": 0,
-  "provenance_rows": 60,
+  "provenance_rows": 61,
   "records_by_redistribution": {
     "allowed": 31,
-    "pending": 29
+    "pending": 30
   },
   "scope": "docs/temes structural evidence; review mentions are not training approval",
   "stale_evidence_reference_count": 0,
@@ -14038,10 +14038,10 @@
       "evidence_units": 252,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 0,
-      "remaining_unrepresented": 252,
+      "mentioned_in_review": 8,
+      "remaining_unrepresented": 244,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 0
+      "rights_pending_or_restricted": 8
     },
     "temes/institucions/relacions-exteriors": {
       "documents": 9,
@@ -14428,10 +14428,10 @@
       "evidence_units": 865,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 85,
-      "remaining_unrepresented": 780,
+      "mentioned_in_review": 88,
+      "remaining_unrepresented": 777,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 85
+      "rights_pending_or_restricted": 88
     },
     "temes/territori/paisatge-construit": {
       "documents": 6,
