@@ -92,3 +92,20 @@ def test_language_selection_requires_all_three_fields_and_records_sources(
     assert ledger.report.excluded_pieces == 4
     assert ledger.report.unresolved_pieces == 2
     assert ledger.report.source_redistribution == {"pendent": 4}
+
+
+def test_unquoted_yaml_no_remains_a_denied_redistribution_state(tmp_path: Path) -> None:
+    docs = _tree(tmp_path)
+    source_card = docs / "fonts/speech-source.md"
+    source_card.write_text(
+        source_card.read_text(encoding="utf-8").replace(
+            "redistribucio: pendent", "redistribucio: no"
+        ),
+        encoding="utf-8",
+    )
+
+    ledger = extract_language(scan_tree(docs))
+
+    eligible = next(piece for piece in ledger.pieces if piece.path.endswith("eligible.md"))
+    assert eligible.provenance[0].redistribution == "no"
+    assert ledger.report.source_redistribution == {"no": 4}

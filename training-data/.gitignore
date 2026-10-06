@@ -10,3 +10,8 @@
 /knowledge/work/candidate-decisions.jsonl
 /knowledge/work/candidate-messages.jsonl
 /knowledge/work/candidate-classification.json
+/language/work/selection.jsonl
+/language/work/authentic-segments.jsonl
+/language/work/uncertainty-decisions.jsonl
+/language/work/accepted-conversation-candidates.jsonl
+/language/work/accepted-messages.jsonl

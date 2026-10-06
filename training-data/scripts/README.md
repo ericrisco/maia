@@ -21,3 +21,11 @@ python3 training-data/scripts/build_knowledge_coverage.py
 ```
 
 El script valida les traces i els hashes, vincula cada registre revisat amb els seus IDs d'evidència i genera un resum per branca temàtica. Els esborranys no compten com a evidència coberta per registres aprovats ni com a exportables.
+
+## Auditoria Language
+
+```sh
+python3 training-data/scripts/build_language_review.py
+```
+
+L'auditoria aplica els camps d'elegibilitat del contracte del corpus, conserva spans humans literals, detecta marques d'incertesa i només forma converses a partir de torns explícits. No inventa preguntes per omplir peces sense diàleg.

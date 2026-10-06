@@ -151,7 +151,14 @@ def _provenance(
         if matches:
             card = matches[0]
             if card.document is not None:
-                redistribution = str(card.document.metadata.get("redistribucio") or "pendent")
+                raw_redistribution = card.document.metadata.get("redistribucio")
+                if raw_redistribution is None or raw_redistribution == "":
+                    redistribution = "pendent"
+                elif isinstance(raw_redistribution, bool):
+                    # PyYAML resolves unquoted YAML 1.1 `yes` / `no` as booleans.
+                    redistribution = "si" if raw_redistribution else "no"
+                else:
+                    redistribution = str(raw_redistribution).strip().casefold()
                 references.append(
                     SpeechProvenance(source_id, card.path, "recorded", redistribution)
                 )

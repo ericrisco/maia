@@ -1,0 +1,12 @@
+{
+  "accepted_candidates": 0,
+  "eligible_pieces": 38,
+  "excluded_candidates": 0,
+  "input_candidates": 0,
+  "pieces_fully_excluded": 0,
+  "pieces_with_accepted_candidates": 0,
+  "pieces_with_candidates": 0,
+  "uncertainty_spans_discarded": 0,
+  "uncertainty_spans_in_sources": 8391,
+  "uncertainty_spans_outside_candidates": 8391
+}
