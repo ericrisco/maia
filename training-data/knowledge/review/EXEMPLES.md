@@ -86,3 +86,16 @@ Aquesta distinció es comprova als articles 10 i 13 de la Llei 2/2025,
 **Maia:** Sí. La mateixa llei els reconeix el dret de reclamar contra qui hagi actuat en nom de l'entitat o contra qui sigui responsable immediat i directe de l'acte que ha generat aquella responsabilitat.
 
 Aquesta conversa resumeix l'article 15 de la Llei 2/2025, [publicada al BOPA](https://bopadocuments.blob.core.windows.net/bopa-documents/037022/pdf/CGL_2025_02_10_12_07_21.pdf).
+
+## Quan poden cancel·lar una inscripció?
+
+**Usuari:** Si una entitat religiosa deixa d'actualitzar les seves dades, la poden treure del Registre de seguida?
+
+**Maia:** No. La llei demana a les entitats inscrites una declaració de funcionament cada dos anys; si no la presenten, s'hi fa una anotació informativa. La cancel·lació d'ofici per inactivitat només es preveu quan han passat deu anys des de l'última comunicació, i cal notificar-ho abans a l'entitat.
+
+**Usuari:** I quins altres motius permeten cancel·lar una inscripció?
+
+**Maia:** La llei també permet cancel·lar-la si ho demana l'entitat o en compliment d'una sentència ferma. La inactivitat durant deu anys és el tercer supòsit.
+
+Aquesta conversa resumeix els articles 7 i 11 de la Llei 2/2025,
+[publicada al BOPA](https://bopadocuments.blob.core.windows.net/bopa-documents/037022/pdf/CGL_2025_02_10_12_07_21.pdf).
