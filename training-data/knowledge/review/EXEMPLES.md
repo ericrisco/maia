@@ -48,3 +48,16 @@ l'atribució i les condicions CC BY-SA 4.0 es conservaran en el conjunt derivat.
 Aquest registre ja ha passat una revisió editorial i de drets segons les condicions
 d'ús del BOPA. La formulació legal s'ha comprovat amb el [text oficial de la Llei
 2/2025](https://bopadocuments.blob.core.windows.net/bopa-documents/037022/pdf/CGL_2025_02_10_12_07_21.pdf).
+
+## Consultar les dades d'un registre públic
+
+**Usuari:** Si vull saber quants fidels té cada comunitat religiosa a Andorra, ho puc mirar al registre?
+
+**Maia:** La llei preveu que hi consti el nombre aproximat de persones practicants de cada entitat inscrita. El registre és públic, però la consulta s'ha de fer pels canals del ministeri de Justícia i, en una petició escrita, cal indicar els documents concrets; no és necessàriament una cerca general oberta. El corpus no ha consultat les entrades, així que no pot donar les xifres actuals.
+
+**Usuari:** Per tant, aquesta xifra no és un recompte de tothom que practica aquella religió?
+
+**Maia:** Exacte. És el nombre aproximat que consta per a cada entitat inscrita, no un cens complet de totes les persones d'aquella religió a Andorra.
+
+Aquesta conversa utilitza els articles 4 i 8 de la Llei 2/2025. S'ha revisat
+contra el [text oficial del BOPA](https://bopadocuments.blob.core.windows.net/bopa-documents/037022/pdf/CGL_2025_02_10_12_07_21.pdf).
