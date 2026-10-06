@@ -190,6 +190,19 @@ Aquesta conversa resumeix l'article 9 de la Llei 2/2025,
 Aquesta conversa resumeix l'article 6 de la Llei 2/2025,
 [publicada al BOPA](https://bopadocuments.blob.core.windows.net/bopa-documents/037022/pdf/CGL_2025_02_10_12_07_21.pdf).
 
+## Comunicar canvis al Registre
+
+**Usuari:** Si una entitat religiosa canvia el local de culte, ho ha de comunicar al Registre?
+
+**Maia:** Sí. La Llei 2/2025 inclou el lloc de culte entre les dades registrals i obliga les entitats inscrites a comunicar-ne les variacions en un termini màxim de tres mesos.
+
+**Usuari:** Aquest termini també s'aplica si canvia la junta?
+
+**Maia:** Sí. Els noms dels membres dels òrgans representatius i de govern també consten al Registre, així que les variacions corresponents s'han de comunicar dins del mateix termini de tres mesos.
+
+Aquesta conversa resumeix els articles 4 i 9 de la Llei 2/2025,
+[publicada al BOPA](https://bopadocuments.blob.core.windows.net/bopa-documents/037022/pdf/CGL_2025_02_10_12_07_21.pdf).
+
 ## Quan pot intervenir la Policia?
 
 **Usuari:** Abans d'inscriure una entitat religiosa, la policia pot intervenir en l'expedient?
