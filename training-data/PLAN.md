@@ -1,80 +1,92 @@
-# Pla editorial del dataset
+# Pla de conversa per al fine-tuning
 
 ## Objectiu
 
-Crear exemples que ensenyin Maia a respondre preguntes que una persona faria
-realment. El valor és que la conversa resolgui un dubte, no que esmenti cada
-apartat del corpus. Cobertura i naturalitat es revisen alhora, però cap dada
-no s'ha de convertir en una pregunta forçada per poder marcar-la com a coberta.
+Crear converses en què una persona pregunta perquè vol entendre alguna cosa,
+prendre una decisió o aclarir un dubte. La conversa ha de sonar natural encara
+que l'usuari no hagi vist mai els documents de Maia.
 
-## Com escriure una conversa de Knowledge
+El corpus és la font dels fets. No és el guió de la conversa: els títols, les
+seccions, les files i el vocabulari de recerca no han de dictar la pregunta.
 
-1. Llegeix la fitxa sencera i segueix els enllaços necessaris. Revisa correccions,
-   excepcions, desacords, límits temporals i buits.
-2. Tria una idea concreta que resolgui un dubte humà: una confusió habitual,
-   una decisió pràctica, una dada sorprenent o una curiositat amb context.
-3. Escriu la pregunta sense fer veure que la persona ha llegit la fitxa. Afegeix
-   només el context que li caldria per fer-se entendre.
-4. Contesta el dubte de seguida. Escriu com parlaria un assistent: clar, breu i
-   sense repetir l'estructura, els títols ni les frases de la font.
-5. Continua només si la resposta desperta una pregunta següent concreta. El
-   seguiment ha de dependre del que s'acaba de dir. Una conversa pot tenir un
-   sol intercanvi; no hi ha quota de torns.
-6. Comprova cada fet, xifra i matís contra les fonts. Digues qui sosté una
-   interpretació quan no és un fet establert. Conserva les discrepàncies i la
-   incertesa en llenguatge planer.
-7. Llegeix tota la conversa en veu alta. Si sona com un examen, una cerca dins
-   d'un document o un qüestionari generat, reescriu-la o descarta-la.
-8. Desa la conversa i la procedència en fitxers separats. Revisa llicència,
-   atribució i permís d'ús abans d'exportar-la.
+## Com redactar una conversa
 
-### Multitorn natural
+1. Llegeix la fitxa i les fonts que sustenten la resposta. Apunta els fets,
+   matisos, contradiccions i límits que cal conservar.
+2. Decideix quin dubte real podria tenir algú. Per exemple: ha vist una cosa,
+   ha sentit una explicació, vol saber què pot fer, o sospita que dues dades no
+   encaixen.
+3. Escriu la pregunta com la diria aquella persona, amb prou context perquè
+   s'entengui sola. No facis referència a fitxes, seccions, gràfics o files.
+4. Respon primer el dubte. Afegeix el context necessari perquè la resposta
+   sigui entenedora, però no recitis la fitxa sencera.
+5. Afegeix un seguiment només si és probable que la resposta provoqui aquella
+   nova pregunta. El seguiment ha de reprendre una idea concreta de la resposta.
+6. Llegeix el fil sense mirar la font. Si sembla un examen, un qüestionari o una
+   seqüència de consultes independents, reescriu-lo.
+7. Torna a contrastar cada afirmació amb el corpus i registra la procedència,
+   l'atribució i les condicions de reutilització.
 
-Un bon fil fa un pas recognoscible: aclarir una paraula, entendre una
-conseqüència, preguntar pel lloc o el moment, o comprovar una possible
-confusió. No facis que l'usuari pregunti successivament per cada dada de la
-fitxa. No afegeixis una pregunta del tipus «i què més?» només per allargar el
-registre. No inventis biografia ni experiències personals per fer-lo semblar
-real.
+## Multitorn sense artificialitat
 
-### Rebutja o reescriu
+La mida habitual és de dos intercanvis (quatre missatges). Un sol intercanvi és
+millor que un seguiment forçat. No hi ha cap quota de preguntes per document ni
+de dades per conversa.
 
-- «Què explica la secció…?», «què indica aquesta fila?» o preguntes que només
-  tenen sentit amb la fitxa oberta.
-- Preguntes de plantilla repetides per cobrir noms, dates i xifres sense cap
-  motiu humà.
-- Respostes que comencen amb etiquetes internes o que deixen la frase a mitges.
-- Seguiments que demanen una dada sense cap relació amb la resposta anterior.
-- Afirmacions actuals basades només en una font antiga, o certeses que esborren
-  una divergència del corpus.
+Un bon seguiment pot demanar què vol dir un terme que acaba d'aparèixer, si una
+conseqüència també s'aplica al cas propi, o com es resol una aparent
+contradicció. No ha de canviar de tema per cobrir una altra dada de la fitxa.
 
-## Knowledge i cobertura
+## Preguntes que cal descartar
 
-Les fonts factuals són `docs/temes/` i les seves fonts originals registrades a
-`docs/fonts/` i `docs/raw/`. Quan comenci la producció, s'inventariaran fitxes,
-seccions, taules, llistes i afirmacions rellevants. Per cada peça es decidirà
-si dona lloc a una conversa útil, ja està coberta, es repeteix o no es pot usar.
-La cobertura es mesurarà sobre aquest inventari; el recompte de preguntes per
-si sol no prova que el corpus estigui ben cobert.
+- «Què explica la secció…?», «què indica aquesta fila?» i variants semblants.
+- Preguntes que només tenen sentit per a qui té el document o una taula al davant.
+- Paràfrasis de plantilla que només canvien el nom, la data o el lloc.
+- Preguntes amb un escenari personal inventat que l'usuari no ha explicat.
+- Seguiments que no depenen de la resposta anterior.
 
-## Language
+## Estil de resposta
 
-`language/` només pot ensenyar llengua provinent de parlants humans identificats
-al corpus. No es redacten preguntes d'entrevistador que s'han eliminat, ni es
-converteix un monòleg en una conversa fictícia. Primer cal confirmar la
-transcripció, els drets i que l'estructura real permeti el format d'entrenament.
-Si no hi ha intercanvi humà autèntic, no es fabrica un torn d'usuari per omplir
-un JSONL de xat.
+- Comença per la resposta directa, no per una etiqueta o una llista de camps.
+- Escriu en català clar i natural. No copiïs el to intern o emfàtic de les
+  fitxes.
+- Explica termes antics o locals quan siguin necessaris per entendre la resposta.
+- Distingeix els fets de les tradicions, hipòtesis i lectures atribuïdes.
+- Si el corpus conserva versions diferents, explica què discrepa i què sí que
+  se sap. No triïs una versió sense base.
+- No deixis mai una frase a mitges ni una resposta que depengui del títol de la
+  conversa.
 
-## Estat i passos següents
+## Dues col·leccions separades
 
-1. Revisar aquests exemples i acordar el llindar de naturalitat.
-2. Construir l'inventari exhaustiu de Knowledge i registrar drets per font.
-3. Escriure i revisar converses en lots petits, sense preguntes automàtiques.
-4. Revisar exactitud, naturalitat, redundància, cobertura i drets.
-5. Exportar només registres aprovats als splits de destinació i publicar un
-   informe de cobertura i exclusions.
-6. Auditar `docs/parla/` abans de crear registres de Language.
+**Maia Knowledge** deriva els fets de `docs/temes/`. La cobertura es controla
+amb l'inventari existent, però una dada no es converteix en pregunta si no hi ha
+un dubte humà al darrere. Cada contingut passa revisió factual, editorial i de
+drets abans d'arribar a `output/`.
 
-No es generen splits d'entrenament fins que hi hagi registres aprovats i una
-revisió de drets completa.
+**Maia Language** deriva només de parla humana elegible a `docs/parla/`. No
+inventem entrevistadors ni convertim monòlegs en converses fictícies. Si la
+transcripció o els drets no permeten l'ús, la peça queda fora.
+
+## Flux de treball
+
+1. Mantenir l'inventari complet de fonts i coneixement.
+2. Escriure tandes petites de converses a `knowledge/review/` amb procedència
+   separada.
+3. Revisar naturalitat, dependència entre torns, exactitud, redundància i drets.
+4. Actualitzar l'estat de cada exemple. Els candidats no són dades d'entrenament.
+5. Exportar a `output/` només els exemples aprovats i amb reutilització
+   compatible; treure'n qualsevol camp editorial o de procedència.
+6. Separar train, validation i test per grup de coneixement/font, no per
+   paràfrasi aleatòria.
+7. Auditar Language separadament i no barrejar-lo amb Knowledge.
+
+## Criteri per aprovar una conversa
+
+Una persona que no coneix el corpus entén per què es pregunta i què respon
+Maia. Cada resposta està sustentada. El seguiment sona espontani llegit en veu
+alta. No hi ha cap dada inventada, cap fragment tallat, cap repetició de
+plantilla i cap problema de drets pendent per a l'exportació.
+
+Els exemples inicials de `knowledge/review/` serveixen per calibrar aquest
+criteri; encara no són un dataset publicable ni un conjunt aprovat per entrenar.
