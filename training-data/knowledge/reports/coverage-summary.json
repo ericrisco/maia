@@ -1,24 +1,24 @@
 {
   "decision_reasons": {
-    "human_review_required": 43
+    "human_review_required": 44
   },
   "evidence_explicitly_excluded": 17031,
-  "evidence_referenced_by_review_drafts": 150,
+  "evidence_referenced_by_review_drafts": 154,
   "evidence_represented_by_approved_records": 0,
   "evidence_units": 87339,
   "evidence_unresolved": 70308,
   "export_ready_records": 0,
   "markdown_errors": 0,
   "processed_documents": 1477,
-  "records_in_review": 43,
-  "records_requiring_human_review": 43,
+  "records_in_review": 44,
+  "records_requiring_human_review": 44,
   "scope": "all Markdown documents and structural evidence under docs/temes/",
   "source_redistribution_states_in_review": {
     "limited; attribution/research use recorded, training redistribution compatibility to resolve": 1,
     "pendent; CC BY-SA 4.0, atribució, compartir igual i compatibilitat amb l'entrenament per resoldre": 6,
     "pendent; CC BY-SA 4.0, atribució, compartir igual i compatibilitat amb l’entrenament per resoldre": 7,
     "pendent; CC BY-SA 4.0, attribution, share-alike and compatibility with training to resolve": 1,
-    "si": 31
+    "si": 32
   },
   "topic_coverage": {
     "temes/costums": {
