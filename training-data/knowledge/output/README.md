@@ -1,3 +1,3 @@
-# Sortida Knowledge
+# Exportacions
 
-Els splits `train.jsonl`, `validation.jsonl` i `test.jsonl` s'afegiran després de revisar els registres, confirmar drets, deduplicar i agrupar els exemples relacionats. No exportar els pilots directament.
+Encara buit. Només s'hi afegeixen registres aprovats per al seu ús previst i amb drets verificats.

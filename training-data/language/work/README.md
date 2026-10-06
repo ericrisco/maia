@@ -1,3 +1,3 @@
-# Dades de treball Language
+# Espai de treball
 
-Inventari d'elegibilitat, fragments acceptats i descartats, incerteses, peces i parlants. La sortida ha de preservar material humà autèntic i fer explícits els motius d'exclusió.
+Inventaris i anotacions de les peces de parla. No són dades entrenables.

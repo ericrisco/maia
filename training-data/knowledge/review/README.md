@@ -1,5 +1,5 @@
-# Revisió de Maia Knowledge
+# Candidats editorials
 
-`conversations.jsonl` conté converses candidates de Knowledge, una conversa completa per línia. `provenance.jsonl` en registra les fonts, les unitats d'evidència, els drets, l'estat de revisió i el hash de cada línia. Cada línia d'un fitxer ha de correspondre a la mateixa línia de l'altre. Les candidates no compten com a coneixement aprovat ni s'exporten fins que passen les revisions editorial, factual i de drets previstes al `PLAN.md`.
+`conversations.jsonl` és un pilot curt per calibrar naturalitat. No és un dataset aprovat. `provenance.jsonl` conté les fonts i les condicions fora dels missatges entrenables.
 
-Llegeix primer `QUESTION-DESIGN.md`; després mira `EXEMPLES.md` per veure preguntes i seguiments plausibles. Són exemples editorials, no converses reals ni registres aprovats. `quarantine/` conserva els lots antics només per a consulta; no els copiïs a les mostres noves sense revisar cada conversa des del principi.
+Abans d'aprovar cap línia, verifica el document font, l'atribució, els drets, la resposta completa i la naturalitat del diàleg. Si la pregunta només serveix per cobrir una dada, descarta-la.

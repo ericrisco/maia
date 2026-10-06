@@ -1,9 +1,5 @@
 # Maia Knowledge
 
-Converses basades en el coneixement d'Andorra de `docs/temes/`. La unitat de
-cobertura és el dubte humà resolt, no cada títol, paràgraf o fila.
+Converses d'assistent sobre Andorra, redactades a partir de `docs/temes/` i verificades contra les fonts del corpus.
 
-El lot actiu en revisió i la rúbrica són a `review/`. Els registres antics es
-conserven separadament a `review/quarantine/` i no s'inclouen en el lot actiu.
-`output/` només rebrà converses amb contingut revisat per una persona i drets
-compatibles amb l'ús final.
+`review/` conté el pilot editorial i la procedència. Aquests registres encara no s'han aprovat per exportar. `output/` resta buit fins que hi hagi revisió factual, editorial i de drets.
