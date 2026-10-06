@@ -1,5 +1,5 @@
 {
-  "conversations": 78,
+  "conversations": 79,
   "document_coverage": {
     "temes/costums/calendari-festiu/calendari-festiu-index-de-fitxes.md": {
       "evidence_units": 7,
@@ -12803,10 +12803,10 @@
       "evidence_units": 92,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 23,
-      "remaining_unrepresented": 69,
+      "mentioned_in_review": 31,
+      "remaining_unrepresented": 61,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 23
+      "rights_pending_or_restricted": 31
     },
     "temes/territori/geografia-fisica/la-sessio-de-les-perdius.md": {
       "evidence_units": 115,
@@ -13299,15 +13299,15 @@
   "evidence_units": 87339,
   "evidence_units_explicitly_excluded": 0,
   "evidence_units_export_ready": 0,
-  "evidence_units_mentioned_in_review": 352,
-  "evidence_units_remaining_unrepresented": 86987,
+  "evidence_units_mentioned_in_review": 360,
+  "evidence_units_remaining_unrepresented": 86979,
   "evidence_units_with_redistributable_review_draft": 110,
   "export_ready_records": 0,
   "human_reviewed_records": 0,
-  "provenance_rows": 78,
+  "provenance_rows": 79,
   "records_by_redistribution": {
     "allowed": 31,
-    "pending": 47
+    "pending": 48
   },
   "scope": "docs/temes structural evidence; review mentions are not training approval",
   "stale_evidence_reference_count": 0,
@@ -14428,10 +14428,10 @@
       "evidence_units": 865,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 185,
-      "remaining_unrepresented": 680,
+      "mentioned_in_review": 193,
+      "remaining_unrepresented": 672,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 185
+      "rights_pending_or_restricted": 193
     },
     "temes/territori/paisatge-construit": {
       "documents": 6,
