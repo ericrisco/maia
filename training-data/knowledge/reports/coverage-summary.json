@@ -1,21 +1,21 @@
 {
   "decision_reasons": {
-    "human_review_required": 6
+    "human_review_required": 7
   },
   "evidence_explicitly_excluded": 17031,
-  "evidence_referenced_by_review_drafts": 25,
+  "evidence_referenced_by_review_drafts": 28,
   "evidence_represented_by_approved_records": 0,
   "evidence_units": 87339,
   "evidence_unresolved": 70308,
   "export_ready_records": 0,
   "markdown_errors": 0,
   "processed_documents": 1477,
-  "records_in_review": 6,
-  "records_requiring_human_review": 6,
+  "records_in_review": 7,
+  "records_requiring_human_review": 7,
   "scope": "all Markdown documents and structural evidence under docs/temes/",
   "source_redistribution_states_in_review": {
     "no": 3,
-    "pendent": 4,
+    "pendent": 5,
     "si": 1
   },
   "topic_coverage": {
