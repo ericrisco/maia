@@ -1,9 +1,9 @@
 {
   "scope": "docs/temes/**/*.md with frontmatter type=article",
-  "conversation_candidates": 15,
+  "conversation_candidates": 16,
   "article_documents": 1348,
-  "documents_with_candidate_source": 15,
-  "documents_without_candidate_source": 1333,
+  "documents_with_candidate_source": 16,
+  "documents_without_candidate_source": 1332,
   "sections": 10536,
   "sections_with_explicit_evidence_reference": 10,
   "sections_without_explicit_evidence_reference": 10526,
@@ -351,8 +351,8 @@
     },
     "temes/institucions/justicia": {
       "documents": 138,
-      "documents_with_candidate_source": 0,
-      "documents_without_candidate_source": 138
+      "documents_with_candidate_source": 1,
+      "documents_without_candidate_source": 137
     },
     "temes/institucions/nacionalitat-i-residencia": {
       "documents": 18,
