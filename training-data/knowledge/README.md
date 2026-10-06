@@ -36,6 +36,12 @@ the local provenance ledger and reports. A `pendent` or `no` redistribution
 status is recorded as-is; it is not permission to redistribute the source or
 dataset. Review provenance before any external use.
 
+Source material excluded from training is recorded in
+[`review/exclusions.jsonl`](review/exclusions.jsonl), with its content hash,
+source-card hash, reason and condition for reconsideration. Exclusion applies
+to that evidence; the same knowledge can be reconsidered if independently
+documented by a source whose use is cleared.
+
 The default generator is deterministic and makes no model or network calls.
 Generated examples are marked for human wording review; a successful structural
 validation does not certify factual or editorial quality. Review the local
