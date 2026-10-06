@@ -1,5 +1,5 @@
 {
-  "conversations": 84,
+  "conversations": 85,
   "document_coverage": {
     "temes/costums/calendari-festiu/calendari-festiu-index-de-fitxes.md": {
       "evidence_units": 7,
@@ -10589,10 +10589,10 @@
       "evidence_units": 28,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 0,
-      "remaining_unrepresented": 28,
+      "mentioned_in_review": 1,
+      "remaining_unrepresented": 27,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 0
+      "rights_pending_or_restricted": 1
     },
     "temes/persones/daniel-marin.md": {
       "evidence_units": 59,
@@ -12803,10 +12803,10 @@
       "evidence_units": 92,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 51,
-      "remaining_unrepresented": 41,
+      "mentioned_in_review": 53,
+      "remaining_unrepresented": 39,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 51
+      "rights_pending_or_restricted": 53
     },
     "temes/territori/geografia-fisica/la-sessio-de-les-perdius.md": {
       "evidence_units": 115,
@@ -13299,15 +13299,15 @@
   "evidence_units": 87339,
   "evidence_units_explicitly_excluded": 0,
   "evidence_units_export_ready": 0,
-  "evidence_units_mentioned_in_review": 380,
-  "evidence_units_remaining_unrepresented": 86959,
+  "evidence_units_mentioned_in_review": 383,
+  "evidence_units_remaining_unrepresented": 86956,
   "evidence_units_with_redistributable_review_draft": 110,
   "export_ready_records": 0,
   "human_reviewed_records": 0,
-  "provenance_rows": 84,
+  "provenance_rows": 85,
   "records_by_redistribution": {
     "allowed": 31,
-    "pending": 53
+    "pending": 54
   },
   "scope": "docs/temes structural evidence; review mentions are not training approval",
   "stale_evidence_reference_count": 0,
@@ -14198,10 +14198,10 @@
       "evidence_units": 1909,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 8,
-      "remaining_unrepresented": 1901,
+      "mentioned_in_review": 9,
+      "remaining_unrepresented": 1900,
       "rights_cleared_in_review": 8,
-      "rights_pending_or_restricted": 0
+      "rights_pending_or_restricted": 1
     },
     "temes/politica": {
       "documents": 1,
@@ -14428,10 +14428,10 @@
       "evidence_units": 865,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 213,
-      "remaining_unrepresented": 652,
+      "mentioned_in_review": 215,
+      "remaining_unrepresented": 650,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 213
+      "rights_pending_or_restricted": 215
     },
     "temes/territori/paisatge-construit": {
       "documents": 6,
