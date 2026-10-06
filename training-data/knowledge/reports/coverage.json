@@ -1,5 +1,5 @@
 {
-  "conversations": 96,
+  "conversations": 97,
   "document_coverage": {
     "temes/costums/calendari-festiu/calendari-festiu-index-de-fitxes.md": {
       "evidence_units": 7,
@@ -8564,9 +8564,9 @@
       "evidence_units": 180,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 0,
-      "remaining_unrepresented": 180,
-      "rights_cleared_in_review": 0,
+      "mentioned_in_review": 4,
+      "remaining_unrepresented": 176,
+      "rights_cleared_in_review": 4,
       "rights_pending_or_restricted": 0
     },
     "temes/institucions/justicia/el-consell-defensa-les-valls-davant-un-clam-de-pau-i-treva-1460.md": {
@@ -13299,14 +13299,14 @@
   "evidence_units": 87339,
   "evidence_units_explicitly_excluded": 0,
   "evidence_units_export_ready": 0,
-  "evidence_units_mentioned_in_review": 442,
-  "evidence_units_remaining_unrepresented": 86897,
-  "evidence_units_with_redistributable_review_draft": 133,
+  "evidence_units_mentioned_in_review": 446,
+  "evidence_units_remaining_unrepresented": 86893,
+  "evidence_units_with_redistributable_review_draft": 137,
   "export_ready_records": 0,
   "human_reviewed_records": 0,
-  "provenance_rows": 96,
+  "provenance_rows": 97,
   "records_by_redistribution": {
-    "allowed": 37,
+    "allowed": 38,
     "pending": 57,
     "prohibited": 2
   },
@@ -13999,9 +13999,9 @@
       "evidence_units": 11566,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 1,
-      "remaining_unrepresented": 11565,
-      "rights_cleared_in_review": 0,
+      "mentioned_in_review": 5,
+      "remaining_unrepresented": 11561,
+      "rights_cleared_in_review": 4,
       "rights_pending_or_restricted": 1
     },
     "temes/institucions/nacionalitat-i-residencia": {
