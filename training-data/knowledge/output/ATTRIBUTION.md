@@ -18,6 +18,7 @@ al projecte.
 - Llei 2/2025, del 23 de gener, qualificada del Registre d'entitats religioses, article 9, BOPA núm. 22, 19-02-2025; condicions d'ús registrades a docs/fonts/bopa-ad.md.
 - Llei 2/2025, del 23 de gener, qualificada del Registre d'entitats religioses, articles 10 i 13, BOPA núm. 22, 19-02-2025; condicions d'ús registrades a docs/fonts/bopa-ad.md.
 - Llei 2/2025, del 23 de gener, qualificada del Registre d'entitats religioses, articles 4 i 8, BOPA núm. 22, 19-02-2025; condicions d'ús registrades a docs/fonts/bopa-ad.md.
+- Llei 2/2025, del 23 de gener, qualificada del Registre d'entitats religioses, articles 4 i 9, BOPA núm. 22, 19-02-2025; condicions d'ús registrades a docs/fonts/bopa-ad.md.
 - Llei 2/2025, del 23 de gener, qualificada del Registre d'entitats religioses, articles 7 i 11, BOPA núm. 22, 19-02-2025; condicions d'ús registrades a docs/fonts/bopa-ad.md.
 - Llei 2/2025, del 23 de gener, qualificada del Registre d'entitats religioses, articles 8 i 12, BOPA núm. 22, 19-02-2025; condicions d'ús registrades a docs/fonts/bopa-ad.md.
 - Llei 2/2025, disposició transitòria i disposició final quarta, BOPA núm. 22, 19-02-2025; situació i entrada en vigor verificades al Portal Jurídic d'Andorra, fitxa L2025002_F (https://portaljuridicandorra.ad/L2025002_F), consultada el 2026-10-07; condicions d'ús BOPA a docs/fonts/bopa-ad.md.
