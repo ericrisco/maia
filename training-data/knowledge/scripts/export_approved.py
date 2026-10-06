@@ -148,11 +148,10 @@ def main() -> None:
         "d'acord amb les fonts CC BY-SA incorporades. Les dades del BOPA es reutilitzen",
         "segons les condicions oficials registrades al corpus; el BOPA no implica cap suport",
         "al projecte.",
-        "",
-        "## Fonts dels registres exportats",
-        "",
     ]
-    attribution_lines.extend(f"- {entry}" for entry in attributions)
+    if attributions:
+        attribution_lines.extend(["", "## Fonts dels registres exportats", ""])
+        attribution_lines.extend(f"- {entry}" for entry in attributions)
     (OUTPUT / "ATTRIBUTION.md").write_text("\n".join(attribution_lines) + "\n", encoding="utf-8")
 
     article_sources = sorted({

@@ -6,6 +6,7 @@
     "docs/temes/institucions/coprincipat/el-coprincipat.md": "train",
     "docs/raw/consell-general/bopa-constitucio-1993-num24.txt": "train",
     "docs/temes/costums/danses/la-marratxa.md": "validation",
+    "docs/temes/costums/danses/les-festes-de-lossa.md": "validation",
     "docs/temes/cultura/arquitectura/els-estripagecs.md": "test"
   }
 }
