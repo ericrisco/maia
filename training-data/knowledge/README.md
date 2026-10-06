@@ -42,6 +42,12 @@ source-card hash, reason and condition for reconsideration. Exclusion applies
 to that evidence; the same knowledge can be reconsidered if independently
 documented by a source whose use is cleared.
 
+Knowledge index files are inspected in
+[`review/index-audit.jsonl`](review/index-audit.jsonl). Their summaries and
+links are routed to source articles and conversations; a navigation index does
+not become a question merely to increase the record count. Open summary claims
+remain listed for reconciliation.
+
 The default generator is deterministic and makes no model or network calls.
 Generated examples are marked for human wording review; a successful structural
 validation does not certify factual or editorial quality. Review the local
