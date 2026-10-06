@@ -1,12 +1,12 @@
 {
   "scope": "docs/temes/**/*.md with frontmatter type=article",
-  "conversation_candidates": 14,
+  "conversation_candidates": 15,
   "article_documents": 1348,
-  "documents_with_candidate_source": 14,
-  "documents_without_candidate_source": 1334,
+  "documents_with_candidate_source": 15,
+  "documents_without_candidate_source": 1333,
   "sections": 10536,
-  "sections_with_explicit_evidence_reference": 9,
-  "sections_without_explicit_evidence_reference": 10527,
+  "sections_with_explicit_evidence_reference": 10,
+  "sections_without_explicit_evidence_reference": 10526,
   "warning": "A source citation does not prove that all facts or sections in a document are covered.",
   "by_topic": {
     "societat/treball": {
@@ -261,8 +261,8 @@
     },
     "temes/historia/antic-regim": {
       "documents": 50,
-      "documents_with_candidate_source": 0,
-      "documents_without_candidate_source": 50
+      "documents_with_candidate_source": 1,
+      "documents_without_candidate_source": 49
     },
     "temes/historia/constitucio-1993": {
       "documents": 2,
