@@ -118,9 +118,12 @@ dol nacional per la mort de l'excopríncep Valéry Giscard d'Estaing.**
 ## El reconeixement
 
 **Les festes de l'ossa d'Ordino i d'Encamp són a l'Inventari general del
-patrimoni cultural del Govern d'Andorra com a béns immaterials**, i **se n'ha
-tramitat la inclusió al patrimoni cultural immaterial de la humanitat de la
-UNESCO.**
+patrimoni cultural del Govern d'Andorra com a béns immaterials.** El **2022**,
+la UNESCO va inscriure les **Festes de l'Os dels Pirineus** a la Llista
+Representativa del Patrimoni Cultural Immaterial, en una candidatura conjunta
+d'Andorra i França. La notícia institucional inclou el Ball de l'Ossa d'Encamp
+i l'Última Ossa d'Ordino dins de les representacions andorranes
+([font](../../../fonts/govern-festes-os-pirineus-2022.md)).
 
 ## La bibliografia que la font dona
 
