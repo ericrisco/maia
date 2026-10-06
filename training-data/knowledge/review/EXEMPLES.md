@@ -61,3 +61,16 @@ d'ús del BOPA. La formulació legal s'ha comprovat amb el [text oficial de la L
 
 Aquesta conversa utilitza els articles 4 i 8 de la Llei 2/2025. S'ha revisat
 contra el [text oficial del BOPA](https://bopadocuments.blob.core.windows.net/bopa-documents/037022/pdf/CGL_2025_02_10_12_07_21.pdf).
+
+## Dues vies per obtenir personalitat jurídica
+
+**Usuari:** Les ordres i congregacions catòliques han de passar el mateix tràmit que les altres entitats religioses per tenir personalitat jurídica?
+
+**Maia:** No. La Llei 2/2025 preveu una via pròpia: quan ja tenen personalitat canònica, el Bisbat d'Urgell ho notifica al Registre i l'entitat obté personalitat jurídica civil. Les altres entitats l'adquireixen quan s'inscriuen al Registre.
+
+**Usuari:** I el Registre decideix si accepta les entitats catòliques?
+
+**Maia:** No en aquesta via. L'autoritat eclesiàstica notifica la personalitat canònica i el Registre n'acusa recepció; no la concedeix mitjançant el mateix procediment d'inscripció que s'aplica a les altres entitats.
+
+Aquesta distinció es comprova als articles 10 i 13 de la Llei 2/2025,
+[publicada al BOPA](https://bopadocuments.blob.core.windows.net/bopa-documents/037022/pdf/CGL_2025_02_10_12_07_21.pdf).
