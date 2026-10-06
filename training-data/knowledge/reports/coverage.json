@@ -1,5 +1,5 @@
 {
-  "conversations": 90,
+  "conversations": 91,
   "document_coverage": {
     "temes/costums/calendari-festiu/calendari-festiu-index-de-fitxes.md": {
       "evidence_units": 7,
@@ -113,9 +113,9 @@
       "evidence_units": 34,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 3,
-      "remaining_unrepresented": 31,
-      "rights_cleared_in_review": 3,
+      "mentioned_in_review": 5,
+      "remaining_unrepresented": 29,
+      "rights_cleared_in_review": 5,
       "rights_pending_or_restricted": 0
     },
     "temes/costums/danses/les-festes-de-lossa.md": {
@@ -13299,14 +13299,14 @@
   "evidence_units": 87339,
   "evidence_units_explicitly_excluded": 0,
   "evidence_units_export_ready": 0,
-  "evidence_units_mentioned_in_review": 410,
-  "evidence_units_remaining_unrepresented": 86929,
-  "evidence_units_with_redistributable_review_draft": 116,
+  "evidence_units_mentioned_in_review": 412,
+  "evidence_units_remaining_unrepresented": 86927,
+  "evidence_units_with_redistributable_review_draft": 118,
   "export_ready_records": 0,
   "human_reviewed_records": 0,
-  "provenance_rows": 90,
+  "provenance_rows": 91,
   "records_by_redistribution": {
-    "allowed": 33,
+    "allowed": 34,
     "pending": 55,
     "prohibited": 2
   },
@@ -13349,9 +13349,9 @@
       "evidence_units": 415,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 12,
-      "remaining_unrepresented": 403,
-      "rights_cleared_in_review": 10,
+      "mentioned_in_review": 14,
+      "remaining_unrepresented": 401,
+      "rights_cleared_in_review": 12,
       "rights_pending_or_restricted": 2
     },
     "temes/costums/falles": {
