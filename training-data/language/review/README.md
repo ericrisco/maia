@@ -1,6 +1,3 @@
-# Revisió de Maia Language
+# Revisió Language
 
-Espai reservat per a fragments candidats, traça de parlant/peça, certesa de
-transcripció i permisos. Encara no hi ha exemples: crear una conversa sense
-torns humans explícits podria atribuir paraules o intencions a la persona
-entrevistada.
+Espai reservat per a fragments i converses literalment basats en parla humana elegible. Registrar la peça d'origen, el parlant quan es pugui determinar, la incertesa de transcripció i els drets. No generar exemples sintètics d'estil.

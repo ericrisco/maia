@@ -1,25 +1,22 @@
 # Maia Training Data
 
-Preparació de dos datasets independents des del corpus Maia. **Knowledge** transforma coneixement sobre Andorra en converses útils; **Language** conserva llengua humana contemporània quan la font, la transcripció i els drets ho permeten.
+Àrea de treball per preparar dos conjunts separats a partir de `docs/`:
+
+- **Knowledge** ensenya a respondre preguntes reals sobre Andorra amb informació documentada.
+- **Language** conserva català andorrà contemporani produït per persones.
+
+La regla editorial central és simple: cada conversa ha de sonar com una interacció que podria passar entre una persona curiosa i un assistent útil. No convertim títols, seccions o paràgrafs en preguntes automàtiques.
 
 ## Estructura
 
-```text
-training-data/
-├── PLAN.md
-├── scripts/                 # lectors i informes regenerables
-├── knowledge/
-│   ├── work/                # inventari intern i evidència
-│   ├── reports/             # cobertura i qualitat
-│   ├── review/              # pilots, procedència i rúbrica
-│   └── output/              # només exportacions aprovades
-└── language/
-    ├── work/                # extraccions internes
-    ├── reports/             # elegibilitat i incertesa
-    ├── review/              # revisió de peces elegibles
-    └── output/              # només exportacions aprovades
-```
+- `knowledge/review/`: converses candidates per revisar i fitxer de procedència.
+- `knowledge/output/`: futurs `train.jsonl`, `validation.jsonl` i `test.jsonl`; no s'hi exporta res fins que passi la revisió i els drets.
+- `knowledge/reports/`: cobertura i controls editorials.
+- `language/review/`: fragments i converses candidates extrets de parla elegible.
+- `language/output/`: futurs splits de Language.
+- `language/reports/`: elegibilitat, exclusions i cobertura de Language.
+- `PLAN.md`: procés de creació, criteris i pròxims passos.
 
-Els pilots no s’han d’entrenar directament. `review/conversations.jsonl` conté només missatges; la traçabilitat viu a `review/provenance.jsonl`. Els reports d’inventari són una base de cobertura, no una aprovació d’entrenament.
+Cada línia JSONL és una conversa amb missatges alternats `user` i `assistant`. Les notes de revisió i la procedència van en fitxers separats, mai dins dels missatges d'entrenament.
 
-Vegeu [el pla](PLAN.md), [els exemples i anti-exemples](knowledge/review/EXEMPLES.md) i [la rúbrica](knowledge/review/quality-rubric.md).
+Els exemples actuals són un pilot editorial. No són aprovació de drets ni dades llestes per entrenar.

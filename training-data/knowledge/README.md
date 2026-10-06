@@ -1,10 +1,5 @@
 # Maia Knowledge
 
-Converses naturals basades en `docs/temes/`. El coneixement es traça internament, però els fitxers d’entrenament contenen només `messages`. El pilot està a `review/conversations.jsonl`; cap pilot no és publicable fins que la revisió humana i els drets estiguin resolts.
+Converses basades en el coneixement d'Andorra documentat a `docs/temes/`. La unitat de treball és un dubte humà resolt en context; una font pot donar lloc a cap, una o diverses converses segons el que sigui útil i no redundant.
 
-- `work/`: ledgers interns regenerables.
-- `reports/`: inventari i cobertura.
-- `review/`: diàlegs, procedència i criteris editorials.
-- `output/`: reservat per a exports aprovats.
-
-Després d’editar les converses, regenera la cobertura amb `python3 training-data/scripts/build_knowledge_review_coverage.py`.
+Els registres en revisió són mostres editorials fins que s'hagin comprovat contingut, procedència i drets. El format d'entrenament és una línia per conversa, només amb `messages`.

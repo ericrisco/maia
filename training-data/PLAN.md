@@ -1,61 +1,70 @@
-# Pla per construir els datasets de Maia
+# Pla per fer converses útils per a Maia
 
-## Objectiu
+## Criteri de qualitat
 
-Crear dos datasets separats i traçables a partir de `docs/`:
+La conversa comença amb una curiositat, una confusió o una necessitat recognoscible. L'assistent contesta directament. La persona fa un seguiment que sorgeix d'aquella resposta i demana una precisió nova. No cal allargar el diàleg si la continuació natural ja s'ha acabat.
 
-- **Knowledge**: respostes conversacionals sobre el coneixement d’Andorra a `docs/temes/`.
-- **Language**: llengua andorrana contemporània extreta de parla humana elegible a `docs/parla/`.
+Una bona conversa no és un qüestionari sobre un document. Qui pregunta no ha de saber que existeix una fitxa, una secció o una taula. Cada torn s'ha d'entendre amb el context que ja hi ha al diàleg.
 
-No convertim cada paràgraf en una pregunta. El criteri és si una persona tindria aquell dubte en una conversa real.
+## Flux de treball per conversa
 
-## Procés per a cada conversa Knowledge
+1. **Llegir la font i els seus límits.** Verificar els fets, les atribucions, les contradiccions i allò que continua sense saber-se. Revisar també la llicència i les condicions de reutilització.
+2. **Trobar el dubte humà.** Escriure en una frase què vol aclarir la persona i per què li podria sorgir aquest dubte.
+3. **Escriure l'obertura.** Donar prou context perquè la pregunta sigui clara, però no explicar la resposta dins la pregunta.
+4. **Respondre com a assistent.** Començar per la resposta; després afegir el context necessari. No recitar camps ni introduir fets que la font no sosté.
+5. **Afegir un seguiment real.** Fer que el segon dubte depengui de la resposta i aporti una distinció, implicació o límit diferent. Evitar «i què més?» i preguntes de confirmació buides.
+6. **Llegir-ho en veu alta.** Si sona a examen, a cerca dins d'un document o a resposta truncada, reescriure o descartar.
+7. **Registrar la traça.** Guardar fonts, evidències i drets al fitxer de procedència corresponent. Mantenir l'exemple fora dels splits fins a revisió humana.
+8. **Revisar el conjunt.** Buscar duplicats i preguntes que cobreixin el mateix fet amb una plantilla lleugerament diferent.
 
-1. Llegir la font sencera i comprovar les afirmacions al text i les fonts que cita.
-2. Anotar internament quin dubte humà resol la conversa: entendre una contradicció, aclarir una conseqüència, distingir conceptes o saber què permet una norma.
-3. Escriure la pregunta sense referències a una fitxa, apartat, taula o «fila». Afegir només el context que necessitaria algú que no veu el document.
-4. Respondre la pregunta directament, amb les dades i els límits necessaris. Evitar fragments, llistes de camps i xifres sense subjecte.
-5. Afegir un seguiment només quan neixi de la resposta i plantegi una curiositat nova. No forçar converses llargues: dues parelles de torns són una bona mida inicial, no una quota universal.
-6. Llegir el diàleg com una conversa seguida. Si sona a examen, consulta d’índex o plantilla, reescriure’l o descartar-lo.
-7. Guardar la conversa neta al JSONL i la procedència, evidència i drets en fitxers separats.
-8. Mantenir-la com a esborrany fins que passi revisió humana i drets.
+## Patró multitorn
 
-## Senyals de preguntes humanes
+No és una plantilla per omplir mecànicament. És una comprovació de coherència:
 
-Una pregunta bona expressa una intenció: «com quadren aquestes dues dades?», «què canviaria si…?», «vol dir que…?» o «quina diferència hi ha?». El context pot venir del torn anterior. No s’inventa una situació personal quan no ajuda a entendre el fet.
+```text
+Persona: dubte concret amb context natural
+Assistent: resposta clara i completa
+Persona: reacció plausible que neix de la resposta
+Assistent: nova precisió, sense repetir el primer torn
+```
 
-Rebutjar preguntes que només funcionen davant d’un document concret, com ara «què explica la secció…?» o «què indica aquesta fila?». Rebutjar també preguntes vagues com «què més?» i variacions de plantilla que demanen la mateixa resposta.
+Pot haver-hi més torns si la conversa ho demana. No hi ha una quota fixa de missatges ni una obligació de convertir cada fet en registre.
 
-## Converses multitorn
+## Revisió abans d'acceptar
 
-La primera resposta ha de resoldre el dubte inicial. El seguiment ha de ser una reacció plausible a aquesta resposta i ha d’obtenir informació nova: una distinció, una conseqüència o un límit. Cap torn no ha de dependre d’una font invisible. La conversa es pot tancar abans si no hi ha una continuació natural.
+Per a cada conversa, decidir `acceptar`, `reescriure` o `descartar` i anotar el motiu:
 
-## Quality gate
+- **Intenció:** sembla una cosa que preguntaria una persona?
+- **Context:** s'entén sense consultar la font?
+- **Seguiment:** és conseqüència natural del torn anterior i afegeix informació?
+- **Resposta:** resol el dubte, sona fluida i no queda tallada?
+- **Fidelitat:** cada afirmació és traçable i conserva els matisos i les incerteses?
+- **Varietat:** aporta una intenció o coneixement que encara no està repetit?
+- **Drets:** tenim permís per incloure aquest material a l'ús previst?
 
-Abans d’acceptar un registre, revisar:
+Una conversa pot ser un bon exemple d'estil i continuar sense ser exportable per manca de drets o de revisió.
 
-- **Naturalitat**: algú ho preguntaria amb aquest motiu i aquest context?
-- **Resposta**: comença per contestar i s’entén sense la fitxa?
-- **Fidelitat**: cada fet surt de la font; les atribucions i incerteses es conserven?
-- **Multitorn**: el seguiment neix del torn anterior i no repeteix la resposta?
-- **Separació**: el missatge només conté la conversa, sense IDs ni notes internes?
-- **Procedència i drets**: es pot tornar a la prova i està clara la condició de reutilització?
-- **Duplicació**: aporta un intent o un fet nou respecte dels registres existents?
+## Exclusions editorials
 
-Decisions: `acceptar`, `reescriure` o `descartar`. Un exemple editorialment bo encara no és exportable si els drets no estan clars.
+Descartar enunciats com aquests:
 
-## Passos
+- «Què explica la secció X?» o «Què indica aquesta fila?»
+- preguntes que depenen d'un document que l'usuari no ha vist;
+- frases incompletes com «I dos topònims que en surten:»;
+- la mateixa pregunta reescrita diverses vegades;
+- seguiments genèrics o afegits només per fer la conversa més llarga;
+- fets que la font no confirma, presentats com a certs.
 
-1. Fer servir els quatre exemples inicials com a referència d’estil i continuar el pilot tema a tema, amb una pregunta per conversa i seguiments naturals.
-2. Per cada unitat d’evidència, crear una conversa útil, justificar-ne l’exclusió o deixar explícit per què no dona per fer-ne una. Cobertura no vol dir fabricar preguntes.
-3. Afegir comparacions i síntesis entre fitxes quan les relacions estiguin documentades.
-4. Deduplicar i separar train/validation/test per tema/font, perquè reformulacions del mateix fet no caiguin en conjunts diferents.
-5. Treballar Language en una via separada; no inventar torns humans ni imitar una veu andorrana amb text generat.
-6. Fer revisió editorial i de drets abans d’exportar. La font amb redistribució denegada o pendent no s’inclou als outputs.
-7. Exportar només registres revisats, traçables i compatibles amb els drets de cada font.
+## Separació Knowledge i Language
 
-## Estat actual i següent pas
+**Knowledge** pot tenir preguntes i respostes redactades a partir de fonts, després de verificar drets i contingut. **Language** ha de preservar parla humana elegible; no s'inventen respostes per imitar un accent ni es converteixen fragments incerts en senyal lingüístic.
 
-La lectura estructural de `docs/temes/` ha inventariat 1.477 fitxes i 87.339 unitats d’evidència. Aquestes unitats no són preguntes ni registres entrenables. El pilot actual conté 38 converses repartides entre el calendari festiu, el Carnaval, el teatre popular i la prehistòria del Madriu. S’han pujat a `main` amb un commit per conversa, i la cobertura traçable és de 220 unitats d’evidència. Cap registre no és encara exportable: les fonts del pilot tenen redistribució denegada o pendent, i els registres continuen en revisió. El pas actual és seguir cobrint temes i fonts aptes; després caldrà revisar els permisos i preparar els splits.
+Les converses pilot de `knowledge/review/conversations.jsonl` mostren el to buscat. La seva procedència i estat són a `knowledge/review/provenance.jsonl`. No es generen splits fins que hi hagi prou registres revisats, drets clars, deduplicació i una estratègia contra la contaminació entre conjunts.
 
-La via Language té 45 entrades, 40 peces de parla, 38 que passen els filtres bàsics i 8.449 fragments marcats com a incerts. No s’hi han trobat torns explícits i les condicions de redistribució continuen pendents; per tant, no hi ha encara sortida d’entrenament.
+## Proper tram
+
+1. Revisar plegats els exemples pilot i ajustar el to.
+2. Acordar quins tipus de dubte i de seguiment funcionen millor.
+3. Aplicar el criteri a un tema petit de Maia i revisar els registres abans d'ampliar-lo.
+4. Incorporar més registres tema a tema, amb procedència i estat editorial per a cadascun.
+5. Només després, automatitzar inventari, cobertura, deduplicació i exportació.

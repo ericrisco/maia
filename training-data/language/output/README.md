@@ -1,5 +1,3 @@
-# Sortides de Language
+# Sortida Language
 
-Encara no hi ha splits. Només s'hi exportaran fragments humans elegibles,
-revisats i redistribuïbles; no s'hi barrejaran respostes sintètiques de
-Knowledge.
+No hi ha splits creats encara. Només s'exportaran fragments autèntics aptes, revisats i amb drets compatibles; caldrà separar per peça o parlant per evitar filtracions entre conjunts.
