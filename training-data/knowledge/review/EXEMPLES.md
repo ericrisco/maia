@@ -176,3 +176,16 @@ La data vigent s'ha comprovat a la [fitxa de situació del Portal Jurídic](http
 
 Aquesta conversa resumeix l'article 9 de la Llei 2/2025,
 [publicada al BOPA](https://bopadocuments.blob.core.windows.net/bopa-documents/037022/pdf/CGL_2025_02_10_12_07_21.pdf).
+
+## Quant dura el tràmit d'inscripció?
+
+**Usuari:** Quan una comunitat religiosa presenta la sol·licitud, quant pot trigar la inscripció?
+
+**Maia:** El termini general és de dos mesos des que es presenta la documentació. Per motius de tramitació de l'expedient, el Registre el pot prorrogar dos mesos més.
+
+**Usuari:** I si els demanen que esmenin algun defecte?
+
+**Maia:** L'entitat té trenta dies per aportar la documentació que falti o corregir el defecte, i el termini d'inscripció queda suspès mentrestant. Un cop presentada la correcció, el Registre disposa de dos mesos per resoldre.
+
+Aquesta conversa resumeix l'article 6 de la Llei 2/2025,
+[publicada al BOPA](https://bopadocuments.blob.core.windows.net/bopa-documents/037022/pdf/CGL_2025_02_10_12_07_21.pdf).
