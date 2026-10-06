@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import hashlib
 import json
 import re
 from collections.abc import Iterable
@@ -93,6 +94,87 @@ class CandidateGenerator(Protocol):
 
     def generate(self, evidence: EvidenceUnit, title: str) -> ConversationCandidate | None:
         """Construeix un candidat o indica que la unitat no és conversacional."""
+
+
+def load_review_conversations(
+    conversations_path: Path,
+    provenance_path: Path,
+    ledger: KnowledgeLedger,
+) -> tuple[ConversationCandidate, ...]:
+    """Load human-authored review conversations and verify their evidence trace."""
+
+    def load_jsonl(path: Path) -> list[dict[str, object]]:
+        records: list[dict[str, object]] = []
+        for line_number, line in enumerate(path.read_text(encoding="utf-8").splitlines(), 1):
+            try:
+                value = json.loads(line)
+            except json.JSONDecodeError as error:
+                raise ValueError(f"{path}:{line_number}: invalid JSON: {error}") from error
+            if not isinstance(value, dict):
+                raise ValueError(f"{path}:{line_number}: expected a JSON object")
+            records.append(value)
+        return records
+
+    conversations = load_jsonl(conversations_path)
+    provenance = load_jsonl(provenance_path)
+    if len(conversations) != len(provenance):
+        raise ValueError("conversation and provenance row counts differ")
+    evidence_by_id = {unit.id: unit for unit in ledger.units}
+    candidates: list[ConversationCandidate] = []
+    for line_number, (record, trace) in enumerate(zip(conversations, provenance, strict=True), 1):
+        if trace.get("example_line") != line_number:
+            raise ValueError(f"provenance example_line mismatch at row {line_number}")
+        serialized = json.dumps(record, ensure_ascii=False, separators=(",", ":"))
+        digest = hashlib.sha256(serialized.encode("utf-8")).hexdigest()
+        if trace.get("messages_sha256") != digest:
+            raise ValueError(f"conversation hash mismatch at row {line_number}")
+        if set(record) != {"messages"} or not isinstance(record["messages"], list):
+            raise ValueError(f"conversation row {line_number} violates the public schema")
+        messages = record["messages"]
+        if len(messages) < 2 or len(messages) % 2:
+            raise ValueError(f"conversation row {line_number} must contain complete turn pairs")
+        texts: list[str] = []
+        for index, message in enumerate(messages):
+            expected_role = "user" if index % 2 == 0 else "assistant"
+            if (
+                not isinstance(message, dict)
+                or set(message) != {"role", "content"}
+                or message.get("role") != expected_role
+                or not isinstance(message.get("content"), str)
+                or not message["content"].strip()
+            ):
+                raise ValueError(
+                    f"conversation row {line_number} has an invalid message {index + 1}"
+                )
+            texts.append(message["content"].strip())
+        raw_evidence_ids = trace.get("evidence_ids")
+        if not isinstance(raw_evidence_ids, list) or not raw_evidence_ids:
+            raise ValueError(f"conversation row {line_number} has no evidence IDs")
+        evidence_ids = tuple(str(item) for item in raw_evidence_ids)
+        missing = set(evidence_ids) - evidence_by_id.keys()
+        if missing:
+            raise ValueError(
+                f"conversation row {line_number} references unknown evidence: {sorted(missing)}"
+            )
+        status = str(trace.get("review_status", "")).strip().casefold()
+        review_status: ReviewStatus = (
+            "human_reviewed"
+            if status in {"approved", "accepted", "human_reviewed"}
+            else "needs_review"
+        )
+        candidates.append(
+            ConversationCandidate(
+                family_id=f"review:{line_number}",
+                evidence_ids=evidence_ids,
+                user=texts[0],
+                assistant=texts[1],
+                review_status=review_status,
+                follow_ups=tuple(
+                    (texts[index], texts[index + 1]) for index in range(2, len(texts), 2)
+                ),
+            )
+        )
+    return tuple(candidates)
 
 
 class LiteralEvidenceGenerator:
