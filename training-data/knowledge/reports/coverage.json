@@ -1,5 +1,5 @@
 {
-  "conversations": 29,
+  "conversations": 30,
   "document_coverage": {
     "temes/costums/calendari-festiu/calendari-festiu-index-de-fitxes.md": {
       "evidence_units": 7,
@@ -1031,10 +1031,10 @@
       "evidence_units": 113,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 43,
-      "remaining_unrepresented": 70,
+      "mentioned_in_review": 49,
+      "remaining_unrepresented": 64,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 43
+      "rights_pending_or_restricted": 49
     },
     "temes/cultura/teatre/la-vida-teatral.md": {
       "evidence_units": 108,
@@ -13299,15 +13299,15 @@
   "evidence_units": 87339,
   "evidence_units_explicitly_excluded": 0,
   "evidence_units_export_ready": 0,
-  "evidence_units_mentioned_in_review": 169,
-  "evidence_units_remaining_unrepresented": 87170,
+  "evidence_units_mentioned_in_review": 175,
+  "evidence_units_remaining_unrepresented": 87164,
   "evidence_units_with_redistributable_review_draft": 14,
   "export_ready_records": 0,
   "human_reviewed_records": 0,
-  "provenance_rows": 29,
+  "provenance_rows": 30,
   "records_by_redistribution": {
     "allowed": 3,
-    "pending": 21,
+    "pending": 22,
     "prohibited": 5
   },
   "scope": "docs/temes structural evidence; review mentions are not training approval",
@@ -13529,10 +13529,10 @@
       "evidence_units": 244,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 43,
-      "remaining_unrepresented": 201,
+      "mentioned_in_review": 49,
+      "remaining_unrepresented": 195,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 43
+      "rights_pending_or_restricted": 49
     },
     "temes/economia": {
       "documents": 1,
