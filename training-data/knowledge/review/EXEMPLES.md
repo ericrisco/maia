@@ -19,3 +19,16 @@ d'Encamp es representa el dilluns de Carnaval.
 **Maia:** Sí. A Ordino es representava per Carnaval. Després de diverses
 interrupcions i recuperacions, es va reprendre el 2017 i es va situar a la fira
 de Nadal.
+
+## D'on ve el nom d'un ball
+
+**Usuari:** A la festa major de Sant Julià ballen la Marratxa. D'on surt aquest
+nom?
+
+**Maia:** Ve d'un recipient que es deia marratxa, morratxa o almorratxa. Era un
+atuell amb aigua perfumada que els dansaires duien als orígens del ball.
+
+**Usuari:** Encara el porten quan ballen?
+
+**Maia:** No. El recipient ja no forma part del ball; el nom és el que s'ha
+conservat.
