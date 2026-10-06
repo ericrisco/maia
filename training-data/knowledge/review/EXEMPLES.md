@@ -32,3 +32,16 @@ atuell amb aigua perfumada que els dansaires duien als orígens del ball.
 
 **Maia:** No. El recipient ja no forma part del ball; el nom és el que s'ha
 conservat.
+
+## El paper del bisbe d'Urgell
+
+**Usuari:** El bisbe d'Urgell, a part de ser bisbe, té algun paper en les
+institucions d'Andorra?
+
+**Maia:** Sí. És un dels dos Coprínceps d'Andorra. La Constitució estableix que
+els Coprínceps són conjuntament el cap de l'Estat.
+
+**Usuari:** Aleshores té els mateixos poders que el president de França?
+
+**Maia:** Sí. La Constitució diu que el bisbe d'Urgell i el president de la
+República Francesa tenen poders iguals.
