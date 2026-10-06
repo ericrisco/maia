@@ -46,16 +46,16 @@ Decisions: `acceptar`, `reescriure` o `descartar`. Un exemple editorialment bo e
 
 ## Passos
 
-1. Revisar junts els quatre exemples de `knowledge/review/conversations.jsonl`; retocar el to segons el que soni natural.
-2. Fer un pilot petit en un sol tema i revisar-lo abans d’ampliar el volum.
-3. Avançar per temes; per cada unitat d’evidència, crear una conversa útil, justificar-ne l’exclusió o deixar explícit per què no dona per fer-ne una. Cobertura no vol dir fabricar preguntes.
-4. Afegir comparacions i síntesis entre fitxes quan les relacions estiguin documentades.
-5. Deduplicar i separar train/validation/test per tema/font, perquè reformulacions del mateix fet no caiguin en conjunts diferents.
-6. Treballar Language en una via separada; no inventar torns humans ni imitar una veu andorrana amb text generat.
+1. Fer servir els quatre exemples inicials com a referència d’estil i continuar el pilot tema a tema, amb una pregunta per conversa i seguiments naturals.
+2. Per cada unitat d’evidència, crear una conversa útil, justificar-ne l’exclusió o deixar explícit per què no dona per fer-ne una. Cobertura no vol dir fabricar preguntes.
+3. Afegir comparacions i síntesis entre fitxes quan les relacions estiguin documentades.
+4. Deduplicar i separar train/validation/test per tema/font, perquè reformulacions del mateix fet no caiguin en conjunts diferents.
+5. Treballar Language en una via separada; no inventar torns humans ni imitar una veu andorrana amb text generat.
+6. Fer revisió editorial i de drets abans d’exportar. La font amb redistribució denegada o pendent no s’inclou als outputs.
 7. Exportar només registres revisats, traçables i compatibles amb els drets de cada font.
 
 ## Estat actual i següent pas
 
-La lectura estructural de `docs/temes/` ha inventariat 1.477 fitxes i 87.339 unitats d’evidència. Aquestes unitats no són preguntes ni registres entrenables. El primer pas ara és revisar i ajustar els quatre diàlegs pilot abans de crear més registres.
+La lectura estructural de `docs/temes/` ha inventariat 1.477 fitxes i 87.339 unitats d’evidència. Aquestes unitats no són preguntes ni registres entrenables. El pilot actual conté 31 converses repartides entre el calendari festiu, el Carnaval i el teatre popular. S’han pujat a `main` amb un commit per conversa, i la cobertura traçable és de 178 unitats d’evidència. Cap registre no és encara exportable: les fonts del pilot tenen redistribució denegada o pendent, i els registres continuen en revisió. El pas actual és seguir cobrint temes i fonts aptes; després caldrà revisar els permisos i preparar els splits.
 
 La via Language té 45 entrades, 40 peces de parla, 38 que passen els filtres bàsics i 8.449 fragments marcats com a incerts. No s’hi han trobat torns explícits i les condicions de redistribució continuen pendents; per tant, no hi ha encara sortida d’entrenament.
