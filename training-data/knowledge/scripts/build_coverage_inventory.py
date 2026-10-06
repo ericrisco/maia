@@ -79,6 +79,8 @@ def main() -> None:
             "kind": meta.get("type", "unknown"),
             "title": meta.get("title", path.stem),
             "topic": meta.get("tema", ""),
+            "topic_key": (meta.get("tema", "") if meta.get("tema", "").startswith("temes/")
+                          else f"temes/{meta['tema']}" if meta.get("tema") else "unassigned"),
             "theme": path.relative_to(DOCS).parts[0],
             "font_ids": ids,
             "source_rights_from_frontmatter": source_rights,
@@ -98,9 +100,11 @@ def main() -> None:
     article_docs = [d for d in docs if d["kind"] == "article"]
     cited = {d["path"] for d in article_docs if d["path"] in source_docs}
     by_theme: dict[str, list[dict[str, object]]] = defaultdict(list)
+    by_topic: dict[str, list[dict[str, object]]] = defaultdict(list)
     by_rights: dict[str, list[dict[str, object]]] = defaultdict(list)
     for doc in article_docs:
         by_theme[str(doc["theme"])].append(doc)
+        by_topic[str(doc["topic_key"])].append(doc)
         by_rights[str(doc["rights_triage_from_frontmatter"])].append(doc)
 
     INVENTORY.parent.mkdir(parents=True, exist_ok=True)
@@ -132,6 +136,25 @@ def main() -> None:
     for theme, items in sorted(by_theme.items()):
         covered = sum(1 for d in items if d["path"] in cited)
         lines.append(f"| `{theme}` | {len(items)} | {covered} | {len(items) - covered} |")
+    lines += [
+        "",
+        "## Backlog per branca del corpus",
+        "",
+        "Aquest índex més fi permet avançar branca per branca. `Amb conversa` segueix sent una mesura documental, no una garantia que tots els fets de la branca estiguin ensenyats.",
+        "",
+        "| Branca (`tema`) | Fitxes | Amb conversa citada | Sense conversa | Drets sí* | Pendents* | No* | Falta registre* |",
+        "|---|---:|---:|---:|---:|---:|---:|---:|",
+    ]
+    for topic, items in sorted(by_topic.items()):
+        covered = sum(1 for d in items if d["path"] in cited)
+        rights = Counter(str(d["rights_triage_from_frontmatter"]) for d in items)
+        lines.append(
+            f"| `{topic}` | {len(items)} | {covered} | {len(items) - covered} | {rights['yes']} | {rights['pending']} | {rights['no']} | {rights['missing']} |"
+        )
+    lines += [
+        "",
+        "* Drets segons només la font principal indicada a la capçalera; cal revisar totes les fonts emprades en cada conversa abans d'exportar.",
+    ]
     lines += [
         "",
         "## Tria inicial de drets a la font principal declarada",
