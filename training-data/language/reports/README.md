@@ -1,4 +1,6 @@
 # Informes de Maia Language
 
-Quan s'auditi `docs/parla/`, informa de peces revisades, incloses i excloses,
-fiabilitat de transcripció, drets, parlants i fragments utilitzats.
+`eligibility.md` és el primer inventari de `docs/parla/`. Informa de peces
+marcades aptes, font i senyals de transcripció. No equival a una revisió dels
+drets o a una decisió final d'inclusió. Més endavant, informa de peces
+revisades, incloses i excloses, fiabilitat, drets, parlants i fragments usats.
