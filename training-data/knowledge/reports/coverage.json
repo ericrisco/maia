@@ -13311,10 +13311,8 @@
     "prohibited": 2
   },
   "scope": "docs/temes structural evidence; review mentions are not training approval",
-  "stale_evidence_reference_count": 1,
-  "stale_evidence_references": {
-    "temes/historia/segle-xix/el-desenllac-de-la-questio-duanera.md#block-000141": 1
-  },
+  "stale_evidence_reference_count": 0,
+  "stale_evidence_references": {},
   "topic_coverage": {
     "temes/costums": {
       "documents": 1,
