@@ -57,6 +57,19 @@ text de farciment.
 5. **Aprovar i exportar:** separar fonts, peces i temes entre train,
    validation i test; exportar només registres revisats, traçables i aptes.
 
+## Estat mesurat del corpus
+
+L'extracció inicial de `docs/temes/` ha llegit 1.477 fitxes sense errors de
+Markdown i ha registrat seccions, taules, files i unitats estructurals a
+`knowledge/reports/inventory.json`. Les 87.339 unitats detectades encara no són
+converses: s'han de representar amb preguntes útils o tancar-les amb una
+exclusió raonada.
+
+El report de `docs/parla/` registra 45 entrades, 40 peces de parla, 38 peces
+que passen els filtres bàsics, 8.449 marques d'incertesa i zero converses amb
+torns explícits. Totes les 40 referències de procedència tenen redistribució
+pendent. Fins que això canviï, Language no pot tenir un output d'entrenament.
+
 ## Porta d'entrada a l'entrenament
 
 Un exemple de revisió no és encara una mostra de producció. Abans d'exportar
