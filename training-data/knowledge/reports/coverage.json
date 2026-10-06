@@ -1,5 +1,5 @@
 {
-  "conversations": 87,
+  "conversations": 88,
   "document_coverage": {
     "temes/costums/calendari-festiu/calendari-festiu-index-de-fitxes.md": {
       "evidence_units": 7,
@@ -140,10 +140,10 @@
       "evidence_units": 43,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 0,
-      "remaining_unrepresented": 43,
+      "mentioned_in_review": 15,
+      "remaining_unrepresented": 28,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 0
+      "rights_pending_or_restricted": 15
     },
     "temes/costums/festes-majors/el-calendari-de-les-festes-majors.md": {
       "evidence_units": 44,
@@ -13299,15 +13299,15 @@
   "evidence_units": 87339,
   "evidence_units_explicitly_excluded": 0,
   "evidence_units_export_ready": 0,
-  "evidence_units_mentioned_in_review": 390,
-  "evidence_units_remaining_unrepresented": 86949,
+  "evidence_units_mentioned_in_review": 405,
+  "evidence_units_remaining_unrepresented": 86934,
   "evidence_units_with_redistributable_review_draft": 113,
   "export_ready_records": 0,
   "human_reviewed_records": 0,
-  "provenance_rows": 87,
+  "provenance_rows": 88,
   "records_by_redistribution": {
     "allowed": 32,
-    "pending": 54,
+    "pending": 55,
     "prohibited": 1
   },
   "scope": "docs/temes structural evidence; review mentions are not training approval",
@@ -13359,10 +13359,10 @@
       "evidence_units": 49,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 0,
-      "remaining_unrepresented": 49,
+      "mentioned_in_review": 15,
+      "remaining_unrepresented": 34,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 0
+      "rights_pending_or_restricted": 15
     },
     "temes/costums/festes-majors": {
       "documents": 3,
