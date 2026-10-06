@@ -1,5 +1,5 @@
 {
-  "conversations": 36,
+  "conversations": 37,
   "document_coverage": {
     "temes/costums/calendari-festiu/calendari-festiu-index-de-fitxes.md": {
       "evidence_units": 7,
@@ -6242,9 +6242,9 @@
       "evidence_units": 23,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 9,
-      "remaining_unrepresented": 14,
-      "rights_cleared_in_review": 9,
+      "mentioned_in_review": 12,
+      "remaining_unrepresented": 11,
+      "rights_cleared_in_review": 12,
       "rights_pending_or_restricted": 0
     },
     "temes/historia/origens/sant-vicenc-enclar-esglesia-i-poblat.md": {
@@ -13299,14 +13299,14 @@
   "evidence_units": 87339,
   "evidence_units_explicitly_excluded": 0,
   "evidence_units_export_ready": 0,
-  "evidence_units_mentioned_in_review": 212,
-  "evidence_units_remaining_unrepresented": 87127,
-  "evidence_units_with_redistributable_review_draft": 23,
+  "evidence_units_mentioned_in_review": 215,
+  "evidence_units_remaining_unrepresented": 87124,
+  "evidence_units_with_redistributable_review_draft": 26,
   "export_ready_records": 0,
   "human_reviewed_records": 0,
-  "provenance_rows": 36,
+  "provenance_rows": 37,
   "records_by_redistribution": {
-    "allowed": 5,
+    "allowed": 6,
     "pending": 26,
     "prohibited": 5
   },
@@ -13909,9 +13909,9 @@
       "evidence_units": 640,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 9,
-      "remaining_unrepresented": 631,
-      "rights_cleared_in_review": 9,
+      "mentioned_in_review": 12,
+      "remaining_unrepresented": 628,
+      "rights_cleared_in_review": 12,
       "rights_pending_or_restricted": 0
     },
     "temes/historia/pareatge": {
