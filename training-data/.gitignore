@@ -1,0 +1,8 @@
+# Reproducible, local intermediate ledgers can be regenerated from docs/.
+/knowledge/work/*.jsonl
+/knowledge/work/*.json
+/language/work/*.jsonl
+/language/work/*.json
+
+# The full per-unit coverage ledger is large; keep a compact summary in reports/.
+/knowledge/reports/coverage.json
