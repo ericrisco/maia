@@ -151,3 +151,15 @@ Aquesta conversa resumeix l'article 3 de la Llei 2/2025,
 
 Aquesta conversa resumeix els criteris de l'article 3 de la Llei 2/2025,
 [publicada al BOPA](https://bopadocuments.blob.core.windows.net/bopa-documents/037022/pdf/CGL_2025_02_10_12_07_21.pdf).
+
+## El tràmit de les entitats ja registrades
+
+**Usuari:** Una entitat religiosa que ja era al Registre d'associacions abans de la Llei 2/2025 havia de començar el tràmit de zero?
+
+**Maia:** Havia de demanar la inscripció al nou Registre d'entitats religioses, però no havia de tornar a presentar els documents que ja constessin al registre anterior si complien els requisits específics de la nova llei.
+
+**Usuari:** I quin termini li donava la llei?
+
+**Maia:** Dos anys des que la Llei 2/2025 va entrar en vigor. El Portal Jurídic situa l'entrada en vigor el 19 d'agost del 2025; per tant, el termini de dos anys arriba al 19 d'agost del 2027.
+
+La data vigent s'ha comprovat a la [fitxa de situació del Portal Jurídic](https://portaljuridicandorra.ad/L2025002_F); la disposició transitòria i l'entrada en vigor consten al [text oficial de la llei](https://bopadocuments.blob.core.windows.net/bopa-documents/037022/pdf/CGL_2025_02_10_12_07_21.pdf).
