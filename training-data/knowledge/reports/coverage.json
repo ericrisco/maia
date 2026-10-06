@@ -1,5 +1,5 @@
 {
-  "conversations": 73,
+  "conversations": 74,
   "document_coverage": {
     "temes/costums/calendari-festiu/calendari-festiu-index-de-fitxes.md": {
       "evidence_units": 7,
@@ -12794,10 +12794,10 @@
       "evidence_units": 89,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 40,
-      "remaining_unrepresented": 49,
+      "mentioned_in_review": 46,
+      "remaining_unrepresented": 43,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 40
+      "rights_pending_or_restricted": 46
     },
     "temes/territori/geografia-fisica/la-ratlla-passa-a-laltra-banda-de-laigua.md": {
       "evidence_units": 92,
@@ -13299,15 +13299,15 @@
   "evidence_units": 87339,
   "evidence_units_explicitly_excluded": 0,
   "evidence_units_export_ready": 0,
-  "evidence_units_mentioned_in_review": 316,
-  "evidence_units_remaining_unrepresented": 87023,
+  "evidence_units_mentioned_in_review": 322,
+  "evidence_units_remaining_unrepresented": 87017,
   "evidence_units_with_redistributable_review_draft": 110,
   "export_ready_records": 0,
   "human_reviewed_records": 0,
-  "provenance_rows": 73,
+  "provenance_rows": 74,
   "records_by_redistribution": {
     "allowed": 31,
-    "pending": 42
+    "pending": 43
   },
   "scope": "docs/temes structural evidence; review mentions are not training approval",
   "stale_evidence_reference_count": 0,
@@ -14428,10 +14428,10 @@
       "evidence_units": 865,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 156,
-      "remaining_unrepresented": 709,
+      "mentioned_in_review": 162,
+      "remaining_unrepresented": 703,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 156
+      "rights_pending_or_restricted": 162
     },
     "temes/territori/paisatge-construit": {
       "documents": 6,
