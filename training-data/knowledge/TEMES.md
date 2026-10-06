@@ -4,7 +4,7 @@ Font: `docs/temes/`. Recompte del 6 d'octubre de 2026. El recompte inclou tots e
 
 | Tema | Fitxes Markdown | Articles | Índexs | Converses de revisió | Estat |
 |---|---:|---:|---:|---:|---|
-| costums | 34 | 23 | 11 | 11 esborranys no aprovats | pendent |
+| costums | 34 | 23 | 11 | 12 esborranys no aprovats | pendent |
 | cultura | 83 | 72 | 11 | 0 | pendent |
 | economia | 104 | 95 | 9 | 0 | pendent |
 | esports | 280 | 272 | 8 | 0 | pendent |
@@ -17,7 +17,7 @@ Font: `docs/temes/`. Recompte del 6 d'octubre de 2026. El recompte inclou tots e
 | societat | 156 | 142 | 14 | 0 | pendent |
 | territori | 65 | 49 | 16 | 0 | pendent |
 | vida-quotidiana | 18 | 11 | 7 | 0 | pendent |
-| **Total** | **1.477** | **1.348** | **129** | **12 esborranys no aprovats** | **pendent** |
+| **Total** | **1.477** | **1.348** | **129** | **13 esborranys no aprovats** | **pendent** |
 
 ## Regla per tancar un tema
 
