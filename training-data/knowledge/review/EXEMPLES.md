@@ -125,3 +125,16 @@ Aquesta conversa resumeix l'article 14 de la Llei 2/2025,
 
 Aquesta conversa resumeix els articles 8 i 12 de la Llei 2/2025,
 [publicada al BOPA](https://bopadocuments.blob.core.windows.net/bopa-documents/037022/pdf/CGL_2025_02_10_12_07_21.pdf).
+
+## Quines activitats entren al registre religiós?
+
+**Usuari:** Un grup centrat en l'espiritualisme o en fenòmens paranormals es pot inscriure com a entitat religiosa?
+
+**Maia:** No necessàriament. La Llei 2/2025 deixa fora d'aquest Registre les associacions centrades en estudiar fenòmens psíquics o parapsicològics, o a difondre valors espiritualistes i finalitats semblants que no siguin religioses. La clau és l'activitat i la finalitat de l'entitat, no només que s'hi parli d'espiritualitat.
+
+**Usuari:** Això vol dir que la llei les prohibeix?
+
+**Maia:** No és el que diu aquest article. Només estableix que no es consideren entitats religioses a l'efecte d'inscriure's en aquest Registre; el corpus no determina quina altra forma jurídica els correspondria.
+
+Aquesta conversa resumeix l'article 3 de la Llei 2/2025,
+[publicada al BOPA](https://bopadocuments.blob.core.windows.net/bopa-documents/037022/pdf/CGL_2025_02_10_12_07_21.pdf).
