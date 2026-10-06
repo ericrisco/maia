@@ -1,5 +1,5 @@
 {
-  "conversations": 34,
+  "conversations": 35,
   "document_coverage": {
     "temes/costums/calendari-festiu/calendari-festiu-index-de-fitxes.md": {
       "evidence_units": 7,
@@ -6296,10 +6296,10 @@
       "evidence_units": 113,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 6,
-      "remaining_unrepresented": 107,
+      "mentioned_in_review": 9,
+      "remaining_unrepresented": 104,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 6
+      "rights_pending_or_restricted": 9
     },
     "temes/historia/pareatge/el-que-es-dona-en-feu-es-el-domini-util.md": {
       "evidence_units": 85,
@@ -13299,15 +13299,15 @@
   "evidence_units": 87339,
   "evidence_units_explicitly_excluded": 0,
   "evidence_units_export_ready": 0,
-  "evidence_units_mentioned_in_review": 139,
-  "evidence_units_remaining_unrepresented": 87200,
+  "evidence_units_mentioned_in_review": 142,
+  "evidence_units_remaining_unrepresented": 87197,
   "evidence_units_with_redistributable_review_draft": 110,
   "export_ready_records": 0,
   "human_reviewed_records": 0,
-  "provenance_rows": 34,
+  "provenance_rows": 35,
   "records_by_redistribution": {
     "allowed": 31,
-    "pending": 3
+    "pending": 4
   },
   "scope": "docs/temes structural evidence; review mentions are not training approval",
   "stale_evidence_reference_count": 0,
@@ -13918,10 +13918,10 @@
       "evidence_units": 668,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 6,
-      "remaining_unrepresented": 662,
+      "mentioned_in_review": 9,
+      "remaining_unrepresented": 659,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 6
+      "rights_pending_or_restricted": 9
     },
     "temes/historia/segle-xix": {
       "documents": 30,
