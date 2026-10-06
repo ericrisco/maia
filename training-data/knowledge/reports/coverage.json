@@ -14,10 +14,10 @@
       "evidence_units": 40,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 17,
-      "remaining_unrepresented": 23,
+      "mentioned_in_review": 30,
+      "remaining_unrepresented": 10,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 17
+      "rights_pending_or_restricted": 30
     },
     "temes/costums/calendari-festiu/el-carnaval-dencamp.md": {
       "evidence_units": 53,
@@ -8780,10 +8780,10 @@
       "evidence_units": 106,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 68,
-      "remaining_unrepresented": 38,
+      "mentioned_in_review": 70,
+      "remaining_unrepresented": 36,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 68
+      "rights_pending_or_restricted": 70
     },
     "temes/institucions/justicia/es-deixaven-escapar-els-presos.md": {
       "evidence_units": 84,
@@ -13299,8 +13299,8 @@
   "evidence_units": 87339,
   "evidence_units_explicitly_excluded": 0,
   "evidence_units_export_ready": 0,
-  "evidence_units_mentioned_in_review": 188,
-  "evidence_units_remaining_unrepresented": 87151,
+  "evidence_units_mentioned_in_review": 203,
+  "evidence_units_remaining_unrepresented": 87136,
   "evidence_units_with_redistributable_review_draft": 14,
   "export_ready_records": 0,
   "human_reviewed_records": 0,
@@ -13329,10 +13329,10 @@
       "evidence_units": 100,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 38,
-      "remaining_unrepresented": 62,
+      "mentioned_in_review": 51,
+      "remaining_unrepresented": 49,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 38
+      "rights_pending_or_restricted": 51
     },
     "temes/costums/caramelles": {
       "documents": 2,
@@ -13999,10 +13999,10 @@
       "evidence_units": 11566,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 68,
-      "remaining_unrepresented": 11498,
+      "mentioned_in_review": 70,
+      "remaining_unrepresented": 11496,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 68
+      "rights_pending_or_restricted": 70
     },
     "temes/institucions/nacionalitat-i-residencia": {
       "documents": 19,
