@@ -294,7 +294,12 @@ def _unit(
     content: str,
     provenance: tuple[SourceReference, ...],
 ) -> EvidenceUnit:
-    suffix = "metadata" if block_index is None else f"block-{block_index:05d}"
+    if block_index is None:
+        if not block_kind.startswith("metadata_"):
+            raise ValueError("metadata evidence units require a metadata block kind")
+        suffix = block_kind.replace("_", "-", 1)
+    else:
+        suffix = f"block-{block_index:05d}"
     return EvidenceUnit(
         id=f"{document_path}#{suffix}",
         document_path=document_path,
@@ -515,6 +520,9 @@ def extract_knowledge(inventory: Inventory) -> KnowledgeLedger:
         documents_with_ambiguous_source_card=ambiguous_source_cards,
         units_flagged_for_volatility_review=volatility_candidates,
     )
+    unit_ids = [unit.id for unit in units]
+    if len(unit_ids) != len(set(unit_ids)):
+        raise ValueError("knowledge evidence IDs must be unique within the ledger")
     return KnowledgeLedger(
         documents=tuple(documents),
         units=tuple(units),

@@ -17,6 +17,11 @@ classificar-les en converses, exclusions justificades o dubtes de font.
 - `review/quality-rubric.md`: criteris per acceptar, reescriure o descartar.
 - `output/`: buit fins que hi hagi registres aprovats i exportables.
 - `reports/inventory.json`: mètriques de lectura del corpus temàtic.
+- `reports/coverage.json`: unitats esmentades als esborranys, permisos i
+  cobertura pendent per tema i per fitxa. Regenera'l amb
+  `python3 training-data/scripts/build_knowledge_review_coverage.py` després
+  d'actualitzar converses o procedències; el recompte «esmentat» no vol dir
+  aprovat per entrenar.
 - `work/`: ledgers detallats regenerables; Git els ignora.
 
 El JSONL de cada conversa només conté `messages`. No hi afegim IDs, cites,
