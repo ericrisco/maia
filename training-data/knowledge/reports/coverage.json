@@ -1,5 +1,5 @@
 {
-  "conversations": 42,
+  "conversations": 43,
   "document_coverage": {
     "temes/costums/calendari-festiu/calendari-festiu-index-de-fitxes.md": {
       "evidence_units": 7,
@@ -12821,10 +12821,10 @@
       "evidence_units": 116,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 26,
-      "remaining_unrepresented": 90,
+      "mentioned_in_review": 29,
+      "remaining_unrepresented": 87,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 26
+      "rights_pending_or_restricted": 29
     },
     "temes/territori/paisatge-construit/dos-pianos-i-una-carretera.md": {
       "evidence_units": 74,
@@ -13299,15 +13299,15 @@
   "evidence_units": 87339,
   "evidence_units_explicitly_excluded": 0,
   "evidence_units_export_ready": 0,
-  "evidence_units_mentioned_in_review": 177,
-  "evidence_units_remaining_unrepresented": 87162,
+  "evidence_units_mentioned_in_review": 180,
+  "evidence_units_remaining_unrepresented": 87159,
   "evidence_units_with_redistributable_review_draft": 110,
   "export_ready_records": 0,
   "human_reviewed_records": 0,
-  "provenance_rows": 42,
+  "provenance_rows": 43,
   "records_by_redistribution": {
     "allowed": 31,
-    "pending": 11
+    "pending": 12
   },
   "scope": "docs/temes structural evidence; review mentions are not training approval",
   "stale_evidence_reference_count": 0,
@@ -14428,10 +14428,10 @@
       "evidence_units": 865,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 26,
-      "remaining_unrepresented": 839,
+      "mentioned_in_review": 29,
+      "remaining_unrepresented": 836,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 26
+      "rights_pending_or_restricted": 29
     },
     "temes/territori/paisatge-construit": {
       "documents": 6,
