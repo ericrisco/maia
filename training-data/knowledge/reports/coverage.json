@@ -1,5 +1,5 @@
 {
-  "conversations": 55,
+  "conversations": 56,
   "document_coverage": {
     "temes/costums/calendari-festiu/calendari-festiu-index-de-fitxes.md": {
       "evidence_units": 7,
@@ -12758,10 +12758,10 @@
       "evidence_units": 80,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 0,
-      "remaining_unrepresented": 80,
+      "mentioned_in_review": 12,
+      "remaining_unrepresented": 68,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 0
+      "rights_pending_or_restricted": 12
     },
     "temes/territori/geografia-fisica/en-la-ubaga-tot-hom-hi-pot-anar.md": {
       "evidence_units": 135,
@@ -13299,15 +13299,15 @@
   "evidence_units": 87339,
   "evidence_units_explicitly_excluded": 0,
   "evidence_units_export_ready": 0,
-  "evidence_units_mentioned_in_review": 205,
-  "evidence_units_remaining_unrepresented": 87134,
+  "evidence_units_mentioned_in_review": 217,
+  "evidence_units_remaining_unrepresented": 87122,
   "evidence_units_with_redistributable_review_draft": 110,
   "export_ready_records": 0,
   "human_reviewed_records": 0,
-  "provenance_rows": 55,
+  "provenance_rows": 56,
   "records_by_redistribution": {
     "allowed": 31,
-    "pending": 24
+    "pending": 25
   },
   "scope": "docs/temes structural evidence; review mentions are not training approval",
   "stale_evidence_reference_count": 0,
@@ -14428,10 +14428,10 @@
       "evidence_units": 865,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 53,
-      "remaining_unrepresented": 812,
+      "mentioned_in_review": 65,
+      "remaining_unrepresented": 800,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 53
+      "rights_pending_or_restricted": 65
     },
     "temes/territori/paisatge-construit": {
       "documents": 6,
