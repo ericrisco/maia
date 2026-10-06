@@ -1,5 +1,5 @@
 {
-  "conversations": 32,
+  "conversations": 33,
   "document_coverage": {
     "temes/costums/calendari-festiu/calendari-festiu-index-de-fitxes.md": {
       "evidence_units": 7,
@@ -5279,9 +5279,9 @@
       "evidence_units": 37,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 0,
-      "remaining_unrepresented": 37,
-      "rights_cleared_in_review": 0,
+      "mentioned_in_review": 5,
+      "remaining_unrepresented": 32,
+      "rights_cleared_in_review": 5,
       "rights_pending_or_restricted": 0
     },
     "temes/historia/edat-mitjana/andorra-defensa-emprius-lles-travesseres-1386.md": {
@@ -13299,14 +13299,14 @@
   "evidence_units": 87339,
   "evidence_units_explicitly_excluded": 0,
   "evidence_units_export_ready": 0,
-  "evidence_units_mentioned_in_review": 128,
-  "evidence_units_remaining_unrepresented": 87211,
-  "evidence_units_with_redistributable_review_draft": 105,
+  "evidence_units_mentioned_in_review": 133,
+  "evidence_units_remaining_unrepresented": 87206,
+  "evidence_units_with_redistributable_review_draft": 110,
   "export_ready_records": 0,
   "human_reviewed_records": 0,
-  "provenance_rows": 32,
+  "provenance_rows": 33,
   "records_by_redistribution": {
-    "allowed": 30,
+    "allowed": 31,
     "pending": 2
   },
   "scope": "docs/temes structural evidence; review mentions are not training approval",
@@ -13848,9 +13848,9 @@
       "evidence_units": 1855,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 0,
-      "remaining_unrepresented": 1855,
-      "rights_cleared_in_review": 0,
+      "mentioned_in_review": 5,
+      "remaining_unrepresented": 1850,
+      "rights_cleared_in_review": 5,
       "rights_pending_or_restricted": 0
     },
     "temes/historia/guerres-i-neutralitat": {
