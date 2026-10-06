@@ -23,7 +23,7 @@ La cobertura és per document citat i és només un límit inferior: una cita no
 | `esports` | 272 | 0 | 272 |
 | `gastronomia` | 15 | 0 | 15 |
 | `historia` | 226 | 0 | 226 |
-| `institucions` | 338 | 0 | 338 |
+| `institucions` | 338 | 1 | 337 |
 | `llengua` | 43 | 0 | 43 |
 | `persones` | 43 | 0 | 43 |
 | `politica` | 19 | 0 | 19 |
@@ -102,7 +102,7 @@ Aquest índex més fi permet avançar branca per branca. `Amb conversa` segueix 
 | `temes/historia/segle-xx-primera-meitat` | 30 | 0 | 30 | 9 | 6 | 15 | 0 |
 | `temes/institucions/comuns-i-parroquies` | 35 | 0 | 35 | 6 | 29 | 0 | 0 |
 | `temes/institucions/consell-general` | 84 | 0 | 84 | 4 | 79 | 1 | 0 |
-| `temes/institucions/coprincipat` | 33 | 0 | 33 | 5 | 28 | 0 | 0 |
+| `temes/institucions/coprincipat` | 33 | 1 | 32 | 5 | 28 | 0 | 0 |
 | `temes/institucions/govern` | 8 | 0 | 8 | 6 | 1 | 1 | 0 |
 | `temes/institucions/justicia` | 138 | 0 | 138 | 24 | 113 | 1 | 0 |
 | `temes/institucions/nacionalitat-i-residencia` | 18 | 0 | 18 | 10 | 8 | 0 | 0 |
@@ -176,7 +176,7 @@ Aquesta tria només mira el camp `font` de la capçalera i la seva fitxa a `docs
 | `pending` | 604 |
 | `missing` | 1 |
 
-**Total:** 1348 fitxes article; **3** tenen almenys una conversa citada i **1345** encara no en tenen.
+**Total:** 1348 fitxes article; **4** tenen almenys una conversa citada i **1344** encara no en tenen.
 
 ## Límits
 
