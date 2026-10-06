@@ -1,5 +1,5 @@
 {
-  "conversations": 10,
+  "conversations": 11,
   "document_coverage": {
     "temes/costums/calendari-festiu/calendari-festiu-index-de-fitxes.md": {
       "evidence_units": 7,
@@ -8780,10 +8780,10 @@
       "evidence_units": 106,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 45,
-      "remaining_unrepresented": 61,
+      "mentioned_in_review": 51,
+      "remaining_unrepresented": 55,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 45
+      "rights_pending_or_restricted": 51
     },
     "temes/institucions/justicia/es-deixaven-escapar-els-presos.md": {
       "evidence_units": 84,
@@ -13299,15 +13299,15 @@
   "evidence_units": 87339,
   "evidence_units_explicitly_excluded": 0,
   "evidence_units_export_ready": 0,
-  "evidence_units_mentioned_in_review": 65,
-  "evidence_units_remaining_unrepresented": 87274,
+  "evidence_units_mentioned_in_review": 71,
+  "evidence_units_remaining_unrepresented": 87268,
   "evidence_units_with_redistributable_review_draft": 14,
   "export_ready_records": 0,
   "human_reviewed_records": 0,
-  "provenance_rows": 10,
+  "provenance_rows": 11,
   "records_by_redistribution": {
     "allowed": 3,
-    "pending": 7
+    "pending": 8
   },
   "scope": "docs/temes structural evidence; review mentions are not training approval",
   "stale_evidence_reference_count": 0,
@@ -13998,10 +13998,10 @@
       "evidence_units": 11566,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 45,
-      "remaining_unrepresented": 11521,
+      "mentioned_in_review": 51,
+      "remaining_unrepresented": 11515,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 45
+      "rights_pending_or_restricted": 51
     },
     "temes/institucions/nacionalitat-i-residencia": {
       "documents": 19,
