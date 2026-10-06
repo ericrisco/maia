@@ -1,5 +1,5 @@
 {
-  "conversations": 95,
+  "conversations": 96,
   "document_coverage": {
     "temes/costums/calendari-festiu/calendari-festiu-index-de-fitxes.md": {
       "evidence_units": 7,
@@ -6377,9 +6377,9 @@
       "evidence_units": 169,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 3,
-      "remaining_unrepresented": 166,
-      "rights_cleared_in_review": 0,
+      "mentioned_in_review": 9,
+      "remaining_unrepresented": 160,
+      "rights_cleared_in_review": 6,
       "rights_pending_or_restricted": 3
     },
     "temes/historia/segle-xix/el-prefecte-va-ratllar-la-paraula-republica.md": {
@@ -13299,20 +13299,22 @@
   "evidence_units": 87339,
   "evidence_units_explicitly_excluded": 0,
   "evidence_units_export_ready": 0,
-  "evidence_units_mentioned_in_review": 436,
-  "evidence_units_remaining_unrepresented": 86903,
-  "evidence_units_with_redistributable_review_draft": 127,
+  "evidence_units_mentioned_in_review": 442,
+  "evidence_units_remaining_unrepresented": 86897,
+  "evidence_units_with_redistributable_review_draft": 133,
   "export_ready_records": 0,
   "human_reviewed_records": 0,
-  "provenance_rows": 95,
+  "provenance_rows": 96,
   "records_by_redistribution": {
-    "allowed": 36,
+    "allowed": 37,
     "pending": 57,
     "prohibited": 2
   },
   "scope": "docs/temes structural evidence; review mentions are not training approval",
-  "stale_evidence_reference_count": 0,
-  "stale_evidence_references": {},
+  "stale_evidence_reference_count": 1,
+  "stale_evidence_references": {
+    "temes/historia/segle-xix/el-desenllac-de-la-questio-duanera.md#block-000141": 1
+  },
   "topic_coverage": {
     "temes/costums": {
       "documents": 1,
@@ -13929,9 +13931,9 @@
       "evidence_units": 2538,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 10,
-      "remaining_unrepresented": 2528,
-      "rights_cleared_in_review": 0,
+      "mentioned_in_review": 16,
+      "remaining_unrepresented": 2522,
+      "rights_cleared_in_review": 6,
       "rights_pending_or_restricted": 10
     },
     "temes/historia/segle-xx-primera-meitat": {
