@@ -138,3 +138,16 @@ Aquesta conversa resumeix els articles 8 i 12 de la Llei 2/2025,
 
 Aquesta conversa resumeix l'article 3 de la Llei 2/2025,
 [publicada al BOPA](https://bopadocuments.blob.core.windows.net/bopa-documents/037022/pdf/CGL_2025_02_10_12_07_21.pdf).
+
+## Quan es pot denegar una inscripció?
+
+**Usuari:** El Govern pot rebutjar la inscripció d'un grup només perquè el consideri una secta?
+
+**Maia:** La Llei 2/2025 no ho formula com una exclusió automàtica per l'etiqueta de «secta». Permet denegar l'accés al Registre quan s'acredita que l'entitat fa un proselitisme abusiu o il·lícit amb mitjans que perjudiquen la dignitat i la llibertat de les persones. La mesura també ha de ser proporcionada.
+
+**Usuari:** Per tant, no n'hi ha prou amb una sospita?
+
+**Maia:** Correcte. La llei exigeix que els elements de risc quedin degudament acreditats i que la denegació sigui proporcionada; no descriu una exclusió basada només en una sospita o en el nom que algú doni al grup.
+
+Aquesta conversa resumeix els criteris de l'article 3 de la Llei 2/2025,
+[publicada al BOPA](https://bopadocuments.blob.core.windows.net/bopa-documents/037022/pdf/CGL_2025_02_10_12_07_21.pdf).
