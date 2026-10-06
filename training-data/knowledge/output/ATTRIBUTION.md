@@ -11,6 +11,7 @@ al projecte.
 ## Fonts dels registres exportats
 
 - Constitució del Principat d'Andorra, article 11; Llei 2/2025, del 23 de gener, qualificada del Registre d'entitats religioses, articles 5 i 10, BOPA núm. 22, 19-02-2025; condicions d'ús registrades a docs/fonts/bopa-ad.md.
+- Constitució del Principat d'Andorra, article 43, BOPA núm. 24, 4-05-1993; text i condicions d'ús registrats a docs/raw/consell-general/bopa-constitucio-1993-num24.txt i docs/fonts/bopa-ad.md.
 - Llei 2/2025, del 23 de gener, qualificada del Registre d'entitats religioses, article 14 i exposició de motius, BOPA núm. 22, 19-02-2025; condicions d'ús registrades a docs/fonts/bopa-ad.md.
 - Llei 2/2025, del 23 de gener, qualificada del Registre d'entitats religioses, article 15, BOPA núm. 22, 19-02-2025; condicions d'ús registrades a docs/fonts/bopa-ad.md.
 - Llei 2/2025, del 23 de gener, qualificada del Registre d'entitats religioses, article 3, BOPA núm. 22, 19-02-2025; condicions d'ús registrades a docs/fonts/bopa-ad.md.

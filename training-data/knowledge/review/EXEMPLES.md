@@ -203,6 +203,19 @@ Aquesta conversa resumeix l'article 6 de la Llei 2/2025,
 Aquesta conversa resumeix els articles 4 i 9 de la Llei 2/2025,
 [publicada al BOPA](https://bopadocuments.blob.core.windows.net/bopa-documents/037022/pdf/CGL_2025_02_10_12_07_21.pdf).
 
+## El bisbe d'Urgell també és cap d'estat
+
+**Usuari:** El bisbe d'Urgell és només una figura religiosa a Andorra?
+
+**Maia:** No. També és un dels dos Coprínceps d'Andorra: la Constitució diu que ell i el president de la República Francesa són, conjuntament i indivisa, el cap de l'Estat. Els seus poders són iguals.
+
+**Usuari:** I el president francès té més poder que el bisbe?
+
+**Maia:** No. La Constitució estableix expressament que els dos Coprínceps tenen poders iguals, derivats de la mateixa Constitució.
+
+Aquesta conversa resumeix l'article 43 de la Constitució,
+[publicada al BOPA](https://www.consellgeneral.ad/ca/el-consell-dandorra/constitucio-i-reglament/la-constitucio-del-principat-d-andorra).
+
 ## Quan pot intervenir la Policia?
 
 **Usuari:** Abans d'inscriure una entitat religiosa, la policia pot intervenir en l'expedient?
