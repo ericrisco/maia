@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import hashlib
 import json
 import shutil
 from pathlib import Path
@@ -10,6 +11,7 @@ from training_data.knowledge_generate import (
     ConversationCandidate,
     build_knowledge_candidates,
     classify_knowledge_candidates,
+    load_review_conversations,
     write_knowledge_candidates,
 )
 
@@ -112,3 +114,38 @@ def test_unreviewed_template_questions_cannot_enter_public_candidate_messages(
 
     public_path = work / "candidate-messages.jsonl"
     assert public_path.read_text(encoding="utf-8") == ""
+
+
+def test_review_loader_marks_unrecorded_additional_source_rights_unknown(
+    tmp_path: Path,
+) -> None:
+    ledger = extract_knowledge(scan_tree(_knowledge_tree(tmp_path)))
+    evidence_id = ledger.units[0].id
+    record = {
+        "messages": [
+            {"role": "user", "content": "Què necessito saber?"},
+            {"role": "assistant", "content": "La resposta documentada."},
+        ]
+    }
+    serialized = json.dumps(record, ensure_ascii=False, separators=(",", ":"))
+    conversations_path = tmp_path / "conversations.jsonl"
+    provenance_path = tmp_path / "provenance.jsonl"
+    conversations_path.write_text(serialized + "\n", encoding="utf-8")
+    provenance_path.write_text(
+        json.dumps(
+            {
+                "example_line": 1,
+                "messages_sha256": hashlib.sha256(serialized.encode("utf-8")).hexdigest(),
+                "evidence_ids": [evidence_id],
+                "source_ids": ["additional-source"],
+                "review_status": "needs human review",
+            },
+            ensure_ascii=False,
+        )
+        + "\n",
+        encoding="utf-8",
+    )
+
+    (candidate,) = load_review_conversations(conversations_path, provenance_path, ledger)
+
+    assert candidate.supporting_source_redistribution == (("additional-source", "unknown"),)

@@ -107,3 +107,27 @@ def test_distinct_followups_are_not_treated_as_exact_duplicates() -> None:
 
     assert len(result.candidates) == 2
     assert result.report.exact_records_removed == 0
+
+
+def test_same_dialogue_with_different_source_rights_stays_separate() -> None:
+    first = ConversationCandidate(
+        family_id="allowed-source",
+        evidence_ids=("evidence-a",),
+        user="Què va passar?",
+        assistant="La decisió es va prendre aquell any.",
+        review_status="needs_review",
+        supporting_source_redistribution=(("source-a", "si"),),
+    )
+    second = ConversationCandidate(
+        family_id="pending-source",
+        evidence_ids=("evidence-b",),
+        user="Què va passar?",
+        assistant="La decisió es va prendre aquell any.",
+        review_status="needs_review",
+        supporting_source_redistribution=(("source-b", "pendent"),),
+    )
+
+    result = deduplicate_knowledge_candidates((first, second))
+
+    assert len(result.candidates) == 2
+    assert result.report.exact_duplicate_groups == 0

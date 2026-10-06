@@ -53,7 +53,15 @@ def _fingerprint(candidate: ConversationCandidate) -> str:
         f"{message['role']}\0{_normalize(message['content'])}"
         for message in candidate.to_public_record()["messages"]
     )
-    return hashlib.sha256(transcript.encode()).hexdigest()
+    source_rights = json.dumps(
+        sorted(
+            (source_id, _normalize(state))
+            for source_id, state in candidate.supporting_source_redistribution
+        ),
+        ensure_ascii=False,
+        separators=(",", ":"),
+    )
+    return hashlib.sha256(f"{transcript}\0{source_rights}".encode()).hexdigest()
 
 
 def _stable_group_id(prefix: str, values: set[str]) -> str:

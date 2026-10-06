@@ -48,6 +48,7 @@ class ConversationCandidate:
     assistant: str
     review_status: ReviewStatus
     follow_ups: tuple[tuple[str, str], ...] = ()
+    supporting_source_redistribution: tuple[tuple[str, str], ...] = ()
 
     def to_public_record(self) -> dict[str, list[dict[str, str]]]:
         """Retorna només l'esquema de missatges que s'exporta al dataset."""
@@ -162,6 +163,24 @@ def load_review_conversations(
             if status in {"approved", "accepted", "human_reviewed"}
             else "needs_review"
         )
+        raw_source_ids = trace.get("source_ids", [])
+        if not isinstance(raw_source_ids, list) or any(
+            not isinstance(source_id, str) for source_id in raw_source_ids
+        ):
+            raise ValueError(f"conversation row {line_number} has invalid source IDs")
+        raw_redistribution = trace.get("source_redistribution", {})
+        if not isinstance(raw_redistribution, dict) or any(
+            not isinstance(source_id, str) or not isinstance(state, str)
+            for source_id, state in raw_redistribution.items()
+        ):
+            raise ValueError(f"conversation row {line_number} has invalid source rights")
+        source_ids = set(raw_source_ids) | set(raw_redistribution)
+        supporting_source_redistribution = tuple(
+            sorted(
+                (source_id, str(raw_redistribution.get(source_id, "unknown")))
+                for source_id in source_ids
+            )
+        )
         candidates.append(
             ConversationCandidate(
                 family_id=f"review:{line_number}",
@@ -172,6 +191,7 @@ def load_review_conversations(
                 follow_ups=tuple(
                     (texts[index], texts[index + 1]) for index in range(2, len(texts), 2)
                 ),
+                supporting_source_redistribution=supporting_source_redistribution,
             )
         )
     return tuple(candidates)
@@ -341,8 +361,20 @@ def classify_knowledge_candidates(
     eligible: list[ConversationCandidate] = []
     conflict_count = 0
     unknown_count = 0
+    allowed_rights = {"si", "sí", "yes", "allowed", "true"}
+    denied_rights = {"no", "false", "not allowed", "denied"}
+    pending_rights = {"pendent", "pending"}
     for candidate in candidates:
         units = [evidence_by_id[item] for item in candidate.evidence_ids if item in evidence_by_id]
+        redistribution_states = [
+            (reference.redistribution or "").strip().casefold()
+            for unit in units
+            for reference in unit.provenance
+        ]
+        redistribution_states.extend(
+            state.strip().casefold()
+            for _, state in candidate.supporting_source_redistribution
+        )
         if not candidate.evidence_ids or len(units) != len(candidate.evidence_ids):
             decision = CandidateDecision(
                 candidate.family_id,
@@ -364,25 +396,20 @@ def classify_knowledge_candidates(
                 "unresolved",
                 "missing_or_invalid_provenance",
             )
-        elif any(
-            reference.redistribution in {"pendent", "pending"}
-            for unit in units
-            for reference in unit.provenance
-        ):
-            decision = CandidateDecision(
-                candidate.family_id,
-                candidate.evidence_ids,
-                "unresolved",
-                "source_redistribution_pending",
-            )
-        elif any(
-            reference.redistribution == "no" for unit in units for reference in unit.provenance
-        ):
+        elif any(state in denied_rights for state in redistribution_states):
             decision = CandidateDecision(
                 candidate.family_id,
                 candidate.evidence_ids,
                 "excluded",
                 "source_redistribution_no",
+            )
+        elif any(state not in allowed_rights for state in redistribution_states):
+            pending = any(state in pending_rights for state in redistribution_states)
+            decision = CandidateDecision(
+                candidate.family_id,
+                candidate.evidence_ids,
+                "unresolved",
+                "source_redistribution_pending" if pending else "source_redistribution_unknown",
             )
         elif any(unit.volatility_score >= 0.5 for unit in units):
             decision = CandidateDecision(

@@ -1,7 +1,10 @@
 from __future__ import annotations
 
 import json
+from dataclasses import replace
 from pathlib import Path
+
+import pytest
 
 from training_data.inventory import scan_tree
 from training_data.knowledge import extract_knowledge
@@ -180,4 +183,38 @@ def test_non_redistributable_source_cannot_enter_public_candidates(tmp_path: Pat
         ).reason
         == "source_redistribution_no"
         for candidate in blocked_candidates
+    )
+
+
+@pytest.mark.parametrize(
+    ("redistribution", "expected_status", "expected_reason"),
+    [
+        ("si", "included", "source_and_evidence_resolved"),
+        ("no", "excluded", "source_redistribution_no"),
+        ("pendent", "unresolved", "source_redistribution_pending"),
+        ("limitada", "unresolved", "source_redistribution_unknown"),
+    ],
+)
+def test_additional_source_rights_gate_reviewed_conversations(
+    tmp_path: Path, redistribution: str, expected_status: str, expected_reason: str
+) -> None:
+    ledger = extract_knowledge(scan_tree(_tree(tmp_path, redistribution="si")))
+    candidates = _review_all(build_knowledge_candidates(ledger), ledger)
+    stable = next(
+        candidate
+        for candidate in candidates
+        if candidate.assistant == "La festa se celebra al poble."
+    )
+    with_supporting_source = replace(
+        stable,
+        supporting_source_redistribution=(("inline-source", redistribution),),
+    )
+
+    classified = classify_knowledge_candidates((with_supporting_source,), ledger)
+
+    decision = classified.decisions[0]
+    assert decision.status == expected_status
+    assert decision.reason == expected_reason
+    assert (with_supporting_source in classified.eligible_candidates) is (
+        expected_status == "included"
     )
