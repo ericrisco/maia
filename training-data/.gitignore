@@ -6,3 +6,7 @@
 
 # The full per-unit coverage ledger is large; keep a compact summary in reports/.
 /knowledge/reports/coverage.json
+/knowledge/work/candidates.jsonl
+/knowledge/work/candidate-decisions.jsonl
+/knowledge/work/candidate-messages.jsonl
+/knowledge/work/candidate-classification.json
