@@ -60,6 +60,21 @@ No esborrarem els esborranys existents per fer veure que el problema no hi és.
 Els mantindrem en revisió i els aprovarem, reescriurem o rebutjarem amb motiu.
 El pilot editorial és separat dels registres acumulats.
 
+## Flux incremental per conversa
+
+Treballar a `main`, tal com ha autoritzat l'usuari. Afegir una conversa nova a
+la vegada. Abans de començar la següent:
+
+1. Confirmar-ne les afirmacions i els drets a les fonts.
+2. Revisar el diàleg sencer amb la rúbrica editorial i validar JSONL, evidència,
+   traça i cobertura.
+3. Revisar `git status` i `git diff`; fer un commit que contingui només aquesta
+   conversa i la seva procedència, més els reports que regeneri.
+4. Fer push a `origin main` i comprovar que la branca queda neta i sincronitzada.
+
+No agrupar converses diferents en un mateix commit ni continuar si el push de
+l'anterior no ha funcionat.
+
 ## Passos
 
 ### 1. Fixar l'estàndard i provar-lo
