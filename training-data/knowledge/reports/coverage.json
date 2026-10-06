@@ -1,5 +1,5 @@
 {
-  "conversations": 98,
+  "conversations": 99,
   "document_coverage": {
     "temes/costums/calendari-festiu/calendari-festiu-index-de-fitxes.md": {
       "evidence_units": 7,
@@ -6980,9 +6980,9 @@
       "evidence_units": 168,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 6,
-      "remaining_unrepresented": 162,
-      "rights_cleared_in_review": 6,
+      "mentioned_in_review": 10,
+      "remaining_unrepresented": 158,
+      "rights_cleared_in_review": 10,
       "rights_pending_or_restricted": 0
     },
     "temes/institucions/comuns-i-parroquies/els-fullats-del-sola-del-vesset-1734-1735.md": {
@@ -13299,14 +13299,14 @@
   "evidence_units": 87339,
   "evidence_units_explicitly_excluded": 0,
   "evidence_units_export_ready": 0,
-  "evidence_units_mentioned_in_review": 452,
-  "evidence_units_remaining_unrepresented": 86887,
-  "evidence_units_with_redistributable_review_draft": 143,
+  "evidence_units_mentioned_in_review": 456,
+  "evidence_units_remaining_unrepresented": 86883,
+  "evidence_units_with_redistributable_review_draft": 147,
   "export_ready_records": 0,
   "human_reviewed_records": 0,
-  "provenance_rows": 98,
+  "provenance_rows": 99,
   "records_by_redistribution": {
-    "allowed": 39,
+    "allowed": 40,
     "pending": 57,
     "prohibited": 2
   },
@@ -13959,9 +13959,9 @@
       "evidence_units": 1476,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 6,
-      "remaining_unrepresented": 1470,
-      "rights_cleared_in_review": 6,
+      "mentioned_in_review": 10,
+      "remaining_unrepresented": 1466,
+      "rights_cleared_in_review": 10,
       "rights_pending_or_restricted": 0
     },
     "temes/institucions/consell-general": {
