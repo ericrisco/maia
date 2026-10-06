@@ -1,9 +1,9 @@
 {
   "scope": "docs/temes/**/*.md with frontmatter type=article",
-  "conversation_candidates": 18,
+  "conversation_candidates": 19,
   "article_documents": 1348,
-  "documents_with_candidate_source": 18,
-  "documents_without_candidate_source": 1330,
+  "documents_with_candidate_source": 19,
+  "documents_without_candidate_source": 1329,
   "sections": 10536,
   "sections_with_explicit_evidence_reference": 12,
   "sections_without_explicit_evidence_reference": 10524,
@@ -101,8 +101,8 @@
     },
     "temes/cultura/llegendes": {
       "documents": 10,
-      "documents_with_candidate_source": 0,
-      "documents_without_candidate_source": 10
+      "documents_with_candidate_source": 1,
+      "documents_without_candidate_source": 9
     },
     "temes/cultura/museus-i-arxius": {
       "documents": 15,
