@@ -1,0 +1,1 @@
+Aquest directori conserva les 10 converses i traçes que formaven el lot actiu abans del criteri orientat a intencions humanes, el 2026-10-07. Són només per consultar la història editorial; no les reincorporis sense revisar pregunta, resposta, evidència i drets des del principi.

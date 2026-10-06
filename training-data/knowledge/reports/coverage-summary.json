@@ -1,23 +1,17 @@
 {
-  "decision_reasons": {
-    "human_review_required": 10
-  },
+  "decision_reasons": {},
   "evidence_explicitly_excluded": 17031,
-  "evidence_referenced_by_review_drafts": 40,
+  "evidence_referenced_by_review_drafts": 0,
   "evidence_represented_by_approved_records": 0,
   "evidence_units": 87339,
   "evidence_unresolved": 70308,
   "export_ready_records": 0,
   "markdown_errors": 0,
   "processed_documents": 1477,
-  "records_in_review": 10,
-  "records_requiring_human_review": 10,
+  "records_in_review": 0,
+  "records_requiring_human_review": 0,
   "scope": "all Markdown documents and structural evidence under docs/temes/",
-  "source_redistribution_states_in_review": {
-    "no": 4,
-    "pendent": 7,
-    "si": 1
-  },
+  "source_redistribution_states_in_review": {},
   "topic_coverage": {
     "temes/costums": {
       "documents": 34,
