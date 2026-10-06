@@ -1,5 +1,5 @@
 {
-  "conversations": 32,
+  "conversations": 33,
   "document_coverage": {
     "temes/costums/calendari-festiu/calendari-festiu-index-de-fitxes.md": {
       "evidence_units": 7,
@@ -13304,10 +13304,10 @@
   "evidence_units_with_redistributable_review_draft": 14,
   "export_ready_records": 0,
   "human_reviewed_records": 0,
-  "provenance_rows": 32,
+  "provenance_rows": 33,
   "records_by_redistribution": {
     "allowed": 3,
-    "pending": 24,
+    "pending": 25,
     "prohibited": 5
   },
   "scope": "docs/temes structural evidence; review mentions are not training approval",
