@@ -1,5 +1,6 @@
 # Informes de Maia Knowledge
 
-Quan comenci la producció, informa de cobertura per fitxa i unitat de
-coneixement, naturalitat, duplicats, drets pendents, registres exclosos i
-recomptes exportats. El nombre de documents amb preguntes no equival a cobertura.
+`coverage-summary.md` informa de l'inventari i de les fitxes que tenen almenys
+una conversa citada. Això no prova cobertura de tots els fets d'una fitxa.
+Quan comenci la producció, afegiu informes de cobertura de contingut,
+naturalitat, duplicats, drets pendents, exclusions i recomptes exportats.

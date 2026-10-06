@@ -1,4 +1,6 @@
 # Eines de Maia Knowledge
 
-Encara no hi ha generadors. Les eines futures han d'ajudar a inventariar,
-validar i deduplicar; no han de fabricar preguntes de manera automàtica.
+`build_coverage_inventory.py` inventaria totes les fitxes Markdown de
+`docs/temes/` i genera el manifest de treball i l'informe de cobertura per tema.
+El recompte de fitxes citades és només orientatiu; no prova que tots els fets
+d'una fitxa estiguin coberts. L'script inventaria, però no redacta preguntes.
