@@ -17,7 +17,7 @@ La cobertura és per document citat i és només un límit inferior: una cita no
 
 | Tema | Fitxes article | Amb conversa citada | Sense conversa citada |
 |---|---:|---:|---:|
-| `costums` | 23 | 1 | 22 |
+| `costums` | 23 | 2 | 21 |
 | `cultura` | 72 | 2 | 70 |
 | `economia` | 95 | 0 | 95 |
 | `esports` | 272 | 0 | 272 |
@@ -31,7 +31,7 @@ La cobertura és per document citat i és només un límit inferior: una cita no
 | `territori` | 49 | 0 | 49 |
 | `vida-quotidiana` | 11 | 0 | 11 |
 
-**Total:** 1348 fitxes article; **4** tenen almenys una conversa citada i **1344** encara no en tenen.
+**Total:** 1348 fitxes article; **5** tenen almenys una conversa citada i **1343** encara no en tenen.
 
 ## Límits
 
