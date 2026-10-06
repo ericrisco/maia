@@ -1,0 +1,9 @@
+{
+  "description": "Assigna cada grup de fonts de Knowledge a un únic split. Si una conversa combina diverses fonts de contingut, totes han de tenir la mateixa assignació.",
+  "groups": {
+    "docs/temes/costums/religiositat/el-registre-dentitats-religioses.md": "train",
+    "docs/raw/lleis/bopa-originals/original-2-2025.txt": "train",
+    "docs/temes/costums/danses/la-marratxa.md": "validation",
+    "docs/temes/cultura/arquitectura/els-estripagecs.md": "test"
+  }
+}

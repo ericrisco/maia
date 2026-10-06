@@ -2,9 +2,7 @@
 **/.DS_Store
 /knowledge/work/*
 !/knowledge/work/README.md
-/knowledge/output/*.jsonl
 /knowledge/reports/*.json
 /language/work/*
 !/language/work/README.md
-/language/output/*.jsonl
 /language/reports/*.json

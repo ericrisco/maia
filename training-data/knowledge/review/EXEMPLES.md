@@ -1,16 +1,16 @@
 # Exemples per calibrar les converses
 
-Aquests dos registres són candidats de revisió, no exemples aprovats per
-entrenar. El JSON de cada conversa és a `conversations.jsonl`; les fonts i els
-drets són a `provenance.jsonl`.
+Els exemples mostren el criteri editorial aplicat a Knowledge. Les converses
+aprovades també són a `conversations.jsonl`; les fonts, els drets i l'estat
+d'exportació són a `provenance.jsonl`.
 
 ## Una peça que es veu en una borda
 
-**Usuari:** He vist unes barres amb punxes al voltant de la finestra d'una borda. Són per evitar que hi entri algú?
+**Usuari:** Aquestes reixes amb punxes que es veuen a les bordes són per impedir que hi entrin lladres?
 
 **Maia:** Sí. Són estripagecs: barrots de ferro amb punxes als costats que dificultaven que un lladre passés el braç entre ells sense esquinçar-se la jaqueta.
 
-**Usuari:** Així el nom ve de la jaqueta?
+**Usuari:** El nom ve del que podia passar amb les jaquetes?
 
 **Maia:** Exacte. Un gec és una jaqueta, i el nom descriu el que les punxes podien fer als gecs de qui intentava entrar.
 
@@ -32,8 +32,8 @@ drets són a `provenance.jsonl`.
 - La conversa no es força a cobrir cada dada disponible.
 - Les respostes eviten fragments telegràfics i títols editorials.
 
-Abans d'exportar-les encara cal una revisió editorial final i comprovar que
-l'atribució i les condicions CC BY-SA 4.0 es conservaran en el conjunt derivat.
+Els dos primers exemples deriven de fonts CC BY-SA 4.0. L'exportació conserva
+l'atribució i aplica la mateixa llicència al conjunt derivat.
 
 ## Una garantia i un tràmit diferents
 
@@ -53,7 +53,7 @@ d'ús del BOPA. La formulació legal s'ha comprovat amb el [text oficial de la L
 
 **Usuari:** Si vull saber quants fidels té cada comunitat religiosa a Andorra, ho puc mirar al registre?
 
-**Maia:** La llei preveu que hi consti el nombre aproximat de persones practicants de cada entitat inscrita. El registre és públic, però la consulta s'ha de fer pels canals del ministeri de Justícia i, en una petició escrita, cal indicar els documents concrets; no és necessàriament una cerca general oberta. El corpus no ha consultat les entrades, així que no pot donar les xifres actuals.
+**Maia:** La llei preveu que hi consti el nombre aproximat de persones practicants de cada entitat inscrita. El registre és públic, però la consulta s'ha de fer pels canals del ministeri de Justícia i, en una petició escrita, cal indicar els documents concrets; no és necessàriament una cerca general oberta. Sense consultar les entrades concretes no es poden donar les xifres actuals.
 
 **Usuari:** Per tant, aquesta xifra no és un recompte de tothom que practica aquella religió?
 
@@ -108,7 +108,7 @@ Aquesta conversa resumeix els articles 7 i 11 de la Llei 2/2025,
 
 **Usuari:** I sabem si aquests canals ja funcionen?
 
-**Maia:** El corpus no ho pot confirmar. La documentació de la llei esmenta reunions amb el Grup de diàleg interreligiós durant la seva elaboració, però no hi ha una font sobre l'activitat d'aquests canals després que la llei entrés en vigor.
+**Maia:** No puc confirmar que aquests canals continuïn actius. La documentació de la llei esmenta reunions amb el Grup de diàleg interreligiós durant la seva elaboració, però no hi ha una font sobre l'activitat d'aquests canals després que la llei entrés en vigor.
 
 Aquesta conversa resumeix l'article 14 de la Llei 2/2025,
 [publicada al BOPA](https://bopadocuments.blob.core.windows.net/bopa-documents/037022/pdf/CGL_2025_02_10_12_07_21.pdf).
@@ -134,7 +134,7 @@ Aquesta conversa resumeix els articles 8 i 12 de la Llei 2/2025,
 
 **Usuari:** Això vol dir que la llei les prohibeix?
 
-**Maia:** No és el que diu aquest article. Només estableix que no es consideren entitats religioses a l'efecte d'inscriure's en aquest Registre; el corpus no determina quina altra forma jurídica els correspondria.
+**Maia:** No és el que diu aquest article. Només estableix que no es consideren entitats religioses a l'efecte d'inscriure's en aquest Registre; no puc determinar quina altra forma jurídica els correspondria.
 
 Aquesta conversa resumeix l'article 3 de la Llei 2/2025,
 [publicada al BOPA](https://bopadocuments.blob.core.windows.net/bopa-documents/037022/pdf/CGL_2025_02_10_12_07_21.pdf).
