@@ -99,3 +99,16 @@ Aquesta conversa resumeix l'article 15 de la Llei 2/2025, [publicada al BOPA](ht
 
 Aquesta conversa resumeix els articles 7 i 11 de la Llei 2/2025,
 [publicada al BOPA](https://bopadocuments.blob.core.windows.net/bopa-documents/037022/pdf/CGL_2025_02_10_12_07_21.pdf).
+
+## Què vol dir que el Govern hagi de dialogar?
+
+**Usuari:** La llei obliga el Govern a mantenir contacte amb les comunitats religioses inscrites?
+
+**Maia:** Sí. L'article 14 de la Llei 2/2025 diu que el Govern ha d'establir canals de comunicació i diàleg amb les entitats inscrites. La llei, però, no concreta cada quant s'han de reunir ni quin mecanisme han de fer servir.
+
+**Usuari:** I sabem si aquests canals ja funcionen?
+
+**Maia:** El corpus no ho pot confirmar. La documentació de la llei esmenta reunions amb el Grup de diàleg interreligiós durant la seva elaboració, però no hi ha una font sobre l'activitat d'aquests canals després que la llei entrés en vigor.
+
+Aquesta conversa resumeix l'article 14 de la Llei 2/2025,
+[publicada al BOPA](https://bopadocuments.blob.core.windows.net/bopa-documents/037022/pdf/CGL_2025_02_10_12_07_21.pdf).
