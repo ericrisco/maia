@@ -1,69 +1,131 @@
-# Pla de Maia Training Data
+# Pla editorial de Maia Training Data
 
-## Objectiu
+## Objectiu d'aquesta fase
 
-Preparar dos conjunts separats a partir de `docs/`:
+Crear converses que sonin com preguntes reals sobre Andorra. No convertim fitxes en qüestionaris ni generem una pregunta per cada dada. Primer decidim quin dubte podria tenir una persona; després comprovem si el corpus permet respondre'l.
 
-- **Maia Knowledge** respon dubtes reals sobre Andorra amb informació del corpus.
-- **Maia Language** conserva català andorrà contemporani de parlants humans.
+El treball de dades es divideix en dos conjunts que no es barregen:
 
-La prioritat és que una persona reconegui el diàleg com una conversa que podria tenir. No convertim títols, apartats, cel·les o paràgrafs en preguntes automàtiques.
+- **Knowledge**: respostes sobre Andorra basades en `docs/temes/` i les seves fonts.
+- **Language**: parla humana autèntica, seleccionada de `docs/parla/` segons `docs/CONTRACT.md`.
 
-## Com escriure Maia Knowledge
+Knowledge i Language s'elaboren en tandes separades. Les mostres de Knowledge fixen el criteri editorial; després es continua fitxa a fitxa sense reduir l'objectiu de cobertura completa.
 
-1. Llegeix la fitxa sencera i les fonts que sostenen la resposta.
-2. Comença pel dubte humà: què necessita aclarir la persona, i per què ho preguntaria?
-3. Escriu la resposta directa. Afegeix només el context necessari perquè s'entengui.
-4. Afegeix un seguiment si la resposta desperta una pregunta concreta i diferent.
-5. Comprova cada afirmació contra la font. Marca clarament els límits, les dates i la incertesa.
-6. Llegeix el diàleg sencer en veu alta. Si sembla una consulta d'examen o una visita guiada per la fitxa, reescriu-lo o descarta'l.
-7. Desa només els missatges al JSONL. Desa fonts, evidència, drets i estat en el fitxer de procedència.
+## Per què el lot anterior no servia
 
-### Regles editorials
+Preguntes com «Què explica la secció…?» o «Què indica aquesta fila?» només tenen sentit per a algú que està mirant una fitxa. No són dubtes espontanis. Sovint provoquen respostes tallades —«apel·lació al Consell General»— o fragments de plantilla —«I dos topònims que en surten»— en lloc d'una resposta conversacional.
 
-- La pregunta ha de funcionar per a algú que no ha vist el document.
-- No esmentis fitxes, apartats, files, gràfics, corpus ni «la informació que has trobat».
-- No inventis una biografia o situació personal per fer entrar una dada.
-- No forcis una segona pregunta. Un intercanvi curt és complet si el dubte queda resolt.
-- El seguiment ha de néixer del que s'acaba de dir i demanar alguna cosa nova.
-- No afirmis causes quan la font només mostra una coincidència o una evolució.
-- Quan les dades siguin mitjanes, estimacions o d'una data concreta, digues-ho.
-- Una resposta pot dir que el corpus no ho permet saber. No omplir buits amb intuïcions.
-- No cal cobrir cada xifra amb una pregunta pròpia. Agrupa dades només quan una persona les relacionaria.
+Canviar el nom de la secció per una paràfrasi no ho arregla. Cal canviar el punt de partida: la necessitat de la persona, no l'estructura del document.
 
-## Estructura
+## Cicle per crear una conversa
+
+1. **Troba un dubte humà.** Escriu en una frase per què algú ho preguntaria: vol entendre una discrepància, prendre una decisió, corregir una idea, situar un fet o saber què implica una norma.
+2. **Descarta la pregunta de fitxa.** Si necessita frases com «aquesta secció», «aquesta fila», «segons el document» o «què diu la fitxa», torna al pas 1.
+3. **Llegeix la font sencera.** Comprova la resposta i el context necessari. No converteixis cada frase, xifra o cel·la en un registre propi.
+4. **Respon directament.** La primera frase ha de resoldre el dubte. Després afegeix el matís que evitaria una conclusió equivocada.
+5. **Afegeix seguiment només si neix de la conversa.** Ha de preguntar una cosa nova que la primera resposta faci venir al cap. No forcis el multitorn.
+6. **Mantén la veu humana.** La persona no sap quina fitxa s'ha consultat. L'assistent tampoc narra el procés de cerca.
+7. **Marca els límits.** Conserva dates, abast, incerteses i desacords entre fonts. No omplis buits amb intuïcions.
+8. **Llegeix-ho en veu alta.** Si sembla un examen, un guió promocional o una visita guiada per la fitxa, reescriu-ho o descarta-ho.
+9. **Registra la traça fora del diàleg.** Fonts, llicències, evidències i decisions editorials van a procedència, mai al text que entrenarà el model.
+
+## Formes de conversa que sí poden funcionar
+
+- **Dubte pràctic:** «Amb el salari mínim, dona per pagar un lloguer?»
+- **Discrepància:** «Per què les dades de població donen dos totals diferents?»
+- **Premissa equivocada:** «La Passa és un ball?»
+- **Conseqüència o abast:** «Si una comunitat no s'inscriu, vol dir que no pot existir?»
+- **Context històric:** «Per què es va deixar de fer servir l'excomunió per cobrar deutes?»
+- **Seguiment real:** «Això vol dir que podem saber quanta gent del país segueix cada religió?»
+
+Són patrons possibles, no plantilles per omplir. No cal cobrir cada tipus amb una quota.
+
+## Regles per als seguiments
+
+- Un torn únic és millor que un seguiment artificial.
+- El seguiment reprèn una idea que acaba de sortir i demana informació nova.
+- No repeteix la pregunta inicial amb altres paraules.
+- No serveix per encabir una dada que quedava fora.
+- Si la primera resposta ja resol el dubte i no provoca cap pregunta natural, la conversa s'acaba.
+
+## Estructura de treball
 
 ```text
 training-data/
 ├── README.md
 ├── PLAN.md
-├── scripts/          # ordres comunes i validació final
+├── scripts/        # ordres i validacions comunes
 ├── knowledge/
-│   ├── scripts/      # inventari, cobertura i validació Knowledge
-│   ├── review/       # converses candidates, mostres i procedència
-│   ├── work/         # inventari i evidència de cobertura
-│   ├── reports/      # qualitat, cobertura, exclusions i drets
-│   └── output/       # només registres revisats i aptes per a l'ús previst
+│   ├── scripts/    # inventari, cobertura i validadors Knowledge
+│   ├── review/       # converses candidates i exemples editorials
+│   ├── work/         # traça i cobertura internes
+│   ├── reports/      # qualitat, cobertura i exclusions
+│   └── output/       # només dades revisades per a l'ús previst
 └── language/
-    ├── scripts/      # extracció i validació Language
-    ├── review/       # fragments humans candidats i procedència
-    ├── work/         # elegibilitat i selecció
-    ├── reports/      # material inclòs i exclòs
-    └── output/       # només registres revisats i aptes per a l'ús previst
+    ├── scripts/    # selecció i validadors Language
+    ├── review/       # candidats de parla per revisar
+    ├── work/         # selecció i incertesa de transcripcions
+    ├── reports/      # peces incloses i excloses
+    └── output/       # només dades revisades per a l'ús previst
 ```
 
-Les mostres actuals de Knowledge són editorials i encara no estan aprovades. Els registres anteriors s'han mogut a `knowledge/review/quarantine/`; no entren als lots nous sense tornar-los a revisar. Els directoris `output/` romanen buits fins que hi hagi aprovació de contingut i drets.
+El fitxer `knowledge/review/conversations.jsonl` és el lot visible de converses candidates. Una línia correspon a una conversa completa, amb missatges alternats `user` i `assistant`. No és una sortida final fins que passa revisió editorial, factual i de drets. La traça associada es desa a `knowledge/review/provenance.jsonl`.
 
-## Maia Language
+Els `output/` només s'omplen amb registres aprovats per al destí concret. Un directori buit vol dir que encara no hi ha cap lot publicable; les mostres de treball han de ser visibles a `review/`, no amagades en fitxers interns.
 
-Només utilitza material de `docs/parla/` que compleixi `docs/CONTRACT.md`: veu originària, contemporània, apta per a llengua, transcripció prou fiable i drets compatibles. No inventis torns de conversa a partir de monòlegs. Conserva les paraules humanes tant com sigui possible.
+## Llindar mínim de revisió
 
-## Cobertura i publicació
+Abans d'acceptar una conversa, comprova:
 
-Per Knowledge, revisa el coneixement útil de totes les fitxes de `docs/temes/`: fets, context, noms, dates, xifres, relacions i límits. Comprova la cobertura per contingut, no per nombre de preguntes.
+1. S'entén sense haver vist la fitxa?
+2. Es veu per què una persona ho preguntaria?
+3. La primera resposta contesta directament?
+4. La conversa sona plausible en veu alta?
+5. Cada afirmació es pot sostenir amb una font de Maia?
+6. El seguiment aporta informació nova i no és forçat?
+7. La resposta conserva dates, límits i matisos importants?
+8. La procedència i els drets estan registrats?
 
-Abans d'exportar qualsevol conjunt: revisa naturalitat i fidelitat, resol drets, elimina duplicats, agrupa converses relacionades abans de separar `train`, `validation` i `test`, valida el JSONL i publica un report de cobertura i exclusions. No divideixis variants d'una mateixa conversa entre splits.
+Una resposta «no» a les preguntes 1, 2, 3 o 5 vol dir reescriure o descartar. Un seguiment que falla la 6 s'elimina sense descartar la resta de la conversa.
 
-## Fase actual
+## Procés de treball
 
-Primer acordarem si les dues mostres de `knowledge/review/conversations.jsonl` sonen humanes i útils. Després corregirem la pauta amb el feedback rebut. Només llavors reprendrem l'elaboració de registres, tema a tema i conversa a conversa. No hi ha quota de volum.
+1. Aprovar l'estil amb unes poques mostres diverses.
+2. Recórrer les fitxes tema a tema i redactar converses només quan hi hagi un dubte natural.
+3. Revisar cada conversa contra les fonts i anotar-ne la procedència.
+4. Fer una revisió de naturalitat i duplicats sobre el lot complet.
+5. Separar conjunts relacionats abans de crear `train`, `validation` i `test`.
+6. Exportar només després de validar drets, contingut i format.
+
+No hi ha quota de registres. Cobrir una dada no justifica una pregunta dolenta.
+
+## Cobertura completa de Knowledge
+
+- Recorre **totes** les fitxes de `docs/temes/`, incloent-ne cada secció, taula i llista. Cap carpeta temàtica queda fora per ser petita, especialitzada o difícil de preguntar.
+- Fes servir l'inventari i les unitats d'evidència de `knowledge/work/` per registrar què queda cobert, pendent o descartat amb motiu.
+- Representa el coneixement útil amb una o més converses només quan hi ha un dubte humà natural. Agrupa fets que una persona relacionaria; no generis preguntes artificials per omplir buits de cobertura.
+- Conserva límits, cronologia, discrepàncies i buits explícits. Una qüestió irresoluble també es pot representar amb una resposta honesta sobre què no se sap.
+- El report final ha de mostrar quines fitxes i quines unitats d'evidència s'han cobert, què s'ha exclòs i per què. «Tots els fitxers llegits» no prova per si sol que s'hagi cobert tot el coneixement útil.
+
+## Cobertura completa de Language
+
+- Inspecciona totes les peces de `docs/parla/`.
+- Inclou només veu originària, contemporània i marcada `apte_llengua: true`, amb transcripció prou fiable i procedència registrada.
+- Conserva la intervenció humana. No inventis preguntes o respostes per convertir un monòleg en diàleg, no normalitzis la varietat andorrana cap al català genèric i no expandis fragments amb un LLM.
+- Si una conversa real està transcrita, mantén-la en ordre i agrupa-la per peça i parlant abans de separar splits. Registra fragments exclosos i el motiu.
+- El report ha d'enumerar totes les peces, les elegibles utilitzades i les exclusions. Cap peça queda implícitament ignorada.
+
+## Commits, splits i preparació per entrenar
+
+- Cada conversa nova o modificada al JSONL de revisió és un commit propi i un push a `main`. Els canvis de pla, estructura i validadors poden tenir commits funcionals separats.
+- No copiïs candidats a `output/` fins que la conversa i la seva procedència hagin passat revisió factual, editorial i de drets per al destí previst.
+- Abans de crear `train`, `validation` i `test`, agrupa per fitxa, tema, source document i conversa d'origen. Cap reformulació o torn gairebé duplicat pot caure en un altre split.
+- Abans de declarar-ho preparat per entrenar, valida totes les línies JSONL, els rols i l'ordre dels torns, continguts no buits, hashes de procedència, duplicats, drets i cobertura. Publica els recomptes i exclusions.
+
+## Definition of Done per conversa
+
+- El dubte és independent de la fitxa i té una motivació humana recognoscible.
+- La resposta és directa, natural i fidel a l'evidència.
+- Cada seguiment és espontani i aporta informació nova; si no, s'elimina.
+- La conversa i la seva procedència estan separades.
+- La conversa no és una variant redundant d'una altra.

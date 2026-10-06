@@ -1,65 +1,100 @@
-# Criteris i exemples de Maia Knowledge
+# Exemples d'edició de Maia Knowledge
 
-## La prova principal
+Aquestes mostres il·lustren com passar d'una pregunta enganxada a una fitxa a un dubte que una persona podria tenir. Les fonts i l'evidència van a `provenance.jsonl`, mai dins del missatge entrenable. Les mostres encara són candidates editorials.
 
-Abans d'escriure, acaba aquesta frase: **«La persona pregunta perquè vol saber…»**. Si la resposta és «perquè ho diu el títol», «perquè surt en una taula» o «perquè cal cobrir aquesta dada», no hi ha encara una pregunta humana.
+## 1. Comparar dos casos concrets
 
-La pregunta ha de tenir un motiu recognoscible fora de la font: resoldre una confusió, entendre una xifra, comparar dues opcions, saber què implica una dada o aclarir què se sap i què no. No inventis context personal només per fer més teatral una pregunta.
+**Descartar:** «Què explica la secció “La regla de competència: depèn de qui és demandat”?»
 
-## Com ha d'avançar el diàleg
+**Per què falla:** pressuposa que la persona té el document obert i li demana resumir un encapçalament.
 
-- Respon primer el dubte principal.
-- Dona el context mínim que evita una lectura equivocada.
-- Fes un seguiment només quan una resposta naturalment el provoqui.
-- El seguiment ha de demanar informació nova. No facis repetir la mateixa resposta.
-- Atura't tan bon punt s'ha resolt el dubte.
-- Escriu com parlaries amb algú, no com si dictessis una fitxa.
+**Millor conversa:**
 
-## Mostres de treball
-
-Aquestes mostres són candidates editorials, no aprovacions ni sortides d'entrenament.
-
-### Cost del lloguer
-
-> —M'estic mirant de venir a viure a Andorra. Amb el salari mínim, dona per pagar un lloguer?
+> —En els plets antics entre un particular i un comú, canviava el tribunal segons quin dels dos demandava?
 >
-> —Les dades de 2025 donen una idea de la pressió: els habitatges de lloguer on la gent feia menys d'un any que hi vivia costaven de mitjana 895,28 € al mes. Això equivalia al 61,9% del salari mínim mensual. És una mitjana, però no diu si una llar concreta se'n sortirà un cop comptades les altres despeses.
+> —A l'Andorra de llavors, depenia de qui presentava la demanda: si el particular demandava el comú o un quart, l'afer anava a la jurisdicció política; si el comú o el quart demandava el particular, anava als tribunals ordinaris. És una regla històrica, no una guia de dret vigent.
 >
-> —Aleshores, un pis que es lloga ara costa uns 895 euros?
+> —I si era un quart qui rebia la demanda?
 >
-> —No necessàriament. Els 895,28 € són la mitjana dels habitatges on els residents feia menys d'un any que hi vivien. No és el preu de cada pis ni una llista d'ofertes actuals.
+> —Jutjava primer el consell de parròquia, i es podia apel·lar al Consell General. Si la demandada era una parròquia, l'afer hi anava directament.
 
-El primer dubte és pràctic. El seguiment comprova si la mitjana descriu cada pis. La resposta corregeix aquesta lectura i manté l'any de referència.
+La pregunta compara situacions que semblen semblants. El seguiment concreta una de les dues branques. Font: J.-A. Brutails, *La Coutume d'Andorre* (1904), secció «La règle de compétence», p. 239–242. Cal mantenir explícit que és dret històric.
 
-### Dues xifres de població
+## 2. Resoldre una aparent contradicció
 
-> —Quan miro les dades de població d'Andorra, de vegades surten dos totals. Per què n'hi ha un de registrat i un d'estimat?
+**Descartar:** «Què explica la secció “El vocabulari que ho ordena”?»
+
+**Per què falla:** pregunta pel títol intern, no pel costum ni pel concepte que cal entendre.
+
+**Millor conversa:**
+
+> —Com podia ser comunal un terreny si algú l'havia conreat molts anys?
 >
-> —El registrat suma les inscripcions dels censos comunals. L'estimat el calcula Estadística contrastant aquests censos amb altres registres administratius, per aproximar quanta gent resideix al país. Són dos recomptes fets amb mètodes diferents.
+> —Una sentència del 17 de juny de 1790 diu que conrear-lo durant anys no el feia «de guarda»: després de collir-hi, els guardians hi passaven amb els ramats. En aquell cas, el pas del bestiar comptava per considerar-lo comunal.
 >
-> —I quin dels dos em diu quanta gent viu realment aquí?
+> —Així, haver-hi plantat blat no volia dir que fos privat?
 >
-> —L'estimat s'utilitza per aproximar la població resident, però no és un recompte exacte de cada persona. La metodologia diu que només s'acosta fins on és possible al concepte de residència habitual. Per exemple, el 31 de juliol de 2026 hi constaven 94.596 persones registrades i 90.021 d'estimades; sempre cal mirar la data de referència.
+> —No, no per si sol en aquell cas. La sentència distingia entre conrear el terreny i tenir-lo reservat com a «de guarda»; el pas dels ramats després de la collita comptava en la decisió. No és prou per classificar qualsevol camp sense mirar-ne els documents.
 
-La persona vol entendre xifres que troba en llocs diferents. El seguiment aclareix què vol dir «estimat». La resposta no presenta cap dels dos totals com un recompte perfecte i data l'exemple.
+La persona planteja una contradicció del cas concret. La resposta no extrapola l'estatus a altres camps. Font: Brutails, *La Coutume d'Andorre* (1904), sentència de visura del 17 de juny de 1790, citada a «Un camp és comunal perquè hi passen els ramats».
 
-## Exemples que cal rebutjar
+## 3. Entendre una tendència i una discrepància
 
-- «Què explica la secció “El relat”?» — depèn d'haver obert la fitxa.
-- «Què indica aquesta fila?» — no identifica cap dubte.
-- «Quan va passar X?» sense context, si només repeteix una cel·la i no serveix una necessitat clara.
-- «I què més?» — no diu què vol saber i no fa avançar el diàleg.
-- Un seguiment que torna a preguntar el que la resposta ja ha contestat.
+**Descartar:** «Què indica aquesta fila de “El gràfic que contradiu el text de la seva pròpia pàgina”?»
 
-Canviar paraules no fa natural una pregunta artificial. Si no trobes un motiu humà, descarta la dada com a pregunta autònoma i representa-la en una conversa més àmplia només si encaixa de debò.
+**Per què falla:** «aquesta fila» no té sentit fora del document i només demana llegir una cel·la.
 
-## Revisió abans d'afegir una mostra
+**Millor conversa:**
 
-1. La pregunta sonaria normal sense tenir la fitxa oberta?
-2. Entenc per què la persona ho pregunta?
-3. La resposta contesta al principi i s'entén tota sola?
-4. Cada fet és fidel a l'evidència i conserva la data o el matís necessari?
-5. El seguiment neix de la resposta i aporta una cosa nova?
-6. Diria aquest diàleg en veu alta sense que sonés com un examen?
+> —A les enquestes de llengua d'Andorra, el català ha arribat mai a superar el castellà en l'indicador lingüístic?
+>
+> —Sí. El 2014, l'indicador lingüístic era de 57,7 per al català i de 56,4 per al castellà. L'informe diu que aquell any el català va avançar el castellà per primera vegada des del 1995.
+>
+> —I el 2018, quina llengua sortia per davant?
+>
+> —El text de l'enquesta del 2018 dona 56,8 per al català i 57,6 per al castellà. El gràfic de la mateixa onada posa les etiquetes al revés; els valors del text quadren amb els canvis que descriu l'informe posterior.
 
-Si falla una de les sis, reescriu o descarta. Si només falla el seguiment, elimina'l. No cal que totes les converses siguin multitorn.
+La pregunta demana entendre una tendència. El seguiment descobreix una contradicció documental i permet explicar quina lectura està corroborada per l'onada anterior. Cal dir «indicador lingüístic», no «llengua més parlada». Font: «La sèrie que no és una sèrie» i les edicions de l'enquesta que compara.
+
+## 4. Context històric, sense inventar-ne l'efecte
+
+**Descartar:** «Què explica la secció “I aquí hi ha el document que ho resol”?»
+
+**Per què falla:** el títol editorial no és una pregunta sobre història.
+
+**Millor conversa:**
+
+> —L'excomunió es feia servir per pressionar la gent que tenia deutes?
+>
+> —El 1599, el bisbe Andreu Capella va prohibir l'excomunió per deutes i causes civils. La raó que es dona és que els excomunicats ajudaven els calvinistes.
+>
+> —Se sap si després van deixar d'ajudar-los?
+>
+> —No ho sabem. La font històrica explica per què es va prohibir l'excomunió, però no diu si això va fer que deixessin d'ajudar-los.
+
+El seguiment separa el motiu declarat de l'efecte real. La resposta no omple amb intuïcions allò que la font no diu.
+
+## 5. Quan n'hi ha prou amb un sol intercanvi
+
+**Descartar:** «Què explica la secció “El relat” de la fitxa “La troballa de Meritxell”?»
+
+**Per què falla:** depèn del títol i de la divisió interna del document.
+
+**Millor conversa:**
+
+> —Quina és la història de la Mare de Déu de Meritxell?
+>
+> —Segons la llegenda recollida a la fitxa, un pastor va trobar la imatge sota una gavernera florida el dia de Reis. La va portar a Canillo, però l'endemà havia tornat a aparèixer al lloc de la troballa. Després de tornar a passar el mateix quan la van dur a Encamp, es va entendre que la Mare de Déu volia restar-hi i s'hi va construir el santuari. És una llegenda, no un fet històric verificat.
+
+No hi afegim cap seguiment: la pregunta queda contestada i el matís de «llegenda» evita presentar el relat com una prova històrica.
+
+## Prova ràpida abans d'acceptar una conversa
+
+- S'entén sense tenir la fitxa, la fila o el gràfic davant dels ulls?
+- Es veu per què algú ho preguntaria?
+- La resposta comença per contestar i després dona el context necessari?
+- El seguiment surt naturalment de la resposta i demana informació nova?
+- Cada detall és fidel a la font i conserva els límits importants?
+- Sona plausible quan es llegeix en veu alta?
+
+Si no surt una pregunta natural, no la forcis. La dada pot quedar coberta en la traça de treball sense convertir-se en un exemple de conversa.
