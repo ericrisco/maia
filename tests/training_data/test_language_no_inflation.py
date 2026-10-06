@@ -26,7 +26,10 @@ def _ledger(root: Path) -> LanguageLedger:
     (speech / "piece.md").write_text(
         "---\ntype: parla\ntitle: Testimoni\nveu: originaria\n"
         "epoca: contemporania\napte_llengua: true\nfont: source\n---\n\n"
-        "## Conversa\n\n— Ho fèiem així, de tota la vida.\n",
+        "## Notes editorials\n\nAixò no és parla de la persona entrevistada.\n\n"
+        "[00:00:01.000 --> 00:00:02.000] Ho fèiem així, de tota la vida.\n"
+        "[00:00:02.000 --> 00:00:03.000] Ho fèiem [?sovint] a l'hivern.\n"
+        "[00:00:03.000 --> 00:00:04.000] Després tornàvem a casa.\n",
         encoding="utf-8",
     )
     return extract_language(scan_tree(docs))
@@ -37,13 +40,18 @@ def test_segments_are_verbatim_spans_from_eligible_source_pieces(tmp_path: Path)
 
     segments = build_authentic_speech_segments(ledger)
 
-    assert len(segments) == 1
-    segment = segments[0]
-    piece = next(piece for piece in ledger.pieces if piece.path == segment.source_path)
+    assert [segment.text for segment in segments] == [
+        "Ho fèiem així, de tota la vida.",
+        "Després tornàvem a casa.",
+    ]
+    piece = next(piece for piece in ledger.pieces if piece.path == segments[0].source_path)
     assert piece.eligibility == "eligible"
-    assert segment.text == piece.text[segment.source_start : segment.source_end]
-    assert "Ho fèiem així" in segment.text
-    assert "assistant" not in segment.text
+    assert all(
+        segment.text == piece.text[segment.source_start : segment.source_end]
+        for segment in segments
+    )
+    assert all("Notes editorials" not in segment.text for segment in segments)
+    assert all("[?sovint]" not in segment.text for segment in segments)
     validate_authentic_speech_segments(ledger, segments)
 
 

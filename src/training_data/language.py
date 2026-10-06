@@ -19,6 +19,9 @@ ProvenanceStatus = Literal[
     "ambiguous_source_card",
 ]
 UNCERTAIN_SPAN = re.compile(r"\[\s?\?\s?[^\]\r\n]+\]")
+TIMESTAMPED_TRANSCRIPT_LINE = re.compile(
+    r"^\[\d{2}:\d{2}:\d{2}\.\d{3}\s+-->\s+\d{2}:\d{2}:\d{2}\.\d{3}\]\s*(?P<text>.*)$"
+)
 
 
 @dataclass(frozen=True, slots=True)
@@ -101,6 +104,7 @@ class LanguageAuthenticityReport:
     eligible_pieces: int
     authentic_segments: int
     source_characters: int
+    uncertain_transcript_lines_excluded: int
     rewritten_segments: int
     generated_segments: int
 
@@ -306,20 +310,36 @@ def write_language_selection(
 def build_authentic_speech_segments(
     ledger: LanguageLedger,
 ) -> tuple[AuthenticSpeechSegment, ...]:
-    """Construeix un span complet per peça elegible, sense alterar cap caràcter."""
+    """Extreu només línies de transcripció literal sense marques d'incertesa."""
 
-    return tuple(
-        AuthenticSpeechSegment(
-            segment_id=f"{piece.path}#body",
-            source_path=piece.path,
-            piece_id=piece.piece_id,
-            source_start=0,
-            source_end=len(piece.text),
-            text=piece.text,
-        )
-        for piece in ledger.pieces
-        if piece.eligibility == "eligible"
-    )
+    segments: list[AuthenticSpeechSegment] = []
+    for piece in ledger.pieces:
+        if piece.eligibility != "eligible":
+            continue
+        offset = 0
+        piece_segment = 0
+        for line in piece.text.splitlines(keepends=True):
+            visible = line.rstrip("\r\n")
+            match = TIMESTAMPED_TRANSCRIPT_LINE.match(visible)
+            if match is not None:
+                raw_text = match.group("text")
+                text = raw_text.strip()
+                if text and not UNCERTAIN_SPAN.search(text):
+                    leading = len(raw_text) - len(raw_text.lstrip())
+                    start = offset + match.start("text") + leading
+                    piece_segment += 1
+                    segments.append(
+                        AuthenticSpeechSegment(
+                            segment_id=f"{piece.path}#speech-{piece_segment:05d}",
+                            source_path=piece.path,
+                            piece_id=piece.piece_id,
+                            source_start=start,
+                            source_end=start + len(text),
+                            text=text,
+                        )
+                    )
+            offset += len(line)
+    return tuple(segments)
 
 
 def validate_authentic_speech_segments(
@@ -361,6 +381,13 @@ def write_authentic_speech_segments(
         eligible_pieces=ledger.report.eligible_pieces,
         authentic_segments=len(segments),
         source_characters=sum(len(segment.text) for segment in segments),
+        uncertain_transcript_lines_excluded=sum(
+            bool(TIMESTAMPED_TRANSCRIPT_LINE.match(line.rstrip("\r\n")))
+            and bool(UNCERTAIN_SPAN.search(line))
+            for piece in ledger.pieces
+            if piece.eligibility == "eligible"
+            for line in piece.text.splitlines(keepends=True)
+        ),
         rewritten_segments=0,
         generated_segments=0,
     )

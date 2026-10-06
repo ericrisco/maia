@@ -1,10 +1,11 @@
 {
   "authenticity": {
-    "authentic_segments": 38,
+    "authentic_segments": 10510,
     "eligible_pieces": 38,
     "generated_segments": 0,
     "rewritten_segments": 0,
-    "source_characters": 1252368
+    "source_characters": 254983,
+    "uncertain_transcript_lines_excluded": 5159
   },
   "conversations": {
     "accepted_after_uncertainty_filter": 0,
