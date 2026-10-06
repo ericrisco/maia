@@ -1,5 +1,5 @@
 {
-  "conversations": 19,
+  "conversations": 20,
   "document_coverage": {
     "temes/costums/calendari-festiu/calendari-festiu-index-de-fitxes.md": {
       "evidence_units": 7,
@@ -23,10 +23,10 @@
       "evidence_units": 53,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 0,
-      "remaining_unrepresented": 53,
+      "mentioned_in_review": 5,
+      "remaining_unrepresented": 48,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 0
+      "rights_pending_or_restricted": 5
     },
     "temes/costums/caramelles/caramelles-index-de-fitxes.md": {
       "evidence_units": 6,
@@ -13299,16 +13299,16 @@
   "evidence_units": 87339,
   "evidence_units_explicitly_excluded": 0,
   "evidence_units_export_ready": 0,
-  "evidence_units_mentioned_in_review": 105,
-  "evidence_units_remaining_unrepresented": 87234,
+  "evidence_units_mentioned_in_review": 110,
+  "evidence_units_remaining_unrepresented": 87229,
   "evidence_units_with_redistributable_review_draft": 14,
   "export_ready_records": 0,
   "human_reviewed_records": 0,
-  "provenance_rows": 19,
+  "provenance_rows": 20,
   "records_by_redistribution": {
     "allowed": 3,
     "pending": 12,
-    "prohibited": 4
+    "prohibited": 5
   },
   "scope": "docs/temes structural evidence; review mentions are not training approval",
   "stale_evidence_reference_count": 0,
@@ -13329,10 +13329,10 @@
       "evidence_units": 100,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 17,
-      "remaining_unrepresented": 83,
+      "mentioned_in_review": 22,
+      "remaining_unrepresented": 78,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 17
+      "rights_pending_or_restricted": 22
     },
     "temes/costums/caramelles": {
       "documents": 2,
