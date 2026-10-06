@@ -1,5 +1,5 @@
 {
-  "conversations": 93,
+  "conversations": 94,
   "document_coverage": {
     "temes/costums/calendari-festiu/calendari-festiu-index-de-fitxes.md": {
       "evidence_units": 7,
@@ -995,10 +995,10 @@
       "evidence_units": 64,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 0,
-      "remaining_unrepresented": 64,
+      "mentioned_in_review": 6,
+      "remaining_unrepresented": 58,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 0
+      "rights_pending_or_restricted": 6
     },
     "temes/cultura/musica-i-cancons/liaem-i-el-1980.md": {
       "evidence_units": 65,
@@ -13299,15 +13299,15 @@
   "evidence_units": 87339,
   "evidence_units_explicitly_excluded": 0,
   "evidence_units_export_ready": 0,
-  "evidence_units_mentioned_in_review": 421,
-  "evidence_units_remaining_unrepresented": 86918,
+  "evidence_units_mentioned_in_review": 427,
+  "evidence_units_remaining_unrepresented": 86912,
   "evidence_units_with_redistributable_review_draft": 127,
   "export_ready_records": 0,
   "human_reviewed_records": 0,
-  "provenance_rows": 93,
+  "provenance_rows": 94,
   "records_by_redistribution": {
     "allowed": 36,
-    "pending": 55,
+    "pending": 56,
     "prohibited": 2
   },
   "scope": "docs/temes structural evidence; review mentions are not training approval",
@@ -13519,10 +13519,10 @@
       "evidence_units": 162,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 0,
-      "remaining_unrepresented": 162,
+      "mentioned_in_review": 6,
+      "remaining_unrepresented": 156,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 0
+      "rights_pending_or_restricted": 6
     },
     "temes/cultura/teatre": {
       "documents": 3,
