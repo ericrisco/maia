@@ -1,67 +1,29 @@
-# Exemples i convencions per a Knowledge
+# Pilot: preguntes que una persona podria fer
 
-La font de veritat factual és `docs/temes/`. Llegiu la fitxa completa abans de
-redactar. El text final d'entrenament va a `conversations.jsonl`; la font i els
-drets queden a `provenance.jsonl`.
+Aquests quatre registres són una mostra editorial per revisar. El JSONL d’entrenament no inclou categories, raonaments interns ni cites; la procedència està a `provenance.jsonl`. Cap registre s’ha d’exportar fins que tingui revisió humana i drets confirmats.
 
-## Forma
+## 1. Dues xifres que semblen contradictòries
 
-- Cada registre és una conversa `user`/`assistant` amb dos o més intercanvis.
-- La primera resposta resol la pregunta original i s'entén sola.
-- El seguiment neix d'allò que acaba de dir l'assistent i obre una curiositat
-  relacionada.
-- Cada resposta és una frase completa en català natural; cap dada sense
-  context, cap títol de secció, cap fila de taula sense explicar.
-- Si el corpus no sap la resposta, el diàleg ho diu amb precisió i no omple el
-  buit amb una conjectura.
+La persona intenta entendre per què dues respostes d’una enquesta no coincideixen. El seguiment comprova una categoria que es podria confondre amb una altra.
 
-## Exemple: una aparent contradicció
+## 2. Un dret d’ús en una finca privada
 
-```json
-{"messages":[{"role":"user","content":"Una cosa: si el 70% diu que la religió els importa poc, com pot ser que gairebé la meitat es consideri religiosa?"},{"role":"assistant","content":"No és necessàriament contradictori: són dues preguntes diferents. En l'estudi del CRES publicat el 2013, el 70% deia que el fet religiós era poc o gens important, però el 48% es considerava religiós."},{"role":"user","content":"I els que no es consideraven religiosos es comptaven com a ateus?"},{"role":"assistant","content":"No. L'estudi separava les dues respostes: un 37,5% es considerava «no religiós» i un 14,2% «ateu convençut»."}]}
-```
+La pregunta ve d’una situació concreta i ajuda a separar conreu, propietat i ús comunal. El seguiment pregunta què implica la regla. La resposta es limita al cas que recull la font.
 
-La persona intenta entendre dues xifres que semblen xocar; el seguiment
-comprova una distinció que la primera resposta encara no ha explicat.
+## 3. Aplicar un requisit legal a un cas senzill
 
-## Exemple: una situació pràctica
+La pregunta posa a prova una interpretació pràctica dels requisits. El seguiment confirma una inferència directa, no demana que es reciti l’article.
 
-```json
-{"messages":[{"role":"user","content":"Som unes quantes famílies i volem inscriure una comunitat religiosa a Andorra. Cal que siguem vint-i-un i tots majors d'edat?"},{"role":"assistant","content":"No. La Llei 2/2025 fixa un mínim de vint persones físiques, andorranes o residents, i només exigeix que almenys una tingui majoria d'edat i plens drets. També han de compartir les mateixes creences religioses i de culte."},{"role":"user","content":"I si no ens inscrivim, vol dir que no podem ni reunir-nos?"},{"role":"assistant","content":"No és això el que diu la llei. La Constitució garanteix la llibertat religiosa i de culte; la inscripció, en canvi, dona personalitat jurídica. Si una entitat religiosa no inscrita actua en nom seu o contreu obligacions amb tercers, tots els membres en responen solidàriament juntament amb l'entitat, amb dret a reclamar a qui hagi actuat en nom seu o n'hagi estat responsable directe."}]}
-```
+## 4. Què vol dir que un registre és públic?
 
-La persona pregunta per un cas concret. El seguiment neix d'un possible dubte
-pràctic sobre què canvia quan no s'inscriuen. El límit legal queda explícit.
+La persona pregunta com accedir a una dada. La resposta distingeix publicitat del registre, forma de consulta i abast de la xifra.
 
-## Exemple: entendre dues paraules que s’assemblen
+## Anti-exemples: no els guardarem com a converses
 
-```json
-{"messages":[{"role":"user","content":"A la documentació antiga, *coltia* i *devesa* volien dir el mateix tipus de terreny?"},{"role":"assistant","content":"No. La fitxa distingeix la *coltia*, terra que tornava a l’ús comú un cop retirada la collita, de la *devesa*, un bé apartat del gaudi comú. També hi recull dues mencions antigues: «la coltia de Vila», en un camp venut a Encamp el 1580, i «la devesa del Mas del Solà», en un document del 1551."},{"role":"user","content":"Se sap on eren exactament aquests dos llocs?"},{"role":"assistant","content":"No amb precisió. La fitxa situa a Encamp el camp anomenat «la coltia de Vila», però no localitza amb més detall cap dels dos indrets ni confirma si aquests noms encara s’utilitzen."}]}
-```
+- «Què explica la secció “El vocabulari que ho ordena”?»
+- «Què indica aquesta fila?»
+- «Resumeix aquesta fitxa.»
+- Una pregunta seguida d’un fragment incomplet com «I dos topònims que en surten:».
+- Un seguiment genèric com «I què més?»
 
-La pregunta comença amb una confusió plausible entre dos termes. La resposta els
-distingeix i contextualitza les atestacions. El seguiment pregunta per una dada
-que la resposta acaba d’introduir, i la resposta conserva el límit documental.
-
-## Exemple: distingir propietat i dret d’ús
-
-```json
-{"messages":[{"role":"user","content":"Si una finca era d’un particular, com podia acabar tractada com a comunal perquè hi passaven els ramats?"},{"role":"assistant","content":"La fitxa descriu un dret d’ús sobre una propietat, no un canvi automàtic de propietari. Una sentència de 1790 va considerar que un terreny no era «de guarda» perquè, un cop retirada la collita, hi passaven els pastors amb el bestiar. Que s’hi hagués sembrat durant anys no anul·lava el dret de pas i de pastura."},{"role":"user","content":"I si el propietari volia reservar-la perquè no hi entrés el bestiar?"},{"role":"assistant","content":"El decret del 1893 exigia autorització prèvia del comú parroquial per posar una terra «de guarda» i treure-la de l’ús comunal de la *peixena*. Però la fitxa distingeix aquest dret col·lectiu d’una servitud de pas privada que un veí hagués adquirit: reservar la terra no n’anul·lava necessàriament una servitud separada."}]}
-```
-
-La pregunta planteja una situació concreta. La resposta separa la propietat dels
-drets que la poden limitar. El seguiment pregunta què podia fer el propietari;
-la resposta inclou el límit que encara podia continuar vigent.
-
-## Evitar
-
-- «Què explica la secció X?» o «Què indica aquesta fila?» — demanen navegar
-  pel document, no entendre el tema.
-- «Resumeix la fitxa» — no té una necessitat concreta i convida a una resposta
-  de plantilla.
-- «I què més?» com a seguiment — no diu quin dubte nou té la persona.
-- Respostes com «14,2%» o «el 2014» sense explicar a què es refereixen.
-- Tres o quatre paraules canviades sobre el mateix fet per augmentar el volum.
-
-Els exemples són pilots editorials. Abans de publicar-los com a entrenament,
-cal validar exactitud, naturalitat, traçabilitat i llicència.
+Aquests enunciats necessiten que l’usuari tingui al davant la fitxa i no expliquen quin dubte vol resoldre. Els fragments tallats tampoc no constitueixen respostes.

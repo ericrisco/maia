@@ -1,5 +1,5 @@
 {
-  "conversations": 100,
+  "conversations": 4,
   "document_coverage": {
     "temes/costums/calendari-festiu/calendari-festiu-index-de-fitxes.md": {
       "evidence_units": 7,
@@ -77,19 +77,19 @@
       "evidence_units": 94,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 7,
-      "remaining_unrepresented": 87,
-      "rights_cleared_in_review": 7,
+      "mentioned_in_review": 0,
+      "remaining_unrepresented": 94,
+      "rights_cleared_in_review": 0,
       "rights_pending_or_restricted": 0
     },
     "temes/costums/danses/el-ball-del-cerda.md": {
       "evidence_units": 26,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 2,
-      "remaining_unrepresented": 24,
+      "mentioned_in_review": 0,
+      "remaining_unrepresented": 26,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 2
+      "rights_pending_or_restricted": 0
     },
     "temes/costums/danses/el-contrapas.md": {
       "evidence_units": 35,
@@ -113,9 +113,9 @@
       "evidence_units": 34,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 14,
-      "remaining_unrepresented": 20,
-      "rights_cleared_in_review": 14,
+      "mentioned_in_review": 0,
+      "remaining_unrepresented": 34,
+      "rights_cleared_in_review": 0,
       "rights_pending_or_restricted": 0
     },
     "temes/costums/danses/les-festes-de-lossa.md": {
@@ -140,10 +140,10 @@
       "evidence_units": 43,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 15,
-      "remaining_unrepresented": 28,
+      "mentioned_in_review": 0,
+      "remaining_unrepresented": 43,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 15
+      "rights_pending_or_restricted": 0
     },
     "temes/costums/festes-majors/el-calendari-de-les-festes-majors.md": {
       "evidence_units": 44,
@@ -212,9 +212,9 @@
       "evidence_units": 72,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 29,
-      "remaining_unrepresented": 43,
-      "rights_cleared_in_review": 29,
+      "mentioned_in_review": 10,
+      "remaining_unrepresented": 62,
+      "rights_cleared_in_review": 10,
       "rights_pending_or_restricted": 0
     },
     "temes/costums/religiositat/la-inquisicio-a-andorra.md": {
@@ -230,9 +230,9 @@
       "evidence_units": 111,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 6,
-      "remaining_unrepresented": 105,
-      "rights_cleared_in_review": 6,
+      "mentioned_in_review": 4,
+      "remaining_unrepresented": 107,
+      "rights_cleared_in_review": 4,
       "rights_pending_or_restricted": 0
     },
     "temes/costums/religiositat/levangelitzacio.md": {
@@ -257,9 +257,9 @@
       "evidence_units": 41,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 11,
-      "remaining_unrepresented": 30,
-      "rights_cleared_in_review": 11,
+      "mentioned_in_review": 0,
+      "remaining_unrepresented": 41,
+      "rights_cleared_in_review": 0,
       "rights_pending_or_restricted": 0
     },
     "temes/costums/ritus-de-pas/la-passa.md": {
@@ -581,10 +581,10 @@
       "evidence_units": 86,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 7,
-      "remaining_unrepresented": 79,
-      "rights_cleared_in_review": 3,
-      "rights_pending_or_restricted": 4
+      "mentioned_in_review": 0,
+      "remaining_unrepresented": 86,
+      "rights_cleared_in_review": 0,
+      "rights_pending_or_restricted": 0
     },
     "temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md": {
       "evidence_units": 99,
@@ -707,9 +707,9 @@
       "evidence_units": 64,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 11,
-      "remaining_unrepresented": 53,
-      "rights_cleared_in_review": 11,
+      "mentioned_in_review": 0,
+      "remaining_unrepresented": 64,
+      "rights_cleared_in_review": 0,
       "rights_pending_or_restricted": 0
     },
     "temes/cultura/llegendes/la-troballa-de-meritxell.md": {
@@ -995,10 +995,10 @@
       "evidence_units": 64,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 6,
-      "remaining_unrepresented": 58,
+      "mentioned_in_review": 0,
+      "remaining_unrepresented": 64,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 6
+      "rights_pending_or_restricted": 0
     },
     "temes/cultura/musica-i-cancons/liaem-i-el-1980.md": {
       "evidence_units": 65,
@@ -1598,10 +1598,10 @@
       "evidence_units": 81,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 6,
-      "remaining_unrepresented": 75,
+      "mentioned_in_review": 0,
+      "remaining_unrepresented": 81,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 6
+      "rights_pending_or_restricted": 0
     },
     "temes/economia/ramaderia-i-agricultura/la-comissio-dels-pagesos.md": {
       "evidence_units": 42,
@@ -5162,10 +5162,10 @@
       "evidence_units": 162,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 7,
-      "remaining_unrepresented": 155,
+      "mentioned_in_review": 0,
+      "remaining_unrepresented": 162,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 7
+      "rights_pending_or_restricted": 0
     },
     "temes/historia/constitucio-1993/constitucio-1993.md": {
       "evidence_units": 61,
@@ -5279,9 +5279,9 @@
       "evidence_units": 37,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 5,
-      "remaining_unrepresented": 32,
-      "rights_cleared_in_review": 5,
+      "mentioned_in_review": 0,
+      "remaining_unrepresented": 37,
+      "rights_cleared_in_review": 0,
       "rights_pending_or_restricted": 0
     },
     "temes/historia/edat-mitjana/andorra-defensa-emprius-lles-travesseres-1386.md": {
@@ -6188,10 +6188,10 @@
       "evidence_units": 48,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 10,
-      "remaining_unrepresented": 38,
+      "mentioned_in_review": 0,
+      "remaining_unrepresented": 48,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 10
+      "rights_pending_or_restricted": 0
     },
     "temes/historia/origens/la-necropolis-del-camp-del-perot-i-la-cronologia-funeraria.md": {
       "evidence_units": 17,
@@ -6215,9 +6215,9 @@
       "evidence_units": 58,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 10,
-      "remaining_unrepresented": 48,
-      "rights_cleared_in_review": 10,
+      "mentioned_in_review": 0,
+      "remaining_unrepresented": 58,
+      "rights_cleared_in_review": 0,
       "rights_pending_or_restricted": 0
     },
     "temes/historia/origens/origens-index-de-fitxes.md": {
@@ -6296,10 +6296,10 @@
       "evidence_units": 113,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 18,
-      "remaining_unrepresented": 95,
+      "mentioned_in_review": 0,
+      "remaining_unrepresented": 113,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 18
+      "rights_pending_or_restricted": 0
     },
     "temes/historia/pareatge/el-que-es-dona-en-feu-es-el-domini-util.md": {
       "evidence_units": 85,
@@ -6368,19 +6368,19 @@
       "evidence_units": 120,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 7,
-      "remaining_unrepresented": 113,
+      "mentioned_in_review": 0,
+      "remaining_unrepresented": 120,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 7
+      "rights_pending_or_restricted": 0
     },
     "temes/historia/segle-xix/el-desenllac-de-la-questio-duanera.md": {
       "evidence_units": 169,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 9,
-      "remaining_unrepresented": 160,
-      "rights_cleared_in_review": 6,
-      "rights_pending_or_restricted": 3
+      "mentioned_in_review": 0,
+      "remaining_unrepresented": 169,
+      "rights_cleared_in_review": 0,
+      "rights_pending_or_restricted": 0
     },
     "temes/historia/segle-xix/el-prefecte-va-ratllar-la-paraula-republica.md": {
       "evidence_units": 80,
@@ -6980,9 +6980,9 @@
       "evidence_units": 168,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 10,
-      "remaining_unrepresented": 158,
-      "rights_cleared_in_review": 10,
+      "mentioned_in_review": 0,
+      "remaining_unrepresented": 168,
+      "rights_cleared_in_review": 0,
       "rights_pending_or_restricted": 0
     },
     "temes/institucions/comuns-i-parroquies/els-fullats-del-sola-del-vesset-1734-1735.md": {
@@ -8024,9 +8024,9 @@
       "evidence_units": 77,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 2,
-      "remaining_unrepresented": 75,
-      "rights_cleared_in_review": 2,
+      "mentioned_in_review": 0,
+      "remaining_unrepresented": 77,
+      "rights_cleared_in_review": 0,
       "rights_pending_or_restricted": 0
     },
     "temes/institucions/coprincipat/el-nou-veguer-frances-i-les-dues-sisenes-1788.md": {
@@ -8555,18 +8555,18 @@
       "evidence_units": 142,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 1,
-      "remaining_unrepresented": 141,
+      "mentioned_in_review": 0,
+      "remaining_unrepresented": 142,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 1
+      "rights_pending_or_restricted": 0
     },
     "temes/institucions/justicia/dues-mil-dues-centes-cinquanta-cinc-i-mil-set-centes-cinquanta-quatre.md": {
       "evidence_units": 180,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 4,
-      "remaining_unrepresented": 176,
-      "rights_cleared_in_review": 4,
+      "mentioned_in_review": 0,
+      "remaining_unrepresented": 180,
+      "rights_cleared_in_review": 0,
       "rights_pending_or_restricted": 0
     },
     "temes/institucions/justicia/el-consell-defensa-les-valls-davant-un-clam-de-pau-i-treva-1460.md": {
@@ -9878,10 +9878,10 @@
       "evidence_units": 138,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 8,
-      "remaining_unrepresented": 130,
+      "mentioned_in_review": 0,
+      "remaining_unrepresented": 138,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 8
+      "rights_pending_or_restricted": 0
     },
     "temes/institucions/quarts-i-veinats/quarts-i-veinats-index-de-fitxes.md": {
       "evidence_units": 7,
@@ -10589,10 +10589,10 @@
       "evidence_units": 28,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 1,
-      "remaining_unrepresented": 27,
+      "mentioned_in_review": 0,
+      "remaining_unrepresented": 28,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 1
+      "rights_pending_or_restricted": 0
     },
     "temes/persones/daniel-marin.md": {
       "evidence_units": 59,
@@ -10832,9 +10832,9 @@
       "evidence_units": 62,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 8,
-      "remaining_unrepresented": 54,
-      "rights_cleared_in_review": 8,
+      "mentioned_in_review": 0,
+      "remaining_unrepresented": 62,
+      "rights_cleared_in_review": 0,
       "rights_pending_or_restricted": 0
     },
     "temes/persones/pere-canturri-montanya.md": {
@@ -11327,10 +11327,10 @@
       "evidence_units": 131,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 13,
-      "remaining_unrepresented": 118,
+      "mentioned_in_review": 0,
+      "remaining_unrepresented": 131,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 13
+      "rights_pending_or_restricted": 0
     },
     "temes/societat/dones/la-llei-digualtat.md": {
       "evidence_units": 118,
@@ -12272,9 +12272,9 @@
       "evidence_units": 120,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 21,
-      "remaining_unrepresented": 99,
-      "rights_cleared_in_review": 21,
+      "mentioned_in_review": 0,
+      "remaining_unrepresented": 120,
+      "rights_cleared_in_review": 0,
       "rights_pending_or_restricted": 0
     },
     "temes/societat/societat-andorrana-index-de-fitxes.md": {
@@ -12758,10 +12758,10 @@
       "evidence_units": 80,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 63,
-      "remaining_unrepresented": 17,
+      "mentioned_in_review": 0,
+      "remaining_unrepresented": 80,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 63
+      "rights_pending_or_restricted": 0
     },
     "temes/territori/geografia-fisica/en-la-ubaga-tot-hom-hi-pot-anar.md": {
       "evidence_units": 135,
@@ -12794,19 +12794,19 @@
       "evidence_units": 89,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 46,
-      "remaining_unrepresented": 43,
+      "mentioned_in_review": 0,
+      "remaining_unrepresented": 89,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 46
+      "rights_pending_or_restricted": 0
     },
     "temes/territori/geografia-fisica/la-ratlla-passa-a-laltra-banda-de-laigua.md": {
       "evidence_units": 92,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 53,
-      "remaining_unrepresented": 39,
+      "mentioned_in_review": 0,
+      "remaining_unrepresented": 92,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 53
+      "rights_pending_or_restricted": 0
     },
     "temes/territori/geografia-fisica/la-sessio-de-les-perdius.md": {
       "evidence_units": 115,
@@ -12821,10 +12821,10 @@
       "evidence_units": 116,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 53,
-      "remaining_unrepresented": 63,
+      "mentioned_in_review": 6,
+      "remaining_unrepresented": 110,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 53
+      "rights_pending_or_restricted": 6
     },
     "temes/territori/paisatge-construit/dos-pianos-i-una-carretera.md": {
       "evidence_units": 74,
@@ -13299,16 +13299,15 @@
   "evidence_units": 87339,
   "evidence_units_explicitly_excluded": 0,
   "evidence_units_export_ready": 0,
-  "evidence_units_mentioned_in_review": 463,
-  "evidence_units_remaining_unrepresented": 86876,
-  "evidence_units_with_redistributable_review_draft": 147,
+  "evidence_units_mentioned_in_review": 20,
+  "evidence_units_remaining_unrepresented": 87319,
+  "evidence_units_with_redistributable_review_draft": 14,
   "export_ready_records": 0,
   "human_reviewed_records": 0,
-  "provenance_rows": 100,
+  "provenance_rows": 4,
   "records_by_redistribution": {
-    "allowed": 40,
-    "pending": 58,
-    "prohibited": 2
+    "allowed": 3,
+    "pending": 1
   },
   "scope": "docs/temes structural evidence; review mentions are not training approval",
   "stale_evidence_reference_count": 0,
@@ -13349,20 +13348,20 @@
       "evidence_units": 415,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 23,
-      "remaining_unrepresented": 392,
-      "rights_cleared_in_review": 21,
-      "rights_pending_or_restricted": 2
+      "mentioned_in_review": 0,
+      "remaining_unrepresented": 415,
+      "rights_cleared_in_review": 0,
+      "rights_pending_or_restricted": 0
     },
     "temes/costums/falles": {
       "documents": 2,
       "evidence_units": 49,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 15,
-      "remaining_unrepresented": 34,
+      "mentioned_in_review": 0,
+      "remaining_unrepresented": 49,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 15
+      "rights_pending_or_restricted": 0
     },
     "temes/costums/festes-majors": {
       "documents": 3,
@@ -13399,9 +13398,9 @@
       "evidence_units": 431,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 46,
-      "remaining_unrepresented": 385,
-      "rights_cleared_in_review": 46,
+      "mentioned_in_review": 14,
+      "remaining_unrepresented": 417,
+      "rights_cleared_in_review": 14,
       "rights_pending_or_restricted": 0
     },
     "temes/costums/ritus-de-pas": {
@@ -13469,10 +13468,10 @@
       "evidence_units": 438,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 7,
-      "remaining_unrepresented": 431,
-      "rights_cleared_in_review": 3,
-      "rights_pending_or_restricted": 4
+      "mentioned_in_review": 0,
+      "remaining_unrepresented": 438,
+      "rights_cleared_in_review": 0,
+      "rights_pending_or_restricted": 0
     },
     "temes/cultura/cultura-popular": {
       "documents": 3,
@@ -13499,9 +13498,9 @@
       "evidence_units": 418,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 11,
-      "remaining_unrepresented": 407,
-      "rights_cleared_in_review": 11,
+      "mentioned_in_review": 0,
+      "remaining_unrepresented": 418,
+      "rights_cleared_in_review": 0,
       "rights_pending_or_restricted": 0
     },
     "temes/cultura/museus-i-arxius": {
@@ -13519,10 +13518,10 @@
       "evidence_units": 162,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 6,
-      "remaining_unrepresented": 156,
+      "mentioned_in_review": 0,
+      "remaining_unrepresented": 162,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 6
+      "rights_pending_or_restricted": 0
     },
     "temes/cultura/teatre": {
       "documents": 3,
@@ -13589,10 +13588,10 @@
       "evidence_units": 844,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 6,
-      "remaining_unrepresented": 838,
+      "mentioned_in_review": 0,
+      "remaining_unrepresented": 844,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 6
+      "rights_pending_or_restricted": 0
     },
     "temes/economia/tabac": {
       "documents": 6,
@@ -13809,10 +13808,10 @@
       "evidence_units": 3275,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 7,
-      "remaining_unrepresented": 3268,
+      "mentioned_in_review": 0,
+      "remaining_unrepresented": 3275,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 7
+      "rights_pending_or_restricted": 0
     },
     "temes/historia/constitucio-1993": {
       "documents": 3,
@@ -13849,9 +13848,9 @@
       "evidence_units": 1855,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 5,
-      "remaining_unrepresented": 1850,
-      "rights_cleared_in_review": 5,
+      "mentioned_in_review": 0,
+      "remaining_unrepresented": 1855,
+      "rights_cleared_in_review": 0,
       "rights_pending_or_restricted": 0
     },
     "temes/historia/guerres-i-neutralitat": {
@@ -13909,30 +13908,30 @@
       "evidence_units": 640,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 20,
-      "remaining_unrepresented": 620,
-      "rights_cleared_in_review": 10,
-      "rights_pending_or_restricted": 10
+      "mentioned_in_review": 0,
+      "remaining_unrepresented": 640,
+      "rights_cleared_in_review": 0,
+      "rights_pending_or_restricted": 0
     },
     "temes/historia/pareatge": {
       "documents": 7,
       "evidence_units": 668,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 18,
-      "remaining_unrepresented": 650,
+      "mentioned_in_review": 0,
+      "remaining_unrepresented": 668,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 18
+      "rights_pending_or_restricted": 0
     },
     "temes/historia/segle-xix": {
       "documents": 30,
       "evidence_units": 2538,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 16,
-      "remaining_unrepresented": 2522,
-      "rights_cleared_in_review": 6,
-      "rights_pending_or_restricted": 10
+      "mentioned_in_review": 0,
+      "remaining_unrepresented": 2538,
+      "rights_cleared_in_review": 0,
+      "rights_pending_or_restricted": 0
     },
     "temes/historia/segle-xx-primera-meitat": {
       "documents": 31,
@@ -13959,9 +13958,9 @@
       "evidence_units": 1476,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 10,
-      "remaining_unrepresented": 1466,
-      "rights_cleared_in_review": 10,
+      "mentioned_in_review": 0,
+      "remaining_unrepresented": 1476,
+      "rights_cleared_in_review": 0,
       "rights_pending_or_restricted": 0
     },
     "temes/institucions/consell-general": {
@@ -13979,9 +13978,9 @@
       "evidence_units": 1418,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 2,
-      "remaining_unrepresented": 1416,
-      "rights_cleared_in_review": 2,
+      "mentioned_in_review": 0,
+      "remaining_unrepresented": 1418,
+      "rights_cleared_in_review": 0,
       "rights_pending_or_restricted": 0
     },
     "temes/institucions/govern": {
@@ -13999,10 +13998,10 @@
       "evidence_units": 11566,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 5,
-      "remaining_unrepresented": 11561,
-      "rights_cleared_in_review": 4,
-      "rights_pending_or_restricted": 1
+      "mentioned_in_review": 0,
+      "remaining_unrepresented": 11566,
+      "rights_cleared_in_review": 0,
+      "rights_pending_or_restricted": 0
     },
     "temes/institucions/nacionalitat-i-residencia": {
       "documents": 19,
@@ -14039,10 +14038,10 @@
       "evidence_units": 252,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 8,
-      "remaining_unrepresented": 244,
+      "mentioned_in_review": 0,
+      "remaining_unrepresented": 252,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 8
+      "rights_pending_or_restricted": 0
     },
     "temes/institucions/relacions-exteriors": {
       "documents": 9,
@@ -14199,10 +14198,10 @@
       "evidence_units": 1909,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 9,
-      "remaining_unrepresented": 1900,
-      "rights_cleared_in_review": 8,
-      "rights_pending_or_restricted": 1
+      "mentioned_in_review": 0,
+      "remaining_unrepresented": 1909,
+      "rights_cleared_in_review": 0,
+      "rights_pending_or_restricted": 0
     },
     "temes/politica": {
       "documents": 1,
@@ -14259,9 +14258,9 @@
       "evidence_units": 138,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 21,
-      "remaining_unrepresented": 117,
-      "rights_cleared_in_review": 21,
+      "mentioned_in_review": 0,
+      "remaining_unrepresented": 138,
+      "rights_cleared_in_review": 0,
       "rights_pending_or_restricted": 0
     },
     "temes/societat/associacionisme": {
@@ -14289,10 +14288,10 @@
       "evidence_units": 689,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 13,
-      "remaining_unrepresented": 676,
+      "mentioned_in_review": 0,
+      "remaining_unrepresented": 689,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 13
+      "rights_pending_or_restricted": 0
     },
     "temes/societat/educacio": {
       "documents": 31,
@@ -14429,10 +14428,10 @@
       "evidence_units": 865,
       "excluded": 0,
       "export_ready": 0,
-      "mentioned_in_review": 215,
-      "remaining_unrepresented": 650,
+      "mentioned_in_review": 6,
+      "remaining_unrepresented": 859,
       "rights_cleared_in_review": 0,
-      "rights_pending_or_restricted": 215
+      "rights_pending_or_restricted": 6
     },
     "temes/territori/paisatge-construit": {
       "documents": 6,

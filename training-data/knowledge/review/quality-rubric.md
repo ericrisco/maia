@@ -1,28 +1,13 @@
-# Rúbrica de revisió de converses
+# Rúbrica del pilot
 
-Llegiu la conversa com si no haguéssiu vist la fitxa font.
+Puntua cada criteri `sí`, `no` o `dubtós`; anota la font que sosté cada fet.
 
-## La pregunta
+1. **Intenció**: la pregunta revela un dubte, una decisió o una confusió recognoscible?
+2. **Independència**: s’entén sense veure el títol, la secció ni la taula d’origen?
+3. **Resposta**: contesta de seguida, completa i sense sintaxi de fitxa o base de dades?
+4. **Seguiment**: és una curiositat que podria sorgir després de la resposta i aporta alguna cosa?
+5. **Fidelitat**: conserva atribucions, dates, matisos i buits de la font?
+6. **Traça**: el registre apunta a evidència vigent i a la font que cal revisar?
+7. **Drets**: es pot redistribuir aquest ús concret de la font?
 
-- Sona com una cosa que una persona preguntaria per entendre el tema?
-- Diu prou perquè no calgui veure cap títol, secció o taula?
-- Té una intenció concreta i natural, sense ser una instrucció de recuperar text?
-
-## La resposta
-
-- Contesta la pregunta al començament i és comprensible tota sola?
-- Explica el context necessari; no és una capçalera, una xifra nua ni un
-  fragment tallat?
-- Manté les dates, atribucions, incerteses i distincions de la font?
-- No afegeix interpretacions com si fossin fets documentats?
-
-## El seguiment
-
-- Neix de la resposta anterior i sona com la curiositat següent de la persona?
-- Aclareix o amplia alguna cosa sense repetir el primer torn?
-- Si no hi ha un seguiment natural, s'atura la conversa.
-
-## Decisió
-
-Marqueu cada exemple com `acceptar`, `reescriure` o `descartar`. L'acceptació
-editorial no substitueix la comprovació de procedència ni de permisos.
+`Acceptar` requereix tots els punts afirmatius, inclosos els drets per a l’exportació. En cas contrari, `reescriure`, `deixar pendent` o `descartar`.

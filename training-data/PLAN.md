@@ -1,77 +1,61 @@
-# Pla de treball
+# Pla per construir els datasets de Maia
 
-## Regla principal
+## Objectiu
 
-No convertim capítols, títols, taules ni paràgrafs directament en preguntes.
-Primer imaginem què voldria entendre una persona; després comprovem que el
-corpus ho pugui respondre.
+Crear dos datasets separats i traçables a partir de `docs/`:
 
-## Com escriurem una conversa
+- **Knowledge**: respostes conversacionals sobre el coneixement d’Andorra a `docs/temes/`.
+- **Language**: llengua andorrana contemporània extreta de parla humana elegible a `docs/parla/`.
 
-1. Llegir la fitxa sencera i triar una idea amb valor per a una persona.
-2. Escriure la intenció de l'usuari en una frase: què intenta entendre,
-   aclarir, comparar o decidir?
-3. Formular la pregunta com si s'hagués dit en una conversa real. Donar-li el
-   context mínim perquè s'entengui fora de la fitxa.
-4. Respondre directament, amb context suficient i llengua natural. Preservar
-   dates, atribucions, desacords i límits del que se sap.
-5. Afegir un seguiment només si una resposta real podria provocar aquella
-   curiositat. El seguiment ha de partir del que s'acaba de dir i aportar una
-   peça nova.
-6. Llegir el diàleg en veu alta i revisar-lo amb la rúbrica. Si sona a examen,
-   a cerca dins d'un document o a una seqüència de preguntes automàtiques, es
-   reescriu o es descarta.
-7. Guardar la conversa i la seva procedència en fitxers separats. Mantenir-la
-   com a esborrany fins que passin la revisió humana i la comprovació de drets.
+No convertim cada paràgraf en una pregunta. El criteri és si una persona tindria aquell dubte en una conversa real.
 
-## Què ha de sonar humà
+## Procés per a cada conversa Knowledge
 
-Les preguntes han de tenir un motiu recognoscible: resoldre un dubte, comprovar
-una idea que la persona ja té, entendre per què dues dades semblen contradir-se,
-o saber què implica una regla o un costum. Poden ser breus i col·loquials si el
-context ja és a la conversa.
+1. Llegir la font sencera i comprovar les afirmacions al text i les fonts que cita.
+2. Anotar internament quin dubte humà resol la conversa: entendre una contradicció, aclarir una conseqüència, distingir conceptes o saber què permet una norma.
+3. Escriure la pregunta sense referències a una fitxa, apartat, taula o «fila». Afegir només el context que necessitaria algú que no veu el document.
+4. Respondre la pregunta directament, amb les dades i els límits necessaris. Evitar fragments, llistes de camps i xifres sense subjecte.
+5. Afegir un seguiment només quan neixi de la resposta i plantegi una curiositat nova. No forçar converses llargues: dues parelles de torns són una bona mida inicial, no una quota universal.
+6. Llegir el diàleg com una conversa seguida. Si sona a examen, consulta d’índex o plantilla, reescriure’l o descartar-lo.
+7. Guardar la conversa neta al JSONL i la procedència, evidència i drets en fitxers separats.
+8. Mantenir-la com a esborrany fins que passi revisió humana i drets.
 
-No demanarem «què explica aquesta secció», «què indica aquesta fila» ni
-«resumeix la fitxa». Tampoc repetirem motlles com «què és X?» per cada concepte.
-La variació vindrà de les intencions reals, no de canviar quatre paraules d'una
-plantilla.
+## Senyals de preguntes humanes
+
+Una pregunta bona expressa una intenció: «com quadren aquestes dues dades?», «què canviaria si…?», «vol dir que…?» o «quina diferència hi ha?». El context pot venir del torn anterior. No s’inventa una situació personal quan no ajuda a entendre el fet.
+
+Rebutjar preguntes que només funcionen davant d’un document concret, com ara «què explica la secció…?» o «què indica aquesta fila?». Rebutjar també preguntes vagues com «què més?» i variacions de plantilla que demanen la mateixa resposta.
 
 ## Converses multitorn
 
-Per defecte, cada conversa tindrà com a mínim dos intercanvis. La primera
-resposta ja ha de resoldre bé la pregunta. El seguiment demanarà una
-conseqüència, una distinció o un detall que neix de la resposta. No repetirem
-la mateixa dada ni inventarem un seguiment que ningú no faria. Si un fet no
-admet cap continuació honesta, s'anotarà com a excepció i no s'allargarà amb
-text de farciment.
+La primera resposta ha de resoldre el dubte inicial. El seguiment ha de ser una reacció plausible a aquesta resposta i ha d’obtenir informació nova: una distinció, una conseqüència o un límit. Cap torn no ha de dependre d’una font invisible. La conversa es pot tancar abans si no hi ha una continuació natural.
 
-## Passos del projecte
+## Quality gate
 
-1. **Aprovar el patró:** revisar i retocar els exemples pilot i la rúbrica.
-2. **Pilotar Knowledge:** afegir una tanda curta d'un mateix tema i comprovar
-   que les preguntes sonen naturals i que les respostes són completes.
-3. **Ampliar Knowledge:** avançar per temes, registrant cobertura i exclusions
-   sense produir variants redundants.
-4. **Preparar Language a part:** usar només parla humana elegible. No inventar
-   preguntes ni torns atribuïts a una persona quan la font no els dona.
-5. **Aprovar i exportar:** separar fonts, peces i temes entre train,
-   validation i test; exportar només registres revisats, traçables i aptes.
+Abans d’acceptar un registre, revisar:
 
-## Estat mesurat del corpus
+- **Naturalitat**: algú ho preguntaria amb aquest motiu i aquest context?
+- **Resposta**: comença per contestar i s’entén sense la fitxa?
+- **Fidelitat**: cada fet surt de la font; les atribucions i incerteses es conserven?
+- **Multitorn**: el seguiment neix del torn anterior i no repeteix la resposta?
+- **Separació**: el missatge només conté la conversa, sense IDs ni notes internes?
+- **Procedència i drets**: es pot tornar a la prova i està clara la condició de reutilització?
+- **Duplicació**: aporta un intent o un fet nou respecte dels registres existents?
 
-L'extracció inicial de `docs/temes/` ha llegit 1.477 fitxes sense errors de
-Markdown i ha registrat seccions, taules, files i unitats estructurals a
-`knowledge/reports/inventory.json`. Les 87.339 unitats detectades encara no són
-converses: s'han de representar amb preguntes útils o tancar-les amb una
-exclusió raonada.
+Decisions: `acceptar`, `reescriure` o `descartar`. Un exemple editorialment bo encara no és exportable si els drets no estan clars.
 
-El report de `docs/parla/` registra 45 entrades, 40 peces de parla, 38 peces
-que passen els filtres bàsics, 8.449 marques d'incertesa i zero converses amb
-torns explícits. Totes les 40 referències de procedència tenen redistribució
-pendent. Fins que això canviï, Language no pot tenir un output d'entrenament.
+## Passos
 
-## Porta d'entrada a l'entrenament
+1. Revisar junts els quatre exemples de `knowledge/review/conversations.jsonl`; retocar el to segons el que soni natural.
+2. Fer un pilot petit en un sol tema i revisar-lo abans d’ampliar el volum.
+3. Avançar per temes; per cada unitat d’evidència, crear una conversa útil, justificar-ne l’exclusió o deixar explícit per què no dona per fer-ne una. Cobertura no vol dir fabricar preguntes.
+4. Afegir comparacions i síntesis entre fitxes quan les relacions estiguin documentades.
+5. Deduplicar i separar train/validation/test per tema/font, perquè reformulacions del mateix fet no caiguin en conjunts diferents.
+6. Treballar Language en una via separada; no inventar torns humans ni imitar una veu andorrana amb text generat.
+7. Exportar només registres revisats, traçables i compatibles amb els drets de cada font.
 
-Un exemple de revisió no és encara una mostra de producció. Abans d'exportar
-qualsevol conversa cal confirmar-ne la naturalitat, la resposta, la cobertura,
-la procedència i els permisos de redistribució de cada font.
+## Estat actual i següent pas
+
+La lectura estructural de `docs/temes/` ha inventariat 1.477 fitxes i 87.339 unitats d’evidència. Aquestes unitats no són preguntes ni registres entrenables. El primer pas ara és revisar i ajustar els quatre diàlegs pilot abans de crear més registres.
+
+La via Language té 45 entrades, 40 peces de parla, 38 que passen els filtres bàsics i 8.449 fragments marcats com a incerts. No s’hi han trobat torns explícits i les condicions de redistribució continuen pendents; per tant, no hi ha encara sortida d’entrenament.
