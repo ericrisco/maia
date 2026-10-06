@@ -55,26 +55,27 @@ class TrainingDataValidationReport:
     knowledge_coverage: float
 
 
-def _fingerprint(record: Mapping[str, object]) -> tuple[str, str] | None:
+def _fingerprint(record: Mapping[str, object]) -> tuple[tuple[str, str], ...] | None:
     messages = record.get("messages")
-    if not isinstance(messages, list) or len(messages) != 2:
+    if not isinstance(messages, list) or len(messages) < 2 or len(messages) % 2:
         return None
-    user, assistant = messages
-    if not isinstance(user, dict) or not isinstance(assistant, dict):
-        return None
-    user_text = user.get("content")
-    assistant_text = assistant.get("content")
-    if not isinstance(user_text, str) or not isinstance(assistant_text, str):
-        return None
-    return re.sub(r"\s+", " ", user_text).strip().casefold(), re.sub(
-        r"\s+", " ", assistant_text
-    ).strip().casefold()
+    transcript: list[tuple[str, str]] = []
+    for index, message in enumerate(messages):
+        if not isinstance(message, dict):
+            return None
+        role = message.get("role")
+        content = message.get("content")
+        expected_role = "user" if index % 2 == 0 else "assistant"
+        if role != expected_role or not isinstance(content, str):
+            return None
+        transcript.append((expected_role, re.sub(r"\s+", " ", content).strip().casefold()))
+    return tuple(transcript)
 
 
 def _candidate_fingerprints(
     candidates: tuple[ConversationCandidate | SpeechConversationCandidate, ...],
-) -> Counter[tuple[str, str]]:
-    fingerprints: Counter[tuple[str, str]] = Counter()
+) -> Counter[tuple[tuple[str, str], ...]]:
+    fingerprints: Counter[tuple[tuple[str, str], ...]] = Counter()
     for candidate in candidates:
         fingerprint = _fingerprint(candidate.to_public_record())
         if fingerprint is not None:
@@ -87,7 +88,7 @@ def validate_public_splits(paths: dict[str, Path], *, dataset: str) -> DatasetVa
 
     issues: list[ValidationIssue] = []
     counts: dict[str, int] = {}
-    seen: dict[tuple[str, str], tuple[str, int]] = {}
+    seen: dict[tuple[tuple[str, str], ...], tuple[str, int]] = {}
     duplicates = 0
     for split_name, path in paths.items():
         counts[split_name] = 0
@@ -123,19 +124,19 @@ def validate_public_splits(paths: dict[str, Path], *, dataset: str) -> DatasetVa
                 )
                 continue
             messages = record.get("messages")
-            if not isinstance(messages, list) or len(messages) != 2:
+            if not isinstance(messages, list) or len(messages) < 2 or len(messages) % 2:
                 issues.append(
                     ValidationIssue(
                         "message_count",
-                        "Record must contain exactly two messages.",
+                        "Record must contain complete user-assistant turn pairs.",
                         str(path),
                         line_number,
                     )
                 )
                 continue
-            expected_roles = ("user", "assistant")
             valid_messages = True
-            for message, role in zip(messages, expected_roles, strict=True):
+            for message_index, message in enumerate(messages):
+                role = "user" if message_index % 2 == 0 else "assistant"
                 if not isinstance(message, dict) or set(message) != {"role", "content"}:
                     issues.append(
                         ValidationIssue(
@@ -210,7 +211,7 @@ def validate_knowledge_dataset(
     records = {"train": split.train, "validation": split.validation, "test": split.test}
     expected_counts: dict[str, int] = {}
     family_splits: dict[str, str] = {}
-    expected_public: dict[str, Counter[tuple[str, str]]] = {}
+    expected_public: dict[str, Counter[tuple[tuple[str, str], ...]]] = {}
     for split_name, candidates in records.items():
         expected_counts[split_name] = len(candidates)
         expected_public[split_name] = _candidate_fingerprints(candidates)

@@ -62,6 +62,26 @@ def test_public_validator_rejects_markdown_metadata_and_exact_duplicates(tmp_pat
     assert report.exact_duplicates == 1
 
 
+def test_public_validator_accepts_complete_multiturn_conversation(tmp_path: Path) -> None:
+    paths = _paths(tmp_path)
+    record = {
+        "messages": [
+            {"role": "user", "content": "La Passa és un ball?"},
+            {"role": "assistant", "content": "No, és una cercavila."},
+            {"role": "user", "content": "Qui va al davant?"},
+            {"role": "assistant", "content": "Les parelles que es casaran aquell any."},
+        ]
+    }
+    paths["train"].write_text(json.dumps(record) + "\n", encoding="utf-8")
+    paths["validation"].write_text("", encoding="utf-8")
+    paths["test"].write_text("", encoding="utf-8")
+
+    report = validate_public_splits(paths, dataset="fixture")
+
+    assert report.valid, report.issues
+    assert report.record_counts == {"train": 1, "validation": 0, "test": 0}
+
+
 def test_knowledge_validator_accepts_grounded_clean_splits(tmp_path: Path) -> None:
     docs = tmp_path / "docs"
     (docs / "temes/topic").mkdir(parents=True)

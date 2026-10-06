@@ -41,6 +41,33 @@ def test_manual_review_keeps_evidence_and_improves_direct_answer(tmp_path: Path)
     assert "parcial" not in reviewed.assistant
 
 
+def test_manual_review_preserves_multiturn_followups(tmp_path: Path) -> None:
+    docs = tmp_path / "docs"
+    topic = docs / "temes/topic"
+    topic.mkdir(parents=True)
+    shutil.copyfile(FIXTURES / "knowledge_article.md", topic / "article.md")
+    (docs / "fonts").mkdir()
+    shutil.copyfile(FIXTURES / "source_card.md", docs / "fonts/fixture-source.md")
+    ledger = extract_knowledge(scan_tree(docs))
+    candidate = next(
+        item for item in build_knowledge_candidates(ledger) if "s'aplica el 2030" in item.assistant
+    )
+    reviewed = review_candidate(
+        candidate,
+        evidence_by_id={unit.id: unit for unit in ledger.units},
+        user="Aquesta norma ja s'aplica?",
+        assistant="Sí, és activa actualment i s'aplica el 2030.",
+        follow_ups=(("I què canvia aquell any?", "La regla entra en vigor el 2030."),),
+    )
+
+    assert [message["role"] for message in reviewed.to_public_record()["messages"]] == [
+        "user",
+        "assistant",
+        "user",
+        "assistant",
+    ]
+
+
 def test_review_rejects_unknown_evidence_and_empty_wording(tmp_path: Path) -> None:
     docs = tmp_path / "docs"
     topic = docs / "temes/topic"

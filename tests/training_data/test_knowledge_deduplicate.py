@@ -83,3 +83,27 @@ def test_near_duplicate_family_is_reported_without_removing_candidates(tmp_path:
     assert len({record["family_id"] for record in work_records[:2]}) == 1
     report_path = write_knowledge_deduplication(result.report, reports=tmp_path / "reports")
     assert json.loads(report_path.read_text())["near_duplicate_family_count"] == 1
+
+
+def test_distinct_followups_are_not_treated_as_exact_duplicates() -> None:
+    first = ConversationCandidate(
+        family_id="family-a",
+        evidence_ids=("evidence-a",),
+        user="La Passa és un ball?",
+        assistant="No, és una cercavila.",
+        review_status="human_reviewed",
+        follow_ups=(("Quan es fa?", "Al migdia del dilluns de la festa major."),),
+    )
+    second = ConversationCandidate(
+        family_id="family-b",
+        evidence_ids=("evidence-b",),
+        user="La Passa és un ball?",
+        assistant="No, és una cercavila.",
+        review_status="human_reviewed",
+        follow_ups=(("Qui va al davant?", "Les parelles que es casaran aquell any."),),
+    )
+
+    result = deduplicate_knowledge_candidates((first, second))
+
+    assert len(result.candidates) == 2
+    assert result.report.exact_records_removed == 0

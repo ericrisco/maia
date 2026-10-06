@@ -48,8 +48,12 @@ def _normalize(value: str) -> str:
     return re.sub(r"\s+", " ", normalized).strip()
 
 
-def _fingerprint(user: str, assistant: str) -> str:
-    return hashlib.sha256(f"{_normalize(user)}\0{_normalize(assistant)}".encode()).hexdigest()
+def _fingerprint(candidate: ConversationCandidate) -> str:
+    transcript = "\0".join(
+        f"{message['role']}\0{_normalize(message['content'])}"
+        for message in candidate.to_public_record()["messages"]
+    )
+    return hashlib.sha256(transcript.encode()).hexdigest()
 
 
 def _stable_group_id(prefix: str, values: set[str]) -> str:
@@ -64,7 +68,7 @@ def deduplicate_knowledge_candidates(
 
     grouped: dict[str, list[ConversationCandidate]] = {}
     for candidate in candidates:
-        grouped.setdefault(_fingerprint(candidate.user, candidate.assistant), []).append(candidate)
+        grouped.setdefault(_fingerprint(candidate), []).append(candidate)
 
     deduplicated: list[ConversationCandidate] = []
     exact_groups = 0

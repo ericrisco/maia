@@ -46,16 +46,23 @@ class ConversationCandidate:
     user: str
     assistant: str
     review_status: ReviewStatus
+    follow_ups: tuple[tuple[str, str], ...] = ()
 
     def to_public_record(self) -> dict[str, list[dict[str, str]]]:
         """Retorna només l'esquema de missatges que s'exporta al dataset."""
 
-        return {
-            "messages": [
-                {"role": "user", "content": self.user},
-                {"role": "assistant", "content": self.assistant},
-            ]
-        }
+        messages = [
+            {"role": "user", "content": self.user},
+            {"role": "assistant", "content": self.assistant},
+        ]
+        for user, assistant in self.follow_ups:
+            messages.extend(
+                (
+                    {"role": "user", "content": user},
+                    {"role": "assistant", "content": assistant},
+                )
+            )
+        return {"messages": messages}
 
 
 @dataclass(frozen=True, slots=True)
@@ -162,6 +169,7 @@ def review_candidate(
     evidence_by_id: dict[str, EvidenceUnit],
     user: str,
     assistant: str,
+    follow_ups: tuple[tuple[str, str], ...] = (),
 ) -> ConversationCandidate:
     """Aplica wording revisat per una persona sense canviar-ne la traçabilitat."""
 
@@ -171,11 +179,20 @@ def review_candidate(
         raise ValueError("candidate evidence IDs must resolve to known evidence units")
     if not user.strip() or not assistant.strip():
         raise ValueError("reviewed user and assistant wording must be non-empty")
+    if any(
+        not follow_up_user.strip() or not follow_up_assistant.strip()
+        for follow_up_user, follow_up_assistant in follow_ups
+    ):
+        raise ValueError("every follow-up user and assistant message must be non-empty")
     return replace(
         candidate,
         user=user.strip(),
         assistant=assistant.strip(),
         review_status="human_reviewed",
+        follow_ups=tuple(
+            (follow_up_user.strip(), follow_up_assistant.strip())
+            for follow_up_user, follow_up_assistant in follow_ups
+        ),
     )
 
 
@@ -293,7 +310,8 @@ def classify_knowledge_candidates(
                 "volatility_threshold",
             )
         else:
-            content = " ".join((candidate.assistant, *(unit.content for unit in units))).casefold()
+            assistant_turns = (candidate.assistant, *(answer for _, answer in candidate.follow_ups))
+            content = " ".join((*assistant_turns, *(unit.content for unit in units))).casefold()
             if any(marker in content for marker in CONFLICT_MARKERS):
                 conflict_count += 1
                 reason = "explicit_conflict_preserved"
