@@ -153,6 +153,14 @@ def _source_card(entry: InventoryEntry) -> SourceCard | None:
     if metadata.get("type") != "font" and not metadata.get("id"):
         return None
     source_id = str(metadata.get("id") or Path(entry.path).stem).strip()
+    redistribution_value = metadata.get("redistribucio")
+    if redistribution_value is None or redistribution_value == "":
+        redistribution = "pendent"
+    elif isinstance(redistribution_value, bool):
+        # PyYAML's YAML 1.1 resolver reads bare `yes` / `no` as booleans.
+        redistribution = "si" if redistribution_value else "no"
+    else:
+        redistribution = str(redistribution_value).strip().casefold()
     return SourceCard(
         source_id=source_id,
         path=entry.path,
@@ -160,7 +168,7 @@ def _source_card(entry: InventoryEntry) -> SourceCard | None:
         holder=str(metadata.get("titular") or ""),
         url=str(metadata.get("url") or ""),
         licence=str(metadata.get("llicencia") or ""),
-        redistribution=str(metadata.get("redistribucio") or "pendent"),
+        redistribution=redistribution,
         metadata=metadata,
     )
 

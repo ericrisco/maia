@@ -8,11 +8,12 @@ from training_data.knowledge import extract_knowledge
 from training_data.knowledge_generate import (
     build_knowledge_candidates,
     classify_knowledge_candidates,
+    review_candidate,
     write_knowledge_candidates,
 )
 
 
-def _tree(root: Path) -> Path:
+def _tree(root: Path, *, redistribution: str = "pendent") -> Path:
     docs = root / "docs"
     fonts = docs / "fonts"
     topic = docs / "temes/topic"
@@ -20,7 +21,7 @@ def _tree(root: Path) -> Path:
     topic.mkdir(parents=True)
     (fonts / "fixture-source.md").write_text(
         "---\ntype: font\nid: fixture-source\ntitle: Font de prova\n"
-        "redistribucio: pendent\n---\n\n# Font de prova\n",
+        f"redistribucio: {redistribution}\n---\n\n# Font de prova\n",
         encoding="utf-8",
     )
     (topic / "review.md").write_text(
@@ -40,11 +41,24 @@ def _tree(root: Path) -> Path:
     return docs
 
 
+def _review_all(candidates, ledger):
+    evidence_by_id = {unit.id: unit for unit in ledger.units}
+    return tuple(
+        review_candidate(
+            candidate,
+            evidence_by_id=evidence_by_id,
+            user="Què se'n pot dir sobre aquesta dada?",
+            assistant=candidate.assistant,
+        )
+        for candidate in candidates
+    )
+
+
 def test_classification_preserves_conflicts_and_unknowns_and_blocks_unsafe_items(
     tmp_path: Path,
 ) -> None:
-    ledger = extract_knowledge(scan_tree(_tree(tmp_path)))
-    candidates = build_knowledge_candidates(ledger)
+    ledger = extract_knowledge(scan_tree(_tree(tmp_path, redistribution="si")))
+    candidates = _review_all(build_knowledge_candidates(ledger), ledger)
 
     classified = classify_knowledge_candidates(candidates, ledger)
 
@@ -122,9 +136,9 @@ def test_classification_preserves_conflicts_and_unknowns_and_blocks_unsafe_items
     assert summary["excluded"] == classified.excluded_count
 
 
-def test_pending_redistribution_is_visible_but_not_an_automatic_exclusion(tmp_path: Path) -> None:
+def test_pending_redistribution_stays_unresolved_after_human_review(tmp_path: Path) -> None:
     ledger = extract_knowledge(scan_tree(_tree(tmp_path)))
-    candidates = build_knowledge_candidates(ledger)
+    candidates = _review_all(build_knowledge_candidates(ledger), ledger)
 
     classified = classify_knowledge_candidates(candidates, ledger)
 
@@ -136,6 +150,34 @@ def test_pending_redistribution_is_visible_but_not_an_automatic_exclusion(tmp_pa
     decision = next(
         decision for decision in classified.decisions if decision.family_id == stable.family_id
     )
-    assert decision.status == "included"
+    assert decision.status == "unresolved"
     assert decision.reason == "source_redistribution_pending"
-    assert stable in classified.eligible_candidates
+    assert stable not in classified.eligible_candidates
+
+
+def test_non_redistributable_source_cannot_enter_public_candidates(tmp_path: Path) -> None:
+    ledger = extract_knowledge(scan_tree(_tree(tmp_path, redistribution="no")))
+    candidates = _review_all(build_knowledge_candidates(ledger), ledger)
+
+    classified = classify_knowledge_candidates(candidates, ledger)
+
+    assert not classified.eligible_candidates
+    assert classified.excluded_count > 0
+    blocked_evidence = {
+        unit.id
+        for unit in ledger.units
+        if any(reference.redistribution == "no" for reference in unit.provenance)
+    }
+    blocked_candidates = [
+        candidate for candidate in candidates if set(candidate.evidence_ids) & blocked_evidence
+    ]
+    assert blocked_candidates
+    assert all(
+        next(
+            item
+            for item in classified.decisions
+            if item.family_id == candidate.family_id
+        ).reason
+        == "source_redistribution_no"
+        for candidate in blocked_candidates
+    )

@@ -43,11 +43,14 @@ def main() -> int:
     write_knowledge_coverage(coverage, reports=knowledge_root / "reports")
     write_knowledge_deduplication(deduplicated.report, reports=knowledge_root / "reports")
     split = split_knowledge_candidates(deduplicated.candidates)
-    write_knowledge_splits(
-        split,
-        output=knowledge_root / "output",
-        work=knowledge_root / "work",
-    )
+    if sum(split.manifest.actual_counts.values()):
+        write_knowledge_splits(
+            split,
+            output=knowledge_root / "output",
+            work=knowledge_root / "work",
+        )
+    else:
+        print("Knowledge splits not written: no human-reviewed, redistribution-cleared records.")
     print(
         f"Knowledge candidates: {classification.included_count} included, "
         f"{classification.excluded_count} excluded, "

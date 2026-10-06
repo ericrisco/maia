@@ -9,6 +9,7 @@ from training_data.knowledge import EvidenceUnit, extract_knowledge
 from training_data.knowledge_generate import (
     ConversationCandidate,
     build_knowledge_candidates,
+    classify_knowledge_candidates,
     write_knowledge_candidates,
 )
 
@@ -85,3 +86,29 @@ def test_generator_seam_and_candidate_files_are_jsonl(tmp_path: Path) -> None:
     assert len(internal) == len(ledger.units)
     assert all("evidence_ids" in record for record in internal)
     assert all(set(record) == {"messages"} for record in public)
+
+
+def test_unreviewed_template_questions_cannot_enter_public_candidate_messages(
+    tmp_path: Path,
+) -> None:
+    ledger = extract_knowledge(scan_tree(_knowledge_tree(tmp_path)))
+    candidates = build_knowledge_candidates(ledger)
+    classification = classify_knowledge_candidates(candidates, ledger)
+
+    assert candidates
+    assert not classification.eligible_candidates
+    assert all(
+        item.status == "unresolved" and item.reason == "human_review_required"
+        for item in classification.decisions
+    )
+
+    work = tmp_path / "work"
+    write_knowledge_candidates(
+        candidates,
+        work=work,
+        classification=classification,
+        public_candidates=candidates,
+    )
+
+    public_path = work / "candidate-messages.jsonl"
+    assert public_path.read_text(encoding="utf-8") == ""

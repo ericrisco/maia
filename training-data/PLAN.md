@@ -27,6 +27,8 @@ Aquest pla governa el treball tema a tema a `training-data/knowledge/` i peça a
 - Incloure les preguntes factuals, explicatives, comparatives i contextuals que el corpus pugui respondre. No generar variants mecàniques.
 - Escriure respostes completes en català natural. Preservar qualificadors, atribucions, desacords i desconeixement.
 - Enregistrar la cobertura interna de cada afirmació i rebutjar respostes fragmentàries, genèriques o no sustentades.
+- Tractar les preguntes i respostes de plantilla com a esborranys interns, mai com a registres aptes per entrenar. Només una conversa reescrita i marcada com a revisada per una persona pot avançar.
+- Si la redistribució de qualsevol font és pendent, mantenir la conversa pendent; si és prohibida, excloure-la. No deixar que una resposta sobre incertesa o desacord salti aquest control.
 - Tancar una branca només quan totes les seves fitxes i unitats útils tinguin conversa o exclusió justificada.
 
 ### 4. Curar Language sense falsejar la font
@@ -43,6 +45,7 @@ Aquest pla governa el treball tema a tema a `training-data/knowledge/` i peça a
 - Auditar manualment tots els casos dubtosos i una mostra de cada branca i font.
 - Comprovar que cap grup d'evidència o peça de parla apareix en més d'un split.
 - Exportar els tres splits només des de registres aprovats.
+- Si encara no hi ha registres aprovats i amb redistribució permesa, no crear fitxers de split buits que semblin datasets acabats; deixar constància al report que l'exportació està pendent.
 - Generar reports de cobertura, exclusions, permisos, splits i validació.
 
 ## Regla d'avanç

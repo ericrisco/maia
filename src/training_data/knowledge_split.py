@@ -107,7 +107,13 @@ def split_knowledge_candidates(
 
 
 def write_knowledge_splits(split: KnowledgeSplit, *, output: Path, work: Path) -> dict[str, Path]:
-    """Escriu JSONL públics i el manifest intern amb substitució atòmica."""
+    """Escriu JSONL públics només per a exemples revisats i no buits."""
+
+    all_candidates = (*split.train, *split.validation, *split.test)
+    if not all_candidates:
+        raise ValueError("cannot write empty Knowledge splits")
+    if any(candidate.review_status != "human_reviewed" for candidate in all_candidates):
+        raise ValueError("only human-reviewed Knowledge conversations can be exported")
 
     records_by_name = {
         "train": split.train,

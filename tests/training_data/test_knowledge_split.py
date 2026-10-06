@@ -20,7 +20,7 @@ def _candidates() -> tuple[ConversationCandidate, ...]:
             evidence_ids=(f"evidence-{index}",),
             user=f"Què és el concepte {index}?",
             assistant=f"El concepte {index} és una prova.",
-            review_status="needs_review",
+            review_status="human_reviewed",
         )
         for index in range(37)
     ]
@@ -30,7 +30,7 @@ def _candidates() -> tuple[ConversationCandidate, ...]:
             evidence_ids=(f"shared-evidence-{index}",),
             user=f"Variant {index}?",
             assistant=f"Resposta {index}.",
-            review_status="needs_review",
+            review_status="human_reviewed",
         )
         for index in range(3)
     )
@@ -74,3 +74,26 @@ def test_grouped_split_is_deterministic_complete_and_jsonl_valid(tmp_path: Path)
 def test_split_config_rejects_invalid_ratios() -> None:
     with pytest.raises(ValueError, match="sum to 1"):
         SplitConfig(target_ratios={"train": 0.7, "validation": 0.2, "test": 0.2})
+
+
+def test_public_split_writer_rejects_unreviewed_or_empty_splits(tmp_path: Path) -> None:
+    pending = (
+        ConversationCandidate(
+            family_id="pending",
+            evidence_ids=("evidence-pending",),
+            user="Què explica aquesta secció?",
+            assistant="Un fragment incomplet.",
+            review_status="needs_review",
+        ),
+    )
+    pending_split = split_knowledge_candidates(pending)
+    with pytest.raises(ValueError, match="human-reviewed"):
+        write_knowledge_splits(
+            pending_split, output=tmp_path / "pending", work=tmp_path / "pending-work"
+        )
+
+    empty_split = split_knowledge_candidates(())
+    with pytest.raises(ValueError, match="empty"):
+        write_knowledge_splits(
+            empty_split, output=tmp_path / "empty", work=tmp_path / "empty-work"
+        )

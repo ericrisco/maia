@@ -10,6 +10,7 @@ from training_data.knowledge_deduplicate import deduplicate_knowledge_candidates
 from training_data.knowledge_generate import (
     build_knowledge_candidates,
     classify_knowledge_candidates,
+    review_candidate,
 )
 from training_data.knowledge_split import split_knowledge_candidates, write_knowledge_splits
 from training_data.language import (
@@ -66,7 +67,7 @@ def test_knowledge_validator_accepts_grounded_clean_splits(tmp_path: Path) -> No
     (docs / "temes/topic").mkdir(parents=True)
     (docs / "fonts").mkdir()
     (docs / "fonts/source.md").write_text(
-        "---\ntype: font\nid: source\ntitle: Font\nredistribucio: pendent\n---\n",
+        "---\ntype: font\nid: source\ntitle: Font\nredistribucio: si\n---\n",
         encoding="utf-8",
     )
     (docs / "temes/topic/article.md").write_text(
@@ -75,7 +76,19 @@ def test_knowledge_validator_accepts_grounded_clean_splits(tmp_path: Path) -> No
         encoding="utf-8",
     )
     ledger = extract_knowledge(scan_tree(docs))
-    candidates = build_knowledge_candidates(ledger)
+    draft_candidates = build_knowledge_candidates(ledger)
+    evidence_by_id = {unit.id: unit for unit in ledger.units}
+    candidates = tuple(
+        review_candidate(
+            item,
+            evidence_by_id=evidence_by_id,
+            user="Quan se celebra la festa local?",
+            assistant="La festa local se celebra cada hivern.",
+        )
+        for item in draft_candidates
+        if "La festa local se celebra cada hivern." in item.assistant
+    )
+    assert candidates
     classification = classify_knowledge_candidates(candidates, ledger)
     deduplicated = deduplicate_knowledge_candidates(classification.eligible_candidates)
     split = split_knowledge_candidates(deduplicated.candidates)

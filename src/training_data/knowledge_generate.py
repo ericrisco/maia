@@ -89,7 +89,7 @@ class CandidateGenerator(Protocol):
 
 
 class LiteralEvidenceGenerator:
-    """Crea una pregunta plantilla i preserva literalment el text de l'evidència."""
+    """Crea esborranys literals només per a la cua interna de revisió humana."""
 
     def generate(self, evidence: EvidenceUnit, title: str) -> ConversationCandidate | None:
         content = markdown_to_plain_text(evidence.content, block_kind=evidence.block_kind)
@@ -235,7 +235,7 @@ def build_relation_candidates(ledger: KnowledgeLedger) -> tuple[ConversationCand
 def classify_knowledge_candidates(
     candidates: tuple[ConversationCandidate, ...], ledger: KnowledgeLedger
 ) -> CandidateClassification:
-    """Bloqueja procedència no resolta i fets volàtils; preserva conflictes i buits."""
+    """Bloqueja esborranys, procedència no autoritzada i fets volàtils."""
 
     evidence_by_id = {unit.id: unit for unit in ledger.units}
     decisions: list[CandidateDecision] = []
@@ -251,12 +251,39 @@ def classify_knowledge_candidates(
                 "unresolved",
                 "evidence_reference_missing",
             )
+        elif candidate.review_status != "human_reviewed":
+            decision = CandidateDecision(
+                candidate.family_id,
+                candidate.evidence_ids,
+                "unresolved",
+                "human_review_required",
+            )
         elif any(reference.status != "recorded" for unit in units for reference in unit.provenance):
             decision = CandidateDecision(
                 candidate.family_id,
                 candidate.evidence_ids,
                 "unresolved",
                 "missing_or_invalid_provenance",
+            )
+        elif any(
+            reference.redistribution in {"pendent", "pending"}
+            for unit in units
+            for reference in unit.provenance
+        ):
+            decision = CandidateDecision(
+                candidate.family_id,
+                candidate.evidence_ids,
+                "unresolved",
+                "source_redistribution_pending",
+            )
+        elif any(
+            reference.redistribution == "no" for unit in units for reference in unit.provenance
+        ):
+            decision = CandidateDecision(
+                candidate.family_id,
+                candidate.evidence_ids,
+                "excluded",
+                "source_redistribution_no",
             )
         elif any(unit.volatility_score >= 0.5 for unit in units):
             decision = CandidateDecision(
@@ -273,16 +300,6 @@ def classify_knowledge_candidates(
             elif any(marker in content for marker in UNKNOWN_MARKERS):
                 unknown_count += 1
                 reason = "explicit_unknown_preserved"
-            elif any(
-                reference.redistribution in {"pendent", "pending"}
-                for unit in units
-                for reference in unit.provenance
-            ):
-                reason = "source_redistribution_pending"
-            elif any(
-                reference.redistribution == "no" for unit in units for reference in unit.provenance
-            ):
-                reason = "source_redistribution_no"
             else:
                 reason = "source_and_evidence_resolved"
             decision = CandidateDecision(
@@ -345,6 +362,24 @@ def write_knowledge_candidates(
     selected_public = public_candidates
     if selected_public is None:
         selected_public = classification.eligible_candidates if classification else candidates
+    if classification is not None:
+        eligible_evidence = {
+            evidence_id
+            for item in classification.eligible_candidates
+            for evidence_id in item.evidence_ids
+        }
+        selected_public = tuple(
+            candidate
+            for candidate in selected_public
+            if candidate.review_status == "human_reviewed"
+            and set(candidate.evidence_ids) <= eligible_evidence
+        )
+    else:
+        selected_public = tuple(
+            candidate
+            for candidate in selected_public
+            if candidate.review_status == "human_reviewed"
+        )
     _atomic_jsonl(public_path, (candidate.to_public_record() for candidate in selected_public))
     if classification is not None:
         _atomic_jsonl(
