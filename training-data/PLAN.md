@@ -1,76 +1,43 @@
-# Pla complet dels datasets de Maia
+# Pla refet de Maia Training Data
 
-## Objectiu i abast
+## Objectiu
 
-Preparar dos datasets separats a partir de tot el material pertinent de `docs/`:
+Preparar dos datasets separats a partir de `docs/`:
 
-- **Knowledge**: ensenyar a respondre conversacionalment sobre tot el coneixement d'Andorra documentat a `docs/temes/`.
-- **Language**: preservar català andorrà contemporani produït per persones a `docs/parla/`.
+- **Knowledge** ensenya a respondre preguntes humanes sobre Andorra amb fets del corpus.
+- **Language** conserva el català andorrà contemporani produït per persones.
 
-La cobertura ha de ser exhaustiva i auditable. Això no vol dir convertir cada títol, capçalera, enllaç o fragment mecànicament en una pregunta. Cada unitat de contingut s'ha de representar amb una conversa útil, o quedar registrada com a exclosa amb un motiu verificable. Mai sacrificar correctesa o naturalitat per fer pujar el recompte.
+La cobertura continua sent exhaustiva. No vol dir convertir cada fragment en una
+pregunta. Cada fet útil ha d'estar cobert per una conversa que algú podria dir en
+veu alta, o quedar exclòs amb un motiu verificable.
 
-## Regles de conversa Knowledge
+## Prioritat nova: naturalitat abans de volum
 
-1. Llegir el document complet i seguir els enllaços necessaris per entendre'n les afirmacions, les fonts, les correccions, les discrepàncies i els límits.
-2. Identificar el dubte humà: una decisió pràctica, una confusió, una comparació, una conseqüència o una curiositat concreta.
-3. Formular l'obertura sense esmentar la fitxa, l'apartat, la taula ni una dada que només veu qui consulta el document.
-4. Respondre primer el dubte, en català natural. Desenvolupar prou el context i els matisos perquè la resposta s'entengui sola.
-5. Afegir seguiments quan una persona realment els faria. Cada seguiment ha de néixer del torn anterior i avançar a una distinció, implicació o límit nou. La conversa pot acabar després de qualsevol resposta completa.
-6. Si hi ha una premissa falsa, corregir-la amb tacte. Si les fonts discrepen o no ho saben, dir-ho sense inventar una conciliació.
-7. Llegir el diàleg sencer en veu alta. Reescriure o descartar qualsevol registre que soni com un examen, una plantilla o una resposta tallada.
-8. Registrar fonts, evidència, llicència, termes de reutilització i estat de revisió fora de `messages`.
+El pilot anterior va confondre cobertura amb convertir títols, seccions, files i
+fragments en preguntes. Aquesta via queda tancada. Els registres que ja hi ha a
+`knowledge/review/conversations.jsonl` són esborranys: no es consideren aprovats
+ni exportables fins que passin la rúbrica de `knowledge/review/EXEMPLES.md`.
 
-Els exemples normatius són a `knowledge/review/EXEMPLES.md`. Cap exemple pilot no s'exporta automàticament.
+Per a cada conversa nova:
 
-## Cobertura i registre d'exclusions
+1. Llegir la font completa i confirmar el fet, el seu context i els límits.
+2. Escriure en una frase quin dubte real resol la conversa.
+3. Formular la pregunta com una persona que vol entendre, comprovar o decidir
+   alguna cosa. No mencionar fitxes, seccions, taules, files ni el corpus.
+4. Respondre primer la pregunta, amb llenguatge corrent i prou context perquè
+   la resposta s'entengui sola.
+5. Afegir un seguiment només si és plausible després de la resposta i demana
+   informació nova. No forçar una conversa llarga: un sol intercanvi també pot
+   ser complet.
+6. Llegir el diàleg en veu alta. Reescriure'l si sembla un examen, una consulta
+   a un document o una plantilla.
+7. Guardar fonts, evidència, drets i decisions de revisió fora de `messages`.
 
-Inventariar tots els documents de `docs/temes/` i descompondre'n el contingut en unitats auditables: afirmacions, paràgrafs, files de taules, llistes, dates, noms, relacions, correccions i incerteses. Els enllaços s'han de registrar per poder crear síntesis entre temes.
+Intencions útils: aclarir una confusió, comprovar una afirmació, entendre una
+conseqüència, orientar-se davant d'un cas, distingir dues coses o demanar què va
+passar després. No cal repartir-les en quotes ni fer-les servir com a plantilles.
 
-Per a cada unitat útil, fer una o més converses només si aporten intents o coneixement diferents. Si no es pot fer una conversa natural, registrar l'exclusió i el motiu (per exemple: estructura, duplicat, enllaç de navegació sense contingut, fragment il·legible o afirmació sense suport suficient). No amagar mancances de cobertura amb una xifra global.
-
-## Flux incremental obligatori
-
-Treballar a `main`, com ha autoritzat l'usuari. Cada conversa nova es revisa, es valida, es commiteja i es puja a `origin/main` abans de crear la següent. Commits descriptius i petits; mai agrupar diverses converses noves en un commit.
-
-Per cada conversa:
-
-```text
-verificar font i drets
-→ redactar i revisar diàleg
-→ afegir una línia a conversations.jsonl i la traça corresponent
-→ validar JSONL, alternança de rols, fidelitat, naturalitat i duplicats
-→ git diff --check i revisar git status/diff
-→ commit individual
-→ push a origin main
-→ confirmar working tree net abans de seguir
-```
-
-La generació automàtica pot proposar preguntes i respostes, però no pot afegir fets. El conjunt final només inclou material amb drets compatibles i revisió humana aprovada.
-
-## Maia Knowledge
-
-Font principal: `docs/temes/`. Recórrer tots els temes i tots els documents; no limitar-se a un pilot ni a les pàgines amb més enllaços. Cobrir fets, explicacions, cronologies, comparacions, relacions, definicions, excepcions, desacords i buits explícits quan siguin útils per respondre una persona.
-
-Passos:
-
-1. Construir parser Markdown/frontmatter i inventari de documents, seccions, taules, files, enllaços i unitats d'evidència.
-2. Crear converses en llenguatge natural tema a tema i pregunta a pregunta. Incloure síntesis entre fitxes quan les relacions estiguin documentades.
-3. Revisar tots els registres amb `EXEMPLES.md`, anotar acceptació/reescriptura/rebuig i raó.
-4. Cobrir, deduplicar i auditar exclusions per tema, font i tipus d'evidència.
-5. Revisar els drets de cada font. Les fonts amb redistribució denegada o pendent no entren als outputs d'entrenament.
-6. Fer splits `train`, `validation` i `test` agrupats per tema/font i pregunta base per evitar que reformulacions o contingut gairebé igual es filtrin entre conjunts.
-
-## Maia Language
-
-Font principal: `docs/parla/`. Només utilitzar material amb `veu == originaria`, `epoca == contemporania` i `apte_llengua == true`, segons el contracte vigent del corpus. Revisar manualment cada transcripció i els seus avisos.
-
-- Conservar el text humà literal o amb normalització mínima documentada.
-- Si hi ha torns identificables, preservar la conversa original; no inventar preguntes o respostes.
-- Excloure fragments incerts o peces inadequades i comptar-los a l'informe amb el motiu.
-- Revisar llicència i permisos abans de qualsevol exportació.
-- Fer splits agrupats per peça, entrevista i parlant quan es pugui, per evitar leakage.
-
-## Estructura i lliurables
+## Estructura de treball
 
 ```text
 training-data/
@@ -78,25 +45,86 @@ training-data/
 ├── PLAN.md
 ├── scripts/
 ├── knowledge/
-│   ├── README.md
-│   ├── work/       # inventari, evidència, relacions i exclusions auditables
-│   ├── review/     # converses, exemples, rúbrica i procedència
-│   ├── output/     # train.jsonl, validation.jsonl, test.jsonl
+│   ├── work/       # inventari, evidència, relacions i exclusions
+│   ├── review/     # esborranys, procedència, rúbrica i exemples pilot
+│   ├── output/     # splits publicables, només després de revisió i drets
 │   └── reports/    # cobertura, qualitat, drets i exclusions
 └── language/
-    ├── README.md
     ├── work/       # elegibilitat i selecció de fragments
     ├── review/     # candidats literals i procedència
-    ├── output/     # train.jsonl, validation.jsonl, test.jsonl
-    └── reports/    # peces incloses/excloses, incerteses i cobertura
+    ├── output/     # splits publicables
+    └── reports/    # peces incloses/excloses i cobertura
 ```
 
-Els JSONL d'entrenament tenen una conversa per línia i només contenen `messages` amb rols `user` i `assistant`. La procedència, les notes, els IDs i els estats interns no hi entren.
+No esborrarem els esborranys existents per fer veure que el problema no hi és.
+Els mantindrem en revisió i els aprovarem, reescriurem o rebutjarem amb motiu.
+El pilot editorial és separat dels registres acumulats.
+
+## Passos
+
+### 1. Fixar l'estàndard i provar-lo
+
+Revisar la rúbrica i els exemples pilot amb una persona. Acceptar només els
+patrons que sonin naturals i responguin amb fidelitat a les fonts. Revisar també
+quins tipus de pregunta falten. Cap exemple del pilot passa automàticament a
+entrenament.
+
+### 2. Auditar els esborranys existents
+
+Llegir cada conversa sencera, no només les preguntes. Marcar-la `accepta`,
+`reescriu` o `descarta`, amb motiu i enllaç a l'evidència. Detectar preguntes
+dependents del document, respostes tallades, inferències no marcades, redundància
+i seguiments artificials. Treballar tema a tema.
+
+### 3. Completar Knowledge amb el mateix estàndard
+
+Recórrer tots els documents de `docs/temes/`. Representar cada unitat útil amb
+una conversa o justificar-ne l'exclusió. Crear síntesis entre fitxes quan una
+persona obtindria una resposta millor connectant-les. Cobertura primer, volum
+després.
+
+### 4. Resoldre procedència i drets
+
+Cada conversa conserva una traça interna fins a les fonts i unitats d'evidència.
+Registrar llicència i termes de reutilització abans d'incloure contingut en un
+output. Drets pendents o redistribució no permesa vol dir que no es publica ni
+entra als splits.
+
+### 5. Deduplicar, dividir i validar Knowledge
+
+Agrupar reformulacions pel mateix coneixement abans de fer els splits. Crear
+`train.jsonl`, `validation.jsonl` i `test.jsonl` sense fuites entre grups.
+Validar JSONL, estructura de missatges, alternança de rols, camps interns,
+duplicats, cobertura, qualitat i estat dels drets.
+
+### 6. Completar Language per separat
+
+Usar només material admès per `docs/CONTRACT.md`: `veu == originaria`,
+`epoca == contemporania` i `apte_llengua == true`. Preservar torns autèntics,
+filtrar incerteses i no inventar preguntes o respostes. Agrupar els splits per
+peça, entrevista i parlant quan es pugui.
+
+### 7. Documentar i exportar
+
+Documentar regeneració, validacions, cobertura, exclusions i límits. Només els
+registres aprovats per contingut, revisió humana i drets poden arribar a
+`output/`.
+
+## Format dels outputs
+
+Una conversa per línia JSONL. `messages` només conté missatges `user` i
+`assistant`, en ordre i amb contingut no buit. IDs, proves, notes editorials,
+estats i procedència es queden als fitxers interns.
 
 ## Definition of Done
 
-**Knowledge** no està acabat fins que tots els documents i unitats útils de `temes/` estiguin coberts o tinguin exclusió justificada; les relacions rellevants estiguin representades; els registres estiguin revisats, deduplicats i amb drets clars; i els tres splits validin sense leakage conegut.
+**Knowledge** acaba quan tots els documents i continguts útils estan coberts o
+exclosos amb motiu; les converses són naturals, fidels, revisades i deduplicades;
+els drets estan clars; i els tres splits validen sense fuites conegudes.
 
-**Language** no està acabat fins que totes les peces elegibles de `parla/` s'hagin inspeccionat; el material incert i els drets estiguin resolts; els fragments preservin parla humana; i els tres splits validin sense leakage conegut.
+**Language** acaba quan totes les peces elegibles estan inspeccionades, les
+incerteses i els drets estan resolts, es preserva parla humana i els tres splits
+validen sense fuites conegudes.
 
-El report final ha d'indicar recomptes per split, cobertura, exclusió, drets pendents i limitacions. Fins aleshores, l'estat és en curs.
+Fins llavors, tots dos conjunts són en curs. El recompte no és criteri
+d'acceptació.
