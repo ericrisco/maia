@@ -374,7 +374,7 @@
       "topic": "temes/costums/religiositat",
       "source": "bopa-ad",
       "status": "in_progress",
-      "conversation_count": 15,
+      "conversation_count": 16,
       "conversation_ids": [
         "registre-religios-actualitzar-dades-declaracio-biennal-14",
         "registre-religios-associacio-cultural-dependent-03",
@@ -386,6 +386,7 @@
         "registre-religios-exclusio-parapsicologia-04",
         "registre-religios-no-inscrit-responsabilitat-i-inscripcio-01",
         "registre-religios-noms-carrecs-consentiment-dades-11",
+        "registre-religios-practicants-i-declaracio-individual-16",
         "registre-religios-prohibicio-fitxers-religio-12",
         "registre-religios-proselitisme-proporcionalitat-05",
         "registre-religios-publicitat-i-abast-02",
@@ -410,7 +411,8 @@
         "Advertiment contra crear fitxers destinats exclusivament a emmagatzemar dades personals que revelin religió o creences, en rebre certificacions o còpies; abast de la prohibició (art. 8.5).",
         "Publicitat formal mitjançant certificacions o còpies, procediment pendent de reglament i canal per consultar documents concrets (art. 8.2, 8.4 i 8.6).",
         "Actualització de variacions registrals en tres mesos i declaració biennal de funcionament, amb anotació informativa si manca (arts. 7 i 9.5).",
-        "Via específica de l’Església catòlica: personalitat canònica, notificació del Bisbat d’Urgell i funció receptora del Registre (art. 13)."
+        "Via específica de l’Església catòlica: personalitat canònica, notificació del Bisbat d’Urgell i funció receptora del Registre (art. 13).",
+        "Protecció constitucional contra l’obligació de declarar creences, distingida de la xifra aproximada de practicants per entitat i dels noms de càrrecs registrats (Constitució art. 11.1; Llei 2/2025 art. 4.1)."
       ],
       "open_units": [
         "Passada editorial integral de la fitxa: revisar la resta d’afirmacions i buits contra les converses i conservar explícitament allò que no consta."
