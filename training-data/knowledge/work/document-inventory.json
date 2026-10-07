@@ -374,10 +374,11 @@
       "topic": "temes/costums/religiositat",
       "source": "bopa-ad",
       "status": "in_progress",
-      "conversation_count": 6,
+      "conversation_count": 7,
       "conversation_ids": [
         "registre-religios-associacio-cultural-dependent-03",
         "registre-religios-cancellacio-inactivitat-06",
+        "registre-religios-documentacio-entitat-estrangera-07",
         "registre-religios-exclusio-parapsicologia-04",
         "registre-religios-no-inscrit-responsabilitat-i-inscripcio-01",
         "registre-religios-proselitisme-proporcionalitat-05",
@@ -392,7 +393,8 @@
         "Associacions i fundacions de naturalesa no religiosa creades per una entitat inscrita: registre general propi i constància com a dependents al Registre religiós (art. 3.2).",
         "Exclusions del Registre religiós per a entitats centrades en fenòmens psíquics/parapsicològics o finalitats humanístiques i espiritualistes alienes a la religió; abast limitat de l’exclusió (art. 3.3).",
         "Límits a les restriccions i denegació per proselitisme abusiu o il·lícit: risc acreditat i proporcionalitat/adequació (art. 3.4).",
-        "Cancel·lació d’ofici per deu anys d’inactivitat des de la darrera comunicació, amb notificació prèvia; causes alternatives (art. 11)."
+        "Cancel·lació d’ofici per deu anys d’inactivitat des de la darrera comunicació, amb notificació prèvia; causes alternatives (art. 11).",
+        "Documentació addicional per a entitats d’origen i dependència estrangera, escriptura pública, legalització, postil·la i traducció (art. 9.2 i 9.4)."
       ],
       "open_units": [
         "Passada editorial integral de la fitxa: revisar la resta d’afirmacions i buits contra les converses i conservar explícitament allò que no consta."
