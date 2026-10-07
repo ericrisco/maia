@@ -226,9 +226,10 @@
       "topic": "temes/costums/danses",
       "source": "viquipedia-ca",
       "status": "in_progress",
-      "conversation_count": 3,
+      "conversation_count": 4,
       "conversation_ids": [
         "cerda-origen-vs-coreografia-marratxa-01",
+        "marratxa-dansaires-i-simbolisme-01",
         "marratxa-nom-recipient-i-quan-es-balla-01",
         "marratxa-pareatge-discrepancia-de-dates-01"
       ],
@@ -237,7 +238,8 @@
         "la fixació moderna de la coreografia no prova l’origen de la dansa",
         "marratxa/morratxa/almorratxa: recipient d’aigua perfumada portat pels dansaires als orígens; l’objecte ja no forma part del ball",
         "ballada dilluns de la festa major de Sant Julià amb la Passa i el Cerdà; el corpus no dona l’hora",
-        "la tradició data la primera ballada el 7-09-1278 després dels Pareatges; el document és datat el 8-09-1278 i la contradicció no està resolta"
+        "la tradició data la primera ballada el 7-09-1278 després dels Pareatges; el document és datat el 8-09-1278 i la contradicció no està resolta",
+        "dos balladors representen els coprínceps i tres noies les sis antigues parròquies; la font no explica la correspondència numèrica"
       ],
       "completion_note": "",
       "reason": ""

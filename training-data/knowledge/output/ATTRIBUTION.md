@@ -44,6 +44,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - La fitxa «El contrapàs» atribueix la participació, la descripció coreogràfica i el calendari a «premsa andorrana», sense identificar el mitjà, l’article, la data ni l’URL.
 - Pere Canturri i Montanya, «Usos i costums d’Andorra», 15a Diada Andorrana a la XXXIV Universitat Catalana d’Estiu (2002), dins Una història d’Andorra, temàtica, p. 209 i següents.
 - Premsa andorrana; la fitxa de font no identifica el diari, l’article, la data ni l’URL de la publicació concreta.
+- Viquipèdia en català, dades sobre els dansaires i la simbologia de la Marratxa; llicència CC BY-SA 4.0.
 - Viquipèdia en català, dades sobre la tradició de la Marratxa i la data dels Pareatges; CC BY-SA 4.0. Les fitxes del corpus registren la discrepància.
 - Viquipèdia en català, informació sobre el nom i el dia de ball de la Marratxa; llicència CC BY-SA 4.0.
 - Viquipèdia en català, «Ball de l’ossa d’Encamp», CC BY-SA 4.0; hi atribueix la lectura iniciàtica a la tesi d’Eloi Ysàs Trias (URV, 2016), que el corpus no ha pogut consultar directament.
@@ -51,6 +52,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 ## Condicions registrades
 
 - CC BY-SA 4.0, amb obligació d’atribució i compartir igual. El 7 de setembre és una data atribuïda a la tradició, no confirmada per font primària; la contradicció amb el 8 de setembre queda oberta.
+- CC BY-SA 4.0, amb obligació d’atribució i compartir igual. La fitxa manté explícit que la font no explica la correspondència entre tres noies i sis parròquies.
 - CC BY-SA 4.0, amb obligació d’atribució i compartir igual. La font és secundària; la tradició sobre els orígens s’atribueix com a tal.
 - Contingut periodístic amb drets reservats; la fitxa premsa-andorrana registra redistribució:no. La referència concreta no es pot verificar.
 - La pàgina institucional registra drets reservats i redistribució:no; el portal exigeix autorització escrita i no consta cap permís específic. Aquesta limitació es conserva al registre de procedència.
