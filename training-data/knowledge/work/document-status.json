@@ -15,7 +15,8 @@
         "diposit-legal-consulta-material-digital-001",
         "diposit-legal-rastreig-web-i-frequencia-001",
         "diposit-legal-web-pagament-clau-acces-001",
-        "diposit-legal-retard-i-sancio-001"
+        "diposit-legal-retard-i-sancio-001",
+        "diposit-legal-editor-andorra-domini-ad-001"
       ],
       "covered_units": [
         "Llei 15/2025, article 22: scope of online publications; hosting location and domain; access unrestricted or restricted",
@@ -28,11 +29,12 @@
         "Llei 15/2025, article 29: on-site consultation of digital deposits through a closed internal network; copyright and other legitimate interests remain protected.",
         "Decret 100/2026, article 6: web crawling for freely accessible online publications; site-holder cooperation; Library selection and capture frequency.",
         "Decret 100/2026, article 7: restricted-access and subscription websites; requested credentials; keeping access information current and access permanent.",
-        "Llei 15/2025, articles 30-31: late delivery is a minor offense; fines; repeat offenses; paying a fine does not remove the deposit obligation."
+        "Llei 15/2025, articles 30-31: late delivery is a minor offense; fines; repeat offenses; paying a fine does not remove the deposit obligation.",
+        "Llei 15/2025, article 22: Andorran editor/resident and .ad domain as independent inclusion criteria."
       ],
       "open_units": [
-        "Review and represent the remaining sections of this article and linked coverage of Law 15/2025 and Decree 100/2026",
-        "Review exclusions, publication formats, copy counts, preservation, access, sanctions, and all related tables and links"
+        "Finish reviewing the remaining physical deposit categories and special formats, periodicals, film/television/radio, and linked regulations.",
+        "Re-read the full source article and linked documents to identify any other useful claims not yet represented; current records cover selected units only."
       ]
     }
   }
