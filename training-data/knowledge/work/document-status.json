@@ -151,14 +151,21 @@
       "status": "in_progress",
       "unit_count": 59,
       "covered_unit_ids": [
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0001",
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0004",
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0005",
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0006",
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0007",
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0010",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0028",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0029",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0031"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 56,
+      "open_unit_count": 50,
       "conversation_ids": [
-        "festes-ossa-calendari-i-canvi-001"
+        "festes-ossa-calendari-i-canvi-001",
+        "festes-ossa-format-i-desenllac-001"
       ]
     },
     "docs/temes/costums/falles/falles-index-de-fitxes.md": {
