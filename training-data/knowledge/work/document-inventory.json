@@ -54,8 +54,9 @@
       "topic": "temes/costums/calendari-festiu",
       "source": "premsa-andorrana",
       "status": "in_progress",
-      "conversation_count": 3,
+      "conversation_count": 4,
       "conversation_ids": [
+        "carnaval-encamp-programa-2026-dates-001",
         "judicis-contrabandistes-encamp-ordino-001",
         "operacio-carnestoltes-tercera-farsa-1970-001",
         "ossa-encamp-cortinada-i-guio-1959-001"
@@ -63,7 +64,8 @@
       "reviewed_units": [
         "El Ball de l’Ossa d’Encamp i el de la Cortinada tenen arguments diferents; a Encamp el guió escrit per Rossend Marsol el 1959 va substituir la transmissió oral i es refà anualment com a sàtira.",
         "El carnaval d’Encamp té tres farses: el Judici, el Ball de l’Ossa i l’Operació del Carnestoltes; aquesta darrera s’incorpora cap al 1970 i reutilitza les vísceres de la matança del diumenge.",
-        "Els judicis d’Encamp i d’Ordino són farses diferents: Encamp representa un món judicial capgirat; Ordino defensa el territori davant dels estrangers i es recupera el 2017. El guió íntegre d’Encamp no consta."
+        "Els judicis d’Encamp i d’Ordino són farses diferents: Encamp representa un món judicial capgirat; Ordino defensa el territori davant dels estrangers i es recupera el 2017. El guió íntegre d’Encamp no consta.",
+        "Programa oficial de 2026: el Judici el 15 de febrer, el Ball de l’Ossa el 16 i l’Operació del Carnestoltes el 17; les dates no es poden extrapolar perquè el Carnaval és mòbil."
       ],
       "open_units": [
         "Guió, personatges i seqüència del Judici dels Contrabandistes; no consten al corpus.",
