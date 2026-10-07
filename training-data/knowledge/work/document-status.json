@@ -913,14 +913,25 @@
         "docs/temes/cultura/llegendes/el-minairo.md#unit-0015",
         "docs/temes/cultura/llegendes/el-minairo.md#unit-0016",
         "docs/temes/cultura/llegendes/el-minairo.md#unit-0017",
-        "docs/temes/cultura/llegendes/el-minairo.md#unit-0018"
+        "docs/temes/cultura/llegendes/el-minairo.md#unit-0018",
+        "docs/temes/cultura/llegendes/el-minairo.md#unit-0020",
+        "docs/temes/cultura/llegendes/el-minairo.md#unit-0021",
+        "docs/temes/cultura/llegendes/el-minairo.md#unit-0022",
+        "docs/temes/cultura/llegendes/el-minairo.md#unit-0023",
+        "docs/temes/cultura/llegendes/el-minairo.md#unit-0024",
+        "docs/temes/cultura/llegendes/el-minairo.md#unit-0025",
+        "docs/temes/cultura/llegendes/el-minairo.md#unit-0026",
+        "docs/temes/cultura/llegendes/el-minairo.md#unit-0027",
+        "docs/temes/cultura/llegendes/el-minairo.md#unit-0028",
+        "docs/temes/cultura/llegendes/el-minairo.md#unit-0030"
       ],
       "excluded_unit_count": 12,
-      "open_unit_count": 11,
+      "open_unit_count": 1,
       "conversation_ids": [
         "minairons-cases-i-prosperitat-001",
         "minairons-origen-de-les-tarteres-001",
-        "minairons-origen-i-canister-001"
+        "minairons-origen-i-canister-001",
+        "minairons-variants-i-etimologia-001"
       ]
     },
     "docs/temes/cultura/llegendes/el-roc-de-les-bruixes.md": {
