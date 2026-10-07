@@ -14972,7 +14972,7 @@
       "topic": "temes/institucions/justicia",
       "source": "brutails-coutume-1904",
       "status": "in_progress",
-      "conversation_count": 11,
+      "conversation_count": 12,
       "conversation_ids": [
         "ampara-collita-llindar-blat-herba-01",
         "ampara-verificacio-deu-dies-subhasta-tres-01",
@@ -14983,6 +14983,7 @@
         "forasters-terminis-embargament-patron-no-regla-universal-01",
         "penyora-porta-trucar-testimoni-claudators-01",
         "signar-penyores-deutor-custodia-tria-01",
+        "subhasta-immoble-tres-encants-ritual-possessio-01",
         "taxacio-penyores-quarta-vuit-deu-01",
         "termini-collita-nou-o-deu-discrepancia-01"
       ],
@@ -14997,11 +14998,12 @@
         "termini per pagar després de l’empara de collita: el paràgraf dona nou i deu dies en punts diferents, sense resolució ni explicació de la divergència",
         "ordre del batlle per lliurar penyores: força de sentència i possibilitat d’apel·lar; sense apel·lació ni lletra inhibitòria dins del termini fixat, subhasta pel nunci; tres dies posteriors per pagar i recuperar-les",
         "signar penyores: béns concrets designats pel batlle que romanien en poder del deutor, no es podien alienar i se n’havia de donar compte; si no hi havia béns signats, el deutor triava què lliurar",
-        "si el deutor era absent: calia trucar a la porta abans de fer-hi la penyora; el testimoni només consta entre claudàtors editorials i resta sense verificar"
+        "si el deutor era absent: calia trucar a la porta abans de fer-hi la penyora; el testimoni només consta entre claudàtors editorials i resta sense verificar",
+        "execució d’immobles: tres subhastes separades per deu dies (tres en temps de Corts); si no hi havia comprador, taxació i lliurament al creditor; ritual de possessió amb terra/herba o amb entrada i portes"
       ],
       "open_units": [
         "datació: termini final del manuscrit desconegut; manca localitzar-ne l’original i establir un terminus ante quem",
-        "execució i recobrament encara pendents: collita insuficient; subhasta i presa de possessió d’immobles; termini antic d’un any i un dia; relació hipotètica amb la Instructa de 1740"
+        "recobrament encara pendent: què passa si la collita no cobreix el deute; regla antiga d’un any i un dia i canvi posterior; relació hipotètica amb la Instructa de 1740"
       ],
       "completion_note": "",
       "reason": ""
