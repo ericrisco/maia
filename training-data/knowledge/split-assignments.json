@@ -16,6 +16,7 @@
     "docs/raw/estadistica-api/educacio/educacio-api-2026-09-18.tsv": "train",
     "docs/temes/societat/habitatge/un-de-cada-tres-el-compra-una-societat.md": "test",
     "docs/raw/estadistica-api/turisme-vehicles-energia/turisme-vehicles-energia-api-2026-09-18.tsv": "test",
-    "docs/raw/estadistica-api/turisme-vehicles-energia/turisme-vehicles-i-energia-per-l-api-d-estadistica.md": "test"
+    "docs/raw/estadistica-api/turisme-vehicles-energia/turisme-vehicles-i-energia-per-l-api-d-estadistica.md": "test",
+    "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md": "train"
   }
 }

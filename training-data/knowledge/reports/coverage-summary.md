@@ -18,7 +18,7 @@ La cobertura és per document citat i és només un límit inferior: una cita no
 | Tema | Fitxes article | Amb conversa citada | Sense conversa citada |
 |---|---:|---:|---:|
 | `costums` | 23 | 0 | 23 |
-| `cultura` | 72 | 1 | 71 |
+| `cultura` | 72 | 2 | 70 |
 | `economia` | 95 | 1 | 94 |
 | `esports` | 272 | 0 | 272 |
 | `gastronomia` | 15 | 0 | 15 |
@@ -27,7 +27,7 @@ La cobertura és per document citat i és només un límit inferior: una cita no
 | `llengua` | 43 | 0 | 43 |
 | `persones` | 43 | 0 | 43 |
 | `politica` | 19 | 0 | 19 |
-| `societat` | 142 | 2 | 140 |
+| `societat` | 142 | 3 | 139 |
 | `territori` | 49 | 0 | 49 |
 | `vida-quotidiana` | 11 | 0 | 11 |
 
@@ -54,7 +54,7 @@ Aquest índex més fi permet avançar branca per branca. `Amb conversa` segueix 
 | `temes/cultura/arts-visuals` | 8 | 0 | 8 | 3 | 5 | 0 | 0 |
 | `temes/cultura/cultura-popular` | 2 | 0 | 2 | 1 | 1 | 0 | 0 |
 | `temes/cultura/literatura` | 1 | 0 | 1 | 1 | 0 | 0 | 0 |
-| `temes/cultura/llegendes` | 10 | 0 | 10 | 6 | 1 | 3 | 0 |
+| `temes/cultura/llegendes` | 10 | 1 | 9 | 6 | 1 | 3 | 0 |
 | `temes/cultura/museus-i-arxius` | 15 | 0 | 15 | 11 | 4 | 0 | 0 |
 | `temes/cultura/museus-i-arxius/museus` | 11 | 0 | 11 | 10 | 0 | 1 | 0 |
 | `temes/cultura/musica-i-cancons` | 3 | 0 | 3 | 0 | 2 | 1 | 0 |
@@ -135,7 +135,7 @@ Aquest índex més fi permet avançar branca per branca. `Amb conversa` segueix 
 | `temes/societat/educacio` | 30 | 1 | 29 | 8 | 19 | 3 | 0 |
 | `temes/societat/esport` | 1 | 0 | 1 | 1 | 0 | 0 | 0 |
 | `temes/societat/familia` | 4 | 0 | 4 | 3 | 1 | 0 | 0 |
-| `temes/societat/habitatge` | 9 | 0 | 9 | 6 | 2 | 1 | 0 |
+| `temes/societat/habitatge` | 9 | 1 | 8 | 6 | 2 | 1 | 0 |
 | `temes/societat/immigracio` | 19 | 0 | 19 | 3 | 14 | 2 | 0 |
 | `temes/societat/mitjans` | 5 | 0 | 5 | 3 | 2 | 0 | 0 |
 | `temes/societat/proteccio-social` | 4 | 0 | 4 | 3 | 0 | 1 | 0 |
@@ -176,7 +176,7 @@ Aquesta tria només mira el camp `font` de la capçalera i la seva fitxa a `docs
 | `pending` | 604 |
 | `missing` | 1 |
 
-**Total:** 1348 fitxes article; **4** tenen almenys una conversa citada i **1344** encara no en tenen.
+**Total:** 1348 fitxes article; **6** tenen almenys una conversa citada i **1342** encara no en tenen.
 
 ## Límits
 
