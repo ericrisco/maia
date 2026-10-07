@@ -235,19 +235,21 @@
         "pareatge-segon-acord-1288-001",
         "segon-pareatge-enclar-arfa-fortificacions-001",
         "segon-pareatge-decima-pagaments-001",
-        "segon-pareatge-notariat-conjunt-ingressos-001"
+        "segon-pareatge-notariat-conjunt-ingressos-001",
+        "segon-pareatge-confirmacio-papal-pena-001"
       ],
       "covered_units": [
         "Segon Pareatge de 1288: les qüestions derivaven d'ambigüitats prèvies; a Enclar s'ordena aturar i retirar la construcció i no fortificar sense consentiment de l'altre senyor.",
         "Fortificacions: a Enclar s'atura i retira la construcció començada, i no es pot fortificar sense consentiment exprés; a Arfa la prohibició és permanent llevat d'acord conjunt. Enclar també queda com a empriu.",
         "Dècima d'Andorra: els fruits havien de cobrir 140 sous anuals al prevere de Sant Llorenç, 40 al prior de la Seu i 10 als preveres de la Seu; el sobrant corresponia al comte i als successors.",
-        "Notariat: el bisbe i el comte nomenaven conjuntament un o més notaris, amb autoritat compartida; els ingressos de creació, vendes i contractes es repartien a meitats."
+        "Notariat: el bisbe i el comte nomenaven conjuntament un o més notaris, amb autoritat compartida; els ingressos de creació, vendes i contractes es repartien a meitats.",
+        "Confirmació papal: el comte reclamava 50.000 sous; els àrbitres van considerar provada la confirmació dins del termini, van descartar la pena i van ordenar lliurar la butlla segellada en un any des de Pasqua, sota una pena de 1.000 morabatins."
       ],
       "open_units": [
         "Revisar la prohibició de fortificar la roca d'Arfa i la diferència respecte d'Enclar.",
-        "Revisar la confirmació papal, la pena, els terminis i el lliurament de la butlla.",
         "Mantenir oberts els buits sobre execució material, primers notaris, butlla i consulta de l'original; revisar drets de la reproducció i traducció abans de l'export.",
-        "Revisar les competències notarials, la investigació conjunta de falsedat o delicte, el repartiment de penes i l'annexió del càrrec al feu."
+        "Revisar les competències notarials, la investigació conjunta de falsedat o delicte, el repartiment de penes i l'annexió del càrrec al feu.",
+        "Consultar la butlla papal original i el document de lliurament; la sentència secundària no permet comprovar-ne l'existència material ni l'execució."
       ]
     }
   },
