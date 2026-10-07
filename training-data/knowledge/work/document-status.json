@@ -983,12 +983,51 @@
       "title": "La literatura andorrana",
       "type": "article",
       "topic": "temes/cultura/literatura",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 87,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0001",
+        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0003",
+        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0006",
+        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0007",
+        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0008",
+        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0009",
+        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0011",
+        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0015",
+        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0016",
+        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0017",
+        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0018",
+        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0019",
+        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0023",
+        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0024",
+        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0025",
+        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0026",
+        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0027",
+        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0028",
+        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0029",
+        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0030",
+        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0032",
+        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0043",
+        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0045",
+        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0046",
+        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0047",
+        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0048",
+        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0049",
+        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0050",
+        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0052"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 87,
-      "conversation_ids": []
+      "open_unit_count": 58,
+      "conversation_ids": [
+        "dalleres-identitat-politica-i-obra-literaria-001",
+        "literatura-andorrana-industria-editorial-i-publicacio-001",
+        "literatura-andorrana-manual-digest-i-obres-inicials-001",
+        "literatura-andorrana-poetes-de-diverses-generacions-001",
+        "literatura-andorrana-premis-i-aepa-001",
+        "literatura-andorrana-primeres-obres-i-consolidacio-001",
+        "literatura-andorrana-sicoris-identitat-i-obres-001",
+        "morell-boris-skossyreff-novella-i-limit-001"
+      ]
     },
     "docs/temes/cultura/literatura/literatura-index-de-fitxes.md": {
       "title": "Literatura — índex de fitxes",
@@ -8448,12 +8487,16 @@
       "title": "Boris Skossyreff, rei d'Andorra",
       "type": "article",
       "topic": "temes/historia/segle-xx-primera-meitat",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 99,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/historia/segle-xx-primera-meitat/boris-skossyreff.md#unit-0008"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 99,
-      "conversation_ids": []
+      "open_unit_count": 98,
+      "conversation_ids": [
+        "morell-boris-skossyreff-novella-i-limit-001"
+      ]
     },
     "docs/temes/historia/segle-xx-primera-meitat/cupos-franquicies-andorra-1926.md": {
       "title": "El cupo de 1926 posa xifres a la franquícia d'Andorra",
