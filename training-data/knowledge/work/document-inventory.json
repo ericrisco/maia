@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 0,
+    "in_progress": 1,
     "no_natural_question": 0,
-    "not_started": 1348
+    "not_started": 1347
   },
   "documents": [
     {
@@ -1236,11 +1236,19 @@
       "type": "article",
       "topic": "temes/cultura/museus-i-arxius",
       "source": "bopa",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "arxiu-nacional-termini-dades-personals-50-anys-01"
+      ],
+      "reviewed_units": [
+        "Article 20 del reglament de 2005: cinquanta anys des de la mort per a documents amb dades personals protegides; consentiment exprés o manament judicial com a altres vies previstes."
+      ],
+      "open_units": [
+        "La resta dels articles 15–35 i 41–43 del reglament, incloses les condicions de consulta, comandes, còpies i reproducció.",
+        "Contrast del règim específic amb la Llei 33/2021 i la normativa posterior per determinar què és vigent avui.",
+        "Diferència entre les regles del reglament i la informació pràctica actual publicada pel Govern."
+      ],
       "completion_note": "",
       "reason": ""
     },

@@ -151,5 +151,19 @@
       "Estat actual de la presentació electrònica i reglament vigent sobre certificacions i còpies; no verificats amb font actual."
     ],
     "completion_note": "Revisada la fitxa sencera i contrastades les afirmacions jurídiques amb la Llei 2/2025, la Constitució i el BOPA. Les normes, els procediments, les excepcions i els límits d’evidència estan representats en converses naturals; les dades actuals que la font no aporta queden registrades com a buits i no s’infereixen."
+  },
+  "docs/temes/cultura/museus-i-arxius/com-sentra-a-larxiu-nacional.md": {
+    "status": "in_progress",
+    "conversation_ids": [
+      "arxiu-nacional-termini-dades-personals-50-anys-01"
+    ],
+    "reviewed_units": [
+      "Article 20 del reglament de 2005: cinquanta anys des de la mort per a documents amb dades personals protegides; consentiment exprés o manament judicial com a altres vies previstes."
+    ],
+    "open_units": [
+      "La resta dels articles 15–35 i 41–43 del reglament, incloses les condicions de consulta, comandes, còpies i reproducció.",
+      "Contrast del règim específic amb la Llei 33/2021 i la normativa posterior per determinar què és vigent avui.",
+      "Diferència entre les regles del reglament i la informació pràctica actual publicada pel Govern."
+    ]
   }
 }
