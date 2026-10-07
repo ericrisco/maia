@@ -356,6 +356,23 @@
         "Revisar els personatges, la història escènica i els elements actuals que encara no tenen cobertura conversacional.",
         "Contrastar la cronologia d'Ordino i el reconeixement UNESCO amb fonts primàries compatibles."
       ]
+    },
+    "docs/temes/cultura/llegendes/el-tamarro.md": {
+      "status": "in_progress",
+      "conversation_ids": [
+        "tamarro-difusio-pirineu-equivalents-001"
+      ],
+      "covered_units": [
+        "La figura folklòrica del tamarro es documenta al Pallars, la Vall d'Aran, Andorra i Occitània.",
+        "La font relaciona el tamarro amb figures equivalents sota noms regionals com gamusino i gambutzí, sense afirmar un relat únic compartit."
+      ],
+      "open_units": [
+        "Revisar la cacera del tamarro només quan se n'hagin resolt els drets de la descripció atribuïda a Lluís Samper.",
+        "Verificar la primera referència escrita, la data d'origen de la pràctica i els seus noms locals amb fonts compatibles.",
+        "Revisar l'ús del tamarro com a mascota dels Jocs dels Petits Estats de 1991 amb la font primària corresponent.",
+        "Revisar els usos turístics actuals i les xifres d'ús amb fonts actuals i drets compatibles.",
+        "Deixar fora les afirmacions que el mateix article marca com a citació necessària fins a trobar una font verificable."
+      ]
     }
   },
   "schema_version": 1
