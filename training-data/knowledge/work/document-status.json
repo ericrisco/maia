@@ -178,7 +178,8 @@
         "marratxa-data-tradicio-i-pareatge-001",
         "marratxa-origen-i-coreografia-001",
         "marratxa-dia-festa-major-001",
-        "marratxa-data-tradicional-no-verificada-001"
+        "marratxa-data-tradicional-no-verificada-001",
+        "marratxa-barrets-cintes-simbolisme-001"
       ],
       "covered_units": [
         "Balladors i simbolisme: dos dansaires representen els coprínceps; tres noies representen les sis antigues parròquies. La font no explica la correspondència numèrica.",
@@ -186,13 +187,14 @@
         "Cronologia tradicional: la primera ballada s'atribueix al 7-09-1278; la fitxa del Pareatge el data el 8-09-1278. La diferència no està resolta i no se n'infereix cap explicació.",
         "Origen i coreografia: la tradició atribueix la primera ballada a 1278; la coreografia actual es va fixar als anys seixanta a partir de la memòria de Ricard Mas, amb tonada recollida per Daniel Areny i coreografia d'Isidre Marbà. No se'n dedueix continuïtat ni creació de la dansa en aquella dècada.",
         "Moment de celebració: el ball es fa el dilluns de la festa major de Sant Julià; la font no dona l'hora.",
-        "Estat de la data de 1278: és una atribució tradicional, no una data acreditada per documentació coneguda; la primera menció documental i l'origen de l'atribució són desconeguts."
+        "Estat de la data de 1278: és una atribució tradicional, no una data acreditada per documentació coneguda; la primera menció documental i l'origen de l'atribució són desconeguts.",
+        "Vestuari i simbolisme: els dos dansaires que representen els coprínceps duen barrets de copa alta amb cintes dels colors de la bandera. No s'atribueix un significat separat a les cintes ni una relació amb les parròquies."
       ],
       "open_units": [
-        "Detalls de vestuari i rastre documental que les fonts actuals deixen pendents.",
         "Verificar amb font primària les dates de la primera ballada i del Pareatge; la discrepància secundària continua oberta.",
         "Confirmar hora i ordre dins del programa actual; la font consultada només dona el dia de la setmana.",
-        "Verificar amb font primària la primera documentació de la dansa i quan s'hi atribueix per primer cop l'origen del 1278."
+        "Verificar amb font primària la primera documentació de la dansa i quan s'hi atribueix per primer cop l'origen del 1278.",
+        "La font no descriu el vestuari de les tres noies ni la història de la indumentària de la dansa."
       ]
     },
     "docs/temes/historia/pareatge/el-pareatge.md": {
