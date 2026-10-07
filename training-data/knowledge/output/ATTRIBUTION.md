@@ -13,6 +13,7 @@ el BOPA no implica cap suport al projecte. No s'atribueix una llicència global 
 
 - André Vilar, L'Andorre (1904), pp. 80–81, obra en domini públic. Resum i adaptació per a Maia; el 4,7% és un càlcul propi del corpus a partir dels totals citats.
 - André Vilar, L'Andorre (1904), pp. 80–81, obra en domini públic. Resum i adaptació per a Maia; no s'hi reprodueixen citacions textuals.
+- Departament d'Estadística d'Andorra, API pública, divisió 1 «Població registrada total», captura descarregada el 18-09-2026. Dades estadístiques pròpies sota CC BY 4.0, amb atribució; la captura és una instantània, no una consulta en temps real.
 - Departament d'Estadística d'Andorra, Andorra en xifres 2024, dades de cobertura del sòl. Dades estadístiques pròpies sota CC BY 4.0; resum editorial de l'explicació de la diferència d'arrodoniment. Cal conservar l'atribució; no implica patrocini.
 - Departament d'Estadística d'Andorra, Andorra en xifres 2024, dades de cobertura del sòl. Dades estadístiques pròpies sota CC BY 4.0; suma pròpia d'arbrat dens i clar (40,29% + 0,42% = 40,71%). Cal conservar l'atribució i indicar l'elaboració pròpia; no implica patrocini.
 - Departament d’Agricultura i Ramaderia, dades tractades pel Departament d’Estadística del Govern d’Andorra per a la nota NP_A112_20260526, publicada el 26-05-2026. Informació estadística pròpia sota CC BY 4.0; cal atribució i no suggerir patrocini.

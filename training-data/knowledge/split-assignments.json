@@ -1,6 +1,10 @@
 {
   "description": "Assigna cada font de contingut a un únic split; exemples amb fonts relacionades comparteixen split.",
   "groups": {
+    "docs/temes/societat/demografia/setanta-nou-anys-de-padro.md": "train",
+    "docs/raw/estadistica-api/resta-del-cataleg/README.md": "train",
+    "docs/raw/estadistica-api/resta-del-cataleg/resta-cataleg-api-2026-09-18.tsv": "train",
+    "docs/raw/estadistica-api/l-api-publica-del-departament-d-estadistica.md": "train",
     "docs/temes/economia/banca-i-fiscalitat/a-andorra-si-que-hi-havia-impost.md": "train",
     "docs/fonts/vilar-andorre-1904.md": "train",
     "docs/temes/costums/danses/les-festes-de-lossa.md": "train",
