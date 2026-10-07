@@ -14,6 +14,7 @@ el BOPA no implica cap suport al projecte. No s'atribueix una llicència global 
 - André Vilar, L'Andorre (1904), p. 137 i nota 1, obra en domini públic. Resum i adaptació per a Maia; les sospites s'atribueixen als veïns que Vilar cita i no es presenten com a fet provat.
 - André Vilar, L'Andorre (1904), pp. 71–72, obra en domini públic. Resum i adaptació per a Maia; les afirmacions s'atribueixen expressament a l'autor.
 - André Vilar, L'Andorre (1904), pp. 72–73, obra en domini públic. Resum i adaptació per a Maia; afirmacions atribuïdes expressament a Vilar.
+- André Vilar, L'Andorre (1904), pp. 73–74, obra en domini públic. Resum i adaptació per a Maia; afirmacions atribuïdes expressament a Vilar.
 - André Vilar, L'Andorre (1904), pp. 80–81, obra en domini públic. Resum i adaptació per a Maia; el 4,7% és un càlcul propi del corpus a partir dels totals citats.
 - André Vilar, L'Andorre (1904), pp. 80–81, obra en domini públic. Resum i adaptació per a Maia; no s'hi reprodueixen citacions textuals.
 - Departament d'Estadística d'Andorra, API pública, divisió 1 «Població registrada total», captura descarregada el 18-09-2026. Dades estadístiques pròpies sota CC BY 4.0, amb atribució; la captura és una instantània, no una consulta en temps real.
