@@ -69,7 +69,8 @@
     "conversation_ids": [
       "recuperacions-escudella-sant-antoni-per-parroquia-01",
       "escudella-sant-antoni-origen-tons-01",
-      "ingredients-escudella-andorrana-01"
+      "ingredients-escudella-andorrana-01",
+      "escudella-nacional-oficialitat-01"
     ],
     "covered_units": [
       "recuperació de l'escudella comunitària a Andorra la Vella a principis dels anys setanta per uns amics anomenats Anton",
@@ -77,10 +78,10 @@
       "antecedent de repartiment de menjar als pobres el dia de Sant Antoni",
       "els Tons són els Antons que celebren el sant i els escudellaires cuinen i reparteixen el menjar",
       "la font no dona els noms dels fundadors ni la data exacta de recuperació",
-      "ingredients generals de l'escudella i ús a l'hivern i en dies assenyalats com Nadal"
+      "ingredients generals de l'escudella i ús a l'hivern i en dies assenyalats com Nadal",
+      "la font recull el nom habitual plat nacional però no acredita una declaració oficial"
     ],
     "open_units": [
-      "la denominació de plat nacional i si és oficial",
       "estatuts de la confraria, nombre de racions i escudelles d'altres parròquies"
     ],
     "note": "Primera conversa de síntesi amb la fitxa de Sant Antoni de Canillo."

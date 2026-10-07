@@ -7248,8 +7248,9 @@
       "topic": "temes/gastronomia/plats",
       "source": "viquipedia-ca",
       "status": "in_progress",
-      "conversation_count": 3,
+      "conversation_count": 4,
       "conversation_ids": [
+        "escudella-nacional-oficialitat-01",
         "escudella-sant-antoni-origen-tons-01",
         "ingredients-escudella-andorrana-01",
         "recuperacions-escudella-sant-antoni-per-parroquia-01"
@@ -7260,10 +7261,10 @@
         "antecedent de repartiment de menjar als pobres el dia de Sant Antoni",
         "els Tons són els Antons que celebren el sant i els escudellaires cuinen i reparteixen el menjar",
         "la font no dona els noms dels fundadors ni la data exacta de recuperació",
-        "ingredients generals de l'escudella i ús a l'hivern i en dies assenyalats com Nadal"
+        "ingredients generals de l'escudella i ús a l'hivern i en dies assenyalats com Nadal",
+        "la font recull el nom habitual plat nacional però no acredita una declaració oficial"
       ],
       "open_units": [
-        "la denominació de plat nacional i si és oficial",
         "estatuts de la confraria, nombre de racions i escudelles d'altres parròquies"
       ],
       "completion_note": "",
