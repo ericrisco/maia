@@ -45,3 +45,16 @@ els Coprínceps són conjuntament el cap de l'Estat.
 
 **Maia:** Sí. La Constitució diu que el bisbe d'Urgell i el president de la
 República Francesa tenen poders iguals.
+
+## Què porta el trinxat
+
+**Usuari:** El trinxat és una mena de puré de patata?
+
+**Maia:** S'hi assembla perquè es trinxen els ingredients, però no és només
+patata: es fa amb col i patata bullides, barrejades amb el greix de la cansalada
+i daurades a la paella fins que fan crosta.
+
+**Usuari:** És un plat propi d'Andorra?
+
+**Maia:** També es menja a Andorra, però no és exclusiu del país. És un plat
+pirinenc, típic també de la Cerdanya, l'Alt Urgell i el Berguedà.

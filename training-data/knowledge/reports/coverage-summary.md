@@ -18,10 +18,10 @@ La cobertura és per document citat i és només un límit inferior: una cita no
 | Tema | Fitxes article | Amb conversa citada | Sense conversa citada |
 |---|---:|---:|---:|
 | `costums` | 23 | 2 | 21 |
-| `cultura` | 72 | 1 | 71 |
+| `cultura` | 72 | 0 | 72 |
 | `economia` | 95 | 0 | 95 |
 | `esports` | 272 | 0 | 272 |
-| `gastronomia` | 15 | 0 | 15 |
+| `gastronomia` | 15 | 1 | 14 |
 | `historia` | 226 | 0 | 226 |
 | `institucions` | 338 | 1 | 337 |
 | `llengua` | 43 | 0 | 43 |
@@ -39,17 +39,17 @@ Aquest índex més fi permet avançar branca per branca. `Amb conversa` segueix 
 |---|---:|---:|---:|---:|---:|---:|---:|
 | `temes/costums/calendari-festiu` | 2 | 0 | 2 | 0 | 0 | 2 | 0 |
 | `temes/costums/caramelles` | 1 | 0 | 1 | 0 | 0 | 1 | 0 |
-| `temes/costums/danses` | 7 | 1 | 6 | 3 | 1 | 3 | 0 |
+| `temes/costums/danses` | 7 | 2 | 5 | 3 | 1 | 3 | 0 |
 | `temes/costums/falles` | 1 | 0 | 1 | 0 | 1 | 0 | 0 |
 | `temes/costums/festes-majors` | 2 | 0 | 2 | 0 | 0 | 2 | 0 |
 | `temes/costums/gegants` | 1 | 0 | 1 | 0 | 1 | 0 | 0 |
 | `temes/costums/meritxell` | 1 | 0 | 1 | 0 | 0 | 1 | 0 |
-| `temes/costums/religiositat` | 5 | 1 | 4 | 2 | 3 | 0 | 0 |
+| `temes/costums/religiositat` | 5 | 0 | 5 | 2 | 3 | 0 | 0 |
 | `temes/costums/ritus-de-pas` | 2 | 0 | 2 | 0 | 1 | 1 | 0 |
 | `temes/costums/sant-antoni` | 1 | 0 | 1 | 0 | 0 | 1 | 0 |
 | `temes/cultura` | 1 | 0 | 1 | 1 | 0 | 0 | 0 |
 | `temes/cultura/andorra-vista-de-fora` | 6 | 0 | 6 | 1 | 5 | 0 | 0 |
-| `temes/cultura/arquitectura` | 11 | 1 | 10 | 5 | 5 | 1 | 0 |
+| `temes/cultura/arquitectura` | 11 | 0 | 11 | 5 | 5 | 1 | 0 |
 | `temes/cultura/artesania` | 2 | 0 | 2 | 0 | 2 | 0 | 0 |
 | `temes/cultura/arts-visuals` | 8 | 0 | 8 | 3 | 5 | 0 | 0 |
 | `temes/cultura/cultura-popular` | 2 | 0 | 2 | 1 | 1 | 0 | 0 |
@@ -83,7 +83,7 @@ Aquest índex més fi permet avançar branca per branca. `Amb conversa` segueix 
 | `temes/gastronomia/begudes` | 1 | 0 | 1 | 0 | 1 | 0 | 0 |
 | `temes/gastronomia/calendari-gastronomic` | 1 | 0 | 1 | 1 | 0 | 0 | 0 |
 | `temes/gastronomia/historia-alimentaria` | 5 | 0 | 5 | 0 | 5 | 0 | 0 |
-| `temes/gastronomia/plats` | 5 | 0 | 5 | 3 | 2 | 0 | 0 |
+| `temes/gastronomia/plats` | 5 | 1 | 4 | 3 | 2 | 0 | 0 |
 | `temes/gastronomia/productes` | 2 | 0 | 2 | 1 | 1 | 0 | 0 |
 | `temes/gastronomia/rebosteria` | 1 | 0 | 1 | 0 | 0 | 1 | 0 |
 | `temes/historia/antic-regim` | 50 | 0 | 50 | 13 | 30 | 7 | 0 |
