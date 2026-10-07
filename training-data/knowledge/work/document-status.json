@@ -2,10 +2,12 @@
   "docs/temes/costums/calendari-festiu/el-carnaval-dencamp.md": {
     "status": "in_progress",
     "conversation_ids": [
-      "carnaval-encamp-judici-i-operacio-01"
+      "carnaval-encamp-judici-i-operacio-01",
+      "carnaval-encamp-judici-i-farsa-ordino-02"
     ],
     "reviewed_units": [
-      "Distinció entre el Judici dels Contrabandistes i l’Operació del Carnestoltes; ubicació, origen aproximat i contingut de l’Operació."
+      "Distinció entre el Judici dels Contrabandistes i l’Operació del Carnestoltes; ubicació, origen aproximat i contingut de l’Operació.",
+      "Sentit de la farsa del Judici dels Contrabandistes i distinció respecte de la farsa d’Ordino; el guió encampadà i els papers no consten."
     ],
     "open_units": [
       "Argument complet, personatges i text del Judici dels Contrabandistes; no localitzats al corpus.",
