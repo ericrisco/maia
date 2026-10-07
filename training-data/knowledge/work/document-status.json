@@ -35,7 +35,8 @@
       "L'apèndix del 1895 registra una mitjana de 8.000 caps d'ovelles i cabres que pujaven d'Espanya a Andorra per pasturar durant l'estiu; no en dona la data de tornada.",
       "L'apèndix registra 105 famílies espanyoles residents o domiciliades a les valls el 1895, però no dona el nombre d'individus per família.",
       "La llista del 1895 registra 6.000 càrregues de vi comú per 180.000 pessetes (38,5% del total); només anota trànsit a l’estranger per a xocolata, llumins i cafè, no per al vi.",
-      "L’apèndix registra 1.250 quintars de sègol, però no n’indica l’ús; no permet concloure que fos per al consum humà ni quin pa menjava la població."
+      "L’apèndix registra 1.250 quintars de sègol, però no n’indica l’ús; no permet concloure que fos per al consum humà ni quin pa menjava la població.",
+      "La llista compta importacions des d’Espanya; l’absència de carn i lactis no indica que no se’n consumís, i els 12 quintars de patates no representen necessàriament la producció local ni altres orígens."
     ],
     "open_units": [
       "El pes del vi i les begudes en la cistella d'importacions.",
@@ -50,7 +51,8 @@
       "corts1895-ramats-espanyols-transhumancia-001",
       "corts1895-families-espanyoles-001",
       "corts1895-vi-partida-principal-001",
-      "corts1895-segol-us-no-especificat-001"
+      "corts1895-segol-us-no-especificat-001",
+      "corts1895-absencies-llista-importacions-001"
     ]
   },
   "docs/temes/historia/segle-xix/la-questio-duanera-de-1895.md": {
