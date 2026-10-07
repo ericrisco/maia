@@ -51,6 +51,28 @@ anotat a la revisió.
    els límits de reutilització.
 8. Rebutja o reescriu qualsevol conversa que no passi tots els criteris.
 
+### Revisió reforçada després del primer mostreig
+
+Els registres que preguntin «què explica la secció», «què indica aquesta
+fila» o que comencin amb un fragment com «tres coses que…» no passen revisió.
+No n'hi ha prou de canviar-ne les paraules: cal trobar el dubte que una persona
+vol resoldre i començar per aquest.
+
+Per cada candidata:
+
+1. Escriu per a tu mateix la intenció humana en una frase.
+2. Llegeix només la pregunta inicial, sense títol, fitxa ni font.
+3. Si no saps què vol aclarir l'usuari, descarta-la o torna a la font.
+4. Redacta una resposta que resolgui primer aquest dubte.
+5. Afegeix com a màxim els seguiments que surtin de la resposta. No hi ha una
+   llargada mínima: una conversa d'un intercanvi és millor que una seqüència
+   forçada.
+6. Llegeix el diàleg en veu alta i contrasta cada afirmació amb la font.
+
+Els exemples de referència i el control editorial són a
+[`knowledge/review/CONVERSATION-GUIDE.md`](knowledge/review/CONVERSATION-GUIDE.md).
+Són material de calibratge; no s'exporten automàticament com a registres.
+
 ## Criteris obligatoris
 
 Una conversa només s'aprova si compleix tots aquests punts:
@@ -74,7 +96,8 @@ persona i es redacta de nou des d'allà.
 
 ## Converses multitorn
 
-- Normalment, dos o tres intercanvis són suficients.
+- El multitorn és una opció editorial, no un requisit de cobertura.
+- Dos intercanvis sovint són suficients; un sol intercanvi també és vàlid.
 - Cada torn de l'usuari ha de tenir sentit com a rèplica a la resposta anterior.
 - L'usuari no pot preguntar per un detall que Maia encara no ha esmentat.
 - No s'encadenen preguntes independents per extreure una llista de dades.
