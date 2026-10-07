@@ -9,7 +9,7 @@
   "file_count": 1477,
   "article_count": 1348,
   "parse_error_count": 0,
-  "conversation_count": 95,
+  "conversation_count": 96,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 0,
@@ -11456,13 +11456,14 @@
       "topic": "temes/historia/pareatge",
       "source": "enciclopedia-segon-pariatge-1288",
       "status": "in_progress",
-      "conversation_count": 7,
+      "conversation_count": 8,
       "conversation_ids": [
         "pareatge-segon-acord-1288-001",
         "segon-pareatge-1288-arbitres-001",
         "segon-pareatge-confirmacio-papal-pena-001",
         "segon-pareatge-decima-pagaments-001",
         "segon-pareatge-enclar-arfa-fortificacions-001",
+        "segon-pareatge-enclar-execucio-desconeguda-001",
         "segon-pareatge-notariat-conjunt-ingressos-001",
         "segon-pareatge-responsabilitat-notari-001"
       ],
@@ -11473,13 +11474,14 @@
         "Notariat: el bisbe i el comte nomenaven conjuntament un o més notaris, amb autoritat compartida; els ingressos de creació, vendes i contractes es repartien a meitats.",
         "Confirmació papal: el comte reclamava 50.000 sous; els àrbitres van considerar provada la confirmació dins del termini, van descartar la pena i van ordenar lliurar la butlla segellada en un any des de Pasqua, sota una pena de 1.000 morabatins.",
         "Notari que falsifica o delinqueix: investigació conjunta del bisbe i el comte o els seus oficials; penes i composicions econòmiques repartides a parts iguals.",
-        "Context del segon Pariatge: sentència del 6-12-1288 entre Pere d'Urtx i Roger Bernat III; Ramon d'Urtx i Guillem Ramon de Josa hi intervenen com a àrbitres davant novetats i ambigüitats prèvies."
+        "Context del segon Pariatge: sentència del 6-12-1288 entre Pere d'Urtx i Roger Bernat III; Ramon d'Urtx i Guillem Ramon de Josa hi intervenen com a àrbitres davant novetats i ambigüitats prèvies.",
+        "Execució d'Enclar: hi ha ordre de retirar el que s'havia construït, però no consta prova de si es va complir; l'absència de prova no permet inferir cap resultat material."
       ],
       "open_units": [
-        "Revisar la prohibició de fortificar la roca d'Arfa i la diferència respecte d'Enclar.",
         "Mantenir oberts els buits sobre execució material, primers notaris, butlla i consulta de l'original; revisar drets de la reproducció i traducció abans de l'export.",
         "Consultar la butlla papal original i el document de lliurament; la sentència secundària no permet comprovar-ne l'existència material ni l'execució.",
-        "Revisar l'abast dels instruments públics que podia redactar el notari i l'annexió de la part del comte al feu d'Andorra."
+        "Revisar l'abast dels instruments públics que podia redactar el notari i l'annexió de la part del comte al feu d'Andorra.",
+        "Comprovar en una font primària si la prohibició sobre la roca d'Arfa es va complir; tampoc no hi ha prova localitzada sobre l'execució material d'Enclar."
       ],
       "completion_note": "",
       "reason": "",
