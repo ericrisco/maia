@@ -5699,12 +5699,19 @@
       "title": "El trinxat",
       "type": "article",
       "topic": "temes/gastronomia/plats",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 13,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/gastronomia/plats/el-trinxat.md#unit-0001",
+        "docs/temes/gastronomia/plats/el-trinxat.md#unit-0002",
+        "docs/temes/gastronomia/plats/el-trinxat.md#unit-0009",
+        "docs/temes/gastronomia/plats/el-trinxat.md#unit-0010"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 13,
-      "conversation_ids": []
+      "open_unit_count": 9,
+      "conversation_ids": [
+        "trinxat-abast-geografic-i-ingredients-001"
+      ]
     },
     "docs/temes/gastronomia/plats/les-receptes-de-fra-sever.md": {
       "title": "Les receptes de Fra Sever d'Olot (1787)",
