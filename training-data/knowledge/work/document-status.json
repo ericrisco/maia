@@ -45,14 +45,17 @@
     ]
   },
   "docs/temes/costums/calendari-festiu/calendari-festiu.md": {
-    "status": "not_started",
+    "status": "in_progress",
     "open_units": [
-      "dates concretes de cada festa major i fonts primàries comunals, que l’article declara absents",
-      "Sant Antoni, caramelles, Sant Joan i falles: dates, relacions entre tradicions i fonts",
-      "llista de festes judicials aprovada el 1902, períodes de tancament i distinció respecte del calendari popular",
-      "origen dels Tons fundadors i dels escudellaires",
-      "supressions de festes religioses als bisbats espanyols i afirmació atribuïda a Brutails",
-      "relacions amb les fitxes d’escudelles, caramelles, falles, Meritxell, festes majors i fira d’Organyà"
+      "L’article és secundari i no identifica la peça de premsa concreta; calendari oficial per parròquia i vila absent del corpus.",
+      "Sant Antoni (17 de gener) i l’escudella, encara sense conversa pròpia sobre aquesta unitat."
+    ],
+    "conversation_ids": [
+      "calendari-festes-majors-per-parroquia-i-sant-joan-01"
+    ],
+    "reviewed_units": [
+      "No hi ha una festa major única del país: cadascuna de les set parròquies té la seva i moltes viles també en celebren; l’article no dona dates concretes.",
+      "Marcadors anuals: caramelles a la primavera, Sant Joan i falles el 23 de juny, Meritxell el 8 de setembre."
     ]
   },
   "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md": {
