@@ -4,14 +4,14 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 
 - Fitxes article: **1348**.
 - Fitxers totals, inclosos índexs: **1477**.
-- Converses candidates: **17**.
+- Converses candidates: **18**.
 
 | Estat de revisió | Fitxes |
 |---|---:|
 | Revisades completes | 1 |
-| En curs | 2 |
+| En curs | 3 |
 | Revisades sense pregunta natural | 0 |
-| No començades | 1345 |
+| No començades | 1344 |
 
 ## Estat per tema
 
@@ -41,7 +41,7 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 | `temes/cultura/musica-i-cancons` | 3 | 3 | 0 | 0 | 0 |
 | `temes/cultura/teatre` | 2 | 2 | 0 | 0 | 0 |
 | `temes/economia/banca-i-fiscalitat` | 33 | 33 | 0 | 0 | 0 |
-| `temes/economia/comerc` | 17 | 15 | 1 | 1 | 0 |
+| `temes/economia/comerc` | 17 | 14 | 2 | 1 | 0 |
 | `temes/economia/energia-i-serveis` | 4 | 4 | 0 | 0 | 0 |
 | `temes/economia/les-grans-families` | 1 | 1 | 0 | 0 | 0 |
 | `temes/economia/ramaderia-i-agricultura` | 11 | 11 | 0 | 0 | 0 |
