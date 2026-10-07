@@ -298,5 +298,19 @@
       "Distingir si una font parla d’aparició, creació o recuperació de les danses; no aplicar al Cerdà el precedent de la Marratxa.",
       "Font periodística concreta no identificada."
     ]
+  },
+  "docs/temes/costums/danses/la-marratxa.md": {
+    "status": "in_progress",
+    "conversation_ids": [
+      "marratxa-data-1278-discrepancia-01"
+    ],
+    "reviewed_units": [
+      "Discrepància entre la data tradicional del 7 de setembre de 1278 i la data del Pareatge (8 de setembre); la vigília només és hipòtesi."
+    ],
+    "open_units": [
+      "Recipient marratxa/morratxa/almorratxa i simbologia de la dansa, inclosa la relació amb el Coprincipat, els dos coprínceps i les parròquies.",
+      "Coreografia moderna fixada als anys seixanta per Daniel Areny i Isidre Marbà a partir de la memòria de Ricard Mas; interpretació vigent des del 1963.",
+      "Primera documentació de la dansa, origen de la tradició del 1278 i vestuari; contrastar fonts i atribucions."
+    ]
   }
 }

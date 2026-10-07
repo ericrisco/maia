@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 15,
+    "in_progress": 16,
     "no_natural_question": 0,
-    "not_started": 1333
+    "not_started": 1332
   },
   "documents": [
     {
@@ -237,12 +237,19 @@
       "topic": "temes/costums/danses",
       "source": "viquipedia-ca",
       "status": "in_progress",
-      "conversation_count": 1,
+      "conversation_count": 2,
       "conversation_ids": [
+        "marratxa-data-1278-discrepancia-01",
         "passa-cercavila-majors-fadrins-01"
       ],
-      "reviewed_units": [],
-      "open_units": [],
+      "reviewed_units": [
+        "Discrepància entre la data tradicional del 7 de setembre de 1278 i la data del Pareatge (8 de setembre); la vigília només és hipòtesi."
+      ],
+      "open_units": [
+        "Recipient marratxa/morratxa/almorratxa i simbologia de la dansa, inclosa la relació amb el Coprincipat, els dos coprínceps i les parròquies.",
+        "Coreografia moderna fixada als anys seixanta per Daniel Areny i Isidre Marbà a partir de la memòria de Ricard Mas; interpretació vigent des del 1963.",
+        "Primera documentació de la dansa, origen de la tradició del 1278 i vestuari; contrastar fonts i atribucions."
+      ],
       "completion_note": "",
       "reason": ""
     },
@@ -9948,9 +9955,11 @@
       "type": "article",
       "topic": "temes/historia/pareatge",
       "source": "palau-marti-identitat-andorrana-1994",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "marratxa-data-1278-discrepancia-01"
+      ],
       "reviewed_units": [],
       "open_units": [],
       "completion_note": "",
