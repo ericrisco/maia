@@ -53,14 +53,15 @@
       "topic": "temes/costums/calendari-festiu",
       "source": "premsa-andorrana",
       "status": "in_progress",
-      "conversation_count": 6,
+      "conversation_count": 7,
       "conversation_ids": [
         "carnaval-encamp-ossa-i-contrabandistes",
         "judici-contrabandistes-text-i-antiguitat-01",
         "operacio-carnestoltes-origen-autor-01",
         "operacio-carnestoltes-viscera-escenari-01",
         "ordino-ossa-discrepancia-1978-1985",
-        "ossa-encamp-variants-i-reescriptura-01"
+        "ossa-encamp-variants-i-reescriptura-01",
+        "ossa-ordino-dues-lectures-origen"
       ],
       "reviewed_units": [
         "tres farses d’Encamp i moment de representació",
@@ -73,7 +74,8 @@
         "guió de Sícoris escrit el 1959; no s’estableix quan canvia la trama de l’ossa",
         "la representació actual de l’ossa d’Encamp té lloc el dilluns de Carnaval; es contrasta amb l’Última Ossa d’Ordino al desembre",
         "la cronologia d’Ordino transmesa per Masegosa difereix de la de Viquipèdia; el corpus no arbitra la represa de 1978 o 1985",
-        "el binomi de «Els contrabandistes» i «L’ossa» són dues farses diferents i complementàries, representades en dies consecutius"
+        "el binomi de «Els contrabandistes» i «L’ossa» són dues farses diferents i complementàries, representades en dies consecutius",
+        "Masegosa interpreta la farsa d’Ordino com a defensa territorial; no és una prova de data d’origen o continuïtat medieval"
       ],
       "completion_note": "",
       "reason": ""
@@ -168,7 +170,7 @@
       "topic": "temes/costums/danses",
       "source": "wikipedia-ball-ossa-encamp",
       "status": "in_progress",
-      "conversation_count": 21,
+      "conversation_count": 22,
       "conversation_ids": [
         "carnaval-encamp-ossa-i-contrabandistes",
         "danses-parroquies-i-sardana-importada-01",
@@ -186,6 +188,7 @@
         "ossa-encamp-rusc-de-cartro-i-cacera",
         "ossa-encamp-variant-matrimoni-ric",
         "ossa-encamp-variants-i-reescriptura-01",
+        "ossa-ordino-dues-lectures-origen",
         "ossa-ordino-text-guio-no-disponible",
         "ossa-pervivencia-encamp-ordino",
         "ossa-unesco-inscripcio-estat-actual",
@@ -214,7 +217,8 @@
         "discrepància sobre l’estat UNESCO: una pàgina de Viquipèdia diu que la inclusió es tramitava, però la fitxa oficial 01846 confirma inscripció el 2022 (decisió 17.COM 7.b.39)",
         "la descripció general UNESCO esmenta música, però no consta repertori, instruments ni partitures específiques del ball d’Encamp",
         "la descripció completa d’Amades és la versió del 1950, no necessàriament l’actual; una font posterior descriu una trama diferent i no se sap quan va canviar",
-        "a la versió d’Amades, el rusc és una construcció de cartó; l’ossa s’hi acosta per mel, els figurants entren en pànic i un caçador la mata, tancant la farsa"
+        "a la versió d’Amades, el rusc és una construcció de cartó; l’ossa s’hi acosta per mel, els figurants entren en pànic i un caçador la mata, tancant la farsa",
+        "la lectura territorial de la farsa d’Ordino atribuïda a Masegosa és diferent de la hipòtesi general d’origen ritual medieval basada en el culte als ossos"
       ],
       "completion_note": "",
       "reason": ""
@@ -314,7 +318,7 @@
       "topic": "temes/costums/danses",
       "source": "wikipedia-llegendes-andorra",
       "status": "complete",
-      "conversation_count": 22,
+      "conversation_count": 23,
       "conversation_ids": [
         "festes-ossa-abast-historic-territorial-01",
         "festes-ossa-bibliografia-per-ampliar",
@@ -326,6 +330,7 @@
         "ossa-encamp-ordino-finals-diferents",
         "ossa-inventari-andorra-i-unesco",
         "ossa-noms-populars-pirineus",
+        "ossa-ordino-dues-lectures-origen",
         "ossa-ordino-text-guio-no-disponible",
         "ossa-origen-medieval-hipotesi",
         "ossa-pervivencia-encamp-ordino",
@@ -366,7 +371,8 @@
         "noms populars de l’ós bru al Pirineu central: «l’ossa», «la Senyora» i «la Peluda»; la font no els limita a Andorra",
         "diferència documentada en el final de les dues festes: allioli de codony a Encamp i aigua amb granadina com a «sang» a Ordino",
         "la fitxa oficial de la UNESCO confirma inscripció de les Festes de l’Os dels Pirineus el 2022; la formulació de tràmit pendent és desactualitzada",
-        "el text de l’Última Ossa d’Ordino no està transcrit al corpus; no s’ha de confondre amb la descripció d’Amades sobre Encamp"
+        "el text de l’Última Ossa d’Ordino no està transcrit al corpus; no s’ha de confondre amb la descripció d’Amades sobre Encamp",
+        "la hipòtesi d’origen ritual medieval basada en el culte als ossos es distingeix de la lectura territorial de Masegosa sobre la farsa d’Ordino; cap no fixa una data d’origen"
       ],
       "completion_note": "Fitxa sencera revisada. Les dades útils del text i les connexions amb les fonts disponibles tenen converses o cobertura registrada. La bibliografia no consultada, els documents d’arxiu no identificats i les causes encara desconegudes queden com a buits explícits, no com a fets inferits.",
       "reason": ""

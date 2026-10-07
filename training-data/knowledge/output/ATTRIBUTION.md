@@ -69,6 +69,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - Viquipèdia en català, article «Festes de l’ossa a Andorra», CC BY-SA 4.0. La fitxa del corpus hi atribueix la causa de la decadència i la cronologia d’Ordino.
 - Viquipèdia en català, article «Festes de l’ossa a Andorra», CC BY-SA 4.0; Fabiola Sofia Masegosa i Gayo, «La vida teatral a Andorra de 1900 a 1970» (conferència del 2018, publicada el 2020), que resumeix la seva tesi doctoral del 2017; la cronologia arriba via la fitxa del Carnaval d’Encamp.
 - Viquipèdia en català, article «Festes de l’ossa a Andorra», CC BY-SA 4.0; atribueix a la Relació sobre la Vall de Andorra de 1838 la referència escrita més antiga.
+- Viquipèdia en català, article «Festes de l’ossa a Andorra», CC BY-SA 4.0; interpretació territorial de l’Última Ossa atribuïda a Fabiola Masegosa i Gayo, *La vida teatral a Andorra de 1900 a 1970* (2020), que resumeix la seva tesi.
 - Viquipèdia en català, article «Festes de l’ossa a Andorra», CC BY-SA 4.0; la fitxa del corpus descriu la màscara de l’Última Ossa d’Ordino.
 - Viquipèdia en català, article «Festes de l’ossa a Andorra», CC BY-SA 4.0; la fitxa descriu la festa com una farsa còmica d’un acte i enumera els personatges.
 - Viquipèdia en català, article «Festes de l’ossa a Andorra», CC BY-SA 4.0; la fitxa descriu la «sang» com aigua amb granadina i el ball final.
@@ -125,6 +126,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - La fitxa de Viquipèdia és CC BY-SA 4.0. La resposta parafraseja una variant breument i no copia la citació extensa d’Amades, que la font secundària marca amb «citació necessària».
 - La fitxa de Viquipèdia és CC BY-SA 4.0. La tesi d’Ysàs citada no s’ha pogut consultar directament; la lectura s’atribueix a la font secundària i la resposta és una paràfrasi breu.
 - La fitxa de Viquipèdia és CC BY-SA 4.0. La tesi d’Ysàs citada per la font no s’ha pogut consultar directament; la resposta és una paràfrasi breu i marca la interpretació com a tal.
+- La font de Viquipèdia és CC BY-SA 4.0. La publicació acadèmica de Masegosa és d’accés obert amb redistribució pendent; no redistribuir-ne contingut derivat sense revisar els termes.
 - La font de Viquipèdia és CC BY-SA 4.0. La tesi de Masegosa és d’accés obert amb redistribució pendent; no redistribuir contingut derivat sense revisar-ne els termes.
 - La notícia del Govern té drets reservats i redistribució no autoritzada; l’ús queda registrat per al dataset intern del projecte i no autoritza redistribució del text. La fitxa de Viquipèdia és CC BY-SA 4.0.
 - La publicació de l’IEC té redistribució pendent. Les imatges dels Archives diplomatiques estan subjectes a les condicions del portal. No consta permís específic per redistribuir les fonts.
