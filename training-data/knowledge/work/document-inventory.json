@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 10,
+    "in_progress": 11,
     "no_natural_question": 0,
-    "not_started": 1338
+    "not_started": 1337
   },
   "documents": [
     {
@@ -169,13 +169,15 @@
       "topic": "temes/costums/danses",
       "source": "premsa-andorrana",
       "status": "in_progress",
-      "conversation_count": 1,
+      "conversation_count": 2,
       "conversation_ids": [
-        "ball-cerda-origen-i-quan-veure-01"
+        "ball-cerda-origen-i-quan-veure-01",
+        "cerda-origen-vs-coreografia-marratxa-01"
       ],
       "reviewed_units": [
         "nom Cerdà relacionat amb la Cerdanya; procedència i origen del nom no resolts",
-        "el ball s’anuncia a la una del migdia del dilluns de festa major a la plaça major de Sant Julià; la referència periodística és genèrica i no verificable"
+        "el ball s’anuncia a la una del migdia del dilluns de festa major a la plaça major de Sant Julià; la referència periodística és genèrica i no verificable",
+        "la frase secundària «van aparèixer fa cinquanta anys» no permet distingir creació, recuperació o fixació"
       ],
       "completion_note": "",
       "reason": ""
@@ -212,10 +214,15 @@
       "type": "article",
       "topic": "temes/costums/danses",
       "source": "viquipedia-ca",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "cerda-origen-vs-coreografia-marratxa-01"
+      ],
+      "reviewed_units": [
+        "coreografia actual fixada als anys seixanta a partir de la memòria de Ricard Mas; l’Esbart Laurèdia la interpreta des del 1963",
+        "la fixació moderna de la coreografia no prova l’origen de la dansa"
+      ],
       "completion_note": "",
       "reason": ""
     },

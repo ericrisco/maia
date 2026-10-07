@@ -141,7 +141,17 @@
     "status": "in_progress",
     "reviewed_units": [
       "nom Cerdà relacionat amb la Cerdanya; procedència i origen del nom no resolts",
-      "el ball s’anuncia a la una del migdia del dilluns de festa major a la plaça major de Sant Julià; la referència periodística és genèrica i no verificable"
+      "el ball s’anuncia a la una del migdia del dilluns de festa major a la plaça major de Sant Julià; la referència periodística és genèrica i no verificable",
+      "la frase secundària «van aparèixer fa cinquanta anys» no permet distingir creació, recuperació o fixació"
+    ],
+    "completion_note": "",
+    "reason": ""
+  },
+  "docs/temes/costums/danses/la-marratxa.md": {
+    "status": "in_progress",
+    "reviewed_units": [
+      "coreografia actual fixada als anys seixanta a partir de la memòria de Ricard Mas; l’Esbart Laurèdia la interpreta des del 1963",
+      "la fixació moderna de la coreografia no prova l’origen de la dansa"
     ],
     "completion_note": "",
     "reason": ""

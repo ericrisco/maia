@@ -40,6 +40,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - J.-A. Brutails, La Coutume d’Andorre (1904), pp. 266–268, 277–278; digitalització Gallica BnF.
 - J.-A. Brutails, La Coutume d’Andorre (1904), pp. 274, 266–268; digitalització Gallica BnF.
 - La fitxa del corpus «El ball del Cerdà» atribueix el lloc i l’hora a «premsa andorrana», sense identificar el mitjà, l’article, la data ni l’URL.
+- La fitxa «El ball del Cerdà» cita una font secundària no identificada; «La marratxa» recull dades atribuïdes a Viquipèdia en català, CC BY-SA 4.0, amb atribució i compartir igual.
 - Pere Canturri i Montanya, «Usos i costums d’Andorra», 15a Diada Andorrana a la XXXIV Universitat Catalana d’Estiu (2002), dins Una història d’Andorra, temàtica, p. 209 i següents.
 - Premsa andorrana; la fitxa de font no identifica el diari, l’article, la data ni l’URL de la publicació concreta.
 
@@ -47,6 +48,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 
 - Contingut periodístic amb drets reservats; la fitxa premsa-andorrana registra redistribució:no. La referència concreta no es pot verificar.
 - La pàgina institucional registra drets reservats i redistribució:no; el portal exigeix autorització escrita i no consta cap permís específic. Aquesta limitació es conserva al registre de procedència.
+- La referència sobre el Cerdà prové de premsa amb drets reservats i no identificada; redistribució:no. Les fonts de Viquipèdia són CC BY-SA 4.0, amb obligació d’atribució i compartir igual. La limitació de la font no identificada es manté explícita.
 - La transcripció institucional dels documents precedents no declara llicència i la redistribució consta pendent. L’obra de Brutails (1904) és en domini públic; Gallica permet reutilització no comercial amb atribució. L’elegibilitat del destí d’entrenament no consta resolta; es conserven les condicions de les dues fonts.
 - No s’incorpora text de cançons. La fitxa no identifica cap font amb drets clars per a les lletres; la font declarada de l’article és premsa andorrana amb redistribució:no.
 - Obra impresa de 1904 en domini públic; Gallica permet reutilització no comercial gratuïta amb atribució. L'elegibilitat del destí d'entrenament no consta resolta a la fitxa de font.
