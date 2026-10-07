@@ -15511,12 +15511,19 @@
       "title": "El clima",
       "type": "article",
       "topic": "temes/territori/clima-i-muntanya",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 25,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/territori/clima-i-muntanya/el-clima.md#unit-0002",
+        "docs/temes/territori/clima-i-muntanya/el-clima.md#unit-0009",
+        "docs/temes/territori/clima-i-muntanya/el-clima.md#unit-0010",
+        "docs/temes/territori/clima-i-muntanya/el-clima.md#unit-0011"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 25,
-      "conversation_ids": []
+      "open_unit_count": 21,
+      "conversation_ids": [
+        "neu-soldeu-sant-julia-altitud-i-orientacio-001"
+      ]
     },
     "docs/temes/territori/clima-i-muntanya/el-pla-darinsal-i-els-avisos-dallaus.md": {
       "title": "El pla d'Arinsal i els avisos d'allaus",
