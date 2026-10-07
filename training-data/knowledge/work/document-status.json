@@ -607,14 +607,16 @@
         "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0004",
         "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0012",
         "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0014",
+        "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0015",
         "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0017",
         "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0025",
         "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0028"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 24,
+      "open_unit_count": 23,
       "conversation_ids": [
         "estripagecs-abast-geografic-001",
+        "estripagecs-cims-i-altituds-001",
         "estripagecs-circuit-i-funcio-001"
       ]
     },
