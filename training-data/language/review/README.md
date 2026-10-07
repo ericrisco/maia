@@ -1,3 +1,3 @@
-# Revisió de Maia Language
+# Revisió de Language
 
-Encara no hi ha fragments candidats. La revisió futura enregistrarà peça, parlant si consta, fragment literal, normalització aplicada, qualitat de transcripció i drets. Una conversa només s'inclourà quan els torns humans permetin reconstruir-la fidelment.
+Les mostres i decisions d'inclusió s'afegiran després d'inspeccionar el material elegible. La parla humana no es reescriu com a prosa estàndard.

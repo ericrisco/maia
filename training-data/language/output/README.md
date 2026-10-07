@@ -1,3 +1,3 @@
 # Exports de Language
 
-Buit deliberadament. No s'exportarà res fins a revisar elegibilitat, drets, transcripció i separació per entrevista o parlant.
+No hi ha exports. Les particions es faran per entrevista o peça per evitar que fragments consecutius quedin en conjunts diferents.

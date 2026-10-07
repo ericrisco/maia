@@ -1,3 +1,3 @@
 # Eines de Language
 
-Els validators i l'exportador s'afegiran després de definir el flux de fragments humans i la política de transcripció. No s'utilitzarà generació sintètica per augmentar el volum.
+Els scripts s'afegiran quan estiguin definides les polítiques de selecció i filtratge de transcripcions.

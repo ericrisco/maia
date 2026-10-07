@@ -1,5 +1,10 @@
 # Maia Knowledge
 
-Conjunt conversacional de coneixement andorrà basat en `docs/temes/`. Cada registre parteix d'un dubte que una persona podria tenir, no d'una secció del document. Els candidats i les seves fonts es revisaran abans de crear exports.
+Converses sobre Andorra fonamentades en fonts elegibles de `docs/temes/`.
 
-Consulta [`review/GUIA.md`](review/GUIA.md) i [`review/EXEMPLES.md`](review/EXEMPLES.md). Els exemples són només calibratge.
+- `review/`: guia, exemples de calibratge i procedència. No són dades actives.
+- `candidates/`: cua futura de converses revisables.
+- `work/`: inventari, drets i cobertura.
+- `scripts/`: eines que s'afegiran quan el format estigui aprovat.
+- `reports/`: cobertura i qualitat.
+- `output/`: exports revisats i dividits. Actualment buit.

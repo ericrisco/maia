@@ -1,24 +1,20 @@
-# Guia de converses Knowledge
+# Guia editorial de Maia Knowledge
 
-## Abans de redactar
+Abans d'escriure, completa aquesta frase fora del diàleg: **«La persona vol aclarir…»**. Si només pots dir «vol saber què diu la fitxa», encara no hi ha una pregunta humana.
 
-1. Llegeix la font i anota els fets que es poden afirmar, els que són incerts i els drets aplicables.
-2. Escriu la intenció de l'usuari sense esmentar el document: «vol entendre per què...», «vol comprovar si...».
-3. Formula la primera pregunta com la faria algú que no ha vist la font.
-4. Respon-la i deriva el seguiment de la resposta anterior. Si no hi ha cap seguiment natural, acaba la conversa.
+## Comprova la conversa
 
-## Senyals d'una pregunta artificial
+- La pregunta s'entén sense el document obert?
+- La resposta resol el dubte a la primera frase?
+- El seguiment reprèn una idea concreta que acaba d'aparèixer?
+- Els torns d'usuari formen un fil continu?
+- Cada afirmació factual té suport i respecta els límits de la font?
+- Si el tema ja queda resolt, hem acabat?
 
-- «Què explica la secció...?» o «què indica aquesta fila?»
-- Una pregunta que no s'entén sense la fitxa o el missatge anterior.
-- Una llista de dades demanada perquè sí.
-- Diverses preguntes independents apilades en un torn.
-- Un seguiment que només serveix per forçar més longitud.
+## Evita
 
-## Llengua i precisió
+«Què explica la secció…?», «què indica aquesta fila?», referències a fitxes o apartats, respostes en forma de base de dades, «i què més?» sense referent, preguntes apilades i seguiments afegits per fer més llarga la conversa.
 
-Català clar i conversacional. Respostes directes, sense etiquetes de base de dades ni introduccions buides. Respecta les distincions de la font: tradició no vol dir fet provat; dues observacions no demostren una tendència; correlació no demostra causa. No afegeixis coneixement extern.
+## Format final
 
-## Comprovació final
-
-Llegeix només els torns d'usuari: semblen una conversa contínua? Després comprova cada frase factual contra la font i verifica llicència, atribució i límits d'ús. Si falla una comprovació, reescriu o descarta.
+Una línia JSONL per conversa, amb missatges alterns `user` i `assistant`. La primera intervenció és de l'usuari. La procedència es desa a part i no s'exporta al model.

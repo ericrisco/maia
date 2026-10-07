@@ -1,3 +1,3 @@
 # Exports de Knowledge
 
-Buit deliberadament durant el calibratge. Només hi haurà `train.jsonl`, `validation.jsonl` i `test.jsonl` després de la revisió factual, editorial, de drets, deduplicació i separació per grups.
+No hi ha exports. Train, validation i test només es generaran després de revisar els registres i agrupar-los per tema i fonts relacionades.

@@ -1,3 +1,3 @@
-# Treball intern de Knowledge
+# Treball de Knowledge
 
-Aquí aniran l'inventari de documents, l'estat de revisió i les unitats de coneixement traçables. No són dades per al model. Encara no hi ha cap inventari regenerat en aquesta estructura nova.
+Aquí aniran inventari de documents, drets, unitats de coneixement i estat de cobertura. Encara no hi ha un inventari refet amb el nou criteri.

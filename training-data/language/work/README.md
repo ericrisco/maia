@@ -1,3 +1,3 @@
-# Treball intern de Maia Language
+# Treball de Language
 
-Aquí s'enregistraran elegibilitat de les peces, qualitat de transcripció, drets i agrupació per entrevista/parlant. Una peça no es considera elegible només perquè contingui català.
+Aquí aniran l'inventari d'elegibilitat, l'estat de transcripció i els grups de peça/parlant. Encara no hi ha registres carregats.

@@ -1,8 +1,9 @@
-# Procedència dels exemples editorials
+# Procedència dels exemples de calibratge
 
-Els exemples calibren l'estil i no són dades d'entrenament. Aquesta nota no substitueix la procedència individual que s'haurà d'enregistrar per a cada candidat.
+Aquests exemples només serveixen per revisar el to. No són candidats ni compten per a cobertura.
 
-| Exemple | Documents Maia | Drets anotats al corpus | Abast |
-|---|---|---|---|
-| Marratxa | `docs/temes/costums/danses/la-marratxa.md`; `docs/temes/historia/pareatge/el-pareatge.md` | Viquipèdia en català, CC BY-SA 4.0; cal atribució i compartir igual. | Estat actual del recipient i relat tradicional de la data; no tracta el primer ball com a fet verificat. |
-| Cinema | `docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md` | Dades del Departament d'Estadística, CC BY 4.0; cal atribució. | Compara 2019 i 2024; no infereix els anys intermedis ni una tendència contínua. |
+| Exemple | Fonts Maia | Drets i límit |
+|---|---|---|
+| Aplicació i entrada en vigor | `docs/temes/institucions/relacions-exteriors/el-reconeixement-internacional.md`; `docs/raw/lleis/bopa/tractat-bon-veinatge-1993-07-20.txt`; `docs/fonts/bopa.md` | Tractat publicat al BOPA. Citar el títol i l'article 10è. No s'inventa la data del darrer dipòsit. |
+| Consultes davant una amenaça | `docs/raw/lleis/bopa/tractat-bon-veinatge-1993-07-20.txt`; `docs/fonts/bopa.md` | Tractat publicat al BOPA. Citar el títol i l'article 3r. No es converteixen consultes en una garantia d'intervenció militar. |
+| Canvi en l'assistència al cinema | `docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md`; `docs/fonts/estadistica-ad.md` | Dades pròpies del Departament d'Estadística, CC BY 4.0. Cal atribució. Només hi ha observacions per al 2019 i el 2024. |

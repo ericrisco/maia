@@ -1,5 +1,3 @@
 # Maia Language
 
-Conjunt separat per conservar senyals del català andorrà contemporani en parla humana de `docs/parla/`. No és un conjunt per ensenyar fets sobre Andorra.
-
-Només s'acceptarà material que compleixi els criteris d'elegibilitat del corpus, tingui drets compatibles i sigui prou fiable. No es fabricaran respostes ni seguiments amb una veu local inventada.
+Conjunt separat de Knowledge. Només s'hi incorporaran fragments humans elegibles de `docs/parla/`, amb drets i qualitat de transcripció revisats. No s'inventaran respostes per imitar un parlant.
