@@ -732,5 +732,21 @@
       "Els ferrers es van modernitzar, però van perdre clients per la mecanització agrícola, els tractors i les eines importades; ferrar animals era la tasca principal, no l’única.",
       "La farga transforma el mineral en ferro; el ferrer treballa el ferro per fer eines i ferrar animals."
     ]
+  },
+  "docs/temes/cultura/artesania/el-textil.md": {
+    "status": "in_progress",
+    "open_units": [
+      "La data de constitució de la confraria (1659) i la data de les ordinacions (1604) continuen discrepant.",
+      "Estatuts complets i registre de membres encara no estudiats.",
+      "Història i localització de la fàbrica de mantes d’Escaldes incompletes.",
+      "Contrast lexicogràfic directe de paraire, batan, tondre, peuc i drap pendent.",
+      "Altres oficis d’artesania andorrana només parcialment documentats."
+    ],
+    "conversation_ids": [
+      "paraires-teixidors-i-pagesia-001"
+    ],
+    "reviewed_units": [
+      "La confraria mostra organització de paraires i teixidors, però no prova una classe social separada de la pagesia; el paraire prepara la llana i el teixidor la teixeix."
+    ]
   }
 }

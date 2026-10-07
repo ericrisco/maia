@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 48,
+    "in_progress": 49,
     "no_natural_question": 0,
-    "not_started": 1300
+    "not_started": 1299
   },
   "documents": [
     {
@@ -1139,11 +1139,21 @@
       "type": "article",
       "topic": "temes/cultura/artesania",
       "source": "mas-pagesos-i-artesans",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "paraires-teixidors-i-pagesia-001"
+      ],
+      "reviewed_units": [
+        "La confraria mostra organització de paraires i teixidors, però no prova una classe social separada de la pagesia; el paraire prepara la llana i el teixidor la teixeix."
+      ],
+      "open_units": [
+        "La data de constitució de la confraria (1659) i la data de les ordinacions (1604) continuen discrepant.",
+        "Estatuts complets i registre de membres encara no estudiats.",
+        "Història i localització de la fàbrica de mantes d’Escaldes incompletes.",
+        "Contrast lexicogràfic directe de paraire, batan, tondre, peuc i drap pendent.",
+        "Altres oficis d’artesania andorrana només parcialment documentats."
+      ],
       "completion_note": "",
       "reason": ""
     },
