@@ -1,5 +1,5 @@
-# Exemples de Knowledge
+# Exemples de calibratge
 
-Els exemples d'aquesta carpeta calibren la forma del diàleg; no són exports d'entrenament. La procedència, llicència i estat de revisió es registren separadament a `provenance.jsonl`, vinculats amb el número de línia de `conversations.jsonl`.
+`conversations.jsonl` conté tres converses multitorn per mostrar el criteri editorial. No s'inclouen als exports d'entrenament. `provenance.jsonl` en registra les fonts i els límits.
 
-Cada conversa nova s'afegeix en un canvi separat i passa la porta de qualitat de `../../PLAN.md`. Si una pregunta no sona natural llegida tota sola, no s'hi afegeix.
+La prova ràpida és llegir només les preguntes: han de sonar com un dubte real i cada seguiment ha de néixer de la resposta anterior.

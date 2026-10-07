@@ -1,46 +1,62 @@
-# Exemples per escriure converses Knowledge
+# Guia per a converses Knowledge
 
-## El patró que rebutgem
+Aquest fitxer defineix el criteri per a `conversations.jsonl`. Cada línia és una conversa completa en format `messages`; la procedència corresponent va a `provenance.jsonl`. Els identificadors, les fonts i les notes editorials no s'inclouen als missatges.
 
-Una bona conversa no fa que l'usuari llegeixi una fitxa en veu alta. També rebutgem respostes que semblen notes inacabades.
+## Comprova si la pregunta és humana
 
-| Forma que cal rebutjar | Per què falla | Què ha de fer la conversa |
-|---|---|---|
-| «Què explica la secció sobre la competència?» | Depèn d'un document obert i no explica quin dubte té la persona. | Presentar un cas concret que necessiti aclariment. |
-| «Què explica el vocabulari que ho ordena?» | Demana un resum editorial, no ajuda amb una necessitat recognoscible. | Preguntar què vol dir una paraula o quin ús distingeix d'un altre. |
-| «Què indica aquesta fila?» | «Aquesta» no té referent fora del document. | Dir quina xifra o contradicció vol entendre. |
-| «Què explica el relat?» | Sembla una pregunta de lectura o examen. | Preguntar què vol saber del relat, i distingir-lo de fets comprovats. |
-| «Tres coses que el corpus registra per separat:» | No és una resposta completa ni contesta la pregunta. | Començar per la conclusió i explicar-la amb paraules corrents. |
+Abans de redactar, resumeix el dubte en una frase privada: què vol entendre, comparar o decidir la persona? Si la intenció és només «vol que li resumeixin la fitxa», descarta la pregunta.
 
-## Com construir el diàleg
+La primera pregunta ha de funcionar sense cap document obert. Ha d'anomenar el tema i el dubte concret. Pot preguntar per una diferència, un mot, una data, una causa que cal verificar, una afirmació que sembla contradictòria o una decisió pràctica.
 
-1. Escriu la intenció privada en una frase: «vol saber si la dada demostra una tendència».
-2. Redacta la primera pregunta perquè s'entengui sense Maia ni cap fitxa oberta.
-3. Escriu la resposta directa. Afegeix només el context que eviti una interpretació errònia.
-4. Afegeix un seguiment només si una resposta natural desperta un dubte nou.
-5. Llegeix només els missatges de l'usuari. Si semblen un índex o un qüestionari, reescriu-los.
-6. Comprova cada dada i cada límit a les fonts. Registra la procedència fora dels missatges.
+No facis servir preguntes com:
 
-## Què vol dir «multitorn»
+- «Què explica la secció “El relat”?»
+- «Què diu el vocabulari que ho ordena?»
+- «Què indica aquesta fila?»
+- «Resumeix la fitxa “La troballa de Meritxell”.»
 
-El patró habitual és de dos a quatre intercanvis. El seguiment ha de continuar el mateix dubte: per exemple, primer aclarir una xifra, després saber si també passa altres anys i finalment decidir com presentar-la.
+Aquestes preguntes parlen de l'estructura d'un document, no de la necessitat d'una persona. Tampoc comencis amb «això», «aquesta dada» o «aquesta fila» si no hi ha un referent clar dins la conversa.
 
-No afegeixis «i per què?» només per allargar el diàleg. Si la font no dona una causa, digues-ho de manera clara. Un exemple curt i complet és millor que un fil artificial.
+## Escriu el fil
+
+1. Escriu la primera pregunta d'usuari.
+2. Contesta-la directament i amb els matisos necessaris.
+3. Escriu el seguiment que algú podria fer després d'aquella resposta.
+4. Contesta'l sense tornar a començar el tema.
+5. Repeteix només mentre aparegui un dubte nou. Cada conversa ha de tenir entre **2 i 4 intercanvis**. No allarguis el fil per arribar al màxim.
+6. Llegeix només les preguntes, en ordre. Han de sonar com una conversa, no com un examen ni un índex.
+
+Els seguiments poden aclarir un terme, comprovar una conseqüència, demanar una comparació o posar a prova una inferència. No cal que siguin fórmules com «i per què?» o «i què més?» si no aporten un dubte concret.
+
+No inventis una biografia, una feina, una opinió o una experiència personal de l'usuari. La naturalitat ha de venir de la pregunta, no d'un escenari fabricat.
+
+## Escriu la resposta
+
+- Comença per contestar la pregunta.
+- Usa llenguatge corrent i frases completes.
+- No responguis amb un títol, un fragment o una llista de camps.
+- No afegeixis fets només perquè apareixen a la mateixa fitxa.
+- Separa les dades dels relats tradicionals, les interpretacions i les hipòtesis.
+- Si la font no permet resoldre el dubte, digues què se sap i què queda sense saber.
+- No presentis una coincidència temporal com a causa.
+- Mantén les xifres amb la unitat correcta: recompte, percentatge o punts percentuals.
 
 ## Exemples de calibratge
 
-[`../examples/conversations.jsonl`](../examples/conversations.jsonl) conté tres fils sobre una comparació temporal, dues mesures diferents de biblioteca i una discrepància entre recompte d'entrades i enquesta. Serveixen per calibrar naturalitat, continuïtat i cautela. No són registres aprovats ni compten per a cobertura.
+Els tres fils de `../examples/conversations.jsonl` mostren preguntes sobre un canvi, una lectura de conjunt i dues mesures que es poden confondre. Serveixen per calibrar l'estil; no es copien a la cua ni compten com a registres entrenables.
 
-## Porta d'acceptació
+## Revisió obligatòria
 
-Abans d'aprovar una conversa, comprova:
+Abans d'afegir una línia a `conversations.jsonl`, comprova:
 
-- La pregunta inicial sona com una cosa que algú preguntaria de debò?
-- Té context suficient sense dependre d'una secció, fila o títol?
-- Cada seguiment ve de la resposta immediatament anterior?
-- La primera frase de cada resposta contesta el que s'ha preguntat?
-- Les respostes distingeixen fets, tradicions, interpretacions i dubtes?
-- Cada afirmació té una font i un dret de reutilització registrats?
-- El diàleg continua útil si s'ometen els identificadors i les notes internes?
+- La pregunta inicial s'entén sense consultar una fitxa?
+- La preguntaria una persona que vol resoldre aquest dubte?
+- Cada seguiment neix de la resposta anterior i afegeix un pas nou?
+- El fil té entre dos i quatre intercanvis i s'atura quan el dubte queda resolt?
+- Cada resposta contesta directament, sona natural i és completa?
+- Les afirmacions tenen suport en fonts reutilitzables i traçables?
+- La resposta conserva els límits i les incerteses de les fonts?
+- El fil continua tenint sentit si se n'esborren títols, IDs i procedència?
+- No és una paràfrasi gairebé duplicada d'un registre existent?
 
-Un sol «no» implica reescriure, deixar pendent o excloure el registre.
+Un «no» vol dir que cal reescriure, deixar pendent o excloure la conversa.

@@ -1,5 +1,3 @@
-# Knowledge work
+# Treball Knowledge
 
-`document-inventory.json` enumera tots els Markdown de `docs/temes/`, conserva els blocs de contingut amb ID estable i n'enllaça les seccions i fonts documentals. És una representació interna; no s'afegeix als missatges d'entrenament.
-
-L'inventari estructural no prova que una unitat hagi estat revisada ni que els seus drets permetin entrenar. La cobertura i l'elegibilitat es registraran en informes propis.
+Aquí aniran l'inventari de documents, les unitats de contingut, les relacions i les decisions d'inclusió o exclusió. Encara no hi ha cap inventari regenerat per al nou flux.

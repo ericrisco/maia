@@ -1,5 +1,5 @@
-# Knowledge review
+# Cua de revisió Knowledge
 
-Segueix [`EXEMPLES.md`](EXEMPLES.md) per redactar preguntes humanes i revisar els seguiments. `conversations.jsonl` conté els diàlegs candidats. `provenance.jsonl` en documenta les fonts, les unitats cobertes, les llicències i els límits. Les dues llistes han de tenir el mateix nombre de línies. `unit-decisions.jsonl` registra per què s'exclou una unitat de contingut.
+Segueix [`EXEMPLES.md`](EXEMPLES.md) abans d'escriure. `conversations.jsonl` conté una conversa per línia; `provenance.jsonl` manté la mateixa quantitat i ordre de registres. `unit-decisions.jsonl` explica les exclusions justificades.
 
-Els exemples de calibratge són a `../examples/`; no compten com a converses candidates ni es poden exportar. No s'entrena directament des d'aquesta carpeta fins que cada registre passa la revisió i la validació.
+La cua s'ha reiniciat. No s'hi incorporen preguntes que demanin què diu una fitxa, secció, taula o fila. Cada conversa ha de tenir de dos a quatre intercanvis naturals i passar la validació factual, editorial i de drets abans d'exportar-se.

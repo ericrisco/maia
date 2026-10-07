@@ -2,106 +2,80 @@
 
 ## Objectiu
 
-Crear dos datasets independents a partir de `docs/`:
+Crear dos conjunts separats a partir de `docs/`:
 
-1. **Knowledge** respon preguntes reals sobre Andorra amb fets que el corpus pot sostenir.
-2. **Language** conserva la manera real de parlar en català andorrà contemporani a partir de material humà admissible.
+- **Knowledge** respon dubtes reals sobre Andorra amb informació que el corpus sosté.
+- **Language** conserva llengua andorrana contemporània produïda per persones i verificada.
 
-La prioritat és correcció, cobertura útil i qualitat de conversa. El volum no és un objectiu per si sol.
+La qualitat de cada conversa va abans que el volum. Un registre que només serveix per cobrir una fila no s'afegeix.
 
-## El problema que corregim
+## Criteri de conversa
 
-Preguntes com «Què explica la secció X?» obliguen l'usuari a tenir una fitxa oberta. Preguntes com «Què indica aquesta fila?» no diuen quina dada interessa. Respostes com «I dos topònims que en surten» són fragments, no respostes. Aquests formats entrenen a parlar del document, no a ajudar una persona.
+Cada conversa ha de semblar una interacció útil entre una persona i un assistent. La font serveix per verificar els fets; no és el context que ha de tenir l'usuari.
 
-Per tant, cada conversa parteix d'una necessitat que es reconeix en la vida normal: entendre una dada, comprovar una afirmació, aclarir una diferència, prendre una decisió o saber què es pot concloure. La font s'usa per verificar; no es converteix en l'escenari de la conversa.
+### Preguntes que sí serveixen
 
-## Estructura
+- Dubte pràctic o de significat: «Si hi ha més persones inscrites a la biblioteca, vol dir que també hi va més gent?»
+- Contrast: «Va créixer l'assistència al cinema o només ho sembla per les xifres?»
+- Conseqüència: «Això permet dir que la pandèmia va fer caure els préstecs?»
+- Aclariment: «Quan dius 9 punts, vols dir un 9%?»
+- Síntesi: «En general, quins hàbits culturals van pujar i quins van baixar?»
 
-```text
-training-data/
-├── README.md
-├── PLAN.md
-├── knowledge/
-│   ├── README.md
-│   ├── examples/
-│   │   ├── conversations.jsonl   # calibratge editorial, no entrenament
-│   │   └── provenance.jsonl      # fonts i notes de revisió dels exemples
-│   ├── review/                   # converses candidates i procedència per revisar
-│   ├── work/                     # inventaris i cobertura per construir
-│   ├── reports/                  # qualitat, exclusions i cobertura
-│   ├── scripts/                  # eines de lectura, validació i exportació
-│   └── output/                   # exports revisats, quan n'hi hagi
-└── language/
-    ├── README.md
-    ├── examples/                 # només exemples de format, mai parla inventada
-    ├── review/                   # fragments humans candidats i procedència
-    ├── work/                     # elegibilitat i verificació de transcripcions
-    ├── reports/
-    ├── scripts/
-    └── output/
-```
+### Preguntes que no serveixen
 
-## Com escriure converses Knowledge
+No preguntar què diu una fitxa, secció, taula, fila, gràfic o paràgraf. No usar «aquesta dada» sense explicar quina dada és. No fer preguntes d'examen ni repetir la mateixa plantilla amb altres noms.
 
-1. **Defineix què vol resoldre la persona** en una frase concreta. Exemples: «vol saber si la comparació demostra una tendència» o «vol distingir persones inscrites de visites». Si la intenció no es pot explicar així, no escriguis encara la pregunta.
-2. **Verifica els fets i els drets** a les fonts del corpus. No facis servir com a entrenable una font amb drets pendents. Anota cada font i llicència a `provenance.jsonl`, fora dels missatges.
-3. **Escriu primer el fil de preguntes de l'usuari.** La primera pregunta s'entén sense cap document obert. Cada seguiment neix d'una resposta anterior i demana el pas següent que una persona podria voler aclarir.
-4. **Redacta respostes que ajudin.** Comença contestant. Després dona el context imprescindible i, si escau, explica què no permet concloure la informació.
-5. **Llegeix el diàleg només des del costat de l'usuari.** Si sembla un qüestionari, un índex o una visita guiada per una fitxa, reescriu-lo.
-6. **Revisa cada afirmació contra les fonts.** No omplis buits amb coneixement extern ni facis passar una hipòtesi, una tradició o una correlació per fet comprovat.
+### Fer que el fil avanci
 
-### Forma de les converses
+1. Escriu primer la necessitat humana en una frase privada.
+2. Formula una primera pregunta que s'entengui sense obrir cap document.
+3. Respon directament i amb prou context per evitar una lectura errònia.
+4. Afegeix seguiments que neixin de la resposta anterior: una conseqüència, una comparació, una possible confusió o un límit.
+5. Atura el fil quan el dubte queda resolt. El patró habitual és de 2–4 intercanvis; no és una quota.
+6. Llegeix només les preguntes d'usuari. Si semblen un qüestionari, reescriu-les.
 
-- Objectiu habitual: **2–4 intercanvis** (una pregunta i una resposta), amb seguiments genuïns. No afegeixis torns per complir una quota.
-- Un exemple d'un sol intercanvi només s'accepta quan el dubte queda resolt del tot i un seguiment sonaria artificial.
-- Els seguiments poden dir «i això?», «però...» o «llavors...», si el referent és clar per la conversa.
-- No cal que tots els fils comencin amb «Què és...?» ni que cada resposta repeteixi el títol del tema.
-- No inventis vivències, opinions o identitats de l'usuari per fer el diàleg més col·loquial.
-- No escriguis cites, IDs interns, títols de secció ni notes de procedència dins la conversa, tret que la persona pregunti explícitament per la font.
+No inventis una biografia, una feina, una opinió ni una experiència de l'usuari per fer sonar el diàleg més humà. La naturalitat surt del dubte i del seguiment, no d'afegir escenari fictici.
 
-### Porta de qualitat
+## Respostes
 
-Un exemple només es pot aprovar si totes les respostes són «sí»:
+- Comença per la resposta, no per una etiqueta ni una llista de camps.
+- Fes servir llenguatge corrent i explica els termes necessaris.
+- Separa recompte, percentatge, punts percentuals, estimació i percepció.
+- No dedueixis causes de dues xifres que només coincideixen en el temps.
+- Quan la font no resolgui una pregunta, digues què permet afirmar i què no.
+- No copiïs un paràgraf sencer si una resposta més curta resol el dubte.
 
-- La pregunta inicial expressa una necessitat humana i s'entén per si sola?
-- Els seguiments són reaccions plausibles a la resposta anterior?
-- Cada resposta contesta primer el que s'ha preguntat?
-- La resposta és natural en veu alta i prou completa per ser útil?
-- Tots els fets, xifres i matisos estan sostinguts per fonts elegibles?
-- La resposta distingeix dades, interpretacions, tradició i incertesa?
-- L'exemple aporta un patró útil i no és gairebé duplicat d'un altre?
-- La procedència i els drets estan registrats i són compatibles amb l'ús previst?
+## Fonts, drets i cobertura
 
-Un sol «no» implica reescriure, deixar pendent o excloure.
+Abans d'escriure, comprova que les fonts sostenen cada afirmació i permeten l'ús previst. Registra títol o identificador de font, ubicació, llicència, atribució, limitacions i les unitats de contingut cobertes. Mantén aquesta informació fora de `messages`.
 
-## Construcció de Maia Knowledge
+Una conversa pot cobrir més d'una unitat o fitxa si la relació entre elles és documentada. Exclou contingut amb drets pendents. Marca com a incert el que el corpus no resol; no completis buits amb coneixement extern.
 
-- Inspeccionar totes les fitxes elegibles de `docs/temes/`, amb seccions, llistes, taules, cronologies, relacions i incerteses.
-- Convertir les unitats rellevants en converses motivades per preguntes reals; una conversa pot connectar fitxes si cada relació està documentada.
-- Mantenir evidència i cobertura a `work/` i `reports/`; no carregar aquestes metadades a `messages`.
-- Deduplicar i separar train, validation i test per tema/font o grup relacionat. No repartir paràfrasis d'una mateixa resposta entre conjunts.
-- Crear exports només amb registres aprovats editorialment, factualment i quant als drets.
+## Revisió abans d'acceptar
 
-## Construcció de Maia Language
+Totes les respostes han de ser «sí»:
 
-- Inspeccionar `docs/parla/` i incloure només material que compleixi els criteris del corpus: `veu: originaria`, `epoca: contemporania` i `apte_llengua: true`, amb drets compatibles i transcripció verificada.
-- Preservar les paraules humanes i fer només normalitzacions mínimes documentades. No inventar respostes «com si fossin andorranes».
-- Mantenir junts els fragments d'una mateixa peça, conversa o parlant en separar train, validation i test.
-- No començar exports si no hi ha prou material verificat. Un conjunt buit és millor que parla fabricada.
+- La pregunta inicial és una cosa que una persona podria preguntar sense veure la font?
+- El seguiment és una reacció plausible a la resposta immediatament anterior?
+- Cada resposta contesta primer la pregunta i sona bé en veu alta?
+- Les afirmacions i els matisos estan sostinguts per fonts reutilitzables?
+- El fil distingeix fet, interpretació, tradició i incertesa?
+- El diàleg ensenya un comportament útil i no és duplicat d'un altre?
+- La conversa continua tenint sentit sense procedència ni identificadors interns?
 
-## Etapes
+Si alguna resposta és «no», reescriu, deixa pendent o exclou.
 
-1. Aprovar la guia i calibrar l'estil amb els exemples d'aquesta carpeta.
-2. Crear i validar el lector estructural de `docs/temes/` i l'inventari de cobertura.
-3. Definir el registre intern de procedència i la validació del format.
-4. Inventariar Knowledge i Language separadament, registrant drets i buits.
-5. Escriure i revisar converses Knowledge per necessitat, amb cobertura traçable.
-6. Verificar transcripcions i extreure fragments Language humans elegibles.
-7. Revisar, deduplicar, agrupar i separar els conjunts.
-8. Generar exports i informes; comprovar-los abans de considerar cap dataset acabat.
+## Fases
+
+1. Aplicar la guia `knowledge/review/EXEMPLES.md` i calibrar l’estil amb `knowledge/examples/`.
+2. Inventariar el coneixement i els drets de les fonts de `docs/temes/`; conservar el mapa de cobertura regenerable.
+3. Crear converses multitorn a `knowledge/review/conversations.jsonl`, amb procedència i unitats cobertes a fitxers separats.
+4. Revisar naturalitat, correcció, drets, duplicats i separació dels conjunts; no donar per coberta cap unitat sense evidència.
+5. Generar els exports i informes només quan hi hagi registres aprovats.
+6. Tractar Language en el seu propi flux. Incloure només parla humana elegible i verificada; no generar respostes lingüístiques inventades.
 
 ## Definició de fet
 
-**Knowledge** no està acabat fins que totes les fitxes elegibles s'han inspeccionat, el coneixement útil està cobert, els exemples són naturals i correctes, els drets són clars, i els exports i informes passen validació.
+Knowledge no està acabat fins que les fitxes elegibles s'han inspeccionat, el coneixement útil està cobert, les converses són naturals i correctes, els drets són clars i els conjunts passen validació.
 
-**Language** no està acabat fins que totes les peces elegibles s'han inspeccionat, la parla i els drets s'han verificat, no hi ha fragments incerts utilitzats com a model, els conjunts eviten filtracions i els exports passen validació.
+Language no està acabat fins que les peces elegibles s'han inspeccionat, la parla i els drets s'han verificat, les transcripcions incertes s'han filtrat i no hi ha filtracions entre train, validation i test.

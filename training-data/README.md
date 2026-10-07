@@ -1,10 +1,12 @@
 # Maia Training Data
 
-Aquesta àrea contindrà dos conjunts separats:
+Aquesta carpeta separa dos objectius:
 
-- **Maia Knowledge**: converses que ensenyen a respondre preguntes sobre Andorra amb informació documentada a `docs/temes/`.
-- **Maia Language**: fragments de conversa humana que preserven el català andorrà contemporani, extrets de material elegible de `docs/parla/`.
+- **Knowledge**: respondre preguntes sobre Andorra amb fets documentats.
+- **Language**: conservar català andorrà contemporani a partir de parla humana elegible.
 
-No es barreja coneixement enciclopèdic amb senyal lingüístic. Comença per [`PLAN.md`](PLAN.md) i les instruccions de cada conjunt.
+No es barregen els dos conjunts. Les converses d'exemple serveixen per calibrar la qualitat; no són dades d'entrenament. No es genera cap export fins que els registres s'hagin revisat.
 
-Els exemples de `knowledge/examples/` serveixen per calibrar l'estil. No són registres aprovats ni s'han d'entrenar. Els exports de `output/` només es creen després de revisar contingut, procedència, drets i separació dels conjunts.
+- [Pla general](PLAN.md)
+- [Maia Knowledge](knowledge/README.md)
+- [Maia Language](language/README.md)

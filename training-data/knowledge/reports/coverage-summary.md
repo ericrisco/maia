@@ -4,10 +4,10 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 
 - Documents inventariats: **1477** (1348 articles).
 - Unitats estructurals totals: **62911**.
-- Unitats cobertes per converses aprovades: **361** (0.574%).
-- Unitats excloses amb motiu: **184**.
-- Unitats encara obertes: **62366**.
-- Converses candidates: **104**; aprovades: **104**.
+- Unitats cobertes per converses aprovades: **0** (0.000%).
+- Unitats excloses amb motiu: **0**.
+- Unitats encara obertes: **62911**.
+- Converses candidates: **0**; aprovades: **0**.
 
 ## Estat per tema
 
@@ -17,7 +17,7 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 | `societat/treball` | 1 | 7 | 0 | 0 | 7 |
 | `temes/costums/calendari-festiu` | 2 | 65 | 0 | 0 | 65 |
 | `temes/costums/caramelles` | 1 | 18 | 0 | 0 | 18 |
-| `temes/costums/danses` | 7 | 272 | 95 | 5 | 172 |
+| `temes/costums/danses` | 7 | 272 | 0 | 0 | 272 |
 | `temes/costums/falles` | 1 | 30 | 0 | 0 | 30 |
 | `temes/costums/festes-majors` | 2 | 35 | 0 | 0 | 35 |
 | `temes/costums/gegants` | 1 | 36 | 0 | 0 | 36 |
@@ -25,21 +25,21 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 | `temes/costums/religiositat` | 5 | 292 | 0 | 0 | 292 |
 | `temes/costums/ritus-de-pas` | 2 | 51 | 0 | 0 | 51 |
 | `temes/costums/sant-antoni` | 1 | 19 | 0 | 0 | 19 |
-| `temes/cultura` | 1 | 73 | 73 | 0 | 0 |
+| `temes/cultura` | 1 | 73 | 0 | 0 | 73 |
 | `temes/cultura/andorra-vista-de-fora` | 6 | 280 | 0 | 0 | 280 |
 | `temes/cultura/arquitectura` | 11 | 216 | 0 | 0 | 216 |
 | `temes/cultura/artesania` | 2 | 138 | 0 | 0 | 138 |
 | `temes/cultura/arts-visuals` | 9 | 303 | 0 | 0 | 303 |
 | `temes/cultura/cultura-popular` | 2 | 48 | 0 | 0 | 48 |
 | `temes/cultura/literatura` | 1 | 87 | 0 | 0 | 87 |
-| `temes/cultura/llegendes` | 10 | 254 | 82 | 172 | 0 |
+| `temes/cultura/llegendes` | 10 | 254 | 0 | 0 | 254 |
 | `temes/cultura/museus-i-arxius` | 15 | 912 | 0 | 0 | 912 |
-| `temes/cultura/museus-i-arxius/museus` | 11 | 335 | 90 | 7 | 238 |
+| `temes/cultura/museus-i-arxius/museus` | 11 | 335 | 0 | 0 | 335 |
 | `temes/cultura/musica-i-cancons` | 3 | 103 | 0 | 0 | 103 |
 | `temes/cultura/teatre` | 2 | 159 | 0 | 0 | 159 |
 | `temes/economia/banca-i-fiscalitat` | 33 | 2053 | 0 | 0 | 2053 |
 | `temes/economia/comerc` | 17 | 1270 | 0 | 0 | 1270 |
-| `temes/economia/energia-i-serveis` | 4 | 223 | 6 | 0 | 217 |
+| `temes/economia/energia-i-serveis` | 4 | 223 | 0 | 0 | 223 |
 | `temes/economia/les-grans-families` | 1 | 46 | 0 | 0 | 46 |
 | `temes/economia/ramaderia-i-agricultura` | 11 | 602 | 0 | 0 | 602 |
 | `temes/economia/tabac` | 5 | 298 | 0 | 0 | 298 |
@@ -58,10 +58,10 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 | `temes/esports/futbol/clubs-i-competicions` | 6 | 419 | 0 | 0 | 419 |
 | `temes/esports/futbol/femeni` | 43 | 582 | 0 | 0 | 582 |
 | `temes/esports/seleccions` | 15 | 853 | 0 | 0 | 853 |
-| `temes/gastronomia/begudes` | 1 | 69 | 2 | 0 | 67 |
+| `temes/gastronomia/begudes` | 1 | 69 | 0 | 0 | 69 |
 | `temes/gastronomia/calendari-gastronomic` | 1 | 12 | 0 | 0 | 12 |
 | `temes/gastronomia/historia-alimentaria` | 5 | 228 | 0 | 0 | 228 |
-| `temes/gastronomia/plats` | 5 | 81 | 12 | 0 | 69 |
+| `temes/gastronomia/plats` | 5 | 81 | 0 | 0 | 81 |
 | `temes/gastronomia/productes` | 2 | 39 | 0 | 0 | 39 |
 | `temes/gastronomia/rebosteria` | 1 | 16 | 0 | 0 | 16 |
 | `temes/historia/antic-regim` | 50 | 2236 | 0 | 0 | 2236 |
@@ -75,7 +75,7 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 | `temes/historia/manual-digest` | 5 | 353 | 0 | 0 | 353 |
 | `temes/historia/moments-historics` | 2 | 153 | 0 | 0 | 153 |
 | `temes/historia/origens` | 15 | 414 | 0 | 0 | 414 |
-| `temes/historia/pareatge` | 6 | 473 | 1 | 0 | 472 |
+| `temes/historia/pareatge` | 6 | 473 | 0 | 0 | 473 |
 | `temes/historia/segle-xix` | 29 | 1819 | 0 | 0 | 1819 |
 | `temes/historia/segle-xx-primera-meitat` | 30 | 892 | 0 | 0 | 892 |
 | `temes/institucions/comuns-i-parroquies` | 35 | 971 | 0 | 0 | 971 |
@@ -140,10 +140,3 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 | `temes/vida-quotidiana/geografia-mental` | 1 | 23 | 0 | 0 | 23 |
 | `temes/vida-quotidiana/humor` | 1 | 18 | 0 | 0 | 18 |
 | `temes/vida-quotidiana/referents-compartits` | 1 | 34 | 0 | 0 | 34 |
-
-## Exclusions per motiu
-
-- `duplicate`: 2.
-- `excluded_rights`: 68.
-- `no_natural_question`: 31.
-- `not_knowledge`: 83.

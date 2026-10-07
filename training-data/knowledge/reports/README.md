@@ -1,3 +1,3 @@
-# Knowledge reports
+# Informes Knowledge
 
-`inventory-summary.md` informa del nombre de documents, articles, unitats i tipus de bloc llegits. No és un informe de cobertura d'entrenament. Els informes de cobertura, qualitat, exclusions, duplicats i drets s'afegiran amb les eines de revisió corresponents.
+Aquí aniran informes generats de cobertura, qualitat, fonts excloses i volum. Els recomptes de la cua anterior s'han retirat perquè no descriuen els registres del nou flux.
