@@ -9,7 +9,7 @@
   "file_count": 1477,
   "article_count": 1348,
   "parse_error_count": 0,
-  "conversation_count": 82,
+  "conversation_count": 83,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 0,
@@ -224,9 +224,10 @@
       "topic": "temes/costums/danses",
       "source": "viquipedia-ca",
       "status": "in_progress",
-      "conversation_count": 5,
+      "conversation_count": 6,
       "conversation_ids": [
         "marratxa-data-tradicio-i-pareatge-001",
+        "marratxa-data-tradicional-no-verificada-001",
         "marratxa-dia-festa-major-001",
         "marratxa-origen-i-coreografia-001",
         "marratxa-recipient-i-nom-001",
@@ -237,13 +238,14 @@
         "Nom i objecte: marratxa/morratxa/almorratxa és un recipient d'aigua perfumada que els balladors duien als orígens; avui no es fa servir, però el nom es conserva.",
         "Cronologia tradicional: la primera ballada s'atribueix al 7-09-1278; la fitxa del Pareatge el data el 8-09-1278. La diferència no està resolta i no se n'infereix cap explicació.",
         "Origen i coreografia: la tradició atribueix la primera ballada a 1278; la coreografia actual es va fixar als anys seixanta a partir de la memòria de Ricard Mas, amb tonada recollida per Daniel Areny i coreografia d'Isidre Marbà. No se'n dedueix continuïtat ni creació de la dansa en aquella dècada.",
-        "Moment de celebració: el ball es fa el dilluns de la festa major de Sant Julià; la font no dona l'hora."
+        "Moment de celebració: el ball es fa el dilluns de la festa major de Sant Julià; la font no dona l'hora.",
+        "Estat de la data de 1278: és una atribució tradicional, no una data acreditada per documentació coneguda; la primera menció documental i l'origen de l'atribució són desconeguts."
       ],
       "open_units": [
-        "Primera documentació de la dansa i moment en què se li atribueix la commemoració dels Pareatges.",
         "Detalls de vestuari i rastre documental que les fonts actuals deixen pendents.",
         "Verificar amb font primària les dates de la primera ballada i del Pareatge; la discrepància secundària continua oberta.",
-        "Confirmar hora i ordre dins del programa actual; la font consultada només dona el dia de la setmana."
+        "Confirmar hora i ordre dins del programa actual; la font consultada només dona el dia de la setmana.",
+        "Verificar amb font primària la primera documentació de la dansa i quan s'hi atribueix per primer cop l'origen del 1278."
       ],
       "completion_note": "",
       "reason": "",
