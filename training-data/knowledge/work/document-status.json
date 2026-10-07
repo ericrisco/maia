@@ -893,12 +893,13 @@
         "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0030",
         "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0031",
         "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0032",
+        "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0034",
         "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0035",
         "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0036",
         "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0037",
         "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0038"
       ],
-      "excluded_unit_count": 13,
+      "excluded_unit_count": 12,
       "open_unit_count": 0,
       "conversation_ids": [
         "calibratge-dama-blanca-i-llop-001",
@@ -907,6 +908,7 @@
         "dama-blanca-hipotesis-origen-001",
         "dama-blanca-historia-i-lectura-politica-001",
         "dama-blanca-identitats-i-datacio-desconegudes-001",
+        "dama-blanca-recull-valls-carol-001",
         "dama-blanca-toponim-aubinya-auvinya-001"
       ]
     },
