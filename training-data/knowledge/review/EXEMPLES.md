@@ -1,6 +1,55 @@
 # Exemples de conversa per a Maia Knowledge
 
-Els tres primers exemples són registres aprovats de [`records.jsonl`](records.jsonl) i apareixen a l'export `conversations.jsonl`. La guia també inclou exemples rebutjats per aclarir què no s'ha d'afegir.
+Els tres primers exemples són registres aprovats de [`records.jsonl`](records.jsonl) i apareixen a l'export `conversations.jsonl`. Cada conversa de Knowledge aprovada ha de tenir almenys dues preguntes d'usuari. El segon dubte ha de néixer del primer i demanar informació nova; no es divideix una resposta en fragments per forçar el multitorn.
+
+## Llindar d'aprovació: conversa humana, no exercici sobre la fitxa
+
+Abans d'aprovar una conversa, aplica aquestes cinc comprovacions:
+
+1. **Pregunta d'entrada:** algú que no ha llegit el corpus podria preguntar això per entendre o resoldre una curiositat real?
+2. **Primera resposta:** contesta el dubte inicial de seguida i s'entén sense obrir la font.
+3. **Motiu del seguiment:** després de la resposta, es pot explicar en una frase per què aquella mateixa persona voldria saber el següent?
+4. **Valor nou:** el seguiment obté una dada, matís, conseqüència o comparació que no s'ha donat ja.
+5. **Font i límits:** cada afirmació està sostinguda; una interpretació, llegenda o incertesa no es presenta com un fet comprovat.
+
+Si falla una comprovació, es reescriu o es descarta. «Així és multitorn» i «així cobrim una unitat» no justifiquen un seguiment artificial.
+
+## Com reformulem les preguntes artificials
+
+La font pot orientar la resposta, però no ha de dictar la veu de l'usuari. Aquests exemples mostren el canvi d'intenció; abans d'aprovar-los com a registres, cal associar-hi unitats de cobertura i procedència revisada.
+
+### De «què explica la secció» a un dubte sobre el cas
+
+```text
+Usuari: Si un cònsol et devia diners, el podies portar davant d'un jutge?
+Assistent: Depenia de quan i de quin tipus de deute. Abans de la Reforma de 1866, qualsevol demanda civil contra una autoritat requeria autorització prèvia, fins i tot per un deute personal. Després, el permís només calia per reclamar deutes contrets en exercici del càrrec.
+Usuari: I si l'acusaves d'un delicte?
+Assistent: Per a una persecució criminal no calia aquella autorització. La protecció especial afectava les demandes civils.
+```
+
+La pregunta no demana que l'assistent expliqui una regla titulada per l'editor. El seguiment explora la distinció important entre les vies civil i criminal.
+
+### De «què indica aquesta fila» a aclarir una contradicció
+
+```text
+Usuari: En l'enquesta d'usos lingüístics del 2018, el gràfic i el text semblen intercanviar les xifres del català i del castellà. Quina dada és la bona?
+Assistent: El text coincideix amb la sèrie de l'Estadística: el 2018 l'indicador és 56,8 per al català i 57,6 per al castellà. El gràfic etiqueta les dues xifres al revés.
+Usuari: El gràfic també s'equivoca amb les dades del 2014?
+Assistent: No en aquell punt: el 2014 la sèrie dona 57,7 per al català i 56,4 per al castellà. La discrepància documentada és la inversió dels valors del 2018 al gràfic.
+```
+
+El diàleg posa nom al fenomen i a la pregunta real: quina versió cal prendre per bona. La dada prové de l'API estadística i no reprodueix text de l'informe.
+
+### De la contradicció aparent a la diferència entre contractes
+
+```text
+Usuari: Com pot ser que un text parli d'un interès del 3,33% i un altre del 5%?
+Assistent: No s'aplicaven al mateix tipus de contracte. El 3,33% era el tipus legal dels censals; el 5% s'aplicava a la resta de préstecs que el Consell General i les Corts acceptaven.
+Usuari: Aleshores el decret del 3,33% encara era vigent el 1895?
+Assistent: Sí. El decret del 1895 diu que el tipus dels censals continuava essent el que establia la llei de la Vall, mentre que per a la resta s'acceptava el 5%.
+```
+
+El seguiment comprova la conseqüència temporal de la resposta i no torna a preguntar què vol dir cada percentatge. No cal esmentar el nom de la fitxa ni copiar l'encapçalament de la font.
 
 ## 1. Entendre una paraula i la funció que descriu
 

@@ -15,15 +15,16 @@ Les primeres preguntes seguien els títols i les seccions de les fitxes. Això p
 
 Ara cada registre de revisió conté **la conversa i la seva procedència al mateix objecte JSONL**. La sortida entrenable només n'exporta `messages`. Els primers exemples ja són registres aprovats; `approved_sample` queda reservat a exemples de calibratge que no entrenen el model ni compten com a cobertura.
 
-## Com escriure preguntes que faria una persona
+## Com escriure converses que faria una persona
 
-1. **Comença per una curiositat o una necessitat concreta.** Per exemple: entendre una paraula, aclarir dues versions que semblen incompatibles, situar una obra durant una visita o saber què es conserva avui.
-2. **No facis que l'usuari parli com qui ha llegit la fitxa.** Evita «què explica la secció», «què indica aquesta fila» i «segons el document».
-3. **Dona context només quan ajuda.** No inventis familiars, records, plans ni experiències personals. «Per què les pintures no són totes a l'església?» és prou natural sense inventar una visita.
-4. **Contesta tota la pregunta en aquell torn.** No amaguis la dada principal per crear un seguiment. Cada resposta ha de tenir sentit si la conversa s'acaba allí.
-5. **Afegeix un seguiment només si neix de la resposta.** Ha de demanar una cosa nova que probablement voldria saber la mateixa persona. No cal arribar a un nombre fix de torns.
-6. **Mantén el fil i els referents clars.** «I què se n'ha quedat a l'església?» és vàlid després d'haver parlat de les pintures de Santa Coloma. Sense aquell antecedent, no ho és.
-7. **Llegeix el diàleg en veu alta.** Si sona a qüestionari, a plantilla o a prova de comprensió lectora, reescriu-lo o descarta'l.
+1. **Comença per una curiositat o una necessitat concreta.** Per exemple: entendre una paraula, aclarir dues versions que semblen incompatibles, orientar-se en una tradició o saber què es conserva avui.
+2. **No facis que l'usuari parli com qui ha llegit la fitxa.** Evita «què explica la secció», «què indica aquesta fila» i «segons el document». Pot nomenar una obra o un informe que coneix, però no els seus encapçalaments interns.
+3. **Dona context només quan ajuda.** No inventis familiars, records, plans ni experiències personals. Una motivació plausible no necessita una biografia inventada.
+4. **Totes les converses de Knowledge aprovades són multitorn.** Cada registre té almenys dues preguntes d'usuari. La segona ha de sorgir de la primera resposta i obrir un aspecte nou: una conseqüència, una excepció, el motiu, el lloc actual o una comparació rellevant.
+5. **No divideixis una resposta curta en fragments artificials.** La primera resposta ha de resoldre el dubte inicial amb context suficient. El seguiment no pot demanar una dada que l'assistent acaba d'explicar ni servir només per arribar a dos torns.
+6. **Si una dada no admet un seguiment natural, integra-la en una conversa més àmplia del mateix tema.** No l'abandonis ni li fabriquis una pregunta absurda: agrupa-la amb conceptes relacionats. Si encara no hi ha una conversa honesta, deixa la unitat pendent de cobertura.
+7. **Mantén el fil i els referents clars.** «I què se n'ha quedat a l'església?» és vàlid després d'haver parlat de les pintures de Santa Coloma. Sense aquell antecedent, no ho és.
+8. **Llegeix el diàleg en veu alta sense mirar la fitxa.** Si sona a qüestionari, plantilla, prova de comprensió lectora o conversa construïda per cobrir una fila, reescriu-lo o descarta'l.
 
 ## Patró d'una conversa bona
 
@@ -36,7 +37,7 @@ usuari: seguiment natural que demana informació nova
 assistent: resposta al seguiment, sense repetir tota la conversa
 ```
 
-No fabriquem multitorn. Una pregunta resolta en una resposta és millor que afegir torns artificials. Si hi ha seguiment, no pot dependre d'un «això» sense antecedent, repetir la resposta anterior ni canviar de tema sense motiu.
+El requisit de multitorn no autoritza a fabricar preguntes. Si un seguiment plausible no surt de la resposta, cal reformular la conversa al voltant d'un dubte més ampli i relacionat, o deixar-ne les unitats pendents. Mai s'allarga una resposta curta amb torns que la persona no faria.
 
 ## Criteris de contingut
 
@@ -46,6 +47,9 @@ No fabriquem multitorn. Una pregunta resolta en una resposta és millor que afeg
 - Una premissa equivocada es corregeix amb tacte i amb el fet correcte.
 - Una resposta negativa diu què se sap i quin límit té la font; no converteix «no consta» en «no existeix».
 - Agrupem dades quan una pregunta humana les necessitaria juntes. No fem una pregunta per cada unitat de l'inventari.
+- Cada conversa aprovada conté almenys dues preguntes d'usuari, i cada torn resol un dubte diferent dins del mateix fil.
+- El seguiment ha de tenir una motivació llegible en una frase: «després de saber X, és natural voler saber Y perquè...». Si no es pot completar sense parlar de cobertura o del corpus, no s'aprova.
+- Els registres existents no conserven l'estat d'aprovació per inèrcia: s'han de tornar a avaluar abans de l'exportació.
 - Abans d'aprovar un registre, revisem que les fonts permetin la redistribució. La procedència queda vinculada al mateix registre.
 
 ## Estructura
@@ -71,7 +75,7 @@ Un registre de `records.jsonl` inclou `record_id`, `review_status`, `messages`, 
 
 ## Seqüència de treball
 
-1. Revisar els primers exemples aprovats i aplicar el mateix criteri a cada tema.
+1. Llegir cada conversa sense consultar la fitxa i aplicar el llindar de naturalitat i multitorn de [`knowledge/review/EXEMPLES.md`](knowledge/review/EXEMPLES.md). Els registres existents es tornen a avaluar abans de l'exportació.
 2. Per a cada tema, comprovar primer les fonts i els drets.
 3. Identificar quina pregunta humana resol el coneixement; si no n'hi ha cap de natural, registrar la decisió i no forçar un exemple.
 4. Redactar una conversa completa. Crear seguiments només quan aportin una resposta nova i coherent.

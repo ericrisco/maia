@@ -4,6 +4,13 @@ Flux separat per preservar català andorrà contemporani produït per persones a
 `docs/parla/`. Només s'hi incorporarà material elegible amb drets i fiabilitat
 de transcripció revisats. No s'hi generaran respostes artificials.
 
+Quan la font sigui una entrevista dialogada, l'exemple conservarà el fil de
+diversos torns humans i els referents del context. No s'inventaran preguntes
+d'usuari per convertir un monòleg en una conversa ni per fer que el format sigui
+multitorn. Si una peça no conté una seqüència humana de diversos torns, queda
+fora de l'export de converses de Language; la seva elegibilitat lingüística es
+pot registrar per separat.
+
 ## Inventari i estat actual
 
 Genera l'inventari de peces i comprova les metadades i les fonts amb:
