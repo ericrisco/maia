@@ -857,5 +857,20 @@
     "reviewed_units": [
       "Les escoles comunals van respondre a la demanda d’artistes i alumnes i serveixen infants i adults amb una funció sociocultural."
     ]
+  },
+  "docs/temes/cultura/arts-visuals/sergi-mas.md": {
+    "status": "in_progress",
+    "open_units": [
+      "Contingut dels llibres El moble andorrà (2003) i Aspectes de l’art popular d’Andorra (2016) no consultat.",
+      "Inventari i localització exacta de totes les obres de l’Itinerari Sergi Mas pendents de completar.",
+      "Motiu de l’arribada a Andorra el 1957: versions discrepants sense contrast independent.",
+      "Biografia pròpia de Maria Canalís i obra individual no documentades al corpus."
+    ],
+    "conversation_ids": [
+      "sergi-mas-arribada-motius-discrepants-001"
+    ],
+    "reviewed_units": [
+      "Les fonts divergeixen sobre el motiu pel qual Sergi Mas es va establir a Andorra el 1957; el corpus no permet arbitrar-ho."
+    ]
   }
 }
