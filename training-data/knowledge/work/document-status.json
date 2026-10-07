@@ -731,7 +731,7 @@
       "title": "Sant Romà de les Bons",
       "type": "article",
       "topic": "temes/cultura/arquitectura",
-      "status": "in_progress",
+      "status": "complete",
       "unit_count": 15,
       "covered_unit_ids": [
         "docs/temes/cultura/arquitectura/sant-roma-de-les-bons.md#unit-0001",
@@ -741,8 +741,8 @@
         "docs/temes/cultura/arquitectura/sant-roma-de-les-bons.md#unit-0006",
         "docs/temes/cultura/arquitectura/sant-roma-de-les-bons.md#unit-0008"
       ],
-      "excluded_unit_count": 0,
-      "open_unit_count": 9,
+      "excluded_unit_count": 9,
+      "open_unit_count": 0,
       "conversation_ids": [
         "sant-roma-art-i-estrats-historics-001"
       ]
