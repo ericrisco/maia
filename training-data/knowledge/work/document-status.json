@@ -14026,13 +14026,19 @@
         "docs/temes/societat/demografia/qui-compta-com-a-resident.md#unit-0003",
         "docs/temes/societat/demografia/qui-compta-com-a-resident.md#unit-0004",
         "docs/temes/societat/demografia/qui-compta-com-a-resident.md#unit-0005",
+        "docs/temes/societat/demografia/qui-compta-com-a-resident.md#unit-0006",
         "docs/temes/societat/demografia/qui-compta-com-a-resident.md#unit-0008",
         "docs/temes/societat/demografia/qui-compta-com-a-resident.md#unit-0009",
+        "docs/temes/societat/demografia/qui-compta-com-a-resident.md#unit-0010",
+        "docs/temes/societat/demografia/qui-compta-com-a-resident.md#unit-0011",
+        "docs/temes/societat/demografia/qui-compta-com-a-resident.md#unit-0012",
         "docs/temes/societat/demografia/qui-compta-com-a-resident.md#unit-0013",
         "docs/temes/societat/demografia/qui-compta-com-a-resident.md#unit-0014",
         "docs/temes/societat/demografia/qui-compta-com-a-resident.md#unit-0015",
         "docs/temes/societat/demografia/qui-compta-com-a-resident.md#unit-0016",
         "docs/temes/societat/demografia/qui-compta-com-a-resident.md#unit-0017",
+        "docs/temes/societat/demografia/qui-compta-com-a-resident.md#unit-0018",
+        "docs/temes/societat/demografia/qui-compta-com-a-resident.md#unit-0019",
         "docs/temes/societat/demografia/qui-compta-com-a-resident.md#unit-0025",
         "docs/temes/societat/demografia/qui-compta-com-a-resident.md#unit-0026",
         "docs/temes/societat/demografia/qui-compta-com-a-resident.md#unit-0027",
@@ -14042,10 +14048,11 @@
         "docs/temes/societat/demografia/qui-compta-com-a-resident.md#unit-0031"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 38,
+      "open_unit_count": 32,
       "conversation_ids": [
         "poblacio-per-poble-registrada-vs-estimada-001",
-        "residencia-empadronament-i-concepte-habitual-001"
+        "residencia-empadronament-i-concepte-habitual-001",
+        "residencia-registrada-estimada-i-registre-001"
       ]
     },
     "docs/temes/societat/demografia/setanta-nou-anys-de-padro.md": {
