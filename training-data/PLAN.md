@@ -15,19 +15,15 @@ No es barreja coneixement amb senyal lingüístic. La qualitat i la cobertura te
 
 Cada conversa nova es revisa, valida, commiteja i puja individualment a `main`. No s'acumulen converses noves en un mateix commit.
 
-## Com escriure preguntes humanes
+## Com escriure converses que sonin humanes
 
-1. Decideix quin dubte real vol resoldre una persona; no parteixis del títol o de l'estructura d'una fitxa.
-2. Formula una pregunta inicial que s'entengui sense obrir el corpus.
-3. Respon-la directament i amb el context necessari.
-4. Afegeix un seguiment només quan aparegui un dubte plausible a partir de la resposta anterior.
-5. Mantén el fil multitorn quan ajudi a entendre. No allarguis una conversa per complir una quota.
-6. Llegeix només les preguntes, en veu alta. Si semblen preguntes d'examen o d'índex, reescriu-les.
-7. No inventis una història personal, una opinió ni una experiència de l'usuari.
+La cobertura del corpus i la naturalitat de la conversa són controls diferents. No transformis cada unitat de cobertura en una pregunta. Agrupa el coneixement que serveix a una mateixa necessitat i comprova la cobertura a la procedència.
 
-No preguntis «què diu la secció», «què indica aquesta fila» ni «resumeix la fitxa». Evita «això» si no té un referent clar dins del diàleg. Les respostes no poden ser fragments, títols ni llistes de camps.
+Abans de redactar, identifica la situació comunicativa: entendre una aparent contradicció, preparar una explicació, comprovar una afirmació, comparar opcions o saber què permet concloure una dada. Formula la pregunta tal com sorgiria en aquella situació, sense referir-te a la fitxa. Escriu seguiments només si un dubte nou apareix de manera plausible després de la resposta.
 
-Consulta `knowledge/review/EXEMPLES.md` abans de redactar cada registre.
+No imposis una llargada fixa. Una conversa pot acabar després d'una resposta; pot tenir més torns si cada pas aporta una distinció necessària. No repeteixis una forma de diàleg com a plantilla ni inventis una biografia per donar aparença d'autenticitat. Les respostes han de resoldre la necessitat amb les dades i els límits pertinents.
+
+La guia amb exemples calibrats és `knowledge/review/EXEMPLES.md`. Els registres que es van aprovar abans d'aquesta guia no s'han de considerar automàticament aprovats pel criteri nou: s'han de revisar abans de publicar els exports.
 
 ## Cobertura exhaustiva de Knowledge
 
@@ -47,8 +43,8 @@ No publiquis exports fins que cobertura, drets, deduplicació i splits estiguin 
 
 ## Fases de treball
 
-1. Calibrar el criteri amb les mostres i la guia actuals.
+1. Calibrar el criteri de conversa amb els exemples de `knowledge/review/EXEMPLES.md` i revisar els registres existents amb aquest criteri.
 2. Regenerar inventari i estat de cobertura de `docs/temes/`.
-3. Recórrer Knowledge tema a tema, afegint una conversa per commit i push.
+3. Recórrer Knowledge tema a tema, creant converses des de necessitats humanes i auditant la cobertura a part.
 4. Auditar i preparar Maia Language en un flux separat.
-5. Deduplicar, dividir, validar i publicar els exports i informes.
+5. Deduplicar, revisar qualitat humana, dividir, validar i publicar els exports i informes.
