@@ -582,5 +582,19 @@
     "reviewed_units": [
       "Els estripagecs tenen una funció defensiva descrita pel seu nom; Ordino els ha reinterpretat en tòtems a Sorteny i rèpliques als sis cims."
     ]
+  },
+  "docs/temes/cultura/arquitectura/espai-columba.md": {
+    "status": "in_progress",
+    "open_units": [
+      "Horaris i tarifes: informació canviant, que cal consultar de nou abans d’exportar instruccions de visita.",
+      "Identificació detallada de cada obra i objecte exposats no recollida en aquesta fitxa.",
+      "Recorregut complet de la projecció i les diferències entre l’interior original i l’actual."
+    ],
+    "conversation_ids": [
+      "espai-columba-i-esglesia-santa-coloma-visita-001"
+    ],
+    "reviewed_units": [
+      "L’Espai Columba exposa pintures i objectes litúrgics; la visita es complementa amb l’església de Santa Coloma i una projecció de l’interior original."
+    ]
   }
 }

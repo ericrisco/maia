@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 38,
+    "in_progress": 39,
     "no_natural_question": 0,
-    "not_started": 1310
+    "not_started": 1309
   },
   "documents": [
     {
@@ -895,11 +895,19 @@
       "type": "article",
       "topic": "temes/cultura/arquitectura",
       "source": "museus-ad-espai-columba-2026",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "espai-columba-i-esglesia-santa-coloma-visita-001"
+      ],
+      "reviewed_units": [
+        "L’Espai Columba exposa pintures i objectes litúrgics; la visita es complementa amb l’església de Santa Coloma i una projecció de l’interior original."
+      ],
+      "open_units": [
+        "Horaris i tarifes: informació canviant, que cal consultar de nou abans d’exportar instruccions de visita.",
+        "Identificació detallada de cada obra i objecte exposats no recollida en aquesta fitxa.",
+        "Recorregut complet de la projecció i les diferències entre l’interior original i l’actual."
+      ],
       "completion_note": "",
       "reason": ""
     },
