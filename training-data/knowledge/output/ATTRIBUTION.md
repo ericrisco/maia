@@ -57,6 +57,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - Pere Canturri i Montanya, «Usos i costums d’Andorra», 15a Diada Andorrana a la XXXIV Universitat Catalana d’Estiu (2002), dins Una història d’Andorra, temàtica, p. 209 i següents.
 - Premsa andorrana; la fitxa de font no identifica el diari, l’article, la data ni l’URL de la publicació concreta.
 - Viquipèdia en català, article «Ball de l’ossa d’Encamp», llicència CC BY-SA 4.0; compara l’escenari descrit per Amades el 1950 amb el lloc actual.
+- Viquipèdia en català, article «Ball de l’ossa d’Encamp», llicència CC BY-SA 4.0; descripció atribuïda a Joan Amades, *Costumari Català* (1950), p. 674.
 - Viquipèdia en català, article «Ball de l’ossa d’Encamp», llicència CC BY-SA 4.0; el passatge històric es presenta com una descripció de Joan Amades publicada el 1950.
 - Viquipèdia en català, article «Ball de l’ossa d’Encamp», llicència CC BY-SA 4.0; la font descriu «Els contrabandistes» i «L’ossa» com a farses complementàries en dies consecutius.
 - Viquipèdia en català, article «Ball de l’ossa d’Encamp», llicència CC BY-SA 4.0; la interpretació simbòlica s’hi atribueix a Eloi Ysàs Trias.
@@ -110,6 +111,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - Contingut periodístic amb drets reservats; la fitxa premsa-andorrana registra redistribució:no. La referència concreta no es pot verificar.
 - Font institucional amb drets reservats; el portal exigeix autorització escrita per redistribuir o transformar continguts i no consta un permís específic. Aquesta limitació queda registrada; no s’interpreta la inclusió com a llicència.
 - La fitxa de Canturri registra redistribució pendent. La conversa conserva l’atribució i no trasllada a Sant Julià les dates documentades per als gegants d’Andorra la Vella.
+- La fitxa de Viquipèdia és CC BY-SA 4.0. La resposta parafraseja breument la descripció d’Amades i no en reprodueix la citació extensa, que la font secundària marca amb «citació necessària».
 - La fitxa de Viquipèdia és CC BY-SA 4.0. La resposta parafraseja el passatge atribuït a Amades i no en reprodueix la citació extensa.
 - La fitxa de Viquipèdia és CC BY-SA 4.0. La tesi d’Ysàs citada per la font no s’ha pogut consultar directament; la resposta és una paràfrasi breu i marca la interpretació com a tal.
 - La font de Viquipèdia és CC BY-SA 4.0. La tesi de Masegosa és d’accés obert amb redistribució pendent; no redistribuir contingut derivat sense revisar-ne els termes.
