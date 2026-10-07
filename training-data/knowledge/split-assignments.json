@@ -1,6 +1,8 @@
 {
   "description": "Assigna cada font de contingut a un únic split; exemples amb fonts relacionades comparteixen split.",
   "groups": {
+    "docs/temes/costums/danses/les-festes-de-lossa.md": "train",
+    "docs/fonts/wikipedia-llegendes-andorra.md": "train",
     "docs/temes/costums/danses/la-marratxa.md": "train",
     "docs/fonts/viquipedia-ca.md": "train",
     "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md": "train",
