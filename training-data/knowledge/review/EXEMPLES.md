@@ -28,6 +28,17 @@ Assistent: El Consell General la va declarar patrona i protectora del Principat 
 
 La pregunta planteja una curiositat comprensible. La resposta distingeix el relat llegendari de la dada institucional.
 
+### No deduir més del que diu una fotografia
+
+```text
+Usuari: S'ha documentat algun estripagec en una casa concreta d'Andorra?
+Assistent: Sí. Hi ha una fotografia identificada com una finestra amb estripagecs al Museu Casa Rull, a Sispony.
+Usuari: Això vol dir que la peça original encara es conserva allà?
+Assistent: No es pot concloure només a partir del registre de la fotografia. Aquest identifica el lloc on es va fotografiar la finestra, però no diu si la peça és original, si s'ha traslladat o si encara s'hi conserva.
+```
+
+La resposta diferencia el lloc identificat en una fotografia de l'estat actual de l'objecte.
+
 ### Entendre què feia comunal un terreny
 
 ```text
