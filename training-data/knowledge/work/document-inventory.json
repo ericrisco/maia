@@ -9,7 +9,7 @@
   "file_count": 1477,
   "article_count": 1348,
   "parse_error_count": 0,
-  "conversation_count": 28,
+  "conversation_count": 29,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 0,
@@ -1392,8 +1392,9 @@
       "topic": "temes/cultura/museus-i-arxius",
       "source": "jurisprudencia-ad",
       "status": "in_progress",
-      "conversation_count": 28,
+      "conversation_count": 29,
       "conversation_ids": [
+        "diposit-legal-anuari-i-serie-numerada-001",
         "diposit-legal-bases-dades-programari-exemplars-001",
         "diposit-legal-braille-i-edicio-luxe-001",
         "diposit-legal-cartells-i-propaganda-exemplars-001",
@@ -1452,7 +1453,8 @@
         "Llei 15/2025, article 11.1.b: two copies for pamphlets and fascicles.",
         "Llei 15/2025, article 10: two-month publication deadline, one extension of up to two months, cancellation, and no reuse of cancelled numbers.",
         "Llei 15/2025, article 16: components of a legal-deposit number and the National Library’s assignment of the registration number.",
-        "Llei 15/2025, article 17: where a legal-deposit number must appear and that the National Library rejects materials without it."
+        "Llei 15/2025, article 17: where a legal-deposit number must appear and that the National Library rejects materials without it.",
+        "Llei 15/2025, article 18.1 and 18.3: one legal-deposit number for yearbooks despite different ISBNs; separate numbered works versus volumes of a unitary work."
       ],
       "open_units": [
         "Finish reviewing the remaining physical deposit categories and special formats, periodicals, film/television/radio, and linked regulations.",
