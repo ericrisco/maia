@@ -107,12 +107,14 @@
       "topic": "temes/costums/caramelles",
       "source": "premsa-andorrana",
       "status": "in_progress",
-      "conversation_count": 1,
+      "conversation_count": 2,
       "conversation_ids": [
-        "caramelles-ous-pasquetes-horari-01"
+        "caramelles-ous-pasquetes-horari-01",
+        "caramelles-sant-julia-recorregut-i-data-01"
       ],
       "reviewed_units": [
-        "recollida tradicional d’ous i truitada de Pasqüetes versus donatius actuals per a un àpat col·lectiu; horaris de les cantades"
+        "recollida tradicional d’ous i truitada de Pasqüetes versus donatius actuals per a un àpat col·lectiu; horaris de les cantades",
+        "format únic de Sant Julià, recorregut de tres hores, Coral Rocafort, parades per cantar i recollir donatius, celebració el diumenge després de Pasqua"
       ],
       "open_units": [
         "etimologia de caramelles i relació amb l’instrument de canya",
