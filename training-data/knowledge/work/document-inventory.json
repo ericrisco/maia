@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 12,
+    "in_progress": 13,
     "no_natural_question": 0,
-    "not_started": 1336
+    "not_started": 1335
   },
   "documents": [
     {
@@ -230,10 +230,14 @@
       "type": "article",
       "topic": "temes/costums/danses",
       "source": "canturri-costumari-amades-1994",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "amades-catorze-balls-i-evidencia-001"
+      ],
+      "reviewed_units": [
+        "La llista d’Amades no prova que tots els balls es practiquessin a Andorra; Canturri destaca tres descripcions de coneixement directe i l’Ossa encara representada el 1994."
+      ],
       "open_units": [],
       "completion_note": "",
       "reason": ""

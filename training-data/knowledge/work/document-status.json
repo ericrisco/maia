@@ -297,5 +297,15 @@
       "Introducció de la sardana cap als anys quaranta segons Canturri; Ventura Armengol l’ensenyava i la cobla sardanista va arribar més tard sota el Sr. Pantebre.",
       "Mapa parroquial de les danses documentades: contrapàs a Andorra la Vella; Marratxa i Cerdà a Sant Julià; la Passa és un ritu de pas, no una dansa."
     ]
+  },
+  "docs/temes/costums/danses/els-catorze-balls.md": {
+    "open_units": [],
+    "status": "in_progress",
+    "conversation_ids": [
+      "amades-catorze-balls-i-evidencia-001"
+    ],
+    "reviewed_units": [
+      "La llista d’Amades no prova que tots els balls es practiquessin a Andorra; Canturri destaca tres descripcions de coneixement directe i l’Ossa encara representada el 1994."
+    ]
   }
 }
