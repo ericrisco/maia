@@ -1006,11 +1006,12 @@
       "topic": "temes/cultura",
       "source": "estadistica-ad",
       "status": "in_progress",
-      "conversation_count": 10,
+      "conversation_count": 11,
       "conversation_ids": [
         "cultura-biblioteques-2020-prestecs-001",
         "cultura-biblioteques-inscrits-i-prestecs-001",
         "cultura-biblioteques-joves-2019-2024-001",
+        "cultura-biblioteques-xarxa-personal-2016-2024-001",
         "cultura-cinema-2019-2024-001",
         "cultura-esport-edats-2019-2024-001",
         "cultura-lectura-oci-renda-2019-2024-001",
@@ -1029,7 +1030,8 @@
         "La proporció que visita museus baixa entre 2019 i 2024: 15-29 anys 72,5→58,6% (-13,9), 30-44 63,9→62,4% (-1,5), 45-64 63,0→54,5% (-8,5), 65+ 55,2→38,2% (-17,0). L'enquesta no n'explica la causa.",
         "La participació en més d'11 activitats culturals baixa de 55% (2019) a 44,3% (2024), -10,7 punts. A la taula pugen cinema i esport, el teatre gairebé es manté, i baixen lectura per oci, biblioteques i museus; l'enquesta només té dues onades.",
         "El 2020 hi va haver 17.646 préstecs a domicili (-59,7% respecte del 2019), mentre que els usuaris inscrits van ser 25.368, més que l'any anterior; la sèrie no n'identifica la causa.",
-        "El 2019, la lectura per oci és del 79,7% per als ingressos mensuals >3.000 € i del 65,2% per als ingressos <1.200 €; el desglossament per renda no es publica el 2024."
+        "El 2019, la lectura per oci és del 79,7% per als ingressos mensuals >3.000 € i del 65,2% per als ingressos <1.200 €; el desglossament per renda no es publica el 2024.",
+        "La Xarxa manté vuit biblioteques més la Biblioteca Nacional de 2016 a 2024; la ràtio baixa d'1,2 a 1,0 per 10.000 habitants perquè creix la població. Una taula dona 29 persones de plantilla el 2016 i 27 el 2024; una segona sèrie 'personal de biblioteques' dona 32 el 2016 i s'atura el 2021, sense que consti què inclou."
       ],
       "open_units": [
         "Resta revisar altres desglossaments i limitacions de les taules, inclosos els percentatges per renda només publicats el 2019 i les limitacions declarades per pràctica."
