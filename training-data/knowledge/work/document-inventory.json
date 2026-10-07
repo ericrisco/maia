@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 2,
+    "in_progress": 5,
     "no_natural_question": 0,
-    "not_started": 1346
+    "not_started": 1343
   },
   "documents": [
     {
@@ -28,10 +28,14 @@
       "type": "article",
       "topic": "temes/costums/calendari-festiu",
       "source": "premsa-andorrana",
-      "status": "not_started",
+      "status": "in_progress",
       "conversation_count": 0,
       "conversation_ids": [],
-      "reviewed_units": [],
+      "reviewed_units": [
+        "distinció entre calendari judicial de 1902 i calendari festiu popular",
+        "dies de festa que el document judicial enumera i límits del que permet inferir",
+        "dates populars i actes atribuïts a premsa andorrana sense referència verificable"
+      ],
       "completion_note": "",
       "reason": ""
     },
@@ -12690,10 +12694,15 @@
       "type": "article",
       "topic": "temes/institucions/justicia",
       "source": "brutails-coutume-1904",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "termini-apel-lacio-festius-1902-01"
+      ],
+      "reviewed_units": [
+        "termini d’apel·lació de 1902: dies hàbils, dies de gràcia i exemple de notificació del 12 de gener",
+        "suspensió dels terminis en dies festius i excepció de l’embargament"
+      ],
       "completion_note": "",
       "reason": ""
     },
@@ -13276,10 +13285,11 @@
       "topic": "temes/institucions/justicia",
       "source": "brutails-coutume-1904",
       "status": "in_progress",
-      "conversation_count": 19,
+      "conversation_count": 22,
       "conversation_ids": [
         "batlle-causes-propies-comu-01",
         "batlle-incompetent-ordino-1788-01",
+        "comissari-pedra-pont-report-01",
         "comissio-consell-sentencia-informe-01",
         "competencia-civil-consols-01",
         "competencia-comuns-practica-1783-1887-01",
@@ -13289,11 +13299,13 @@
         "definicio-justicia-politica-andorra-01",
         "detencio-consols-comunals-01",
         "disciplina-consell-infraccions-01",
+        "disciplina-interna-consell-greus-01",
         "evolucio-competencia-comun-1740-01",
         "execucio-condemnes-consell-01",
         "immunitat-civil-consols-mandat-01",
         "multa-consol-deute-tercer-1891-01",
         "ordre-sessions-consell-vot-01",
+        "proces-1502-sindics-representants-vall-01",
         "recurs-denegacio-llicencia-consol-01",
         "representacio-consell-plet-1900-01",
         "veheduria-servitud-vs-propietat-01"
@@ -13307,7 +13319,12 @@
         "competència del batlle en causes pròpies del comú",
         "definició i abast de la justícia política",
         "comissions del Consell per dictar sentència o informar",
-        "aplicació de la regla en els casos de 1783, 1868 i 1887"
+        "aplicació de la regla en els casos de 1783, 1868 i 1887",
+        "disciplina interna, deure de contradicció i límits de la jurisdicció del Consell",
+        "cas de 1828: el toro del comú d’Ordino mata una euga i el batlle en coneix l’afer",
+        "procés probablement de 1502: els síndics Pere Pellicer i Joan Ortedo com a procuradors de tota la Vall; objecte incert",
+        "deure del comissari d’investigar la desaparició d’una pedra i informar-ne encara que no identifiqui el responsable",
+        "regla de competència per a litigis entre dos comuns o sobre béns comunals"
       ],
       "completion_note": "",
       "reason": ""
@@ -13578,10 +13595,21 @@
       "type": "article",
       "topic": "temes/institucions/justicia",
       "source": "brutails-coutume-1904",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
+      "status": "in_progress",
+      "conversation_count": 2,
+      "conversation_ids": [
+        "quorum-parentiu-instancia-suprimida-01",
+        "tres-graus-composicio-abans-despres-1866-01"
+      ],
+      "reviewed_units": [
+        "quòrum de meitat més un",
+        "parentiu i supressió d’un grau sense substitució",
+        "efecte sobre el nombre d’instàncies",
+        "incertesa sobre qui declara la impossibilitat",
+        "composició dels tres graus al segle XVIII",
+        "article 13 de la Reforma de 1866: composició dels tres graus",
+        "regla d’exclusió prèvia de vehedors, documentada el 1791"
+      ],
       "completion_note": "",
       "reason": ""
     },
@@ -13631,23 +13659,59 @@
       "topic": "temes/institucions/justicia",
       "source": "brutails-coutume-1904",
       "status": "in_progress",
-      "conversation_count": 7,
+      "conversation_count": 23,
       "conversation_ids": [
+        "apel-lacio-1364-creus-comunals-01",
+        "apel-lacio-1364-declaracio-questia-01",
+        "apel-lacio-1364-denuncia-entre-veins-01",
+        "apel-lacio-1364-lectura-rectors-01",
+        "apel-lacio-1364-practica-veinal-01",
+        "apel-lacio-1364-usos-comunals-01",
+        "competencia-comuns-practica-1783-1887-01",
+        "competencia-particular-comu-01",
+        "consell-inferior-causa-dubtosa-01",
+        "cot-fallits-absencia-manobra-01",
         "definicio-justicia-politica-andorra-01",
         "dret-de-ballar-veheduria-01",
+        "escala-instancies-veheduria-01",
+        "instruccions-consell-copies-publiques-01",
+        "instructa-1740-comu-camins-pesca-01",
+        "instructa-1740-contractes-i-perits-01",
         "quarts-aigua-servitud-aqueducte-1888-01",
+        "sales-consell-cases-originaries-01",
         "veheduria-servitud-vs-propietat-01",
-        "veheduria-testimoni-1364-incert-01",
         "veheduria-titols-escrits-01",
+        "visura-1760-revisio-sentencia-01",
+        "visura-1875-cortinada-ansalonga-01",
         "visura-arbitratge-consentiment-1547-01"
       ],
       "reviewed_units": [
         "propietat o dret de ballar",
         "competència i límits dels tribunals de veheduria",
         "títols escrits i justícia civil",
-        "testimoni incert de 1364",
+        "apel·lació original de 1364: autenticitat, pràctica veïnal i límit sobre el nom de veheduria",
         "arbitratge consentit de 1547",
-        "servitud d'aqüeducte i quarts d'aigua el 1888"
+        "servitud d'aqüeducte i quarts d'aigua el 1888",
+        "instruccions del Consell: còpies públiques de l’aranzel a les parròquies",
+        "cot de fallits: absència a manobra o missa manada i límit sobre la quantia",
+        "límit de competència dels consells inferiors en causes dubtoses",
+        "escala d’instàncies en les causes de veïnatge i exclusió del vot a la tercera",
+        "sales del Consell per a causes originàries i distinció respecte de l’escala d’apel·lació",
+        "apel·lació de 1364: jurament forçat d’espiar i denunciar veïns i fil comú de les vuit queixes",
+        "apel·lació original de 1364: absència dels veguers, lectura davant rectors i identitat dels síndics",
+        "apel·lació de 1364: reclamacions sobre ús dels comunals, pastures i fusta",
+        "apel·lació de 1364: declaració jurada dels béns per taxar la quèstia i resultat desconegut",
+        "apel·lació de 1364: creus d’empara als comunals sense citació ni audiència i efectes desconeguts",
+        "apel·lació de 1364: usos agrícoles, cortals, venda de pastures i aprofitament forestal dels comunals",
+        "visures de 1601 i 1603: participants, parets mitgeres i consentiment de les parts",
+        "sentència de 1875 entre els quarts de la Cortinada i d’Ansalonga; resultat cartogràfic absent",
+        "visura del 1760: revisió d’una sentència amb prohoms triats pel Consell General",
+        "cas de 1887 del particular contra el quart de les Escaldes, comparat amb el préstec d’Encamp",
+        "mot visura: ús a les Constitucions de Catalunya sense inferir-ne l’origen",
+        "distinció entre jurisprudència actual sobre servituds i incerta sinonímia històrica de causes de veí a veí",
+        "Instructa de 1740: comú contra comú i béns comunals a la jurisdicció política i econòmica",
+        "Instructa de 1740: contractes i darreres voluntats al batlle; experts jurats per determinar el costum local",
+        "Instructa de 1740: permisos de pesca i caça, camins i boscos al comú; servituds al Consell"
       ],
       "completion_note": "",
       "reason": ""

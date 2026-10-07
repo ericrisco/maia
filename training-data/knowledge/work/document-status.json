@@ -60,5 +60,20 @@
       "article 13 de la Reforma de 1866: composició dels tres graus",
       "regla d’exclusió prèvia de vehedors, documentada el 1791"
     ]
+  },
+  "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md": {
+    "status": "in_progress",
+    "reviewed_units": [
+      "termini d’apel·lació de 1902: dies hàbils, dies de gràcia i exemple de notificació del 12 de gener",
+      "suspensió dels terminis en dies festius i excepció de l’embargament"
+    ]
+  },
+  "docs/temes/costums/calendari-festiu/calendari-festiu.md": {
+    "status": "in_progress",
+    "reviewed_units": [
+      "distinció entre calendari judicial de 1902 i calendari festiu popular",
+      "dies de festa que el document judicial enumera i límits del que permet inferir",
+      "dates populars i actes atribuïts a premsa andorrana sense referència verificable"
+    ]
   }
 }
