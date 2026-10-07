@@ -16,25 +16,12 @@
       "title": "El calendari festiu",
       "type": "article",
       "topic": "temes/costums/calendari-festiu",
-      "status": "in_progress",
+      "status": "not_started",
       "unit_count": 29,
-      "covered_unit_ids": [
-        "docs/temes/costums/calendari-festiu/calendari-festiu.md#unit-0011",
-        "docs/temes/costums/calendari-festiu/calendari-festiu.md#unit-0013",
-        "docs/temes/costums/calendari-festiu/calendari-festiu.md#unit-0014",
-        "docs/temes/costums/calendari-festiu/calendari-festiu.md#unit-0015",
-        "docs/temes/costums/calendari-festiu/calendari-festiu.md#unit-0016",
-        "docs/temes/costums/calendari-festiu/calendari-festiu.md#unit-0017",
-        "docs/temes/costums/calendari-festiu/calendari-festiu.md#unit-0018",
-        "docs/temes/costums/calendari-festiu/calendari-festiu.md#unit-0020",
-        "docs/temes/costums/calendari-festiu/calendari-festiu.md#unit-0021"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 0,
-      "open_unit_count": 20,
-      "conversation_ids": [
-        "calendari-judicial-festes-religioses-1902-001",
-        "calendari-judicial-fires-exteriors-1902-001"
-      ]
+      "open_unit_count": 29,
+      "conversation_ids": []
     },
     "docs/temes/costums/calendari-festiu/el-carnaval-dencamp.md": {
       "title": "El carnaval d'Encamp",
@@ -108,17 +95,10 @@
       "topic": "temes/costums/danses",
       "status": "in_progress",
       "unit_count": 63,
-      "covered_unit_ids": [
-        "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0003",
-        "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0004",
-        "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0006",
-        "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0007"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 39,
-      "open_unit_count": 20,
-      "conversation_ids": [
-        "ossa-encamp-protagonisme-dels-dallaires-001"
-      ]
+      "open_unit_count": 24,
+      "conversation_ids": []
     },
     "docs/temes/costums/danses/el-ball-del-cerda.md": {
       "title": "El ball del Cerdà",
@@ -157,19 +137,12 @@
       "title": "La marratxa",
       "type": "article",
       "topic": "temes/costums/danses",
-      "status": "in_progress",
+      "status": "not_started",
       "unit_count": 24,
-      "covered_unit_ids": [
-        "docs/temes/costums/danses/la-marratxa.md#unit-0015",
-        "docs/temes/costums/danses/la-marratxa.md#unit-0016",
-        "docs/temes/costums/danses/la-marratxa.md#unit-0017",
-        "docs/temes/costums/danses/la-marratxa.md#unit-0018"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 0,
-      "open_unit_count": 20,
-      "conversation_ids": [
-        "marratxa-coreografia-memoria-i-data-001"
-      ]
+      "open_unit_count": 24,
+      "conversation_ids": []
     },
     "docs/temes/costums/danses/les-festes-de-lossa.md": {
       "title": "Les festes de l'ossa",
@@ -177,17 +150,10 @@
       "topic": "temes/costums/danses",
       "status": "in_progress",
       "unit_count": 59,
-      "covered_unit_ids": [
-        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0018",
-        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0028",
-        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0029",
-        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0031"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 25,
-      "open_unit_count": 30,
-      "conversation_ids": [
-        "festes-ossa-ordino-encamp-calendari-001"
-      ]
+      "open_unit_count": 34,
+      "conversation_ids": []
     },
     "docs/temes/costums/falles/falles-index-de-fitxes.md": {
       "title": "Falles — índex de fitxes",
@@ -281,18 +247,12 @@
       "title": "Meritxell",
       "type": "article",
       "topic": "temes/costums/meritxell",
-      "status": "in_progress",
+      "status": "not_started",
       "unit_count": 21,
-      "covered_unit_ids": [
-        "docs/temes/costums/meritxell/meritxell.md#unit-0007",
-        "docs/temes/costums/meritxell/meritxell.md#unit-0008",
-        "docs/temes/costums/meritxell/meritxell.md#unit-0009"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 0,
-      "open_unit_count": 18,
-      "conversation_ids": [
-        "sergi-mas-meritxell-i-casa-vall-001"
-      ]
+      "open_unit_count": 21,
+      "conversation_ids": []
     },
     "docs/temes/costums/religiositat/el-registre-dentitats-religioses.md": {
       "title": "El registre d'entitats religioses",
@@ -520,21 +480,10 @@
       "topic": "temes/cultura/arquitectura",
       "status": "in_progress",
       "unit_count": 33,
-      "covered_unit_ids": [
-        "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0001",
-        "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0002",
-        "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0003",
-        "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0010",
-        "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0012",
-        "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0017"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 22,
-      "open_unit_count": 5,
-      "conversation_ids": [
-        "estripagecs-circuit-ordino-001",
-        "estripagecs-definicio-i-abast-001",
-        "estripagecs-fotografia-casa-rull-001"
-      ]
+      "open_unit_count": 11,
+      "conversation_ids": []
     },
     "docs/temes/cultura/arquitectura/espai-columba.md": {
       "title": "L'Espai Columba",
@@ -628,24 +577,12 @@
       "title": "Santa Coloma",
       "type": "article",
       "topic": "temes/cultura/arquitectura",
-      "status": "complete",
+      "status": "in_progress",
       "unit_count": 23,
-      "covered_unit_ids": [
-        "docs/temes/cultura/arquitectura/santa-coloma.md#unit-0008",
-        "docs/temes/cultura/arquitectura/santa-coloma.md#unit-0009",
-        "docs/temes/cultura/arquitectura/santa-coloma.md#unit-0010",
-        "docs/temes/cultura/arquitectura/santa-coloma.md#unit-0011",
-        "docs/temes/cultura/arquitectura/santa-coloma.md#unit-0012",
-        "docs/temes/cultura/arquitectura/santa-coloma.md#unit-0013",
-        "docs/temes/cultura/arquitectura/santa-coloma.md#unit-0014",
-        "docs/temes/cultura/arquitectura/santa-coloma.md#unit-0015",
-        "docs/temes/cultura/arquitectura/santa-coloma.md#unit-0016"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 14,
-      "open_unit_count": 0,
-      "conversation_ids": [
-        "santa-coloma-periple-i-fragments-001"
-      ]
+      "open_unit_count": 9,
+      "conversation_ids": []
     },
     "docs/temes/cultura/artesania/artesania-index-de-fitxes.md": {
       "title": "Artesania — índex de fitxes",
@@ -741,16 +678,10 @@
       "topic": "temes/cultura/arts-visuals",
       "status": "in_progress",
       "unit_count": 33,
-      "covered_unit_ids": [
-        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0007",
-        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0011",
-        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0012"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 6,
-      "open_unit_count": 24,
-      "conversation_ids": [
-        "viladomat-puntaire-i-obres-andorra-001"
-      ]
+      "open_unit_count": 27,
+      "conversation_ids": []
     },
     "docs/temes/cultura/arts-visuals/lart-mes-antic.md": {
       "title": "L'art més antic",
@@ -789,21 +720,12 @@
       "title": "Cinc anys, i el cinema és l'única cosa que puja",
       "type": "article",
       "topic": "temes/cultura",
-      "status": "in_progress",
+      "status": "not_started",
       "unit_count": 73,
-      "covered_unit_ids": [
-        "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0005",
-        "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0013",
-        "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0014",
-        "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0015",
-        "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0016",
-        "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0017"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 0,
-      "open_unit_count": 67,
-      "conversation_ids": [
-        "habits-cinema-canvi-per-edat-001"
-      ]
+      "open_unit_count": 73,
+      "conversation_ids": []
     },
     "docs/temes/cultura/cultura-d-andorra-index-de-fitxes.md": {
       "title": "Cultura d'Andorra — índex de fitxes",
@@ -899,15 +821,10 @@
       "topic": "temes/cultura/llegendes",
       "status": "in_progress",
       "unit_count": 38,
-      "covered_unit_ids": [
-        "docs/temes/cultura/llegendes/el-minairo.md#unit-0003",
-        "docs/temes/cultura/llegendes/el-minairo.md#unit-0009"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 12,
-      "open_unit_count": 24,
-      "conversation_ids": [
-        "minairons-herba-i-cano-001"
-      ]
+      "open_unit_count": 26,
+      "conversation_ids": []
     },
     "docs/temes/cultura/llegendes/el-roc-de-les-bruixes.md": {
       "title": "El Roc de les Bruixes",
@@ -957,20 +874,12 @@
       "title": "La troballa de Meritxell",
       "type": "article",
       "topic": "temes/cultura/llegendes",
-      "status": "complete",
+      "status": "in_progress",
       "unit_count": 14,
-      "covered_unit_ids": [
-        "docs/temes/cultura/llegendes/la-troballa-de-meritxell.md#unit-0001",
-        "docs/temes/cultura/llegendes/la-troballa-de-meritxell.md#unit-0002",
-        "docs/temes/cultura/llegendes/la-troballa-de-meritxell.md#unit-0003",
-        "docs/temes/cultura/llegendes/la-troballa-de-meritxell.md#unit-0004",
-        "docs/temes/cultura/llegendes/la-troballa-de-meritxell.md#unit-0005"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 9,
-      "open_unit_count": 0,
-      "conversation_ids": [
-        "meritxell-imatge-retorn-i-capella-001"
-      ]
+      "open_unit_count": 5,
+      "conversation_ids": []
     },
     "docs/temes/cultura/llegendes/les-bruixes-dengolasters.md": {
       "title": "Les bruixes d'Engolasters",
@@ -1669,17 +1578,12 @@
       "title": "Però en tot lo demés, al cinc per cent",
       "type": "article",
       "topic": "temes/economia/banca-i-fiscalitat",
-      "status": "in_progress",
+      "status": "not_started",
       "unit_count": 76,
-      "covered_unit_ids": [
-        "docs/temes/economia/banca-i-fiscalitat/pero-en-tot-lo-demes-al-cinc-per-cent.md#unit-0007",
-        "docs/temes/economia/banca-i-fiscalitat/pero-en-tot-lo-demes-al-cinc-per-cent.md#unit-0009"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 0,
-      "open_unit_count": 74,
-      "conversation_ids": [
-        "censal-i-prestec-tipus-interes-1895-001"
-      ]
+      "open_unit_count": 76,
+      "conversation_ids": []
     },
     "docs/temes/economia/banca-i-fiscalitat/quatre-pagines-que-no-hi-son.md": {
       "title": "Quatre pàgines que no hi són",
@@ -1762,19 +1666,12 @@
       "title": "Amb qui comercia Andorra",
       "type": "article",
       "topic": "temes/economia/comerc",
-      "status": "in_progress",
+      "status": "not_started",
       "unit_count": 96,
-      "covered_unit_ids": [
-        "docs/temes/economia/comerc/amb-qui-comercia-andorra.md#unit-0025",
-        "docs/temes/economia/comerc/amb-qui-comercia-andorra.md#unit-0026",
-        "docs/temes/economia/comerc/amb-qui-comercia-andorra.md#unit-0027",
-        "docs/temes/economia/comerc/amb-qui-comercia-andorra.md#unit-0028"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 0,
-      "open_unit_count": 92,
-      "conversation_ids": [
-        "origen-importacions-espanya-franca-001"
-      ]
+      "open_unit_count": 96,
+      "conversation_ids": []
     },
     "docs/temes/economia/comerc/blat-cerdanya-parroquies-1904.md": {
       "title": "El blat de Cerdanya es reparteix entre els veïns (1904)",
@@ -2066,21 +1963,12 @@
       "title": "La Comissió dels pagesos",
       "type": "article",
       "topic": "temes/economia/ramaderia-i-agricultura",
-      "status": "in_progress",
+      "status": "not_started",
       "unit_count": 31,
-      "covered_unit_ids": [
-        "docs/temes/economia/ramaderia-i-agricultura/la-comissio-dels-pagesos.md#unit-0005",
-        "docs/temes/economia/ramaderia-i-agricultura/la-comissio-dels-pagesos.md#unit-0006",
-        "docs/temes/economia/ramaderia-i-agricultura/la-comissio-dels-pagesos.md#unit-0007",
-        "docs/temes/economia/ramaderia-i-agricultura/la-comissio-dels-pagesos.md#unit-0008",
-        "docs/temes/economia/ramaderia-i-agricultura/la-comissio-dels-pagesos.md#unit-0009",
-        "docs/temes/economia/ramaderia-i-agricultura/la-comissio-dels-pagesos.md#unit-0010"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 0,
-      "open_unit_count": 25,
-      "conversation_ids": [
-        "cnra-composicio-i-periodicitat-001"
-      ]
+      "open_unit_count": 31,
+      "conversation_ids": []
     },
     "docs/temes/economia/ramaderia-i-agricultura/la-crisi-de-lovi.md": {
       "title": "La crisi de l'oví",
@@ -2163,20 +2051,12 @@
       "title": "Qui cobra els ajuts agraris",
       "type": "article",
       "topic": "temes/economia/ramaderia-i-agricultura",
-      "status": "in_progress",
+      "status": "not_started",
       "unit_count": 82,
-      "covered_unit_ids": [
-        "docs/temes/economia/ramaderia-i-agricultura/qui-cobra-els-ajuts-agraris.md#unit-0028",
-        "docs/temes/economia/ramaderia-i-agricultura/qui-cobra-els-ajuts-agraris.md#unit-0030",
-        "docs/temes/economia/ramaderia-i-agricultura/qui-cobra-els-ajuts-agraris.md#unit-0033",
-        "docs/temes/economia/ramaderia-i-agricultura/qui-cobra-els-ajuts-agraris.md#unit-0036",
-        "docs/temes/economia/ramaderia-i-agricultura/qui-cobra-els-ajuts-agraris.md#unit-0039"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 0,
-      "open_unit_count": 77,
-      "conversation_ids": [
-        "ajut-muntanya-escaldes-explotacions-i-pastura-001"
-      ]
+      "open_unit_count": 82,
+      "conversation_ids": []
     },
     "docs/temes/economia/ramaderia-i-agricultura/ramaderia-i-agricultura-index-de-fitxes.md": {
       "title": "Ramaderia i agricultura — índex de fitxes",
@@ -5757,19 +5637,12 @@
       "title": "El trinxat",
       "type": "article",
       "topic": "temes/gastronomia/plats",
-      "status": "in_progress",
+      "status": "not_started",
       "unit_count": 13,
-      "covered_unit_ids": [
-        "docs/temes/gastronomia/plats/el-trinxat.md#unit-0001",
-        "docs/temes/gastronomia/plats/el-trinxat.md#unit-0002",
-        "docs/temes/gastronomia/plats/el-trinxat.md#unit-0009",
-        "docs/temes/gastronomia/plats/el-trinxat.md#unit-0010"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 0,
-      "open_unit_count": 9,
-      "conversation_ids": [
-        "trinxat-abast-geografic-i-ingredients-001"
-      ]
+      "open_unit_count": 13,
+      "conversation_ids": []
     },
     "docs/temes/gastronomia/plats/les-receptes-de-fra-sever.md": {
       "title": "Les receptes de Fra Sever d'Olot (1787)",
@@ -5786,19 +5659,12 @@
       "title": "L'escudella de Sant Antoni",
       "type": "article",
       "topic": "temes/gastronomia/plats",
-      "status": "in_progress",
+      "status": "not_started",
       "unit_count": 10,
-      "covered_unit_ids": [
-        "docs/temes/gastronomia/plats/lescudella-de-sant-antoni.md#unit-0001",
-        "docs/temes/gastronomia/plats/lescudella-de-sant-antoni.md#unit-0003",
-        "docs/temes/gastronomia/plats/lescudella-de-sant-antoni.md#unit-0004",
-        "docs/temes/gastronomia/plats/lescudella-de-sant-antoni.md#unit-0005"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 0,
-      "open_unit_count": 6,
-      "conversation_ids": [
-        "escudella-sant-antoni-plat-i-tradicio-001"
-      ]
+      "open_unit_count": 10,
+      "conversation_ids": []
     },
     "docs/temes/gastronomia/plats/menges-del-forn-tradicional.md": {
       "title": "Menges del forn tradicional",
@@ -10864,60 +10730,12 @@
       "title": "Els tribunals tancaven per la fira d'Organyà",
       "type": "article",
       "topic": "temes/institucions/justicia",
-      "status": "in_progress",
+      "status": "not_started",
       "unit_count": 88,
-      "covered_unit_ids": [
-        "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0001",
-        "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0002",
-        "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0003",
-        "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0004",
-        "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0005",
-        "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0006",
-        "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0007",
-        "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0008",
-        "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0010",
-        "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0011",
-        "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0012",
-        "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0014",
-        "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0015",
-        "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0016",
-        "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0018",
-        "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0020",
-        "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0023",
-        "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0024",
-        "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0025",
-        "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0026",
-        "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0035",
-        "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0036",
-        "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0037",
-        "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0038",
-        "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0039",
-        "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0042",
-        "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0043",
-        "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0044",
-        "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0045",
-        "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0046",
-        "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0047",
-        "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0048",
-        "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0049",
-        "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0050",
-        "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0051",
-        "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0072",
-        "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0073",
-        "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0079"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 0,
-      "open_unit_count": 50,
-      "conversation_ids": [
-        "calendari-judicial-festes-religioses-1902-001",
-        "calendari-judicial-fires-exteriors-1902-001",
-        "dies-feriats-datats-vs-total-anual-1902-001",
-        "fira-berdu-identificacio-i-absencia-1902-001",
-        "llista-feriats-origen-i-aprovacio-1902-001",
-        "tancament-estival-sega-i-fires-001",
-        "termini-apellacio-feriats-1902-001",
-        "vigencia-llista-feriats-1902-desconeguda-001"
-      ]
+      "open_unit_count": 88,
+      "conversation_ids": []
     },
     "docs/temes/institucions/justicia/es-deixaven-escapar-els-presos.md": {
       "title": "Es deixaven escapar els presos",
@@ -11407,17 +11225,12 @@
       "title": "Podies denunciar un cònsol, però no demandar-lo",
       "type": "article",
       "topic": "temes/institucions/justicia",
-      "status": "in_progress",
+      "status": "not_started",
       "unit_count": 93,
-      "covered_unit_ids": [
-        "docs/temes/institucions/justicia/podies-denunciar-un-consol-pero-no-demandar-lo.md#unit-0011",
-        "docs/temes/institucions/justicia/podies-denunciar-un-consol-pero-no-demandar-lo.md#unit-0016"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 0,
-      "open_unit_count": 91,
-      "conversation_ids": [
-        "consol-deute-personal-via-civil-1866-001"
-      ]
+      "open_unit_count": 93,
+      "conversation_ids": []
     },
     "docs/temes/institucions/justicia/presos-que-surten-de-la-vall-i-no-tornen-1686-1687.md": {
       "title": "Presos trets de la Vall: reclamacions a la Seu, al Bisbe i a Perpinyà, 1686–1687",
@@ -12391,18 +12204,12 @@
       "title": "El Gran Carlemany",
       "type": "article",
       "topic": "temes/institucions/simbols",
-      "status": "in_progress",
+      "status": "not_started",
       "unit_count": 23,
-      "covered_unit_ids": [
-        "docs/temes/institucions/simbols/el-gran-carlemany.md#unit-0002",
-        "docs/temes/institucions/simbols/el-gran-carlemany.md#unit-0003",
-        "docs/temes/institucions/simbols/el-gran-carlemany.md#unit-0006"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 0,
-      "open_unit_count": 20,
-      "conversation_ids": [
-        "gran-carlemany-veu-i-autoria-001"
-      ]
+      "open_unit_count": 23,
+      "conversation_ids": []
     },
     "docs/temes/institucions/simbols/la-bandera.md": {
       "title": "La bandera",
@@ -12881,18 +12688,12 @@
       "title": "El dipòsit legal d'aquesta edició és AND. 000-2019",
       "type": "article",
       "topic": "temes/llengua/politica-linguistica",
-      "status": "in_progress",
+      "status": "not_started",
       "unit_count": 293,
-      "covered_unit_ids": [
-        "docs/temes/llengua/politica-linguistica/el-diposit-legal-daquesta-edicio-es-and-000-2019.md#unit-0023",
-        "docs/temes/llengua/politica-linguistica/el-diposit-legal-daquesta-edicio-es-and-000-2019.md#unit-0025",
-        "docs/temes/llengua/politica-linguistica/el-diposit-legal-daquesta-edicio-es-and-000-2019.md#unit-0026"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 0,
-      "open_unit_count": 290,
-      "conversation_ids": [
-        "indicador-linguistic-comparativa-2014-2018-001"
-      ]
+      "open_unit_count": 293,
+      "conversation_ids": []
     },
     "docs/temes/llengua/politica-linguistica/el-model-del-2009-comprovat.md": {
       "title": "El model del 2009, comprovat",
@@ -13712,19 +13513,12 @@
       "title": "Com es compten els vots",
       "type": "article",
       "topic": "temes/politica/sistema-electoral",
-      "status": "in_progress",
+      "status": "not_started",
       "unit_count": 71,
-      "covered_unit_ids": [
-        "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0007",
-        "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0008",
-        "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0015",
-        "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0017"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 0,
-      "open_unit_count": 67,
-      "conversation_ids": [
-        "escons-parroquials-i-nacionals-repartiment-001"
-      ]
+      "open_unit_count": 71,
+      "conversation_ids": []
     },
     "docs/temes/politica/sistema-electoral/el-financament-dels-partits.md": {
       "title": "El finançament dels partits",
@@ -14214,17 +14008,12 @@
       "title": "Els tres sistemes educatius",
       "type": "article",
       "topic": "temes/societat/educacio",
-      "status": "in_progress",
+      "status": "not_started",
       "unit_count": 95,
-      "covered_unit_ids": [
-        "docs/temes/societat/educacio/els-tres-sistemes.md#unit-0053",
-        "docs/temes/societat/educacio/els-tres-sistemes.md#unit-0064"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 0,
-      "open_unit_count": 93,
-      "conversation_ids": [
-        "maternal-evolucio-cinc-cursos-a029-001"
-      ]
+      "open_unit_count": 95,
+      "conversation_ids": []
     },
     "docs/temes/societat/educacio/index-legislatiu-en-educacio.md": {
       "title": "Índex legislatiu en educació",
@@ -14296,17 +14085,12 @@
       "title": "L'AQUA",
       "type": "article",
       "topic": "temes/societat/educacio",
-      "status": "in_progress",
+      "status": "not_started",
       "unit_count": 14,
-      "covered_unit_ids": [
-        "docs/temes/societat/educacio/laqua.md#unit-0002",
-        "docs/temes/societat/educacio/laqua.md#unit-0004"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 0,
-      "open_unit_count": 12,
-      "conversation_ids": [
-        "aqua-avaluacio-i-acreditacio-ensenyament-superior-001"
-      ]
+      "open_unit_count": 14,
+      "conversation_ids": []
     },
     "docs/temes/societat/educacio/lensenyament-confessional.md": {
       "title": "L'ensenyament confessional",
@@ -14378,23 +14162,12 @@
       "title": "L'escola andorrana ha passat al davant",
       "type": "article",
       "topic": "temes/societat/educacio",
-      "status": "in_progress",
+      "status": "not_started",
       "unit_count": 87,
-      "covered_unit_ids": [
-        "docs/temes/societat/educacio/lescola-andorrana-ha-passat-al-davant.md#unit-0002",
-        "docs/temes/societat/educacio/lescola-andorrana-ha-passat-al-davant.md#unit-0003",
-        "docs/temes/societat/educacio/lescola-andorrana-ha-passat-al-davant.md#unit-0004",
-        "docs/temes/societat/educacio/lescola-andorrana-ha-passat-al-davant.md#unit-0005",
-        "docs/temes/societat/educacio/lescola-andorrana-ha-passat-al-davant.md#unit-0006",
-        "docs/temes/societat/educacio/lescola-andorrana-ha-passat-al-davant.md#unit-0011",
-        "docs/temes/societat/educacio/lescola-andorrana-ha-passat-al-davant.md#unit-0015",
-        "docs/temes/societat/educacio/lescola-andorrana-ha-passat-al-davant.md#unit-0017"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 0,
-      "open_unit_count": 79,
-      "conversation_ids": [
-        "matricula-sistemes-escolars-i-angles-001"
-      ]
+      "open_unit_count": 87,
+      "conversation_ids": []
     },
     "docs/temes/societat/educacio/lescola-andorrana.md": {
       "title": "L'Escola Andorrana",
@@ -14554,18 +14327,12 @@
       "title": "Dos terços del país viuen de lloguer",
       "type": "article",
       "topic": "temes/societat/habitatge",
-      "status": "in_progress",
+      "status": "not_started",
       "unit_count": 96,
-      "covered_unit_ids": [
-        "docs/temes/societat/habitatge/dos-tercos-del-pais-viuen-de-lloguer.md#unit-0003",
-        "docs/temes/societat/habitatge/dos-tercos-del-pais-viuen-de-lloguer.md#unit-0004",
-        "docs/temes/societat/habitatge/dos-tercos-del-pais-viuen-de-lloguer.md#unit-0007"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 0,
-      "open_unit_count": 93,
-      "conversation_ids": [
-        "habitatge-regim-tinenca-evolucio-001"
-      ]
+      "open_unit_count": 96,
+      "conversation_ids": []
     },
     "docs/temes/societat/habitatge/els-habitatges-buits.md": {
       "title": "Els habitatges buits",
@@ -14956,21 +14723,12 @@
       "title": "El Gini ha pujat vuit punts",
       "type": "article",
       "topic": "temes/societat/proteccio-social",
-      "status": "in_progress",
+      "status": "not_started",
       "unit_count": 69,
-      "covered_unit_ids": [
-        "docs/temes/societat/proteccio-social/el-gini-ha-pujat-vuit-punts.md#unit-0006",
-        "docs/temes/societat/proteccio-social/el-gini-ha-pujat-vuit-punts.md#unit-0007",
-        "docs/temes/societat/proteccio-social/el-gini-ha-pujat-vuit-punts.md#unit-0009",
-        "docs/temes/societat/proteccio-social/el-gini-ha-pujat-vuit-punts.md#unit-0011",
-        "docs/temes/societat/proteccio-social/el-gini-ha-pujat-vuit-punts.md#unit-0012",
-        "docs/temes/societat/proteccio-social/el-gini-ha-pujat-vuit-punts.md#unit-0016"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 0,
-      "open_unit_count": 63,
-      "conversation_ids": [
-        "desigualtat-ingressos-gini-i-quintils-001"
-      ]
+      "open_unit_count": 69,
+      "conversation_ids": []
     },
     "docs/temes/societat/proteccio-social/la-caixa-va-neixer-de-la-immigracio.md": {
       "title": "La Caixa va néixer de la immigració",
@@ -15636,19 +15394,12 @@
       "title": "El clima",
       "type": "article",
       "topic": "temes/territori/clima-i-muntanya",
-      "status": "in_progress",
+      "status": "not_started",
       "unit_count": 25,
-      "covered_unit_ids": [
-        "docs/temes/territori/clima-i-muntanya/el-clima.md#unit-0002",
-        "docs/temes/territori/clima-i-muntanya/el-clima.md#unit-0009",
-        "docs/temes/territori/clima-i-muntanya/el-clima.md#unit-0010",
-        "docs/temes/territori/clima-i-muntanya/el-clima.md#unit-0011"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 0,
-      "open_unit_count": 21,
-      "conversation_ids": [
-        "neu-soldeu-sant-julia-altitud-i-orientacio-001"
-      ]
+      "open_unit_count": 25,
+      "conversation_ids": []
     },
     "docs/temes/territori/clima-i-muntanya/el-pla-darinsal-i-els-avisos-dallaus.md": {
       "title": "El pla d'Arinsal i els avisos d'allaus",
@@ -15918,18 +15669,12 @@
       "title": "Un camp és comunal perquè hi passen els ramats",
       "type": "article",
       "topic": "temes/territori/geografia-fisica",
-      "status": "in_progress",
+      "status": "not_started",
       "unit_count": 83,
-      "covered_unit_ids": [
-        "docs/temes/territori/geografia-fisica/un-camp-es-comunal-perque-hi-passen-els-ramats.md#unit-0054",
-        "docs/temes/territori/geografia-fisica/un-camp-es-comunal-perque-hi-passen-els-ramats.md#unit-0056",
-        "docs/temes/territori/geografia-fisica/un-camp-es-comunal-perque-hi-passen-els-ramats.md#unit-0057"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 0,
-      "open_unit_count": 80,
-      "conversation_ids": [
-        "terres-comunals-deveses-cultia-001"
-      ]
+      "open_unit_count": 83,
+      "conversation_ids": []
     },
     "docs/temes/territori/paisatge-construit/dos-pianos-i-una-carretera.md": {
       "title": "Dos pianos i una carretera",
@@ -16177,18 +15922,12 @@
       "title": "La vall del Madriu-Perafita-Claror",
       "type": "article",
       "topic": "temes/territori/patrimoni-natural",
-      "status": "in_progress",
+      "status": "not_started",
       "unit_count": 12,
-      "covered_unit_ids": [
-        "docs/temes/territori/patrimoni-natural/madriu-perafita-claror.md#unit-0003",
-        "docs/temes/territori/patrimoni-natural/madriu-perafita-claror.md#unit-0004",
-        "docs/temes/territori/patrimoni-natural/madriu-perafita-claror.md#unit-0005"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 0,
-      "open_unit_count": 9,
-      "conversation_ids": [
-        "madriu-paisatge-cultural-i-empremtes-001"
-      ]
+      "open_unit_count": 12,
+      "conversation_ids": []
     },
     "docs/temes/territori/patrimoni-natural/patrimoni-natural-index-de-fitxes.md": {
       "title": "Patrimoni natural — índex de fitxes",

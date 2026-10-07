@@ -1,18 +1,14 @@
 # Revisió de Maia Knowledge
 
-`records.jsonl` és la font de veritat editorial. Cada línia conté una conversa i, al mateix objecte, les fonts, llicència, afirmacions sostingudes, límits, grup de divisió i unitats de cobertura. Això evita aparellar missatges i procedència per número de línia.
+`records.jsonl` és la font de veritat. Cada registre conté la conversa i la procedència al mateix objecte, perquè una font no es pugui desalinear d'una conversa. El format final d'entrenament conté només `{"messages":[...]}`.
 
-`conversations.jsonl` és una vista generada pel validador. Conté només els `messages` dels registres aprovats; les mostres i els esborranys no hi apareixen. No l'edites directament. Els splits d'entrenament s'escriuran més endavant a `output/`.
-
-Els registres poden tenir aquests estats:
+## Estats
 
 - `draft`: pendent de revisió.
-- `approved_sample`: exemple de calibratge que no entra a l'entrenament ni compta com a cobertura.
-- `approved`: revisat i elegible per a l'exportació i la cobertura.
+- `approved_sample`: exemple per calibrar el criteri; no s'exporta ni compta com a cobertura.
+- `approved`: revisat, amb drets i evidència comprovats; es pot exportar.
 - `rejected`: descartat.
 
-El JSONL final d'entrenament contindrà només `{"messages":[...]}`. No hi exportem `record_id`, fonts ni dades internes. Els primers tres exemples de la guia ja són registres aprovats i formen part de `conversations.jsonl`.
+`conversations.jsonl` el genera `validate_knowledge_review.py`. Només conté els missatges dels registres `approved`. No l'edites directament.
 
-`unit-decisions.jsonl` registra unitats no entrenables o excloses, amb el motiu i les fonts examinades. `work/` conté inventari regenerable; `reports/` conté informes de cobertura.
-
-Abans d'aprovar una conversa, revisa-la llegint només el diàleg i passa la checklist de [`EXEMPLES.md`](EXEMPLES.md). Després comprova les afirmacions i els drets a la mateixa línia de `records.jsonl`.
+Abans d'aprovar un registre, llegeix el diàleg sense la fitxa, aplica totes les preguntes de [`EXEMPLES.md`](EXEMPLES.md) i comprova les fonts, l'atribució, els drets i els límits documentats al mateix registre. Un seguiment artificial és motiu suficient per reescriure o descartar.

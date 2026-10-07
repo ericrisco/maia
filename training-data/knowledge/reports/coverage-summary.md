@@ -4,10 +4,10 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 
 - Documents inventariats: **1477** (1348 articles).
 - Unitats estructurals totals: **62911**.
-- Unitats cobertes per converses aprovades: **161** (0.256%).
+- Unitats cobertes per converses aprovades: **0** (0.000%).
 - Unitats excloses amb motiu: **1178**.
-- Unitats encara obertes: **61572**.
-- Registres: **38**; aprovats: **38**; mostres de calibratge: **0** (no compten com a cobertura).
+- Unitats encara obertes: **61733**.
+- Registres: **3**; aprovats: **0**; mostres de calibratge: **3** (no compten com a cobertura).
 
 ## Estat per tema
 
@@ -15,33 +15,33 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 |---|---:|---:|---:|---:|---:|
 | `(sense tema)` | 123 | 1707 | 0 | 64 | 1643 |
 | `societat/treball` | 1 | 7 | 0 | 0 | 7 |
-| `temes/costums/calendari-festiu` | 2 | 65 | 9 | 0 | 56 |
+| `temes/costums/calendari-festiu` | 2 | 65 | 0 | 0 | 65 |
 | `temes/costums/caramelles` | 1 | 18 | 0 | 13 | 5 |
-| `temes/costums/danses` | 7 | 272 | 12 | 79 | 181 |
+| `temes/costums/danses` | 7 | 272 | 0 | 79 | 193 |
 | `temes/costums/falles` | 1 | 30 | 0 | 0 | 30 |
 | `temes/costums/festes-majors` | 2 | 35 | 0 | 0 | 35 |
 | `temes/costums/gegants` | 1 | 36 | 0 | 0 | 36 |
-| `temes/costums/meritxell` | 1 | 21 | 3 | 0 | 18 |
+| `temes/costums/meritxell` | 1 | 21 | 0 | 0 | 21 |
 | `temes/costums/religiositat` | 5 | 292 | 0 | 0 | 292 |
 | `temes/costums/ritus-de-pas` | 2 | 51 | 0 | 0 | 51 |
 | `temes/costums/sant-antoni` | 1 | 19 | 0 | 0 | 19 |
-| `temes/cultura` | 1 | 73 | 6 | 0 | 67 |
+| `temes/cultura` | 1 | 73 | 0 | 0 | 73 |
 | `temes/cultura/andorra-vista-de-fora` | 6 | 280 | 0 | 248 | 32 |
-| `temes/cultura/arquitectura` | 11 | 216 | 15 | 175 | 26 |
+| `temes/cultura/arquitectura` | 11 | 216 | 0 | 175 | 41 |
 | `temes/cultura/artesania` | 2 | 138 | 0 | 138 | 0 |
-| `temes/cultura/arts-visuals` | 9 | 303 | 3 | 247 | 53 |
+| `temes/cultura/arts-visuals` | 9 | 303 | 0 | 247 | 56 |
 | `temes/cultura/cultura-popular` | 2 | 48 | 0 | 0 | 48 |
 | `temes/cultura/literatura` | 1 | 87 | 0 | 43 | 44 |
-| `temes/cultura/llegendes` | 10 | 254 | 7 | 171 | 76 |
+| `temes/cultura/llegendes` | 10 | 254 | 0 | 171 | 83 |
 | `temes/cultura/museus-i-arxius` | 15 | 912 | 0 | 0 | 912 |
 | `temes/cultura/museus-i-arxius/museus` | 11 | 335 | 0 | 0 | 335 |
 | `temes/cultura/musica-i-cancons` | 3 | 103 | 0 | 0 | 103 |
 | `temes/cultura/teatre` | 2 | 159 | 0 | 0 | 159 |
-| `temes/economia/banca-i-fiscalitat` | 33 | 2053 | 2 | 0 | 2051 |
-| `temes/economia/comerc` | 17 | 1270 | 4 | 0 | 1266 |
+| `temes/economia/banca-i-fiscalitat` | 33 | 2053 | 0 | 0 | 2053 |
+| `temes/economia/comerc` | 17 | 1270 | 0 | 0 | 1270 |
 | `temes/economia/energia-i-serveis` | 4 | 223 | 0 | 0 | 223 |
 | `temes/economia/les-grans-families` | 1 | 46 | 0 | 0 | 46 |
-| `temes/economia/ramaderia-i-agricultura` | 11 | 602 | 11 | 0 | 591 |
+| `temes/economia/ramaderia-i-agricultura` | 11 | 602 | 0 | 0 | 602 |
 | `temes/economia/tabac` | 5 | 298 | 0 | 0 | 298 |
 | `temes/economia/transformacio-economica` | 10 | 551 | 0 | 0 | 551 |
 | `temes/economia/transport` | 5 | 167 | 0 | 0 | 167 |
@@ -61,7 +61,7 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 | `temes/gastronomia/begudes` | 1 | 69 | 0 | 0 | 69 |
 | `temes/gastronomia/calendari-gastronomic` | 1 | 12 | 0 | 0 | 12 |
 | `temes/gastronomia/historia-alimentaria` | 5 | 228 | 0 | 0 | 228 |
-| `temes/gastronomia/plats` | 5 | 81 | 8 | 0 | 73 |
+| `temes/gastronomia/plats` | 5 | 81 | 0 | 0 | 81 |
 | `temes/gastronomia/productes` | 2 | 39 | 0 | 0 | 39 |
 | `temes/gastronomia/rebosteria` | 1 | 16 | 0 | 0 | 16 |
 | `temes/historia/antic-regim` | 50 | 2236 | 0 | 0 | 2236 |
@@ -82,13 +82,13 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 | `temes/institucions/consell-general` | 84 | 2530 | 0 | 0 | 2530 |
 | `temes/institucions/coprincipat` | 33 | 940 | 0 | 0 | 940 |
 | `temes/institucions/govern` | 8 | 633 | 0 | 0 | 633 |
-| `temes/institucions/justicia` | 138 | 8426 | 40 | 0 | 8386 |
+| `temes/institucions/justicia` | 138 | 8426 | 0 | 0 | 8426 |
 | `temes/institucions/nacionalitat-i-residencia` | 18 | 701 | 0 | 0 | 701 |
 | `temes/institucions/patrimoni-institucional` | 6 | 375 | 0 | 0 | 375 |
 | `temes/institucions/petits-estats` | 2 | 207 | 0 | 0 | 207 |
 | `temes/institucions/quarts-i-veinats` | 2 | 185 | 0 | 0 | 185 |
 | `temes/institucions/relacions-exteriors` | 8 | 554 | 0 | 0 | 554 |
-| `temes/institucions/simbols` | 4 | 107 | 3 | 0 | 104 |
+| `temes/institucions/simbols` | 4 | 107 | 0 | 0 | 107 |
 | `temes/llengua/contacte-de-llengues` | 5 | 295 | 0 | 0 | 295 |
 | `temes/llengua/dialectologia` | 4 | 181 | 0 | 0 | 181 |
 | `temes/llengua/fonetica` | 2 | 46 | 0 | 0 | 46 |
@@ -98,31 +98,31 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 | `temes/llengua/manlleus` | 4 | 272 | 0 | 0 | 272 |
 | `temes/llengua/morfosintaxi` | 3 | 63 | 0 | 0 | 63 |
 | `temes/llengua/onomastica` | 3 | 99 | 0 | 0 | 99 |
-| `temes/llengua/politica-linguistica` | 13 | 1288 | 3 | 0 | 1285 |
+| `temes/llengua/politica-linguistica` | 13 | 1288 | 0 | 0 | 1288 |
 | `temes/llengua/registres` | 1 | 14 | 0 | 0 | 14 |
 | `temes/llengua/tractament` | 1 | 30 | 0 | 0 | 30 |
 | `temes/persones` | 43 | 1167 | 0 | 0 | 1167 |
 | `temes/politica/identitat-politica` | 3 | 325 | 0 | 0 | 325 |
 | `temes/politica/parlamentarisme` | 4 | 379 | 0 | 0 | 379 |
 | `temes/politica/partits` | 4 | 142 | 0 | 0 | 142 |
-| `temes/politica/sistema-electoral` | 9 | 1037 | 4 | 0 | 1033 |
+| `temes/politica/sistema-electoral` | 9 | 1037 | 0 | 0 | 1037 |
 | `temes/societat` | 1 | 89 | 0 | 0 | 89 |
 | `temes/societat/associacionisme` | 1 | 21 | 0 | 0 | 21 |
 | `temes/societat/demografia` | 15 | 926 | 0 | 0 | 926 |
 | `temes/societat/dones` | 7 | 548 | 0 | 0 | 548 |
-| `temes/societat/educacio` | 30 | 2178 | 12 | 0 | 2166 |
+| `temes/societat/educacio` | 30 | 2178 | 0 | 0 | 2178 |
 | `temes/societat/esport` | 1 | 19 | 0 | 0 | 19 |
 | `temes/societat/familia` | 4 | 195 | 0 | 0 | 195 |
-| `temes/societat/habitatge` | 9 | 650 | 3 | 0 | 647 |
+| `temes/societat/habitatge` | 9 | 650 | 0 | 0 | 650 |
 | `temes/societat/immigracio` | 19 | 1615 | 0 | 0 | 1615 |
 | `temes/societat/mitjans` | 5 | 295 | 0 | 0 | 295 |
-| `temes/societat/proteccio-social` | 4 | 296 | 6 | 0 | 290 |
+| `temes/societat/proteccio-social` | 4 | 296 | 0 | 0 | 296 |
 | `temes/societat/sanitat` | 19 | 744 | 0 | 0 | 744 |
 | `temes/societat/treball` | 18 | 790 | 0 | 0 | 790 |
 | `temes/societat/vida-civica` | 8 | 426 | 0 | 0 | 426 |
-| `temes/territori/clima-i-muntanya` | 14 | 402 | 4 | 0 | 398 |
+| `temes/territori/clima-i-muntanya` | 14 | 402 | 0 | 0 | 402 |
 | `temes/territori/fauna-i-flora` | 5 | 304 | 0 | 0 | 304 |
-| `temes/territori/geografia-fisica` | 9 | 614 | 3 | 0 | 611 |
+| `temes/territori/geografia-fisica` | 9 | 614 | 0 | 0 | 614 |
 | `temes/territori/paisatge-construit` | 5 | 261 | 0 | 0 | 261 |
 | `temes/territori/parroquies/andorra-la-vella` | 1 | 15 | 0 | 0 | 15 |
 | `temes/territori/parroquies/canillo` | 1 | 17 | 0 | 0 | 17 |
@@ -131,7 +131,7 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 | `temes/territori/parroquies/la-massana` | 1 | 14 | 0 | 0 | 14 |
 | `temes/territori/parroquies/ordino` | 1 | 14 | 0 | 0 | 14 |
 | `temes/territori/parroquies/sant-julia-de-loria` | 1 | 14 | 0 | 0 | 14 |
-| `temes/territori/patrimoni-natural` | 2 | 45 | 3 | 0 | 42 |
+| `temes/territori/patrimoni-natural` | 2 | 45 | 0 | 0 | 45 |
 | `temes/territori/toponimia` | 5 | 375 | 0 | 0 | 375 |
 | `temes/territori/urbanisme` | 2 | 94 | 0 | 0 | 94 |
 | `temes/vida-quotidiana/com-funciona-tot` | 4 | 266 | 0 | 0 | 266 |
