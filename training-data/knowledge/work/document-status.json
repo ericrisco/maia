@@ -2326,12 +2326,21 @@
       "title": "Van tallar els pals del telègraf",
       "type": "article",
       "topic": "temes/economia/energia-i-serveis",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 77,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/economia/energia-i-serveis/van-tallar-els-pals-del-telegraf.md#unit-0033",
+        "docs/temes/economia/energia-i-serveis/van-tallar-els-pals-del-telegraf.md#unit-0034",
+        "docs/temes/economia/energia-i-serveis/van-tallar-els-pals-del-telegraf.md#unit-0035",
+        "docs/temes/economia/energia-i-serveis/van-tallar-els-pals-del-telegraf.md#unit-0036",
+        "docs/temes/economia/energia-i-serveis/van-tallar-els-pals-del-telegraf.md#unit-0038",
+        "docs/temes/economia/energia-i-serveis/van-tallar-els-pals-del-telegraf.md#unit-0039"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 77,
-      "conversation_ids": []
+      "open_unit_count": 71,
+      "conversation_ids": [
+        "correu-andorra-interior-i-exterior-1904-001"
+      ]
     },
     "docs/temes/economia/les-grans-families/els-reig.md": {
       "title": "Els Reig",
