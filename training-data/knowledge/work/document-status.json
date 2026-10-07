@@ -583,12 +583,24 @@
       "title": "Santa Coloma",
       "type": "article",
       "topic": "temes/cultura/arquitectura",
-      "status": "in_progress",
+      "status": "complete",
       "unit_count": 23,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/cultura/arquitectura/santa-coloma.md#unit-0008",
+        "docs/temes/cultura/arquitectura/santa-coloma.md#unit-0009",
+        "docs/temes/cultura/arquitectura/santa-coloma.md#unit-0010",
+        "docs/temes/cultura/arquitectura/santa-coloma.md#unit-0011",
+        "docs/temes/cultura/arquitectura/santa-coloma.md#unit-0012",
+        "docs/temes/cultura/arquitectura/santa-coloma.md#unit-0013",
+        "docs/temes/cultura/arquitectura/santa-coloma.md#unit-0014",
+        "docs/temes/cultura/arquitectura/santa-coloma.md#unit-0015",
+        "docs/temes/cultura/arquitectura/santa-coloma.md#unit-0016"
+      ],
       "excluded_unit_count": 14,
-      "open_unit_count": 9,
-      "conversation_ids": []
+      "open_unit_count": 0,
+      "conversation_ids": [
+        "santa-coloma-periple-i-fragments-001"
+      ]
     },
     "docs/temes/cultura/artesania/artesania-index-de-fitxes.md": {
       "title": "Artesania — índex de fitxes",
