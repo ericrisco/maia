@@ -519,5 +519,21 @@
     "reviewed_units": [
       "La valoració de Ferrer sobre immigració el 2002 és una opinió d’autor i no permet inferir què pensava la població andorrana en conjunt."
     ]
+  },
+  "docs/temes/cultura/andorra-vista-de-fora/les-guies-de-viatge.md": {
+    "status": "in_progress",
+    "open_units": [
+      "Consulta directa i buidatge de les Guides bleus i les guies Joanne dels Pirineus.",
+      "Llista exhaustiva dels relats de viatge i revisió de les dates discrepants de Deverell.",
+      "Passatges concrets sobre menjars, costums i fondes encara no extrets dels relats originals.",
+      "Noms de les fondes recomanades per parròquia no disponibles.",
+      "Primera aparició d’Andorra en una guia i existència de guies espanyoles equivalents no resoltes."
+    ],
+    "conversation_ids": [
+      "guia-trajecte-soldeu-andorra-la-vella-mula-001"
+    ],
+    "reviewed_units": [
+      "Una guia dona quatre hores i quinze minuts amb mula entre Soldeu i Andorra la Vella; les guies són útils per als trajectes, però les descripcions locals exigeixen contrast."
+    ]
   }
 }
