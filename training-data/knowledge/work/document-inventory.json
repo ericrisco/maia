@@ -9,7 +9,7 @@
   "file_count": 1477,
   "article_count": 1348,
   "parse_error_count": 0,
-  "conversation_count": 97,
+  "conversation_count": 98,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 0,
@@ -11456,7 +11456,7 @@
       "topic": "temes/historia/pareatge",
       "source": "enciclopedia-segon-pariatge-1288",
       "status": "in_progress",
-      "conversation_count": 9,
+      "conversation_count": 10,
       "conversation_ids": [
         "pareatge-segon-acord-1288-001",
         "segon-pareatge-1288-arbitres-001",
@@ -11466,6 +11466,7 @@
         "segon-pareatge-enclar-arfa-fortificacions-001",
         "segon-pareatge-enclar-execucio-desconeguda-001",
         "segon-pareatge-notariat-conjunt-ingressos-001",
+        "segon-pareatge-part-notari-feu-001",
         "segon-pareatge-responsabilitat-notari-001"
       ],
       "reviewed_units": [
@@ -11477,13 +11478,13 @@
         "Notari que falsifica o delinqueix: investigació conjunta del bisbe i el comte o els seus oficials; penes i composicions econòmiques repartides a parts iguals.",
         "Context del segon Pariatge: sentència del 6-12-1288 entre Pere d'Urtx i Roger Bernat III; Ramon d'Urtx i Guillem Ramon de Josa hi intervenen com a àrbitres davant novetats i ambigüitats prèvies.",
         "Execució d'Enclar: hi ha ordre de retirar el que s'havia construït, però no consta prova de si es va complir; l'absència de prova no permet inferir cap resultat material.",
-        "Competències notarials: testaments, instruments, codicils i altres escriptures públiques; el notari actua sota autoritat conjunta del bisbe i el comte."
+        "Competències notarials: testaments, instruments, codicils i altres escriptures públiques; el notari actua sota autoritat conjunta del bisbe i el comte.",
+        "La part del comte en el càrrec notarial queda annexa al feu d'Andorra que tenia pel bisbe i l'Església d'Urgell; el text no n'explica el motiu específic."
       ],
       "open_units": [
         "Mantenir oberts els buits sobre execució material, primers notaris, butlla i consulta de l'original; revisar drets de la reproducció i traducció abans de l'export.",
         "Consultar la butlla papal original i el document de lliurament; la sentència secundària no permet comprovar-ne l'existència material ni l'execució.",
-        "Comprovar en una font primària si la prohibició sobre la roca d'Arfa es va complir; tampoc no hi ha prova localitzada sobre l'execució material d'Enclar.",
-        "Revisar com la part del comte en el càrrec notarial queda annexa al feu d'Andorra que tenia pel bisbe i l'Església d'Urgell."
+        "Comprovar en una font primària si la prohibició sobre la roca d'Arfa es va complir; tampoc no hi ha prova localitzada sobre l'execució material d'Enclar."
       ],
       "completion_note": "",
       "reason": "",
