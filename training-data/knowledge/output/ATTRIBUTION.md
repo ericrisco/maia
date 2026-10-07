@@ -25,3 +25,4 @@ el BOPA no implica cap suport al projecte. No s'atribueix una llicència global 
 - BOPA, Llei qualificada 2/2025, del 23 de gener, article 3.4. S'ha resumit la norma conservant-ne el sentit. La menció del BOPA no implica suport del Servei al projecte.
 - BOPA, Llei qualificada 2/2025, del 23 de gener, articles 2 i 10. S'han resumit les condicions conservant-ne el sentit. La menció del BOPA no implica suport del Servei al projecte.
 - BOPA, Llei qualificada 2/2025, del 23 de gener, articles 2, 4 i 8. S'ha resumit la norma conservant-ne el sentit. La menció del BOPA no implica suport del Servei al projecte.
+- BOPA, Llei qualificada 2/2025, del 23 de gener, disposició transitòria. S'ha resumit la norma conservant-ne el sentit. La menció del BOPA no implica suport del Servei al projecte.
