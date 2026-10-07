@@ -9,7 +9,7 @@
   "file_count": 1477,
   "article_count": 1348,
   "parse_error_count": 0,
-  "conversation_count": 132,
+  "conversation_count": 133,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 0,
@@ -1164,7 +1164,7 @@
       "topic": "temes/cultura",
       "source": "estadistica-ad",
       "status": "in_progress",
-      "conversation_count": 13,
+      "conversation_count": 14,
       "conversation_ids": [
         "habits-culturals-biblioteques-edat-001",
         "habits-culturals-biblioteques-enquesta-i-usuaris-001",
@@ -1178,7 +1178,8 @@
         "habits-culturals-museus-per-edat-001",
         "habits-culturals-prestec-llibres-i-audiovisuals-001",
         "habits-culturals-teatre-i-multiplicitat-activitats-001",
-        "habits-culturals-voluntariat-discrepancia-series-001"
+        "habits-culturals-voluntariat-discrepancia-series-001",
+        "habits-culturals-xarxa-biblioteques-i-plantilla-001"
       ],
       "reviewed_units": [
         "Enquesta 2019 i 2024: cinema, 57,4% → 66,3% (+8,9 punts).",
@@ -1204,7 +1205,9 @@
         "L'enquesta no desglossa la lectura per llengua ni per tipus de material; no permet afirmar res sobre la lectura en català.",
         "Voluntariat: totals i total per sexe coincideixen el 2010-2021 i 2025; discrepen el 2022-2024 (468/242, 517/260, 476/281), sense causa identificada.",
         "El 2025 coincideixen 178 voluntaris totals i 77 homes + 101 dones.",
-        "Préstecs de la Xarxa per tipus (2016-2024): llibres 29.945 → 37.270 (+24,5%); audiovisuals 8.389 → 2.737 (-67,4%); préstecs totals 39.331 → 40.914 (+4%)."
+        "Préstecs de la Xarxa per tipus (2016-2024): llibres 29.945 → 37.270 (+24,5%); audiovisuals 8.389 → 2.737 (-67,4%); préstecs totals 39.331 → 40.914 (+4%).",
+        "Xarxa de Biblioteques: vuit centres més la Biblioteca Nacional, sense canvi 2016-2024; ràtio de 1,2 a 1,0 per 10.000 habitants; plantilla combinada de 29 a 27.",
+        "No hi ha dada d'horaris d'obertura; no s'infereix el servei a partir de la ràtio o plantilla."
       ],
       "open_units": [
         "Revisar les altres activitats de l'enquesta i els seus desglossaments per edat, sexe i estudis.",
