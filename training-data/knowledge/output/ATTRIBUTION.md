@@ -17,6 +17,7 @@ el BOPA no implica cap suport al projecte. No s'atribueix una llicència global 
 - Adaptació d'informació dels articles «Sant Martí de la Cortinada» i «Sant Joan de Caselles» de la Viquipèdia en català, llicència CC BY-SA 4.0. Cal conservar l'atribució i compartir l'adaptació amb la mateixa llicència.
 - Adaptació de l'article «Església de Santa Coloma (Andorra la Vella)» de la Viquipèdia en català, llicència CC BY-SA 4.0. Cal conservar l'atribució i compartir l'adaptació amb la mateixa llicència.
 - Adaptació de l'article «Estripagecs» de la Viquipèdia en català, CC BY-SA 4.0. Cal conservar l'atribució i compartir l'adaptació amb la mateixa llicència.
+- Adaptació de l'article «Sergi Mas Balaguer» de la Viquipèdia en català, llicència CC BY-SA 4.0. Cal conservar l'atribució i compartir l'adaptació amb la mateixa llicència.
 - Adaptació de «El trinxat», amb dades de la Viquipèdia en català, llicència CC BY-SA 4.0. S'indiquen les fonts i es conserva la condició de compartir igual per a aquesta adaptació.
 - Adaptació de «Festes de l'ossa a Andorra», Viquipèdia en català, llicència CC BY-SA 4.0. S'indica la font i es conserva la condició de compartir igual per a aquesta adaptació.
 - Adaptació de «L'escudella de Sant Antoni», amb dades de la Viquipèdia en català, llicència CC BY-SA 4.0. S'indiquen les fonts i es conserva la condició de compartir igual per a aquesta adaptació.
