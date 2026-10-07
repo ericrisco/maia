@@ -3,12 +3,17 @@
     "status": "in_progress",
     "conversation_ids": [
       "festa-major-no-hi-ha-data-unica-01",
-      "llista-judicial-no-es-calendari-popular-01"
+      "llista-judicial-no-es-calendari-popular-01",
+      "fites-calendari-festiu-andorra-01"
     ],
     "covered_units": [
       "no hi ha una festa major comuna a tot Andorra",
       "cada parròquia i moltes viles tenen festa major pròpia",
       "les festes majors se celebren a l'estiu",
+      "Sant Antoni i l'escudella al gener",
+      "caramelles a la primavera",
+      "Sant Joan i les falles el 23 de juny",
+      "Meritxell, festa nacional, el 8 de setembre",
       "la llista judicial de 1902 no és un calendari popular",
       "l'absència d'una festa a la llista judicial no prova que no se celebrés"
     ],
