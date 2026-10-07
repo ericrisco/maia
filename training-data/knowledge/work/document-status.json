@@ -1254,12 +1254,19 @@
       "title": "El Museu del Perfum, i la dona que va obrir una perruqueria el 1939",
       "type": "article",
       "topic": "temes/cultura/museus-i-arxius/museus",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 16,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/cultura/museus-i-arxius/museus/el-museu-del-perfum.md#unit-0001",
+        "docs/temes/cultura/museus-i-arxius/museus/el-museu-del-perfum.md#unit-0002",
+        "docs/temes/cultura/museus-i-arxius/museus/el-museu-del-perfum.md#unit-0009",
+        "docs/temes/cultura/museus-i-arxius/museus/el-museu-del-perfum.md#unit-0010"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 16,
-      "conversation_ids": []
+      "open_unit_count": 12,
+      "conversation_ids": [
+        "museu-perfum-i-origen-julia-001"
+      ]
     },
     "docs/temes/cultura/museus-i-arxius/museus/el-museu-del-tabac.md": {
       "title": "El Museu del Tabac: una fàbrica que va treballar del 1909 al 1957",
