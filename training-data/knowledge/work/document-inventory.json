@@ -169,9 +169,10 @@
       "topic": "temes/costums/danses",
       "source": "wikipedia-ball-ossa-encamp",
       "status": "in_progress",
-      "conversation_count": 1,
+      "conversation_count": 2,
       "conversation_ids": [
-        "encamp-ossa-protagonists-001"
+        "encamp-ossa-protagonists-001",
+        "encamp-ossa-script-modernization-001"
       ],
       "reviewed_units": [
         "Els personatges inclouen dallaires, el quefe, la fregona i el fregó, l’amo i la mestressa, caçadors i l’ossa.",
@@ -179,7 +180,8 @@
         "Una interpretació de la tesi d’Ysàs llegeix la farsa com un ritu iniciàtic en quatre fases; és una interpretació atribuïda, no un fet indiscutit.",
         "Amades va descriure el 1950 una versió amb dallaires, fregona, cavaller, rusc i os; les variants i la diferència amb la descripció actual es registren sense decidir quina és l’autèntica.",
         "Rossend Marsol, Sícoris, va refer el guió el 1959; la fitxa diu que va modernitzar la representació i va implicar-hi joves.",
-        "L’article registra discrepàncies sobre les dates de recuperació d’Ordino i resol la menció UNESCO com a inscripció del 2022."
+        "L’article registra discrepàncies sobre les dates de recuperació d’Ordino i resol la menció UNESCO com a inscripció del 2022.",
+        "Rossend Marsol va refer el guió el 1959, va incorporar megafonia i va implicar-hi joves; alguns papers han passat de generació en generació."
       ],
       "open_units": [
         "La tesi d’Eloi Ysàs, que sosté bona part de la interpretació, no s’ha pogut consultar; no incorporar-ne afirmacions interpretatives fins a verificar-ne l’accés i les condicions d’ús.",
