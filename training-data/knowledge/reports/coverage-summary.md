@@ -4,21 +4,21 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 
 - Fitxes article: **1348**.
 - Fitxers totals, inclosos índexs: **1477**.
-- Converses candidates: **13**.
+- Converses candidates: **14**.
 
 | Estat de revisió | Fitxes |
 |---|---:|
 | Revisades completes | 0 |
-| En curs | 7 |
+| En curs | 9 |
 | Revisades sense pregunta natural | 0 |
-| No començades | 1341 |
+| No començades | 1339 |
 
 ## Estat per tema
 
 | Tema | Articles | No començades | En curs | Completes | Sense pregunta natural |
 |---|---:|---:|---:|---:|---:|
 | `societat/treball` | 1 | 1 | 0 | 0 | 0 |
-| `temes/costums/calendari-festiu` | 2 | 1 | 1 | 0 | 0 |
+| `temes/costums/calendari-festiu` | 2 | 0 | 2 | 0 | 0 |
 | `temes/costums/caramelles` | 1 | 0 | 1 | 0 | 0 |
 | `temes/costums/danses` | 7 | 7 | 0 | 0 | 0 |
 | `temes/costums/falles` | 1 | 0 | 1 | 0 | 0 |
@@ -39,7 +39,7 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 | `temes/cultura/museus-i-arxius` | 15 | 15 | 0 | 0 | 0 |
 | `temes/cultura/museus-i-arxius/museus` | 11 | 11 | 0 | 0 | 0 |
 | `temes/cultura/musica-i-cancons` | 3 | 3 | 0 | 0 | 0 |
-| `temes/cultura/teatre` | 2 | 2 | 0 | 0 | 0 |
+| `temes/cultura/teatre` | 2 | 1 | 1 | 0 | 0 |
 | `temes/economia/banca-i-fiscalitat` | 33 | 33 | 0 | 0 | 0 |
 | `temes/economia/comerc` | 17 | 17 | 0 | 0 | 0 |
 | `temes/economia/energia-i-serveis` | 4 | 4 | 0 | 0 | 0 |

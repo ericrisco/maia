@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 7,
+    "in_progress": 9,
     "no_natural_question": 0,
-    "not_started": 1341
+    "not_started": 1339
   },
   "documents": [
     {
@@ -53,11 +53,20 @@
       "type": "article",
       "topic": "temes/costums/calendari-festiu",
       "source": "premsa-andorrana",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "ossa-encamp-cortinada-i-guio-1959-001"
+      ],
+      "reviewed_units": [
+        "El Ball de l’Ossa d’Encamp i el de la Cortinada tenen arguments diferents; a Encamp el guió escrit per Rossend Marsol el 1959 va substituir la transmissió oral i es refà anualment com a sàtira."
+      ],
+      "open_units": [
+        "Guió, personatges i seqüència del Judici dels Contrabandistes; no consten al corpus.",
+        "Música i variants del Ball de l’Ossa d’Encamp.",
+        "Data concreta del carnaval per a cada any i comprovació amb el programa comunal.",
+        "Condicions de drets de les fonts periodístiques i acadèmiques."
+      ],
       "completion_note": "",
       "reason": ""
     },
@@ -1669,11 +1678,20 @@
       "type": "article",
       "topic": "temes/cultura/teatre",
       "source": "masegosa-teatre-andorra",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "ossa-encamp-cortinada-i-guio-1959-001"
+      ],
+      "reviewed_units": [
+        "La farsa de l’Ossa d’Encamp i la de la Cortinada tenen arguments diferents; la versió d’Encamp passa de transmissió oral a guió el 1959 i es refà anualment."
+      ],
+      "open_units": [
+        "Textos íntegres de les farses, guions i enregistraments no incorporats al corpus.",
+        "Detalls dels altres cicles de Carnestoltes, Nadal i Pasqua i les seves variants locals.",
+        "Autories, dates i atribucions que la tesi no ha pogut determinar.",
+        "Condicions de reutilització de la publicació acadèmica i dels documents d’arxiu."
+      ],
       "completion_note": "",
       "reason": ""
     },

@@ -124,5 +124,35 @@
     "reviewed_units": [
       "Cada parròquia té la seva festa major i moltes viles també en tenen; les festes majors se celebren a l’estiu i no són una única festa nacional."
     ]
+  },
+  "docs/temes/costums/calendari-festiu/el-carnaval-dencamp.md": {
+    "status": "in_progress",
+    "open_units": [
+      "Guió, personatges i seqüència del Judici dels Contrabandistes; no consten al corpus.",
+      "Música i variants del Ball de l’Ossa d’Encamp.",
+      "Data concreta del carnaval per a cada any i comprovació amb el programa comunal.",
+      "Condicions de drets de les fonts periodístiques i acadèmiques."
+    ],
+    "conversation_ids": [
+      "ossa-encamp-cortinada-i-guio-1959-001"
+    ],
+    "reviewed_units": [
+      "El Ball de l’Ossa d’Encamp i el de la Cortinada tenen arguments diferents; a Encamp el guió escrit per Rossend Marsol el 1959 va substituir la transmissió oral i es refà anualment com a sàtira."
+    ]
+  },
+  "docs/temes/cultura/teatre/el-teatre-de-carnestoltes.md": {
+    "status": "in_progress",
+    "open_units": [
+      "Textos íntegres de les farses, guions i enregistraments no incorporats al corpus.",
+      "Detalls dels altres cicles de Carnestoltes, Nadal i Pasqua i les seves variants locals.",
+      "Autories, dates i atribucions que la tesi no ha pogut determinar.",
+      "Condicions de reutilització de la publicació acadèmica i dels documents d’arxiu."
+    ],
+    "conversation_ids": [
+      "ossa-encamp-cortinada-i-guio-1959-001"
+    ],
+    "reviewed_units": [
+      "La farsa de l’Ossa d’Encamp i la de la Cortinada tenen arguments diferents; la versió d’Encamp passa de transmissió oral a guió el 1959 i es refà anualment."
+    ]
   }
 }
