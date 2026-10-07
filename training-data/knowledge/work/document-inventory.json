@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 2,
-    "in_progress": 5,
+    "in_progress": 6,
     "no_natural_question": 0,
-    "not_started": 1341
+    "not_started": 1340
   },
   "documents": [
     {
@@ -2241,12 +2241,16 @@
       "type": "article",
       "topic": "temes/economia/comerc",
       "source": "mas-relacions-comercials-1994",
-      "status": "not_started",
+      "status": "in_progress",
       "conversation_count": 0,
       "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
-      "completion_note": "",
+      "reviewed_units": [
+        "La fitxa atribueix la síntesi històrica principal a la ponència de David Mas, publicada per la Societat Andorrana de Ciències el 1994; la fitxa de font del corpus marca la redistribució com a pendent."
+      ],
+      "open_units": [
+        "No crear ni exportar converses basades en la ponència fins que els drets de reutilització estiguin documentats. Després, revisar les afirmacions contra les fonts primàries disponibles i generar només converses amb intenció humana."
+      ],
+      "completion_note": "S'ha comprovat la procedència i l'estat dels drets abans de redactar candidats. La revisió de contingut queda en curs perquè la reutilització de la font principal no està autoritzada o documentada.",
       "reason": ""
     },
     {

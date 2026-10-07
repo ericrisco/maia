@@ -175,5 +175,22 @@
     "conversation_ids": [
       "comerc-pes-conjunt-del-pib-001"
     ]
+  },
+  "docs/temes/economia/comerc/el-comerc-a-ledat-moderna.md": {
+    "status": "in_progress",
+    "reviewed_units": [
+      "La fitxa atribueix la síntesi històrica principal a la ponència de David Mas, publicada per la Societat Andorrana de Ciències el 1994; la fitxa de font del corpus marca la redistribució com a pendent."
+    ],
+    "open_units": [
+      "No crear ni exportar converses basades en la ponència fins que els drets de reutilització estiguin documentats. Després, revisar les afirmacions contra les fonts primàries disponibles i generar només converses amb intenció humana."
+    ],
+    "completion_note": "S'ha comprovat la procedència i l'estat dels drets abans de redactar candidats. La revisió de contingut queda en curs perquè la reutilització de la font principal no està autoritzada o documentada.",
+    "conversation_ids": [],
+    "rights_review": {
+      "source_document": "docs/fonts/mas-relacions-comercials-1994.md",
+      "status": "pending",
+      "publisher_terms_url": "https://www.sac.ad/avis-legal",
+      "notes": "The SAC legal notice restricts reuse of site content without written permission; the publication's specific reuse license is not recorded in the corpus."
+    }
   }
 }
