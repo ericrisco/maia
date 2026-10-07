@@ -13,6 +13,7 @@ el BOPA no implica cap suport al projecte. No s'atribueix una llicència global 
 
 - Adaptació de «El trinxat», amb dades de la Viquipèdia en català, llicència CC BY-SA 4.0. S'indiquen les fonts i es conserva la condició de compartir igual per a aquesta adaptació.
 - Adaptació de «Festes de l'ossa a Andorra», Viquipèdia en català, llicència CC BY-SA 4.0. S'indica la font i es conserva la condició de compartir igual per a aquesta adaptació.
+- Adaptació de «L'escudella de Sant Antoni», amb dades de la Viquipèdia en català, llicència CC BY-SA 4.0. S'indiquen les fonts i es conserva la condició de compartir igual per a aquesta adaptació.
 - Adaptació de «La marratxa» i «El Pareatge», amb dades citades de la Viquipèdia en català, llicència CC BY-SA 4.0. S'indiquen les fonts i es conserva la condició de compartir igual per a aquesta adaptació.
 - Adaptació de «La marratxa», amb dades de la Viquipèdia en català, llicència CC BY-SA 4.0. S'indiquen les fonts i es conserva la condició de compartir igual per a aquesta adaptació.
 - Adaptació de «La marratxa», amb dades de «Ball de la Marratxa», Viquipèdia en català, llicència CC BY-SA 4.0. S'indiquen les fonts i es conserva la condició de compartir igual per a aquesta adaptació.
