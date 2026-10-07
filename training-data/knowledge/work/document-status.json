@@ -430,5 +430,22 @@
     "reviewed_units": [
       "El romiatge anual de Meritxell aplega les set parròquies el primer diumenge de maig; no és la festa nacional del 8 de setembre."
     ]
+  },
+  "docs/temes/costums/ritus-de-pas/ritus-de-pas.md": {
+    "status": "in_progress",
+    "open_units": [
+      "Costums de naixement, bateig i primera comunió no documentats.",
+      "Festeig, casament, dol i enterrament sense fonts locals identificades.",
+      "Successió de la casa pirinenca: hereus, pubilles i cabalers encara sense fitxa.",
+      "Majoria d’edat i servei militar no documentats per a aquesta branca.",
+      "Fórmules orals de felicitació, brindis, condol i comiat pendents de fonts orals.",
+      "Ús de «nascència» referit a persones no documentat."
+    ],
+    "conversation_ids": [
+      "nascencia-animals-i-persones-001"
+    ],
+    "reviewed_units": [
+      "El corpus documenta «nascència» aplicada a animals, però no permet confirmar-ne l’ús referit a persones ni declarar-lo incorrecte."
+    ]
   }
 }

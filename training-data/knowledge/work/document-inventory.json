@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 25,
+    "in_progress": 27,
     "no_natural_question": 0,
-    "not_started": 1323
+    "not_started": 1321
   },
   "documents": [
     {
@@ -613,11 +613,22 @@
       "type": "article",
       "topic": "temes/costums/ritus-de-pas",
       "source": "iec-vocabulari-andorra",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "nascencia-animals-i-persones-001"
+      ],
+      "reviewed_units": [
+        "El corpus documenta «nascència» aplicada a animals, però no permet confirmar-ne l’ús referit a persones ni declarar-lo incorrecte."
+      ],
+      "open_units": [
+        "Costums de naixement, bateig i primera comunió no documentats.",
+        "Festeig, casament, dol i enterrament sense fonts locals identificades.",
+        "Successió de la casa pirinenca: hereus, pubilles i cabalers encara sense fitxa.",
+        "Majoria d’edat i servei militar no documentats per a aquesta branca.",
+        "Fórmules orals de felicitació, brindis, condol i comiat pendents de fonts orals.",
+        "Ús de «nascència» referit a persones no documentat."
+      ],
       "completion_note": "",
       "reason": ""
     },
@@ -16124,9 +16135,11 @@
       "type": "article",
       "topic": "temes/llengua/lexic-andorra",
       "source": "iec-vocabulari-andorra",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "nascencia-animals-i-persones-001"
+      ],
       "reviewed_units": [],
       "open_units": [],
       "completion_note": "",
