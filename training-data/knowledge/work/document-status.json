@@ -2122,12 +2122,20 @@
       "title": "Qui cobra els ajuts agraris",
       "type": "article",
       "topic": "temes/economia/ramaderia-i-agricultura",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 82,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/economia/ramaderia-i-agricultura/qui-cobra-els-ajuts-agraris.md#unit-0028",
+        "docs/temes/economia/ramaderia-i-agricultura/qui-cobra-els-ajuts-agraris.md#unit-0030",
+        "docs/temes/economia/ramaderia-i-agricultura/qui-cobra-els-ajuts-agraris.md#unit-0033",
+        "docs/temes/economia/ramaderia-i-agricultura/qui-cobra-els-ajuts-agraris.md#unit-0036",
+        "docs/temes/economia/ramaderia-i-agricultura/qui-cobra-els-ajuts-agraris.md#unit-0039"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 82,
-      "conversation_ids": []
+      "open_unit_count": 77,
+      "conversation_ids": [
+        "ajut-muntanya-escaldes-explotacions-i-pastura-001"
+      ]
     },
     "docs/temes/economia/ramaderia-i-agricultura/ramaderia-i-agricultura-index-de-fitxes.md": {
       "title": "Ramaderia i agricultura — índex de fitxes",
