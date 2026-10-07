@@ -9,7 +9,7 @@
   "file_count": 1477,
   "article_count": 1348,
   "parse_error_count": 0,
-  "conversation_count": 109,
+  "conversation_count": 110,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 0,
@@ -270,10 +270,11 @@
       "topic": "temes/costums/danses",
       "source": "wikipedia-llegendes-andorra",
       "status": "in_progress",
-      "conversation_count": 4,
+      "conversation_count": 5,
       "conversation_ids": [
         "festes-ossa-abast-geografic-emigracio-001",
         "festes-ossa-candelera-calendari-tradicio-001",
+        "festes-ossa-farsa-teatre-dansa-001",
         "festes-ossa-ordino-calendari-carnaval-001",
         "festes-ossa-origen-i-primera-referencia-001"
       ],
@@ -283,7 +284,8 @@
         "La font documenta celebracions de l'ossa a set indrets i situa la temporada tradicional entre Sant Esteve i Carnaval.",
         "La font atribueix la decadència i desaparició de moltes festes a l'emigració juvenil cap al sud de França als anys vint, sense oferir cronologies locals completes.",
         "La tradició vinculava les dates entre Sant Esteve i Carnaval amb la hibernació de l'ossa fins a la Candelera, el 2 de febrer; es conserva com a explicació tradicional.",
-        "La font considera probable l'origen medieval, però identifica només una primera referència escrita el 1838, obra de Tomàs Junoy i Arraut; això no demostra la data d'origen."
+        "La font considera probable l'origen medieval, però identifica només una primera referència escrita el 1838, obra de Tomàs Junoy i Arraut; això no demostra la data d'origen.",
+        "Les festes combinen teatre i dansa; la farsa còmica d'un acte usa la cacera com a pretext per escenificar trifulgues. A Ordino, el conflicte entre els personatges principals s'aclareix quan s'uneixen per matar l'ossa."
       ],
       "open_units": [
         "Confirmar amb fonts primàries la cronologia d'interrupcions i represes d'Ordino; les fonts secundàries discrepen sobre les dates anteriors a 2017.",
