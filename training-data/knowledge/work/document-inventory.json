@@ -280,13 +280,14 @@
       "topic": "temes/costums/danses",
       "source": "wikipedia-llegendes-andorra",
       "status": "in_progress",
-      "conversation_count": 6,
+      "conversation_count": 7,
       "conversation_ids": [
         "festes-ossa-emigracio-i-represa-ordino-01",
         "ossa-calendari-hibernacio-i-tradicio-01",
         "ossa-reference-escrita-1838-i-origen-01",
         "ultima-ossa-mascara-centenaria-01",
         "ultima-ossa-ordino-carnaval-i-desembre-01",
+        "ultima-ossa-sang-i-ball-final-01",
         "unesco-festes-os-encamp-ordino-2022-01"
       ],
       "reviewed_units": [
@@ -298,7 +299,9 @@
         "l’Última Ossa d’Ordino fa servir una màscara centenària de cap d’ós dissecat, transmesa entre generacions; es manté després de la represa del 2017",
         "inscripció UNESCO del 2022 en candidatura conjunta d’Andorra i França; la notícia del Govern identifica Encamp i Ordino i no enumera totes les versions històriques",
         "primera referència escrita registrada el 1838 a la Relació sobre la Vall de Andorra de Tomàs Junoy; no equival a data d’origen, que es proposa com a medieval només probable",
-        "la celebració entre Sant Esteve i Carnaval s’explica per la creença que l’ossa hibernava entre Nadal i la Candelera; no és dada zoològica verificada"
+        "la celebració entre Sant Esteve i Carnaval s’explica per la creença que l’ossa hibernava entre Nadal i la Candelera; no és dada zoològica verificada",
+        "a l’Última Ossa d’Ordino, la «sang» que es comparteix és aigua amb granadina i la minyona la «pua»",
+        "la festa acaba amb un ball col·lectiu de cançons populars amb l’ossa"
       ],
       "completion_note": "",
       "reason": ""
