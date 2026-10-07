@@ -738,6 +738,7 @@
         "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0015",
         "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0016",
         "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0017",
+        "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0018",
         "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0019",
         "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0020",
         "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0021",
@@ -777,7 +778,7 @@
         "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0057"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 21,
+      "open_unit_count": 20,
       "conversation_ids": [
         "biblioteques-canvi-tipus-prestec-001",
         "biblioteques-evolucio-per-edat-001",
@@ -786,6 +787,7 @@
         "biblioteques-prestecs-i-inscripcions-001",
         "cinema-pel-tram-dedat-001",
         "cultura-canvis-i-pandemia-001",
+        "esport-canvi-per-edat-001",
         "lectura-oci-canvis-sexe-estudis-renda-001",
         "museus-assistencia-per-edat-001",
         "museus-enquesta-i-comptatge-de-visitants-001"
