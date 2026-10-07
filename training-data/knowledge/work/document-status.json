@@ -145,5 +145,15 @@
       "Qui va demanar i negociar la gestió a Madrid continua sense saber-se; el corpus no conserva una veu andorrana sobre l’afer duaner concret.",
       "El plet esmentat pel ministre de Foment no està identificat ni se’n coneix el desenllaç."
     ]
+  },
+  "docs/temes/historia/segle-xix/el-desenllac-de-la-questio-duanera.md": {
+    "status": "in_progress",
+    "reviewed_units": [
+      "Vilar 1904 cita cròniques que atribueixen al bisbe oposició a la franquícia per temors de contraban i una estimació de menys de 45 mules; la quota de 450 era una proposta, no un cens."
+    ],
+    "open_units": [
+      "No hi ha un cens independent de les mules que permeti confirmar o refutar la dada atribuïda al bisbe.",
+      "Queden per revisar altres unitats de la fitxa sobre els límits, el tràmit i les conseqüències de la proposta duanera."
+    ]
   }
 }

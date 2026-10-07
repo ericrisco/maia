@@ -4,7 +4,7 @@ El recompte inclou tots els Markdown de `docs/temes/`, també índexs i altres f
 
 - Fitxers Markdown inventariats: **1477**.
 - Fitxes `article`: **1348**.
-- Converses candidates amb procedència: **78**.
+- Converses candidates amb procedència: **79**.
 
 ## Estat de tots els fitxers
 
@@ -12,9 +12,9 @@ El recompte inclou tots els Markdown de `docs/temes/`, també índexs i altres f
 |---|---:|
 | Completats | 0 |
 | Exclosos per drets | 1 |
-| En curs | 8 |
+| En curs | 9 |
 | Sense pregunta natural | 0 |
-| No començats | 1468 |
+| No començats | 1467 |
 
 ## Estat de les fitxes article
 
@@ -22,9 +22,9 @@ El recompte inclou tots els Markdown de `docs/temes/`, també índexs i altres f
 |---|---:|
 | Completats | 0 |
 | Exclosos per drets | 1 |
-| En curs | 8 |
+| En curs | 9 |
 | Sense pregunta natural | 0 |
-| No començats | 1339 |
+| No començats | 1338 |
 
 ## Estat per tema
 
@@ -92,7 +92,7 @@ El recompte inclou tots els Markdown de `docs/temes/`, també índexs i altres f
 | `temes/historia/moments-historics` | 2 | 1 | 1 | 0 | 0 |
 | `temes/historia/origens` | 15 | 15 | 0 | 0 | 0 |
 | `temes/historia/pareatge` | 6 | 6 | 0 | 0 | 0 |
-| `temes/historia/segle-xix` | 29 | 27 | 2 | 0 | 0 |
+| `temes/historia/segle-xix` | 29 | 26 | 3 | 0 | 0 |
 | `temes/historia/segle-xx-primera-meitat` | 30 | 30 | 0 | 0 | 0 |
 | `temes/institucions/comuns-i-parroquies` | 35 | 35 | 0 | 0 | 0 |
 | `temes/institucions/consell-general` | 84 | 84 | 0 | 0 | 0 |

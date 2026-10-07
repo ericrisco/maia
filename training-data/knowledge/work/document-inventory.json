@@ -2,20 +2,20 @@
   "source_root": "docs/temes/",
   "file_count": 1477,
   "article_count": 1348,
-  "conversation_count": 78,
+  "conversation_count": 79,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 1,
-    "in_progress": 8,
+    "in_progress": 9,
     "no_natural_question": 0,
-    "not_started": 1468
+    "not_started": 1467
   },
   "article_status_totals": {
     "complete": 0,
     "excluded_rights": 1,
-    "in_progress": 8,
+    "in_progress": 9,
     "no_natural_question": 0,
-    "not_started": 1339
+    "not_started": 1338
   },
   "documents": [
     {
@@ -10646,11 +10646,18 @@
       "type": "article",
       "topic": "temes/historia/segle-xix",
       "source": "vilar-andorre-1904",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "duanes-1895-argument-bisbe-i-mules-001"
+      ],
+      "reviewed_units": [
+        "Vilar 1904 cita cròniques que atribueixen al bisbe oposició a la franquícia per temors de contraban i una estimació de menys de 45 mules; la quota de 450 era una proposta, no un cens."
+      ],
+      "open_units": [
+        "No hi ha un cens independent de les mules que permeti confirmar o refutar la dada atribuïda al bisbe.",
+        "Queden per revisar altres unitats de la fitxa sobre els límits, el tràmit i les conseqüències de la proposta duanera."
+      ],
       "completion_note": "",
       "reason": "",
       "exclusion_reason": ""
@@ -10782,8 +10789,9 @@
       "topic": "temes/historia/segle-xix",
       "source": "diario-sesiones-corts-1895",
       "status": "in_progress",
-      "conversation_count": 4,
+      "conversation_count": 5,
       "conversation_ids": [
+        "duanes-1895-argument-bisbe-i-mules-001",
         "duanes-1895-argument-comerc-470000-001",
         "duanes-fabrica-teixits-manufactures-1895-001",
         "franquicia-bestiar-congres-senat-1895-001",
