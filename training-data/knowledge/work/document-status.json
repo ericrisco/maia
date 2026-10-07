@@ -336,6 +336,22 @@
         "Verificar directament la Relació sobre la Vall de Andorra de 1838 i cercar fonts anteriors; l'origen medieval continua sent una hipòtesi.",
         "Verificar amb inventari, testimonis o documentació patrimonial l'antiguitat exacta i la procedència de la màscara d'Ordino."
       ]
+    },
+    "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md": {
+      "status": "in_progress",
+      "conversation_ids": [
+        "ball-ossa-encamp-sicoris-modernitzacio-001"
+      ],
+      "covered_units": [
+        "Sícoris va escriure el guió el 1959, va modernitzar la representació i hi va introduir megafonia.",
+        "El guió encara n'és l'esquema; la font no detalla quins elements anteriors es van conservar."
+      ],
+      "open_units": [
+        "Verificar amb fonts accessibles la interpretació iniciàtica i les etapes atribuïdes a la tesi doctoral d'Eloi Ysàs Trias.",
+        "No reutilitzar la transcripció llarga de Joan Amades sense resoldre'n els drets; contrastar les diferències entre la descripció de 1950 i la representació actual.",
+        "Revisar els personatges, la història escènica i els elements actuals que encara no tenen cobertura conversacional.",
+        "Contrastar la cronologia d'Ordino i el reconeixement UNESCO amb fonts primàries compatibles."
+      ]
     }
   },
   "schema_version": 1

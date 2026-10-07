@@ -9,20 +9,20 @@
   "file_count": 1477,
   "article_count": 1348,
   "parse_error_count": 0,
-  "conversation_count": 111,
+  "conversation_count": 112,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 0,
-    "in_progress": 8,
+    "in_progress": 9,
     "no_natural_question": 0,
-    "not_started": 1469
+    "not_started": 1468
   },
   "article_status_totals": {
     "complete": 0,
     "excluded_rights": 0,
-    "in_progress": 8,
+    "in_progress": 9,
     "no_natural_question": 0,
-    "not_started": 1340
+    "not_started": 1339
   },
   "documents": [
     {
@@ -159,11 +159,21 @@
       "type": "article",
       "topic": "temes/costums/danses",
       "source": "wikipedia-ball-ossa-encamp",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "ball-ossa-encamp-sicoris-modernitzacio-001"
+      ],
+      "reviewed_units": [
+        "Sícoris va escriure el guió el 1959, va modernitzar la representació i hi va introduir megafonia.",
+        "El guió encara n'és l'esquema; la font no detalla quins elements anteriors es van conservar."
+      ],
+      "open_units": [
+        "Verificar amb fonts accessibles la interpretació iniciàtica i les etapes atribuïdes a la tesi doctoral d'Eloi Ysàs Trias.",
+        "No reutilitzar la transcripció llarga de Joan Amades sense resoldre'n els drets; contrastar les diferències entre la descripció de 1950 i la representació actual.",
+        "Revisar els personatges, la història escènica i els elements actuals que encara no tenen cobertura conversacional.",
+        "Contrastar la cronologia d'Ordino i el reconeixement UNESCO amb fonts primàries compatibles."
+      ],
       "completion_note": "",
       "reason": "",
       "exclusion_reason": "",
