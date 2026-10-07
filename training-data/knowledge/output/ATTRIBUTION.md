@@ -56,6 +56,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - Pere Canturri i Montanya, «Usos i costums d’Andorra» (2002), informació sobre els gegants i la tradició de Sant Julià; publicació d’accés obert.
 - Pere Canturri i Montanya, «Usos i costums d’Andorra», 15a Diada Andorrana a la XXXIV Universitat Catalana d’Estiu (2002), dins Una història d’Andorra, temàtica, p. 209 i següents.
 - Premsa andorrana; la fitxa de font no identifica el diari, l’article, la data ni l’URL de la publicació concreta.
+- Viquipèdia en català, article «Ball de l’ossa d’Encamp», llicència CC BY-SA 4.0; compara l’escenari descrit per Amades el 1950 amb el lloc actual.
 - Viquipèdia en català, article «Ball de l’ossa d’Encamp», llicència CC BY-SA 4.0; el passatge històric es presenta com una descripció de Joan Amades publicada el 1950.
 - Viquipèdia en català, article «Ball de l’ossa d’Encamp», llicència CC BY-SA 4.0; la font descriu «Els contrabandistes» i «L’ossa» com a farses complementàries en dies consecutius.
 - Viquipèdia en català, article «Ball de l’ossa d’Encamp», llicència CC BY-SA 4.0; la interpretació simbòlica s’hi atribueix a Eloi Ysàs Trias.
@@ -102,6 +103,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - CC BY-SA 4.0; atribució i compartir igual. La llista s’atribueix a la font i no s’infereixen funcions que no hi són descrites.
 - CC BY-SA 4.0; atribució i compartir igual. La resposta resumeix dues trames diferenciades i no les fusiona.
 - CC BY-SA 4.0; atribució i compartir igual. Les dues pràctiques s’atribueixen a les seves localitats i no es generalitzen a totes les variants.
+- CC BY-SA 4.0; atribució i compartir igual. Les localitzacions i la disposició escènica es presenten amb la cronologia indicada per la font.
 - CC BY-SA 4.0; atribució i compartir igual. Les obres citades són només referències, no contingut consultat ni reproduït.
 - CC BY-SA 4.0; atribució i compartir igual. L’origen medieval no és una dada demostrada.
 - CC BY-SA 4.0; atribució i compartir igual. No redistribuir sense conservar les condicions de la llicència.
