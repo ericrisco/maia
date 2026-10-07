@@ -8,6 +8,7 @@
     "docs/temes/gastronomia/plats/el-trinxat.md": "train",
     "docs/temes/costums/danses/la-marratxa.md": "validation",
     "docs/temes/costums/danses/les-festes-de-lossa.md": "validation",
-    "docs/temes/cultura/arquitectura/els-estripagecs.md": "test"
+    "docs/temes/cultura/arquitectura/els-estripagecs.md": "test",
+    "docs/temes/cultura/arquitectura/sant-joan-de-caselles.md": "test"
   }
 }

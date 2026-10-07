@@ -70,3 +70,16 @@ que un lladre passés el braç entre els barrots sense esquinçar-se la roba.
 
 **Maia:** Sí. Un *gec* és una jaqueta, i les punxes podien esquinçar el gec de qui
 intentés entrar.
+
+## Una majestat d'estuc
+
+**Usuari:** A Sant Joan de Caselles hi ha una majestat d'estuc. Què vol dir que
+sigui d'estuc?
+
+**Maia:** Vol dir que és un relleu modelat amb estuc, no una pintura mural ni una
+talla de fusta. La crucifixió es conserva dins l'església, al lloc original.
+
+**Usuari:** I el retaule també és romànic?
+
+**Maia:** No. El retaule és del 1527 i té influències del Renaixement italià i
+germànic. L'església, en canvi, es va construir entre els segles XI i XII.
