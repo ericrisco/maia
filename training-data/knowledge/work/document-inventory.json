@@ -2,7 +2,7 @@
   "source_root": "docs/temes/",
   "file_count": 1477,
   "article_count": 1348,
-  "conversation_count": 23,
+  "conversation_count": 24,
   "file_status_totals": {
     "complete": 0,
     "in_progress": 5,
@@ -15433,12 +15433,13 @@
       "topic": "temes/institucions/relacions-exteriors",
       "source": "eur-lex-protocol-seguretat-duanera-2011",
       "status": "in_progress",
-      "conversation_count": 9,
+      "conversation_count": 10,
       "conversation_ids": [
         "andorra-veu-seguretat-duanera-2011-001",
         "comites-duaners-participacio-andorra-001",
         "expert-andorra-comites-duaners-2003-001",
         "operadors-autoritzats-intercanvi-dades-001",
+        "protocol-2011-canvi-relacio-i-dades-001",
         "protocol-duaner-aplicacio-provisional-2011-001",
         "protocol-duaner-catala-autentic-2011-001",
         "protocol-duaner-consulta-suspensio-excepcio-001",
@@ -15455,7 +15456,8 @@
         "Article 3: aplicació provisional des de l’1-01-2011; entrada definitiva condicionada a notificacions que el corpus no conserva.",
         "Article 4: vint-i-tres llengües igualment autèntiques, català inclòs; signatura andorrana en català a la versió anglesa; text català íntegre no localitzat.",
         "Article 65 de la Decisió 1/2003: els dos comitès elegibles i el límit temàtic de participació.",
-        "Article 12k(1): consulta prèvia per a mesures de reequilibri i excepció per a mesures provisionals urgents."
+        "Article 12k(1): consulta prèvia per a mesures de reequilibri i excepció per a mesures provisionals urgents.",
+        "Abast del protocol: el títol IIA transforma l’acord duaner de 1990 en un mecanisme d’alineament de seguretat amb la UE, mantenint facilitació del trànsit; el preàmbul cita l’adequació de dades de 2010."
       ],
       "open_units": [],
       "completion_note": "",
@@ -15468,13 +15470,14 @@
       "topic": "temes/institucions/relacions-exteriors",
       "source": "eur-lex-adequacio-dades-andorra-2010",
       "status": "in_progress",
-      "conversation_count": 5,
+      "conversation_count": 6,
       "conversation_ids": [
         "adequacio-dades-andorra-condicions-2010-2024-001",
         "adequacio-dades-base-legal-i-reforma-2021-001",
         "adequacio-dades-reforma-2016-001",
         "adequacio-dades-suspensio-transferencies-001",
-        "andorra-llista-europea-adequacio-dades-001"
+        "andorra-llista-europea-adequacio-dades-001",
+        "protocol-2011-canvi-relacio-i-dades-001"
       ],
       "reviewed_units": [
         "Decisió 2010/625/UE: adequació de transferències des de la UE, caràcter condicional i mancances assenyalades sobre decisions automatitzades.",
