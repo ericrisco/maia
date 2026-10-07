@@ -428,13 +428,14 @@
       "topic": "temes/costums/religiositat",
       "source": "bopa-ad",
       "status": "in_progress",
-      "conversation_count": 11,
+      "conversation_count": 12,
       "conversation_ids": [
         "registre-religios-acces-public-i-consulta-concreta-02",
         "registre-religios-canals-dialeg-obligacio-i-prova-08",
         "registre-religios-cancellacio-inactivitat-i-avis-03",
         "registre-religios-comptatge-practicants-i-llocs-culte-06",
         "registre-religios-dades-organs-govern-consentiment-05",
+        "registre-religios-declaracio-biennal-i-incompliment-12",
         "registre-religios-entitat-estrangera-documents-09",
         "registre-religios-limits-proselitisme-proporcionalitat-07",
         "registre-religios-obligacions-abans-inscripcio-04",
@@ -453,10 +454,11 @@
         "Llei 2/2025, article 14 i exposició de motius: obligació d’establir canals de diàleg, diferenciada de les reunions documentades durant la preparació i de l’activitat posterior no verificada.",
         "Llei 2/2025, article 9.2 i 9.4: documentació addicional d’entitats d’origen estranger i requisits de forma, legalització, postil·la i traducció.",
         "Llei 2/2025, article 9.1, 9.3 i 9.5: dades i acta de constitució per a la sol·licitud, possibilitat de documentació reglamentària addicional i comunicació de canvis en tres mesos.",
-        "Llei 2/2025, article 6: termini ordinari i pròrroga, esmena de defectes, suspensió del còmput i caducitat de l’expedient."
+        "Llei 2/2025, article 6: termini ordinari i pròrroga, esmena de defectes, suspensió del còmput i caducitat de l’expedient.",
+        "Llei 2/2025, article 7, amb contrast amb l’article 11: declaració telemàtica biennal, anotació per incompliment i distinció respecte de la cancel·lació per deu anys d’inactivitat."
       ],
       "open_units": [
-        "Article 5: nomenament i funcions de la persona responsable i suplents; articles 7–8: declaració biennal i règim d’accés encara no coberts en tota l’amplitud; article 3.3: entitats de finalitat no religiosa; context constitucional de l’article 11; passada editorial integral i comprovació dels límits de cada afirmació."
+        "Article 5: nomenament i funcions de responsable i suplents; article 3.3: entitats centrades en finalitats no religioses; context constitucional de l’article 11; passada editorial integral i comprovació dels límits de cada afirmació."
       ],
       "completion_note": "",
       "reason": ""
