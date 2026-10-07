@@ -144,11 +144,11 @@
       "title": "El ball del Cerdà",
       "type": "article",
       "topic": "temes/costums/danses",
-      "status": "not_started",
+      "status": "complete",
       "unit_count": 15,
       "covered_unit_ids": [],
-      "excluded_unit_count": 0,
-      "open_unit_count": 15,
+      "excluded_unit_count": 15,
+      "open_unit_count": 0,
       "conversation_ids": []
     },
     "docs/temes/costums/danses/el-contrapas.md": {
