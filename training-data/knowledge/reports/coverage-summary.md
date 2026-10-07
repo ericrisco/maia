@@ -4,48 +4,48 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 
 - Fitxes article: **1348**.
 - Fitxers totals, inclosos índexs: **1477**.
-- Converses candidates: **63**.
+- Converses candidates: **1**.
 
 | Estat de revisió | Fitxes |
 |---|---:|
 | Revisades completes | 0 |
-| En curs | 71 |
+| En curs | 1 |
 | Revisades sense pregunta natural | 0 |
-| No començades | 1277 |
+| No començades | 1347 |
 
 ## Estat per tema
 
 | Tema | Articles | No començades | En curs | Completes | Sense pregunta natural |
 |---|---:|---:|---:|---:|---:|
 | `societat/treball` | 1 | 1 | 0 | 0 | 0 |
-| `temes/costums/calendari-festiu` | 2 | 0 | 2 | 0 | 0 |
-| `temes/costums/caramelles` | 1 | 0 | 1 | 0 | 0 |
-| `temes/costums/danses` | 7 | 0 | 7 | 0 | 0 |
-| `temes/costums/falles` | 1 | 0 | 1 | 0 | 0 |
-| `temes/costums/festes-majors` | 2 | 0 | 2 | 0 | 0 |
-| `temes/costums/gegants` | 1 | 0 | 1 | 0 | 0 |
-| `temes/costums/meritxell` | 1 | 0 | 1 | 0 | 0 |
-| `temes/costums/religiositat` | 5 | 0 | 5 | 0 | 0 |
-| `temes/costums/ritus-de-pas` | 2 | 0 | 2 | 0 | 0 |
-| `temes/costums/sant-antoni` | 1 | 0 | 1 | 0 | 0 |
-| `temes/cultura` | 1 | 0 | 1 | 0 | 0 |
-| `temes/cultura/andorra-vista-de-fora` | 6 | 0 | 6 | 0 | 0 |
-| `temes/cultura/arquitectura` | 11 | 0 | 11 | 0 | 0 |
-| `temes/cultura/artesania` | 2 | 0 | 2 | 0 | 0 |
-| `temes/cultura/arts-visuals` | 8 | 0 | 8 | 0 | 0 |
-| `temes/cultura/cultura-popular` | 2 | 0 | 2 | 0 | 0 |
-| `temes/cultura/literatura` | 1 | 0 | 1 | 0 | 0 |
-| `temes/cultura/llegendes` | 10 | 4 | 6 | 0 | 0 |
+| `temes/costums/calendari-festiu` | 2 | 2 | 0 | 0 | 0 |
+| `temes/costums/caramelles` | 1 | 1 | 0 | 0 | 0 |
+| `temes/costums/danses` | 7 | 7 | 0 | 0 | 0 |
+| `temes/costums/falles` | 1 | 1 | 0 | 0 | 0 |
+| `temes/costums/festes-majors` | 2 | 2 | 0 | 0 | 0 |
+| `temes/costums/gegants` | 1 | 1 | 0 | 0 | 0 |
+| `temes/costums/meritxell` | 1 | 1 | 0 | 0 | 0 |
+| `temes/costums/religiositat` | 5 | 5 | 0 | 0 | 0 |
+| `temes/costums/ritus-de-pas` | 2 | 2 | 0 | 0 | 0 |
+| `temes/costums/sant-antoni` | 1 | 1 | 0 | 0 | 0 |
+| `temes/cultura` | 1 | 1 | 0 | 0 | 0 |
+| `temes/cultura/andorra-vista-de-fora` | 6 | 6 | 0 | 0 | 0 |
+| `temes/cultura/arquitectura` | 11 | 11 | 0 | 0 | 0 |
+| `temes/cultura/artesania` | 2 | 2 | 0 | 0 | 0 |
+| `temes/cultura/arts-visuals` | 8 | 8 | 0 | 0 | 0 |
+| `temes/cultura/cultura-popular` | 2 | 2 | 0 | 0 | 0 |
+| `temes/cultura/literatura` | 1 | 1 | 0 | 0 | 0 |
+| `temes/cultura/llegendes` | 10 | 10 | 0 | 0 | 0 |
 | `temes/cultura/museus-i-arxius` | 15 | 15 | 0 | 0 | 0 |
 | `temes/cultura/museus-i-arxius/museus` | 11 | 11 | 0 | 0 | 0 |
 | `temes/cultura/musica-i-cancons` | 3 | 3 | 0 | 0 | 0 |
-| `temes/cultura/teatre` | 2 | 1 | 1 | 0 | 0 |
+| `temes/cultura/teatre` | 2 | 2 | 0 | 0 | 0 |
 | `temes/economia/banca-i-fiscalitat` | 33 | 33 | 0 | 0 | 0 |
 | `temes/economia/comerc` | 17 | 17 | 0 | 0 | 0 |
 | `temes/economia/energia-i-serveis` | 4 | 4 | 0 | 0 | 0 |
 | `temes/economia/les-grans-families` | 1 | 1 | 0 | 0 | 0 |
 | `temes/economia/ramaderia-i-agricultura` | 11 | 11 | 0 | 0 | 0 |
-| `temes/economia/tabac` | 5 | 4 | 1 | 0 | 0 |
+| `temes/economia/tabac` | 5 | 5 | 0 | 0 | 0 |
 | `temes/economia/transformacio-economica` | 10 | 10 | 0 | 0 | 0 |
 | `temes/economia/transport` | 5 | 5 | 0 | 0 | 0 |
 | `temes/economia/turisme-i-neu` | 4 | 4 | 0 | 0 | 0 |
@@ -74,18 +74,18 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 | `temes/historia/edat-mitjana` | 42 | 42 | 0 | 0 | 0 |
 | `temes/historia/guerres-i-neutralitat` | 22 | 22 | 0 | 0 | 0 |
 | `temes/historia/historia-recent` | 7 | 7 | 0 | 0 | 0 |
-| `temes/historia/historiografia` | 11 | 10 | 1 | 0 | 0 |
-| `temes/historia/manual-digest` | 5 | 4 | 1 | 0 | 0 |
+| `temes/historia/historiografia` | 11 | 11 | 0 | 0 | 0 |
+| `temes/historia/manual-digest` | 5 | 5 | 0 | 0 | 0 |
 | `temes/historia/moments-historics` | 2 | 2 | 0 | 0 | 0 |
-| `temes/historia/origens` | 15 | 14 | 1 | 0 | 0 |
+| `temes/historia/origens` | 15 | 15 | 0 | 0 | 0 |
 | `temes/historia/pareatge` | 6 | 6 | 0 | 0 | 0 |
 | `temes/historia/segle-xix` | 29 | 29 | 0 | 0 | 0 |
 | `temes/historia/segle-xx-primera-meitat` | 30 | 30 | 0 | 0 | 0 |
 | `temes/institucions/comuns-i-parroquies` | 35 | 35 | 0 | 0 | 0 |
 | `temes/institucions/consell-general` | 84 | 84 | 0 | 0 | 0 |
-| `temes/institucions/coprincipat` | 33 | 32 | 1 | 0 | 0 |
+| `temes/institucions/coprincipat` | 33 | 33 | 0 | 0 | 0 |
 | `temes/institucions/govern` | 8 | 8 | 0 | 0 | 0 |
-| `temes/institucions/justicia` | 138 | 136 | 2 | 0 | 0 |
+| `temes/institucions/justicia` | 138 | 137 | 1 | 0 | 0 |
 | `temes/institucions/nacionalitat-i-residencia` | 18 | 18 | 0 | 0 | 0 |
 | `temes/institucions/patrimoni-institucional` | 6 | 6 | 0 | 0 | 0 |
 | `temes/institucions/petits-estats` | 2 | 2 | 0 | 0 | 0 |
@@ -97,14 +97,14 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 | `temes/llengua/fonetica` | 2 | 2 | 0 | 0 | 0 |
 | `temes/llengua/fraseologia` | 1 | 1 | 0 | 0 | 0 |
 | `temes/llengua/historia-de-la-llengua` | 3 | 3 | 0 | 0 | 0 |
-| `temes/llengua/lexic-andorra` | 3 | 2 | 1 | 0 | 0 |
+| `temes/llengua/lexic-andorra` | 3 | 3 | 0 | 0 | 0 |
 | `temes/llengua/manlleus` | 4 | 4 | 0 | 0 | 0 |
 | `temes/llengua/morfosintaxi` | 3 | 3 | 0 | 0 | 0 |
 | `temes/llengua/onomastica` | 3 | 3 | 0 | 0 | 0 |
 | `temes/llengua/politica-linguistica` | 13 | 13 | 0 | 0 | 0 |
 | `temes/llengua/registres` | 1 | 1 | 0 | 0 | 0 |
 | `temes/llengua/tractament` | 1 | 1 | 0 | 0 | 0 |
-| `temes/persones` | 43 | 42 | 1 | 0 | 0 |
+| `temes/persones` | 43 | 43 | 0 | 0 | 0 |
 | `temes/politica/identitat-politica` | 3 | 3 | 0 | 0 | 0 |
 | `temes/politica/parlamentarisme` | 4 | 4 | 0 | 0 | 0 |
 | `temes/politica/partits` | 3 | 3 | 0 | 0 | 0 |
@@ -127,7 +127,7 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 | `temes/territori/fauna-i-flora` | 5 | 5 | 0 | 0 | 0 |
 | `temes/territori/geografia-fisica` | 9 | 9 | 0 | 0 | 0 |
 | `temes/territori/paisatge-construit` | 5 | 5 | 0 | 0 | 0 |
-| `temes/territori/parroquies/andorra-la-vella` | 1 | 0 | 1 | 0 | 0 |
+| `temes/territori/parroquies/andorra-la-vella` | 1 | 1 | 0 | 0 | 0 |
 | `temes/territori/parroquies/canillo` | 1 | 1 | 0 | 0 | 0 |
 | `temes/territori/parroquies/encamp` | 1 | 1 | 0 | 0 | 0 |
 | `temes/territori/parroquies/escaldes-engordany` | 1 | 1 | 0 | 0 | 0 |
