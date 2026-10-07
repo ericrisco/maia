@@ -19,15 +19,18 @@
   "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md": {
     "status": "in_progress",
     "conversation_ids": [
-      "ball-ossa-dallaires-i-ritus-pas-01"
+      "ball-ossa-dallaires-i-ritus-pas-01",
+      "ball-ossa-encamp-i-cortinada-variants-02"
     ],
     "reviewed_units": [
       "Paper central dels dallaires i diferència entre els joves intèrprets i la resta de personatges.",
-      "Lectura del ball com a ritus d’iniciació, atribuïda a Eloi Ysàs Trias i identificada com a interpretació."
+      "Lectura del ball com a ritus d’iniciació, atribuïda a Eloi Ysàs Trias i identificada com a interpretació.",
+      "Diferència d’argument entre Encamp i la Cortinada; la font descriu variants locals i no un guió únic."
     ],
     "open_units": [
       "Tesi d’Eloi Ysàs Trias no consultada directament; text de la farsa, variants, música i context complet pendents.",
-      "Discrepàncies sobre cronologia d’Ordino i estat patrimonial resoltes o no segons les fonts indicades a la fitxa; revisar cada unitat abans de generar preguntes."
+      "Discrepàncies sobre cronologia d’Ordino i estat patrimonial resoltes o no segons les fonts indicades a la fitxa; revisar cada unitat abans de generar preguntes.",
+      "Relació històrica entre les variants, cronologies i fonts primàries locals pendents."
     ]
   },
   "docs/temes/cultura/teatre/el-teatre-de-carnestoltes.md": {
