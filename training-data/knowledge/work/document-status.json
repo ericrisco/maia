@@ -66,16 +66,20 @@
   },
   "docs/temes/gastronomia/plats/lescudella-de-sant-antoni.md": {
     "status": "in_progress",
-    "conversation_ids": ["recuperacions-escudella-sant-antoni-per-parroquia-01"],
+    "conversation_ids": [
+      "recuperacions-escudella-sant-antoni-per-parroquia-01",
+      "escudella-sant-antoni-origen-tons-01"
+    ],
     "covered_units": [
       "recuperació de l'escudella comunitària a Andorra la Vella a principis dels anys setanta per uns amics anomenats Anton",
-      "diferència entre el cas d'Andorra la Vella i la vianda de Canillo"
+      "diferència entre el cas d'Andorra la Vella i la vianda de Canillo",
+      "antecedent de repartiment de menjar als pobres el dia de Sant Antoni",
+      "els Tons són els Antons que celebren el sant i els escudellaires cuinen i reparteixen el menjar",
+      "la font no dona els noms dels fundadors ni la data exacta de recuperació"
     ],
     "open_units": [
       "ingredients de l'escudella i la denominació de plat nacional",
-      "antecedent de repartiment de menjar als pobres el dia de Sant Antoni",
-      "origen del nom Tons i diferència amb escudellaires",
-      "buits sobre la data exacta, fundadors, confraria, racions i altres parròquies"
+      "estatuts de la confraria, nombre de racions i escudelles d'altres parròquies"
     ],
     "note": "Primera conversa de síntesi amb la fitxa de Sant Antoni de Canillo."
   }
