@@ -1515,8 +1515,9 @@
       "topic": "temes/cultura/teatre",
       "source": "masegosa-teatre-andorra",
       "status": "in_progress",
-      "conversation_count": 6,
+      "conversation_count": 7,
       "conversation_ids": [
+        "arlequins-canillo-judici-carnestoltes-01",
         "ball-ossa-versions-localitats-01",
         "judici-contrabandistes-text-i-antiguitat-01",
         "operacio-carnestoltes-viscera-escenari-01",
@@ -1532,7 +1533,9 @@
         "Tralarí i Marieta: text escrit no localitzat; descripció basada en narracions orals i fotografies",
         "seqüència de quatre escenes de Tralarí i Marieta",
         "variant de nom del Tralarí i Marieta a Canillo",
-        "període anual de representació entre dissabte de Carnaval i dimecres de Cendra"
+        "període anual de representació entre dissabte de Carnaval i dimecres de Cendra",
+        "farsa del dimecres de Cendra a Canillo: judici del Carnestoltes, no procés real",
+        "estat de les farses de Canillo documentat per la tesi de 2017 i límit temporal de l’afirmació"
       ],
       "completion_note": "",
       "reason": ""
