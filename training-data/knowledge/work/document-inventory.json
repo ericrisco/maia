@@ -9,7 +9,7 @@
   "file_count": 1477,
   "article_count": 1348,
   "parse_error_count": 0,
-  "conversation_count": 46,
+  "conversation_count": 47,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 0,
@@ -1392,7 +1392,7 @@
       "topic": "temes/cultura/museus-i-arxius",
       "source": "jurisprudencia-ad",
       "status": "in_progress",
-      "conversation_count": 46,
+      "conversation_count": 47,
       "conversation_ids": [
         "diposit-legal-anuari-i-serie-numerada-001",
         "diposit-legal-bases-dades-programari-exemplars-001",
@@ -1404,6 +1404,7 @@
         "diposit-legal-competencia-i-caducitat-sancionadora-001",
         "diposit-legal-composicio-numero-001",
         "diposit-legal-consulta-material-digital-001",
+        "diposit-legal-contingut-restringit-termini-i-canvis-001",
         "diposit-legal-cromos-i-naips-exemplars-001",
         "diposit-legal-determinacio-dubtes-i-silenci-001",
         "diposit-legal-diapositives-microformes-transparencies-001",
@@ -1488,7 +1489,8 @@
         "Decret 100/2026, article 3: process to determine whether material is subject to legal deposit, ten-business-day deadline, positive silence, and no suspension of pre-publication number duty.",
         "Llei 15/2025, article 11.1.b: two copies for non-commercial dissemination sheets and for advertising posters as a separate category.",
         "Llei 15/2025, article 11.1.b: two copies for prints, plates and artistic advertisements.",
-        "Llei 15/2025, article 30: serious offenses include false data, fraudulent number manipulation and inspection obstruction; late delivery is minor, repetition escalates."
+        "Llei 15/2025, article 30: serious offenses include false data, fraudulent number manipulation and inspection obstruction; late delivery is minor, repetition escalates.",
+        "Llei 15/2025, article 26: 30-calendar-day deadline for restricted online deposits and duty to notify address, access-instruction and key changes."
       ],
       "open_units": [
         "Finish reviewing the remaining physical deposit categories and special formats, periodicals, film/television/radio, and linked regulations.",
