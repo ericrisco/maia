@@ -220,7 +220,8 @@
       "excepcio-fadri-claudators-original-incert-01",
       "taxacio-penyores-quarta-vuit-deu-01",
       "ampara-collita-llindar-blat-herba-01",
-      "termini-collita-nou-o-deu-discrepancia-01"
+      "termini-collita-nou-o-deu-discrepancia-01",
+      "apel-lordre-batlle-recupere-penyores-tres-dies-01"
     ],
     "reviewed_units": [
       "embargament de collita només després de la sega; possible relació amb calendari de feriats marcada com a hipòtesi, no com a regla coordinada",
@@ -230,11 +231,12 @@
       "incertesa de la clàusula sobre el fadrí sense casa: entre claudàtors a l’edició i no verificable sense localitzar el manuscrit original",
       "taxació de mobles i bestiar: el creditor havia d’acceptar les penyores; s’hi afegia una quarta part (vuit lliures de deute, deu de taxació), valorada per dos judicadors o prohoms; no consta com es liquidava una diferència eventual",
       "empara de collita: finca especialment hipotecada, fruit ja segat i dallat encara a la finca; blat lliurat directament al creditor i herba subhastada amb una quarta addicional",
-      "termini per pagar després de l’empara de collita: el paràgraf dona nou i deu dies en punts diferents, sense resolució ni explicació de la divergència"
+      "termini per pagar després de l’empara de collita: el paràgraf dona nou i deu dies en punts diferents, sense resolució ni explicació de la divergència",
+      "ordre del batlle per lliurar penyores: força de sentència i possibilitat d’apel·lar; sense apel·lació ni lletra inhibitòria dins del termini fixat, subhasta pel nunci; tres dies posteriors per pagar i recuperar-les"
     ],
     "open_units": [
       "datació: termini final del manuscrit desconegut; manca localitzar-ne l’original i establir un terminus ante quem",
-      "execució i recobrament: apel·lació, encants, lliurament i recuperació de penyores; collita insuficient; subhasta d’immobles; termini antic d’un any i un dia; relació hipotètica amb la Instructa de 1740"
+      "execució i recobrament encara pendents: significat i efectes de signar penyores, què passa si la collita no basta, subhasta d’immobles i regla antiga d’un any i un dia; relació hipotètica amb la Instructa de 1740"
     ]
   }
 }
