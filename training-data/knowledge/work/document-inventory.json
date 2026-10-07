@@ -374,7 +374,7 @@
       "topic": "temes/costums/religiositat",
       "source": "bopa-ad",
       "status": "in_progress",
-      "conversation_count": 10,
+      "conversation_count": 11,
       "conversation_ids": [
         "registre-religios-associacio-cultural-dependent-03",
         "registre-religios-cancellacio-inactivitat-06",
@@ -383,6 +383,7 @@
         "registre-religios-esmena-documents-terminari-09",
         "registre-religios-exclusio-parapsicologia-04",
         "registre-religios-no-inscrit-responsabilitat-i-inscripcio-01",
+        "registre-religios-noms-carrecs-consentiment-dades-11",
         "registre-religios-proselitisme-proporcionalitat-05",
         "registre-religios-publicitat-i-abast-02",
         "registre-religios-termin-inscripcio-prorroga-08"
@@ -400,7 +401,8 @@
         "Documentació addicional per a entitats d’origen i dependència estrangera, escriptura pública, legalització, postil·la i traducció (art. 9.2 i 9.4).",
         "Termini ordinari de dos mesos, possible pròrroga de dos mesos per instrucció i mesures d’instrucció possibles (art. 6).",
         "Esmena de defectes en trenta dies, suspensió del termini, caducitat i arxivament si no s’esmena, devolució d’originals i recurs administratiu (art. 6).",
-        "Denegació motivada després d’esmenar defectes, notificació, recurs administratiu potestatiu i accés directe a la via judicial urgent i preferent (art. 6)."
+        "Denegació motivada després d’esmenar defectes, notificació, recurs administratiu potestatiu i accés directe a la via judicial urgent i preferent (art. 6).",
+        "Inscripció dels noms de càrrecs representatius i tractament sense consentiment explícit, subjecte a protecció de dades (arts. 4.1.g i 12)."
       ],
       "open_units": [
         "Passada editorial integral de la fitxa: revisar la resta d’afirmacions i buits contra les converses i conservar explícitament allò que no consta."
