@@ -170,7 +170,7 @@
       "topic": "temes/costums/danses",
       "source": "wikipedia-ball-ossa-encamp",
       "status": "in_progress",
-      "conversation_count": 22,
+      "conversation_count": 23,
       "conversation_ids": [
         "carnaval-encamp-ossa-i-contrabandistes",
         "danses-parroquies-i-sardana-importada-01",
@@ -178,6 +178,7 @@
         "ossa-encamp-anonimat-dallaires-01",
         "ossa-encamp-balli-despres-de-farsa",
         "ossa-encamp-dallaires-i-ritus-de-pas-01",
+        "ossa-encamp-dallaires-sega-escena",
         "ossa-encamp-disfressa-i-interpretacio",
         "ossa-encamp-escenari-riu-i-actual",
         "ossa-encamp-fregona-personatge",
@@ -218,7 +219,8 @@
         "la descripció general UNESCO esmenta música, però no consta repertori, instruments ni partitures específiques del ball d’Encamp",
         "la descripció completa d’Amades és la versió del 1950, no necessàriament l’actual; una font posterior descriu una trama diferent i no se sap quan va canviar",
         "a la versió d’Amades, el rusc és una construcció de cartó; l’ossa s’hi acosta per mel, els figurants entren en pànic i un caçador la mata, tancant la farsa",
-        "la lectura territorial de la farsa d’Ordino atribuïda a Masegosa és diferent de la hipòtesi general d’origen ritual medieval basada en el culte als ossos"
+        "la lectura territorial de la farsa d’Ordino atribuïda a Masegosa és diferent de la hipòtesi general d’origen ritual medieval basada en el culte als ossos",
+        "en la versió d’Amades de 1950, dos minyons feien de dallaires i simulaven dallar el prat; la font no diu que fossin segadors professionals"
       ],
       "completion_note": "",
       "reason": ""
