@@ -14972,19 +14972,21 @@
       "topic": "temes/institucions/justicia",
       "source": "brutails-coutume-1904",
       "status": "in_progress",
-      "conversation_count": 2,
+      "conversation_count": 3,
       "conversation_ids": [
+        "ampara-verificacio-deu-dies-subhasta-tres-01",
         "embargament-en-feriat-i-hipotesi-sega-01",
         "forasters-terminis-embargament-patron-no-regla-universal-01"
       ],
       "reviewed_units": [
         "embargament de collita només després de la sega; possible relació amb calendari de feriats marcada com a hipòtesi, no com a regla coordinada",
-        "terminis de pagament diferents per a reclamants habitants i forasters, embargament de béns i límits de la generalització"
+        "terminis de pagament diferents per a reclamants habitants i forasters, embargament de béns i límits de la generalització",
+        "verificació de l’empara: deu dies per justificar-la, nul·litat i alliberament si no es verifica, subhasta dins de tres dies i mitjans de prova esmentats"
       ],
       "open_units": [
-        "datació incerta del manuscrit i intervencions de l’editor entre claudàtors",
-        "abast de l’ampara, límits segons la cosa i funció del nunci",
-        "verificació i execució de l’embargament, terminis i fonts concurrents"
+        "datació del manuscrit: termini final desconegut i intervencions editorials entre claudàtors, inclosa l’excepció del fadrí sense casa",
+        "abast de l’empara segons la persona i el tipus de bé, i límit de l’actuació del nunci",
+        "execució posterior: vies diferents per a penyores, collites i immobles; taxació, venda, recuperació i terminis, sense projectar la regla antiga a períodes posteriors"
       ],
       "completion_note": "",
       "reason": ""
