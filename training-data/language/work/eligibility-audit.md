@@ -20,3 +20,7 @@ Una llicència oberta no substitueix la verificació de la transcripció. Cap fr
 La càpsula **34**, d'Albert Roig, té llicència CC BY individual confirmada. En aquest checkout hi ha fitxers locals d'àudio i vídeo, però són fora de Git i no formen part d'aquest informe com a contingut entrenable. La fitxa registra 121 marques d'incertesa en 867 segments; cap fragment no està verificat escoltant l'àudio.
 
 Per començar l'exportació Language cal cotejar fragments concrets amb l'àudio, documentar les correccions i tornar a calcular l'elegibilitat. Fins aleshores, `output/` continua buit.
+
+## Fragment candidat en revisió
+
+S'ha preparat el fragment `ari34-falles-intro-001` (00:41.940–00:47.360). El text coincideix amb la transcripció del corpus i amb dues sortides Whisper independents. És una comprovació automàtica creuada, **no** una escolta humana; el registre continua en esborrany i no és elegible per a l'exportació.
