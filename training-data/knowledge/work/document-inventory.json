@@ -53,7 +53,7 @@
       "topic": "temes/costums/calendari-festiu",
       "source": "premsa-andorrana",
       "status": "in_progress",
-      "conversation_count": 10,
+      "conversation_count": 11,
       "conversation_ids": [
         "carnaval-encamp-horaris-2026",
         "carnaval-encamp-operacio-2026",
@@ -63,6 +63,7 @@
         "operacio-carnestoltes-origen-autor-01",
         "operacio-carnestoltes-viscera-escenari-01",
         "ordino-ossa-discrepancia-1978-1985",
+        "ossa-encamp-origen-precristia-atribuit",
         "ossa-encamp-variants-i-reescriptura-01",
         "ossa-ordino-dues-lectures-origen"
       ],
@@ -81,7 +82,8 @@
         "Masegosa interpreta la farsa d’Ordino com a defensa territorial; no és una prova de data d’origen o continuïtat medieval",
         "programa de 2026: Judici dels Contrabandistes diumenge 15 de febrer a les 16 h i Ball de l’Ossa dilluns 16 a les 16.15 h, tots dos al Prat de l’Areny; el carnaval és mòbil",
         "el Judici dels Contrabandistes és una farsa pública i burlesca que posa simbòlicament el contraban a judici; no s’hi identifica cap procés real, guió, repartiment o sentència",
-        "el 17 de febrer de 2026 es va programar l’Operació de Sa Majestat el Rei Carnestoltes; la farsa es va incorporar pels volts del 1970, sense any exacte ni autor conegut"
+        "el 17 de febrer de 2026 es va programar l’Operació de Sa Majestat el Rei Carnestoltes; la farsa es va incorporar pels volts del 1970, sense any exacte ni autor conegut",
+        "Masegosa descriu el ball d’Encamp com a reminiscència de rituals pirinencs de l’ós, amb arrels anteriors al cristianisme; és una interpretació atribuïda i no demostra continuïtat local"
       ],
       "completion_note": "",
       "reason": ""
@@ -176,7 +178,7 @@
       "topic": "temes/costums/danses",
       "source": "wikipedia-ball-ossa-encamp",
       "status": "complete",
-      "conversation_count": 26,
+      "conversation_count": 27,
       "conversation_ids": [
         "carnaval-encamp-ossa-i-contrabandistes",
         "danses-parroquies-i-sardana-importada-01",
@@ -194,6 +196,7 @@
         "ossa-encamp-iniciacio-qui-ensena-que",
         "ossa-encamp-musica-no-identificada",
         "ossa-encamp-ordino-finals-diferents",
+        "ossa-encamp-origen-precristia-atribuit",
         "ossa-encamp-repartiment-personatges",
         "ossa-encamp-rusc-de-cartro-i-cacera",
         "ossa-encamp-variant-matrimoni-ric",
@@ -232,7 +235,8 @@
         "en la versió d’Amades de 1950, dos minyons feien de dallaires i simulaven dallar el prat; la font no diu que fossin segadors professionals",
         "el guió de Sícoris de 1959 no està al corpus, tot i que es diu que encara és l’esquema de la representació; es diferencia de la descripció d’Amades de 1950",
         "en el relat d’Amades, el cavaller i el servent precedeixen l’aparició de l’ossa; el servent tem que hi hagi un ós a la vora, però és el caçador qui la mata",
-        "la interpretació iniciàtica s’atribueix a la tesi doctoral d’Eloi Ysàs Trias (URV, 2016), pp. 137–146 sobre Andorra; la tesi fou identificada però no es va poder consultar directament via TDX"
+        "la interpretació iniciàtica s’atribueix a la tesi doctoral d’Eloi Ysàs Trias (URV, 2016), pp. 137–146 sobre Andorra; la tesi fou identificada però no es va poder consultar directament via TDX",
+        "la lectura de reminiscència de rituals precristians s’atribueix a Masegosa i no prova que la representació actual d’Encamp mantingui una continuïtat directa"
       ],
       "completion_note": "Fitxa sencera contrastada amb les fonts identificades. Les converses cobreixen la trama d’Amades de 1950, els papers i l’escenari, les diferències entre versions, la lectura iniciàtica atribuïda, la continuïtat, els costums finals, les cronologies i la UNESCO. Els guions no disponibles, la tesi no consultada directament i el repertori musical queden com a límits explícits; no s’hi afegeix contingut inventat.",
       "reason": ""

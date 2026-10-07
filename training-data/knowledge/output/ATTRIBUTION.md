@@ -10,6 +10,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 
 - Actes històriques del Consell General, apel·lació dels síndics del 2–3 de maig de 1364, ANA, ASC, pergamí 1.190; J.-A. Brutails, La Coutume d’Andorre (1904), cap. VII, pp. 243–244.
 - Estat de la fitxa del corpus «Les caramelles»; no s’hi incorpora cap lletra ni transcripció externa.
+- Fabiola Sofia Masegosa i Gayo, *La vida teatral a Andorra de 1900 a 1970* (conferència 2018, publicada el 2020), que resumeix la seva tesi doctoral; la font acadèmica descriu la festa com a reminiscència de rituals pirinencs.
 - Fabiola Sofia Masegosa i Gayo, La vida teatral a Andorra de 1900 a 1970, tesi doctoral (Universitat de Lleida, 2017), resum publicat a Debats de Recerca 12 (2020), pp. 27–39; DOI 10.2436/15.8060.21.4.
 - Fitxa del corpus «El ball de l’ossa d’Encamp» i descripció general de la UNESCO, element 01846.
 - Fitxa del corpus «Les festes de l’ossa» i notícia institucional del Govern d’Andorra, publicada el 29-11-2022; la font governamental identifica les representacions d’Encamp i Ordino.
@@ -156,6 +157,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - Premsa: drets reservats i redistribució:no; referència no verificable. Govern: l’avís general exigeix autorització escrita per redistribuir o transformar contingut; no consta permís específic.
 - Publicació acadèmica de Canturri en accés obert amb redistribució pendent. Viquipèdia és CC BY-SA 4.0, amb atribució i compartir igual. No es coneix la data del canvi de pràctica.
 - Publicació acadèmica de l’IEC en accés obert; la fitxa de font registra redistribució pendent. No es reprodueix cap passatge extens.
+- Publicació acadèmica en accés obert amb redistribució pendent; inclosa per a ús intern amb atribució, sense reproduir text extens. La tesi subjacent no s’ha consultat directament.
 - Publicació acadèmica en accés obert; la fitxa de font registra redistribució pendent. La conversa és una paràfrasi atribuïda i no afirma que el vestuari es conservi avui.
 - Publicació acadèmica en accés obert; la fitxa de font registra redistribució pendent. L’elegibilitat del destí d’entrenament no consta resolta.
 - Publicació acadèmica en accés obert; la fitxa de font registra redistribució pendent. S’atribueix l’anàlisi a Canturri i no es tracta l’accés obert com a permís de redistribució.
