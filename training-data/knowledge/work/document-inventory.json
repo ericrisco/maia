@@ -2,7 +2,7 @@
   "source_root": "docs/temes/",
   "file_count": 1477,
   "article_count": 1348,
-  "conversation_count": 64,
+  "conversation_count": 65,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 1,
@@ -16632,7 +16632,7 @@
       "topic": "temes/institucions/relacions-exteriors",
       "source": "jurisprudencia-ad",
       "status": "in_progress",
-      "conversation_count": 38,
+      "conversation_count": 39,
       "conversation_ids": [
         "antecedents-penals-residents-estranger-001",
         "bens-sense-propietari-identificat-001",
@@ -16652,6 +16652,7 @@
         "extradicio-competencia-jurisdiccio-sollicitant-001",
         "extradicio-condicions-atorgament-ordre-public-001",
         "extradicio-consequencies-greu-edat-salut-001",
+        "extradicio-demanda-andorra-a-estat-estranger-001",
         "extradicio-detencio-provisional-terminis-001",
         "extradicio-dret-demanar-llibertat-001",
         "extradicio-excepcio-delicte-politic-crims-guerra-001",
@@ -16711,7 +16712,8 @@
         "Llei qualificada d’extradició, article 18: termini de trenta dies perquè l’estat sol·licitant reclami la persona després de l’aute ferm, alliberament si no hi ha altra causa de detenció i possible denegació d’una nova demanda pel mateix motiu.",
         "Llei qualificada d’extradició, article 17: possibilitat d’ajornar el lliurament si la persona és processada o condemnada a Andorra per una infracció diferent, fins al final de la causa o el compliment de la pena.",
         "Llei qualificada d’extradició, article 16: renúncia expressa a les garanties i acceptació del lliurament en qualsevol fase judicial, formalitzada per aute del tribunal competent.",
-        "Llei qualificada d’extradició, article 15: concessió només quan no hi ha impediments legals i l’acció o condemna no contradiu l’ordre públic andorrà o internacional."
+        "Llei qualificada d’extradició, article 15: concessió només quan no hi ha impediments legals i l’acció o condemna no contradiu l’ordre públic andorrà o internacional.",
+        "Llei qualificada d’extradició, article 4: decisió judicial per demanar una extradició a l’estranger, iniciatives i recurs de cinc dies, amb tramesa diplomàtica posterior a càrrec del Govern."
       ],
       "open_units": [
         "Abast i límits de la instantània consolidada del 2026-09-12."
