@@ -147,7 +147,7 @@
       "title": "La marratxa",
       "type": "article",
       "topic": "temes/costums/danses",
-      "status": "in_progress",
+      "status": "complete",
       "unit_count": 24,
       "covered_unit_ids": [
         "docs/temes/costums/danses/la-marratxa.md#unit-0001",
@@ -170,8 +170,8 @@
         "docs/temes/costums/danses/la-marratxa.md#unit-0020",
         "docs/temes/costums/danses/la-marratxa.md#unit-0021"
       ],
-      "excluded_unit_count": 0,
-      "open_unit_count": 5,
+      "excluded_unit_count": 5,
+      "open_unit_count": 0,
       "conversation_ids": [
         "marratxa-coreografia-i-memoria-001",
         "marratxa-festa-major-dia-001",
