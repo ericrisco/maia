@@ -7,7 +7,7 @@ url: https://www.estadistica.ad/
 llicencia: CC BY 4.0 per a la informació estadística pròpia, llevat d'indicació contrària
 redistribucio: si
 data_consulta: 2026-09-25
-abast: Notes A001, A003, A052, A107, metodologies seleccionades i API pública; per a l'API, les divisions i captures consten a la documentació de cada sèrie.
+abast: Notes A001, A003, A029, A052, A107, metodologies seleccionades i API pública; per a l'API, les divisions i captures consten a la documentació de cada sèrie.
 notes: >
   Avís legal, secció 6, consultat abans d'incorporar les taules. Cal atribuir
   el Departament, indicar elaboració pròpia i data d'actualització quan
@@ -28,6 +28,7 @@ indicades. Les còpies d'evidència es mantenen fora del corpus.
 | A001/A003. Població anual, 2023 | Identificador `NP_A001_A003_20240118`; còpia allotjada per Altaveu; p. 19, taula 3.1, i p. 21 (metodologia) llegides i taula contrastada visualment; la còpia identifica 31-12-2023 com a referència | [Còpia PDF](../raw/estadistica-poblacio/a001-a003-2023-altaveu.pdf), [text](../raw/estadistica-poblacio/a001-a003-2023-altaveu.txt), [p. 19 renderitzada](../raw/estadistica-poblacio/a001-a003-2023-p-19.png) |
 | Metodologia de les estimacions de població | Codi A001 del Pla 2022–2025; 7 pàgines llegides; p. 2–7 contrastades visualment; sense data de publicació explícita identificada | [PDF](../raw/estadistica-poblacio/metodologia-estimacions-poblacio.pdf), [text](../raw/estadistica-poblacio/metodologia-estimacions-poblacio.txt) |
 | A107. Producció de tabac, any 2024 | NP_A107_20250721; publicada 21-07-2025; p. 1, 3–5 llegides; gràfic i taula contrastats amb les divisions 2404 i 2405 | [PDF](../raw/estadistica-agricultura/a107-2025-07-21.pdf), [text](../raw/estadistica-agricultura/a107-2025-07-21.txt) |
+| A029. Indicadors de l'educació, any 2024 | NP_A029_20251216; publicada 16-12-2025; cursos 2020/21–2024/25; dades del Ministeri d'Educació | [PDF](../raw/estadistica-educacio/a029-indicadors-educacio-20251216.pdf), [text](../raw/estadistica-educacio/a029-indicadors-educacio-20251216.txt), [registre de llicència i abast](../raw/estadistica-educacio/indicadors-de-l-educacio-evidencia-estadistica.md) |
 | A052. Estadística de prestacions per desocupació involuntària, any 2024 | NP_A052_20250403; publicada 03-04-2025; p. 2–5, 9 i 14 llegides; pàgines 5 i 9 contrastades visualment; dades d'Afers Socials tractades per Estadística | [PDF](../raw/estadistica-prestacions/a052-desocupacio-20250403.pdf), [text](../raw/estadistica-prestacions/a052-desocupacio-20250403.txt) |
 | A052. Resultats de prestacions per desocupació involuntària, any 2025 | Activitat estadística A052; Ministeri d'Afers Socials amb resultats publicats per Estadística; pàgina oficial consultada 25-09-2026 | [pàgina i extracte preservats](../raw/estadistica-prestacions/a052-2025-transparencia-extracte-2026-09-25.txt), [HTML original](../raw/estadistica-prestacions/transparencia-afers-socials-2026-09-25.html) |
 
