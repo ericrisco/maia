@@ -28,7 +28,7 @@ La cobertura és per document citat i és només un límit inferior: una cita no
 | `persones` | 43 | 0 | 43 |
 | `politica` | 19 | 0 | 19 |
 | `societat` | 142 | 0 | 142 |
-| `territori` | 49 | 0 | 49 |
+| `territori` | 49 | 1 | 48 |
 | `vida-quotidiana` | 11 | 0 | 11 |
 
 ## Backlog per branca del corpus
@@ -142,7 +142,7 @@ Aquest índex més fi permet avançar branca per branca. `Amb conversa` segueix 
 | `temes/societat/sanitat` | 19 | 0 | 19 | 7 | 12 | 0 | 0 |
 | `temes/societat/treball` | 19 | 0 | 19 | 14 | 5 | 0 | 0 |
 | `temes/societat/vida-civica` | 8 | 0 | 8 | 4 | 4 | 0 | 0 |
-| `temes/territori/clima-i-muntanya` | 14 | 0 | 14 | 5 | 8 | 1 | 0 |
+| `temes/territori/clima-i-muntanya` | 14 | 1 | 13 | 5 | 8 | 1 | 0 |
 | `temes/territori/fauna-i-flora` | 5 | 0 | 5 | 3 | 1 | 1 | 0 |
 | `temes/territori/geografia-fisica` | 9 | 0 | 9 | 2 | 7 | 0 | 0 |
 | `temes/territori/paisatge-construit` | 5 | 0 | 5 | 0 | 5 | 0 | 0 |
@@ -176,7 +176,7 @@ Aquesta tria només mira el camp `font` de la capçalera i la seva fitxa a `docs
 | `pending` | 604 |
 | `missing` | 1 |
 
-**Total:** 1348 fitxes article; **10** tenen almenys una conversa citada i **1338** encara no en tenen.
+**Total:** 1348 fitxes article; **11** tenen almenys una conversa citada i **1337** encara no en tenen.
 
 ## Límits
 

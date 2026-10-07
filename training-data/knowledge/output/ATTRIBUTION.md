@@ -15,6 +15,7 @@ al projecte.
 - Representació del Copríncep Francès a Andorra, informació institucional pública; resum a la fitxa Maia «El Coprincipat».
 - Viquipèdia en català, contingut reutilitzat a la fitxa Maia «La Marratxa», sota CC BY-SA 4.0. Cal conservar l'atribució i aplicar compartir igual al material derivat.
 - Viquipèdia en català, «Ball de l'ossa d'Encamp», CC BY-SA 4.0; síntesi a la fitxa Maia «El ball de l'ossa d'Encamp». Cal conservar l'atribució i aplicar compartir igual al material derivat.
+- Viquipèdia en català, «Clima d'Andorra», CC BY-SA 4.0; síntesi a la fitxa Maia «El clima». Cal conservar l'atribució i aplicar compartir igual al material derivat.
 - Viquipèdia en català, «Escudella de Sant Antoni», CC BY-SA 4.0; síntesi a la fitxa Maia «L'escudella de Sant Antoni». Cal conservar l'atribució i aplicar compartir igual al material derivat.
 - Viquipèdia en català, «Estripagecs», CC BY-SA 4.0; síntesi a la fitxa Maia «Els estripagecs». Cal conservar l'atribució i aplicar compartir igual al material derivat.
 - Viquipèdia en català, «Festes de l'ossa a Andorra», CC BY-SA 4.0; síntesi a la fitxa Maia «Les festes de l'ossa». Cal conservar l'atribució i aplicar compartir igual al material derivat.

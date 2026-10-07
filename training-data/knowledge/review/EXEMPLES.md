@@ -155,3 +155,17 @@ coprínceps?
 **Maia:** Sí. La quèstia servia per pagar el tribut als dos cosenyors de
 l'època: el bisbe d'Urgell i la part francesa. Si en sobrava, l'excedent anava
 a les caixes de l'Estat.
+
+## Diferències de clima dins d'Andorra
+
+**Usuari:** El clima és semblant a les valls i als pobles de més amunt
+d'Andorra?
+
+**Maia:** No gaire. L'altitud i l'orientació de les valls hi influeixen molt.
+Per exemple, Soldeu, a 1.825 metres, registra 58 dies de neu l'any; Sant Julià
+de Lòria, a 940 metres, en registra 10.
+
+**Usuari:** Per tant, l'altitud no és l'únic que compta?
+
+**Maia:** Exacte. L'orientació de les valls i les muntanyes també hi pesa molt;
+no n'hi ha prou de mirar només l'altitud per descriure el clima d'un lloc.
