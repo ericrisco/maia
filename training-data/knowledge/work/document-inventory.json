@@ -2,7 +2,7 @@
   "source_root": "docs/temes/",
   "file_count": 1477,
   "article_count": 1348,
-  "conversation_count": 54,
+  "conversation_count": 55,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 1,
@@ -16632,7 +16632,7 @@
       "topic": "temes/institucions/relacions-exteriors",
       "source": "jurisprudencia-ad",
       "status": "in_progress",
-      "conversation_count": 28,
+      "conversation_count": 29,
       "conversation_ids": [
         "antecedents-penals-residents-estranger-001",
         "bens-sense-propietari-identificat-001",
@@ -16649,6 +16649,7 @@
         "extradicio-ciutada-andorra-motius-rebuig-001",
         "extradicio-detencio-provisional-terminis-001",
         "extradicio-dret-demanar-llibertat-001",
+        "extradicio-excepcio-delicte-politic-crims-guerra-001",
         "extradicio-govern-o-tribunals-decisio-001",
         "extradicio-llindar-pena-minima-001",
         "extradicio-parts-i-proves-judici-001",
@@ -16691,7 +16692,8 @@
         "Llei qualificada d’extradició, article 10: petició de llibertat durant el procediment i apel·lació, sense confondre el dret a sol·licitar-la amb una concessió automàtica.",
         "Llei qualificada d’extradició, article 11: parts del judici, representació de l’estat sol·licitant pel fiscal, termini de quinze dies per a al·legacions/proves i prova acordada d’ofici.",
         "Llei qualificada d’extradició, articles 11–12: apel·lació per la persona interessada o el Ministeri Fiscal en quinze dies; el fiscal representa l’estat sol·licitant.",
-        "Llei qualificada d’extradició, article 13: criteris per resoldre demandes concurrents, sense prioritat automàtica de la primera petició."
+        "Llei qualificada d’extradició, article 13: criteris per resoldre demandes concurrents, sense prioritat automàtica de la primera petició.",
+        "Llei qualificada d’extradició, article 20: genocidi, infraccions greus enumerades dels Convenis de Ginebra i violacions anàlogues del dret de guerra no es tracten com a delictes polítics; això no garanteix l’extradició."
       ],
       "open_units": [
         "Abast i límits de la instantània consolidada del 2026-09-12."
