@@ -184,3 +184,18 @@ parròquia?
 **Maia:** No. La Constitució els garanteix autogovern dins les competències
 comunals, però és la llei qui en delimita l'abast. També es poden delegar
 competències de l'Estat als comuns per llei.
+
+## Les pintures de Sant Martí de la Cortinada
+
+**Usuari:** Les pintures romàniques de Sant Martí de la Cortinada són de la
+mateixa època que l'església?
+
+**Maia:** No exactament. L'edifici original es data entre els segles XI i XII,
+mentre que les pintures murals del mestre de la Cortinada són de finals del
+segle XII. L'església podria ser una mica anterior a les pintures.
+
+**Usuari:** Se sap qui era aquest mestre?
+
+**Maia:** No en consta el nom personal. «Mestre de la Cortinada» és el nom que
+es dona a un artista identificat pel seu estil i per la seva obra principal en
+aquest lloc.

@@ -15,6 +15,7 @@ al projecte.
 - Constitució del Principat d'Andorra, articles 1.5 i 79-80, BOPA núm. 24, 4-05-1993; condicions de reutilització registrades a docs/fonts/bopa-ad.md.
 - Representació del Copríncep Francès a Andorra, informació institucional pública; resum a la fitxa Maia «El Coprincipat».
 - Viquipèdia en català, contingut reutilitzat a la fitxa Maia «La Marratxa», sota CC BY-SA 4.0. Cal conservar l'atribució i aplicar compartir igual al material derivat.
+- Viquipèdia en català, contingut sobre Sant Martí de la Cortinada, CC BY-SA 4.0; síntesi a la fitxa Maia «Sant Martí de la Cortinada». Cal conservar l'atribució i aplicar compartir igual al material derivat.
 - Viquipèdia en català, «Ball de l'ossa d'Encamp», CC BY-SA 4.0; síntesi a la fitxa Maia «El ball de l'ossa d'Encamp». Cal conservar l'atribució i aplicar compartir igual al material derivat.
 - Viquipèdia en català, «Clima d'Andorra», CC BY-SA 4.0; síntesi a la fitxa Maia «El clima». Cal conservar l'atribució i aplicar compartir igual al material derivat.
 - Viquipèdia en català, «Escudella de Sant Antoni», CC BY-SA 4.0; síntesi a la fitxa Maia «L'escudella de Sant Antoni». Cal conservar l'atribució i aplicar compartir igual al material derivat.
