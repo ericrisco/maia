@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 7,
+    "in_progress": 8,
     "no_natural_question": 0,
-    "not_started": 1341
+    "not_started": 1340
   },
   "documents": [
     {
@@ -30,8 +30,9 @@
       "topic": "temes/costums/calendari-festiu",
       "source": "premsa-andorrana",
       "status": "in_progress",
-      "conversation_count": 3,
+      "conversation_count": 4,
       "conversation_ids": [
+        "falles-andorranes-no-son-valencianes-canvi-material-01",
         "festa-major-parroquia-versus-meritxell-01",
         "sant-antoni-absent-calendari-judicial-1902-01",
         "tribunals-fira-organya-1902-motiu-i-limit-01"
@@ -39,7 +40,8 @@
       "reviewed_units": [
         "diferència entre les festes majors locals d’estiu i la Festa Nacional de Meritxell del 8 de setembre; absència de dates locals oficials a la fitxa",
         "distinció entre calendari judicial de 1902 i calendari festiu popular; el tancament per fira no acredita assistència universal ni activitat concreta",
-        "el calendari judicial de 1902 no és el calendari popular; l’absència de Sant Antoni no prova absència de celebració"
+        "el calendari judicial de 1902 no és el calendari popular; l’absència de Sant Antoni no prova absència de celebració",
+        "Sant Joan i falles al 23 de juny; data general sense convertir-la en calendari oficial de cada vila"
       ],
       "open_units": [
         "dates concretes de cada festa major i fonts primàries comunals, que l’article declara absents",
@@ -289,11 +291,19 @@
       "type": "article",
       "topic": "temes/costums/falles",
       "source": "canturri-usos-i-costums",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "falles-andorranes-no-son-valencianes-canvi-material-01"
+      ],
+      "reviewed_units": [
+        "diferència entre les falles andorranes i les falles valencianes; materials antics i actuals; recuperació aproximada de 1997-1998"
+      ],
+      "open_units": [
+        "variants i recorreguts per parròquia",
+        "estat del reconeixement patrimonial andorrà i fonts comunals",
+        "any exacte de la pèrdua i persones que van recuperar la tradició"
+      ],
       "completion_note": "",
       "reason": ""
     },

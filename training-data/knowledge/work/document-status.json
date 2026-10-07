@@ -99,12 +99,14 @@
     "conversation_ids": [
       "festa-major-parroquia-versus-meritxell-01",
       "tribunals-fira-organya-1902-motiu-i-limit-01",
-      "sant-antoni-absent-calendari-judicial-1902-01"
+      "sant-antoni-absent-calendari-judicial-1902-01",
+      "falles-andorranes-no-son-valencianes-canvi-material-01"
     ],
     "reviewed_units": [
       "diferència entre les festes majors locals d’estiu i la Festa Nacional de Meritxell del 8 de setembre; absència de dates locals oficials a la fitxa",
       "distinció entre calendari judicial de 1902 i calendari festiu popular; el tancament per fira no acredita assistència universal ni activitat concreta",
-      "el calendari judicial de 1902 no és el calendari popular; l’absència de Sant Antoni no prova absència de celebració"
+      "el calendari judicial de 1902 no és el calendari popular; l’absència de Sant Antoni no prova absència de celebració",
+      "Sant Joan i falles al 23 de juny; data general sense convertir-la en calendari oficial de cada vila"
     ],
     "open_units": [
       "dates concretes de cada festa major i fonts primàries comunals, que l’article declara absents",
@@ -142,5 +144,19 @@
       "l’escudella de Sant Antoni el 17 de gener; diferència entre la fitxa de la festa i la llista judicial"
     ],
     "open_units": []
+  },
+  "docs/temes/costums/falles/falles.md": {
+    "status": "in_progress",
+    "conversation_ids": [
+      "falles-andorranes-no-son-valencianes-canvi-material-01"
+    ],
+    "reviewed_units": [
+      "diferència entre les falles andorranes i les falles valencianes; materials antics i actuals; recuperació aproximada de 1997-1998"
+    ],
+    "open_units": [
+      "variants i recorreguts per parròquia",
+      "estat del reconeixement patrimonial andorrà i fonts comunals",
+      "any exacte de la pèrdua i persones que van recuperar la tradició"
+    ]
   }
 }
