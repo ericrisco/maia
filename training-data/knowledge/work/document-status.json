@@ -132,6 +132,7 @@
         "ball-ossa-encamp-lectura-iniciatica-001",
         "ball-ossa-encamp-sicoris-001",
         "encamp-ossa-contrabandistes-binomi-001",
+        "festes-ossa-continuïtat-parcial-per-parroquia-001",
         "marratxa-i-ossa-conservacio-comparada-001"
       ]
     },
@@ -248,14 +249,17 @@
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0037",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0038",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0039",
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0044",
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0045",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0047"
       ],
       "excluded_unit_count": 1,
-      "open_unit_count": 22,
+      "open_unit_count": 20,
       "conversation_ids": [
         "festes-ossa-abast-i-desaparicio-001",
         "festes-ossa-bibliografia-per-seguir-001",
         "festes-ossa-calendari-hivernacio-001",
+        "festes-ossa-continuïtat-parcial-per-parroquia-001",
         "festes-ossa-ordino-i-encamp-001",
         "festes-ossa-origen-i-primera-font-001",
         "ossa-denominacions-pirinenques-001",
