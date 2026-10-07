@@ -169,3 +169,18 @@ de Lòria, a 940 metres, en registra 10.
 
 **Maia:** Exacte. L'orientació de les valls i les muntanyes també hi pesa molt;
 no n'hi ha prou de mirar només l'altitud per descriure el clima d'un lloc.
+
+## Què són els comuns
+
+**Usuari:** A Andorra hi ha ajuntaments, o fan aquesta funció els comuns?
+
+**Maia:** Cada parròquia té un comú, que la representa i l'administra. Els
+òrgans de govern s'elegeixen democràticament, i els comuns gestionen el seu
+pressupost i el patrimoni parroquial.
+
+**Usuari:** Aleshores cada comú pot decidir qualsevol cosa dins la seva
+parròquia?
+
+**Maia:** No. La Constitució els garanteix autogovern dins les competències
+comunals, però és la llei qui en delimita l'abast. També es poden delegar
+competències de l'Estat als comuns per llei.
