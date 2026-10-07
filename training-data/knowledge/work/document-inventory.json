@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 2,
+    "in_progress": 3,
     "no_natural_question": 0,
-    "not_started": 1346
+    "not_started": 1345
   },
   "documents": [
     {
@@ -19798,11 +19798,19 @@
       "type": "article",
       "topic": "temes/territori/clima-i-muntanya",
       "source": "bopa-ad",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "allaus-bosc-protector-defenses-futures-01"
+      ],
+      "reviewed_units": [
+        "Bosc protector com a base d’un projecte: cal reservar terreny per a defenses futures, fins i tot amb informe forestal favorable.",
+        "Pèrdua de protecció després de l’ocupació: possible desallotjament, responsabilitat del propietari si les defenses són viables i límits de la fitxa per a casos concrets."
+      ],
+      "open_units": [
+        "Vigència consolidada després de modificacions i normativa posterior; la fitxa no reconstrueix tota la cadena normativa.",
+        "Expedients concrets, compliment de les obligacions, jurisprudència i càlcul tècnic del risc residual."
+      ],
       "completion_note": "",
       "reason": ""
     },
