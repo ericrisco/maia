@@ -38,4 +38,5 @@ el BOPA no implica cap suport al projecte. No s'atribueix una llicència global 
 - Adaptació de «Festes de l'ossa a Andorra», Viquipèdia en català, llicència CC BY-SA 4.0. Cal conservar l'atribució i compartir igual.
 - Adaptació de «La marratxa» i «Ball de la Marratxa», Viquipèdia en català, llicència CC BY-SA 4.0. Cal conservar l'atribució i compartir igual.
 - Adaptació dels articles «Ball de l'ossa d'Encamp» i «Festes de l'ossa a Andorra» de la Viquipèdia en català, llicència CC BY-SA 4.0. Cal conservar l'atribució i compartir igual.
+- Adaptació d’André Vilar, L’Andorre (1904), pp. 77–84. Obra en domini públic per antiguitat.
 - Adaptació d’informació de l’article «Mare de Déu de Meritxell» de la Viquipèdia en català, llicència CC BY-SA 4.0. Cal conservar l’atribució i compartir l’adaptació amb la mateixa llicència.
