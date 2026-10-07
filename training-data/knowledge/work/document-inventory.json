@@ -9,7 +9,7 @@
   "file_count": 1477,
   "article_count": 1348,
   "parse_error_count": 0,
-  "conversation_count": 85,
+  "conversation_count": 86,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 0,
@@ -224,7 +224,7 @@
       "topic": "temes/costums/danses",
       "source": "viquipedia-ca",
       "status": "in_progress",
-      "conversation_count": 8,
+      "conversation_count": 9,
       "conversation_ids": [
         "marratxa-barrets-cintes-simbolisme-001",
         "marratxa-data-tradicio-i-pareatge-001",
@@ -233,6 +233,7 @@
         "marratxa-origen-i-coreografia-001",
         "marratxa-passa-cerda-mateix-dia-001",
         "marratxa-recipient-i-nom-001",
+        "marratxa-significat-pareatges-001",
         "marratxa-simbolisme-parroquies-001"
       ],
       "reviewed_units": [
@@ -243,7 +244,8 @@
         "Moment de celebració: el ball es fa el dilluns de la festa major de Sant Julià; la font no dona l'hora.",
         "Estat de la data de 1278: és una atribució tradicional, no una data acreditada per documentació coneguda; la primera menció documental i l'origen de l'atribució són desconeguts.",
         "Vestuari i simbolisme: els dos dansaires que representen els coprínceps duen barrets de copa alta amb cintes dels colors de la bandera. No s'atribueix un significat separat a les cintes ni una relació amb les parròquies.",
-        "Relació amb la Passa i el ball del Cerdà: els tres actes s'associen al dilluns de la festa major; no hi ha ordre ni hora exacta documentats per a la Marratxa."
+        "Relació amb la Passa i el ball del Cerdà: els tres actes s'associen al dilluns de la festa major; no hi ha ordre ni hora exacta documentats per a la Marratxa.",
+        "Significat segons la tradició: la primera ballada hauria celebrat la fi d'un episodi difícil entre senyors feudals i la dansa simbolitza la gènesi del Coprincipat; no es tracta com a fet històric verificat."
       ],
       "open_units": [
         "Verificar amb font primària les dates de la primera ballada i del Pareatge; la discrepància secundària continua oberta.",
@@ -11401,12 +11403,14 @@
       "topic": "temes/historia/pareatge",
       "source": "palau-marti-identitat-andorrana-1994",
       "status": "in_progress",
-      "conversation_count": 1,
+      "conversation_count": 2,
       "conversation_ids": [
-        "marratxa-data-tradicio-i-pareatge-001"
+        "marratxa-data-tradicio-i-pareatge-001",
+        "marratxa-significat-pareatges-001"
       ],
       "reviewed_units": [
-        "Data del Pareatge: 8-09-1278, en contrast amb la data tradicional del 7-09 atribuïda a la primera ballada de la Marratxa; la diferència no queda explicada."
+        "Data del Pareatge: 8-09-1278, en contrast amb la data tradicional del 7-09 atribuïda a la primera ballada de la Marratxa; la diferència no queda explicada.",
+        "Lectura tradicional de la dansa: s'associa la primera ballada amb el final d'un episodi entre senyors feudals i amb la gènesi del Coprincipat; aquesta afirmació és tradició, no verificació històrica del document."
       ],
       "open_units": [
         "Revisar definició del Pareatge de 1278, parts, contingut, conseqüències i distinció respecte d'un acte fundacional.",

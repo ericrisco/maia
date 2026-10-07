@@ -205,10 +205,12 @@
     "docs/temes/historia/pareatge/el-pareatge.md": {
       "status": "in_progress",
       "conversation_ids": [
-        "marratxa-data-tradicio-i-pareatge-001"
+        "marratxa-data-tradicio-i-pareatge-001",
+        "marratxa-significat-pareatges-001"
       ],
       "covered_units": [
-        "Data del Pareatge: 8-09-1278, en contrast amb la data tradicional del 7-09 atribuïda a la primera ballada de la Marratxa; la diferència no queda explicada."
+        "Data del Pareatge: 8-09-1278, en contrast amb la data tradicional del 7-09 atribuïda a la primera ballada de la Marratxa; la diferència no queda explicada.",
+        "Lectura tradicional de la dansa: s'associa la primera ballada amb el final d'un episodi entre senyors feudals i amb la gènesi del Coprincipat; aquesta afirmació és tradició, no verificació històrica del document."
       ],
       "open_units": [
         "Revisar definició del Pareatge de 1278, parts, contingut, conseqüències i distinció respecte d'un acte fundacional.",
