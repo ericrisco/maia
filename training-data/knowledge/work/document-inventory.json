@@ -14674,16 +14674,16 @@
       "topic": "temes/institucions/justicia",
       "source": "brutails-coutume-1904",
       "status": "in_progress",
-      "conversation_count": 2,
+      "conversation_count": 3,
       "conversation_ids": [
         "justicia-politica-i-tribunals-veheduria-01",
-        "veheduria-limits-servitude-ownership-01"
+        "veheduria-limits-servitude-ownership-01",
+        "veheduria-reclamacio-dret-de-ballar-01"
       ],
       "reviewed_units": [
         "els tribunals de veheduria coneixen de servituds urbanes i rurals, en regulen les despeses i poden fixar-ne una indemnització, però no atribueixen propietat ni danys"
       ],
       "open_units": [
-        "cas dels joves que reclamen el dret de ballar i diferència entre servitud i propietat",
         "competència local pel coneixement dels fets i qüestions basades en títols escrits",
         "sentència de 1888 sobre aigua i servitud d'aqüeducte",
         "dubtes sobre autenticitat de les al·legacions de 1364",
