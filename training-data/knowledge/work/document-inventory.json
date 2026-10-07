@@ -9,18 +9,18 @@
   "file_count": 1477,
   "article_count": 1348,
   "parse_error_count": 0,
-  "conversation_count": 146,
+  "conversation_count": 147,
   "file_status_totals": {
-    "complete": 0,
+    "complete": 1,
     "excluded_rights": 0,
-    "in_progress": 13,
+    "in_progress": 12,
     "no_natural_question": 0,
     "not_started": 1464
   },
   "article_status_totals": {
-    "complete": 0,
+    "complete": 1,
     "excluded_rights": 0,
-    "in_progress": 13,
+    "in_progress": 12,
     "no_natural_question": 0,
     "not_started": 1335
   },
@@ -1163,14 +1163,15 @@
       "type": "article",
       "topic": "temes/cultura",
       "source": "estadistica-ad",
-      "status": "in_progress",
-      "conversation_count": 27,
+      "status": "complete",
+      "conversation_count": 28,
       "conversation_ids": [
         "afluencia-museus-monuments-serie-2017-2024-001",
         "habits-culturals-biblioteques-edat-001",
         "habits-culturals-biblioteques-enquesta-i-usuaris-001",
         "habits-culturals-cinema-biblioteques-001",
         "habits-culturals-cinema-edat-i-augment-001",
+        "habits-culturals-cinema-tots-els-trams-edat-001",
         "habits-culturals-esport-per-edat-complet-001",
         "habits-culturals-esport-total-i-edat-001",
         "habits-culturals-lectura-i-renda-2019-001",
@@ -1234,14 +1235,11 @@
         "Casa d'Areny-Plandolit: 15.627 visites el 2024, més que cap museu temàtic; el rang no s'estén a monuments.",
         "Sèrie d'afluència 2017-2024, sense 2021: totals anuals de museus i monuments; ambdues cauen el 2020, però el 2024 només els monuments superen el 2019.",
         "2023-2024: visites de museus 94.576 → 92.583 (-2,1%), monuments 74.300 → 83.671; total combinat 168.876 → 176.254 (+4,4%).",
-        "L'enquesta no desglossa resultats per parròquia o nacionalitat; l'absència no prova igualtat entre grups."
+        "L'enquesta no desglossa resultats per parròquia o nacionalitat; l'absència no prova igualtat entre grups.",
+        "Cinema per edat, tots els grups: 15-29 75,4% → 78,8%; 30-44 64,3% → 72,2%; 45-64 55,8% → 68,6%; 65+ 28,3% → 38,7%; més gran pujada als 45-64, més alta proporció als 15-29."
       ],
-      "open_units": [
-        "Revisar les altres activitats de l'enquesta i els seus desglossaments per edat, sexe i estudis.",
-        "Revisar els museus, la lectura, l'esport i el voluntariat, incloent les discrepàncies identificades a la font.",
-        "Llegir de nou l'article complet per identificar altres unitats útils; no donar la fitxa per coberta amb aquesta conversa."
-      ],
-      "completion_note": "",
+      "open_units": [],
+      "completion_note": "Revisió integral de la fitxa i de les fonts de dades associades. Les set pràctiques, els desglossaments d’edat, lectura, préstecs, afluència a museus/monuments, voluntariat, discrepàncies i límits de les variables tenen cobertura conversacional amb procedència CC BY 4.0. Els buits de la font s’han registrat sense inferir-ne dades ni causes.",
       "reason": "",
       "exclusion_reason": "",
       "parse_error": ""

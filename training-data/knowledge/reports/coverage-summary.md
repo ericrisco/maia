@@ -5,15 +5,15 @@ L’inventari inclou tots els Markdown de `docs/temes/`, inclosos índexs. Una f
 - Fitxers Markdown inventariats: **1477**.
 - Fitxes `article`: **1348**.
 - Fitxers amb frontmatter invàlid: **0**.
-- Converses actives amb procedència: **146**.
+- Converses actives amb procedència: **147**.
 
 ## Estat de tots els fitxers
 
 | Estat | Fitxers |
 |---|---:|
-| Completats | 0 |
+| Completats | 1 |
 | Exclosos per drets | 0 |
-| En curs | 13 |
+| En curs | 12 |
 | Sense pregunta natural | 0 |
 | No començats | 1464 |
 
@@ -21,9 +21,9 @@ L’inventari inclou tots els Markdown de `docs/temes/`, inclosos índexs. Una f
 
 | Estat | Articles |
 |---|---:|
-| Completats | 0 |
+| Completats | 1 |
 | Exclosos per drets | 0 |
-| En curs | 13 |
+| En curs | 12 |
 | Sense pregunta natural | 0 |
 | No començats | 1335 |
 
@@ -42,7 +42,7 @@ L’inventari inclou tots els Markdown de `docs/temes/`, inclosos índexs. Una f
 | `temes/costums/religiositat` | 5 | 5 | 0 | 0 | 0 | 0 |
 | `temes/costums/ritus-de-pas` | 2 | 2 | 0 | 0 | 0 | 0 |
 | `temes/costums/sant-antoni` | 1 | 1 | 0 | 0 | 0 | 0 |
-| `temes/cultura` | 1 | 0 | 1 | 0 | 0 | 0 |
+| `temes/cultura` | 1 | 0 | 0 | 1 | 0 | 0 |
 | `temes/cultura/andorra-vista-de-fora` | 6 | 6 | 0 | 0 | 0 | 0 |
 | `temes/cultura/arquitectura` | 11 | 10 | 1 | 0 | 0 | 0 |
 | `temes/cultura/artesania` | 2 | 2 | 0 | 0 | 0 | 0 |
@@ -165,7 +165,6 @@ L’inventari inclou tots els Markdown de `docs/temes/`, inclosos índexs. Una f
 - `docs/temes/costums/danses/les-festes-de-lossa.md` — 7 converses; 7 punts oberts.
 - `docs/temes/costums/meritxell/meritxell.md` — 1 converses; 5 punts oberts.
 - `docs/temes/cultura/arquitectura/els-estripagecs.md` — 3 converses; 4 punts oberts.
-- `docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md` — 27 converses; 3 punts oberts.
 - `docs/temes/cultura/llegendes/el-tamarro.md` — 2 converses; 5 punts oberts.
 - `docs/temes/cultura/museus-i-arxius/el-diposit-legal.md` — 77 converses; 3 punts oberts.
 - `docs/temes/cultura/museus-i-arxius/museus/els-museus-d-andorra-index-de-fitxes.md` — 6 converses; 1 punts oberts.
