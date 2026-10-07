@@ -16150,12 +16150,18 @@
       "title": "La vall del Madriu-Perafita-Claror",
       "type": "article",
       "topic": "temes/territori/patrimoni-natural",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 12,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/territori/patrimoni-natural/madriu-perafita-claror.md#unit-0003",
+        "docs/temes/territori/patrimoni-natural/madriu-perafita-claror.md#unit-0004",
+        "docs/temes/territori/patrimoni-natural/madriu-perafita-claror.md#unit-0005"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 12,
-      "conversation_ids": []
+      "open_unit_count": 9,
+      "conversation_ids": [
+        "madriu-paisatge-cultural-i-empremtes-001"
+      ]
     },
     "docs/temes/territori/patrimoni-natural/patrimoni-natural-index-de-fitxes.md": {
       "title": "Patrimoni natural — índex de fitxes",
