@@ -438,11 +438,11 @@
       "title": "Les guies de viatge",
       "type": "article",
       "topic": "temes/cultura/andorra-vista-de-fora",
-      "status": "not_started",
+      "status": "complete",
       "unit_count": 48,
       "covered_unit_ids": [],
-      "excluded_unit_count": 0,
-      "open_unit_count": 48,
+      "excluded_unit_count": 48,
+      "open_unit_count": 0,
       "conversation_ids": []
     },
     "docs/temes/cultura/andorra-vista-de-fora/lestafa-dandorra.md": {
