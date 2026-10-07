@@ -13,7 +13,8 @@
         "diposit-legal-termini-numero-i-exemplars-001",
         "diposit-legal-radio-periodica-i-custodia-001",
         "diposit-legal-consulta-material-digital-001",
-        "diposit-legal-rastreig-web-i-frequencia-001"
+        "diposit-legal-rastreig-web-i-frequencia-001",
+        "diposit-legal-web-pagament-clau-acces-001"
       ],
       "covered_units": [
         "Llei 15/2025, article 22: scope of online publications; hosting location and domain; access unrestricted or restricted",
@@ -24,7 +25,8 @@
         "Llei 15/2025, articles 9 and 11: request the deposit number before finishing production; deliver copies after completion and before publication.",
         "Llei 15/2025, articles 3.5 and 15: preservation of radio productions by the National Archive; two copies per fixed-periodicity broadcast despite a single deposit number.",
         "Llei 15/2025, article 29: on-site consultation of digital deposits through a closed internal network; copyright and other legitimate interests remain protected.",
-        "Decret 100/2026, article 6: web crawling for freely accessible online publications; site-holder cooperation; Library selection and capture frequency."
+        "Decret 100/2026, article 6: web crawling for freely accessible online publications; site-holder cooperation; Library selection and capture frequency.",
+        "Decret 100/2026, article 7: restricted-access and subscription websites; requested credentials; keeping access information current and access permanent."
       ],
       "open_units": [
         "Review and represent the remaining sections of this article and linked coverage of Law 15/2025 and Decree 100/2026",
