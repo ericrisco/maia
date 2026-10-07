@@ -1,58 +1,61 @@
-# Guia per escriure converses de Knowledge
+# Guia de conversa per a Maia Knowledge
 
-## Primer, la intenció
+## Busca una situació humana
 
-Resumeix el dubte amb una frase: «vol entendre per què…», «vol saber si…» o
-«vol aclarir quina diferència hi ha entre…». Si la intenció és «vol saber què
-diu la fitxa», no hi ha encara una pregunta útil.
+Abans de redactar, completa aquesta frase: «Aquesta persona vol entendre,
+decidir o comprovar…». Si la resposta és «vol saber què diu el document», busca
+una situació més concreta o descarta el tema.
 
-Una pregunta pot ser factual i directa. El que la fa artificial no és ser curta:
-és no tenir un motiu conversacional, dependre d'un context ocult o semblar una
-instrucció per extreure camps.
+Situacions que sovint donen preguntes útils:
 
-## Pregunta inicial
+- algú prepara una visita i vol saber què trobarà;
+- dues dades semblen contradictòries i vol entendre'n la diferència;
+- una afirmació popular pot tenir una premissa equivocada;
+- algú vol saber què es coneix i què continua sense documentar-se.
 
-Passa aquestes proves:
+No cal representar totes les dades. Tria les que ajudin de debò a respondre
+aquestes necessitats.
 
-1. Una persona que no veu el document entén què pregunta?
-2. La pregunta diu prou per identificar el referent?
-3. Sona natural dita en veu alta?
-4. La resposta pot resoldre el dubte amb la informació disponible?
-5. No pressuposa com a cert allò que la font presenta com a llegenda, hipòtesi
-   o discrepància?
+## Escriu com en una conversa
 
-Evita preguntes com «Què explica la secció...?», «Què indica aquesta fila?» o
-«Resumeix aquest document». Evita també inicis com «i dos topònims que en
-surten» quan no hi ha un torn anterior que els faci pertinents.
+- Dona a la pregunta el context que una persona donaria: lloc, any o tema quan
+  sigui necessari.
+- No facis servir «aquesta secció», «aquesta fila», «segons el corpus» ni
+  referències que només s'entenen mirant una pàgina.
+- Llegeix-la en veu alta. Si sembla un enunciat d'examen o una ordre al model,
+  reescriu-la.
+- La primera resposta ha de contenir la conclusió. Després explica el perquè o
+  els límits que importen.
+- Una pregunta directa també pot ser natural. No l'allarguis només per fer-la
+  sonar conversacional.
 
-## Multitorn
+## Escriu seguiments que surtin del fil
 
-- Escriu primer una resposta que resolgui la pregunta inicial.
-- Després pregunta't què podria voler aclarir algú en sentir-la.
-- El seguiment reprèn una distinció o una conseqüència que acaba de sortir.
-- No encadenis preguntes independents per buidar una fitxa.
-- No cal que totes les converses tinguin seguiments. No n'afegeixis per fer
-  veure que són multitorn.
-- Mantén cada pregunta entenedora en el seu context immediat; no facis servir
-  «això» o «i llavors?» si la resposta anterior no n'estableix clarament el
-  referent.
+Després de cada resposta, pregunta't què voldria aclarir una persona que l'acaba
+de sentir. El seguiment ha de reprendre una dada, un límit o una conseqüència
+concreta. No encadenis preguntes independents per extreure tots els detalls.
 
-## Resposta
+Si no se t'acut un seguiment espontani, acaba la conversa. No hi ha llargada
+mínima ni quota de multitorn.
 
-- Respon directament a la primera frase.
-- Escriu prosa clara, com ho explicaries a una persona, no com una fila de
-  base de dades.
-- Afegeix només el context que ajuda a entendre el dubte.
-- Situa les normes en el temps i les afirmacions en la veu que els correspon.
-- Si la font no ho resol, digues «la font no ho concreta»; no omplis el buit.
-- No afegeixis dades només per fer la resposta més llarga.
+## Fidelitat a les fonts
 
-## Revisió final
+- Atribueix interpretacions a qui les proposa.
+- Mantén els anys i els llocs quan canviïn el sentit.
+- No dedueixis que una pràctica és universal perquè només se'n descriu un cas.
+- Quan una font no resolgui la pregunta, digues exactament què falta; no
+  converteixis el buit en una conclusió.
+- La procedència i l'estat dels drets van a `provenance.jsonl`, no a la resposta.
 
-- [ ] La pregunta funciona sense veure la font.
-- [ ] La intenció humana es pot explicar en una frase.
-- [ ] La resposta és fidel a una font concreta i contestada al principi.
-- [ ] Cada seguiment neix de la resposta anterior.
-- [ ] El diàleg no sembla un qüestionari ni una extracció de taula.
-- [ ] La conversa aporta una idea útil que no és duplicat d'una altra.
-- [ ] Procedència, drets i revisió estan registrats fora del JSONL d'entrenament.
+## Porta de qualitat
+
+Abans d'aprovar una conversa, comprova:
+
+1. La pregunta inicial és comprensible i creïble sense la font oberta.
+2. La resposta resol el dubte a la primera frase.
+3. Les afirmacions tenen suport identificable.
+4. Els seguiments depenen del torn anterior i no semblen un qüestionari.
+5. El diàleg aporta alguna cosa que encara no ensenya un altre registre.
+
+Si falla un punt, corregeix-la o descarta-la. No la conservis només per augmentar
+el recompte.

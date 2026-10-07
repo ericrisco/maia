@@ -1,86 +1,92 @@
-# Exemples de converses de Knowledge
+# Exemples per calibrar les converses
 
-Aquest fitxer calibra el tipus de conversa que volem. Les preguntes parteixen
-d'un dubte que algú podria tenir sense veure la fitxa. Els seguiments reprenen
-una distinció que la resposta anterior acaba d'explicar. No s'afegeixen torns
-per omplir una quota.
+Aquests quatre exemples són material de calibratge, no registres aprovats del
+dataset. Cada pregunta parteix d'una situació recognoscible. Els seguiments
+només continuen quan hi ha un dubte natural.
 
-## De la regla jurídica a una situació entenedora
+## Planificar-se per Sant Antoni a Canillo
 
-**Usuari:** Si un cònsol devia diners a algú per un assumpte personal, el podien
-portar als tribunals?
+**Usuari:** Si vaig a Canillo per Sant Antoni, quin dia fan la vianda?
 
-**Maia:** Depenia del moment. Abans de la Reforma de 1866 calia autorització
-prèvia per demandar una autoritat, fins i tot per un deute personal. Després,
-el permís només calia si el deute s'havia contret en exercici del càrrec.
+**Maia:** A Canillo, la vianda se celebra el diumenge més proper al 17 de gener.
+La informació disponible no concreta la data d'una edició futura.
 
-**Usuari:** I si el deute l'havia contret fent de cònsol?
+**Usuari:** I és una festa antiga que es fa igual des de sempre?
 
-**Maia:** Aleshores sí que calia autorització. Si demandaves un cònsol, la
-demanaves al Síndic; si el crèdit ja havia vençut i era exigible, no la podien
-denegar.
+**Maia:** No exactament. La primera vianda popular de Canillo que consta aquí es
+va fer el 1979, a la plaça de Montaup. La fitxa també diu que els encants locals
+es van recuperar cap a l'any 2000.
 
-*Funciona perquè la primera pregunta descriu el dubte i el seguiment demana per
-la distinció que la resposta acaba d'introduir.*
+**Per què serveix:** respon una necessitat de planificació i evita fer passar
+una data mòbil per una data fixa. La resposta separa l'antiguitat general de la
+festa del cas concret documentat a Canillo.
 
-## D'un dret comunal a la conseqüència per al propietari
+*Font de calibratge:* `docs/temes/costums/sant-antoni/escudelles-de-sant-antoni.md`.
 
-**Usuari:** Si el camp era d'una família, com hi podia pasturar el ramat dels
-altres?
+## Aclarir si *vianda* vol dir el mateix arreu
 
-**Maia:** En algunes terres privades hi havia un dret comunal de pas i pastura
-anomenat *peixena*. S'exercia després de la collita, abans de les sembres.
+**Usuari:** M'han dit que per Sant Antoni a tot Andorra en diuen vianda. És així?
 
-**Usuari:** Això també limitava què podia plantar el propietari?
+**Maia:** No ho podem afirmar. Les fonts recollides diuen que totes les
+parròquies preparen i reparteixen escudella, però només documenten el nom
+*vianda* a Canillo.
 
-**Maia:** Sí. Sense autorització del consell de parròquia, no podia canviar la
-rotació dels conreus ni sembrar farratge si això impedia la pastura prevista.
+**Usuari:** Per tant, tampoc no se sap si el nom és exclusiu de Canillo?
 
-*Funciona perquè parteix d'una contradicció aparent entre la propietat privada
-i l'ús comunal, i la pregunta següent aprofundeix en la conseqüència.*
+**Maia:** Exacte. Sabem que s'hi fa servir, però la informació no permet dir si
+en altres parròquies en fan servir un altre o si també en diuen *vianda*.
 
-## D'una llegenda al que podem afirmar
+**Per què serveix:** corregeix una generalització sense inventar una diferència
+entre parròquies.
 
-**Usuari:** Per què la imatge de Meritxell no es va quedar a Canillo?
+*Font de calibratge:* `docs/temes/costums/sant-antoni/escudelles-de-sant-antoni.md`.
 
-**Maia:** Segons la llegenda, la imatge desapareixia de l'església de Canillo i
-tornava a aparèixer al peu de la gavernera on l'havien trobada. Quan la van
-dur a Encamp, també hauria tornat al mateix lloc.
+## Entendre el relat de Meritxell
 
-**Usuari:** Per això van construir-hi el santuari?
+**Usuari:** Com explica la llegenda que la imatge de Meritxell acabés al lloc
+del santuari?
 
-**Maia:** Sí. Dins la llegenda, els retorns s'interpreten com el desig de la
-Mare de Déu de quedar-se al lloc de la troballa. És el sentit del relat, no
-una prova que els fets passessin així.
+**Maia:** Segons la llegenda, un pastor va trobar la imatge sota una gavernera
+florida en ple hivern. La van dur a Canillo i després a Encamp, però cada cop
+hauria tornat al lloc de la troballa; per això van entendre que s'hi volia
+quedar.
 
-*Funciona perquè respon sobre el sentit del relat i conserva la diferència
-entre una llegenda i una prova històrica.*
+**Usuari:** Això es considera un fet històric?
 
-## D'una contradicció aparent a la regla que l'explica
+**Maia:** No amb la informació disponible. És el relat de la llegenda; la fitxa
+encara no n'estableix la primera documentació ni la data d'origen.
 
-**Usuari:** Com poden ser compatibles el tres i terç per cent i el cinc per
-cent que surten en aquestes normes antigues?
+**Per què serveix:** explica el relat sense presentar-lo com un fet comprovat i
+respon directament al dubte sobre què se'n pot afirmar.
 
-**Maia:** Perquè s'aplicaven a casos diferents. El decret de 1895 reconeixia el
-tres i terç per cent per als diners donats a censal; per a la resta, el Consell
-General i les Corts acceptaven el cinc per cent.
+*Font de calibratge:* `docs/temes/cultura/llegendes/la-troballa-de-meritxell.md`.
 
-**Usuari:** Així, el cinc per cent no havia substituït l'altre en tots els
-préstecs?
+## Entendre per què els tribunals tancaven per una fira de fora
 
-**Maia:** Exacte. El decret de 1895 manté el tipus del tres i terç per als
-censals segons la llei de la Vall, i aplica el cinc per cent a la resta.
+**Usuari:** Per què tancaven els tribunals andorrans per la fira d'Organyà?
 
-*Funciona perquè transforma dues xifres aparentment incompatibles en una
-distinció concreta d'abast.*
+**Maia:** La llista aprovada el 1902 diu que tancaven del 27 de novembre al 4 de
+desembre per la fira d'Organyà. Una llista més antiga explica que la gent del
+país hi era ocupada, però no convé donar aquesta explicació com si fos escrita
+al document de 1902.
 
-## Exemples que no s'han d'aprovar
+**Usuari:** Llavors la fira ocupava tota aquella setmana?
 
-- «Què explica la secció “El relat”?» — pregunta pel document, no pel dubte.
-- «Què indica aquesta fila?» — depèn d'una taula que l'usuari no ha identificat.
-- «Tres coses que el corpus registra per separat:» — no és una pregunta humana
-  ni una resposta conversacional.
-- «I dos topònims que en surten?» — el seguiment no té referent propi.
+**Maia:** La llista fixa aquell període de tancament, però no descriu quants
+dies durava la fira. El que sí que diu la llista més antiga és que la gent del
+país estava ocupada amb les fires.
 
-Les mostres no s'han de copiar com a plantilles. Cada registre ha de resoldre
-una intenció diferent i tenir procedència pròpia a `provenance.jsonl`.
+**Per què serveix:** dona una resposta concreta i separa què diu cada document,
+en comptes de barrejar una explicació antiga amb la llista del 1902.
+
+*Font de calibratge:* `docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md`.
+
+## Exemples que descartem
+
+- «Què explica la secció “El relat”?» — demana recuperar una part d'un
+  document, no resoldre un dubte.
+- «Què indica aquesta fila?» — depèn d'una taula que la persona no ha situat.
+- «I dos topònims que en surten?» — sembla una instrucció d'extracció i no té
+  cap motiu conversacional.
+- Repetir la mateixa resposta amb cinc preguntes gairebé iguals — afegeix
+  volum, però no ensenya cinc habilitats diferents.

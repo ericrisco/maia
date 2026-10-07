@@ -3,10 +3,10 @@
   "article_count": 1348,
   "file_count": 1477,
   "status_totals": {
-    "complete": 3,
-    "in_progress": 2,
+    "complete": 0,
+    "in_progress": 0,
     "no_natural_question": 0,
-    "not_started": 1343
+    "not_started": 1348
   },
   "documents": [
     {
@@ -29,28 +29,12 @@
       "type": "article",
       "topic": "temes/costums/calendari-festiu",
       "source": "premsa-andorrana",
-      "status": "complete",
-      "conversation_count": 4,
-      "conversation_ids": [
-        "escudella-sant-antoni-acte-vianda-01",
-        "festa-major-no-hi-ha-data-unica-01",
-        "fites-calendari-festiu-andorra-01",
-        "llista-judicial-no-es-calendari-popular-01"
-      ],
-      "reviewed_units": [
-        "no hi ha una festa major comuna a tot Andorra",
-        "cada parròquia i moltes viles tenen festa major pròpia",
-        "les festes majors se celebren a l'estiu",
-        "Sant Antoni i l'escudella al gener",
-        "caramelles a la primavera",
-        "Sant Joan i les falles el 23 de juny",
-        "Meritxell, festa nacional, el 8 de setembre",
-        "la celebració de l'escudella inclou preparar-la i repartir-la",
-        "la llista judicial de 1902 no és un calendari popular",
-        "l'absència d'una festa a la llista judicial no prova que no se celebrés"
-      ],
+      "status": "not_started",
+      "conversation_count": 0,
+      "conversation_ids": [],
+      "reviewed_units": [],
       "open_units": [],
-      "completion_note": "Fitxa sencera revisada: el calendari anual, la variació de les festes majors, l'escudella com a acte i el límit del calendari judicial de 1902 estan representats. Les dates concretes locals queden identificades com a informació que aquesta fitxa no conté i s'han de cobrir des de les fitxes comunals corresponents.",
+      "completion_note": "",
       "reason": ""
     },
     {
@@ -479,39 +463,12 @@
       "type": "article",
       "topic": "temes/costums/sant-antoni",
       "source": "premsa-andorrana",
-      "status": "complete",
-      "conversation_count": 9,
-      "conversation_ids": [
-        "benediccio-animals-sant-antoni-estat-actual-01",
-        "escudella-andorra-la-vella-racions-confraria-01",
-        "escudella-sant-antoni-acte-vianda-01",
-        "escudella-sant-antoni-variacio-local-01",
-        "origen-ramader-sant-antoni-01",
-        "recuperacions-escudella-sant-antoni-per-parroquia-01",
-        "sant-antoni-porquet-tradicio-no-datada-01",
-        "sant-sebastia-sant-antoni-associacio-01",
-        "vianda-canillo-encants-01"
-      ],
-      "reviewed_units": [
-        "preparar i repartir escudella al carrer, no només el plat",
-        "la celebració es fa a totes les parròquies",
-        "a Canillo se'n diu vianda",
-        "origen ramader: benedicció, descans i pinso extraordinari del bestiar",
-        "el menjar comunitari per a les persones es va afegir després",
-        "primera vianda popular a Canillo el 1979, a la plaça de Montaup",
-        "el Comú organitza l'acte el diumenge més proper i reparteix prop de mil racions",
-        "els encants són subhastes i la seva tradició es va recuperar cap al 2000",
-        "Sant Antoni és patró dels animals domèstics i dels traginers",
-        "la fitxa no confirma si la benedicció d'animals continua avui ni on es fa",
-        "totes les parròquies preparen escudella, però no consta si ho fan igual",
-        "vianda està documentat a Canillo, però no consta si és exclusiu",
-        "sant Sebastià surt associat a Sant Antoni, però no consta si es feia una celebració conjunta",
-        "la Confraria de Sant Sebastià de Sant Julià feia assistència mútua, però no consta l'any de pesta",
-        "la fitxa registra el debat del Sant Antoni del porquet però no permet datar-lo ni decidir si és una reinvenció",
-        "la recuperació a Andorra la Vella als anys setanta i la primera vianda de Canillo el 1979 són casos diferents"
-      ],
+      "status": "not_started",
+      "conversation_count": 0,
+      "conversation_ids": [],
+      "reviewed_units": [],
       "open_units": [],
-      "completion_note": "Fitxa sencera revisada: àmbit de la festa, origen ramader, escudelles de totes les parròquies i cas de Canillo, límit de la benedicció actual, relació no resolta amb Sant Sebastià i debat no documentat sobre el Sant Antoni del porquet queden representats amb els seus límits.",
+      "completion_note": "",
       "reason": ""
     },
     {
@@ -7254,31 +7211,12 @@
       "type": "article",
       "topic": "temes/gastronomia/plats",
       "source": "viquipedia-ca",
-      "status": "complete",
-      "conversation_count": 6,
-      "conversation_ids": [
-        "escudella-andorra-la-vella-racions-confraria-01",
-        "escudella-nacional-oficialitat-01",
-        "escudella-sant-antoni-origen-tons-01",
-        "escudella-sant-antoni-variacio-local-01",
-        "ingredients-escudella-andorrana-01",
-        "recuperacions-escudella-sant-antoni-per-parroquia-01"
-      ],
-      "reviewed_units": [
-        "recuperació de l'escudella comunitària a Andorra la Vella a principis dels anys setanta per uns amics anomenats Anton",
-        "diferència entre el cas d'Andorra la Vella i la vianda de Canillo",
-        "antecedent de repartiment de menjar als pobres el dia de Sant Antoni",
-        "els Tons són els Antons que celebren el sant i els escudellaires cuinen i reparteixen el menjar",
-        "la font no dona els noms dels fundadors ni la data exacta de recuperació",
-        "ingredients generals de l'escudella i ús a l'hivern i en dies assenyalats com Nadal",
-        "la font recull el nom habitual plat nacional però no acredita una declaració oficial",
-        "no consta el nombre de racions d'Andorra la Vella i no s'hi trasllada la dada de Canillo",
-        "consta que el grup va formar una confraria, però no se'n coneix el nom ni els estatuts",
-        "totes les parròquies preparen escudella, però només hi ha detalls locals de Canillo i Andorra la Vella",
-        "no es pot afirmar que la recepta o organització sigui igual arreu ni que vianda sigui exclusiu de Canillo"
-      ],
+      "status": "not_started",
+      "conversation_count": 0,
+      "conversation_ids": [],
+      "reviewed_units": [],
       "open_units": [],
-      "completion_note": "Fitxa sencera revisada: plat i ingredients, ús en dies assenyalats, origen i recuperació a Andorra la Vella, Tons i escudellaires, Canillo com a cas separat, i els buits sobre oficialitat, noms, racions, confraria i diferències locals queden representats sense inventar dades.",
+      "completion_note": "",
       "reason": ""
     },
     {
@@ -13727,21 +13665,11 @@
       "type": "article",
       "topic": "temes/institucions/justicia",
       "source": "brutails-coutume-1904",
-      "status": "in_progress",
-      "conversation_count": 1,
-      "conversation_ids": [
-        "llista-judicial-no-es-calendari-popular-01"
-      ],
-      "reviewed_units": [
-        "la llista de 1902 és una llista judicial i no un inventari de festes populars"
-      ],
-      "open_units": [
-        "origen i aprovació de la llista",
-        "epígrafs, dates i fires",
-        "dies totals i límits de còmput",
-        "terminis processals i dies hàbils",
-        "buits i incerteses explícits de la font"
-      ],
+      "status": "not_started",
+      "conversation_count": 0,
+      "conversation_ids": [],
+      "reviewed_units": [],
+      "open_units": [],
       "completion_note": "",
       "reason": ""
     },
@@ -19533,11 +19461,9 @@
       "type": "article",
       "topic": "temes/societat/vida-civica",
       "source": "canturri-associacionisme-historic-2007",
-      "status": "in_progress",
-      "conversation_count": 1,
-      "conversation_ids": [
-        "sant-sebastia-sant-antoni-associacio-01"
-      ],
+      "status": "not_started",
+      "conversation_count": 0,
+      "conversation_ids": [],
       "reviewed_units": [],
       "open_units": [],
       "completion_note": "",

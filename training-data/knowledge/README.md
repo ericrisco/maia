@@ -1,14 +1,14 @@
 # Maia Knowledge
 
 Dataset de converses basades en `docs/temes/`. L'objectiu és respondre dubtes
-plausibles sobre Andorra amb precisió i naturalitat. No és una conversió de
-fitxes a preguntes.
+que una persona faria de debò sobre Andorra. No és una conversió de fitxes a
+preguntes ni un qüestionari per cobrir cada dada.
 
-- [`review/EXEMPLES.md`](review/EXEMPLES.md): criteri editorial i mostres de
-  calibratge. No són plantilles per generar registres mecànicament.
-- `review/conversations.jsonl`: converses revisades que alimentaran els
-  exports.
-- `review/`: converses candidates/aprovades i fitxers de procedència separats.
+- [`review/EXEMPLES.md`](review/EXEMPLES.md): exemples de calibratge, fora del
+  dataset actiu.
+- `review/conversations.jsonl`: només converses aprovades; ara és buit fins que
+  els exemples defineixin el to.
+- `review/provenance.jsonl`: font i revisió editorial, fora de les converses.
 - `work/`: inventari de continguts rellevants i estat de revisió.
 - `output/`: splits finals, quan existeixin.
 - `reports/`: cobertura, qualitat i decisions d'exclusió.

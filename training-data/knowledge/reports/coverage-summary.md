@@ -4,21 +4,21 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 
 - Fitxes article: **1348**.
 - Fitxers totals, inclosos índexs: **1477**.
-- Converses candidates: **15**.
+- Converses candidates: **0**.
 
 | Estat de revisió | Fitxes |
 |---|---:|
-| Revisades completes | 3 |
-| En curs | 2 |
+| Revisades completes | 0 |
+| En curs | 0 |
 | Revisades sense pregunta natural | 0 |
-| No començades | 1343 |
+| No començades | 1348 |
 
 ## Estat per tema
 
 | Tema | Articles | No començades | En curs | Completes | Sense pregunta natural |
 |---|---:|---:|---:|---:|---:|
 | `societat/treball` | 1 | 1 | 0 | 0 | 0 |
-| `temes/costums/calendari-festiu` | 2 | 1 | 0 | 1 | 0 |
+| `temes/costums/calendari-festiu` | 2 | 2 | 0 | 0 | 0 |
 | `temes/costums/caramelles` | 1 | 1 | 0 | 0 | 0 |
 | `temes/costums/danses` | 7 | 7 | 0 | 0 | 0 |
 | `temes/costums/falles` | 1 | 1 | 0 | 0 | 0 |
@@ -27,7 +27,7 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 | `temes/costums/meritxell` | 1 | 1 | 0 | 0 | 0 |
 | `temes/costums/religiositat` | 5 | 5 | 0 | 0 | 0 |
 | `temes/costums/ritus-de-pas` | 2 | 2 | 0 | 0 | 0 |
-| `temes/costums/sant-antoni` | 1 | 0 | 0 | 1 | 0 |
+| `temes/costums/sant-antoni` | 1 | 1 | 0 | 0 | 0 |
 | `temes/cultura` | 1 | 1 | 0 | 0 | 0 |
 | `temes/cultura/andorra-vista-de-fora` | 6 | 6 | 0 | 0 | 0 |
 | `temes/cultura/arquitectura` | 11 | 11 | 0 | 0 | 0 |
@@ -64,7 +64,7 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 | `temes/gastronomia/begudes` | 1 | 1 | 0 | 0 | 0 |
 | `temes/gastronomia/calendari-gastronomic` | 1 | 1 | 0 | 0 | 0 |
 | `temes/gastronomia/historia-alimentaria` | 5 | 5 | 0 | 0 | 0 |
-| `temes/gastronomia/plats` | 5 | 4 | 0 | 1 | 0 |
+| `temes/gastronomia/plats` | 5 | 5 | 0 | 0 | 0 |
 | `temes/gastronomia/productes` | 2 | 2 | 0 | 0 | 0 |
 | `temes/gastronomia/rebosteria` | 1 | 1 | 0 | 0 | 0 |
 | `temes/historia/antic-regim` | 50 | 50 | 0 | 0 | 0 |
@@ -85,7 +85,7 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 | `temes/institucions/consell-general` | 84 | 84 | 0 | 0 | 0 |
 | `temes/institucions/coprincipat` | 33 | 33 | 0 | 0 | 0 |
 | `temes/institucions/govern` | 8 | 8 | 0 | 0 | 0 |
-| `temes/institucions/justicia` | 138 | 137 | 1 | 0 | 0 |
+| `temes/institucions/justicia` | 138 | 138 | 0 | 0 | 0 |
 | `temes/institucions/nacionalitat-i-residencia` | 18 | 18 | 0 | 0 | 0 |
 | `temes/institucions/patrimoni-institucional` | 6 | 6 | 0 | 0 | 0 |
 | `temes/institucions/petits-estats` | 2 | 2 | 0 | 0 | 0 |
@@ -122,7 +122,7 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 | `temes/societat/proteccio-social` | 4 | 4 | 0 | 0 | 0 |
 | `temes/societat/sanitat` | 19 | 19 | 0 | 0 | 0 |
 | `temes/societat/treball` | 18 | 18 | 0 | 0 | 0 |
-| `temes/societat/vida-civica` | 8 | 7 | 1 | 0 | 0 |
+| `temes/societat/vida-civica` | 8 | 8 | 0 | 0 | 0 |
 | `temes/territori/clima-i-muntanya` | 14 | 14 | 0 | 0 | 0 |
 | `temes/territori/fauna-i-flora` | 5 | 5 | 0 | 0 | 0 |
 | `temes/territori/geografia-fisica` | 9 | 9 | 0 | 0 | 0 |
