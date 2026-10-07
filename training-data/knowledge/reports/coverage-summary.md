@@ -29,7 +29,7 @@ La cobertura és per document citat i és només un límit inferior: una cita no
 | `politica` | 19 | 1 | 18 |
 | `societat` | 142 | 1 | 141 |
 | `territori` | 49 | 1 | 48 |
-| `vida-quotidiana` | 11 | 0 | 11 |
+| `vida-quotidiana` | 11 | 1 | 10 |
 
 ## Backlog per branca del corpus
 
@@ -156,7 +156,7 @@ Aquest índex més fi permet avançar branca per branca. `Amb conversa` segueix 
 | `temes/territori/patrimoni-natural` | 2 | 0 | 2 | 2 | 0 | 0 | 0 |
 | `temes/territori/toponimia` | 5 | 0 | 5 | 1 | 2 | 2 | 0 |
 | `temes/territori/urbanisme` | 2 | 0 | 2 | 1 | 1 | 0 | 0 |
-| `temes/vida-quotidiana/com-funciona-tot` | 4 | 0 | 4 | 3 | 1 | 0 | 0 |
+| `temes/vida-quotidiana/com-funciona-tot` | 4 | 1 | 3 | 3 | 1 | 0 | 0 |
 | `temes/vida-quotidiana/convencions-socials` | 3 | 0 | 3 | 0 | 3 | 0 | 0 |
 | `temes/vida-quotidiana/creences` | 1 | 0 | 1 | 0 | 1 | 0 | 0 |
 | `temes/vida-quotidiana/geografia-mental` | 1 | 0 | 1 | 0 | 1 | 0 | 0 |
@@ -176,7 +176,7 @@ Aquesta tria només mira el camp `font` de la capçalera i la seva fitxa a `docs
 | `pending` | 604 |
 | `missing` | 1 |
 
-**Total:** 1348 fitxes article; **29** tenen almenys una conversa citada i **1319** encara no en tenen.
+**Total:** 1348 fitxes article; **30** tenen almenys una conversa citada i **1318** encara no en tenen.
 
 ## Límits
 
