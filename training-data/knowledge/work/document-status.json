@@ -930,17 +930,19 @@
       "title": "La bruixa de Sornàs",
       "type": "article",
       "topic": "temes/cultura/llegendes",
-      "status": "in_progress",
+      "status": "complete",
       "unit_count": 12,
       "covered_unit_ids": [
         "docs/temes/cultura/llegendes/la-bruixa-de-sornas.md#unit-0001",
         "docs/temes/cultura/llegendes/la-bruixa-de-sornas.md#unit-0003",
         "docs/temes/cultura/llegendes/la-bruixa-de-sornas.md#unit-0004",
-        "docs/temes/cultura/llegendes/la-bruixa-de-sornas.md#unit-0005"
+        "docs/temes/cultura/llegendes/la-bruixa-de-sornas.md#unit-0005",
+        "docs/temes/cultura/llegendes/la-bruixa-de-sornas.md#unit-0006"
       ],
-      "excluded_unit_count": 6,
-      "open_unit_count": 2,
+      "excluded_unit_count": 7,
+      "open_unit_count": 0,
       "conversation_ids": [
+        "bruixa-sornas-figura-a-la-roca-001",
         "bruixa-sornas-llegenda-i-buits-001"
       ]
     },
