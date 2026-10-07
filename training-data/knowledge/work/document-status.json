@@ -233,12 +233,19 @@
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0029",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0030",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0031",
-        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0032"
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0032",
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0034",
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0035",
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0036",
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0037",
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0038",
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0039"
       ],
       "excluded_unit_count": 1,
-      "open_unit_count": 32,
+      "open_unit_count": 26,
       "conversation_ids": [
         "festes-ossa-abast-i-desaparicio-001",
+        "festes-ossa-bibliografia-per-seguir-001",
         "festes-ossa-calendari-hivernacio-001",
         "festes-ossa-ordino-i-encamp-001",
         "festes-ossa-origen-i-primera-font-001",
