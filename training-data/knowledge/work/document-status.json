@@ -1037,12 +1037,17 @@
       "title": "Llegendes — índex",
       "type": "article",
       "topic": "temes/cultura/llegendes",
-      "status": "in_progress",
+      "status": "complete",
       "unit_count": 12,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/cultura/llegendes/llegendes.md#unit-0006",
+        "docs/temes/cultura/llegendes/llegendes.md#unit-0007"
+      ],
       "excluded_unit_count": 10,
-      "open_unit_count": 2,
-      "conversation_ids": []
+      "open_unit_count": 0,
+      "conversation_ids": [
+        "dama-blanca-article-camiade-001"
+      ]
     },
     "docs/temes/cultura/museus-i-arxius/abans-ho-decretava-el-govern.md": {
       "title": "Abans ho decretava el Govern",
