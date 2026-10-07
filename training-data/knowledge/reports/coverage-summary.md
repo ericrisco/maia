@@ -20,7 +20,7 @@ La cobertura és per document citat i és només un límit inferior: una cita no
 | `costums` | 23 | 5 | 18 |
 | `cultura` | 72 | 10 | 62 |
 | `economia` | 95 | 2 | 93 |
-| `esports` | 272 | 1 | 271 |
+| `esports` | 272 | 2 | 270 |
 | `gastronomia` | 15 | 2 | 13 |
 | `historia` | 226 | 2 | 224 |
 | `institucions` | 338 | 1 | 337 |
@@ -79,7 +79,7 @@ Aquest índex més fi permet avançar branca per branca. `Amb conversa` segueix 
 | `temes/esports/futbol` | 98 | 0 | 98 | 98 | 0 | 0 | 0 |
 | `temes/esports/futbol/clubs-i-competicions` | 6 | 0 | 6 | 6 | 0 | 0 | 0 |
 | `temes/esports/futbol/femeni` | 43 | 0 | 43 | 43 | 0 | 0 | 0 |
-| `temes/esports/seleccions` | 15 | 1 | 14 | 9 | 0 | 6 | 0 |
+| `temes/esports/seleccions` | 15 | 2 | 13 | 9 | 0 | 6 | 0 |
 | `temes/gastronomia/begudes` | 1 | 0 | 1 | 0 | 1 | 0 | 0 |
 | `temes/gastronomia/calendari-gastronomic` | 1 | 0 | 1 | 1 | 0 | 0 | 0 |
 | `temes/gastronomia/historia-alimentaria` | 5 | 0 | 5 | 0 | 5 | 0 | 0 |
@@ -176,7 +176,7 @@ Aquesta tria només mira el camp `font` de la capçalera i la seva fitxa a `docs
 | `pending` | 604 |
 | `missing` | 1 |
 
-**Total:** 1348 fitxes article; **24** tenen almenys una conversa citada i **1324** encara no en tenen.
+**Total:** 1348 fitxes article; **25** tenen almenys una conversa citada i **1323** encara no en tenen.
 
 ## Límits
 
