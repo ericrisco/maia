@@ -12732,14 +12732,18 @@
       "topic": "temes/institucions/justicia",
       "source": "brutails-coutume-1904",
       "status": "in_progress",
-      "conversation_count": 2,
+      "conversation_count": 3,
       "conversation_ids": [
         "calendari-judicial-vs-popular-1902-01",
+        "fires-festius-sega-berdu-01",
         "termini-apel-lacio-festius-1902-01"
       ],
       "reviewed_units": [
         "termini d’apel·lació de 1902: dies hàbils, dies de gràcia i exemple de notificació del 12 de gener",
-        "suspensió dels terminis en dies festius i excepció de l’embargament"
+        "suspensió dels terminis en dies festius i excepció de l’embargament",
+        "motius explícits dels tancaments per fires a la llista aprovada el 1902",
+        "llista més antiga possiblement del segle XVIII: sega, recollida de garbes i quatre fires",
+        "topònim Berdu no identificat i absent de la llista de 1902"
       ],
       "completion_note": "",
       "reason": ""
