@@ -3,8 +3,8 @@
   "article_count": 1348,
   "file_count": 1477,
   "status_totals": {
-    "complete": 1,
-    "in_progress": 3,
+    "complete": 2,
+    "in_progress": 2,
     "no_natural_question": 0,
     "not_started": 1344
   },
@@ -480,11 +480,12 @@
       "topic": "temes/costums/sant-antoni",
       "source": "premsa-andorrana",
       "status": "in_progress",
-      "conversation_count": 6,
+      "conversation_count": 7,
       "conversation_ids": [
         "benediccio-animals-sant-antoni-estat-actual-01",
         "escudella-andorra-la-vella-racions-confraria-01",
         "escudella-sant-antoni-acte-vianda-01",
+        "escudella-sant-antoni-variacio-local-01",
         "origen-ramader-sant-antoni-01",
         "recuperacions-escudella-sant-antoni-per-parroquia-01",
         "vianda-canillo-encants-01"
@@ -500,6 +501,8 @@
         "els encants són subhastes i la seva tradició es va recuperar cap al 2000",
         "Sant Antoni és patró dels animals domèstics i dels traginers",
         "la fitxa no confirma si la benedicció d'animals continua avui ni on es fa",
+        "totes les parròquies preparen escudella, però no consta si ho fan igual",
+        "vianda està documentat a Canillo, però no consta si és exclusiu",
         "la recuperació a Andorra la Vella als anys setanta i la primera vianda de Canillo el 1979 són casos diferents"
       ],
       "open_units": [
@@ -7248,12 +7251,13 @@
       "type": "article",
       "topic": "temes/gastronomia/plats",
       "source": "viquipedia-ca",
-      "status": "in_progress",
-      "conversation_count": 5,
+      "status": "complete",
+      "conversation_count": 6,
       "conversation_ids": [
         "escudella-andorra-la-vella-racions-confraria-01",
         "escudella-nacional-oficialitat-01",
         "escudella-sant-antoni-origen-tons-01",
+        "escudella-sant-antoni-variacio-local-01",
         "ingredients-escudella-andorrana-01",
         "recuperacions-escudella-sant-antoni-per-parroquia-01"
       ],
@@ -7266,12 +7270,12 @@
         "ingredients generals de l'escudella i ús a l'hivern i en dies assenyalats com Nadal",
         "la font recull el nom habitual plat nacional però no acredita una declaració oficial",
         "no consta el nombre de racions d'Andorra la Vella i no s'hi trasllada la dada de Canillo",
-        "consta que el grup va formar una confraria, però no se'n coneix el nom ni els estatuts"
+        "consta que el grup va formar una confraria, però no se'n coneix el nom ni els estatuts",
+        "totes les parròquies preparen escudella, però només hi ha detalls locals de Canillo i Andorra la Vella",
+        "no es pot afirmar que la recepta o organització sigui igual arreu ni que vianda sigui exclusiu de Canillo"
       ],
-      "open_units": [
-        "detall de com es prepara la celebració a cada parròquia"
-      ],
-      "completion_note": "",
+      "open_units": [],
+      "completion_note": "Fitxa sencera revisada: plat i ingredients, ús en dies assenyalats, origen i recuperació a Andorra la Vella, Tons i escudellaires, Canillo com a cas separat, i els buits sobre oficialitat, noms, racions, confraria i diferències locals queden representats sense inventar dades.",
       "reason": ""
     },
     {
