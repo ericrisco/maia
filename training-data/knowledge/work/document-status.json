@@ -974,7 +974,7 @@
       "title": "El tamarro",
       "type": "article",
       "topic": "temes/cultura/llegendes",
-      "status": "in_progress",
+      "status": "complete",
       "unit_count": 30,
       "covered_unit_ids": [
         "docs/temes/cultura/llegendes/el-tamarro.md#unit-0001",
@@ -987,8 +987,8 @@
         "docs/temes/cultura/llegendes/el-tamarro.md#unit-0022",
         "docs/temes/cultura/llegendes/el-tamarro.md#unit-0026"
       ],
-      "excluded_unit_count": 0,
-      "open_unit_count": 21,
+      "excluded_unit_count": 21,
+      "open_unit_count": 0,
       "conversation_ids": [
         "tamarro-cacera-i-cronologia-001",
         "tamarro-dinosaure-insperatus-001",
