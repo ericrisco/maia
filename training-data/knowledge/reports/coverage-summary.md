@@ -17,12 +17,12 @@ La cobertura és per document citat i és només un límit inferior: una cita no
 
 | Tema | Fitxes article | Amb conversa citada | Sense conversa citada |
 |---|---:|---:|---:|
-| `costums` | 23 | 6 | 17 |
+| `costums` | 23 | 0 | 23 |
 | `cultura` | 72 | 8 | 64 |
 | `economia` | 95 | 0 | 95 |
 | `esports` | 272 | 0 | 272 |
-| `gastronomia` | 15 | 2 | 13 |
-| `historia` | 226 | 1 | 225 |
+| `gastronomia` | 15 | 0 | 15 |
+| `historia` | 226 | 0 | 226 |
 | `institucions` | 338 | 0 | 338 |
 | `llengua` | 43 | 0 | 43 |
 | `persones` | 43 | 0 | 43 |
@@ -39,12 +39,12 @@ Aquest índex més fi permet avançar branca per branca. `Amb conversa` segueix 
 |---|---:|---:|---:|---:|---:|---:|---:|
 | `temes/costums/calendari-festiu` | 2 | 0 | 2 | 0 | 0 | 2 | 0 |
 | `temes/costums/caramelles` | 1 | 0 | 1 | 0 | 0 | 1 | 0 |
-| `temes/costums/danses` | 7 | 3 | 4 | 3 | 1 | 3 | 0 |
+| `temes/costums/danses` | 7 | 0 | 7 | 3 | 1 | 3 | 0 |
 | `temes/costums/falles` | 1 | 0 | 1 | 0 | 1 | 0 | 0 |
 | `temes/costums/festes-majors` | 2 | 0 | 2 | 0 | 0 | 2 | 0 |
 | `temes/costums/gegants` | 1 | 0 | 1 | 0 | 1 | 0 | 0 |
 | `temes/costums/meritxell` | 1 | 0 | 1 | 0 | 0 | 1 | 0 |
-| `temes/costums/religiositat` | 5 | 3 | 2 | 2 | 3 | 0 | 0 |
+| `temes/costums/religiositat` | 5 | 0 | 5 | 2 | 3 | 0 | 0 |
 | `temes/costums/ritus-de-pas` | 2 | 0 | 2 | 0 | 1 | 1 | 0 |
 | `temes/costums/sant-antoni` | 1 | 0 | 1 | 0 | 0 | 1 | 0 |
 | `temes/cultura` | 1 | 0 | 1 | 1 | 0 | 0 | 0 |
@@ -83,7 +83,7 @@ Aquest índex més fi permet avançar branca per branca. `Amb conversa` segueix 
 | `temes/gastronomia/begudes` | 1 | 0 | 1 | 0 | 1 | 0 | 0 |
 | `temes/gastronomia/calendari-gastronomic` | 1 | 0 | 1 | 1 | 0 | 0 | 0 |
 | `temes/gastronomia/historia-alimentaria` | 5 | 0 | 5 | 0 | 5 | 0 | 0 |
-| `temes/gastronomia/plats` | 5 | 2 | 3 | 3 | 2 | 0 | 0 |
+| `temes/gastronomia/plats` | 5 | 0 | 5 | 3 | 2 | 0 | 0 |
 | `temes/gastronomia/productes` | 2 | 0 | 2 | 1 | 1 | 0 | 0 |
 | `temes/gastronomia/rebosteria` | 1 | 0 | 1 | 0 | 0 | 1 | 0 |
 | `temes/historia/antic-regim` | 50 | 0 | 50 | 13 | 30 | 7 | 0 |
@@ -97,7 +97,7 @@ Aquest índex més fi permet avançar branca per branca. `Amb conversa` segueix 
 | `temes/historia/manual-digest` | 5 | 0 | 5 | 2 | 3 | 0 | 0 |
 | `temes/historia/moments-historics` | 2 | 0 | 2 | 0 | 2 | 0 | 0 |
 | `temes/historia/origens` | 15 | 0 | 15 | 4 | 3 | 8 | 0 |
-| `temes/historia/pareatge` | 6 | 1 | 5 | 2 | 4 | 0 | 0 |
+| `temes/historia/pareatge` | 6 | 0 | 6 | 2 | 4 | 0 | 0 |
 | `temes/historia/segle-xix` | 29 | 0 | 29 | 19 | 8 | 2 | 0 |
 | `temes/historia/segle-xx-primera-meitat` | 30 | 0 | 30 | 9 | 6 | 15 | 0 |
 | `temes/institucions/comuns-i-parroquies` | 35 | 0 | 35 | 6 | 29 | 0 | 0 |
@@ -176,7 +176,7 @@ Aquesta tria només mira el camp `font` de la capçalera i la seva fitxa a `docs
 | `pending` | 604 |
 | `missing` | 1 |
 
-**Total:** 1348 fitxes article; **17** tenen almenys una conversa citada i **1331** encara no en tenen.
+**Total:** 1348 fitxes article; **8** tenen almenys una conversa citada i **1340** encara no en tenen.
 
 ## Límits
 
