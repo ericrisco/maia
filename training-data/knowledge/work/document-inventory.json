@@ -2130,11 +2130,12 @@
       "topic": "temes/economia/comerc",
       "source": "estadistica-ad",
       "status": "in_progress",
-      "conversation_count": 6,
+      "conversation_count": 7,
       "conversation_ids": [
         "comerc-2025-deu-a-un-be-ns-001",
         "comerc-exportacions-salt-2022-art-001",
         "comerc-exportacions-turquia-desti-2025-001",
+        "comerc-importacio-vehicles-valor-2010-2025-001",
         "comerc-importacions-espanya-franca-tendencia-001",
         "comerc-pic-importacio-tabac-1997-001",
         "comerc-zero-exportacions-abans-1997-001"
@@ -2145,7 +2146,8 @@
         "El capítol 97 (art, col·lecció i antiguitat) explica el 88,2% del salt de les exportacions del 2022; la sèrie no identifica les peces ni l’operació que el causa.",
         "El 2025 Turquia és el cinquè destí d’exportació (6,1 M€, 3,1%); la taula per país no diu quins productes s’hi van vendre.",
         "Els zeros d’exportació del 1993–1996 són manca de cobertura de la sèrie per país, que comença el 1997; la sèrie per capítols registra 33,4 M€ el 1993.",
-        "La importació de tabac assoleix 107,11 M€ el 1997, entre 64,74 M€ el 1996 i 37,23 M€ el 1998; la font no n’explica la causa ni atribueix el pic al contraban."
+        "La importació de tabac assoleix 107,11 M€ el 1997, entre 64,74 M€ el 1996 i 37,23 M€ el 1998; la font no n’explica la causa ni atribueix el pic al contraban.",
+        "El valor de les importacions de vehicles puja de 85,39 M€ el 2010 a 337,60 M€ el 2025; el valor no indica per si sol el nombre de vehicles importats."
       ],
       "open_units": [
         "Resta revisar la resta de la fitxa: evolució anual, països d'origen i destí, capítols aranzelaris, salt exportador del 2022, períodes incomplets i límits d'interpretació."
