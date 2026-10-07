@@ -36,7 +36,8 @@
         "sant-antoni-llista-judicial-i-escudella-001"
       ],
       "reviewed_units": [
-        "La llista judicial de 1902 no és un calendari popular; l’absència de Sant Antoni no prova que la festa no se celebrés."
+        "La llista judicial de 1902 no és un calendari popular; l’absència de Sant Antoni no prova que la festa no se celebrés.",
+        "Fites anuals: Sant Antoni el 17 de gener, caramelles a la primavera, Sant Joan i falles el 23 de juny, festes majors a l’estiu i Meritxell el 8 de setembre."
       ],
       "open_units": [
         "Dates i fonts primàries dels calendaris de cada parròquia i vila.",
@@ -87,7 +88,8 @@
         "caramelles-sant-julia-diumenge-seguent-001"
       ],
       "reviewed_units": [
-        "A Sant Julià, les caramelles es fan el diumenge després de Pasqua; la Coral Rocafort recorre carrers, s’atura sota balcons o a places, canta i recull donatius."
+        "A Sant Julià, les caramelles es fan el diumenge després de Pasqua; la Coral Rocafort recorre carrers, s’atura sota balcons o a places, canta i recull donatius.",
+        "Les caramelles són una fita primaveral del calendari, al voltant de Pasqua."
       ],
       "open_units": [
         "Lletres i enregistraments de les caramelles, amb permisos i drets clars.",
@@ -251,7 +253,8 @@
         "falles-andorra-torxes-i-recuperacio-001"
       ],
       "reviewed_units": [
-        "Diferència entre les falles andorranes com a torxes i les Falles valencianes com a monuments; materials antics i canvi documentat per Canturri després de la recuperació cap al 1997-1998."
+        "Diferència entre les falles andorranes com a torxes i les Falles valencianes com a monuments; materials antics i canvi documentat per Canturri després de la recuperació cap al 1997-1998.",
+        "Les falles se situen al 23 de juny, en el calendari de Sant Joan."
       ],
       "open_units": [
         "Variants i recorreguts per parròquia.",
@@ -300,8 +303,13 @@
       "conversation_ids": [
         "calendari-fites-anuals-andorra-001"
       ],
-      "reviewed_units": [],
-      "open_units": [],
+      "reviewed_units": [
+        "Cada parròquia té la seva festa major i moltes viles també en tenen; les festes majors se celebren a l’estiu i no són una única festa nacional."
+      ],
+      "open_units": [
+        "Dates i programes de cada parròquia i vila, amb fonts primàries dels comuns.",
+        "La font periodística genèrica no identifica els articles dels quals provenen les dades."
+      ],
       "completion_note": "",
       "reason": ""
     },
@@ -360,7 +368,8 @@
         "meritxell-feriat-i-festa-nacional-1902-001"
       ],
       "reviewed_units": [
-        "La llista judicial de 1902 anomena el 8 de setembre Nativitat de la Mare de Déu; no acredita per si sola que fos festa nacional ni que el Consell la denominés Meritxell."
+        "La llista judicial de 1902 anomena el 8 de setembre Nativitat de la Mare de Déu; no acredita per si sola que fos festa nacional ni que el Consell la denominés Meritxell.",
+        "Meritxell, el 8 de setembre, és presentada com la festa nacional; el calendari judicial de 1902 només la registra pel nom litúrgic."
       ],
       "open_units": [
         "L’acta original del Consell General del 24-10-1873 que declararia Meritxell patrona del Principat; la referència actual és premsa no identificada.",
@@ -508,7 +517,8 @@
         "sant-antoni-llista-judicial-i-escudella-001"
       ],
       "reviewed_units": [
-        "La llista judicial de 1902 no permet datar l’escudella popular; la primera vianda de Canillo documentada a la fitxa és del 1979 i no data les altres parròquies."
+        "La llista judicial de 1902 no permet datar l’escudella popular; la primera vianda de Canillo documentada a la fitxa és del 1979 i no data les altres parròquies.",
+        "Sant Antoni, el 17 de gener, és una de les fites del calendari festiu anual."
       ],
       "open_units": [
         "Calendari, lloc, nom local i organitzadors de les escudelles a les parròquies fora del cas documentat de Canillo.",
