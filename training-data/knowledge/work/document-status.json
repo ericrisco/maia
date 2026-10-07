@@ -319,5 +319,15 @@
     "reviewed_units": [
       "La llista d’Amades no prova que tots els balls es practiquessin a Andorra; Canturri destaca tres descripcions de coneixement directe i l’Ossa encara representada el 1994."
     ]
+  },
+  "docs/temes/costums/festes-majors/el-calendari-de-les-festes-majors.md": {
+    "open_units": [],
+    "status": "in_progress",
+    "conversation_ids": [
+      "ordino-festa-major-i-roser-2026-001"
+    ],
+    "reviewed_units": [
+      "Ordino 2026: el calendari del Comú identifica Sant Corneli (16 de setembre) com a Festa Major i el Roser de juliol com a festa diferent; la font periodística també recull una data d’agost no confirmada pel Comú."
+    ]
   }
 }
