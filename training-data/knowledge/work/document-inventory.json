@@ -374,11 +374,12 @@
       "topic": "temes/costums/religiositat",
       "source": "bopa-ad",
       "status": "in_progress",
-      "conversation_count": 4,
+      "conversation_count": 5,
       "conversation_ids": [
         "registre-religios-associacio-cultural-dependent-03",
         "registre-religios-exclusio-parapsicologia-04",
         "registre-religios-no-inscrit-responsabilitat-i-inscripcio-01",
+        "registre-religios-proselitisme-proporcionalitat-05",
         "registre-religios-publicitat-i-abast-02"
       ],
       "reviewed_units": [
@@ -388,7 +389,8 @@
         "Publicitat i consulta del Registre: documents concrets de procediments acabats, procediment electrònic o escrit, límits de les consultes genèriques i protecció de dades (art. 8.1–3).",
         "Dades mínimes dels assentaments i significat limitat de la xifra aproximada de practicants per entitat inscrita (art. 4.1).",
         "Associacions i fundacions de naturalesa no religiosa creades per una entitat inscrita: registre general propi i constància com a dependents al Registre religiós (art. 3.2).",
-        "Exclusions del Registre religiós per a entitats centrades en fenòmens psíquics/parapsicològics o finalitats humanístiques i espiritualistes alienes a la religió; abast limitat de l’exclusió (art. 3.3)."
+        "Exclusions del Registre religiós per a entitats centrades en fenòmens psíquics/parapsicològics o finalitats humanístiques i espiritualistes alienes a la religió; abast limitat de l’exclusió (art. 3.3).",
+        "Límits a les restriccions i denegació per proselitisme abusiu o il·lícit: risc acreditat i proporcionalitat/adequació (art. 3.4)."
       ],
       "open_units": [
         "Passada editorial integral de la fitxa: revisar la resta d’afirmacions i buits contra les converses i conservar explícitament allò que no consta."
