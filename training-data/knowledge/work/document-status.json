@@ -660,11 +660,13 @@
         "docs/temes/cultura/arquitectura/romanic.md#unit-0004",
         "docs/temes/cultura/arquitectura/romanic.md#unit-0005",
         "docs/temes/cultura/arquitectura/romanic.md#unit-0006",
-        "docs/temes/cultura/arquitectura/romanic.md#unit-0007"
+        "docs/temes/cultura/arquitectura/romanic.md#unit-0007",
+        "docs/temes/cultura/arquitectura/romanic.md#unit-0011"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 12,
+      "open_unit_count": 11,
       "conversation_ids": [
+        "meritxell-imatge-original-i-replica-001",
         "romanic-esglesies-i-cronologia-001"
       ]
     },
@@ -918,12 +920,16 @@
       "title": "Sergi Mas i Balaguer",
       "type": "article",
       "topic": "temes/cultura/arts-visuals",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 63,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0002"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 63,
-      "conversation_ids": []
+      "open_unit_count": 62,
+      "conversation_ids": [
+        "meritxell-imatge-original-i-replica-001"
+      ]
     },
     "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md": {
       "title": "Cinc anys, i el cinema és l'única cosa que puja",
