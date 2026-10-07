@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 5,
+    "in_progress": 6,
     "no_natural_question": 0,
-    "not_started": 1343
+    "not_started": 1342
   },
   "documents": [
     {
@@ -1505,10 +1505,15 @@
       "type": "article",
       "topic": "temes/cultura/teatre",
       "source": "masegosa-teatre-andorra",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "ball-ossa-versions-localitats-01"
+      ],
+      "reviewed_units": [
+        "arguments diferents del ball de l’óssa a Encamp i la Cortinada",
+        "transmissió oral fins al guió de Rossend Marsol el 1959; contingut anual refet com a sàtira"
+      ],
       "completion_note": "",
       "reason": ""
     },
