@@ -9,7 +9,7 @@
   "file_count": 1477,
   "article_count": 1348,
   "parse_error_count": 0,
-  "conversation_count": 52,
+  "conversation_count": 53,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 0,
@@ -1392,7 +1392,7 @@
       "topic": "temes/cultura/museus-i-arxius",
       "source": "jurisprudencia-ad",
       "status": "in_progress",
-      "conversation_count": 52,
+      "conversation_count": 53,
       "conversation_ids": [
         "diposit-legal-anuari-i-serie-numerada-001",
         "diposit-legal-bases-dades-programari-exemplars-001",
@@ -1410,6 +1410,7 @@
         "diposit-legal-cromos-i-naips-exemplars-001",
         "diposit-legal-determinacio-dubtes-i-silenci-001",
         "diposit-legal-diapositives-microformes-transparencies-001",
+        "diposit-legal-edicio-bibliofila-llibre-artistic-001",
         "diposit-legal-edicions-paralleles-suports-001",
         "diposit-legal-editor-andorra-domini-ad-001",
         "diposit-legal-encartaments-filatelics-goigs-001",
@@ -1500,7 +1501,8 @@
         "Llei 15/2025, article 11.1.b: two copies for sound and audiovisual recordings.",
         "Llei 15/2025, articles 3.3-3.4: periodic national bibliography from deposited materials, publication channels and consultation-only access.",
         "Decret 100/2026, article 11, and Llei 15/2025, articles 22-23: identification of registered .ad domains and the relation between that inclusion criterion and exclusions.",
-        "Decret 100/2026, article 8.4-8.5: protect legitimate rights and commercial exploitation; no additional economic burden for compliance."
+        "Decret 100/2026, article 8.4-8.5: protect legitimate rights and commercial exploitation; no additional economic burden for compliance.",
+        "Llei 15/2025, article 11.1.c: one copy for limited bibliophile editions and artist books of high bibliographic value."
       ],
       "open_units": [
         "Finish reviewing the remaining physical deposit categories and special formats, periodicals, film/television/radio, and linked regulations.",
