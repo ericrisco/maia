@@ -682,7 +682,7 @@
       "title": "Sant Martí de la Cortinada",
       "type": "article",
       "topic": "temes/cultura/arquitectura",
-      "status": "in_progress",
+      "status": "complete",
       "unit_count": 12,
       "covered_unit_ids": [
         "docs/temes/cultura/arquitectura/sant-marti-de-la-cortinada.md#unit-0001",
@@ -694,8 +694,8 @@
         "docs/temes/cultura/arquitectura/sant-marti-de-la-cortinada.md#unit-0009",
         "docs/temes/cultura/arquitectura/sant-marti-de-la-cortinada.md#unit-0010"
       ],
-      "excluded_unit_count": 0,
-      "open_unit_count": 4,
+      "excluded_unit_count": 4,
+      "open_unit_count": 0,
       "conversation_ids": [
         "romanics-motius-i-mestre-cortinada-001",
         "sant-marti-canturri-datacio-i-font-001",
