@@ -2130,7 +2130,7 @@
       "topic": "temes/economia/comerc",
       "source": "estadistica-ad",
       "status": "in_progress",
-      "conversation_count": 11,
+      "conversation_count": 12,
       "conversation_ids": [
         "comerc-2025-deu-a-un-be-ns-001",
         "comerc-cobertura-record-2022-001",
@@ -2139,6 +2139,7 @@
         "comerc-exportacions-roba-pes-1993-2025-001",
         "comerc-exportacions-salt-2022-art-001",
         "comerc-exportacions-turquia-desti-2025-001",
+        "comerc-importacio-exportacio-vehicles-2025-001",
         "comerc-importacio-vehicles-valor-2010-2025-001",
         "comerc-importacions-espanya-franca-tendencia-001",
         "comerc-pic-importacio-tabac-1997-001",
@@ -2155,7 +2156,8 @@
         "Espanya i França passen de sumar el 89% dels destins d’exportació el 1997 al 67% el 2025; la font registra quotes d’altres mercats, però no n’explica l’origen.",
         "El pes del vestit en les exportacions baixa del 19,8% el 1993 al 2,0% el 2025; la sèrie no diu on es fabriquen els béns exportats.",
         "La dada d’exportació del 2026 cobreix només una part de l’any i no es pot comparar directament amb els totals anuals; no prova una caiguda anual.",
-        "La cobertura màxima de la sèrie és del 20,7% el 2022 (367,5 M€ exportats sobre 1.773,1 M€ importats); no representa una balança equilibrada."
+        "La cobertura màxima de la sèrie és del 20,7% el 2022 (367,5 M€ exportats sobre 1.773,1 M€ importats); no representa una balança equilibrada.",
+        "El 2025 Andorra importa vehicles per 337,60 M€ i n’exporta per 46,99 M€; les taules no indiquen on es fabriquen ni si es reexporten."
       ],
       "open_units": [
         "Resta revisar la resta de la fitxa: evolució anual, països d'origen i destí, capítols aranzelaris, salt exportador del 2022, períodes incomplets i límits d'interpretació."
