@@ -189,6 +189,9 @@
       "status": "in_progress",
       "unit_count": 59,
       "covered_unit_ids": [
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0001",
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0022",
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0023",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0024",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0025",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0028",
@@ -197,9 +200,10 @@
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0031"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 53,
+      "open_unit_count": 50,
       "conversation_ids": [
         "festes-ossa-calendari-hibernacio-001",
+        "festes-ossa-distribucio-i-pervivencia-001",
         "festes-ossa-que-perviuen-calendari-001"
       ]
     },
