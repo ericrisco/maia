@@ -1015,23 +1015,32 @@
       "title": "Llegendes — índex de fitxes",
       "type": "index",
       "topic": "",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 24,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/cultura/llegendes/llegendes-index-de-fitxes.md#unit-0018"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 24,
-      "conversation_ids": []
+      "open_unit_count": 23,
+      "conversation_ids": [
+        "dama-bruixa-verge-i-hipotesi-camiade-001"
+      ]
     },
     "docs/temes/cultura/llegendes/llegendes.md": {
       "title": "Llegendes — índex",
       "type": "article",
       "topic": "temes/cultura/llegendes",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 12,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/cultura/llegendes/llegendes.md#unit-0006",
+        "docs/temes/cultura/llegendes/llegendes.md#unit-0007"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 12,
-      "conversation_ids": []
+      "open_unit_count": 10,
+      "conversation_ids": [
+        "dama-bruixa-verge-i-hipotesi-camiade-001"
+      ]
     },
     "docs/temes/cultura/museus-i-arxius/abans-ho-decretava-el-govern.md": {
       "title": "Abans ho decretava el Govern",
