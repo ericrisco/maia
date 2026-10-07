@@ -11,6 +11,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - Actes històriques del Consell General, apel·lació dels síndics del 2–3 de maig de 1364, ANA, ASC, pergamí 1.190; J.-A. Brutails, La Coutume d’Andorre (1904), cap. VII, pp. 243–244.
 - Estat de la fitxa del corpus «Les caramelles»; no s’hi incorpora cap lletra ni transcripció externa.
 - Fabiola Sofia Masegosa i Gayo, La vida teatral a Andorra de 1900 a 1970, tesi doctoral (Universitat de Lleida, 2017), resum publicat a Debats de Recerca 12 (2020), pp. 27–39; DOI 10.2436/15.8060.21.4.
+- Govern d’Andorra, «La UNESCO inscriu les Festes de l’Os dels Pirineus», 29 de novembre de 2022. La notícia identifica Encamp i Ordino com les representacions andorranes de la candidatura conjunta.
 - Govern d’Andorra, «Les caramelles d’Ordino i Sant Julià de Lòria», consulta 2026-09-19.
 - J.-A. Brutails, La Coutume d'Andorre (1904), cap. VII, especialment pp. 276–277 del Politar citat; digitalització Gallica BnF.
 - J.-A. Brutails, La Coutume d'Andorre (1904), cap. VII, p. 219 del Politar citat; digitalització Gallica BnF.
@@ -66,6 +67,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - CC BY-SA 4.0, amb obligació d’atribució i compartir igual. La fitxa no concreta l’any en què la representació d’Ordino es va traslladar al desembre.
 - CC BY-SA 4.0, amb obligació d’atribució i compartir igual. La font és secundària; la tradició sobre els orígens s’atribueix com a tal.
 - Contingut periodístic amb drets reservats; la fitxa premsa-andorrana registra redistribució:no. La referència concreta no es pot verificar.
+- Font institucional amb drets reservats; el portal exigeix autorització escrita per redistribuir o transformar continguts i no consta un permís específic. Aquesta limitació queda registrada; no s’interpreta la inclusió com a llicència.
 - La pàgina institucional registra drets reservats i redistribució:no; el portal exigeix autorització escrita i no consta cap permís específic. Aquesta limitació es conserva al registre de procedència.
 - La referència sobre el Cerdà prové de premsa amb drets reservats i no identificada; redistribució:no. Les fonts de Viquipèdia són CC BY-SA 4.0, amb obligació d’atribució i compartir igual. La limitació de la font no identificada es manté explícita.
 - La transcripció institucional dels documents precedents no declara llicència i la redistribució consta pendent. L’obra de Brutails (1904) és en domini públic; Gallica permet reutilització no comercial amb atribució. L’elegibilitat del destí d’entrenament no consta resolta; es conserven les condicions de les dues fonts.

@@ -164,13 +164,14 @@
       "topic": "temes/costums/danses",
       "source": "wikipedia-ball-ossa-encamp",
       "status": "in_progress",
-      "conversation_count": 5,
+      "conversation_count": 6,
       "conversation_ids": [
         "danses-parroquies-i-sardana-importada-01",
         "ossa-encamp-anonimat-dallaires-01",
         "ossa-encamp-dallaires-i-ritus-de-pas-01",
         "ossa-encamp-variants-i-reescriptura-01",
-        "ultima-ossa-ordino-carnaval-i-desembre-01"
+        "ultima-ossa-ordino-carnaval-i-desembre-01",
+        "unesco-festes-os-encamp-ordino-2022-01"
       ],
       "reviewed_units": [
         "dallaires presents durant tota la farsa i interpretats pels joves amb els seus noms",
@@ -178,7 +179,8 @@
         "diferència entre el relat d’Amades de 1950 (ossa cerca mel al rusc) i la cacera de la versió descrita per Masegosa",
         "Rossend Marsol escriu i modernitza una representació el 1959; les fonts no daten el canvi concret entre les dues trames",
         "Amades documenta el 1950 només fadrins i anonimat dels intèrprets; la descripció posterior diu que els dallaires duen els noms reals; data del canvi desconeguda",
-        "calendari de la representació d’Encamp: dilluns de Carnaval, contrastat amb l’Última Ossa d’Ordino al desembre"
+        "calendari de la representació d’Encamp: dilluns de Carnaval, contrastat amb l’Última Ossa d’Ordino al desembre",
+        "el Ball de l’Ossa d’Encamp figura entre les representacions andorranes identificades a la candidatura UNESCO del 2022, juntament amb l’Última Ossa d’Ordino"
       ],
       "completion_note": "",
       "reason": ""
@@ -278,11 +280,12 @@
       "topic": "temes/costums/danses",
       "source": "wikipedia-llegendes-andorra",
       "status": "in_progress",
-      "conversation_count": 3,
+      "conversation_count": 4,
       "conversation_ids": [
         "festes-ossa-emigracio-i-represa-ordino-01",
         "ultima-ossa-mascara-centenaria-01",
-        "ultima-ossa-ordino-carnaval-i-desembre-01"
+        "ultima-ossa-ordino-carnaval-i-desembre-01",
+        "unesco-festes-os-encamp-ordino-2022-01"
       ],
       "reviewed_units": [
         "l’Última Ossa d’Ordino se celebra la primera setmana de desembre a la fira de Nadal; abans es feia per Carnaval",
@@ -290,7 +293,8 @@
         "les fonts no daten el trasllat de la celebració d’Ordino al desembre",
         "la font atribueix el declivi i la desaparició de la majoria de festes de l’ossa a l’emigració de joves cap al sud de França als anys vint",
         "cronologia d’Ordino: represa el 1985, interrupció a mitjan anys noranta durant uns 25 anys i nova represa el 2017",
-        "l’Última Ossa d’Ordino fa servir una màscara centenària de cap d’ós dissecat, transmesa entre generacions; es manté després de la represa del 2017"
+        "l’Última Ossa d’Ordino fa servir una màscara centenària de cap d’ós dissecat, transmesa entre generacions; es manté després de la represa del 2017",
+        "inscripció UNESCO del 2022 en candidatura conjunta d’Andorra i França; la notícia del Govern identifica Encamp i Ordino i no enumera totes les versions històriques"
       ],
       "completion_note": "",
       "reason": ""
