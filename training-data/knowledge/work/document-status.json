@@ -155,11 +155,17 @@
         "docs/temes/costums/danses/la-marratxa.md#unit-0005",
         "docs/temes/costums/danses/la-marratxa.md#unit-0006",
         "docs/temes/costums/danses/la-marratxa.md#unit-0011",
-        "docs/temes/costums/danses/la-marratxa.md#unit-0012"
+        "docs/temes/costums/danses/la-marratxa.md#unit-0012",
+        "docs/temes/costums/danses/la-marratxa.md#unit-0013",
+        "docs/temes/costums/danses/la-marratxa.md#unit-0015",
+        "docs/temes/costums/danses/la-marratxa.md#unit-0016",
+        "docs/temes/costums/danses/la-marratxa.md#unit-0017",
+        "docs/temes/costums/danses/la-marratxa.md#unit-0018"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 18,
+      "open_unit_count": 13,
       "conversation_ids": [
+        "marratxa-coreografia-i-memoria-001",
         "marratxa-i-data-del-pareatge-001",
         "marratxa-simbolisme-parroquies-001"
       ]
