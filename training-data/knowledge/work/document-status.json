@@ -5725,12 +5725,19 @@
       "title": "L'escudella de Sant Antoni",
       "type": "article",
       "topic": "temes/gastronomia/plats",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 10,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/gastronomia/plats/lescudella-de-sant-antoni.md#unit-0001",
+        "docs/temes/gastronomia/plats/lescudella-de-sant-antoni.md#unit-0003",
+        "docs/temes/gastronomia/plats/lescudella-de-sant-antoni.md#unit-0004",
+        "docs/temes/gastronomia/plats/lescudella-de-sant-antoni.md#unit-0005"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 10,
-      "conversation_ids": []
+      "open_unit_count": 6,
+      "conversation_ids": [
+        "escudella-sant-antoni-plat-i-tradicio-001"
+      ]
     },
     "docs/temes/gastronomia/plats/menges-del-forn-tradicional.md": {
       "title": "Menges del forn tradicional",
