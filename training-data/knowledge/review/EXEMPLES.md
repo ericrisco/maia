@@ -1,94 +1,95 @@
-# Exemples de calibratge: dubtes reals, respostes completes
+# Exemples per calibrar converses
 
-Aquests són exemples editorials per decidir com han de sonar les converses.
-No són registres aprovats ni s'exporten automàticament. Abans d'aprovar-los com
-a dades, encara cal verificar la procedència i els drets de les fonts citades.
+Aquestes mostres fixen el to i el tipus de seguiment que busquem. Són exemples
+editorials, no registres aprovats ni exportables. Abans d'incorporar-los al
+dataset, cal comprovar-ne la procedència i els drets al registre corresponent.
 
-## Dues festes de l'ossa, dos calendaris
+## Una festa de l'ossa que no és per Carnaval
 
-**Usuari:** Les festes de l'ossa es fan totes per Carnaval?
+**Usuari:** Em pensava que les festes de l'ossa eren totes per Carnaval. N'hi ha
+alguna que es faci en una altra època?
 
-**Maia:** Depèn d'on. A Encamp, el ball de l'ossa es representa el dilluns de
-Carnaval. A Ordino, l'Última ossa es fa durant la primera setmana de desembre,
-a la fira de Nadal.
+**Maia:** Sí. A Ordino, l'Última ossa es representa durant la primera setmana de
+desembre, coincidint amb la fira de Nadal. A Encamp, en canvi, el ball de
+l'ossa es fa el dilluns de Carnaval.
 
-**Usuari:** Ah, la d'Ordino també es feia al desembre abans?
+**Usuari:** Ah, la d'Ordino ja es feia al desembre de sempre?
 
-**Maia:** No. Originalment també es feia per Carnaval. El corpus explica que es
-va reprendre el 2017 i que des d'aleshores se celebra al desembre, però no diu
-per què es va triar aquest canvi de data.
+**Maia:** No. Abans també es feia per Carnaval. Es va recuperar el 2017 i des
+d'aleshores se celebra al desembre; la documentació no explica per què es va
+canviar la data.
 
-**Per què funciona:** la pregunta inicial serveix per orientar un pla concret.
-El seguiment sorgeix de la diferència de calendari i comprova si és antiga. La
-resposta dona el que se sap i marca el límit sense inventar un motiu.
+**Per què funciona:** comença per una impressió que algú podria tenir i la
+comprova. El seguiment reprèn la diferència de calendari i pregunta per la seva
+història. La resposta no inventa el motiu del canvi.
 
-**Fonts per revisar:** [`les-festes-de-lossa.md`](../../../docs/temes/costums/danses/les-festes-de-lossa.md), apartats «La cronologia» i «Les dues que queden».
+**Fonts per revisar:** [`les-festes-de-lossa.md`](../../../docs/temes/costums/danses/les-festes-de-lossa.md).
 
-## Un plat que no és exclusiu d'un país
+## El trinxat és andorrà o pirinenc?
 
-**Usuari:** El trinxat és un plat típicament andorrà?
+**Usuari:** El trinxat és un plat d'Andorra o es menja també a fora?
 
-**Maia:** També es menja a Andorra, però no és exclusivament andorrà. És un
-plat pirinenc que també es troba a la Cerdanya, l'Alt Urgell i el Berguedà.
+**Maia:** També es menja a fora. És un plat pirinenc que es troba, entre altres
+llocs, a Andorra, la Cerdanya, l'Alt Urgell i el Berguedà.
 
-**Usuari:** I hi ha una versió del trinxat pròpia d'Andorra?
+**Usuari:** I què porta, més o menys?
 
-**Maia:** La fitxa descriu el trinxat amb col i patata bullides, aixafades i
-daurades amb el greix de la cansalada. Però no concreta si hi ha una variant
-pròpia d'Andorra; aquest detall no consta al corpus.
+**Maia:** Es fa amb col i patata bullides i aixafades, que es barregen amb el
+greix de la cansalada i es dauren a la paella. La fitxa no concreta si a
+Andorra hi ha una variant pròpia.
 
-**Usuari:** I per què es feia amb col i patata?
+**Usuari:** Doncs si demano trinxat aquí, puc esperar que sigui diferent del de
+la Cerdanya?
 
-**Maia:** La fitxa ho relaciona amb els hiverns del Pirineu: la col podia
-aguantar al camp i la patata es guardava al celler quan hi havia pocs aliments
-disponibles. També situa la primera referència escrita al segle XV.
+**Maia:** No ho podem donar per fet. El corpus descriu la preparació general,
+però no documenta cap diferència entre una versió andorrana i una de cerdana.
 
-**Per què funciona:** la conversa corregeix amb tacte una atribució massa
-exclusiva, no presenta una recepta general com si fos una variant andorrana i
-respon la curiositat que obre l'explicació dels ingredients.
+**Per què funciona:** la conversa va de l'origen del plat a què hi porta i
+després a una conseqüència pràctica. Maia no inventa una «variant andorrana»
+perquè la pregunta la suggereixi.
 
-**Fonts per revisar:** [`el-trinxat.md`](../../../docs/temes/gastronomia/plats/el-trinxat.md), apartats «Com es fa», «Per què existeix» i «El que falta».
+**Fonts per revisar:** [`el-trinxat.md`](../../../docs/temes/gastronomia/plats/el-trinxat.md).
 
-## Com convertir una pregunta de fitxa en una pregunta humana
+## Com pot baixar i pujar alhora la població d'Encamp?
 
-**No:** «Què explica la secció “El relat” de la fitxa “La troballa de Meritxell”?»
+**Usuari:** He vist que Encamp perd població en una estadística i en guanya en
+una altra. Com pot ser?
 
-**Per què no:** només té sentit per a qui coneix la fitxa i el seu índex. No
-explica què vol entendre la persona.
+**Maia:** Perquè no compten exactament el mateix. El juliol del 2026, la
+població registrada d'Encamp havia baixat un 4,7% respecte d'un any abans,
+mentre que l'estimada havia pujat un 2,2%. La primera surt del cens comunal;
+la segona calcula la població resident encreuant-lo amb altres registres.
 
-**Millor punt de partida:** identifica quin dubte resol aquell relat. Per
-exemple, si la font documenta què va passar després de trobar la imatge, es
-podria preguntar «Què va passar després que la trobessin?». Abans d'escriure la
-resposta, cal comprovar que el relat sosté aquesta formulació i que no s'hi
-afegeixen detalls d'altres versions.
+**Usuari:** Llavors la baixada del cens no vol dir que tanta gent hagi marxat?
 
-**No:** «Què indica aquesta fila?»
+**Maia:** No ho podem saber només amb aquesta dada. Estadística adverteix que
+les variacions del registre també poden reflectir depuracions administratives,
+però no quantifica quina part de la baixada d'Encamp ve d'això.
 
-**Per què no:** la pregunta assenyala una fila que no existeix dins la conversa
-i no diu quina comparació o conclusió necessita l'usuari.
+**Per què funciona:** la pregunta surt d'una contradicció aparent entre dues
+dades concretes. El seguiment prova una interpretació possible; la resposta
+marca el límit que la font dona per a Encamp.
 
-**Millor punt de partida:** si les dades mostren dues sèries diferents, formula
-el dubte que provoquen («Per què una sèrie puja si l'altra baixa?») i explica
-què mesura cadascuna. No converteixis els valors en una llista sense context.
+**Fonts per revisar:** [`dues-maneres-de-comptar-la-poblacio.md`](../../../docs/temes/societat/demografia/dues-maneres-de-comptar-la-poblacio.md) i [`estadistica-ad.md`](../../../docs/fonts/estadistica-ad.md).
 
-## Senyals per descartar o reescriure
+## Contramodel: pregunta i resposta que descartem
 
-- «Què explica la secció...» — pregunta sobre l'índex de la font.
-- «I què més?» — no concreta cap necessitat ni reprèn un detall.
-- «Tres coses que el corpus registra per separat:» — fragment, no resposta.
-- «Això prova que...?» — només funciona si la resposta pot explicar què proven i què no proven les dades.
-- Una llista de dates, xifres o noms sense una frase que n'expliqui la rellevància.
-- Una pregunta inicial i un seguiment que podrien intercanviar-se amb qualsevol altra conversa.
-- Una resposta que afegeix la causa més plausible quan la font no la documenta.
+**No:** «Què explica la secció “El relat” de la fitxa “La troballa de
+Meritxell”?»
 
-## Com ha de quedar l'exportació
+**Per què no:** depèn d'un document que l'usuari no ha esmentat. No diu quin
+dubte vol resoldre.
 
-Quan una conversa s'hagi revisat, aprovat i assignat a un split, l'exportació
-contindrà només missatges, per exemple:
+**Tampoc:** «Tres coses que el corpus registra per separat:»
+
+**Per què no:** és un fragment sense resposta directa. Una bona resposta ha de
+dir què són aquestes coses i per què contesten la pregunta.
+
+## Format d'entrenament quan s'aprovi una mostra
 
 ```json
-{"messages":[{"role":"user","content":"El trinxat és un plat típicament andorrà?"},{"role":"assistant","content":"També es menja a Andorra, però no és exclusivament andorrà. És un plat pirinenc que també es troba a la Cerdanya, l'Alt Urgell i el Berguedà."},{"role":"user","content":"I la col i la patata són la recepta tradicional d'aquí?"},{"role":"assistant","content":"La fitxa descriu el trinxat amb col i patata bullides, aixafades i daurades amb el greix de la cansalada. Però no concreta si hi ha una variant pròpia d'Andorra; aquest detall no consta al corpus."}]}
+{"messages":[{"role":"user","content":"Em pensava que les festes de l'ossa eren totes per Carnaval. N'hi ha alguna que es faci en una altra època?"},{"role":"assistant","content":"Sí. A Ordino, l'Última ossa es representa durant la primera setmana de desembre, coincidint amb la fira de Nadal. A Encamp, en canvi, el ball de l'ossa es fa el dilluns de Carnaval."},{"role":"user","content":"Ah, la d'Ordino ja es feia al desembre de sempre?"},{"role":"assistant","content":"No. Abans també es feia per Carnaval. Es va recuperar el 2017 i des d'aleshores se celebra al desembre; la documentació no explica per què es va canviar la data."}]}
 ```
 
-Les fonts, els drets, la puntuació i l'explicació editorial es guarden fora de
-`output/`.
+El JSONL final només conté `messages`. Identificadors, fonts, drets i decisions
+editorials queden als fitxers interns de revisió.

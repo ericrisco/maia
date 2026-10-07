@@ -1,184 +1,143 @@
-# Pla: converses que comencen amb un dubte humà
+# Pla de disseny de converses de Maia Knowledge
 
-## Què volem entrenar
+## Objectiu
 
-`Maia Knowledge` ha d'ensenyar Maia a entendre què vol saber algú sobre Andorra,
-respondre amb naturalitat i mantenir el fil quan la persona pregunta una cosa
-més. Els fets han de sortir de `docs/temes/`.
+Crear converses que ensenyin Maia a entendre dubtes normals sobre Andorra,
+respondre'ls amb precisió i seguir el fil. El contingut factual surt de
+`docs/temes/`. La conversa ha de tenir sentit per si sola: qui la llegeix no
+ha de conèixer les fitxes ni els seus títols.
 
-`Maia Language` és un projecte separat: només pot ensenyar llengua humana
-autèntica de `docs/parla/`, amb els permisos i criteris d'elegibilitat
-documentats. No convertim monòlegs en entrevistes inventades.
+`Maia Language` continua separat. Només s'hi poden posar intervencions humanes
+autèntiques i autoritzades de `docs/parla/`; no s'hi inventen entrevistes.
 
-No partim de «quin paràgraf falta convertir en pregunta?». Partim d'una
-necessitat recognoscible: què intentaria aclarir algú, i quina resposta li
-permetria continuar la conversa?
+## Què va fallar
 
-## Per què no serveixen els exemples anteriors
+Aquestes formes no són preguntes útils d'un usuari:
 
-Preguntes com «Què explica la secció “El relat”?» pressuposen que l'usuari ha
-vist la fitxa i n'ha memoritzat els encapçalaments. «Què indica aquesta fila?»
-depèn d'una taula absent de la conversa. Respostes com «I dos topònims que en
-surten:» o «Tres coses que el corpus registra per separat:» són fragments, no
-respostes. Una dada separada per guions tampoc explica què significa ni per què
-és pertinent.
+- «Què explica la secció X de la fitxa Y?» demana un resum de l'índex.
+- «Què indica aquesta fila?» assenyala material que no és a la conversa.
+- «I dos topònims que en surten:» no és ni una pregunta clara ni una resposta.
+- Reproduir una taula amb guions trasllada dades sense explicar què volen dir.
 
-Per tant, rebutgem preguntes que només es poden entendre consultant el document
-font, i respostes que no contesten amb una frase completa. La font pot guiar la
-redacció, però no ha d'aparèixer com a interfície de la conversa.
+No n'hi ha prou de canviar-ne les paraules. Cal trobar primer el dubte que una
+persona voldria resoldre.
 
-## El mètode: de la necessitat a la conversa
+## Mètode editorial
 
-### 1. Trobar una situació que generi un dubte
+### 1. Entendre el material abans d'escriure
 
-Per cada tema, escriu una targeta de treball amb:
+Llegeix la fitxa sencera i les fitxes enllaçades que siguin necessàries. Apunta
+en una targeta interna:
 
-- **Situació:** què ha sentit, llegit o vol aclarir aquesta persona?
-- **Pregunta inicial:** quina és la manera més directa i natural de demanar-ho?
-- **Què ha d'entendre:** quina idea o distinció resol el dubte?
-- **Límit:** què no permet afirmar el corpus?
-- **Fonts:** quines fitxes sostenen cada afirmació?
+- què vol aclarir la conversa;
+- quins fets concrets poden respondre-ho;
+- quines fonts sostenen cada fet i si permeten reutilitzar-lo;
+- què no se sap o quina interpretació seria excessiva.
 
-La situació és una eina editorial i no s'exporta. No atribueixis a l'usuari una
-experiència personal inventada («ahir hi vaig anar»), però tampoc converteixis
-totes les preguntes en formulacions de llibre de text. Una persona pot parlar
-amb naturalitat sense explicar la seva biografia: «Això també es fa a Ordino?»
-o «Vols dir que les dues xifres compten coses diferents?»
+No comencis per una fila, un encapçalament o una dada a la qual l'usuari no té
+accés. La fitxa és la font de l'assistent, no el context compartit del diàleg.
 
-### 2. Redactar la primera pregunta com una persona
+### 2. Escriure la pregunta inicial des d'una intenció
 
-Prioritza preguntes que neixen de motius corrents:
+Abans de redactar-la, completa per a ús editorial: «Aquesta persona vol saber
+___ perquè ___». La resposta ha de poder omplir el primer buit amb una
+necessitat concreta, com ara:
 
-- una idea que la persona dona per feta pot ser falsa;
-- dues dades semblen contradir-se;
-- vol saber què passarà, com funciona o què ha de distingir;
-- ha sentit un terme i en vol el sentit en context;
-- vol entendre una causa, però les fonts potser només en documenten una part;
-- la resposta anterior li suggereix una conseqüència concreta.
+- entendre si dues coses són iguals o diferents;
+- saber quan o on passa una cosa;
+- comprovar una impressió o una premissa;
+- entendre què vol dir una pràctica o una paraula;
+- saber què es pot concloure d'una dada.
 
-No cal afegir context fictici per fer-la «humana». La naturalitat ve de la
-intenció, del vocabulari planer i de no fer explicar a l'usuari el que ja es
-desprèn de la conversa. Evita preguntes de catàleg («Què explica la secció...»,
-«Quins són els tres elements...»), preguntes massa solemnes i introduccions
-que ningú no faria en una consulta normal.
+Després expressa aquesta intenció en català corrent. Es permet una mica de
+context («Em pensava que...», «Quan hi anem...») si ajuda a entendre el dubte,
+però no inventis una biografia, una experiència personal ni una conversa prèvia.
+No facis servir «segons la fitxa», «en aquesta taula» o «a l'apartat».
 
-### 3. Fer que cada seguiment neixi de la resposta
+### 3. Construir el seguiment a partir de la resposta
 
-Escriu la resposta inicial abans del seguiment. Després pregunta't què podria
-demanar algú en haver-la llegit. El seguiment pot aclarir un pronom («I la
-d'Ordino?»), comprovar una conseqüència («Això vol dir que...?»), demanar una
-comparació o preguntar pel límit d'una explicació.
+Escriu primer la resposta. A continuació, formula la pregunta que aquella
+resposta faria venir al cap: aclarir una excepció, comprovar una conseqüència,
+demanar el motiu o seguir un detall que acaba d'aparèixer. Si el seguiment no
+depèn d'alguna cosa que l'assistent acaba de dir, no és un bon seguiment.
 
-Cada torn ha de tenir sentit en aquell punt de la conversa. No hi afegeixis
-«I què més?» ni preguntes independents només per assolir un nombre de torns.
-Dues interaccions ben resoltes són millors que sis d'artificials. La majoria de
-registres tindran dos o tres intercanvis; fes-los més llargs només quan el fil
-ho demani de debò. No obliguis cada registre a ser multitorn: una pregunta
-resolta completament en un torn és millor que una conversa allargada a la força.
+Fes normalment 2 o 3 intercanvis. No allarguis el diàleg per complir una quota.
+Una sola pregunta pot ser millor que una conversa forçada; però quan la tasca
+demana multitorn, cada torn ha d'afegir una necessitat real i no repetir la
+resposta anterior amb altres paraules.
 
-### 4. Contestar com un assistent, no com una fitxa
+### 4. Respondre com en una conversa
 
-- Respon primer la pregunta concreta.
-- Escriu frases completes i comprensibles sense veure cap document.
-- Afegeix només el context que ajudi a entendre o a matisar la resposta.
-- Corregeix una premissa equivocada amb tacte i explica la distinció correcta.
-- Separa el que la font afirma del que només es podria inferir.
-- Si no se sap, digues què no consta i evita omplir el buit amb una explicació plausible.
-- No recitis l'article ni amunteguis dades només perquè són a la font.
-- No comencis amb una rèplica ornamental («Bona pregunta!») ni repeteixis la
-  pregunta abans de respondre-la.
-- Fes servir noms i xifres quan ajudin a resoldre el dubte; explica què
-  representen, en lloc de deixar-los com una llista deslligada.
+- Contesta la pregunta concreta a la primera frase.
+- Usa frases completes, amb prou context perquè s'entenguin sense la font.
+- Explica què representen les dates, xifres i noms; no els deixis com una llista.
+- Corregeix una premissa amb tacte i dona la versió que sí que se sosté.
+- Separa el fet documentat de la inferència. Digues què no consta quan calgui.
+- Afegeix context només si ajuda a resoldre el dubte o entendre'n el límit.
+- Evita l'obertura buida («Bona pregunta!»), el to d'examen i la prosa de fitxa.
 
-### 5. Revisar amb fonts obertes
+### 5. Revisar el diàleg sense mirar la font
 
-Per a cada conversa, la revisió ha de poder traçar les afirmacions factuals fins
-a les fitxes de Maia i comprovar els drets de les fonts. La procedència queda en
-fitxers de revisió; mai dins del JSONL de missatges. Si dues fonts discrepen,
-explica la discrepància quan sigui rellevant, sense decidir arbitràriament qui
-té raó.
+Llegeix només els missatges, en veu alta. Rebutja'l si:
 
-## La prova de qualitat
+- no s'entén què vol saber la persona;
+- sembla que l'usuari conegui la fitxa o una dada no dita abans;
+- el seguiment es podria enganxar a qualsevol conversa;
+- una resposta comença amb una llista o amb una frase inacabada;
+- el diàleg sona com un qüestionari, un guió promocional o una entrevista
+  escrita per omplir torns.
 
-Valora cada criteri de 0 a 2:
+Després comprova de nou cada afirmació contra les fonts i els seus drets.
 
-1. **Intenció:** és clar què vol resoldre l'usuari?
-2. **Naturalitat:** ho podria dir algú que no ha vist la fitxa?
-3. **Fil:** cada seguiment parteix de la resposta prèvia?
-4. **Resposta:** l'assistent contesta directament amb frases completes?
-5. **Fidelitat:** totes les afirmacions són sostingudes per les fonts?
+## Targeta de treball i registre
 
-Cal obtenir almenys 9/10 i cap zero. Són motius de rebuig immediat: pregunta
-que cita seccions o files sense context, resposta fragmentària, seguiment sense
-relació, fet inventat o atribució personal inventada. Si cal explicar la
-pregunta amb «a la fitxa hi ha un apartat que...», torna-la a escriure.
+La targeta de treball és editorial i no s'exporta:
 
-Llegeix tota la conversa en veu alta i sense mirar les fonts. Si sona com un
-qüestionari o l'assistent no sembla escoltar, no l'aprovis.
+```text
+Intenció de l'usuari:
+Situació mínima necessària:
+Fets que responen el dubte:
+Límit / què no consta:
+Fonts i drets:
+Possible seguiment que neix de la resposta:
+```
 
-## Cobertura sense forçar preguntes
+El registre revisat conserva identificador, fonts, drets, revisió i split als
+fitxers interns. El JSONL d'entrenament conté només `messages`, amb rols
+alternats `user` i `assistant`, sense cap metadada interna.
 
-Primer s'audita què sap el corpus de cada tema. Després s'agrupen els fets que
-una persona preguntaria junts i es decideix si donen peu a una conversa útil.
-No cal una pregunta per dada, fila o paràgraf. Els fets importants que no
-encaixin en una pregunta natural queden anotats a la cobertura, no es converteixen
-en qüestionari. Abans d'afegir un registre, compara'l amb els aprovats per
-detectar duplicats d'intenció i de resposta.
+## Criteris de calibratge
 
-## Estructura i estats
+Puntua cada aspecte de 0 a 2: intenció recognoscible, naturalitat, continuïtat
+entre torns, resposta completa i fidelitat a les fonts. Cal obtenir 9/10 o més,
+cap zero, i passar totes dues lectures: primer només el diàleg; després amb les
+fonts obertes. La puntuació no substitueix el judici editorial.
+
+## Estructura i ordre de treball
 
 ```text
 training-data/
 ├── README.md
 ├── PLAN.md
 ├── knowledge/
-│   ├── review/
-│   │   ├── EXEMPLES.md       # calibratge editorial, no dades d'entrenament
-│   │   ├── conversations.jsonl
-│   │   └── provenance.jsonl
-│   ├── work/                 # inventari i cobertura per font/fet
-│   ├── output/               # només converses aprovades, missatges sols
-│   ├── reports/              # cobertura, qualitat, drets i splits
-│   ├── scripts/
-│   └── archive/               # lots antics, preservats però exclosos
-└── language/                 # flux independent, segons autenticitat i permisos
+│   ├── review/       # exemples, candidats i procedència
+│   ├── work/         # targetes, inventari i cobertura
+│   ├── output/       # converses aprovades, només missatges
+│   ├── reports/      # cobertura, qualitat, drets i splits
+│   ├── scripts/      # exportació i validació
+│   └── archive/      # lots antics, preservats i exclosos
+└── language/         # flux separat basat en parla humana autoritzada
 ```
 
-Cada conversa de revisió té un identificador i un estat fora del contingut dels
-missatges. Només els registres aprovats i amb drets comprovats s'exporten. Els
-fitxers de `output/` contenen una línia JSONL per conversa i només `messages`;
-cap ID, comentari, font ni puntuació editorial.
+Per a cada lot: tria un tema, revisa les fonts i els drets, escriu poques
+converses, aplica la lectura editorial, comprova duplicats i cobertura, i només
+llavors aprova i exporta. No generis una pregunta per paràgraf o per fila. Anota
+els fets sense una pregunta natural a la cobertura pendent, en lloc d'inventar
+una pregunta. No ampliïs el volum fins que les mostres de calibratge siguin
+aprovades.
 
-Els registres antics no s'han d'allargar ni donar per bons per inèrcia. Cal
-revisar-los des de zero amb aquesta prova; un registre que la falli queda fora
-de les sortides aprovades.
+## Propera etapa
 
-## Ordre de treball
-
-1. Revisar els exemples de calibratge i acordar el patró de qualitat.
-2. Escollir un tema i llegir les fitxes relacionades, no només una secció.
-3. Escriure un lot petit de converses des de necessitats d'usuari.
-4. Revisar fil, naturalitat, exactitud, procedència i drets; rebutjar o reescriure les que fallin.
-5. Revisar duplicats i anotar cobertura que no s'hagi pogut convertir en conversa.
-6. Aprovar, assignar split per grup de fonts relacionades i exportar.
-7. Repetir el cicle tema a tema. No escalar fins que un lot petit passi la revisió.
-8. Treballar Maia Language només amb converses humanes reals, elegibles i autoritzades.
-
-La prioritat és correcció, naturalitat i cobertura traçable. El nombre de
-registres no és una mètrica d'èxit per si sol.
-
-## Porta d'entrada per a cada registre nou
-
-Abans d'afegir-lo a `review/conversations.jsonl`, escriu-lo com un diàleg pla i
-passa aquestes preguntes:
-
-1. La primera pregunta expressa un dubte que algú podria tenir sense haver llegit
-   les fonts?
-2. La resposta resol aquest dubte en llenguatge corrent i amb prou context?
-3. El seguiment surt d'una paraula, una dada o una idea de la resposta anterior?
-4. Si traiem el seguiment, la conversa perd alguna cosa? Si no, potser sobra.
-5. Les fonts sostenen cada afirmació i també els límits que s'hi expliquen?
-
-Només després de passar aquesta lectura s'afegeixen metadades de revisió,
-procedència, drets i split. Els exemples de `knowledge/review/EXEMPLES.md`
-serveixen per calibrar la veu, no per copiar-ne les plantilles.
+Llegir i aprovar les mostres de `knowledge/review/EXEMPLES.md`. Després crear
+un lot petit, tema per tema, amb el mateix estàndard. Els registres antics
+queden arxivats i no tornen a les sortides sense una revisió completa.
