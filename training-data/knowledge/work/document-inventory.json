@@ -374,7 +374,7 @@
       "topic": "temes/costums/religiositat",
       "source": "bopa-ad",
       "status": "in_progress",
-      "conversation_count": 27,
+      "conversation_count": 28,
       "conversation_ids": [
         "registre-religios-actualitzar-dades-declaracio-biennal-14",
         "registre-religios-associacio-cultural-dependent-03",
@@ -386,6 +386,7 @@
         "registre-religios-documentacio-entitat-estrangera-07",
         "registre-religios-documentacio-sollicitud-basica-18",
         "registre-religios-efectes-personalitat-beneficis-no-lucratius-24",
+        "registre-religios-entrades-actuals-no-consultades-28",
         "registre-religios-esmena-documents-terminari-09",
         "registre-religios-exclusio-parapsicologia-04",
         "registre-religios-governanca-i-adreces-27",
@@ -434,7 +435,8 @@
         "Efectes de la inscripció: personalitat jurídica i beneficis generals per a entitats sense ànim de lucre; absència d’exempció fiscal concreta a la Llei 2/2025 (art. 10).",
         "Règim transitori per a entitats religioses ja inscrites al Registre d’associacions: termini de dos anys, reutilització de documents compatibles i cancel·lació si no es demana la nova inscripció (disposició transitòria).",
         "Disposició addicional sobre termini per habilitar gestió electrònica i presentació en paper durant la transició; estat actual del servei no verificat al corpus.",
-        "Facultats i designació d’òrgans de govern, seu central, adreça a Andorra i adreça opcional de comunicacions (art. 4.1.c i e)."
+        "Facultats i designació d’òrgans de govern, seu central, adreça a Andorra i adreça opcional de comunicacions (art. 4.1.c i e).",
+        "Llei exigeix dades sobre entitats i llocs de culte, però el corpus no ha consultat entrades actuals ni pot donar recomptes o distribució (arts. 4 i 8; buit registrat)."
       ],
       "open_units": [
         "Passada editorial integral de la fitxa: revisar la resta d’afirmacions i buits contra les converses i conservar explícitament allò que no consta."
