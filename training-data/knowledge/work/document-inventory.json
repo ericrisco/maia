@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 9,
+    "in_progress": 10,
     "no_natural_question": 0,
-    "not_started": 1339
+    "not_started": 1338
   },
   "documents": [
     {
@@ -1131,11 +1131,19 @@
       "type": "article",
       "topic": "temes/cultura/llegendes",
       "source": "wikipedia-llegendes-andorra",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "minairo-cano-i-tarteres-001"
+      ],
+      "reviewed_units": [
+        "Els minairons són follets diminuts que, segons la tradició, caben per milers en un canó; en sortir demanen feina i maten l'amo si no els en mana.",
+        "La llegenda explica algunes tarteres com a pedres apilades pels minairons per ordre d'un amo desesperat."
+      ],
+      "open_units": [
+        "L'herba menaironera i les variants pròpies d'Andorra no estan tractades en conversa.",
+        "Les cases andorranes atribuïdes als minairons i altres detalls de noms locals continuen oberts."
+      ],
       "completion_note": "",
       "reason": ""
     },

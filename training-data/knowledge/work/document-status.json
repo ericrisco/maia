@@ -134,5 +134,19 @@
       "tamarro-cacera-i-itinerari-001",
       "tamarro-abast-geografic-001"
     ]
+  },
+  "docs/temes/cultura/llegendes/el-minairo.md": {
+    "status": "in_progress",
+    "reviewed_units": [
+      "Els minairons són follets diminuts que, segons la tradició, caben per milers en un canó; en sortir demanen feina i maten l'amo si no els en mana.",
+      "La llegenda explica algunes tarteres com a pedres apilades pels minairons per ordre d'un amo desesperat."
+    ],
+    "open_units": [
+      "L'herba menaironera i les variants pròpies d'Andorra no estan tractades en conversa.",
+      "Les cases andorranes atribuïdes als minairons i altres detalls de noms locals continuen oberts."
+    ],
+    "conversation_ids": [
+      "minairo-cano-i-tarteres-001"
+    ]
   }
 }
