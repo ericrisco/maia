@@ -2,7 +2,7 @@
   "source_root": "docs/temes/",
   "file_count": 1477,
   "article_count": 1348,
-  "conversation_count": 31,
+  "conversation_count": 32,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 1,
@@ -16632,23 +16632,24 @@
       "topic": "temes/institucions/relacions-exteriors",
       "source": "jurisprudencia-ad",
       "status": "in_progress",
-      "conversation_count": 5,
+      "conversation_count": 6,
       "conversation_ids": [
         "bens-sense-propietari-identificat-001",
         "comis-estranger-execucio-i-destinacio-001",
         "cooperacio-penal-exculpacio-i-ús-informacio-001",
         "cooperacio-penal-portes-dentrada-001",
-        "cooperacio-penal-vuit-filtres-i-divisio-001"
+        "cooperacio-penal-vuit-filtres-i-divisio-001",
+        "secret-bancari-enregistraments-cooperacio-001"
       ],
       "reviewed_units": [
         "Llei 32/2021, arts. 9–11: via ordinària i urgent per rebre peticions d’auxili penal i regla per a citacions a judici.",
         "Articles 4 i 7: vuit filtres d’ajuda judicial, llindar de gravetat apreciat pel batlle i execució parcial de peticions amb múltiples infraccions.",
         "Articles 5, 6 i 8: excepció exculpatòria amb consentiment i límits d’especialitat/compromís previ per a la informació.",
         "Articles 36, 38 i 39: sentències penals estrangeres, excepció del comís, límits de revisió andorrana i destinació dels béns comissats.",
-        "Articles 23, 38 i 39: embargament preventiu i comís de béns/diners/valors sense propietaris legítims identificats; distingit de l’adjudicació final."
+        "Articles 23, 38 i 39: embargament preventiu i comís de béns/diners/valors sense propietaris legítims identificats; distingit de l’adjudicació final.",
+        "Articles 32, 34 i 35: autorització judicial de mesures sobre comptes/intercepcions; abast desconegut del secret bancari; destrucció de fragments irrellevants i còpies amb omissions protegides."
       ],
       "open_units": [
-        "Secret bancari, tractament d’enregistraments i documents amb dades protegides.",
         "Procediments, terminis, costos i detalls operatius dels articles 12–24.",
         "Transferència de processos penals a Andorra o des d’Andorra, i certificats d’antecedents.",
         "Llei d’extradició de 1996 i diferència amb l’auxili judicial de la Llei 32/2021.",
