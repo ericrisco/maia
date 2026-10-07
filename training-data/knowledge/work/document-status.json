@@ -602,12 +602,16 @@
         "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0004",
         "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0010",
         "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0012",
-        "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0017"
+        "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0017",
+        "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0025",
+        "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0026",
+        "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0027"
       ],
       "excluded_unit_count": 21,
-      "open_unit_count": 5,
+      "open_unit_count": 2,
       "conversation_ids": [
         "estripagecs-circuit-ordino-001",
+        "estripagecs-datacio-i-ofici-001",
         "estripagecs-definicio-nom-i-abast-001",
         "estripagecs-fotografia-casa-rull-001"
       ]
