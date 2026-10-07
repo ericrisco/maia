@@ -2,7 +2,7 @@
   "source_root": "docs/temes/",
   "file_count": 1477,
   "article_count": 1348,
-  "conversation_count": 76,
+  "conversation_count": 77,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 1,
@@ -10782,14 +10782,16 @@
       "topic": "temes/historia/segle-xix",
       "source": "diario-sesiones-corts-1895",
       "status": "in_progress",
-      "conversation_count": 2,
+      "conversation_count": 3,
       "conversation_ids": [
         "duanes-1895-argument-comerc-470000-001",
+        "duanes-fabrica-teixits-manufactures-1895-001",
         "franquicia-bestiar-congres-senat-1895-001"
       ],
       "reviewed_units": [
         "El Congrés aprova la franquícia per al bestiar andorrà, però l’article 56 és suprimit al dictamen del Senat i la mesura no entra en vigor; el dictamen no explica el motiu.",
-        "L’addició parlamentària estima les importacions espanyoles a Andorra en 470.000 pessetes anuals, prop de la meitat del consum, i destaca que Andorra no les gravava; xifres atribuïdes a la proposta, sense verificació duanera independent al corpus."
+        "L’addició parlamentària estima les importacions espanyoles a Andorra en 470.000 pessetes anuals, prop de la meitat del consum, i destaca que Andorra no les gravava; xifres atribuïdes a la proposta, sense verificació duanera independent al corpus.",
+        "L’addició atribueix els aranzels sobre fusta, mantega, formatges i productes del porc a l’ampliació duanera de “manufactures” iniciada després de la fàbrica de teixits; recull l’oferta andorrana de tancar-la i registra dates divergents (1869/1880/1886 vs. 1879/1887), sense arbitrar-les."
       ],
       "open_units": [
         "Qui va demanar i negociar la gestió a Madrid continua sense saber-se; el corpus no conserva una veu andorrana sobre l’afer duaner concret.",
