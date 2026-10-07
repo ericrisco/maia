@@ -86,7 +86,8 @@
       "Els zeros d’exportació del 1993–1996 són manca de cobertura de la sèrie per país, que comença el 1997; la sèrie per capítols registra 33,4 M€ el 1993.",
       "La importació de tabac assoleix 107,11 M€ el 1997, entre 64,74 M€ el 1996 i 37,23 M€ el 1998; la font no n’explica la causa ni atribueix el pic al contraban.",
       "El valor de les importacions de vehicles puja de 85,39 M€ el 2010 a 337,60 M€ el 2025; el valor no indica per si sol el nombre de vehicles importats.",
-      "Espanya i França passen de sumar el 89% dels destins d’exportació el 1997 al 67% el 2025; la font registra quotes d’altres mercats, però no n’explica l’origen."
+      "Espanya i França passen de sumar el 89% dels destins d’exportació el 1997 al 67% el 2025; la font registra quotes d’altres mercats, però no n’explica l’origen.",
+      "El pes del vestit en les exportacions baixa del 19,8% el 1993 al 2,0% el 2025; la sèrie no diu on es fabriquen els béns exportats."
     ],
     "open_units": [
       "Resta revisar la resta de la fitxa: evolució anual, països d'origen i destí, capítols aranzelaris, salt exportador del 2022, períodes incomplets i límits d'interpretació."
@@ -100,7 +101,8 @@
       "comerc-zero-exportacions-abans-1997-001",
       "comerc-pic-importacio-tabac-1997-001",
       "comerc-importacio-vehicles-valor-2010-2025-001",
-      "comerc-exportacions-nous-destins-1997-2025-001"
+      "comerc-exportacions-nous-destins-1997-2025-001",
+      "comerc-exportacions-roba-pes-1993-2025-001"
     ]
   }
 }
