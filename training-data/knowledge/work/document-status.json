@@ -484,7 +484,8 @@
         "afluencia-museus-monuments-serie-2017-2024-001",
         "museus-total-puja-museus-baixen-2023-2024-001",
         "museus-afluencia-per-titularitat-2024-001",
-        "primer-museu-andorra-ordino-i-colleccio-001"
+        "primer-museu-andorra-ordino-i-colleccio-001",
+        "museu-postal-constitucio-i-reobertura-001"
       ],
       "covered_units": [
         "Afluència total de museus: 149.679 visites el 2019 i 92.583 el 2024; el recompte no identifica persones úniques.",
@@ -494,7 +495,8 @@
         "Sèries anuals 2017, 2018, 2019, 2020, 2022, 2023 i 2024 de museus i monuments; s'assenyala l'absència de 2021 i la recuperació desigual.",
         "El total museus+monuments puja 4,4% el 2024 malgrat la baixada del 2,1% als museus, perquè creixen els monuments; categories diferenciades.",
         "Afluència 2023-2024 per titularitat: nacional 45.331 (+2,2%), comunal 25.898 (+8,1%), privada 10.988 (+6,9%), mixta 10.366 (-35,1%); el retrocés agregat no implica caiguda a cada categoria.",
-        "Primer Museu de Zoologia a Ordino (1935), venda de la col·lecció a Barcelona (1955) i conversió de l'edifici en Auditori Nacional el 1985; font CC BY-SA, export subjecte a compartir igual."
+        "Primer Museu de Zoologia a Ordino (1935), venda de la col·lecció a Barcelona (1955) i conversió de l'edifici en Auditori Nacional el 1985; font CC BY-SA, export subjecte a compartir igual.",
+        "Museu Postal: obert 1982 a la Casa de la Vall, desmuntat el 1991 per obres constitucionals, reobert el 1998 a Ordino; font CC BY-SA."
       ],
       "open_units": [
         "Revisar la resta de l'article sobre la xarxa museística, la història institucional i les fitxes dels museus; aquesta dada no cobreix l'article complet."
@@ -511,6 +513,19 @@
       "open_units": [
         "Revisar la resta de l'article (família Areny-Plandolit, fargues, deute, Crisi del Joc i revolució de 1881) amb fonts compatibles i verificables.",
         "Resoldre l'atribució i compartir igual de CC BY-SA abans d'incloure aquest registre als exports."
+      ]
+    },
+    "docs/temes/cultura/museus-i-arxius/museus/el-museu-postal.md": {
+      "status": "in_progress",
+      "conversation_ids": [
+        "museu-postal-constitucio-i-reobertura-001"
+      ],
+      "covered_units": [
+        "Museu Postal obert el 1982, desmuntat el 1991 durant l'elaboració constitucional i reobert a Ordino el 1998."
+      ],
+      "open_units": [
+        "Revisar la resta de l'article (correus francès i espanyol, segells i relació amb la Qüestió d'Andorra) amb fonts i llicències traçables.",
+        "Resoldre la compatibilitat de CC BY-SA amb els exports abans de publicar aquest registre com a dada d'entrenament."
       ]
     }
   },

@@ -5,7 +5,7 @@ L’inventari inclou tots els Markdown de `docs/temes/`, inclosos índexs. Una f
 - Fitxers Markdown inventariats: **1477**.
 - Fitxes `article`: **1348**.
 - Fitxers amb frontmatter invàlid: **0**.
-- Converses actives amb procedència: **149**.
+- Converses actives amb procedència: **150**.
 
 ## Estat de tots els fitxers
 
@@ -13,9 +13,9 @@ L’inventari inclou tots els Markdown de `docs/temes/`, inclosos índexs. Una f
 |---|---:|
 | Completats | 1 |
 | Exclosos per drets | 0 |
-| En curs | 13 |
+| En curs | 14 |
 | Sense pregunta natural | 0 |
-| No començats | 1463 |
+| No començats | 1462 |
 
 ## Estat de les fitxes article
 
@@ -23,9 +23,9 @@ L’inventari inclou tots els Markdown de `docs/temes/`, inclosos índexs. Una f
 |---|---:|
 | Completats | 1 |
 | Exclosos per drets | 0 |
-| En curs | 13 |
+| En curs | 14 |
 | Sense pregunta natural | 0 |
-| No començats | 1334 |
+| No començats | 1333 |
 
 ## Estat per tema
 
@@ -51,7 +51,7 @@ L’inventari inclou tots els Markdown de `docs/temes/`, inclosos índexs. Una f
 | `temes/cultura/literatura` | 1 | 1 | 0 | 0 | 0 | 0 |
 | `temes/cultura/llegendes` | 10 | 9 | 1 | 0 | 0 | 0 |
 | `temes/cultura/museus-i-arxius` | 15 | 14 | 1 | 0 | 0 | 0 |
-| `temes/cultura/museus-i-arxius/museus` | 11 | 9 | 2 | 0 | 0 | 0 |
+| `temes/cultura/museus-i-arxius/museus` | 11 | 8 | 3 | 0 | 0 | 0 |
 | `temes/cultura/musica-i-cancons` | 3 | 3 | 0 | 0 | 0 | 0 |
 | `temes/cultura/teatre` | 2 | 2 | 0 | 0 | 0 | 0 |
 | `temes/economia/banca-i-fiscalitat` | 33 | 33 | 0 | 0 | 0 | 0 |
@@ -167,8 +167,9 @@ L’inventari inclou tots els Markdown de `docs/temes/`, inclosos índexs. Una f
 - `docs/temes/cultura/arquitectura/els-estripagecs.md` — 3 converses; 4 punts oberts.
 - `docs/temes/cultura/llegendes/el-tamarro.md` — 2 converses; 5 punts oberts.
 - `docs/temes/cultura/museus-i-arxius/el-diposit-legal.md` — 77 converses; 3 punts oberts.
+- `docs/temes/cultura/museus-i-arxius/museus/el-museu-postal.md` — 1 converses; 2 punts oberts.
 - `docs/temes/cultura/museus-i-arxius/museus/el-primer-museu.md` — 1 converses; 2 punts oberts.
-- `docs/temes/cultura/museus-i-arxius/museus/els-museus-d-andorra-index-de-fitxes.md` — 8 converses; 1 punts oberts.
+- `docs/temes/cultura/museus-i-arxius/museus/els-museus-d-andorra-index-de-fitxes.md` — 9 converses; 1 punts oberts.
 - `docs/temes/historia/edat-mitjana/per-aquests-malfets-i-per-la-redempcio-de-la-seva-anima.md` — 4 converses; 5 punts oberts.
 - `docs/temes/historia/pareatge/el-pareatge.md` — 7 converses; 8 punts oberts.
 - `docs/temes/historia/pareatge/el-segon-pareatge-desmunta-enclar-i-crea-el-notariat-1288.md` — 10 converses; 3 punts oberts.
