@@ -744,11 +744,13 @@
     ],
     "conversation_ids": [
       "paraires-teixidors-i-pagesia-001",
-      "fabrica-mantes-escaldes-tancament-001"
+      "fabrica-mantes-escaldes-tancament-001",
+      "confraria-escaldes-1604-o-1659-001"
     ],
     "reviewed_units": [
       "La confraria mostra organització de paraires i teixidors, però no prova una classe social separada de la pagesia; el paraire prepara la llana i el teixidor la teixeix.",
-      "La fàbrica de mantes d’Escaldes va operar aproximadament del 1920 als anys quaranta; la font n’atribueix el tancament a importacions més barates i a l’encariment de la matèria primera."
+      "La fàbrica de mantes d’Escaldes va operar aproximadament del 1920 als anys quaranta; la font n’atribueix el tancament a importacions més barates i a l’encariment de la matèria primera.",
+      "Les fonts situen les ordinacions el 1604 i la constitució de la confraria el 1659; la relació entre les dates és desconeguda."
     ]
   }
 }

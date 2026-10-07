@@ -4,14 +4,14 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 
 - Fitxes article: **1348**.
 - Fitxers totals, inclosos índexs: **1477**.
-- Converses candidates: **44**.
+- Converses candidates: **45**.
 
 | Estat de revisió | Fitxes |
 |---|---:|
 | Revisades completes | 0 |
-| En curs | 49 |
+| En curs | 50 |
 | Revisades sense pregunta natural | 0 |
-| No començades | 1299 |
+| No començades | 1298 |
 
 ## Estat per tema
 
@@ -74,7 +74,7 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 | `temes/historia/edat-mitjana` | 42 | 42 | 0 | 0 | 0 |
 | `temes/historia/guerres-i-neutralitat` | 22 | 22 | 0 | 0 | 0 |
 | `temes/historia/historia-recent` | 7 | 7 | 0 | 0 | 0 |
-| `temes/historia/historiografia` | 11 | 11 | 0 | 0 | 0 |
+| `temes/historia/historiografia` | 11 | 10 | 1 | 0 | 0 |
 | `temes/historia/manual-digest` | 5 | 5 | 0 | 0 | 0 |
 | `temes/historia/moments-historics` | 2 | 2 | 0 | 0 | 0 |
 | `temes/historia/origens` | 15 | 14 | 1 | 0 | 0 |

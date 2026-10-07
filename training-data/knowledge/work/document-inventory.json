@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 49,
+    "in_progress": 50,
     "no_natural_question": 0,
-    "not_started": 1299
+    "not_started": 1298
   },
   "documents": [
     {
@@ -1140,14 +1140,16 @@
       "topic": "temes/cultura/artesania",
       "source": "mas-pagesos-i-artesans",
       "status": "in_progress",
-      "conversation_count": 2,
+      "conversation_count": 3,
       "conversation_ids": [
+        "confraria-escaldes-1604-o-1659-001",
         "fabrica-mantes-escaldes-tancament-001",
         "paraires-teixidors-i-pagesia-001"
       ],
       "reviewed_units": [
         "La confraria mostra organització de paraires i teixidors, però no prova una classe social separada de la pagesia; el paraire prepara la llana i el teixidor la teixeix.",
-        "La fàbrica de mantes d’Escaldes va operar aproximadament del 1920 als anys quaranta; la font n’atribueix el tancament a importacions més barates i a l’encariment de la matèria primera."
+        "La fàbrica de mantes d’Escaldes va operar aproximadament del 1920 als anys quaranta; la font n’atribueix el tancament a importacions més barates i a l’encariment de la matèria primera.",
+        "Les fonts situen les ordinacions el 1604 i la constitució de la confraria el 1659; la relació entre les dates és desconeguda."
       ],
       "open_units": [
         "La data de constitució de la confraria (1659) i la data de les ordinacions (1604) continuen discrepant.",
@@ -9651,9 +9653,11 @@
       "type": "article",
       "topic": "temes/historia/historiografia",
       "source": "canturri-costumari-amades-1994",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "confraria-escaldes-1604-o-1659-001"
+      ],
       "reviewed_units": [],
       "open_units": [],
       "completion_note": "",
