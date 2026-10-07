@@ -4,14 +4,14 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 
 - Fitxes article: **1348**.
 - Fitxers totals, inclosos índexs: **1477**.
-- Converses candidates: **8**.
+- Converses candidates: **9**.
 
 | Estat de revisió | Fitxes |
 |---|---:|
 | Revisades completes | 0 |
-| En curs | 11 |
+| En curs | 12 |
 | Revisades sense pregunta natural | 0 |
-| No començades | 1337 |
+| No començades | 1336 |
 
 ## Estat per tema
 
@@ -127,7 +127,7 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 | `temes/territori/fauna-i-flora` | 5 | 5 | 0 | 0 | 0 |
 | `temes/territori/geografia-fisica` | 9 | 9 | 0 | 0 | 0 |
 | `temes/territori/paisatge-construit` | 5 | 5 | 0 | 0 | 0 |
-| `temes/territori/parroquies/andorra-la-vella` | 1 | 1 | 0 | 0 | 0 |
+| `temes/territori/parroquies/andorra-la-vella` | 1 | 0 | 1 | 0 | 0 |
 | `temes/territori/parroquies/canillo` | 1 | 1 | 0 | 0 | 0 |
 | `temes/territori/parroquies/encamp` | 1 | 1 | 0 | 0 | 0 |
 | `temes/territori/parroquies/escaldes-engordany` | 1 | 1 | 0 | 0 | 0 |

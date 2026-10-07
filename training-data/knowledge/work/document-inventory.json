@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 11,
+    "in_progress": 12,
     "no_natural_question": 0,
-    "not_started": 1337
+    "not_started": 1336
   },
   "documents": [
     {
@@ -207,12 +207,14 @@
       "topic": "temes/costums/danses",
       "source": "premsa-andorrana",
       "status": "in_progress",
-      "conversation_count": 1,
+      "conversation_count": 2,
       "conversation_ids": [
-        "balls-andorra-la-vella-i-sant-julia-001"
+        "balls-andorra-la-vella-i-sant-julia-001",
+        "contrapas-participacio-i-visitants-001"
       ],
       "reviewed_units": [
-        "Parròquia i moment del contrapàs: Andorra la Vella, diumenge de festa major."
+        "Parròquia i moment del contrapàs: Andorra la Vella, diumenge de festa major.",
+        "Participació de l’Esbart, ciutadans i càrrecs electes; no consten les condicions per a visitants."
       ],
       "open_units": [
         "Tretze parts, durada aproximada, música de cobla, peu esquerre i gran cercle final; coreografia detallada absent.",
@@ -20225,9 +20227,11 @@
       "type": "article",
       "topic": "temes/territori/parroquies/andorra-la-vella",
       "source": "viquipedia-ca",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "contrapas-participacio-i-visitants-001"
+      ],
       "reviewed_units": [],
       "open_units": [],
       "completion_note": "",

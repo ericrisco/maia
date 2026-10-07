@@ -278,10 +278,12 @@
       "Identificació de la font periodística original i termes de drets."
     ],
     "conversation_ids": [
-      "balls-andorra-la-vella-i-sant-julia-001"
+      "balls-andorra-la-vella-i-sant-julia-001",
+      "contrapas-participacio-i-visitants-001"
     ],
     "reviewed_units": [
-      "Parròquia i moment del contrapàs: Andorra la Vella, diumenge de festa major."
+      "Parròquia i moment del contrapàs: Andorra la Vella, diumenge de festa major.",
+      "Participació de l’Esbart, ciutadans i càrrecs electes; no consten les condicions per a visitants."
     ]
   },
   "docs/temes/costums/danses/danses.md": {
