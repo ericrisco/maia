@@ -13790,13 +13790,14 @@
       "topic": "temes/institucions/justicia",
       "source": "brutails-coutume-1904",
       "status": "in_progress",
-      "conversation_count": 12,
+      "conversation_count": 13,
       "conversation_ids": [
         "embargament-en-feriat-i-hipotesi-sega-01",
         "feriats-1902-62-dies-no-total-anual-01",
         "feriats-1902-sete-epigraf-afegit-marge-01",
         "feriats-estiu-sega-llista-antiga-no-rao-1902-01",
         "foraster-audiencia-fora-feriat-15-pessetes-01",
+        "forasters-terminis-embargament-patron-no-regla-universal-01",
         "llista-1902-dates-originals-i-comentari-brutails-01",
         "llista-antiga-quatre-fires-berdu-no-identificat-01",
         "llista-feriats-1902-creacio-no-costum-antic-01",
@@ -13817,7 +13818,8 @@
         "audiència especial fora dels feriats per a un foraster: dipòsit de quinze pessetes i avís amb tres dies; cap conclusió sobre vies equivalents per als habitants",
         "comparació entre llista possiblement del segle XVIII i llista de 1902: quatre fires versus tres, motiu agrícola a l’antiga i Berdu sense identificar",
         "afirmació atribuïda a Brutails que l’Església va suprimir festes als bisbats espanyols; celebracions, dates i norma no identificades",
-        "sis dates escrites a la llista original distingides de les dates de festes que aporta el comentari de Brutails, pàgines 267-268"
+        "sis dates escrites a la llista original distingides de les dates de festes que aporta el comentari de Brutails, pàgines 267-268",
+        "audiència fora dels feriats per a forasters; contrastada amb regles manuscrites de períodes diferents sense convertir-les en norma universal"
       ],
       "open_units": [
         "altres fires i trams de tancament de la llista de 1902 i la numeració duplicada de l’epígraf setè",
@@ -14970,14 +14972,20 @@
       "topic": "temes/institucions/justicia",
       "source": "brutails-coutume-1904",
       "status": "in_progress",
-      "conversation_count": 1,
+      "conversation_count": 2,
       "conversation_ids": [
-        "embargament-en-feriat-i-hipotesi-sega-01"
+        "embargament-en-feriat-i-hipotesi-sega-01",
+        "forasters-terminis-embargament-patron-no-regla-universal-01"
       ],
       "reviewed_units": [
-        "embargament de collita només després de la sega; possible relació amb calendari de feriats marcada com a hipòtesi, no com a regla coordinada"
+        "embargament de collita només després de la sega; possible relació amb calendari de feriats marcada com a hipòtesi, no com a regla coordinada",
+        "terminis de pagament diferents per a reclamants habitants i forasters, embargament de béns i límits de la generalització"
       ],
-      "open_units": [],
+      "open_units": [
+        "datació incerta del manuscrit i intervencions de l’editor entre claudàtors",
+        "abast de l’ampara, límits segons la cosa i funció del nunci",
+        "verificació i execució de l’embargament, terminis i fonts concurrents"
+      ],
       "completion_note": "",
       "reason": ""
     },
