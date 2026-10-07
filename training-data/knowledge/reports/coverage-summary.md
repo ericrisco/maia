@@ -4,10 +4,10 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 
 - Documents inventariats: **1477** (1348 articles).
 - Unitats estructurals totals: **62911**.
-- Unitats cobertes per converses aprovades: **89** (0.141%).
+- Unitats cobertes per converses aprovades: **96** (0.153%).
 - Unitats excloses amb motiu: **9**.
-- Unitats encara obertes: **62813**.
-- Converses candidates: **18**; aprovades: **18**.
+- Unitats encara obertes: **62806**.
+- Converses candidates: **19**; aprovades: **19**.
 
 ## Estat per tema
 
@@ -17,7 +17,7 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 | `societat/treball` | 1 | 7 | 0 | 0 | 7 |
 | `temes/costums/calendari-festiu` | 2 | 65 | 0 | 0 | 65 |
 | `temes/costums/caramelles` | 1 | 18 | 0 | 0 | 18 |
-| `temes/costums/danses` | 7 | 272 | 0 | 0 | 272 |
+| `temes/costums/danses` | 7 | 272 | 5 | 0 | 267 |
 | `temes/costums/falles` | 1 | 30 | 0 | 0 | 30 |
 | `temes/costums/festes-majors` | 2 | 35 | 0 | 0 | 35 |
 | `temes/costums/gegants` | 1 | 36 | 0 | 0 | 36 |
@@ -75,7 +75,7 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 | `temes/historia/manual-digest` | 5 | 353 | 0 | 0 | 353 |
 | `temes/historia/moments-historics` | 2 | 153 | 0 | 0 | 153 |
 | `temes/historia/origens` | 15 | 414 | 0 | 0 | 414 |
-| `temes/historia/pareatge` | 6 | 473 | 0 | 0 | 473 |
+| `temes/historia/pareatge` | 6 | 473 | 2 | 0 | 471 |
 | `temes/historia/segle-xix` | 29 | 1819 | 0 | 0 | 1819 |
 | `temes/historia/segle-xx-primera-meitat` | 30 | 892 | 0 | 0 | 892 |
 | `temes/institucions/comuns-i-parroquies` | 35 | 971 | 0 | 0 | 971 |

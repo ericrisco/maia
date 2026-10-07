@@ -137,12 +137,20 @@
       "title": "La marratxa",
       "type": "article",
       "topic": "temes/costums/danses",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 24,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/costums/danses/la-marratxa.md#unit-0003",
+        "docs/temes/costums/danses/la-marratxa.md#unit-0004",
+        "docs/temes/costums/danses/la-marratxa.md#unit-0005",
+        "docs/temes/costums/danses/la-marratxa.md#unit-0006",
+        "docs/temes/costums/danses/la-marratxa.md#unit-0007"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 24,
-      "conversation_ids": []
+      "open_unit_count": 19,
+      "conversation_ids": [
+        "marratxa-data-i-pareatge-001"
+      ]
     },
     "docs/temes/costums/danses/les-festes-de-lossa.md": {
       "title": "Les festes de l'ossa",
@@ -7810,12 +7818,17 @@
       "title": "El Pareatge",
       "type": "article",
       "topic": "temes/historia/pareatge",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 81,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/historia/pareatge/el-pareatge.md#unit-0001",
+        "docs/temes/historia/pareatge/el-pareatge.md#unit-0059"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 81,
-      "conversation_ids": []
+      "open_unit_count": 79,
+      "conversation_ids": [
+        "marratxa-data-i-pareatge-001"
+      ]
     },
     "docs/temes/historia/pareatge/el-que-es-dona-en-feu-es-el-domini-util.md": {
       "title": "El que es dona en feu és el domini útil",
