@@ -14296,7 +14296,7 @@
       "topic": "temes/institucions/justicia",
       "source": "brutails-coutume-1904",
       "status": "in_progress",
-      "conversation_count": 8,
+      "conversation_count": 9,
       "conversation_ids": [
         "competencia-consol-penal-versus-civil-01",
         "competencia-criminal-consell-politar-divergencia-01",
@@ -14305,7 +14305,8 @@
         "competencia-responsabilitat-consol-pagament-multa-1891-01",
         "consols-detencio-danys-comunal-decret-1866-01",
         "consuls-immunitat-civil-politar-reforma-1866-01",
-        "justicia-politica-i-tribunals-veheduria-01"
+        "justicia-politica-i-tribunals-veheduria-01",
+        "veheduria-limits-servitude-ownership-01"
       ],
       "reviewed_units": [
         "autorització per demandar autoritats abans i després de la Reforma de 1866",
@@ -14320,9 +14321,12 @@
         "abast de la justícia política i naturalesa dels tribunals de veheduria"
       ],
       "open_units": [
-        "diferència entre demanda civil i persecució criminal",
-        "competència judicial segons qui demanda la comunitat",
-        "instàncies d'apel·lació i divergències de la font"
+        "abast temporal i eventual impugnació del decret de detenció de 1866, que la font no resol",
+        "decrets de 1895 i 1900 no incorporats íntegrament, inclòs el recurs al príncep si es denegava l'autorització",
+        "escala de competència per quarts i parròquies, comissions del Consell i apel·lacions",
+        "execució de les condemnes del Consell pels batlles i referències al cot i al recot",
+        "conjunt de casos històrics de 1502, 1783, 1788, 1828, 1868 i 1887 i els límits del que permeten concloure",
+        "límit de la competència del Consell quan la Vall és part, opinió de dret natural atribuïda a Brutails i dificultats recents no identificades"
       ],
       "completion_note": "",
       "reason": ""
@@ -14670,12 +14674,23 @@
       "topic": "temes/institucions/justicia",
       "source": "brutails-coutume-1904",
       "status": "in_progress",
-      "conversation_count": 1,
+      "conversation_count": 2,
       "conversation_ids": [
-        "justicia-politica-i-tribunals-veheduria-01"
+        "justicia-politica-i-tribunals-veheduria-01",
+        "veheduria-limits-servitude-ownership-01"
       ],
-      "reviewed_units": [],
-      "open_units": [],
+      "reviewed_units": [
+        "els tribunals de veheduria coneixen de servituds urbanes i rurals, en regulen les despeses i poden fixar-ne una indemnització, però no atribueixen propietat ni danys"
+      ],
+      "open_units": [
+        "cas dels joves que reclamen el dret de ballar i diferència entre servitud i propietat",
+        "competència local pel coneixement dels fets i qüestions basades en títols escrits",
+        "sentència de 1888 sobre aigua i servitud d'aqüeducte",
+        "dubtes sobre autenticitat de les al·legacions de 1364",
+        "casos històrics de veheduria i participació voluntària de les parts",
+        "sinonímia entre causes de veí a veí i servituds segons Politar i Instructa",
+        "regla de les parelles als balls públics i conjectura de Brutails sobre el motiu"
+      ],
       "completion_note": "",
       "reason": ""
     },
