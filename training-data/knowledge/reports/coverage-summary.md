@@ -4,14 +4,14 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 
 - Fitxes article: **1348**.
 - Fitxers totals, inclosos índexs: **1477**.
-- Converses candidates: **54**.
+- Converses candidates: **55**.
 
 | Estat de revisió | Fitxes |
 |---|---:|
 | Revisades completes | 0 |
-| En curs | 12 |
+| En curs | 13 |
 | Revisades sense pregunta natural | 0 |
-| No començades | 1336 |
+| No començades | 1335 |
 
 ## Estat per tema
 
@@ -90,7 +90,7 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 | `temes/institucions/patrimoni-institucional` | 6 | 6 | 0 | 0 | 0 |
 | `temes/institucions/petits-estats` | 2 | 2 | 0 | 0 | 0 |
 | `temes/institucions/quarts-i-veinats` | 2 | 2 | 0 | 0 | 0 |
-| `temes/institucions/relacions-exteriors` | 8 | 8 | 0 | 0 | 0 |
+| `temes/institucions/relacions-exteriors` | 8 | 7 | 1 | 0 | 0 |
 | `temes/institucions/simbols` | 4 | 4 | 0 | 0 | 0 |
 | `temes/llengua/contacte-de-llengues` | 5 | 5 | 0 | 0 | 0 |
 | `temes/llengua/dialectologia` | 4 | 4 | 0 | 0 | 0 |

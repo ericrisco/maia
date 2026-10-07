@@ -294,5 +294,31 @@
       "regles sobre armes, detencions i cobrament prioritari dels oficials",
       "segona lectura sobre la presó per deutes i col·locació de la Instructa dins del Politar"
     ]
+  },
+  "docs/temes/institucions/relacions-exteriors/andorra-a-la-comissio-on-no-vota.md": {
+    "status": "in_progress",
+    "conversation_ids": [
+      "andorra-comite-duaner-observador-sense-vot-01"
+    ],
+    "reviewed_units": [
+      "participació d’un expert de l’administració andorrana com a observador, sense vot, amb posició expressada i opinió registrada a part",
+      "consulta informal abans de noves normes de seguretat duanera i còpia de la proposta en trametre-la al Parlament o al Consell",
+      "límit del mecanisme de controvèrsies: no resol la interpretació del dret de la Unió"
+    ],
+    "open_units": [
+      "quins dos comitès i quines matèries concretes admeten experts andorrans segons la Decisió 1/2003",
+      "informació prèvia sobre dates, ordres del dia i documents; possibilitat que el president reuneixi el comitè sense l’expert",
+      "adopció de nova legislació i suspensió del títol IIA si deixa d’estar assegurada l’equivalència",
+      "mesures provisionals i de reequilibri, inclosa la suspensió",
+      "abast territorial diferent de l’acord duaner i de les mesures de seguretat; inclusió dels productes agrícoles",
+      "absència de declaració prèvia de seguretat en el transport entre els territoris duaners i reconeixement mutu dels sistemes de gestió del risc",
+      "intercanvi d’informació sobre operadors econòmics autoritzats",
+      "aplicació provisional des de 2011 i notificació d’entrada en vigor definitiva no localitzada",
+      "vint-i-tres llengües autèntiques i signatura andorrana en català",
+      "obligació de mirall de les decisions duaneres i interpretació segons la jurisprudència del Tribunal de Justícia",
+      "relació amb la Decisió d’adequació de dades personals de 2010 i les fonts que el protocol cita"
+    ],
+    "completion_note": "",
+    "reason": ""
   }
 }
