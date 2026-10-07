@@ -428,7 +428,7 @@
       "topic": "temes/costums/religiositat",
       "source": "bopa-ad",
       "status": "in_progress",
-      "conversation_count": 16,
+      "conversation_count": 17,
       "conversation_ids": [
         "constitucio-llibertat-religiosa-i-esglesia-catolica-15",
         "registre-religios-acces-public-i-consulta-concreta-02",
@@ -437,6 +437,7 @@
         "registre-religios-comptatge-practicants-i-llocs-culte-06",
         "registre-religios-dades-organs-govern-consentiment-05",
         "registre-religios-declaracio-biennal-i-incompliment-12",
+        "registre-religios-enquesta-policial-i-informes-17",
         "registre-religios-entitat-estrangera-documents-09",
         "registre-religios-entitats-de-finalitat-no-religiosa-14",
         "registre-religios-limits-proselitisme-proporcionalitat-07",
@@ -463,10 +464,11 @@
         "Llei 2/2025, article 5: nomenament de responsable i suplents, resolució dels assentaments i publicació dels nomenaments al BOPA.",
         "Llei 2/2025, article 3.3: exclusió registral acotada a organitzacions centrades en activitats psíquiques/parapsicològiques o finalitats espiritualistes alienes a les religioses.",
         "Constitució, article 11.1–3: garantia general de llibertat ideològica, religiosa i de culte, límits legals a la manifestació de creences i garanties específiques de l’Església catòlica.",
-        "Llei 2/2025, article 6: recurs administratiu potestatiu contra les resolucions i possibilitat de demanda judicial directa pel procediment urgent i preferent de tutela de drets fonamentals."
+        "Llei 2/2025, article 6: recurs administratiu potestatiu contra les resolucions i possibilitat de demanda judicial directa pel procediment urgent i preferent de tutela de drets fonamentals.",
+        "Llei 2/2025, articles 5–6: caràcter potestatiu de l’enquesta policial i dels informes experts, i separació entre instrucció de l’expedient i resolució registral."
       ],
       "open_units": [
-        "Articles 6 i 8: enquesta/informes, gratuïtat i recursos sobre caducitat; protecció de dades en certificacions/còpies i prohibició d’indexació exclusiva de dades religioses; auditoria editorial integral abans de marcar completa."
+        "Article 6: notificacions, residència legal del representant estranger, indicis penals i gratuïtat; article 8: protecció de dades en certificacions/còpies i prohibició de fitxers d’emmagatzematge exclusiu de creences; passada editorial integral."
       ],
       "completion_note": "",
       "reason": ""
