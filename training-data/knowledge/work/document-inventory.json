@@ -2,7 +2,7 @@
   "source_root": "docs/temes/",
   "file_count": 1477,
   "article_count": 1348,
-  "conversation_count": 24,
+  "conversation_count": 25,
   "file_status_totals": {
     "complete": 0,
     "in_progress": 5,
@@ -15470,12 +15470,13 @@
       "topic": "temes/institucions/relacions-exteriors",
       "source": "eur-lex-adequacio-dades-andorra-2010",
       "status": "in_progress",
-      "conversation_count": 6,
+      "conversation_count": 7,
       "conversation_ids": [
         "adequacio-dades-andorra-condicions-2010-2024-001",
         "adequacio-dades-base-legal-i-reforma-2021-001",
         "adequacio-dades-reforma-2016-001",
         "adequacio-dades-suspensio-transferencies-001",
+        "adequacio-dades-tractats-internacionals-001",
         "andorra-llista-europea-adequacio-dades-001",
         "protocol-2011-canvi-relacio-i-dades-001"
       ],
@@ -15485,7 +15486,8 @@
         "Reforma de 2016: abast general europeu després de Schrems, seguiment de l’accés de les autoritats a dades, sense atribució d’incompliment concret a Andorra.",
         "Bases jurídiques enumerades el 2010 i canvi de la Llei 15/2003 a la Llei 29/2021; conclusió de la revisió europea del 2024, sense deduir invalidació automàtica.",
         "Articles 3 i 4 de la decisió d’adequació abans/després de 2016: suspensió de transferències, poders de supervisió i notificació a la Comissió.",
-        "Articles 42–45 de la Llei 29/2021: criteri de la llista europea i Conveni 108+ per a adequació; circularitat observada amb la decisió de la UE sense resoldre’n l’efecte jurídic."
+        "Articles 42–45 de la Llei 29/2021: criteri de la llista europea i Conveni 108+ per a adequació; circularitat observada amb la decisió de la UE sense resoldre’n l’efecte jurídic.",
+        "Considerant 9: convenis internacionals citats, amb dates d’adopció i entrada en vigor a Andorra distingides."
       ],
       "open_units": [
         "Punts oberts sobre dictamen 7/2009, fonts secundàries i mapatge entre Directiva, RGPD i dret andorrà."
