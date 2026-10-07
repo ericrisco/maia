@@ -226,13 +226,16 @@
       "topic": "temes/costums/danses",
       "source": "viquipedia-ca",
       "status": "in_progress",
-      "conversation_count": 1,
+      "conversation_count": 2,
       "conversation_ids": [
-        "cerda-origen-vs-coreografia-marratxa-01"
+        "cerda-origen-vs-coreografia-marratxa-01",
+        "marratxa-nom-recipient-i-quan-es-balla-01"
       ],
       "reviewed_units": [
         "coreografia actual fixada als anys seixanta a partir de la memòria de Ricard Mas; l’Esbart Laurèdia la interpreta des del 1963",
-        "la fixació moderna de la coreografia no prova l’origen de la dansa"
+        "la fixació moderna de la coreografia no prova l’origen de la dansa",
+        "marratxa/morratxa/almorratxa: recipient d’aigua perfumada portat pels dansaires als orígens; l’objecte ja no forma part del ball",
+        "ballada dilluns de la festa major de Sant Julià amb la Passa i el Cerdà; el corpus no dona l’hora"
       ],
       "completion_note": "",
       "reason": ""
