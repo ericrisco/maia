@@ -4,10 +4,10 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 
 - Documents inventariats: **1477** (1348 articles).
 - Unitats estructurals totals: **62911**.
-- Unitats cobertes per converses aprovades: **215** (0.342%).
+- Unitats cobertes per converses aprovades: **0** (0.000%).
 - Unitats excloses amb motiu: **1183**.
-- Unitats encara obertes: **61513**.
-- Converses candidates: **51**; aprovades: **51**; mostres de calibratge: **0** (no compten com a cobertura).
+- Unitats encara obertes: **61728**.
+- Registres: **3**; aprovats: **0**; mostres de calibratge: **3** (no compten com a cobertura).
 
 ## Estat per tema
 
@@ -16,8 +16,8 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 | `(sense tema)` | 123 | 1707 | 0 | 64 | 1643 |
 | `societat/treball` | 1 | 7 | 0 | 0 | 7 |
 | `temes/costums/calendari-festiu` | 2 | 65 | 0 | 0 | 65 |
-| `temes/costums/caramelles` | 1 | 18 | 5 | 13 | 0 |
-| `temes/costums/danses` | 7 | 272 | 58 | 79 | 135 |
+| `temes/costums/caramelles` | 1 | 18 | 0 | 13 | 5 |
+| `temes/costums/danses` | 7 | 272 | 0 | 79 | 193 |
 | `temes/costums/falles` | 1 | 30 | 0 | 0 | 30 |
 | `temes/costums/festes-majors` | 2 | 35 | 0 | 0 | 35 |
 | `temes/costums/gegants` | 1 | 36 | 0 | 0 | 36 |
@@ -26,15 +26,15 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 | `temes/costums/ritus-de-pas` | 2 | 51 | 0 | 0 | 51 |
 | `temes/costums/sant-antoni` | 1 | 19 | 0 | 0 | 19 |
 | `temes/cultura` | 1 | 73 | 0 | 0 | 73 |
-| `temes/cultura/andorra-vista-de-fora` | 6 | 280 | 32 | 248 | 0 |
-| `temes/cultura/arquitectura` | 11 | 216 | 41 | 175 | 0 |
+| `temes/cultura/andorra-vista-de-fora` | 6 | 280 | 0 | 248 | 32 |
+| `temes/cultura/arquitectura` | 11 | 216 | 0 | 175 | 41 |
 | `temes/cultura/artesania` | 2 | 138 | 0 | 138 | 0 |
 | `temes/cultura/arts-visuals` | 9 | 303 | 0 | 247 | 56 |
 | `temes/cultura/cultura-popular` | 2 | 48 | 0 | 0 | 48 |
 | `temes/cultura/literatura` | 1 | 87 | 0 | 43 | 44 |
-| `temes/cultura/llegendes` | 10 | 254 | 78 | 176 | 0 |
+| `temes/cultura/llegendes` | 10 | 254 | 0 | 176 | 78 |
 | `temes/cultura/museus-i-arxius` | 15 | 912 | 0 | 0 | 912 |
-| `temes/cultura/museus-i-arxius/museus` | 11 | 335 | 1 | 0 | 334 |
+| `temes/cultura/museus-i-arxius/museus` | 11 | 335 | 0 | 0 | 335 |
 | `temes/cultura/musica-i-cancons` | 3 | 103 | 0 | 0 | 103 |
 | `temes/cultura/teatre` | 2 | 159 | 0 | 0 | 159 |
 | `temes/economia/banca-i-fiscalitat` | 33 | 2053 | 0 | 0 | 2053 |

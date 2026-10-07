@@ -33,6 +33,38 @@ class KnowledgeReviewValidationTests(unittest.TestCase):
         ]}
         validator.validate_conversation(row, 1)
 
+    def test_review_record_keeps_messages_and_provenance_in_one_row(self) -> None:
+        row = {
+            "record_id": "sample-001",
+            "review_status": "approved_sample",
+            "messages": [
+                {"role": "user", "content": "Què és això?"},
+                {"role": "assistant", "content": "És una mostra."},
+            ],
+            "source_documents": ["docs/temes/exemple.md"],
+            "source_ids": ["docs/fonts/exemple.md"],
+            "source_locations": ["Definició"],
+            "claims_supported": ["La mostra té una afirmació."],
+            "license": "CC BY-SA 4.0",
+            "attribution": "Font de prova.",
+            "limits": "Mostra fictícia per a la prova.",
+            "split_group": "sample-001",
+            "unit_ids": [],
+        }
+        validator.validate_review_record(row, 1)
+
+    def test_review_record_rejects_split_provenance_fields(self) -> None:
+        row = {
+            "record_id": "sample-001",
+            "review_status": "approved_sample",
+            "messages": [
+                {"role": "user", "content": "Què és això?"},
+                {"role": "assistant", "content": "És una mostra."},
+            ],
+        }
+        with self.assertRaisesRegex(ValueError, "expected exactly"):
+            validator.validate_review_record(row, 1)
+
     def test_rejects_role_order_errors(self) -> None:
         row = {"messages": [
             {"role": "assistant", "content": "Resposta."},

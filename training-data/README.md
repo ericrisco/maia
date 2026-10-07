@@ -1,10 +1,10 @@
 # Maia Training Data
 
-Àrea per preparar dos conjunts independents a partir de `docs/`:
+Àrea per preparar dos datasets independents a partir de `docs/`.
 
-- **Knowledge**: converses basades en el coneixement de `docs/temes/`.
-- **Language**: català andorrà contemporani extret de parla humana elegible a `docs/parla/`.
+- `knowledge/` prepara respostes sobre Andorra a partir de `docs/temes/`.
+- `language/` conserva català andorrà contemporani de parla humana elegible a `docs/parla/`.
 
-Les preguntes de Knowledge parteixen de necessitats humanes, no dels títols ni de l'ordre de les fitxes. Els seguiments només s'afegeixen quan la resposta obre un dubte natural. Les mostres vigents i la checklist són a [`knowledge/review/EXEMPLES.md`](knowledge/review/EXEMPLES.md); el procés és a [`PLAN.md`](PLAN.md).
+No barregem els objectius. A Knowledge, cada registre de revisió guarda la conversa i la seva procedència en una sola línia de `knowledge/review/records.jsonl`. Les mostres de calibratge ajuden a fixar la qualitat, però no són entrenables. Les sortides entrenables es guardaran a `output/` quan hi hagi registres aprovats suficients.
 
-La carpeta conserva l'inventari, la procedència i les eines de cobertura. Ara només hi ha mostres de calibratge: no hi ha export final de cap dels dos conjunts.
+El pla de treball és a [`PLAN.md`](PLAN.md). La guia d'estil i els exemples són a [`knowledge/review/EXEMPLES.md`](knowledge/review/EXEMPLES.md).

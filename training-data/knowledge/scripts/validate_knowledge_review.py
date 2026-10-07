@@ -19,6 +19,11 @@ REPORTS = DATA / "reports"
 STATUSES = {"draft", "approved", "approved_sample", "rejected"}
 EXCLUSIONS = {"excluded_rights", "no_natural_question", "not_knowledge", "duplicate"}
 FRONTMATTER = re.compile(r"\A---\s*\n(.*?)\n---(?:\s*\n|\Z)", re.DOTALL)
+RECORD_FIELDS = {
+    "record_id", "review_status", "messages", "source_documents", "source_ids",
+    "source_locations", "claims_supported", "license", "attribution", "limits",
+    "split_group", "unit_ids",
+}
 
 
 def read_jsonl(path: Path) -> list[dict[str, Any]]:
@@ -39,22 +44,26 @@ def read_jsonl(path: Path) -> list[dict[str, Any]]:
 
 
 def validate_conversation(row: dict[str, Any], number: int) -> None:
-    if set(row) != {"messages"}:
-        raise ValueError(f"conversations.jsonl:{number}: only the messages field is allowed")
     messages = row["messages"]
     if not isinstance(messages, list) or len(messages) < 2 or len(messages) % 2:
-        raise ValueError(f"conversations.jsonl:{number}: expected at least one complete user/assistant exchange")
+        raise ValueError(f"records.jsonl:{number}: expected at least one complete user/assistant exchange")
     for index, message in enumerate(messages):
         expected_role = "user" if index % 2 == 0 else "assistant"
         if not isinstance(message, dict) or set(message) != {"role", "content"}:
-            raise ValueError(f"conversations.jsonl:{number}: message {index + 1} has invalid fields")
+            raise ValueError(f"records.jsonl:{number}: message {index + 1} has invalid fields")
         if message["role"] != expected_role or not isinstance(message["content"], str) or not message["content"].strip():
-            raise ValueError(f"conversations.jsonl:{number}: message {index + 1} has an invalid role or empty content")
+            raise ValueError(f"records.jsonl:{number}: message {index + 1} has an invalid role or empty content")
+
+
+def validate_review_record(record: dict[str, Any], number: int) -> None:
+    if set(record) != RECORD_FIELDS:
+        raise ValueError(f"records.jsonl:{number}: expected exactly {sorted(RECORD_FIELDS)}")
+    validate_conversation({"messages": record["messages"]}, number)
 
 
 def require_string_list(value: Any, field: str, number: int) -> list[str]:
     if not isinstance(value, list) or not value or any(not isinstance(item, str) or not item.strip() for item in value):
-        raise ValueError(f"provenance.jsonl:{number}: {field} must be a non-empty list of strings")
+        raise ValueError(f"records.jsonl:{number}: {field} must be a non-empty list of strings")
     return value
 
 
@@ -65,16 +74,16 @@ def is_redistributable(value: Any) -> bool:
 def font_metadata(source_id: str, number: int) -> dict[str, Any]:
     path = ROOT / source_id
     if not path.is_file():
-        raise ValueError(f"provenance.jsonl:{number}: source ID does not exist: {source_id}")
+        raise ValueError(f"records.jsonl:{number}: source ID does not exist: {source_id}")
     match = FRONTMATTER.match(path.read_text(encoding="utf-8"))
     if not match:
-        raise ValueError(f"provenance.jsonl:{number}: source has no YAML frontmatter: {source_id}")
+        raise ValueError(f"records.jsonl:{number}: source has no YAML frontmatter: {source_id}")
     try:
         metadata = yaml.safe_load(match.group(1))
     except yaml.YAMLError as exc:
-        raise ValueError(f"provenance.jsonl:{number}: invalid source YAML: {source_id}: {exc}") from exc
+        raise ValueError(f"records.jsonl:{number}: invalid source YAML: {source_id}: {exc}") from exc
     if not isinstance(metadata, dict):
-        raise ValueError(f"provenance.jsonl:{number}: source frontmatter is not a mapping: {source_id}")
+        raise ValueError(f"records.jsonl:{number}: source frontmatter is not a mapping: {source_id}")
     return metadata
 
 
@@ -93,10 +102,7 @@ def main() -> None:
         for unit in document["units"]:
             unit_to_document[unit["unit_id"]] = document["path"]
 
-    conversations = read_jsonl(REVIEW / "conversations.jsonl")
-    provenance = read_jsonl(REVIEW / "provenance.jsonl")
-    if len(conversations) != len(provenance):
-        raise ValueError(f"{len(conversations)} conversations but {len(provenance)} provenance records")
+    records = read_jsonl(REVIEW / "records.jsonl")
 
     record_ids: set[str] = set()
     conversation_keys: set[str] = set()
@@ -104,50 +110,55 @@ def main() -> None:
     units_by_document: dict[str, set[str]] = defaultdict(set)
     records_by_document: dict[str, set[str]] = defaultdict(set)
     approved_records = 0
-    for number, (conversation, record) in enumerate(zip(conversations, provenance), 1):
-        validate_conversation(conversation, number)
+    for number, record in enumerate(records, 1):
+        validate_review_record(record, number)
+        conversation = {"messages": record["messages"]}
         key = json.dumps(conversation, ensure_ascii=False, sort_keys=True)
         if key in conversation_keys:
-            raise ValueError(f"conversations.jsonl:{number}: exact duplicate conversation")
+            raise ValueError(f"records.jsonl:{number}: exact duplicate conversation")
         conversation_keys.add(key)
 
         record_id = record.get("record_id")
         if not isinstance(record_id, str) or not record_id.strip() or record_id in record_ids:
-            raise ValueError(f"provenance.jsonl:{number}: missing or duplicate record_id")
+            raise ValueError(f"records.jsonl:{number}: missing or duplicate record_id")
         record_ids.add(record_id)
         source_documents = require_string_list(record.get("source_documents"), "source_documents", number)
         source_ids = require_string_list(record.get("source_ids"), "source_ids", number)
+        require_string_list(record.get("source_locations"), "source_locations", number)
         claims = require_string_list(record.get("claims_supported"), "claims_supported", number)
         del claims
         for field in ("license", "attribution", "limits", "split_group"):
             if not isinstance(record.get(field), str) or not record[field].strip():
-                raise ValueError(f"provenance.jsonl:{number}: missing {field}")
+                raise ValueError(f"records.jsonl:{number}: missing {field}")
         review_status = record.get("review_status")
         if not isinstance(review_status, str) or review_status not in STATUSES:
-            raise ValueError(f"provenance.jsonl:{number}: review_status must be one of {sorted(STATUSES)}")
+            raise ValueError(f"records.jsonl:{number}: review_status must be one of {sorted(STATUSES)}")
         if review_status == "approved_sample":
-            require_string_list(record.get("source_locations"), "source_locations", number)
             unit_ids = record.get("unit_ids", [])
             if not isinstance(unit_ids, list) or any(not isinstance(item, str) for item in unit_ids):
-                raise ValueError(f"provenance.jsonl:{number}: unit_ids must be a list of strings")
+                raise ValueError(f"records.jsonl:{number}: unit_ids must be a list of strings")
         else:
-            unit_ids = require_string_list(record.get("unit_ids"), "unit_ids", number)
+            unit_ids = record.get("unit_ids", [])
+            if not isinstance(unit_ids, list) or any(not isinstance(item, str) or not item.strip() for item in unit_ids):
+                raise ValueError(f"records.jsonl:{number}: unit_ids must be a list of strings")
+            if review_status == "approved" and not unit_ids:
+                raise ValueError(f"records.jsonl:{number}: approved records need unit_ids")
         if len(unit_ids) != len(set(unit_ids)):
-            raise ValueError(f"provenance.jsonl:{number}: duplicate unit_ids")
+            raise ValueError(f"records.jsonl:{number}: duplicate unit_ids")
 
         for source in source_documents:
             if not (ROOT / source).is_file():
-                raise ValueError(f"provenance.jsonl:{number}: source does not exist: {source}")
+                raise ValueError(f"records.jsonl:{number}: source does not exist: {source}")
         for source_id in source_ids:
             metadata = font_metadata(source_id, number)
             if review_status in {"approved", "approved_sample"} and not is_redistributable(metadata.get("redistribucio")):
-                raise ValueError(f"provenance.jsonl:{number}: source is not cleared for redistribution: {source_id}")
+                raise ValueError(f"records.jsonl:{number}: source is not cleared for redistribution: {source_id}")
         for unit_id in unit_ids:
             document_path = unit_to_document.get(unit_id)
             if not document_path:
-                raise ValueError(f"provenance.jsonl:{number}: unknown unit_id: {unit_id}")
+                raise ValueError(f"records.jsonl:{number}: unknown unit_id: {unit_id}")
             if document_path not in source_documents:
-                raise ValueError(f"provenance.jsonl:{number}: unit is not listed in source_documents: {unit_id}")
+                raise ValueError(f"records.jsonl:{number}: unit is not listed in source_documents: {unit_id}")
             if review_status == "approved":
                 approved_units.add(unit_id)
                 units_by_document[document_path].add(unit_id)
@@ -155,7 +166,7 @@ def main() -> None:
         if review_status == "approved":
             approved_records += 1
 
-    sample_records = sum(record.get("review_status") == "approved_sample" for record in provenance)
+    sample_records = sum(record.get("review_status") == "approved_sample" for record in records)
 
     decisions = read_jsonl(REVIEW / "unit-decisions.jsonl")
     excluded_units: set[str] = set()
@@ -222,7 +233,7 @@ def main() -> None:
         f"- Unitats cobertes per converses aprovades: **{len(approved_units)}** ({coverage:.3f}%).",
         f"- Unitats excloses amb motiu: **{len(excluded_units)}**.",
         f"- Unitats encara obertes: **{len(unresolved_units)}**.",
-        f"- Converses candidates: **{len(conversations)}**; aprovades: **{approved_records}**; mostres de calibratge: **{sample_records}** (no compten com a cobertura).",
+        f"- Registres: **{len(records)}**; aprovats: **{approved_records}**; mostres de calibratge: **{sample_records}** (no compten com a cobertura).",
         "", "## Estat per tema", "", "| Tema | Documents | Unitats | Cobertes | Excloses | Obertes |", "|---|---:|---:|---:|---:|---:|",
     ]
     for topic, counts in sorted(by_topic.items()):

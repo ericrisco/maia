@@ -1,7 +1,16 @@
 # Revisió de Maia Knowledge
 
-`conversations.jsonl` desa una conversa per línia i només conté missatges visibles. `provenance.jsonl` conserva, en el mateix ordre, les fonts, llicències, afirmacions sostingudes, límits i estat de revisió.
+`records.jsonl` és la font de veritat editorial. Cada línia conté una conversa i, al mateix objecte, les fonts, llicència, afirmacions sostingudes, límits, grup de divisió i unitats de cobertura. Això evita aparellar missatges i procedència per número de línia.
 
-Hi ha converses aprovades i mostres de calibratge. Només els registres amb `review_status: approved` compten com a dades entrenables i cobertura; `approved_sample` no compta. El validador comprova l'estructura, els drets i la cobertura; la checklist humana de [`EXEMPLES.md`](EXEMPLES.md) revisa si el diàleg sona espontani.
+Els registres poden tenir aquests estats:
 
-Els registres anteriors s'han retirat del fitxer actiu perquè les preguntes depenien de la forma de les fitxes i els seguiments sovint semblaven afegits per rutina. Es poden recuperar de l'historial de Git si cal revisar-los.
+- `draft`: pendent de revisió.
+- `approved_sample`: exemple de calibratge que no entra a l'entrenament ni compta com a cobertura.
+- `approved`: revisat i elegible per a l'exportació i la cobertura.
+- `rejected`: descartat.
+
+El JSONL final d'entrenament contindrà només `{"messages":[...]}`. No hi exportem `record_id`, fonts ni dades internes. Les mostres actuals fixen el criteri editorial; no són dades entrenables.
+
+`unit-decisions.jsonl` registra unitats no entrenables o excloses, amb el motiu i les fonts examinades. `work/` conté inventari regenerable; `reports/` conté informes de cobertura.
+
+Abans d'aprovar una conversa, revisa-la llegint només el diàleg i passa la checklist de [`EXEMPLES.md`](EXEMPLES.md). Després comprova les afirmacions i els drets a la mateixa línia de `records.jsonl`.
