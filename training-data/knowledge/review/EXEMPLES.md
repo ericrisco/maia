@@ -4,6 +4,19 @@ Aquestes converses mostren el to i l'estructura esperats. Algunes ja són regist
 
 ## Converses que funcionen
 
+### Entendre què és un estripagec
+
+```text
+Usuari: Què és exactament un estripagec? M'ha sortit la paraula i no m'imagino què és.
+Assistent: És un barrot metàl·lic amb punxes irregulars als costats, col·locat a les finestres de bordes i cases. Les punxes servien per estripar la jaqueta d'un lladre que intentés passar el braç entre els barrots.
+Usuari: Ara entenc el nom. Ve literalment de l'efecte que feia?
+Assistent: Sí. «Estripagecs» ajunta «estripa» i «gecs», és a dir, jaquetes: el nom descriu què li podia passar a la roba de qui intentés entrar a robar.
+Usuari: És una peça pròpia només d'Andorra?
+Assistent: No. Se'n troben al Pirineu i també en altres zones, com el Ripollès, Osona i el Vallès.
+```
+
+La conversa parteix d'un terme que la persona no coneix. El seguiment pregunta pel nom i després per l'abast geogràfic, sense dependre de la fitxa ni d'una referència amagada.
+
 ### Entendre per què la imatge de Meritxell es queda al santuari
 
 ```text
