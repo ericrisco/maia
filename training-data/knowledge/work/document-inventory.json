@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 0,
+    "in_progress": 1,
     "no_natural_question": 0,
-    "not_started": 1348
+    "not_started": 1347
   },
   "documents": [
     {
@@ -13753,10 +13753,14 @@
       "type": "article",
       "topic": "temes/institucions/justicia",
       "source": "brutails-coutume-1904",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "calendari-judicial-i-sant-antoni-001"
+      ],
+      "reviewed_units": [
+        "La llista de 1902 és un calendari judicial; la seva absència de Sant Antoni no prova l’absència de celebracions populars."
+      ],
       "open_units": [
         "altres fires i trams de tancament de la llista de 1902 i la numeració duplicada de l’epígraf setè",
         "llista possiblement del segle XVIII: quatre fires, sega, dates i topònim Berdu no identificat",

@@ -49,13 +49,19 @@
     ]
   },
   "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md": {
-    "status": "not_started",
+    "status": "in_progress",
     "open_units": [
       "altres fires i trams de tancament de la llista de 1902 i la numeració duplicada de l’epígraf setè",
       "llista possiblement del segle XVIII: quatre fires, sega, dates i topònim Berdu no identificat",
       "seixanta-dos dies datats, períodes mòbils i total anual no calculable sense any concret",
       "terminis judicials i efecte dels feriats en recursos, execucions i embargaments",
       "hipòtesis del corpus sobre sega, empara i diferències entre habitants i forasters"
+    ],
+    "conversation_ids": [
+      "calendari-judicial-i-sant-antoni-001"
+    ],
+    "reviewed_units": [
+      "La llista de 1902 és un calendari judicial; la seva absència de Sant Antoni no prova l’absència de celebracions populars."
     ]
   },
   "docs/temes/costums/sant-antoni/escudelles-de-sant-antoni.md": {
