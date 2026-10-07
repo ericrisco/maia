@@ -13780,7 +13780,7 @@
       "title": "Dues maneres de comptar la població",
       "type": "article",
       "topic": "temes/societat/demografia",
-      "status": "in_progress",
+      "status": "complete",
       "unit_count": 19,
       "covered_unit_ids": [
         "docs/temes/societat/demografia/dues-maneres-de-comptar-la-poblacio.md#unit-0001",
@@ -13800,8 +13800,8 @@
         "docs/temes/societat/demografia/dues-maneres-de-comptar-la-poblacio.md#unit-0018",
         "docs/temes/societat/demografia/dues-maneres-de-comptar-la-poblacio.md#unit-0019"
       ],
-      "excluded_unit_count": 0,
-      "open_unit_count": 3,
+      "excluded_unit_count": 3,
+      "open_unit_count": 0,
       "conversation_ids": [
         "demografia-diferencia-andorra-la-vella-i-nacionalitat-001",
         "demografia-dues-series-encamp-2026-001",
