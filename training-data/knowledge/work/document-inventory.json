@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 5,
+    "in_progress": 6,
     "no_natural_question": 0,
-    "not_started": 1343
+    "not_started": 1342
   },
   "documents": [
     {
@@ -46,16 +46,19 @@
       "type": "article",
       "topic": "temes/costums/calendari-festiu",
       "source": "premsa-andorrana",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "carnaval-encamp-judici-i-operacio-01"
+      ],
+      "reviewed_units": [
+        "Distinció entre el Judici dels Contrabandistes i l’Operació del Carnestoltes; ubicació, origen aproximat i contingut de l’Operació."
+      ],
       "open_units": [
-        "les tres representacions del Carnaval d’Encamp i el seu calendari complet",
-        "contingut i context del Judici dels Contrabandistes",
-        "argument, personatges i evolució del Ball de l’Ossa; discrepàncies entre fonts",
-        "relació entre les farses d’Encamp i les d’Ordino, Canillo i Sant Julià",
-        "origen i cronologia de les representacions; límits de les fonts secundàries"
+        "Argument complet, personatges i text del Judici dels Contrabandistes; no localitzats al corpus.",
+        "Ball de l’Ossa d’Encamp: seqüència, música i discrepàncies de variants.",
+        "Calendari anual concret i pràctiques actuals, que canvien cada any.",
+        "Traçabilitat de la font periodística i drets de la publicació de Masegosa, pendents."
       ],
       "completion_note": "",
       "reason": ""
