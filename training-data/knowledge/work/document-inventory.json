@@ -14296,14 +14296,15 @@
       "topic": "temes/institucions/justicia",
       "source": "brutails-coutume-1904",
       "status": "in_progress",
-      "conversation_count": 6,
+      "conversation_count": 7,
       "conversation_ids": [
         "competencia-consol-penal-versus-civil-01",
         "competencia-criminal-consell-politar-divergencia-01",
         "competencia-demanda-consol-deute-personal-01",
         "competencia-plet-comu-segons-demandant-01",
         "competencia-responsabilitat-consol-pagament-multa-1891-01",
-        "consols-detencio-danys-comunal-decret-1866-01"
+        "consols-detencio-danys-comunal-decret-1866-01",
+        "consuls-immunitat-civil-politar-reforma-1866-01"
       ],
       "reviewed_units": [
         "autorització per demandar autoritats abans i després de la Reforma de 1866",
@@ -14313,7 +14314,8 @@
         "diferència entre la regla doctrinal i els casos històrics",
         "supòsits i límits del decret de detenció del 1866",
         "pràctica del Consell General en matèria criminal i divergència amb la doctrina atribuïda al Politar",
-        "cas de 1891 sobre la responsabilitat del cònsol i el pagament de la multa"
+        "cas de 1891 sobre la responsabilitat del cònsol i el pagament de la multa",
+        "immunitat civil durant l'any de càrrec segons el Politar i canvi amb la Reforma de 1866"
       ],
       "open_units": [
         "diferència entre demanda civil i persecució criminal",
