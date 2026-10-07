@@ -1006,8 +1006,9 @@
       "topic": "temes/cultura",
       "source": "estadistica-ad",
       "status": "in_progress",
-      "conversation_count": 15,
+      "conversation_count": 16,
       "conversation_ids": [
+        "cultura-biblioteques-2019-2020-comparacio-001",
         "cultura-biblioteques-2020-prestecs-001",
         "cultura-biblioteques-inscrits-i-prestecs-001",
         "cultura-biblioteques-joves-2019-2024-001",
@@ -1039,7 +1040,8 @@
         "La plantilla de biblioteques el 2024 és de 27 persones, 24 dones i 3 homes; la font no aporta aquí un desglossament per sexe d'altres anys.",
         "La sèrie total de voluntariat i la suma per sexe coincideixen del 2010 al 2021 i el 2025, però divergeixen el 2022 (468/242), 2023 (517/260) i 2024 (476/281), sense explicació de la font. El total dona 295 voluntaris el 2010, màxim 762 el 2020, 100 el 2021 i 178 el 2025; el desglossament de 2025 quadra (101 dones, 77 homes).",
         "L'enquesta de lectura només publica la variable 'lectura per oci'; no dona la llengua de lectura, el tipus de contingut, el suport, ni desglossament per parròquia o nacionalitat.",
-        "El cinema augmenta en totes les edats: 15-29, 75,4→78,8% (+3,4); 30-44, 64,3→72,2% (+7,9); 45-64, 55,8→68,6% (+12,8); 65+, 28,3→38,7% (+10,4). El màxim augment és entre 45-64."
+        "El cinema augmenta en totes les edats: 15-29, 75,4→78,8% (+3,4); 30-44, 64,3→72,2% (+7,9); 45-64, 55,8→68,6% (+12,8); 65+, 28,3→38,7% (+10,4). El màxim augment és entre 45-64.",
+        "Els usuaris inscrits pugen de 25.038 el 2019 a 25.368 el 2020; els préstecs baixen de 43.773 a 17.646 (-59,7%). La font no n'estableix la causa."
       ],
       "open_units": [
         "La fitxa no permet inferir les causes dels canvis culturals ni una evolució anual entre 2019 i 2024."
