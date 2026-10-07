@@ -13855,12 +13855,22 @@
       "title": "La població dels 44 pobles d'Andorra (2010–2025)",
       "type": "article",
       "topic": "temes/societat/demografia",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 43,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/societat/demografia/quaranta-quatre-pobles.md#unit-0002",
+        "docs/temes/societat/demografia/quaranta-quatre-pobles.md#unit-0025",
+        "docs/temes/societat/demografia/quaranta-quatre-pobles.md#unit-0028",
+        "docs/temes/societat/demografia/quaranta-quatre-pobles.md#unit-0029",
+        "docs/temes/societat/demografia/quaranta-quatre-pobles.md#unit-0031",
+        "docs/temes/societat/demografia/quaranta-quatre-pobles.md#unit-0038",
+        "docs/temes/societat/demografia/quaranta-quatre-pobles.md#unit-0043"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 43,
-      "conversation_ids": []
+      "open_unit_count": 36,
+      "conversation_ids": [
+        "poblacio-pas-casa-i-canillo-001"
+      ]
     },
     "docs/temes/societat/demografia/quatre-menes-de-parroquia.md": {
       "title": "Quatre menes de parròquia",
