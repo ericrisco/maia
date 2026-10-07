@@ -395,5 +395,23 @@
     "reviewed_units": [
       "Els aproximadament 2.000 musulmans són una estimació, no un cens; la font declara incompletes les xifres disponibles."
     ]
+  },
+  "docs/temes/costums/religiositat/levangelitzacio.md": {
+    "status": "in_progress",
+    "open_units": [
+      "Datació de l’acta de consagració: tres datacions en conflicte, sense arbitrar.",
+      "Doctrina adopcionista de Fèlix i context teològic, no documentats amb detall.",
+      "Possessions del monestir de Sant Sadurní de Tavèrnoles a Andorra i contradicció sobre el seu primer abat.",
+      "Abd-el-Malik i la destrucció d’Orgèl·lia: la font no n’ofereix prou context.",
+      "Evidència material directament visigòtica a Andorra no identificada.",
+      "Si Andorra va estar mai ocupada o administrada pels musulmans: el corpus no ho resol.",
+      "Per què Santa Coloma apareix separada de les sis parròquies a l’acta."
+    ],
+    "conversation_ids": [
+      "evangelitzacio-cristianisme-i-531-001"
+    ],
+    "reviewed_units": [
+      "El 531 documenta Just d’Urgell com a bisbe, no l’arribada del cristianisme; la via comercial des de Tarragona és una hipòtesi sense dades directes."
+    ]
   }
 }

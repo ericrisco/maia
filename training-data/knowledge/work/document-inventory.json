@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 23,
+    "in_progress": 24,
     "no_natural_question": 0,
-    "not_started": 1325
+    "not_started": 1324
   },
   "documents": [
     {
@@ -510,11 +510,23 @@
       "type": "article",
       "topic": "temes/costums/religiositat",
       "source": "pujol-fet-religios",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "evangelitzacio-cristianisme-i-531-001"
+      ],
+      "reviewed_units": [
+        "El 531 documenta Just d’Urgell com a bisbe, no l’arribada del cristianisme; la via comercial des de Tarragona és una hipòtesi sense dades directes."
+      ],
+      "open_units": [
+        "Datació de l’acta de consagració: tres datacions en conflicte, sense arbitrar.",
+        "Doctrina adopcionista de Fèlix i context teològic, no documentats amb detall.",
+        "Possessions del monestir de Sant Sadurní de Tavèrnoles a Andorra i contradicció sobre el seu primer abat.",
+        "Abd-el-Malik i la destrucció d’Orgèl·lia: la font no n’ofereix prou context.",
+        "Evidència material directament visigòtica a Andorra no identificada.",
+        "Si Andorra va estar mai ocupada o administrada pels musulmans: el corpus no ho resol.",
+        "Per què Santa Coloma apareix separada de les sis parròquies a l’acta."
+      ],
       "completion_note": "",
       "reason": ""
     },
