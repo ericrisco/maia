@@ -104,6 +104,17 @@ Assistent: Se la va endur a Canillo i la va posar sobre l'altar major.
 
 La pregunta parla de la fitxa, i la resposta comença a mitja història. Cal formular el dubte que tindria una persona i donar-hi context; si no es pot fer sense inventar-lo, no es crea el registre.
 
+Una versió aprovada amb una font redistribuïble és:
+
+```text
+Usuari: Com van decidir que la imatge de Meritxell s'havia de quedar a l'indret del santuari?
+Assistent: Segons la llegenda, la van trobar sota una gavernera florida i, tot i dur-la primer a Canillo i després a Encamp, reapareixia sempre al lloc de la troballa. Els veïns van interpretar que volia quedar-s'hi i hi van construir una capella.
+Usuari: Què va passar la primera vegada que la van portar a Canillo?
+Assistent: La van posar a l'altar major, però l'endemà havia desaparegut i havia reaparegut al peu de la gavernera.
+```
+
+La conversa conserva el caràcter llegendari del relat. La font redistribuïble és l'article de Viquipèdia sobre el santuari, sota CC BY-SA 4.0.
+
 ```text
 Usuari: Què indica aquesta fila?
 Assistent: 2014: verd 57,7; morat 56,4.
