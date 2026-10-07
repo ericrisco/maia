@@ -188,7 +188,8 @@
       "La proporció que diu que va a biblioteques (enquesta) baixa del 36,4% el 2019 al 30,7% el 2024; els inscrits (registre administratiu) pugen de 19.580 el 2016 a 29.364 el 2024. Els préstecs pugen només un 4%, de 39.331 a 40.914; préstecs per persona inscrita baixen de 2,01 a 1,39 documents.",
       "Per tipus de document, els préstecs de llibres pugen de 29.945 (2016) a 37.270 (2024), +24,5%; audiovisuals baixen de 8.389 a 2.737 (-67,4%), i sonors de 554 a 371 (-33%). El total només creix un 4%.",
       "La proporció que practica esport puja del 73,2% el 2019 al 77,8% el 2024 (+4,6 punts); la variació és +8,1 punts als 45-64, +7,8 als 65+ i -1,2 als 30-44.",
-      "La lectura per oci baixa de 69,6% (2019) a 67,3% (2024); per sexe: dones 77,9→72,2%, homes 61,5→62,9%, distància 16,4→9,3 punts. Per estudis: terciaris -6,9 punts, secundària -1,7, obligatoris +3,1; distància terciaris-obligatoris 37,3→27,3 punts."
+      "La lectura per oci baixa de 69,6% (2019) a 67,3% (2024); per sexe: dones 77,9→72,2%, homes 61,5→62,9%, distància 16,4→9,3 punts. Per estudis: terciaris -6,9 punts, secundària -1,7, obligatoris +3,1; distància terciaris-obligatoris 37,3→27,3 punts.",
+      "La proporció que visita museus baixa entre 2019 i 2024: 15-29 anys 72,5→58,6% (-13,9), 30-44 63,9→62,4% (-1,5), 45-64 63,0→54,5% (-8,5), 65+ 55,2→38,2% (-17,0). L'enquesta no n'explica la causa."
     ],
     "open_units": [
       "The remaining comparisons for sport, theatre, leisure reading, libraries, museums, and participation in 11+ cultural activities are not yet covered.",
@@ -200,7 +201,20 @@
       "cultura-biblioteques-inscrits-i-prestecs-001",
       "cultura-prestecs-per-tipus-2016-2024-001",
       "cultura-esport-edats-2019-2024-001",
-      "cultura-lectura-oci-sexe-estudis-2019-2024-001"
+      "cultura-lectura-oci-sexe-estudis-2019-2024-001",
+      "cultura-museus-visitants-edats-2019-2024-001"
+    ]
+  },
+  "docs/temes/cultura/museus-i-arxius/museus/els-museus-d-andorra-index-de-fitxes.md": {
+    "status": "in_progress",
+    "reviewed_units": [
+      "El recompte de visitants dels museus registra 149.679 el 2019 i 92.583 el 2024; coincideix en direcció amb la baixada d'assistència indicada per l'enquesta d'hàbits culturals."
+    ],
+    "open_units": [
+      "Les altres sèries de visitants, la comparació per museu i els límits de les fonts d'entrades encara no estan coberts en converses actives."
+    ],
+    "conversation_ids": [
+      "cultura-museus-visitants-edats-2019-2024-001"
     ]
   }
 }
