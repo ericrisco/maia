@@ -9,7 +9,7 @@
   "file_count": 1477,
   "article_count": 1348,
   "parse_error_count": 0,
-  "conversation_count": 40,
+  "conversation_count": 41,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 0,
@@ -1392,7 +1392,7 @@
       "topic": "temes/cultura/museus-i-arxius",
       "source": "jurisprudencia-ad",
       "status": "in_progress",
-      "conversation_count": 40,
+      "conversation_count": 41,
       "conversation_ids": [
         "diposit-legal-anuari-i-serie-numerada-001",
         "diposit-legal-bases-dades-programari-exemplars-001",
@@ -1404,6 +1404,7 @@
         "diposit-legal-composicio-numero-001",
         "diposit-legal-consulta-material-digital-001",
         "diposit-legal-cromos-i-naips-exemplars-001",
+        "diposit-legal-diapositives-microformes-transparencies-001",
         "diposit-legal-edicions-paralleles-suports-001",
         "diposit-legal-editor-andorra-domini-ad-001",
         "diposit-legal-encartaments-filatelics-goigs-001",
@@ -1476,7 +1477,8 @@
         "Llei 15/2025, article 31.1.b-31.2: serious-offense fine range and proportionality factors for setting the amount.",
         "Decret 100/2026, article 4: request for partial exemption from copy delivery, required information, ten-business-day decision and negative silence.",
         "Llei 15/2025, article 11.1.b: two copies for collectible cards and playing cards.",
-        "Llei 15/2025, article 11.1.b: two copies for philatelic inserts and goigs."
+        "Llei 15/2025, article 11.1.b: two copies for philatelic inserts and goigs.",
+        "Llei 15/2025, article 11.1.b: two copies for slides, transparencies and microforms."
       ],
       "open_units": [
         "Finish reviewing the remaining physical deposit categories and special formats, periodicals, film/television/radio, and linked regulations.",
