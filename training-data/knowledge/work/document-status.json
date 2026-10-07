@@ -162,10 +162,17 @@
       "topic": "temes/costums/danses",
       "status": "in_progress",
       "unit_count": 59,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0018",
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0028",
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0029",
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0031"
+      ],
       "excluded_unit_count": 25,
-      "open_unit_count": 34,
-      "conversation_ids": []
+      "open_unit_count": 30,
+      "conversation_ids": [
+        "festes-ossa-ordino-encamp-calendari-001"
+      ]
     },
     "docs/temes/costums/falles/falles-index-de-fitxes.md": {
       "title": "Falles — índex de fitxes",
