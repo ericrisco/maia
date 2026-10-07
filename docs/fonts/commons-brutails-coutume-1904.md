@@ -9,7 +9,12 @@ url: https://commons.wikimedia.org/wiki/File:La_coutume_d%27Andorre.djvu
 llicencia: Public Domain Mark 1.0; obra marcada com a domini públic
 redistribucio: si
 data_consulta: 2026-10-08
-abast: "La Coutume d'Andorre, inclosa la Liste des feriats de 1902 (pàgina LX) i el comentari de Brutails sobre el calendari judicial (pàgines 266–268)."
+abast: >
+  Obra completa. Les unitats que el dataset de Maia Knowledge tracta en aquesta
+  font inclouen la jurisdicció política i l'autorització per demandar autoritats
+  (pàgines 239–242), els contractes de préstec i censal (pàgines 182–185), la
+  llista dels dies feriats judicials de 1902 (pàgina LX) i el comentari sobre el
+  calendari dels tribunals (pàgines 266–268).
 notes: >
   La fitxa de Wikimedia Commons identifica l'edició, l'autor i la còpia com
   a procedent d'Internet Archive (`lacoutumedandor01brutgoog`). La pàgina marca
