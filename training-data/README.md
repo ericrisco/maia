@@ -4,26 +4,31 @@
 ensenya coneixement documentat sobre Andorra; `language` preserva català
 andorrà contemporani produït per persones.
 
-Llegeix el [pla](PLAN.md) i la [guia de converses](knowledge/review/CONVERSATION-GUIDE.md)
-abans de revisar o afegir registres. La cobertura continua incompleta; els
+El mètode s’està reiniciant a partir del [pla nou](RESTART-PLAN.md). El pilot
+de converses està a `knowledge/starter/`; les dades anteriors resten congelades
+fins que el criteri nou s’hagi revisat. La cobertura continua incompleta; els
 informes mostren l'estat real i no indiquen que el dataset estigui acabat.
 
 ## Estructura
 
 ```text
 training-data/
-├── PLAN.md
+├── PLAN.md                 # entrada estable al pla vigent
+├── RESTART-PLAN.md         # procés editorial del reinici
 ├── knowledge/
-│   ├── review/       # converses candidates, exemples i procedència
-│   ├── work/         # inventari i seguiment de cobertura
-│   ├── output/       # exportacions train, validation i test
-│   └── reports/      # cobertura i resum d'exportació
+│   ├── starter/            # quatre converses pilot i procedència
+│   ├── review/             # corpus anterior, congelat durant el pilot
+│   ├── work/               # inventari i seguiment de cobertura
+│   ├── output/             # exportació anterior, no aprovada pel pilot
+│   └── reports/            # informes anteriors
 └── language/
-    ├── work/         # inventari i verificació de parla
-    ├── output/       # registres de llengua aprovats
-    └── reports/      # elegibilitat, exclusions i qualitat
+    ├── starter/            # buit fins que hi hagi material verificat
+    ├── work/               # inventari i verificació de parla
+    ├── output/             # material lingüístic aprovat
+    └── reports/            # elegibilitat, exclusions i qualitat
 ```
 
-`knowledge` i `language` no es barregen. Les exportacions contenen només
+`knowledge` i `language` no es barregen. El fitxer `knowledge/output/` és una
+exportació anterior i no s’ha de tractar com a resultat aprovat del pilot. Les exportacions contenen només
 missatges de conversa; la procedència i els drets es conserven en els registres
 interns.
