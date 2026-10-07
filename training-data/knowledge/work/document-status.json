@@ -165,5 +165,18 @@
       "Contrast del règim específic amb la Llei 33/2021 i la normativa posterior per determinar què és vigent avui.",
       "Diferència entre les regles del reglament i la informació pràctica actual publicada pel Govern."
     ]
+  },
+  "docs/temes/historia/democratitzacio/el-sufragi-femeni-andorra-1967-1973.md": {
+    "status": "in_progress",
+    "conversation_ids": [
+      "sufragi-femeni-vot-i-elegibilitat-01"
+    ],
+    "reviewed_units": [
+      "Distinció cronològica entre sufragi actiu el 1970 i elegibilitat el 1973, segons la font institucional del Consell General."
+    ],
+    "open_units": [
+      "Localitzar i llegir els textos íntegres dels decrets de 1970 i 1973.",
+      "Resoldre la diferència entre les primeres dones elegides a càrrecs locals, la primera consellera per substitució i la primera elegida en legislatura."
+    ]
   }
 }

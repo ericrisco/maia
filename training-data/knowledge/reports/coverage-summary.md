@@ -4,14 +4,14 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 
 - Fitxes article: **1348**.
 - Fitxers totals, inclosos índexs: **1477**.
-- Converses candidates: **1**.
+- Converses candidates: **2**.
 
 | Estat de revisió | Fitxes |
 |---|---:|
 | Revisades completes | 0 |
-| En curs | 1 |
+| En curs | 2 |
 | Revisades sense pregunta natural | 0 |
-| No començades | 1347 |
+| No començades | 1346 |
 
 ## Estat per tema
 
@@ -70,7 +70,7 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 | `temes/historia/antic-regim` | 50 | 50 | 0 | 0 | 0 |
 | `temes/historia/constitucio-1993` | 2 | 2 | 0 | 0 | 0 |
 | `temes/historia/contraban` | 2 | 2 | 0 | 0 | 0 |
-| `temes/historia/democratitzacio` | 3 | 3 | 0 | 0 | 0 |
+| `temes/historia/democratitzacio` | 3 | 2 | 1 | 0 | 0 |
 | `temes/historia/edat-mitjana` | 42 | 42 | 0 | 0 | 0 |
 | `temes/historia/guerres-i-neutralitat` | 22 | 22 | 0 | 0 | 0 |
 | `temes/historia/historia-recent` | 7 | 7 | 0 | 0 | 0 |
