@@ -1132,20 +1132,22 @@
       "topic": "temes/cultura/llegendes",
       "source": "wikipedia-llegendes-andorra",
       "status": "in_progress",
-      "conversation_count": 3,
+      "conversation_count": 4,
       "conversation_ids": [
         "minairo-cano-i-tarteres-001",
         "minairo-herba-sant-joan-001",
-        "minairo-variants-etimologia-001"
+        "minairo-variants-etimologia-001",
+        "minairons-cases-pairals-001"
       ],
       "reviewed_units": [
         "Els minairons són follets diminuts que, segons la tradició, caben per milers en un canó; en sortir demanen feina i maten l'amo si no els en mana.",
         "La llegenda explica algunes tarteres com a pedres apilades pels minairons per ordre d'un amo desesperat.",
         "La tradició situa el naixement dels minairons a l'herba menaironera o herba de Sant Joan, que floreix i grana al solstici; algunes versions la identifiquen amb una falguera, però la font no resol la botànica ni si el minairó és la llavor. L'herba creix en coves fondes guardades per gegants i dracs, accessibles a mitjanit de Sant Joan.",
-        "Les variants territorials inclouen minairons/manairons/menairons a Andorra, l'Alt Urgell i el Pallars; mineirons a la Seu; jaumets al Pallars Sobirà; diablorins a l'Alta Ribagorça; petits/martinets a la Cerdanya; fameliars a les Pitiüses; galtzagorri al País Basc. La font deriva minairó del català antic minaire/menaire, 'miner'."
+        "Les variants territorials inclouen minairons/manairons/menairons a Andorra, l'Alt Urgell i el Pallars; mineirons a la Seu; jaumets al Pallars Sobirà; diablorins a l'Alta Ribagorça; petits/martinets a la Cerdanya; fameliars a les Pitiüses; galtzagorri al País Basc. La font deriva minairó del català antic minaire/menaire, 'miner'.",
+        "La font associa la possessió del canó amb la prosperitat sobtada de nou cases pirinenques: Llibrada de Benasc, Joaniquet de Forcat, Teixidor d'Aulet, Xollat de Perves, Jaume de la Torre de Cabdella, Tor d'Alós, Badinet d'Isil, Sidro d'Estaon i el Feu de la Guàrdia d'Ares; cap és andorrana."
       ],
       "open_units": [
-        "La versió andorrana moderna i el buit sobre quines cases pairals tenien fama de guardar un canó de minairons continuen pendents de documentació local."
+        "La font no documenta quines cases andorranes, si n'hi havia, tenien fama de posseir un canó de minairons; les variants andorranes encara no s'han buidat."
       ],
       "completion_note": "",
       "reason": ""
