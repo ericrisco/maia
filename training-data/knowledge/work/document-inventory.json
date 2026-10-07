@@ -9,7 +9,7 @@
   "file_count": 1477,
   "article_count": 1348,
   "parse_error_count": 0,
-  "conversation_count": 43,
+  "conversation_count": 44,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 0,
@@ -1392,7 +1392,7 @@
       "topic": "temes/cultura/museus-i-arxius",
       "source": "jurisprudencia-ad",
       "status": "in_progress",
-      "conversation_count": 43,
+      "conversation_count": 44,
       "conversation_ids": [
         "diposit-legal-anuari-i-serie-numerada-001",
         "diposit-legal-bases-dades-programari-exemplars-001",
@@ -1415,6 +1415,7 @@
         "diposit-legal-exemplars-per-enquadernacio-001",
         "diposit-legal-exemplars-tirada-petita-001",
         "diposit-legal-fullets-fascicles-exemplars-001",
+        "diposit-legal-fulls-difusio-i-cartells-001",
         "diposit-legal-migracio-suports-obsolets-001",
         "diposit-legal-multa-infraccio-greu-graduacio-001",
         "diposit-legal-on-indicar-numero-001",
@@ -1482,7 +1483,8 @@
         "Llei 15/2025, article 11.1.b: two copies for philatelic inserts and goigs.",
         "Llei 15/2025, article 11.1.b: two copies for slides, transparencies and microforms.",
         "Llei 15/2025, articles 11.1.b and 22-25: two copies for local-access optical electronic documents versus the separate online-publication deposit regime.",
-        "Decret 100/2026, article 3: process to determine whether material is subject to legal deposit, ten-business-day deadline, positive silence, and no suspension of pre-publication number duty."
+        "Decret 100/2026, article 3: process to determine whether material is subject to legal deposit, ten-business-day deadline, positive silence, and no suspension of pre-publication number duty.",
+        "Llei 15/2025, article 11.1.b: two copies for non-commercial dissemination sheets and for advertising posters as a separate category."
       ],
       "open_units": [
         "Finish reviewing the remaining physical deposit categories and special formats, periodicals, film/television/radio, and linked regulations.",
