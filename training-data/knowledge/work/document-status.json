@@ -762,11 +762,11 @@
       "title": "Sant Serni de Canillo",
       "type": "article",
       "topic": "temes/cultura/arquitectura",
-      "status": "not_started",
+      "status": "complete",
       "unit_count": 14,
       "covered_unit_ids": [],
-      "excluded_unit_count": 0,
-      "open_unit_count": 14,
+      "excluded_unit_count": 14,
+      "open_unit_count": 0,
       "conversation_ids": []
     },
     "docs/temes/cultura/arquitectura/santa-coloma.md": {
