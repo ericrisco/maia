@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 68,
+    "in_progress": 69,
     "no_natural_question": 0,
-    "not_started": 1280
+    "not_started": 1279
   },
   "documents": [
     {
@@ -1594,11 +1594,20 @@
       "type": "article",
       "topic": "temes/cultura/llegendes",
       "source": "wikipedia-tamarro",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "tamarro-broma-mascota-i-itineraris-001"
+      ],
+      "reviewed_units": [
+        "El tamarro és imaginari; la cacera andorrana era una broma dirigida a forasters. El personatge es va reutilitzar com a mascota dels Jocs del 1991 i com a figura d’itineraris infantils, sense que les fonts expliquin la transició."
+      ],
+      "open_units": [
+        "L’origen i la cronologia de la cacera del tamarro no estan documentats per les fonts locals.",
+        "La font primària de la descripció de la broma de Lluís Samper encara no s’ha identificat; la citació extensa no s’ha d’exportar.",
+        "La cronologia i les decisions que van convertir el personatge en mascota i reclam turístic no consten.",
+        "Els usos del tamarro en altres territoris, el cas de Cellers i la referència a la versió catalana d’Up tenen atribucions pendents de verificar."
+      ],
       "completion_note": "",
       "reason": ""
     },
