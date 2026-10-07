@@ -278,14 +278,17 @@
       "topic": "temes/costums/danses",
       "source": "wikipedia-llegendes-andorra",
       "status": "in_progress",
-      "conversation_count": 1,
+      "conversation_count": 2,
       "conversation_ids": [
+        "festes-ossa-emigracio-i-represa-ordino-01",
         "ultima-ossa-ordino-carnaval-i-desembre-01"
       ],
       "reviewed_units": [
         "l’Última Ossa d’Ordino se celebra la primera setmana de desembre a la fira de Nadal; abans es feia per Carnaval",
         "el ball de l’ossa d’Encamp es representa el dilluns de Carnaval",
-        "les fonts no daten el trasllat de la celebració d’Ordino al desembre"
+        "les fonts no daten el trasllat de la celebració d’Ordino al desembre",
+        "la font atribueix el declivi i la desaparició de la majoria de festes de l’ossa a l’emigració de joves cap al sud de França als anys vint",
+        "cronologia d’Ordino: represa el 1985, interrupció a mitjan anys noranta durant uns 25 anys i nova represa el 2017"
       ],
       "completion_note": "",
       "reason": ""
