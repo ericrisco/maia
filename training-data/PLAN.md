@@ -1,111 +1,94 @@
-# Pla nou per a Maia Training Data
+# Pla de Maia Training Data
 
-## Decisió editorial
+## Objectiu
 
-El problema dels primers registres no era que fossin massa curts. Les preguntes sonaven com exercicis d'extracció: demanaven què deia una secció, una fila o una fitxa. Una conversa bona comença amb una necessitat que una persona podria tenir sense haver vist el corpus.
+Preparar dos conjunts separats a partir de `docs/`:
 
-Per això, primer calibram converses i només després tornem a produir registres. No generarem preguntes automàticament a partir dels títols, les seccions o cada dada d'una fitxa.
+- **Maia Knowledge** respon dubtes reals sobre Andorra amb fets documentats a `docs/temes/`.
+- **Maia Language** conserva català andorrà contemporani de parlants reals a partir de `docs/parla/`.
 
-## Separació dels dos conjunts
+El primer pilot de Knowledge ha demostrat que una conversa pot ser multitorn i continuar sonant com un qüestionari. Per això, la qualitat de la conversa es revisa abans d'ampliar registres o comptar cobertura.
 
-- **Knowledge** ensenya a respondre preguntes sobre Andorra amb informació documentada a `docs/temes/`.
-- **Language** preserva formes de parlar de persones andorranes a partir de `docs/parla/`, seguint-ne els criteris d'elegibilitat, transcripció i drets.
-
-No es barregen. Les converses editorials de `knowledge/review/EXEMPLES.md` serveixen per calibrar l'estil i no són registres d'entrenament ni compten com a cobertura.
-
-## Estructura de treball
+## Estructura
 
 ```text
 training-data/
 ├── PLAN.md
 ├── README.md
 ├── knowledge/
-│   ├── review/       # guia, exemples de calibratge, candidats i procedència
-│   ├── work/         # inventari i seguiment intern de cobertura
+│   ├── review/       # guia, exemples de calibratge, candidats, procedència i arxiu
+│   ├── work/         # inventari i estat de revisió
 │   ├── scripts/      # inventari, validació i exportació
-│   ├── reports/      # cobertura, exclusions i qualitat
-│   └── output/       # conjunts finals aprovats
+│   ├── reports/      # cobertura, qualitat i exclusions
+│   └── output/       # train, validation i test aprovats
 └── language/
-    ├── review/       # fragments i candidats lingüístics
+    ├── review/       # peces candidates i procedència
     ├── work/         # elegibilitat i fiabilitat de transcripció
     ├── scripts/
     ├── reports/
-    └── output/       # conjunts finals aprovats
+    └── output/       # train, validation i test aprovats
 ```
 
-## Com escriure una conversa Knowledge
+No cal esborrar `training-data/` per canviar el criteri editorial. L'inventari, la procedència i les decisions de drets es conserven encara que es retiri un pilot.
 
-1. Llegeix la fitxa completa i comprova les fonts abans de formular cap pregunta.
-2. Identifica una cosa útil que una persona voldria entendre, decidir, explicar o contrastar.
-3. Escriu una pregunta que tingui sentit per si sola. No facis referència a la fitxa, a una secció, a una fila ni al corpus.
-4. Contesta la pregunta directament, amb context suficient per entendre la resposta.
-5. Afegeix un seguiment només quan la resposta anterior faci néixer un dubte natural. El seguiment ha de reprendre el fil i aportar alguna cosa nova.
-6. Acaba quan el dubte s'hagi resolt. Sovint seran dos o tres intercanvis; no hi ha un mínim de torns.
-7. Contrasta cada afirmació amb la font i registra per separat la procedència, els drets i els límits.
+## Criteri de conversa
 
-Abans d'aprovar-la, llegeix la conversa en veu alta sense mirar les fonts. Si sembla un qüestionari, una ordre d'extracció o una història inventada per justificar la pregunta, reescriu-la o descarta-la.
+1. Llegeix la fitxa i les fonts abans d'escriure.
+2. Troba el dubte que algú voldria resoldre: una confusió, una comparació, una dada que no quadra, una explicació o una història que vol recordar.
+3. Escriu la pregunta com la formularia aquesta persona sense tenir la fitxa davant. No esmentis seccions, títols, files, colors interns ni «el corpus» si l'usuari no ho ha tret.
+4. Respon el dubte directament. Dona prou context per entendre la resposta i marca els límits quan afectin la conclusió.
+5. Afegeix un seguiment només si la resposta anterior provoca una pregunta plausible. Cada torn ha d'aportar una cosa nova.
+6. Atura't quan el fil queda resolt. Una conversa pot tenir un sol intercanvi; no hi ha quota de torns.
+7. Si no hi ha una pregunta humana que justifiqui el contingut, no la forcis. Registra el document com a revisat sense conversa natural.
 
-## De la pregunta de fitxa a una pregunta humana
+No inventis una història personal per fer més vistosa la pregunta. Un context genèric i breu és acceptable quan concreta el dubte («No entenc per què...»); una biografia fictícia no.
 
-La pregunta no ha de narrar una biografia inventada. Ha d'anomenar el dubte real de manera directa:
+## Calibratge i producció
 
-| Pregunta d'extracció que descartem | Dubte natural que podria preguntar l'usuari |
-| --- | --- |
-| «Què explica la secció “El relat” de la fitxa “La troballa de Meritxell”?» | «Em recordes la llegenda de la imatge de Meritxell? Per què la van deixar just allà?» |
-| «Què indica aquesta fila?» | «Per al 1930 em surten dues xifres de població. S'ha aclarit quina és bona?» |
-| «Digues dos topònims que hi surten.» | Descartar-ho si no hi ha un dubte humà al darrere; no convertir cada detall del document en una pregunta. |
+### Fase 1 — Calibratge editorial
 
-La formulació final ha de tenir sentit sense accés al nom de la fitxa o a les seves seccions. No afegim familiars, viatges, feines o estudis ficticis per decorar-la.
+Llegir `knowledge/review/CONVERSATION-GUIDE.md` i `knowledge/review/EXEMPLES.md`. Els exemples mostren el to; no són registres ni compten per a cobertura.
 
-## Regles per a respostes fiables
+### Fase 2 — Pilot revisable
 
-- Respon primer allò que s'ha preguntat. Afegeix només el context que ajuda.
-- Separa fets documentats, llegendes, interpretacions i hipòtesis.
-- Si les fonts discrepen, explica què diu cadascuna i si el corpus ho pot resoldre.
-- Si falta informació, digues què no se sap. No converteixis un buit en una negació.
-- No presentis informació històrica com si fos necessàriament vigent avui.
-- Evita llistes llargues si la persona no les necessita.
-- Mantén les notes editorials i la metadata fora del text de `assistant`.
+Crear un pilot petit de temes diferents. Revisar cada conversa en veu alta, només llegint els missatges d'usuari. Descartar o reescriure qualsevol pregunta que sembli una ordre per extreure informació d'una fitxa.
 
-## Fases
+### Fase 3 — Producció per dubte
 
-### 1. Calibratge
+Recórrer `docs/temes/` sense generar una pregunta per secció o per fet. Una fitxa pot produir zero, una o diverses converses. Registrar les fonts, els drets i les afirmacions que sosté cada conversa a `provenance.jsonl`.
 
-Revisar la guia i els exemples d'aquest directori. Acordar què sona natural i què fa que una conversa es descarti.
+### Fase 4 — Cobertura i revisió
 
-### 2. Pilot petit
+Separar la revisió de la fitxa de la cobertura del dataset. Una dada llegida no compta com a entrenada fins que apareix en una resposta aprovada. Revisar naturalitat, continuïtat, precisió, límits, duplicats i drets.
 
-Crear entre cinc i vuit converses de temes diferents. Prioritzar preguntes espontànies i seguiments connectats. Revisar-les abans d'iniciar la cobertura sistemàtica.
+### Fase 5 — Exportació
 
-### 3. Producció per fitxa
+Només els registres aprovats i elegibles passen a `output/`. Agrupar converses relacionades abans de crear els splits per evitar variants gairebé iguals entre train, validation i test.
 
-Llegir una fitxa sencera, registrar les unitats útils i els buits, i redactar només les converses que resolguin dubtes plausibles. Una fitxa pot donar lloc a cap conversa, una o diverses; el nombre no és una quota.
+### Fase 6 — Maia Language
 
-### 4. Revisió i cobertura
+Treballar-lo separadament. Incloure només material elegible i fiable. Preservar la parla humana; no inventar respostes ni reformular-la com a català estàndard.
 
-Comprovar exactitud, naturalitat, continuïtat, duplicats i procedència. Mesurar quines unitats de coneixement queden representades; no confondre una conversa amb cobertura completa de la fitxa.
+## Regles de resposta
 
-### 5. Exportació
+- No exposis procedència, etiquetes editorials o metadades dins del diàleg.
+- No presentis llegendes com a fets històrics.
+- Si les fonts discrepen, explica la discrepància i què la resol o la deixa oberta.
+- Si la dada és històrica, no la presentis com a norma actual.
+- Evita respostes telegràfiques i llistes que l'usuari no necessita.
+- No afegeixis dades per fer més llarga una resposta.
 
-Només els registres aprovats passen a `output/`. Agrupar exemples relacionats abans de separar train, validation i test, per evitar que variants gairebé iguals quedin en splits diferents.
+## Format dels fitxers
 
-### 6. Maia Language
-
-Treballar-lo separadament. Incloure només peces elegibles i fragments fiables, preservar la parla humana i agrupar per peça o parlant abans de fer splits. No inventar respostes per augmentar el volum.
-
-## Format final
-
-Una conversa per línia JSONL, amb missatges alternats i sense procedència ni notes internes:
-
-Els exemples complets i contrastats són a [`knowledge/review/EXEMPLES.md`](knowledge/review/EXEMPLES.md). Són mostres de calibratge, no candidats ni dades d'entrenament.
+Una conversa per línia JSONL. Cada conversa conté només `messages` amb rols `user` i `assistant`. La procedència i l'estat de revisió es guarden en fitxers separats. Els exemples editorials i els pilots rebutjats no s'exporten.
 
 ## Prioritats
 
-1. Correctesa i traçabilitat.
-2. Preguntes que una persona faria de debò.
-3. Respostes clares i completes.
+1. Correctesa i drets d'ús.
+2. Pregunta que una persona faria de debò.
+3. Resposta directa, natural i prou completa.
 4. Seguiments que continuen el mateix fil.
-5. Cobertura útil, varietat i absència de duplicats.
+5. Cobertura útil i varietat sense duplicats.
 6. Volum.
 
 No augmentarem el volum a costa de cap prioritat anterior.

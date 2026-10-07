@@ -1,56 +1,63 @@
-# Guia editorial: converses que sonen humanes
+# Guia per escriure converses Knowledge
 
-## Comença pel dubte, no pel document
+## Comença per la persona, no per la fitxa
 
-Abans d'escriure una conversa, formula per a tu mateix el dubte que l'usuari vol resoldre: entendre una diferència, comprovar una xifra, recordar una història o saber què permet concloure una font. Després escriu el dubte directament, amb paraules de conversa.
+Abans de redactar, acaba aquesta frase: **«Algú preguntaria això perquè vol...»**. La resposta ha de descriure una intenció recognoscible: aclarir una confusió, entendre un costum, comprovar una dada, comparar dues coses o recordar un relat.
 
-No cal inventar una filla, un viatge, una feina o una trobada per fer que la pregunta sembli humana. Afegeix context només si ajuda a entendre el dubte i és plausible a partir del que la persona diu. «Què explica aquesta secció?» o «què indica aquesta fila?» solen ser ordres d'extracció, no preguntes d'usuari.
+Si l'única motivació és «aquesta informació surt al document», no hi ha encara una bona pregunta. Busca una altra manera de plantejar el dubte o deixa el contingut fora del pilot.
 
-## Prova de naturalitat
+## Preguntes que s'han de descartar
 
-Llegeix només les intervencions de l'usuari i pregunta't:
+Descarta o reescriu preguntes que:
 
-1. S'entenen sense tenir el document obert?
-2. Què vol resoldre l'usuari?
-3. Ho diria així en una conversa normal amb un assistent?
-4. Cada detall del context és necessari o només decora la pregunta?
+- demanen què diu una fitxa, una secció, una taula o una fila;
+- fan servir «això», «aquesta fila» o «el gràfic» sense donar context suficient;
+- exigeixen conèixer una dada que només apareix en un document que l'usuari no ha esmentat;
+- són fragments, com «I dos topònims que en surten»;
+- semblen un encàrrec de recollir dades («digues tres coses»), sense una necessitat al darrere;
+- afegeixen una família, un viatge, una feina o una experiència fictícia per teatralitzar la consulta;
+- repeteixen la mateixa pregunta amb paraules diferents.
 
-Si una resposta és «no», reescriu o descarta la pregunta. El tema pot ser específic o històric; la persona no ha de conèixer el nom de la fitxa ni els seus encapçalaments.
+No cal que totes les consultes siguin col·loquials. Han de sonar com una persona que busca una resposta, no com algú que està anotant l'estructura d'un article.
 
-## Continuïtat entre torns
+## Conversa multitorn
 
-- Cada seguiment reprèn un detall de la resposta anterior.
-- Pot demanar una precisió, explorar una conseqüència o resoldre una confusió que acaba de sorgir.
-- No encadenis preguntes independents per allargar el registre.
-- No exigeixis un nombre fix de torns. Una pregunta i una resposta poden ser suficients; afegeix seguiments només si surten de manera natural.
-- No facis que l'usuari repeteixi la pregunta inicial amb altres paraules.
-- Atura't quan el dubte queda resolt.
+- La primera pregunta estableix el tema i el dubte amb prou context per entendre-la sola.
+- La primera resposta resol el dubte principal.
+- El seguiment reprèn una idea que acaba d'aparèixer: en demana una precisió, comprova una conseqüència o aclareix una confusió nova.
+- La resposta següent afegeix informació pertinent; no repeteix la resposta anterior amb altres paraules.
+- Acaba quan la persona ja té la resposta. No hi ha un nombre obligatori de torns.
 
-## Resposta de Maia
+**Prova de fil:** llegeix només els missatges de l'usuari, un darrere l'altre. Si el seguiment podria anar igualment després de qualsevol conversa, és massa genèric. Si canvia de tema, separa'l en un altre registre.
 
-- Contesta primer i sense preàmbuls editorials.
-- Escriu com un assistent informat, no com una fitxa ni un informe.
-- Dona prou context perquè la resposta s'entengui sense consultar la font.
-- No amunteguis detalls que no ajuden a aquell dubte.
-- Atribueix llegendes i interpretacions amb naturalitat («segons la llegenda», «una interpretació proposa...»).
-- Marca els límits quan siguin rellevants, sense convertir cada resposta en una llista d'advertiments.
-- No presentis com a actual una dada històrica o normativa que no s'ha verificat com a vigent.
-- Si les fonts discrepen, explica què diu cadascuna i què no es pot resoldre.
+## Respostes
 
-## Rebuig immediat
+- Respon primer la pregunta concreta.
+- Escriu en llenguatge clar i conversacional. Evita etiquetes com «Segons la secció X», «el corpus afirma» o «tres coses» quan la persona no ha demanat una anàlisi documental.
+- Afegeix context només si ajuda a comprendre la resposta o evita una conclusió errònia.
+- Atribueix llegendes i interpretacions («segons la llegenda», «la font ho presenta com...»).
+- Davant d'una contradicció, indica quina dada sosté cada font i si hi ha una font que la resol.
+- Davant d'un buit, digues què no es pot concloure. No omplis el buit amb una hipòtesi.
+- Marca quan una dada és històrica i quan la seva vigència actual no s'ha comprovat.
 
-Reescriu o descarta el registre si:
+## Revisió final
 
-- la pregunta només s'entén amb una fitxa oberta;
-- s'ha inventat una situació personal per disfressar una pregunta de fitxa;
-- la resposta no resol el que s'ha preguntat;
-- un seguiment canvia de tema sense motiu;
-- es confon una llegenda, una hipòtesi o una interpretació amb un fet;
-- s'inventa una conclusió per omplir un buit del corpus;
-- la resposta és telegràfica, enciclopèdica o plena de metadata interna.
+Una conversa passa el filtre només si totes aquestes respostes són sí:
 
-## Procedència i format
+1. S'entén sense veure la fitxa?
+2. És creïble que algú ho pregunti així?
+3. La resposta resol el dubte, sense afegir detalls que no fan falta?
+4. Cada seguiment neix del torn anterior?
+5. Cada afirmació factual es pot rastrejar a una font registrada?
+6. Els drets de les fonts estan registrats i són compatibles amb l'ús previst?
+7. La conversa és prou diferent de les ja aprovades?
 
-Contrasta cada afirmació amb la fitxa completa i les fonts disponibles. Registra per separat les fonts, els drets, els límits i les decisions editorials. El diàleg d'entrenament conté només missatges `user` i `assistant`; no hi incloguis evidence IDs, estats epistemològics ni notes del pipeline.
+Un «no» implica reescriure o descartar, no rebaixar el criteri.
 
-Les mostres de `EXEMPLES.md` serveixen per calibrar l'estil. No són registres aprovats ni compten per a la cobertura.
+## Què va passar amb el pilot anterior
+
+Els primers candidats es van escriure com si l'usuari tingués una fitxa oberta. S'han apartat de la cua activa i es conserven a `archive/initial-pilot-2026-10-07/` per consultar-ne la procedència. No compten com a registres aprovats ni com a cobertura. Els exemples nous d'`EXEMPLES.md` són només calibratge fins que el criteri s'hagi validat.
+
+## Format
+
+Les converses candidates són JSONL, una conversa per línia. El camp `messages` només conté missatges `user` i `assistant`. La procedència, els drets, les notes de revisió i l'estat d'aprovació van en `provenance.jsonl`, mai dins del text de conversa.

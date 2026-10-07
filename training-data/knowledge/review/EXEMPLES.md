@@ -1,61 +1,56 @@
-# Exemples per calibrar converses Knowledge
+# Pilot de calibratge: converses que podria iniciar una persona
 
-Aquests diàlegs són mostres editorials, no registres d'entrenament. Serveixen per decidir si una conversa sona com una consulta real i si Maia respon amb el que el corpus permet afirmar. No cal que cada conversa tingui el mateix nombre de torns.
+Aquests cinc exemples serveixen per comprovar el nou criteri. Parteixen d'un dubte, una confusió o una petició de recordar; cap pregunta no depèn del nom d'una fitxa o d'una secció. Els seguiments continuen el tema que Maia acaba d'explicar.
 
-## Una distinció que canvia què vol dir «comunal»
+**No són registres aprovats ni entren dades.** Es conserven aquí perquè els puguem revisar i canviar abans d'obrir una nova tanda de candidats. La procedència i l'estat de drets consten a [`examples-provenance.md`](examples-provenance.md).
 
-**Usuari:** Un terreny podia ser privat i alhora tenir ús comunal? Em costa entendre aquesta distinció.
+## 1. Denunciar i demandar no eren el mateix
 
-**Maia:** Sí. La documentació històrica recollida a la fitxa descriu terres que tenien propietari, però no eren «de guarda»: després de la collita, els veïns hi podien passar i portar-hi els ramats. Aquí «comunal» descriu uns drets d'ús compartits; no vol dir necessàriament que el terreny fos propietat del comú.
+```json
+{"messages":[{"role":"user","content":"Com pot ser que es pogués denunciar un cònsol però no reclamar-li un deute? No era el mateix?"},{"role":"assistant","content":"No. La fitxa descriu dues vies diferents. Abans de la Reforma de 1866, calia autorització prèvia per iniciar una acció civil contra una autoritat, fins i tot per un deute personal. Per perseguir-la criminalment, no calia aquell permís."},{"role":"user","content":"I després de la Reforma ja se li podia reclamar qualsevol deute?"},{"role":"assistant","content":"No qualsevol. Després de 1866, l'autorització només es mantenia per als deutes contrets en exercici del càrrec. Per un deute personal, es podia citar l'autoritat sense demanar-la abans."}]}
+```
 
-**Usuari:** Això també limitava què hi podia plantar el propietari?
+**Per què funciona:** la pregunta neix d'una contradicció aparent; el seguiment pregunta per la conseqüència del canvi històric.
 
-**Maia:** En el règim de *peixena* descrit a la fitxa, sí: el propietari no podia canviar la rotació o sembrar farratge sense autorització del consell de parròquia. És una descripció històrica; la fitxa no diu que aquesta regla sigui vigent avui.
+## 2. El text i el gràfic es contradiuen
 
-*Per què funciona:* pregunta per una contradicció aparent i el seguiment aprofundeix en la conseqüència directa. No confon propietat amb drets d'ús ni converteix una regla històrica en actual.
+```json
+{"messages":[{"role":"user","content":"La publicació diu que el 2018 el català era al 56,8 i el castellà al 57,6, però el gràfic sembla posar el català per sobre. Quina dada és correcta?"},{"role":"assistant","content":"Per al 2018, la sèrie del Departament d'Estadística dona 56,8 per al català i 57,6 per al castellà, igual que el text. El gràfic està invertit: dibuixa el català a 57,6 i el castellà a 56,8."},{"role":"user","content":"I el 2014 el català sí que havia passat al davant?"},{"role":"assistant","content":"Sí. El 2014 la mateixa sèrie dona 57,7 per al català i 56,4 per al castellà: una diferència d'1,3 punts a favor del català."}]}
+```
 
-## Una immunitat que no era general
+**Per què funciona:** l'usuari demana resoldre una contradicció concreta; la resposta separa text, gràfic i sèrie estadística.
 
-**Usuari:** Els cònsols tenien immunitat judicial al segle XIX? He llegit que no els podien demandar, però que sí que els podien denunciar.
+## 3. D'on ve el nom de la Marratxa?
 
-**Maia:** No era una immunitat general. Abans de la Reforma de 1866 calia autorització prèvia per iniciar una acció civil contra una autoritat, fins i tot per un deute personal; per a una persecució criminal, no. Després de la Reforma, l'autorització civil només calia pels deutes contrets en exercici del càrrec.
+```json
+{"messages":[{"role":"user","content":"Per què es diu Marratxa? Encara ballen amb aquell recipient?"},{"role":"assistant","content":"El nom ve d'una marratxa, un recipient d'aigua perfumada que els dansaires duien a les mans. La fitxa diu que l'objecte va desaparèixer del ball, tot i que el nom es va conservar."},{"role":"user","content":"I quan es balla ara a Sant Julià?"},{"role":"assistant","content":"La Marratxa es balla el dilluns de la festa major de Sant Julià de Lòria, juntament amb el ball del Cerdà i la Passa."}]}
+```
 
-**Usuari:** O sigui, després del 1866 sí que se'ls podia reclamar un deute personal sense permís?
+**Per què funciona:** el seguiment sorgeix d'una resposta sobre la dansa i afegeix una dada pràctica relacionada.
 
-**Maia:** Sí. L'article 16 de la Reforma permetia citar les autoritats sense llicència prèvia pels deutes contrets com a particulars. El filtre es mantenia per als deutes del càrrec, i la llicència s'havia de concedir quan el deute era exigible i el termini havia vençut.
+## 4. Un tipus del 3,33% i un altre del 5%
 
-*Per què funciona:* la pregunta planteja una confusió real entre una acció civil i una denúncia criminal. El seguiment comprova què va canviar en una data concreta.
+```json
+{"messages":[{"role":"user","content":"M'he trobat un 3,33% i un 5% en textos sobre interessos a Andorra. Quin dels dos s'aplicava?"},{"role":"assistant","content":"Depenia del contracte. Un decret de 1895 diu que els censals continuaven al tres i terç per cent —aproximadament un 3,33%—, mentre que per a la resta el Consell i les Corts acceptaven el 5%."},{"role":"user","content":"Aleshores la regla del tres i terç encara valia el 1895?"},{"role":"assistant","content":"Sí. El decret del 25 de novembre de 1895 reconeix que el tipus del censal continuava vigent «segons la llei de la Vall». També diferencia aquest contracte de la resta, per als quals s'acceptava el 5%."}]}
+```
 
-## Recordar una llegenda i separar-la del fet documentat
+**Per què funciona:** la primera pregunta expressa una confusió real; el seguiment comprova si una norma anterior continuava vigent.
 
-**Usuari:** Em recordes la llegenda de la imatge de Meritxell? Per què la van deixar just allà?
+## 5. Recordar la llegenda de Meritxell
 
-**Maia:** Segons la llegenda, un pastor va trobar la imatge sota una gavernera florida el dia de Reis. La van dur a Canillo, però l'endemà havia tornat al lloc de la troballa. També la van tancar a Encamp, i va tornar a aparèixer allà. Dins del relat, aquests retorns es van entendre com un senyal que volia quedar-se en aquell lloc.
+```json
+{"messages":[{"role":"user","content":"Em recordes la llegenda de la imatge de Meritxell? Per què es va quedar en aquell lloc?"},{"role":"assistant","content":"Segons la llegenda, un pastor va trobar la imatge sota una gavernera florida el dia de Reis. La van portar a Canillo i després la van tancar a Encamp, però cada vegada tornava al lloc de la troballa. La gent va entendre que volia quedar-s'hi i hi va construir el santuari."},{"role":"user","content":"Això es pot donar per fet històric?"},{"role":"assistant","content":"No amb les fonts que recull la fitxa. És el relat de la llegenda; no hi consta una font primària ni la data en què es va documentar per primera vegada."}]}
+```
 
-**Usuari:** I això és el que va passar històricament?
+**Per què funciona:** la primera pregunta demana una història concreta; el seguiment comprova què és llegenda i què està verificat.
 
-**Maia:** És el relat de la llegenda, no un fet històric verificat per la fitxa. La font primària i la data en què es va documentar per primera vegada encara hi consten com a buits.
+## Les preguntes que no passaven el filtre
 
-*Per què funciona:* la primera pregunta demana una explicació que una persona pot voler recordar; el seguiment pregunta explícitament pel límit entre llegenda i història.
+| Formulació descartada | Què falla | Direcció millor |
+|---|---|---|
+| «Què explica la secció “El relat” de la fitxa “La troballa de Meritxell”?» | L'usuari ha de tenir la fitxa oberta. | «Em recordes la llegenda de la imatge de Meritxell?» |
+| «Què indica aquesta fila?» | No identifica què vol entendre. | Explicar què es contradiu i preguntar quina dada és fiable. |
+| «I dos topònims que en surten:» | És un fragment sense una petició completa. | Descartar-lo, llevat que hi hagi una pregunta real sobre aquells llocs. |
+| «Tres coses que el corpus registra per separat:» | És una nota editorial, no una intervenció d'usuari. | Preguntar quin dubte resol el document —per exemple, per què hi ha dos tipus d'interès. |
 
-## Dues xifres incompatibles per al mateix any
-
-**Usuari:** Per al 1930 trobo dues xifres de població d'Andorra: 4.142 i 4.042. S'ha aclarit quina és bona?
-
-**Maia:** No amb les fonts que recull el corpus. Moreno dona 4.142 i el bisbat d'Urgell, 4.042. La diferència és de cent persones, però la fitxa no té cap prova que permeti decidir quina xifra és correcta.
-
-**Usuari:** Llavors tampoc no es pot dir que la població baixés de manera contínua des del 1900?
-
-**Maia:** La xifra que Pallerola dona per al 1912 —6.100 habitants— ja contradiu el relat d'una davallada contínua durant trenta anys. Però la fitxa tampoc no pot confirmar que aquesta xifra sigui la bona: deixa constància del desacord entre les sèries.
-
-*Per què funciona:* parteix d'una discrepància concreta que cal resoldre i no força una falsa conclusió quan les fonts no permeten arbitrar-la.
-
-## Exemple que cal rebutjar
-
-> «Què explica la secció “El vocabulari que ho ordena” de la fitxa “Un camp és comunal perquè hi passen els ramats”?»
-
-La pregunta pressuposa que la persona té la fitxa oberta. Cal preguntar pel dubte que hi ha al darrere —per exemple, què vol dir que un terreny sigui comunal— i respondre sense exposar l'estructura del document.
-
-## Exportació
-
-Els comentaris editorials, els títols i les notes de procedència no s'exporten. Els registres aprovats contenen només missatges `user` i `assistant`; la procedència es guarda per separat. Aquestes mostres no compten com a registres ni com a cobertura.
+No cal convertir cada pregunta descartada en una pregunta nova. Si no hi ha una motivació natural, no hi ha registre.

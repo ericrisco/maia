@@ -1,20 +1,13 @@
 # Maia Knowledge
 
-Dataset de converses basades en `docs/temes/`. L'objectiu és respondre dubtes
-que una persona faria de debò sobre Andorra. No és una conversió de fitxes a
-preguntes ni un qüestionari per cobrir cada dada.
+Conjunt de converses sobre Andorra basades en `docs/temes/`. La unitat de treball és un dubte humà, no una secció ni un fet aïllat.
 
-- [`review/EXEMPLES.md`](review/EXEMPLES.md): exemples de calibratge, fora del
-  dataset actiu.
-- `review/conversations.jsonl`: només converses aprovades; ara és buit fins que
-  els exemples defineixin el to.
-- `review/provenance.jsonl`: font i revisió editorial, fora de les converses.
-- `work/`: inventari de continguts rellevants i estat de revisió.
-- `output/`: splits finals, quan existeixin.
-- `reports/`: cobertura, qualitat i decisions d'exclusió.
+- [`review/`](review/): guia, pilot de calibratge, candidats actius i procedència.
+- `work/`: inventari i estat de revisió per fitxa.
+- `scripts/`: generació d'inventari i, més endavant, validació i exportació.
+- `reports/`: cobertura, qualitat i exclusions.
+- `output/`: només splits aprovats i elegibles per a l'ús previst.
 
-Per reconstruir l'inventari i el report de cobertura des de `docs/temes/`,
-executa `python3 training-data/knowledge/scripts/build_document_inventory.py`.
+El pilot anterior està arxivat i no compta com a cobertura. La cua de candidats actius és buida mentre revisem els nous exemples. Per reconstruir l'inventari i el report, executa `python3 training-data/knowledge/scripts/build_document_inventory.py` des de l'arrel de `maia/`.
 
-Format exportat: una conversa JSON per línia amb `messages` i només els rols
-`user` i `assistant`.
+El format de cada registre és una conversa JSONL amb `messages` i només els rols `user` i `assistant`. La procedència i els drets van en un fitxer separat.

@@ -1,32 +1,29 @@
 # Maia Training Data
 
-Projecte per preparar dos datasets de fine-tuning separats a partir de
-`docs/`: **Knowledge** ensenya informació documentada sobre Andorra;
-**Language** preserva català andorrà contemporani de parlants reals.
+Àrea de treball per preparar dos conjunts de fine-tuning separats a partir de `docs/`:
 
-La feina actual és tornar a calibrar les preguntes de Knowledge: han de partir
-d'un dubte humà i mantenir un fil natural entre torns. Les mostres editorials
-són a `knowledge/review/EXEMPLES.md`; no són registres d'entrenament. El pilot
-anterior s'ha retirat i la cobertura s'ha reiniciat. Language continua separat.
-Encara no hi ha registres Knowledge nous aprovats ni exports finals.
+- **Maia Knowledge** respon preguntes sobre Andorra amb informació documentada a `docs/temes/`.
+- **Maia Language** conserva català andorrà contemporani de parlants reals a partir de `docs/parla/`.
 
-## Estructura
+No es barregen. Les converses de Knowledge han de partir de preguntes que una persona faria de debò. No es generen automàticament a partir de títols, seccions o files. Maia Language preserva material humà i no crea respostes fictícies.
 
 ```text
 training-data/
 ├── PLAN.md
 ├── knowledge/
-│   ├── scripts/             # inventari i exportació
-│   ├── review/              # exemples, converses aprovades i procedència
-│   ├── work/                # inventari i seguiment de cobertura
-│   ├── output/              # exports quan hi hagi prou material revisat
-│   └── reports/             # cobertura, qualitat i exclusions
+│   ├── review/       # calibratge, candidats, procedència i arxiu
+│   ├── work/         # inventari i cobertura interna
+│   ├── scripts/
+│   ├── reports/
+│   └── output/       # exports aprovats
 └── language/
-    ├── review/              # fragments/converses reals i permisos
-    ├── work/                # elegibilitat i verificació de transcripcions
-    ├── output/              # exports de llengua aprovats
-    └── reports/             # inclusió, exclusions i qualitat
+    ├── review/
+    ├── work/
+    ├── scripts/
+    ├── reports/
+    └── output/       # exports aprovats
 ```
 
-Vegeu [el pla de treball](PLAN.md), [els exemples de calibratge](knowledge/review/EXEMPLES.md)
-i [la guia editorial](knowledge/review/CONVERSATION-GUIDE.md).
+El pilot anterior de Knowledge s'ha arxivat després de detectar preguntes que sonaven a extracció de fitxes. Ara s'està calibrant el nou criteri amb cinc exemples editorials. Aquests exemples no són registres d'entrenament; la cua activa és buida. L'inventari i la procedència anteriors es conserven per auditoria.
+
+Consulta [`PLAN.md`](PLAN.md), la [guia de conversa](knowledge/review/CONVERSATION-GUIDE.md) i les [mostres de calibratge](knowledge/review/EXEMPLES.md).

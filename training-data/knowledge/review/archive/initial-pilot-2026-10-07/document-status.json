@@ -1,0 +1,196 @@
+{
+  "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md": {
+    "status": "in_progress",
+    "open_units": [
+      "Els efectes dels feriats sobre execucions i altres procediments judicials no coberts pels terminis d’apel·lació i els embargaments.",
+      "La vigència de la llista de 1902 i quan va deixar d'aplicar-se; el corpus no té una llista posterior.",
+      "Les llistes prèvies citades per Brutails i els buits documentals que impedeixen comparar-les amb la de 1902."
+    ],
+    "conversation_ids": [
+      "organya-tribunals-calendari-fires-001",
+      "termini-apellacio-dies-feriats-1902-001",
+      "embargament-dies-feriats-sega-1902-001",
+      "dies-feriats-total-anual-1902-001",
+      "berdu-feriats-i-tancament-sega-001",
+      "foraster-audiencia-especial-feriats-1902-001",
+      "llista-feriats-1902-dies-i-fires-001",
+      "llista-feriats-1902-font-i-abast-001",
+      "meritxell-feriat-i-festa-nacional-1902-001",
+      "sant-antoni-llista-judicial-i-escudella-001"
+    ],
+    "reviewed_units": [
+      "La llista de 1902 tancava els tribunals del 27 de novembre al 4 de desembre per la fira d'Organyà; aquest interval no prova la durada de la fira ni l'assistència de persones concretes.",
+      "Còmput d’un termini d’apel·lació a partir d’un cas del 1902: deu dies de rigor més tres de gràcia, amb dies feriats exclosos; el tram de 12 a 28 de gener és un cas, no un termini universal.",
+      "Els dies feriats suspenien el còmput de terminis, però l’embargament s’hi podia practicar; la possible relació amb el període de sega és una hipòtesi, no una explicació documental.",
+      "Recompte possible de 62 dies datats; no hi ha total anual perquè s’hi afegeixen diumenges i quatre períodes mòbils que poden solapar-se, i cal concretar l’any.",
+      "La llista possiblement del segle XVIII esmenta Berdu, no identificat ni a la llista de 1902; la connexió entre la sega i el tancament d’estiu de 1902 no queda provada.",
+      "El comentari de Brutails descriu una audiència especial fora dels dies feriats per al foraster, amb dipòsit de 15 pessetes i avís a l’altra part amb tres dies d’antelació; no n’estableix l’aplicació als habitants.",
+      "Calendari de tancaments de 1902: diumenges, festes religioses i períodes fixos o mòbils; tres intervals s’associen a les fires de Salàs, la Seu i Organyà. La peça només data sis punts explícitament.",
+      "Abast i procedència de la llista: redactada i aprovada el 1902 per resoldre el desacord local sobre els dies feriats, no com a prova de pràctiques anteriors.",
+      "El 8 de setembre de 1902 figura com a feriat judicial amb el nom Nativitat de la Mare de Déu; la llista no l’anomena Meritxell ni festa nacional.",
+      "L’absència de Sant Antoni a la llista judicial de 1902 no prova que la celebració popular no existís."
+    ]
+  },
+  "docs/temes/costums/meritxell/meritxell.md": {
+    "status": "in_progress",
+    "open_units": [
+      "L’acta original del Consell General del 24-10-1873 que declararia Meritxell patrona del Principat; la referència actual és premsa no identificada.",
+      "Si hi ha una relació documentada entre el 8 de setembre i el Pareatge de 1278; la fitxa la deixa sense resoldre."
+    ],
+    "conversation_ids": [
+      "meritxell-feriat-i-festa-nacional-1902-001",
+      "calendari-fites-anuals-andorra-001"
+    ],
+    "reviewed_units": [
+      "La llista judicial de 1902 anomena el 8 de setembre Nativitat de la Mare de Déu; no acredita per si sola que fos festa nacional ni que el Consell la denominés Meritxell.",
+      "Meritxell, el 8 de setembre, és presentada com la festa nacional; el calendari judicial de 1902 només la registra pel nom litúrgic."
+    ]
+  },
+  "docs/temes/costums/calendari-festiu/calendari-festiu.md": {
+    "status": "in_progress",
+    "open_units": [
+      "Dates i fonts primàries dels calendaris de cada parròquia i vila.",
+      "Caramelles, Sant Joan i falles, i la cronologia detallada de les celebracions populars.",
+      "La font periodística del calendari general no està identificada ni datada."
+    ],
+    "conversation_ids": [
+      "sant-antoni-llista-judicial-i-escudella-001",
+      "calendari-fites-anuals-andorra-001"
+    ],
+    "reviewed_units": [
+      "La llista judicial de 1902 no és un calendari popular; l’absència de Sant Antoni no prova que la festa no se celebrés.",
+      "Fites anuals: Sant Antoni el 17 de gener, caramelles a la primavera, Sant Joan i falles el 23 de juny, festes majors a l’estiu i Meritxell el 8 de setembre."
+    ]
+  },
+  "docs/temes/costums/sant-antoni/escudelles-de-sant-antoni.md": {
+    "status": "in_progress",
+    "open_units": [
+      "Calendari, lloc, nom local i organitzadors de les escudelles a les parròquies fora del cas documentat de Canillo.",
+      "Origen històric de la festa i primera documentació de l’escudella popular; no hi ha font datada per a 1902.",
+      "Vigència i localització actual de la benedicció dels animals.",
+      "Extensió del sentit local de vianda i documentació dels encants i Sant Sebastià."
+    ],
+    "conversation_ids": [
+      "sant-antoni-llista-judicial-i-escudella-001",
+      "calendari-fites-anuals-andorra-001"
+    ],
+    "reviewed_units": [
+      "La llista judicial de 1902 no permet datar l’escudella popular; la primera vianda de Canillo documentada a la fitxa és del 1979 i no data les altres parròquies.",
+      "Sant Antoni, el 17 de gener, és una de les fites del calendari festiu anual."
+    ]
+  },
+  "docs/temes/costums/falles/falles.md": {
+    "status": "in_progress",
+    "open_units": [
+      "Variants i recorreguts per parròquia.",
+      "Reconeixement patrimonial de les falles andorranes i fonts comunals que ho acreditin.",
+      "Data exacta de la pèrdua i identitat de qui va recuperar el costum."
+    ],
+    "conversation_ids": [
+      "falles-andorra-torxes-i-recuperacio-001",
+      "calendari-fites-anuals-andorra-001"
+    ],
+    "reviewed_units": [
+      "Diferència entre les falles andorranes com a torxes i les Falles valencianes com a monuments; materials antics i canvi documentat per Canturri després de la recuperació cap al 1997-1998.",
+      "Les falles se situen al 23 de juny, en el calendari de Sant Joan."
+    ]
+  },
+  "docs/temes/costums/caramelles/les-caramelles.md": {
+    "status": "in_progress",
+    "open_units": [
+      "Lletres i enregistraments de les caramelles, amb permisos i drets clars.",
+      "Recorregut detallat i data d’inici de les caramelles d’Ordino.",
+      "Història completa i fonts datades per al pas de la recollida d’ous als donatius.",
+      "Condicions de reutilització de les fonts periodístiques i institucionals citades."
+    ],
+    "conversation_ids": [
+      "caramelles-sant-julia-diumenge-seguent-001",
+      "calendari-fites-anuals-andorra-001"
+    ],
+    "reviewed_units": [
+      "A Sant Julià, les caramelles es fan el diumenge després de Pasqua; la Coral Rocafort recorre carrers, s’atura sota balcons o a places, canta i recull donatius.",
+      "Les caramelles són una fita primaveral del calendari, al voltant de Pasqua."
+    ]
+  },
+  "docs/temes/costums/festes-majors/festes-majors.md": {
+    "status": "in_progress",
+    "open_units": [
+      "Dates i programes de cada parròquia i vila, amb fonts primàries dels comuns.",
+      "La font periodística genèrica no identifica els articles dels quals provenen les dades."
+    ],
+    "conversation_ids": [
+      "calendari-fites-anuals-andorra-001"
+    ],
+    "reviewed_units": [
+      "Cada parròquia té la seva festa major i moltes viles també en tenen; les festes majors se celebren a l’estiu i no són una única festa nacional."
+    ]
+  },
+  "docs/temes/costums/calendari-festiu/el-carnaval-dencamp.md": {
+    "status": "in_progress",
+    "open_units": [
+      "Guió, personatges i seqüència del Judici dels Contrabandistes; no consten al corpus.",
+      "Música i variants del Ball de l’Ossa d’Encamp.",
+      "Data concreta del carnaval per a cada any i comprovació amb el programa comunal.",
+      "Condicions de drets de les fonts periodístiques i acadèmiques."
+    ],
+    "conversation_ids": [
+      "ossa-encamp-cortinada-i-guio-1959-001",
+      "operacio-carnestoltes-tercera-farsa-1970-001",
+      "judicis-contrabandistes-encamp-ordino-001",
+      "carnaval-encamp-programa-2026-dates-001"
+    ],
+    "reviewed_units": [
+      "El Ball de l’Ossa d’Encamp i el de la Cortinada tenen arguments diferents; a Encamp el guió escrit per Rossend Marsol el 1959 va substituir la transmissió oral i es refà anualment com a sàtira.",
+      "El carnaval d’Encamp té tres farses: el Judici, el Ball de l’Ossa i l’Operació del Carnestoltes; aquesta darrera s’incorpora cap al 1970 i reutilitza les vísceres de la matança del diumenge.",
+      "Els judicis d’Encamp i d’Ordino són farses diferents: Encamp representa un món judicial capgirat; Ordino defensa el territori davant dels estrangers i es recupera el 2017. El guió íntegre d’Encamp no consta.",
+      "Programa oficial de 2026: el Judici el 15 de febrer, el Ball de l’Ossa el 16 i l’Operació del Carnestoltes el 17; les dates no es poden extrapolar perquè el Carnaval és mòbil."
+    ]
+  },
+  "docs/temes/cultura/teatre/el-teatre-de-carnestoltes.md": {
+    "status": "in_progress",
+    "open_units": [
+      "Textos íntegres de les farses, guions i enregistraments no incorporats al corpus.",
+      "Detalls dels altres cicles de Carnestoltes, Nadal i Pasqua i les seves variants locals.",
+      "Autories, dates i atribucions que la tesi no ha pogut determinar.",
+      "Condicions de reutilització de la publicació acadèmica i dels documents d’arxiu."
+    ],
+    "conversation_ids": [
+      "ossa-encamp-cortinada-i-guio-1959-001",
+      "operacio-carnestoltes-tercera-farsa-1970-001",
+      "judicis-contrabandistes-encamp-ordino-001"
+    ],
+    "reviewed_units": [
+      "La farsa de l’Ossa d’Encamp i la de la Cortinada tenen arguments diferents; la versió d’Encamp passa de transmissió oral a guió el 1959 i es refà anualment.",
+      "L’Operació del Carnestoltes és la tercera farsa d’Encamp, afegida pels volts de 1970; se’n coneix el resum argumental però no el guió íntegre ni l’autor.",
+      "La tesi distingeix les farses dels Contrabandistes d’Encamp i Ordino per cronologia i argument; el guió íntegre d’Encamp no està al corpus."
+    ]
+  },
+  "docs/temes/costums/danses/danses.md": {
+    "status": "in_progress",
+    "open_units": [
+      "Distribució completa de les danses per parròquia i calendari, amb fonts primàries.",
+      "La coreografia, música i història de cada dansa; buits particulars indicats a les fitxes.",
+      "Coreografia de la Dama Blanca d’Auvinyà i repertori complet dels esbarts."
+    ],
+    "conversation_ids": [
+      "sardana-introduccio-i-ensenyament-andorra-001"
+    ],
+    "reviewed_units": [
+      "La sardana es va començar a introduir a Andorra cap als anys quaranta després d’haver estat vista o apresa a Barcelona als anys trenta; Ventura Armengol l’ensenyava i la cobla va arribar més tard."
+    ]
+  },
+  "docs/temes/cultura/cultura-popular/els-usos-i-costums.md": {
+    "status": "in_progress",
+    "open_units": [
+      "La resta de la ponència de Canturri i els altres exemples de tradicions datades.",
+      "La recollida oral de les generacions d’informants, que requereix treball de camp.",
+      "Identitat completa del Sr. Pantebre i data exacta d’arribada de la cobla."
+    ],
+    "conversation_ids": [
+      "sardana-introduccio-i-ensenyament-andorra-001"
+    ],
+    "reviewed_units": [
+      "Canturri situa la introducció de la sardana als anys quaranta i identifica Ventura Armengol com a mestre; la cobla de Pantebre arriba posteriorment."
+    ]
+  }
+}

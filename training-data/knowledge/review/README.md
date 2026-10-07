@@ -1,11 +1,11 @@
 # Revisió de Maia Knowledge
 
-Aquest directori conté la pauta i les mostres per calibrar la qualitat:
+Aquí es calibra l'estil i es revisen els candidats abans d'exportar-los.
 
-- `EXEMPLES.md`: converses de calibratge editorial. No són registres i no compten per a la cobertura.
-- `CONVERSATION-GUIDE.md`: criteris per escriure i revisar converses.
-- `examples-provenance.md`: fonts i límits de les mostres editorials.
+- [`CONVERSATION-GUIDE.md`](CONVERSATION-GUIDE.md): com identificar un dubte humà i revisar el fil multitorn.
+- [`EXEMPLES.md`](EXEMPLES.md): cinc mostres editorials per calibratge; no són dades d'entrenament.
+- [`examples-provenance.md`](examples-provenance.md): fonts, drets i límits de cada mostra.
+- `conversations.jsonl` i `provenance.jsonl`: buits mentre es calibra el nou criteri. Cada candidat futur tindrà una fila a cadascun.
+- [`archive/initial-pilot-2026-10-07/`](archive/initial-pilot-2026-10-07/): pilot anterior retingut per auditoria; no s'ha d'exportar ni comptar com a cobertura.
 
-Els candidats del pilot anterior s'han retirat perquè moltes preguntes no sonaven a dubtes reals. `conversations.jsonl` i `provenance.jsonl` són buits mentre calibrem de nou l'estil amb els exemples editorials. Després del calibratge, cada candidat tindrà una fila a cadascun. Aplica la [guia de conversa](CONVERSATION-GUIDE.md): pregunta directa sobre un dubte real, resposta clara i seguiment només quan el fil ho demani.
-
-Les condicions de drets s'han de tornar a comprovar per als registres reals abans d'exportar-los.
+No generis preguntes a partir dels títols o de l'estructura de les fitxes. Segueix la [guia de conversa](CONVERSATION-GUIDE.md) i comprova els drets de les fonts abans d'aprovar un candidat.
