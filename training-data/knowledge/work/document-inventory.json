@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 40,
+    "in_progress": 41,
     "no_natural_question": 0,
-    "not_started": 1308
+    "not_started": 1307
   },
   "documents": [
     {
@@ -940,11 +940,19 @@
       "type": "article",
       "topic": "temes/cultura/arquitectura",
       "source": "viquipedia-ca",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "sant-joan-caselles-majestat-i-retaule-001"
+      ],
+      "reviewed_units": [
+        "La majestat d’estuc del segle XII es conserva a l’església; també hi ha un retaule de 1527 amb influències italianes i germàniques."
+      ],
+      "open_units": [
+        "Estat de conservació actual i règim de visita no inclosos en la fitxa.",
+        "Relació amb el Roc de les Bruixes i el santuari de Meritxell no desenvolupada.",
+        "Contrast amb fonts acadèmiques primàries sobre la majestat d’estuc i el retaule."
+      ],
       "completion_note": "",
       "reason": ""
     },

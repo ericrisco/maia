@@ -611,5 +611,19 @@
     "reviewed_units": [
       "Motius de Caselles i Santa Coloma reapareixen a Sant Martí de la Cortinada; això sosté continuïtat artística però no una autoria comuna."
     ]
+  },
+  "docs/temes/cultura/arquitectura/sant-joan-de-caselles.md": {
+    "status": "in_progress",
+    "open_units": [
+      "Estat de conservació actual i règim de visita no inclosos en la fitxa.",
+      "Relació amb el Roc de les Bruixes i el santuari de Meritxell no desenvolupada.",
+      "Contrast amb fonts acadèmiques primàries sobre la majestat d’estuc i el retaule."
+    ],
+    "conversation_ids": [
+      "sant-joan-caselles-majestat-i-retaule-001"
+    ],
+    "reviewed_units": [
+      "La majestat d’estuc del segle XII es conserva a l’església; també hi ha un retaule de 1527 amb influències italianes i germàniques."
+    ]
   }
 }
