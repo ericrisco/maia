@@ -84,5 +84,20 @@
       "marratxa-calendari-sant-julia-001",
       "marratxa-origen-i-coreografia-001"
     ]
+  },
+  "docs/temes/costums/gegants/els-gegants.md": {
+    "status": "in_progress",
+    "reviewed_units": [
+      "Els gegants d'Andorra la Vella es diuen Carlemany i Ermessenda; els va construir Manel Casserras i Boix el 1985.",
+      "La Gresca Gegantera es va constituir el 1985 amb deu persones i el suport del comú.",
+      "Ermessenda fa 3,75 m i pesa 50 kg; Carlemany fa 3,50 m i pesa 60 kg."
+    ],
+    "open_units": [
+      "La decisió inicial atribuïda a cap al 1982 i les raons per escollir Carlemany i Ermessenda depenen de Canturri, amb reutilització pendent.",
+      "La història dels gegants de Sant Julià i la vigència actual de la Gresca necessiten revisió addicional."
+    ],
+    "conversation_ids": [
+      "gegants-andorra-la-vella-constructors-001"
+    ]
   }
 }

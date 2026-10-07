@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 6,
+    "in_progress": 7,
     "no_natural_question": 0,
-    "not_started": 1342
+    "not_started": 1341
   },
   "documents": [
     {
@@ -352,11 +352,20 @@
       "type": "article",
       "topic": "temes/costums/gegants",
       "source": "canturri-usos-i-costums",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "gegants-andorra-la-vella-constructors-001"
+      ],
+      "reviewed_units": [
+        "Els gegants d'Andorra la Vella es diuen Carlemany i Ermessenda; els va construir Manel Casserras i Boix el 1985.",
+        "La Gresca Gegantera es va constituir el 1985 amb deu persones i el suport del comú.",
+        "Ermessenda fa 3,75 m i pesa 50 kg; Carlemany fa 3,50 m i pesa 60 kg."
+      ],
+      "open_units": [
+        "La decisió inicial atribuïda a cap al 1982 i les raons per escollir Carlemany i Ermessenda depenen de Canturri, amb reutilització pendent.",
+        "La història dels gegants de Sant Julià i la vigència actual de la Gresca necessiten revisió addicional."
+      ],
       "completion_note": "",
       "reason": ""
     },
