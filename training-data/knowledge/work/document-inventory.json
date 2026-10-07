@@ -480,8 +480,9 @@
       "topic": "temes/costums/sant-antoni",
       "source": "premsa-andorrana",
       "status": "in_progress",
-      "conversation_count": 3,
+      "conversation_count": 4,
       "conversation_ids": [
+        "benediccio-animals-sant-antoni-estat-actual-01",
         "escudella-sant-antoni-acte-vianda-01",
         "origen-ramader-sant-antoni-01",
         "vianda-canillo-encants-01"
@@ -494,11 +495,12 @@
         "el menjar comunitari per a les persones es va afegir després",
         "primera vianda popular a Canillo el 1979, a la plaça de Montaup",
         "el Comú organitza l'acte el diumenge més proper i reparteix prop de mil racions",
-        "els encants són subhastes i la seva tradició es va recuperar cap al 2000"
+        "els encants són subhastes i la seva tradició es va recuperar cap al 2000",
+        "Sant Antoni és patró dels animals domèstics i dels traginers",
+        "la fitxa no confirma si la benedicció d'animals continua avui ni on es fa"
       ],
       "open_units": [
-        "Sant Antoni com a patró d'animals domèstics i traginers",
-        "estat actual de la benedicció d'animals i informació que la font no concreta"
+        "estat actual de la benedicció d'animals a cada parròquia, no confirmat per la font"
       ],
       "completion_note": "",
       "reason": ""
