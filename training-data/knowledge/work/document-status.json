@@ -146,9 +146,17 @@
     ]
   },
   "docs/temes/costums/religiositat/el-registre-dentitats-religioses.md": {
-    "status": "not_started",
+    "status": "in_progress",
     "open_units": [
-      "Passada editorial integral de la fitxa: repassar les afirmacions i els buits registrats contra les converses i conservar explícitament allò que no consta."
+      "Passada editorial integral de la fitxa: revisar la resta d’afirmacions i buits contra les converses i conservar explícitament allò que no consta."
+    ],
+    "conversation_ids": [
+      "registre-religios-no-inscrit-responsabilitat-i-inscripcio-01"
+    ],
+    "reviewed_units": [
+      "Responsabilitat solidària dels membres d’una entitat religiosa no inscrita per les obligacions contretes en nom seu (art. 15.1).",
+      "Efecte de la inscripció: personalitat jurídica; els articles citats no resolen la transferència de deutes previs (art. 10).",
+      "Requisits personals bàsics per inscriure una entitat religiosa (art. 3.1): entitat no lucrativa radicada a Andorra, mínim de vint persones andorranes o residents, mateixa creença i culte, i almenys una persona adulta amb plenitud de drets."
     ]
   }
 }

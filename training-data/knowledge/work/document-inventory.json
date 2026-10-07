@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 0,
+    "in_progress": 1,
     "no_natural_question": 0,
-    "not_started": 1348
+    "not_started": 1347
   },
   "documents": [
     {
@@ -373,12 +373,18 @@
       "type": "article",
       "topic": "temes/costums/religiositat",
       "source": "bopa-ad",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "registre-religios-no-inscrit-responsabilitat-i-inscripcio-01"
+      ],
+      "reviewed_units": [
+        "Responsabilitat solidària dels membres d’una entitat religiosa no inscrita per les obligacions contretes en nom seu (art. 15.1).",
+        "Efecte de la inscripció: personalitat jurídica; els articles citats no resolen la transferència de deutes previs (art. 10).",
+        "Requisits personals bàsics per inscriure una entitat religiosa (art. 3.1): entitat no lucrativa radicada a Andorra, mínim de vint persones andorranes o residents, mateixa creença i culte, i almenys una persona adulta amb plenitud de drets."
+      ],
       "open_units": [
-        "Passada editorial integral de la fitxa: repassar les afirmacions i els buits registrats contra les converses i conservar explícitament allò que no consta."
+        "Passada editorial integral de la fitxa: revisar la resta d’afirmacions i buits contra les converses i conservar explícitament allò que no consta."
       ],
       "completion_note": "",
       "reason": ""
