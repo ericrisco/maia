@@ -1,79 +1,87 @@
-# Exemples de converses per calibrar
+# Exemples de calibratge de Maia Knowledge
 
-Aquests exemples mostren maneres diferents d'iniciar i continuar una conversa.
-No són motlles: cada registre del dataset ha de sortir del dubte i dels fets de
-la seva font. Les converses poden tenir un sol intercanvi o diversos.
+Aquests exemples mostren el nivell de naturalitat que volem. Parteixen d'un
+dubte recognoscible i tenen seguiments que neixen de la resposta anterior.
+Són exemples editorials, no registres aprovats ni part de l'output.
 
-## Dubte pràctic i seguiment útil
+## Una contradicció aparent que no permet deduir-ne la causa
 
-**Usuari:** He vist dues xifres diferents de població d'Andorra. Quina he de fer
-servir si vull saber quanta gent hi viu?
+**Usuari:** He vist que Encamp baixa un 4,7% en una estadística de població,
+però puja un 2,2% en una altra. Quina de les dues és la bona?
 
-**Maia:** Mira la població estimada: calcula quantes persones resideixen al país
-a partir dels censos i d'altres registres administratius. La població
-registrada compta les persones que consten als censos parroquials.
+**Maia:** Totes dues poden ser correctes: mesuren coses diferents. La població
+registrada compta les persones inscrites als censos comunals; l'estimada
+combina aquests censos amb altres registres per calcular quanta gent resideix
+al país. Les dades són del juliol del 2026 comparat amb el juliol del 2025.
 
-**Usuari:** Llavors la registrada no és simplement una xifra més antiga?
+**Usuari:** Aleshores, podem dir que la gent ha marxat d'Encamp?
 
-**Maia:** No necessàriament. Són dues mesures diferents, amb mètodes diferents.
-Per comparar-les, també cal mirar la data de referència de cada xifra.
+**Maia:** No només amb aquestes xifres. El Departament diu que els canvis del
+registre també poden reflectir depuracions administratives, però no quantifica
+quina part de la baixada d'Encamp ve d'això. La sèrie estimada, a més, puja.
 
-## Una curiositat amb context històric
+**Per què funciona:** l'usuari intenta resoldre una discrepància i després
+comprova una interpretació possible. La segona resposta marca el límit de les
+dades, en lloc d'inventar una causa.
 
-**Usuari:** L'ossa encara es representa a Andorra? Em pensava que era una
-tradició de Carnaval.
+**Fonts per revisar:**
+[`dues-maneres-de-comptar-la-poblacio.md`](../../../docs/temes/societat/demografia/dues-maneres-de-comptar-la-poblacio.md)
+— resum i apartat «Què permet dir una baixada».
 
-**Maia:** Sí. A Encamp es representa el dilluns de Carnaval. A Ordino, en canvi,
-es fa durant la fira de Nadal; abans també es representava per Carnaval.
+## Una tradició que canvia de data
 
-**Usuari:** Quan va passar a fer-se per Nadal a Ordino?
+**Usuari:** Em pensava que les festes de l'ossa eren de Carnaval. Per què la
+d'Ordino es fa al desembre?
 
-**Maia:** La representació es va reprendre el 2017 i es va situar a la fira de
+**Maia:** Abans es feia per Carnaval, com en altres parròquies. L'Última ossa
+d'Ordino es representa ara durant la primera setmana de desembre, a la fira de
 Nadal.
 
-## Una pregunta directa sense seguiment forçat
+**Usuari:** Des de quan la fan en aquella data?
 
-**Usuari:** Què vol dir que la majestat de Sant Joan de Caselles sigui d'estuc?
+**Maia:** El corpus situa la represa del 2017 al desembre, però no explica amb
+més detall per què es va triar aquest canvi de calendari.
 
-**Maia:** Vol dir que la crucifixió està modelada en estuc, una tècnica de
-relleu. No és una pintura mural ni una talla de fusta.
+**Per què funciona:** la primera resposta resol la confusió entre la data
+històrica i l'actual. El seguiment demana un detall concret; la resposta no
+atribueix al canvi un motiu que la font no dona.
 
-## Rectificar una impressió equivocada
+**Fonts per revisar:**
+[`les-festes-de-lossa.md`](../../../docs/temes/costums/danses/les-festes-de-lossa.md)
+— «La cronologia» i «Les dues que queden».
 
-**Usuari:** El trinxat és bàsicament puré de patata, oi?
+## Una atribució nacional que necessita matís
 
-**Maia:** No ben bé. Porta patata i col bullides, que es trinxen amb el greix de
-la cansalada i es dauren a la paella fins que fan crosta. A més, no és exclusiu
-d'Andorra: també és propi d'altres zones del Pirineu.
+**Usuari:** El trinxat és un plat andorrà?
 
-**Usuari:** Ah, per això no el trobo només en receptaris andorrans.
+**Maia:** També es menja a Andorra, però no és exclusivament andorrà. És un plat
+pirinenc, propi també de la Cerdanya, l'Alt Urgell i el Berguedà.
 
-**Maia:** Exacte. També és típic de la Cerdanya, l'Alt Urgell i el Berguedà.
+**Usuari:** I per què es feia tant a l'hivern?
 
-## Preguntar per una discrepància visible
+**Maia:** La fitxa ho relaciona amb els aliments que es conservaven durant
+l'hivern: col, que podia aguantar al camp, i patata guardada al celler. Es
+bullien, es trinxaven i es dauraven a la paella amb el greix de la cansalada.
 
-**Usuari:** En aquest gràfic, la fila del 2014 dona 57,7 per al català i 56,4
-per al castellà. Vol dir que el català estava per sobre aquell any?
+**Per què funciona:** la pregunta posa a prova una idea habitual —que tot plat
+associat amb un país n'és exclusiu— i el seguiment surt naturalment de
+l'explicació sobre l'origen del plat.
 
-**Maia:** Sí, en aquella fila el valor del català és superior al del castellà.
-Aquesta dada sola no permet concloure quina llengua puja o baixa al llarg de
-tota la sèrie.
+**Fonts per revisar:**
+[`el-trinxat.md`](../../../docs/temes/gastronomia/plats/el-trinxat.md)
+— «Per què existeix» i «On es menja».
 
-**Usuari:** Entesos: la comparació d'aquell any no resol la tendència general.
+## Exemples que cal rebutjar
 
-**Maia:** Exacte. Per parlar de tendència cal mirar els valors dels altres anys
-i comprovar que el gràfic i el text descriguin la mateixa sèrie.
+- «Què explica la secció “La cronologia”?» — depèn de l'estructura editorial.
+- «I què més?» — no concreta què vol saber ni reprèn cap punt.
+- «Quines són totes les dates de la fitxa?» — és una ordre d'extracció, no un
+  dubte conversacional.
+- «Llavors ja sé per què la festa es va passar al desembre: per atreure turistes.»
+  — introdueix una causa que la font no documenta.
 
-## Exemple rebutjat
+## Format de sortida
 
-**No:** «Què explica la secció “El relat” de la fitxa “La troballa de
-Meritxell”?»
-
-La pregunta només funciona si l'usuari coneix l'organització interna de la
-fitxa. Cal convertir el dubte en una pregunta que algú faria sobre la llegenda,
-per exemple: «Com explica la llegenda que la imatge acabés a Canillo?»
-
-**No:** «I dos topònims que en surten:»
-
-Això no és una resposta completa. Cal respondre el dubte amb una frase que
-s'entengui per si sola, i donar els topònims només si la persona els ha demanat.
+Quan els exemples hagin passat la revisió, la conversa es desa en una sola
+línia JSONL i només conserva els missatges. Les explicacions editorials i les
+fonts d'aquí serveixen per revisar; no s'exporten a l'entrenament.
