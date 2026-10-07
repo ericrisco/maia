@@ -948,5 +948,20 @@
     "reviewed_units": [
       "La ponència de l’IEC del 2014 documenta buner/-a com a persona que toca la buna, assenyala que té tradició andorrana i distingeix el seu ús de la seva admissió al DIEC2."
     ]
+  },
+  "docs/temes/cultura/llegendes/el-llac-dengolasters.md": {
+    "status": "in_progress",
+    "open_units": [
+      "La versió completa de la llegenda, les seves variants i el nom del poble negat no s’han documentat al corpus.",
+      "La relació històrica entre el llac i l’embassament hidroelèctric, incloent-hi quan i qui el va fer, continua sense font.",
+      "La relació del llac amb les bruixes i el fenomen històric de la bruixeria andorrana no s’han establert amb fonts locals suficients.",
+      "L’etimologia d’Engolasters continua sense confirmació; «engolir els astres» és només una etimologia popular."
+    ],
+    "conversation_ids": [
+      "engolasters-etimologia-popular-no-confirmada-001"
+    ],
+    "reviewed_units": [
+      "«Engolir els astres» circula com a etimologia popular d’Engolasters, però la fitxa no la confirma ni aporta una etimologia alternativa."
+    ]
   }
 }
