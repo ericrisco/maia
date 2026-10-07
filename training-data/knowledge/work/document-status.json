@@ -762,7 +762,7 @@
       "title": "Les arts visuals",
       "type": "article",
       "topic": "temes/cultura/arts-visuals",
-      "status": "in_progress",
+      "status": "complete",
       "unit_count": 25,
       "covered_unit_ids": [
         "docs/temes/cultura/arts-visuals/arts-visuals.md#unit-0001",
@@ -773,11 +773,14 @@
         "docs/temes/cultura/arts-visuals/arts-visuals.md#unit-0007",
         "docs/temes/cultura/arts-visuals/arts-visuals.md#unit-0008",
         "docs/temes/cultura/arts-visuals/arts-visuals.md#unit-0009",
-        "docs/temes/cultura/arts-visuals/arts-visuals.md#unit-0011"
+        "docs/temes/cultura/arts-visuals/arts-visuals.md#unit-0011",
+        "docs/temes/cultura/arts-visuals/arts-visuals.md#unit-0012",
+        "docs/temes/cultura/arts-visuals/arts-visuals.md#unit-0013"
       ],
-      "excluded_unit_count": 1,
-      "open_unit_count": 15,
+      "excluded_unit_count": 14,
+      "open_unit_count": 0,
       "conversation_ids": [
+        "dalí-rotunda-convivencia-dèpoques-001",
         "la-noblesa-del-temps-dali-001"
       ]
     },
