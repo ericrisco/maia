@@ -872,7 +872,7 @@
       "title": "El Roc de les Bruixes",
       "type": "article",
       "topic": "temes/cultura/llegendes",
-      "status": "in_progress",
+      "status": "complete",
       "unit_count": 14,
       "covered_unit_ids": [
         "docs/temes/cultura/llegendes/el-roc-de-les-bruixes.md#unit-0001",
@@ -880,8 +880,8 @@
         "docs/temes/cultura/llegendes/el-roc-de-les-bruixes.md#unit-0003",
         "docs/temes/cultura/llegendes/el-roc-de-les-bruixes.md#unit-0004"
       ],
-      "excluded_unit_count": 0,
-      "open_unit_count": 10,
+      "excluded_unit_count": 10,
+      "open_unit_count": 0,
       "conversation_ids": [
         "roc-bruixes-i-meritxell-geografia-001"
       ]
