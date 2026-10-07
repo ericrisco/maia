@@ -14058,17 +14058,19 @@
         "docs/temes/societat/demografia/qui-compta-com-a-resident.md#unit-0040",
         "docs/temes/societat/demografia/qui-compta-com-a-resident.md#unit-0041",
         "docs/temes/societat/demografia/qui-compta-com-a-resident.md#unit-0042",
-        "docs/temes/societat/demografia/qui-compta-com-a-resident.md#unit-0043"
+        "docs/temes/societat/demografia/qui-compta-com-a-resident.md#unit-0043",
+        "docs/temes/societat/demografia/qui-compta-com-a-resident.md#unit-0053"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 19,
+      "open_unit_count": 18,
       "conversation_ids": [
         "poblacio-per-poble-registrada-vs-estimada-001",
         "residencia-discrepancia-diagrama-i-totals-001",
         "residencia-empadronament-i-concepte-habitual-001",
         "residencia-flux-inicial-permisos-primavera-2026-001",
         "residencia-permisos-fronterers-i-temporals-001",
-        "residencia-registrada-estimada-i-registre-001"
+        "residencia-registrada-estimada-i-registre-001",
+        "residencia-vigencia-metodologia-a001-2026-001"
       ]
     },
     "docs/temes/societat/demografia/setanta-nou-anys-de-padro.md": {
