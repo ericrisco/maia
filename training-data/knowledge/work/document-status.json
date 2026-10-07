@@ -1,7 +1,7 @@
 {
   "docs/temes/institucions/justicia/podies-denunciar-un-consol-pero-no-demandar-lo.md": {
     "status": "in_progress",
-    "conversation_ids": ["competencia-demanda-consol-deute-personal-01", "competencia-consol-penal-versus-civil-01", "competencia-plet-comu-segons-demandant-01", "consols-detencio-danys-comunal-decret-1866-01", "competencia-criminal-consell-politar-divergencia-01", "competencia-responsabilitat-consol-pagament-multa-1891-01", "consuls-immunitat-civil-politar-reforma-1866-01", "justicia-politica-i-tribunals-veheduria-01", "consell-general-part-i-jutge-limit-autor-1904-01", "reclamacio-deute-ofici-recurs-princep-1866-01", "execucio-condemnes-consell-batlles-01"],
+    "conversation_ids": ["competencia-demanda-consol-deute-personal-01", "competencia-consol-penal-versus-civil-01", "competencia-plet-comu-segons-demandant-01", "consols-detencio-danys-comunal-decret-1866-01", "competencia-criminal-consell-politar-divergencia-01", "competencia-responsabilitat-consol-pagament-multa-1891-01", "consuls-immunitat-civil-politar-reforma-1866-01", "justicia-politica-i-tribunals-veheduria-01", "consell-general-part-i-jutge-limit-autor-1904-01", "reclamacio-deute-ofici-recurs-princep-1866-01", "execucio-condemnes-consell-batlles-01", "recurs-plet-quart-parroquia-comissio-01"],
     "reviewed_units": [
       "autorització per demandar autoritats abans i després de la Reforma de 1866, inclòs el recurs al príncep sobirà en cas de denegació inesperada",
       "autoritat que concedeix l'autorització i condicions de venciment i exigibilitat",
@@ -13,13 +13,13 @@
       "cas de 1891 sobre la responsabilitat del cònsol i el pagament de la multa",
       "immunitat civil durant l'any de càrrec segons el Politar i canvi amb la Reforma de 1866",
       "execució de les condemnes del Consell General pels batlles perquè els cossos polítics no manaven la força armada",
+      "instància inicial, apel·lació i funció de les comissions segons l'afer afectés un quart o una parròquia",
       "abast de la justícia política i naturalesa dels tribunals de veheduria",
       "límit que Brutails atribuïa al Consell quan la Vall era part, i dificultats recents del 1904 sense identificar"
     ],
     "open_units": [
       "abast temporal i eventual impugnació del decret de detenció de 1866, que la font no resol",
       "decrets de 1895 i 1900 no incorporats íntegrament i eventuals casos d'ús del recurs al príncep no documentats",
-      "escala de competència per quarts i parròquies, comissions del Consell i apel·lacions",
       "referències a l'execució del cot i del recot atribuïdes a l'estudi d'Anton Picart",
       "conjunt de casos històrics de 1502, 1783, 1788, 1828, 1868 i 1887 i els límits del que permeten concloure"
     ]
