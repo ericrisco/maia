@@ -7,12 +7,15 @@ autor: comunitat Viquipèdia
 publicacio: "ca.wikipedia.org"
 url: https://ca.wikipedia.org/wiki/Josep_Enric_Dallerès
 llicencia: CC BY-SA 4.0
-redistribucio: si, amb atribució
+redistribucio: si
 data_consulta: 2026-09-18
 abast: >
   Confirma que el polític Josep Dallerès i Codina, citat extensament al
   corpus, i el poeta i novel·lista Josep Enric Dallerès són la mateixa
   persona.
+notes: >
+  CC BY-SA 4.0: mantenir l'atribució i compartir les adaptacions sota la
+  mateixa llicència.
 ---
 
 # Viquipèdia — Josep Enric Dallerès
