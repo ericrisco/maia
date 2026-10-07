@@ -11,12 +11,19 @@ Hi ha dos fluxos separats:
 - **Language** conserva llengua contemporània produïda per persones a
   `docs/parla/`. No s'hi redacten respostes artificials per imitar una veu local.
 
-## Fase actual: inventari i cobertura
+## Fase actual: recalibratge de qualitat i auditoria
 
-El calibratge de les preguntes s'ha aprovat amb els exemples de
-`knowledge/review/EXEMPLES.md`. Ara s'inventaria tot `docs/temes/` i es reprèn la
-producció tema a tema. Els exemples són mostres inicials, no una declaració de
-cobertura exhaustiva.
+El calibratge anterior queda reobert. Hi ha 54 converses marcades com a
+aprovades per cobertura i procedència, però totes tenen dos o més intercanvis
+d'usuari i assistent. Aquesta regularitat pot fer que el model aprengui un
+qüestionari en lloc d'una conversa. Les preguntes que depenen d'una secció, fila
+o fragment de fitxa tampoc no són exemples vàlids.
+
+Abans de reprendre la cobertura tema a tema, cal revisar aquests registres amb
+els criteris de `knowledge/review/EXEMPLES.md` i validar una mostra variada:
+preguntes d'un sol torn quan resolen el dubte, i seguiments només quan neixen de
+la resposta anterior. Els exemples de la guia són referències de qualitat, no
+una plantilla ni una aprovació automàtica dels registres existents.
 
 Regenera l'inventari amb:
 
@@ -61,9 +68,16 @@ comprova les converses, la procedència, els drets i l'estat de cobertura.
 
 - La pregunta inicial sona plausible fora d'un examen i no delata l'estructura de
   la font.
+- Llegeix només els missatges, com si fossis qui pregunta: queda clar què vol
+  saber la persona i per què ho pregunta?
 - La resposta resol la pregunta abans d'afegir context.
 - Cada seguiment té una causa visible en el torn anterior; si es pot eliminar
   sense perdre res, s'elimina.
+- Si la primera resposta ja resol el dubte, acaba la conversa. No afegeixis un
+  segon intercanvi per fer que tots els registres siguin multitorn.
+- No facis que l'assistent parli de «la fitxa», «el corpus» o «la font
+  consultada» si la persona no ha preguntat per les fonts o pels límits de la
+  informació.
 - El diàleg no força una mateixa plantilla ni repeteix el mateix tipus de
   seguiment en registres consecutius.
 - Cada afirmació factual està sostinguda per la font indicada. Llegendes,

@@ -1,12 +1,20 @@
 # Exemples de conversa: criteri de naturalitat
 
+> Estat: guia de revisió. Els exemples no validen automàticament les 54
+> converses existents. L'estructura i els drets passen un validador; la
+> naturalitat encara requereix lectura humana.
+
 Els registres antics sovint preguntaven pel nom d'una secció, una fila o un
 fragment de fitxa. Això només ho preguntaria algú que estigués fent un examen
 sobre el document. Una conversa de training ha de començar pel dubte que el
 contingut ajuda a resoldre.
 
-Els exemples d'aquí són mostres inicials aprovades per calibrar el criteri. La
-procedència i els límits de les afirmacions són a `provenance.jsonl`.
+Els exemples següents mostren formes possibles de conversa. Les afirmacions
+aprovades en registres concrets tenen la seva procedència i els seus límits a
+`provenance.jsonl`.
+
+Una conversa pot tenir un sol intercanvi. «Multitorn» vol dir conservar els
+seguiments que una persona faria, no afegir seguiments a cada registre.
 
 ## La Dama Blanca i el llop
 
@@ -40,6 +48,30 @@ La baixada és igual a totes les edats? I als joves? I a la gent gran?
 Les primeres preguntes depenen del document o semblen un qüestionari. L'última
 encadena subpreguntes sense deixar que la resposta anterior motivi el torn
 següent.
+
+També cal revisar una conversa que sona plausible però repeteix sempre el mateix
+motlle: pregunta inicial, resposta llarga, pregunta de confirmació i resposta
+que reformula l'anterior. Si el seguiment no demana una aclaració concreta ni
+obre una conseqüència útil, elimina'l.
+
+## Una consulta concreta pot ser d'un sol torn
+
+```json
+{"messages":[{"role":"user","content":"On puc veure alguna obra de Josep Viladomat a Barcelona?"},{"role":"assistant","content":"En pots veure, per exemple, a la plaça de Catalunya (*Dona amb nen i flabiol*), a la Casa de la Ciutat (*Maternitat*) i als jardins de Joan Maragall (*Dos Tritons*)."}]}
+```
+
+**Per què funciona:** parteix d'un pla plausible —voler veure obres a la ciutat—
+i resol la petició en un torn. No cal inventar un seguiment.
+
+## Un seguiment ha de néixer de la resposta
+
+```json
+{"messages":[{"role":"user","content":"Vull veure alguna obra de Josep Viladomat a Barcelona. Quines em recomanes?"},{"role":"assistant","content":"Pots començar per *Dona amb nen i flabiol*, a la plaça de Catalunya; *Maternitat*, a la Casa de la Ciutat; o *Dos Tritons*, als jardins de Joan Maragall."},{"role":"user","content":"I *La Puntaire* també és a Barcelona?"},{"role":"assistant","content":"Sí. *La Puntaire*, del 1972, és al parc de Montjuïc, també a Barcelona."}]}
+```
+
+**Per què funciona:** el seguiment pregunta per una obra concreta després que
+l'assistent n'hagi situat d'altres a Barcelona. Si no hi hagués aquest interès
+nou, la conversa podria acabar després de la primera resposta.
 
 ## Prova final
 

@@ -4,6 +4,8 @@
 que veuria l'usuari. `provenance.jsonl` conserva, en el mateix ordre, les fonts,
 llicències, afirmacions sostingudes, límits i referències de revisió.
 
-Els dos registres inicials són exemples calibrats. No representen cobertura
-exhaustiva ni autoritzen a copiar-ne la forma mecànicament. Consulta
-[`EXEMPLES.md`](EXEMPLES.md) abans de redactar registres nous.
+Hi ha 54 registres marcats com a aprovats per cobertura i procedència. La
+validació actual comprova estructura i drets, però no pot determinar si les
+preguntes sonen humanes. Cal revisar-ne la naturalitat abans de tractar-los com
+a referència de calibratge. Consulta [`EXEMPLES.md`](EXEMPLES.md) per als
+criteris; no copiïs mecànicament cap exemple.
