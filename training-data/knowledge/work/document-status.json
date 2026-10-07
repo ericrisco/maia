@@ -1500,6 +1500,7 @@
         "docs/temes/cultura/museus-i-arxius/museus/els-altres-museus.md#unit-0011",
         "docs/temes/cultura/museus-i-arxius/museus/els-altres-museus.md#unit-0012",
         "docs/temes/cultura/museus-i-arxius/museus/els-altres-museus.md#unit-0013",
+        "docs/temes/cultura/museus-i-arxius/museus/els-altres-museus.md#unit-0016",
         "docs/temes/cultura/museus-i-arxius/museus/els-altres-museus.md#unit-0017",
         "docs/temes/cultura/museus-i-arxius/museus/els-altres-museus.md#unit-0018",
         "docs/temes/cultura/museus-i-arxius/museus/els-altres-museus.md#unit-0019",
@@ -1512,8 +1513,9 @@
         "docs/temes/cultura/museus-i-arxius/museus/els-altres-museus.md#unit-0032"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 25,
+      "open_unit_count": 24,
       "conversation_ids": [
+        "centre-romanic-crist-reproduccio-maquetes-001",
         "centre-romanic-peces-de-diverses-esglesies-001",
         "museu-art-sacre-encamp-peces-001",
         "museu-comic-massana-taller-001",
