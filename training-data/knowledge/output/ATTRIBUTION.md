@@ -19,3 +19,4 @@ el BOPA no implica cap suport al projecte. No s'atribueix una llicència global 
 - Adaptació de l'article «Església de Santa Coloma (Andorra la Vella)» de la Viquipèdia en català, llicència CC BY-SA 4.0. Cal conservar l'atribució i compartir l'adaptació amb la mateixa llicència.
 - Adaptació de l'article «Estripagecs» de la Viquipèdia en català, CC BY-SA 4.0. Cal conservar l'atribució i compartir l'adaptació amb la mateixa llicència.
 - Adaptació de l'article «Sergi Mas Balaguer» de la Viquipèdia en català, llicència CC BY-SA 4.0. Cal conservar l'atribució i compartir l'adaptació amb la mateixa llicència.
+- Adaptació de «Festes de l'ossa a Andorra», Viquipèdia en català, llicència CC BY-SA 4.0. Cal conservar l'atribució i compartir igual.
