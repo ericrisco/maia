@@ -54,10 +54,11 @@ realment aportaria al xat. Combina preguntes directes, peticions pràctiques,
 dubtes de significat, comprovacions i comparacions. No repeteixis una plantilla
 amb els noms canviats.
 
-No inventis una biografia, una experiència, una observació o una conversa
-prèvia per fer la pregunta més viva. «On i quan puc veure una festa de l'ossa?»
-ja té una intenció clara; no cal atribuir a l'usuari un viatge que no ha explicat.
-No parlis de «la fitxa», «el corpus», «aquesta secció» ni «la fila».
+Un escenari hipotètic i corrent («Si vull veure una festa de l'ossa, quan hi
+he d'anar?») pot donar una raó natural per preguntar. No inventis una biografia,
+una experiència passada, una observació concreta o una conversa prèvia en nom
+de l'usuari només per fer viva la pregunta. No parlis de «la fitxa», «el
+corpus», «aquesta secció» ni «la fila».
 
 ### 3. Fes que cada seguiment continuï el fil
 
