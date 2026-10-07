@@ -11,6 +11,7 @@ el BOPA no implica cap suport al projecte. No s'atribueix una llicència global 
 
 ## Fonts dels registres exportats
 
+- Adaptació de l'article «Estripagecs» de la Viquipèdia en català, CC BY-SA 4.0. Cal conservar l'atribució i compartir l'adaptació amb la mateixa llicència.
 - Adaptació de «El trinxat», amb dades de la Viquipèdia en català, llicència CC BY-SA 4.0. S'indiquen les fonts i es conserva la condició de compartir igual per a aquesta adaptació.
 - Adaptació de «Festes de l'ossa a Andorra», Viquipèdia en català, llicència CC BY-SA 4.0. S'indica la font i es conserva la condició de compartir igual per a aquesta adaptació.
 - Adaptació de «L'escudella de Sant Antoni», amb dades de la Viquipèdia en català, llicència CC BY-SA 4.0. S'indiquen les fonts i es conserva la condició de compartir igual per a aquesta adaptació.

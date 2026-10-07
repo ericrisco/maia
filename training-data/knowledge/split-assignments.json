@@ -1,6 +1,7 @@
 {
   "description": "Assigna cada font de contingut a un únic split; exemples amb fonts relacionades comparteixen split.",
   "groups": {
+    "docs/temes/cultura/arquitectura/els-estripagecs.md": "train",
     "docs/temes/costums/religiositat/el-registre-dentitats-religioses.md": "train",
     "docs/temes/gastronomia/plats/el-trinxat.md": "train",
     "docs/temes/gastronomia/plats/lescudella-de-sant-antoni.md": "train",

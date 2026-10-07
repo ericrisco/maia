@@ -2,13 +2,13 @@
 
 Generat per `scripts/export_approved.py`. Cada línia dels JSONL conté una conversa amb `messages`; no hi ha camps interns.
 
-- Converses aprovades exportades: **31**.
-- Fitxes `docs/temes/` representades: **9**.
+- Converses aprovades exportades: **32**.
+- Fitxes `docs/temes/` representades: **10**.
 - Converses de revisió no exportables: **0**.
 
 | Split | Converses |
 |---|---:|
-| `train` | 31 |
+| `train` | 32 |
 | `validation` | 0 |
 | `test` | 0 |
 
@@ -20,6 +20,7 @@ Generat per `scripts/export_approved.py`. Cada línia dels JSONL conté una conv
 - `docs/temes/costums/religiositat/el-registre-dentitats-religioses.md` → `train`
 - `docs/temes/costums/religiositat/les-religions-dandorra-avui.md` → `train`
 - `docs/temes/costums/religiositat/religiositat.md` → `train`
+- `docs/temes/cultura/arquitectura/els-estripagecs.md` → `train`
 - `docs/temes/gastronomia/plats/el-trinxat.md` → `train`
 - `docs/temes/gastronomia/plats/lescudella-de-sant-antoni.md` → `train`
 - `docs/temes/historia/pareatge/el-pareatge.md` → `train`
