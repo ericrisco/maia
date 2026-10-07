@@ -13,6 +13,9 @@
     "docs/temes/societat/sanitat/de-que-es-mor-a-andorra.md": "validation",
     "docs/temes/societat/educacio/lescola-andorrana-ha-passat-al-davant.md": "train",
     "docs/raw/estadistica-api/educacio/ensenyament-per-l-api-d-estadistica.md": "train",
-    "docs/raw/estadistica-api/educacio/educacio-api-2026-09-18.tsv": "train"
+    "docs/raw/estadistica-api/educacio/educacio-api-2026-09-18.tsv": "train",
+    "docs/temes/societat/habitatge/un-de-cada-tres-el-compra-una-societat.md": "test",
+    "docs/raw/estadistica-api/turisme-vehicles-energia/turisme-vehicles-energia-api-2026-09-18.tsv": "test",
+    "docs/raw/estadistica-api/turisme-vehicles-energia/turisme-vehicles-i-energia-per-l-api-d-estadistica.md": "test"
   }
 }
