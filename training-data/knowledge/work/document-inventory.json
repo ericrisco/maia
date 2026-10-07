@@ -9,7 +9,7 @@
   "file_count": 1477,
   "article_count": 1348,
   "parse_error_count": 0,
-  "conversation_count": 86,
+  "conversation_count": 87,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 0,
@@ -224,7 +224,7 @@
       "topic": "temes/costums/danses",
       "source": "viquipedia-ca",
       "status": "in_progress",
-      "conversation_count": 9,
+      "conversation_count": 10,
       "conversation_ids": [
         "marratxa-barrets-cintes-simbolisme-001",
         "marratxa-data-tradicio-i-pareatge-001",
@@ -234,7 +234,8 @@
         "marratxa-passa-cerda-mateix-dia-001",
         "marratxa-recipient-i-nom-001",
         "marratxa-significat-pareatges-001",
-        "marratxa-simbolisme-parroquies-001"
+        "marratxa-simbolisme-parroquies-001",
+        "marratxa-vestuari-noies-buit-001"
       ],
       "reviewed_units": [
         "Balladors i simbolisme: dos dansaires representen els coprínceps; tres noies representen les sis antigues parròquies. La font no explica la correspondència numèrica.",
@@ -245,14 +246,15 @@
         "Estat de la data de 1278: és una atribució tradicional, no una data acreditada per documentació coneguda; la primera menció documental i l'origen de l'atribució són desconeguts.",
         "Vestuari i simbolisme: els dos dansaires que representen els coprínceps duen barrets de copa alta amb cintes dels colors de la bandera. No s'atribueix un significat separat a les cintes ni una relació amb les parròquies.",
         "Relació amb la Passa i el ball del Cerdà: els tres actes s'associen al dilluns de la festa major; no hi ha ordre ni hora exacta documentats per a la Marratxa.",
-        "Significat segons la tradició: la primera ballada hauria celebrat la fi d'un episodi difícil entre senyors feudals i la dansa simbolitza la gènesi del Coprincipat; no es tracta com a fet històric verificat."
+        "Significat segons la tradició: la primera ballada hauria celebrat la fi d'un episodi difícil entre senyors feudals i la dansa simbolitza la gènesi del Coprincipat; no es tracta com a fet històric verificat.",
+        "Buit de vestuari: les fonts descriuen els barrets dels dos dansaires, però no les peces que duen les tres noies ni el seu vestuari complet; l'Esbart Laurèdia és una font potencial no consultada."
       ],
       "open_units": [
         "Verificar amb font primària les dates de la primera ballada i del Pareatge; la discrepància secundària continua oberta.",
         "Confirmar hora i ordre dins del programa actual; la font consultada només dona el dia de la setmana.",
         "Verificar amb font primària la primera documentació de la dansa i quan s'hi atribueix per primer cop l'origen del 1278.",
-        "La font no descriu el vestuari de les tres noies ni la història de la indumentària de la dansa.",
-        "Verificar amb programa o font primària l'ordre dels actes i l'hora de la Marratxa; la font consultada només els situa el mateix dilluns."
+        "Verificar amb programa o font primària l'ordre dels actes i l'hora de la Marratxa; la font consultada només els situa el mateix dilluns.",
+        "Consultar el recull Els balls d'Andorra o una font primària per descriure el vestuari de les noies i la història de la indumentària."
       ],
       "completion_note": "",
       "reason": "",
