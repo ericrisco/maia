@@ -9,7 +9,7 @@
   "file_count": 1477,
   "article_count": 1348,
   "parse_error_count": 0,
-  "conversation_count": 117,
+  "conversation_count": 118,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 0,
@@ -798,13 +798,15 @@
       "topic": "temes/cultura/arquitectura",
       "source": "wikipedia-estripagecs",
       "status": "in_progress",
-      "conversation_count": 1,
+      "conversation_count": 2,
       "conversation_ids": [
+        "estripagecs-distribucio-origen-obert-001",
         "estripagecs-funcio-i-etimologia-001"
       ],
       "reviewed_units": [
         "Definició dels estripagecs com a barrots metàl·lics amb punxes laterals instal·lats a finestres de cases i bordes.",
-        "Etimologia vinculada a l'efecte d'esquinçar els gecs dels lladres que passessin el braç entre els barrots."
+        "Etimologia vinculada a l'efecte d'esquinçar els gecs dels lladres que passessin el braç entre els barrots.",
+        "La font en situa en diverses zones pirinenques i catalanes, però no permet deduir-ne l'origen ni la distribució interna andorrana."
       ],
       "open_units": [
         "Revisar sinònims només amb fonts verificables; la llista de la font està marcada com a citació necessària.",
