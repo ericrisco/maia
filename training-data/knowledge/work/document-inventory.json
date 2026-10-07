@@ -480,9 +480,10 @@
       "topic": "temes/costums/sant-antoni",
       "source": "premsa-andorrana",
       "status": "in_progress",
-      "conversation_count": 5,
+      "conversation_count": 6,
       "conversation_ids": [
         "benediccio-animals-sant-antoni-estat-actual-01",
+        "escudella-andorra-la-vella-racions-confraria-01",
         "escudella-sant-antoni-acte-vianda-01",
         "origen-ramader-sant-antoni-01",
         "recuperacions-escudella-sant-antoni-per-parroquia-01",
@@ -7248,8 +7249,9 @@
       "topic": "temes/gastronomia/plats",
       "source": "viquipedia-ca",
       "status": "in_progress",
-      "conversation_count": 4,
+      "conversation_count": 5,
       "conversation_ids": [
+        "escudella-andorra-la-vella-racions-confraria-01",
         "escudella-nacional-oficialitat-01",
         "escudella-sant-antoni-origen-tons-01",
         "ingredients-escudella-andorrana-01",
@@ -7262,10 +7264,12 @@
         "els Tons són els Antons que celebren el sant i els escudellaires cuinen i reparteixen el menjar",
         "la font no dona els noms dels fundadors ni la data exacta de recuperació",
         "ingredients generals de l'escudella i ús a l'hivern i en dies assenyalats com Nadal",
-        "la font recull el nom habitual plat nacional però no acredita una declaració oficial"
+        "la font recull el nom habitual plat nacional però no acredita una declaració oficial",
+        "no consta el nombre de racions d'Andorra la Vella i no s'hi trasllada la dada de Canillo",
+        "consta que el grup va formar una confraria, però no se'n coneix el nom ni els estatuts"
       ],
       "open_units": [
-        "estatuts de la confraria, nombre de racions i escudelles d'altres parròquies"
+        "detall de com es prepara la celebració a cada parròquia"
       ],
       "completion_note": "",
       "reason": ""
