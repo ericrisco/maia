@@ -29,6 +29,9 @@
     "docs/raw/estadistica-api/pobresa/pobresa-desigualtat-i-llars-per-l-api-d-estadistica.md": "train",
     "docs/raw/estadistica-api/pobresa/pobresa-i-llars-api-2026-09-18.tsv": "train",
     "docs/raw/estadistica-api/hipoteques/hipoteques-concedides-per-l-api-d-estadistica.md": "train",
-    "docs/raw/estadistica-api/hipoteques/hipoteques-api-2026-09-18.tsv": "train"
+    "docs/raw/estadistica-api/hipoteques/hipoteques-api-2026-09-18.tsv": "train",
+    "docs/temes/economia/comerc/amb-qui-comercia-andorra.md": "train",
+    "docs/raw/estadistica-api/les-que-no-responien/les-divisions-que-semblava-que-l-api-no-servia.md": "train",
+    "docs/raw/estadistica-api/les-que-no-responien/divisions-lentes-2026-09-18.tsv": "train"
   }
 }
