@@ -1583,6 +1583,9 @@
         "docs/temes/cultura/museus-i-arxius/museus/les-cases-museu.md#unit-0002",
         "docs/temes/cultura/museus-i-arxius/museus/les-cases-museu.md#unit-0004",
         "docs/temes/cultura/museus-i-arxius/museus/les-cases-museu.md#unit-0005",
+        "docs/temes/cultura/museus-i-arxius/museus/les-cases-museu.md#unit-0006",
+        "docs/temes/cultura/museus-i-arxius/museus/les-cases-museu.md#unit-0007",
+        "docs/temes/cultura/museus-i-arxius/museus/les-cases-museu.md#unit-0008",
         "docs/temes/cultura/museus-i-arxius/museus/les-cases-museu.md#unit-0009",
         "docs/temes/cultura/museus-i-arxius/museus/les-cases-museu.md#unit-0012",
         "docs/temes/cultura/museus-i-arxius/museus/les-cases-museu.md#unit-0013",
@@ -1594,12 +1597,13 @@
         "docs/temes/cultura/museus-i-arxius/museus/les-cases-museu.md#unit-0019"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 23,
+      "open_unit_count": 20,
       "conversation_ids": [
         "cal-pal-rostres-caps-biga-001",
         "cal-pal-us-cultural-i-ampliacions-001",
         "casa-cristo-darreres-propietaries-001",
         "casa-cristo-vida-i-edifici-001",
+        "casa-rull-reformes-i-incendi-001",
         "casa-rull-riquesa-i-vida-domestica-001"
       ]
     },
