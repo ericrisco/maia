@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 7,
+    "in_progress": 8,
     "no_natural_question": 0,
-    "not_started": 1341
+    "not_started": 1340
   },
   "documents": [
     {
@@ -1187,11 +1187,21 @@
       "type": "article",
       "topic": "temes/cultura/llegendes",
       "source": "wikipedia-dama-blanca",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "dama-blanca-llegenda-001"
+      ],
+      "reviewed_units": [
+        "La llegenda presenta la Dama Blanca com a esperit protector d'Andorra, vinculada a un llinatge noble dels passos fronterers.",
+        "Un bisbe d'Urgell la troba prop d'Aubinyà, jura no tornar-hi, trenca el jurament, torna a trobar-la i desapareix.",
+        "Després apareix un llop negre que duu l'ànima del bisbe; un síndic el caça i embogeix pels malsons; la llegenda no identifica el bisbe ni el síndic."
+      ],
+      "open_units": [
+        "Les hipòtesis d'origen de la Dama Blanca no estan resoltes.",
+        "La cronologia documental de la llegenda i la relació exacta entre la Dama Blanca i els gegants de Sant Julià no estan establertes.",
+        "La forma oficial del topònim Auvinyà i el seu canvi de 2011 encara no tenen conversa activa."
+      ],
       "completion_note": "",
       "reason": ""
     },
