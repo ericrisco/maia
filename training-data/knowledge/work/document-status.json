@@ -102,12 +102,16 @@
         "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0010",
         "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0011",
         "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0012",
-        "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0013"
+        "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0013",
+        "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0036",
+        "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0037",
+        "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0038"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 56,
+      "open_unit_count": 53,
       "conversation_ids": [
-        "ball-ossa-encamp-ritus-pas-001"
+        "ball-ossa-encamp-ritus-pas-001",
+        "ultima-ossa-cronologia-discrepant-001"
       ]
     },
     "docs/temes/costums/danses/el-ball-del-cerda.md": {
@@ -199,6 +203,8 @@
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0010",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0012",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0013",
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0016",
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0018",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0022",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0023",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0024",
@@ -209,13 +215,14 @@
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0031"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 41,
+      "open_unit_count": 39,
       "conversation_ids": [
         "festa-ossa-farsa-i-personatges-001",
         "festes-ossa-calendari-hibernacio-001",
         "festes-ossa-distribucio-i-pervivencia-001",
         "festes-ossa-que-perviuen-calendari-001",
         "festes-ossa-referencia-mes-antiga-001",
+        "ultima-ossa-cronologia-discrepant-001",
         "ultima-ossa-final-i-sang-001",
         "ultima-ossa-mascara-ordino-001"
       ]
