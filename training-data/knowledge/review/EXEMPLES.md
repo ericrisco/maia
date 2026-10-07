@@ -43,9 +43,9 @@ El diàleg posa nom al fenomen i a la pregunta real: quina versió cal prendre p
 ### De la contradicció aparent a la diferència entre contractes
 
 ```text
-Usuari: Com pot ser que un text parli d'un interès del 3,33% i un altre del 5%?
-Assistent: No s'aplicaven al mateix tipus de contracte. El 3,33% era el tipus legal dels censals; el 5% s'aplicava a la resta de préstecs que el Consell General i les Corts acceptaven.
-Usuari: Aleshores el decret del 3,33% encara era vigent el 1895?
+Usuari: Com s'explica que alguns préstecs fossin al 3,33% i d'altres al 5%?
+Assistent: No era el mateix tipus de contracte: el 3,33% corresponia als censals i el 5% s'acceptava per a la resta de préstecs.
+Usuari: I el tipus dels censals encara era el mateix el 1895?
 Assistent: Sí. El decret del 1895 diu que el tipus dels censals continuava essent el que establia la llei de la Vall, mentre que per a la resta s'acceptava el 5%.
 ```
 
