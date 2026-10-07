@@ -850,11 +850,14 @@
         "docs/temes/cultura/llegendes/el-minairo.md#unit-0005",
         "docs/temes/cultura/llegendes/el-minairo.md#unit-0006",
         "docs/temes/cultura/llegendes/el-minairo.md#unit-0009",
-        "docs/temes/cultura/llegendes/el-minairo.md#unit-0010"
+        "docs/temes/cultura/llegendes/el-minairo.md#unit-0010",
+        "docs/temes/cultura/llegendes/el-minairo.md#unit-0011",
+        "docs/temes/cultura/llegendes/el-minairo.md#unit-0012"
       ],
       "excluded_unit_count": 12,
-      "open_unit_count": 18,
+      "open_unit_count": 16,
       "conversation_ids": [
+        "minairons-origen-de-les-tarteres-001",
         "minairons-origen-i-feina-001"
       ]
     },
