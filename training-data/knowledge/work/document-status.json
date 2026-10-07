@@ -190,6 +190,10 @@
       "unit_count": 59,
       "covered_unit_ids": [
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0001",
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0004",
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0005",
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0006",
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0007",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0022",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0023",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0024",
@@ -200,8 +204,9 @@
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0031"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 50,
+      "open_unit_count": 46,
       "conversation_ids": [
+        "festa-ossa-farsa-i-personatges-001",
         "festes-ossa-calendari-hibernacio-001",
         "festes-ossa-distribucio-i-pervivencia-001",
         "festes-ossa-que-perviuen-calendari-001"
