@@ -743,10 +743,12 @@
       "Altres oficis d’artesania andorrana només parcialment documentats."
     ],
     "conversation_ids": [
-      "paraires-teixidors-i-pagesia-001"
+      "paraires-teixidors-i-pagesia-001",
+      "fabrica-mantes-escaldes-tancament-001"
     ],
     "reviewed_units": [
-      "La confraria mostra organització de paraires i teixidors, però no prova una classe social separada de la pagesia; el paraire prepara la llana i el teixidor la teixeix."
+      "La confraria mostra organització de paraires i teixidors, però no prova una classe social separada de la pagesia; el paraire prepara la llana i el teixidor la teixeix.",
+      "La fàbrica de mantes d’Escaldes va operar aproximadament del 1920 als anys quaranta; la font n’atribueix el tancament a importacions més barates i a l’encariment de la matèria primera."
     ]
   }
 }
