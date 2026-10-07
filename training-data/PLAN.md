@@ -43,7 +43,7 @@ Les mostres d'`EXEMPLES.md` no són dades ni compten com a cobertura. `conversat
 4. Respondre primer el dubte. Fer servir el to d'un assistent informat, no el d'una enciclopèdia ni el d'un extractor.
 5. Afegir un seguiment només si neix de la resposta anterior: una conseqüència, una precisió, una sorpresa o una decisió pràctica.
 6. Aturar-se quan la persona ja en sap prou. La conversa pot tenir un intercanvi; si hi ha continuació natural, normalment en tindrà dos o tres.
-7. Revisar les afirmacions contra les fonts i anotar-ne la procedència, l'estat dels drets i els límits coneguts.
+7. Revisar les afirmacions contra les fonts i anotar-ne la procedència, l'estat dels drets de cada font i els límits coneguts.
 
 No cal que cada conversa cobreixi tota la fitxa. Cal que cobreixi informació útil sense convertir cada dada en una pregunta separada. Les relacions entre fitxes només s'utilitzen quan una mateixa persona podria raonablement necessitar-les juntes.
 
@@ -65,6 +65,7 @@ Abans d'aprovar una conversa, comprovar:
 - Les llegendes, les interpretacions, les fonts secundàries i els fets documentats queden distingits.
 - Cap resposta transforma un buit de la font en una afirmació sobre el món.
 - Cada dada factual es pot rastrejar a la font anotada a `provenance.jsonl`.
+- Si una conversa combina fonts, els drets s'anoten per font; no es resumeixen en un únic estat ambigu.
 
 Rebutjar o reescriure si apareix alguna d'aquestes formes sense motiu real: «Què explica la secció…?», «Què indica aquesta fila?», «Enumera…», «Digues dos topònims», preguntes independents encadenades o preguntes que només existeixen per buidar una llista.
 
