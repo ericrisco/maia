@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 62,
+    "in_progress": 61,
     "no_natural_question": 0,
-    "not_started": 1286
+    "not_started": 1287
   },
   "documents": [
     {
@@ -1620,11 +1620,9 @@
       "type": "article",
       "topic": "temes/cultura/llegendes",
       "source": "viquipedia-ca",
-      "status": "in_progress",
-      "conversation_count": 1,
-      "conversation_ids": [
-        "cultura-popular-jocs-cancons-testimoni-oral-001"
-      ],
+      "status": "not_started",
+      "conversation_count": 0,
+      "conversation_ids": [],
       "reviewed_units": [],
       "open_units": [],
       "completion_note": "",
