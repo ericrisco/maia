@@ -1559,13 +1559,18 @@
         "docs/temes/cultura/museus-i-arxius/museus/la-farga-rosell.md#unit-0008",
         "docs/temes/cultura/museus-i-arxius/museus/la-farga-rosell.md#unit-0009",
         "docs/temes/cultura/museus-i-arxius/museus/la-farga-rosell.md#unit-0010",
-        "docs/temes/cultura/museus-i-arxius/museus/la-farga-rosell.md#unit-0011"
+        "docs/temes/cultura/museus-i-arxius/museus/la-farga-rosell.md#unit-0011",
+        "docs/temes/cultura/museus-i-arxius/museus/la-farga-rosell.md#unit-0012",
+        "docs/temes/cultura/museus-i-arxius/museus/la-farga-rosell.md#unit-0014",
+        "docs/temes/cultura/museus-i-arxius/museus/la-farga-rosell.md#unit-0015",
+        "docs/temes/cultura/museus-i-arxius/museus/la-farga-rosell.md#unit-0017"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 20,
+      "open_unit_count": 16,
       "conversation_ids": [
         "farga-rosell-construccio-i-tancament-001",
-        "farga-rosell-proces-i-demostracio-001"
+        "farga-rosell-proces-i-demostracio-001",
+        "ruta-ferro-parades-i-abast-001"
       ]
     },
     "docs/temes/cultura/museus-i-arxius/museus/les-cases-museu.md": {
