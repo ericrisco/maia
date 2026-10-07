@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 12,
+    "in_progress": 15,
     "no_natural_question": 0,
-    "not_started": 1336
+    "not_started": 1333
   },
   "documents": [
     {
@@ -184,9 +184,11 @@
       "type": "article",
       "topic": "temes/costums/danses",
       "source": "premsa-andorrana",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "passa-cercavila-majors-fadrins-01"
+      ],
       "reviewed_units": [],
       "open_units": [],
       "completion_note": "",
@@ -226,9 +228,11 @@
       "type": "article",
       "topic": "temes/costums/danses",
       "source": "viquipedia-ca",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "passa-cercavila-majors-fadrins-01"
+      ],
       "reviewed_units": [],
       "open_units": [],
       "completion_note": "",
@@ -491,11 +495,21 @@
       "type": "article",
       "topic": "temes/costums/ritus-de-pas",
       "source": "premsa-andorrana",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "passa-cercavila-majors-fadrins-01"
+      ],
+      "reviewed_units": [
+        "La Passa és una cercavila, diferenciada dels balls del Cerdà i la Marratxa; parelles que es casen aquell any al davant i les altres ordenades per edat.",
+        "L’abast conegut de “majors fadrins” i els límits sobre funcions i formació de parelles."
+      ],
+      "open_units": [
+        "Quan se celebra dins la festa major i el calendari exacte anual.",
+        "Des de quan existeix i si és una tradició continuada o recuperada.",
+        "Fonts primàries o etnogràfiques sobre música, formació de parelles i pràctiques a altres parròquies.",
+        "Verificar la grafia Passa amb una font normativa andorrana."
+      ],
       "completion_note": "",
       "reason": ""
     },

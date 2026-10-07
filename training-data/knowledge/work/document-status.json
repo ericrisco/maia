@@ -267,5 +267,21 @@
       "Localitzar i llegir l’acta del Consell General del 24 d’octubre de 1873.",
       "Incendi del santuari el 1972, reconstrucció i rèplica; relació eventual entre el 8 de setembre i el Pareatge, sense font que la demostri."
     ]
+  },
+  "docs/temes/costums/ritus-de-pas/la-passa.md": {
+    "status": "in_progress",
+    "conversation_ids": [
+      "passa-cercavila-majors-fadrins-01"
+    ],
+    "reviewed_units": [
+      "La Passa és una cercavila, diferenciada dels balls del Cerdà i la Marratxa; parelles que es casen aquell any al davant i les altres ordenades per edat.",
+      "L’abast conegut de “majors fadrins” i els límits sobre funcions i formació de parelles."
+    ],
+    "open_units": [
+      "Quan se celebra dins la festa major i el calendari exacte anual.",
+      "Des de quan existeix i si és una tradició continuada o recuperada.",
+      "Fonts primàries o etnogràfiques sobre música, formació de parelles i pràctiques a altres parròquies.",
+      "Verificar la grafia Passa amb una font normativa andorrana."
+    ]
   }
 }
