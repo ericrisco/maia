@@ -426,12 +426,14 @@
       "topic": "temes/costums/meritxell",
       "source": "premsa-andorrana",
       "status": "in_progress",
-      "conversation_count": 1,
+      "conversation_count": 2,
       "conversation_ids": [
+        "meritxell-festa-nacional-i-acta-1873-001",
         "meritxell-incendi-i-replica-001"
       ],
       "reviewed_units": [
-        "Incendi de 1972: pèrdua de la talla del segle XII; la imatge actual és una rèplica de Sergi Mas i el santuari de Bofill es va inaugurar el 1976."
+        "Incendi de 1972: pèrdua de la talla del segle XII; la imatge actual és una rèplica de Sergi Mas i el santuari de Bofill es va inaugurar el 1976.",
+        "Festa nacional el 8 de setembre; declaració de 1873 reportada per premsa, amb l’acta original absent i la dada sense verificació primària."
       ],
       "open_units": [
         "Localitzar i llegir l’acta del Consell General del 24 d’octubre de 1873.",
