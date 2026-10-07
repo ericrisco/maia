@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 14,
+    "in_progress": 15,
     "no_natural_question": 0,
-    "not_started": 1334
+    "not_started": 1333
   },
   "documents": [
     {
@@ -212,10 +212,15 @@
       "type": "article",
       "topic": "temes/costums/danses",
       "source": "canturri-costumari-amades-1994",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "amades-catorze-balls-i-evidencia-local-01"
+      ],
+      "reviewed_units": [
+        "Amades recull catorze balls com a autòctons, però la presència al Costumari no prova que es ballessin a Andorra",
+        "Canturri destaca les falles de Sant Joan, l’ossa d’Encamp i el ball del porrer com a descripcions que només podria fer qui les hagués vist"
+      ],
       "completion_note": "",
       "reason": ""
     },

@@ -42,6 +42,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - La fitxa del corpus «El ball del Cerdà» atribueix el lloc i l’hora a «premsa andorrana», sense identificar el mitjà, l’article, la data ni l’URL.
 - La fitxa «El ball del Cerdà» cita una font secundària no identificada; «La marratxa» recull dades atribuïdes a Viquipèdia en català, CC BY-SA 4.0, amb atribució i compartir igual.
 - La fitxa «El contrapàs» atribueix la participació, la descripció coreogràfica i el calendari a «premsa andorrana», sense identificar el mitjà, l’article, la data ni l’URL.
+- Pere Canturri i Montanya, «Andorra en el Costumari català de Joan Amades», 7a Diada Andorrana a la XXVI Universitat Catalana d’Estiu, 1994, p. 33–39.
 - Pere Canturri i Montanya, «Usos i costums d’Andorra», 15a Diada Andorrana a la XXXIV Universitat Catalana d’Estiu (2002), dins Una història d’Andorra, temàtica, p. 209 i següents.
 - Premsa andorrana; la fitxa de font no identifica el diari, l’article, la data ni l’URL de la publicació concreta.
 - Viquipèdia en català, dades sobre els dansaires i la simbologia de la Marratxa; llicència CC BY-SA 4.0.
@@ -62,4 +63,5 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - Obra impresa de 1904 en domini públic; Gallica permet reutilització no comercial gratuïta amb atribució. L'elegibilitat del destí d'entrenament no consta resolta a la fitxa de font.
 - Obra impresa de 1904 en domini públic; Gallica permet reutilització no comercial gratuïta amb atribució. L’elegibilitat del destí d’entrenament no consta resolta a la fitxa de font.
 - Publicació acadèmica en accés obert; la fitxa de font registra redistribució pendent. L’elegibilitat del destí d’entrenament no consta resolta.
+- Publicació acadèmica en accés obert; la fitxa de font registra redistribució pendent. S’atribueix l’anàlisi a Canturri i no es tracta l’accés obert com a permís de redistribució.
 - Viquipèdia: CC BY-SA 4.0, amb atribució i compartir igual. La tesi subjacent està identificada però no consultada; la resposta atribueix explícitament la interpretació i no la presenta com a consens.
