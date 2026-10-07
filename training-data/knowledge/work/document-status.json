@@ -14018,7 +14018,7 @@
       "title": "Qui compta com a resident",
       "type": "article",
       "topic": "temes/societat/demografia",
-      "status": "in_progress",
+      "status": "complete",
       "unit_count": 57,
       "covered_unit_ids": [
         "docs/temes/societat/demografia/qui-compta-com-a-resident.md#unit-0001",
@@ -14071,8 +14071,8 @@
         "docs/temes/societat/demografia/qui-compta-com-a-resident.md#unit-0056",
         "docs/temes/societat/demografia/qui-compta-com-a-resident.md#unit-0057"
       ],
-      "excluded_unit_count": 0,
-      "open_unit_count": 8,
+      "excluded_unit_count": 8,
+      "open_unit_count": 0,
       "conversation_ids": [
         "pla-estadistica-residencia-i-registre-001",
         "poblacio-per-poble-registrada-vs-estimada-001",
