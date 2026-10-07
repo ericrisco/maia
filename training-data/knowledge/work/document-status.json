@@ -48,5 +48,14 @@
       "Instructa de 1740: contractes i darreres voluntats al batlle; experts jurats per determinar el costum local",
       "Instructa de 1740: permisos de pesca i caça, camins i boscos al comú; servituds al Consell"
     ]
+  },
+  "docs/temes/institucions/justicia/si-dos-consellers-son-parents-desapareix-una-instancia.md": {
+    "status": "in_progress",
+    "reviewed_units": [
+      "quòrum de meitat més un",
+      "parentiu i supressió d’un grau sense substitució",
+      "efecte sobre el nombre d’instàncies",
+      "incertesa sobre qui declara la impossibilitat"
+    ]
   }
 }
