@@ -535,5 +535,21 @@
     "reviewed_units": [
       "Una guia dona quatre hores i quinze minuts amb mula entre Soldeu i Andorra la Vella; les guies són útils per als trajectes, però les descripcions locals exigeixen contrast."
     ]
+  },
+  "docs/temes/cultura/andorra-vista-de-fora/lestafa-dandorra.md": {
+    "status": "in_progress",
+    "open_units": [
+      "Visionat directe del documental i verificació del contingut complet.",
+      "Resposta oficial d’Amazon sobre la disponibilitat i la retirada del cercador.",
+      "Resposta institucional andorrana i possibles accions legals, sense resultat documentat.",
+      "Altres episodis de corrupció que el documental tracta però la fitxa no enumera.",
+      "Contrast independent de la composició de veus i dels arguments de les dues parts."
+    ],
+    "conversation_ids": [
+      "andorra-hustle-retirada-i-censura-001"
+    ],
+    "reviewed_units": [
+      "La retirada del cercador és una denúncia inicial del director; després ell l’atribueix a errors tècnics, però no hi ha explicació directa d’Amazon i no es pot concloure censura."
+    ]
   }
 }
