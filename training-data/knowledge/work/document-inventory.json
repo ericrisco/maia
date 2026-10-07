@@ -9,7 +9,7 @@
   "file_count": 1477,
   "article_count": 1348,
   "parse_error_count": 0,
-  "conversation_count": 144,
+  "conversation_count": 145,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 0,
@@ -1164,7 +1164,7 @@
       "topic": "temes/cultura",
       "source": "estadistica-ad",
       "status": "in_progress",
-      "conversation_count": 25,
+      "conversation_count": 26,
       "conversation_ids": [
         "afluencia-museus-monuments-serie-2017-2024-001",
         "habits-culturals-biblioteques-edat-001",
@@ -1190,7 +1190,8 @@
         "museu-mes-visitat-casa-areny-plandolit-001",
         "museus-enquesta-i-afluencia-visites-2019-2024-001",
         "museus-i-monuments-recuperacio-visites-001",
-        "museus-recuperacio-pandemia-no-es-recuperacio-total-001"
+        "museus-recuperacio-pandemia-no-es-recuperacio-total-001",
+        "museus-total-puja-museus-baixen-2023-2024-001"
       ],
       "reviewed_units": [
         "Enquesta 2019 i 2024: cinema, 57,4% → 66,3% (+8,9 punts).",
@@ -1230,7 +1231,8 @@
         "Afluència museus/monuments: museus 149.679 (2019), 58.650 (2020), 87.875 (2022), 94.576 (2023), 92.583 (2024); monuments 72.957, 28.243 i 83.671 el 2019, 2020 i 2024; només monuments superen el valor de 2019 el 2024.",
         "Museus i monuments: total 86.893 (2020), 222.636 (2019), 176.254 (2024); el 2024 és -20,8% del 2019, malgrat duplicar 2020. Museus -38,1%, monuments +14,7%; la font no distingeix residents i turistes.",
         "Casa d'Areny-Plandolit: 15.627 visites el 2024, més que cap museu temàtic; el rang no s'estén a monuments.",
-        "Sèrie d'afluència 2017-2024, sense 2021: totals anuals de museus i monuments; ambdues cauen el 2020, però el 2024 només els monuments superen el 2019."
+        "Sèrie d'afluència 2017-2024, sense 2021: totals anuals de museus i monuments; ambdues cauen el 2020, però el 2024 només els monuments superen el 2019.",
+        "2023-2024: visites de museus 94.576 → 92.583 (-2,1%), monuments 74.300 → 83.671; total combinat 168.876 → 176.254 (+4,4%)."
       ],
       "open_units": [
         "Revisar les altres activitats de l'enquesta i els seus desglossaments per edat, sexe i estudis.",
@@ -1967,20 +1969,22 @@
       "topic": "temes/cultura/museus-i-arxius/museus",
       "source": "wikipedia-museus-andorra",
       "status": "in_progress",
-      "conversation_count": 5,
+      "conversation_count": 6,
       "conversation_ids": [
         "afluencia-museus-monuments-serie-2017-2024-001",
         "museu-mes-visitat-casa-areny-plandolit-001",
         "museus-enquesta-i-afluencia-visites-2019-2024-001",
         "museus-i-monuments-recuperacio-visites-001",
-        "museus-recuperacio-pandemia-no-es-recuperacio-total-001"
+        "museus-recuperacio-pandemia-no-es-recuperacio-total-001",
+        "museus-total-puja-museus-baixen-2023-2024-001"
       ],
       "reviewed_units": [
         "Afluència total de museus: 149.679 visites el 2019 i 92.583 el 2024; el recompte no identifica persones úniques.",
         "Afluència de museus i monuments comparada en 2019, 2020 i 2024, amb dades intermèdies disponibles per a museus 2022-2023; visites sense inferència causal.",
         "Afluència total 2019/2020/2024; evolució diferenciada de museus (-38,1%) i monuments (+14,7%) el 2024 respecte de 2019; sense desglossament residents/turistes.",
         "Casa d'Areny-Plandolit com a museu més visitat el 2024: 15.627; el superlatiu només compara museus.",
-        "Sèries anuals 2017, 2018, 2019, 2020, 2022, 2023 i 2024 de museus i monuments; s'assenyala l'absència de 2021 i la recuperació desigual."
+        "Sèries anuals 2017, 2018, 2019, 2020, 2022, 2023 i 2024 de museus i monuments; s'assenyala l'absència de 2021 i la recuperació desigual.",
+        "El total museus+monuments puja 4,4% el 2024 malgrat la baixada del 2,1% als museus, perquè creixen els monuments; categories diferenciades."
       ],
       "open_units": [
         "Revisar la resta de l'article sobre la xarxa museística, la història institucional i les fitxes dels museus; aquesta dada no cobreix l'article complet."
