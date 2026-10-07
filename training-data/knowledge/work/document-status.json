@@ -602,16 +602,19 @@
       "unit_count": 33,
       "covered_unit_ids": [
         "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0001",
+        "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0002",
         "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0003",
         "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0004",
         "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0012",
         "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0014",
         "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0017",
-        "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0025"
+        "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0025",
+        "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0028"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 26,
+      "open_unit_count": 24,
       "conversation_ids": [
+        "estripagecs-abast-geografic-001",
         "estripagecs-circuit-i-funcio-001"
       ]
     },
