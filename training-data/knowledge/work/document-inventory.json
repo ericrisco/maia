@@ -13666,18 +13666,20 @@
       "topic": "temes/institucions/justicia",
       "source": "brutails-coutume-1904",
       "status": "in_progress",
-      "conversation_count": 1,
+      "conversation_count": 2,
       "conversation_ids": [
-        "organya-tribunals-calendari-fires-001"
+        "organya-tribunals-calendari-fires-001",
+        "termini-apellacio-dies-feriats-1902-001"
       ],
       "reviewed_units": [
-        "La llista de 1902 tancava els tribunals del 27 de novembre al 4 de desembre per la fira d'Organyà; aquest interval no prova la durada de la fira ni l'assistència de persones concretes."
+        "La llista de 1902 tancava els tribunals del 27 de novembre al 4 de desembre per la fira d'Organyà; aquest interval no prova la durada de la fira ni l'assistència de persones concretes.",
+        "Còmput d’un termini d’apel·lació a partir d’un cas del 1902: deu dies de rigor més tres de gràcia, amb dies feriats exclosos; el tram de 12 a 28 de gener és un cas, no un termini universal."
       ],
       "open_units": [
-        "Els altres períodes de tancament de la llista de 1902 i les festes que s'hi esmenten.",
+        "Els altres períodes de tancament de la llista de 1902 i les festes que s’hi esmenten.",
         "La llista més antiga possiblement del segle XVIII, les quatre fires i el topònim Berdu, que no s'identifica.",
         "Quants dies feriats hi havia en total i com es relacionaven amb els diumenges i els períodes mòbils.",
-        "Els efectes dels feriats sobre terminis judicials, apel·lacions, execucions i embargaments.",
+        "Els efectes dels feriats sobre execucions, embargaments i altres terminis judicials.",
         "La vigència de la llista de 1902 i quan va deixar d'aplicar-se; el corpus no té una llista posterior."
       ],
       "completion_note": "",
