@@ -49,12 +49,18 @@
     ]
   },
   "docs/temes/costums/danses/les-festes-de-lossa.md": {
-    "status": "not_started",
+    "status": "in_progress",
     "open_units": [
       "Farsa antiga, personatges, usos de màscares i cronologia de les parròquies; discrepàncies no resoltes de les dates de represa d’Ordino.",
       "Primera referència escrita, emigració dels anys vint i motius de les supervivències locals.",
       "Textos i testimonis d’arxiu, encara no consultats.",
       "Condicions de reutilització de la notícia institucional del Govern; llicència de la Viquipèdia CC BY-SA."
+    ],
+    "conversation_ids": [
+      "festes-ossa-calendari-i-unesco-001"
+    ],
+    "reviewed_units": [
+      "Diferència de calendari entre les dues manifestacions andorranes i la seva inclusió conjunta en l’element patrimonial transnacional de la UNESCO."
     ]
   },
   "docs/temes/costums/calendari-festiu/calendari-festiu.md": {
