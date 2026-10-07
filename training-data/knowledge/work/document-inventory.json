@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 37,
+    "in_progress": 38,
     "no_natural_question": 0,
-    "not_started": 1311
+    "not_started": 1310
   },
   "documents": [
     {
@@ -871,11 +871,21 @@
       "type": "article",
       "topic": "temes/cultura/arquitectura",
       "source": "wikipedia-estripagecs",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "estripagecs-funcio-i-reinterpretacio-ordino-001"
+      ],
+      "reviewed_units": [
+        "Els estripagecs tenen una funció defensiva descrita pel seu nom; Ordino els ha reinterpretat en tòtems a Sorteny i rèpliques als sis cims."
+      ],
+      "open_units": [
+        "Datació i antiguitat dels estripagecs tradicionals no establertes.",
+        "Ferrers o tallers que els fabricaven no identificats.",
+        "Noms alternatius i sinònims locals sense referències verificades.",
+        "Distribució geogràfica dins Andorra no descrita per la font.",
+        "La borda i altres elements de construcció vernacular encara no documentats en aquesta branca."
+      ],
       "completion_note": "",
       "reason": ""
     },

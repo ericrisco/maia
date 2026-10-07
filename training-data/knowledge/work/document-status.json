@@ -566,5 +566,21 @@
     "reviewed_units": [
       "La hipòtesi política sobre la proliferació de capelles no està contrastada; la cronologia de disputes i homenatges és context, no prova causal."
     ]
+  },
+  "docs/temes/cultura/arquitectura/els-estripagecs.md": {
+    "status": "in_progress",
+    "open_units": [
+      "Datació i antiguitat dels estripagecs tradicionals no establertes.",
+      "Ferrers o tallers que els fabricaven no identificats.",
+      "Noms alternatius i sinònims locals sense referències verificades.",
+      "Distribució geogràfica dins Andorra no descrita per la font.",
+      "La borda i altres elements de construcció vernacular encara no documentats en aquesta branca."
+    ],
+    "conversation_ids": [
+      "estripagecs-funcio-i-reinterpretacio-ordino-001"
+    ],
+    "reviewed_units": [
+      "Els estripagecs tenen una funció defensiva descrita pel seu nom; Ordino els ha reinterpretat en tòtems a Sorteny i rèpliques als sis cims."
+    ]
   }
 }
