@@ -1,7 +1,6 @@
 # Maia Language
 
-Branca separada per a català andorrà contemporani autèntic de `docs/parla/`.
-Consulta l'[auditoria per peça](reports/eligibility.md) abans d'incloure res.
-No hi ha exemples de conversa inventats. Els monòlegs i les entrevistes sense
-preguntes transcrites no es converteixen en diàlegs ficticis. Cal revisar
-transcripció, parlant, drets i estructura de cada peça abans d'incloure-la.
+Flux separat per preservar català andorrà contemporani produït per persones.
+Només s'incorporaran fragments amb procedència, drets i fiabilitat de
+transcripció revisats. Els diàlegs han de ser reals; no es creen preguntes per
+convertir monòlegs en converses.

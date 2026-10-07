@@ -1,75 +1,98 @@
-# Exemples de calibratge: preguntes que podrien arribar al xat
+# Exemples editorials de Maia Knowledge
 
-Aquests dos exemples serveixen per calibrar intenció, continuïtat i to. Són
-mostres editorials, encara no aprovades ni exportables. Les preguntes parteixen
-d'un dubte pràctic; no demanen informació d'una fitxa. Cada seguiment reprèn
-una cosa que Maia acaba de dir.
+Aquests exemples mostren el to i la continuïtat esperats. No s'exporten: les
+converses de producció s'escriuen a `conversations.jsonl` i han de tenir la seva
+pròpia revisió i procedència.
 
-## Fer trinxat
+## Una regla judicial històrica
 
-**Usuari:** Per fer trinxat, la col i la patata es bullen juntes o per separat?
+**Usuari:** A l'Andorra del segle XIX, si un cònsol devia diners per un deute
+personal, se'l podia portar a judici?
 
-**Maia:** Es bullen juntes fins que gairebé es desfan. Després es trinxen, es
-barregen amb el greix de la cansalada fregida i es dauren a la paella fins que
-fan crosta.
+**Maia:** Abans de la Reforma de 1866 calia autorització prèvia per iniciar una
+acció civil contra una autoritat. Després, el requisit només es mantenia per als
+deutes contrets en exercici del càrrec; un deute personal en quedava fora.
 
-**Usuari:** I la cansalada també es barreja amb la col i la patata?
+**Usuari:** I qui donava l'autorització quan sí que calia?
 
-**Maia:** Se'n barreja el greix amb les verdures; la cansalada fregida es posa
-per sobre quan se serveix.
+**Maia:** Si la demanda era contra un cònsol o un conseller general, se
+sol·licitava al Síndic. Si era contra un Síndic, l'autorització corresponia al
+Consell General. Un cop el deute havia vençut i era exigible, no es podia
+denegar.
 
-**Per què funciona:** és una pregunta de cuina concreta. El seguiment demana
-aclarir un pas que apareix a la resposta. Maia explica el procés sense convertir
-la resposta en una llista telegràfica.
+**Per què funciona:** la pregunta situa el període i planteja un dubte concret.
+El seguiment pregunta pel procediment que Maia acaba d'esmentar.
 
-**Fonts i drets per verificar:** [`El trinxat`](../../../docs/temes/gastronomia/plats/el-trinxat.md) i
-[`Viquipèdia en català`](../../../docs/fonts/viquipedia-ca.md), llicència
-CC BY-SA 4.0. En exportar, conservar atribució i compartir igual.
+## Què vol dir «comunal» en aquest cas?
 
-## Veure una festa de l'ossa
+**Usuari:** Quan es parla de terres comunals, vol dir que eren propietat del
+comú?
 
-**Usuari:** Quan es fan les festes de l'ossa que encara es conserven a Andorra?
+**Maia:** No sempre. Algunes terres podien ser privades i, tot i així, estar
+subjectes a la *peixena*: el dret dels habitants a passar-hi i a fer-hi pasturar
+el bestiar després de la collita.
 
-**Maia:** A Encamp, el ball de l'ossa es representa el dilluns de Carnaval. A
-Ordino, l'Última ossa té lloc durant la primera setmana de desembre, coincidint
-amb la fira de Nadal.
+**Usuari:** Aleshores el propietari podia plantar-hi el que volgués?
 
-**Usuari:** La d'Ordino sempre s'ha fet al desembre?
+**Maia:** No del tot. Sense permís del consell de parròquia, no podia canviar la
+rotació dels conreus ni plantar-hi farratge, perquè això podia impedir la
+pastura prevista.
 
-**Maia:** No. Originàriament també es feia per Carnaval. Ordino la va recuperar
-el 2017 i, des d'aleshores, se celebra al desembre. La documentació disponible
-no explica per què es va fixar aquesta nova data.
+**Usuari:** I aquest dret de pastura durava tot l'any?
 
-**Per què funciona:** la primera pregunta ajuda a entendre quan es poden veure
-les dues celebracions vigents. El seguiment sorgeix de la diferència de
-calendari entre Ordino i Encamp; la resposta n'explica el canvi conegut i no
-atribueix un motiu que no està documentat.
+**Maia:** No. La *peixena* s'exercia entre la retirada de la collita i les
+sembres. La font la situa, aproximadament, des de l'agost fins al setembre de
+l'any següent.
 
-**Fonts i drets per verificar:** [`Les festes de l'ossa`](../../../docs/temes/costums/danses/les-festes-de-lossa.md) i
-[`Viquipèdia en català`](../../../docs/fonts/wikipedia-llegendes-andorra.md),
-llicència CC BY-SA 4.0. En exportar, conservar atribució i compartir igual.
+**Per què funciona:** cada pregunta surt d'una dada de la resposta anterior.
+La conversa explica el terme i després n'aclareix els efectes i el període.
 
-## Rebuig de patrons
+## La llegenda de Meritxell
 
-No són preguntes d'entrenament útils:
+**Usuari:** Per què la imatge de Meritxell no es va quedar a Canillo?
 
-- «Què explica la secció X de la fitxa Y?» — l'usuari no ha dit que tingui la
-  fitxa davant ni quin dubte vol resoldre.
-- «Què indica aquesta fila?» — depèn d'una taula absent del xat.
-- «Què explica el corpus sobre X?» — demana metadades del nostre procés, no una
-  resposta sobre Andorra.
-- Una pregunta de quiz com «Quin any es va recuperar?» si no hi ha un motiu
-  conversacional per demanar una data aïllada.
-- Dos o tres torns que només repeteixen la mateixa dada amb altres paraules.
+**Maia:** Segons la llegenda, un pastor la va trobar sota una gavernera florida
+el dia de Reis i se la va endur a Canillo. L'endemà havia tornat al peu de
+l'arbust. Quan la van dur a Encamp, també va tornar al lloc de la troballa.
 
-## Vista de format final
+**Usuari:** I van entendre que s'havia de quedar allà?
 
-Quan un exemple hagi passat revisió factual, editorial i de drets, el format
-d'exportació serà una sola línia JSONL amb els missatges del diàleg. Per exemple:
+**Maia:** Sí. La llegenda explica que les dues parròquies van interpretar aquells
+retorns com el desig de la Mare de Déu de romandre en aquell lloc. Hi van
+construir el santuari.
 
-```json
-{"messages":[{"role":"user","content":"Per fer trinxat, la col i la patata es bullen juntes o per separat?"},{"role":"assistant","content":"Es bullen juntes fins que gairebé es desfan. Després es trinxen, es barregen amb el greix de la cansalada fregida i es dauren a la paella fins que fan crosta."},{"role":"user","content":"I la cansalada també es barreja amb la col i la patata?"},{"role":"assistant","content":"Se'n barreja el greix amb les verdures; la cansalada fregida es posa per sobre quan se serveix."}]}
-```
+**Usuari:** I quan la van declarar patrona d'Andorra?
 
-L'exportació real només inclou mostres aprovades. Fonts, drets, identificadors i
-notes editorials es queden als registres interns.
+**Maia:** El Consell General la va declarar patrona i especial protectora del
+Principat el 24 d'octubre de 1873. La festa se'n celebra el 8 de setembre.
+
+**Per què funciona:** la resposta diferencia el relat llegendari del fet
+institucional. Els seguiments avancen de la llegenda a la seva conseqüència i a
+la declaració oficial.
+
+## Reescriure una pregunta que depèn d'una fitxa
+
+En lloc de «Què explica la secció “La regla de competència” de la fitxa sobre
+els cònsols?», pregunta:
+
+> En un plet entre un particular i un comú, de què depenia quin tribunal el
+> jutjava?
+
+La nova formulació diu quin dubte vol resoldre i es pot entendre sense tenir cap
+document al davant. Després, el diàleg pot aclarir qui demandava a qui i com
+canviava la jurisdicció.
+
+## Patrons que no entren al dataset
+
+- «Què explica la secció X de la fitxa Y?»
+- «Què indica aquesta fila?» o «Què diu el gràfic?» sense explicar què cal
+  entendre.
+- Diverses preguntes independents posades en fila per extreure dades.
+- Un seguiment que repeteix la resposta amb altres paraules.
+- Una anècdota personal inventada per fer veure que la pregunta és espontània.
+
+## Fonts consultades per calibrar
+
+- [Podies denunciar un cònsol, però no demandar-lo](../../../docs/temes/institucions/justicia/podies-denunciar-un-consol-pero-no-demandar-lo.md)
+- [Un camp és comunal perquè hi passen els ramats](../../../docs/temes/territori/geografia-fisica/un-camp-es-comunal-perque-hi-passen-els-ramats.md)
+- [La troballa de Meritxell](../../../docs/temes/cultura/llegendes/la-troballa-de-meritxell.md)

@@ -1,9 +1,0 @@
-# Generated corpora and temporary inspection data are not committed.
-**/.DS_Store
-/knowledge/work/*
-!/knowledge/work/README.md
-!/knowledge/work/conversation-card-template.md
-/knowledge/reports/*.json
-/language/work/*
-!/language/work/README.md
-/language/reports/*.json

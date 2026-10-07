@@ -1,6 +1,4 @@
-# Preparació de Knowledge
+# Treball intern de Knowledge
 
-Inventaris i fitxers temporals de treball. No són dades d'entrenament i queden
-ignorats per Git, excepte aquest README i `conversation-card-template.md`, que
-és el formulari curt per preparar un diàleg abans d'escriure'l al fitxer de
-revisió.
+Aquí aniran els inventaris per tema i les notes que connecten cada conversa amb
+els fets que la sostenen. No s'hi posen preguntes artificials per omplir buits.

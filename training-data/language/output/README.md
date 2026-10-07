@@ -1,5 +1,4 @@
-# Exportacions de Maia Language
+# Exportació Language
 
-Encara no hi ha exports. Cal decidir el format adequat a les converses
-autèntiques disponibles i agrupar els splits per peça o parlant per evitar
-fuites entre entrenament i avaluació.
+Encara no hi ha registres aprovats. El contingut d'aquest flux no es barreja amb
+Maia Knowledge.

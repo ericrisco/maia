@@ -1,4 +1,4 @@
-# Preparació de Language
+# Treball intern de Language
 
-Àrea per inventaris i fragments temporals de `docs/parla/`. No inclogueu una
-transcripció com a senyal lingüística fins a revisar fiabilitat i drets.
+Inventari i verificació de peces elegibles. No hi ha cap conversa preparada per
+exportar.
