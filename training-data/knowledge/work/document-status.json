@@ -49,7 +49,7 @@
       "title": "Les caramelles",
       "type": "article",
       "topic": "temes/costums/caramelles",
-      "status": "in_progress",
+      "status": "complete",
       "unit_count": 18,
       "covered_unit_ids": [
         "docs/temes/costums/caramelles/les-caramelles.md#unit-0002",
@@ -58,8 +58,8 @@
         "docs/temes/costums/caramelles/les-caramelles.md#unit-0005",
         "docs/temes/costums/caramelles/les-caramelles.md#unit-0006"
       ],
-      "excluded_unit_count": 0,
-      "open_unit_count": 13,
+      "excluded_unit_count": 13,
+      "open_unit_count": 0,
       "conversation_ids": [
         "caramelles-origen-nom-i-practica-001"
       ]
