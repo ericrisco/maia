@@ -1,6 +1,8 @@
 {
   "description": "Assigna cada font de contingut a un únic split; exemples amb fonts relacionades comparteixen split.",
   "groups": {
+    "docs/temes/territori/geografia-fisica/de-que-esta-fet-el-pais.md": "train",
+    "docs/raw/estadistica-xifres/andorra-en-xifres-2024.txt": "train",
     "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md": "validation",
     "docs/raw/estadistica-api/cultura/habits-culturals-esportius-i-voluntariat-per-l-api-d-estadistica.md": "validation",
     "docs/raw/estadistica-api/cultura/cultura-i-esport-api-2026-09-18.tsv": "validation",
