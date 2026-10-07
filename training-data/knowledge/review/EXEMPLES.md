@@ -29,6 +29,17 @@ Assistent: Per a una persecució criminal no calia aquella autorització. La pro
 
 La pregunta no demana que l'assistent expliqui una regla titulada per l'editor. El seguiment explora la distinció important entre les vies civil i criminal.
 
+### De «què vol dir aquesta secció» a una distinció entre terres
+
+```text
+Usuari: Els camps comunals i les deveses eren el mateix tipus de terra?
+Assistent: No. Els comunals eren terres no «en defens», d'ús comú un cop recollit el blat. Les deveses, en canvi, quedaven fora de l'ús comú, i no necessàriament eren terrenys tancats.
+Usuari: I la cultia, què era?
+Assistent: En sentit estricte, la cultia era el que creixia durant el guaret en una terra «en defens» i que el propietari feia menjar als seus ramats.
+```
+
+La persona pregunta per diferències entre conceptes que poden confondre's. La resposta no aboca tota la taula; el seguiment demana aclarir un terme nou que apareix de manera natural.
+
 ### De «què indica aquesta fila» a una comparació que algú faria
 
 ```text

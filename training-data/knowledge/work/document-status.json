@@ -15843,12 +15843,18 @@
       "title": "Un camp és comunal perquè hi passen els ramats",
       "type": "article",
       "topic": "temes/territori/geografia-fisica",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 83,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/territori/geografia-fisica/un-camp-es-comunal-perque-hi-passen-els-ramats.md#unit-0054",
+        "docs/temes/territori/geografia-fisica/un-camp-es-comunal-perque-hi-passen-els-ramats.md#unit-0056",
+        "docs/temes/territori/geografia-fisica/un-camp-es-comunal-perque-hi-passen-els-ramats.md#unit-0057"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 83,
-      "conversation_ids": []
+      "open_unit_count": 80,
+      "conversation_ids": [
+        "terres-comunals-deveses-cultia-001"
+      ]
     },
     "docs/temes/territori/paisatge-construit/dos-pianos-i-una-carretera.md": {
       "title": "Dos pianos i una carretera",
