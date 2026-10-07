@@ -14226,12 +14226,17 @@
       "title": "L'AQUA",
       "type": "article",
       "topic": "temes/societat/educacio",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 14,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/societat/educacio/laqua.md#unit-0002",
+        "docs/temes/societat/educacio/laqua.md#unit-0004"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 14,
-      "conversation_ids": []
+      "open_unit_count": 12,
+      "conversation_ids": [
+        "aqua-avaluacio-i-acreditacio-ensenyament-superior-001"
+      ]
     },
     "docs/temes/societat/educacio/lensenyament-confessional.md": {
       "title": "L'ensenyament confessional",
