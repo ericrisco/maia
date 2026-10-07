@@ -1,16 +1,36 @@
 {
   "docs/temes/costums/calendari-festiu/calendari-festiu.md": {
     "status": "in_progress",
-    "conversation_ids": ["festa-major-no-hi-ha-data-unica-01"],
+    "conversation_ids": [
+      "festa-major-no-hi-ha-data-unica-01",
+      "llista-judicial-no-es-calendari-popular-01"
+    ],
     "covered_units": [
       "no hi ha una festa major comuna a tot Andorra",
       "cada parròquia i moltes viles tenen festa major pròpia",
-      "les festes majors se celebren a l'estiu"
+      "les festes majors se celebren a l'estiu",
+      "la llista judicial de 1902 no és un calendari popular",
+      "l'absència d'una festa a la llista judicial no prova que no se celebrés"
     ],
     "open_units": [
       "dates concretes de cada parròquia i vila",
       "altres fites del calendari festiu i el seu abast"
     ],
     "note": "La fitxa és un mapa general; no suplir els calendaris comunals absents."
+  },
+  "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md": {
+    "status": "in_progress",
+    "conversation_ids": ["llista-judicial-no-es-calendari-popular-01"],
+    "covered_units": [
+      "la llista de 1902 és una llista judicial i no un inventari de festes populars"
+    ],
+    "open_units": [
+      "origen i aprovació de la llista",
+      "epígrafs, dates i fires",
+      "dies totals i límits de còmput",
+      "terminis processals i dies hàbils",
+      "buits i incerteses explícits de la font"
+    ],
+    "note": "Cobertura parcial feta des de l'enllaç amb l'article de calendari festiu."
   }
 }
