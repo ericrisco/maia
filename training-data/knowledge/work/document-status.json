@@ -773,7 +773,7 @@
       "title": "Santa Coloma",
       "type": "article",
       "topic": "temes/cultura/arquitectura",
-      "status": "in_progress",
+      "status": "complete",
       "unit_count": 23,
       "covered_unit_ids": [
         "docs/temes/cultura/arquitectura/santa-coloma.md#unit-0002",
@@ -789,8 +789,8 @@
         "docs/temes/cultura/arquitectura/santa-coloma.md#unit-0016",
         "docs/temes/cultura/arquitectura/santa-coloma.md#unit-0019"
       ],
-      "excluded_unit_count": 1,
-      "open_unit_count": 10,
+      "excluded_unit_count": 11,
+      "open_unit_count": 0,
       "conversation_ids": [
         "santa-coloma-naus-i-campanar-001",
         "santa-coloma-periple-pintures-001"
