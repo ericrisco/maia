@@ -1,7 +1,21 @@
 {
   "docs/temes/institucions/justicia/podies-denunciar-un-consol-pero-no-demandar-lo.md": {
     "status": "in_progress",
-    "conversation_ids": ["competencia-demanda-consol-deute-personal-01", "competencia-consol-penal-versus-civil-01", "competencia-plet-comu-segons-demandant-01", "consols-detencio-danys-comunal-decret-1866-01", "competencia-criminal-consell-politar-divergencia-01", "competencia-responsabilitat-consol-pagament-multa-1891-01", "consuls-immunitat-civil-politar-reforma-1866-01", "justicia-politica-i-tribunals-veheduria-01", "consell-general-part-i-jutge-limit-autor-1904-01", "reclamacio-deute-ofici-recurs-princep-1866-01", "execucio-condemnes-consell-batlles-01", "recurs-plet-quart-parroquia-comissio-01"],
+    "conversation_ids": [
+      "competencia-demanda-consol-deute-personal-01",
+      "competencia-consol-penal-versus-civil-01",
+      "competencia-plet-comu-segons-demandant-01",
+      "consols-detencio-danys-comunal-decret-1866-01",
+      "competencia-criminal-consell-politar-divergencia-01",
+      "competencia-responsabilitat-consol-pagament-multa-1891-01",
+      "consuls-immunitat-civil-politar-reforma-1866-01",
+      "justicia-politica-i-tribunals-veheduria-01",
+      "consell-general-part-i-jutge-limit-autor-1904-01",
+      "reclamacio-deute-ofici-recurs-princep-1866-01",
+      "execucio-condemnes-consell-batlles-01",
+      "recurs-plet-quart-parroquia-comissio-01",
+      "plet-contra-parroquia-batlle-incert-1783-1788-01"
+    ],
     "reviewed_units": [
       "autorització per demandar autoritats abans i després de la Reforma de 1866, inclòs el recurs al príncep sobirà en cas de denegació inesperada",
       "autoritat que concedeix l'autorització i condicions de venciment i exigibilitat",
@@ -15,18 +29,32 @@
       "execució de les condemnes del Consell General pels batlles perquè els cossos polítics no manaven la força armada",
       "instància inicial, apel·lació i funció de les comissions segons l'afer afectés un quart o una parròquia",
       "abast de la justícia política i naturalesa dels tribunals de veheduria",
-      "límit que Brutails atribuïa al Consell quan la Vall era part, i dificultats recents del 1904 sense identificar"
+      "límit que Brutails atribuïa al Consell quan la Vall era part, i dificultats recents del 1904 sense identificar",
+      "casos de 1783 i 1788: dubtes sobre la competència del batlle davant d’un comú o una parròquia i decret especial del bisbe"
     ],
     "open_units": [
       "abast temporal i eventual impugnació del decret de detenció de 1866, que la font no resol",
       "decrets de 1895 i 1900 no incorporats íntegrament i eventuals casos d'ús del recurs al príncep no documentats",
       "referències a l'execució del cot i del recot atribuïdes a l'estudi d'Anton Picart",
-      "conjunt de casos històrics de 1502, 1783, 1788, 1828, 1868 i 1887 i els límits del que permeten concloure"
+      "casos històrics de 1502, 1828 i 1868 i els límits del que permeten concloure"
     ]
   },
   "docs/temes/institucions/justicia/si-nomes-volien-ballar-era-un-altre-tribunal.md": {
     "status": "in_progress",
-    "conversation_ids": ["justicia-politica-i-tribunals-veheduria-01", "veheduria-limits-servitude-ownership-01", "veheduria-reclamacio-dret-de-ballar-01", "veheduria-titols-escrits-regla-no-automatica-01", "veheduria-sentencia-aigua-aqueducte-1888-01", "veheduria-origen-doleances-1364-incert-01", "veheduria-arbitratge-consentiment-veins-1547-01", "costum-cedir-parella-ball-public-interpretacio-01", "veheduria-terms-cortinada-ansalonga-1875-01", "veheduria-revisio-sentencia-prohoms-1760-01", "veheduria-plet-particular-quart-escaldes-1887-01", "veheduria-vehi-a-vehi-i-servituds-hipotesi-01"],
+    "conversation_ids": [
+      "justicia-politica-i-tribunals-veheduria-01",
+      "veheduria-limits-servitude-ownership-01",
+      "veheduria-reclamacio-dret-de-ballar-01",
+      "veheduria-titols-escrits-regla-no-automatica-01",
+      "veheduria-sentencia-aigua-aqueducte-1888-01",
+      "veheduria-origen-doleances-1364-incert-01",
+      "veheduria-arbitratge-consentiment-veins-1547-01",
+      "costum-cedir-parella-ball-public-interpretacio-01",
+      "veheduria-terms-cortinada-ansalonga-1875-01",
+      "veheduria-revisio-sentencia-prohoms-1760-01",
+      "veheduria-plet-particular-quart-escaldes-1887-01",
+      "veheduria-vehi-a-vehi-i-servituds-hipotesi-01"
+    ],
     "reviewed_units": [
       "els tribunals de veheduria coneixen de servituds urbanes i rurals, en regulen les despeses i poden fixar-ne una indemnització, però no atribueixen propietat ni danys",
       "els títols escrits no són sempre una frontera automàtica: els tribunals de visura de vegades els interpreten i poden remetre els casos difícils al batlle",
@@ -39,7 +67,6 @@
       "procés del 1887 entre un particular i el quart de les Escaldes, amb objecte no especificat",
       "identificació de les causes de veí a veí amb servituds al Politar i la Instructa i reserva de Brutails sobre aquesta equivalència"
     ],
-    "open_units": [
-    ]
+    "open_units": []
   }
 }

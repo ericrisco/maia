@@ -14296,7 +14296,7 @@
       "topic": "temes/institucions/justicia",
       "source": "brutails-coutume-1904",
       "status": "in_progress",
-      "conversation_count": 15,
+      "conversation_count": 16,
       "conversation_ids": [
         "competencia-consol-penal-versus-civil-01",
         "competencia-criminal-consell-politar-divergencia-01",
@@ -14308,6 +14308,7 @@
         "consuls-immunitat-civil-politar-reforma-1866-01",
         "execucio-condemnes-consell-batlles-01",
         "justicia-politica-i-tribunals-veheduria-01",
+        "plet-contra-parroquia-batlle-incert-1783-1788-01",
         "reclamacio-deute-ofici-recurs-princep-1866-01",
         "recurs-plet-quart-parroquia-comissio-01",
         "veheduria-limits-servitude-ownership-01",
@@ -14327,13 +14328,14 @@
         "execució de les condemnes del Consell General pels batlles perquè els cossos polítics no manaven la força armada",
         "instància inicial, apel·lació i funció de les comissions segons l'afer afectés un quart o una parròquia",
         "abast de la justícia política i naturalesa dels tribunals de veheduria",
-        "límit que Brutails atribuïa al Consell quan la Vall era part, i dificultats recents del 1904 sense identificar"
+        "límit que Brutails atribuïa al Consell quan la Vall era part, i dificultats recents del 1904 sense identificar",
+        "casos de 1783 i 1788: dubtes sobre la competència del batlle davant d’un comú o una parròquia i decret especial del bisbe"
       ],
       "open_units": [
         "abast temporal i eventual impugnació del decret de detenció de 1866, que la font no resol",
         "decrets de 1895 i 1900 no incorporats íntegrament i eventuals casos d'ús del recurs al príncep no documentats",
         "referències a l'execució del cot i del recot atribuïdes a l'estudi d'Anton Picart",
-        "conjunt de casos històrics de 1502, 1783, 1788, 1828, 1868 i 1887 i els límits del que permeten concloure"
+        "casos històrics de 1502, 1828 i 1868 i els límits del que permeten concloure"
       ],
       "completion_note": "",
       "reason": ""
