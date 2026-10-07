@@ -213,13 +213,16 @@
       "topic": "temes/costums/danses",
       "source": "canturri-costumari-amades-1994",
       "status": "in_progress",
-      "conversation_count": 1,
+      "conversation_count": 2,
       "conversation_ids": [
-        "amades-catorze-balls-i-evidencia-local-01"
+        "amades-catorze-balls-i-evidencia-local-01",
+        "ball-porrer-vestuari-i-continuïtat-01"
       ],
       "reviewed_units": [
         "Amades recull catorze balls com a autòctons, però la presència al Costumari no prova que es ballessin a Andorra",
-        "Canturri destaca les falles de Sant Joan, l’ossa d’Encamp i el ball del porrer com a descripcions que només podria fer qui les hagués vist"
+        "Canturri destaca les falles de Sant Joan, l’ossa d’Encamp i el ball del porrer com a descripcions que només podria fer qui les hagués vist",
+        "descripció del vestuari del ballaire en cap del Ball del porrer segons Amades: porra, túnica ampla i llarga amb botons vermells i verds, punys i barret bicolors",
+        "el corpus no documenta si el ball o aquest vestuari es mantenen avui"
       ],
       "completion_note": "",
       "reason": ""
