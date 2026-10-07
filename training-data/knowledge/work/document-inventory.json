@@ -374,11 +374,12 @@
       "topic": "temes/costums/religiositat",
       "source": "bopa-ad",
       "status": "in_progress",
-      "conversation_count": 8,
+      "conversation_count": 9,
       "conversation_ids": [
         "registre-religios-associacio-cultural-dependent-03",
         "registre-religios-cancellacio-inactivitat-06",
         "registre-religios-documentacio-entitat-estrangera-07",
+        "registre-religios-esmena-documents-terminari-09",
         "registre-religios-exclusio-parapsicologia-04",
         "registre-religios-no-inscrit-responsabilitat-i-inscripcio-01",
         "registre-religios-proselitisme-proporcionalitat-05",
@@ -396,7 +397,8 @@
         "Límits a les restriccions i denegació per proselitisme abusiu o il·lícit: risc acreditat i proporcionalitat/adequació (art. 3.4).",
         "Cancel·lació d’ofici per deu anys d’inactivitat des de la darrera comunicació, amb notificació prèvia; causes alternatives (art. 11).",
         "Documentació addicional per a entitats d’origen i dependència estrangera, escriptura pública, legalització, postil·la i traducció (art. 9.2 i 9.4).",
-        "Termini ordinari de dos mesos, possible pròrroga de dos mesos per instrucció i mesures d’instrucció possibles (art. 6)."
+        "Termini ordinari de dos mesos, possible pròrroga de dos mesos per instrucció i mesures d’instrucció possibles (art. 6).",
+        "Esmena de defectes en trenta dies, suspensió del termini, caducitat i arxivament si no s’esmena, devolució d’originals i recurs administratiu (art. 6)."
       ],
       "open_units": [
         "Passada editorial integral de la fitxa: revisar la resta d’afirmacions i buits contra les converses i conservar explícitament allò que no consta."
