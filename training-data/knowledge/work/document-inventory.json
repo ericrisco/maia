@@ -9,7 +9,7 @@
   "file_count": 1477,
   "article_count": 1348,
   "parse_error_count": 0,
-  "conversation_count": 36,
+  "conversation_count": 37,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 0,
@@ -1392,7 +1392,7 @@
       "topic": "temes/cultura/museus-i-arxius",
       "source": "jurisprudencia-ad",
       "status": "in_progress",
-      "conversation_count": 36,
+      "conversation_count": 37,
       "conversation_ids": [
         "diposit-legal-anuari-i-serie-numerada-001",
         "diposit-legal-bases-dades-programari-exemplars-001",
@@ -1410,6 +1410,7 @@
         "diposit-legal-exemplars-tirada-petita-001",
         "diposit-legal-fullets-fascicles-exemplars-001",
         "diposit-legal-migracio-suports-obsolets-001",
+        "diposit-legal-multa-infraccio-greu-graduacio-001",
         "diposit-legal-on-indicar-numero-001",
         "diposit-legal-partitures-mapes-enregistraments-001",
         "diposit-legal-pelicula-digital-requisits-preservacio-001",
@@ -1468,7 +1469,8 @@
         "Llei 15/2025, article 24: online deposits without reading key, with needed manuals/software and migration information; permanent Library access.",
         "Llei 15/2025, article 28: preservation copying, duplication or migration by the conservation institutions and applicable technical standards.",
         "Llei 15/2025, article 32: sanctioning roles, six-month deadline, lapse and bar on restarting for the same offense.",
-        "Llei 15/2025, article 33: limitation periods for minor/serious offenses and sanctions, start dates and interruption rules."
+        "Llei 15/2025, article 33: limitation periods for minor/serious offenses and sanctions, start dates and interruption rules.",
+        "Llei 15/2025, article 31.1.b-31.2: serious-offense fine range and proportionality factors for setting the amount."
       ],
       "open_units": [
         "Finish reviewing the remaining physical deposit categories and special formats, periodicals, film/television/radio, and linked regulations.",

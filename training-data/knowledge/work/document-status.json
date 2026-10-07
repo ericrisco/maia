@@ -41,7 +41,8 @@
         "diposit-legal-publicacio-en-linia-manuals-i-acces-001",
         "diposit-legal-migracio-suports-obsolets-001",
         "diposit-legal-competencia-i-caducitat-sancionadora-001",
-        "diposit-legal-prescripcio-infraccions-sancions-001"
+        "diposit-legal-prescripcio-infraccions-sancions-001",
+        "diposit-legal-multa-infraccio-greu-graduacio-001"
       ],
       "covered_units": [
         "Llei 15/2025, article 22: scope of online publications; hosting location and domain; access unrestricted or restricted",
@@ -80,7 +81,8 @@
         "Llei 15/2025, article 24: online deposits without reading key, with needed manuals/software and migration information; permanent Library access.",
         "Llei 15/2025, article 28: preservation copying, duplication or migration by the conservation institutions and applicable technical standards.",
         "Llei 15/2025, article 32: sanctioning roles, six-month deadline, lapse and bar on restarting for the same offense.",
-        "Llei 15/2025, article 33: limitation periods for minor/serious offenses and sanctions, start dates and interruption rules."
+        "Llei 15/2025, article 33: limitation periods for minor/serious offenses and sanctions, start dates and interruption rules.",
+        "Llei 15/2025, article 31.1.b-31.2: serious-offense fine range and proportionality factors for setting the amount."
       ],
       "open_units": [
         "Finish reviewing the remaining physical deposit categories and special formats, periodicals, film/television/radio, and linked regulations.",
