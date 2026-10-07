@@ -720,12 +720,21 @@
       "title": "Cinc anys, i el cinema és l'única cosa que puja",
       "type": "article",
       "topic": "temes/cultura",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 73,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0005",
+        "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0013",
+        "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0014",
+        "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0015",
+        "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0016",
+        "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0017"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 73,
-      "conversation_ids": []
+      "open_unit_count": 67,
+      "conversation_ids": [
+        "habits-cinema-canvi-per-edat-001"
+      ]
     },
     "docs/temes/cultura/cultura-d-andorra-index-de-fitxes.md": {
       "title": "Cultura d'Andorra — índex de fitxes",
