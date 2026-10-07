@@ -2,20 +2,21 @@
 
 Aquest report no acredita cobertura exhaustiva: mostra els registres aprovats i les fitxes representades fins ara.
 
-- Converses candidates: **47**.
-- Converses exportades: **47**.
-- Fitxes font representades: **6**.
+- Converses candidates: **48**.
+- Converses exportades: **48**.
+- Fitxes font representades: **7**.
 - Fitxes article a `docs/temes/`: **1348** (fitxers totals: 1477).
 
 | Split | Converses |
 |---|---:|
-| `train` | 47 |
+| `train` | 48 |
 | `validation` | 0 |
 | `test` | 0 |
 
 ## Fitxes representades
 
 - `docs/temes/costums/calendari-festiu/calendari-festiu.md`
+- `docs/temes/costums/calendari-festiu/el-carnaval-dencamp.md`
 - `docs/temes/cultura/teatre/el-teatre-de-carnestoltes.md`
 - `docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md`
 - `docs/temes/institucions/justicia/podies-denunciar-un-consol-pero-no-demandar-lo.md`

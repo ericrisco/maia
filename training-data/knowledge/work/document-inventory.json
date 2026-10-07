@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 6,
+    "in_progress": 7,
     "no_natural_question": 0,
-    "not_started": 1342
+    "not_started": 1341
   },
   "documents": [
     {
@@ -49,10 +49,16 @@
       "type": "article",
       "topic": "temes/costums/calendari-festiu",
       "source": "premsa-andorrana",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "operacio-carnestoltes-viscera-escenari-01"
+      ],
+      "reviewed_units": [
+        "tres farses d’Encamp i moment de representació",
+        "operació del Carnestoltes: vísceres de la matança del porc, ubicació al complex esportiu i incorporació cap al 1970",
+        "límit sobre les dates anuals i la font del programa de 2026"
+      ],
       "completion_note": "",
       "reason": ""
     },
@@ -1506,9 +1512,10 @@
       "topic": "temes/cultura/teatre",
       "source": "masegosa-teatre-andorra",
       "status": "in_progress",
-      "conversation_count": 1,
+      "conversation_count": 2,
       "conversation_ids": [
-        "ball-ossa-versions-localitats-01"
+        "ball-ossa-versions-localitats-01",
+        "operacio-carnestoltes-viscera-escenari-01"
       ],
       "reviewed_units": [
         "arguments diferents del ball de l’óssa a Encamp i la Cortinada",
