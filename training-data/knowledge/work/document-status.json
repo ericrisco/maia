@@ -13745,11 +13745,11 @@
       "title": "Demografia — índex de fitxes",
       "type": "index",
       "topic": "",
-      "status": "not_started",
+      "status": "complete",
       "unit_count": 15,
       "covered_unit_ids": [],
-      "excluded_unit_count": 0,
-      "open_unit_count": 15,
+      "excluded_unit_count": 15,
+      "open_unit_count": 0,
       "conversation_ids": []
     },
     "docs/temes/societat/demografia/demografia.md": {
