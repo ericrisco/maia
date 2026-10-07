@@ -63,6 +63,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - Viquipèdia en català, article «Festes de l’ossa a Andorra», CC BY-SA 4.0; la fitxa descriu la festa com una farsa còmica d’un acte i enumera els personatges.
 - Viquipèdia en català, article «Festes de l’ossa a Andorra», CC BY-SA 4.0; la fitxa descriu la «sang» com aigua amb granadina i el ball final.
 - Viquipèdia en català, article «Festes de l’ossa a Andorra», CC BY-SA 4.0; la font atribueix el calendari a la creença que l’ossa hibernava entre Nadal i la Candelera.
+- Viquipèdia en català, article «Festes de l’ossa a Andorra», CC BY-SA 4.0; la proposta d’origen medieval s’hi formula com a probable per l’extensió del culte als ossos als Pirineus.
 - Viquipèdia en català, article «Festes de l’ossa a Andorra», llicència CC BY-SA 4.0; bibliografia transcrita de la fitxa del corpus.
 - Viquipèdia en català, article «Festes de l’ossa a Andorra», llicència CC BY-SA 4.0; cronologia de l’Última Ossa d’Ordino el 2020.
 - Viquipèdia en català, article «Festes de l’ossa a Andorra», llicència CC BY-SA 4.0; cronologia i llocs de celebració de l’Última Ossa d’Ordino.
@@ -92,6 +93,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - CC BY-SA 4.0; atribució i compartir igual. La font no data el trasllat al desembre.
 - CC BY-SA 4.0; atribució i compartir igual. La fotografia mateixa no forma part del corpus consultat.
 - CC BY-SA 4.0; atribució i compartir igual. Les obres citades són només referències, no contingut consultat ni reproduït.
+- CC BY-SA 4.0; atribució i compartir igual. L’origen medieval no és una dada demostrada.
 - CC BY-SA 4.0; atribució i compartir igual. No redistribuir sense conservar les condicions de la llicència.
 - Contingut periodístic amb drets reservats; la fitxa premsa-andorrana registra redistribució:no. La referència concreta no es pot verificar.
 - Font institucional amb drets reservats; el portal exigeix autorització escrita per redistribuir o transformar continguts i no consta un permís específic. Aquesta limitació queda registrada; no s’interpreta la inclusió com a llicència.
