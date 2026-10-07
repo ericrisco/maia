@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 7,
+    "in_progress": 8,
     "no_natural_question": 0,
-    "not_started": 1341
+    "not_started": 1340
   },
   "documents": [
     {
@@ -180,10 +180,14 @@
       "type": "article",
       "topic": "temes/costums/danses",
       "source": "premsa-andorrana",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "ball-cerda-nom-lloc-i-hora-001"
+      ],
+      "reviewed_units": [
+        "El nom remet a la Cerdanya sense que l’origen estigui establert; hora i lloc del ball a Sant Julià."
+      ],
       "open_units": [
         "Coreografia, música, vestuari, participants i cronologia d’origen o recuperació; el llibre de l’Esbart Laurèdia està identificat però no consultat.",
         "Distingir si una font parla d’aparició, creació o recuperació de les danses; no aplicar al Cerdà el precedent de la Marratxa.",

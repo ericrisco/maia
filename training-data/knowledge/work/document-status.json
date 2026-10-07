@@ -235,11 +235,17 @@
     ]
   },
   "docs/temes/costums/danses/el-ball-del-cerda.md": {
-    "status": "not_started",
+    "status": "in_progress",
     "open_units": [
       "Coreografia, música, vestuari, participants i cronologia d’origen o recuperació; el llibre de l’Esbart Laurèdia està identificat però no consultat.",
       "Distingir si una font parla d’aparició, creació o recuperació de les danses; no aplicar al Cerdà el precedent de la Marratxa.",
       "Font periodística concreta no identificada."
+    ],
+    "conversation_ids": [
+      "ball-cerda-nom-lloc-i-hora-001"
+    ],
+    "reviewed_units": [
+      "El nom remet a la Cerdanya sense que l’origen estigui establert; hora i lloc del ball a Sant Julià."
     ]
   },
   "docs/temes/costums/danses/la-marratxa.md": {
