@@ -46,6 +46,20 @@ training-data/
 6. Rebutja la conversa si la pregunta només serveix per buidar una fitxa, si
    repeteix una altra amb sinònims o si la resposta sona a camps d'una taula.
 
+### Forma d'una conversa
+
+- La primera pregunta ha de tenir un motiu recognoscible i prou context per
+  entendre-la sense obrir cap fitxa.
+- En cada torn, l'usuari pregunta el que probablement voldria aclarir després
+  de sentir la resposta anterior. El seguiment no és una segona pregunta
+  independent disfressada de diàleg.
+- S'accepten converses d'un sol torn. No s'allarga un diàleg només per fer-lo
+  semblar multitorn.
+- Les preguntes poden ser directes i informals. Evita fórmules de qüestionari,
+  referències a apartats o taules, i peticions de llistes sense cap propòsit.
+- Les mostres de `knowledge/review/EXEMPLES.md` són converses completes de
+  calibratge, però no compten com a dades ni com a cobertura.
+
 No hi ha una quota fixa de preguntes per document. Però cal revisar totes les
 fitxes i representar tot el coneixement útil: una conversa pot cobrir diversos
 fets relacionats, i un tema pot necessitar moltes converses. Si una unitat no
@@ -83,10 +97,11 @@ marquen amb el motiu; els splits s'agrupen per entrevista o parlant.
 
 ## Etapes
 
-1. Repassar `docs/temes/` per branca i article. Anotar unitats de coneixement,
+1. Revisar cada branca i article de `docs/temes/`. Anotar unitats de coneixement,
    buits, conflictes i relacions abans de redactar converses.
-2. Escriure, contrastar i aprovar converses Knowledge una a una. Després de
-   cada conversa: validar-la, fer un commit específic i pujar-lo a `main`.
+2. Redactar converses a partir d'intencions humanes, contrastar-les amb les
+   fonts i afegir-les només quan passin la guia editorial. Després de cada
+   conversa aprovada: validar-la, fer un commit específic i pujar-lo a `main`.
 3. Tancar cada branca amb una auditoria de cobertura; tornar als articles si
    queda cap unitat útil sense conversa ni justificació.
 4. Revisar una per una totes les peces elegibles de `docs/parla/`, preservar

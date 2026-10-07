@@ -1,92 +1,74 @@
 # Exemples per calibrar les converses
 
-Aquests quatre exemples són material de calibratge, no registres aprovats del
-dataset. Cada pregunta parteix d'una situació recognoscible. Els seguiments
-només continuen quan hi ha un dubte natural.
+Aquests exemples són mostres editorials. No formen part de `conversations.jsonl`
+i no compten com a cobertura. Cada conversa comença amb una necessitat normal;
+els seguiments surten de la resposta anterior.
 
-## Planificar-se per Sant Antoni a Canillo
+## Organitzar-se per Sant Antoni a Canillo
 
 **Usuari:** Si vaig a Canillo per Sant Antoni, quin dia fan la vianda?
 
-**Maia:** A Canillo, la vianda se celebra el diumenge més proper al 17 de gener.
-La informació disponible no concreta la data d'una edició futura.
+**Maia:** La fan el diumenge més proper al 17 de gener. La fitxa no concreta la
+data de cap edició futura.
 
-**Usuari:** I és una festa antiga que es fa igual des de sempre?
+**Usuari:** Ah, doncs no cau sempre el mateix dia?
 
-**Maia:** No exactament. La primera vianda popular de Canillo que consta aquí es
-va fer el 1979, a la plaça de Montaup. La fitxa també diu que els encants locals
-es van recuperar cap a l'any 2000.
+**Maia:** Exacte. La data depèn de quin dia de la setmana queda més a prop del 17
+de gener.
 
-**Per què serveix:** respon una necessitat de planificació i evita fer passar
-una data mòbil per una data fixa. La resposta separa l'antiguitat general de la
-festa del cas concret documentat a Canillo.
+*Font per contrastar els fets:* `docs/temes/costums/sant-antoni/escudelles-de-sant-antoni.md`.
 
-*Font de calibratge:* `docs/temes/costums/sant-antoni/escudelles-de-sant-antoni.md`.
+## Comprovar una cosa que ens han explicat
 
-## Aclarir si *vianda* vol dir el mateix arreu
+**Usuari:** M'han dit que a totes les parròquies l'escudella de Sant Antoni es
+diuvia vianda. És veritat?
 
-**Usuari:** M'han dit que per Sant Antoni a tot Andorra en diuen vianda. És així?
+**Maia:** No ho podem assegurar. Les fonts recollides documenten el nom
+*vianda* a Canillo; per a la resta de parròquies parlen d'escudella.
 
-**Maia:** No ho podem afirmar. Les fonts recollides diuen que totes les
-parròquies preparen i reparteixen escudella, però només documenten el nom
-*vianda* a Canillo.
+**Usuari:** Llavors no se sap si a les altres parròquies també en diuen així?
 
-**Usuari:** Per tant, tampoc no se sap si el nom és exclusiu de Canillo?
+**Maia:** Això mateix. La informació disponible no diu quin nom s'hi fa servir,
+ni permet afirmar que *vianda* sigui exclusiu de Canillo.
 
-**Maia:** Exacte. Sabem que s'hi fa servir, però la informació no permet dir si
-en altres parròquies en fan servir un altre o si també en diuen *vianda*.
+*Font per contrastar els fets:* `docs/temes/costums/sant-antoni/escudelles-de-sant-antoni.md`.
 
-**Per què serveix:** corregeix una generalització sense inventar una diferència
-entre parròquies.
+## Distingir una llegenda d'un fet comprovat
 
-*Font de calibratge:* `docs/temes/costums/sant-antoni/escudelles-de-sant-antoni.md`.
+**Usuari:** Com diu la llegenda que van trobar la imatge de Meritxell?
 
-## Entendre el relat de Meritxell
+**Maia:** Explica que un pastor la va trobar sota una gavernera florida, en ple
+hivern. La van portar a Canillo i després a Encamp, però, segons el relat, la
+imatge tornava al lloc on l'havien trobada.
 
-**Usuari:** Com explica la llegenda que la imatge de Meritxell acabés al lloc
-del santuari?
+**Usuari:** Això està documentat com un fet històric?
 
-**Maia:** Segons la llegenda, un pastor va trobar la imatge sota una gavernera
-florida en ple hivern. La van dur a Canillo i després a Encamp, però cada cop
-hauria tornat al lloc de la troballa; per això van entendre que s'hi volia
-quedar.
+**Maia:** La fitxa ho presenta com una llegenda. No n'estableix la primera
+referència escrita ni quan es va originar.
 
-**Usuari:** Això es considera un fet històric?
+*Font per contrastar els fets:* `docs/temes/cultura/llegendes/la-troballa-de-meritxell.md`.
 
-**Maia:** No amb la informació disponible. És el relat de la llegenda; la fitxa
-encara no n'estableix la primera documentació ni la data d'origen.
+## Entendre una diferència entre dues fonts
 
-**Per què serveix:** explica el relat sense presentar-lo com un fet comprovat i
-respon directament al dubte sobre què se'n pot afirmar.
+**Usuari:** Per què tancaven els tribunals andorrans durant la fira d'Organyà?
 
-*Font de calibratge:* `docs/temes/cultura/llegendes/la-troballa-de-meritxell.md`.
+**Maia:** La llista de 1902 els dona per tancats del 27 de novembre al 4 de
+desembre, coincidint amb la fira. Una llista anterior diu que la gent del país
+hi estava ocupada; no sabem si aquesta era també l'explicació oficial el 1902.
 
-## Entendre per què els tribunals tancaven per una fira de fora
+**Usuari:** I la fira durava tota aquella setmana?
 
-**Usuari:** Per què tancaven els tribunals andorrans per la fira d'Organyà?
+**Maia:** La llista només fixa els dies de tancament dels tribunals. No concreta
+la durada de la fira.
 
-**Maia:** La llista aprovada el 1902 diu que tancaven del 27 de novembre al 4 de
-desembre per la fira d'Organyà. Una llista més antiga explica que la gent del
-país hi era ocupada, però no convé donar aquesta explicació com si fos escrita
-al document de 1902.
+*Font per contrastar els fets:* `docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md`.
 
-**Usuari:** Llavors la fira ocupava tota aquella setmana?
+## Exemples que no volem
 
-**Maia:** La llista fixa aquell període de tancament, però no descriu quants
-dies durava la fira. El que sí que diu la llista més antiga és que la gent del
-país estava ocupada amb les fires.
-
-**Per què serveix:** dona una resposta concreta i separa què diu cada document,
-en comptes de barrejar una explicació antiga amb la llista del 1902.
-
-*Font de calibratge:* `docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md`.
-
-## Exemples que descartem
-
-- «Què explica la secció “El relat”?» — demana recuperar una part d'un
-  document, no resoldre un dubte.
-- «Què indica aquesta fila?» — depèn d'una taula que la persona no ha situat.
-- «I dos topònims que en surten?» — sembla una instrucció d'extracció i no té
-  cap motiu conversacional.
-- Repetir la mateixa resposta amb cinc preguntes gairebé iguals — afegeix
-  volum, però no ensenya cinc habilitats diferents.
+- «Què explica la secció “El relat”?» — la persona ha de tenir una fitxa al
+  davant i no expressa cap necessitat pròpia.
+- «Què indica aquesta fila?» — depèn d'una taula que no s'ha identificat.
+- «I dos topònims que en surten?» — és una ordre d'extracció, no una pregunta
+  que segueixi una conversa.
+- Cinc versions de «Quan se celebra?» — canvien les paraules, però no el que
+  el model aprèn.

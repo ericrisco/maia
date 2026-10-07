@@ -1,61 +1,57 @@
 # Guia de conversa per a Maia Knowledge
 
-## Busca una situació humana
+## Comença pel motiu de la persona
 
-Abans de redactar, completa aquesta frase: «Aquesta persona vol entendre,
-decidir o comprovar…». Si la resposta és «vol saber què diu el document», busca
-una situació més concreta o descarta el tema.
+Abans d'escriure, completa: «Aquesta persona vol entendre, decidir o comprovar
+…». Si l'únic motiu és «saber què diu la fitxa», encara no tens una bona
+pregunta. Busca una situació real o descarta el contingut.
 
-Situacions que sovint donen preguntes útils:
+Alguns motius possibles:
 
-- algú prepara una visita i vol saber què trobarà;
-- dues dades semblen contradictòries i vol entendre'n la diferència;
-- una afirmació popular pot tenir una premissa equivocada;
-- algú vol saber què es coneix i què continua sense documentar-se.
+- preparar una visita o una activitat;
+- aclarir si una tradició o una dada és com li han explicat;
+- entendre per què dues fonts semblen discrepar;
+- saber si un relat és una llegenda o un fet documentat;
+- entendre què se sap i què encara no es pot afirmar.
 
-No cal representar totes les dades. Tria les que ajudin de debò a respondre
-aquestes necessitats.
+Són punts de partida, no categories que s'hagin d'omplir per força.
 
-## Escriu com en una conversa
+## Redacta el diàleg
 
-- Dona a la pregunta el context que una persona donaria: lloc, any o tema quan
-  sigui necessari.
-- No facis servir «aquesta secció», «aquesta fila», «segons el corpus» ni
-  referències que només s'entenen mirant una pàgina.
-- Llegeix-la en veu alta. Si sembla un enunciat d'examen o una ordre al model,
-  reescriu-la.
-- La primera resposta ha de contenir la conclusió. Després explica el perquè o
-  els límits que importen.
-- Una pregunta directa també pot ser natural. No l'allarguis només per fer-la
-  sonar conversacional.
+- Escriu la primera pregunta com si l'altra persona no tingués el document
+  obert. Afegeix lloc, data o context quan calgui.
+- Fes servir paraules normals i preguntes directes. Llegeix-les en veu alta.
+  Si semblen un examen o una ordre a una base de dades, torna-les a escriure.
+- Contesta el dubte a la primera frase. Després afegeix només el context que
+  evita una resposta incompleta o enganyosa.
+- Després de cada resposta, pregunta't què voldria aclarir aquella persona.
+  El seguiment ha de reprendre una dada o un límit de la resposta anterior.
+- No inventis seguiments per assolir una llargada mínima. Una conversa d'un
+  sol intercanvi també és bona.
+- No facis preguntes independents seguides només per extreure cada dada d'una
+  fitxa.
 
-## Escriu seguiments que surtin del fil
+Evita «aquesta secció», «aquesta fila», «segons el corpus» i altres frases que
+només tenen sentit per a qui mira els documents de treball.
 
-Després de cada resposta, pregunta't què voldria aclarir una persona que l'acaba
-de sentir. El seguiment ha de reprendre una dada, un límit o una conseqüència
-concreta. No encadenis preguntes independents per extreure tots els detalls.
+## Respecta el que diuen les fonts
 
-Si no se t'acut un seguiment espontani, acaba la conversa. No hi ha llargada
-mínima ni quota de multitorn.
-
-## Fidelitat a les fonts
-
-- Atribueix interpretacions a qui les proposa.
-- Mantén els anys i els llocs quan canviïn el sentit.
-- No dedueixis que una pràctica és universal perquè només se'n descriu un cas.
-- Quan una font no resolgui la pregunta, digues exactament què falta; no
-  converteixis el buit en una conclusió.
-- La procedència i l'estat dels drets van a `provenance.jsonl`, no a la resposta.
+- Atribueix opinions i interpretacions a qui les formula.
+- Conserva els anys i els llocs quan afectin el sentit.
+- No converteixis un cas local en una regla general.
+- No presentis una llegenda, una hipòtesi o una reclamació com un fet provat.
+- Si la font no resol la pregunta, explica què falta sense omplir el buit.
+- Posa la procedència i els drets a `provenance.jsonl`, no al diàleg.
 
 ## Porta de qualitat
 
-Abans d'aprovar una conversa, comprova:
+Abans d'afegir una conversa, comprova:
 
-1. La pregunta inicial és comprensible i creïble sense la font oberta.
-2. La resposta resol el dubte a la primera frase.
-3. Les afirmacions tenen suport identificable.
-4. Els seguiments depenen del torn anterior i no semblen un qüestionari.
-5. El diàleg aporta alguna cosa que encara no ensenya un altre registre.
+1. Una persona podria fer aquesta pregunta sense tenir la fitxa al davant?
+2. La resposta resol el dubte directament?
+3. Cada afirmació es pot contrastar amb una font?
+4. El seguiment surt de la resposta anterior?
+5. El registre ensenya alguna cosa nova respecte dels que ja hi ha?
 
-Si falla un punt, corregeix-la o descarta-la. No la conservis només per augmentar
-el recompte.
+Si falla un punt, revisa la conversa o descarta-la. No la conservis per fer
+créixer el recompte.
