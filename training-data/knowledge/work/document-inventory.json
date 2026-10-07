@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 7,
+    "in_progress": 8,
     "no_natural_question": 0,
-    "not_started": 1341
+    "not_started": 1340
   },
   "documents": [
     {
@@ -90,10 +90,17 @@
       "type": "article",
       "topic": "temes/costums/caramelles",
       "source": "premsa-andorrana",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "caramelles-sant-julia-recorregut-donatius-01"
+      ],
+      "reviewed_units": [
+        "caramelles com a cants de Pasqua i activitats del grup",
+        "recorregut de Sant Julià: cants al carrer i sota balcons o en places",
+        "recollida de donatius amb cistella a peu pla o amb perxa",
+        "drets pendents de la font institucional i font periodística genèrica no verificable"
+      ],
       "completion_note": "",
       "reason": ""
     },

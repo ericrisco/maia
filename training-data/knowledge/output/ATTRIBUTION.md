@@ -10,6 +10,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 
 - Actes històriques del Consell General, apel·lació dels síndics del 2–3 de maig de 1364, ANA, ASC, pergamí 1.190; J.-A. Brutails, La Coutume d’Andorre (1904), cap. VII, pp. 243–244.
 - Fabiola Sofia Masegosa i Gayo, La vida teatral a Andorra de 1900 a 1970, tesi doctoral (Universitat de Lleida, 2017), resum publicat a Debats de Recerca 12 (2020), pp. 27–39; DOI 10.2436/15.8060.21.4.
+- Govern d’Andorra, «Les caramelles d’Ordino i Sant Julià de Lòria», consulta 2026-09-19.
 - J.-A. Brutails, La Coutume d'Andorre (1904), cap. VII, especialment pp. 276–277 del Politar citat; digitalització Gallica BnF.
 - J.-A. Brutails, La Coutume d'Andorre (1904), cap. VII, p. 219 del Politar citat; digitalització Gallica BnF.
 - J.-A. Brutails, La Coutume d'Andorre (1904), cap. VII, p. 242; digitalització Gallica BnF.
@@ -42,6 +43,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 ## Condicions registrades
 
 - Contingut periodístic amb drets reservats; la fitxa premsa-andorrana registra redistribució:no. La referència concreta no es pot verificar.
+- La pàgina institucional registra drets reservats i redistribució:no; el portal exigeix autorització escrita i no consta cap permís específic. Aquesta limitació es conserva al registre de procedència.
 - La transcripció institucional dels documents precedents no declara llicència i la redistribució consta pendent. L’obra de Brutails (1904) és en domini públic; Gallica permet reutilització no comercial amb atribució. L’elegibilitat del destí d’entrenament no consta resolta; es conserven les condicions de les dues fonts.
 - Obra impresa de 1904 en domini públic; Gallica permet reutilització no comercial gratuïta amb atribució. L'elegibilitat del destí d'entrenament no consta resolta a la fitxa de font.
 - Obra impresa de 1904 en domini públic; Gallica permet reutilització no comercial gratuïta amb atribució. L’elegibilitat del destí d’entrenament no consta resolta a la fitxa de font.
