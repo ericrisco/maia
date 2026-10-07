@@ -9,7 +9,7 @@
   "file_count": 1477,
   "article_count": 1348,
   "parse_error_count": 0,
-  "conversation_count": 26,
+  "conversation_count": 27,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 0,
@@ -1392,13 +1392,14 @@
       "topic": "temes/cultura/museus-i-arxius",
       "source": "jurisprudencia-ad",
       "status": "in_progress",
-      "conversation_count": 26,
+      "conversation_count": 27,
       "conversation_ids": [
         "diposit-legal-bases-dades-programari-exemplars-001",
         "diposit-legal-braille-i-edicio-luxe-001",
         "diposit-legal-cartells-i-propaganda-exemplars-001",
         "diposit-legal-cinema-fotoquimic-formats-001",
         "diposit-legal-cinema-llargmetratge-curtmetratge-001",
+        "diposit-legal-composicio-numero-001",
         "diposit-legal-consulta-material-digital-001",
         "diposit-legal-editor-andorra-domini-ad-001",
         "diposit-legal-exclusions-online-001",
@@ -1448,7 +1449,8 @@
         "Llei 15/2025, article 14.a-b: original negatives, positive copies, artistic sheets and scripts for feature, medium-length and short films.",
         "Llei 15/2025, article 14.c: preservation materials and new 35 mm copy for photo-chemical film; other analog copies match the release format.",
         "Llei 15/2025, article 11.1.b: two copies for pamphlets and fascicles.",
-        "Llei 15/2025, article 10: two-month publication deadline, one extension of up to two months, cancellation, and no reuse of cancelled numbers."
+        "Llei 15/2025, article 10: two-month publication deadline, one extension of up to two months, cancellation, and no reuse of cancelled numbers.",
+        "Llei 15/2025, article 16: components of a legal-deposit number and the National Library’s assignment of the registration number."
       ],
       "open_units": [
         "Finish reviewing the remaining physical deposit categories and special formats, periodicals, film/television/radio, and linked regulations.",
