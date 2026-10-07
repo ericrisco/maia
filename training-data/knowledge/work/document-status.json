@@ -890,13 +890,15 @@
         "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0025",
         "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0026",
         "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0028",
+        "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0030",
         "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0031",
         "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0032"
       ],
       "excluded_unit_count": 5,
-      "open_unit_count": 13,
+      "open_unit_count": 12,
       "conversation_ids": [
         "calibratge-dama-blanca-i-llop-001",
+        "dama-blanca-esbart-laueria-001",
         "dama-blanca-estudi-figures-femenines-001",
         "dama-blanca-hipotesis-origen-001",
         "dama-blanca-historia-i-lectura-politica-001",
