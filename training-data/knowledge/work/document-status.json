@@ -610,6 +610,7 @@
         "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0007",
         "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0008",
         "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0009",
+        "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0010",
         "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0012",
         "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0014",
         "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0015",
@@ -620,11 +621,12 @@
         "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0028"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 16,
+      "open_unit_count": 15,
       "conversation_ids": [
         "estripagecs-abast-geografic-001",
         "estripagecs-cims-i-altituds-001",
         "estripagecs-circuit-i-funcio-001",
+        "estripagecs-foto-casa-rull-001",
         "estripagecs-i-tamarro-experiencia-turistica-001",
         "estripagecs-ofici-i-tallers-001",
         "estripagecs-sinonims-i-us-local-001"
