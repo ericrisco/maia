@@ -59,6 +59,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - Viquipèdia en català, article «Ball de l’ossa d’Encamp», llicència CC BY-SA 4.0; el passatge històric es presenta com una descripció de Joan Amades publicada el 1950.
 - Viquipèdia en català, article «Ball de l’ossa d’Encamp», llicència CC BY-SA 4.0; la font descriu «Els contrabandistes» i «L’ossa» com a farses complementàries en dies consecutius.
 - Viquipèdia en català, article «Ball de l’ossa d’Encamp», llicència CC BY-SA 4.0; la interpretació simbòlica s’hi atribueix a Eloi Ysàs Trias.
+- Viquipèdia en català, article «Ball de l’ossa d’Encamp», llicència CC BY-SA 4.0; relació de personatges de la farsa.
 - Viquipèdia en català, article «Festes de l’ossa a Andorra», CC BY-SA 4.0. La fitxa del corpus hi atribueix la causa de la decadència i la cronologia d’Ordino.
 - Viquipèdia en català, article «Festes de l’ossa a Andorra», CC BY-SA 4.0; Fabiola Sofia Masegosa i Gayo, «La vida teatral a Andorra de 1900 a 1970» (conferència del 2018, publicada el 2020), que resumeix la seva tesi doctoral del 2017; la cronologia arriba via la fitxa del Carnaval d’Encamp.
 - Viquipèdia en català, article «Festes de l’ossa a Andorra», CC BY-SA 4.0; atribueix a la Relació sobre la Vall de Andorra de 1838 la referència escrita més antiga.
@@ -98,6 +99,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - CC BY-SA 4.0; atribució i compartir igual. La font no data el trasllat al desembre.
 - CC BY-SA 4.0; atribució i compartir igual. La font no presenta aquests noms com a exclusius d’Andorra.
 - CC BY-SA 4.0; atribució i compartir igual. La fotografia mateixa no forma part del corpus consultat.
+- CC BY-SA 4.0; atribució i compartir igual. La llista s’atribueix a la font i no s’infereixen funcions que no hi són descrites.
 - CC BY-SA 4.0; atribució i compartir igual. La resposta resumeix dues trames diferenciades i no les fusiona.
 - CC BY-SA 4.0; atribució i compartir igual. Les dues pràctiques s’atribueixen a les seves localitats i no es generalitzen a totes les variants.
 - CC BY-SA 4.0; atribució i compartir igual. Les obres citades són només referències, no contingut consultat ni reproduït.
