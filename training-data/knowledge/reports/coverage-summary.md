@@ -5,7 +5,7 @@ L’inventari inclou tots els Markdown de `docs/temes/`, inclosos índexs. Una f
 - Fitxers Markdown inventariats: **1477**.
 - Fitxes `article`: **1348**.
 - Fitxers amb frontmatter invàlid: **0**.
-- Converses actives amb procedència: **77**.
+- Converses actives amb procedència: **78**.
 
 ## Estat de tots els fitxers
 
@@ -13,9 +13,9 @@ L’inventari inclou tots els Markdown de `docs/temes/`, inclosos índexs. Una f
 |---|---:|
 | Completats | 0 |
 | Exclosos per drets | 0 |
-| En curs | 1 |
+| En curs | 2 |
 | Sense pregunta natural | 0 |
-| No començats | 1476 |
+| No començats | 1475 |
 
 ## Estat de les fitxes article
 
@@ -23,9 +23,9 @@ L’inventari inclou tots els Markdown de `docs/temes/`, inclosos índexs. Una f
 |---|---:|
 | Completats | 0 |
 | Exclosos per drets | 0 |
-| En curs | 1 |
+| En curs | 2 |
 | Sense pregunta natural | 0 |
-| No començats | 1347 |
+| No començats | 1346 |
 
 ## Estat per tema
 
@@ -34,7 +34,7 @@ L’inventari inclou tots els Markdown de `docs/temes/`, inclosos índexs. Una f
 | `societat/treball` | 1 | 1 | 0 | 0 | 0 | 0 |
 | `temes/costums/calendari-festiu` | 2 | 2 | 0 | 0 | 0 | 0 |
 | `temes/costums/caramelles` | 1 | 1 | 0 | 0 | 0 | 0 |
-| `temes/costums/danses` | 7 | 7 | 0 | 0 | 0 | 0 |
+| `temes/costums/danses` | 7 | 6 | 1 | 0 | 0 | 0 |
 | `temes/costums/falles` | 1 | 1 | 0 | 0 | 0 | 0 |
 | `temes/costums/festes-majors` | 2 | 2 | 0 | 0 | 0 | 0 |
 | `temes/costums/gegants` | 1 | 1 | 0 | 0 | 0 | 0 |
@@ -160,4 +160,5 @@ L’inventari inclou tots els Markdown de `docs/temes/`, inclosos índexs. Una f
 
 ## Documents en curs
 
+- `docs/temes/costums/danses/la-marratxa.md` — 1 converses; 6 punts oberts.
 - `docs/temes/cultura/museus-i-arxius/el-diposit-legal.md` — 77 converses; 3 punts oberts.

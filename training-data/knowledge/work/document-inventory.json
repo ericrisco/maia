@@ -9,20 +9,20 @@
   "file_count": 1477,
   "article_count": 1348,
   "parse_error_count": 0,
-  "conversation_count": 77,
+  "conversation_count": 78,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 0,
-    "in_progress": 1,
+    "in_progress": 2,
     "no_natural_question": 0,
-    "not_started": 1476
+    "not_started": 1475
   },
   "article_status_totals": {
     "complete": 0,
     "excluded_rights": 0,
-    "in_progress": 1,
+    "in_progress": 2,
     "no_natural_question": 0,
-    "not_started": 1347
+    "not_started": 1346
   },
   "documents": [
     {
@@ -223,11 +223,22 @@
       "type": "article",
       "topic": "temes/costums/danses",
       "source": "viquipedia-ca",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "marratxa-simbolisme-parroquies-001"
+      ],
+      "reviewed_units": [
+        "Balladors i simbolisme: dos dansaires representen els coprínceps; tres noies representen les sis antigues parròquies. La font no explica la correspondència numèrica."
+      ],
+      "open_units": [
+        "Origen tradicional de la primera ballada el 7-09-1278 i discrepància amb la data del Pareatge (8-09-1278); verificar amb font primària.",
+        "Primera documentació de la dansa i moment en què se li atribueix la commemoració dels Pareatges.",
+        "Nom i variants (marratxa, morratxa, almorratxa), recipient perfumat i desaparició de l'objecte en la dansa actual.",
+        "Quan es balla dins la festa major de Sant Julià i quina relació té amb la Passa i el ball del Cerdà.",
+        "Història de la coreografia actual: Ricard Mas, Daniel Areny, Isidre Marbà i l'Esbart Laurèdia; distingir fixació moderna d'origen antic.",
+        "Detalls de vestuari i rastre documental que les fonts actuals deixen pendents."
+      ],
       "completion_note": "",
       "reason": "",
       "exclusion_reason": "",
