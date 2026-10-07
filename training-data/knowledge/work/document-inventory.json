@@ -54,12 +54,14 @@
       "topic": "temes/costums/calendari-festiu",
       "source": "premsa-andorrana",
       "status": "in_progress",
-      "conversation_count": 1,
+      "conversation_count": 2,
       "conversation_ids": [
+        "operacio-carnestoltes-tercera-farsa-1970-001",
         "ossa-encamp-cortinada-i-guio-1959-001"
       ],
       "reviewed_units": [
-        "El Ball de l’Ossa d’Encamp i el de la Cortinada tenen arguments diferents; a Encamp el guió escrit per Rossend Marsol el 1959 va substituir la transmissió oral i es refà anualment com a sàtira."
+        "El Ball de l’Ossa d’Encamp i el de la Cortinada tenen arguments diferents; a Encamp el guió escrit per Rossend Marsol el 1959 va substituir la transmissió oral i es refà anualment com a sàtira.",
+        "El carnaval d’Encamp té tres farses: el Judici, el Ball de l’Ossa i l’Operació del Carnestoltes; aquesta darrera s’incorpora cap al 1970 i reutilitza les vísceres de la matança del diumenge."
       ],
       "open_units": [
         "Guió, personatges i seqüència del Judici dels Contrabandistes; no consten al corpus.",
@@ -1679,12 +1681,14 @@
       "topic": "temes/cultura/teatre",
       "source": "masegosa-teatre-andorra",
       "status": "in_progress",
-      "conversation_count": 1,
+      "conversation_count": 2,
       "conversation_ids": [
+        "operacio-carnestoltes-tercera-farsa-1970-001",
         "ossa-encamp-cortinada-i-guio-1959-001"
       ],
       "reviewed_units": [
-        "La farsa de l’Ossa d’Encamp i la de la Cortinada tenen arguments diferents; la versió d’Encamp passa de transmissió oral a guió el 1959 i es refà anualment."
+        "La farsa de l’Ossa d’Encamp i la de la Cortinada tenen arguments diferents; la versió d’Encamp passa de transmissió oral a guió el 1959 i es refà anualment.",
+        "L’Operació del Carnestoltes és la tercera farsa d’Encamp, afegida pels volts de 1970; se’n coneix el resum argumental però no el guió íntegre ni l’autor."
       ],
       "open_units": [
         "Textos íntegres de les farses, guions i enregistraments no incorporats al corpus.",

@@ -134,10 +134,12 @@
       "Condicions de drets de les fonts periodístiques i acadèmiques."
     ],
     "conversation_ids": [
-      "ossa-encamp-cortinada-i-guio-1959-001"
+      "ossa-encamp-cortinada-i-guio-1959-001",
+      "operacio-carnestoltes-tercera-farsa-1970-001"
     ],
     "reviewed_units": [
-      "El Ball de l’Ossa d’Encamp i el de la Cortinada tenen arguments diferents; a Encamp el guió escrit per Rossend Marsol el 1959 va substituir la transmissió oral i es refà anualment com a sàtira."
+      "El Ball de l’Ossa d’Encamp i el de la Cortinada tenen arguments diferents; a Encamp el guió escrit per Rossend Marsol el 1959 va substituir la transmissió oral i es refà anualment com a sàtira.",
+      "El carnaval d’Encamp té tres farses: el Judici, el Ball de l’Ossa i l’Operació del Carnestoltes; aquesta darrera s’incorpora cap al 1970 i reutilitza les vísceres de la matança del diumenge."
     ]
   },
   "docs/temes/cultura/teatre/el-teatre-de-carnestoltes.md": {
@@ -149,10 +151,12 @@
       "Condicions de reutilització de la publicació acadèmica i dels documents d’arxiu."
     ],
     "conversation_ids": [
-      "ossa-encamp-cortinada-i-guio-1959-001"
+      "ossa-encamp-cortinada-i-guio-1959-001",
+      "operacio-carnestoltes-tercera-farsa-1970-001"
     ],
     "reviewed_units": [
-      "La farsa de l’Ossa d’Encamp i la de la Cortinada tenen arguments diferents; la versió d’Encamp passa de transmissió oral a guió el 1959 i es refà anualment."
+      "La farsa de l’Ossa d’Encamp i la de la Cortinada tenen arguments diferents; la versió d’Encamp passa de transmissió oral a guió el 1959 i es refà anualment.",
+      "L’Operació del Carnestoltes és la tercera farsa d’Encamp, afegida pels volts de 1970; se’n coneix el resum argumental però no el guió íntegre ni l’autor."
     ]
   }
 }
