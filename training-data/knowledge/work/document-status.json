@@ -19,7 +19,8 @@
         "diposit-legal-editor-andorra-domini-ad-001",
         "diposit-legal-publicacio-mixta-exemplars-001",
         "diposit-legal-exemplars-per-enquadernacio-001",
-        "diposit-legal-cartells-i-propaganda-exemplars-001"
+        "diposit-legal-cartells-i-propaganda-exemplars-001",
+        "diposit-legal-bases-dades-programari-exemplars-001"
       ],
       "covered_units": [
         "Llei 15/2025, article 22: scope of online publications; hosting location and domain; access unrestricted or restricted",
@@ -36,7 +37,8 @@
         "Llei 15/2025, article 22: Andorran editor/resident and .ad domain as independent inclusion criteria.",
         "Llei 15/2025, article 12: same copy count for every part of a mixed publication, based on the part requiring the largest number.",
         "Llei 15/2025, article 11.1.a: three copies for each book binding or digital layout, regardless of medium.",
-        "Llei 15/2025, article 11.1.b: two copies for advertising posters and electoral propaganda."
+        "Llei 15/2025, article 11.1.b: two copies for advertising posters and electoral propaganda.",
+        "Llei 15/2025, article 11.1.c: one copy for software and databases."
       ],
       "open_units": [
         "Finish reviewing the remaining physical deposit categories and special formats, periodicals, film/television/radio, and linked regulations.",
