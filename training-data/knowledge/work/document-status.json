@@ -33,7 +33,8 @@
       "Les partides de xocolata, llumins i cafè inclouen quantitats que anaven a l'estranger, identificat en aquest context com França; el document no en separa la quantitat exacta.",
       "Carvajal relaciona els aranzels amb el contraban, però les partides en trànsit no identifiquen cada enviament com a il·legal.",
       "L'apèndix del 1895 registra una mitjana de 8.000 caps d'ovelles i cabres que pujaven d'Espanya a Andorra per pasturar durant l'estiu; no en dona la data de tornada.",
-      "L'apèndix registra 105 famílies espanyoles residents o domiciliades a les valls el 1895, però no dona el nombre d'individus per família."
+      "L'apèndix registra 105 famílies espanyoles residents o domiciliades a les valls el 1895, però no dona el nombre d'individus per família.",
+      "La llista del 1895 registra 6.000 càrregues de vi comú per 180.000 pessetes (38,5% del total); només anota trànsit a l’estranger per a xocolata, llumins i cafè, no per al vi."
     ],
     "open_units": [
       "El pes del vi i les begudes en la cistella d'importacions.",
@@ -46,7 +47,19 @@
     "conversation_ids": [
       "corts1895-importacions-transit-franca-001",
       "corts1895-ramats-espanyols-transhumancia-001",
-      "corts1895-families-espanyoles-001"
+      "corts1895-families-espanyoles-001",
+      "corts1895-vi-partida-principal-001"
     ]
+  },
+  "docs/temes/historia/segle-xix/la-questio-duanera-de-1895.md": {
+    "status": "in_progress",
+    "reviewed_units": [
+      "Carvajal va afirmar al Congrés el 30 de juny de 1895 que els drets aranzelaris originaven el contraban i que l'exempció el suprimiria; aquesta és la seva posició en el debat."
+    ],
+    "open_units": [
+      "Resta revisar la fitxa sencera, les sessions parlamentàries i les fonts vinculades; aquesta menció puntual no representa cobertura completa."
+    ],
+    "completion_note": "Només s'ha comprovat el passatge citat per la fitxa de les importacions. La revisió completa continua pendent.",
+    "conversation_ids": []
   }
 }
