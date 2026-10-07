@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 10,
+    "in_progress": 11,
     "no_natural_question": 0,
-    "not_started": 1338
+    "not_started": 1337
   },
   "documents": [
     {
@@ -29,15 +29,21 @@
       "type": "article",
       "topic": "temes/costums/calendari-festiu",
       "source": "premsa-andorrana",
-      "status": "not_started",
-      "conversation_count": 1,
+      "status": "in_progress",
+      "conversation_count": 2,
       "conversation_ids": [
+        "calendari-meritxell-i-festes-majors-locals-01",
         "meritxell-festa-nacional-i-origen-01"
       ],
-      "reviewed_units": [],
+      "reviewed_units": [
+        "Diferència entre la festa nacional de Meritxell (8 de setembre) i les festes majors de parròquia o vila, que se celebren a l’estiu.",
+        "No hi ha dates concretes per parròquia o vila al corpus; cal recórrer a calendari oficial local."
+      ],
       "open_units": [
-        "L’article és secundari i no identifica la peça de premsa concreta; calendari oficial per parròquia i vila absent del corpus.",
-        "Sant Antoni (17 de gener) i l’escudella, encara sense conversa pròpia sobre aquesta unitat."
+        "Sant Antoni i l’escudella, caramelles, Sant Joan i falles; relacions amb fitxes específiques.",
+        "Calendari judicial de 1902 versus calendari popular; les absències no proven que una festa no existís.",
+        "Calendari oficial primari de cada parròquia i vila pendent.",
+        "Referència exacta de la premsa que sosté el calendari general, no identificada."
       ],
       "completion_note": "",
       "reason": ""
@@ -369,8 +375,9 @@
       "topic": "temes/costums/meritxell",
       "source": "premsa-andorrana",
       "status": "in_progress",
-      "conversation_count": 1,
+      "conversation_count": 2,
       "conversation_ids": [
+        "calendari-meritxell-i-festes-majors-locals-01",
         "meritxell-festa-nacional-i-origen-01"
       ],
       "reviewed_units": [

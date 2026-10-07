@@ -58,10 +58,19 @@
     ]
   },
   "docs/temes/costums/calendari-festiu/calendari-festiu.md": {
-    "status": "not_started",
+    "status": "in_progress",
+    "conversation_ids": [
+      "calendari-meritxell-i-festes-majors-locals-01"
+    ],
+    "reviewed_units": [
+      "Diferència entre la festa nacional de Meritxell (8 de setembre) i les festes majors de parròquia o vila, que se celebren a l’estiu.",
+      "No hi ha dates concretes per parròquia o vila al corpus; cal recórrer a calendari oficial local."
+    ],
     "open_units": [
-      "L’article és secundari i no identifica la peça de premsa concreta; calendari oficial per parròquia i vila absent del corpus.",
-      "Sant Antoni (17 de gener) i l’escudella, encara sense conversa pròpia sobre aquesta unitat."
+      "Sant Antoni i l’escudella, caramelles, Sant Joan i falles; relacions amb fitxes específiques.",
+      "Calendari judicial de 1902 versus calendari popular; les absències no proven que una festa no existís.",
+      "Calendari oficial primari de cada parròquia i vila pendent.",
+      "Referència exacta de la premsa que sosté el calendari general, no identificada."
     ]
   },
   "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md": {
