@@ -11,6 +11,7 @@ al projecte.
 ## Fonts dels registres exportats
 
 - André Vilar, *L'Andorre* (París, V. Giard & E. Brière, 1904), pp. 80-81; domini públic per antiguitat. Resum basat en la fitxa Maia «A Andorra sí que hi havia impost, i era sobre la renda».
+- Comunitat de la Viquipèdia, article «Minairó», llicència CC BY-SA 4.0; síntesi a la fitxa Maia «El minairó». Cal conservar l’atribució i compartir igual el material derivat.
 - Constitució del Principat d'Andorra, article 43, BOPA núm. 24, 4-05-1993; registre de condicions d'ús a docs/fonts/bopa-ad.md.
 - Constitució del Principat d'Andorra, articles 1.5 i 79-80, BOPA núm. 24, 4-05-1993; condicions de reutilització registrades a docs/fonts/bopa-ad.md.
 - Departament d'Estadística del Govern d'Andorra, «Estadística dels censos parroquials», referència 31-07-2026, publicada el 13-08-2026, i «Metodologia de les estimacions de població»; CC BY 4.0, amb atribució.
