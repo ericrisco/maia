@@ -1,6 +1,7 @@
 {
   "description": "Assigna cada font de contingut a un únic split; exemples amb fonts relacionades comparteixen split.",
   "groups": {
+    "docs/temes/institucions/consell-general/si-els-dos-senyors-no-sentenien-decidia-el-poble.md": "train",
     "docs/temes/territori/clima-i-muntanya/que-es-va-mesurar-a-lallau-darinsal.md": "train",
     "docs/raw/allaus/arinsal-furdada-2020.pdf": "train",
     "docs/raw/allaus/arinsal-furdada-2020.txt": "train",
