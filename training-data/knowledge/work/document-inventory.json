@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 8,
+    "in_progress": 11,
     "no_natural_question": 0,
-    "not_started": 1340
+    "not_started": 1337
   },
   "documents": [
     {
@@ -141,12 +141,14 @@
       "topic": "temes/costums/danses",
       "source": "premsa-andorrana",
       "status": "in_progress",
-      "conversation_count": 1,
+      "conversation_count": 2,
       "conversation_ids": [
+        "balls-andorra-la-vella-i-sant-julia-001",
         "sardana-introduccio-i-mestre-001"
       ],
       "reviewed_units": [
-        "Introducció de la sardana cap als anys quaranta segons Canturri; Ventura Armengol l’ensenyava i la cobla sardanista va arribar més tard sota el Sr. Pantebre."
+        "Introducció de la sardana cap als anys quaranta segons Canturri; Ventura Armengol l’ensenyava i la cobla sardanista va arribar més tard sota el Sr. Pantebre.",
+        "Mapa parroquial de les danses documentades: contrapàs a Andorra la Vella; Marratxa i Cerdà a Sant Julià; la Passa és un ritu de pas, no una dansa."
       ],
       "open_units": [],
       "completion_note": "",
@@ -181,12 +183,14 @@
       "topic": "temes/costums/danses",
       "source": "premsa-andorrana",
       "status": "in_progress",
-      "conversation_count": 1,
+      "conversation_count": 2,
       "conversation_ids": [
-        "ball-cerda-nom-lloc-i-hora-001"
+        "ball-cerda-nom-lloc-i-hora-001",
+        "balls-andorra-la-vella-i-sant-julia-001"
       ],
       "reviewed_units": [
-        "El nom remet a la Cerdanya sense que l’origen estigui establert; hora i lloc del ball a Sant Julià."
+        "El nom remet a la Cerdanya sense que l’origen estigui establert; hora i lloc del ball a Sant Julià.",
+        "El ball del Cerdà és de Sant Julià i es balla dilluns de festa major."
       ],
       "open_units": [
         "Coreografia, música, vestuari, participants i cronologia d’origen o recuperació; el llibre de l’Esbart Laurèdia està identificat però no consultat.",
@@ -202,10 +206,14 @@
       "type": "article",
       "topic": "temes/costums/danses",
       "source": "premsa-andorrana",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "balls-andorra-la-vella-i-sant-julia-001"
+      ],
+      "reviewed_units": [
+        "Parròquia i moment del contrapàs: Andorra la Vella, diumenge de festa major."
+      ],
       "open_units": [
         "Tretze parts, durada aproximada, música de cobla, peu esquerre i gran cercle final; coreografia detallada absent.",
         "Origen, datació i història de l’Esbart; només hi ha datació indirecta i no concloent.",
@@ -234,10 +242,14 @@
       "type": "article",
       "topic": "temes/costums/danses",
       "source": "viquipedia-ca",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "balls-andorra-la-vella-i-sant-julia-001"
+      ],
+      "reviewed_units": [
+        "La Marratxa és una dansa de Sant Julià que es balla dilluns de festa major."
+      ],
       "open_units": [
         "Recipient marratxa/morratxa/almorratxa i simbologia de la dansa, inclosa la relació amb el Coprincipat, els dos coprínceps i les parròquies.",
         "Coreografia moderna fixada als anys seixanta per Daniel Areny i Isidre Marbà a partir de la memòria de Ricard Mas; interpretació vigent des del 1963.",
@@ -494,10 +506,14 @@
       "type": "article",
       "topic": "temes/costums/ritus-de-pas",
       "source": "premsa-andorrana",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "balls-andorra-la-vella-i-sant-julia-001"
+      ],
+      "reviewed_units": [
+        "La Passa és una cercavila de parelles de fadrins, no una dansa; ordre de les parelles."
+      ],
       "open_units": [
         "Quan se celebra dins la festa major i el calendari exacte anual.",
         "Des de quan existeix i si és una tradició continuada o recuperada.",

@@ -226,12 +226,18 @@
     ]
   },
   "docs/temes/costums/ritus-de-pas/la-passa.md": {
-    "status": "not_started",
+    "status": "in_progress",
     "open_units": [
       "Quan se celebra dins la festa major i el calendari exacte anual.",
       "Des de quan existeix i si és una tradició continuada o recuperada.",
       "Fonts primàries o etnogràfiques sobre música, formació de parelles i pràctiques a altres parròquies.",
       "Verificar la grafia Passa amb una font normativa andorrana."
+    ],
+    "conversation_ids": [
+      "balls-andorra-la-vella-i-sant-julia-001"
+    ],
+    "reviewed_units": [
+      "La Passa és una cercavila de parelles de fadrins, no una dansa; ordre de les parelles."
     ]
   },
   "docs/temes/costums/danses/el-ball-del-cerda.md": {
@@ -242,36 +248,52 @@
       "Font periodística concreta no identificada."
     ],
     "conversation_ids": [
-      "ball-cerda-nom-lloc-i-hora-001"
+      "ball-cerda-nom-lloc-i-hora-001",
+      "balls-andorra-la-vella-i-sant-julia-001"
     ],
     "reviewed_units": [
-      "El nom remet a la Cerdanya sense que l’origen estigui establert; hora i lloc del ball a Sant Julià."
+      "El nom remet a la Cerdanya sense que l’origen estigui establert; hora i lloc del ball a Sant Julià.",
+      "El ball del Cerdà és de Sant Julià i es balla dilluns de festa major."
     ]
   },
   "docs/temes/costums/danses/la-marratxa.md": {
-    "status": "not_started",
+    "status": "in_progress",
     "open_units": [
       "Recipient marratxa/morratxa/almorratxa i simbologia de la dansa, inclosa la relació amb el Coprincipat, els dos coprínceps i les parròquies.",
       "Coreografia moderna fixada als anys seixanta per Daniel Areny i Isidre Marbà a partir de la memòria de Ricard Mas; interpretació vigent des del 1963.",
       "Primera documentació de la dansa, origen de la tradició del 1278 i vestuari; contrastar fonts i atribucions."
+    ],
+    "conversation_ids": [
+      "balls-andorra-la-vella-i-sant-julia-001"
+    ],
+    "reviewed_units": [
+      "La Marratxa és una dansa de Sant Julià que es balla dilluns de festa major."
     ]
   },
   "docs/temes/costums/danses/el-contrapas.md": {
-    "status": "not_started",
+    "status": "in_progress",
     "open_units": [
       "Tretze parts, durada aproximada, música de cobla, peu esquerre i gran cercle final; coreografia detallada absent.",
       "Origen, datació i història de l’Esbart; només hi ha datació indirecta i no concloent.",
       "Identificació de la font periodística original i termes de drets."
+    ],
+    "conversation_ids": [
+      "balls-andorra-la-vella-i-sant-julia-001"
+    ],
+    "reviewed_units": [
+      "Parròquia i moment del contrapàs: Andorra la Vella, diumenge de festa major."
     ]
   },
   "docs/temes/costums/danses/danses.md": {
     "open_units": [],
     "status": "in_progress",
     "conversation_ids": [
-      "sardana-introduccio-i-mestre-001"
+      "sardana-introduccio-i-mestre-001",
+      "balls-andorra-la-vella-i-sant-julia-001"
     ],
     "reviewed_units": [
-      "Introducció de la sardana cap als anys quaranta segons Canturri; Ventura Armengol l’ensenyava i la cobla sardanista va arribar més tard sota el Sr. Pantebre."
+      "Introducció de la sardana cap als anys quaranta segons Canturri; Ventura Armengol l’ensenyava i la cobla sardanista va arribar més tard sota el Sr. Pantebre.",
+      "Mapa parroquial de les danses documentades: contrapàs a Andorra la Vella; Marratxa i Cerdà a Sant Julià; la Passa és un ritu de pas, no una dansa."
     ]
   }
 }
