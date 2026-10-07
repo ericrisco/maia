@@ -282,7 +282,7 @@
       "topic": "temes/costums/danses",
       "source": "wikipedia-llegendes-andorra",
       "status": "in_progress",
-      "conversation_count": 14,
+      "conversation_count": 15,
       "conversation_ids": [
         "festes-ossa-abast-historic-territorial-01",
         "festes-ossa-bibliografia-per-ampliar",
@@ -293,6 +293,7 @@
         "ossa-pervivencia-encamp-ordino",
         "ossa-reference-escrita-1838-i-origen-01",
         "ultima-ossa-mascara-centenaria-01",
+        "ultima-ossa-ordino-canvis-lloc",
         "ultima-ossa-ordino-carnaval-i-desembre-01",
         "ultima-ossa-ordino-pandemia-2020",
         "ultima-ossa-ordino-trama-malentes",
@@ -318,7 +319,8 @@
         "a l’Última Ossa d’Ordino, un malentès entre quatre grups socials es resol quan s’uneixen per matar l’ossa; la font no hi formula una crítica social",
         "bibliografia recollida: Ysàs Trias 2016, Perramon 1994, Casanova 2005, volum del Govern 2019 i Junoy 1838; cap obra citada no forma part del corpus",
         "continuïtat: Encamp va modernitzar la representació amb el guió de Sícoris de 1959 i implicació del jovent; per a la represa d’Ordino el 2017 no consta la causa",
-        "les festes d’Encamp i Ordino consten com a béns immaterials a l’inventari general del Govern; la inscripció UNESCO del 2022 és un reconeixement internacional diferent"
+        "les festes d’Encamp i Ordino consten com a béns immaterials a l’inventari general del Govern; la inscripció UNESCO del 2022 és un reconeixement internacional diferent",
+        "l’Última Ossa d’Ordino va passar de la plaça del poble davant l’església de Sant Corneli i Sant Cebrià als jardins d’Areny-Plandolit a Sant Esteve, i després al desembre; la fitxa no data el trasllat"
       ],
       "completion_note": "",
       "reason": ""
