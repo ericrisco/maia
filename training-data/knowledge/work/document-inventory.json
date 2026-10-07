@@ -2200,14 +2200,16 @@
       "topic": "temes/economia/comerc",
       "source": "diario-sesiones-corts-1895",
       "status": "in_progress",
-      "conversation_count": 8,
+      "conversation_count": 10,
       "conversation_ids": [
         "corts1895-abast-inventari-importacions-001",
         "corts1895-absencies-llista-importacions-001",
         "corts1895-families-espanyoles-001",
         "corts1895-importacions-transit-franca-001",
+        "corts1895-llum-importacions-001",
         "corts1895-mitjana-importacions-per-capita-001",
         "corts1895-ramats-espanyols-transhumancia-001",
+        "corts1895-segells-ruta-postal-001",
         "corts1895-segol-us-no-especificat-001",
         "corts1895-vi-partida-principal-001"
       ],
@@ -2221,7 +2223,9 @@
         "L’apèndix registra 1.250 quintars de sègol, però no n’indica l’ús; no permet concloure que fos per al consum humà ni quin pa menjava la població.",
         "La llista compta importacions des d’Espanya; l’absència de carn i lactis no indica que no se’n consumís, i els 12 quintars de patates no representen necessàriament la producció local ni altres orígens.",
         "Les 78 pessetes per habitant són la divisió aproximada del total d’importacions per 6.000 habitants; no mesuren consum individual i el total inclou trànsit parcial no desglossat.",
-        "La relació acompanya una proposta parlamentària d’aranzels i compta entrades des d’Espanya, amb partides de trànsit; no representa per si sola totes les importacions, la producció ni el consum final d’Andorra."
+        "La relació acompanya una proposta parlamentària d’aranzels i compta entrades des d’Espanya, amb partides de trànsit; no representa per si sola totes les importacions, la producció ni el consum final d’Andorra.",
+        "L’apèndix registra 75 quintars de ciris i candeles i 50 de petroli importats d’Espanya; no descriu els usos ni altres fonts possibles d’il·luminació.",
+        "L’apèndix registra 6.000 segells de correu comprats a Espanya, però no informa de les rutes postals ni de qui gestionava el servei."
       ],
       "open_units": [
         "El pes del vi i les begudes en la cistella d'importacions.",
