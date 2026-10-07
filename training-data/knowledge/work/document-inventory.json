@@ -428,7 +428,7 @@
       "topic": "temes/costums/religiositat",
       "source": "bopa-ad",
       "status": "in_progress",
-      "conversation_count": 18,
+      "conversation_count": 19,
       "conversation_ids": [
         "constitucio-llibertat-religiosa-i-esglesia-catolica-15",
         "registre-religios-acces-public-i-consulta-concreta-02",
@@ -436,6 +436,7 @@
         "registre-religios-cancellacio-inactivitat-i-avis-03",
         "registre-religios-comptatge-practicants-i-llocs-culte-06",
         "registre-religios-dades-organs-govern-consentiment-05",
+        "registre-religios-dades-religioses-i-fitxers-personals-19",
         "registre-religios-declaracio-biennal-i-incompliment-12",
         "registre-religios-enquesta-policial-i-informes-17",
         "registre-religios-entitat-estrangera-documents-09",
@@ -467,10 +468,11 @@
         "Constitució, article 11.1–3: garantia general de llibertat ideològica, religiosa i de culte, límits legals a la manifestació de creences i garanties específiques de l’Església catòlica.",
         "Llei 2/2025, article 6: recurs administratiu potestatiu contra les resolucions i possibilitat de demanda judicial directa pel procediment urgent i preferent de tutela de drets fonamentals.",
         "Llei 2/2025, articles 5–6: caràcter potestatiu de l’enquesta policial i dels informes experts, i separació entre instrucció de l’expedient i resolució registral.",
-        "Llei 2/2025, article 6: formulari oficial, signatura del representant legal, residència legal a Andorra per al representant estranger i gratuïtat de la inscripció."
+        "Llei 2/2025, article 6: formulari oficial, signatura del representant legal, residència legal a Andorra per al representant estranger i gratuïtat de la inscripció.",
+        "Llei 2/2025, article 8.5: prohibició específica de crear fitxers per emmagatzemar exclusivament dades personals que revelin religió o creences, diferenciada de l’accés legal al Registre."
       ],
       "open_units": [
-        "Article 6: notificacions, tractament d’indicis penals; article 8: privacitat i còpies/certificacions, prohibició de crear fitxers dedicats només a emmagatzemar creences; passada editorial integral."
+        "Article 6: notificacions i tractament d’indicis d’il·licitat penal; article 8.4–6: forma concreta de certificacions i desplegament reglamentari; auditoria editorial integral abans de marcar completa."
       ],
       "completion_note": "",
       "reason": ""
