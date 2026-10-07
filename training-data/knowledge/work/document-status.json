@@ -306,7 +306,8 @@
       "protocol-duaner-agricultura-i-transit-entre-territoris-06",
       "protocol-duaner-reconeixement-risk-i-operadors-07",
       "protocol-duaner-aplicacio-provisional-i-vigencia-08",
-      "protocol-duaner-suspensio-real-no-verificada-09"
+      "protocol-duaner-suspensio-real-no-verificada-09",
+      "protocol-duaner-cita-adequacio-dades-10"
     ],
     "reviewed_units": [
       "participació d’un expert de l’administració andorrana com a observador, sense vot, amb posició expressada i opinió registrada a part",
@@ -325,13 +326,28 @@
       "reconeixement mutu de l’equivalència dels sistemes de gestió del risc relacionats amb la seguretat",
       "intercanvi periòdic de dades sobre operadors econòmics autoritzats i els set camps especificats al Protocol",
       "aplicació provisional des de l’1 de gener de 2011 i condició de notificació per a l’entrada en vigor definitiva; notificació no localitzada",
-      "no s’ha verificat cap invocació real de la suspensió; l’absència de cas localitzat no prova que no n’hi hagués"
+      "no s’ha verificat cap invocació real de la suspensió; l’absència de cas localitzat no prova que no n’hi hagués",
+      "referència del preàmbul a l’adequació de protecció de dades de 2010 com a acte separat del protocol duaner"
     ],
     "open_units": [
       "aplicació provisional des de 2011 i notificació d’entrada en vigor definitiva no localitzada",
-      "relació amb la Decisió d’adequació de dades personals de 2010 i les fonts que el protocol cita",
       "verificar en fonts oficials si l’article 12k s’ha invocat i si hi ha hagut suspensions o mesures de reequilibri",
       "localitzar el text íntegre autèntic en català del protocol"
+    ],
+    "completion_note": "",
+    "reason": ""
+  },
+  "docs/temes/institucions/relacions-exteriors/andorra-es-adequada.md": {
+    "status": "in_progress",
+    "conversation_ids": [
+      "protocol-duaner-cita-adequacio-dades-10"
+    ],
+    "reviewed_units": [
+      "relació entre la referència del preàmbul del Protocol de 2011 i la Decisió 2010/625/UE",
+      "significat de l’adequació del 2010 per a les transferències de dades des de la UE sota la Directiva 95/46/CE"
+    ],
+    "open_units": [
+      "auditar la cobertura de la resta de la Decisió 2010/625/UE i de la seva versió consolidada del 2016"
     ],
     "completion_note": "",
     "reason": ""
