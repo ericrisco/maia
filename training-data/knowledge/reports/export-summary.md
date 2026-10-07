@@ -2,14 +2,14 @@
 
 Generat per `scripts/export_approved.py`. Cada línia dels JSONL conté una conversa amb `messages`; no hi ha camps interns.
 
-- Converses aprovades exportades: **38**.
-- Fitxes `docs/temes/` representades: **17**.
+- Converses aprovades exportades: **39**.
+- Fitxes `docs/temes/` representades: **18**.
 - Converses de revisió no exportables: **0**.
 
 | Split | Converses |
 |---|---:|
 | `train` | 25 |
-| `validation` | 9 |
+| `validation` | 10 |
 | `test` | 4 |
 
 ## Fonts incloses
@@ -21,6 +21,7 @@ Generat per `scripts/export_approved.py`. Cada línia dels JSONL conté una conv
 - `docs/temes/cultura/arquitectura/els-estripagecs.md` → `test`
 - `docs/temes/cultura/arquitectura/sant-joan-de-caselles.md` → `test`
 - `docs/temes/cultura/arquitectura/sant-marti-de-la-cortinada.md` → `test`
+- `docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md` → `validation`
 - `docs/temes/cultura/llegendes/el-minairo.md` → `validation`
 - `docs/temes/cultura/llegendes/el-tamarro.md` → `test`
 - `docs/temes/economia/banca-i-fiscalitat/a-andorra-si-que-hi-havia-impost.md` → `train`
