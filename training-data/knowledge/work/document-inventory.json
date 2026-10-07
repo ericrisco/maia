@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 6,
+    "in_progress": 7,
     "no_natural_question": 0,
-    "not_started": 1342
+    "not_started": 1341
   },
   "documents": [
     {
@@ -147,17 +147,18 @@
       "type": "article",
       "topic": "temes/costums/danses",
       "source": "wikipedia-ball-ossa-encamp",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "ball-ossa-dallaires-i-ritus-pas-01"
+      ],
+      "reviewed_units": [
+        "Paper central dels dallaires i diferència entre els joves intèrprets i la resta de personatges.",
+        "Lectura del ball com a ritus d’iniciació, atribuïda a Eloi Ysàs Trias i identificada com a interpretació."
+      ],
       "open_units": [
-        "personatges de la farsa i paper dels dallaires",
-        "lectura iniciàtica i atribució a Ysàs; límits de la interpretació",
-        "descripció d’Amades de 1950 i reserva de verificació de la citació",
-        "canvis del guió de Sícoris de 1959 i continuïtat fins avui",
-        "discrepància encara no resolta entre les versions d’Amades i Masegosa sobre l’argument",
-        "cronologia d’Ordino: motius de les interrupcions i persones que n’impulsaren les represes"
+        "Tesi d’Eloi Ysàs Trias no consultada directament; text de la farsa, variants, música i context complet pendents.",
+        "Discrepàncies sobre cronologia d’Ordino i estat patrimonial resoltes o no segons les fonts indicades a la fitxa; revisar cada unitat abans de generar preguntes."
       ],
       "completion_note": "",
       "reason": ""

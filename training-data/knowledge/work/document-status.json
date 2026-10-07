@@ -17,14 +17,17 @@
     ]
   },
   "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md": {
-    "status": "not_started",
+    "status": "in_progress",
+    "conversation_ids": [
+      "ball-ossa-dallaires-i-ritus-pas-01"
+    ],
+    "reviewed_units": [
+      "Paper central dels dallaires i diferència entre els joves intèrprets i la resta de personatges.",
+      "Lectura del ball com a ritus d’iniciació, atribuïda a Eloi Ysàs Trias i identificada com a interpretació."
+    ],
     "open_units": [
-      "personatges de la farsa i paper dels dallaires",
-      "lectura iniciàtica i atribució a Ysàs; límits de la interpretació",
-      "descripció d’Amades de 1950 i reserva de verificació de la citació",
-      "canvis del guió de Sícoris de 1959 i continuïtat fins avui",
-      "discrepància encara no resolta entre les versions d’Amades i Masegosa sobre l’argument",
-      "cronologia d’Ordino: motius de les interrupcions i persones que n’impulsaren les represes"
+      "Tesi d’Eloi Ysàs Trias no consultada directament; text de la farsa, variants, música i context complet pendents.",
+      "Discrepàncies sobre cronologia d’Ordino i estat patrimonial resoltes o no segons les fonts indicades a la fitxa; revisar cada unitat abans de generar preguntes."
     ]
   },
   "docs/temes/cultura/teatre/el-teatre-de-carnestoltes.md": {
