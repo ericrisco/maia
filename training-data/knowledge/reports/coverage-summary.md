@@ -4,7 +4,7 @@ El recompte inclou tots els Markdown de `docs/temes/`, també índexs i altres f
 
 - Fitxers Markdown inventariats: **1477**.
 - Fitxes `article`: **1348**.
-- Converses candidates amb procedència: **26**.
+- Converses candidates amb procedència: **27**.
 
 ## Estat de tots els fitxers
 
@@ -12,9 +12,9 @@ El recompte inclou tots els Markdown de `docs/temes/`, també índexs i altres f
 |---|---:|
 | Completats | 0 |
 | Exclosos per drets | 1 |
-| En curs | 5 |
+| En curs | 6 |
 | Sense pregunta natural | 0 |
-| No començats | 1471 |
+| No començats | 1470 |
 
 ## Estat de les fitxes article
 
@@ -22,9 +22,9 @@ El recompte inclou tots els Markdown de `docs/temes/`, també índexs i altres f
 |---|---:|
 | Completats | 0 |
 | Exclosos per drets | 1 |
-| En curs | 5 |
+| En curs | 6 |
 | Sense pregunta natural | 0 |
-| No començats | 1342 |
+| No començats | 1341 |
 
 ## Estat per tema
 
@@ -103,7 +103,7 @@ El recompte inclou tots els Markdown de `docs/temes/`, també índexs i altres f
 | `temes/institucions/patrimoni-institucional` | 6 | 6 | 0 | 0 | 0 |
 | `temes/institucions/petits-estats` | 2 | 2 | 0 | 0 | 0 |
 | `temes/institucions/quarts-i-veinats` | 2 | 2 | 0 | 0 | 0 |
-| `temes/institucions/relacions-exteriors` | 8 | 3 | 4 | 0 | 0 |
+| `temes/institucions/relacions-exteriors` | 8 | 2 | 5 | 0 | 0 |
 | `temes/institucions/simbols` | 4 | 4 | 0 | 0 | 0 |
 | `temes/llengua/contacte-de-llengues` | 5 | 5 | 0 | 0 | 0 |
 | `temes/llengua/dialectologia` | 4 | 4 | 0 | 0 | 0 |

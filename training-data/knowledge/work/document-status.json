@@ -77,5 +77,21 @@
   "docs/temes/institucions/relacions-exteriors/lacord-dassociacio-amb-la-ue.md": {
     "status": "excluded_rights",
     "exclusion_reason": "La fitxa depèn de premsa andorrana amb drets reservats i redistribució=no; no identifica els diaris, titulars ni dates de cada dada. A més, la fitxa de l’11-09-2026 preveia una signatura per a setembre/principis d’octubre de 2026, termini que ja ha passat. No generar candidats fins que hi hagi font oficial vigent i drets compatibles."
+  },
+  "docs/temes/institucions/relacions-exteriors/els-comisos-sempre-en-benefici-de-lestat-andorra.md": {
+    "status": "in_progress",
+    "reviewed_units": [
+      "Llei 32/2021, arts. 9–11: via ordinària i urgent per rebre peticions d’auxili penal i regla per a citacions a judici."
+    ],
+    "open_units": [
+      "Vuit condicions per a l’ajuda judicial, divisió de demandes i excepció exculpatòria.",
+      "Limitació de finalitat i garanties prèvies per a la informació comunicada.",
+      "Sentències penals estrangeres i excepció de comís; procediment, recursos i destinació dels béns.",
+      "Secret bancari, tractament d’enregistraments i documents amb dades protegides.",
+      "Procediments, terminis, costos i detalls operatius dels articles 12–24.",
+      "Transferència de processos penals a Andorra o des d’Andorra, i certificats d’antecedents.",
+      "Llei d’extradició de 1996 i diferència amb l’auxili judicial de la Llei 32/2021.",
+      "Abast i límits de la instantània consolidada del 2026-09-12."
+    ]
   }
 }
