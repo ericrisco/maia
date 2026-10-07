@@ -62,6 +62,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - Viquipèdia en català, article «Festes de l’ossa a Andorra», CC BY-SA 4.0; la fitxa descriu la festa com una farsa còmica d’un acte i enumera els personatges.
 - Viquipèdia en català, article «Festes de l’ossa a Andorra», CC BY-SA 4.0; la fitxa descriu la «sang» com aigua amb granadina i el ball final.
 - Viquipèdia en català, article «Festes de l’ossa a Andorra», CC BY-SA 4.0; la font atribueix el calendari a la creença que l’ossa hibernava entre Nadal i la Candelera.
+- Viquipèdia en català, article «Festes de l’ossa a Andorra», CC BY-SA 4.0; tesi d’Eloi Ysàs Trias, citada i resumida pel corpus via Fabiola Masegosa.
 - Viquipèdia en català, article «Festes de l’ossa a Andorra», llicència CC BY-SA 4.0; bibliografia transcrita de la fitxa del corpus.
 - Viquipèdia en català, article «Festes de l’ossa a Andorra», llicència CC BY-SA 4.0; cronologia de l’Última Ossa d’Ordino el 2020.
 - Viquipèdia en català, article «Festes de l’ossa a Andorra», llicència CC BY-SA 4.0; cronologia i llocs de celebració de l’Última Ossa d’Ordino.
@@ -95,6 +96,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - Contingut periodístic amb drets reservats; la fitxa premsa-andorrana registra redistribució:no. La referència concreta no es pot verificar.
 - Font institucional amb drets reservats; el portal exigeix autorització escrita per redistribuir o transformar continguts i no consta un permís específic. Aquesta limitació queda registrada; no s’interpreta la inclusió com a llicència.
 - La fitxa de Canturri registra redistribució pendent. La conversa conserva l’atribució i no trasllada a Sant Julià les dates documentades per als gegants d’Andorra la Vella.
+- La font de Viquipèdia és CC BY-SA 4.0. La tesi de Masegosa és d’accés obert amb redistribució pendent; no redistribuir contingut derivat sense revisar-ne els termes.
 - La notícia del Govern té drets reservats i redistribució no autoritzada; l’ús queda registrat per al dataset intern del projecte i no autoritza redistribució del text. La fitxa de Viquipèdia és CC BY-SA 4.0.
 - La publicació de l’IEC té redistribució pendent. Les imatges dels Archives diplomatiques estan subjectes a les condicions del portal. No consta permís específic per redistribuir les fonts.
 - La pàgina institucional registra drets reservats i redistribució:no; el portal exigeix autorització escrita i no consta cap permís específic. Aquesta limitació es conserva al registre de procedència.
