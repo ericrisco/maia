@@ -9,7 +9,7 @@
   "file_count": 1477,
   "article_count": 1348,
   "parse_error_count": 0,
-  "conversation_count": 112,
+  "conversation_count": 113,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 0,
@@ -160,13 +160,15 @@
       "topic": "temes/costums/danses",
       "source": "wikipedia-ball-ossa-encamp",
       "status": "in_progress",
-      "conversation_count": 1,
+      "conversation_count": 2,
       "conversation_ids": [
-        "ball-ossa-encamp-sicoris-modernitzacio-001"
+        "ball-ossa-encamp-sicoris-modernitzacio-001",
+        "encamp-ossa-contrabandistes-binom-farses-001"
       ],
       "reviewed_units": [
         "Sícoris va escriure el guió el 1959, va modernitzar la representació i hi va introduir megafonia.",
-        "El guió encara n'és l'esquema; la font no detalla quins elements anteriors es van conservar."
+        "El guió encara n'és l'esquema; la font no detalla quins elements anteriors es van conservar.",
+        "El Ball de l'Ossa i Els contrabandistes formen dues farses complementàries en dies consecutius; la font no n'estableix una relació històrica real."
       ],
       "open_units": [
         "Verificar amb fonts accessibles la interpretació iniciàtica i les etapes atribuïdes a la tesi doctoral d'Eloi Ysàs Trias.",

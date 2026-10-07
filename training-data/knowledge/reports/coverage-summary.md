@@ -5,7 +5,7 @@ L’inventari inclou tots els Markdown de `docs/temes/`, inclosos índexs. Una f
 - Fitxers Markdown inventariats: **1477**.
 - Fitxes `article`: **1348**.
 - Fitxers amb frontmatter invàlid: **0**.
-- Converses actives amb procedència: **112**.
+- Converses actives amb procedència: **113**.
 
 ## Estat de tots els fitxers
 
@@ -160,7 +160,7 @@ L’inventari inclou tots els Markdown de `docs/temes/`, inclosos índexs. Una f
 
 ## Documents en curs
 
-- `docs/temes/costums/danses/el-ball-de-lossa-dencamp.md` — 1 converses; 4 punts oberts.
+- `docs/temes/costums/danses/el-ball-de-lossa-dencamp.md` — 2 converses; 4 punts oberts.
 - `docs/temes/costums/danses/la-marratxa.md` — 11 converses; 5 punts oberts.
 - `docs/temes/costums/danses/les-festes-de-lossa.md` — 6 converses; 7 punts oberts.
 - `docs/temes/costums/meritxell/meritxell.md` — 1 converses; 5 punts oberts.
