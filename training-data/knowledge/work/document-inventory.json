@@ -9,7 +9,7 @@
   "file_count": 1477,
   "article_count": 1348,
   "parse_error_count": 0,
-  "conversation_count": 130,
+  "conversation_count": 131,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 0,
@@ -1164,7 +1164,7 @@
       "topic": "temes/cultura",
       "source": "estadistica-ad",
       "status": "in_progress",
-      "conversation_count": 11,
+      "conversation_count": 12,
       "conversation_ids": [
         "habits-culturals-biblioteques-edat-001",
         "habits-culturals-biblioteques-enquesta-i-usuaris-001",
@@ -1176,7 +1176,8 @@
         "habits-culturals-lectura-per-oci-genere-001",
         "habits-culturals-llengua-i-format-de-lectura-001",
         "habits-culturals-museus-per-edat-001",
-        "habits-culturals-teatre-i-multiplicitat-activitats-001"
+        "habits-culturals-teatre-i-multiplicitat-activitats-001",
+        "habits-culturals-voluntariat-discrepancia-series-001"
       ],
       "reviewed_units": [
         "Enquesta 2019 i 2024: cinema, 57,4% → 66,3% (+8,9 punts).",
@@ -1199,7 +1200,9 @@
         "Lectura per oci segons estudis: terciaris 83,0% → 76,1%; secundaris 68,2% → 66,5%; obligatoris 45,7% → 48,8%.",
         "Distància terciaris-obligatoris: 37,3 punts el 2019 i 27,3 el 2024; continua sent marcada.",
         "Lectura per oci i renda, només el 2019: 79,7% al tram >3.000 €/mes i 65,2% al tram <1.200 €/mes; no es publica el desglossament 2024.",
-        "L'enquesta no desglossa la lectura per llengua ni per tipus de material; no permet afirmar res sobre la lectura en català."
+        "L'enquesta no desglossa la lectura per llengua ni per tipus de material; no permet afirmar res sobre la lectura en català.",
+        "Voluntariat: totals i total per sexe coincideixen el 2010-2021 i 2025; discrepen el 2022-2024 (468/242, 517/260, 476/281), sense causa identificada.",
+        "El 2025 coincideixen 178 voluntaris totals i 77 homes + 101 dones."
       ],
       "open_units": [
         "Revisar les altres activitats de l'enquesta i els seus desglossaments per edat, sexe i estudis.",
