@@ -2,6 +2,7 @@
   "description": "Assigna cada font de contingut a un únic split; exemples amb fonts relacionades comparteixen split.",
   "groups": {
     "docs/temes/costums/religiositat/el-registre-dentitats-religioses.md": "train",
+    "docs/temes/gastronomia/plats/el-trinxat.md": "train",
     "docs/temes/costums/religiositat/religiositat.md": "train",
     "docs/temes/costums/religiositat/les-religions-dandorra-avui.md": "train",
     "docs/raw/lleis/bopa-originals/original-2-2025.txt": "train",
