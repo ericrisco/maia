@@ -61,6 +61,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - Viquipèdia en català, article «Festes de l’ossa a Andorra», CC BY-SA 4.0; la fitxa descriu la festa com una farsa còmica d’un acte i enumera els personatges.
 - Viquipèdia en català, article «Festes de l’ossa a Andorra», CC BY-SA 4.0; la fitxa descriu la «sang» com aigua amb granadina i el ball final.
 - Viquipèdia en català, article «Festes de l’ossa a Andorra», CC BY-SA 4.0; la font atribueix el calendari a la creença que l’ossa hibernava entre Nadal i la Candelera.
+- Viquipèdia en català, article «Festes de l’ossa a Andorra», llicència CC BY-SA 4.0; cronologia de l’Última Ossa d’Ordino el 2020.
 - Viquipèdia en català, article «Festes de l’ossa a Andorra», llicència CC BY-SA 4.0; la fitxa cita l’Arxiu Nacional com a custodi de documents i testimonis orals.
 - Viquipèdia en català, articles sobre les festes de l’ossa d’Andorra i el ball de l’ossa d’Encamp; llicència CC BY-SA 4.0.
 - Viquipèdia en català, dades sobre els dansaires i la simbologia de la Marratxa; llicència CC BY-SA 4.0.
