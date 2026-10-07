@@ -1371,6 +1371,8 @@
       "status": "in_progress",
       "unit_count": 28,
       "covered_unit_ids": [
+        "docs/temes/cultura/museus-i-arxius/museus/casa-dareny-plandolit.md#unit-0001",
+        "docs/temes/cultura/museus-i-arxius/museus/casa-dareny-plandolit.md#unit-0002",
         "docs/temes/cultura/museus-i-arxius/museus/casa-dareny-plandolit.md#unit-0011",
         "docs/temes/cultura/museus-i-arxius/museus/casa-dareny-plandolit.md#unit-0016",
         "docs/temes/cultura/museus-i-arxius/museus/casa-dareny-plandolit.md#unit-0019",
@@ -1378,8 +1380,9 @@
         "docs/temes/cultura/museus-i-arxius/museus/casa-dareny-plandolit.md#unit-0021"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 23,
+      "open_unit_count": 21,
       "conversation_ids": [
+        "casa-areny-plandolit-edat-i-interior-001",
         "nova-reforma-1866-vot-i-mandats-001"
       ]
     },
