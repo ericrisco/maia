@@ -191,7 +191,8 @@
       "La lectura per oci baixa de 69,6% (2019) a 67,3% (2024); per sexe: dones 77,9→72,2%, homes 61,5→62,9%, distància 16,4→9,3 punts. Per estudis: terciaris -6,9 punts, secundària -1,7, obligatoris +3,1; distància terciaris-obligatoris 37,3→27,3 punts.",
       "La proporció que visita museus baixa entre 2019 i 2024: 15-29 anys 72,5→58,6% (-13,9), 30-44 63,9→62,4% (-1,5), 45-64 63,0→54,5% (-8,5), 65+ 55,2→38,2% (-17,0). L'enquesta no n'explica la causa.",
       "La participació en més d'11 activitats culturals baixa de 55% (2019) a 44,3% (2024), -10,7 punts. A la taula pugen cinema i esport, el teatre gairebé es manté, i baixen lectura per oci, biblioteques i museus; l'enquesta només té dues onades.",
-      "El 2020 hi va haver 17.646 préstecs a domicili (-59,7% respecte del 2019), mentre que els usuaris inscrits van ser 25.368, més que l'any anterior; la sèrie no n'identifica la causa."
+      "El 2020 hi va haver 17.646 préstecs a domicili (-59,7% respecte del 2019), mentre que els usuaris inscrits van ser 25.368, més que l'any anterior; la sèrie no n'identifica la causa.",
+      "El 2019, la lectura per oci és del 79,7% per als ingressos mensuals >3.000 € i del 65,2% per als ingressos <1.200 €; el desglossament per renda no es publica el 2024."
     ],
     "open_units": [
       "Resta revisar altres desglossaments i limitacions de les taules, inclosos els percentatges per renda només publicats el 2019 i les limitacions declarades per pràctica."
@@ -205,7 +206,8 @@
       "cultura-lectura-oci-sexe-estudis-2019-2024-001",
       "cultura-museus-visitants-edats-2019-2024-001",
       "cultura-practiques-sintesi-2019-2024-001",
-      "cultura-biblioteques-2020-prestecs-001"
+      "cultura-biblioteques-2020-prestecs-001",
+      "cultura-lectura-oci-renda-2019-2024-001"
     ]
   },
   "docs/temes/cultura/museus-i-arxius/museus/els-museus-d-andorra-index-de-fitxes.md": {
