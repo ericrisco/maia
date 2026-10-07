@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 6,
+    "in_progress": 7,
     "no_natural_question": 0,
-    "not_started": 1342
+    "not_started": 1341
   },
   "documents": [
     {
@@ -30,8 +30,9 @@
       "topic": "temes/costums/calendari-festiu",
       "source": "premsa-andorrana",
       "status": "in_progress",
-      "conversation_count": 1,
+      "conversation_count": 2,
       "conversation_ids": [
+        "calendari-fites-anuals-andorra-001",
         "sant-antoni-llista-judicial-i-escudella-001"
       ],
       "reviewed_units": [
@@ -80,8 +81,9 @@
       "topic": "temes/costums/caramelles",
       "source": "premsa-andorrana",
       "status": "in_progress",
-      "conversation_count": 1,
+      "conversation_count": 2,
       "conversation_ids": [
+        "calendari-fites-anuals-andorra-001",
         "caramelles-sant-julia-diumenge-seguent-001"
       ],
       "reviewed_units": [
@@ -243,8 +245,9 @@
       "topic": "temes/costums/falles",
       "source": "canturri-usos-i-costums",
       "status": "in_progress",
-      "conversation_count": 1,
+      "conversation_count": 2,
       "conversation_ids": [
+        "calendari-fites-anuals-andorra-001",
         "falles-andorra-torxes-i-recuperacio-001"
       ],
       "reviewed_units": [
@@ -292,9 +295,11 @@
       "type": "article",
       "topic": "temes/costums/festes-majors",
       "source": "premsa-andorrana",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "calendari-fites-anuals-andorra-001"
+      ],
       "reviewed_units": [],
       "open_units": [],
       "completion_note": "",
@@ -349,8 +354,9 @@
       "topic": "temes/costums/meritxell",
       "source": "premsa-andorrana",
       "status": "in_progress",
-      "conversation_count": 1,
+      "conversation_count": 2,
       "conversation_ids": [
+        "calendari-fites-anuals-andorra-001",
         "meritxell-feriat-i-festa-nacional-1902-001"
       ],
       "reviewed_units": [
@@ -496,8 +502,9 @@
       "topic": "temes/costums/sant-antoni",
       "source": "premsa-andorrana",
       "status": "in_progress",
-      "conversation_count": 1,
+      "conversation_count": 2,
       "conversation_ids": [
+        "calendari-fites-anuals-andorra-001",
         "sant-antoni-llista-judicial-i-escudella-001"
       ],
       "reviewed_units": [
