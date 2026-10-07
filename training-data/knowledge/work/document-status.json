@@ -883,12 +883,18 @@
       "title": "El Roc de les Bruixes",
       "type": "article",
       "topic": "temes/cultura/llegendes",
-      "status": "in_progress",
+      "status": "complete",
       "unit_count": 14,
-      "covered_unit_ids": [],
-      "excluded_unit_count": 10,
-      "open_unit_count": 4,
-      "conversation_ids": []
+      "covered_unit_ids": [
+        "docs/temes/cultura/llegendes/el-roc-de-les-bruixes.md#unit-0001",
+        "docs/temes/cultura/llegendes/el-roc-de-les-bruixes.md#unit-0003",
+        "docs/temes/cultura/llegendes/el-roc-de-les-bruixes.md#unit-0004"
+      ],
+      "excluded_unit_count": 11,
+      "open_unit_count": 0,
+      "conversation_ids": [
+        "roc-bruixes-meritxell-visual-i-limits-001"
+      ]
     },
     "docs/temes/cultura/llegendes/el-tamarro.md": {
       "title": "El tamarro",
