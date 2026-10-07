@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 60,
+    "in_progress": 62,
     "no_natural_question": 0,
-    "not_started": 1288
+    "not_started": 1286
   },
   "documents": [
     {
@@ -1416,11 +1416,19 @@
       "type": "article",
       "topic": "temes/cultura/cultura-popular",
       "source": "viquipedia-ca",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "cultura-popular-jocs-cancons-testimoni-oral-001"
+      ],
+      "reviewed_units": [
+        "El corpus encara no recull jocs ni cançons infantils transcrits; la fitxa proposa documentar-los amb testimonis orals, sense afirmar que no existeixin reculls externs."
+      ],
+      "open_units": [
+        "Jocs infantils, cançons, rondalles i fórmules de joc transcrits directament encara no recollits.",
+        "Calen testimonis orals o enregistraments amb transcripció literal i veu originària.",
+        "La fitxa no identifica bibliografia ni fons externs concrets per a aquestes pràctiques."
+      ],
       "completion_note": "",
       "reason": ""
     },
@@ -1612,9 +1620,11 @@
       "type": "article",
       "topic": "temes/cultura/llegendes",
       "source": "viquipedia-ca",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "cultura-popular-jocs-cancons-testimoni-oral-001"
+      ],
       "reviewed_units": [],
       "open_units": [],
       "completion_note": "",

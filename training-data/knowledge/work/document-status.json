@@ -887,5 +887,19 @@
     "reviewed_units": [
       "El cinema augmenta en tots els trams d’edat del 2019 al 2024, amb el creixement més gran entre 45–64; els museus baixen en tots els grups i la font no explica les causes."
     ]
+  },
+  "docs/temes/cultura/cultura-popular/cultura-popular.md": {
+    "status": "in_progress",
+    "open_units": [
+      "Jocs infantils, cançons, rondalles i fórmules de joc transcrits directament encara no recollits.",
+      "Calen testimonis orals o enregistraments amb transcripció literal i veu originària.",
+      "La fitxa no identifica bibliografia ni fons externs concrets per a aquestes pràctiques."
+    ],
+    "conversation_ids": [
+      "cultura-popular-jocs-cancons-testimoni-oral-001"
+    ],
+    "reviewed_units": [
+      "El corpus encara no recull jocs ni cançons infantils transcrits; la fitxa proposa documentar-los amb testimonis orals, sense afirmar que no existeixin reculls externs."
+    ]
   }
 }
