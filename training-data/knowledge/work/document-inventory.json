@@ -168,7 +168,7 @@
       "topic": "temes/costums/danses",
       "source": "wikipedia-ball-ossa-encamp",
       "status": "in_progress",
-      "conversation_count": 11,
+      "conversation_count": 12,
       "conversation_ids": [
         "carnaval-encamp-ossa-i-contrabandistes",
         "danses-parroquies-i-sardana-importada-01",
@@ -177,6 +177,7 @@
         "ossa-encamp-balli-despres-de-farsa",
         "ossa-encamp-dallaires-i-ritus-de-pas-01",
         "ossa-encamp-disfressa-i-interpretacio",
+        "ossa-encamp-ordino-finals-diferents",
         "ossa-encamp-variants-i-reescriptura-01",
         "ossa-pervivencia-encamp-ordino",
         "ultima-ossa-ordino-carnaval-i-desembre-01",
@@ -194,7 +195,8 @@
         "les cronologies d’Ordino de Masegosa (1959/1978/1992/2017) i Viquipèdia (1985/mitjan anys 1990/2017) discrepen; només coincideixen el 2017",
         "a la descripció d’Amades de 1950, la mort de l’ossa tanca la farsa però els intèrprets ballen tota la tarda; l’autoritat que hi guanyen només consta durant el ball",
         "«Els contrabandistes» i «L’ossa» són farses complementàries representades en dies consecutius; una parodia els contrabandistes i l’altra els segadors i la cacera de l’ossa",
-        "disfressa: pells d’ovella, antigament farcida de palla, avui de pèl de peluix; Ysàs n’interpreta l’aspecte com a figura de la infantesa i adolescència, lectura no confirmada"
+        "disfressa: pells d’ovella, antigament farcida de palla, avui de pèl de peluix; Ysàs n’interpreta l’aspecte com a figura de la infantesa i adolescència, lectura no confirmada",
+        "en acabar la representació d’Encamp es reparteix allioli de codony; a Ordino la minyona reparteix aigua amb granadina com a «sang»; són finals locals descrits de manera diferent"
       ],
       "completion_note": "",
       "reason": ""
@@ -294,7 +296,7 @@
       "topic": "temes/costums/danses",
       "source": "wikipedia-llegendes-andorra",
       "status": "complete",
-      "conversation_count": 19,
+      "conversation_count": 20,
       "conversation_ids": [
         "festes-ossa-abast-historic-territorial-01",
         "festes-ossa-bibliografia-per-ampliar",
@@ -303,6 +305,7 @@
         "fotografies-ossa-ordino-areny-plandolit",
         "ordino-ossa-discrepancia-1978-1985",
         "ossa-calendari-hibernacio-i-tradicio-01",
+        "ossa-encamp-ordino-finals-diferents",
         "ossa-inventari-andorra-i-unesco",
         "ossa-noms-populars-pirineus",
         "ossa-origen-medieval-hipotesi",
@@ -340,7 +343,8 @@
         "Areny-Plandolit va fotografiar el ball a la plaça d’Ordino a principi del segle XX; la imatge i el seu fons encara no s’han identificat al corpus",
         "la represa d’Ordino té cronologies incompatibles: 1978 en una font i 1985 en una altra; totes dues coincideixen en 2017",
         "l’origen medieval és una hipòtesi basada en l’extensió pirinenca del culte als ossos, sense prova concreta d’una celebració andorrana medieval; la primera referència escrita citada és de 1838",
-        "noms populars de l’ós bru al Pirineu central: «l’ossa», «la Senyora» i «la Peluda»; la font no els limita a Andorra"
+        "noms populars de l’ós bru al Pirineu central: «l’ossa», «la Senyora» i «la Peluda»; la font no els limita a Andorra",
+        "diferència documentada en el final de les dues festes: allioli de codony a Encamp i aigua amb granadina com a «sang» a Ordino"
       ],
       "completion_note": "Fitxa sencera revisada. Les dades útils del text i les connexions amb les fonts disponibles tenen converses o cobertura registrada. La bibliografia no consultada, els documents d’arxiu no identificats i les causes encara desconegudes queden com a buits explícits, no com a fets inferits.",
       "reason": ""

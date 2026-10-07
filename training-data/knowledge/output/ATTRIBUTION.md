@@ -76,6 +76,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - Viquipèdia en català, article «Festes de l’ossa a Andorra», llicència CC BY-SA 4.0; trama resumida de l’Última Ossa d’Ordino.
 - Viquipèdia en català, articles sobre les festes de l’ossa d’Andorra i el ball de l’ossa d’Encamp; llicència CC BY-SA 4.0.
 - Viquipèdia en català, articles sobre les festes de l’ossa i el ball d’Encamp, CC BY-SA 4.0; les fitxes del corpus atribueixen a aquestes fonts la cronologia i la informació sobre Rossend Marsol Clua.
+- Viquipèdia en català, articles «Ball de l’ossa d’Encamp» i «Festes de l’ossa a Andorra», llicència CC BY-SA 4.0.
 - Viquipèdia en català, dades sobre els dansaires i la simbologia de la Marratxa; llicència CC BY-SA 4.0.
 - Viquipèdia en català, dades sobre la tradició de la Marratxa i la data dels Pareatges; CC BY-SA 4.0. Les fitxes del corpus registren la discrepància.
 - Viquipèdia en català, informació sobre el nom i el dia de ball de la Marratxa; llicència CC BY-SA 4.0.
@@ -98,6 +99,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - CC BY-SA 4.0; atribució i compartir igual. La font no presenta aquests noms com a exclusius d’Andorra.
 - CC BY-SA 4.0; atribució i compartir igual. La fotografia mateixa no forma part del corpus consultat.
 - CC BY-SA 4.0; atribució i compartir igual. La resposta resumeix dues trames diferenciades i no les fusiona.
+- CC BY-SA 4.0; atribució i compartir igual. Les dues pràctiques s’atribueixen a les seves localitats i no es generalitzen a totes les variants.
 - CC BY-SA 4.0; atribució i compartir igual. Les obres citades són només referències, no contingut consultat ni reproduït.
 - CC BY-SA 4.0; atribució i compartir igual. L’origen medieval no és una dada demostrada.
 - CC BY-SA 4.0; atribució i compartir igual. No redistribuir sense conservar les condicions de la llicència.
