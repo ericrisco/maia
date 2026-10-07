@@ -896,7 +896,7 @@
       "title": "El minairó",
       "type": "article",
       "topic": "temes/cultura/llegendes",
-      "status": "in_progress",
+      "status": "complete",
       "unit_count": 38,
       "covered_unit_ids": [
         "docs/temes/cultura/llegendes/el-minairo.md#unit-0001",
@@ -923,12 +923,14 @@
         "docs/temes/cultura/llegendes/el-minairo.md#unit-0026",
         "docs/temes/cultura/llegendes/el-minairo.md#unit-0027",
         "docs/temes/cultura/llegendes/el-minairo.md#unit-0028",
+        "docs/temes/cultura/llegendes/el-minairo.md#unit-0029",
         "docs/temes/cultura/llegendes/el-minairo.md#unit-0030"
       ],
       "excluded_unit_count": 12,
-      "open_unit_count": 1,
+      "open_unit_count": 0,
       "conversation_ids": [
         "minairons-cases-i-prosperitat-001",
+        "minairons-etimologia-i-historia-minera-001",
         "minairons-origen-de-les-tarteres-001",
         "minairons-origen-i-canister-001",
         "minairons-variants-i-etimologia-001"
@@ -1263,12 +1265,16 @@
       "title": "La Farga Rosell i la ruta del ferro",
       "type": "article",
       "topic": "temes/cultura/museus-i-arxius/museus",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 27,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/cultura/museus-i-arxius/museus/la-farga-rosell.md#unit-0002"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 27,
-      "conversation_ids": []
+      "open_unit_count": 26,
+      "conversation_ids": [
+        "minairons-etimologia-i-historia-minera-001"
+      ]
     },
     "docs/temes/cultura/museus-i-arxius/museus/les-cases-museu.md": {
       "title": "Les cases museu: Rull, Cristo i Cal Pal",
