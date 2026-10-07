@@ -4,14 +4,14 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 
 - Fitxes article: **1348**.
 - Fitxers totals, inclosos índexs: **1477**.
-- Converses candidates: **4**.
+- Converses candidates: **5**.
 
 | Estat de revisió | Fitxes |
 |---|---:|
 | Revisades completes | 0 |
-| En curs | 4 |
+| En curs | 5 |
 | Revisades sense pregunta natural | 0 |
-| No començades | 1344 |
+| No començades | 1343 |
 
 ## Estat per tema
 
@@ -58,7 +58,7 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 | `temes/esports/estiu` | 32 | 32 | 0 | 0 | 0 |
 | `temes/esports/formacio-esportiva` | 1 | 1 | 0 | 0 | 0 |
 | `temes/esports/futbol` | 98 | 98 | 0 | 0 | 0 |
-| `temes/esports/futbol/clubs-i-competicions` | 6 | 6 | 0 | 0 | 0 |
+| `temes/esports/futbol/clubs-i-competicions` | 6 | 5 | 1 | 0 | 0 |
 | `temes/esports/futbol/femeni` | 43 | 43 | 0 | 0 | 0 |
 | `temes/esports/seleccions` | 15 | 15 | 0 | 0 | 0 |
 | `temes/gastronomia/begudes` | 1 | 1 | 0 | 0 | 0 |

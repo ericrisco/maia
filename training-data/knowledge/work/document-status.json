@@ -207,5 +207,19 @@
       "Receptari oficial de Visit Andorra pendent de buidar; proporcions i preparació no documentades aquí.",
       "Identificació de l’article periodístic i revisió dels drets de reutilització."
     ]
+  },
+  "docs/temes/esports/futbol/clubs-i-competicions/fc-andorra.md": {
+    "status": "in_progress",
+    "conversation_ids": [
+      "fc-andorra-lliga-espanyola-no-andorrana-01"
+    ],
+    "reviewed_units": [
+      "Fundació el 1942, entrada a la lliga espanyola el 1948 per afiliació voluntària a la Federació Catalana i absència del primer equip a la lliga andorrana.",
+      "Excepció de l’equip FC Andorra Veterans el 1996–97, distingida del primer equip."
+    ],
+    "open_units": [
+      "Trajectòria esportiva, ascensos i descensos, estadi i situació actual; revisar per separat per dates i actualitat.",
+      "Fets citats per l’article que provenen d’altres fonts i no de la pàgina Viquipèdia identificada a la fitxa."
+    ]
   }
 }
