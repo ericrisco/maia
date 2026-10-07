@@ -44,6 +44,7 @@ el BOPA no implica cap suport al projecte. No s'atribueix una llicència global 
 - Adaptació d’André Vilar, L’Andorre (1904), p. 137. Obra en domini públic per antiguitat.
 - Adaptació d’André Vilar, L’Andorre (1904), pp. 77–84. Obra en domini públic per antiguitat.
 - Adaptació d’informació de l’article «Mare de Déu de Meritxell» de la Viquipèdia en català, llicència CC BY-SA 4.0. Cal conservar l’atribució i compartir l’adaptació amb la mateixa llicència.
+- Departament de Política Lingüística, enquesta d’usos lingüístics, divisió 1979, onades 2014 i 2018; dades publicades a través de l’API del Departament d’Estadística, bolcat del 18-09-2026. Informació estadística distribuïda sota CC BY 4.0, amb atribució als dos departaments segons la procedència publicada.
 - Departament d’Estadística d’Andorra, API de turisme, vehicles i energia, divisió 995, «Béns immobles transmesos per tipologia de bé immoble (anual)», dada de 2025; bolcat del 18-09-2026. Informació estadística pròpia sota CC BY 4.0.
 - Departament d’Estadística d’Andorra, Andorra en xifres 2024, secció «Dades generals», taula de cobertes del sòl. Informació estadística pròpia sota CC BY 4.0; atribució al Departament d’Estadística. La cartografia de referència és el Mapa de cobertes del sòl d’Andorra de 2012 (CENMA).
 - Departament d’Estadística d’Andorra, enquesta d’hàbits culturals i esportius, divisions 2119 i 2121, onades de 2019 i 2024; dades baixades de l’API el 18-09-2026. Informació estadística pròpia sota CC BY 4.0.
