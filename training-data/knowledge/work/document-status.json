@@ -957,7 +957,7 @@
       "title": "El Roc de les Bruixes",
       "type": "article",
       "topic": "temes/cultura/llegendes",
-      "status": "in_progress",
+      "status": "complete",
       "unit_count": 14,
       "covered_unit_ids": [
         "docs/temes/cultura/llegendes/el-roc-de-les-bruixes.md#unit-0001",
@@ -965,8 +965,8 @@
         "docs/temes/cultura/llegendes/el-roc-de-les-bruixes.md#unit-0004",
         "docs/temes/cultura/llegendes/el-roc-de-les-bruixes.md#unit-0005"
       ],
-      "excluded_unit_count": 0,
-      "open_unit_count": 10,
+      "excluded_unit_count": 10,
+      "open_unit_count": 0,
       "conversation_ids": [
         "roc-bruixes-i-sant-joan-caselles-001",
         "roc-bruixes-localitzacio-meritxell-001"
