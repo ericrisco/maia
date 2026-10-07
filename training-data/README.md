@@ -4,11 +4,11 @@ Projecte per preparar dos datasets de fine-tuning separats a partir de
 `docs/`: **Knowledge** ensenya informació documentada sobre Andorra;
 **Language** preserva català andorrà contemporani de parlants reals.
 
-La primera feina és calibrar què compta com una conversa bona. Les mostres
-editorials són a `knowledge/review/EXEMPLES.md`; no són registres d'entrenament.
-Els registres Knowledge de l'intent anterior s'han retirat i la cobertura s'ha
-reiniciat. Encara no hi ha registres aprovats ni exports finals. El JSONL es
-crearà després que el pilot editorial rebi el vistiplau.
+La feina actual és tornar a calibrar les preguntes de Knowledge: han de partir
+d'un dubte humà i mantenir un fil natural entre torns. Les mostres editorials
+són a `knowledge/review/EXEMPLES.md`; no són registres d'entrenament. El pilot
+anterior s'ha retirat i la cobertura s'ha reiniciat. Language continua separat.
+Encara no hi ha registres Knowledge nous aprovats ni exports finals.
 
 ## Estructura
 

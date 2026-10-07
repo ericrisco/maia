@@ -1,81 +1,111 @@
-# Pla editorial de Maia Training Data
+# Pla nou per a Maia Training Data
 
-## Objectiu
+## Decisió editorial
 
-Crear dos conjunts separats a partir de `docs/`:
+El problema dels primers registres no era que fossin massa curts. Les preguntes sonaven com exercicis d'extracció: demanaven què deia una secció, una fila o una fitxa. Una conversa bona comença amb una necessitat que una persona podria tenir sense haver vist el corpus.
 
-- **Knowledge** respon dubtes reals sobre Andorra amb informació contrastada de `docs/temes/`.
-- **Language** conserva català andorrà produït per persones a `docs/parla/`.
+Per això, primer calibram converses i només després tornem a produir registres. No generarem preguntes automàticament a partir dels títols, les seccions o cada dada d'una fitxa.
 
-Ara prioritzem la qualitat de les converses Knowledge. Els registres anteriors s'han retirat del pilot perquè moltes preguntes demanaven inspeccionar una fitxa, una secció o una fila. No compten com a cobertura. La feina de Language continua separada i intacta.
+## Separació dels dos conjunts
 
-## Estructura
+- **Knowledge** ensenya a respondre preguntes sobre Andorra amb informació documentada a `docs/temes/`.
+- **Language** preserva formes de parlar de persones andorranes a partir de `docs/parla/`, seguint-ne els criteris d'elegibilitat, transcripció i drets.
+
+No es barregen. Les converses editorials de `knowledge/review/EXEMPLES.md` serveixen per calibrar l'estil i no són registres d'entrenament ni compten com a cobertura.
+
+## Estructura de treball
 
 ```text
 training-data/
 ├── PLAN.md
 ├── README.md
 ├── knowledge/
-│   ├── review/
-│   │   ├── CONVERSATION-GUIDE.md
-│   │   ├── EXEMPLES.md          # calibratge editorial; no s'exporta
-│   │   ├── conversations.jsonl  # només converses candidates/aprovades
-│   │   └── provenance.jsonl     # font i drets, una línia per conversa
-│   ├── work/                    # inventari i cobertura interns
-│   ├── scripts/
-│   ├── reports/
-│   └── output/                  # exports aprovats
+│   ├── review/       # guia, exemples de calibratge, candidats i procedència
+│   ├── work/         # inventari i seguiment intern de cobertura
+│   ├── scripts/      # inventari, validació i exportació
+│   ├── reports/      # cobertura, exclusions i qualitat
+│   └── output/       # conjunts finals aprovats
 └── language/
-    ├── review/
-    ├── work/
+    ├── review/       # fragments i candidats lingüístics
+    ├── work/         # elegibilitat i fiabilitat de transcripció
     ├── scripts/
     ├── reports/
-    └── output/
+    └── output/       # conjunts finals aprovats
 ```
 
-Les mostres d'`EXEMPLES.md` no són dades ni compten com a cobertura. `conversations.jsonl` conté només missatges `user` i `assistant`. La procedència, la revisió i els drets queden en fitxers separats.
+## Com escriure una conversa Knowledge
 
-## Mètode per a cada conversa
+1. Llegeix la fitxa completa i comprova les fonts abans de formular cap pregunta.
+2. Identifica una cosa útil que una persona voldria entendre, decidir, explicar o contrastar.
+3. Escriu una pregunta que tingui sentit per si sola. No facis referència a la fitxa, a una secció, a una fila ni al corpus.
+4. Contesta la pregunta directament, amb context suficient per entendre la resposta.
+5. Afegeix un seguiment només quan la resposta anterior faci néixer un dubte natural. El seguiment ha de reprendre el fil i aportar alguna cosa nova.
+6. Acaba quan el dubte s'hagi resolt. Sovint seran dos o tres intercanvis; no hi ha un mínim de torns.
+7. Contrasta cada afirmació amb la font i registra per separat la procedència, els drets i els límits.
 
-1. Llegir la fitxa sencera i les fonts pertinents. Anotar quina afirmació concreta es pot ensenyar.
-2. Imaginar una situació normal en què algú tindria aquest dubte. Si no en surt cap de creïble, no fabricar una pregunta per omplir quota.
-3. Escriure l'entrada com ho diria aquella persona, amb el context mínim perquè s'entengui sense haver vist el corpus.
-4. Respondre primer el dubte. Fer servir el to d'un assistent informat, no el d'una enciclopèdia ni el d'un extractor.
-5. Afegir un seguiment només si neix de la resposta anterior: una conseqüència, una precisió, una sorpresa o una decisió pràctica.
-6. Aturar-se quan la persona ja en sap prou. La conversa pot tenir un intercanvi; si hi ha continuació natural, normalment en tindrà dos o tres.
-7. Revisar les afirmacions contra les fonts i anotar-ne la procedència, l'estat dels drets de cada font i els límits coneguts.
+Abans d'aprovar-la, llegeix la conversa en veu alta sense mirar les fonts. Si sembla un qüestionari, una ordre d'extracció o una història inventada per justificar la pregunta, reescriu-la o descarta-la.
 
-No cal que cada conversa cobreixi tota la fitxa. Cal que cobreixi informació útil sense convertir cada dada en una pregunta separada. Les relacions entre fitxes només s'utilitzen quan una mateixa persona podria raonablement necessitar-les juntes.
+## Exemples de necessitats humanes
 
-## Què vol dir «multitorn»
+- Algú veu tres actes al programa d'una festa i vol saber si tots són balls.
+- Algú ha sentit dues dates i vol entendre si són dues fites diferents o una contradicció.
+- Algú planifica una visita i pregunta què podria veure en un lloc i una data concrets.
+- Algú vol explicar una llegenda a un infant i no recorda com acaba.
+- Algú consulta un document històric i es pregunta què permet concloure i què no.
 
-Un diàleg multitorn té continuïtat, no només més missatges. Cada nova pregunta ha de dependre del que s'acaba de respondre. Per exemple: la persona pregunta si dues tradicions són el mateix; després de la distinció, demana què passa en una d'elles. No serveix afegir una pregunta sobre una data sense relació només per allargar el registre.
+Aquests contextos són punts de partida, no plantilles. No afegim viatges, familiars, estudis o decisions fictícies si no fan més clara una necessitat real.
 
-No fixem un mínim de torns. No creem seqüències artificials de quatre preguntes. Un únic bon intercanvi és millor que una conversa forçada.
+## Regles per a respostes fiables
 
-## Porta de qualitat
+- Respon primer allò que s'ha preguntat. Afegeix només el context que ajuda.
+- Separa fets documentats, llegendes, interpretacions i hipòtesis.
+- Si les fonts discrepen, explica què diu cadascuna i si el corpus ho pot resoldre.
+- Si falta informació, digues què no se sap. No converteixis un buit en una negació.
+- No presentis informació històrica com si fos necessàriament vigent avui.
+- Evita llistes llargues si la persona no les necessita.
+- Mantén les notes editorials i la metadata fora del text de `assistant`.
 
-Abans d'aprovar una conversa, comprovar:
+## Fases
 
-- La pregunta inicial té sentit fora del corpus i no pressuposa que l'usuari té una fitxa oberta.
-- Es pot descriure el motiu humà de la pregunta en una frase concreta.
-- La resposta contesta directament i només amplia amb context útil.
-- Cada seguiment reprèn el fil anterior i aporta una comprensió nova.
-- La conversa sona natural llegida en veu alta, sense notes editorials.
-- Les llegendes, les interpretacions, les fonts secundàries i els fets documentats queden distingits.
-- Cap resposta transforma un buit de la font en una afirmació sobre el món.
-- Cada dada factual es pot rastrejar a la font anotada a `provenance.jsonl`.
-- Si una conversa combina fonts, els drets s'anoten per font; no es resumeixen en un únic estat ambigu.
+### 1. Calibratge
 
-Rebutjar o reescriure si apareix alguna d'aquestes formes sense motiu real: «Què explica la secció…?», «Què indica aquesta fila?», «Enumera…», «Digues dos topònims», preguntes independents encadenades o preguntes que només existeixen per buidar una llista.
+Revisar la guia i els exemples d'aquest directori. Acordar què sona natural i què fa que una conversa es descarti.
 
-## Pilot i següents passos
+### 2. Pilot petit
 
-1. Revisar les mostres d'`knowledge/review/EXEMPLES.md` i ajustar-ne el to.
-2. Preparar un pilot de 5–8 converses de temes diferents. Llegir-les com a diàlegs, sense veure les fonts.
-3. Revisar el pilot amb l'usuari. Convertir-ne els comentaris en canvis concrets a aquesta guia.
-4. Només després, reprendre la cobertura de `docs/temes/` per unitats útils i registrar també els límits del corpus.
-5. Revisar Language separadament: veu humana, època, `apte_llengua`, drets i fiabilitat de transcripció.
-6. Deduplicar, agrupar per document o peça abans de fer splits, validar i exportar quan el pilot i la cobertura estiguin aprovats.
+Crear entre cinc i vuit converses de temes diferents. Prioritzar preguntes espontànies i seguiments connectats. Revisar-les abans d'iniciar la cobertura sistemàtica.
 
-Prioritats: correctesa, cobertura útil, naturalitat, continuïtat conversacional, diversitat i volum. No s'inventen fets per fer créixer el conjunt.
+### 3. Producció per fitxa
+
+Llegir una fitxa sencera, registrar les unitats útils i els buits, i redactar només les converses que resolguin dubtes plausibles. Una fitxa pot donar lloc a cap conversa, una o diverses; el nombre no és una quota.
+
+### 4. Revisió i cobertura
+
+Comprovar exactitud, naturalitat, continuïtat, duplicats i procedència. Mesurar quines unitats de coneixement queden representades; no confondre una conversa amb cobertura completa de la fitxa.
+
+### 5. Exportació
+
+Només els registres aprovats passen a `output/`. Agrupar exemples relacionats abans de separar train, validation i test, per evitar que variants gairebé iguals quedin en splits diferents.
+
+### 6. Maia Language
+
+Treballar-lo separadament. Incloure només peces elegibles i fragments fiables, preservar la parla humana i agrupar per peça o parlant abans de fer splits. No inventar respostes per augmentar el volum.
+
+## Format final
+
+Una conversa per línia JSONL, amb missatges alternats i sense procedència ni notes internes:
+
+```json
+{"messages":[{"role":"user","content":"Al programa de Sant Julià hi ha la Passa i el ball del Cerdà. Són dues danses?"},{"role":"assistant","content":"El Cerdà és un ball; la Passa és una cercavila de parelles de fadrins. Les parelles que es casaran aquell any van al davant."},{"role":"user","content":"Ah, per això la Passa té un ordre concret?"},{"role":"assistant","content":"Sí. La resta de parelles segueix de més grans a més joves. La fitxa no explica com es formen les parelles."}]}
+```
+
+## Prioritats
+
+1. Correctesa i traçabilitat.
+2. Preguntes que una persona faria de debò.
+3. Respostes clares i completes.
+4. Seguiments que continuen el mateix fil.
+5. Cobertura útil, varietat i absència de duplicats.
+6. Volum.
+
+No augmentarem el volum a costa de cap prioritat anterior.

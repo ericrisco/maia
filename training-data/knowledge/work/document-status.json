@@ -1,14 +1,6 @@
 {
   "docs/temes/costums/calendari-festiu/el-carnaval-dencamp.md": {
-    "status": "in_progress",
-    "conversation_ids": [
-      "carnaval-encamp-judici-i-operacio-01",
-      "carnaval-encamp-judici-i-farsa-ordino-02"
-    ],
-    "reviewed_units": [
-      "Distinció entre el Judici dels Contrabandistes i l’Operació del Carnestoltes; ubicació, origen aproximat i contingut de l’Operació.",
-      "Sentit de la farsa del Judici dels Contrabandistes i distinció respecte de la farsa d’Ordino; el guió encampadà i els papers no consten."
-    ],
+    "status": "not_started",
     "open_units": [
       "Argument complet, personatges i text del Judici dels Contrabandistes; no localitzats al corpus.",
       "Ball de l’Ossa d’Encamp: seqüència, música i discrepàncies de variants.",
@@ -17,16 +9,7 @@
     ]
   },
   "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md": {
-    "status": "in_progress",
-    "conversation_ids": [
-      "ball-ossa-dallaires-i-ritus-pas-01",
-      "ball-ossa-encamp-i-cortinada-variants-02"
-    ],
-    "reviewed_units": [
-      "Paper central dels dallaires i diferència entre els joves intèrprets i la resta de personatges.",
-      "Lectura del ball com a ritus d’iniciació, atribuïda a Eloi Ysàs Trias i identificada com a interpretació.",
-      "Diferència d’argument entre Encamp i la Cortinada; la font descriu variants locals i no un guió únic."
-    ],
+    "status": "not_started",
     "open_units": [
       "Tesi d’Eloi Ysàs Trias no consultada directament; text de la farsa, variants, música i context complet pendents.",
       "Discrepàncies sobre cronologia d’Ordino i estat patrimonial resoltes o no segons les fonts indicades a la fitxa; revisar cada unitat abans de generar preguntes.",
@@ -48,14 +31,7 @@
     ]
   },
   "docs/temes/costums/danses/les-festes-de-lossa.md": {
-    "status": "in_progress",
-    "conversation_ids": [
-      "festes-ossa-unesco-andorra-franca-01"
-    ],
-    "reviewed_units": [
-      "Inscripció del 2022 de la candidatura conjunta Andorra-França i presència de les dues manifestacions andorranes: Encamp i Ordino.",
-      "Distinció entre les festes locals i el seu lloc dins l’element patrimonial transnacional."
-    ],
+    "status": "not_started",
     "open_units": [
       "Farsa antiga, personatges, usos de màscares i cronologia de les parròquies; discrepàncies no resoltes de les dates de represa d’Ordino.",
       "Primera referència escrita, emigració dels anys vint i motius de les supervivències locals.",
@@ -64,14 +40,7 @@
     ]
   },
   "docs/temes/costums/calendari-festiu/calendari-festiu.md": {
-    "status": "in_progress",
-    "conversation_ids": [
-      "calendari-meritxell-i-festes-majors-locals-01"
-    ],
-    "reviewed_units": [
-      "Diferència entre la festa nacional de Meritxell (8 de setembre) i les festes majors de parròquia o vila, que se celebren a l’estiu.",
-      "No hi ha dates concretes per parròquia o vila al corpus; cal recórrer a calendari oficial local."
-    ],
+    "status": "not_started",
     "open_units": [
       "Sant Antoni i l’escudella, caramelles, Sant Joan i falles; relacions amb fitxes específiques.",
       "Calendari judicial de 1902 versus calendari popular; les absències no proven que una festa no existís.",
@@ -90,14 +59,7 @@
     ]
   },
   "docs/temes/costums/sant-antoni/escudelles-de-sant-antoni.md": {
-    "status": "in_progress",
-    "conversation_ids": [
-      "sant-antoni-encants-recuperacio-i-cronologia-01"
-    ],
-    "reviewed_units": [
-      "Canillo: encants perduts i recuperats cap al 2000 amb Josep Casal i el Comú; primera vianda popular el 1979 a Montaup.",
-      "Distinció de la cronologia del cas de Canillo respecte de la recuperació d’Andorra la Vella als anys setanta; la causa de la interrupció dels encants no consta."
-    ],
+    "status": "not_started",
     "open_units": [
       "Noms locals, calendari i organització de Sant Antoni a les altres parròquies.",
       "Si la benedicció d’animals es manté avui i on; usos locals de vianda; Sant Sebastià i Sant Antoni del porquet.",
@@ -113,14 +75,7 @@
     ]
   },
   "docs/temes/costums/caramelles/les-caramelles.md": {
-    "status": "in_progress",
-    "conversation_ids": [
-      "caramelles-sant-julia-recorregut-i-cantaires-01"
-    ],
-    "reviewed_units": [
-      "Sant Julià: recorregut de la Coral Rocafort, parades i durada aproximada reportada el 2026; hi participen cantaires adults i Petits Cantaires.",
-      "El llistat complet de carrers no consta al corpus."
-    ],
+    "status": "not_started",
     "open_units": [
       "Caramelles com a cants de Pasqua i el canvi històric d’ous a donatius; origen, etimologia, repertori i lletres.",
       "Diferències de pràctica i grups a Ordino i altres parròquies.",
@@ -191,13 +146,7 @@
     "completion_note": "Revisada la fitxa sencera i contrastades les afirmacions jurídiques amb la Llei 2/2025, la Constitució i el BOPA. Les normes, els procediments, les excepcions i els límits d’evidència estan representats en converses naturals; les dades actuals que la font no aporta queden registrades com a buits i no s’infereixen."
   },
   "docs/temes/cultura/museus-i-arxius/com-sentra-a-larxiu-nacional.md": {
-    "status": "in_progress",
-    "conversation_ids": [
-      "arxiu-nacional-termini-dades-personals-50-anys-01"
-    ],
-    "reviewed_units": [
-      "Article 20 del reglament de 2005: cinquanta anys des de la mort per a documents amb dades personals protegides; consentiment exprés o manament judicial com a altres vies previstes."
-    ],
+    "status": "not_started",
     "open_units": [
       "La resta dels articles 15–35 i 41–43 del reglament, incloses les condicions de consulta, comandes, còpies i reproducció.",
       "Contrast del règim específic amb la Llei 33/2021 i la normativa posterior per determinar què és vigent avui.",
@@ -205,41 +154,21 @@
     ]
   },
   "docs/temes/historia/democratitzacio/el-sufragi-femeni-andorra-1967-1973.md": {
-    "status": "in_progress",
-    "conversation_ids": [
-      "sufragi-femeni-vot-i-elegibilitat-01"
-    ],
-    "reviewed_units": [
-      "Distinció cronològica entre sufragi actiu el 1970 i elegibilitat el 1973, segons la font institucional del Consell General."
-    ],
+    "status": "not_started",
     "open_units": [
       "Localitzar i llegir els textos íntegres dels decrets de 1970 i 1973.",
       "Resoldre la diferència entre les primeres dones elegides a càrrecs locals, la primera consellera per substitució i la primera elegida en legislatura."
     ]
   },
   "docs/temes/territori/clima-i-muntanya/quan-un-bosc-protegeix-un-edifici.md": {
-    "status": "in_progress",
-    "conversation_ids": [
-      "allaus-bosc-protector-defenses-futures-01"
-    ],
-    "reviewed_units": [
-      "Bosc protector com a base d’un projecte: cal reservar terreny per a defenses futures, fins i tot amb informe forestal favorable.",
-      "Pèrdua de protecció després de l’ocupació: possible desallotjament, responsabilitat del propietari si les defenses són viables i límits de la fitxa per a casos concrets."
-    ],
+    "status": "not_started",
     "open_units": [
       "Vigència consolidada després de modificacions i normativa posterior; la fitxa no reconstrueix tota la cadena normativa.",
       "Expedients concrets, compliment de les obligacions, jurisprudència i càlcul tècnic del risc residual."
     ]
   },
   "docs/temes/gastronomia/rebosteria/la-coca-massegada.md": {
-    "status": "in_progress",
-    "conversation_ids": [
-      "coca-massegada-sant-joan-i-falles-01"
-    ],
-    "reviewed_units": [
-      "Ingredients principals de la coca massegada i fruita emprada; consum tradicional la nit del 23 de juny.",
-      "Relació temporal amb les falles de Sant Joan, sense confondre les dues tradicions."
-    ],
+    "status": "not_started",
     "open_units": [
       "Grafia normativa massegada/masegada i etimologia, no verificades.",
       "Receptari oficial de Visit Andorra pendent de buidar; proporcions i preparació no documentades aquí.",
@@ -247,42 +176,21 @@
     ]
   },
   "docs/temes/esports/futbol/clubs-i-competicions/fc-andorra.md": {
-    "status": "in_progress",
-    "conversation_ids": [
-      "fc-andorra-lliga-espanyola-no-andorrana-01"
-    ],
-    "reviewed_units": [
-      "Fundació el 1942, entrada a la lliga espanyola el 1948 per afiliació voluntària a la Federació Catalana i absència del primer equip a la lliga andorrana.",
-      "Excepció de l’equip FC Andorra Veterans el 1996–97, distingida del primer equip."
-    ],
+    "status": "not_started",
     "open_units": [
       "Trajectòria esportiva, ascensos i descensos, estadi i situació actual; revisar per separat per dates i actualitat.",
       "Fets citats per l’article que provenen d’altres fonts i no de la pàgina Viquipèdia identificada a la fitxa."
     ]
   },
   "docs/temes/costums/meritxell/meritxell.md": {
-    "status": "in_progress",
-    "conversation_ids": [
-      "meritxell-festa-nacional-i-origen-01"
-    ],
-    "reviewed_units": [
-      "La festa nacional se celebra el 8 de setembre; la data de la declaració de patronatge s’atribueix a premsa.",
-      "L’acta original del 1873 no consta al corpus, per tant no hi ha confirmació amb font primària."
-    ],
+    "status": "not_started",
     "open_units": [
       "Localitzar i llegir l’acta del Consell General del 24 d’octubre de 1873.",
       "Incendi del santuari el 1972, reconstrucció i rèplica; relació eventual entre el 8 de setembre i el Pareatge, sense font que la demostri."
     ]
   },
   "docs/temes/costums/ritus-de-pas/la-passa.md": {
-    "status": "in_progress",
-    "conversation_ids": [
-      "passa-cercavila-majors-fadrins-01"
-    ],
-    "reviewed_units": [
-      "La Passa és una cercavila, diferenciada dels balls del Cerdà i la Marratxa; parelles que es casen aquell any al davant i les altres ordenades per edat.",
-      "L’abast conegut de “majors fadrins” i els límits sobre funcions i formació de parelles."
-    ],
+    "status": "not_started",
     "open_units": [
       "Quan se celebra dins la festa major i el calendari exacte anual.",
       "Des de quan existeix i si és una tradició continuada o recuperada.",
@@ -291,14 +199,7 @@
     ]
   },
   "docs/temes/costums/danses/el-ball-del-cerda.md": {
-    "status": "in_progress",
-    "conversation_ids": [
-      "ball-cerda-hora-lloc-i-nom-01"
-    ],
-    "reviewed_units": [
-      "Hora i lloc del ball del Cerdà: una del migdia del dilluns de la festa major, a la plaça Major de Sant Julià.",
-      "L’etimologia remet a la Cerdanya, però la relació d’origen no està establerta."
-    ],
+    "status": "not_started",
     "open_units": [
       "Coreografia, música, vestuari, participants i cronologia d’origen o recuperació; el llibre de l’Esbart Laurèdia està identificat però no consultat.",
       "Distingir si una font parla d’aparició, creació o recuperació de les danses; no aplicar al Cerdà el precedent de la Marratxa.",
@@ -306,13 +207,7 @@
     ]
   },
   "docs/temes/costums/danses/la-marratxa.md": {
-    "status": "in_progress",
-    "conversation_ids": [
-      "marratxa-data-1278-discrepancia-01"
-    ],
-    "reviewed_units": [
-      "Discrepància entre la data tradicional del 7 de setembre de 1278 i la data del Pareatge (8 de setembre); la vigília només és hipòtesi."
-    ],
+    "status": "not_started",
     "open_units": [
       "Recipient marratxa/morratxa/almorratxa i simbologia de la dansa, inclosa la relació amb el Coprincipat, els dos coprínceps i les parròquies.",
       "Coreografia moderna fixada als anys seixanta per Daniel Areny i Isidre Marbà a partir de la memòria de Ricard Mas; interpretació vigent des del 1963.",
@@ -320,14 +215,7 @@
     ]
   },
   "docs/temes/costums/danses/el-contrapas.md": {
-    "status": "in_progress",
-    "conversation_ids": [
-      "contrapas-diumenge-festa-major-i-participacio-01"
-    ],
-    "reviewed_units": [
-      "El contrapàs es balla el diumenge de la festa major, una vegada l’any; no hi ha data concreta per edició.",
-      "Hi participen Esbart Dansaire, ciutadans i càrrecs electes."
-    ],
+    "status": "not_started",
     "open_units": [
       "Tretze parts, durada aproximada, música de cobla, peu esquerre i gran cercle final; coreografia detallada absent.",
       "Origen, datació i història de l’Esbart; només hi ha datació indirecta i no concloent.",

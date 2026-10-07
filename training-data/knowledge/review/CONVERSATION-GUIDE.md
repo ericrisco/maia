@@ -1,50 +1,54 @@
-# Guia per escriure converses de Maia Knowledge
+# Guia editorial: converses que sonen humanes
 
-## Punt de partida: una persona, un motiu
+## La pregunta ha de néixer d'una situació
 
-Abans de redactar, acaba aquesta frase: **«Aquesta persona vol saber-ho perquè…»**
+Abans d'escriure-la, explica en una frase quin dubte té la persona. Per exemple: ha vist un programa, ha sentit versions diferents, vol explicar una tradició o necessita entendre un document.
 
-Exemples de motius reals: està organitzant una sortida; ha sentit dues versions; vol explicar una tradició a algú; té un dubte després d'una resposta; comprova si una afirmació que li han fet és certa.
+Si el motiu real és «vol saber què diu la fitxa», encara no tenim una pregunta d'usuari. Reformula el dubte en llenguatge corrent o descarta'l.
 
-Si el motiu és «vol saber què diu la fitxa», encara no hi ha una pregunta humana. Busca un context real o deixa aquesta unitat per a una conversa més àmplia.
+## Prova de naturalitat
 
-## Escriure un diàleg que avanci
+Llegeix només la intervenció de l'usuari i pregunta't:
 
-1. Comença amb una pregunta que es pugui entendre sense cap document obert.
-2. Maia respon de seguida, en llenguatge corrent.
-3. El seguiment surt del que Maia acaba de dir: demana una precisió, comprova una implicació o reprèn una sorpresa.
-4. La conversa avança cap a una comprensió millor. No és una llista de preguntes independents camuflada de diàleg.
-5. Atura't quan el dubte s'hagi resolt. No allarguis la conversa per arribar a un nombre de torns.
+1. Podria haver-la escrit algú que no coneix el corpus?
+2. Què vol resoldre aquesta persona?
+3. La diria així en una conversa normal amb un assistent?
+4. El context és necessari i creïble, o només decora una pregunta de fitxa?
 
-El format habitual és de dos o més intercanvis, sempre que el seguiment sigui natural. Si només hi ha una bona pregunta, és millor un intercanvi curt que un segon torn forçat.
+Una resposta «no» demana una reescriptura. Expressions com «què explica la secció», «què indica aquesta fila» o «digues dos topònims» són senyals d'alerta, no prohibicions absolutes: només tindrien sentit si la persona estigués parlant realment d'aquell document o d'aquella taula.
 
-## Com han de sonar
+## Continuïtat entre torns
 
-- Fes servir català conversacional i context concret quan ajudi: «Hi anirem diumenge…», «M'han dit que…», «Això vol dir que…?».
-- Evita formularis i preguntes de prova: «Què explica la secció…», «Què indica aquesta fila…», «Enumera els topònims…».
-- No demanis al model que inspeccioni una peça: «Què diu el manuscrit?» pot ser legítim si la persona parla d'un manuscrit conegut; «què diu aquesta fitxa?» no ho és.
-- No repeteixis la resposta anterior amb una pregunta gairebé idèntica.
-- Evita preguntes inicials vagues com «Què passava?» o «I això?» si no hi ha context conversacional que les faci clares.
-- No introdueixis errades o premisses falses artificials només per provar una correcció. Fes-ho quan sigui plausible que algú ho hagi entès així.
+- Cada seguiment reprèn un detall de la resposta anterior.
+- El seguiment demana una precisió, explora una conseqüència o resol una confusió que acaba de sorgir.
+- No encadenis preguntes independents per allargar el registre.
+- No obliguis cada registre a tenir un nombre fix de torns. Dos intercanvis naturals ja són una conversa; un seguiment forçat empitjora l'exemple.
+- No facis que l'usuari repeteixi amb altres paraules la pregunta inicial.
 
-## Respostes
+## Resposta de Maia
 
-- Contesta primer la pregunta concreta.
-- Afegeix només el context necessari per entendre la resposta.
-- No aboquis dades pròximes només perquè també són a la font.
-- Conserva l'atribució: llegenda, interpretació, relat d'una font o fet documentat no són intercanviables.
-- Quan les fonts discrepen, explica la discrepància i digues si es pot resoldre.
-- Quan la font no ho sap, digues què falta. No converteixis l'absència d'una dada en una afirmació negativa.
-- No facis que una dada històrica soni com una instrucció actual.
+- Contesta primer i sense preàmbuls editorials.
+- Escriu com un assistent informat, no com una fitxa ni un informe.
+- Explica prou perquè la resposta s'entengui sense consultar la font.
+- No amunteguis detalls que no ajuden a aquell dubte.
+- Atribueix llegendes i interpretacions amb naturalitat («segons la llegenda», «una interpretació proposa...»).
+- Marca els límits quan siguin rellevants, sense convertir cada resposta en una llista de disclaimers.
+- No presentis com a actual una dada històrica o normativa que no s'ha verificat com a vigent.
 
-## Revisió en veu alta
+## Rebuig immediat
 
-Llegeix només el diàleg, sense les notes de font, com si fossis una persona que hi participa. Comprova:
+Descarta o reescriu el registre si:
 
-1. Entenc per què l'usuari ho pregunta?
-2. Preguntaria jo això després d'escoltar la resposta anterior?
-3. La resposta resol el dubte en lloc de resumir la font?
-4. Sona com una conversa, no com una extracció de camps?
-5. Podria entendre's sense haver vist Maia ni els documents?
+- la pregunta només s'entén amb una fitxa oberta;
+- el context és inventat només per fer que una dada sembli interessant;
+- la resposta no resol el que s'ha preguntat;
+- un seguiment canvia de tema sense motiu;
+- es confon una llegenda, una hipòtesi o una interpretació amb un fet;
+- s'inventa una conclusió per omplir un buit del corpus;
+- la resposta és telegràfica, enciclopèdica o plena de metadata interna.
 
-Si alguna resposta és «no», revisa'l o descarta'l. Després contrasta cada afirmació amb la font i registra la procedència a part.
+## Procedència i format
+
+La persona revisora contrasta cada afirmació amb les fitxes i fonts originals. Les notes de revisió van a `provenance.jsonl`, no al diàleg. El text final exportable només conté missatges `user` i `assistant`.
+
+Les converses de `EXEMPLES.md` són per calibrar. No són registres aprovats ni compten per a la cobertura.
