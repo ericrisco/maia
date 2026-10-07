@@ -31,18 +31,19 @@
     "reviewed_units": [
       "L'inventari oficial del 27 de març de 1895 desglossa les compres d'Andorra a Espanya per partida i valor, i suma 467.419 pessetes per a uns 6.000 habitants.",
       "Les partides de xocolata, llumins i cafè inclouen quantitats que anaven a l'estranger, identificat en aquest context com França; el document no en separa la quantitat exacta.",
-      "Carvajal relaciona els aranzels amb el contraban, però les partides en trànsit no identifiquen cada enviament com a il·legal."
+      "Carvajal relaciona els aranzels amb el contraban, però les partides en trànsit no identifiquen cada enviament com a il·legal.",
+      "L'apèndix del 1895 registra una mitjana de 8.000 caps d'ovelles i cabres que pujaven d'Espanya a Andorra per pasturar durant l'estiu; no en dona la data de tornada."
     ],
     "open_units": [
       "El pes del vi i les begudes en la cistella d'importacions.",
       "El predomini del sègol respecte del blat i què permet inferir sobre el pa i el consum.",
       "Les categories absents o petites, inclosa la carn, els lactis i les patates.",
-      "Les partides menudes de la llista i què acrediten sobre correu, llum i consum quotidià.",
       "La discrepància de 40.000 pessetes entre l'inventari parlamentari i el fullet citat per Brutails, i el límit de les comparacions disponibles.",
       "Les dues notes al peu i els límits de les dades de la font."
     ],
     "conversation_ids": [
-      "corts1895-importacions-transit-franca-001"
+      "corts1895-importacions-transit-franca-001",
+      "corts1895-ramats-espanyols-transhumancia-001"
     ]
   }
 }
