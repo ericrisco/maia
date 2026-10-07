@@ -2,20 +2,20 @@
   "source_root": "docs/temes/",
   "file_count": 1477,
   "article_count": 1348,
-  "conversation_count": 70,
+  "conversation_count": 71,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 1,
-    "in_progress": 6,
+    "in_progress": 7,
     "no_natural_question": 0,
-    "not_started": 1470
+    "not_started": 1469
   },
   "article_status_totals": {
     "complete": 0,
     "excluded_rights": 1,
-    "in_progress": 6,
+    "in_progress": 7,
     "no_natural_question": 0,
-    "not_started": 1341
+    "not_started": 1340
   },
   "documents": [
     {
@@ -10194,9 +10194,11 @@
       "type": "article",
       "topic": "temes/historia/moments-historics",
       "source": "pol-consciencia-nacional",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "reial-ordre-funcionari-espanyol-desconegut-001"
+      ],
       "reviewed_units": [],
       "open_units": [],
       "completion_note": "",
@@ -10795,14 +10797,16 @@
       "topic": "temes/historia/segle-xix",
       "source": "boletin-oficial-leon-1894",
       "status": "in_progress",
-      "conversation_count": 2,
+      "conversation_count": 3,
       "conversation_ids": [
         "canal-madrid-intermediaris-001",
+        "reial-ordre-funcionari-espanyol-desconegut-001",
         "reial-ordre-protectorat-tesi-oficial-001"
       ],
       "reviewed_units": [
         "Prohibició de relacions oficials dels jutges i funcionaris judicials espanyols amb les autoritats andorranes; canal obligatori pel bisbe d’Urgell i el Ministeri d’Estat.",
-        "La reial ordre del 1894 formula la tesi oficial espanyola del protectorat per mitjà de la Mitra d’Urgell, la por a una independència contrària als interessos d’Espanya i la instrucció de canalitzar pel bisbe totes les relacions oficials judicials."
+        "La reial ordre del 1894 formula la tesi oficial espanyola del protectorat per mitjà de la Mitra d’Urgell, la por a una independència contrària als interessos d’Espanya i la instrucció de canalitzar pel bisbe totes les relacions oficials judicials.",
+        "La reial ordre ordena suprimir la representació d’un funcionari espanyol davant del Consell General, però no n’identifica la persona ni permet saber si coincidia amb el delegat permanent del bisbe."
       ],
       "open_units": [
         "Justificació espanyola del protectorat i de la por a una situació d’independència.",
