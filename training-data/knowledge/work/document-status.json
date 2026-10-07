@@ -727,6 +727,13 @@
         "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0002",
         "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0003",
         "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0004",
+        "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0005",
+        "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0006",
+        "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0007",
+        "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0008",
+        "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0009",
+        "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0010",
+        "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0011",
         "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0018",
         "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0045",
         "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0046",
@@ -744,8 +751,9 @@
         "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0072"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 54,
+      "open_unit_count": 47,
       "conversation_ids": [
+        "habits-cultura-resum-general-001",
         "habits-esport-edat-001",
         "lectura-oci-bretxa-sexe-001",
         "voluntariat-discrepancia-2024-001"
