@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 8,
+    "in_progress": 10,
     "no_natural_question": 0,
-    "not_started": 1340
+    "not_started": 1338
   },
   "documents": [
     {
@@ -522,17 +522,19 @@
       "type": "article",
       "topic": "temes/costums/sant-antoni",
       "source": "premsa-andorrana",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "sant-antoni-encants-recuperacio-i-cronologia-01"
+      ],
+      "reviewed_units": [
+        "Canillo: encants perduts i recuperats cap al 2000 amb Josep Casal i el Comú; primera vianda popular el 1979 a Montaup.",
+        "Distinció de la cronologia del cas de Canillo respecte de la recuperació d’Andorra la Vella als anys setanta; la causa de la interrupció dels encants no consta."
+      ],
       "open_units": [
-        "dates, llocs, organització i noms locals de les celebracions de cada parròquia",
-        "si avui es manté la benedicció dels animals i on",
-        "si vianda és exclusiu de Canillo i quina és la seva extensió semàntica",
-        "recuperació dels encants de Canillo cap a l’any 2000 i paper de Josep Casal i del Comú",
-        "Sant Sebastià del 20 de gener i relació amb la confraria de Sant Julià",
-        "sant Antoni del porquet i fonts etnogràfiques pendents"
+        "Noms locals, calendari i organització de Sant Antoni a les altres parròquies.",
+        "Si la benedicció d’animals es manté avui i on; usos locals de vianda; Sant Sebastià i Sant Antoni del porquet.",
+        "Identificació i termes de la premsa que sosté les afirmacions de Canillo."
       ],
       "completion_note": "",
       "reason": ""
@@ -7305,9 +7307,11 @@
       "type": "article",
       "topic": "temes/gastronomia/plats",
       "source": "viquipedia-ca",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "sant-antoni-encants-recuperacio-i-cronologia-01"
+      ],
       "reviewed_units": [],
       "open_units": [],
       "completion_note": "",

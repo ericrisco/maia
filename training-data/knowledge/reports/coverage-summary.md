@@ -4,14 +4,14 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 
 - Fitxes article: **1348**.
 - Fitxers totals, inclosos índexs: **1477**.
-- Converses candidates: **10**.
+- Converses candidates: **11**.
 
 | Estat de revisió | Fitxes |
 |---|---:|
 | Revisades completes | 0 |
-| En curs | 8 |
+| En curs | 10 |
 | Revisades sense pregunta natural | 0 |
-| No començades | 1340 |
+| No començades | 1338 |
 
 ## Estat per tema
 
@@ -27,7 +27,7 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 | `temes/costums/meritxell` | 1 | 0 | 1 | 0 | 0 |
 | `temes/costums/religiositat` | 5 | 5 | 0 | 0 | 0 |
 | `temes/costums/ritus-de-pas` | 2 | 2 | 0 | 0 | 0 |
-| `temes/costums/sant-antoni` | 1 | 1 | 0 | 0 | 0 |
+| `temes/costums/sant-antoni` | 1 | 0 | 1 | 0 | 0 |
 | `temes/cultura` | 1 | 1 | 0 | 0 | 0 |
 | `temes/cultura/andorra-vista-de-fora` | 6 | 6 | 0 | 0 | 0 |
 | `temes/cultura/arquitectura` | 11 | 11 | 0 | 0 | 0 |
@@ -64,7 +64,7 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 | `temes/gastronomia/begudes` | 1 | 1 | 0 | 0 | 0 |
 | `temes/gastronomia/calendari-gastronomic` | 1 | 1 | 0 | 0 | 0 |
 | `temes/gastronomia/historia-alimentaria` | 5 | 5 | 0 | 0 | 0 |
-| `temes/gastronomia/plats` | 5 | 5 | 0 | 0 | 0 |
+| `temes/gastronomia/plats` | 5 | 4 | 1 | 0 | 0 |
 | `temes/gastronomia/productes` | 2 | 2 | 0 | 0 | 0 |
 | `temes/gastronomia/rebosteria` | 1 | 0 | 1 | 0 | 0 |
 | `temes/historia/antic-regim` | 50 | 50 | 0 | 0 | 0 |
