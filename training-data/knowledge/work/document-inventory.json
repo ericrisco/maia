@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 11,
+    "in_progress": 12,
     "no_natural_question": 0,
-    "not_started": 1337
+    "not_started": 1336
   },
   "documents": [
     {
@@ -13411,11 +13411,21 @@
       "type": "article",
       "topic": "temes/institucions/justicia",
       "source": "brutails-coutume-1904",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "procediment-palmitjavila-vigencia-1740-no-provada-01"
+      ],
+      "reviewed_units": [
+        "relació amb el procediment de Palmitjavila: el corpus no demostra continuïtat, substitució ni derogació abans o durant 1740"
+      ],
+      "open_units": [
+        "consulta del batlle amb tres advocats en casos difícils; diferències entre qui demanda i qui és demandat",
+        "apel·lacions civils, termini de deu dies i camins disponibles",
+        "prohibició de presó per deutes i privilegi que la sustenta; altres garanties i proporcionalitat de les guardes",
+        "regles sobre armes, detencions i cobrament prioritari dels oficials",
+        "segona lectura sobre la presó per deutes i col·locació de la Instructa dins del Politar"
+      ],
       "completion_note": "",
       "reason": ""
     },
@@ -14972,7 +14982,7 @@
       "topic": "temes/institucions/justicia",
       "source": "brutails-coutume-1904",
       "status": "in_progress",
-      "conversation_count": 21,
+      "conversation_count": 22,
       "conversation_ids": [
         "ampara-collita-llindar-blat-herba-01",
         "ampara-verificacio-deu-dies-subhasta-tres-01",
@@ -14986,6 +14996,7 @@
         "manuscrit-palmitjavila-datacio-despres-1607-01",
         "manuscrit-vers-brutails-habitants-vs-establerts-01",
         "penyora-porta-trucar-testimoni-claudators-01",
+        "procediment-palmitjavila-vigencia-1740-no-provada-01",
         "quarta-penyores-mobles-vs-immobles-lectura-ambigua-01",
         "quarta-relacio-manuscrit-instructa-1740-hipotesi-01",
         "retracte-finca-un-any-i-dia-regla-antiga-01",
@@ -15017,10 +15028,10 @@
         "divergència entre el manuscrit i la glossa de Brutails: el primer parla d’habitants i el comentari d’andorrans establerts; el corpus els atribueix separadament i no els considera equivalents per definició",
         "quarta part: a favor del creditor en la taxació de mobles i bestiar; direcció ambigua per als immobles, sense extrapolar-hi la regla mobiliària",
         "insuficiència de collita hipotecada: la resta es podia cobrar sobre altres béns de la casa segons les clàusules de l’obligació; el manuscrit no concreta els béns ni el procediment",
-        "relació amb l’aranzel de 1740: paral·lel entre la quarta de mobles/bestiar i la deducció a subhasta, i entre el tractament del blat; cap text no cita l’altre, de manera que la connexió resta hipòtesi"
+        "relació amb l’aranzel de 1740: paral·lel entre la quarta de mobles/bestiar i la deducció a subhasta, i entre el tractament del blat; cap text no cita l’altre, de manera que la connexió resta hipòtesi",
+        "vigència el 1740: la Instructa és un text separat; no hi ha cap document de derogació, substitució o continuïtat que confirmi si el procediment antic encara s’aplicava"
       ],
       "open_units": [
-        "vigència: no consta si el procediment del manuscrit continuava en vigor el 1740 ni què va passar entre els textos; no s’ha identificat cap acte de derogació o substitució",
         "terminologia: què designa exactament «prom» i si és el mateix ofici que prohom jurat; sentit jurídic dels mots no contrastat amb diccionari",
         "pràctica: no consta si el termini antic d’un any i un dia es va aplicar en casos reals"
       ],
