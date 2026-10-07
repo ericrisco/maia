@@ -201,6 +201,7 @@
       "excluded_unit_count": 3,
       "open_unit_count": 0,
       "conversation_ids": [
+        "dama-blanca-escultura-i-esbart-001",
         "danses-tradicions-localitzades-per-parroquia-001",
         "marratxa-coreografia-actual-001",
         "marratxa-data-i-pareatge-001",
@@ -1167,15 +1168,18 @@
         "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0024",
         "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0025",
         "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0026",
+        "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0028",
+        "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0030",
         "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0031",
         "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0032"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 20,
+      "open_unit_count": 18,
       "conversation_ids": [
         "dama-blanca-aubinya-auvinya-toponim-001",
         "dama-blanca-bisbe-i-llop-negra-001",
         "dama-blanca-camiade-hipotesi-no-atribuir-001",
+        "dama-blanca-escultura-i-esbart-001",
         "dama-blanca-origen-hipotesis-001"
       ]
     },
