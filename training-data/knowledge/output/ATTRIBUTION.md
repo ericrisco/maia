@@ -46,6 +46,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - La fitxa del corpus «El ball del Cerdà» atribueix el lloc i l’hora a «premsa andorrana», sense identificar el mitjà, l’article, la data ni l’URL.
 - La fitxa «El ball del Cerdà» cita una font secundària no identificada; «La marratxa» recull dades atribuïdes a Viquipèdia en català, CC BY-SA 4.0, amb atribució i compartir igual.
 - La fitxa «El contrapàs» atribueix la participació, la descripció coreogràfica i el calendari a «premsa andorrana», sense identificar el mitjà, l’article, la data ni l’URL.
+- La fitxa «La Passa» cita «premsa andorrana» sense identificar l’article i el portal del Govern sense identificar una pàgina concreta.
 - Les fitxes de danses del corpus situen cada tradició per parròquia. Pere Canturri, «Usos i costums d’Andorra» (2002), és la font citada per a la introducció de la sardana.
 - Pere Canturri i Montanya, «Andorra en el Costumari català de Joan Amades», 7a Diada Andorrana a la XXVI Universitat Catalana d’Estiu, 1994, p. 33–39.
 - Pere Canturri i Montanya, «Usos i costums d’Andorra», 15a Diada Andorrana a la XXXIV Universitat Catalana d’Estiu (2002), dins Una història d’Andorra, temàtica, p. 209 i següents.
@@ -84,6 +85,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - No s’incorpora text de cançons. La fitxa no identifica cap font amb drets clars per a les lletres; la font declarada de l’article és premsa andorrana amb redistribució:no.
 - Obra impresa de 1904 en domini públic; Gallica permet reutilització no comercial gratuïta amb atribució. L'elegibilitat del destí d'entrenament no consta resolta a la fitxa de font.
 - Obra impresa de 1904 en domini públic; Gallica permet reutilització no comercial gratuïta amb atribució. L’elegibilitat del destí d’entrenament no consta resolta a la fitxa de font.
+- Premsa: drets reservats i redistribució:no; referència no verificable. Govern: l’avís general exigeix autorització escrita per redistribuir o transformar contingut; no consta permís específic.
 - Publicació acadèmica de Canturri en accés obert amb redistribució pendent. Viquipèdia és CC BY-SA 4.0, amb atribució i compartir igual. No es coneix la data del canvi de pràctica.
 - Publicació acadèmica en accés obert; la fitxa de font registra redistribució pendent. La conversa és una paràfrasi atribuïda i no afirma que el vestuari es conservi avui.
 - Publicació acadèmica en accés obert; la fitxa de font registra redistribució pendent. L’elegibilitat del destí d’entrenament no consta resolta.

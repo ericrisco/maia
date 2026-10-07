@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 18,
+    "in_progress": 19,
     "no_natural_question": 0,
-    "not_started": 1330
+    "not_started": 1329
   },
   "documents": [
     {
@@ -526,10 +526,16 @@
       "type": "article",
       "topic": "temes/costums/ritus-de-pas",
       "source": "premsa-andorrana",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "la-passa-ritus-i-majors-fadrins-01"
+      ],
+      "reviewed_units": [
+        "la Passa és una cercavila de parelles de fadrins, no una dansa; dilluns de festa major, amb ordre per matrimoni de l’any i edat",
+        "«majors fadrins» són les parelles que es casaran aquell any; condició anual no heretada ni elegida",
+        "la font periodística no està identificada; les funcions concretes durant la festa continuen desconegudes"
+      ],
       "completion_note": "",
       "reason": ""
     },
