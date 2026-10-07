@@ -842,5 +842,20 @@
     "reviewed_units": [
       "Els motius dels gravats es repeteixen al llarg del temps; l’estil per si sol no permet datar-los, i la fitxa no aporta un mètode alternatiu específic."
     ]
+  },
+  "docs/temes/cultura/arts-visuals/les-escoles-dart-comunals.md": {
+    "status": "in_progress",
+    "open_units": [
+      "Inventari i ubicació exacta de les set escoles, noms i estructura actuals no sistematitzats.",
+      "Nombre agregat d’alumnes i perfils d’edat no disponible.",
+      "Continuïtat del batxillerat artístic després de la proposta del 2000 encara no resolta.",
+      "El programa complet d’objectius escolars conté files il·legibles pendents de consultar en millor còpia."
+    ],
+    "conversation_ids": [
+      "escoles-art-comunals-origen-i-funcio-001"
+    ],
+    "reviewed_units": [
+      "Les escoles comunals van respondre a la demanda d’artistes i alumnes i serveixen infants i adults amb una funció sociocultural."
+    ]
   }
 }
