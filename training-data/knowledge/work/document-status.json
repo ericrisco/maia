@@ -72,5 +72,19 @@
     "reviewed_units": [
       "La llista judicial de 1902 no permet datar l’escudella popular; la primera vianda de Canillo documentada a la fitxa és del 1979 i no data les altres parròquies."
     ]
+  },
+  "docs/temes/costums/falles/falles.md": {
+    "status": "in_progress",
+    "open_units": [
+      "Variants i recorreguts per parròquia.",
+      "Reconeixement patrimonial de les falles andorranes i fonts comunals que ho acreditin.",
+      "Data exacta de la pèrdua i identitat de qui va recuperar el costum."
+    ],
+    "conversation_ids": [
+      "falles-andorra-torxes-i-recuperacio-001"
+    ],
+    "reviewed_units": [
+      "Diferència entre les falles andorranes com a torxes i les Falles valencianes com a monuments; materials antics i canvi documentat per Canturri després de la recuperació cap al 1997-1998."
+    ]
   }
 }

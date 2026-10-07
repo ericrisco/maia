@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 4,
+    "in_progress": 5,
     "no_natural_question": 0,
-    "not_started": 1344
+    "not_started": 1343
   },
   "documents": [
     {
@@ -233,11 +233,19 @@
       "type": "article",
       "topic": "temes/costums/falles",
       "source": "canturri-usos-i-costums",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "falles-andorra-torxes-i-recuperacio-001"
+      ],
+      "reviewed_units": [
+        "Diferència entre les falles andorranes com a torxes i les Falles valencianes com a monuments; materials antics i canvi documentat per Canturri després de la recuperació cap al 1997-1998."
+      ],
+      "open_units": [
+        "Variants i recorreguts per parròquia.",
+        "Reconeixement patrimonial de les falles andorranes i fonts comunals que ho acreditin.",
+        "Data exacta de la pèrdua i identitat de qui va recuperar el costum."
+      ],
       "completion_note": "",
       "reason": ""
     },
