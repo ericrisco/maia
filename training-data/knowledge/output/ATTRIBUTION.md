@@ -41,6 +41,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - J.-A. Brutails, La Coutume d’Andorre (1904), pp. 274, 266–268; digitalització Gallica BnF.
 - La fitxa del corpus «El ball del Cerdà» atribueix el lloc i l’hora a «premsa andorrana», sense identificar el mitjà, l’article, la data ni l’URL.
 - La fitxa «El ball del Cerdà» cita una font secundària no identificada; «La marratxa» recull dades atribuïdes a Viquipèdia en català, CC BY-SA 4.0, amb atribució i compartir igual.
+- La fitxa «El contrapàs» atribueix la participació, la descripció coreogràfica i el calendari a «premsa andorrana», sense identificar el mitjà, l’article, la data ni l’URL.
 - Pere Canturri i Montanya, «Usos i costums d’Andorra», 15a Diada Andorrana a la XXXIV Universitat Catalana d’Estiu (2002), dins Una història d’Andorra, temàtica, p. 209 i següents.
 - Premsa andorrana; la fitxa de font no identifica el diari, l’article, la data ni l’URL de la publicació concreta.
 

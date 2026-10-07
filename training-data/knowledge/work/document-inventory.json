@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 11,
+    "in_progress": 12,
     "no_natural_question": 0,
-    "not_started": 1337
+    "not_started": 1336
   },
   "documents": [
     {
@@ -188,10 +188,16 @@
       "type": "article",
       "topic": "temes/costums/danses",
       "source": "premsa-andorrana",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "contrapas-participacio-i-quan-veure-01"
+      ],
+      "reviewed_units": [
+        "participació de l’Esbart Dansaire, ciutadans i càrrecs electes; font periodística no identificada",
+        "tretze parts i final en cercle; descripció no verificable independentment",
+        "celebració anual el diumenge de la Festa Major d’Andorra la Vella; cal programa actual per confirmar horari i detalls"
+      ],
       "completion_note": "",
       "reason": ""
     },
