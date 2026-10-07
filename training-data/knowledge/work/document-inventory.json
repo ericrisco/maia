@@ -15701,13 +15701,14 @@
       "topic": "temes/institucions/relacions-exteriors",
       "source": "eur-lex-adequacio-dades-andorra-2010",
       "status": "in_progress",
-      "conversation_count": 14,
+      "conversation_count": 15,
       "conversation_ids": [
         "adequacio-2010-base-legal-agencia-02",
         "adequacio-2010-criteris-avaluacio-i-no-discriminacio-13",
         "adequacio-2010-entrada-en-vigor-tractats-04",
         "adequacio-2010-excepcions-recursos-apda-12",
         "adequacio-2010-garanties-interpretacio-01",
+        "adequacio-2010-normes-sectorials-14",
         "adequacio-2010-supòsits-suspensio-08",
         "adequacio-2010-tractats-internacionals-03",
         "adequacio-2016-poders-suspensio-fluxos-07",
@@ -15733,7 +15734,8 @@
         "connexió entre l'adequació de la UE a Andorra i el criteri andorrà de transferències internacionals dels articles 42–44 de la Llei 29/2021",
         "revisió europea del 2024: conclusió sobre adequació continuada sota el RGPD i diferència entre informe de revisió i nova decisió",
         "considerant 10: principis de protecció, excepcions per interessos públics, recursos administratius i judicials i poders independents de l'APDA",
-        "considerants 3 i 4: valoració de totes les circumstàncies de les transferències i límit a la discriminació arbitrària o a les barreres comercials encobertes"
+        "considerants 3 i 4: valoració de totes les circumstàncies de les transferències i límit a la discriminació arbitrària o a les barreres comercials encobertes",
+        "considerant 8: disposicions de protecció de dades en normativa financera, sanitària i de registres públics; la decisió no n'enumera les lleis"
       ],
       "open_units": [
         "auditar la cobertura de la resta de la Decisió 2010/625/UE i de la seva versió consolidada del 2016"
