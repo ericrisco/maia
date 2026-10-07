@@ -1,80 +1,57 @@
-# Exemples de conversa: criteri de naturalitat
+# Calibratge de converses de Maia Knowledge
 
-> Estat: guia de revisió. Els exemples no validen automàticament les 54
-> converses existents. L'estructura i els drets passen un validador; la
-> naturalitat encara requereix lectura humana.
+Aquestes tres mostres fixen el punt de partida per a la revisió humana. Una
+mostra no queda aprovada només perquè sigui correcta o passi el validador.
+Cal llegir-la com un diàleg i comprovar que la pregunta sona espontània.
 
-Els registres antics sovint preguntaven pel nom d'una secció, una fila o un
-fragment de fitxa. Això només ho preguntaria algú que estigués fent un examen
-sobre el document. Una conversa de training ha de començar pel dubte que el
-contingut ajuda a resoldre.
-
-Els exemples següents mostren formes possibles de conversa. Les afirmacions
-aprovades en registres concrets tenen la seva procedència i els seus límits a
-`provenance.jsonl`.
-
-Una conversa pot tenir un sol intercanvi. «Multitorn» vol dir conservar els
-seguiments que una persona faria, no afegir seguiments a cada registre.
-
-## La Dama Blanca i el llop
-
-```json
-{"messages":[{"role":"user","content":"A l'escultura de la Dama Blanca d'Aubinyà també hi surt un llop. Quin paper té en la llegenda?"},{"role":"assistant","content":"L'escultura metàl·lica de Toni Cruz la mostra amb un llop; també se l'anomena Dama Blanca d'Andorra. En la llegenda, després que desaparegui el bisbe d'Urgell, un llop negre comença a sembrar la mort i el terror; un síndic el caça. Però després té malsons i embogeix: el relat diu que el llop duia dins seu l'ànima negra del bisbe."},{"role":"user","content":"Així que el llop és el bisbe, d'alguna manera?"},{"role":"assistant","content":"Dins la llegenda, sí: el llop conté l'ànima del bisbe. És part del relat llegendari, no una afirmació sobre un fet històric."},{"role":"user","content":"I la Dama pot salvar el síndic, quan comença a embogir?"},{"role":"assistant","content":"No. Els ciutadans li demanen ajuda, però no el pot guarir i el síndic acaba morint. Després, el llop i el bisbe deixen de manifestar-se. Per això el relat no acaba amb una victòria neta: també mostra el cost de plantar cara al poder."}]}
-```
-
-**Per què funciona:** la pregunta sorgeix d'un element visible de l'escultura;
-els dos seguiments neixen del relat: primer aclareixen qui és el llop i després
-pregunten pel destí del síndic. L'assistent marca que es tracta d'una llegenda.
-
-## Ficció televisiva i història
-
-```json
-{"messages":[{"role":"user","content":"La minisèrie «Andorra, entre el torb i la Gestapo» és fidel als fets o s'inventa part de la història?"},{"role":"assistant","content":"És una ficció basada en fets reals i en el llibre autobiogràfic de Francesc Viadiu. La trama dramatitza una xarxa d'evasió per Andorra que ajuda aviadors britànics ferits i perseguits per la Gestapo."},{"role":"user","content":"Aleshores, per explicar què va passar de debò, em puc basar només en la minisèrie?"},{"role":"assistant","content":"No. La pots fer servir per parlar de com la sèrie explica aquests fets, però no per provar que cada escena va passar tal com es veu. Per explicar la història, cal contrastar-ne la trama amb fonts documentals."}]}
-```
-
-**Per què funciona:** la primera resposta separa l'origen autobiogràfic de la
-dramatització. El seguiment pregunta per una conseqüència concreta i rep un
-límit d'evidència clar.
-
-## Patrons que cal rebutjar
+## Llegenda de la Dama Blanca
 
 ```text
-Què explica la secció «El relat» de la fitxa «La troballa de Meritxell»?
-Què indica aquesta fila?
-Quina resposta dona el segon paràgraf?
-La baixada és igual a totes les edats? I als joves? I a la gent gran?
+Usuari: A la llegenda de la Dama Blanca també hi surt un llop. Quin paper hi té?
+Assistent: Després que desaparegui el bisbe d'Urgell, un llop negre comença a sembrar la mort i el terror. Un síndic el caça, però més endavant té malsons i embogeix. La llegenda diu que el llop duia l'ànima negra del bisbe.
+Usuari: I què li passa, al síndic?
+Assistent: La Dama Blanca no el pot guarir i ell acaba morint. Després, el llop i el bisbe deixen de manifestar-se. És el desenllaç de la llegenda, no un fet històric documentat.
 ```
 
-Les primeres preguntes depenen del document o semblen un qüestionari. L'última
-encadena subpreguntes sense deixar que la resposta anterior motivi el torn
-següent.
+La pregunta parteix de la història, no del nom d'una secció. El seguiment demana
+el desenllaç d'un personatge que acaba d'aparèixer.
 
-També cal revisar una conversa que sona plausible però repeteix sempre el mateix
-motlle: pregunta inicial, resposta llarga, pregunta de confirmació i resposta
-que reformula l'anterior. Si el seguiment no demana una aclaració concreta ni
-obre una conseqüència útil, elimina'l.
+## Visita a Barcelona
 
-## Una consulta concreta pot ser d'un sol torn
-
-```json
-{"messages":[{"role":"user","content":"On puc veure alguna obra de Josep Viladomat a Barcelona?"},{"role":"assistant","content":"En pots veure, per exemple, a la plaça de Catalunya (*Dona amb nen i flabiol*), a la Casa de la Ciutat (*Maternitat*) i als jardins de Joan Maragall (*Dos Tritons*)."}]}
+```text
+Usuari: Passaré unes hores per Barcelona. On puc veure escultures de Josep Viladomat?
+Assistent: En pots veure, per exemple, a la plaça de Catalunya (*Dona amb nen i flabiol*), a la Casa de la Ciutat (*Maternitat*) i als jardins de Joan Maragall (*Dos Tritons*).
 ```
 
-**Per què funciona:** parteix d'un pla plausible —voler veure obres a la ciutat—
-i resol la petició en un torn. No cal inventar un seguiment.
+La resposta resol una petició pràctica en un torn. No cal afegir una pregunta
+només per convertir-la en multitorn.
 
-## Un seguiment ha de néixer de la resposta
+## Ficció i història
 
-```json
-{"messages":[{"role":"user","content":"Vull veure alguna obra de Josep Viladomat a Barcelona. Quines em recomanes?"},{"role":"assistant","content":"Pots començar per *Dona amb nen i flabiol*, a la plaça de Catalunya; *Maternitat*, a la Casa de la Ciutat; o *Dos Tritons*, als jardins de Joan Maragall."},{"role":"user","content":"I *La Puntaire* també és a Barcelona?"},{"role":"assistant","content":"Sí. *La Puntaire*, del 1972, és al parc de Montjuïc, també a Barcelona."}]}
+```text
+Usuari: He començat «Andorra, entre el torb i la Gestapo». La història va passar tal com la veiem?
+Assistent: La minisèrie és una ficció basada en fets reals i en el llibre autobiogràfic de Francesc Viadiu. Dramatitza una xarxa d'evasió que ajudava per Andorra aviadors britànics ferits i perseguits per la Gestapo. Això no confirma que cada escena passés tal com es mostra.
+Usuari: Què se sap de la xarxa, doncs?
+Assistent: La trama parla d'una xarxa d'evasió que ajudava aviadors britànics ferits i perseguits per la Gestapo a través d'Andorra. La informació disponible no confirma quines escenes concretes van passar.
 ```
 
-**Per què funciona:** el seguiment pregunta per una obra concreta després que
-l'assistent n'hagi situat d'altres a Barcelona. Si no hi hagués aquest interès
-nou, la conversa podria acabar després de la primera resposta.
+El seguiment pregunta per un límit pràctic que neix de la primera resposta.
 
-## Prova final
+## Rebutja aquests patrons
 
-Llegeix només els missatges, sense veure la fitxa font. Si no s'entén què vol
-saber l'usuari, si la conversa sona com una tasca d'extracció o si algun torn
-només hi és per fer-la més llarga, reescriu-la.
+- «Què explica la secció X de la fitxa Y?»
+- «Què indica aquesta fila?»
+- Respostes que comencen a mitja idea o només deixen una dada sense context.
+- Un seguiment de confirmació que repeteix la resposta anterior.
+- Afegir torns perquè totes les converses tinguin la mateixa llargada.
+
+## Revisió ràpida
+
+1. Amaga la font i llegeix només els missatges.
+2. Comprova que la primera pregunta podria aparèixer en una conversa real.
+3. Comprova que la resposta contesta abans d'afegir context.
+4. Suprimeix cada seguiment que no aporta una nova necessitat.
+5. Comprova les afirmacions i els drets a `provenance.jsonl`.
+
+Les mostres apareixen a `conversations.jsonl` amb estat `approved_sample` a la
+procedència. Són material de calibratge; no són exemples aprovats per entrenar.

@@ -4,8 +4,9 @@
 que veuria l'usuari. `provenance.jsonl` conserva, en el mateix ordre, les fonts,
 llicències, afirmacions sostingudes, límits i referències de revisió.
 
-Hi ha 54 registres marcats com a aprovats per cobertura i procedència. La
-validació actual comprova estructura i drets, però no pot determinar si les
-preguntes sonen humanes. Cal revisar-ne la naturalitat abans de tractar-los com
-a referència de calibratge. Consulta [`EXEMPLES.md`](EXEMPLES.md) per als
-criteris; no copiïs mecànicament cap exemple.
+El conjunt anterior s'ha retirat perquè les preguntes sonaven com un qüestionari
+sobre les fitxes i alguns seguiments repetien informació. `conversations.jsonl`
+ara conté tres mostres per calibrar la naturalitat. La validació comprova
+l'estructura i els drets, però no pot decidir si una conversa sona humana.
+Consulta [`EXEMPLES.md`](EXEMPLES.md) i revisa les mostres abans de reprendre la
+generació de registres.

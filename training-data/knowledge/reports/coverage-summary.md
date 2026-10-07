@@ -4,16 +4,16 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 
 - Documents inventariats: **1477** (1348 articles).
 - Unitats estructurals totals: **62911**.
-- Unitats cobertes per converses aprovades: **279** (0.443%).
+- Unitats cobertes per converses aprovades: **0** (0.000%).
 - Unitats excloses amb motiu: **1059**.
-- Unitats encara obertes: **61573**.
-- Converses candidates: **73**; aprovades: **73**; mostres de calibratge: **0** (no compten com a cobertura).
+- Unitats encara obertes: **61852**.
+- Converses candidates: **3**; aprovades: **0**; mostres de calibratge: **3** (no compten com a cobertura).
 
 ## Estat per tema
 
 | Tema | Documents | Unitats | Cobertes | Excloses | Obertes |
 |---|---:|---:|---:|---:|---:|
-| `(sense tema)` | 123 | 1707 | 1 | 61 | 1645 |
+| `(sense tema)` | 123 | 1707 | 0 | 61 | 1646 |
 | `societat/treball` | 1 | 7 | 0 | 0 | 7 |
 | `temes/costums/calendari-festiu` | 2 | 65 | 0 | 0 | 65 |
 | `temes/costums/caramelles` | 1 | 18 | 0 | 0 | 18 |
@@ -26,13 +26,13 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 | `temes/costums/ritus-de-pas` | 2 | 51 | 0 | 0 | 51 |
 | `temes/costums/sant-antoni` | 1 | 19 | 0 | 0 | 19 |
 | `temes/cultura` | 1 | 73 | 0 | 0 | 73 |
-| `temes/cultura/andorra-vista-de-fora` | 6 | 280 | 41 | 239 | 0 |
-| `temes/cultura/arquitectura` | 11 | 216 | 52 | 164 | 0 |
+| `temes/cultura/andorra-vista-de-fora` | 6 | 280 | 0 | 239 | 41 |
+| `temes/cultura/arquitectura` | 11 | 216 | 0 | 164 | 52 |
 | `temes/cultura/artesania` | 2 | 138 | 0 | 138 | 0 |
-| `temes/cultura/arts-visuals` | 9 | 303 | 56 | 247 | 0 |
+| `temes/cultura/arts-visuals` | 9 | 303 | 0 | 247 | 56 |
 | `temes/cultura/cultura-popular` | 2 | 48 | 0 | 0 | 48 |
-| `temes/cultura/literatura` | 1 | 87 | 36 | 43 | 8 |
-| `temes/cultura/llegendes` | 10 | 254 | 87 | 167 | 0 |
+| `temes/cultura/literatura` | 1 | 87 | 0 | 43 | 44 |
+| `temes/cultura/llegendes` | 10 | 254 | 0 | 167 | 87 |
 | `temes/cultura/museus-i-arxius` | 15 | 912 | 0 | 0 | 912 |
 | `temes/cultura/museus-i-arxius/museus` | 11 | 335 | 0 | 0 | 335 |
 | `temes/cultura/musica-i-cancons` | 3 | 103 | 0 | 0 | 103 |
@@ -69,15 +69,15 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 | `temes/historia/contraban` | 2 | 116 | 0 | 0 | 116 |
 | `temes/historia/democratitzacio` | 3 | 87 | 0 | 0 | 87 |
 | `temes/historia/edat-mitjana` | 42 | 1212 | 0 | 0 | 1212 |
-| `temes/historia/guerres-i-neutralitat` | 22 | 503 | 3 | 0 | 500 |
+| `temes/historia/guerres-i-neutralitat` | 22 | 503 | 0 | 0 | 503 |
 | `temes/historia/historia-recent` | 7 | 396 | 0 | 0 | 396 |
 | `temes/historia/historiografia` | 11 | 644 | 0 | 0 | 644 |
 | `temes/historia/manual-digest` | 5 | 353 | 0 | 0 | 353 |
 | `temes/historia/moments-historics` | 2 | 153 | 0 | 0 | 153 |
 | `temes/historia/origens` | 15 | 414 | 0 | 0 | 414 |
 | `temes/historia/pareatge` | 6 | 473 | 0 | 0 | 473 |
-| `temes/historia/segle-xix` | 29 | 1819 | 2 | 0 | 1817 |
-| `temes/historia/segle-xx-primera-meitat` | 30 | 892 | 1 | 0 | 891 |
+| `temes/historia/segle-xix` | 29 | 1819 | 0 | 0 | 1819 |
+| `temes/historia/segle-xx-primera-meitat` | 30 | 892 | 0 | 0 | 892 |
 | `temes/institucions/comuns-i-parroquies` | 35 | 971 | 0 | 0 | 971 |
 | `temes/institucions/consell-general` | 84 | 2530 | 0 | 0 | 2530 |
 | `temes/institucions/coprincipat` | 33 | 940 | 0 | 0 | 940 |

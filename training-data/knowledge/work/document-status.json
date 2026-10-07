@@ -390,16 +390,12 @@
       "title": "Andorra vista de fora",
       "type": "article",
       "topic": "temes/cultura/andorra-vista-de-fora",
-      "status": "complete",
+      "status": "in_progress",
       "unit_count": 35,
-      "covered_unit_ids": [
-        "docs/temes/cultura/andorra-vista-de-fora/andorra-vista-de-fora.md#unit-0016"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 34,
-      "open_unit_count": 0,
-      "conversation_ids": [
-        "andorra-torb-gestapo-ficcio-i-historia-001"
-      ]
+      "open_unit_count": 1,
+      "conversation_ids": []
     },
     "docs/temes/cultura/andorra-vista-de-fora/els-descobridors.md": {
       "title": "Els descobridors",
@@ -449,59 +445,12 @@
       "title": "L'estafa d'Andorra, el documental",
       "type": "article",
       "topic": "temes/cultura/andorra-vista-de-fora",
-      "status": "complete",
+      "status": "in_progress",
       "unit_count": 52,
-      "covered_unit_ids": [
-        "docs/temes/cultura/andorra-vista-de-fora/lestafa-dandorra.md#unit-0003",
-        "docs/temes/cultura/andorra-vista-de-fora/lestafa-dandorra.md#unit-0004",
-        "docs/temes/cultura/andorra-vista-de-fora/lestafa-dandorra.md#unit-0006",
-        "docs/temes/cultura/andorra-vista-de-fora/lestafa-dandorra.md#unit-0007",
-        "docs/temes/cultura/andorra-vista-de-fora/lestafa-dandorra.md#unit-0008",
-        "docs/temes/cultura/andorra-vista-de-fora/lestafa-dandorra.md#unit-0009",
-        "docs/temes/cultura/andorra-vista-de-fora/lestafa-dandorra.md#unit-0010",
-        "docs/temes/cultura/andorra-vista-de-fora/lestafa-dandorra.md#unit-0011",
-        "docs/temes/cultura/andorra-vista-de-fora/lestafa-dandorra.md#unit-0012",
-        "docs/temes/cultura/andorra-vista-de-fora/lestafa-dandorra.md#unit-0013",
-        "docs/temes/cultura/andorra-vista-de-fora/lestafa-dandorra.md#unit-0014",
-        "docs/temes/cultura/andorra-vista-de-fora/lestafa-dandorra.md#unit-0015",
-        "docs/temes/cultura/andorra-vista-de-fora/lestafa-dandorra.md#unit-0016",
-        "docs/temes/cultura/andorra-vista-de-fora/lestafa-dandorra.md#unit-0017",
-        "docs/temes/cultura/andorra-vista-de-fora/lestafa-dandorra.md#unit-0018",
-        "docs/temes/cultura/andorra-vista-de-fora/lestafa-dandorra.md#unit-0019",
-        "docs/temes/cultura/andorra-vista-de-fora/lestafa-dandorra.md#unit-0020",
-        "docs/temes/cultura/andorra-vista-de-fora/lestafa-dandorra.md#unit-0021",
-        "docs/temes/cultura/andorra-vista-de-fora/lestafa-dandorra.md#unit-0022",
-        "docs/temes/cultura/andorra-vista-de-fora/lestafa-dandorra.md#unit-0023",
-        "docs/temes/cultura/andorra-vista-de-fora/lestafa-dandorra.md#unit-0024",
-        "docs/temes/cultura/andorra-vista-de-fora/lestafa-dandorra.md#unit-0025",
-        "docs/temes/cultura/andorra-vista-de-fora/lestafa-dandorra.md#unit-0026",
-        "docs/temes/cultura/andorra-vista-de-fora/lestafa-dandorra.md#unit-0027",
-        "docs/temes/cultura/andorra-vista-de-fora/lestafa-dandorra.md#unit-0028",
-        "docs/temes/cultura/andorra-vista-de-fora/lestafa-dandorra.md#unit-0029",
-        "docs/temes/cultura/andorra-vista-de-fora/lestafa-dandorra.md#unit-0030",
-        "docs/temes/cultura/andorra-vista-de-fora/lestafa-dandorra.md#unit-0031",
-        "docs/temes/cultura/andorra-vista-de-fora/lestafa-dandorra.md#unit-0032",
-        "docs/temes/cultura/andorra-vista-de-fora/lestafa-dandorra.md#unit-0033",
-        "docs/temes/cultura/andorra-vista-de-fora/lestafa-dandorra.md#unit-0034",
-        "docs/temes/cultura/andorra-vista-de-fora/lestafa-dandorra.md#unit-0035",
-        "docs/temes/cultura/andorra-vista-de-fora/lestafa-dandorra.md#unit-0036",
-        "docs/temes/cultura/andorra-vista-de-fora/lestafa-dandorra.md#unit-0037",
-        "docs/temes/cultura/andorra-vista-de-fora/lestafa-dandorra.md#unit-0038",
-        "docs/temes/cultura/andorra-vista-de-fora/lestafa-dandorra.md#unit-0039",
-        "docs/temes/cultura/andorra-vista-de-fora/lestafa-dandorra.md#unit-0040",
-        "docs/temes/cultura/andorra-vista-de-fora/lestafa-dandorra.md#unit-0041",
-        "docs/temes/cultura/andorra-vista-de-fora/lestafa-dandorra.md#unit-0042",
-        "docs/temes/cultura/andorra-vista-de-fora/lestafa-dandorra.md#unit-0043"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 12,
-      "open_unit_count": 0,
-      "conversation_ids": [
-        "andorra-hustle-difusio-no-prova-001",
-        "andorra-hustle-entrevistats-i-abast-001",
-        "andorra-hustle-lectures-i-font-parcial-001",
-        "andorra-hustle-retirada-amazon-001",
-        "the-andorra-hustle-fitxa-i-abast-001"
-      ]
+      "open_unit_count": 40,
+      "conversation_ids": []
     },
     "docs/temes/cultura/arquitectura/arquitectura-index-de-fitxes.md": {
       "title": "Arquitectura — índex de fitxes",
@@ -529,31 +478,12 @@
       "title": "Els estripagecs",
       "type": "article",
       "topic": "temes/cultura/arquitectura",
-      "status": "complete",
+      "status": "in_progress",
       "unit_count": 33,
-      "covered_unit_ids": [
-        "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0001",
-        "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0002",
-        "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0003",
-        "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0004",
-        "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0010",
-        "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0012",
-        "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0017",
-        "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0018",
-        "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0025",
-        "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0026",
-        "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0027",
-        "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0028"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 21,
-      "open_unit_count": 0,
-      "conversation_ids": [
-        "estripagecs-cronologia-i-autoria-desconegudes-001",
-        "estripagecs-escultures-i-circuit-001",
-        "estripagecs-exemple-i-distribucio-001",
-        "estripagecs-funcio-i-abast-geografic-001",
-        "estripagecs-i-tamarro-reutilitzacio-cultural-001"
-      ]
+      "open_unit_count": 12,
+      "conversation_ids": []
     },
     "docs/temes/cultura/arquitectura/espai-columba.md": {
       "title": "L'Espai Columba",
@@ -570,64 +500,34 @@
       "title": "El romànic andorrà — índex",
       "type": "article",
       "topic": "temes/cultura/arquitectura",
-      "status": "complete",
+      "status": "in_progress",
       "unit_count": 18,
-      "covered_unit_ids": [
-        "docs/temes/cultura/arquitectura/romanic.md#unit-0002",
-        "docs/temes/cultura/arquitectura/romanic.md#unit-0003",
-        "docs/temes/cultura/arquitectura/romanic.md#unit-0004",
-        "docs/temes/cultura/arquitectura/romanic.md#unit-0005",
-        "docs/temes/cultura/arquitectura/romanic.md#unit-0006",
-        "docs/temes/cultura/arquitectura/romanic.md#unit-0007",
-        "docs/temes/cultura/arquitectura/romanic.md#unit-0008",
-        "docs/temes/cultura/arquitectura/romanic.md#unit-0009",
-        "docs/temes/cultura/arquitectura/romanic.md#unit-0010",
-        "docs/temes/cultura/arquitectura/romanic.md#unit-0011"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 8,
-      "open_unit_count": 0,
-      "conversation_ids": [
-        "romanic-andorra-ruta-i-continuitat-001"
-      ]
+      "open_unit_count": 10,
+      "conversation_ids": []
     },
     "docs/temes/cultura/arquitectura/sant-joan-de-caselles.md": {
       "title": "Sant Joan de Caselles",
       "type": "article",
       "topic": "temes/cultura/arquitectura",
-      "status": "complete",
+      "status": "in_progress",
       "unit_count": 10,
-      "covered_unit_ids": [
-        "docs/temes/cultura/arquitectura/sant-joan-de-caselles.md#unit-0001",
-        "docs/temes/cultura/arquitectura/sant-joan-de-caselles.md#unit-0002",
-        "docs/temes/cultura/arquitectura/sant-joan-de-caselles.md#unit-0003",
-        "docs/temes/cultura/arquitectura/sant-joan-de-caselles.md#unit-0005",
-        "docs/temes/cultura/arquitectura/sant-joan-de-caselles.md#unit-0006"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 5,
-      "open_unit_count": 0,
-      "conversation_ids": [
-        "sant-joan-caselles-estuc-retaule-001"
-      ]
+      "open_unit_count": 5,
+      "conversation_ids": []
     },
     "docs/temes/cultura/arquitectura/sant-marti-de-la-cortinada.md": {
       "title": "Sant Martí de la Cortinada",
       "type": "article",
       "topic": "temes/cultura/arquitectura",
-      "status": "complete",
+      "status": "in_progress",
       "unit_count": 12,
-      "covered_unit_ids": [
-        "docs/temes/cultura/arquitectura/sant-marti-de-la-cortinada.md#unit-0001",
-        "docs/temes/cultura/arquitectura/sant-marti-de-la-cortinada.md#unit-0002",
-        "docs/temes/cultura/arquitectura/sant-marti-de-la-cortinada.md#unit-0003",
-        "docs/temes/cultura/arquitectura/sant-marti-de-la-cortinada.md#unit-0004",
-        "docs/temes/cultura/arquitectura/sant-marti-de-la-cortinada.md#unit-0005",
-        "docs/temes/cultura/arquitectura/sant-marti-de-la-cortinada.md#unit-0006"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 6,
-      "open_unit_count": 0,
-      "conversation_ids": [
-        "sant-marti-cortinada-pintures-mestre-001"
-      ]
+      "open_unit_count": 6,
+      "conversation_ids": []
     },
     "docs/temes/cultura/arquitectura/sant-miquel-de-prats.md": {
       "title": "Sant Miquel de Prats",
@@ -655,23 +555,12 @@
       "title": "Sant Romà de les Bons",
       "type": "article",
       "topic": "temes/cultura/arquitectura",
-      "status": "complete",
+      "status": "in_progress",
       "unit_count": 15,
-      "covered_unit_ids": [
-        "docs/temes/cultura/arquitectura/sant-roma-de-les-bons.md#unit-0001",
-        "docs/temes/cultura/arquitectura/sant-roma-de-les-bons.md#unit-0002",
-        "docs/temes/cultura/arquitectura/sant-roma-de-les-bons.md#unit-0003",
-        "docs/temes/cultura/arquitectura/sant-roma-de-les-bons.md#unit-0004",
-        "docs/temes/cultura/arquitectura/sant-roma-de-les-bons.md#unit-0005",
-        "docs/temes/cultura/arquitectura/sant-roma-de-les-bons.md#unit-0006",
-        "docs/temes/cultura/arquitectura/sant-roma-de-les-bons.md#unit-0008",
-        "docs/temes/cultura/arquitectura/sant-roma-de-les-bons.md#unit-0009"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 7,
-      "open_unit_count": 0,
-      "conversation_ids": [
-        "sant-roma-les-bons-capes-artistiques-001"
-      ]
+      "open_unit_count": 8,
+      "conversation_ids": []
     },
     "docs/temes/cultura/arquitectura/sant-serni-de-canillo.md": {
       "title": "Sant Serni de Canillo",
@@ -688,26 +577,12 @@
       "title": "Santa Coloma",
       "type": "article",
       "topic": "temes/cultura/arquitectura",
-      "status": "complete",
+      "status": "in_progress",
       "unit_count": 23,
-      "covered_unit_ids": [
-        "docs/temes/cultura/arquitectura/santa-coloma.md#unit-0006",
-        "docs/temes/cultura/arquitectura/santa-coloma.md#unit-0007",
-        "docs/temes/cultura/arquitectura/santa-coloma.md#unit-0008",
-        "docs/temes/cultura/arquitectura/santa-coloma.md#unit-0009",
-        "docs/temes/cultura/arquitectura/santa-coloma.md#unit-0010",
-        "docs/temes/cultura/arquitectura/santa-coloma.md#unit-0011",
-        "docs/temes/cultura/arquitectura/santa-coloma.md#unit-0012",
-        "docs/temes/cultura/arquitectura/santa-coloma.md#unit-0013",
-        "docs/temes/cultura/arquitectura/santa-coloma.md#unit-0014",
-        "docs/temes/cultura/arquitectura/santa-coloma.md#unit-0015",
-        "docs/temes/cultura/arquitectura/santa-coloma.md#unit-0016"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 12,
-      "open_unit_count": 0,
-      "conversation_ids": [
-        "santa-coloma-pintures-periple-001"
-      ]
+      "open_unit_count": 11,
+      "conversation_ids": []
     },
     "docs/temes/cultura/artesania/artesania-index-de-fitxes.md": {
       "title": "Artesania — índex de fitxes",
@@ -746,43 +621,23 @@
       "title": "Arts visuals — índex de fitxes",
       "type": "index",
       "topic": "temes/cultura/arts-visuals",
-      "status": "complete",
+      "status": "in_progress",
       "unit_count": 22,
-      "covered_unit_ids": [
-        "docs/temes/cultura/arts-visuals/arts-visuals-index-de-fitxes.md#unit-0010",
-        "docs/temes/cultura/arts-visuals/arts-visuals-index-de-fitxes.md#unit-0011"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 20,
-      "open_unit_count": 0,
-      "conversation_ids": [
-        "escultors-catalans-i-andorra-001"
-      ]
+      "open_unit_count": 2,
+      "conversation_ids": []
     },
     "docs/temes/cultura/arts-visuals/arts-visuals.md": {
       "title": "Les arts visuals",
       "type": "article",
       "topic": "temes/cultura/arts-visuals",
-      "status": "complete",
+      "status": "in_progress",
       "unit_count": 25,
-      "covered_unit_ids": [
-        "docs/temes/cultura/arts-visuals/arts-visuals.md#unit-0001",
-        "docs/temes/cultura/arts-visuals/arts-visuals.md#unit-0003",
-        "docs/temes/cultura/arts-visuals/arts-visuals.md#unit-0004",
-        "docs/temes/cultura/arts-visuals/arts-visuals.md#unit-0005",
-        "docs/temes/cultura/arts-visuals/arts-visuals.md#unit-0006",
-        "docs/temes/cultura/arts-visuals/arts-visuals.md#unit-0007",
-        "docs/temes/cultura/arts-visuals/arts-visuals.md#unit-0008",
-        "docs/temes/cultura/arts-visuals/arts-visuals.md#unit-0009",
-        "docs/temes/cultura/arts-visuals/arts-visuals.md#unit-0011",
-        "docs/temes/cultura/arts-visuals/arts-visuals.md#unit-0012",
-        "docs/temes/cultura/arts-visuals/arts-visuals.md#unit-0013"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 14,
-      "open_unit_count": 0,
-      "conversation_ids": [
-        "dalí-rotunda-convivencia-dèpoques-001",
-        "la-noblesa-del-temps-dali-001"
-      ]
+      "open_unit_count": 11,
+      "conversation_ids": []
     },
     "docs/temes/cultura/arts-visuals/balma-de-la-margineda.md": {
       "title": "La Balma de la Margineda",
@@ -821,53 +676,12 @@
       "title": "Josep Viladomat i Massanas",
       "type": "article",
       "topic": "temes/cultura/arts-visuals",
-      "status": "complete",
+      "status": "in_progress",
       "unit_count": 33,
-      "covered_unit_ids": [
-        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0001",
-        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0002",
-        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0003",
-        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0006",
-        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0007",
-        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0008",
-        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0009",
-        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0011",
-        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0012",
-        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0013",
-        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0015",
-        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0016",
-        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0017",
-        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0018",
-        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0019",
-        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0020",
-        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0021",
-        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0022",
-        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0023",
-        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0024",
-        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0025",
-        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0026",
-        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0027",
-        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0028",
-        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0029",
-        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0030",
-        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0031"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 6,
-      "open_unit_count": 0,
-      "conversation_ids": [
-        "caee-edifici-i-colleccions-001",
-        "josep-viladomat-origen-formacio-001",
-        "viladomat-ball-de-la-morisca-nom-no-explicat-001",
-        "viladomat-benlloch-himne-lletra-001",
-        "viladomat-colleccio-centre-art-001",
-        "viladomat-meritxell-jerusalem-001",
-        "viladomat-monument-i-nova-reforma-001",
-        "viladomat-monuments-andorra-001",
-        "viladomat-obres-barcelona-001",
-        "viladomat-puntaire-i-arribada-001",
-        "viladomat-republica-i-franco-001",
-        "viladomat-sergi-mas-coetanis-001"
-      ]
+      "open_unit_count": 27,
+      "conversation_ids": []
     },
     "docs/temes/cultura/arts-visuals/lart-mes-antic.md": {
       "title": "L'art més antic",
@@ -895,34 +709,12 @@
       "title": "Sergi Mas i Balaguer",
       "type": "article",
       "topic": "temes/cultura/arts-visuals",
-      "status": "complete",
+      "status": "in_progress",
       "unit_count": 63,
-      "covered_unit_ids": [
-        "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0001",
-        "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0002",
-        "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0004",
-        "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0005",
-        "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0006",
-        "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0009",
-        "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0011",
-        "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0038",
-        "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0039",
-        "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0040",
-        "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0041",
-        "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0042",
-        "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0051",
-        "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0052",
-        "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0053",
-        "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0055"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 47,
-      "open_unit_count": 0,
-      "conversation_ids": [
-        "sergi-mas-llibres-i-abast-001",
-        "sergi-mas-meritxell-i-oficis-001",
-        "sergi-mas-reconeixements-001",
-        "viladomat-sergi-mas-coetanis-001"
-      ]
+      "open_unit_count": 16,
+      "conversation_ids": []
     },
     "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md": {
       "title": "Cinc anys, i el cinema és l'única cosa que puja",
@@ -985,63 +777,10 @@
       "topic": "temes/cultura/literatura",
       "status": "in_progress",
       "unit_count": 87,
-      "covered_unit_ids": [
-        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0001",
-        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0003",
-        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0006",
-        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0007",
-        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0008",
-        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0009",
-        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0011",
-        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0012",
-        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0015",
-        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0016",
-        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0017",
-        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0018",
-        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0019",
-        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0021",
-        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0023",
-        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0024",
-        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0025",
-        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0026",
-        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0027",
-        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0028",
-        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0029",
-        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0030",
-        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0032",
-        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0043",
-        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0045",
-        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0046",
-        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0047",
-        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0048",
-        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0049",
-        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0050",
-        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0051",
-        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0052",
-        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0054",
-        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0057",
-        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0058",
-        "docs/temes/cultura/literatura/literatura-andorrana.md#unit-0061"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 43,
-      "open_unit_count": 8,
-      "conversation_ids": [
-        "albert-salvado-premis-literaris-001",
-        "albert-villaro-obra-andorrana-i-premis-001",
-        "dalleres-identitat-politica-i-obra-literaria-001",
-        "literatura-andorrana-impremta-abans-que-literatura-001",
-        "literatura-andorrana-industria-editorial-i-publicacio-001",
-        "literatura-andorrana-iniciatives-govern-poesia-001",
-        "literatura-andorrana-manual-digest-i-obres-inicials-001",
-        "literatura-andorrana-poetes-de-diverses-generacions-001",
-        "literatura-andorrana-premis-i-aepa-001",
-        "literatura-andorrana-primeres-obres-i-consolidacio-001",
-        "literatura-andorrana-sicoris-identitat-i-obres-001",
-        "literatura-andorrana-xifres-editorials-no-disponibles-001",
-        "morell-boris-skossyreff-novella-i-limit-001",
-        "morell-salvado-dates-and-uncertainty-001",
-        "teresa-colom-trajectoria-obres-i-premis-001"
-      ]
+      "open_unit_count": 44,
+      "conversation_ids": []
     },
     "docs/temes/cultura/literatura/literatura-index-de-fitxes.md": {
       "title": "Literatura — índex de fitxes",
@@ -1058,21 +797,12 @@
       "title": "El buner d'Ordino",
       "type": "article",
       "topic": "temes/cultura/llegendes",
-      "status": "complete",
+      "status": "in_progress",
       "unit_count": 19,
-      "covered_unit_ids": [
-        "docs/temes/cultura/llegendes/el-buner-dordino.md#unit-0001",
-        "docs/temes/cultura/llegendes/el-buner-dordino.md#unit-0002",
-        "docs/temes/cultura/llegendes/el-buner-dordino.md#unit-0003",
-        "docs/temes/cultura/llegendes/el-buner-dordino.md#unit-0005",
-        "docs/temes/cultura/llegendes/el-buner-dordino.md#unit-0006"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 14,
-      "open_unit_count": 0,
-      "conversation_ids": [
-        "buner-ordino-buna-i-ofici-001",
-        "buner-ordino-supera-els-llops-001"
-      ]
+      "open_unit_count": 5,
+      "conversation_ids": []
     },
     "docs/temes/cultura/llegendes/el-llac-dengolasters.md": {
       "title": "El llac d'Engolasters",
@@ -1089,166 +819,56 @@
       "title": "El minairó",
       "type": "article",
       "topic": "temes/cultura/llegendes",
-      "status": "complete",
+      "status": "in_progress",
       "unit_count": 38,
-      "covered_unit_ids": [
-        "docs/temes/cultura/llegendes/el-minairo.md#unit-0001",
-        "docs/temes/cultura/llegendes/el-minairo.md#unit-0002",
-        "docs/temes/cultura/llegendes/el-minairo.md#unit-0003",
-        "docs/temes/cultura/llegendes/el-minairo.md#unit-0004",
-        "docs/temes/cultura/llegendes/el-minairo.md#unit-0005",
-        "docs/temes/cultura/llegendes/el-minairo.md#unit-0006",
-        "docs/temes/cultura/llegendes/el-minairo.md#unit-0009",
-        "docs/temes/cultura/llegendes/el-minairo.md#unit-0010",
-        "docs/temes/cultura/llegendes/el-minairo.md#unit-0011",
-        "docs/temes/cultura/llegendes/el-minairo.md#unit-0012",
-        "docs/temes/cultura/llegendes/el-minairo.md#unit-0014",
-        "docs/temes/cultura/llegendes/el-minairo.md#unit-0015",
-        "docs/temes/cultura/llegendes/el-minairo.md#unit-0016",
-        "docs/temes/cultura/llegendes/el-minairo.md#unit-0017",
-        "docs/temes/cultura/llegendes/el-minairo.md#unit-0018",
-        "docs/temes/cultura/llegendes/el-minairo.md#unit-0020",
-        "docs/temes/cultura/llegendes/el-minairo.md#unit-0021",
-        "docs/temes/cultura/llegendes/el-minairo.md#unit-0022",
-        "docs/temes/cultura/llegendes/el-minairo.md#unit-0023",
-        "docs/temes/cultura/llegendes/el-minairo.md#unit-0024",
-        "docs/temes/cultura/llegendes/el-minairo.md#unit-0025",
-        "docs/temes/cultura/llegendes/el-minairo.md#unit-0026",
-        "docs/temes/cultura/llegendes/el-minairo.md#unit-0027",
-        "docs/temes/cultura/llegendes/el-minairo.md#unit-0028",
-        "docs/temes/cultura/llegendes/el-minairo.md#unit-0029",
-        "docs/temes/cultura/llegendes/el-minairo.md#unit-0030"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 12,
-      "open_unit_count": 0,
-      "conversation_ids": [
-        "minairo-canuto-i-cases-pairals-001",
-        "minairo-canuto-i-tarteres-001",
-        "minairo-etimologia-i-mineria-001",
-        "minairo-naturalesa-i-origen-001",
-        "minairo-noms-i-abast-pirinenc-001"
-      ]
+      "open_unit_count": 26,
+      "conversation_ids": []
     },
     "docs/temes/cultura/llegendes/el-roc-de-les-bruixes.md": {
       "title": "El Roc de les Bruixes",
       "type": "article",
       "topic": "temes/cultura/llegendes",
-      "status": "complete",
+      "status": "in_progress",
       "unit_count": 14,
-      "covered_unit_ids": [
-        "docs/temes/cultura/llegendes/el-roc-de-les-bruixes.md#unit-0001",
-        "docs/temes/cultura/llegendes/el-roc-de-les-bruixes.md#unit-0002",
-        "docs/temes/cultura/llegendes/el-roc-de-les-bruixes.md#unit-0003",
-        "docs/temes/cultura/llegendes/el-roc-de-les-bruixes.md#unit-0004"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 10,
-      "open_unit_count": 0,
-      "conversation_ids": [
-        "roc-bruixes-i-meritxell-geografia-001"
-      ]
+      "open_unit_count": 4,
+      "conversation_ids": []
     },
     "docs/temes/cultura/llegendes/el-tamarro.md": {
       "title": "El tamarro",
       "type": "article",
       "topic": "temes/cultura/llegendes",
-      "status": "complete",
+      "status": "in_progress",
       "unit_count": 30,
-      "covered_unit_ids": [
-        "docs/temes/cultura/llegendes/el-tamarro.md#unit-0001",
-        "docs/temes/cultura/llegendes/el-tamarro.md#unit-0002",
-        "docs/temes/cultura/llegendes/el-tamarro.md#unit-0003",
-        "docs/temes/cultura/llegendes/el-tamarro.md#unit-0004",
-        "docs/temes/cultura/llegendes/el-tamarro.md#unit-0014",
-        "docs/temes/cultura/llegendes/el-tamarro.md#unit-0015",
-        "docs/temes/cultura/llegendes/el-tamarro.md#unit-0016",
-        "docs/temes/cultura/llegendes/el-tamarro.md#unit-0017",
-        "docs/temes/cultura/llegendes/el-tamarro.md#unit-0020",
-        "docs/temes/cultura/llegendes/el-tamarro.md#unit-0021",
-        "docs/temes/cultura/llegendes/el-tamarro.md#unit-0022",
-        "docs/temes/cultura/llegendes/el-tamarro.md#unit-0026"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 18,
-      "open_unit_count": 0,
-      "conversation_ids": [
-        "tamarro-dinosaure-insperatus-001",
-        "tamarro-font-i-datacio-practica-001",
-        "tamarro-llegenda-i-parallels-001",
-        "tamarro-mascota-i-itinerari-001",
-        "tamarro-nom-local-cacera-001"
-      ]
+      "open_unit_count": 12,
+      "conversation_ids": []
     },
     "docs/temes/cultura/llegendes/la-bruixa-de-sornas.md": {
       "title": "La bruixa de Sornàs",
       "type": "article",
       "topic": "temes/cultura/llegendes",
-      "status": "complete",
+      "status": "in_progress",
       "unit_count": 12,
-      "covered_unit_ids": [
-        "docs/temes/cultura/llegendes/la-bruixa-de-sornas.md#unit-0001",
-        "docs/temes/cultura/llegendes/la-bruixa-de-sornas.md#unit-0002",
-        "docs/temes/cultura/llegendes/la-bruixa-de-sornas.md#unit-0003",
-        "docs/temes/cultura/llegendes/la-bruixa-de-sornas.md#unit-0004",
-        "docs/temes/cultura/llegendes/la-bruixa-de-sornas.md#unit-0005",
-        "docs/temes/cultura/llegendes/la-bruixa-de-sornas.md#unit-0006"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 6,
-      "open_unit_count": 0,
-      "conversation_ids": [
-        "bruixa-sornas-llegenda-i-limits-001"
-      ]
+      "open_unit_count": 6,
+      "conversation_ids": []
     },
     "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md": {
       "title": "La Dama Blanca d'Aubinyà",
       "type": "article",
       "topic": "temes/cultura/llegendes",
-      "status": "complete",
+      "status": "in_progress",
       "unit_count": 44,
-      "covered_unit_ids": [
-        "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0001",
-        "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0002",
-        "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0003",
-        "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0004",
-        "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0005",
-        "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0006",
-        "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0007",
-        "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0010",
-        "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0011",
-        "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0012",
-        "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0013",
-        "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0014",
-        "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0015",
-        "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0016",
-        "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0017",
-        "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0018",
-        "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0019",
-        "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0020",
-        "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0022",
-        "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0023",
-        "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0024",
-        "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0025",
-        "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0026",
-        "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0028",
-        "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0030",
-        "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0031",
-        "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0032",
-        "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0034",
-        "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0035",
-        "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0036",
-        "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0037",
-        "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0038"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 12,
-      "open_unit_count": 0,
-      "conversation_ids": [
-        "calibratge-dama-blanca-i-llop-001",
-        "dama-blanca-esbart-lauredia-001",
-        "dama-blanca-estudi-figures-femenines-001",
-        "dama-blanca-hipotesis-origen-001",
-        "dama-blanca-historia-i-lectura-politica-001",
-        "dama-blanca-identitats-i-datacio-desconegudes-001",
-        "dama-blanca-recull-valls-carol-001",
-        "dama-blanca-toponim-aubinya-auvinya-001"
-      ]
+      "open_unit_count": 32,
+      "conversation_ids": []
     },
     "docs/temes/cultura/llegendes/la-troballa-de-meritxell.md": {
       "title": "La troballa de Meritxell",
@@ -1276,32 +896,23 @@
       "title": "Llegendes — índex de fitxes",
       "type": "index",
       "topic": "",
-      "status": "complete",
+      "status": "in_progress",
       "unit_count": 24,
-      "covered_unit_ids": [
-        "docs/temes/cultura/llegendes/llegendes-index-de-fitxes.md#unit-0018"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 23,
-      "open_unit_count": 0,
-      "conversation_ids": [
-        "dama-bruixa-verge-i-hipotesi-camiade-001"
-      ]
+      "open_unit_count": 1,
+      "conversation_ids": []
     },
     "docs/temes/cultura/llegendes/llegendes.md": {
       "title": "Llegendes — índex",
       "type": "article",
       "topic": "temes/cultura/llegendes",
-      "status": "complete",
+      "status": "in_progress",
       "unit_count": 12,
-      "covered_unit_ids": [
-        "docs/temes/cultura/llegendes/llegendes.md#unit-0006",
-        "docs/temes/cultura/llegendes/llegendes.md#unit-0007"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 10,
-      "open_unit_count": 0,
-      "conversation_ids": [
-        "dama-bruixa-verge-i-hipotesi-camiade-001"
-      ]
+      "open_unit_count": 2,
+      "conversation_ids": []
     },
     "docs/temes/cultura/museus-i-arxius/abans-ho-decretava-el-govern.md": {
       "title": "Abans ho decretava el Govern",
@@ -7335,18 +6946,12 @@
       "title": "Andorra, entre el torb i la Gestapo",
       "type": "article",
       "topic": "temes/historia/guerres-i-neutralitat",
-      "status": "in_progress",
+      "status": "not_started",
       "unit_count": 62,
-      "covered_unit_ids": [
-        "docs/temes/historia/guerres-i-neutralitat/el-torb-i-la-gestapo.md#unit-0014",
-        "docs/temes/historia/guerres-i-neutralitat/el-torb-i-la-gestapo.md#unit-0022",
-        "docs/temes/historia/guerres-i-neutralitat/el-torb-i-la-gestapo.md#unit-0023"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 0,
-      "open_unit_count": 59,
-      "conversation_ids": [
-        "calibratge-torb-ficcio-i-historia-001"
-      ]
+      "open_unit_count": 62,
+      "conversation_ids": []
     },
     "docs/temes/historia/guerres-i-neutralitat/el-veguer-avisa-de-gent-armada-francesa-1445.md": {
       "title": "El veguer avisa de gent armada francesa, 1445",
@@ -8265,17 +7870,12 @@
       "title": "Guillem d'Areny-Plandolit",
       "type": "article",
       "topic": "temes/historia/segle-xix",
-      "status": "in_progress",
+      "status": "not_started",
       "unit_count": 15,
-      "covered_unit_ids": [
-        "docs/temes/historia/segle-xix/guillem-dareny-plandolit.md#unit-0003",
-        "docs/temes/historia/segle-xix/guillem-dareny-plandolit.md#unit-0004"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 0,
-      "open_unit_count": 13,
-      "conversation_ids": [
-        "viladomat-monument-i-nova-reforma-001"
-      ]
+      "open_unit_count": 15,
+      "conversation_ids": []
     },
     "docs/temes/historia/segle-xix/la-questio-dandorra.md": {
       "title": "La Qüestió d'Andorra",
@@ -8501,16 +8101,12 @@
       "title": "Boris Skossyreff, rei d'Andorra",
       "type": "article",
       "topic": "temes/historia/segle-xx-primera-meitat",
-      "status": "in_progress",
+      "status": "not_started",
       "unit_count": 99,
-      "covered_unit_ids": [
-        "docs/temes/historia/segle-xx-primera-meitat/boris-skossyreff.md#unit-0008"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 0,
-      "open_unit_count": 98,
-      "conversation_ids": [
-        "morell-boris-skossyreff-novella-i-limit-001"
-      ]
+      "open_unit_count": 99,
+      "conversation_ids": []
     },
     "docs/temes/historia/segle-xx-primera-meitat/cupos-franquicies-andorra-1926.md": {
       "title": "El cupo de 1926 posa xifres a la franquícia d'Andorra",
