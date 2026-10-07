@@ -37,7 +37,8 @@
       "La llista del 1895 registra 6.000 càrregues de vi comú per 180.000 pessetes (38,5% del total); només anota trànsit a l’estranger per a xocolata, llumins i cafè, no per al vi.",
       "L’apèndix registra 1.250 quintars de sègol, però no n’indica l’ús; no permet concloure que fos per al consum humà ni quin pa menjava la població.",
       "La llista compta importacions des d’Espanya; l’absència de carn i lactis no indica que no se’n consumís, i els 12 quintars de patates no representen necessàriament la producció local ni altres orígens.",
-      "Les 78 pessetes per habitant són la divisió aproximada del total d’importacions per 6.000 habitants; no mesuren consum individual i el total inclou trànsit parcial no desglossat."
+      "Les 78 pessetes per habitant són la divisió aproximada del total d’importacions per 6.000 habitants; no mesuren consum individual i el total inclou trànsit parcial no desglossat.",
+      "La relació acompanya una proposta parlamentària d’aranzels i compta entrades des d’Espanya, amb partides de trànsit; no representa per si sola totes les importacions, la producció ni el consum final d’Andorra."
     ],
     "open_units": [
       "El pes del vi i les begudes en la cistella d'importacions.",
@@ -54,7 +55,8 @@
       "corts1895-vi-partida-principal-001",
       "corts1895-segol-us-no-especificat-001",
       "corts1895-absencies-llista-importacions-001",
-      "corts1895-mitjana-importacions-per-capita-001"
+      "corts1895-mitjana-importacions-per-capita-001",
+      "corts1895-abast-inventari-importacions-001"
     ]
   },
   "docs/temes/historia/segle-xix/la-questio-duanera-de-1895.md": {
