@@ -329,5 +329,15 @@
     "reviewed_units": [
       "Ordino 2026: el calendari del Comú identifica Sant Corneli (16 de setembre) com a Festa Major i el Roser de juliol com a festa diferent; la font periodística també recull una data d’agost no confirmada pel Comú."
     ]
+  },
+  "docs/temes/costums/festes-majors/festes-majors.md": {
+    "open_units": [],
+    "status": "in_progress",
+    "conversation_ids": [
+      "calendari-festa-major-no-esdeveniment-nacional-001"
+    ],
+    "reviewed_units": [
+      "Cada parròquia té festa major i moltes viles també; no hi ha un únic esdeveniment nacional."
+    ]
   }
 }
