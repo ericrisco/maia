@@ -68,6 +68,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - Viquipèdia en català, article «Ball de l’ossa d’Encamp», llicència CC BY-SA 4.0; la font descriu «Els contrabandistes» i «L’ossa» com a farses complementàries en dies consecutius.
 - Viquipèdia en català, article «Ball de l’ossa d’Encamp», llicència CC BY-SA 4.0; la interpretació simbòlica s’hi atribueix a Eloi Ysàs Trias.
 - Viquipèdia en català, article «Ball de l’ossa d’Encamp», llicència CC BY-SA 4.0; relació de personatges de la farsa.
+- Viquipèdia en català, article «Ball de l’ossa d’Encamp», llicència CC BY-SA 4.0; tesi d’Eloi Ysàs Trias (URV, 2016), pp. 137–146, identificada però no consultada directament al corpus.
 - Viquipèdia en català, article «Ball de l’ossa d’Encamp», llicència CC BY-SA 4.0; variant de la farsa atribuïda a Joan Amades, *Costumari Català* (1950), p. 674.
 - Viquipèdia en català, article «Festes de l’ossa a Andorra», CC BY-SA 4.0. La fitxa del corpus hi atribueix la causa de la decadència i la cronologia d’Ordino.
 - Viquipèdia en català, article «Festes de l’ossa a Andorra», CC BY-SA 4.0; Fabiola Sofia Masegosa i Gayo, «La vida teatral a Andorra de 1900 a 1970» (conferència del 2018, publicada el 2020), que resumeix la seva tesi doctoral del 2017; la cronologia arriba via la fitxa del Carnaval d’Encamp.
@@ -134,6 +135,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - La fitxa de Viquipèdia és CC BY-SA 4.0. La tesi d’Ysàs citada per la font no s’ha pogut consultar directament; la resposta és una paràfrasi breu i marca la interpretació com a tal.
 - La font de Viquipèdia és CC BY-SA 4.0. La publicació acadèmica de Masegosa és d’accés obert amb redistribució pendent; no redistribuir-ne contingut derivat sense revisar els termes.
 - La font de Viquipèdia és CC BY-SA 4.0. La tesi de Masegosa és d’accés obert amb redistribució pendent; no redistribuir contingut derivat sense revisar-ne els termes.
+- La font secundària és CC BY-SA 4.0. La tesi identificada no s’ha descarregat; es transmet només l’atribució bibliogràfica i no es reprodueix contingut seu.
 - La notícia del Govern té drets reservats i redistribució no autoritzada; l’ús queda registrat per al dataset intern del projecte i no autoritza redistribució del text. La fitxa de Viquipèdia és CC BY-SA 4.0.
 - La publicació de l’IEC té redistribució pendent. Les imatges dels Archives diplomatiques estan subjectes a les condicions del portal. No consta permís específic per redistribuir les fonts.
 - La pàgina institucional registra drets reservats i redistribució:no; el portal exigeix autorització escrita i no consta cap permís específic. Aquesta limitació es conserva al registre de procedència.
