@@ -14972,7 +14972,7 @@
       "topic": "temes/institucions/justicia",
       "source": "brutails-coutume-1904",
       "status": "in_progress",
-      "conversation_count": 9,
+      "conversation_count": 10,
       "conversation_ids": [
         "ampara-collita-llindar-blat-herba-01",
         "ampara-verificacio-deu-dies-subhasta-tres-01",
@@ -14981,6 +14981,7 @@
         "empara-cavalcadura-nunci-custodia-01",
         "excepcio-fadri-claudators-original-incert-01",
         "forasters-terminis-embargament-patron-no-regla-universal-01",
+        "signar-penyores-deutor-custodia-tria-01",
         "taxacio-penyores-quarta-vuit-deu-01",
         "termini-collita-nou-o-deu-discrepancia-01"
       ],
@@ -14993,11 +14994,12 @@
         "taxació de mobles i bestiar: el creditor havia d’acceptar les penyores; s’hi afegia una quarta part (vuit lliures de deute, deu de taxació), valorada per dos judicadors o prohoms; no consta com es liquidava una diferència eventual",
         "empara de collita: finca especialment hipotecada, fruit ja segat i dallat encara a la finca; blat lliurat directament al creditor i herba subhastada amb una quarta addicional",
         "termini per pagar després de l’empara de collita: el paràgraf dona nou i deu dies en punts diferents, sense resolució ni explicació de la divergència",
-        "ordre del batlle per lliurar penyores: força de sentència i possibilitat d’apel·lar; sense apel·lació ni lletra inhibitòria dins del termini fixat, subhasta pel nunci; tres dies posteriors per pagar i recuperar-les"
+        "ordre del batlle per lliurar penyores: força de sentència i possibilitat d’apel·lar; sense apel·lació ni lletra inhibitòria dins del termini fixat, subhasta pel nunci; tres dies posteriors per pagar i recuperar-les",
+        "signar penyores: béns concrets designats pel batlle que romanien en poder del deutor, no es podien alienar i se n’havia de donar compte; si no hi havia béns signats, el deutor triava què lliurar"
       ],
       "open_units": [
         "datació: termini final del manuscrit desconegut; manca localitzar-ne l’original i establir un terminus ante quem",
-        "execució i recobrament encara pendents: significat i efectes de signar penyores, què passa si la collita no basta, subhasta d’immobles i regla antiga d’un any i un dia; relació hipotètica amb la Instructa de 1740"
+        "execució i recobrament encara pendents: penyora a la porta i testimoni editorial incert; collita insuficient; subhasta d’immobles i condicions de possessió; termini antic d’un any i un dia; relació hipotètica amb la Instructa de 1740"
       ],
       "completion_note": "",
       "reason": ""
