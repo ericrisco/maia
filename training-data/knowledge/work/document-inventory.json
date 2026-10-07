@@ -44,16 +44,18 @@
       "topic": "temes/costums/calendari-festiu",
       "source": "premsa-andorrana",
       "status": "in_progress",
-      "conversation_count": 3,
+      "conversation_count": 4,
       "conversation_ids": [
         "ball-ossa-encamp-versions-1950-avui-01",
         "carnaval-encamp-horaris-2026-01",
-        "carnaval-encamp-sentit-guio-incert-01"
+        "carnaval-encamp-sentit-guio-incert-01",
+        "ultima-ossa-ordino-cronologies-en-desacord-01"
       ],
       "reviewed_units": [
         "horaris i lloc del Judici dels Contrabandistes i del Ball de l’Ossa a l’edició d’Encamp del 2026; caràcter mòbil de les dates",
         "Judici dels Contrabandistes: farsa pública i lectura de la fitxa sobre el contraban; guió no localitzat i forma de representació desconeguda",
-        "comparison between the 1950 description of the Ball de l’Ossa and the later argument summarized from Masegosa; source verification caveat retained"
+        "comparison between the 1950 description of the Ball de l’Ossa and the later argument summarized from Masegosa; source verification caveat retained",
+        "cronologies incompatibles d’Ordino segons Masegosa i Viquipèdia; totes dues registren la represa del 2017, però el corpus no les arbitra"
       ],
       "open_units": [
         "les tres representacions del Carnaval d’Encamp i el seu calendari complet",
@@ -142,16 +144,22 @@
       "topic": "temes/costums/danses",
       "source": "wikipedia-ball-ossa-encamp",
       "status": "in_progress",
-      "conversation_count": 1,
+      "conversation_count": 2,
       "conversation_ids": [
-        "ball-ossa-encamp-versions-1950-avui-01"
+        "ball-ossa-encamp-versions-1950-avui-01",
+        "ultima-ossa-ordino-cronologies-en-desacord-01"
       ],
       "reviewed_units": [
-        "versions documented for the Ball de l’Ossa d’Encamp: Amades (1950) and the later account summarized from Masegosa; the corpus does not arbitrate authenticity"
+        "versions documented for the Ball de l’Ossa d’Encamp: Amades (1950) and the later account summarized from Masegosa; the corpus does not arbitrate authenticity",
+        "cronologies incompatibles de les interrupcions i represes d’Ordino segons Viquipèdia i Masegosa; desacord sense resoldre"
       ],
       "open_units": [
-        "other useful facts and relationships in the article remain to be reviewed",
-        "complete article-level coverage and any unresolved claims or source conflicts"
+        "personatges de la farsa i paper dels dallaires",
+        "lectura iniciàtica i atribució a Ysàs; límits de la interpretació",
+        "descripció d’Amades de 1950 i reserva de verificació de la citació",
+        "canvis del guió de Sícoris de 1959 i continuïtat fins avui",
+        "discrepància encara no resolta entre les versions d’Amades i Masegosa sobre l’argument",
+        "cronologia d’Ordino: motius de les interrupcions i persones que n’impulsaren les represes"
       ],
       "completion_note": "",
       "reason": ""
