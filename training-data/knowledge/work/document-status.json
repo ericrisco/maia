@@ -63,5 +63,20 @@
       "ordino-ossa-pandemia-2020-001",
       "ordino-ossa-calendari-emplaçament-001"
     ]
+  },
+  "docs/temes/costums/danses/la-marratxa.md": {
+    "status": "in_progress",
+    "reviewed_units": [
+      "Marratxa, morratxa o almorratxa és el nom d'un recipient d'aigua perfumada que els dansaires duien a les mans als orígens; l'objecte ja no és al ball però el nom s'ha conservat.",
+      "La descripció recollida identifica dos dansaires —un casat i un solter— amb els coprínceps, i tres noies amb les sis antigues parròquies; els dos dansaires porten barret alt amb cintes dels colors de la bandera andorrana.",
+      "La font no explica com es correspon el nombre de tres noies amb les sis parròquies."
+    ],
+    "open_units": [
+      "L'origen atribuït al Pareatge del 1278 i la diferència entre el 7 i el 8 de setembre necessiten una font primària.",
+      "La coreografia, la música, el vestuari complet i el rastre documental anterior als anys seixanta no estan coberts en converses actives."
+    ],
+    "conversation_ids": [
+      "marratxa-nom-i-simbolisme-001"
+    ]
   }
 }
