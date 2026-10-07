@@ -2,7 +2,7 @@
   "source_root": "docs/temes/",
   "file_count": 1477,
   "article_count": 1348,
-  "conversation_count": 83,
+  "conversation_count": 84,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 1,
@@ -16640,10 +16640,11 @@
       "topic": "temes/institucions/relacions-exteriors",
       "source": "serra-vatica-microestat",
       "status": "in_progress",
-      "conversation_count": 5,
+      "conversation_count": 6,
       "conversation_ids": [
         "reconeixement-frances-espanyol-1993-001",
         "tractat-1993-acord-tripartit-interes-comu-001",
+        "tractat-1993-cooperacio-compromisos-europeus-001",
         "tractat-1993-informacio-negociacions-bilaterals-001",
         "tractat-1993-seguretat-i-integritat-territorial-001",
         "tractat-1993-textos-autentics-001"
@@ -16653,7 +16654,8 @@
         "Tractat de 1993, articles 3 i 5: respecte de sobirania/integritat, consulta davant d’amenaça i compromís de seguretat assumit per Andorra; el text no fixa intervenció militar automàtica.",
         "Tractat de 1993, article 8: informació diplomàtica regular i completa de França o Espanya des de l’inici fins al final de negociacions bilaterals d’Andorra amb l’altre veí.",
         "Tractat de 1993, article 9: possibilitat de concloure com a tripartit un acord bilateral d’interès comú per als tres estats, subjecta a decisió d’aquests i no automàtica.",
-        "Tractat de 1993, article 11: català, castellà i francès són textos igualment autèntics; l’article no fixa prevalença lingüística davant una discrepància."
+        "Tractat de 1993, article 11: català, castellà i francès són textos igualment autèntics; l’article no fixa prevalença lingüística davant una discrepància.",
+        "Tractat de 1993, article 4: cooperació sobre interessos fonamentals i compromisos europeus, concretada si cal en acords específics i àmbits prioritaris determinats per intercanvi de notes."
       ],
       "open_units": [
         "Sentència de la Cour de Cassation de 1971 i context; la font secundària emprada té drets pendents.",
