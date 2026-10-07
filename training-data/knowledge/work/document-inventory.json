@@ -2,7 +2,7 @@
   "source_root": "docs/temes/",
   "file_count": 1477,
   "article_count": 1348,
-  "conversation_count": 15,
+  "conversation_count": 16,
   "file_status_totals": {
     "complete": 0,
     "in_progress": 5,
@@ -15433,21 +15433,22 @@
       "topic": "temes/institucions/relacions-exteriors",
       "source": "eur-lex-protocol-seguretat-duanera-2011",
       "status": "in_progress",
-      "conversation_count": 1,
+      "conversation_count": 2,
       "conversation_ids": [
-        "andorra-veu-seguretat-duanera-2011-001"
+        "andorra-veu-seguretat-duanera-2011-001",
+        "expert-andorra-comites-duaners-2003-001"
       ],
       "reviewed_units": [
         "Articles 12i i 12k del protocol del 2011: participació d’experts andorrans, no-adopció i suspensió del títol IIA.",
-        "Límit arbitral: no es resol la interpretació del dret de la UE; es pot discutir la proporcionalitat de la suspensió."
+        "Límit arbitral: no es resol la interpretació del dret de la UE; es pot discutir la proporcionalitat de la suspensió.",
+        "Decisió 1/2003, arts. 65–69: dos comitès, expert administratiu sense vot, opinió registrada, possible exclusió amb avís, informació prèvia, decisions equivalents i jurisprudència del TJUE."
       ],
       "open_units": [
         "Abast territorial i inclusió de productes agrícoles exclosos de la unió duanera.",
         "Exempció de declaració prèvia per al trànsit Andorra–UE i reconeixement mutu de sistemes de risc.",
         "Intercanvi d’informació sobre operadors econòmics autoritzats i camps de dades.",
         "Aplicació provisional, entrada en vigor i notificacions pendents.",
-        "Llengües autèntiques i signatura en català.",
-        "Condicions detallades dels articles 65–68 de la Decisió 1/2003 del Comitè Mixt."
+        "Llengües autèntiques i signatura en català."
       ],
       "completion_note": "",
       "reason": ""
