@@ -14296,7 +14296,7 @@
       "topic": "temes/institucions/justicia",
       "source": "brutails-coutume-1904",
       "status": "in_progress",
-      "conversation_count": 10,
+      "conversation_count": 11,
       "conversation_ids": [
         "competencia-consol-penal-versus-civil-01",
         "competencia-criminal-consell-politar-divergencia-01",
@@ -14307,6 +14307,7 @@
         "consuls-immunitat-civil-politar-reforma-1866-01",
         "justicia-politica-i-tribunals-veheduria-01",
         "veheduria-limits-servitude-ownership-01",
+        "veheduria-plet-particular-quart-escaldes-1887-01",
         "veheduria-sentencia-aigua-aqueducte-1888-01"
       ],
       "reviewed_units": [
@@ -14675,13 +14676,14 @@
       "topic": "temes/institucions/justicia",
       "source": "brutails-coutume-1904",
       "status": "in_progress",
-      "conversation_count": 10,
+      "conversation_count": 11,
       "conversation_ids": [
         "costum-cedir-parella-ball-public-interpretacio-01",
         "justicia-politica-i-tribunals-veheduria-01",
         "veheduria-arbitratge-consentiment-veins-1547-01",
         "veheduria-limits-servitude-ownership-01",
         "veheduria-origen-doleances-1364-incert-01",
+        "veheduria-plet-particular-quart-escaldes-1887-01",
         "veheduria-reclamacio-dret-de-ballar-01",
         "veheduria-revisio-sentencia-prohoms-1760-01",
         "veheduria-sentencia-aigua-aqueducte-1888-01",
@@ -14696,10 +14698,10 @@
         "casos de 1547 i 1601-1603 sotmesos voluntàriament a visura i límit entre consentiment i jurisdicció",
         "costum de cedir la parella als balls públics i conjectura de Brutails sobre el motiu",
         "sentència del 1875 sobre la divisió dels termes de la Cortinada i Ansalonga, sense traçat conservat",
-        "visura del 1760 per revisar una sentència anterior amb prohoms triats pel Consell General"
+        "visura del 1760 per revisar una sentència anterior amb prohoms triats pel Consell General",
+        "procés del 1887 entre un particular i el quart de les Escaldes, amb objecte no especificat"
       ],
       "open_units": [
-        "procés contra el quart de les Escaldes el 1887",
         "sinonímia entre causes de veí a veí i servituds segons Politar i Instructa"
       ],
       "completion_note": "",
