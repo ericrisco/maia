@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 12,
+    "in_progress": 13,
     "no_natural_question": 0,
-    "not_started": 1336
+    "not_started": 1335
   },
   "documents": [
     {
@@ -155,10 +155,15 @@
       "type": "article",
       "topic": "temes/costums/danses",
       "source": "wikipedia-ball-ossa-encamp",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "ossa-encamp-dallaires-i-ritus-de-pas-01"
+      ],
+      "reviewed_units": [
+        "dallaires presents durant tota la farsa i interpretats pels joves amb els seus noms",
+        "lectura iniciàtica atribuïda a Ysàs Trias: aprenentatge laboral i sexual, mort de l’ossa i reconeixement com a adults; tesi subjacent no consultada directament"
+      ],
       "completion_note": "",
       "reason": ""
     },

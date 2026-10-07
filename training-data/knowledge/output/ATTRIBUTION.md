@@ -44,6 +44,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - La fitxa «El contrapàs» atribueix la participació, la descripció coreogràfica i el calendari a «premsa andorrana», sense identificar el mitjà, l’article, la data ni l’URL.
 - Pere Canturri i Montanya, «Usos i costums d’Andorra», 15a Diada Andorrana a la XXXIV Universitat Catalana d’Estiu (2002), dins Una història d’Andorra, temàtica, p. 209 i següents.
 - Premsa andorrana; la fitxa de font no identifica el diari, l’article, la data ni l’URL de la publicació concreta.
+- Viquipèdia en català, «Ball de l’ossa d’Encamp», CC BY-SA 4.0; hi atribueix la lectura iniciàtica a la tesi d’Eloi Ysàs Trias (URV, 2016), que el corpus no ha pogut consultar directament.
 
 ## Condicions registrades
 
@@ -55,3 +56,4 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - Obra impresa de 1904 en domini públic; Gallica permet reutilització no comercial gratuïta amb atribució. L'elegibilitat del destí d'entrenament no consta resolta a la fitxa de font.
 - Obra impresa de 1904 en domini públic; Gallica permet reutilització no comercial gratuïta amb atribució. L’elegibilitat del destí d’entrenament no consta resolta a la fitxa de font.
 - Publicació acadèmica en accés obert; la fitxa de font registra redistribució pendent. L’elegibilitat del destí d’entrenament no consta resolta.
+- Viquipèdia: CC BY-SA 4.0, amb atribució i compartir igual. La tesi subjacent està identificada però no consultada; la resposta atribueix explícitament la interpretació i no la presenta com a consens.
