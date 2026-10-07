@@ -164,5 +164,33 @@
       "L’Operació del Carnestoltes és la tercera farsa d’Encamp, afegida pels volts de 1970; se’n coneix el resum argumental però no el guió íntegre ni l’autor.",
       "La tesi distingeix les farses dels Contrabandistes d’Encamp i Ordino per cronologia i argument; el guió íntegre d’Encamp no està al corpus."
     ]
+  },
+  "docs/temes/costums/danses/danses.md": {
+    "status": "in_progress",
+    "open_units": [
+      "Distribució completa de les danses per parròquia i calendari, amb fonts primàries.",
+      "La coreografia, música i història de cada dansa; buits particulars indicats a les fitxes.",
+      "Coreografia de la Dama Blanca d’Auvinyà i repertori complet dels esbarts."
+    ],
+    "conversation_ids": [
+      "sardana-introduccio-i-ensenyament-andorra-001"
+    ],
+    "reviewed_units": [
+      "La sardana es va començar a introduir a Andorra cap als anys quaranta després d’haver estat vista o apresa a Barcelona als anys trenta; Ventura Armengol l’ensenyava i la cobla va arribar més tard."
+    ]
+  },
+  "docs/temes/cultura/cultura-popular/els-usos-i-costums.md": {
+    "status": "in_progress",
+    "open_units": [
+      "La resta de la ponència de Canturri i els altres exemples de tradicions datades.",
+      "La recollida oral de les generacions d’informants, que requereix treball de camp.",
+      "Identitat completa del Sr. Pantebre i data exacta d’arribada de la cobla."
+    ],
+    "conversation_ids": [
+      "sardana-introduccio-i-ensenyament-andorra-001"
+    ],
+    "reviewed_units": [
+      "Canturri situa la introducció de la sardana als anys quaranta i identifica Ventura Armengol com a mestre; la cobla de Pantebre arriba posteriorment."
+    ]
   }
 }

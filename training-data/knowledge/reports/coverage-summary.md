@@ -4,14 +4,14 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 
 - Fitxes article: **1348**.
 - Fitxers totals, inclosos índexs: **1477**.
-- Converses candidates: **17**.
+- Converses candidates: **18**.
 
 | Estat de revisió | Fitxes |
 |---|---:|
 | Revisades completes | 0 |
-| En curs | 9 |
+| En curs | 11 |
 | Revisades sense pregunta natural | 0 |
-| No començades | 1339 |
+| No començades | 1337 |
 
 ## Estat per tema
 
@@ -20,7 +20,7 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 | `societat/treball` | 1 | 1 | 0 | 0 | 0 |
 | `temes/costums/calendari-festiu` | 2 | 0 | 2 | 0 | 0 |
 | `temes/costums/caramelles` | 1 | 0 | 1 | 0 | 0 |
-| `temes/costums/danses` | 7 | 7 | 0 | 0 | 0 |
+| `temes/costums/danses` | 7 | 6 | 1 | 0 | 0 |
 | `temes/costums/falles` | 1 | 0 | 1 | 0 | 0 |
 | `temes/costums/festes-majors` | 2 | 1 | 1 | 0 | 0 |
 | `temes/costums/gegants` | 1 | 1 | 0 | 0 | 0 |
@@ -33,7 +33,7 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 | `temes/cultura/arquitectura` | 11 | 11 | 0 | 0 | 0 |
 | `temes/cultura/artesania` | 2 | 2 | 0 | 0 | 0 |
 | `temes/cultura/arts-visuals` | 8 | 8 | 0 | 0 | 0 |
-| `temes/cultura/cultura-popular` | 2 | 2 | 0 | 0 | 0 |
+| `temes/cultura/cultura-popular` | 2 | 1 | 1 | 0 | 0 |
 | `temes/cultura/literatura` | 1 | 1 | 0 | 0 | 0 |
 | `temes/cultura/llegendes` | 10 | 10 | 0 | 0 | 0 |
 | `temes/cultura/museus-i-arxius` | 15 | 15 | 0 | 0 | 0 |
