@@ -13790,13 +13790,14 @@
       "topic": "temes/institucions/justicia",
       "source": "brutails-coutume-1904",
       "status": "in_progress",
-      "conversation_count": 6,
+      "conversation_count": 7,
       "conversation_ids": [
         "feriats-1902-62-dies-no-total-anual-01",
         "feriats-1902-sete-epigraf-afegit-marge-01",
         "feriats-estiu-sega-llista-antiga-no-rao-1902-01",
         "llista-feriats-1902-creacio-no-costum-antic-01",
         "sant-antoni-absent-calendari-judicial-1902-01",
+        "termini-apellar-deu-dies-setze-calendari-01",
         "tribunals-fira-organya-1902-motiu-i-limit-01"
       ],
       "reviewed_units": [
@@ -13805,7 +13806,8 @@
         "origen de la llista de feriats de 1902: desacord sobre el nombre, encàrrec a Charles Romeu i aprovació del Consell i dels batlles; no acredita costum anterior",
         "doble numeració del setè epígraf: afegit sobre Organyà al marge, segellat per segona vegada i numeració no corregida; cap desacord registrat",
         "62 dies datats són un subtotal del recompte del corpus, no el total anual; diumenges i períodes mòbils requereixen càlcul per any sense solapaments",
-        "tancament d’estiu del 25 de juliol al 17 d’agost sense motiu a la llista de 1902; possible context agrícola només consta en una llista antiga"
+        "tancament d’estiu del 25 de juliol al 17 d’agost sense motiu a la llista de 1902; possible context agrícola només consta en una llista antiga",
+        "termini d’apel·lació: deu dies de rigor més tres de gràcia, només dies hàbils; exemple de 12 a 28 de gener"
       ],
       "open_units": [
         "altres fires i trams de tancament de la llista de 1902 i la numeració duplicada de l’epígraf setè",
