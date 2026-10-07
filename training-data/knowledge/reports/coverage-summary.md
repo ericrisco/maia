@@ -5,7 +5,7 @@ L’inventari inclou tots els Markdown de `docs/temes/`, inclosos índexs. Una f
 - Fitxers Markdown inventariats: **1477**.
 - Fitxes `article`: **1348**.
 - Fitxers amb frontmatter invàlid: **0**.
-- Converses actives amb procedència: **102**.
+- Converses actives amb procedència: **103**.
 
 ## Estat de tots els fitxers
 
@@ -13,9 +13,9 @@ L’inventari inclou tots els Markdown de `docs/temes/`, inclosos índexs. Una f
 |---|---:|
 | Completats | 0 |
 | Exclosos per drets | 0 |
-| En curs | 6 |
+| En curs | 7 |
 | Sense pregunta natural | 0 |
-| No començats | 1471 |
+| No començats | 1470 |
 
 ## Estat de les fitxes article
 
@@ -23,9 +23,9 @@ L’inventari inclou tots els Markdown de `docs/temes/`, inclosos índexs. Una f
 |---|---:|
 | Completats | 0 |
 | Exclosos per drets | 0 |
-| En curs | 6 |
+| En curs | 7 |
 | Sense pregunta natural | 0 |
-| No començats | 1342 |
+| No començats | 1341 |
 
 ## Estat per tema
 
@@ -139,7 +139,7 @@ L’inventari inclou tots els Markdown de `docs/temes/`, inclosos índexs. Una f
 | `temes/societat/vida-civica` | 8 | 8 | 0 | 0 | 0 | 0 |
 | `temes/territori/clima-i-muntanya` | 14 | 14 | 0 | 0 | 0 | 0 |
 | `temes/territori/fauna-i-flora` | 5 | 5 | 0 | 0 | 0 | 0 |
-| `temes/territori/geografia-fisica` | 9 | 9 | 0 | 0 | 0 | 0 |
+| `temes/territori/geografia-fisica` | 9 | 8 | 1 | 0 | 0 | 0 |
 | `temes/territori/paisatge-construit` | 5 | 5 | 0 | 0 | 0 | 0 |
 | `temes/territori/parroquies/andorra-la-vella` | 1 | 1 | 0 | 0 | 0 | 0 |
 | `temes/territori/parroquies/canillo` | 1 | 1 | 0 | 0 | 0 | 0 |
@@ -163,6 +163,7 @@ L’inventari inclou tots els Markdown de `docs/temes/`, inclosos índexs. Una f
 - `docs/temes/costums/danses/la-marratxa.md` — 11 converses; 5 punts oberts.
 - `docs/temes/costums/meritxell/meritxell.md` — 1 converses; 5 punts oberts.
 - `docs/temes/cultura/museus-i-arxius/el-diposit-legal.md` — 77 converses; 3 punts oberts.
-- `docs/temes/historia/edat-mitjana/per-aquests-malfets-i-per-la-redempcio-de-la-seva-anima.md` — 1 converses; 5 punts oberts.
+- `docs/temes/historia/edat-mitjana/per-aquests-malfets-i-per-la-redempcio-de-la-seva-anima.md` — 2 converses; 5 punts oberts.
 - `docs/temes/historia/pareatge/el-pareatge.md` — 7 converses; 8 punts oberts.
 - `docs/temes/historia/pareatge/el-segon-pareatge-desmunta-enclar-i-crea-el-notariat-1288.md` — 10 converses; 3 punts oberts.
+- `docs/temes/territori/geografia-fisica/en-la-ubaga-tot-hom-hi-pot-anar.md` — 1 converses; 0 punts oberts.

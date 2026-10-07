@@ -9,20 +9,20 @@
   "file_count": 1477,
   "article_count": 1348,
   "parse_error_count": 0,
-  "conversation_count": 102,
+  "conversation_count": 103,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 0,
-    "in_progress": 6,
+    "in_progress": 7,
     "no_natural_question": 0,
-    "not_started": 1471
+    "not_started": 1470
   },
   "article_status_totals": {
     "complete": 0,
     "excluded_rights": 0,
-    "in_progress": 6,
+    "in_progress": 7,
     "no_natural_question": 0,
-    "not_started": 1342
+    "not_started": 1341
   },
   "documents": [
     {
@@ -10073,19 +10073,21 @@
       "topic": "temes/historia/edat-mitjana",
       "source": "rios-urruti-andorra-1920",
       "status": "in_progress",
-      "conversation_count": 1,
+      "conversation_count": 2,
       "conversation_ids": [
+        "acte-1133-emprament-emparament-001",
         "acte-1133-sous-donacio-no-venda-001"
       ],
       "reviewed_units": [
-        "Naturalesa de l'acte i pagament: el document el motiva pels malfets i la redempció de l'ànima; el bisbe dona 1.200 sous al comte. La interpretació com a venda encoberta no queda resolta."
+        "Naturalesa de l'acte i pagament: el document el motiva pels malfets i la redempció de l'ànima; el bisbe dona 1.200 sous al comte. La interpretació com a venda encoberta no queda resolta.",
+        "Emprament i emparament: el comte concedeix als andorrans dret d'ús a les seves terres i protecció del comte, dels seus homes i successors; els usos concrets i l'abast territorial no queden detallats."
       ],
       "open_units": [
         "Cobrir què es transmet (censos, usatges i alous), la fórmula de transmissió total i el límit territorial des de Sant Serni.",
         "Cobrir l'ordre als homes d'Andorra: donació, ajut i defensa del bisbe i jurament per sagrament.",
-        "Cobrir emprament i emparament a les terres del comte, la clàusula de no-regressió i els límits del que es pot inferir.",
         "Cobrir la doble sanció civil i espiritual, els signants i la data del document.",
-        "Representar els buits: identificació del bisbe, ubicació de Sant Serni, execució dels drets d'ús, lectures de l'OCR i drets pendents de l'edició de 1920."
+        "Representar els buits: identificació del bisbe, ubicació de Sant Serni, execució dels drets d'ús, lectures de l'OCR i drets pendents de l'edició de 1920.",
+        "Comprovar amb més fonts l'abast concret de l'emprament i emparament, l'emplaçament de les terres i si el dret es va exercir; l'acte no dona aquests detalls."
       ],
       "completion_note": "",
       "reason": "",
@@ -22981,9 +22983,11 @@
       "type": "article",
       "topic": "temes/territori/geografia-fisica",
       "source": "brutails-coutume-1904",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "acte-1133-emprament-emparament-001"
+      ],
       "reviewed_units": [],
       "open_units": [],
       "completion_note": "",
