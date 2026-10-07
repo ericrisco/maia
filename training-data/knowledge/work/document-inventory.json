@@ -2255,17 +2255,15 @@
         "La relació acompanya una proposta parlamentària d’aranzels i compta entrades des d’Espanya, amb partides de trànsit; no representa per si sola totes les importacions, la producció ni el consum final d’Andorra.",
         "L’apèndix registra 75 quintars de ciris i candeles i 50 de petroli importats d’Espanya; no descriu els usos ni altres fonts possibles d’il·luminació.",
         "L’apèndix registra 6.000 segells de correu comprats a Espanya, però no informa de les rutes postals ni de qui gestionava el servei.",
-        "La partida «barretinas y carguetes» registra 20 quintars per 2.000 pessetes; només acredita l’entrada de barretines i un article anomenat cargueta, que la font no descriu."
+        "La partida «barretinas y carguetes» registra 20 quintars per 2.000 pessetes; només acredita l’entrada de barretines i un article anomenat cargueta, que la font no descriu.",
+        "La llista situa el vi comú al 38,5% del valor importat; altres begudes i productes colonials també hi consten, però la síntesi agregada de més del 59% no necessita una pregunta separada per respondre una intenció humana concreta.",
+        "Les dues notes finals documenten ramats espanyols que pujaven a pasturar a Andorra i el recompte de famílies espanyoles; converses candidates cobreixen les xifres i els límits del que se'n pot inferir.",
+        "La taula de partides menudes inclou barretines i carguetes, segells, rams de palmera, ciris, petroli, índigo, vitriol, quincalla, paper de fumar i tabac. Les converses cobreixen les dades amb una pregunta humana clara sobre barretines, carguetes, correu i llum; les altres entrades no descriuen usos ni justifiquen una pregunta autònoma."
       ],
       "open_units": [
-        "El pes del vi i les begudes en la cistella d'importacions.",
-        "El predomini del sègol respecte del blat i què permet inferir sobre el pa i el consum.",
-        "Les categories absents o petites, inclosa la carn, els lactis i les patates.",
-        "La discrepància de 40.000 pessetes entre l'inventari parlamentari i el fullet citat per Brutails, i el límit de les comparacions disponibles.",
-        "Les dues notes al peu i els límits de les dades de la font.",
-        "Les partides menudes de la llista i què acrediten sobre correu, llum i consum quotidià."
+        "La discrepància de 40.000 pessetes entre l'estat parlamentari i el fullet de Brutails continua sense conversa: la redistribució de Brutails està pendent per a ús en training; no incloure'n dades a l'export fins que l'elegibilitat es resolgui."
       ],
-      "completion_note": "",
+      "completion_note": "La fitxa sencera i l'apèndix oficial s'han revisat. Les dades de vi, sègol, trànsit, ramats, famílies, llum, segells, barretines i carguetes tenen converses candidates quan hi havia una intenció humana clara; els límits de les inferències també queden coberts. La comparació amb el fullet de Brutails continua oberta per elegibilitat de drets i s'exclou de qualsevol export fins a resoldre-la.",
       "reason": ""
     },
     {
