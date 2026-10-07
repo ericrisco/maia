@@ -733,7 +733,7 @@
       "title": "Santa Coloma",
       "type": "article",
       "topic": "temes/cultura/arquitectura",
-      "status": "in_progress",
+      "status": "complete",
       "unit_count": 23,
       "covered_unit_ids": [
         "docs/temes/cultura/arquitectura/santa-coloma.md#unit-0008",
@@ -746,8 +746,8 @@
         "docs/temes/cultura/arquitectura/santa-coloma.md#unit-0015",
         "docs/temes/cultura/arquitectura/santa-coloma.md#unit-0016"
       ],
-      "excluded_unit_count": 12,
-      "open_unit_count": 2,
+      "excluded_unit_count": 14,
+      "open_unit_count": 0,
       "conversation_ids": [
         "santa-coloma-pintures-periple-i-ubicacio-001"
       ]
