@@ -312,5 +312,20 @@
       "Coreografia moderna fixada als anys seixanta per Daniel Areny i Isidre Marbà a partir de la memòria de Ricard Mas; interpretació vigent des del 1963.",
       "Primera documentació de la dansa, origen de la tradició del 1278 i vestuari; contrastar fonts i atribucions."
     ]
+  },
+  "docs/temes/costums/danses/el-contrapas.md": {
+    "status": "in_progress",
+    "conversation_ids": [
+      "contrapas-diumenge-festa-major-i-participacio-01"
+    ],
+    "reviewed_units": [
+      "El contrapàs es balla el diumenge de la festa major, una vegada l’any; no hi ha data concreta per edició.",
+      "Hi participen Esbart Dansaire, ciutadans i càrrecs electes."
+    ],
+    "open_units": [
+      "Tretze parts, durada aproximada, música de cobla, peu esquerre i gran cercle final; coreografia detallada absent.",
+      "Origen, datació i història de l’Esbart; només hi ha datació indirecta i no concloent.",
+      "Identificació de la font periodística original i termes de drets."
+    ]
   }
 }
