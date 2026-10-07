@@ -7,7 +7,7 @@ autor: comunitat Viquipèdia
 publicacio: "ca.wikipedia.org"
 url: https://ca.wikipedia.org/wiki/Centre_d'Art_d'Escaldes-Engordany
 llicencia: CC BY-SA 4.0
-redistribucio: si, amb atribució
+redistribucio: si
 data_consulta: 2026-09-18
 abast: >
   Any d'inauguració, història de l'edifici i col·leccions permanents del

@@ -804,14 +804,18 @@
       "status": "in_progress",
       "unit_count": 33,
       "covered_unit_ids": [
+        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0006",
+        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0007",
+        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0008",
         "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0009",
         "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0011",
         "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0012"
       ],
-      "excluded_unit_count": 1,
-      "open_unit_count": 29,
+      "excluded_unit_count": 3,
+      "open_unit_count": 24,
       "conversation_ids": [
-        "viladomat-monuments-andorra-001"
+        "viladomat-monuments-andorra-001",
+        "viladomat-puntaire-i-arribada-001"
       ]
     },
     "docs/temes/cultura/arts-visuals/lart-mes-antic.md": {
