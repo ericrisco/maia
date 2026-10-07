@@ -741,10 +741,16 @@
       "topic": "temes/cultura/arts-visuals",
       "status": "in_progress",
       "unit_count": 33,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0007",
+        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0011",
+        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0012"
+      ],
       "excluded_unit_count": 6,
-      "open_unit_count": 27,
-      "conversation_ids": []
+      "open_unit_count": 24,
+      "conversation_ids": [
+        "viladomat-puntaire-i-obres-andorra-001"
+      ]
     },
     "docs/temes/cultura/arts-visuals/lart-mes-antic.md": {
       "title": "L'art més antic",
