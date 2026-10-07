@@ -19,7 +19,7 @@ La cobertura és per document citat i és només un límit inferior: una cita no
 |---|---:|---:|---:|
 | `costums` | 23 | 3 | 20 |
 | `cultura` | 72 | 2 | 70 |
-| `economia` | 95 | 2 | 93 |
+| `economia` | 95 | 3 | 92 |
 | `esports` | 272 | 0 | 272 |
 | `gastronomia` | 15 | 0 | 15 |
 | `historia` | 226 | 0 | 226 |
@@ -60,7 +60,7 @@ Aquest índex més fi permet avançar branca per branca. `Amb conversa` segueix 
 | `temes/cultura/musica-i-cancons` | 3 | 0 | 3 | 0 | 2 | 1 | 0 |
 | `temes/cultura/teatre` | 2 | 0 | 2 | 0 | 2 | 0 | 0 |
 | `temes/economia/banca-i-fiscalitat` | 33 | 1 | 32 | 12 | 18 | 3 | 0 |
-| `temes/economia/comerc` | 17 | 0 | 17 | 12 | 5 | 0 | 0 |
+| `temes/economia/comerc` | 17 | 1 | 16 | 12 | 5 | 0 | 0 |
 | `temes/economia/energia-i-serveis` | 4 | 0 | 4 | 2 | 2 | 0 | 0 |
 | `temes/economia/les-grans-families` | 1 | 0 | 1 | 1 | 0 | 0 | 0 |
 | `temes/economia/ramaderia-i-agricultura` | 11 | 1 | 10 | 2 | 8 | 1 | 0 |
@@ -176,7 +176,7 @@ Aquesta tria només mira el camp `font` de la capçalera i la seva fitxa a `docs
 | `pending` | 604 |
 | `missing` | 1 |
 
-**Total:** 1348 fitxes article; **17** tenen almenys una conversa citada i **1331** encara no en tenen.
+**Total:** 1348 fitxes article; **18** tenen almenys una conversa citada i **1330** encara no en tenen.
 
 ## Límits
 
