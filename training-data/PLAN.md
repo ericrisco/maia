@@ -57,6 +57,7 @@ training-data/
 ├── knowledge/
 │   ├── review/
 │   │   ├── records.jsonl       # conversa i procedència junts
+│   │   ├── conversations.jsonl # export revisable, només messages aprovats
 │   │   ├── EXEMPLES.md         # criteri editorial i exemples
 │   │   └── unit-decisions.jsonl
 │   ├── scripts/                # inventari i validació de Knowledge
@@ -66,7 +67,7 @@ training-data/
 └── language/                   # pipeline separat de parla humana
 ```
 
-Un registre de `records.jsonl` inclou `record_id`, `review_status`, `messages`, fonts, afirmacions sostingudes, límits, grup de divisió i `unit_ids`. Cada línia és autocontinguda; no s'aparella amb una altra línia per posició. El format exportat per entrenar conté només `{"messages":[...]}`.
+Un registre de `records.jsonl` inclou `record_id`, `review_status`, `messages`, fonts, afirmacions sostingudes, límits, grup de divisió i `unit_ids`. Cada línia és autocontinguda; no s'aparella amb una altra línia per posició. El validador genera `review/conversations.jsonl` amb els registres aprovats i només els seus `messages`; no hi inclou mostres. Els splits finals d'`output/` també contindran només `{"messages":[...]}`.
 
 ## Seqüència de treball
 

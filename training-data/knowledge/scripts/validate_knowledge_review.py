@@ -61,6 +61,14 @@ def validate_review_record(record: dict[str, Any], number: int) -> None:
     validate_conversation({"messages": record["messages"]}, number)
 
 
+def approved_conversations(records: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    return [
+        {"messages": record["messages"]}
+        for record in records
+        if record.get("review_status") == "approved"
+    ]
+
+
 def require_string_list(value: Any, field: str, number: int) -> list[str]:
     if not isinstance(value, list) or not value or any(not isinstance(item, str) or not item.strip() for item in value):
         raise ValueError(f"records.jsonl:{number}: {field} must be a non-empty list of strings")
@@ -165,6 +173,11 @@ def main() -> None:
                 records_by_document[document_path].add(record_id)
         if review_status == "approved":
             approved_records += 1
+
+    (REVIEW / "conversations.jsonl").write_text(
+        "".join(json.dumps(row, ensure_ascii=False, separators=(",", ":")) + "\n" for row in approved_conversations(records)),
+        encoding="utf-8",
+    )
 
     sample_records = sum(record.get("review_status") == "approved_sample" for record in records)
 

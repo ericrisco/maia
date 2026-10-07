@@ -65,6 +65,17 @@ class KnowledgeReviewValidationTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, "expected exactly"):
             validator.validate_review_record(row, 1)
 
+    def test_approved_export_contains_messages_only_and_skips_samples(self) -> None:
+        messages = [
+            {"role": "user", "content": "Què és això?"},
+            {"role": "assistant", "content": "És una mostra."},
+        ]
+        records = [
+            {"review_status": "approved_sample", "messages": messages},
+            {"review_status": "approved", "messages": messages},
+        ]
+        self.assertEqual(validator.approved_conversations(records), [{"messages": messages}])
+
     def test_rejects_role_order_errors(self) -> None:
         row = {"messages": [
             {"role": "assistant", "content": "Resposta."},
