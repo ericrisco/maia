@@ -117,12 +117,13 @@
         "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0026",
         "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0027",
         "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0028",
+        "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0029",
         "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0031",
         "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0032",
         "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0033"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 39,
+      "open_unit_count": 38,
       "conversation_ids": [
         "ball-ossa-encamp-canvi-escenari-001",
         "ball-ossa-encamp-dallaires-identitat-historica-001",
@@ -130,7 +131,8 @@
         "ball-ossa-encamp-disfressa-i-simbolisme-001",
         "ball-ossa-encamp-lectura-iniciatica-001",
         "ball-ossa-encamp-sicoris-001",
-        "encamp-ossa-contrabandistes-binomi-001"
+        "encamp-ossa-contrabandistes-binomi-001",
+        "marratxa-i-ossa-conservacio-comparada-001"
       ]
     },
     "docs/temes/costums/danses/el-ball-del-cerda.md": {
@@ -199,6 +201,7 @@
         "marratxa-coreografia-actual-001",
         "marratxa-data-i-pareatge-001",
         "marratxa-festa-major-001",
+        "marratxa-i-ossa-conservacio-comparada-001",
         "marratxa-nom-objecte-001",
         "marratxa-simbolisme-parroquies-001"
       ]
