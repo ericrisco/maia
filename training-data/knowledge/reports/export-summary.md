@@ -2,14 +2,14 @@
 
 Aquest report no acredita cobertura exhaustiva: mostra els registres aprovats i les fitxes representades fins ara.
 
-- Converses candidates: **82**.
-- Converses exportades: **82**.
+- Converses candidates: **83**.
+- Converses exportades: **83**.
 - Fitxes font representades: **18**.
 - Fitxes article a `docs/temes/`: **1348** (fitxers totals: 1477).
 
 | Split | Converses |
 |---|---:|
-| `train` | 82 |
+| `train` | 83 |
 | `validation` | 0 |
 | `test` | 0 |
 

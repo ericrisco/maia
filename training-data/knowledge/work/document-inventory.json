@@ -280,9 +280,10 @@
       "topic": "temes/costums/danses",
       "source": "wikipedia-llegendes-andorra",
       "status": "in_progress",
-      "conversation_count": 7,
+      "conversation_count": 8,
       "conversation_ids": [
         "festes-ossa-emigracio-i-represa-ordino-01",
+        "festes-ossa-farsa-i-ball-final-01",
         "ossa-calendari-hibernacio-i-tradicio-01",
         "ossa-reference-escrita-1838-i-origen-01",
         "ultima-ossa-mascara-centenaria-01",
@@ -301,7 +302,9 @@
         "primera referència escrita registrada el 1838 a la Relació sobre la Vall de Andorra de Tomàs Junoy; no equival a data d’origen, que es proposa com a medieval només probable",
         "la celebració entre Sant Esteve i Carnaval s’explica per la creença que l’ossa hibernava entre Nadal i la Candelera; no és dada zoològica verificada",
         "a l’Última Ossa d’Ordino, la «sang» que es comparteix és aigua amb granadina i la minyona la «pua»",
-        "la festa acaba amb un ball col·lectiu de cançons populars amb l’ossa"
+        "la festa acaba amb un ball col·lectiu de cançons populars amb l’ossa",
+        "definició de la festa com a farsa còmica d’un acte; la cacera és el pretext per representar les trifulgues dels personatges",
+        "repartiment general i personatges principals de l’Última Ossa d’Ordino; distinció respecte del ball col·lectiu final"
       ],
       "completion_note": "",
       "reason": ""
