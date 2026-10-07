@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 69,
+    "in_progress": 71,
     "no_natural_question": 0,
-    "not_started": 1279
+    "not_started": 1277
   },
   "documents": [
     {
@@ -1617,11 +1617,20 @@
       "type": "article",
       "topic": "temes/cultura/llegendes",
       "source": "viquipedia-ca",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "bruixa-sornas-llegenda-i-processos-documentats-001"
+      ],
+      "reviewed_units": [
+        "La llegenda de Sornàs no dona dades per identificar una dona o un procés; el corpus documenta persecucions de 1621, però no les vincula a la roca ni al relat."
+      ],
+      "open_units": [
+        "La llegenda completa, el nom de la dona, qui la va cremar, el motiu i la data no estan documentats.",
+        "No s’ha identificat cap procés històric que es pugui vincular a la roca de Sornàs.",
+        "La figura de la roca no està identificada com a gravat, formació natural o escultura.",
+        "La hipòtesi que les figures de bruixa, dama blanca i Verge formen un mateix sistema simbòlic continua sense documentar."
+      ],
       "completion_note": "",
       "reason": ""
     },
@@ -14343,11 +14352,20 @@
       "type": "article",
       "topic": "temes/institucions/justicia",
       "source": "actes-historiques-consell-general",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "bruixa-sornas-llegenda-i-processos-documentats-001"
+      ],
+      "reviewed_units": [
+        "El foli 17 de TC-6237 conserva la sentència contra Àngela Borrellona; el procés de 1621 documenta persecució institucional, però no es relaciona amb la llegenda de Sornàs."
+      ],
+      "open_units": [
+        "Cal enllaçar sistemàticament les 36 fitxes d’acusades amb els processos i les fitxes de l’Atles de Terra de Bruixes.",
+        "Cal localitzar la capitulació amb els veguers i el llibre comptable dels cobraments de 1621.",
+        "Cal identificar el procés de la Carbasera i aclarir el sentit de «dots de les bruixes» al registre del 31 d’octubre.",
+        "Les transcripcions paleogràfiques completes dels expedients i un recompte independent de condemnades continuen pendents."
+      ],
       "completion_note": "",
       "reason": ""
     },

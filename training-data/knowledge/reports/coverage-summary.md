@@ -4,14 +4,14 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 
 - Fitxes article: **1348**.
 - Fitxers totals, inclosos índexs: **1477**.
-- Converses candidates: **62**.
+- Converses candidates: **63**.
 
 | Estat de revisió | Fitxes |
 |---|---:|
 | Revisades completes | 0 |
-| En curs | 69 |
+| En curs | 71 |
 | Revisades sense pregunta natural | 0 |
-| No començades | 1279 |
+| No començades | 1277 |
 
 ## Estat per tema
 
@@ -35,7 +35,7 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 | `temes/cultura/arts-visuals` | 8 | 0 | 8 | 0 | 0 |
 | `temes/cultura/cultura-popular` | 2 | 0 | 2 | 0 | 0 |
 | `temes/cultura/literatura` | 1 | 0 | 1 | 0 | 0 |
-| `temes/cultura/llegendes` | 10 | 5 | 5 | 0 | 0 |
+| `temes/cultura/llegendes` | 10 | 4 | 6 | 0 | 0 |
 | `temes/cultura/museus-i-arxius` | 15 | 15 | 0 | 0 | 0 |
 | `temes/cultura/museus-i-arxius/museus` | 11 | 11 | 0 | 0 | 0 |
 | `temes/cultura/musica-i-cancons` | 3 | 3 | 0 | 0 | 0 |
@@ -85,7 +85,7 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 | `temes/institucions/consell-general` | 84 | 84 | 0 | 0 | 0 |
 | `temes/institucions/coprincipat` | 33 | 32 | 1 | 0 | 0 |
 | `temes/institucions/govern` | 8 | 8 | 0 | 0 | 0 |
-| `temes/institucions/justicia` | 138 | 137 | 1 | 0 | 0 |
+| `temes/institucions/justicia` | 138 | 136 | 2 | 0 | 0 |
 | `temes/institucions/nacionalitat-i-residencia` | 18 | 18 | 0 | 0 | 0 |
 | `temes/institucions/patrimoni-institucional` | 6 | 6 | 0 | 0 | 0 |
 | `temes/institucions/petits-estats` | 2 | 2 | 0 | 0 | 0 |
