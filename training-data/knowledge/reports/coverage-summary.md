@@ -5,7 +5,7 @@ L’inventari inclou tots els Markdown de `docs/temes/`, inclosos índexs. Una f
 - Fitxers Markdown inventariats: **1477**.
 - Fitxes `article`: **1348**.
 - Fitxers amb frontmatter invàlid: **0**.
-- Converses actives amb procedència: **88**.
+- Converses actives amb procedència: **89**.
 
 ## Estat de tots els fitxers
 
@@ -13,9 +13,9 @@ L’inventari inclou tots els Markdown de `docs/temes/`, inclosos índexs. Una f
 |---|---:|
 | Completats | 0 |
 | Exclosos per drets | 0 |
-| En curs | 3 |
+| En curs | 4 |
 | Sense pregunta natural | 0 |
-| No començats | 1474 |
+| No començats | 1473 |
 
 ## Estat de les fitxes article
 
@@ -23,9 +23,9 @@ L’inventari inclou tots els Markdown de `docs/temes/`, inclosos índexs. Una f
 |---|---:|
 | Completats | 0 |
 | Exclosos per drets | 0 |
-| En curs | 3 |
+| En curs | 4 |
 | Sense pregunta natural | 0 |
-| No començats | 1345 |
+| No començats | 1344 |
 
 ## Estat per tema
 
@@ -92,7 +92,7 @@ L’inventari inclou tots els Markdown de `docs/temes/`, inclosos índexs. Una f
 | `temes/historia/manual-digest` | 5 | 5 | 0 | 0 | 0 | 0 |
 | `temes/historia/moments-historics` | 2 | 2 | 0 | 0 | 0 | 0 |
 | `temes/historia/origens` | 15 | 15 | 0 | 0 | 0 | 0 |
-| `temes/historia/pareatge` | 6 | 5 | 1 | 0 | 0 | 0 |
+| `temes/historia/pareatge` | 6 | 4 | 2 | 0 | 0 | 0 |
 | `temes/historia/segle-xix` | 29 | 29 | 0 | 0 | 0 | 0 |
 | `temes/historia/segle-xx-primera-meitat` | 30 | 30 | 0 | 0 | 0 | 0 |
 | `temes/institucions/comuns-i-parroquies` | 35 | 35 | 0 | 0 | 0 | 0 |
@@ -162,4 +162,5 @@ L’inventari inclou tots els Markdown de `docs/temes/`, inclosos índexs. Una f
 
 - `docs/temes/costums/danses/la-marratxa.md` — 11 converses; 5 punts oberts.
 - `docs/temes/cultura/museus-i-arxius/el-diposit-legal.md` — 77 converses; 3 punts oberts.
-- `docs/temes/historia/pareatge/el-pareatge.md` — 2 converses; 8 punts oberts.
+- `docs/temes/historia/pareatge/el-pareatge.md` — 3 converses; 8 punts oberts.
+- `docs/temes/historia/pareatge/el-segon-pareatge-desmunta-enclar-i-crea-el-notariat-1288.md` — 1 converses; 5 punts oberts.
