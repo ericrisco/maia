@@ -374,7 +374,7 @@
       "topic": "temes/costums/religiositat",
       "source": "bopa-ad",
       "status": "in_progress",
-      "conversation_count": 25,
+      "conversation_count": 26,
       "conversation_ids": [
         "registre-religios-actualitzar-dades-declaracio-biennal-14",
         "registre-religios-associacio-cultural-dependent-03",
@@ -393,6 +393,7 @@
         "registre-religios-noms-carrecs-consentiment-dades-11",
         "registre-religios-practicants-i-declaracio-individual-16",
         "registre-religios-presentacio-cost-i-notificacions-22",
+        "registre-religios-presentacio-paper-o-electronica-26",
         "registre-religios-prohibicio-fitxers-religio-12",
         "registre-religios-proselitisme-proporcionalitat-05",
         "registre-religios-publicitat-i-abast-02",
@@ -430,7 +431,8 @@
         "Presentació al Servei de Tràmits, gratuïtat de la inscripció i destinatari/domicili de les notificacions (art. 6).",
         "Comunicació d’indicis racionals d’il·licitud penal al ministre i eventual trasllat al Ministeri Fiscal (art. 6).",
         "Efectes de la inscripció: personalitat jurídica i beneficis generals per a entitats sense ànim de lucre; absència d’exempció fiscal concreta a la Llei 2/2025 (art. 10).",
-        "Règim transitori per a entitats religioses ja inscrites al Registre d’associacions: termini de dos anys, reutilització de documents compatibles i cancel·lació si no es demana la nova inscripció (disposició transitòria)."
+        "Règim transitori per a entitats religioses ja inscrites al Registre d’associacions: termini de dos anys, reutilització de documents compatibles i cancel·lació si no es demana la nova inscripció (disposició transitòria).",
+        "Disposició addicional sobre termini per habilitar gestió electrònica i presentació en paper durant la transició; estat actual del servei no verificat al corpus."
       ],
       "open_units": [
         "Passada editorial integral de la fitxa: revisar la resta d’afirmacions i buits contra les converses i conservar explícitament allò que no consta."
