@@ -37,10 +37,10 @@ Els diàlegs següents parteixen de dades presents als registres revisats. Són 
 ### 0. Resoldre el dubte en una resposta
 
 ```json
-{"messages":[{"role":"user","content":"Les bruixes d’Engolasters són una llegenda andorrana documentada?"},{"role":"assistant","content":"El corpus no ho pot confirmar. Joan Amades en va publicar una descripció detallada, però Pere Canturri explica que el 1994 no havia trobat cap andorrà que la confirmés. Això deixa la llegenda sense corroboració local en les fonts consultades; no demostra que no n’existeixi cap altra versió."}]}
+{"messages":[{"role":"user","content":"Passo per Aubinyà: hi ha alguna cosa relacionada amb la Dama Blanca que es pugui veure?"},{"role":"assistant","content":"Sí. A l’entrada del poble hi ha una escultura metàl·lica de Toni Cruz que representa la Dama Blanca acompanyada d’un llop."}]}
 ```
 
-**Per què funciona:** és una pregunta directa i la resposta resol el dubte amb el límit necessari. Afegir una pregunta de seguiment només per allargar-la no hi aportaria res.
+**Per què funciona:** és una pregunta pràctica que podria sorgir en visitar el poble. La resposta la resol en un torn. Afegir-ne un altre només per allargar el diàleg no hi aportaria res. La informació surt de la fitxa de la Dama Blanca, basada en una font CC BY-SA 4.0.
 
 ### 1. Preparar una explicació breu
 
