@@ -130,5 +130,22 @@
     "conversation_ids": [
       "encamp-ossa-protagonists-001"
     ]
+  },
+  "docs/temes/costums/danses/danses.md": {
+    "status": "in_progress",
+    "reviewed_units": [
+      "La branca descriu les danses per parròquia i dia, i distingeix la Passa com a ritu de pas, no com a dansa.",
+      "La sardana s’introdueix a Andorra entre els anys trenta i quaranta; el relat depèn de Canturri i té drets de reutilització pendents.",
+      "La Dama Blanca d’Auvinyà és una peça de l’Esbart Laurèdia documentada en una pàgina del 2013; un candidat distingeix la data de la pàgina de la data d’estrena.",
+      "La fitxa registra l’estat de la música i del repertori de danses, i les mancances de dades sobre esbarts i parròquies."
+    ],
+    "open_units": [
+      "La font principal declarada és premsa amb drets reservats i sense referència individualitzada.",
+      "La introducció de la sardana i altres afirmacions etnogràfiques depenen de Canturri, amb redistribució pendent.",
+      "La data d’estrena, la coreografia i la música de la peça de la Dama Blanca no consten al corpus."
+    ],
+    "conversation_ids": [
+      "dama-blanca-dance-piece-001"
+    ]
   }
 }

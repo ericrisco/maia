@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 3,
-    "in_progress": 4,
+    "in_progress": 5,
     "no_natural_question": 0,
-    "not_started": 1341
+    "not_started": 1340
   },
   "documents": [
     {
@@ -143,11 +143,22 @@
       "type": "article",
       "topic": "temes/costums/danses",
       "source": "premsa-andorrana",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "dama-blanca-dance-piece-001"
+      ],
+      "reviewed_units": [
+        "La branca descriu les danses per parròquia i dia, i distingeix la Passa com a ritu de pas, no com a dansa.",
+        "La sardana s’introdueix a Andorra entre els anys trenta i quaranta; el relat depèn de Canturri i té drets de reutilització pendents.",
+        "La Dama Blanca d’Auvinyà és una peça de l’Esbart Laurèdia documentada en una pàgina del 2013; un candidat distingeix la data de la pàgina de la data d’estrena.",
+        "La fitxa registra l’estat de la música i del repertori de danses, i les mancances de dades sobre esbarts i parròquies."
+      ],
+      "open_units": [
+        "La font principal declarada és premsa amb drets reservats i sense referència individualitzada.",
+        "La introducció de la sardana i altres afirmacions etnogràfiques depenen de Canturri, amb redistribució pendent.",
+        "La data d’estrena, la coreografia i la música de la peça de la Dama Blanca no consten al corpus."
+      ],
       "completion_note": "",
       "reason": ""
     },
