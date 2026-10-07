@@ -903,12 +903,14 @@
         "docs/temes/cultura/llegendes/el-tamarro.md#unit-0004",
         "docs/temes/cultura/llegendes/el-tamarro.md#unit-0014",
         "docs/temes/cultura/llegendes/el-tamarro.md#unit-0015",
-        "docs/temes/cultura/llegendes/el-tamarro.md#unit-0016"
+        "docs/temes/cultura/llegendes/el-tamarro.md#unit-0016",
+        "docs/temes/cultura/llegendes/el-tamarro.md#unit-0020"
       ],
       "excluded_unit_count": 18,
-      "open_unit_count": 5,
+      "open_unit_count": 4,
       "conversation_ids": [
         "tamarro-criatura-i-equivalents-001",
+        "tamarro-dinosaure-i-origen-del-nom-001",
         "tamarro-mascota-i-itineraris-001"
       ]
     },
