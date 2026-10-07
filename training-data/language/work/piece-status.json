@@ -1,0 +1,11 @@
+{
+  "docs/parla/oral/les-falles-albert-roig.md": {
+    "status": "in_progress",
+    "reviewed_fragments": [
+      "00:01:40.370–00:01:48.100: rhetorical self-question and immediate answer, retained verbatim; no ASR uncertainty markers; CC BY verified for video #34."
+    ],
+    "open_units": [
+      "The transcript is not independently checked against audio; the speaker's Andorran origin and first language are not established in the source; the rest of the transcript requires fragment-level review."
+    ]
+  }
+}
