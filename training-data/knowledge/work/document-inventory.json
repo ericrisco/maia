@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 0,
+    "in_progress": 1,
     "no_natural_question": 0,
-    "not_started": 1348
+    "not_started": 1347
   },
   "documents": [
     {
@@ -127,11 +127,21 @@
       "type": "article",
       "topic": "temes/costums/danses",
       "source": "wikipedia-ball-ossa-encamp",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "ball-ossa-dallaires-paper-001"
+      ],
+      "reviewed_units": [
+        "Els dallaires són a escena des del principi fins al final i reben les visites dels altres personatges.",
+        "Els intèrprets dels dallaires hi apareixen amb els seus noms reals, a diferència de la resta de papers.",
+        "La fitxa identifica els dallaires com els grans protagonistes de la farsa, tot i que el títol destaca l'ossa."
+      ],
+      "open_units": [
+        "La lectura del ball com a ritus iniciàtic depèn d'una tesi doctoral identificada però no consultada; no tractar-la com a fet verificat.",
+        "La descripció de Joan Amades del 1950 i les diferències amb la representació actual requereixen revisar les condicions de la font citada i separar els relats de cada versió.",
+        "La història de la disfressa de l'ossa i la seva interpretació simbòlica no queden cobertes per aquesta conversa."
+      ],
       "completion_note": "",
       "reason": ""
     },

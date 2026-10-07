@@ -24,6 +24,6 @@ training-data/
     └── output/       # exports aprovats
 ```
 
-El pilot anterior de Knowledge s'ha arxivat després de detectar preguntes que sonaven a extracció de fitxes. Ara s'està calibrant el nou criteri amb cinc exemples editorials. Aquests exemples no són registres d'entrenament; la cua activa és buida. L'inventari i la procedència anteriors es conserven per auditoria.
+El pilot anterior de Knowledge s'ha arxivat després de detectar preguntes que sonaven a extracció de fitxes. Cinc exemples editorials defineixen el nou criteri. La producció activa comença amb un candidat sobre el Ball de l'Ossa d'Encamp; els exemples de calibratge no són registres d'entrenament i encara no hi ha exports aprovats. L'inventari i la procedència anteriors es conserven per auditoria.
 
 Consulta [`PLAN.md`](PLAN.md), la [guia de conversa](knowledge/review/CONVERSATION-GUIDE.md) i les [mostres de calibratge](knowledge/review/EXEMPLES.md).
