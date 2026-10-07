@@ -4,10 +4,10 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 
 - Documents inventariats: **1477** (1348 articles).
 - Unitats estructurals totals: **62911**.
-- Unitats cobertes per converses aprovades: **236** (0.375%).
-- Unitats excloses amb motiu: **1013**.
-- Unitats encara obertes: **61662**.
-- Converses candidates: **55**; aprovades: **55**; mostres de calibratge: **0** (no compten com a cobertura).
+- Unitats cobertes per converses aprovades: **242** (0.385%).
+- Unitats excloses amb motiu: **1016**.
+- Unitats encara obertes: **61653**.
+- Converses candidates: **58**; aprovades: **58**; mostres de calibratge: **0** (no compten com a cobertura).
 
 ## Estat per tema
 
@@ -29,7 +29,7 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 | `temes/cultura/andorra-vista-de-fora` | 6 | 280 | 41 | 239 | 0 |
 | `temes/cultura/arquitectura` | 11 | 216 | 52 | 164 | 0 |
 | `temes/cultura/artesania` | 2 | 138 | 0 | 138 | 0 |
-| `temes/cultura/arts-visuals` | 9 | 303 | 52 | 244 | 7 |
+| `temes/cultura/arts-visuals` | 9 | 303 | 56 | 247 | 0 |
 | `temes/cultura/cultura-popular` | 2 | 48 | 0 | 0 | 48 |
 | `temes/cultura/literatura` | 1 | 87 | 0 | 0 | 87 |
 | `temes/cultura/llegendes` | 10 | 254 | 87 | 167 | 0 |
@@ -76,7 +76,7 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 | `temes/historia/moments-historics` | 2 | 153 | 0 | 0 | 153 |
 | `temes/historia/origens` | 15 | 414 | 0 | 0 | 414 |
 | `temes/historia/pareatge` | 6 | 473 | 0 | 0 | 473 |
-| `temes/historia/segle-xix` | 29 | 1819 | 0 | 0 | 1819 |
+| `temes/historia/segle-xix` | 29 | 1819 | 2 | 0 | 1817 |
 | `temes/historia/segle-xx-primera-meitat` | 30 | 892 | 0 | 0 | 892 |
 | `temes/institucions/comuns-i-parroquies` | 35 | 971 | 0 | 0 | 971 |
 | `temes/institucions/consell-general` | 84 | 2530 | 0 | 0 | 2530 |
@@ -144,6 +144,6 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 ## Exclusions per motiu
 
 - `duplicate`: 11.
-- `excluded_rights`: 677.
+- `excluded_rights`: 678.
 - `no_natural_question`: 8.
-- `not_knowledge`: 317.
+- `not_knowledge`: 319.

@@ -821,7 +821,7 @@
       "title": "Josep Viladomat i Massanas",
       "type": "article",
       "topic": "temes/cultura/arts-visuals",
-      "status": "in_progress",
+      "status": "complete",
       "unit_count": 33,
       "covered_unit_ids": [
         "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0001",
@@ -833,7 +833,9 @@
         "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0009",
         "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0011",
         "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0012",
+        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0013",
         "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0015",
+        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0016",
         "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0017",
         "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0018",
         "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0019",
@@ -846,20 +848,25 @@
         "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0026",
         "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0027",
         "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0028",
-        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0029"
+        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0029",
+        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0030",
+        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0031"
       ],
-      "excluded_unit_count": 3,
-      "open_unit_count": 7,
+      "excluded_unit_count": 6,
+      "open_unit_count": 0,
       "conversation_ids": [
         "caee-edifici-i-colleccions-001",
         "josep-viladomat-origen-formacio-001",
+        "viladomat-ball-de-la-morisca-nom-no-explicat-001",
         "viladomat-benlloch-himne-lletra-001",
         "viladomat-colleccio-centre-art-001",
         "viladomat-meritxell-jerusalem-001",
+        "viladomat-monument-i-nova-reforma-001",
         "viladomat-monuments-andorra-001",
         "viladomat-obres-barcelona-001",
         "viladomat-puntaire-i-arribada-001",
-        "viladomat-republica-i-franco-001"
+        "viladomat-republica-i-franco-001",
+        "viladomat-sergi-mas-coetanis-001"
       ]
     },
     "docs/temes/cultura/arts-visuals/lart-mes-antic.md": {
@@ -913,7 +920,8 @@
       "conversation_ids": [
         "sergi-mas-llibres-i-abast-001",
         "sergi-mas-meritxell-i-oficis-001",
-        "sergi-mas-reconeixements-001"
+        "sergi-mas-reconeixements-001",
+        "viladomat-sergi-mas-coetanis-001"
       ]
     },
     "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md": {
@@ -8204,12 +8212,17 @@
       "title": "Guillem d'Areny-Plandolit",
       "type": "article",
       "topic": "temes/historia/segle-xix",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 15,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/historia/segle-xix/guillem-dareny-plandolit.md#unit-0003",
+        "docs/temes/historia/segle-xix/guillem-dareny-plandolit.md#unit-0004"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 15,
-      "conversation_ids": []
+      "open_unit_count": 13,
+      "conversation_ids": [
+        "viladomat-monument-i-nova-reforma-001"
+      ]
     },
     "docs/temes/historia/segle-xix/la-questio-dandorra.md": {
       "title": "La Qüestió d'Andorra",
