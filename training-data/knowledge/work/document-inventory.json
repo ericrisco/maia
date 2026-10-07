@@ -2,7 +2,7 @@
   "source_root": "docs/temes/",
   "file_count": 1477,
   "article_count": 1348,
-  "conversation_count": 62,
+  "conversation_count": 63,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 1,
@@ -16632,7 +16632,7 @@
       "topic": "temes/institucions/relacions-exteriors",
       "source": "jurisprudencia-ad",
       "status": "in_progress",
-      "conversation_count": 36,
+      "conversation_count": 37,
       "conversation_ids": [
         "antecedents-penals-residents-estranger-001",
         "bens-sense-propietari-identificat-001",
@@ -16646,6 +16646,7 @@
         "cooperacio-penal-vuit-filtres-i-divisio-001",
         "documents-originals-i-retorn-objectes-001",
         "embargament-preventiu-termini-prorroga-001",
+        "extradicio-acceptacio-voluntaria-001",
         "extradicio-ajornament-lliurament-causa-local-001",
         "extradicio-ciutada-andorra-motius-rebuig-001",
         "extradicio-competencia-jurisdiccio-sollicitant-001",
@@ -16707,7 +16708,8 @@
         "Llei qualificada d’extradició, article 14(9): prescripció anterior a la demanda sota la legislació d’Andorra o de l’estat sol·licitant; l’apartat no precisa l’efecte d’una prescripció posterior.",
         "Llei qualificada d’extradició, article 14(14): conseqüències d’una gravetat excepcional per edat o salut; cap denegació automàtica per l’existència aïllada d’aquests factors.",
         "Llei qualificada d’extradició, article 18: termini de trenta dies perquè l’estat sol·licitant reclami la persona després de l’aute ferm, alliberament si no hi ha altra causa de detenció i possible denegació d’una nova demanda pel mateix motiu.",
-        "Llei qualificada d’extradició, article 17: possibilitat d’ajornar el lliurament si la persona és processada o condemnada a Andorra per una infracció diferent, fins al final de la causa o el compliment de la pena."
+        "Llei qualificada d’extradició, article 17: possibilitat d’ajornar el lliurament si la persona és processada o condemnada a Andorra per una infracció diferent, fins al final de la causa o el compliment de la pena.",
+        "Llei qualificada d’extradició, article 16: renúncia expressa a les garanties i acceptació del lliurament en qualsevol fase judicial, formalitzada per aute del tribunal competent."
       ],
       "open_units": [
         "Abast i límits de la instantània consolidada del 2026-09-12."
