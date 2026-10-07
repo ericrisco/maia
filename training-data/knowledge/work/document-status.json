@@ -16,12 +16,17 @@
       "title": "El calendari festiu",
       "type": "article",
       "topic": "temes/costums/calendari-festiu",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 29,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/costums/calendari-festiu/calendari-festiu.md#unit-0011",
+        "docs/temes/costums/calendari-festiu/calendari-festiu.md#unit-0020"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 29,
-      "conversation_ids": []
+      "open_unit_count": 27,
+      "conversation_ids": [
+        "calendari-judicial-fires-exteriors-1902-001"
+      ]
     },
     "docs/temes/costums/calendari-festiu/el-carnaval-dencamp.md": {
       "title": "El carnaval d'Encamp",
@@ -10758,12 +10763,21 @@
       "title": "Els tribunals tancaven per la fira d'Organyà",
       "type": "article",
       "topic": "temes/institucions/justicia",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 88,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0001",
+        "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0012",
+        "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0015",
+        "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0016",
+        "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0018",
+        "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0020"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 88,
-      "conversation_ids": []
+      "open_unit_count": 82,
+      "conversation_ids": [
+        "calendari-judicial-fires-exteriors-1902-001"
+      ]
     },
     "docs/temes/institucions/justicia/es-deixaven-escapar-els-presos.md": {
       "title": "Es deixaven escapar els presos",
