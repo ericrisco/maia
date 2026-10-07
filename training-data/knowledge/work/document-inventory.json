@@ -9,20 +9,20 @@
   "file_count": 1477,
   "article_count": 1348,
   "parse_error_count": 0,
-  "conversation_count": 105,
+  "conversation_count": 106,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 0,
-    "in_progress": 7,
+    "in_progress": 8,
     "no_natural_question": 0,
-    "not_started": 1470
+    "not_started": 1469
   },
   "article_status_totals": {
     "complete": 0,
     "excluded_rights": 0,
-    "in_progress": 7,
+    "in_progress": 8,
     "no_natural_question": 0,
-    "not_started": 1341
+    "not_started": 1340
   },
   "documents": [
     {
@@ -269,11 +269,24 @@
       "type": "article",
       "topic": "temes/costums/danses",
       "source": "wikipedia-llegendes-andorra",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "festes-ossa-ordino-calendari-carnaval-001"
+      ],
+      "reviewed_units": [
+        "Les dues manifestacions descrites com a vigents i els seus calendaris: Última Ossa d'Ordino la primera setmana de desembre; Ball de l'Ossa d'Encamp dilluns de Carnaval.",
+        "Ordino celebrava la festa per Carnaval abans del calendari actual; la font situa la recuperació del 2017 però no explica el motiu ni data exacta del canvi."
+      ],
+      "open_units": [
+        "Confirmar amb fonts primàries la cronologia d'interrupcions i represes d'Ordino; les fonts secundàries discrepen sobre les dates anteriors a 2017.",
+        "Documentar per què i en quin moment l'Última Ossa d'Ordino va passar de Carnaval a desembre.",
+        "Revisar el relat teatral i els personatges de les dues festes sense reutilitzar passatges protegits de Joan Amades.",
+        "Revisar la història de la màscara d'Ordino, els set indrets documentats, la desaparició de les festes als anys vint i les causes de la supervivència local.",
+        "Contrastar la primera referència escrita de 1838 i l'origen medieval, que la font només presenta com a probable.",
+        "Revisar bibliografia, testimonis de l'Arxiu Nacional i els límits de les interpretacions sobre la festa.",
+        "Revisar el reconeixement patrimonial amb fonts oficials abans d'afegir-lo a una conversa."
+      ],
       "completion_note": "",
       "reason": "",
       "exclusion_reason": "",
