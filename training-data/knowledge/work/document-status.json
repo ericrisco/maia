@@ -395,6 +395,22 @@
         "Revisar les peces del Museu Casa Rull i el circuit escultòric d'Ordino amb fonts compatibles i llicències pròpies.",
         "Cobrir l'arquitectura vernacla relacionada —borda, casa pairal, pedra seca i forja— amb les seves fonts respectives."
       ]
+    },
+    "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md": {
+      "status": "in_progress",
+      "conversation_ids": [
+        "habits-culturals-cinema-biblioteques-001"
+      ],
+      "covered_units": [
+        "Enquesta 2019 i 2024: cinema, 57,4% → 66,3% (+8,9 punts).",
+        "Enquesta 2019 i 2024: biblioteques, 36,4% → 30,7% (-5,7 punts).",
+        "L'article no atribueix causes i adverteix que són dos punts, no una sèrie."
+      ],
+      "open_units": [
+        "Revisar les altres activitats de l'enquesta i els seus desglossaments per edat, sexe i estudis.",
+        "Revisar els museus, la lectura, l'esport i el voluntariat, incloent les discrepàncies identificades a la font.",
+        "Llegir de nou l'article complet per identificar altres unitats útils; no donar la fitxa per coberta amb aquesta conversa."
+      ]
     }
   },
   "schema_version": 1

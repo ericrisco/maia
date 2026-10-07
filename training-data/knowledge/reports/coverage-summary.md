@@ -5,7 +5,7 @@ L’inventari inclou tots els Markdown de `docs/temes/`, inclosos índexs. Una f
 - Fitxers Markdown inventariats: **1477**.
 - Fitxes `article`: **1348**.
 - Fitxers amb frontmatter invàlid: **0**.
-- Converses actives amb procedència: **119**.
+- Converses actives amb procedència: **120**.
 
 ## Estat de tots els fitxers
 
@@ -13,9 +13,9 @@ L’inventari inclou tots els Markdown de `docs/temes/`, inclosos índexs. Una f
 |---|---:|
 | Completats | 0 |
 | Exclosos per drets | 0 |
-| En curs | 11 |
+| En curs | 12 |
 | Sense pregunta natural | 0 |
-| No començats | 1466 |
+| No començats | 1465 |
 
 ## Estat de les fitxes article
 
@@ -23,9 +23,9 @@ L’inventari inclou tots els Markdown de `docs/temes/`, inclosos índexs. Una f
 |---|---:|
 | Completats | 0 |
 | Exclosos per drets | 0 |
-| En curs | 11 |
+| En curs | 12 |
 | Sense pregunta natural | 0 |
-| No començats | 1337 |
+| No començats | 1336 |
 
 ## Estat per tema
 
@@ -42,7 +42,7 @@ L’inventari inclou tots els Markdown de `docs/temes/`, inclosos índexs. Una f
 | `temes/costums/religiositat` | 5 | 5 | 0 | 0 | 0 | 0 |
 | `temes/costums/ritus-de-pas` | 2 | 2 | 0 | 0 | 0 | 0 |
 | `temes/costums/sant-antoni` | 1 | 1 | 0 | 0 | 0 | 0 |
-| `temes/cultura` | 1 | 1 | 0 | 0 | 0 | 0 |
+| `temes/cultura` | 1 | 0 | 1 | 0 | 0 | 0 |
 | `temes/cultura/andorra-vista-de-fora` | 6 | 6 | 0 | 0 | 0 | 0 |
 | `temes/cultura/arquitectura` | 11 | 10 | 1 | 0 | 0 | 0 |
 | `temes/cultura/artesania` | 2 | 2 | 0 | 0 | 0 | 0 |
@@ -165,6 +165,7 @@ L’inventari inclou tots els Markdown de `docs/temes/`, inclosos índexs. Una f
 - `docs/temes/costums/danses/les-festes-de-lossa.md` — 7 converses; 7 punts oberts.
 - `docs/temes/costums/meritxell/meritxell.md` — 1 converses; 5 punts oberts.
 - `docs/temes/cultura/arquitectura/els-estripagecs.md` — 3 converses; 4 punts oberts.
+- `docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md` — 1 converses; 3 punts oberts.
 - `docs/temes/cultura/llegendes/el-tamarro.md` — 2 converses; 5 punts oberts.
 - `docs/temes/cultura/museus-i-arxius/el-diposit-legal.md` — 77 converses; 3 punts oberts.
 - `docs/temes/historia/edat-mitjana/per-aquests-malfets-i-per-la-redempcio-de-la-seva-anima.md` — 4 converses; 5 punts oberts.
