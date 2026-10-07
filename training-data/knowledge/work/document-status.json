@@ -1267,13 +1267,18 @@
       "covered_unit_ids": [
         "docs/temes/cultura/museus-i-arxius/museus/el-museu-del-perfum.md#unit-0001",
         "docs/temes/cultura/museus-i-arxius/museus/el-museu-del-perfum.md#unit-0002",
+        "docs/temes/cultura/museus-i-arxius/museus/el-museu-del-perfum.md#unit-0005",
+        "docs/temes/cultura/museus-i-arxius/museus/el-museu-del-perfum.md#unit-0006",
+        "docs/temes/cultura/museus-i-arxius/museus/el-museu-del-perfum.md#unit-0007",
+        "docs/temes/cultura/museus-i-arxius/museus/el-museu-del-perfum.md#unit-0008",
         "docs/temes/cultura/museus-i-arxius/museus/el-museu-del-perfum.md#unit-0009",
         "docs/temes/cultura/museus-i-arxius/museus/el-museu-del-perfum.md#unit-0010"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 12,
+      "open_unit_count": 8,
       "conversation_ids": [
-        "museu-perfum-i-origen-julia-001"
+        "museu-perfum-i-origen-julia-001",
+        "perfum-museu-andorra-proveiment-guerres-001"
       ]
     },
     "docs/temes/cultura/museus-i-arxius/museus/el-museu-del-tabac.md": {
