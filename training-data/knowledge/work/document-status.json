@@ -96,11 +96,14 @@
       "status": "in_progress",
       "unit_count": 63,
       "covered_unit_ids": [
+        "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0026",
+        "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0028",
         "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0031"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 62,
+      "open_unit_count": 60,
       "conversation_ids": [
+        "ball-ossa-encamp-sicoris-i-continuïtat-001",
         "carnaval-encamp-ossa-i-contrabandistes-001"
       ]
     },
