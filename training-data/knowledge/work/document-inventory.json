@@ -1160,13 +1160,15 @@
       "topic": "temes/cultura/llegendes",
       "source": "wikipedia-tamarro",
       "status": "in_progress",
-      "conversation_count": 1,
+      "conversation_count": 2,
       "conversation_ids": [
+        "tamarro-abast-geografic-001",
         "tamarro-cacera-i-itinerari-001"
       ],
       "reviewed_units": [
         "El tamarro és una bèstia imaginària; la cacera era una broma per enganyar forasters amb una comporta i un sac, que els deixava xops i enfangats; la font descriu que podia incloure un gat amb morrió o un gos i la qualifica de cruel.",
-        "Els itineraris infantils actuals conviden a trobar el tamarro, presentat com a protector de la natura i els boscos."
+        "Els itineraris infantils actuals conviden a trobar el tamarro, presentat com a protector de la natura i els boscos.",
+        "La criatura imaginària és present en llegendes del Pallars, la Vall d'Aran, Andorra, Occitània i comarques properes; als territoris catalans i a la península hi ha equivalents anomenats gambutzí, gamusino, gamburrino i gambozino."
       ],
       "open_units": [
         "La història completa i les seves variants encara no estan cobertes; la font primària de la descripció de la broma no està identificada.",
