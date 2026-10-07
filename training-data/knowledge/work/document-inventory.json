@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 2,
-    "in_progress": 6,
+    "in_progress": 7,
     "no_natural_question": 0,
-    "not_started": 1340
+    "not_started": 1339
   },
   "documents": [
     {
@@ -2304,12 +2304,18 @@
       "type": "article",
       "topic": "temes/economia/comerc",
       "source": "estadistica-ad",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
-      "completion_note": "",
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "ipc-grup-molt-encarit-pes-petit-001"
+      ],
+      "reviewed_units": [
+        "Entre el gener del 2001 i l’agost del 2026, el grup de begudes alcohòliques i tabac puja un 174,6%; la seva ponderació a la cistella del 2026 és l’1,48% i no s’ha d’aplicar retroactivament."
+      ],
+      "open_units": [
+        "Resta revisar els dotze grups, classes, sèries anuals i mensuals, canvis de base, pes de les ponderacions, xifres d'autobús, relació salari-preus i tots els límits temporals i metodològics de la fitxa."
+      ],
+      "completion_note": "Primera conversa candidata sobre la diferència entre variació del preu i pes a l'IPC. Revisió de l'article continua.",
       "reason": ""
     },
     {
