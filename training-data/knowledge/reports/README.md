@@ -1,3 +1,3 @@
-# Informes Knowledge
+# Informes de Knowledge
 
-Aquí aniran informes generats de cobertura, qualitat, fonts excloses i volum. Els recomptes de la cua anterior s'han retirat perquè no descriuen els registres del nou flux.
+Els informes de cobertura, qualitat, exclusions i duplicats es generaran després d'aprovar el criteri de calibratge i reprendre la revisió del corpus.

@@ -1,3 +1,3 @@
-# Language output
+# Exports de Maia Language
 
-Encara no hi ha fragments aprovats ni exports. Només s'hi publicaran exemples de parla humana elegible i verificada.
+Encara no hi ha exports. Només es generaran quan els fragments humans elegibles estiguin revisats i els splits evitin barrejar fragments de la mateixa peça o parlant.

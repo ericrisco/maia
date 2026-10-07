@@ -1,3 +1,3 @@
-# Exports Knowledge
+# Exports de Knowledge
 
-No hi ha exports. Train, validation i test es generaran només després de revisar els registres, els drets i la separació per tema o font.
+Encara no hi ha exports. No generem `train.jsonl`, `validation.jsonl` ni `test.jsonl` fins que les converses estiguin revisades, deduplicades i agrupades per evitar filtracions entre splits.

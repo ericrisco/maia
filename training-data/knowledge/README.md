@@ -1,12 +1,5 @@
 # Maia Knowledge
 
-Conjunt de converses sobre Andorra basades en `docs/temes/`.
+Dataset de converses sobre Andorra, amb respostes basades en `docs/temes/`. La procedència i la cobertura es guarden fora dels missatges.
 
-- `examples/`: exemples de calibratge. No són entrenables.
-- `review/`: preguntes candidates, la guia obligatòria i la seva procedència.
-- `work/`: inventaris, traçabilitat i decisions de cobertura.
-- `reports/`: cobertura, exclusions i qualitat.
-- `scripts/`: eines de validació i exportació.
-- `output/`: exports aprovats; es manté buit fins que hi hagi una revisió completa.
-
-Segueix [`../PLAN.md`](../PLAN.md). Guarda la procedència fora dels missatges.
+Ara la carpeta `review/` conté una guia i tres mostres de calibratge. No són dades d'entrenament. `output/` es crearà quan hi hagi registres aprovats.

@@ -1,3 +1,3 @@
-# Language review
+# Revisió de Maia Language
 
-Fragments humans candidats amb identificació de peça, transcripció, drets i estat de verificació. No s'hi afegeix parla sintètica ni fragments no verificats.
+Els fragments humans i la seva procedència s'afegiran aquí després d'auditar elegibilitat, drets i qualitat de transcripció. Knowledge i Language no comparteixen registres.

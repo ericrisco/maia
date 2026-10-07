@@ -1,3 +1,3 @@
-# Language reports
+# Informes de Maia Language
 
-Informes de peces inspeccionades, incloses i excloses, motius d'exclusió, fragments verificats i drets.
+Aquí s'informaran les peces inspeccionades, incloses i excloses, els fragments verificats i els motius d'exclusió.
