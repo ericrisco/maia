@@ -9,7 +9,7 @@
   "file_count": 1477,
   "article_count": 1348,
   "parse_error_count": 0,
-  "conversation_count": 120,
+  "conversation_count": 121,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 0,
@@ -1164,14 +1164,17 @@
       "topic": "temes/cultura",
       "source": "estadistica-ad",
       "status": "in_progress",
-      "conversation_count": 1,
+      "conversation_count": 2,
       "conversation_ids": [
-        "habits-culturals-cinema-biblioteques-001"
+        "habits-culturals-cinema-biblioteques-001",
+        "habits-culturals-lectura-per-oci-genere-001"
       ],
       "reviewed_units": [
         "Enquesta 2019 i 2024: cinema, 57,4% → 66,3% (+8,9 punts).",
         "Enquesta 2019 i 2024: biblioteques, 36,4% → 30,7% (-5,7 punts).",
-        "L'article no atribueix causes i adverteix que són dos punts, no una sèrie."
+        "L'article no atribueix causes i adverteix que són dos punts, no una sèrie.",
+        "Lectura per oci, total: 69,6% el 2019 i 67,3% el 2024 (-2,3 punts).",
+        "Lectura per oci per sexe: dones 77,9% → 72,2%; homes 61,5% → 62,9%; diferència 16,4 → 9,3 punts."
       ],
       "open_units": [
         "Revisar les altres activitats de l'enquesta i els seus desglossaments per edat, sexe i estudis.",
