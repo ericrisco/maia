@@ -60,7 +60,8 @@
         "diposit-legal-contingut-restringit-costos-i-drets-001",
         "diposit-legal-edicio-bibliofila-llibre-artistic-001",
         "diposit-legal-mapa-tiratge-inferior-30-001",
-        "diposit-legal-rastreig-permes-versus-iniciat-001"
+        "diposit-legal-rastreig-permes-versus-iniciat-001",
+        "diposit-legal-volum-conservat-no-documentat-001"
       ],
       "covered_units": [
         "Llei 15/2025, article 22: scope of online publications; hosting location and domain; access unrestricted or restricted",
@@ -118,7 +119,8 @@
         "Decret 100/2026, article 8.4-8.5: protect legitimate rights and commercial exploitation; no additional economic burden for compliance.",
         "Llei 15/2025, article 11.1.c: one copy for limited bibliophile editions and artist books of high bibliographic value.",
         "Llei 15/2025, article 11.1.b-c: maps usually require two copies, but cartographic works under 30 copies require one; 30 is not under 30.",
-        "Operational-status boundary: legal authority for web crawling does not show it has begun or covers every website; actual tools and activity need institutional confirmation."
+        "Operational-status boundary: legal authority for web crawling does not show it has begun or covers every website; actual tools and activity need institutional confirmation.",
+        "Corpus gap: no total count of materials actually held is provided; statutory delivery quantities cannot be used as a historical holdings estimate."
       ],
       "open_units": [
         "Finish reviewing the remaining physical deposit categories and special formats, periodicals, film/television/radio, and linked regulations.",

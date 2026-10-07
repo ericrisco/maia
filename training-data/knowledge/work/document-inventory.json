@@ -9,7 +9,7 @@
   "file_count": 1477,
   "article_count": 1348,
   "parse_error_count": 0,
-  "conversation_count": 55,
+  "conversation_count": 56,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 0,
@@ -1392,7 +1392,7 @@
       "topic": "temes/cultura/museus-i-arxius",
       "source": "jurisprudencia-ad",
       "status": "in_progress",
-      "conversation_count": 55,
+      "conversation_count": 56,
       "conversation_ids": [
         "diposit-legal-anuari-i-serie-numerada-001",
         "diposit-legal-bases-dades-programari-exemplars-001",
@@ -1446,6 +1446,7 @@
         "diposit-legal-separata-numero-001",
         "diposit-legal-termini-numero-i-exemplars-001",
         "diposit-legal-videojocs-qualsevol-suport-001",
+        "diposit-legal-volum-conservat-no-documentat-001",
         "diposit-legal-volums-obra-unitaria-001",
         "diposit-legal-web-fora-dandorra-001",
         "diposit-legal-web-pagament-clau-acces-001"
@@ -1506,7 +1507,8 @@
         "Decret 100/2026, article 8.4-8.5: protect legitimate rights and commercial exploitation; no additional economic burden for compliance.",
         "Llei 15/2025, article 11.1.c: one copy for limited bibliophile editions and artist books of high bibliographic value.",
         "Llei 15/2025, article 11.1.b-c: maps usually require two copies, but cartographic works under 30 copies require one; 30 is not under 30.",
-        "Operational-status boundary: legal authority for web crawling does not show it has begun or covers every website; actual tools and activity need institutional confirmation."
+        "Operational-status boundary: legal authority for web crawling does not show it has begun or covers every website; actual tools and activity need institutional confirmation.",
+        "Corpus gap: no total count of materials actually held is provided; statutory delivery quantities cannot be used as a historical holdings estimate."
       ],
       "open_units": [
         "Finish reviewing the remaining physical deposit categories and special formats, periodicals, film/television/radio, and linked regulations.",
