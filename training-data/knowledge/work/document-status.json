@@ -844,12 +844,22 @@
       "title": "Sergi Mas i Balaguer",
       "type": "article",
       "topic": "temes/cultura/arts-visuals",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 63,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0001",
+        "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0002",
+        "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0004",
+        "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0005",
+        "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0006",
+        "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0009",
+        "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0011"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 63,
-      "conversation_ids": []
+      "open_unit_count": 56,
+      "conversation_ids": [
+        "sergi-mas-meritxell-i-oficis-001"
+      ]
     },
     "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md": {
       "title": "Cinc anys, i el cinema és l'única cosa que puja",
