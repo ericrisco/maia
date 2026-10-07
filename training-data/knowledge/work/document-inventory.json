@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 66,
+    "in_progress": 67,
     "no_natural_question": 0,
-    "not_started": 1282
+    "not_started": 1281
   },
   "documents": [
     {
@@ -1547,11 +1547,21 @@
       "type": "article",
       "topic": "temes/cultura/llegendes",
       "source": "wikipedia-llegendes-andorra",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "minairons-cano-feina-i-tarteres-001"
+      ],
+      "reviewed_units": [
+        "En la llegenda, els minairons surten del canó exigint feina i poden matar l’amo si no en reben; el relat els atribueix l’acumulació de pedres que explica les tarteres com a motiu folklòric."
+      ],
+      "open_units": [
+        "L’herba menaironera, el seu cicle la nit de Sant Joan i la qüestió no resolta de si el minairó surt de la llavor o n’és ell mateix no estan coberts.",
+        "Les variants geogràfiques del nom i l’etimologia de minairó com a diminutiu de minaire no estan cobertes.",
+        "Les cases del Pirineu associades a la riquesa i l’absència de cases andorranes identificades no estan cobertes.",
+        "Les versions andorranes recollides i les diferències amb altres variants pirinenques encara són parcials.",
+        "La relació amb l’activitat minera i les fargues és una interpretació del corpus i no s’ha d’afirmar com a origen històric."
+      ],
       "completion_note": "",
       "reason": ""
     },
