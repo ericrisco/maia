@@ -161,5 +161,19 @@
     "conversation_ids": [
       "duana-unio-aduanera-aliments-001"
     ]
+  },
+  "docs/temes/economia/comerc/comerc.md": {
+    "status": "in_progress",
+    "reviewed_units": [
+      "La fitxa afirma que comerç, turisme i finances sumen més de tres quartes parts del PIB, però no dona any de referència ni desglossament per activitat; la font indicada és secundària (Viquipèdia)."
+    ],
+    "open_units": [
+      "Cal localitzar una sèrie primària amb any de referència i desglossament sectorial abans de presentar aquesta magnitud com a dada vigent; si es conserva l'afirmació de Viquipèdia, l'export ha de complir CC BY-SA 4.0 i atribució.",
+      "Resta revisar la continuïtat entre contraban i comerç modern, els buits sobre consolidació del model i les fonts primàries sobre la Cambra de Comerç."
+    ],
+    "completion_note": "Una conversa candidata tracta el pes agregat del PIB i explicita la limitació temporal i el desglossament absent. La resta de la fitxa continua en revisió.",
+    "conversation_ids": [
+      "comerc-pes-conjunt-del-pib-001"
+    ]
   }
 }

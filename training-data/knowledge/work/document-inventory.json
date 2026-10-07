@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 2,
-    "in_progress": 4,
+    "in_progress": 5,
     "no_natural_question": 0,
-    "not_started": 1342
+    "not_started": 1341
   },
   "documents": [
     {
@@ -2220,12 +2220,19 @@
       "type": "article",
       "topic": "temes/economia/comerc",
       "source": "viquipedia-ca",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
-      "completion_note": "",
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "comerc-pes-conjunt-del-pib-001"
+      ],
+      "reviewed_units": [
+        "La fitxa afirma que comerç, turisme i finances sumen més de tres quartes parts del PIB, però no dona any de referència ni desglossament per activitat; la font indicada és secundària (Viquipèdia)."
+      ],
+      "open_units": [
+        "Cal localitzar una sèrie primària amb any de referència i desglossament sectorial abans de presentar aquesta magnitud com a dada vigent; si es conserva l'afirmació de Viquipèdia, l'export ha de complir CC BY-SA 4.0 i atribució.",
+        "Resta revisar la continuïtat entre contraban i comerç modern, els buits sobre consolidació del model i les fonts primàries sobre la Cambra de Comerç."
+      ],
+      "completion_note": "Una conversa candidata tracta el pes agregat del PIB i explicita la limitació temporal i el desglossament absent. La resta de la fitxa continua en revisió.",
       "reason": ""
     },
     {
