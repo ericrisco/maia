@@ -576,11 +576,11 @@
       "title": "Arquitectura — índex de fitxes",
       "type": "index",
       "topic": "",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 20,
       "covered_unit_ids": [],
-      "excluded_unit_count": 0,
-      "open_unit_count": 20,
+      "excluded_unit_count": 18,
+      "open_unit_count": 2,
       "conversation_ids": []
     },
     "docs/temes/cultura/arquitectura/el-romanic-com-a-operacio-politica.md": {
@@ -641,11 +641,11 @@
       "title": "L'Espai Columba",
       "type": "article",
       "topic": "temes/cultura/arquitectura",
-      "status": "not_started",
+      "status": "complete",
       "unit_count": 7,
       "covered_unit_ids": [],
-      "excluded_unit_count": 0,
-      "open_unit_count": 7,
+      "excluded_unit_count": 7,
+      "open_unit_count": 0,
       "conversation_ids": []
     },
     "docs/temes/cultura/arquitectura/romanic.md": {

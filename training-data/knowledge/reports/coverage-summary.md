@@ -5,15 +5,15 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 - Documents inventariats: **1477** (1348 articles).
 - Unitats estructurals totals: **62911**.
 - Unitats cobertes per converses aprovades: **316** (0.502%).
-- Unitats excloses amb motiu: **418**.
-- Unitats encara obertes: **62177**.
+- Unitats excloses amb motiu: **443**.
+- Unitats encara obertes: **62152**.
 - Converses candidates: **80**; aprovades: **80**.
 
 ## Estat per tema
 
 | Tema | Documents | Unitats | Cobertes | Excloses | Obertes |
 |---|---:|---:|---:|---:|---:|
-| `(sense tema)` | 123 | 1707 | 0 | 34 | 1673 |
+| `(sense tema)` | 123 | 1707 | 0 | 52 | 1655 |
 | `societat/treball` | 1 | 7 | 0 | 0 | 7 |
 | `temes/costums/calendari-festiu` | 2 | 65 | 0 | 0 | 65 |
 | `temes/costums/caramelles` | 1 | 18 | 0 | 0 | 18 |
@@ -27,7 +27,7 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 | `temes/costums/sant-antoni` | 1 | 19 | 0 | 0 | 19 |
 | `temes/cultura` | 1 | 73 | 71 | 2 | 0 |
 | `temes/cultura/andorra-vista-de-fora` | 6 | 280 | 0 | 0 | 280 |
-| `temes/cultura/arquitectura` | 11 | 216 | 60 | 149 | 7 |
+| `temes/cultura/arquitectura` | 11 | 216 | 60 | 156 | 0 |
 | `temes/cultura/artesania` | 2 | 138 | 0 | 0 | 138 |
 | `temes/cultura/arts-visuals` | 9 | 303 | 1 | 0 | 302 |
 | `temes/cultura/cultura-popular` | 2 | 48 | 5 | 3 | 40 |
@@ -143,7 +143,7 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 
 ## Exclusions per motiu
 
-- `duplicate`: 125.
-- `excluded_rights`: 163.
-- `no_natural_question`: 35.
+- `duplicate`: 138.
+- `excluded_rights`: 167.
+- `no_natural_question`: 43.
 - `not_knowledge`: 95.
