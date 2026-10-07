@@ -13826,7 +13826,7 @@
       "title": "Edat i nacionalitat de la població d'Andorra (2010–2025)",
       "type": "article",
       "topic": "temes/societat/demografia",
-      "status": "in_progress",
+      "status": "complete",
       "unit_count": 46,
       "covered_unit_ids": [
         "docs/temes/societat/demografia/la-mateixa-gent-quinze-anys-mes-gran.md#unit-0001",
@@ -13871,8 +13871,8 @@
         "docs/temes/societat/demografia/la-mateixa-gent-quinze-anys-mes-gran.md#unit-0045",
         "docs/temes/societat/demografia/la-mateixa-gent-quinze-anys-mes-gran.md#unit-0046"
       ],
-      "excluded_unit_count": 0,
-      "open_unit_count": 5,
+      "excluded_unit_count": 5,
+      "open_unit_count": 0,
       "conversation_ids": [
         "demografia-canvi-poblacio-per-edat-2010-2025-001",
         "demografia-edat-modal-no-es-seguiment-001",
