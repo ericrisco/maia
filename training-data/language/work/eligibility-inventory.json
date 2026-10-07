@@ -1,0 +1,1515 @@
+{
+  "source_root": "docs/parla/",
+  "file_count": 45,
+  "metadata_candidate_count": 38,
+  "preliminary_candidate_count_before_manual_piece_review": 0,
+  "entries": [
+    {
+      "path": "docs/parla/espontani/parla-espontania-d-andorra.md",
+      "type": "index",
+      "title": "Parla espontània d'Andorra",
+      "voice": "",
+      "era": "",
+      "apte_llengua": null,
+      "speaker": "",
+      "source_ids": [],
+      "source_details": [],
+      "metadata_eligible": false,
+      "eligibility_status": "not_a_speech_record",
+      "eligibility_reason": "type is not parla; veu is not originaria; epoca is not contemporania; apte_llengua is not true",
+      "rights_status": "missing_source",
+      "transcript_status": "not_marked_uncertain_but_not_verified",
+      "tags": [],
+      "conversation_status": "not_reviewed"
+    },
+    {
+      "path": "docs/parla/institucional/parla-institucional-d-andorra.md",
+      "type": "index",
+      "title": "Parla institucional d'Andorra",
+      "voice": "",
+      "era": "",
+      "apte_llengua": null,
+      "speaker": "",
+      "source_ids": [],
+      "source_details": [],
+      "metadata_eligible": false,
+      "eligibility_status": "not_a_speech_record",
+      "eligibility_reason": "type is not parla; veu is not originaria; epoca is not contemporania; apte_llengua is not true",
+      "rights_status": "missing_source",
+      "transcript_status": "not_marked_uncertain_but_not_verified",
+      "tags": [],
+      "conversation_status": "not_reviewed"
+    },
+    {
+      "path": "docs/parla/mediatic/parla-mediatica-d-andorra.md",
+      "type": "index",
+      "title": "Parla mediàtica d'Andorra",
+      "voice": "",
+      "era": "",
+      "apte_llengua": null,
+      "speaker": "",
+      "source_ids": [],
+      "source_details": [],
+      "metadata_eligible": false,
+      "eligibility_status": "not_a_speech_record",
+      "eligibility_reason": "type is not parla; veu is not originaria; epoca is not contemporania; apte_llengua is not true",
+      "rights_status": "missing_source",
+      "transcript_status": "not_marked_uncertain_but_not_verified",
+      "tags": [],
+      "conversation_status": "not_reviewed"
+    },
+    {
+      "path": "docs/parla/oral/cal-pal-esther-jover.md",
+      "type": "parla",
+      "title": "Alberg és un sinònim de casa",
+      "voice": "compilada",
+      "era": "contemporania",
+      "apte_llengua": false,
+      "speaker": "",
+      "source_ids": [
+        "ari-capsules"
+      ],
+      "source_details": [
+        {
+          "font_id": "ari-capsules",
+          "font_path": "docs/fonts/ari-capsules.md",
+          "license": "YouTube declara Creative Commons Attribution en vídeos individuals; verificació per peça, no per sèrie. Verificada a #34, #49, #56, #57, #60 i #65.",
+          "redistribution": "pendent",
+          "rights_status": "pending"
+        }
+      ],
+      "metadata_eligible": false,
+      "eligibility_status": "excluded_by_corpus_flags",
+      "eligibility_reason": "veu is not originaria; apte_llengua is not true",
+      "rights_status": "pending_or_restricted",
+      "transcript_status": "unverified",
+      "tags": [
+        "parla",
+        "cases",
+        "ordino",
+        "patrimoni",
+        "lexic-marcat",
+        "possiblement-llegida",
+        "transcripcio-no-verificada",
+        "perfil-del-parlant-pendent"
+      ],
+      "conversation_status": "not_reviewed"
+    },
+    {
+      "path": "docs/parla/oral/el-contrapas-teo-armengol.md",
+      "type": "parla",
+      "title": "El contrapàs",
+      "voice": "originaria",
+      "era": "contemporania",
+      "apte_llengua": true,
+      "speaker": "",
+      "source_ids": [
+        "ari-capsules"
+      ],
+      "source_details": [
+        {
+          "font_id": "ari-capsules",
+          "font_path": "docs/fonts/ari-capsules.md",
+          "license": "YouTube declara Creative Commons Attribution en vídeos individuals; verificació per peça, no per sèrie. Verificada a #34, #49, #56, #57, #60 i #65.",
+          "redistribution": "pendent",
+          "rights_status": "pending"
+        }
+      ],
+      "metadata_eligible": true,
+      "eligibility_status": "metadata_candidate",
+      "eligibility_reason": "",
+      "rights_status": "pending_or_restricted",
+      "transcript_status": "unverified",
+      "tags": [
+        "parla",
+        "danses",
+        "contrapas",
+        "vestit-tradicional",
+        "lexic-marcat",
+        "transcripcio-no-verificada"
+      ],
+      "conversation_status": "not_reviewed"
+    },
+    {
+      "path": "docs/parla/oral/els-hostals-comunals-lacueva.md",
+      "type": "parla",
+      "title": "Es regulaven per una taba",
+      "voice": "originaria",
+      "era": "contemporania",
+      "apte_llengua": true,
+      "speaker": "",
+      "source_ids": [
+        "ari-capsules"
+      ],
+      "source_details": [
+        {
+          "font_id": "ari-capsules",
+          "font_path": "docs/fonts/ari-capsules.md",
+          "license": "YouTube declara Creative Commons Attribution en vídeos individuals; verificació per peça, no per sèrie. Verificada a #34, #49, #56, #57, #60 i #65.",
+          "redistribution": "pendent",
+          "rights_status": "pending"
+        }
+      ],
+      "metadata_eligible": true,
+      "eligibility_status": "metadata_candidate",
+      "eligibility_reason": "",
+      "rights_status": "pending_or_restricted",
+      "transcript_status": "unverified",
+      "tags": [
+        "parla",
+        "hostals",
+        "oficis",
+        "institucions",
+        "lexic-marcat",
+        "possiblement-llegida",
+        "transcripcio-no-verificada"
+      ],
+      "conversation_status": "not_reviewed"
+    },
+    {
+      "path": "docs/parla/oral/els-molins-daigua.md",
+      "type": "parla",
+      "title": "Rodes verticals, rodes catalanes",
+      "voice": "originaria",
+      "era": "contemporania",
+      "apte_llengua": true,
+      "speaker": "",
+      "source_ids": [
+        "ari-capsules"
+      ],
+      "source_details": [
+        {
+          "font_id": "ari-capsules",
+          "font_path": "docs/fonts/ari-capsules.md",
+          "license": "YouTube declara Creative Commons Attribution en vídeos individuals; verificació per peça, no per sèrie. Verificada a #34, #49, #56, #57, #60 i #65.",
+          "redistribution": "pendent",
+          "rights_status": "pending"
+        }
+      ],
+      "metadata_eligible": true,
+      "eligibility_status": "metadata_candidate",
+      "eligibility_reason": "",
+      "rights_status": "pending_or_restricted",
+      "transcript_status": "unverified",
+      "tags": [
+        "parla",
+        "molins",
+        "oficis",
+        "aigua",
+        "tecnica",
+        "transcripcio-no-verificada"
+      ],
+      "conversation_status": "not_reviewed"
+    },
+    {
+      "path": "docs/parla/oral/els-noms-dels-carrers.md",
+      "type": "parla",
+      "title": "El carrerer nacional",
+      "voice": "originaria",
+      "era": "contemporania",
+      "apte_llengua": true,
+      "speaker": "",
+      "source_ids": [
+        "ari-capsules"
+      ],
+      "source_details": [
+        {
+          "font_id": "ari-capsules",
+          "font_path": "docs/fonts/ari-capsules.md",
+          "license": "YouTube declara Creative Commons Attribution en vídeos individuals; verificació per peça, no per sèrie. Verificada a #34, #49, #56, #57, #60 i #65.",
+          "redistribution": "pendent",
+          "rights_status": "pending"
+        }
+      ],
+      "metadata_eligible": true,
+      "eligibility_status": "metadata_candidate",
+      "eligibility_reason": "",
+      "rights_status": "pending_or_restricted",
+      "transcript_status": "unverified",
+      "tags": [
+        "parla",
+        "onomastica",
+        "carrers",
+        "lexic-marcat",
+        "transcripcio-no-verificada"
+      ],
+      "conversation_status": "not_reviewed"
+    },
+    {
+      "path": "docs/parla/oral/la-nissaga-dels-marti.md",
+      "type": "parla",
+      "title": "Una missaga que arriba als nostres dies",
+      "voice": "originaria",
+      "era": "contemporania",
+      "apte_llengua": true,
+      "speaker": "",
+      "source_ids": [
+        "ari-capsules"
+      ],
+      "source_details": [
+        {
+          "font_id": "ari-capsules",
+          "font_path": "docs/fonts/ari-capsules.md",
+          "license": "YouTube declara Creative Commons Attribution en vídeos individuals; verificació per peça, no per sèrie. Verificada a #34, #49, #56, #57, #60 i #65.",
+          "redistribution": "pendent",
+          "rights_status": "pending"
+        }
+      ],
+      "metadata_eligible": true,
+      "eligibility_status": "metadata_candidate",
+      "eligibility_reason": "",
+      "rights_status": "pending_or_restricted",
+      "transcript_status": "unverified",
+      "tags": [
+        "parla",
+        "families",
+        "medieval",
+        "encamp",
+        "lexic-marcat",
+        "transcripcio-no-verificada"
+      ],
+      "conversation_status": "not_reviewed"
+    },
+    {
+      "path": "docs/parla/oral/la-vida-a-pages.md",
+      "type": "parla",
+      "title": "La vida a pagès",
+      "voice": "originaria",
+      "era": "contemporania",
+      "apte_llengua": true,
+      "speaker": "",
+      "source_ids": [
+        "ari-capsules"
+      ],
+      "source_details": [
+        {
+          "font_id": "ari-capsules",
+          "font_path": "docs/fonts/ari-capsules.md",
+          "license": "YouTube declara Creative Commons Attribution en vídeos individuals; verificació per peça, no per sèrie. Verificada a #34, #49, #56, #57, #60 i #65.",
+          "redistribution": "pendent",
+          "rights_status": "pending"
+        }
+      ],
+      "metadata_eligible": true,
+      "eligibility_status": "metadata_candidate",
+      "eligibility_reason": "",
+      "rights_status": "pending_or_restricted",
+      "transcript_status": "unverified",
+      "tags": [
+        "parla",
+        "testimoni",
+        "pagesia",
+        "eines",
+        "lexic-marcat",
+        "canillo",
+        "transcripcio-no-verificada"
+      ],
+      "conversation_status": "not_reviewed"
+    },
+    {
+      "path": "docs/parla/oral/les-campanes-robert-lizarte.md",
+      "type": "parla",
+      "title": "També sóc campaner",
+      "voice": "originaria",
+      "era": "contemporania",
+      "apte_llengua": true,
+      "speaker": "",
+      "source_ids": [
+        "ari-capsules"
+      ],
+      "source_details": [
+        {
+          "font_id": "ari-capsules",
+          "font_path": "docs/fonts/ari-capsules.md",
+          "license": "YouTube declara Creative Commons Attribution en vídeos individuals; verificació per peça, no per sèrie. Verificada a #34, #49, #56, #57, #60 i #65.",
+          "redistribution": "pendent",
+          "rights_status": "pending"
+        }
+      ],
+      "metadata_eligible": true,
+      "eligibility_status": "metadata_candidate",
+      "eligibility_reason": "",
+      "rights_status": "pending_or_restricted",
+      "transcript_status": "unverified",
+      "tags": [
+        "parla",
+        "campanes",
+        "oficis",
+        "encamp",
+        "patrimoni",
+        "lexic-marcat",
+        "transcripcio-no-verificada"
+      ],
+      "conversation_status": "not_reviewed"
+    },
+    {
+      "path": "docs/parla/oral/les-falles-albert-roig.md",
+      "type": "parla",
+      "title": "L'arbre fallaire",
+      "voice": "originaria",
+      "era": "contemporania",
+      "apte_llengua": true,
+      "speaker": "",
+      "source_ids": [
+        "ari-capsules"
+      ],
+      "source_details": [
+        {
+          "font_id": "ari-capsules",
+          "font_path": "docs/fonts/ari-capsules.md",
+          "license": "YouTube declara Creative Commons Attribution en vídeos individuals; verificació per peça, no per sèrie. Verificada a #34, #49, #56, #57, #60 i #65.",
+          "redistribution": "pendent",
+          "rights_status": "pending"
+        }
+      ],
+      "metadata_eligible": true,
+      "eligibility_status": "metadata_candidate",
+      "eligibility_reason": "",
+      "rights_status": "pending_or_restricted",
+      "transcript_status": "unverified",
+      "tags": [
+        "parla",
+        "falles",
+        "sant-joan",
+        "patrimoni-immaterial",
+        "lexic-marcat",
+        "transcripcio-no-verificada"
+      ],
+      "conversation_status": "not_reviewed"
+    },
+    {
+      "path": "docs/parla/oral/les-moles-de-farina.md",
+      "type": "parla",
+      "title": "La mola de casa, deien tots",
+      "voice": "originaria",
+      "era": "contemporania",
+      "apte_llengua": true,
+      "speaker": "",
+      "source_ids": [
+        "ari-capsules"
+      ],
+      "source_details": [
+        {
+          "font_id": "ari-capsules",
+          "font_path": "docs/fonts/ari-capsules.md",
+          "license": "YouTube declara Creative Commons Attribution en vídeos individuals; verificació per peça, no per sèrie. Verificada a #34, #49, #56, #57, #60 i #65.",
+          "redistribution": "pendent",
+          "rights_status": "pending"
+        }
+      ],
+      "metadata_eligible": true,
+      "eligibility_status": "metadata_candidate",
+      "eligibility_reason": "",
+      "rights_status": "pending_or_restricted",
+      "transcript_status": "unverified",
+      "tags": [
+        "parla",
+        "molins",
+        "oficis",
+        "aigua",
+        "lexic-marcat",
+        "transcripcio-no-verificada"
+      ],
+      "conversation_status": "not_reviewed"
+    },
+    {
+      "path": "docs/parla/oral/oral-d-arxiu-d-andorra.md",
+      "type": "index",
+      "title": "Oral d'arxiu d'Andorra",
+      "voice": "",
+      "era": "",
+      "apte_llengua": null,
+      "speaker": "",
+      "source_ids": [],
+      "source_details": [],
+      "metadata_eligible": false,
+      "eligibility_status": "not_a_speech_record",
+      "eligibility_reason": "type is not parla; veu is not originaria; epoca is not contemporania; apte_llengua is not true",
+      "rights_status": "missing_source",
+      "transcript_status": "not_marked_uncertain_but_not_verified",
+      "tags": [],
+      "conversation_status": "not_reviewed"
+    },
+    {
+      "path": "docs/parla/oral/qui-eren-els-constituents.md",
+      "type": "parla",
+      "title": "Qui apareix a les llistes del Consell durant el procés constituent",
+      "voice": "compilada",
+      "era": "contemporania",
+      "apte_llengua": false,
+      "speaker": "",
+      "source_ids": [
+        "actes-historiques-consell-general"
+      ],
+      "source_details": [
+        {
+          "font_id": "actes-historiques-consell-general",
+          "font_path": "docs/fonts/actes-historiques-consell-general.md",
+          "license": "Publicacio institucional en obert, sense llicencia declarada als llibres d'actes. La sintesi de Guillamet (2024) SI que porta prohibicio expressa de reproduccio.",
+          "redistribution": "pendent",
+          "rights_status": "pending"
+        }
+      ],
+      "metadata_eligible": false,
+      "eligibility_status": "excluded_by_corpus_flags",
+      "eligibility_reason": "veu is not originaria; apte_llengua is not true",
+      "rights_status": "pending_or_restricted",
+      "transcript_status": "not_marked_uncertain_but_not_verified",
+      "tags": [
+        "parla",
+        "testimoni",
+        "historia-oral",
+        "constitucio-1993",
+        "consell-general",
+        "metadades"
+      ],
+      "conversation_status": "not_reviewed"
+    },
+    {
+      "path": "docs/parla/oral/testimoni-constituent-adellach.md",
+      "type": "parla",
+      "title": "Has donat la teua paraula",
+      "voice": "originaria",
+      "era": "contemporania",
+      "apte_llengua": true,
+      "speaker": "",
+      "source_ids": [
+        "consell-general-constituent"
+      ],
+      "source_details": [
+        {
+          "font_id": "consell-general-constituent",
+          "font_path": "docs/fonts/consell-general-constituent.md",
+          "license": "Llicència estàndard de YouTube. El Consell General no declara cap llicència oberta.",
+          "redistribution": "pendent",
+          "rights_status": "pending"
+        }
+      ],
+      "metadata_eligible": true,
+      "eligibility_status": "metadata_candidate",
+      "eligibility_reason": "",
+      "rights_status": "pending_or_restricted",
+      "transcript_status": "unverified",
+      "tags": [
+        "parla",
+        "testimoni",
+        "historia-oral",
+        "constitucio-1993",
+        "ordino",
+        "lexic-marcat",
+        "transcripcio-no-verificada"
+      ],
+      "conversation_status": "not_reviewed"
+    },
+    {
+      "path": "docs/parla/oral/testimoni-constituent-aleix.md",
+      "type": "parla",
+      "title": "Sempre hi ha sigut",
+      "voice": "originaria",
+      "era": "contemporania",
+      "apte_llengua": true,
+      "speaker": "",
+      "source_ids": [
+        "consell-general-constituent"
+      ],
+      "source_details": [
+        {
+          "font_id": "consell-general-constituent",
+          "font_path": "docs/fonts/consell-general-constituent.md",
+          "license": "Llicència estàndard de YouTube. El Consell General no declara cap llicència oberta.",
+          "redistribution": "pendent",
+          "rights_status": "pending"
+        }
+      ],
+      "metadata_eligible": true,
+      "eligibility_status": "metadata_candidate",
+      "eligibility_reason": "",
+      "rights_status": "pending_or_restricted",
+      "transcript_status": "unverified",
+      "tags": [
+        "parla",
+        "testimoni",
+        "historia-oral",
+        "constitucio-1993",
+        "escaldes-engordany",
+        "transcripcio-no-verificada"
+      ],
+      "conversation_status": "not_reviewed"
+    },
+    {
+      "path": "docs/parla/oral/testimoni-constituent-aleixareny.md",
+      "type": "parla",
+      "title": "Miquel Aleix Areny",
+      "voice": "originaria",
+      "era": "contemporania",
+      "apte_llengua": true,
+      "speaker": "",
+      "source_ids": [
+        "consell-general-constituent"
+      ],
+      "source_details": [
+        {
+          "font_id": "consell-general-constituent",
+          "font_path": "docs/fonts/consell-general-constituent.md",
+          "license": "Llicència estàndard de YouTube. El Consell General no declara cap llicència oberta.",
+          "redistribution": "pendent",
+          "rights_status": "pending"
+        }
+      ],
+      "metadata_eligible": true,
+      "eligibility_status": "metadata_candidate",
+      "eligibility_reason": "",
+      "rights_status": "pending_or_restricted",
+      "transcript_status": "unverified",
+      "tags": [
+        "parla",
+        "testimoni",
+        "historia-oral",
+        "constitucio-1993",
+        "escaldes-engordany",
+        "transcripcio-no-verificada"
+      ],
+      "conversation_status": "not_reviewed"
+    },
+    {
+      "path": "docs/parla/oral/testimoni-constituent-altimir.md",
+      "type": "parla",
+      "title": "Ens havíem quedat una mica endarrerits",
+      "voice": "originaria",
+      "era": "contemporania",
+      "apte_llengua": true,
+      "speaker": "",
+      "source_ids": [
+        "consell-general-constituent"
+      ],
+      "source_details": [
+        {
+          "font_id": "consell-general-constituent",
+          "font_path": "docs/fonts/consell-general-constituent.md",
+          "license": "Llicència estàndard de YouTube. El Consell General no declara cap llicència oberta.",
+          "redistribution": "pendent",
+          "rights_status": "pending"
+        }
+      ],
+      "metadata_eligible": true,
+      "eligibility_status": "metadata_candidate",
+      "eligibility_reason": "",
+      "rights_status": "pending_or_restricted",
+      "transcript_status": "unverified",
+      "tags": [
+        "parla",
+        "testimoni",
+        "historia-oral",
+        "constitucio-1993",
+        "sant-julia-de-loria",
+        "registre-formal",
+        "transcripcio-no-verificada"
+      ],
+      "conversation_status": "not_reviewed"
+    },
+    {
+      "path": "docs/parla/oral/testimoni-constituent-areny.md",
+      "type": "parla",
+      "title": "Pleits de quaranta-cinc anys",
+      "voice": "originaria",
+      "era": "contemporania",
+      "apte_llengua": true,
+      "speaker": "",
+      "source_ids": [
+        "consell-general-constituent"
+      ],
+      "source_details": [
+        {
+          "font_id": "consell-general-constituent",
+          "font_path": "docs/fonts/consell-general-constituent.md",
+          "license": "Llicència estàndard de YouTube. El Consell General no declara cap llicència oberta.",
+          "redistribution": "pendent",
+          "rights_status": "pending"
+        }
+      ],
+      "metadata_eligible": true,
+      "eligibility_status": "metadata_candidate",
+      "eligibility_reason": "",
+      "rights_status": "pending_or_restricted",
+      "transcript_status": "unverified",
+      "tags": [
+        "parla",
+        "testimoni",
+        "historia-oral",
+        "constitucio-1993",
+        "la-massana",
+        "lexic-marcat",
+        "transcripcio-no-verificada"
+      ],
+      "conversation_status": "not_reviewed"
+    },
+    {
+      "path": "docs/parla/oral/testimoni-constituent-arenyfite.md",
+      "type": "parla",
+      "title": "El poble ens va elegir per això",
+      "voice": "originaria",
+      "era": "contemporania",
+      "apte_llengua": true,
+      "speaker": "",
+      "source_ids": [
+        "consell-general-constituent"
+      ],
+      "source_details": [
+        {
+          "font_id": "consell-general-constituent",
+          "font_path": "docs/fonts/consell-general-constituent.md",
+          "license": "Llicència estàndard de YouTube. El Consell General no declara cap llicència oberta.",
+          "redistribution": "pendent",
+          "rights_status": "pending"
+        }
+      ],
+      "metadata_eligible": true,
+      "eligibility_status": "metadata_candidate",
+      "eligibility_reason": "",
+      "rights_status": "pending_or_restricted",
+      "transcript_status": "unverified",
+      "tags": [
+        "parla",
+        "testimoni",
+        "historia-oral",
+        "constitucio-1993",
+        "canillo",
+        "transcripcio-no-verificada"
+      ],
+      "conversation_status": "not_reviewed"
+    },
+    {
+      "path": "docs/parla/oral/testimoni-constituent-armengol.md",
+      "type": "parla",
+      "title": "Aquí ens hi estàvem jugant molt",
+      "voice": "originaria",
+      "era": "contemporania",
+      "apte_llengua": true,
+      "speaker": "",
+      "source_ids": [
+        "consell-general-constituent"
+      ],
+      "source_details": [
+        {
+          "font_id": "consell-general-constituent",
+          "font_path": "docs/fonts/consell-general-constituent.md",
+          "license": "Llicència estàndard de YouTube. El Consell General no declara cap llicència oberta.",
+          "redistribution": "pendent",
+          "rights_status": "pending"
+        }
+      ],
+      "metadata_eligible": true,
+      "eligibility_status": "metadata_candidate",
+      "eligibility_reason": "",
+      "rights_status": "pending_or_restricted",
+      "transcript_status": "unverified",
+      "tags": [
+        "parla",
+        "testimoni",
+        "historia-oral",
+        "constitucio-1993",
+        "andorra-la-vella",
+        "transcripcio-no-verificada"
+      ],
+      "conversation_status": "not_reviewed"
+    },
+    {
+      "path": "docs/parla/oral/testimoni-constituent-armengolvila.md",
+      "type": "parla",
+      "title": "Antoni Armengol Vila",
+      "voice": "originaria",
+      "era": "contemporania",
+      "apte_llengua": true,
+      "speaker": "",
+      "source_ids": [
+        "consell-general-constituent"
+      ],
+      "source_details": [
+        {
+          "font_id": "consell-general-constituent",
+          "font_path": "docs/fonts/consell-general-constituent.md",
+          "license": "Llicència estàndard de YouTube. El Consell General no declara cap llicència oberta.",
+          "redistribution": "pendent",
+          "rights_status": "pending"
+        }
+      ],
+      "metadata_eligible": true,
+      "eligibility_status": "metadata_candidate",
+      "eligibility_reason": "",
+      "rights_status": "pending_or_restricted",
+      "transcript_status": "unverified",
+      "tags": [
+        "parla",
+        "testimoni",
+        "historia-oral",
+        "constitucio-1993",
+        "andorra-la-vella",
+        "transcripcio-no-verificada"
+      ],
+      "conversation_status": "not_reviewed"
+    },
+    {
+      "path": "docs/parla/oral/testimoni-constituent-baro.md",
+      "type": "parla",
+      "title": "Una complicitat crítica",
+      "voice": "originaria",
+      "era": "contemporania",
+      "apte_llengua": true,
+      "speaker": "",
+      "source_ids": [
+        "consell-general-constituent"
+      ],
+      "source_details": [
+        {
+          "font_id": "consell-general-constituent",
+          "font_path": "docs/fonts/consell-general-constituent.md",
+          "license": "Llicència estàndard de YouTube. El Consell General no declara cap llicència oberta.",
+          "redistribution": "pendent",
+          "rights_status": "pending"
+        }
+      ],
+      "metadata_eligible": true,
+      "eligibility_status": "metadata_candidate",
+      "eligibility_reason": "",
+      "rights_status": "pending_or_restricted",
+      "transcript_status": "uncertain_and_unverified",
+      "tags": [
+        "parla",
+        "testimoni",
+        "historia-oral",
+        "constitucio-1993",
+        "sant-julia-de-loria",
+        "transcripcio-incerta",
+        "transcripcio-no-verificada"
+      ],
+      "conversation_status": "not_reviewed"
+    },
+    {
+      "path": "docs/parla/oral/testimoni-constituent-bartumeu.md",
+      "type": "parla",
+      "title": "Aquí no teníem veritablement un Parlament",
+      "voice": "originaria",
+      "era": "contemporania",
+      "apte_llengua": true,
+      "speaker": "",
+      "source_ids": [
+        "consell-general-constituent"
+      ],
+      "source_details": [
+        {
+          "font_id": "consell-general-constituent",
+          "font_path": "docs/fonts/consell-general-constituent.md",
+          "license": "Llicència estàndard de YouTube. El Consell General no declara cap llicència oberta.",
+          "redistribution": "pendent",
+          "rights_status": "pending"
+        }
+      ],
+      "metadata_eligible": true,
+      "eligibility_status": "metadata_candidate",
+      "eligibility_reason": "",
+      "rights_status": "pending_or_restricted",
+      "transcript_status": "unverified",
+      "tags": [
+        "parla",
+        "testimoni",
+        "historia-oral",
+        "constitucio-1993",
+        "andorra-la-vella",
+        "transcripcio-no-verificada"
+      ],
+      "conversation_status": "not_reviewed"
+    },
+    {
+      "path": "docs/parla/oral/testimoni-constituent-canut.md",
+      "type": "parla",
+      "title": "Ramon Canut Bové",
+      "voice": "originaria",
+      "era": "contemporania",
+      "apte_llengua": true,
+      "speaker": "",
+      "source_ids": [
+        "consell-general-constituent"
+      ],
+      "source_details": [
+        {
+          "font_id": "consell-general-constituent",
+          "font_path": "docs/fonts/consell-general-constituent.md",
+          "license": "Llicència estàndard de YouTube. El Consell General no declara cap llicència oberta.",
+          "redistribution": "pendent",
+          "rights_status": "pending"
+        }
+      ],
+      "metadata_eligible": true,
+      "eligibility_status": "metadata_candidate",
+      "eligibility_reason": "",
+      "rights_status": "pending_or_restricted",
+      "transcript_status": "unverified",
+      "tags": [
+        "parla",
+        "testimoni",
+        "historia-oral",
+        "constitucio-1993",
+        "escaldes-engordany",
+        "transcripcio-no-verificada"
+      ],
+      "conversation_status": "not_reviewed"
+    },
+    {
+      "path": "docs/parla/oral/testimoni-constituent-casadevall.md",
+      "type": "parla",
+      "title": "Membre de la Comissió Especial",
+      "voice": "originaria",
+      "era": "contemporania",
+      "apte_llengua": true,
+      "speaker": "",
+      "source_ids": [
+        "consell-general-constituent"
+      ],
+      "source_details": [
+        {
+          "font_id": "consell-general-constituent",
+          "font_path": "docs/fonts/consell-general-constituent.md",
+          "license": "Llicència estàndard de YouTube. El Consell General no declara cap llicència oberta.",
+          "redistribution": "pendent",
+          "rights_status": "pending"
+        }
+      ],
+      "metadata_eligible": true,
+      "eligibility_status": "metadata_candidate",
+      "eligibility_reason": "",
+      "rights_status": "pending_or_restricted",
+      "transcript_status": "unverified",
+      "tags": [
+        "parla",
+        "testimoni",
+        "historia-oral",
+        "constitucio-1993",
+        "canillo",
+        "transcripcio-no-verificada"
+      ],
+      "conversation_status": "not_reviewed"
+    },
+    {
+      "path": "docs/parla/oral/testimoni-constituent-cassanyvila.md",
+      "type": "parla",
+      "title": "Sant Marino era Itàlia, de fet",
+      "voice": "originaria",
+      "era": "contemporania",
+      "apte_llengua": true,
+      "speaker": "",
+      "source_ids": [
+        "consell-general-constituent"
+      ],
+      "source_details": [
+        {
+          "font_id": "consell-general-constituent",
+          "font_path": "docs/fonts/consell-general-constituent.md",
+          "license": "Llicència estàndard de YouTube. El Consell General no declara cap llicència oberta.",
+          "redistribution": "pendent",
+          "rights_status": "pending"
+        }
+      ],
+      "metadata_eligible": true,
+      "eligibility_status": "metadata_candidate",
+      "eligibility_reason": "",
+      "rights_status": "pending_or_restricted",
+      "transcript_status": "uncertain_and_unverified",
+      "tags": [
+        "parla",
+        "testimoni",
+        "historia-oral",
+        "constitucio-1993",
+        "andorra-la-vella",
+        "transcripcio-incerta",
+        "transcripcio-no-verificada"
+      ],
+      "conversation_status": "not_reviewed"
+    },
+    {
+      "path": "docs/parla/oral/testimoni-constituent-dalleres.md",
+      "type": "parla",
+      "title": "Que no arribéssim a bloquejar-nos tots plegats",
+      "voice": "originaria",
+      "era": "contemporania",
+      "apte_llengua": true,
+      "speaker": "",
+      "source_ids": [
+        "consell-general-constituent"
+      ],
+      "source_details": [
+        {
+          "font_id": "consell-general-constituent",
+          "font_path": "docs/fonts/consell-general-constituent.md",
+          "license": "Llicència estàndard de YouTube. El Consell General no declara cap llicència oberta.",
+          "redistribution": "pendent",
+          "rights_status": "pending"
+        }
+      ],
+      "metadata_eligible": true,
+      "eligibility_status": "metadata_candidate",
+      "eligibility_reason": "",
+      "rights_status": "pending_or_restricted",
+      "transcript_status": "uncertain_and_unverified",
+      "tags": [
+        "parla",
+        "testimoni",
+        "historia-oral",
+        "constitucio-1993",
+        "encamp",
+        "transcripcio-incerta",
+        "transcripcio-no-verificada"
+      ],
+      "conversation_status": "not_reviewed"
+    },
+    {
+      "path": "docs/parla/oral/testimoni-constituent-dolsa.md",
+      "type": "parla",
+      "title": "Ja havien començat a treballar-ho",
+      "voice": "originaria",
+      "era": "contemporania",
+      "apte_llengua": true,
+      "speaker": "",
+      "source_ids": [
+        "consell-general-constituent"
+      ],
+      "source_details": [
+        {
+          "font_id": "consell-general-constituent",
+          "font_path": "docs/fonts/consell-general-constituent.md",
+          "license": "Llicència estàndard de YouTube. El Consell General no declara cap llicència oberta.",
+          "redistribution": "pendent",
+          "rights_status": "pending"
+        }
+      ],
+      "metadata_eligible": true,
+      "eligibility_status": "metadata_candidate",
+      "eligibility_reason": "",
+      "rights_status": "pending_or_restricted",
+      "transcript_status": "unverified",
+      "tags": [
+        "parla",
+        "testimoni",
+        "historia-oral",
+        "constitucio-1993",
+        "ordino",
+        "transcripcio-no-verificada"
+      ],
+      "conversation_status": "not_reviewed"
+    },
+    {
+      "path": "docs/parla/oral/testimoni-constituent-farras.md",
+      "type": "parla",
+      "title": "El recurs amb queixa",
+      "voice": "originaria",
+      "era": "contemporania",
+      "apte_llengua": true,
+      "speaker": "",
+      "source_ids": [
+        "consell-general-constituent"
+      ],
+      "source_details": [
+        {
+          "font_id": "consell-general-constituent",
+          "font_path": "docs/fonts/consell-general-constituent.md",
+          "license": "Llicència estàndard de YouTube. El Consell General no declara cap llicència oberta.",
+          "redistribution": "pendent",
+          "rights_status": "pending"
+        }
+      ],
+      "metadata_eligible": true,
+      "eligibility_status": "metadata_candidate",
+      "eligibility_reason": "",
+      "rights_status": "pending_or_restricted",
+      "transcript_status": "uncertain_and_unverified",
+      "tags": [
+        "parla",
+        "testimoni",
+        "historia-oral",
+        "constitucio-1993",
+        "sense-parroquia-declarada",
+        "transcripcio-incerta",
+        "transcripcio-no-verificada"
+      ],
+      "conversation_status": "not_reviewed"
+    },
+    {
+      "path": "docs/parla/oral/testimoni-constituent-garralla.md",
+      "type": "parla",
+      "title": "El poble que va vindre aquí",
+      "voice": "originaria",
+      "era": "contemporania",
+      "apte_llengua": true,
+      "speaker": "",
+      "source_ids": [
+        "consell-general-constituent"
+      ],
+      "source_details": [
+        {
+          "font_id": "consell-general-constituent",
+          "font_path": "docs/fonts/consell-general-constituent.md",
+          "license": "Llicència estàndard de YouTube. El Consell General no declara cap llicència oberta.",
+          "redistribution": "pendent",
+          "rights_status": "pending"
+        }
+      ],
+      "metadata_eligible": true,
+      "eligibility_status": "metadata_candidate",
+      "eligibility_reason": "",
+      "rights_status": "pending_or_restricted",
+      "transcript_status": "uncertain_and_unverified",
+      "tags": [
+        "parla",
+        "testimoni",
+        "historia-oral",
+        "constitucio-1993",
+        "la-massana",
+        "transcripcio-incerta",
+        "transcripcio-no-verificada"
+      ],
+      "conversation_status": "not_reviewed"
+    },
+    {
+      "path": "docs/parla/oral/testimoni-constituent-gaspa.md",
+      "type": "parla",
+      "title": "I tots que no, i que no, i que no",
+      "voice": "originaria",
+      "era": "contemporania",
+      "apte_llengua": true,
+      "speaker": "",
+      "source_ids": [
+        "consell-general-constituent"
+      ],
+      "source_details": [
+        {
+          "font_id": "consell-general-constituent",
+          "font_path": "docs/fonts/consell-general-constituent.md",
+          "license": "Llicència estàndard de YouTube. El Consell General no declara cap llicència oberta.",
+          "redistribution": "pendent",
+          "rights_status": "pending"
+        }
+      ],
+      "metadata_eligible": true,
+      "eligibility_status": "metadata_candidate",
+      "eligibility_reason": "",
+      "rights_status": "pending_or_restricted",
+      "transcript_status": "uncertain_and_unverified",
+      "tags": [
+        "parla",
+        "testimoni",
+        "historia-oral",
+        "constitucio-1993",
+        "ordino",
+        "transcripcio-incerta",
+        "transcripcio-no-verificada"
+      ],
+      "conversation_status": "not_reviewed"
+    },
+    {
+      "path": "docs/parla/oral/testimoni-constituent-gelabert.md",
+      "type": "parla",
+      "title": "Històricament havíem sigut contràries",
+      "voice": "originaria",
+      "era": "contemporania",
+      "apte_llengua": true,
+      "speaker": "",
+      "source_ids": [
+        "consell-general-constituent"
+      ],
+      "source_details": [
+        {
+          "font_id": "consell-general-constituent",
+          "font_path": "docs/fonts/consell-general-constituent.md",
+          "license": "Llicència estàndard de YouTube. El Consell General no declara cap llicència oberta.",
+          "redistribution": "pendent",
+          "rights_status": "pending"
+        }
+      ],
+      "metadata_eligible": true,
+      "eligibility_status": "metadata_candidate",
+      "eligibility_reason": "",
+      "rights_status": "pending_or_restricted",
+      "transcript_status": "unverified",
+      "tags": [
+        "parla",
+        "testimoni",
+        "historia-oral",
+        "constitucio-1993",
+        "la-massana",
+        "transcripcio-no-verificada"
+      ],
+      "conversation_status": "not_reviewed"
+    },
+    {
+      "path": "docs/parla/oral/testimoni-constituent-jordiareny.md",
+      "type": "parla",
+      "title": "Els balles i els veguers tenien una força enorme",
+      "voice": "originaria",
+      "era": "contemporania",
+      "apte_llengua": true,
+      "speaker": "",
+      "source_ids": [
+        "consell-general-constituent"
+      ],
+      "source_details": [
+        {
+          "font_id": "consell-general-constituent",
+          "font_path": "docs/fonts/consell-general-constituent.md",
+          "license": "Llicència estàndard de YouTube. El Consell General no declara cap llicència oberta.",
+          "redistribution": "pendent",
+          "rights_status": "pending"
+        }
+      ],
+      "metadata_eligible": true,
+      "eligibility_status": "metadata_candidate",
+      "eligibility_reason": "",
+      "rights_status": "pending_or_restricted",
+      "transcript_status": "unverified",
+      "tags": [
+        "parla",
+        "testimoni",
+        "historia-oral",
+        "constitucio-1993",
+        "escaldes-engordany",
+        "transcripcio-no-verificada"
+      ],
+      "conversation_status": "not_reviewed"
+    },
+    {
+      "path": "docs/parla/oral/testimoni-constituent-mandico.md",
+      "type": "parla",
+      "title": "Un declic a Casa de la Vall",
+      "voice": "originaria",
+      "era": "contemporania",
+      "apte_llengua": true,
+      "speaker": "",
+      "source_ids": [
+        "consell-general-constituent"
+      ],
+      "source_details": [
+        {
+          "font_id": "consell-general-constituent",
+          "font_path": "docs/fonts/consell-general-constituent.md",
+          "license": "Llicència estàndard de YouTube. El Consell General no declara cap llicència oberta.",
+          "redistribution": "pendent",
+          "rights_status": "pending"
+        }
+      ],
+      "metadata_eligible": true,
+      "eligibility_status": "metadata_candidate",
+      "eligibility_reason": "",
+      "rights_status": "pending_or_restricted",
+      "transcript_status": "unverified",
+      "tags": [
+        "parla",
+        "testimoni",
+        "historia-oral",
+        "constitucio-1993",
+        "canillo",
+        "marcadors-discursius",
+        "transcripcio-no-verificada"
+      ],
+      "conversation_status": "not_reviewed"
+    },
+    {
+      "path": "docs/parla/oral/testimoni-constituent-marsal.md",
+      "type": "parla",
+      "title": "L'ancien régime",
+      "voice": "originaria",
+      "era": "contemporania",
+      "apte_llengua": true,
+      "speaker": "",
+      "source_ids": [
+        "consell-general-constituent"
+      ],
+      "source_details": [
+        {
+          "font_id": "consell-general-constituent",
+          "font_path": "docs/fonts/consell-general-constituent.md",
+          "license": "Llicència estàndard de YouTube. El Consell General no declara cap llicència oberta.",
+          "redistribution": "pendent",
+          "rights_status": "pending"
+        }
+      ],
+      "metadata_eligible": true,
+      "eligibility_status": "metadata_candidate",
+      "eligibility_reason": "",
+      "rights_status": "pending_or_restricted",
+      "transcript_status": "uncertain_and_unverified",
+      "tags": [
+        "parla",
+        "testimoni",
+        "historia-oral",
+        "constitucio-1993",
+        "sense-parroquia-declarada",
+        "transcripcio-incerta",
+        "transcripcio-no-verificada"
+      ],
+      "conversation_status": "not_reviewed"
+    },
+    {
+      "path": "docs/parla/oral/testimoni-constituent-mastorres.md",
+      "type": "parla",
+      "title": "Vam celebrar el senyor Gelabert",
+      "voice": "originaria",
+      "era": "contemporania",
+      "apte_llengua": true,
+      "speaker": "",
+      "source_ids": [
+        "consell-general-constituent"
+      ],
+      "source_details": [
+        {
+          "font_id": "consell-general-constituent",
+          "font_path": "docs/fonts/consell-general-constituent.md",
+          "license": "Llicència estàndard de YouTube. El Consell General no declara cap llicència oberta.",
+          "redistribution": "pendent",
+          "rights_status": "pending"
+        }
+      ],
+      "metadata_eligible": true,
+      "eligibility_status": "metadata_candidate",
+      "eligibility_reason": "",
+      "rights_status": "pending_or_restricted",
+      "transcript_status": "unverified",
+      "tags": [
+        "parla",
+        "testimoni",
+        "historia-oral",
+        "constitucio-1993",
+        "encamp",
+        "transcripcio-no-verificada"
+      ],
+      "conversation_status": "not_reviewed"
+    },
+    {
+      "path": "docs/parla/oral/testimoni-constituent-naudi.md",
+      "type": "parla",
+      "title": "Ets un conseller, no ets el Miquel Naudí",
+      "voice": "originaria",
+      "era": "contemporania",
+      "apte_llengua": true,
+      "speaker": "",
+      "source_ids": [
+        "consell-general-constituent"
+      ],
+      "source_details": [
+        {
+          "font_id": "consell-general-constituent",
+          "font_path": "docs/fonts/consell-general-constituent.md",
+          "license": "Llicència estàndard de YouTube. El Consell General no declara cap llicència oberta.",
+          "redistribution": "pendent",
+          "rights_status": "pending"
+        }
+      ],
+      "metadata_eligible": true,
+      "eligibility_status": "metadata_candidate",
+      "eligibility_reason": "",
+      "rights_status": "pending_or_restricted",
+      "transcript_status": "uncertain_and_unverified",
+      "tags": [
+        "parla",
+        "testimoni",
+        "historia-oral",
+        "constitucio-1993",
+        "canillo",
+        "transcripcio-incerta",
+        "transcripcio-no-verificada"
+      ],
+      "conversation_status": "not_reviewed"
+    },
+    {
+      "path": "docs/parla/oral/testimoni-constituent-reig.md",
+      "type": "parla",
+      "title": "La cèlebre llei de les padrines",
+      "voice": "originaria",
+      "era": "contemporania",
+      "apte_llengua": true,
+      "speaker": "",
+      "source_ids": [
+        "consell-general-constituent"
+      ],
+      "source_details": [
+        {
+          "font_id": "consell-general-constituent",
+          "font_path": "docs/fonts/consell-general-constituent.md",
+          "license": "Llicència estàndard de YouTube. El Consell General no declara cap llicència oberta.",
+          "redistribution": "pendent",
+          "rights_status": "pending"
+        }
+      ],
+      "metadata_eligible": true,
+      "eligibility_status": "metadata_candidate",
+      "eligibility_reason": "",
+      "rights_status": "pending_or_restricted",
+      "transcript_status": "unverified",
+      "tags": [
+        "parla",
+        "testimoni",
+        "historia-oral",
+        "constitucio-1993",
+        "encamp",
+        "marcadors-discursius",
+        "transcripcio-no-verificada"
+      ],
+      "conversation_status": "not_reviewed"
+    },
+    {
+      "path": "docs/parla/oral/testimoni-constituent-santamaria.md",
+      "type": "parla",
+      "title": "La Comissió Permanent",
+      "voice": "originaria",
+      "era": "contemporania",
+      "apte_llengua": true,
+      "speaker": "",
+      "source_ids": [
+        "consell-general-constituent"
+      ],
+      "source_details": [
+        {
+          "font_id": "consell-general-constituent",
+          "font_path": "docs/fonts/consell-general-constituent.md",
+          "license": "Llicència estàndard de YouTube. El Consell General no declara cap llicència oberta.",
+          "redistribution": "pendent",
+          "rights_status": "pending"
+        }
+      ],
+      "metadata_eligible": true,
+      "eligibility_status": "metadata_candidate",
+      "eligibility_reason": "",
+      "rights_status": "pending_or_restricted",
+      "transcript_status": "unverified",
+      "tags": [
+        "parla",
+        "testimoni",
+        "historia-oral",
+        "constitucio-1993",
+        "sant-julia-de-loria",
+        "transcripcio-no-verificada"
+      ],
+      "conversation_status": "not_reviewed"
+    },
+    {
+      "path": "docs/parla/oral/testimoni-constituent-torresalis.md",
+      "type": "parla",
+      "title": "Vaig a defensar el que realment penso",
+      "voice": "originaria",
+      "era": "contemporania",
+      "apte_llengua": true,
+      "speaker": "",
+      "source_ids": [
+        "consell-general-constituent"
+      ],
+      "source_details": [
+        {
+          "font_id": "consell-general-constituent",
+          "font_path": "docs/fonts/consell-general-constituent.md",
+          "license": "Llicència estàndard de YouTube. El Consell General no declara cap llicència oberta.",
+          "redistribution": "pendent",
+          "rights_status": "pending"
+        }
+      ],
+      "metadata_eligible": true,
+      "eligibility_status": "metadata_candidate",
+      "eligibility_reason": "",
+      "rights_status": "pending_or_restricted",
+      "transcript_status": "unverified",
+      "tags": [
+        "parla",
+        "testimoni",
+        "historia-oral",
+        "constitucio-1993",
+        "encamp",
+        "transcripcio-no-verificada"
+      ],
+      "conversation_status": "not_reviewed"
+    },
+    {
+      "path": "docs/parla/oral/toponimia-preromana-xavier-planas.md",
+      "type": "parla",
+      "title": "Una xerrada de topònims que la màquina no sap escriure",
+      "voice": "originaria",
+      "era": "contemporania",
+      "apte_llengua": true,
+      "speaker": "",
+      "source_ids": [
+        "ari-capsules"
+      ],
+      "source_details": [
+        {
+          "font_id": "ari-capsules",
+          "font_path": "docs/fonts/ari-capsules.md",
+          "license": "YouTube declara Creative Commons Attribution en vídeos individuals; verificació per peça, no per sèrie. Verificada a #34, #49, #56, #57, #60 i #65.",
+          "redistribution": "pendent",
+          "rights_status": "pending"
+        }
+      ],
+      "metadata_eligible": true,
+      "eligibility_status": "metadata_candidate",
+      "eligibility_reason": "",
+      "rights_status": "pending_or_restricted",
+      "transcript_status": "unverified",
+      "tags": [
+        "parla",
+        "toponimia",
+        "llengua",
+        "transcripcio-no-verificada",
+        "contingut-no-citable"
+      ],
+      "conversation_status": "not_reviewed"
+    },
+    {
+      "path": "docs/parla/oral/un-raco-descaldes.md",
+      "type": "parla",
+      "title": "Un racó d'Escaldes-Engordany",
+      "voice": "originaria",
+      "era": "contemporania",
+      "apte_llengua": true,
+      "speaker": "",
+      "source_ids": [
+        "ari-capsules"
+      ],
+      "source_details": [
+        {
+          "font_id": "ari-capsules",
+          "font_path": "docs/fonts/ari-capsules.md",
+          "license": "YouTube declara Creative Commons Attribution en vídeos individuals; verificació per peça, no per sèrie. Verificada a #34, #49, #56, #57, #60 i #65.",
+          "redistribution": "pendent",
+          "rights_status": "pending"
+        }
+      ],
+      "metadata_eligible": true,
+      "eligibility_status": "metadata_candidate",
+      "eligibility_reason": "",
+      "rights_status": "pending_or_restricted",
+      "transcript_status": "unverified",
+      "tags": [
+        "parla",
+        "escaldes-engordany",
+        "patrimoni",
+        "festa-major",
+        "lexic-marcat",
+        "possiblement-llegida",
+        "transcripcio-no-verificada"
+      ],
+      "conversation_status": "not_reviewed"
+    },
+    {
+      "path": "docs/parla/parla-andorrana-index-del-corpus-oral-i-audiovisual.md",
+      "type": "index",
+      "title": "Parla andorrana — índex del corpus oral i audiovisual",
+      "voice": "",
+      "era": "",
+      "apte_llengua": null,
+      "speaker": "",
+      "source_ids": [],
+      "source_details": [],
+      "metadata_eligible": false,
+      "eligibility_status": "not_a_speech_record",
+      "eligibility_reason": "type is not parla; veu is not originaria; epoca is not contemporania; apte_llengua is not true",
+      "rights_status": "missing_source",
+      "transcript_status": "not_marked_uncertain_but_not_verified",
+      "tags": [],
+      "conversation_status": "not_reviewed"
+    }
+  ]
+}

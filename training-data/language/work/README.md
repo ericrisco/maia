@@ -1,3 +1,3 @@
 # Treball de Language
 
-Aquí aniran l'inventari d'elegibilitat, l'estat de transcripció i els grups de peça/parlant. Encara no hi ha registres carregats.
+`eligibility-inventory.json` registra totes les peces de `docs/parla/`, els filtres del corpus, la font, els drets coneguts i l'estat de transcripció. `reports/eligibility-summary.md` en resumeix els pendents.
