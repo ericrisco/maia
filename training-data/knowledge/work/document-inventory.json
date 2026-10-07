@@ -9,7 +9,7 @@
   "file_count": 1477,
   "article_count": 1348,
   "parse_error_count": 0,
-  "conversation_count": 87,
+  "conversation_count": 88,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 0,
@@ -224,7 +224,7 @@
       "topic": "temes/costums/danses",
       "source": "viquipedia-ca",
       "status": "in_progress",
-      "conversation_count": 10,
+      "conversation_count": 11,
       "conversation_ids": [
         "marratxa-barrets-cintes-simbolisme-001",
         "marratxa-data-tradicio-i-pareatge-001",
@@ -235,6 +235,7 @@
         "marratxa-recipient-i-nom-001",
         "marratxa-significat-pareatges-001",
         "marratxa-simbolisme-parroquies-001",
+        "marratxa-versions-catalunya-origen-001",
         "marratxa-vestuari-noies-buit-001"
       ],
       "reviewed_units": [
@@ -247,7 +248,8 @@
         "Vestuari i simbolisme: els dos dansaires que representen els coprínceps duen barrets de copa alta amb cintes dels colors de la bandera. No s'atribueix un significat separat a les cintes ni una relació amb les parròquies.",
         "Relació amb la Passa i el ball del Cerdà: els tres actes s'associen al dilluns de la festa major; no hi ha ordre ni hora exacta documentats per a la Marratxa.",
         "Significat segons la tradició: la primera ballada hauria celebrat la fi d'un episodi difícil entre senyors feudals i la dansa simbolitza la gènesi del Coprincipat; no es tracta com a fet històric verificat.",
-        "Buit de vestuari: les fonts descriuen els barrets dels dos dansaires, però no les peces que duen les tres noies ni el seu vestuari complet; l'Esbart Laurèdia és una font potencial no consultada."
+        "Buit de vestuari: les fonts descriuen els barrets dels dos dansaires, però no les peces que duen les tres noies ni el seu vestuari complet; l'Esbart Laurèdia és una font potencial no consultada.",
+        "Versions catalanes: la font esmenta diverses versions a Catalunya i n'atribueix origen àrab, però no traça la relació amb la versió de Sant Julià."
       ],
       "open_units": [
         "Verificar amb font primària les dates de la primera ballada i del Pareatge; la discrepància secundària continua oberta.",
