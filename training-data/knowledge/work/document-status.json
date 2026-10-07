@@ -198,6 +198,7 @@
       "unit_count": 59,
       "covered_unit_ids": [
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0001",
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0002",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0004",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0005",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0006",
@@ -222,7 +223,7 @@
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0044"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 36,
+      "open_unit_count": 35,
       "conversation_ids": [
         "festa-ossa-farsa-i-personatges-001",
         "festes-ossa-calendari-hibernacio-001",
@@ -230,6 +231,7 @@
         "festes-ossa-emigracio-i-decandiment-001",
         "festes-ossa-que-perviuen-calendari-001",
         "festes-ossa-referencia-mes-antiga-001",
+        "nom-colloquial-lossa-pirineus-001",
         "ossa-encamp-pervivencia-i-ordino-buit-001",
         "ultima-ossa-cronologia-discrepant-001",
         "ultima-ossa-final-i-sang-001",
