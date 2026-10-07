@@ -22,7 +22,7 @@ La cobertura és per document citat i és només un límit inferior: una cita no
 | `economia` | 95 | 0 | 95 |
 | `esports` | 272 | 0 | 272 |
 | `gastronomia` | 15 | 2 | 13 |
-| `historia` | 226 | 1 | 225 |
+| `historia` | 226 | 2 | 224 |
 | `institucions` | 338 | 0 | 338 |
 | `llengua` | 43 | 0 | 43 |
 | `persones` | 43 | 0 | 43 |
@@ -90,7 +90,7 @@ Aquest índex més fi permet avançar branca per branca. `Amb conversa` segueix 
 | `temes/historia/constitucio-1993` | 2 | 0 | 2 | 2 | 0 | 0 | 0 |
 | `temes/historia/contraban` | 2 | 0 | 2 | 1 | 1 | 0 | 0 |
 | `temes/historia/democratitzacio` | 3 | 0 | 3 | 2 | 1 | 0 | 0 |
-| `temes/historia/edat-mitjana` | 42 | 0 | 42 | 18 | 22 | 2 | 0 |
+| `temes/historia/edat-mitjana` | 42 | 1 | 41 | 18 | 22 | 2 | 0 |
 | `temes/historia/guerres-i-neutralitat` | 22 | 0 | 22 | 3 | 18 | 1 | 0 |
 | `temes/historia/historia-recent` | 7 | 0 | 7 | 6 | 1 | 0 | 0 |
 | `temes/historia/historiografia` | 11 | 0 | 11 | 4 | 6 | 1 | 0 |
@@ -176,7 +176,7 @@ Aquesta tria només mira el camp `font` de la capçalera i la seva fitxa a `docs
 | `pending` | 604 |
 | `missing` | 1 |
 
-**Total:** 1348 fitxes article; **15** tenen almenys una conversa citada i **1333** encara no en tenen.
+**Total:** 1348 fitxes article; **16** tenen almenys una conversa citada i **1332** encara no en tenen.
 
 ## Límits
 
