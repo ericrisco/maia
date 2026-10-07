@@ -15701,8 +15701,9 @@
       "topic": "temes/institucions/relacions-exteriors",
       "source": "eur-lex-adequacio-dades-andorra-2010",
       "status": "in_progress",
-      "conversation_count": 16,
+      "conversation_count": 17,
       "conversation_ids": [
+        "adequacio-2010-abast-article2-16",
         "adequacio-2010-aplicacio-i-supervisio-15",
         "adequacio-2010-base-legal-agencia-02",
         "adequacio-2010-criteris-avaluacio-i-no-discriminacio-13",
@@ -15737,7 +15738,8 @@
         "considerant 10: principis de protecció, excepcions per interessos públics, recursos administratius i judicials i poders independents de l'APDA",
         "considerants 3 i 4: valoració de totes les circumstàncies de les transferències i límit a la discriminació arbitrària o a les barreres comercials encobertes",
         "considerant 8: disposicions de protecció de dades en normativa financera, sanitària i de registres públics; la decisió no n'enumera les lleis",
-        "articles 5–7 de la Decisió 2010/625/UE: seguiment de la Comissió, compliment pels estats membres abans de 2011 i destinataris de l'acte"
+        "articles 5–7 de la Decisió 2010/625/UE: seguiment de la Comissió, compliment pels estats membres abans de 2011 i destinataris de l'acte",
+        "article 2: l'adequació del destí no altera les altres condicions i restriccions de la Directiva sobre tractaments dins dels estats membres"
       ],
       "open_units": [
         "auditar la cobertura de la resta de la Decisió 2010/625/UE i de la seva versió consolidada del 2016"
