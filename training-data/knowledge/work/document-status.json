@@ -76,7 +76,8 @@
         "diposit-legal-objecte-tridimensional-acompanyant-001",
         "diposit-legal-prospeccio-farmacologica-exclusio-001",
         "diposit-legal-exempcio-parcial-criteris-i-condicions-001",
-        "diposit-legal-responsable-editor-impressor-online-001"
+        "diposit-legal-responsable-editor-impressor-online-001",
+        "diposit-legal-sollicitud-i-justificant-numero-001"
       ],
       "covered_units": [
         "Llei 15/2025, article 22: scope of online publications; hosting location and domain; access unrestricted or restricted",
@@ -150,7 +151,8 @@
         "Llei 15/2025, article 6.1.k: accompanying three-dimensional objects are excluded; the original document remains assessed separately.",
         "Llei 15/2025, article 6.1.g: exclusion of pharmacological prospecting documents is not a blanket exclusion for books about pharmacology.",
         "Llei 15/2025, article 7: partial tangible-copy exemption, minimum one copy, case-by-case criteria and proportionate future conditions.",
-        "Llei 15/2025, article 8: publisher/producer is obligated for materials edited or produced in Andorra; online responsibility remains but management is exempted with capture/transfer duties."
+        "Llei 15/2025, article 8: publisher/producer is obligated for materials edited or produced in Andorra; online responsibility remains but management is exempted with capture/transfer duties.",
+        "Llei 15/2025, article 9.2-9.4: application channels for the deposit number and signed/sealed proof identifying the assigned number."
       ],
       "open_units": [
         "Finish reviewing the remaining physical deposit categories and special formats, periodicals, film/television/radio, and linked regulations.",

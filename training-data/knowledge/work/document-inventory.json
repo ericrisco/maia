@@ -9,7 +9,7 @@
   "file_count": 1477,
   "article_count": 1348,
   "parse_error_count": 0,
-  "conversation_count": 71,
+  "conversation_count": 72,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 0,
@@ -1392,7 +1392,7 @@
       "topic": "temes/cultura/museus-i-arxius",
       "source": "jurisprudencia-ad",
       "status": "in_progress",
-      "conversation_count": 71,
+      "conversation_count": 72,
       "conversation_ids": [
         "diposit-legal-anuari-i-serie-numerada-001",
         "diposit-legal-autoedicio-publicacio-gratuita-abast-001",
@@ -1459,6 +1459,7 @@
         "diposit-legal-revista-periodica-numero-i-exemplars-001",
         "diposit-legal-segells-i-encartaments-filatelics-001",
         "diposit-legal-separata-numero-001",
+        "diposit-legal-sollicitud-i-justificant-numero-001",
         "diposit-legal-termini-numero-i-exemplars-001",
         "diposit-legal-videojocs-qualsevol-suport-001",
         "diposit-legal-volum-conservat-no-documentat-001",
@@ -1538,7 +1539,8 @@
         "Llei 15/2025, article 6.1.k: accompanying three-dimensional objects are excluded; the original document remains assessed separately.",
         "Llei 15/2025, article 6.1.g: exclusion of pharmacological prospecting documents is not a blanket exclusion for books about pharmacology.",
         "Llei 15/2025, article 7: partial tangible-copy exemption, minimum one copy, case-by-case criteria and proportionate future conditions.",
-        "Llei 15/2025, article 8: publisher/producer is obligated for materials edited or produced in Andorra; online responsibility remains but management is exempted with capture/transfer duties."
+        "Llei 15/2025, article 8: publisher/producer is obligated for materials edited or produced in Andorra; online responsibility remains but management is exempted with capture/transfer duties.",
+        "Llei 15/2025, article 9.2-9.4: application channels for the deposit number and signed/sealed proof identifying the assigned number."
       ],
       "open_units": [
         "Finish reviewing the remaining physical deposit categories and special formats, periodicals, film/television/radio, and linked regulations.",
