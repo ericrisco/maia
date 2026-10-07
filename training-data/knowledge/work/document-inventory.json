@@ -9,7 +9,7 @@
   "file_count": 1477,
   "article_count": 1348,
   "parse_error_count": 0,
-  "conversation_count": 68,
+  "conversation_count": 69,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 0,
@@ -1392,7 +1392,7 @@
       "topic": "temes/cultura/museus-i-arxius",
       "source": "jurisprudencia-ad",
       "status": "in_progress",
-      "conversation_count": 68,
+      "conversation_count": 69,
       "conversation_ids": [
         "diposit-legal-anuari-i-serie-numerada-001",
         "diposit-legal-autoedicio-publicacio-gratuita-abast-001",
@@ -1445,6 +1445,7 @@
         "diposit-legal-produccio-televisiva-copies-001",
         "diposit-legal-propietat-suport-i-drets-autor-001",
         "diposit-legal-prorroga-i-anullacio-numero-001",
+        "diposit-legal-prospeccio-farmacologica-exclusio-001",
         "diposit-legal-publicacio-en-linia-manuals-i-acces-001",
         "diposit-legal-publicacio-en-linia-sense-numero-001",
         "diposit-legal-publicacio-mixta-exemplars-001",
@@ -1532,7 +1533,8 @@
         "Llei 15/2025, article 6.1.a and 6.1.h: exclusions for administrative/office forms and for patents, designs and industrial models.",
         "Llei 15/2025, article 6.1.f: press dossiers and collections of copies are excluded.",
         "Llei 15/2025, articles 6.1.l and 6.2: exclusion of plain calendars/agendas, artistic or explanatory-text exception, and determination for doubtful cases.",
-        "Llei 15/2025, article 6.1.k: accompanying three-dimensional objects are excluded; the original document remains assessed separately."
+        "Llei 15/2025, article 6.1.k: accompanying three-dimensional objects are excluded; the original document remains assessed separately.",
+        "Llei 15/2025, article 6.1.g: exclusion of pharmacological prospecting documents is not a blanket exclusion for books about pharmacology."
       ],
       "open_units": [
         "Finish reviewing the remaining physical deposit categories and special formats, periodicals, film/television/radio, and linked regulations.",
