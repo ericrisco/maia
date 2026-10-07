@@ -247,8 +247,9 @@
       "topic": "temes/costums/falles",
       "source": "canturri-usos-i-costums",
       "status": "in_progress",
-      "conversation_count": 1,
+      "conversation_count": 2,
       "conversation_ids": [
+        "falles-andorra-valencia-diferencia-01",
         "falles-recuperacio-materials-01"
       ],
       "reviewed_units": [
@@ -256,7 +257,9 @@
         "falla antiga: escorça de beç i bastó de boix, girada sobre el cap",
         "pèrdua i recuperació quatre o cinc anys abans de 2002",
         "canvis de material i de participació segons Canturri",
-        "variants parroquials, fonts primàries i reconeixement patrimonial encara pendents"
+        "variants parroquials, fonts primàries i reconeixement patrimonial encara pendents",
+        "falla andorrana com a torxa girada, no monument cremat",
+        "sentit de «córrer les falles» i materials tradicionals"
       ],
       "completion_note": "",
       "reason": ""
