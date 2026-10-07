@@ -2,18 +2,18 @@
   "source_root": "docs/temes/",
   "file_count": 1477,
   "article_count": 1348,
-  "conversation_count": 11,
+  "conversation_count": 15,
   "file_status_totals": {
     "complete": 0,
-    "in_progress": 4,
+    "in_progress": 5,
     "no_natural_question": 0,
-    "not_started": 1473
+    "not_started": 1472
   },
   "article_status_totals": {
     "complete": 0,
-    "in_progress": 4,
+    "in_progress": 5,
     "no_natural_question": 0,
-    "not_started": 1344
+    "not_started": 1343
   },
   "documents": [
     {
@@ -15432,11 +15432,23 @@
       "type": "article",
       "topic": "temes/institucions/relacions-exteriors",
       "source": "eur-lex-protocol-seguretat-duanera-2011",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "andorra-veu-seguretat-duanera-2011-001"
+      ],
+      "reviewed_units": [
+        "Articles 12i i 12k del protocol del 2011: participació d’experts andorrans, no-adopció i suspensió del títol IIA.",
+        "Límit arbitral: no es resol la interpretació del dret de la UE; es pot discutir la proporcionalitat de la suspensió."
+      ],
+      "open_units": [
+        "Abast territorial i inclusió de productes agrícoles exclosos de la unió duanera.",
+        "Exempció de declaració prèvia per al trànsit Andorra–UE i reconeixement mutu de sistemes de risc.",
+        "Intercanvi d’informació sobre operadors econòmics autoritzats i camps de dades.",
+        "Aplicació provisional, entrada en vigor i notificacions pendents.",
+        "Llengües autèntiques i signatura en català.",
+        "Condicions detallades dels articles 65–68 de la Decisió 1/2003 del Comitè Mixt."
+      ],
       "completion_note": "",
       "reason": ""
     },
@@ -15447,19 +15459,23 @@
       "topic": "temes/institucions/relacions-exteriors",
       "source": "eur-lex-adequacio-dades-andorra-2010",
       "status": "in_progress",
-      "conversation_count": 2,
+      "conversation_count": 5,
       "conversation_ids": [
         "adequacio-dades-andorra-condicions-2010-2024-001",
-        "adequacio-dades-reforma-2016-001"
+        "adequacio-dades-base-legal-i-reforma-2021-001",
+        "adequacio-dades-reforma-2016-001",
+        "adequacio-dades-suspensio-transferencies-001",
+        "andorra-llista-europea-adequacio-dades-001"
       ],
       "reviewed_units": [
         "Decisió 2010/625/UE: adequació de transferències des de la UE, caràcter condicional i mancances assenyalades sobre decisions automatitzades.",
         "Revisió de la Comissió del 2024: Andorra continua oferint protecció adequada després de la Llei 29/2021; revisió no equivalent a una nova decisió.",
-        "Reforma de 2016: abast general europeu després de Schrems, seguiment de l’accés de les autoritats a dades, sense atribució d’incompliment concret a Andorra."
+        "Reforma de 2016: abast general europeu després de Schrems, seguiment de l’accés de les autoritats a dades, sense atribució d’incompliment concret a Andorra.",
+        "Bases jurídiques enumerades el 2010 i canvi de la Llei 15/2003 a la Llei 29/2021; conclusió de la revisió europea del 2024, sense deduir invalidació automàtica.",
+        "Articles 3 i 4 de la decisió d’adequació abans/després de 2016: suspensió de transferències, poders de supervisió i notificació a la Comissió.",
+        "Articles 42–45 de la Llei 29/2021: criteri de la llista europea i Conveni 108+ per a adequació; circularitat observada amb la decisió de la UE sense resoldre’n l’efecte jurídic."
       ],
       "open_units": [
-        "Bases jurídiques de la decisió de 2010 i instruments ratificats per Andorra.",
-        "Efectes de la derogació de la Llei 15/2003 i abast de l’adequació vigent; no inferir que decaigui automàticament.",
         "Punts oberts sobre dictamen 7/2009, fonts secundàries i mapatge entre Directiva, RGPD i dret andorrà."
       ],
       "completion_note": "",
