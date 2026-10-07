@@ -26,6 +26,7 @@ training-data/
 │   ├── examples/
 │   │   ├── conversations.jsonl   # calibratge editorial, no entrenament
 │   │   └── provenance.jsonl      # fonts i notes de revisió dels exemples
+│   ├── review/                   # converses candidates i procedència per revisar
 │   ├── work/                     # inventaris i cobertura per construir
 │   ├── reports/                  # qualitat, exclusions i cobertura
 │   ├── scripts/                  # eines de lectura, validació i exportació
@@ -33,6 +34,7 @@ training-data/
 └── language/
     ├── README.md
     ├── examples/                 # només exemples de format, mai parla inventada
+    ├── review/                   # fragments humans candidats i procedència
     ├── work/                     # elegibilitat i verificació de transcripcions
     ├── reports/
     ├── scripts/
@@ -90,12 +92,13 @@ Un sol «no» implica reescriure, deixar pendent o excloure.
 ## Etapes
 
 1. Aprovar la guia i calibrar l'estil amb els exemples d'aquesta carpeta.
-2. Definir el registre intern de procedència i la validació del format.
-3. Inventariar Knowledge i Language separadament, registrant drets i buits.
-4. Escriure i revisar converses Knowledge per necessitat, amb cobertura traçable.
-5. Verificar transcripcions i extreure fragments Language humans elegibles.
-6. Revisar, deduplicar, agrupar i separar els conjunts.
-7. Generar exports i informes; comprovar-los abans de considerar cap dataset acabat.
+2. Crear i validar el lector estructural de `docs/temes/` i l'inventari de cobertura.
+3. Definir el registre intern de procedència i la validació del format.
+4. Inventariar Knowledge i Language separadament, registrant drets i buits.
+5. Escriure i revisar converses Knowledge per necessitat, amb cobertura traçable.
+6. Verificar transcripcions i extreure fragments Language humans elegibles.
+7. Revisar, deduplicar, agrupar i separar els conjunts.
+8. Generar exports i informes; comprovar-los abans de considerar cap dataset acabat.
 
 ## Definició de fet
 

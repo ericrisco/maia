@@ -4,6 +4,7 @@ Dataset de converses sobre Andorra basades en `docs/temes/`. Cada exemple partei
 
 - [`examples/conversations.jsonl`](examples/conversations.jsonl) conté tres exemples de calibratge, no entrenables.
 - [`examples/provenance.jsonl`](examples/provenance.jsonl) en registra les fonts i la llicència.
+- `review/` contindrà converses candidates, una per línia, i la seva traçabilitat.
 - `work/` i `reports/` guardaran la cobertura i les revisions.
 - `output/` es mantindrà sense exports fins que hi hagi dades aprovades.
 
