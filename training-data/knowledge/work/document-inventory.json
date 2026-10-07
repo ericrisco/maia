@@ -374,7 +374,7 @@
       "topic": "temes/costums/religiositat",
       "source": "bopa-ad",
       "status": "in_progress",
-      "conversation_count": 26,
+      "conversation_count": 27,
       "conversation_ids": [
         "registre-religios-actualitzar-dades-declaracio-biennal-14",
         "registre-religios-associacio-cultural-dependent-03",
@@ -388,6 +388,7 @@
         "registre-religios-efectes-personalitat-beneficis-no-lucratius-24",
         "registre-religios-esmena-documents-terminari-09",
         "registre-religios-exclusio-parapsicologia-04",
+        "registre-religios-governanca-i-adreces-27",
         "registre-religios-indicis-penals-trasllat-fiscalia-23",
         "registre-religios-no-inscrit-responsabilitat-i-inscripcio-01",
         "registre-religios-noms-carrecs-consentiment-dades-11",
@@ -432,7 +433,8 @@
         "Comunicació d’indicis racionals d’il·licitud penal al ministre i eventual trasllat al Ministeri Fiscal (art. 6).",
         "Efectes de la inscripció: personalitat jurídica i beneficis generals per a entitats sense ànim de lucre; absència d’exempció fiscal concreta a la Llei 2/2025 (art. 10).",
         "Règim transitori per a entitats religioses ja inscrites al Registre d’associacions: termini de dos anys, reutilització de documents compatibles i cancel·lació si no es demana la nova inscripció (disposició transitòria).",
-        "Disposició addicional sobre termini per habilitar gestió electrònica i presentació en paper durant la transició; estat actual del servei no verificat al corpus."
+        "Disposició addicional sobre termini per habilitar gestió electrònica i presentació en paper durant la transició; estat actual del servei no verificat al corpus.",
+        "Facultats i designació d’òrgans de govern, seu central, adreça a Andorra i adreça opcional de comunicacions (art. 4.1.c i e)."
       ],
       "open_units": [
         "Passada editorial integral de la fitxa: revisar la resta d’afirmacions i buits contra les converses i conservar explícitament allò que no consta."
