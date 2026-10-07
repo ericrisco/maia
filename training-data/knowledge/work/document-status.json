@@ -456,11 +456,11 @@
       "title": "Arquitectura — índex de fitxes",
       "type": "index",
       "topic": "",
-      "status": "not_started",
+      "status": "complete",
       "unit_count": 20,
       "covered_unit_ids": [],
-      "excluded_unit_count": 0,
-      "open_unit_count": 20,
+      "excluded_unit_count": 20,
+      "open_unit_count": 0,
       "conversation_ids": []
     },
     "docs/temes/cultura/arquitectura/el-romanic-com-a-operacio-politica.md": {
