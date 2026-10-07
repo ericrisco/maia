@@ -1,6 +1,12 @@
 {
   "description": "Assigna cada font de contingut a un únic split; exemples amb fonts relacionades comparteixen split.",
   "groups": {
+    "docs/temes/societat/demografia/dues-maneres-de-comptar-la-poblacio.md": "train",
+    "docs/raw/estadistica-poblacio/a001-a003-2026-07.pdf": "train",
+    "docs/raw/estadistica-poblacio/a001-a003-2026-07.txt": "train",
+    "docs/raw/estadistica-poblacio/metodologia-estimacions-poblacio.pdf": "train",
+    "docs/raw/estadistica-poblacio/metodologia-estimacions-poblacio.txt": "train",
+    "docs/raw/estadistica-poblacio/avis-legal-2026-09-13.txt": "train",
     "docs/temes/societat/demografia/setanta-nou-anys-de-padro.md": "train",
     "docs/raw/estadistica-api/resta-del-cataleg/README.md": "train",
     "docs/raw/estadistica-api/resta-del-cataleg/resta-cataleg-api-2026-09-18.tsv": "train",
