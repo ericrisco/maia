@@ -199,7 +199,8 @@
       "Entre el gener del 2001 i l’agost del 2026, el grup de begudes alcohòliques i tabac puja un 174,6%; la seva ponderació a la cistella del 2026 és l’1,48% i no s’ha d’aplicar retroactivament.",
       "El salari mínim puja en valor nominal un 123,5% entre gener del 2001 i juliol del 2026; els preus pugen un 73,4% fins a agost del 2026, amb guany real calculat del 28,8%. Aquest càlcul no mesura suficiència per viure ni quanta gent cobra el mínim.",
       "Les comunicacions són l’únic grup que baixa entre gener del 2001 i agost del 2026 (−21,8%); vestit i calçat pugen un 3,2%. La variació de grup no descriu cada contracte o factura individual.",
-      "L’índex del transport per carretera baixa en dos salts (95,1 el juny de 2022, 62,5 el juliol i 46,1 el setembre; −51,5% des del desembre de 2021); la dada de l’IPC no assigna cada salt a una mesura concreta."
+      "L’índex del transport per carretera baixa en dos salts (95,1 el juny de 2022, 62,5 el juliol i 46,1 el setembre; −51,5% des del desembre de 2021); la dada de l’IPC no assigna cada salt a una mesura concreta.",
+      "La variació acumulada és +32,6% el 2001–2012, +7,7% el 2012–2021 i +21,5% el desembre de 2021–agost de 2026; les mitjanes anuals baixen el 2009, 2014, 2015 i 2016, i hi ha 46 mesos interanuals negatius de 296."
     ],
     "open_units": [
       "Resta revisar els dotze grups, classes, sèries anuals i mensuals, canvis de base, pes de les ponderacions, xifres d'autobús, relació salari-preus i tots els límits temporals i metodològics de la fitxa."
@@ -209,7 +210,8 @@
       "ipc-grup-molt-encarit-pes-petit-001",
       "ipc-salari-minim-real-2001-2026-001",
       "ipc-comunicacions-baixen-telefon-001",
-      "ipc-transport-carretera-baixada-2022-001"
+      "ipc-transport-carretera-baixada-2022-001",
+      "ipc-dues-fases-inflacio-deflacio-001"
     ]
   }
 }
