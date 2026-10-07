@@ -420,7 +420,8 @@
         "habits-culturals-voluntariat-serie-temporal-001",
         "museus-enquesta-i-afluencia-visites-2019-2024-001",
         "habits-culturals-prestecs-per-usuari-i-xoc-2020-001",
-        "museus-i-monuments-recuperacio-visites-001"
+        "museus-i-monuments-recuperacio-visites-001",
+        "museus-recuperacio-pandemia-no-es-recuperacio-total-001"
       ],
       "covered_units": [
         "Enquesta 2019 i 2024: cinema, 57,4% → 66,3% (+8,9 punts).",
@@ -457,7 +458,8 @@
         "Comptabilitat de museus: 149.679 visites el 2019 i 92.583 el 2024; són visites, no recompte de persones úniques.",
         "Préstecs per usuari inscrit: 2,01 documents l'any el 2016 i 1,39 el 2024.",
         "Xoc de préstecs 2020: 17.646 (-59,7% respecte 2019), mentre els inscrits passen de 25.038 a 25.368; causa no establerta.",
-        "Afluència museus/monuments: museus 149.679 (2019), 58.650 (2020), 87.875 (2022), 94.576 (2023), 92.583 (2024); monuments 72.957, 28.243 i 83.671 el 2019, 2020 i 2024; només monuments superen el valor de 2019 el 2024."
+        "Afluència museus/monuments: museus 149.679 (2019), 58.650 (2020), 87.875 (2022), 94.576 (2023), 92.583 (2024); monuments 72.957, 28.243 i 83.671 el 2019, 2020 i 2024; només monuments superen el valor de 2019 el 2024.",
+        "Museus i monuments: total 86.893 (2020), 222.636 (2019), 176.254 (2024); el 2024 és -20,8% del 2019, malgrat duplicar 2020. Museus -38,1%, monuments +14,7%; la font no distingeix residents i turistes."
       ],
       "open_units": [
         "Revisar les altres activitats de l'enquesta i els seus desglossaments per edat, sexe i estudis.",
@@ -469,11 +471,13 @@
       "status": "in_progress",
       "conversation_ids": [
         "museus-enquesta-i-afluencia-visites-2019-2024-001",
-        "museus-i-monuments-recuperacio-visites-001"
+        "museus-i-monuments-recuperacio-visites-001",
+        "museus-recuperacio-pandemia-no-es-recuperacio-total-001"
       ],
       "covered_units": [
         "Afluència total de museus: 149.679 visites el 2019 i 92.583 el 2024; el recompte no identifica persones úniques.",
-        "Afluència de museus i monuments comparada en 2019, 2020 i 2024, amb dades intermèdies disponibles per a museus 2022-2023; visites sense inferència causal."
+        "Afluència de museus i monuments comparada en 2019, 2020 i 2024, amb dades intermèdies disponibles per a museus 2022-2023; visites sense inferència causal.",
+        "Afluència total 2019/2020/2024; evolució diferenciada de museus (-38,1%) i monuments (+14,7%) el 2024 respecte de 2019; sense desglossament residents/turistes."
       ],
       "open_units": [
         "Revisar la resta de l'article sobre la xarxa museística, la història institucional i les fitxes dels museus; aquesta dada no cobreix l'article complet."
