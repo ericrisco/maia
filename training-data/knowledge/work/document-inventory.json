@@ -374,8 +374,9 @@
       "topic": "temes/costums/religiositat",
       "source": "bopa-ad",
       "status": "in_progress",
-      "conversation_count": 13,
+      "conversation_count": 14,
       "conversation_ids": [
+        "registre-religios-actualitzar-dades-declaracio-biennal-14",
         "registre-religios-associacio-cultural-dependent-03",
         "registre-religios-cancellacio-inactivitat-06",
         "registre-religios-certificat-assentament-13",
@@ -406,7 +407,8 @@
         "Denegació motivada després d’esmenar defectes, notificació, recurs administratiu potestatiu i accés directe a la via judicial urgent i preferent (art. 6).",
         "Inscripció dels noms de càrrecs representatius i tractament sense consentiment explícit, subjecte a protecció de dades (arts. 4.1.g i 12).",
         "Advertiment contra crear fitxers destinats exclusivament a emmagatzemar dades personals que revelin religió o creences, en rebre certificacions o còpies; abast de la prohibició (art. 8.5).",
-        "Publicitat formal mitjançant certificacions o còpies, procediment pendent de reglament i canal per consultar documents concrets (art. 8.2, 8.4 i 8.6)."
+        "Publicitat formal mitjançant certificacions o còpies, procediment pendent de reglament i canal per consultar documents concrets (art. 8.2, 8.4 i 8.6).",
+        "Actualització de variacions registrals en tres mesos i declaració biennal de funcionament, amb anotació informativa si manca (arts. 7 i 9.5)."
       ],
       "open_units": [
         "Passada editorial integral de la fitxa: revisar la resta d’afirmacions i buits contra les converses i conservar explícitament allò que no consta."
