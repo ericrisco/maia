@@ -17,7 +17,7 @@ La cobertura és per document citat i és només un límit inferior: una cita no
 
 | Tema | Fitxes article | Amb conversa citada | Sense conversa citada |
 |---|---:|---:|---:|
-| `costums` | 23 | 3 | 20 |
+| `costums` | 23 | 4 | 19 |
 | `cultura` | 72 | 0 | 72 |
 | `economia` | 95 | 0 | 95 |
 | `esports` | 272 | 0 | 272 |
@@ -44,7 +44,7 @@ Aquest índex més fi permet avançar branca per branca. `Amb conversa` segueix 
 | `temes/costums/festes-majors` | 2 | 0 | 2 | 0 | 0 | 2 | 0 |
 | `temes/costums/gegants` | 1 | 0 | 1 | 0 | 1 | 0 | 0 |
 | `temes/costums/meritxell` | 1 | 0 | 1 | 0 | 0 | 1 | 0 |
-| `temes/costums/religiositat` | 5 | 0 | 5 | 2 | 3 | 0 | 0 |
+| `temes/costums/religiositat` | 5 | 1 | 4 | 2 | 3 | 0 | 0 |
 | `temes/costums/ritus-de-pas` | 2 | 0 | 2 | 0 | 1 | 1 | 0 |
 | `temes/costums/sant-antoni` | 1 | 0 | 1 | 0 | 0 | 1 | 0 |
 | `temes/cultura` | 1 | 0 | 1 | 1 | 0 | 0 | 0 |
@@ -176,7 +176,7 @@ Aquesta tria només mira el camp `font` de la capçalera i la seva fitxa a `docs
 | `pending` | 604 |
 | `missing` | 1 |
 
-**Total:** 1348 fitxes article; **4** tenen almenys una conversa citada i **1344** encara no en tenen.
+**Total:** 1348 fitxes article; **5** tenen almenys una conversa citada i **1343** encara no en tenen.
 
 ## Límits
 

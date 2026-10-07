@@ -16,3 +16,4 @@ el BOPA no implica cap suport al projecte. No s'atribueix una llicència global 
 - Adaptació de «La marratxa», amb dades de la Viquipèdia en català, llicència CC BY-SA 4.0. S'indiquen les fonts i es conserva la condició de compartir igual per a aquesta adaptació.
 - Adaptació de «La marratxa», amb dades de «Ball de la Marratxa», Viquipèdia en català, llicència CC BY-SA 4.0. S'indiquen les fonts i es conserva la condició de compartir igual per a aquesta adaptació.
 - Adaptació dels articles «Ball de l'ossa d'Encamp» i «Festes de l'ossa a Andorra», Viquipèdia en català, llicència CC BY-SA 4.0. S'indiquen les fonts i es conserva la condició de compartir igual per a aquesta adaptació.
+- BOPA, Llei qualificada 2/2025, del 23 de gener, articles 2 i 10. S'han resumit les condicions conservant-ne el sentit. La menció del BOPA no implica suport del Servei al projecte.
