@@ -10,6 +10,7 @@ al projecte.
 
 ## Fonts dels registres exportats
 
+- André Vilar, *L'Andorre* (París, V. Giard & E. Brière, 1904), pp. 80-81; domini públic per antiguitat. Resum basat en la fitxa Maia «A Andorra sí que hi havia impost, i era sobre la renda».
 - Constitució del Principat d'Andorra, article 43, BOPA núm. 24, 4-05-1993; registre de condicions d'ús a docs/fonts/bopa-ad.md.
 - Representació del Copríncep Francès a Andorra, informació institucional pública; resum a la fitxa Maia «El Coprincipat».
 - Viquipèdia en català, contingut reutilitzat a la fitxa Maia «La Marratxa», sota CC BY-SA 4.0. Cal conservar l'atribució i aplicar compartir igual al material derivat.

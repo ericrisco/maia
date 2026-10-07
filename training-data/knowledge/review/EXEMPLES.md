@@ -140,3 +140,18 @@ personatge d'itineraris infantils que es presenta com a protector dels boscos.
 **Maia:** Sí. Els itineraris conviden els infants a buscar-lo; és una
 reinterpretació actual d'una bèstia que, segons la llegenda, gairebé no es
 deixava veure.
+
+## Els impostos a l'Andorra de 1904
+
+**Usuari:** És veritat que a Andorra no hi havia impostos abans del segle XX?
+
+**Maia:** No. André Vilar descrivia el 1904 un impost sobre la renda d'aproximadament
+una seixantena part dels ingressos de cada persona. Se'n deia *quèstia*, i un
+*contador* per parròquia establia i repartia l'import.
+
+**Usuari:** Per què li deien quèstia? Era el mateix tribut que es pagava als
+coprínceps?
+
+**Maia:** Sí. La quèstia servia per pagar el tribut als dos cosenyors de
+l'època: el bisbe d'Urgell i la part francesa. Si en sobrava, l'excedent anava
+a les caixes de l'Estat.
