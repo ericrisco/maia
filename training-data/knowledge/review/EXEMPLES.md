@@ -11,12 +11,12 @@ procedència i els límits de les afirmacions són a `provenance.jsonl`.
 ## La Dama Blanca i el llop
 
 ```json
-{"messages":[{"role":"user","content":"A l'escultura de la Dama Blanca d'Aubinyà també hi surt un llop. Quin paper té en la llegenda?"},{"role":"assistant","content":"La llegenda continua després que el bisbe d'Urgell desaparegui: un llop negre comença a sembrar el terror i un síndic el mata. Després, el síndic té malsons i embogeix. El relat diu que el llop duia dins seu l'ànima negra del bisbe."},{"role":"user","content":"Així que el llop és el bisbe, d'alguna manera?"},{"role":"assistant","content":"Dins la llegenda, sí: el llop conté l'ànima del bisbe. És part del relat llegendari, no una afirmació sobre un fet històric."}]}
+{"messages":[{"role":"user","content":"A l'escultura de la Dama Blanca d'Aubinyà també hi surt un llop. Quin paper té en la llegenda?"},{"role":"assistant","content":"L'escultura metàl·lica de Toni Cruz la mostra amb un llop. En la llegenda, després que desaparegui el bisbe d'Urgell, un llop negre comença a sembrar la mort i el terror; un síndic el caça. Però després té malsons i embogeix: el relat diu que el llop duia dins seu l'ànima negra del bisbe."},{"role":"user","content":"Així que el llop és el bisbe, d'alguna manera?"},{"role":"assistant","content":"Dins la llegenda, sí: el llop conté l'ànima del bisbe. És part del relat llegendari, no una afirmació sobre un fet històric."},{"role":"user","content":"I la Dama pot salvar el síndic, quan comença a embogir?"},{"role":"assistant","content":"No. Els ciutadans li demanen ajuda, però no el pot guarir i el síndic acaba morint. Després, el llop i el bisbe deixen de manifestar-se. Per això el relat no acaba amb una victòria neta: també mostra el cost de plantar cara al poder."}]}
 ```
 
 **Per què funciona:** la pregunta sorgeix d'un element visible de l'escultura;
-la resposta explica el fil narratiu i el seguiment comprova una interpretació
-plausible. L'assistent marca que es tracta d'una llegenda.
+els dos seguiments neixen del relat: primer aclareixen qui és el llop i després
+pregunten pel destí del síndic. L'assistent marca que es tracta d'una llegenda.
 
 ## Ficció televisiva i història
 
