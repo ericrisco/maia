@@ -65,5 +65,21 @@
       "altres cicles de teatre: Nadal i Pasqua, dates, obres i participants",
       "buits de font i interpretacions que encara cal atribuir o delimitar"
     ]
+  },
+  "docs/temes/costums/danses/les-festes-de-lossa.md": {
+    "status": "in_progress",
+    "conversation_ids": [
+      "festes-ossa-emigracio-i-primer-testimoni-01"
+    ],
+    "reviewed_units": [
+      "causa atribuïda a l’emigració dels anys vint, dues festes que en queden i primera referència escrita del 1838; origen medieval només probable"
+    ],
+    "open_units": [
+      "descripció completa de l’Última Ossa d’Ordino, personatges i seqüència final",
+      "cronologia contradictòria de les represes d’Ordino i causes que les fonts no expliquen",
+      "màscara centenària d’Ordino i continuïtat d’ús després del 2017",
+      "fotografies atribuïdes a Guillem d’Areny-Plandolit i verificació externa pendent",
+      "altres localitats documentades i causes de continuïtat només parcialment cobertes"
+    ]
   }
 }

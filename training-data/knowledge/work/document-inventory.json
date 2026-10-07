@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 3,
+    "in_progress": 4,
     "no_natural_question": 0,
-    "not_started": 1345
+    "not_started": 1344
   },
   "documents": [
     {
@@ -226,11 +226,21 @@
       "type": "article",
       "topic": "temes/costums/danses",
       "source": "wikipedia-llegendes-andorra",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "festes-ossa-emigracio-i-primer-testimoni-01"
+      ],
+      "reviewed_units": [
+        "causa atribuïda a l’emigració dels anys vint, dues festes que en queden i primera referència escrita del 1838; origen medieval només probable"
+      ],
+      "open_units": [
+        "descripció completa de l’Última Ossa d’Ordino, personatges i seqüència final",
+        "cronologia contradictòria de les represes d’Ordino i causes que les fonts no expliquen",
+        "màscara centenària d’Ordino i continuïtat d’ús després del 2017",
+        "fotografies atribuïdes a Guillem d’Areny-Plandolit i verificació externa pendent",
+        "altres localitats documentades i causes de continuïtat només parcialment cobertes"
+      ],
       "completion_note": "",
       "reason": ""
     },
