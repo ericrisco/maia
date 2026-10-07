@@ -79,14 +79,16 @@
   "docs/temes/economia/comerc/amb-qui-comercia-andorra.md": {
     "status": "in_progress",
     "reviewed_units": [
-      "La sèrie del 2025 registra importacions de béns per 1.997,4 M€, exportacions per 197,2 M€, una cobertura del 9,9% i un dèficit de béns de 1.800,2 M€; aquestes xifres no inclouen tot el comerç de serveis."
+      "La sèrie del 2025 registra importacions de béns per 1.997,4 M€, exportacions per 197,2 M€, una cobertura del 9,9% i un dèficit de béns de 1.800,2 M€; aquestes xifres no inclouen tot el comerç de serveis.",
+      "Les quotes d’importació d’Espanya i França canvien entre 1997, 2020 i 2025; el pic espanyol de 2020 coincideix amb fronteres tancades, però la font no n’explica la causa."
     ],
     "open_units": [
       "Resta revisar la resta de la fitxa: evolució anual, països d'origen i destí, capítols aranzelaris, salt exportador del 2022, períodes incomplets i límits d'interpretació."
     ],
     "completion_note": "Revisat el primer bloc de la fitxa i creat un candidat sobre el sentit de la balança de béns. La revisió de les sèries i subdivisions continua pendent.",
     "conversation_ids": [
-      "comerc-2025-deu-a-un-be-ns-001"
+      "comerc-2025-deu-a-un-be-ns-001",
+      "comerc-importacions-espanya-franca-tendencia-001"
     ]
   }
 }
