@@ -8,6 +8,8 @@ Abans de redactar, resumeix el dubte en una frase privada: què vol entendre, co
 
 La primera pregunta ha de funcionar sense cap document obert. Ha d'anomenar el tema i el dubte concret. Pot preguntar per una diferència, un mot, una data, una causa que cal verificar, una afirmació que sembla contradictòria o una decisió pràctica.
 
+La pregunta no ha d'explicar d'on surt la informació. L'usuari pregunta pel tema, no per la fitxa que l'ha documentat. Primer escriu en privat què vol entendre; després formula la pregunta com la diria en una conversa.
+
 No facis servir preguntes com:
 
 - «Què explica la secció “El relat”?»
@@ -30,6 +32,14 @@ Els seguiments poden aclarir un terme, comprovar una conseqüència, demanar una
 
 No inventis una biografia, una feina, una opinió o una experiència personal de l'usuari. La naturalitat ha de venir de la pregunta, no d'un escenari fabricat.
 
+### Exemple de transformació
+
+Pregunta d'arxiu, descartada: «Què indica aquesta fila del gràfic?» No diu quin gràfic ni quin dubte té la persona; només assenyala el document.
+
+Pregunta de conversa: «Entre el 2019 i el 2024, va anar més gent al cinema a Andorra?» La resposta aclareix que l'enquesta va passar del 57,4% al 66,3%, un augment de 8,9 punts percentuals. El seguiment natural és «Això vol dir que cada any hi anava més gent?»; la resposta explica que només hi ha dues onades i no es coneix què va passar entremig. Un altre seguiment plausible és «I va créixer sobretot entre els joves?».
+
+Aquest fil ja existeix com a exemple complet a [`../examples/conversations.jsonl`](../examples/conversations.jsonl). La transformació canvia el punt de partida: de llegir una fila a resoldre un dubte sobre l'assistència al cinema. No cal afegir cap història personal per fer-lo sonar humà.
+
 ## Escriu la resposta
 
 - Comença per contestar la pregunta.
@@ -50,6 +60,7 @@ Els tres fils de `../examples/conversations.jsonl` mostren preguntes sobre un ca
 Abans d'afegir una línia a `conversations.jsonl`, comprova:
 
 - La pregunta inicial s'entén sense consultar una fitxa?
+- La pregunta parla del tema i del dubte, no de la fitxa, secció, taula, fila o gràfic?
 - La preguntaria una persona que vol resoldre aquest dubte?
 - Cada seguiment neix de la resposta anterior i afegeix un pas nou?
 - El fil té entre dos i quatre intercanvis i s'atura quan el dubte queda resolt?
