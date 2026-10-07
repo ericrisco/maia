@@ -1550,12 +1550,21 @@
       "title": "La Farga Rosell i la ruta del ferro",
       "type": "article",
       "topic": "temes/cultura/museus-i-arxius/museus",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 27,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/cultura/museus-i-arxius/museus/la-farga-rosell.md#unit-0005",
+        "docs/temes/cultura/museus-i-arxius/museus/la-farga-rosell.md#unit-0006",
+        "docs/temes/cultura/museus-i-arxius/museus/la-farga-rosell.md#unit-0007",
+        "docs/temes/cultura/museus-i-arxius/museus/la-farga-rosell.md#unit-0008",
+        "docs/temes/cultura/museus-i-arxius/museus/la-farga-rosell.md#unit-0009",
+        "docs/temes/cultura/museus-i-arxius/museus/la-farga-rosell.md#unit-0010"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 27,
-      "conversation_ids": []
+      "open_unit_count": 21,
+      "conversation_ids": [
+        "farga-rosell-construccio-i-tancament-001"
+      ]
     },
     "docs/temes/cultura/museus-i-arxius/museus/les-cases-museu.md": {
       "title": "Les cases museu: Rull, Cristo i Cal Pal",
