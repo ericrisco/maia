@@ -160,6 +160,7 @@
         "docs/temes/costums/danses/la-marratxa.md#unit-0006",
         "docs/temes/costums/danses/la-marratxa.md#unit-0007",
         "docs/temes/costums/danses/la-marratxa.md#unit-0008",
+        "docs/temes/costums/danses/la-marratxa.md#unit-0010",
         "docs/temes/costums/danses/la-marratxa.md#unit-0011",
         "docs/temes/costums/danses/la-marratxa.md#unit-0012",
         "docs/temes/costums/danses/la-marratxa.md#unit-0015",
@@ -168,12 +169,13 @@
         "docs/temes/costums/danses/la-marratxa.md#unit-0018"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 10,
+      "open_unit_count": 9,
       "conversation_ids": [
         "marratxa-coreografia-memoria-i-data-001",
         "marratxa-dansaires-simbolisme-coprincipat-001",
         "marratxa-pareatge-discrepancia-de-dates-001",
-        "marratxa-recipient-i-calendari-001"
+        "marratxa-recipient-i-calendari-001",
+        "marratxa-versions-catalanes-i-origen-001"
       ]
     },
     "docs/temes/costums/danses/les-festes-de-lossa.md": {
