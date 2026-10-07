@@ -15,6 +15,7 @@ el BOPA no implica cap suport al projecte. No s'atribueix una llicència global 
 - André Vilar, L'Andorre (1904), pp. 34–35, obra en domini públic. Resum i adaptació per a Maia; la tesi s'atribueix a l'autor.
 - André Vilar, L'Andorre (1904), pp. 35–36, obra en domini públic. Resum i adaptació per a Maia; les disposicions s'atribueixen a les lletres patents d'Enric IV tal com les transcriu Vilar.
 - André Vilar, L'Andorre (1904), pp. 38–39, obra en domini públic. Resum i adaptació per a Maia; la interpretació s'atribueix a la carta administrativa transcrita per Vilar.
+- André Vilar, L'Andorre (1904), pp. 39–40, obra en domini públic. Resum i adaptació per a Maia; les postures s'atribueixen a les cartes transcrites per Vilar.
 - André Vilar, L'Andorre (1904), pp. 71–72, obra en domini públic. Resum i adaptació per a Maia; les afirmacions s'atribueixen expressament a l'autor.
 - André Vilar, L'Andorre (1904), pp. 72–73, obra en domini públic. Resum i adaptació per a Maia; afirmacions atribuïdes expressament a Vilar.
 - André Vilar, L'Andorre (1904), pp. 73–74, obra en domini públic. Resum i adaptació per a Maia; afirmacions atribuïdes expressament a Vilar.
