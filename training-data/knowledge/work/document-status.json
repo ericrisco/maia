@@ -1,0 +1,23 @@
+{
+  "updated_at": "2026-10-07",
+  "source_scope": "docs/temes",
+  "overall_status": "in_progress",
+  "documents": {
+    "docs/temes/cultura/museus-i-arxius/el-diposit-legal.md": {
+      "status": "in_progress",
+      "conversation_ids": [
+        "diposit-legal-web-fora-dandorra-001",
+        "diposit-legal-publicacio-en-linia-sense-numero-001"
+      ],
+      "covered_units": [
+        "Llei 15/2025, article 22: scope of online publications; hosting location and domain; access unrestricted or restricted",
+        "Llei 15/2025, article 8.3: publisher duties for online deposit and the National Library's selection role",
+        "Llei 15/2025, article 25: no legal-deposit number for online publications; separate ISBN/standard identifier obligation when applicable"
+      ],
+      "open_units": [
+        "Review and represent the remaining sections of this article and linked coverage of Law 15/2025 and Decree 100/2026",
+        "Review exclusions, publication formats, copy counts, preservation, access, sanctions, and all related tables and links"
+      ]
+    }
+  }
+}
