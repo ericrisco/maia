@@ -916,5 +916,22 @@
     "reviewed_units": [
       "La idea dels gegants d’Andorra la Vella se situa cap al 1982 i la construcció el 1985; la tradició és recent, i la valoració sobre manca d’espontaneïtat s’atribueix a Canturri."
     ]
+  },
+  "docs/temes/cultura/literatura/literatura-andorrana.md": {
+    "status": "in_progress",
+    "open_units": [
+      "Els contemporanis i les seves obres, premis i trajectòries encara no estan coberts.",
+      "La poesia andorrana, els poetes i les iniciatives públiques que la van impulsar no estan coberts.",
+      "La història editorial, les impremtes, les editorials i la consolidació del lector local encara no estan cobertes.",
+      "L’AEPA i els premis literaris encara no estan coberts.",
+      "Les distincions entre literatura andorrana i literatura sobre Andorra escrita des de fora requereixen converses específiques.",
+      "Els drets i l’elegibilitat de les obres literàries contemporànies continuen pendents de revisió obra per obra."
+    ],
+    "conversation_ids": [
+      "literatura-andorrana-manual-digest-inicis-001"
+    ],
+    "reviewed_units": [
+      "El Manual Digest (1748) és una obra primerenca de caràcter institucional; la fitxa no presenta el període posterior com una continuïtat literària local, i situa la consolidació pròpia als anys vuitanta i noranta."
+    ]
   }
 }

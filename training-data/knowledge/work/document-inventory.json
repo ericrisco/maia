@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 62,
+    "in_progress": 64,
     "no_natural_question": 0,
-    "not_started": 1286
+    "not_started": 1284
   },
   "documents": [
     {
@@ -1462,11 +1462,22 @@
       "type": "article",
       "topic": "temes/cultura/literatura",
       "source": "viquipedia-ca",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "literatura-andorrana-manual-digest-inicis-001"
+      ],
+      "reviewed_units": [
+        "El Manual Digest (1748) és una obra primerenca de caràcter institucional; la fitxa no presenta el període posterior com una continuïtat literària local, i situa la consolidació pròpia als anys vuitanta i noranta."
+      ],
+      "open_units": [
+        "Els contemporanis i les seves obres, premis i trajectòries encara no estan coberts.",
+        "La poesia andorrana, els poetes i les iniciatives públiques que la van impulsar no estan coberts.",
+        "La història editorial, les impremtes, les editorials i la consolidació del lector local encara no estan cobertes.",
+        "L’AEPA i els premis literaris encara no estan coberts.",
+        "Les distincions entre literatura andorrana i literatura sobre Andorra escrita des de fora requereixen converses específiques.",
+        "Els drets i l’elegibilitat de les obres literàries contemporànies continuen pendents de revisió obra per obra."
+      ],
       "completion_note": "",
       "reason": ""
     },
@@ -9964,9 +9975,11 @@
       "type": "article",
       "topic": "temes/historia/manual-digest",
       "source": "viquipedia-ca",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "literatura-andorrana-manual-digest-inicis-001"
+      ],
       "reviewed_units": [],
       "open_units": [],
       "completion_note": "",
