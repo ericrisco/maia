@@ -9,7 +9,7 @@
   "file_count": 1477,
   "article_count": 1348,
   "parse_error_count": 0,
-  "conversation_count": 150,
+  "conversation_count": 151,
   "file_status_totals": {
     "complete": 1,
     "excluded_rights": 0,
@@ -1983,7 +1983,7 @@
       "topic": "temes/cultura/museus-i-arxius/museus",
       "source": "wikipedia-museus-andorra",
       "status": "in_progress",
-      "conversation_count": 9,
+      "conversation_count": 10,
       "conversation_ids": [
         "afluencia-museus-monuments-serie-2017-2024-001",
         "museu-mes-visitat-casa-areny-plandolit-001",
@@ -1993,6 +1993,7 @@
         "museus-i-monuments-recuperacio-visites-001",
         "museus-recuperacio-pandemia-no-es-recuperacio-total-001",
         "museus-total-puja-museus-baixen-2023-2024-001",
+        "museus-zero-tancament-o-dada-absent-2024-001",
         "primer-museu-andorra-ordino-i-colleccio-001"
       ],
       "reviewed_units": [
@@ -2004,7 +2005,8 @@
         "El total museus+monuments puja 4,4% el 2024 malgrat la baixada del 2,1% als museus, perquè creixen els monuments; categories diferenciades.",
         "Afluència 2023-2024 per titularitat: nacional 45.331 (+2,2%), comunal 25.898 (+8,1%), privada 10.988 (+6,9%), mixta 10.366 (-35,1%); el retrocés agregat no implica caiguda a cada categoria.",
         "Primer Museu de Zoologia a Ordino (1935), venda de la col·lecció a Barcelona (1955) i conversió de l'edifici en Auditori Nacional el 1985; font CC BY-SA, export subjecte a compartir igual.",
-        "Museu Postal: obert 1982 a la Casa de la Vall, desmuntat el 1991 per obres constitucionals, reobert el 1998 a Ordino; font CC BY-SA."
+        "Museu Postal: obert 1982 a la Casa de la Vall, desmuntat el 1991 per obres constitucionals, reobert el 1998 a Ordino; font CC BY-SA.",
+        "A076: Museu Postal 2.655 visites el 2023 i 0 el 2024, sense motiu declarat; quatre museus tancats durant 2022; Museu de la Miniatura sense dades des de 2022, diferenciat de zero."
       ],
       "open_units": [
         "Revisar la resta de l'article sobre la xarxa museística, la història institucional i les fitxes dels museus; aquesta dada no cobreix l'article complet."
