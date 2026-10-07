@@ -374,7 +374,7 @@
       "topic": "temes/costums/religiositat",
       "source": "bopa-ad",
       "status": "in_progress",
-      "conversation_count": 7,
+      "conversation_count": 8,
       "conversation_ids": [
         "registre-religios-associacio-cultural-dependent-03",
         "registre-religios-cancellacio-inactivitat-06",
@@ -382,7 +382,8 @@
         "registre-religios-exclusio-parapsicologia-04",
         "registre-religios-no-inscrit-responsabilitat-i-inscripcio-01",
         "registre-religios-proselitisme-proporcionalitat-05",
-        "registre-religios-publicitat-i-abast-02"
+        "registre-religios-publicitat-i-abast-02",
+        "registre-religios-termin-inscripcio-prorroga-08"
       ],
       "reviewed_units": [
         "Responsabilitat solidària dels membres d’una entitat religiosa no inscrita per les obligacions contretes en nom seu (art. 15.1).",
@@ -394,7 +395,8 @@
         "Exclusions del Registre religiós per a entitats centrades en fenòmens psíquics/parapsicològics o finalitats humanístiques i espiritualistes alienes a la religió; abast limitat de l’exclusió (art. 3.3).",
         "Límits a les restriccions i denegació per proselitisme abusiu o il·lícit: risc acreditat i proporcionalitat/adequació (art. 3.4).",
         "Cancel·lació d’ofici per deu anys d’inactivitat des de la darrera comunicació, amb notificació prèvia; causes alternatives (art. 11).",
-        "Documentació addicional per a entitats d’origen i dependència estrangera, escriptura pública, legalització, postil·la i traducció (art. 9.2 i 9.4)."
+        "Documentació addicional per a entitats d’origen i dependència estrangera, escriptura pública, legalització, postil·la i traducció (art. 9.2 i 9.4).",
+        "Termini ordinari de dos mesos, possible pròrroga de dos mesos per instrucció i mesures d’instrucció possibles (art. 6)."
       ],
       "open_units": [
         "Passada editorial integral de la fitxa: revisar la resta d’afirmacions i buits contra les converses i conservar explícitament allò que no consta."
