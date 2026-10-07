@@ -14,7 +14,8 @@
       "berdu-feriats-i-tancament-sega-001",
       "foraster-audiencia-especial-feriats-1902-001",
       "llista-feriats-1902-dies-i-fires-001",
-      "llista-feriats-1902-font-i-abast-001"
+      "llista-feriats-1902-font-i-abast-001",
+      "meritxell-feriat-i-festa-nacional-1902-001"
     ],
     "reviewed_units": [
       "La llista de 1902 tancava els tribunals del 27 de novembre al 4 de desembre per la fira d'Organyà; aquest interval no prova la durada de la fira ni l'assistència de persones concretes.",
@@ -24,7 +25,21 @@
       "La llista possiblement del segle XVIII esmenta Berdu, no identificat ni a la llista de 1902; la connexió entre la sega i el tancament d’estiu de 1902 no queda provada.",
       "El comentari de Brutails descriu una audiència especial fora dels dies feriats per al foraster, amb dipòsit de 15 pessetes i avís a l’altra part amb tres dies d’antelació; no n’estableix l’aplicació als habitants.",
       "Calendari de tancaments de 1902: diumenges, festes religioses i períodes fixos o mòbils; tres intervals s’associen a les fires de Salàs, la Seu i Organyà. La peça només data sis punts explícitament.",
-      "Abast i procedència de la llista: redactada i aprovada el 1902 per resoldre el desacord local sobre els dies feriats, no com a prova de pràctiques anteriors."
+      "Abast i procedència de la llista: redactada i aprovada el 1902 per resoldre el desacord local sobre els dies feriats, no com a prova de pràctiques anteriors.",
+      "El 8 de setembre de 1902 figura com a feriat judicial amb el nom Nativitat de la Mare de Déu; la llista no l’anomena Meritxell ni festa nacional."
+    ]
+  },
+  "docs/temes/costums/meritxell/meritxell.md": {
+    "status": "in_progress",
+    "open_units": [
+      "L’acta original del Consell General del 24-10-1873 que declararia Meritxell patrona del Principat; la referència actual és premsa no identificada.",
+      "Si hi ha una relació documentada entre el 8 de setembre i el Pareatge de 1278; la fitxa la deixa sense resoldre."
+    ],
+    "conversation_ids": [
+      "meritxell-feriat-i-festa-nacional-1902-001"
+    ],
+    "reviewed_units": [
+      "La llista judicial de 1902 anomena el 8 de setembre Nativitat de la Mare de Déu; no acredita per si sola que fos festa nacional ni que el Consell la denominés Meritxell."
     ]
   }
 }
