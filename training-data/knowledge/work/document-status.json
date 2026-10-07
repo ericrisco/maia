@@ -1,0 +1,16 @@
+{
+  "docs/temes/costums/calendari-festiu/calendari-festiu.md": {
+    "status": "in_progress",
+    "conversation_ids": ["festa-major-no-hi-ha-data-unica-01"],
+    "covered_units": [
+      "no hi ha una festa major comuna a tot Andorra",
+      "cada parròquia i moltes viles tenen festa major pròpia",
+      "les festes majors se celebren a l'estiu"
+    ],
+    "open_units": [
+      "dates concretes de cada parròquia i vila",
+      "altres fites del calendari festiu i el seu abast"
+    ],
+    "note": "La fitxa és un mapa general; no suplir els calendaris comunals absents."
+  }
+}
