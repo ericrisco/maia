@@ -9,7 +9,7 @@
   "file_count": 1477,
   "article_count": 1348,
   "parse_error_count": 0,
-  "conversation_count": 124,
+  "conversation_count": 125,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 0,
@@ -1164,11 +1164,12 @@
       "topic": "temes/cultura",
       "source": "estadistica-ad",
       "status": "in_progress",
-      "conversation_count": 5,
+      "conversation_count": 6,
       "conversation_ids": [
         "habits-culturals-biblioteques-enquesta-i-usuaris-001",
         "habits-culturals-cinema-biblioteques-001",
         "habits-culturals-cinema-edat-i-augment-001",
+        "habits-culturals-esport-total-i-edat-001",
         "habits-culturals-lectura-per-oci-genere-001",
         "habits-culturals-museus-per-edat-001"
       ],
@@ -1183,7 +1184,9 @@
         "Enquesta sobre museus per edat: total 63,8% → 54,5%; el grup de 65+ registra la caiguda més forta, 55,2% → 38,2% (-17 punts).",
         "Museus per edat el 2024: 15-29, 58,6%; 30-44, 62,4%; 45-64, 54,5%; 65+, 38,2%.",
         "Cinema per edat: augment a tots els grups; màxim augment als 45-64 (+12,8 punts), mentre que els 15-29 mantenen la proporció més alta el 2024.",
-        "Definició de l'indicador: percentatge d'enquestats que declara haver anat, no entrades venudes ni freqüència."
+        "Definició de l'indicador: percentatge d'enquestats que declara haver anat, no entrades venudes ni freqüència.",
+        "Esport: 73,2% → 77,8% (+4,6 punts) en conjunt; 45-64 +8,1, 65+ +7,8 i 30-44 -1,2.",
+        "L'indicador d'esport no mesura hores ni freqüència de pràctica."
       ],
       "open_units": [
         "Revisar les altres activitats de l'enquesta i els seus desglossaments per edat, sexe i estudis.",
