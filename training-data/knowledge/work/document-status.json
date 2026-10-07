@@ -865,11 +865,11 @@
       "title": "Les escoles d'art comunals",
       "type": "article",
       "topic": "temes/cultura/arts-visuals",
-      "status": "not_started",
+      "status": "complete",
       "unit_count": 59,
       "covered_unit_ids": [],
-      "excluded_unit_count": 0,
-      "open_unit_count": 59,
+      "excluded_unit_count": 59,
+      "open_unit_count": 0,
       "conversation_ids": []
     },
     "docs/temes/cultura/arts-visuals/sergi-mas.md": {
