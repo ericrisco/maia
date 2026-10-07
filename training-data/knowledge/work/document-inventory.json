@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 22,
+    "in_progress": 23,
     "no_natural_question": 0,
-    "not_started": 1326
+    "not_started": 1325
   },
   "documents": [
     {
@@ -449,12 +449,14 @@
       "topic": "temes/costums/religiositat",
       "source": "bopa-ad",
       "status": "in_progress",
-      "conversation_count": 1,
+      "conversation_count": 2,
       "conversation_ids": [
+        "comunitat-musulmana-xifra-estimada-i-registre-001",
         "registre-religios-vint-persones-i-personalitat-juridica-001"
       ],
       "reviewed_units": [
-        "Llei 2/2025: mínim de vint persones (andorranes o residents), amb almenys una persona adulta amb plenitud de drets; la personalitat jurídica s’adquireix amb la inscripció."
+        "Llei 2/2025: mínim de vint persones (andorranes o residents), amb almenys una persona adulta amb plenitud de drets; la personalitat jurídica s’adquireix amb la inscripció.",
+        "La Llei 2/2025 fa constar el nombre aproximat de practicants de cada entitat inscrita; això no és un cens general de tota la població religiosa."
       ],
       "open_units": [
         "Entrades actuals del Registre: nombre i identitat de les entitats i distribució dels llocs de culte; no consultades al corpus.",
@@ -490,10 +492,14 @@
       "type": "article",
       "topic": "temes/costums/religiositat",
       "source": "pastor-andorra-diversa",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "comunitat-musulmana-xifra-estimada-i-registre-001"
+      ],
+      "reviewed_units": [
+        "Els aproximadament 2.000 musulmans són una estimació, no un cens; la font declara incompletes les xifres disponibles."
+      ],
       "open_units": [],
       "completion_note": "",
       "reason": ""

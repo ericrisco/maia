@@ -193,10 +193,12 @@
     ],
     "completion_note": "Revisada la fitxa sencera i contrastades les afirmacions jurídiques amb la Llei 2/2025, la Constitució i el BOPA. Les normes, els procediments, les excepcions i els límits d’evidència estan representats en converses naturals; les dades actuals que la font no aporta queden registrades com a buits i no s’infereixen.",
     "conversation_ids": [
-      "registre-religios-vint-persones-i-personalitat-juridica-001"
+      "registre-religios-vint-persones-i-personalitat-juridica-001",
+      "comunitat-musulmana-xifra-estimada-i-registre-001"
     ],
     "reviewed_units": [
-      "Llei 2/2025: mínim de vint persones (andorranes o residents), amb almenys una persona adulta amb plenitud de drets; la personalitat jurídica s’adquireix amb la inscripció."
+      "Llei 2/2025: mínim de vint persones (andorranes o residents), amb almenys una persona adulta amb plenitud de drets; la personalitat jurídica s’adquireix amb la inscripció.",
+      "La Llei 2/2025 fa constar el nombre aproximat de practicants de cada entitat inscrita; això no és un cens general de tota la població religiosa."
     ]
   },
   "docs/temes/cultura/museus-i-arxius/com-sentra-a-larxiu-nacional.md": {
@@ -382,6 +384,16 @@
     ],
     "reviewed_units": [
       "Exemple de 1601 citat com a cas excepcional de privilegi d’un copríncep que anul·la la decisió de l’altre."
+    ]
+  },
+  "docs/temes/costums/religiositat/les-religions-dandorra-avui.md": {
+    "open_units": [],
+    "status": "in_progress",
+    "conversation_ids": [
+      "comunitat-musulmana-xifra-estimada-i-registre-001"
+    ],
+    "reviewed_units": [
+      "Els aproximadament 2.000 musulmans són una estimació, no un cens; la font declara incompletes les xifres disponibles."
     ]
   }
 }
