@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 5,
+    "in_progress": 6,
     "no_natural_question": 0,
-    "not_started": 1343
+    "not_started": 1342
   },
   "documents": [
     {
@@ -140,10 +140,14 @@
       "type": "article",
       "topic": "temes/costums/danses",
       "source": "premsa-andorrana",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "sardana-introduccio-i-mestre-001"
+      ],
+      "reviewed_units": [
+        "Introducció de la sardana cap als anys quaranta segons Canturri; Ventura Armengol l’ensenyava i la cobla sardanista va arribar més tard sota el Sr. Pantebre."
+      ],
       "open_units": [],
       "completion_note": "",
       "reason": ""
