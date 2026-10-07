@@ -13756,7 +13756,7 @@
       "title": "Demografia",
       "type": "article",
       "topic": "temes/societat/demografia",
-      "status": "in_progress",
+      "status": "complete",
       "unit_count": 14,
       "covered_unit_ids": [
         "docs/temes/societat/demografia/demografia.md#unit-0001",
@@ -13767,8 +13767,8 @@
         "docs/temes/societat/demografia/demografia.md#unit-0011",
         "docs/temes/societat/demografia/demografia.md#unit-0013"
       ],
-      "excluded_unit_count": 0,
-      "open_unit_count": 7,
+      "excluded_unit_count": 7,
+      "open_unit_count": 0,
       "conversation_ids": [
         "demografia-composicio-nacionalitats-juliol-2026-001",
         "demografia-dues-series-encamp-2026-001",
