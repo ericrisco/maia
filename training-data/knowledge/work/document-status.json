@@ -831,11 +831,17 @@
         "docs/temes/cultura/llegendes/el-minairo.md#unit-0009",
         "docs/temes/cultura/llegendes/el-minairo.md#unit-0010",
         "docs/temes/cultura/llegendes/el-minairo.md#unit-0011",
-        "docs/temes/cultura/llegendes/el-minairo.md#unit-0012"
+        "docs/temes/cultura/llegendes/el-minairo.md#unit-0012",
+        "docs/temes/cultura/llegendes/el-minairo.md#unit-0014",
+        "docs/temes/cultura/llegendes/el-minairo.md#unit-0015",
+        "docs/temes/cultura/llegendes/el-minairo.md#unit-0016",
+        "docs/temes/cultura/llegendes/el-minairo.md#unit-0017",
+        "docs/temes/cultura/llegendes/el-minairo.md#unit-0018"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 28,
+      "open_unit_count": 23,
       "conversation_ids": [
+        "minairo-canuto-i-cases-pairals-001",
         "minairo-canuto-i-tarteres-001",
         "minairo-naturalesa-i-origen-001"
       ]
