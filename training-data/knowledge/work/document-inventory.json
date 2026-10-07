@@ -374,7 +374,7 @@
       "topic": "temes/costums/religiositat",
       "source": "bopa-ad",
       "status": "in_progress",
-      "conversation_count": 23,
+      "conversation_count": 24,
       "conversation_ids": [
         "registre-religios-actualitzar-dades-declaracio-biennal-14",
         "registre-religios-associacio-cultural-dependent-03",
@@ -385,6 +385,7 @@
         "registre-religios-denegacio-i-recurs-opcional-10",
         "registre-religios-documentacio-entitat-estrangera-07",
         "registre-religios-documentacio-sollicitud-basica-18",
+        "registre-religios-efectes-personalitat-beneficis-no-lucratius-24",
         "registre-religios-esmena-documents-terminari-09",
         "registre-religios-exclusio-parapsicologia-04",
         "registre-religios-indicis-penals-trasllat-fiscalia-23",
@@ -426,7 +427,8 @@
         "Obligació del Govern d’establir canals de diàleg amb entitats inscrites i absència de dades sobre el mecanisme actual (art. 14).",
         "Nomenament del responsable i suplents, casos d’actuació, autonomia i autoritat que emet assentaments (art. 5).",
         "Presentació al Servei de Tràmits, gratuïtat de la inscripció i destinatari/domicili de les notificacions (art. 6).",
-        "Comunicació d’indicis racionals d’il·licitud penal al ministre i eventual trasllat al Ministeri Fiscal (art. 6)."
+        "Comunicació d’indicis racionals d’il·licitud penal al ministre i eventual trasllat al Ministeri Fiscal (art. 6).",
+        "Efectes de la inscripció: personalitat jurídica i beneficis generals per a entitats sense ànim de lucre; absència d’exempció fiscal concreta a la Llei 2/2025 (art. 10)."
       ],
       "open_units": [
         "Passada editorial integral de la fitxa: revisar la resta d’afirmacions i buits contra les converses i conservar explícitament allò que no consta."
