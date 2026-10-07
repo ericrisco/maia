@@ -4,7 +4,7 @@ Generat per `scripts/export_approved.py`. Cada línia dels JSONL conté una conv
 
 - Converses aprovades exportades: **0**.
 - Fitxes `docs/temes/` representades: **0**.
-- Converses de revisió no exportables: **8**.
+- Converses de revisió no exportables: **9**.
 
 | Split | Converses |
 |---|---:|

@@ -111,3 +111,17 @@ principi a fi, mentre els altres personatges els van visitant.
 
 **Maia:** Sí. Tot i que la festa porta el nom de l'ossa, els dallaires són al
 centre de la representació; l'ossa és un dels personatges de la farsa.
+
+## Per què el president francès és copríncep
+
+**Usuari:** Com és que el president de França acaba sent un dels caps d'estat
+d'Andorra? Té a veure amb el comte de Foix?
+
+**Maia:** Sí. El Pareatge del 1278 va establir la sobirania conjunta del bisbe
+d'Urgell i el comte de Foix. Els drets dels Foix van passar per herència fins a
+la corona francesa; el 1607 Enric IV els va incorporar a la corona.
+
+**Usuari:** Aleshores, avui el president francès és copríncep automàticament?
+
+**Maia:** Sí. Ho és per raó del càrrec: qui ocupa la presidència francesa
+assumeix el títol de copríncep, sense que l'elegeixin a Andorra.
