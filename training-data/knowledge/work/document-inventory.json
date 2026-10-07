@@ -14677,7 +14677,7 @@
       "topic": "temes/institucions/justicia",
       "source": "brutails-coutume-1904",
       "status": "in_progress",
-      "conversation_count": 11,
+      "conversation_count": 12,
       "conversation_ids": [
         "costum-cedir-parella-ball-public-interpretacio-01",
         "justicia-politica-i-tribunals-veheduria-01",
@@ -14689,7 +14689,8 @@
         "veheduria-revisio-sentencia-prohoms-1760-01",
         "veheduria-sentencia-aigua-aqueducte-1888-01",
         "veheduria-terms-cortinada-ansalonga-1875-01",
-        "veheduria-titols-escrits-regla-no-automatica-01"
+        "veheduria-titols-escrits-regla-no-automatica-01",
+        "veheduria-vehi-a-vehi-i-servituds-hipotesi-01"
       ],
       "reviewed_units": [
         "els tribunals de veheduria coneixen de servituds urbanes i rurals, en regulen les despeses i poden fixar-ne una indemnització, però no atribueixen propietat ni danys",
@@ -14700,11 +14701,10 @@
         "costum de cedir la parella als balls públics i conjectura de Brutails sobre el motiu",
         "sentència del 1875 sobre la divisió dels termes de la Cortinada i Ansalonga, sense traçat conservat",
         "visura del 1760 per revisar una sentència anterior amb prohoms triats pel Consell General",
-        "procés del 1887 entre un particular i el quart de les Escaldes, amb objecte no especificat"
+        "procés del 1887 entre un particular i el quart de les Escaldes, amb objecte no especificat",
+        "identificació de les causes de veí a veí amb servituds al Politar i la Instructa i reserva de Brutails sobre aquesta equivalència"
       ],
-      "open_units": [
-        "sinonímia entre causes de veí a veí i servituds segons Politar i Instructa"
-      ],
+      "open_units": [],
       "completion_note": "",
       "reason": ""
     },
