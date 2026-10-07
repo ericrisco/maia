@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 59,
+    "in_progress": 60,
     "no_natural_question": 0,
-    "not_started": 1289
+    "not_started": 1288
   },
   "documents": [
     {
@@ -1365,11 +1365,20 @@
       "type": "article",
       "topic": "temes/cultura",
       "source": "estadistica-ad",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "habits-culturals-cinema-per-edat-i-museus-001"
+      ],
+      "reviewed_units": [
+        "El cinema augmenta en tots els trams d’edat del 2019 al 2024, amb el creixement més gran entre 45–64; els museus baixen en tots els grups i la font no explica les causes."
+      ],
+      "open_units": [
+        "L’enquesta compara només les onades del 2019 i el 2024; no permet inferir una tendència contínua ni explicar causes.",
+        "La lectura per llengua, tipus de contingut i parròquia no es publica en aquesta enquesta.",
+        "Els desglossaments per sexe, estudis, renda i edat i les sèries de biblioteques contenen més dades no cobertes en una conversa.",
+        "La taula de voluntariat té divergències entre el total i el desglossament per sexe en 2022–2024; cal tractar-les sense barrejar sèries."
+      ],
       "completion_note": "",
       "reason": ""
     },

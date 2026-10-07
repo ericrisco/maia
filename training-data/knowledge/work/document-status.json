@@ -872,5 +872,20 @@
     "reviewed_units": [
       "Les fonts divergeixen sobre el motiu pel qual Sergi Mas es va establir a Andorra el 1957; el corpus no permet arbitrar-ho."
     ]
+  },
+  "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md": {
+    "status": "in_progress",
+    "open_units": [
+      "L’enquesta compara només les onades del 2019 i el 2024; no permet inferir una tendència contínua ni explicar causes.",
+      "La lectura per llengua, tipus de contingut i parròquia no es publica en aquesta enquesta.",
+      "Els desglossaments per sexe, estudis, renda i edat i les sèries de biblioteques contenen més dades no cobertes en una conversa.",
+      "La taula de voluntariat té divergències entre el total i el desglossament per sexe en 2022–2024; cal tractar-les sense barrejar sèries."
+    ],
+    "conversation_ids": [
+      "habits-culturals-cinema-per-edat-i-museus-001"
+    ],
+    "reviewed_units": [
+      "El cinema augmenta en tots els trams d’edat del 2019 al 2024, amb el creixement més gran entre 45–64; els museus baixen en tots els grups i la font no explica les causes."
+    ]
   }
 }
