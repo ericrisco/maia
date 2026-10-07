@@ -1,9 +1,11 @@
 # Procedència dels exemples de calibratge
 
-Aquests exemples només serveixen per revisar el to. No són candidats ni compten per a cobertura.
+Els tres diàlegs de `calibration.jsonl` són mostres editorials i no formen part de cap export d'entrenament. Resumeixen informació del corpus sense reproduir passatges llargs de la font.
 
-| Exemple | Fonts Maia | Drets i límit |
-|---|---|---|
-| Aplicació i entrada en vigor | `docs/temes/institucions/relacions-exteriors/el-reconeixement-internacional.md`; `docs/raw/lleis/bopa/tractat-bon-veinatge-1993-07-20.txt`; `docs/fonts/bopa.md` | Tractat publicat al BOPA. Citar el títol i l'article 10è. No s'inventa la data del darrer dipòsit. |
-| Consultes davant una amenaça | `docs/raw/lleis/bopa/tractat-bon-veinatge-1993-07-20.txt`; `docs/fonts/bopa.md` | Tractat publicat al BOPA. Citar el títol i l'article 3r. No es converteixen consultes en una garantia d'intervenció militar. |
-| Canvi en l'assistència al cinema | `docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md`; `docs/fonts/estadistica-ad.md` | Dades pròpies del Departament d'Estadística, CC BY 4.0. Cal atribució. Només hi ha observacions per al 2019 i el 2024. |
+| Exemple | Documents Maia | Fonts i condicions | Límit que es conserva |
+|---|---|---|---|
+| El nom de la Marratxa | `docs/temes/costums/danses/la-marratxa.md` | Viquipèdia en català; CC BY-SA 4.0, amb atribució i compartir igual. | El recipient perfumat és documentat com a objecte dels orígens; la fitxa diu que ja no forma part del ball actual. |
+| Dues dates per al 1278 | `docs/temes/costums/danses/la-marratxa.md`; `docs/temes/historia/pareatge/el-pareatge.md` | Viquipèdia en català; CC BY-SA 4.0. | La tradició de la dansa dona el 7 de setembre; la fitxa del Pareatge dona el 8. El corpus no resol la diferència. |
+| Origen i coreografia actual | `docs/temes/costums/danses/la-marratxa.md` | Viquipèdia en català; CC BY-SA 4.0. | La coreografia actual es va fixar als anys seixanta; això no demostra quan es va crear la dansa ni que la versió antiga fos idèntica. |
+
+La fitxa de la Marratxa cita les fonts al seu frontmatter i al cos. Abans de convertir cap exemple en dada activa o d'exportar-lo, cal conservar l'atribució i revisar les condicions de l'obra derivada segons CC BY-SA 4.0.

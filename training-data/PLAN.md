@@ -24,6 +24,16 @@ Abans de redactar, registrar per a cada fitxa: elegibilitat, font i llicència, 
 5. Comprovar cada afirmació contra fonts amb drets compatibles. No convertir interpretacions, tradicions o correlacions en fets provats.
 6. Llegir només els torns d'usuari: han de formar una conversa coherent i plausible, no una llista d'exercicis.
 
+### Porta editorial: pregunta humana abans que pregunta de corpus
+
+No generem una pregunta perquè una fitxa tingui una secció, una taula o una afirmació. Primer triem una cosa que una persona voldria entendre —una confusió, una curiositat, una decisió pràctica o una discrepància— i després comprovem què en pot respondre el corpus.
+
+Una conversa es rebutja si la primera pregunta només funciona amb el document obert, si un torn demana «què explica aquesta secció/fila?», si una resposta queda en fragment o si els seguiments semblen un qüestionari. La pregunta inicial ha de ser autònoma; els seguiments poden reprendre el context amb naturalitat. Dos o tres intercanvis són habituals, però no s'allarga una conversa per complir una quota.
+
+Abans d'acceptar-la, revisem separadament: (a) què vol aclarir l'usuari, (b) si la resposta contesta això a la primera frase, (c) si cada seguiment neix del torn anterior, (d) si el diàleg sona humà llegint només els missatges de l'usuari, i (e) si cada afirmació respecta les fonts i els seus límits. Si no passa qualsevol punt, es reescriu o s'exclou.
+
+`knowledge/review/calibration.jsonl` conté tres mostres amb aquest criteri. Són exemples editorials, no dades actives ni registres de cobertura. Les seves fonts i límits són a `knowledge/review/procedencia-exemples.md`.
+
 No s'accepten preguntes sobre «la secció», «la fila» o «la fitxa»; respostes fragmentàries; preguntes que demanen llistes sense motiu; seguiments desconnectats; ni afirmacions que la font no sosté. No s'inventen experiències personals.
 
 ## Registres Knowledge i traçabilitat
