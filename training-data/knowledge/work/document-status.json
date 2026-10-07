@@ -363,5 +363,25 @@
     "reviewed_units": [
       "Origen modern dels gegants d’Andorra la Vella: idea cap al 1982, construcció el 1985, figures triades per «fer poble»; portadors membres de la Gresca Gegantera."
     ]
+  },
+  "docs/temes/costums/religiositat/la-inquisicio-a-andorra.md": {
+    "open_units": [],
+    "status": "in_progress",
+    "conversation_ids": [
+      "inquisicio-andorra-i-jurisdiccio-1601-001"
+    ],
+    "reviewed_units": [
+      "Introducció del tribunal per Andreu Capella, privilegi de prohibició d’Enric IV el 1601 i absència de judicis documentats a Andorra; el procés de 1608 es va portar a Barcelona. Interpretació del privilegi com a cas únic de decisió d’un consenyor contra l’altre."
+    ]
+  },
+  "docs/temes/institucions/coprincipat/el-coprincipat.md": {
+    "open_units": [],
+    "status": "in_progress",
+    "conversation_ids": [
+      "inquisicio-andorra-i-jurisdiccio-1601-001"
+    ],
+    "reviewed_units": [
+      "Exemple de 1601 citat com a cas excepcional de privilegi d’un copríncep que anul·la la decisió de l’altre."
+    ]
   }
 }

@@ -4,14 +4,14 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 
 - Fitxes article: **1348**.
 - Fitxers totals, inclosos índexs: **1477**.
-- Converses candidates: **17**.
+- Converses candidates: **18**.
 
 | Estat de revisió | Fitxes |
 |---|---:|
 | Revisades completes | 0 |
-| En curs | 20 |
+| En curs | 22 |
 | Revisades sense pregunta natural | 0 |
-| No començades | 1328 |
+| No començades | 1326 |
 
 ## Estat per tema
 
@@ -25,7 +25,7 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 | `temes/costums/festes-majors` | 2 | 0 | 2 | 0 | 0 |
 | `temes/costums/gegants` | 1 | 0 | 1 | 0 | 0 |
 | `temes/costums/meritxell` | 1 | 0 | 1 | 0 | 0 |
-| `temes/costums/religiositat` | 5 | 4 | 1 | 0 | 0 |
+| `temes/costums/religiositat` | 5 | 3 | 2 | 0 | 0 |
 | `temes/costums/ritus-de-pas` | 2 | 1 | 1 | 0 | 0 |
 | `temes/costums/sant-antoni` | 1 | 1 | 0 | 0 | 0 |
 | `temes/cultura` | 1 | 1 | 0 | 0 | 0 |
@@ -83,7 +83,7 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 | `temes/historia/segle-xx-primera-meitat` | 30 | 30 | 0 | 0 | 0 |
 | `temes/institucions/comuns-i-parroquies` | 35 | 35 | 0 | 0 | 0 |
 | `temes/institucions/consell-general` | 84 | 84 | 0 | 0 | 0 |
-| `temes/institucions/coprincipat` | 33 | 33 | 0 | 0 | 0 |
+| `temes/institucions/coprincipat` | 33 | 32 | 1 | 0 | 0 |
 | `temes/institucions/govern` | 8 | 8 | 0 | 0 | 0 |
 | `temes/institucions/justicia` | 138 | 137 | 1 | 0 | 0 |
 | `temes/institucions/nacionalitat-i-residencia` | 18 | 18 | 0 | 0 | 0 |
