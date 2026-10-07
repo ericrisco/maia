@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 3,
-    "in_progress": 2,
+    "in_progress": 3,
     "no_natural_question": 0,
-    "not_started": 1343
+    "not_started": 1342
   },
   "documents": [
     {
@@ -157,11 +157,25 @@
       "type": "article",
       "topic": "temes/costums/danses",
       "source": "wikipedia-ball-ossa-encamp",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "encamp-ossa-protagonists-001"
+      ],
+      "reviewed_units": [
+        "Els personatges inclouen dallaires, el quefe, la fregona i el fregó, l’amo i la mestressa, caçadors i l’ossa.",
+        "Els dallaires ocupen el centre de la representació i els intèrprets sovint hi apareixen amb els seus noms reals; una conversa candidata cobreix aquesta diferència.",
+        "Una interpretació de la tesi d’Ysàs llegeix la farsa com un ritu iniciàtic en quatre fases; és una interpretació atribuïda, no un fet indiscutit.",
+        "Amades va descriure el 1950 una versió amb dallaires, fregona, cavaller, rusc i os; les variants i la diferència amb la descripció actual es registren sense decidir quina és l’autèntica.",
+        "Rossend Marsol, Sícoris, va refer el guió el 1959; la fitxa diu que va modernitzar la representació i va implicar-hi joves.",
+        "L’article registra discrepàncies sobre les dates de recuperació d’Ordino i resol la menció UNESCO com a inscripció del 2022."
+      ],
+      "open_units": [
+        "La tesi d’Eloi Ysàs, que sosté bona part de la interpretació, no s’ha pogut consultar; no incorporar-ne afirmacions interpretatives fins a verificar-ne l’accés i les condicions d’ús.",
+        "La descripció extensa d’Amades és text protegit; no reproduir-la ni convertir-ne els detalls en candidats sense confirmar l’abast de reutilització permès.",
+        "La cronologia exacta d’Ordino continua discrepant entre la tesi de Masegosa i l’article de Viquipèdia.",
+        "La fitxa de la UNESCO té reutilització limitada i la música, les partitures i el text complet de la farsa no són al corpus."
+      ],
       "completion_note": "",
       "reason": ""
     },
