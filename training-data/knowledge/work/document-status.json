@@ -723,6 +723,8 @@
       "status": "in_progress",
       "unit_count": 73,
       "covered_unit_ids": [
+        "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0027",
+        "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0028",
         "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0046",
         "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0047",
         "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0048",
@@ -732,8 +734,9 @@
         "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0053"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 66,
+      "open_unit_count": 64,
       "conversation_ids": [
+        "biblioteques-prestecs-i-inscrits-2020-001",
         "lectura-oci-diferencia-sexe-001",
         "lectura-oci-estudis-001"
       ]
