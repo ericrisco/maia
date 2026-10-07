@@ -17,8 +17,8 @@ splits sense fuga.
 training-data/
 ├── PLAN.md
 ├── knowledge/
-│   ├── examples.jsonl       # mostres editorials, només missatges
-│   ├── review/              # converses aprovades i procedència
+│   ├── scripts/             # inventari i exportació
+│   ├── review/              # exemples, converses aprovades i procedència
 │   ├── work/                # inventari i seguiment de cobertura
 │   ├── output/              # exports quan hi hagi prou material revisat
 │   └── reports/             # cobertura, qualitat i exclusions

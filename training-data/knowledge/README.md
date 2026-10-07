@@ -13,5 +13,8 @@ fitxes a preguntes.
 - `output/`: splits finals, quan existeixin.
 - `reports/`: cobertura, qualitat i decisions d'exclusió.
 
+Per reconstruir l'inventari i el report de cobertura des de `docs/temes/`,
+executa `python3 training-data/knowledge/scripts/build_document_inventory.py`.
+
 Format exportat: una conversa JSON per línia amb `messages` i només els rols
 `user` i `assistant`.
