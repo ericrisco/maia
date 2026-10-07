@@ -3,10 +3,10 @@
   "article_count": 1348,
   "file_count": 1477,
   "status_totals": {
-    "complete": 2,
+    "complete": 3,
     "in_progress": 0,
     "no_natural_question": 0,
-    "not_started": 1346
+    "not_started": 1345
   },
   "documents": [
     {
@@ -77,13 +77,13 @@
       "type": "index",
       "topic": "",
       "source": "",
-      "status": "not_started",
+      "status": "no_natural_question",
       "conversation_count": 0,
       "conversation_ids": [],
       "reviewed_units": [],
       "open_units": [],
       "completion_note": "",
-      "reason": ""
+      "reason": "Índex de navegació amb una única fitxa filla; no afegeix fets autònoms. La fitxa s’ha revisat per separat."
     },
     {
       "path": "docs/temes/costums/caramelles/les-caramelles.md",
@@ -91,12 +91,22 @@
       "type": "article",
       "topic": "temes/costums/caramelles",
       "source": "premsa-andorrana",
-      "status": "not_started",
+      "status": "complete",
       "conversation_count": 0,
       "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
-      "completion_note": "",
+      "reviewed_units": [
+        "La fitxa descriu les caramelles com a cant de Pasqua, el canvi històric de recollir ous a recollir diners i el vocabulari caramellaires i Pasqüetes.",
+        "La fitxa diferencia la pràctica d’Ordino i el recorregut de Sant Julià; incorpora hora, parades i corals participants segons informació de 2026.",
+        "La fitxa situa l’inici de les caramelles andorranes amb refugiats catalans durant la Segona Guerra Mundial, però això no resol si hi ha documents anteriors.",
+        "No hi ha lletres transcrites ni una font amb drets clars per afegir-les al corpus de parla; no s’infereix cap cançó concreta."
+      ],
+      "open_units": [
+        "La font principal declarada és premsa amb drets reservats i sense referència bibliogràfica individualitzada.",
+        "La fitxa patrimonial del Govern té drets reservats i requereix autorització per reutilitzar o transformar el contingut.",
+        "L’entrevista de la Coral Rocafort està publicada en premsa amb drets reservats.",
+        "Lletres i enregistraments de caramelles no tenen drets d’ús documentats per a Maia Language."
+      ],
+      "completion_note": "Fitxa sencera i actualitzacions revisades. Les preguntes possibles sobre el canvi d’ous a diners, el recorregut de Sant Julià i les corals depenen de fonts no redistribuïbles. No s’ha creat cap candidat ni s’han copiat fragments. Revisió completa; dades excloses de l’export mentre no hi hagi autorització o una font equivalent reutilitzable.",
       "reason": ""
     },
     {

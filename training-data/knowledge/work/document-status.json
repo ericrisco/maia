@@ -34,5 +34,25 @@
       "El text de les farses, la música i els seus guions encara no són al corpus."
     ],
     "completion_note": "Fitxa sencera revisada, incloses les actualitzacions i els buits declarats. No s’ha creat candidat perquè les fonts que sustenten les afirmacions tenen drets reservats o reutilització pendent. Revisió de contingut completa; cap dada queda aprovada per exportar."
+  },
+  "docs/temes/costums/caramelles/caramelles-index-de-fitxes.md": {
+    "status": "no_natural_question",
+    "reason": "Índex de navegació amb una única fitxa filla; no afegeix fets autònoms. La fitxa s’ha revisat per separat."
+  },
+  "docs/temes/costums/caramelles/les-caramelles.md": {
+    "status": "complete",
+    "reviewed_units": [
+      "La fitxa descriu les caramelles com a cant de Pasqua, el canvi històric de recollir ous a recollir diners i el vocabulari caramellaires i Pasqüetes.",
+      "La fitxa diferencia la pràctica d’Ordino i el recorregut de Sant Julià; incorpora hora, parades i corals participants segons informació de 2026.",
+      "La fitxa situa l’inici de les caramelles andorranes amb refugiats catalans durant la Segona Guerra Mundial, però això no resol si hi ha documents anteriors.",
+      "No hi ha lletres transcrites ni una font amb drets clars per afegir-les al corpus de parla; no s’infereix cap cançó concreta."
+    ],
+    "open_units": [
+      "La font principal declarada és premsa amb drets reservats i sense referència bibliogràfica individualitzada.",
+      "La fitxa patrimonial del Govern té drets reservats i requereix autorització per reutilitzar o transformar el contingut.",
+      "L’entrevista de la Coral Rocafort està publicada en premsa amb drets reservats.",
+      "Lletres i enregistraments de caramelles no tenen drets d’ús documentats per a Maia Language."
+    ],
+    "completion_note": "Fitxa sencera i actualitzacions revisades. Les preguntes possibles sobre el canvi d’ous a diners, el recorregut de Sant Julià i les corals depenen de fonts no redistribuïbles. No s’ha creat cap candidat ni s’han copiat fragments. Revisió completa; dades excloses de l’export mentre no hi hagi autorització o una font equivalent reutilitzable."
   }
 }
