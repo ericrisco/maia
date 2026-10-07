@@ -1114,12 +1114,14 @@
       "topic": "temes/cultura/artesania",
       "source": "mas-pagesos-i-artesans",
       "status": "in_progress",
-      "conversation_count": 1,
+      "conversation_count": 2,
       "conversation_ids": [
+        "farga-i-ferrer-dues-feines-001",
         "ferrers-modernitzacio-i-caiguda-demanda-001"
       ],
       "reviewed_units": [
-        "Els ferrers es van modernitzar, però van perdre clients per la mecanització agrícola, els tractors i les eines importades; ferrar animals era la tasca principal, no l’única."
+        "Els ferrers es van modernitzar, però van perdre clients per la mecanització agrícola, els tractors i les eines importades; ferrar animals era la tasca principal, no l’única.",
+        "La farga transforma el mineral en ferro; el ferrer treballa el ferro per fer eines i ferrar animals."
       ],
       "open_units": [
         "Divergència interna sobre l’auge al primer quart del segle XX malgrat decadència i tancament el 1893.",

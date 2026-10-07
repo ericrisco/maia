@@ -725,10 +725,12 @@
       "La llista nominal de treballadors francesos de 1629, ordenada però encara no localitzada."
     ],
     "conversation_ids": [
-      "ferrers-modernitzacio-i-caiguda-demanda-001"
+      "ferrers-modernitzacio-i-caiguda-demanda-001",
+      "farga-i-ferrer-dues-feines-001"
     ],
     "reviewed_units": [
-      "Els ferrers es van modernitzar, però van perdre clients per la mecanització agrícola, els tractors i les eines importades; ferrar animals era la tasca principal, no l’única."
+      "Els ferrers es van modernitzar, però van perdre clients per la mecanització agrícola, els tractors i les eines importades; ferrar animals era la tasca principal, no l’única.",
+      "La farga transforma el mineral en ferro; el ferrer treballa el ferro per fer eines i ferrar animals."
     ]
   }
 }
