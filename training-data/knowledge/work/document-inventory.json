@@ -14296,9 +14296,10 @@
       "topic": "temes/institucions/justicia",
       "source": "brutails-coutume-1904",
       "status": "in_progress",
-      "conversation_count": 4,
+      "conversation_count": 5,
       "conversation_ids": [
         "competencia-consol-penal-versus-civil-01",
+        "competencia-criminal-consell-politar-divergencia-01",
         "competencia-demanda-consol-deute-personal-01",
         "competencia-plet-comu-segons-demandant-01",
         "consols-detencio-danys-comunal-decret-1866-01"
@@ -14309,7 +14310,8 @@
         "diferència entre demanda civil i persecució criminal",
         "regla de competència segons qui és demandant o demandat",
         "diferència entre la regla doctrinal i els casos històrics",
-        "supòsits i límits del decret de detenció del 1866"
+        "supòsits i límits del decret de detenció del 1866",
+        "pràctica del Consell General en matèria criminal i divergència amb la doctrina atribuïda al Politar"
       ],
       "open_units": [
         "diferència entre demanda civil i persecució criminal",
