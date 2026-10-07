@@ -290,19 +290,21 @@
       "conversation_ids": [
         "acte-1133-sous-donacio-no-venda-001",
         "acte-1133-emprament-emparament-001",
-        "acte-1133-ajut-defensa-jurament-001"
+        "acte-1133-ajut-defensa-jurament-001",
+        "acte-1133-limit-sant-serni-001"
       ],
       "covered_units": [
         "Naturalesa de l'acte i pagament: el document el motiva pels malfets i la redempció de l'ànima; el bisbe dona 1.200 sous al comte. La interpretació com a venda encoberta no queda resolta.",
         "Emprament i emparament: el comte concedeix als andorrans dret d'ús a les seves terres i protecció del comte, dels seus homes i successors; els usos concrets i l'abast territorial no queden detallats.",
-        "Ordre als habitants: complir la donació, ajudar i defensar el bisbe contra qualsevol persona i jurar per sagrament; la fitxa interpreta la fórmula com a defensa armada, sense detall d'execució."
+        "Ordre als habitants: complir la donació, ajudar i defensar el bisbe contra qualsevol persona i jurar per sagrament; la fitxa interpreta la fórmula com a defensa armada, sense detall d'execució.",
+        "Abast territorial: l'acte inclou la vall d'Andorra i Arcavell, amb límit des del monestir de Sant Serni cap amunt; la ubicació del monestir i qualsevol frontera posterior no estan identificades."
       ],
       "open_units": [
-        "Cobrir què es transmet (censos, usatges i alous), la fórmula de transmissió total i el límit territorial des de Sant Serni.",
         "Cobrir la doble sanció civil i espiritual, els signants i la data del document.",
         "Representar els buits: identificació del bisbe, ubicació de Sant Serni, execució dels drets d'ús, lectures de l'OCR i drets pendents de l'edició de 1920.",
         "Comprovar amb més fonts l'abast concret de l'emprament i emparament, l'emplaçament de les terres i si el dret es va exercir; l'acte no dona aquests detalls.",
-        "La font no concreta com, quan ni en quines circumstàncies s'exercien les obligacions d'ajut i defensa."
+        "La font no concreta com, quan ni en quines circumstàncies s'exercien les obligacions d'ajut i defensa.",
+        "La ubicació de Sant Serni i la coincidència del límit amb fronteres posteriors continuen sense resoldre's; cal una font externa o identificació arxivística."
       ]
     }
   },
