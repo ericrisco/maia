@@ -2,10 +2,10 @@
 
 ## Objectiu
 
-Preparar dos datasets separats: **Maia Knowledge**, amb respostes correctes
-sobre Andorra, i **Maia Language**, basat només en llengua humana autèntica.
-La prioritat ara és acordar què sona com una conversa útil. Encara no toca
-produir registres en volum.
+Crear dos datasets separats i complets: **Maia Knowledge**, que representi tot
+el coneixement entrenable de `docs/temes/`, i **Maia Language**, que incorpori
+tot el material lingüístic humà elegible de `docs/parla/`. Es treballa tema a
+tema i conversa a conversa. No s'omet cap tema perquè sigui gran o difícil.
 
 ## Estructura
 
@@ -46,9 +46,13 @@ training-data/
 6. Rebutja la conversa si la pregunta només serveix per buidar una fitxa, si
    repeteix una altra amb sinònims o si la resposta sona a camps d'una taula.
 
-No hi ha una quota de preguntes per document. Una fitxa pot donar una conversa,
-unes quantes o cap. La cobertura es mesura pel coneixement útil que queda
-representat, no pel nombre de preguntes.
+No hi ha una quota fixa de preguntes per document. Però cal revisar totes les
+fitxes i representar tot el coneixement útil: una conversa pot cobrir diversos
+fets relacionats, i un tema pot necessitar moltes converses. Si una unitat no
+admet una pregunta natural per si sola, busca una conversa on ajudi a explicar
+un concepte més ampli. Només es deixa fora si no aporta coneixement entrenable;
+la decisió i el motiu queden al report de cobertura. No es pot marcar un tema
+complet si queda contingut útil sense revisar.
 
 ## Revisió abans d'afegir un registre
 
@@ -71,18 +75,26 @@ la revisió i els avisos de drets queden a `provenance.jsonl`, mai al text que
 aprèn el model. Els valors `no` i `pendent` s'han de mostrar com a avisos segons
 `docs/CONTRACT.md`; no es canvien ni s'amaguen.
 
-Maia Language segueix un procés separat. Només pot conservar parla humana
-elegible de `docs/parla/`; no es creen preguntes fictícies per convertir
-monòlegs en diàlegs.
+Maia Language segueix un procés separat. Cal inspeccionar totes les peces de
+`docs/parla/` i incloure el material contemporani elegible de veu humana quan
+es pugui conservar amb fidelitat. No es creen preguntes o respostes fictícies
+per convertir monòlegs en diàlegs. Els fragments dubtosos s'exclouen o es
+marquen amb el motiu; els splits s'agrupen per entrevista o parlant.
 
 ## Etapes
 
-1. Validar aquestes mostres amb l'usuari.
-2. Afegir converses Knowledge una a una i revisar-les abans d'aprovar-les.
-3. Reprendre l'inventari exhaustiu i informar què queda cobert i què no genera
-   una pregunta natural.
-4. Auditar Maia Language sense fabricar material lingüístic.
-5. Deduplicar, separar train/validation/test per font o conversa i validar els
-   exports quan hi hagi volum suficient.
+1. Repassar `docs/temes/` per branca i article. Anotar unitats de coneixement,
+   buits, conflictes i relacions abans de redactar converses.
+2. Escriure, contrastar i aprovar converses Knowledge una a una. Després de
+   cada conversa: validar-la, fer un commit específic i pujar-lo a `main`.
+3. Tancar cada branca amb una auditoria de cobertura; tornar als articles si
+   queda cap unitat útil sense conversa ni justificació.
+4. Revisar una per una totes les peces elegibles de `docs/parla/`, preservar
+   intervencions humanes autèntiques i documentar inclusions i exclusions.
+5. Deduplicar i dividir train/validation/test sense barrejar fragments de la
+   mateixa entrevista entre splits.
+6. Validar JSONL, procedència, drets, cobertura i qualitat dels exports.
 
-No començar l'etapa següent si l'anterior encara no té criteri i evidència clars.
+Els exports només es consideren complets quan tots els temes i totes les peces
+de llengua elegibles tenen un estat auditable i els informes mostren la
+cobertura final.
