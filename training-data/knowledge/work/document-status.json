@@ -652,7 +652,7 @@
       "title": "El romànic andorrà — índex",
       "type": "article",
       "topic": "temes/cultura/arquitectura",
-      "status": "in_progress",
+      "status": "complete",
       "unit_count": 18,
       "covered_unit_ids": [
         "docs/temes/cultura/arquitectura/romanic.md#unit-0002",
@@ -663,8 +663,8 @@
         "docs/temes/cultura/arquitectura/romanic.md#unit-0007",
         "docs/temes/cultura/arquitectura/romanic.md#unit-0011"
       ],
-      "excluded_unit_count": 0,
-      "open_unit_count": 11,
+      "excluded_unit_count": 11,
+      "open_unit_count": 0,
       "conversation_ids": [
         "meritxell-imatge-original-i-replica-001",
         "romanic-esglesies-i-cronologia-001"
