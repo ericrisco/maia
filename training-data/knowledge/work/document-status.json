@@ -1217,11 +1217,11 @@
       "title": "Llegendes — índex de fitxes",
       "type": "index",
       "topic": "",
-      "status": "not_started",
+      "status": "complete",
       "unit_count": 24,
       "covered_unit_ids": [],
-      "excluded_unit_count": 0,
-      "open_unit_count": 24,
+      "excluded_unit_count": 24,
+      "open_unit_count": 0,
       "conversation_ids": []
     },
     "docs/temes/cultura/llegendes/llegendes.md": {
