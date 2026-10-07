@@ -116,7 +116,8 @@
       "la cronologia d’Ordino transmesa per Masegosa difereix de la de Viquipèdia; el corpus no arbitra la represa de 1978 o 1985",
       "el binomi de «Els contrabandistes» i «L’ossa» són dues farses diferents i complementàries, representades en dies consecutius",
       "Masegosa interpreta la farsa d’Ordino com a defensa territorial; no és una prova de data d’origen o continuïtat medieval",
-      "programa de 2026: Judici dels Contrabandistes diumenge 15 de febrer a les 16 h i Ball de l’Ossa dilluns 16 a les 16.15 h, tots dos al Prat de l’Areny; el carnaval és mòbil"
+      "programa de 2026: Judici dels Contrabandistes diumenge 15 de febrer a les 16 h i Ball de l’Ossa dilluns 16 a les 16.15 h, tots dos al Prat de l’Areny; el carnaval és mòbil",
+      "el Judici dels Contrabandistes és una farsa pública i burlesca que posa simbòlicament el contraban a judici; no s’hi identifica cap procés real, guió, repartiment o sentència"
     ]
   },
   "docs/temes/costums/caramelles/les-caramelles.md": {
@@ -336,6 +337,22 @@
     "status": "in_progress",
     "reviewed_units": [
       "la fitxa de les festes de l’ossa li atribueix fotografies del ball a la plaça d’Ordino a principi del segle XX; no s’ha localitzat la imatge ni el fons"
+    ],
+    "completion_note": "",
+    "reason": ""
+  },
+  "docs/temes/historia/contraban/contraban.md": {
+    "status": "in_progress",
+    "reviewed_units": [
+      "el Carnaval d’Encamp representa el contraban en un judici fingit; la fitxa ho relaciona amb l’activitat econòmica històrica i el pas de fugitius en temps de guerra"
+    ],
+    "completion_note": "",
+    "reason": ""
+  },
+  "docs/temes/historia/guerres-i-neutralitat/els-passadors.md": {
+    "status": "in_progress",
+    "reviewed_units": [
+      "el Carnaval d’Encamp vincula el contraban amb el pas de fugitius durant la guerra i el converteix en tema d’una farsa pública"
     ],
     "completion_note": "",
     "reason": ""

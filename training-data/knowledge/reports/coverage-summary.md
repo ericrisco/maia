@@ -4,14 +4,14 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 
 - Fitxes article: **1348**.
 - Fitxers totals, inclosos índexs: **1477**.
-- Converses candidates: **118**.
+- Converses candidates: **119**.
 
 | Estat de revisió | Fitxes |
 |---|---:|
 | Revisades completes | 2 |
-| En curs | 22 |
+| En curs | 24 |
 | Revisades sense pregunta natural | 0 |
-| No començades | 1324 |
+| No començades | 1322 |
 
 ## Estat per tema
 
@@ -69,10 +69,10 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 | `temes/gastronomia/rebosteria` | 1 | 1 | 0 | 0 | 0 |
 | `temes/historia/antic-regim` | 50 | 50 | 0 | 0 | 0 |
 | `temes/historia/constitucio-1993` | 2 | 2 | 0 | 0 | 0 |
-| `temes/historia/contraban` | 2 | 2 | 0 | 0 | 0 |
+| `temes/historia/contraban` | 2 | 1 | 1 | 0 | 0 |
 | `temes/historia/democratitzacio` | 3 | 3 | 0 | 0 | 0 |
 | `temes/historia/edat-mitjana` | 42 | 42 | 0 | 0 | 0 |
-| `temes/historia/guerres-i-neutralitat` | 22 | 22 | 0 | 0 | 0 |
+| `temes/historia/guerres-i-neutralitat` | 22 | 21 | 1 | 0 | 0 |
 | `temes/historia/historia-recent` | 7 | 7 | 0 | 0 | 0 |
 | `temes/historia/historiografia` | 11 | 11 | 0 | 0 | 0 |
 | `temes/historia/manual-digest` | 5 | 5 | 0 | 0 | 0 |

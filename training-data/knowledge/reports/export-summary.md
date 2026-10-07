@@ -2,14 +2,14 @@
 
 Aquest report no acredita cobertura exhaustiva: mostra els registres aprovats i les fitxes representades fins ara.
 
-- Converses candidates: **118**.
-- Converses exportades: **118**.
-- Fitxes font representades: **24**.
+- Converses candidates: **119**.
+- Converses exportades: **119**.
+- Fitxes font representades: **26**.
 - Fitxes article a `docs/temes/`: **1348** (fitxers totals: 1477).
 
 | Split | Converses |
 |---|---:|
-| `train` | 118 |
+| `train` | 119 |
 | `validation` | 0 |
 | `test` | 0 |
 
@@ -31,6 +31,8 @@ Aquest report no acredita cobertura exhaustiva: mostra els registres aprovats i 
 - `docs/temes/costums/ritus-de-pas/la-passa.md`
 - `docs/temes/costums/ritus-de-pas/ritus-de-pas.md`
 - `docs/temes/cultura/teatre/el-teatre-de-carnestoltes.md`
+- `docs/temes/historia/contraban/contraban.md`
+- `docs/temes/historia/guerres-i-neutralitat/els-passadors.md`
 - `docs/temes/historia/pareatge/el-pareatge.md`
 - `docs/temes/historia/segle-xix/guillem-dareny-plandolit.md`
 - `docs/temes/historia/segle-xix/nova-reforma.md`

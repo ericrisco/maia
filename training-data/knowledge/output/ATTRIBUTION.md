@@ -13,6 +13,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - Fabiola Sofia Masegosa i Gayo, La vida teatral a Andorra de 1900 a 1970, tesi doctoral (Universitat de Lleida, 2017), resum publicat a Debats de Recerca 12 (2020), pp. 27–39; DOI 10.2436/15.8060.21.4.
 - Fitxa del corpus «El ball de l’ossa d’Encamp» i descripció general de la UNESCO, element 01846.
 - Fitxa del corpus «Les festes de l’ossa» i notícia institucional del Govern d’Andorra, publicada el 29-11-2022; la font governamental identifica les representacions d’Encamp i Ordino.
+- Fitxes del corpus sobre el Carnaval d’Encamp, el contraban i els passadors; la interpretació de la farsa com a món judicial capgirat s’atribueix a Fabiola Masegosa.
 - Govern d’Andorra, «La UNESCO inscriu les Festes de l’Os dels Pirineus», 29 de novembre de 2022. La notícia identifica Encamp i Ordino com les representacions andorranes de la candidatura conjunta.
 - Govern d’Andorra, «Les caramelles d’Ordino i Sant Julià de Lòria», consulta 2026-09-19.
 - J.-A. Brutails, La Coutume d'Andorre (1904), cap. VII, especialment pp. 276–277 del Politar citat; digitalització Gallica BnF.
@@ -135,6 +136,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - La fitxa de Viquipèdia és CC BY-SA 4.0. La resposta parafraseja una variant breument i no copia la citació extensa d’Amades, que la font secundària marca amb «citació necessària».
 - La fitxa de Viquipèdia és CC BY-SA 4.0. La tesi d’Ysàs citada no s’ha pogut consultar directament; la lectura s’atribueix a la font secundària i la resposta és una paràfrasi breu.
 - La fitxa de Viquipèdia és CC BY-SA 4.0. La tesi d’Ysàs citada per la font no s’ha pogut consultar directament; la resposta és una paràfrasi breu i marca la interpretació com a tal.
+- La fitxa «premsa andorrana» registra drets reservats i referència periodística insuficientment identificada; Masegosa és una publicació acadèmica amb redistribució pendent. Inclosa per a ús intern; no redistribuir-ne contingut derivat sense revisar els termes.
 - La font de Viquipèdia és CC BY-SA 4.0. La publicació acadèmica de Masegosa és d’accés obert amb redistribució pendent; no redistribuir-ne contingut derivat sense revisar els termes.
 - La font de Viquipèdia és CC BY-SA 4.0. La tesi de Masegosa és d’accés obert amb redistribució pendent; no redistribuir contingut derivat sense revisar-ne els termes.
 - La font secundària és CC BY-SA 4.0. La tesi identificada no s’ha descarregat; es transmet només l’atribució bibliogràfica i no es reprodueix contingut seu.

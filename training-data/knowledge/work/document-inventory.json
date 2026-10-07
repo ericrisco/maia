@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 2,
-    "in_progress": 22,
+    "in_progress": 24,
     "no_natural_question": 0,
-    "not_started": 1324
+    "not_started": 1322
   },
   "documents": [
     {
@@ -53,10 +53,11 @@
       "topic": "temes/costums/calendari-festiu",
       "source": "premsa-andorrana",
       "status": "in_progress",
-      "conversation_count": 8,
+      "conversation_count": 9,
       "conversation_ids": [
         "carnaval-encamp-horaris-2026",
         "carnaval-encamp-ossa-i-contrabandistes",
+        "judici-contrabandistes-satira-social",
         "judici-contrabandistes-text-i-antiguitat-01",
         "operacio-carnestoltes-origen-autor-01",
         "operacio-carnestoltes-viscera-escenari-01",
@@ -77,7 +78,8 @@
         "la cronologia d’Ordino transmesa per Masegosa difereix de la de Viquipèdia; el corpus no arbitra la represa de 1978 o 1985",
         "el binomi de «Els contrabandistes» i «L’ossa» són dues farses diferents i complementàries, representades en dies consecutius",
         "Masegosa interpreta la farsa d’Ordino com a defensa territorial; no és una prova de data d’origen o continuïtat medieval",
-        "programa de 2026: Judici dels Contrabandistes diumenge 15 de febrer a les 16 h i Ball de l’Ossa dilluns 16 a les 16.15 h, tots dos al Prat de l’Areny; el carnaval és mòbil"
+        "programa de 2026: Judici dels Contrabandistes diumenge 15 de febrer a les 16 h i Ball de l’Ossa dilluns 16 a les 16.15 h, tots dos al Prat de l’Areny; el carnaval és mòbil",
+        "el Judici dels Contrabandistes és una farsa pública i burlesca que posa simbòlicament el contraban a judici; no s’hi identifica cap procés real, guió, repartiment o sentència"
       ],
       "completion_note": "",
       "reason": ""
@@ -7788,10 +7790,14 @@
       "type": "article",
       "topic": "temes/historia/contraban",
       "source": "viquipedia-ca",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "judici-contrabandistes-satira-social"
+      ],
+      "reviewed_units": [
+        "el Carnaval d’Encamp representa el contraban en un judici fingit; la fitxa ho relaciona amb l’activitat econòmica històrica i el pas de fugitius en temps de guerra"
+      ],
       "completion_note": "",
       "reason": ""
     },
@@ -8503,10 +8509,14 @@
       "type": "article",
       "topic": "temes/historia/guerres-i-neutralitat",
       "source": "societat-andorrana-ciencies",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "judici-contrabandistes-satira-social"
+      ],
+      "reviewed_units": [
+        "el Carnaval d’Encamp vincula el contraban amb el pas de fugitius durant la guerra i el converteix en tema d’una farsa pública"
+      ],
       "completion_note": "",
       "reason": ""
     },
