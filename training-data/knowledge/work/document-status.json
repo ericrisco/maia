@@ -471,5 +471,21 @@
     "reviewed_units": [
       "Canturri considera l’estanc de la minisèrie un error institucional que delata una representació genèrica d’Andorra; la seva lectura queda atribuïda."
     ]
+  },
+  "docs/temes/cultura/andorra-vista-de-fora/els-descobridors.md": {
+    "status": "in_progress",
+    "open_units": [
+      "Verificació de l’episodi d’Anníbal i de la identificació dels andosins amb Andorra.",
+      "Identificació i documentació de l’oficial espanyol que hauria planificat una invasió.",
+      "Lectura directa del diari de Zamora de 1788 i resolució de les edicions de 1973 i 2004.",
+      "Lectura de la Relació sobre la Vall d’Andorra de Tomàs Junoy i de les notes andorranes de Verdaguer.",
+      "Resolució de les versions discrepants sobre Skossyreff."
+    ],
+    "conversation_ids": [
+      "annibal-i-primers-viatgers-identificats-001"
+    ],
+    "reviewed_units": [
+      "L’anècdota d’Anníbal no és fiable segons Ferrer; el testimoni extern més antic identificat amb nom i data és Francisco de Zamora, 1788, però el seu diari encara no s’ha llegit."
+    ]
   }
 }

@@ -4,14 +4,14 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 
 - Fitxes article: **1348**.
 - Fitxers totals, inclosos índexs: **1477**.
-- Converses candidates: **24**.
+- Converses candidates: **25**.
 
 | Estat de revisió | Fitxes |
 |---|---:|
 | Revisades completes | 0 |
-| En curs | 30 |
+| En curs | 32 |
 | Revisades sense pregunta natural | 0 |
-| No començades | 1318 |
+| No començades | 1316 |
 
 ## Estat per tema
 
@@ -29,7 +29,7 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 | `temes/costums/ritus-de-pas` | 2 | 0 | 2 | 0 | 0 |
 | `temes/costums/sant-antoni` | 1 | 0 | 1 | 0 | 0 |
 | `temes/cultura` | 1 | 1 | 0 | 0 | 0 |
-| `temes/cultura/andorra-vista-de-fora` | 6 | 5 | 1 | 0 | 0 |
+| `temes/cultura/andorra-vista-de-fora` | 6 | 4 | 2 | 0 | 0 |
 | `temes/cultura/arquitectura` | 11 | 11 | 0 | 0 | 0 |
 | `temes/cultura/artesania` | 2 | 2 | 0 | 0 | 0 |
 | `temes/cultura/arts-visuals` | 8 | 8 | 0 | 0 | 0 |
@@ -77,7 +77,7 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 | `temes/historia/historiografia` | 11 | 11 | 0 | 0 | 0 |
 | `temes/historia/manual-digest` | 5 | 5 | 0 | 0 | 0 |
 | `temes/historia/moments-historics` | 2 | 2 | 0 | 0 | 0 |
-| `temes/historia/origens` | 15 | 15 | 0 | 0 | 0 |
+| `temes/historia/origens` | 15 | 14 | 1 | 0 | 0 |
 | `temes/historia/pareatge` | 6 | 6 | 0 | 0 | 0 |
 | `temes/historia/segle-xix` | 29 | 29 | 0 | 0 | 0 |
 | `temes/historia/segle-xx-primera-meitat` | 30 | 30 | 0 | 0 | 0 |
