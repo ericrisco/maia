@@ -49,6 +49,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - La fitxa «La Passa» cita «premsa andorrana» sense identificar l’article i el portal del Govern sense identificar una pàgina concreta.
 - Les fitxes de danses del corpus situen cada tradició per parròquia. Pere Canturri, «Usos i costums d’Andorra» (2002), és la font citada per a la introducció de la sardana.
 - Pere Canturri i Montanya, «Andorra en el Costumari català de Joan Amades», 7a Diada Andorrana a la XXVI Universitat Catalana d’Estiu, 1994, p. 33–39.
+- Pere Canturri i Montanya, «Usos i costums d’Andorra» (2002), informació sobre els gegants i la tradició de Sant Julià; publicació d’accés obert.
 - Pere Canturri i Montanya, «Usos i costums d’Andorra», 15a Diada Andorrana a la XXXIV Universitat Catalana d’Estiu (2002), dins Una història d’Andorra, temàtica, p. 209 i següents.
 - Premsa andorrana; la fitxa de font no identifica el diari, l’article, la data ni l’URL de la publicació concreta.
 - Viquipèdia en català, article «Festes de l’ossa a Andorra», CC BY-SA 4.0. La fitxa del corpus hi atribueix la causa de la decadència i la cronologia d’Ordino.
@@ -77,6 +78,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - CC BY-SA 4.0, amb obligació d’atribució i compartir igual. L’origen medieval es manté com a hipòtesi probable de la font, no com a fet provat.
 - Contingut periodístic amb drets reservats; la fitxa premsa-andorrana registra redistribució:no. La referència concreta no es pot verificar.
 - Font institucional amb drets reservats; el portal exigeix autorització escrita per redistribuir o transformar continguts i no consta un permís específic. Aquesta limitació queda registrada; no s’interpreta la inclusió com a llicència.
+- La fitxa de Canturri registra redistribució pendent. La conversa conserva l’atribució i no trasllada a Sant Julià les dates documentades per als gegants d’Andorra la Vella.
 - La pàgina institucional registra drets reservats i redistribució:no; el portal exigeix autorització escrita i no consta cap permís específic. Aquesta limitació es conserva al registre de procedència.
 - La referència sobre el Cerdà prové de premsa amb drets reservats i no identificada; redistribució:no. Les fonts de Viquipèdia són CC BY-SA 4.0, amb obligació d’atribució i compartir igual. La limitació de la font no identificada es manté explícita.
 - La transcripció institucional dels documents precedents no declara llicència i la redistribució consta pendent. L’obra de Brutails (1904) és en domini públic; Gallica permet reutilització no comercial amb atribució. L’elegibilitat del destí d’entrenament no consta resolta; es conserven les condicions de les dues fonts.

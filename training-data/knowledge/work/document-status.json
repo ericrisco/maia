@@ -249,7 +249,17 @@
     "reviewed_units": [
       "la Passa és una cercavila de parelles de fadrins, no una dansa; dilluns de festa major, amb ordre per matrimoni de l’any i edat",
       "«majors fadrins» són les parelles que es casaran aquell any; condició anual no heretada ni elegida",
-      "la font periodística no està identificada; les funcions concretes durant la festa continuen desconegudes"
+      "la font periodística no està identificada; les funcions concretes durant la festa continuen desconegudes",
+      "el ball de la Dama Blanca és el ball de la geganta de Sant Julià, no una dansa antiga de parella; no consta data d’inici"
+    ],
+    "completion_note": "",
+    "reason": ""
+  },
+  "docs/temes/costums/gegants/els-gegants.md": {
+    "status": "in_progress",
+    "reviewed_units": [
+      "Sant Julià té els gegants Rei Moro i Dama Blanca, inspirats en figures locals",
+      "el ball de la Dama Blanca registrat a La Passa correspon a la geganta; les dates de creació dels gegants d’Andorra la Vella no s’apliquen a Sant Julià"
     ],
     "completion_note": "",
     "reason": ""
