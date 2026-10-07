@@ -38,7 +38,6 @@
     "docs/temes/societat/demografia/setanta-nou-anys-de-padro.md": "train",
     "docs/raw/estadistica-api/resta-del-cataleg/README.md": "train",
     "docs/raw/estadistica-api/resta-del-cataleg/resta-cataleg-api-2026-09-18.tsv": "train",
-    "docs/raw/estadistica-api/l-api-publica-del-departament-d-estadistica.md": "train",
     "docs/temes/economia/banca-i-fiscalitat/a-andorra-si-que-hi-havia-impost.md": "train",
     "docs/fonts/vilar-andorre-1904.md": "train",
     "docs/temes/costums/danses/les-festes-de-lossa.md": "train",
@@ -67,6 +66,7 @@
     "docs/raw/estadistica-api/turisme-vehicles-energia/turisme-vehicles-energia-api-2026-09-18.tsv": "test",
     "docs/raw/estadistica-api/turisme-vehicles-energia/turisme-vehicles-i-energia-per-l-api-d-estadistica.md": "test",
     "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md": "train",
-    "docs/temes/historia/edat-mitjana/el-precepte-de-860-i-el-delme-del-ferro.md": "train"
+    "docs/temes/historia/edat-mitjana/el-precepte-de-860-i-el-delme-del-ferro.md": "train",
+    "docs/temes/institucions/comuns-i-parroquies/les-set-parroquies.md": "train"
   }
 }
