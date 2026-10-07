@@ -905,16 +905,18 @@
         "docs/temes/cultura/llegendes/el-tamarro.md#unit-0015",
         "docs/temes/cultura/llegendes/el-tamarro.md#unit-0016",
         "docs/temes/cultura/llegendes/el-tamarro.md#unit-0020",
+        "docs/temes/cultura/llegendes/el-tamarro.md#unit-0021",
         "docs/temes/cultura/llegendes/el-tamarro.md#unit-0022",
         "docs/temes/cultura/llegendes/el-tamarro.md#unit-0026"
       ],
       "excluded_unit_count": 18,
-      "open_unit_count": 2,
+      "open_unit_count": 1,
       "conversation_ids": [
         "tamarro-criatura-i-equivalents-001",
         "tamarro-datacio-de-la-cacera-001",
         "tamarro-dinosaure-i-origen-del-nom-001",
         "tamarro-mascota-i-itineraris-001",
+        "tamarro-referencia-lluis-samper-001",
         "tamarro-variants-del-nom-de-la-broma-001"
       ]
     },
