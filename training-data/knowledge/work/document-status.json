@@ -13858,6 +13858,7 @@
       "status": "in_progress",
       "unit_count": 43,
       "covered_unit_ids": [
+        "docs/temes/societat/demografia/quaranta-quatre-pobles.md#unit-0001",
         "docs/temes/societat/demografia/quaranta-quatre-pobles.md#unit-0002",
         "docs/temes/societat/demografia/quaranta-quatre-pobles.md#unit-0004",
         "docs/temes/societat/demografia/quaranta-quatre-pobles.md#unit-0005",
@@ -13880,11 +13881,13 @@
         "docs/temes/societat/demografia/quaranta-quatre-pobles.md#unit-0031",
         "docs/temes/societat/demografia/quaranta-quatre-pobles.md#unit-0034",
         "docs/temes/societat/demografia/quaranta-quatre-pobles.md#unit-0038",
+        "docs/temes/societat/demografia/quaranta-quatre-pobles.md#unit-0039",
         "docs/temes/societat/demografia/quaranta-quatre-pobles.md#unit-0043"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 20,
+      "open_unit_count": 18,
       "conversation_ids": [
+        "poblacio-44-entrades-nuclis-mes-petits-001",
         "poblacio-pas-casa-i-canillo-001",
         "poblacio-pobles-amb-menys-habitants-001",
         "poblacio-pobles-creixement-proporcional-001",
