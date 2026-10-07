@@ -1,53 +1,55 @@
-# Guia de converses Knowledge
+# Guia i exemples per a Maia Knowledge
 
-## Comprova la necessitat
+Cada línia de `conversations.jsonl` és un diàleg complet. Abans d'afegir-ne un, llegeix aquesta guia i revisa els exemples reals del mateix fitxer. La procedència va en paral·lel a `provenance.jsonl`; no apareix dins dels missatges.
 
-Abans d'escriure, resumeix per a tu què vol entendre la persona. Si la resposta només seria un resum d'una fitxa, busca un dubte més concret o no creïs el registre.
+## Comença pel dubte humà
 
-Una bona pregunta podria néixer d'una xifra que sorprèn, dues dades que semblen incompatibles, una paraula que no s'entén, una comparació o una conclusió que cal comprovar.
+Escriu en privat què vol entendre una persona. Després formula la pregunta sobre el tema, sense esmentar el document que t'ha servit per verificar la resposta.
 
-## Evita preguntes d'arxiu
-
-No facis preguntes com:
+Preguntes d'arxiu que cal rebutjar:
 
 - «Què explica la secció “El relat”?»
 - «Què indica aquesta fila?»
 - «Resumeix la fitxa “La troballa de Meritxell”.»
 
-Parlen del document, no del dubte. Pregunta pel tema i concreta què vols entendre.
+La primera pregunta ha de poder aparèixer en una conversa sense tenir Maia oberta. Pot sorgir d'una xifra que sorprèn, de dues dades que semblen incompatibles, d'una afirmació dubtosa, d'una comparació o d'una decisió pràctica.
 
-## Escriu el diàleg
+## Fes avançar el diàleg
 
-- La primera pregunta s'ha d'entendre sense obrir el corpus.
-- Contesta-la abans d'afegir context secundari.
-- El seguiment ha de sorgir de la resposta immediatament anterior.
-- No afegeixis «i per què?» o «i què més?» si no hi ha un dubte concret.
-- Fes tants torns com demani la conversa. No n'afegeixis per arribar a un nombre fix.
-- Llegeix només les preguntes, en veu alta. Si semblen un examen o una llista de comprovació, reescriu-les.
-- No inventis qui és l'usuari, què ha viscut ni quina opinió té.
+1. Respon primer la pregunta inicial.
+2. Escriu el seguiment com una reacció a la resposta anterior.
+3. Aclareix una confusió, una conseqüència, una comparació o un límit.
+4. Acaba quan el dubte queda resolt. No afegeixis torns només per arribar a una quota.
 
-## Escriu la resposta
+Llegeix només les preguntes i en veu alta. Han de sonar com una persona que vol entendre el tema, no com un qüestionari que intenta cobrir una fitxa. No inventis una biografia ni una experiència personal de l'usuari.
 
-- Comença per la resposta directa.
-- Usa frases corrents, sense etiquetes de camps ni fragments enganxats.
-- Inclou només el context que evita un malentès.
-- Distingeix quantitats, percentatges i punts percentuals.
-- No dedueixis causes que les fonts no demostren.
-- Si la font no permet respondre, explica el límit amb claredat.
+## Escriu respostes conversacionals
 
-## Revisa abans d'afegir una conversa
+- Comença amb la resposta directa.
+- Fes servir frases completes i paraules corrents.
+- Dona el context necessari, sense enganxar fragments ni afegir dades irrellevants.
+- Distingeix recomptes, percentatges i punts percentuals.
+- No presentis coincidències com a causes.
+- Si el corpus no resol el dubte, digues què se sap i què no.
 
-1. La preguntaria algú que vol resoldre aquest dubte?
-2. S'entén sense saber com està organitzat el corpus?
-3. El seguiment és una reacció plausible a la resposta?
-4. Cada resposta és correcta, directa i natural?
-5. La procedència sosté totes les afirmacions i n'indica els drets?
-6. La conversa aporta alguna cosa que no estigui repetida?
+## Exemples aprovats
 
-Un «no» vol dir reescriure, deixar pendent o excloure.
+`conversations.jsonl` conté tres exemples multitorn, tots basats en l'enquesta d'hàbits culturals del Departament d'Estadística. Mostren tres necessitats diferents:
 
-## Converses de calibratge
+1. «Com pot ser que hi hagi més inscrits a les biblioteques i, alhora, l'enquesta digui que hi va menys gent?» Separa inscripcions de l'assistència declarada.
+2. «Entre el 2019 i el 2024, la gent va deixar d'anar a les activitats culturals?» Resumeix canvis mixtos i corregeix una atribució causal no demostrada.
+3. «El cinema ha guanyat sobretot públic jove?» Distingeix quin grup ha augmentat més de quin grup té la proporció més alta.
 
-`calibration.jsonl` conserva dues mostres que encara no compten com a registres. La primera conversa promocionada a `conversations.jsonl` parteix d'una confusió real entre inscripcions i assistència; el seguiment pregunta què mesura cada xifra. Les altres mostres tracten de canvis culturals i de la diferència entre augment i nivell d'assistència per edat.
+Aquests exemples són registres actius de Knowledge, no plantilles per repetir ni converses de Language.
 
-Les preguntes no mencionen fitxes ni seccions. Cada resposta resol el dubte i el seguiment reprèn la resposta anterior.
+## Revisió abans d'aprovar
+
+- La pregunta inicial s'entén sense una fitxa oberta.
+- El dubte és plausible i concret.
+- Cada seguiment neix del torn anterior.
+- La resposta contesta la pregunta i sona natural en veu alta.
+- La procedència sosté cada afirmació i n'indica llicència i límits.
+- El registre cobreix unitats de contingut identificades a l'inventari.
+- No duplica una conversa existent ni força un torn addicional.
+
+Si algun punt falla, reescriu o deixa el registre pendent.

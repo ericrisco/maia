@@ -1,11 +1,11 @@
 # Maia Training Data
 
-Aquesta carpeta conté dos fluxos separats per preparar dades de fine-tuning.
+Aquesta carpeta prepara dos datasets separats a partir de `docs/`.
 
-- **Knowledge** ensenya a respondre preguntes sobre Andorra amb informació del corpus.
-- **Language** conserva català andorrà contemporani produït per persones.
+- **Knowledge**: converses que ensenyen el coneixement andorrà del corpus.
+- **Language**: parla andorrana contemporània autèntica, produïda per persones.
 
-Ara només hi ha una estructura inicial i tres converses de calibratge a `knowledge/review/calibration.jsonl`. Serveixen per revisar el criteri. No són exports d'entrenament.
+`knowledge/review/conversations.jsonl` ja conté tres converses aprovades. Encara no són els exports `train`, `validation` i `test`: abans cal completar cobertura, deduplicació i splits.
 
 ## Estructura
 
@@ -13,15 +13,16 @@ Ara només hi ha una estructura inicial i tres converses de calibratge a `knowle
 training-data/
 ├── PLAN.md
 ├── knowledge/
-│   ├── review/       # guia i converses de calibratge o revisió
-│   ├── work/         # inventari i decisions de cobertura
+│   ├── review/       # converses i procedència
+│   ├── work/         # inventari i estat de cobertura
 │   ├── reports/      # cobertura, qualitat i exclusions
-│   └── output/       # train/validation/test quan estiguin aprovats
+│   ├── scripts/      # inventari i validació
+│   └── output/       # exports després de la revisió
 └── language/
     ├── review/       # fragments humans i procedència
-    ├── work/         # elegibilitat, verificació i agrupació
+    ├── work/         # elegibilitat i verificació
     ├── reports/      # peces incloses i exclusions
-    └── output/       # exports quan estiguin preparats
+    └── output/       # exports després de la revisió
 ```
 
-No es creen fitxers d'export buits. Cada export apareixerà quan contingui registres revisats.
+No es creen fitxers d'export buits.

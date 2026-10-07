@@ -1,3 +1,3 @@
 # Guia de revisió
 
-Segueix [`EXEMPLES.md`](EXEMPLES.md) abans d'afegir o revisar una conversa.
+La guia activa i els exemples són a [`EXEMPLES.md`](EXEMPLES.md).
