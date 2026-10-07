@@ -32,6 +32,8 @@
     "docs/raw/estadistica-api/hipoteques/hipoteques-api-2026-09-18.tsv": "train",
     "docs/temes/economia/comerc/amb-qui-comercia-andorra.md": "train",
     "docs/raw/estadistica-api/les-que-no-responien/les-divisions-que-semblava-que-l-api-no-servia.md": "train",
-    "docs/raw/estadistica-api/les-que-no-responien/divisions-lentes-2026-09-18.tsv": "train"
+    "docs/raw/estadistica-api/les-que-no-responien/divisions-lentes-2026-09-18.tsv": "train",
+    "docs/raw/estadistica-api/resta-del-cataleg/resta-cataleg-api-2026-09-18.tsv": "train",
+    "docs/raw/estadistica-api/resta-del-cataleg/la-resta-del-cataleg-api-del-departament-d-estadistica.md": "train"
   }
 }
