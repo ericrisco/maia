@@ -189,15 +189,17 @@
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0028",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0029",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0030",
-        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0031"
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0031",
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0032"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 33,
+      "open_unit_count": 32,
       "conversation_ids": [
         "festes-ossa-forma-teatral-i-ordino-001",
         "festes-ossa-localitats-i-calendari-001",
         "ultima-ossa-mascara-i-final-001",
         "ultima-ossa-ordino-canvis-de-data-001",
+        "ultima-ossa-ordino-canvis-de-lloc-i-2020-001",
         "ultima-ossa-ordino-cronologia-i-represes-001"
       ]
     },
