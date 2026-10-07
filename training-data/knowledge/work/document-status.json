@@ -1280,7 +1280,7 @@
       "title": "El Museu del Tabac: una fàbrica que va treballar del 1909 al 1957",
       "type": "article",
       "topic": "temes/cultura/museus-i-arxius/museus",
-      "status": "in_progress",
+      "status": "complete",
       "unit_count": 15,
       "covered_unit_ids": [
         "docs/temes/cultura/museus-i-arxius/museus/el-museu-del-tabac.md#unit-0001",
@@ -1292,8 +1292,8 @@
         "docs/temes/cultura/museus-i-arxius/museus/el-museu-del-tabac.md#unit-0009",
         "docs/temes/cultura/museus-i-arxius/museus/el-museu-del-tabac.md#unit-0012"
       ],
-      "excluded_unit_count": 0,
-      "open_unit_count": 7,
+      "excluded_unit_count": 7,
+      "open_unit_count": 0,
       "conversation_ids": [
         "museu-tabac-exposicions-temporals-001",
         "museu-tabac-fabrica-i-visita-001",
