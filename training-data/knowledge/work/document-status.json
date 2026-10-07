@@ -13826,12 +13826,20 @@
       "title": "Edat i nacionalitat de la població d'Andorra (2010–2025)",
       "type": "article",
       "topic": "temes/societat/demografia",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 46,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/societat/demografia/la-mateixa-gent-quinze-anys-mes-gran.md#unit-0002",
+        "docs/temes/societat/demografia/la-mateixa-gent-quinze-anys-mes-gran.md#unit-0004",
+        "docs/temes/societat/demografia/la-mateixa-gent-quinze-anys-mes-gran.md#unit-0007",
+        "docs/temes/societat/demografia/la-mateixa-gent-quinze-anys-mes-gran.md#unit-0008",
+        "docs/temes/societat/demografia/la-mateixa-gent-quinze-anys-mes-gran.md#unit-0041"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 46,
-      "conversation_ids": []
+      "open_unit_count": 41,
+      "conversation_ids": [
+        "demografia-edat-modal-no-es-seguiment-001"
+      ]
     },
     "docs/temes/societat/demografia/la-poblacio-al-segle-xix.md": {
       "title": "La població al segle XIX",
