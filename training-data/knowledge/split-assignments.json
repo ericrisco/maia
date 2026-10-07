@@ -1,6 +1,10 @@
 {
   "description": "Assigna cada font de contingut a un únic split; exemples amb fonts relacionades comparteixen split.",
   "groups": {
+    "docs/temes/societat/proteccio-social/el-gini-ha-pujat-vuit-punts.md": "train",
+    "docs/raw/estadistica-api/pobresa/pobresa-desigualtat-i-llars-per-l-api-d-estadistica.md": "train",
+    "docs/raw/estadistica-api/pobresa/pobresa-i-llars-api-2026-09-18.tsv": "train",
+    "docs/raw/estadistica-api/l-api-publica-del-departament-d-estadistica.md": "train",
     "docs/temes/societat/demografia/dues-maneres-de-comptar-la-poblacio.md": "train",
     "docs/raw/estadistica-poblacio/a001-a003-2026-07.pdf": "train",
     "docs/raw/estadistica-poblacio/a001-a003-2026-07.txt": "train",
