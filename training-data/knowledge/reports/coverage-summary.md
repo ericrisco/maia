@@ -4,10 +4,10 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 
 - Documents inventariats: **1477** (1348 articles).
 - Unitats estructurals totals: **62911**.
-- Unitats cobertes per converses aprovades: **170** (0.270%).
+- Unitats cobertes per converses aprovades: **186** (0.296%).
 - Unitats excloses amb motiu: **41**.
-- Unitats encara obertes: **62700**.
-- Converses candidates: **48**; aprovades: **48**.
+- Unitats encara obertes: **62684**.
+- Converses candidates: **49**; aprovades: **49**.
 
 ## Estat per tema
 
@@ -108,7 +108,7 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 | `temes/politica/sistema-electoral` | 9 | 1037 | 0 | 0 | 1037 |
 | `temes/societat` | 1 | 89 | 0 | 0 | 89 |
 | `temes/societat/associacionisme` | 1 | 21 | 0 | 0 | 21 |
-| `temes/societat/demografia` | 15 | 926 | 106 | 30 | 790 |
+| `temes/societat/demografia` | 15 | 926 | 122 | 30 | 774 |
 | `temes/societat/dones` | 7 | 548 | 0 | 0 | 548 |
 | `temes/societat/educacio` | 30 | 2178 | 0 | 0 | 2178 |
 | `temes/societat/esport` | 1 | 19 | 0 | 0 | 19 |
