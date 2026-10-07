@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 14,
+    "in_progress": 15,
     "no_natural_question": 0,
-    "not_started": 1334
+    "not_started": 1333
   },
   "documents": [
     {
@@ -14099,11 +14099,17 @@
       "type": "article",
       "topic": "temes/institucions/justicia",
       "source": "jurisprudencia-ad",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "adequacio-2021-decisions-automatitzades-menors-09"
+      ],
+      "reviewed_units": [
+        "article 25: dret davant decisions automatitzades i perfils; excepcions; garanties d'intervenció humana, opinió i impugnació; prohibició aplicable als menors"
+      ],
+      "open_units": [
+        "altres unitats de coneixement de la fitxa, inclòs el règim d'ammendes i sancions reputacionals"
+      ],
       "completion_note": "",
       "reason": ""
     },
@@ -15689,7 +15695,7 @@
       "topic": "temes/institucions/relacions-exteriors",
       "source": "eur-lex-adequacio-dades-andorra-2010",
       "status": "in_progress",
-      "conversation_count": 9,
+      "conversation_count": 10,
       "conversation_ids": [
         "adequacio-2010-base-legal-agencia-02",
         "adequacio-2010-entrada-en-vigor-tractats-04",
@@ -15699,6 +15705,7 @@
         "adequacio-2016-poders-suspensio-fluxos-07",
         "adequacio-2016-reforma-general-schrems-06",
         "adequacio-2016-vigilancia-acces-estatal-05",
+        "adequacio-2021-decisions-automatitzades-menors-09",
         "protocol-duaner-cita-adequacio-dades-10"
       ],
       "reviewed_units": [
@@ -15711,7 +15718,8 @@
         "canvis de la Decisió 2016/2295 als articles 3 i 4: vigilància de l'accés públic a dades i resposta a indicis d'interferència excessiva",
         "motiu general de la reforma de 2016: sentència Schrems, poders de les autoritats de control i revisió periòdica de l'adequació",
         "procediment de l'article 3 després de 2016 per suspendre o prohibir fluxos i avisar la Comissió",
-        "supòsits de suspensió de transferències previstos per l'article 3 original i condició per aixecar-la"
+        "supòsits de suspensió de transferències previstos per l'article 3 original i condició per aixecar-la",
+        "evolució de l'advertiment europeu del 2009 sobre decisions automatitzades fins a l'article 25 de la Llei 29/2021, inclosa la protecció específica dels menors"
       ],
       "open_units": [
         "auditar la cobertura de la resta de la Decisió 2010/625/UE i de la seva versió consolidada del 2016"
