@@ -428,7 +428,7 @@
       "topic": "temes/costums/religiositat",
       "source": "bopa-ad",
       "status": "in_progress",
-      "conversation_count": 9,
+      "conversation_count": 10,
       "conversation_ids": [
         "registre-religios-acces-public-i-consulta-concreta-02",
         "registre-religios-canals-dialeg-obligacio-i-prova-08",
@@ -438,7 +438,8 @@
         "registre-religios-entitat-estrangera-documents-09",
         "registre-religios-limits-proselitisme-proporcionalitat-07",
         "registre-religios-obligacions-abans-inscripcio-04",
-        "registre-religios-requisits-i-via-catolica-01"
+        "registre-religios-requisits-i-via-catolica-01",
+        "registre-religios-sollicitud-documents-i-actualitzacions-10"
       ],
       "reviewed_units": [
         "Llei 2/2025, articles 3, 10 i 13: requisits generals per inscriure una entitat religiosa, efecte de la inscripció i via específica de les institucions catòliques.",
@@ -449,10 +450,11 @@
         "Llei 2/2025, article 4: nombre aproximat de practicants per entitat inscrita i llocs de culte; aquesta dada no permet inferir un cens complet de cada confessió.",
         "Llei 2/2025, article 3.4: la limitació per proselitisme abusiu o il·lícit exigeix elements de risc acreditats i una mesura proporcionada i adequada.",
         "Llei 2/2025, article 14 i exposició de motius: obligació d’establir canals de diàleg, diferenciada de les reunions documentades durant la preparació i de l’activitat posterior no verificada.",
-        "Llei 2/2025, article 9.2 i 9.4: documentació addicional d’entitats d’origen estranger i requisits de forma, legalització, postil·la i traducció."
+        "Llei 2/2025, article 9.2 i 9.4: documentació addicional d’entitats d’origen estranger i requisits de forma, legalització, postil·la i traducció.",
+        "Llei 2/2025, article 9.1, 9.3 i 9.5: dades i acta de constitució per a la sol·licitud, possibilitat de documentació reglamentària addicional i comunicació de canvis en tres mesos."
       ],
       "open_units": [
-        "Articles 5–8: persona responsable i procediment d’inscripció; article 9.1 i 9.3: documentació general i possibles documents reglamentaris; article 3.3: entitats de finalitat no religiosa; context constitucional de l’article 11; passada editorial integral i comprovació dels límits de cada afirmació."
+        "Articles 5–8: responsable i fases del procediment d’inscripció; article 3.3: entitats de finalitat no religiosa; context constitucional de l’article 11; passada editorial integral i comprovació dels límits de cada afirmació."
       ],
       "completion_note": "",
       "reason": ""
