@@ -889,11 +889,11 @@
       "title": "El buner d'Ordino",
       "type": "article",
       "topic": "temes/cultura/llegendes",
-      "status": "not_started",
+      "status": "complete",
       "unit_count": 19,
       "covered_unit_ids": [],
-      "excluded_unit_count": 0,
-      "open_unit_count": 19,
+      "excluded_unit_count": 19,
+      "open_unit_count": 0,
       "conversation_ids": []
     },
     "docs/temes/cultura/llegendes/el-llac-dengolasters.md": {
