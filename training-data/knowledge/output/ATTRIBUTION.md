@@ -18,4 +18,5 @@ al projecte.
 - Viquipèdia en català, «Estripagecs», CC BY-SA 4.0; síntesi a la fitxa Maia «Els estripagecs». Cal conservar l'atribució i aplicar compartir igual al material derivat.
 - Viquipèdia en català, «Festes de l'ossa a Andorra», CC BY-SA 4.0; síntesi a la fitxa Maia «Les festes de l'ossa». Cal conservar l'atribució i aplicar compartir igual al material derivat.
 - Viquipèdia en català, «Sant Joan de Caselles», CC BY-SA 4.0; síntesi a la fitxa Maia «Sant Joan de Caselles». Cal conservar l'atribució i aplicar compartir igual al material derivat.
+- Viquipèdia en català, «Tamarro», CC BY-SA 4.0; síntesi a la fitxa Maia «El tamarro». Cal conservar l'atribució i aplicar compartir igual al material derivat.
 - Viquipèdia en català, «Trinxat», CC BY-SA 4.0; síntesi a la fitxa Maia «El trinxat». Cal conservar l'atribució i aplicar compartir igual al material derivat.

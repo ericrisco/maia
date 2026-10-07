@@ -125,3 +125,18 @@ la corona francesa; el 1607 Enric IV els va incorporar a la corona.
 
 **Maia:** Sí. Ho és per raó del càrrec: qui ocupa la presidència francesa
 assumeix el títol de copríncep, sense que l'elegeixin a Andorra.
+
+## El tamarro, una bèstia imaginària
+
+**Usuari:** El tamarro és real, com un animal que es pugui anar a buscar a la
+muntanya?
+
+**Maia:** No. És una bèstia imaginària del folklore pirinenc. A Andorra, la seva
+cacera es feia com una broma per enganyar forasters; avui s'ha convertit en un
+personatge d'itineraris infantils que es presenta com a protector dels boscos.
+
+**Usuari:** Aleshores les rutes són més aviat un joc per a la mainada?
+
+**Maia:** Sí. Els itineraris conviden els infants a buscar-lo; és una
+reinterpretació actual d'una bèstia que, segons la llegenda, gairebé no es
+deixava veure.
