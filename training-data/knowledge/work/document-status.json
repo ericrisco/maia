@@ -884,7 +884,7 @@
       "title": "La Dama Blanca d'Aubinyà",
       "type": "article",
       "topic": "temes/cultura/llegendes",
-      "status": "in_progress",
+      "status": "complete",
       "unit_count": 44,
       "covered_unit_ids": [
         "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0001",
@@ -914,13 +914,14 @@
         "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0030",
         "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0031",
         "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0032",
+        "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0034",
         "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0035",
         "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0036",
         "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0037",
         "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0038"
       ],
       "excluded_unit_count": 12,
-      "open_unit_count": 1,
+      "open_unit_count": 0,
       "conversation_ids": [
         "dama-blanca-article-camiade-001",
         "dama-blanca-escultura-auvinya-001",
@@ -929,6 +930,7 @@
         "dama-blanca-identitats-i-datacio-002",
         "dama-blanca-llop-i-sindic-002",
         "dama-blanca-peça-de-dansa-001",
+        "dama-blanca-referencia-recull-001",
         "dama-blanca-toponim-auvinya-002"
       ]
     },
