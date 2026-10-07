@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 10,
+    "in_progress": 11,
     "no_natural_question": 0,
-    "not_started": 1338
+    "not_started": 1337
   },
   "documents": [
     {
@@ -1158,11 +1158,18 @@
       "type": "article",
       "topic": "temes/cultura/llegendes",
       "source": "viquipedia-ca",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "roc-bruixes-geografia-canillo-001"
+      ],
+      "reviewed_units": [
+        "El Roc de les Bruixes és una roca amb gravats en un bosc de Canillo, encarada al santuari de Meritxell; tots dos són al mateix terme.",
+        "Al mateix terme hi ha l'església romànica de Sant Joan de Caselles, dels segles XI-XII."
+      ],
+      "open_units": [
+        "El significat i la datació dels gravats, el relat de la llegenda i l'accés actual depenen de fonts governamentals o periodístiques amb reutilització pendent/no confirmada."
+      ],
       "completion_note": "",
       "reason": ""
     },
