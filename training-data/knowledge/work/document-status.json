@@ -13859,6 +13859,11 @@
       "unit_count": 43,
       "covered_unit_ids": [
         "docs/temes/societat/demografia/quaranta-quatre-pobles.md#unit-0002",
+        "docs/temes/societat/demografia/quaranta-quatre-pobles.md#unit-0004",
+        "docs/temes/societat/demografia/quaranta-quatre-pobles.md#unit-0013",
+        "docs/temes/societat/demografia/quaranta-quatre-pobles.md#unit-0015",
+        "docs/temes/societat/demografia/quaranta-quatre-pobles.md#unit-0016",
+        "docs/temes/societat/demografia/quaranta-quatre-pobles.md#unit-0017",
         "docs/temes/societat/demografia/quaranta-quatre-pobles.md#unit-0025",
         "docs/temes/societat/demografia/quaranta-quatre-pobles.md#unit-0028",
         "docs/temes/societat/demografia/quaranta-quatre-pobles.md#unit-0029",
@@ -13867,9 +13872,10 @@
         "docs/temes/societat/demografia/quaranta-quatre-pobles.md#unit-0043"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 36,
+      "open_unit_count": 31,
       "conversation_ids": [
-        "poblacio-pas-casa-i-canillo-001"
+        "poblacio-pas-casa-i-canillo-001",
+        "poblacio-pobles-creixement-proporcional-001"
       ]
     },
     "docs/temes/societat/demografia/quatre-menes-de-parroquia.md": {
