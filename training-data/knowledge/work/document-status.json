@@ -156,12 +156,20 @@
       "title": "Les festes de l'ossa",
       "type": "article",
       "topic": "temes/costums/danses",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 59,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0016",
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0017",
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0018",
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0028",
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0031"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 59,
-      "conversation_ids": []
+      "open_unit_count": 54,
+      "conversation_ids": [
+        "ultima-ossa-ordino-canvis-de-data-001"
+      ]
     },
     "docs/temes/costums/falles/falles-index-de-fitxes.md": {
       "title": "Falles — índex de fitxes",
