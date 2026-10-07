@@ -315,7 +315,8 @@
         "festes-ossa-candelera-calendari-tradicio-001",
         "festes-ossa-origen-i-primera-referencia-001",
         "festes-ossa-farsa-teatre-dansa-001",
-        "festes-ossa-mascara-ordino-antiguitat-001"
+        "festes-ossa-mascara-ordino-antiguitat-001",
+        "festes-ossa-bibliografia-estudis-001"
       ],
       "covered_units": [
         "Les dues manifestacions descrites com a vigents i els seus calendaris: Última Ossa d'Ordino la primera setmana de desembre; Ball de l'Ossa d'Encamp dilluns de Carnaval.",
@@ -325,16 +326,17 @@
         "La tradició vinculava les dates entre Sant Esteve i Carnaval amb la hibernació de l'ossa fins a la Candelera, el 2 de febrer; es conserva com a explicació tradicional.",
         "La font considera probable l'origen medieval, però identifica només una primera referència escrita el 1838, obra de Tomàs Junoy i Arraut; això no demostra la data d'origen.",
         "Les festes combinen teatre i dansa; la farsa còmica d'un acte usa la cacera com a pretext per escenificar trifulgues. A Ordino, el conflicte entre els personatges principals s'aclareix quan s'uneixen per matar l'ossa.",
-        "La font descriu la màscara d'Ordino com un cap d'os dissecat centenari, transmès entre generacions i encara utilitzat, sense donar-ne una data exacta."
+        "La font descriu la màscara d'Ordino com un cap d'os dissecat centenari, transmès entre generacions i encara utilitzat, sense donar-ne una data exacta.",
+        "La font identifica quatre referències bibliogràfiques per investigar les festes i assenyala que cap no consta al corpus; no se n'atribueixen conclusions sense consultar-les."
       ],
       "open_units": [
         "Confirmar amb fonts primàries la cronologia d'interrupcions i represes d'Ordino; les fonts secundàries discrepen sobre les dates anteriors a 2017.",
         "Documentar per què i en quin moment l'Última Ossa d'Ordino va passar de Carnaval a desembre.",
         "Revisar el relat teatral i els personatges de les dues festes sense reutilitzar passatges protegits de Joan Amades.",
-        "Revisar bibliografia, testimonis de l'Arxiu Nacional i els límits de les interpretacions sobre la festa.",
         "Revisar el reconeixement patrimonial amb fonts oficials abans d'afegir-lo a una conversa.",
         "Verificar directament la Relació sobre la Vall de Andorra de 1838 i cercar fonts anteriors; l'origen medieval continua sent una hipòtesi.",
-        "Verificar amb inventari, testimonis o documentació patrimonial l'antiguitat exacta i la procedència de la màscara d'Ordino."
+        "Verificar amb inventari, testimonis o documentació patrimonial l'antiguitat exacta i la procedència de la màscara d'Ordino.",
+        "Consultar les quatre obres citades i els testimonis de l'Arxiu Nacional abans de resumir-ne arguments o interpretacions."
       ]
     },
     "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md": {
