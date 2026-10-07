@@ -172,13 +172,14 @@ obligats**.
 ## Buits registrats
 
 - ~~**Quant hi ha dipositat, i des de quan**~~ — **`parcial` el 17-09-2026**:
-   la llei és del **2025**; el dipòsit legal andorrà és **molt anterior**, i la part que es tanca és una via.
-  **Al [BOPA](../../../fonts/bopa.md) no hi ha cap norma de dipòsit legal
-  anterior a la Llei 15/2025**: la cerca només retorna la llei i el
-  Decret 100/2026. **El número «AND.» és anterior a tota norma** —el mateix
-  Butlletí en porta un, «Dipòsit legal: AND.2-2015»—, de manera que **la
-  pràctica va existir sense llei durant dècades**. `La història, doncs, no és
-  al Butlletí: cal demanar-la a la Biblioteca Nacional.`
+   la llei és del **2025**; la pràctica documentada és anterior, però el seu origen continua obert.
+  **La cerca al [BOPA](../../../fonts/bopa.md) no ha trobat cap norma de dipòsit
+  legal anterior a la Llei 15/2025**: només hi identifica la llei i el Decret
+  100/2026. Però un número del mateix Butlletí, publicat el 2018, porta la
+  menció «Dipòsit legal: AND.2-2015». Això prova que la pràctica era anterior a
+  la llei de 2025; **no permet saber quan va començar ni si abans es regia per
+  una altra norma**. `La història anterior continua oberta: cal demanar-la a la
+  Biblioteca Nacional.`
 - ~~**La recol·lecció automàtica de webs**: si s'ha començat, amb quines eines i
   amb quin abast, no es diu enlloc del text.~~ — **`parcial` el 17-09-2026** a
   «[El reglament que diu com es raspa el web](#el-reglament-que-diu-com-es-raspa-el-web)»:
