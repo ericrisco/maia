@@ -428,7 +428,7 @@
       "topic": "temes/costums/religiositat",
       "source": "bopa-ad",
       "status": "in_progress",
-      "conversation_count": 17,
+      "conversation_count": 18,
       "conversation_ids": [
         "constitucio-llibertat-religiosa-i-esglesia-catolica-15",
         "registre-religios-acces-public-i-consulta-concreta-02",
@@ -444,6 +444,7 @@
         "registre-religios-obligacions-abans-inscripcio-04",
         "registre-religios-qui-resol-inscripcions-13",
         "registre-religios-recorrer-denegacio-inscripcio-16",
+        "registre-religios-representant-resident-i-gratuitat-18",
         "registre-religios-requisits-i-via-catolica-01",
         "registre-religios-sollicitud-documents-i-actualitzacions-10",
         "registre-religios-termini-i-esmena-sollicitud-11"
@@ -465,10 +466,11 @@
         "Llei 2/2025, article 3.3: exclusió registral acotada a organitzacions centrades en activitats psíquiques/parapsicològiques o finalitats espiritualistes alienes a les religioses.",
         "Constitució, article 11.1–3: garantia general de llibertat ideològica, religiosa i de culte, límits legals a la manifestació de creences i garanties específiques de l’Església catòlica.",
         "Llei 2/2025, article 6: recurs administratiu potestatiu contra les resolucions i possibilitat de demanda judicial directa pel procediment urgent i preferent de tutela de drets fonamentals.",
-        "Llei 2/2025, articles 5–6: caràcter potestatiu de l’enquesta policial i dels informes experts, i separació entre instrucció de l’expedient i resolució registral."
+        "Llei 2/2025, articles 5–6: caràcter potestatiu de l’enquesta policial i dels informes experts, i separació entre instrucció de l’expedient i resolució registral.",
+        "Llei 2/2025, article 6: formulari oficial, signatura del representant legal, residència legal a Andorra per al representant estranger i gratuïtat de la inscripció."
       ],
       "open_units": [
-        "Article 6: notificacions, residència legal del representant estranger, indicis penals i gratuïtat; article 8: protecció de dades en certificacions/còpies i prohibició de fitxers d’emmagatzematge exclusiu de creences; passada editorial integral."
+        "Article 6: notificacions, tractament d’indicis penals; article 8: privacitat i còpies/certificacions, prohibició de crear fitxers dedicats només a emmagatzemar creences; passada editorial integral."
       ],
       "completion_note": "",
       "reason": ""
