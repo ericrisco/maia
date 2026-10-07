@@ -211,12 +211,14 @@
       "conversation_ids": [
         "marratxa-data-tradicio-i-pareatge-001",
         "marratxa-significat-pareatges-001",
-        "pareatge-segon-acord-1288-001"
+        "pareatge-segon-acord-1288-001",
+        "pareatge-meritxell-coincidencia-data-001"
       ],
       "covered_units": [
         "Data del Pareatge: 8-09-1278, en contrast amb la data tradicional del 7-09 atribuïda a la primera ballada de la Marratxa; la diferència no queda explicada.",
         "Lectura tradicional de la dansa: s'associa la primera ballada amb el final d'un episodi entre senyors feudals i amb la gènesi del Coprincipat; aquesta afirmació és tradició, no verificació històrica del document.",
-        "Segon Pareatge de 1288: va aclarir qüestions ambigües del primer i va ordenar aturar i retirar el castell començat a Sant Vicenç d'Enclar; no es presenta com a substitució completa ni se'n dona per provada l'execució."
+        "Segon Pareatge de 1288: va aclarir qüestions ambigües del primer i va ordenar aturar i retirar el castell començat a Sant Vicenç d'Enclar; no es presenta com a substitució completa ni se'n dona per provada l'execució.",
+        "El Pareatge de 1278 comparteix data, 8 de setembre, amb la festa de Meritxell; les fonts no documenten relació causal ni permeten dir si és intencionada o casual."
       ],
       "open_units": [
         "Revisar definició del Pareatge de 1278, parts, contingut, conseqüències i distinció respecte d'un acte fundacional.",
@@ -259,6 +261,22 @@
         "Mantenir oberts els buits sobre execució material, primers notaris, butlla i consulta de l'original; revisar drets de la reproducció i traducció abans de l'export.",
         "Consultar la butlla papal original i el document de lliurament; la sentència secundària no permet comprovar-ne l'existència material ni l'execució.",
         "Comprovar en una font primària si la prohibició sobre la roca d'Arfa es va complir; tampoc no hi ha prova localitzada sobre l'execució material d'Enclar."
+      ]
+    },
+    "docs/temes/costums/meritxell/meritxell.md": {
+      "status": "in_progress",
+      "conversation_ids": [
+        "pareatge-meritxell-coincidencia-data-001"
+      ],
+      "covered_units": [
+        "Meritxell i el Pareatge de 1278 s'associen al 8 de setembre; les fonts disponibles no documenten cap relació causal entre les dates."
+      ],
+      "open_units": [
+        "Revisar la festa nacional del 8 de setembre i l'acord de patronatge del Consell General de 1873; font periodística i acta original pendent.",
+        "Revisar l'incendi del santuari la nit del 8 al 9 de setembre de 1972 i les pèrdues patrimonials.",
+        "Revisar el santuari nou de 1976, la rèplica de la imatge, l'autoria de Sergi Mas i el mural de Jerusalem de 1994.",
+        "Revisar la llista de dies festius judicials de 1902 i el que acredita, sense atribuir-li noms o significats que no conté.",
+        "Verificar amb l'acta original de 1873 si hi ha relació documentada entre la festivitat i el Pareatge; no assumir causalitat."
       ]
     }
   },

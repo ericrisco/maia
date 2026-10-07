@@ -5,7 +5,7 @@ L’inventari inclou tots els Markdown de `docs/temes/`, inclosos índexs. Una f
 - Fitxers Markdown inventariats: **1477**.
 - Fitxes `article`: **1348**.
 - Fitxers amb frontmatter invàlid: **0**.
-- Converses actives amb procedència: **98**.
+- Converses actives amb procedència: **99**.
 
 ## Estat de tots els fitxers
 
@@ -13,9 +13,9 @@ L’inventari inclou tots els Markdown de `docs/temes/`, inclosos índexs. Una f
 |---|---:|
 | Completats | 0 |
 | Exclosos per drets | 0 |
-| En curs | 4 |
+| En curs | 5 |
 | Sense pregunta natural | 0 |
-| No començats | 1473 |
+| No començats | 1472 |
 
 ## Estat de les fitxes article
 
@@ -23,9 +23,9 @@ L’inventari inclou tots els Markdown de `docs/temes/`, inclosos índexs. Una f
 |---|---:|
 | Completats | 0 |
 | Exclosos per drets | 0 |
-| En curs | 4 |
+| En curs | 5 |
 | Sense pregunta natural | 0 |
-| No començats | 1344 |
+| No començats | 1343 |
 
 ## Estat per tema
 
@@ -38,7 +38,7 @@ L’inventari inclou tots els Markdown de `docs/temes/`, inclosos índexs. Una f
 | `temes/costums/falles` | 1 | 1 | 0 | 0 | 0 | 0 |
 | `temes/costums/festes-majors` | 2 | 2 | 0 | 0 | 0 | 0 |
 | `temes/costums/gegants` | 1 | 1 | 0 | 0 | 0 | 0 |
-| `temes/costums/meritxell` | 1 | 1 | 0 | 0 | 0 | 0 |
+| `temes/costums/meritxell` | 1 | 0 | 1 | 0 | 0 | 0 |
 | `temes/costums/religiositat` | 5 | 5 | 0 | 0 | 0 | 0 |
 | `temes/costums/ritus-de-pas` | 2 | 2 | 0 | 0 | 0 | 0 |
 | `temes/costums/sant-antoni` | 1 | 1 | 0 | 0 | 0 | 0 |
@@ -161,6 +161,7 @@ L’inventari inclou tots els Markdown de `docs/temes/`, inclosos índexs. Una f
 ## Documents en curs
 
 - `docs/temes/costums/danses/la-marratxa.md` — 11 converses; 5 punts oberts.
+- `docs/temes/costums/meritxell/meritxell.md` — 1 converses; 5 punts oberts.
 - `docs/temes/cultura/museus-i-arxius/el-diposit-legal.md` — 77 converses; 3 punts oberts.
-- `docs/temes/historia/pareatge/el-pareatge.md` — 3 converses; 8 punts oberts.
+- `docs/temes/historia/pareatge/el-pareatge.md` — 4 converses; 8 punts oberts.
 - `docs/temes/historia/pareatge/el-segon-pareatge-desmunta-enclar-i-crea-el-notariat-1288.md` — 10 converses; 3 punts oberts.
