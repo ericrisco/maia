@@ -9,7 +9,7 @@
   "file_count": 1477,
   "article_count": 1348,
   "parse_error_count": 0,
-  "conversation_count": 115,
+  "conversation_count": 116,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 0,
@@ -1326,13 +1326,15 @@
       "topic": "temes/cultura/llegendes",
       "source": "wikipedia-tamarro",
       "status": "in_progress",
-      "conversation_count": 1,
+      "conversation_count": 2,
       "conversation_ids": [
-        "tamarro-difusio-pirineu-equivalents-001"
+        "tamarro-difusio-pirineu-equivalents-001",
+        "tamarro-mascota-jocs-1991-continuïtat-001"
       ],
       "reviewed_units": [
         "La figura folklòrica del tamarro es documenta al Pallars, la Vall d'Aran, Andorra i Occitània.",
-        "La font relaciona el tamarro amb figures equivalents sota noms regionals com gamusino i gambutzí, sense afirmar un relat únic compartit."
+        "La font relaciona el tamarro amb figures equivalents sota noms regionals com gamusino i gambutzí, sense afirmar un relat únic compartit.",
+        "El Tamarro va ser mascota dels Jocs dels Petits Estats d'Europa de 1991; la font no dona la data d'origen de la figura ni estableix continuïtat directa amb el reclam turístic posterior."
       ],
       "open_units": [
         "Revisar la cacera del tamarro només quan se n'hagin resolt els drets de la descripció atribuïda a Lluís Samper.",

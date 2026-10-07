@@ -5,7 +5,7 @@ L’inventari inclou tots els Markdown de `docs/temes/`, inclosos índexs. Una f
 - Fitxers Markdown inventariats: **1477**.
 - Fitxes `article`: **1348**.
 - Fitxers amb frontmatter invàlid: **0**.
-- Converses actives amb procedència: **115**.
+- Converses actives amb procedència: **116**.
 
 ## Estat de tots els fitxers
 
@@ -164,7 +164,7 @@ L’inventari inclou tots els Markdown de `docs/temes/`, inclosos índexs. Una f
 - `docs/temes/costums/danses/la-marratxa.md` — 11 converses; 5 punts oberts.
 - `docs/temes/costums/danses/les-festes-de-lossa.md` — 7 converses; 7 punts oberts.
 - `docs/temes/costums/meritxell/meritxell.md` — 1 converses; 5 punts oberts.
-- `docs/temes/cultura/llegendes/el-tamarro.md` — 1 converses; 5 punts oberts.
+- `docs/temes/cultura/llegendes/el-tamarro.md` — 2 converses; 5 punts oberts.
 - `docs/temes/cultura/museus-i-arxius/el-diposit-legal.md` — 77 converses; 3 punts oberts.
 - `docs/temes/historia/edat-mitjana/per-aquests-malfets-i-per-la-redempcio-de-la-seva-anima.md` — 4 converses; 5 punts oberts.
 - `docs/temes/historia/pareatge/el-pareatge.md` — 7 converses; 8 punts oberts.
