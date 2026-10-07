@@ -118,5 +118,19 @@
       "dama-blanca-representacions-001",
       "dama-blanca-auvinya-toponim-001"
     ]
+  },
+  "docs/temes/cultura/llegendes/el-tamarro.md": {
+    "status": "in_progress",
+    "reviewed_units": [
+      "El tamarro és una bèstia imaginària; la cacera era una broma per enganyar forasters amb una comporta i un sac, que els deixava xops i enfangats; la font descriu que podia incloure un gat amb morrió o un gos i la qualifica de cruel.",
+      "Els itineraris infantils actuals conviden a trobar el tamarro, presentat com a protector de la natura i els boscos."
+    ],
+    "open_units": [
+      "La història completa i les seves variants encara no estan cobertes; la font primària de la descripció de la broma no està identificada.",
+      "La data d'inici i final de la cacera, el seu nom local i el document de la mascota olímpica de 1991 encara no tenen conversa activa."
+    ],
+    "conversation_ids": [
+      "tamarro-cacera-i-itinerari-001"
+    ]
   }
 }

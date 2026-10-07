@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 8,
+    "in_progress": 9,
     "no_natural_question": 0,
-    "not_started": 1340
+    "not_started": 1339
   },
   "documents": [
     {
@@ -1159,11 +1159,19 @@
       "type": "article",
       "topic": "temes/cultura/llegendes",
       "source": "wikipedia-tamarro",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "tamarro-cacera-i-itinerari-001"
+      ],
+      "reviewed_units": [
+        "El tamarro és una bèstia imaginària; la cacera era una broma per enganyar forasters amb una comporta i un sac, que els deixava xops i enfangats; la font descriu que podia incloure un gat amb morrió o un gos i la qualifica de cruel.",
+        "Els itineraris infantils actuals conviden a trobar el tamarro, presentat com a protector de la natura i els boscos."
+      ],
+      "open_units": [
+        "La història completa i les seves variants encara no estan cobertes; la font primària de la descripció de la broma no està identificada.",
+        "La data d'inici i final de la cacera, el seu nom local i el document de la mascota olímpica de 1991 encara no tenen conversa activa."
+      ],
       "completion_note": "",
       "reason": ""
     },
