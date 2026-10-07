@@ -151,12 +151,15 @@
       "Passada editorial integral de la fitxa: revisar la resta d’afirmacions i buits contra les converses i conservar explícitament allò que no consta."
     ],
     "conversation_ids": [
-      "registre-religios-no-inscrit-responsabilitat-i-inscripcio-01"
+      "registre-religios-no-inscrit-responsabilitat-i-inscripcio-01",
+      "registre-religios-publicitat-i-abast-02"
     ],
     "reviewed_units": [
       "Responsabilitat solidària dels membres d’una entitat religiosa no inscrita per les obligacions contretes en nom seu (art. 15.1).",
       "Efecte de la inscripció: personalitat jurídica; els articles citats no resolen la transferència de deutes previs (art. 10).",
-      "Requisits personals bàsics per inscriure una entitat religiosa (art. 3.1): entitat no lucrativa radicada a Andorra, mínim de vint persones andorranes o residents, mateixa creença i culte, i almenys una persona adulta amb plenitud de drets."
+      "Requisits personals bàsics per inscriure una entitat religiosa (art. 3.1): entitat no lucrativa radicada a Andorra, mínim de vint persones andorranes o residents, mateixa creença i culte, i almenys una persona adulta amb plenitud de drets.",
+      "Publicitat i consulta del Registre: documents concrets de procediments acabats, procediment electrònic o escrit, límits de les consultes genèriques i protecció de dades (art. 8.1–3).",
+      "Dades mínimes dels assentaments i significat limitat de la xifra aproximada de practicants per entitat inscrita (art. 4.1)."
     ]
   }
 }
