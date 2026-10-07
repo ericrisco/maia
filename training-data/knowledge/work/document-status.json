@@ -20,11 +20,19 @@
       "unit_count": 29,
       "covered_unit_ids": [
         "docs/temes/costums/calendari-festiu/calendari-festiu.md#unit-0011",
-        "docs/temes/costums/calendari-festiu/calendari-festiu.md#unit-0020"
+        "docs/temes/costums/calendari-festiu/calendari-festiu.md#unit-0013",
+        "docs/temes/costums/calendari-festiu/calendari-festiu.md#unit-0014",
+        "docs/temes/costums/calendari-festiu/calendari-festiu.md#unit-0015",
+        "docs/temes/costums/calendari-festiu/calendari-festiu.md#unit-0016",
+        "docs/temes/costums/calendari-festiu/calendari-festiu.md#unit-0017",
+        "docs/temes/costums/calendari-festiu/calendari-festiu.md#unit-0018",
+        "docs/temes/costums/calendari-festiu/calendari-festiu.md#unit-0020",
+        "docs/temes/costums/calendari-festiu/calendari-festiu.md#unit-0021"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 27,
+      "open_unit_count": 20,
       "conversation_ids": [
+        "calendari-judicial-festes-religioses-1902-001",
         "calendari-judicial-fires-exteriors-1902-001"
       ]
     },
@@ -10767,6 +10775,8 @@
       "unit_count": 88,
       "covered_unit_ids": [
         "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0001",
+        "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0010",
+        "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0011",
         "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0012",
         "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0015",
         "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0016",
@@ -10774,8 +10784,9 @@
         "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0020"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 82,
+      "open_unit_count": 80,
       "conversation_ids": [
+        "calendari-judicial-festes-religioses-1902-001",
         "calendari-judicial-fires-exteriors-1902-001"
       ]
     },
