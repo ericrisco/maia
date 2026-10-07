@@ -18,11 +18,22 @@ Per això, les converses anteriors ja no són candidates actives. L'inventari de
 ## Com crear una conversa
 
 1. **Troba una necessitat humana abans d'escriure la pregunta.** Per exemple: entendre una història que algú ha sentit, planificar una visita, aclarir una confusió, comprovar un rumor o comparar dues tradicions.
-2. **Escriu la pregunta com si la persona no hagués llegit la fitxa.** Pot aportar context quotidià («hi aniré amb els nens», «ho recordo d'haver-ho sentit»), però no pot parlar de seccions, files, documents ni unitats del corpus.
+2. **Escriu la pregunta com si la persona no hagués llegit la fitxa.** No parlis de seccions, files, documents ni unitats. No inventis records, familiars, plans o experiències personals de l'usuari només per fer la pregunta més conversacional. Un dubte concret i directe ja pot sonar humà.
 3. **Contesta el dubte directament.** La primera frase ha de resoldre la pregunta. Afegeix només el context necessari i mantén separats el fet, la llegenda, la hipòtesi i allò que no se sap.
 4. **Fes seguiment del fil, no del format.** Afegeix un torn quan la resposta desperti una pregunta probable o quedi una decisió pràctica per resoldre. No allarguis una conversa per arribar a un nombre fix de torns.
 5. **Llegeix el diàleg sense la font.** Si la pregunta no sona espontània o la resposta no s'entén tota sola, reescriu-la.
 6. **Comprova cada afirmació i els drets.** La procedència ha d'indicar fonts, atribució, llicència, límits i grup de divisió. No incorporis una font amb redistribució pendent o prohibida.
+
+### Prova de qualitat
+
+Abans d'aprovar una conversa, comprova aquests quatre punts:
+
+1. **Intenció:** la pregunta demana una explicació, una distinció, una conseqüència o una dada útil. No demana que l'assistent llegeixi en veu alta una part de la fitxa.
+2. **Autonomia:** sense veure la font, s'entenen la pregunta i la resposta? Si hi ha «això», «aquesta fila» o un nom sense context, afegeix el referent o descarta el cas.
+3. **Resposta completa:** la primera resposta resol la pregunta en prosa clara. No comença a mitja frase ni deixa la dada clau per a un seguiment previsible.
+4. **Necessitat del seguiment:** cada torn posterior introdueix una qüestió nova que és probable que sorgeixi de la resposta. Si només confirma o reparteix una resposta que podia anar sencera al primer torn, elimina'l.
+
+Si no es pot formular una pregunta autònoma sense inventar context, o la font només dona un fragment sense explicar què significa, el coneixement es manté a l'inventari i no es força cap registre conversacional. La cobertura no és una quota de preguntes.
 
 ## Senyals que una pregunta sona humana
 
