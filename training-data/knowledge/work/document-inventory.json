@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 0,
+    "in_progress": 1,
     "no_natural_question": 0,
-    "not_started": 1348
+    "not_started": 1347
   },
   "documents": [
     {
@@ -14295,11 +14295,21 @@
       "type": "article",
       "topic": "temes/institucions/justicia",
       "source": "brutails-coutume-1904",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "competencia-demanda-consol-deute-personal-01"
+      ],
+      "reviewed_units": [
+        "autorització per demandar autoritats abans i després de la Reforma de 1866",
+        "autoritat que concedeix l'autorització i condicions de venciment i exigibilitat"
+      ],
+      "open_units": [
+        "diferència entre demanda civil i persecució criminal",
+        "decret de 1866 sobre detencions per danys a béns comunals",
+        "competència judicial segons qui demanda la comunitat",
+        "instàncies d'apel·lació i divergències de la font"
+      ],
       "completion_note": "",
       "reason": ""
     },
