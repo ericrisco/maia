@@ -1111,11 +1111,11 @@
       "title": "Llegendes — índex",
       "type": "article",
       "topic": "temes/cultura/llegendes",
-      "status": "not_started",
+      "status": "complete",
       "unit_count": 12,
       "covered_unit_ids": [],
-      "excluded_unit_count": 0,
-      "open_unit_count": 12,
+      "excluded_unit_count": 12,
+      "open_unit_count": 0,
       "conversation_ids": []
     },
     "docs/temes/cultura/museus-i-arxius/abans-ho-decretava-el-govern.md": {
