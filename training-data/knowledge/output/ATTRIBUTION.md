@@ -66,6 +66,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - Viquipèdia en català, article «Festes de l’ossa a Andorra», llicència CC BY-SA 4.0; cronologia de l’Última Ossa d’Ordino el 2020.
 - Viquipèdia en català, article «Festes de l’ossa a Andorra», llicència CC BY-SA 4.0; cronologia i llocs de celebració de l’Última Ossa d’Ordino.
 - Viquipèdia en català, article «Festes de l’ossa a Andorra», llicència CC BY-SA 4.0; la fitxa cita l’Arxiu Nacional com a custodi de documents i testimonis orals.
+- Viquipèdia en català, article «Festes de l’ossa a Andorra», llicència CC BY-SA 4.0; la fitxa de Guillem d’Areny-Plandolit no identifica el fons fotogràfic.
 - Viquipèdia en català, article «Festes de l’ossa a Andorra», llicència CC BY-SA 4.0; trama resumida de l’Última Ossa d’Ordino.
 - Viquipèdia en català, articles sobre les festes de l’ossa d’Andorra i el ball de l’ossa d’Encamp; llicència CC BY-SA 4.0.
 - Viquipèdia en català, articles sobre les festes de l’ossa i el ball d’Encamp, CC BY-SA 4.0; les fitxes del corpus atribueixen a aquestes fonts la cronologia i la informació sobre Rossend Marsol Clua.
@@ -88,6 +89,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - CC BY-SA 4.0, amb obligació d’atribució i compartir igual. L’origen medieval es manté com a hipòtesi probable de la font, no com a fet provat.
 - CC BY-SA 4.0; atribució i compartir igual. La causa de la represa d’Ordino no consta a la font.
 - CC BY-SA 4.0; atribució i compartir igual. La font no data el trasllat al desembre.
+- CC BY-SA 4.0; atribució i compartir igual. La fotografia mateixa no forma part del corpus consultat.
 - CC BY-SA 4.0; atribució i compartir igual. Les obres citades són només referències, no contingut consultat ni reproduït.
 - CC BY-SA 4.0; atribució i compartir igual. No redistribuir sense conservar les condicions de la llicència.
 - Contingut periodístic amb drets reservats; la fitxa premsa-andorrana registra redistribució:no. La referència concreta no es pot verificar.

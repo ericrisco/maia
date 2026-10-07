@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 23,
+    "in_progress": 24,
     "no_natural_question": 0,
-    "not_started": 1325
+    "not_started": 1324
   },
   "documents": [
     {
@@ -282,12 +282,13 @@
       "topic": "temes/costums/danses",
       "source": "wikipedia-llegendes-andorra",
       "status": "in_progress",
-      "conversation_count": 15,
+      "conversation_count": 16,
       "conversation_ids": [
         "festes-ossa-abast-historic-territorial-01",
         "festes-ossa-bibliografia-per-ampliar",
         "festes-ossa-emigracio-i-represa-ordino-01",
         "festes-ossa-farsa-i-ball-final-01",
+        "fotografies-ossa-ordino-areny-plandolit",
         "ossa-calendari-hibernacio-i-tradicio-01",
         "ossa-inventari-andorra-i-unesco",
         "ossa-pervivencia-encamp-ordino",
@@ -9511,9 +9512,11 @@
       "type": "article",
       "topic": "temes/historia/segle-xix",
       "source": "viquipedia-ca",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "fotografies-ossa-ordino-areny-plandolit"
+      ],
       "reviewed_units": [],
       "completion_note": "",
       "reason": ""

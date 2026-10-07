@@ -4,14 +4,14 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 
 - Fitxes article: **1348**.
 - Fitxers totals, inclosos índexs: **1477**.
-- Converses candidates: **95**.
+- Converses candidates: **96**.
 
 | Estat de revisió | Fitxes |
 |---|---:|
 | Revisades completes | 0 |
-| En curs | 23 |
+| En curs | 24 |
 | Revisades sense pregunta natural | 0 |
-| No començades | 1325 |
+| No començades | 1324 |
 
 ## Estat per tema
 
@@ -79,7 +79,7 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 | `temes/historia/moments-historics` | 2 | 2 | 0 | 0 | 0 |
 | `temes/historia/origens` | 15 | 15 | 0 | 0 | 0 |
 | `temes/historia/pareatge` | 6 | 5 | 1 | 0 | 0 |
-| `temes/historia/segle-xix` | 29 | 28 | 1 | 0 | 0 |
+| `temes/historia/segle-xix` | 29 | 27 | 2 | 0 | 0 |
 | `temes/historia/segle-xx-primera-meitat` | 30 | 30 | 0 | 0 | 0 |
 | `temes/institucions/comuns-i-parroquies` | 35 | 35 | 0 | 0 | 0 |
 | `temes/institucions/consell-general` | 84 | 84 | 0 | 0 | 0 |
