@@ -15641,7 +15641,7 @@
       "topic": "temes/institucions/relacions-exteriors",
       "source": "eur-lex-protocol-seguretat-duanera-2011",
       "status": "in_progress",
-      "conversation_count": 8,
+      "conversation_count": 9,
       "conversation_ids": [
         "andorra-comite-duaner-observador-sense-vot-01",
         "andorra-comites-duaners-abast-i-exclusio-03",
@@ -15650,6 +15650,7 @@
         "protocol-duaner-aplicacio-provisional-i-vigencia-08",
         "protocol-duaner-no-adopcio-suspensio-02",
         "protocol-duaner-reconeixement-risk-i-operadors-07",
+        "protocol-duaner-suspensio-real-no-verificada-09",
         "protocol-duaner-versions-autentiques-catala-05"
       ],
       "reviewed_units": [
@@ -15668,12 +15669,13 @@
         "exclusió de les mesures de seguretat del transport de mercaderies entre els territoris duaners de les parts",
         "reconeixement mutu de l’equivalència dels sistemes de gestió del risc relacionats amb la seguretat",
         "intercanvi periòdic de dades sobre operadors econòmics autoritzats i els set camps especificats al Protocol",
-        "aplicació provisional des de l’1 de gener de 2011 i condició de notificació per a l’entrada en vigor definitiva; notificació no localitzada"
+        "aplicació provisional des de l’1 de gener de 2011 i condició de notificació per a l’entrada en vigor definitiva; notificació no localitzada",
+        "no s’ha verificat cap invocació real de la suspensió; l’absència de cas localitzat no prova que no n’hi hagués"
       ],
       "open_units": [
         "aplicació provisional des de 2011 i notificació d’entrada en vigor definitiva no localitzada",
         "relació amb la Decisió d’adequació de dades personals de 2010 i les fonts que el protocol cita",
-        "si l’article 12k s’ha invocat mai, i si s’ha aplicat alguna suspensió o mesura de reequilibri",
+        "verificar en fonts oficials si l’article 12k s’ha invocat i si hi ha hagut suspensions o mesures de reequilibri",
         "localitzar el text íntegre autèntic en català del protocol"
       ],
       "completion_note": "",
