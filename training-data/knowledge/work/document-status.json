@@ -5,18 +5,19 @@
       "Vilar recull com a queixa dels veïns dels cantons francesos la sospita que les mateixes bèsties es comptaven més d'una vegada; el capítol no aporta cens, acta ni comprovació.",
       "Vilar declara que va fer aprovar un vot el 5 d'octubre de 1904 per demanar un nou cens, verificar certificats d'origen i limitar temporalment l'entrada en franquícia; el llibre no en dona els resultats.",
       "La fitxa esmenta els recomptes francesos de bestiar de 1898-1900, però no estableix que cobreixin el mateix univers que la queixa ni els compara amb ella.",
-      "La franquícia francesa permetia entrar sense drets un terç del bestiar existent a Andorra, de manera que la xifra del cens determinava la quantitat autoritzada; la font no diu cada quant es comptava."
+      "La franquícia francesa permetia entrar sense drets un terç del bestiar existent a Andorra, de manera que la xifra del cens determinava la quantitat autoritzada; la font no diu cada quant es comptava.",
+      "Vilar descriu Andorra sense duana pròpia entre els cordons duaners francès i espanyol i relaciona aquesta situació amb el contraban, però no quantifica l'activitat ni afirma que tot el comerç fos il·legal."
     ],
     "open_units": [
       "La relació entre la regla francesa del terç i la quota espanyola proposada el 1895.",
       "La comparació entre l'acusació de doble recompte i els censos francesos de 1898-1900; les fonts no indiquen si compten el mateix univers.",
       "La cronologia de les franquícies franceses i espanyoles, incloses les peces de 1767, 1806, 1867 i 1895.",
-      "L'explicació del règim sense duanes pròpies i l'efecte sobre el comerç i el contraban.",
       "Les fonts externes i els resultats del vot del Consell General dels Pirineus Orientals de 1904."
     ],
     "conversation_ids": [
       "vilar1904-recompte-bestiar-doble-001",
-      "vilar1904-regla-terc-bestiar-001"
+      "vilar1904-regla-terc-bestiar-001",
+      "vilar1904-no-duana-contraban-001"
     ]
   }
 }
