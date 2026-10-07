@@ -54,5 +54,24 @@
       "Lletres i enregistraments de caramelles no tenen drets d’ús documentats per a Maia Language."
     ],
     "completion_note": "Fitxa sencera i actualitzacions revisades. Les preguntes possibles sobre el canvi d’ous a diners, el recorregut de Sant Julià i les corals depenen de fonts no redistribuïbles. No s’ha creat cap candidat ni s’han copiat fragments. Revisió completa; dades excloses de l’export mentre no hi hagi autorització o una font equivalent reutilitzable."
+  },
+  "docs/temes/costums/danses/la-marratxa.md": {
+    "status": "in_progress",
+    "reviewed_units": [
+      "Marratxa, morratxa i almorratxa designen el recipient d’aigua perfumada que els dansaires duien antigament; avui l’objecte no forma part del ball.",
+      "La tradició situa el primer ball el 7 de setembre de 1278 després dels Pareatges, però la fitxa del Pareatge dona el 8 de setembre; la discrepància no està resolta.",
+      "La dansa es balla el dilluns de la festa major de Sant Julià de Lòria, amb la Passa i el ball del Cerdà.",
+      "Dos dansaires, un de casat i un de solter, representen els dos coprínceps; tres balladores representen les sis antigues parròquies, sense explicació de la correspondència.",
+      "La coreografia actual es va fixar als anys seixanta: Daniel Areny va recollir les variacions de la tonada de la memòria de Ricard Mas i Isidre Marbà la va harmonitzar i en va crear la coreografia.",
+      "L’Esbart Laurèdia interpreta la dansa a la plaça Major de Sant Julià des del 1963."
+    ],
+    "open_units": [
+      "No hi ha font primària que verifiqui quan es va ballar per primer cop ni quan es va començar a atribuir l’origen al 1278.",
+      "La font no explica per què tres balladores simbolitzen sis parròquies ni la correspondència individual.",
+      "El vestuari complet i el rastre documental antic de la dansa no són al corpus."
+    ],
+    "conversation_ids": [
+      "marratxa-symbolism-001"
+    ]
   }
 }
