@@ -25,6 +25,7 @@ el BOPA no implica cap suport al projecte. No s'atribueix una llicència global 
 - Adaptació de l'article «Sergi Mas Balaguer» de la Viquipèdia en català, llicència CC BY-SA 4.0. Cal conservar l'atribució i compartir l'adaptació amb la mateixa llicència.
 - Adaptació de l'article «Trinxat» de la Viquipèdia en català, llicència CC BY-SA 4.0. Cal conservar l'atribució i compartir igual.
 - Adaptació de la Llei 2/2025, qualificada del Registre d'entitats religioses, publicada al BOPA núm. 22 del 19-02-2025, article 11. Es conserva el sentit de la norma i la identificació de data; el BOPA no implica suport al projecte.
+- Adaptació de la Llei 2/2025, qualificada del Registre d'entitats religioses, publicada al BOPA núm. 22 del 19-02-2025, article 14. Es conserva el sentit de la norma i la identificació de data; el BOPA no implica suport al projecte.
 - Adaptació de la Llei 2/2025, qualificada del Registre d'entitats religioses, publicada al BOPA núm. 22 del 19-02-2025, article 15. Es conserva el sentit de la norma i la identificació de data; el BOPA no implica suport al projecte.
 - Adaptació de la Llei 2/2025, qualificada del Registre d'entitats religioses, publicada al BOPA núm. 22 del 19-02-2025, article 3. Es conserva el sentit de la norma i la identificació de data; el BOPA no implica suport al projecte.
 - Adaptació de la Llei 2/2025, qualificada del Registre d'entitats religioses, publicada al BOPA núm. 22 del 19-02-2025, article 3.4. Es conserva el sentit de la norma i la identificació de data; el BOPA no implica suport al projecte.
