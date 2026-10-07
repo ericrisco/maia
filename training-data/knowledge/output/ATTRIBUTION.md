@@ -17,6 +17,7 @@ al projecte.
 - Constitució del Principat d'Andorra, articles 1.5 i 79-80, BOPA núm. 24, 4-05-1993; condicions de reutilització registrades a docs/fonts/bopa-ad.md.
 - Departament d'Estadística del Govern d'Andorra, «Estadística dels censos parroquials», referència 31-07-2026, publicada el 13-08-2026, i «Metodologia de les estimacions de població»; CC BY 4.0, amb atribució.
 - Departament d’Agricultura i Ramaderia, dades de producció de tabac tractades pel Departament d’Estadística del Govern d’Andorra; API, divisió 2404, captura del 18-09-2026; CC BY 4.0 per a les dades estadístiques pròpies, amb atribució. No implica patrocini.
+- Departament d’Agricultura i Ramaderia, dades de producció de tabac tractades pel Departament d’Estadística del Govern d’Andorra; API, divisió 2405, captura del 18-09-2026; CC BY 4.0 per a les dades estadístiques pròpies, amb atribució. No implica patrocini.
 - Departament d’Estadística del Govern d’Andorra, A138 «Balança de pagaments i posició inversora internacional. Any 2024», publicada el 31-07-2025; informació estadística pròpia reutilitzada sota CC BY 4.0, amb atribució. No implica patrocini.
 - Departament d’Estadística del Govern d’Andorra, API pública, divisions 70 i 68, dades descarregades el 18-09-2026; CC BY 4.0. Cal atribuir el Departament i la data de descàrrega; no implica patrocini.
 - Departament d’Estadística del Govern d’Andorra, API pública, divisions 76, «Importacions per països en valor», bolcat del 18-09-2026; CC BY 4.0. Cal atribuir el Departament i la data de descàrrega; no implica patrocini.
