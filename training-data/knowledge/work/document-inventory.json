@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 11,
+    "in_progress": 12,
     "no_natural_question": 0,
-    "not_started": 1337
+    "not_started": 1336
   },
   "documents": [
     {
@@ -1203,11 +1203,18 @@
       "type": "article",
       "topic": "temes/cultura/llegendes",
       "source": "viquipedia-ca",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "bruixa-sornas-relat-i-buits-001"
+      ],
+      "reviewed_units": [
+        "A Sornàs hi ha una figura a la roca que representa una dona; la llegenda diu que és una bruixa cremada allà mateix.",
+        "La versió disponible no diu qui era, qui la va cremar, el motiu o la data, i no aporta rastre documental d'un procés."
+      ],
+      "open_units": [
+        "No hi ha versió llarga, identificació de la figura material ni font sobre processos històrics de bruixeria."
+      ],
       "completion_note": "",
       "reason": ""
     },

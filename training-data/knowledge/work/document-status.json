@@ -166,5 +166,18 @@
     "conversation_ids": [
       "roc-bruixes-geografia-canillo-001"
     ]
+  },
+  "docs/temes/cultura/llegendes/la-bruixa-de-sornas.md": {
+    "status": "in_progress",
+    "reviewed_units": [
+      "A Sornàs hi ha una figura a la roca que representa una dona; la llegenda diu que és una bruixa cremada allà mateix.",
+      "La versió disponible no diu qui era, qui la va cremar, el motiu o la data, i no aporta rastre documental d'un procés."
+    ],
+    "open_units": [
+      "No hi ha versió llarga, identificació de la figura material ni font sobre processos històrics de bruixeria."
+    ],
+    "conversation_ids": [
+      "bruixa-sornas-relat-i-buits-001"
+    ]
   }
 }
