@@ -1003,7 +1003,7 @@
       "title": "Llegendes — índex",
       "type": "article",
       "topic": "temes/cultura/llegendes",
-      "status": "in_progress",
+      "status": "complete",
       "unit_count": 12,
       "covered_unit_ids": [
         "docs/temes/cultura/llegendes/llegendes.md#unit-0001",
@@ -1015,8 +1015,8 @@
         "docs/temes/cultura/llegendes/llegendes.md#unit-0008",
         "docs/temes/cultura/llegendes/llegendes.md#unit-0009"
       ],
-      "excluded_unit_count": 1,
-      "open_unit_count": 3,
+      "excluded_unit_count": 4,
+      "open_unit_count": 0,
       "conversation_ids": [
         "llegendes-estat-material-001",
         "llegendes-hipotesi-figures-femenines-001"
