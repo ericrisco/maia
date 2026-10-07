@@ -239,7 +239,8 @@
         "segon-pareatge-confirmacio-papal-pena-001",
         "segon-pareatge-responsabilitat-notari-001",
         "segon-pareatge-1288-arbitres-001",
-        "segon-pareatge-enclar-execucio-desconeguda-001"
+        "segon-pareatge-enclar-execucio-desconeguda-001",
+        "segon-pareatge-competencies-notari-001"
       ],
       "covered_units": [
         "Segon Pareatge de 1288: les qüestions derivaven d'ambigüitats prèvies; a Enclar s'ordena aturar i retirar la construcció i no fortificar sense consentiment de l'altre senyor.",
@@ -249,13 +250,14 @@
         "Confirmació papal: el comte reclamava 50.000 sous; els àrbitres van considerar provada la confirmació dins del termini, van descartar la pena i van ordenar lliurar la butlla segellada en un any des de Pasqua, sota una pena de 1.000 morabatins.",
         "Notari que falsifica o delinqueix: investigació conjunta del bisbe i el comte o els seus oficials; penes i composicions econòmiques repartides a parts iguals.",
         "Context del segon Pariatge: sentència del 6-12-1288 entre Pere d'Urtx i Roger Bernat III; Ramon d'Urtx i Guillem Ramon de Josa hi intervenen com a àrbitres davant novetats i ambigüitats prèvies.",
-        "Execució d'Enclar: hi ha ordre de retirar el que s'havia construït, però no consta prova de si es va complir; l'absència de prova no permet inferir cap resultat material."
+        "Execució d'Enclar: hi ha ordre de retirar el que s'havia construït, però no consta prova de si es va complir; l'absència de prova no permet inferir cap resultat material.",
+        "Competències notarials: testaments, instruments, codicils i altres escriptures públiques; el notari actua sota autoritat conjunta del bisbe i el comte."
       ],
       "open_units": [
         "Mantenir oberts els buits sobre execució material, primers notaris, butlla i consulta de l'original; revisar drets de la reproducció i traducció abans de l'export.",
         "Consultar la butlla papal original i el document de lliurament; la sentència secundària no permet comprovar-ne l'existència material ni l'execució.",
-        "Revisar l'abast dels instruments públics que podia redactar el notari i l'annexió de la part del comte al feu d'Andorra.",
-        "Comprovar en una font primària si la prohibició sobre la roca d'Arfa es va complir; tampoc no hi ha prova localitzada sobre l'execució material d'Enclar."
+        "Comprovar en una font primària si la prohibició sobre la roca d'Arfa es va complir; tampoc no hi ha prova localitzada sobre l'execució material d'Enclar.",
+        "Revisar com la part del comte en el càrrec notarial queda annexa al feu d'Andorra que tenia pel bisbe i l'Església d'Urgell."
       ]
     }
   },
