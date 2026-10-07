@@ -551,5 +551,20 @@
     "reviewed_units": [
       "La retirada del cercador és una denúncia inicial del director; després ell l’atribueix a errors tècnics, però no hi ha explicació directa d’Amazon i no es pot concloure censura."
     ]
+  },
+  "docs/temes/cultura/arquitectura/el-romanic-com-a-operacio-politica.md": {
+    "status": "in_progress",
+    "open_units": [
+      "Contrast historiogràfic de la hipòtesi de «colonització espiritual».",
+      "Documents originals dels homenatges: dates discrepants entre 1162/1176 i 1170.",
+      "Documentació de la casa de Caboet i biografia d’Arnalda.",
+      "Qui va finançar cada església romànica no identificat."
+    ],
+    "conversation_ids": [
+      "romanic-capelles-i-hipotesi-politica-001"
+    ],
+    "reviewed_units": [
+      "La hipòtesi política sobre la proliferació de capelles no està contrastada; la cronologia de disputes i homenatges és context, no prova causal."
+    ]
   }
 }

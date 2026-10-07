@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 36,
+    "in_progress": 37,
     "no_natural_question": 0,
-    "not_started": 1312
+    "not_started": 1311
   },
   "documents": [
     {
@@ -848,11 +848,20 @@
       "type": "article",
       "topic": "temes/cultura/arquitectura",
       "source": "rodriguez-rossa-creacio-artistica",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "romanic-capelles-i-hipotesi-politica-001"
+      ],
+      "reviewed_units": [
+        "La hipòtesi política sobre la proliferació de capelles no està contrastada; la cronologia de disputes i homenatges és context, no prova causal."
+      ],
+      "open_units": [
+        "Contrast historiogràfic de la hipòtesi de «colonització espiritual».",
+        "Documents originals dels homenatges: dates discrepants entre 1162/1176 i 1170.",
+        "Documentació de la casa de Caboet i biografia d’Arnalda.",
+        "Qui va finançar cada església romànica no identificat."
+      ],
       "completion_note": "",
       "reason": ""
     },
