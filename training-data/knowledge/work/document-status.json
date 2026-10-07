@@ -725,12 +725,17 @@
       "covered_unit_ids": [
         "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0046",
         "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0047",
-        "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0048"
+        "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0048",
+        "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0050",
+        "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0051",
+        "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0052",
+        "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0053"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 70,
+      "open_unit_count": 66,
       "conversation_ids": [
-        "lectura-oci-diferencia-sexe-001"
+        "lectura-oci-diferencia-sexe-001",
+        "lectura-oci-estudis-001"
       ]
     },
     "docs/temes/cultura/cultura-d-andorra-index-de-fitxes.md": {
