@@ -14056,14 +14056,16 @@
         "docs/temes/societat/demografia/qui-compta-com-a-resident.md#unit-0038",
         "docs/temes/societat/demografia/qui-compta-com-a-resident.md#unit-0039",
         "docs/temes/societat/demografia/qui-compta-com-a-resident.md#unit-0040",
-        "docs/temes/societat/demografia/qui-compta-com-a-resident.md#unit-0041"
+        "docs/temes/societat/demografia/qui-compta-com-a-resident.md#unit-0041",
+        "docs/temes/societat/demografia/qui-compta-com-a-resident.md#unit-0042"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 21,
+      "open_unit_count": 20,
       "conversation_ids": [
         "poblacio-per-poble-registrada-vs-estimada-001",
         "residencia-discrepancia-diagrama-i-totals-001",
         "residencia-empadronament-i-concepte-habitual-001",
+        "residencia-flux-inicial-permisos-primavera-2026-001",
         "residencia-permisos-fronterers-i-temporals-001",
         "residencia-registrada-estimada-i-registre-001"
       ]
