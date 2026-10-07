@@ -13829,6 +13829,7 @@
       "status": "in_progress",
       "unit_count": 46,
       "covered_unit_ids": [
+        "docs/temes/societat/demografia/la-mateixa-gent-quinze-anys-mes-gran.md#unit-0001",
         "docs/temes/societat/demografia/la-mateixa-gent-quinze-anys-mes-gran.md#unit-0002",
         "docs/temes/societat/demografia/la-mateixa-gent-quinze-anys-mes-gran.md#unit-0004",
         "docs/temes/societat/demografia/la-mateixa-gent-quinze-anys-mes-gran.md#unit-0005",
@@ -13864,13 +13865,15 @@
         "docs/temes/societat/demografia/la-mateixa-gent-quinze-anys-mes-gran.md#unit-0039",
         "docs/temes/societat/demografia/la-mateixa-gent-quinze-anys-mes-gran.md#unit-0040",
         "docs/temes/societat/demografia/la-mateixa-gent-quinze-anys-mes-gran.md#unit-0041",
-        "docs/temes/societat/demografia/la-mateixa-gent-quinze-anys-mes-gran.md#unit-0044"
+        "docs/temes/societat/demografia/la-mateixa-gent-quinze-anys-mes-gran.md#unit-0044",
+        "docs/temes/societat/demografia/la-mateixa-gent-quinze-anys-mes-gran.md#unit-0045"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 10,
+      "open_unit_count": 8,
       "conversation_ids": [
         "demografia-canvi-poblacio-per-edat-2010-2025-001",
         "demografia-edat-modal-no-es-seguiment-001",
+        "demografia-granularitat-nacionalitat-2025-001",
         "demografia-nacionalitat-segons-edat-2025-001",
         "demografia-registre-edat-zero-i-un-any-001",
         "demografia-sexe-per-edat-2025-001",
