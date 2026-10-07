@@ -5,7 +5,7 @@ L’inventari inclou tots els Markdown de `docs/temes/`, inclosos índexs. Una f
 - Fitxers Markdown inventariats: **1477**.
 - Fitxes `article`: **1348**.
 - Fitxers amb frontmatter invàlid: **0**.
-- Converses actives amb procedència: **147**.
+- Converses actives amb procedència: **148**.
 
 ## Estat de tots els fitxers
 
@@ -167,7 +167,7 @@ L’inventari inclou tots els Markdown de `docs/temes/`, inclosos índexs. Una f
 - `docs/temes/cultura/arquitectura/els-estripagecs.md` — 3 converses; 4 punts oberts.
 - `docs/temes/cultura/llegendes/el-tamarro.md` — 2 converses; 5 punts oberts.
 - `docs/temes/cultura/museus-i-arxius/el-diposit-legal.md` — 77 converses; 3 punts oberts.
-- `docs/temes/cultura/museus-i-arxius/museus/els-museus-d-andorra-index-de-fitxes.md` — 6 converses; 1 punts oberts.
+- `docs/temes/cultura/museus-i-arxius/museus/els-museus-d-andorra-index-de-fitxes.md` — 7 converses; 1 punts oberts.
 - `docs/temes/historia/edat-mitjana/per-aquests-malfets-i-per-la-redempcio-de-la-seva-anima.md` — 4 converses; 5 punts oberts.
 - `docs/temes/historia/pareatge/el-pareatge.md` — 7 converses; 8 punts oberts.
 - `docs/temes/historia/pareatge/el-segon-pareatge-desmunta-enclar-i-crea-el-notariat-1288.md` — 10 converses; 3 punts oberts.
