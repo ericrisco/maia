@@ -27,6 +27,8 @@
     "docs/raw/estadistica-api/cultura/cultura-i-esport-api-2026-09-18.tsv": "validation",
     "docs/temes/societat/habitatge/dos-tercos-del-pais-viuen-de-lloguer.md": "train",
     "docs/raw/estadistica-api/pobresa/pobresa-desigualtat-i-llars-per-l-api-d-estadistica.md": "train",
-    "docs/raw/estadistica-api/pobresa/pobresa-i-llars-api-2026-09-18.tsv": "train"
+    "docs/raw/estadistica-api/pobresa/pobresa-i-llars-api-2026-09-18.tsv": "train",
+    "docs/raw/estadistica-api/hipoteques/hipoteques-concedides-per-l-api-d-estadistica.md": "train",
+    "docs/raw/estadistica-api/hipoteques/hipoteques-api-2026-09-18.tsv": "train"
   }
 }
