@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 1,
+    "in_progress": 2,
     "no_natural_question": 0,
-    "not_started": 1347
+    "not_started": 1346
   },
   "documents": [
     {
@@ -44,14 +44,16 @@
       "topic": "temes/costums/calendari-festiu",
       "source": "premsa-andorrana",
       "status": "in_progress",
-      "conversation_count": 2,
+      "conversation_count": 3,
       "conversation_ids": [
+        "ball-ossa-encamp-versions-1950-avui-01",
         "carnaval-encamp-horaris-2026-01",
         "carnaval-encamp-sentit-guio-incert-01"
       ],
       "reviewed_units": [
         "horaris i lloc del Judici dels Contrabandistes i del Ball de l’Ossa a l’edició d’Encamp del 2026; caràcter mòbil de les dates",
-        "Judici dels Contrabandistes: farsa pública i lectura de la fitxa sobre el contraban; guió no localitzat i forma de representació desconeguda"
+        "Judici dels Contrabandistes: farsa pública i lectura de la fitxa sobre el contraban; guió no localitzat i forma de representació desconeguda",
+        "comparison between the 1950 description of the Ball de l’Ossa and the later argument summarized from Masegosa; source verification caveat retained"
       ],
       "open_units": [
         "les tres representacions del Carnaval d’Encamp i el seu calendari complet",
@@ -139,11 +141,18 @@
       "type": "article",
       "topic": "temes/costums/danses",
       "source": "wikipedia-ball-ossa-encamp",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "ball-ossa-encamp-versions-1950-avui-01"
+      ],
+      "reviewed_units": [
+        "versions documented for the Ball de l’Ossa d’Encamp: Amades (1950) and the later account summarized from Masegosa; the corpus does not arbitrate authenticity"
+      ],
+      "open_units": [
+        "other useful facts and relationships in the article remain to be reviewed",
+        "complete article-level coverage and any unresolved claims or source conflicts"
+      ],
       "completion_note": "",
       "reason": ""
     },
