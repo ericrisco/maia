@@ -1034,12 +1034,19 @@
       "title": "El minairó",
       "type": "article",
       "topic": "temes/cultura/llegendes",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 38,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/cultura/llegendes/el-minairo.md#unit-0009",
+        "docs/temes/cultura/llegendes/el-minairo.md#unit-0011",
+        "docs/temes/cultura/llegendes/el-minairo.md#unit-0012",
+        "docs/temes/cultura/llegendes/el-minairo.md#unit-0028"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 38,
-      "conversation_ids": []
+      "open_unit_count": 34,
+      "conversation_ids": [
+        "minairons-canut-tarteres-etimologia-001"
+      ]
     },
     "docs/temes/cultura/llegendes/el-roc-de-les-bruixes.md": {
       "title": "El Roc de les Bruixes",
