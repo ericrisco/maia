@@ -223,13 +223,14 @@
       "topic": "temes/costums/danses",
       "source": "wikipedia-llegendes-andorra",
       "status": "in_progress",
-      "conversation_count": 9,
+      "conversation_count": 10,
       "conversation_ids": [
         "festes-ossa-calendari-hivern-001",
         "festes-ossa-distribucio-i-calendari-001",
         "festes-ossa-emigracio-i-represa-001",
         "festes-ossa-inscripcio-unesco-001",
         "festes-ossa-primera-referencia-001",
+        "ordino-ossa-calendari-emplaçament-001",
         "ordino-ossa-cronologies-contradictories-001",
         "ordino-ossa-farsa-i-final-001",
         "ordino-ossa-mascara-centenaria-001",
@@ -246,7 +247,8 @@
         "Les festes de l'ossa són farses còmiques d'un sol acte amb personatges típics de la vida rural.",
         "A l'Última Ossa d'Ordino, un malentès entre el senyoret, els homes rics, les senyores visitants i els homes humils s'aclareix quan tots maten l'ossa; després la minyona comparteix amb el públic la sang representada amb aigua i granadina i la festa acaba amb un ball col·lectiu.",
         "La primera referència escrita citada és de 1838, a la Relació sobre la Vall de Andorra de Tomàs Junoy i Arraut; l'origen medieval només es planteja com a probable.",
-        "L'Última Ossa d'Ordino es va representar el desembre de 2020 malgrat la pandèmia, amb canvi d'emplaçament i ajornament d'uns dies per no coincidir amb el dol nacional de tres dies per la mort de Valéry Giscard d'Estaing."
+        "L'Última Ossa d'Ordino es va representar el desembre de 2020 malgrat la pandèmia, amb canvi d'emplaçament i ajornament d'uns dies per no coincidir amb el dol nacional de tres dies per la mort de Valéry Giscard d'Estaing.",
+        "L'Última Ossa d'Ordino passà de celebrar-se per Carnaval a fer-se la primera setmana de desembre; l'emplaçament original era la plaça davant de Sant Corneli i Sant Cebrià, després els jardins d'Areny-Plandolit a Sant Esteve."
       ],
       "open_units": [
         "La cronologia completa de les represes d'Ordino i els canvis de calendari encara no està coberta en converses actives.",
