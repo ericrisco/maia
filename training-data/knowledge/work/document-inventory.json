@@ -1633,12 +1633,14 @@
       "topic": "temes/cultura/teatre",
       "source": "masegosa-teatre-andorra",
       "status": "in_progress",
-      "conversation_count": 1,
+      "conversation_count": 2,
       "conversation_ids": [
-        "ball-ossa-encamp-cortinada-arguments-01"
+        "ball-ossa-encamp-cortinada-arguments-01",
+        "operacio-carnestoltes-matanca-porc-origen-01"
       ],
       "reviewed_units": [
-        "diferència entre les versions del Ball de l'Ossa d'Encamp i la Cortinada; variació local sense origen comú establert"
+        "diferència entre les versions del Ball de l'Ossa d'Encamp i la Cortinada; variació local sense origen comú establert",
+        "Operació del Carnestoltes: vísceres de la matança del porc com a attrezzo, incorporació pels volts de 1970, autor desconegut i representació al complex esportiu"
       ],
       "open_units": [
         "forma de teatre popular i relació entre actors i públic",
