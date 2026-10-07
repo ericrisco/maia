@@ -17,18 +17,18 @@ La cobertura és per document citat i és només un límit inferior: una cita no
 
 | Tema | Fitxes article | Amb conversa citada | Sense conversa citada |
 |---|---:|---:|---:|
-| `costums` | 23 | 0 | 23 |
-| `cultura` | 72 | 1 | 71 |
-| `economia` | 95 | 0 | 95 |
+| `costums` | 23 | 4 | 19 |
+| `cultura` | 72 | 6 | 66 |
+| `economia` | 95 | 5 | 90 |
 | `esports` | 272 | 0 | 272 |
-| `gastronomia` | 15 | 0 | 15 |
+| `gastronomia` | 15 | 2 | 13 |
 | `historia` | 226 | 0 | 226 |
-| `institucions` | 338 | 0 | 338 |
+| `institucions` | 338 | 2 | 336 |
 | `llengua` | 43 | 0 | 43 |
-| `persones` | 43 | 0 | 43 |
+| `persones` | 43 | 1 | 42 |
 | `politica` | 19 | 0 | 19 |
-| `societat` | 142 | 0 | 142 |
-| `territori` | 49 | 0 | 49 |
+| `societat` | 142 | 2 | 140 |
+| `territori` | 49 | 1 | 48 |
 | `vida-quotidiana` | 11 | 0 | 11 |
 
 ## Backlog per branca del corpus
@@ -39,33 +39,33 @@ Aquest índex més fi permet avançar branca per branca. `Amb conversa` segueix 
 |---|---:|---:|---:|---:|---:|---:|---:|
 | `temes/costums/calendari-festiu` | 2 | 0 | 2 | 0 | 0 | 2 | 0 |
 | `temes/costums/caramelles` | 1 | 0 | 1 | 0 | 0 | 1 | 0 |
-| `temes/costums/danses` | 7 | 0 | 7 | 3 | 1 | 3 | 0 |
+| `temes/costums/danses` | 7 | 3 | 4 | 3 | 1 | 3 | 0 |
 | `temes/costums/falles` | 1 | 0 | 1 | 0 | 1 | 0 | 0 |
 | `temes/costums/festes-majors` | 2 | 0 | 2 | 0 | 0 | 2 | 0 |
 | `temes/costums/gegants` | 1 | 0 | 1 | 0 | 1 | 0 | 0 |
 | `temes/costums/meritxell` | 1 | 0 | 1 | 0 | 0 | 1 | 0 |
-| `temes/costums/religiositat` | 5 | 0 | 5 | 2 | 3 | 0 | 0 |
+| `temes/costums/religiositat` | 5 | 1 | 4 | 2 | 3 | 0 | 0 |
 | `temes/costums/ritus-de-pas` | 2 | 0 | 2 | 0 | 1 | 1 | 0 |
 | `temes/costums/sant-antoni` | 1 | 0 | 1 | 0 | 0 | 1 | 0 |
 | `temes/cultura` | 1 | 1 | 0 | 1 | 0 | 0 | 0 |
 | `temes/cultura/andorra-vista-de-fora` | 6 | 0 | 6 | 1 | 5 | 0 | 0 |
-| `temes/cultura/arquitectura` | 11 | 0 | 11 | 5 | 5 | 1 | 0 |
+| `temes/cultura/arquitectura` | 11 | 3 | 8 | 5 | 5 | 1 | 0 |
 | `temes/cultura/artesania` | 2 | 0 | 2 | 0 | 2 | 0 | 0 |
 | `temes/cultura/arts-visuals` | 8 | 0 | 8 | 3 | 5 | 0 | 0 |
 | `temes/cultura/cultura-popular` | 2 | 0 | 2 | 1 | 1 | 0 | 0 |
 | `temes/cultura/literatura` | 1 | 0 | 1 | 1 | 0 | 0 | 0 |
-| `temes/cultura/llegendes` | 10 | 0 | 10 | 6 | 1 | 3 | 0 |
+| `temes/cultura/llegendes` | 10 | 2 | 8 | 6 | 1 | 3 | 0 |
 | `temes/cultura/museus-i-arxius` | 15 | 0 | 15 | 11 | 4 | 0 | 0 |
 | `temes/cultura/museus-i-arxius/museus` | 11 | 0 | 11 | 10 | 0 | 1 | 0 |
 | `temes/cultura/musica-i-cancons` | 3 | 0 | 3 | 0 | 2 | 1 | 0 |
 | `temes/cultura/teatre` | 2 | 0 | 2 | 0 | 2 | 0 | 0 |
-| `temes/economia/banca-i-fiscalitat` | 33 | 0 | 33 | 12 | 18 | 3 | 0 |
-| `temes/economia/comerc` | 17 | 0 | 17 | 12 | 5 | 0 | 0 |
+| `temes/economia/banca-i-fiscalitat` | 33 | 1 | 32 | 12 | 18 | 3 | 0 |
+| `temes/economia/comerc` | 17 | 1 | 16 | 12 | 5 | 0 | 0 |
 | `temes/economia/energia-i-serveis` | 4 | 0 | 4 | 2 | 2 | 0 | 0 |
 | `temes/economia/les-grans-families` | 1 | 0 | 1 | 1 | 0 | 0 | 0 |
-| `temes/economia/ramaderia-i-agricultura` | 11 | 0 | 11 | 2 | 8 | 1 | 0 |
-| `temes/economia/tabac` | 5 | 0 | 5 | 3 | 1 | 1 | 0 |
-| `temes/economia/transformacio-economica` | 10 | 0 | 10 | 7 | 2 | 1 | 0 |
+| `temes/economia/ramaderia-i-agricultura` | 11 | 1 | 10 | 2 | 8 | 1 | 0 |
+| `temes/economia/tabac` | 5 | 1 | 4 | 3 | 1 | 1 | 0 |
+| `temes/economia/transformacio-economica` | 10 | 1 | 9 | 7 | 2 | 1 | 0 |
 | `temes/economia/transport` | 5 | 0 | 5 | 5 | 0 | 0 | 0 |
 | `temes/economia/turisme-i-neu` | 4 | 0 | 4 | 2 | 2 | 0 | 0 |
 | `temes/economia/turisme-i-neu/estacions` | 5 | 0 | 5 | 5 | 0 | 0 | 0 |
@@ -83,7 +83,7 @@ Aquest índex més fi permet avançar branca per branca. `Amb conversa` segueix 
 | `temes/gastronomia/begudes` | 1 | 0 | 1 | 0 | 1 | 0 | 0 |
 | `temes/gastronomia/calendari-gastronomic` | 1 | 0 | 1 | 1 | 0 | 0 | 0 |
 | `temes/gastronomia/historia-alimentaria` | 5 | 0 | 5 | 0 | 5 | 0 | 0 |
-| `temes/gastronomia/plats` | 5 | 0 | 5 | 3 | 2 | 0 | 0 |
+| `temes/gastronomia/plats` | 5 | 2 | 3 | 3 | 2 | 0 | 0 |
 | `temes/gastronomia/productes` | 2 | 0 | 2 | 1 | 1 | 0 | 0 |
 | `temes/gastronomia/rebosteria` | 1 | 0 | 1 | 0 | 0 | 1 | 0 |
 | `temes/historia/antic-regim` | 50 | 0 | 50 | 13 | 30 | 7 | 0 |
@@ -100,9 +100,9 @@ Aquest índex més fi permet avançar branca per branca. `Amb conversa` segueix 
 | `temes/historia/pareatge` | 6 | 0 | 6 | 2 | 4 | 0 | 0 |
 | `temes/historia/segle-xix` | 29 | 0 | 29 | 19 | 8 | 2 | 0 |
 | `temes/historia/segle-xx-primera-meitat` | 30 | 0 | 30 | 9 | 6 | 15 | 0 |
-| `temes/institucions/comuns-i-parroquies` | 35 | 0 | 35 | 6 | 29 | 0 | 0 |
+| `temes/institucions/comuns-i-parroquies` | 35 | 1 | 34 | 6 | 29 | 0 | 0 |
 | `temes/institucions/consell-general` | 84 | 0 | 84 | 4 | 79 | 1 | 0 |
-| `temes/institucions/coprincipat` | 33 | 0 | 33 | 5 | 28 | 0 | 0 |
+| `temes/institucions/coprincipat` | 33 | 1 | 32 | 5 | 28 | 0 | 0 |
 | `temes/institucions/govern` | 8 | 0 | 8 | 6 | 1 | 1 | 0 |
 | `temes/institucions/justicia` | 138 | 0 | 138 | 24 | 113 | 1 | 0 |
 | `temes/institucions/nacionalitat-i-residencia` | 18 | 0 | 18 | 10 | 8 | 0 | 0 |
@@ -123,26 +123,26 @@ Aquest índex més fi permet avançar branca per branca. `Amb conversa` segueix 
 | `temes/llengua/politica-linguistica` | 13 | 0 | 13 | 2 | 4 | 7 | 0 |
 | `temes/llengua/registres` | 1 | 0 | 1 | 0 | 1 | 0 | 0 |
 | `temes/llengua/tractament` | 1 | 0 | 1 | 0 | 1 | 0 | 0 |
-| `temes/persones` | 43 | 0 | 43 | 24 | 10 | 8 | 1 |
+| `temes/persones` | 43 | 1 | 42 | 24 | 10 | 8 | 1 |
 | `temes/politica/identitat-politica` | 3 | 0 | 3 | 0 | 3 | 0 | 0 |
 | `temes/politica/parlamentarisme` | 4 | 0 | 4 | 0 | 4 | 0 | 0 |
 | `temes/politica/partits` | 3 | 0 | 3 | 3 | 0 | 0 | 0 |
 | `temes/politica/sistema-electoral` | 9 | 0 | 9 | 4 | 5 | 0 | 0 |
 | `temes/societat` | 1 | 0 | 1 | 1 | 0 | 0 | 0 |
 | `temes/societat/associacionisme` | 1 | 0 | 1 | 1 | 0 | 0 | 0 |
-| `temes/societat/demografia` | 15 | 0 | 15 | 7 | 6 | 2 | 0 |
+| `temes/societat/demografia` | 15 | 1 | 14 | 7 | 6 | 2 | 0 |
 | `temes/societat/dones` | 7 | 0 | 7 | 3 | 4 | 0 | 0 |
 | `temes/societat/educacio` | 30 | 0 | 30 | 8 | 19 | 3 | 0 |
 | `temes/societat/esport` | 1 | 0 | 1 | 1 | 0 | 0 | 0 |
 | `temes/societat/familia` | 4 | 0 | 4 | 3 | 1 | 0 | 0 |
-| `temes/societat/habitatge` | 9 | 0 | 9 | 6 | 2 | 1 | 0 |
+| `temes/societat/habitatge` | 9 | 1 | 8 | 6 | 2 | 1 | 0 |
 | `temes/societat/immigracio` | 19 | 0 | 19 | 3 | 14 | 2 | 0 |
 | `temes/societat/mitjans` | 5 | 0 | 5 | 3 | 2 | 0 | 0 |
 | `temes/societat/proteccio-social` | 4 | 0 | 4 | 3 | 0 | 1 | 0 |
 | `temes/societat/sanitat` | 19 | 0 | 19 | 7 | 12 | 0 | 0 |
 | `temes/societat/treball` | 19 | 0 | 19 | 14 | 5 | 0 | 0 |
 | `temes/societat/vida-civica` | 8 | 0 | 8 | 4 | 4 | 0 | 0 |
-| `temes/territori/clima-i-muntanya` | 14 | 0 | 14 | 5 | 8 | 1 | 0 |
+| `temes/territori/clima-i-muntanya` | 14 | 1 | 13 | 5 | 8 | 1 | 0 |
 | `temes/territori/fauna-i-flora` | 5 | 0 | 5 | 3 | 1 | 1 | 0 |
 | `temes/territori/geografia-fisica` | 9 | 0 | 9 | 2 | 7 | 0 | 0 |
 | `temes/territori/paisatge-construit` | 5 | 0 | 5 | 0 | 5 | 0 | 0 |
@@ -176,7 +176,7 @@ Aquesta tria només mira el camp `font` de la capçalera i la seva fitxa a `docs
 | `pending` | 604 |
 | `missing` | 1 |
 
-**Total:** 1348 fitxes article; **1** tenen almenys una conversa citada i **1347** encara no en tenen.
+**Total:** 1348 fitxes article; **23** tenen almenys una conversa citada i **1325** encara no en tenen.
 
 ## Límits
 
