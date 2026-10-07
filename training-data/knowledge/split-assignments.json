@@ -1,6 +1,9 @@
 {
   "description": "Assigna cada font de contingut a un únic split; exemples amb fonts relacionades comparteixen split.",
   "groups": {
+    "docs/temes/territori/clima-i-muntanya/que-es-va-mesurar-a-lallau-darinsal.md": "train",
+    "docs/raw/allaus/arinsal-furdada-2020.pdf": "train",
+    "docs/raw/allaus/arinsal-furdada-2020.txt": "train",
     "docs/temes/societat/habitatge/dos-tercos-del-pais-viuen-de-lloguer.md": "train",
     "docs/temes/societat/proteccio-social/el-gini-ha-pujat-vuit-punts.md": "train",
     "docs/raw/estadistica-api/pobresa/pobresa-desigualtat-i-llars-per-l-api-d-estadistica.md": "train",
