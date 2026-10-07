@@ -2,7 +2,7 @@
   "source_root": "docs/temes/",
   "file_count": 1477,
   "article_count": 1348,
-  "conversation_count": 73,
+  "conversation_count": 74,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 1,
@@ -10804,9 +10804,10 @@
       "topic": "temes/historia/segle-xix",
       "source": "boletin-oficial-leon-1894",
       "status": "in_progress",
-      "conversation_count": 4,
+      "conversation_count": 5,
       "conversation_ids": [
         "canal-madrid-intermediaris-001",
+        "reial-ordre-data-exacta-i-circulacio-001",
         "reial-ordre-funcionari-espanyol-desconegut-001",
         "reial-ordre-protectorat-tesi-oficial-001",
         "reial-ordre-reaccio-consell-i-papa-001"
@@ -10815,14 +10816,15 @@
         "Prohibició de relacions oficials dels jutges i funcionaris judicials espanyols amb les autoritats andorranes; canal obligatori pel bisbe d’Urgell i el Ministeri d’Estat.",
         "La reial ordre del 1894 formula la tesi oficial espanyola del protectorat per mitjà de la Mitra d’Urgell, la por a una independència contrària als interessos d’Espanya i la instrucció de canalitzar pel bisbe totes les relacions oficials judicials.",
         "La reial ordre ordena suprimir la representació d’un funcionari espanyol davant del Consell General, però no n’identifica la persona ni permet saber si coincidia amb el delegat permanent del bisbe.",
-        "La circular de l’ordre (12-09-1894) i l’exposició del Consell al bisbe i al Papa (18-10-1894) són cronològicament pròximes, però el corpus no prova causalitat ni coneixement de l’ordre pel Consell."
+        "La circular de l’ordre (12-09-1894) i l’exposició del Consell al bisbe i al Papa (18-10-1894) són cronològicament pròximes, però el corpus no prova causalitat ni coneixement de l’ordre pel Consell.",
+        "La data exacta de la reial ordre no es llegeix; l’1 de setembre és una lectura probable no confirmada. Dates segures: circular de Valladolid el 12 i publicació provincial el 17 de setembre de 1894."
       ],
       "open_units": [
         "Justificació espanyola del protectorat i de la por a una situació d’independència.",
         "Supressió d’un funcionari espanyol acreditat davant del Consell General; identitat i funció desconegudes.",
         "Cronologia de la crisi del 1894–1895 i relació no demostrada entre els episodis.",
         "Tensió entre l’ordre de 1894 i el vot parlamentari espanyol de 1895.",
-        "Signants, dates i límits documentals de la reial ordre."
+        "Continua pendent l’original de la Gaceta de Madrid i la identificació segura del dia de la reial ordre; la circular de Valladolid i la publicació a León sí que estan datades."
       ],
       "completion_note": "",
       "reason": "",
