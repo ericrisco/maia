@@ -503,5 +503,21 @@
     "reviewed_units": [
       "Els gravats romàntics poden documentar la representació del segle XIX, però cal corroborar-los independentment abans de tractar-los com a representació fidel del paisatge."
     ]
+  },
+  "docs/temes/cultura/andorra-vista-de-fora/la-por-de-fondres.md": {
+    "status": "in_progress",
+    "open_units": [
+      "Lectura comparada completa de les ponències de 1990 i 2002; cal resoldre l’atribució del text de 1990 abans de comparar autors.",
+      "Sèrie homogènia de població estrangera i comparabilitat entre fonts de 2002 i 2024–2025.",
+      "Seqüència de reconeixement diplomàtic d’Andorra per cada estat de la UE.",
+      "Estat actual del català a les institucions europees i tramitació de la petició lingüística.",
+      "Evolució de la percepció pública sobre immigració; les opinions d’una ponència no són una enquesta representativa."
+    ],
+    "conversation_ids": [
+      "ferrer-2002-opinio-i-representativitat-001"
+    ],
+    "reviewed_units": [
+      "La valoració de Ferrer sobre immigració el 2002 és una opinió d’autor i no permet inferir què pensava la població andorrana en conjunt."
+    ]
   }
 }

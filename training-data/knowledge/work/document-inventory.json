@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 33,
+    "in_progress": 34,
     "no_natural_question": 0,
-    "not_started": 1315
+    "not_started": 1314
   },
   "documents": [
     {
@@ -762,11 +762,21 @@
       "type": "article",
       "topic": "temes/cultura/andorra-vista-de-fora",
       "source": "ferrer-percepcio-andorra-exterior",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "ferrer-2002-opinio-i-representativitat-001"
+      ],
+      "reviewed_units": [
+        "La valoració de Ferrer sobre immigració el 2002 és una opinió d’autor i no permet inferir què pensava la població andorrana en conjunt."
+      ],
+      "open_units": [
+        "Lectura comparada completa de les ponències de 1990 i 2002; cal resoldre l’atribució del text de 1990 abans de comparar autors.",
+        "Sèrie homogènia de població estrangera i comparabilitat entre fonts de 2002 i 2024–2025.",
+        "Seqüència de reconeixement diplomàtic d’Andorra per cada estat de la UE.",
+        "Estat actual del català a les institucions europees i tramitació de la petició lingüística.",
+        "Evolució de la percepció pública sobre immigració; les opinions d’una ponència no són una enquesta representativa."
+      ],
       "completion_note": "",
       "reason": ""
     },
