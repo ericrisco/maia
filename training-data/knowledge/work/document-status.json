@@ -856,7 +856,7 @@
       "title": "Sergi Mas i Balaguer",
       "type": "article",
       "topic": "temes/cultura/arts-visuals",
-      "status": "in_progress",
+      "status": "complete",
       "unit_count": 63,
       "covered_unit_ids": [
         "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0001",
@@ -873,10 +873,11 @@
         "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0042",
         "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0051",
         "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0052",
-        "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0053"
+        "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0053",
+        "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0055"
       ],
-      "excluded_unit_count": 0,
-      "open_unit_count": 48,
+      "excluded_unit_count": 47,
+      "open_unit_count": 0,
       "conversation_ids": [
         "sergi-mas-llibres-i-abast-001",
         "sergi-mas-meritxell-i-oficis-001",

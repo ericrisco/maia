@@ -4,9 +4,9 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 
 - Documents inventariats: **1477** (1348 articles).
 - Unitats estructurals totals: **62911**.
-- Unitats cobertes per converses aprovades: **214** (0.340%).
-- Unitats excloses amb motiu: **773**.
-- Unitats encara obertes: **61924**.
+- Unitats cobertes per converses aprovades: **215** (0.342%).
+- Unitats excloses amb motiu: **820**.
+- Unitats encara obertes: **61876**.
 - Converses candidates: **46**; aprovades: **46**; mostres de calibratge: **0** (no compten com a cobertura).
 
 ## Estat per tema
@@ -29,7 +29,7 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 | `temes/cultura/andorra-vista-de-fora` | 6 | 280 | 41 | 239 | 0 |
 | `temes/cultura/arquitectura` | 11 | 216 | 52 | 164 | 0 |
 | `temes/cultura/artesania` | 2 | 138 | 0 | 138 | 0 |
-| `temes/cultura/arts-visuals` | 9 | 303 | 30 | 4 | 269 |
+| `temes/cultura/arts-visuals` | 9 | 303 | 31 | 51 | 221 |
 | `temes/cultura/cultura-popular` | 2 | 48 | 0 | 0 | 48 |
 | `temes/cultura/literatura` | 1 | 87 | 0 | 0 | 87 |
 | `temes/cultura/llegendes` | 10 | 254 | 87 | 167 | 0 |
@@ -144,6 +144,6 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 ## Exclusions per motiu
 
 - `duplicate`: 11.
-- `excluded_rights`: 489.
+- `excluded_rights`: 527.
 - `no_natural_question`: 8.
-- `not_knowledge`: 265.
+- `not_knowledge`: 274.
