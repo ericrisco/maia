@@ -782,5 +782,20 @@
     "reviewed_units": [
       "La font descriu còdols amb pigment i un altre gravat d’uns deu mil anys com a possible art primerenc, sense donar per tancada la interpretació; Pere Canturri descobrí el jaciment el 1960."
     ]
+  },
+  "docs/temes/cultura/arts-visuals/els-mestres-anonims.md": {
+    "status": "in_progress",
+    "open_units": [
+      "Identitat i significat dels caps humans dels campanars desconeguts.",
+      "Localització de les talles de marededéu, creus processionals i crists fora d’Andorra incompleta.",
+      "Inventari i atribucions del patrimoni pictòric i escultòric després del romànic incomplets.",
+      "Les causes de l’escassetat d’escultura medieval en pedra no són conegudes."
+    ],
+    "conversation_ids": [
+      "escultura-medieval-pedra-i-caps-campanar-001"
+    ],
+    "reviewed_units": [
+      "La font constata l’escassetat d’escultura medieval en pedra però no en dona la causa; tampoc interpreta els caps humans esculpits als campanars."
+    ]
   }
 }

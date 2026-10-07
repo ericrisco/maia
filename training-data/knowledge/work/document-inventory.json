@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 53,
+    "in_progress": 54,
     "no_natural_question": 0,
-    "not_started": 1295
+    "not_started": 1294
   },
   "documents": [
     {
@@ -1227,11 +1227,20 @@
       "type": "article",
       "topic": "temes/cultura/arts-visuals",
       "source": "rodriguez-rossa-creacio-artistica",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "escultura-medieval-pedra-i-caps-campanar-001"
+      ],
+      "reviewed_units": [
+        "La font constata l’escassetat d’escultura medieval en pedra però no en dona la causa; tampoc interpreta els caps humans esculpits als campanars."
+      ],
+      "open_units": [
+        "Identitat i significat dels caps humans dels campanars desconeguts.",
+        "Localització de les talles de marededéu, creus processionals i crists fora d’Andorra incompleta.",
+        "Inventari i atribucions del patrimoni pictòric i escultòric després del romànic incomplets.",
+        "Les causes de l’escassetat d’escultura medieval en pedra no són conegudes."
+      ],
       "completion_note": "",
       "reason": ""
     },
