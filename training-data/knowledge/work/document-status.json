@@ -1,1 +1,38 @@
-{}
+{
+  "docs/temes/costums/calendari-festiu/calendari-festiu-index-de-fitxes.md": {
+    "status": "no_natural_question",
+    "reason": "Fitxa d’índex només navegacional: presenta dues fitxes filles i no aporta coneixement autònom. Les dues fitxes s’han revisat per separat."
+  },
+  "docs/temes/costums/calendari-festiu/calendari-festiu.md": {
+    "status": "complete",
+    "reviewed_units": [
+      "La fitxa contraposa el calendari popular de les festes andorranes a un document judicial de 1902; no són el mateix calendari.",
+      "La llista de 1902 enumera festes fixes i intervals de tancament, i dona com a motiu fires de Salàs, la Seu d’Urgell i Organyà; no acredita les pràctiques populars.",
+      "Sant Antoni, caramelles, Sant Joan, festes majors i Meritxell apareixen com a moments del calendari popular, però la fitxa els basa en premsa sense referència individualitzada.",
+      "La fitxa declara que no té dates oficials comunals de les festes populars i que caldria consultar ordinacions i calendaris de cada comú."
+    ],
+    "open_units": [
+      "La font indicada per al calendari popular és premsa amb drets reservats i sense diari, data, titular ni enllaç; no reutilitzar-ne les afirmacions en un candidat.",
+      "La llista judicial i el comentari de Brutails (1904) depenen d’una còpia Gallica amb reutilització comercial subjecta a llicència; l’elegibilitat per a entrenament continua pendent.",
+      "No hi ha una font primària comunal al corpus que documenti les dates actuals de les festes populars."
+    ],
+    "completion_note": "Fitxa sencera revisada. Les preguntes humanes possibles es poden identificar, però no s’ha creat candidat perquè les fonts disponibles són drets reservats o tenen reutilització per a entrenament pendent. Revisió de contingut completa; cap dada d’aquesta fitxa queda aprovada per exportar."
+  },
+  "docs/temes/costums/calendari-festiu/el-carnaval-dencamp.md": {
+    "status": "complete",
+    "reviewed_units": [
+      "Encamp presenta el Judici dels Contrabandistes diumenge i el Ball de l’Ossa dilluns; la font general indicada és premsa sense referència individualitzada.",
+      "La lectura del judici del contraban com a sàtira és una interpretació del corpus, no una explicació documentada de l’origen de la farsa.",
+      "La tesi de Masegosa diferencia les farses d’Encamp i Ordino, l’argument encampadà de l’óssa, la transmissió oral fins al guió de Rossend Marsol de 1959 i la sàtira política posterior.",
+      "La fitxa documenta una tercera representació, l’operació del Carnestoltes cap al 1970, amb vísceres de la matança del porc.",
+      "El programa oficial de 2026 fixa dies i hores concrets, que no són dates permanents del carnaval."
+    ],
+    "open_units": [
+      "La font periodística inicial no identifica mitjà, data ni article i no permet verificar-ne ni reutilitzar-ne les afirmacions.",
+      "La publicació de Masegosa té reutilització per a entrenament pendent; no incloure’n els fets en candidats fins que se n’aclareixin els drets.",
+      "El programa oficial del Comú d’Encamp declara drets reservats; les dates i horaris del 2026 no entren al dataset sense permís o una font reutilitzable equivalent.",
+      "El text de les farses, la música i els seus guions encara no són al corpus."
+    ],
+    "completion_note": "Fitxa sencera revisada, incloses les actualitzacions i els buits declarats. No s’ha creat candidat perquè les fonts que sustenten les afirmacions tenen drets reservats o reutilització pendent. Revisió de contingut completa; cap dada queda aprovada per exportar."
+  }
+}
