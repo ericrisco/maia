@@ -158,5 +158,21 @@
       "estat del reconeixement patrimonial andorrà i fonts comunals",
       "any exacte de la pèrdua i persones que van recuperar la tradició"
     ]
+  },
+  "docs/temes/costums/caramelles/les-caramelles.md": {
+    "status": "in_progress",
+    "conversation_ids": [
+      "caramelles-ous-pasquetes-horari-01"
+    ],
+    "reviewed_units": [
+      "recollida tradicional d’ous i truitada de Pasqüetes versus donatius actuals per a un àpat col·lectiu; horaris de les cantades"
+    ],
+    "open_units": [
+      "etimologia de caramelles i relació amb l’instrument de canya",
+      "antiguitat, origen medieval i context religiós: verificació de fonts",
+      "diferències entre parròquies, grups participants i recorreguts actuals",
+      "cas de Sant Julià: recorregut de tres hores i organització",
+      "lletres cantades, enregistraments i elegibilitat per al corpus de parla"
+    ]
   }
 }

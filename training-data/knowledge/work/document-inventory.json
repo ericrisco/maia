@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 8,
+    "in_progress": 9,
     "no_natural_question": 0,
-    "not_started": 1340
+    "not_started": 1339
   },
   "documents": [
     {
@@ -106,11 +106,21 @@
       "type": "article",
       "topic": "temes/costums/caramelles",
       "source": "premsa-andorrana",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "caramelles-ous-pasquetes-horari-01"
+      ],
+      "reviewed_units": [
+        "recollida tradicional d’ous i truitada de Pasqüetes versus donatius actuals per a un àpat col·lectiu; horaris de les cantades"
+      ],
+      "open_units": [
+        "etimologia de caramelles i relació amb l’instrument de canya",
+        "antiguitat, origen medieval i context religiós: verificació de fonts",
+        "diferències entre parròquies, grups participants i recorreguts actuals",
+        "cas de Sant Julià: recorregut de tres hores i organització",
+        "lletres cantades, enregistraments i elegibilitat per al corpus de parla"
+      ],
       "completion_note": "",
       "reason": ""
     },
