@@ -18,6 +18,7 @@ el BOPA no implica cap suport al projecte. No s'atribueix una llicència global 
 - Adaptació d'informació de l'article «Sant Romà de les Bons» de la Viquipèdia en català, llicència CC BY-SA 4.0. Cal conservar l'atribució i compartir l'adaptació amb la mateixa llicència.
 - Adaptació d'informació de «La marratxa» i de dades de Viquipèdia en català, llicència CC BY-SA 4.0. Cal conservar l'atribució i compartir igual. No es reutilitza text de Palau i Martí.
 - Adaptació d'informació dels articles «Sant Martí de la Cortinada» i «Sant Joan de Caselles» de la Viquipèdia en català, llicència CC BY-SA 4.0. Cal conservar l'atribució i compartir l'adaptació amb la mateixa llicència.
+- Adaptació de l'article «Escudella de Sant Antoni» de la Viquipèdia en català, llicència CC BY-SA 4.0. Cal conservar l'atribució i compartir igual.
 - Adaptació de l'article «Església de Santa Coloma (Andorra la Vella)» de la Viquipèdia en català, llicència CC BY-SA 4.0. Cal conservar l'atribució i compartir l'adaptació amb la mateixa llicència.
 - Adaptació de l'article «Estripagecs» de la Viquipèdia en català, CC BY-SA 4.0. Cal conservar l'atribució i compartir l'adaptació amb la mateixa llicència.
 - Adaptació de l'article «La marratxa» de la Viquipèdia en català, llicència CC BY-SA 4.0. Cal conservar l'atribució i compartir igual.
