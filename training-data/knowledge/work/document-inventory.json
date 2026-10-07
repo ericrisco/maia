@@ -29,12 +29,16 @@
       "topic": "temes/costums/calendari-festiu",
       "source": "premsa-andorrana",
       "status": "in_progress",
-      "conversation_count": 0,
-      "conversation_ids": [],
+      "conversation_count": 1,
+      "conversation_ids": [
+        "festes-majors-una-per-parroquia-01"
+      ],
       "reviewed_units": [
         "distinció entre calendari judicial de 1902 i calendari festiu popular",
         "dies de festa que el document judicial enumera i límits del que permet inferir",
-        "dates populars i actes atribuïts a premsa andorrana sense referència verificable"
+        "dates populars i actes atribuïts a premsa andorrana sense referència verificable",
+        "festes majors: una per parròquia i celebracions en moltes viles; dates concretes no documentades",
+        "referència genèrica a premsa, sense identificació de la publicació concreta"
       ],
       "completion_note": "",
       "reason": ""

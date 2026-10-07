@@ -3,6 +3,7 @@
   "groups": {
     "institucions-justicia-autoritats": "train",
     "institucions-justicia-veheduria": "train",
-    "institucions-justicia-terminis": "train"
+    "institucions-justicia-terminis": "train",
+    "costums-calendari-festes-majors": "train"
   }
 }
