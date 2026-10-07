@@ -283,5 +283,20 @@
       "Fonts primàries o etnogràfiques sobre música, formació de parelles i pràctiques a altres parròquies.",
       "Verificar la grafia Passa amb una font normativa andorrana."
     ]
+  },
+  "docs/temes/costums/danses/el-ball-del-cerda.md": {
+    "status": "in_progress",
+    "conversation_ids": [
+      "ball-cerda-hora-lloc-i-nom-01"
+    ],
+    "reviewed_units": [
+      "Hora i lloc del ball del Cerdà: una del migdia del dilluns de la festa major, a la plaça Major de Sant Julià.",
+      "L’etimologia remet a la Cerdanya, però la relació d’origen no està establerta."
+    ],
+    "open_units": [
+      "Coreografia, música, vestuari, participants i cronologia d’origen o recuperació; el llibre de l’Esbart Laurèdia està identificat però no consultat.",
+      "Distingir si una font parla d’aparició, creació o recuperació de les danses; no aplicar al Cerdà el precedent de la Marratxa.",
+      "Font periodística concreta no identificada."
+    ]
   }
 }

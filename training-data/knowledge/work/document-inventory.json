@@ -185,12 +185,20 @@
       "topic": "temes/costums/danses",
       "source": "premsa-andorrana",
       "status": "in_progress",
-      "conversation_count": 1,
+      "conversation_count": 2,
       "conversation_ids": [
+        "ball-cerda-hora-lloc-i-nom-01",
         "passa-cercavila-majors-fadrins-01"
       ],
-      "reviewed_units": [],
-      "open_units": [],
+      "reviewed_units": [
+        "Hora i lloc del ball del Cerdà: una del migdia del dilluns de la festa major, a la plaça Major de Sant Julià.",
+        "L’etimologia remet a la Cerdanya, però la relació d’origen no està establerta."
+      ],
+      "open_units": [
+        "Coreografia, música, vestuari, participants i cronologia d’origen o recuperació; el llibre de l’Esbart Laurèdia està identificat però no consultat.",
+        "Distingir si una font parla d’aparició, creació o recuperació de les danses; no aplicar al Cerdà el precedent de la Marratxa.",
+        "Font periodística concreta no identificada."
+      ],
       "completion_note": "",
       "reason": ""
     },
