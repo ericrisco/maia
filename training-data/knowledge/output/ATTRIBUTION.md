@@ -56,6 +56,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - Pere Canturri i Montanya, «Usos i costums d’Andorra» (2002), informació sobre els gegants i la tradició de Sant Julià; publicació d’accés obert.
 - Pere Canturri i Montanya, «Usos i costums d’Andorra», 15a Diada Andorrana a la XXXIV Universitat Catalana d’Estiu (2002), dins Una història d’Andorra, temàtica, p. 209 i següents.
 - Premsa andorrana; la fitxa de font no identifica el diari, l’article, la data ni l’URL de la publicació concreta.
+- Viquipèdia en català, article «Ball de l’ossa d’Encamp», CC BY-SA 4.0; interpretació del ritu de pas atribuïda a Eloi Ysàs Trias.
 - Viquipèdia en català, article «Ball de l’ossa d’Encamp», llicència CC BY-SA 4.0; compara l’escenari descrit per Amades el 1950 amb el lloc actual.
 - Viquipèdia en català, article «Ball de l’ossa d’Encamp», llicència CC BY-SA 4.0; descripció atribuïda a Joan Amades, *Costumari Català* (1950), p. 674.
 - Viquipèdia en català, article «Ball de l’ossa d’Encamp», llicència CC BY-SA 4.0; el passatge històric es presenta com una descripció de Joan Amades publicada el 1950.
@@ -115,6 +116,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - La fitxa de Viquipèdia és CC BY-SA 4.0. La resposta parafraseja breument la descripció d’Amades i no en reprodueix la citació extensa, que la font secundària marca amb «citació necessària».
 - La fitxa de Viquipèdia és CC BY-SA 4.0. La resposta parafraseja el passatge atribuït a Amades i no en reprodueix la citació extensa.
 - La fitxa de Viquipèdia és CC BY-SA 4.0. La resposta parafraseja una variant breument i no copia la citació extensa d’Amades, que la font secundària marca amb «citació necessària».
+- La fitxa de Viquipèdia és CC BY-SA 4.0. La tesi d’Ysàs citada no s’ha pogut consultar directament; la lectura s’atribueix a la font secundària i la resposta és una paràfrasi breu.
 - La fitxa de Viquipèdia és CC BY-SA 4.0. La tesi d’Ysàs citada per la font no s’ha pogut consultar directament; la resposta és una paràfrasi breu i marca la interpretació com a tal.
 - La font de Viquipèdia és CC BY-SA 4.0. La tesi de Masegosa és d’accés obert amb redistribució pendent; no redistribuir contingut derivat sense revisar-ne els termes.
 - La notícia del Govern té drets reservats i redistribució no autoritzada; l’ús queda registrat per al dataset intern del projecte i no autoritza redistribució del text. La fitxa de Viquipèdia és CC BY-SA 4.0.
