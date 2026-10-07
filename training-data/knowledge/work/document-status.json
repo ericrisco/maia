@@ -106,16 +106,17 @@
       "La llegenda presenta la Dama Blanca com a esperit protector d'Andorra, vinculada a un llinatge noble dels passos fronterers.",
       "Un bisbe d'Urgell la troba prop d'Aubinyà, jura no tornar-hi, trenca el jurament, torna a trobar-la i desapareix.",
       "Després apareix un llop negre que duu l'ànima del bisbe; un síndic el caça i embogeix pels malsons; la llegenda no identifica el bisbe ni el síndic.",
-      "A l'entrada d'Aubinyà hi ha una escultura metàl·lica de la Dama Blanca amb un llop, obra de Toni Cruz; l'Esbart Laurèdia té una peça dedicada a la Dama Blanca del 2013."
+      "A l'entrada d'Aubinyà hi ha una escultura metàl·lica de la Dama Blanca amb un llop, obra de Toni Cruz; l'Esbart Laurèdia té una peça dedicada a la Dama Blanca del 2013.",
+      "La grafia oficial del topònim va passar d'Aubinyà a Auvinyà el 2011; Aubinyà es manté com a forma tradicional del nom de la llegenda."
     ],
     "open_units": [
       "Les hipòtesis d'origen de la Dama Blanca no estan resoltes.",
-      "La cronologia documental de la llegenda i la relació exacta entre la Dama Blanca i els gegants de Sant Julià no estan establertes.",
-      "La forma oficial del topònim Auvinyà i el seu canvi de 2011 encara no tenen conversa activa."
+      "La cronologia documental de la llegenda i la relació exacta entre la Dama Blanca i els gegants de Sant Julià no estan establertes."
     ],
     "conversation_ids": [
       "dama-blanca-llegenda-001",
-      "dama-blanca-representacions-001"
+      "dama-blanca-representacions-001",
+      "dama-blanca-auvinya-toponim-001"
     ]
   }
 }
