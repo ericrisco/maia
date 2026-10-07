@@ -900,13 +900,17 @@
         "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0013",
         "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0022",
         "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0023",
-        "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0024"
+        "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0024",
+        "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0036",
+        "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0037",
+        "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0038"
       ],
       "excluded_unit_count": 12,
-      "open_unit_count": 18,
+      "open_unit_count": 15,
       "conversation_ids": [
         "dama-blanca-hipotesis-origen-002",
-        "dama-blanca-identitat-i-lectura-politica-002"
+        "dama-blanca-identitat-i-lectura-politica-002",
+        "dama-blanca-identitats-i-datacio-002"
       ]
     },
     "docs/temes/cultura/llegendes/la-troballa-de-meritxell.md": {
