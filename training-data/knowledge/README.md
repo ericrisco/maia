@@ -1,15 +1,16 @@
 # Maia Knowledge
 
-Converses en català sobre Andorra, basades en `docs/temes/`. El contingut final
-ha de respondre dubtes humans i no exposar noms de seccions, IDs o notes del
-pipeline.
+Converses en català sobre Andorra, basades en `docs/temes/`. Cada registre
+respon un dubte humà, conserva els límits de les fonts i passa els criteris de
+[`CONVERSATION-GUIDE.md`](review/CONVERSATION-GUIDE.md).
 
-- `review/EXEMPLES.md`: guia de calibratge amb converses bones i patrons a
-  descartar.
-- `review/conversations.jsonl`: converses candidates i aprovades, una per línia.
-- `review/provenance.jsonl`: fonts, drets i estat editorial per conversa.
-- `work/`: inventaris i notes de cobertura que es crearan més endavant.
-- `output/`: buit fins que hi hagi converses aprovades.
-- `reports/`: buits fins que hi hagi una cobertura mesurable.
+- `review/conversations.jsonl`: converses revisades, una per línia.
+- `review/provenance.jsonl`: fonts, drets i estat editorial de cada conversa.
+- `work/document-inventory.json`: inventari de les fitxes del corpus.
+- `work/document-status.json`: seguiment del que s'ha revisat per fitxa.
+- `output/`: exportacions JSONL amb només `messages`.
+- `reports/coverage-summary.md`: cobertura del corpus.
+- `reports/export-summary.md`: registres exportats i distribució dels splits.
 
-El procediment és a `../PLAN.md`.
+El [pla](../PLAN.md) defineix el procés. El dataset continua incomplet fins que
+la cobertura i la qualitat hagin estat auditades per a totes les fitxes.

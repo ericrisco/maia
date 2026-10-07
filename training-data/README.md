@@ -1,17 +1,12 @@
 # Maia Training Data
 
-Àrea de treball per preparar dades de fine-tuning sobre Andorra. El dataset
-comença buit. Les mostres de `knowledge/review/calibration.jsonl` només serveixen
-per acordar el to i el fil conversacional; no són dades aprovades ni exportables.
+Àrea de treball dels datasets de Maia. Separa dos objectius: `knowledge`
+ensenya coneixement documentat sobre Andorra; `language` preserva català
+andorrà contemporani produït per persones.
 
-## Dues línies separades
-
-- `knowledge/` transforma fets de `docs/temes/` en respostes conversacionals.
-- `language/` conserva llengua humana real de `docs/parla/`, amb drets i
-  transcripcions revisats. No s'inventen torns per convertir monòlegs en xats.
-
-Llegiu primer el [pla](PLAN.md). No s'afegeixen més registres fins que els
-exemples de calibratge tinguin el to desitjat.
+Llegeix el [pla](PLAN.md) i la [guia de converses](knowledge/review/CONVERSATION-GUIDE.md)
+abans de revisar o afegir registres. La cobertura continua incompleta; els
+informes mostren l'estat real i no indiquen que el dataset estigui acabat.
 
 ## Estructura
 
@@ -19,12 +14,16 @@ exemples de calibratge tinguin el to desitjat.
 training-data/
 ├── PLAN.md
 ├── knowledge/
-│   ├── review/       # exemples de calibratge i procedència
-│   ├── work/         # inventaris de cobertura futurs
-│   ├── output/       # buit fins a l'aprovació
-│   └── reports/      # buit fins que hi hagi mètriques
+│   ├── review/       # converses candidates, exemples i procedència
+│   ├── work/         # inventari i seguiment de cobertura
+│   ├── output/       # exportacions train, validation i test
+│   └── reports/      # cobertura i resum d'exportació
 └── language/
     ├── work/         # inventari i verificació de parla
-    ├── output/       # buit fins que hi hagi mostres autoritzades
+    ├── output/       # registres de llengua aprovats
     └── reports/      # elegibilitat, exclusions i qualitat
 ```
+
+`knowledge` i `language` no es barregen. Les exportacions contenen només
+missatges de conversa; la procedència i els drets es conserven en els registres
+interns.
