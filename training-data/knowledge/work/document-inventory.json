@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 45,
+    "in_progress": 46,
     "no_natural_question": 0,
-    "not_started": 1303
+    "not_started": 1302
   },
   "documents": [
     {
@@ -1054,11 +1054,19 @@
       "type": "article",
       "topic": "temes/cultura/arquitectura",
       "source": "enciclopedia-cat-sant-serni-canillo",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "sant-serni-romanic-i-transformacio-barroca-001"
+      ],
+      "reviewed_units": [
+        "L’edifici original era romànic; les ampliacions dels segles XVII-XVIII li donaren l’aspecte actual. El pagament del retaule el 1651 no data una reconstrucció completa."
+      ],
+      "open_units": [
+        "Motiu institucional o econòmic concret de les ampliacions barroques no documentat.",
+        "Datació de l’absis de Sant Miquel de Prats encara incerta.",
+        "Contrast acadèmic independent de la cronologia i dels vestigis."
+      ],
       "completion_note": "",
       "reason": ""
     },

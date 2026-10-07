@@ -685,5 +685,19 @@
     "reviewed_units": [
       "L’església del segle XII conserva obres romàniques, del segle XVI i barroques; les reformes posteriors expliquen la superposició d’etapes."
     ]
+  },
+  "docs/temes/cultura/arquitectura/sant-serni-de-canillo.md": {
+    "status": "in_progress",
+    "open_units": [
+      "Motiu institucional o econòmic concret de les ampliacions barroques no documentat.",
+      "Datació de l’absis de Sant Miquel de Prats encara incerta.",
+      "Contrast acadèmic independent de la cronologia i dels vestigis."
+    ],
+    "conversation_ids": [
+      "sant-serni-romanic-i-transformacio-barroca-001"
+    ],
+    "reviewed_units": [
+      "L’edifici original era romànic; les ampliacions dels segles XVII-XVIII li donaren l’aspecte actual. El pagament del retaule el 1651 no data una reconstrucció completa."
+    ]
   }
 }
