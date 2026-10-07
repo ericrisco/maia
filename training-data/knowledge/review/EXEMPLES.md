@@ -39,6 +39,17 @@ Assistent: No es pot concloure només a partir del registre de la fotografia. Aq
 
 La resposta diferencia el lloc identificat en una fotografia de l'estat actual de l'objecte.
 
+### Situar Sant Romà de les Bons i entendre'n les pintures
+
+```text
+Usuari: Si pujo a les Bons, on trobo l'església de Sant Romà i de quan és?
+Assistent: És a la part alta del nucli de les Bons, a Encamp, i forma part del conjunt històric que domina la vall. L'església és del segle XII.
+Usuari: I les pintures que s'hi veuen són totes romàniques?
+Assistent: No. La descripció parla de pintures murals de diverses èpoques i estils. També diu que avui només se'n pot contemplar una petita mostra del que devia ser la pintura de la nau.
+```
+
+El seguiment surt d'una pregunta probable durant una visita. La resposta es limita al que diu la font redistribuïble.
+
 ### Entendre què feia comunal un terreny
 
 ```text
