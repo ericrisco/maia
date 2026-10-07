@@ -93,7 +93,7 @@
       "title": "El ball de l'ossa d'Encamp",
       "type": "article",
       "topic": "temes/costums/danses",
-      "status": "in_progress",
+      "status": "complete",
       "unit_count": 63,
       "covered_unit_ids": [
         "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0003",
@@ -107,6 +107,7 @@
         "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0012",
         "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0013",
         "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0014",
+        "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0015",
         "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0017",
         "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0018",
         "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0026",
@@ -120,8 +121,8 @@
         "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0055",
         "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0056"
       ],
-      "excluded_unit_count": 0,
-      "open_unit_count": 40,
+      "excluded_unit_count": 39,
+      "open_unit_count": 0,
       "conversation_ids": [
         "carnaval-encamp-contrabandistes-i-ossa-001",
         "festes-ossa-bibliografia-per-investigar-001",
