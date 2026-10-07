@@ -22,4 +22,5 @@ el BOPA no implica cap suport al projecte. No s'atribueix una llicència global 
 - Adaptació de l'article «La marratxa» de la Viquipèdia en català, llicència CC BY-SA 4.0. Cal conservar l'atribució i compartir igual.
 - Adaptació de l'article «Sergi Mas Balaguer» de la Viquipèdia en català, llicència CC BY-SA 4.0. Cal conservar l'atribució i compartir l'adaptació amb la mateixa llicència.
 - Adaptació de «Festes de l'ossa a Andorra», Viquipèdia en català, llicència CC BY-SA 4.0. Cal conservar l'atribució i compartir igual.
+- Adaptació de «La marratxa» i «Ball de la Marratxa», Viquipèdia en català, llicència CC BY-SA 4.0. Cal conservar l'atribució i compartir igual.
 - Adaptació dels articles «Ball de l'ossa d'Encamp» i «Festes de l'ossa a Andorra» de la Viquipèdia en català, llicència CC BY-SA 4.0. Cal conservar l'atribució i compartir igual.
