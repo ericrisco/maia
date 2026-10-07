@@ -1,140 +1,122 @@
-# Pla editorial per a converses de Maia
+# Pla per crear converses de Maia
 
 ## Objectiu
 
-Crear diàlegs útils sobre Andorra a partir del corpus de `docs/`. Les preguntes
-han de semblar missatges que una persona enviaria a un assistent perquè vol
-entendre, aclarir o resoldre alguna cosa. Les respostes han de ser correctes,
-directes i naturals.
+Preparar converses que ensenyin a Maia a respondre preguntes reals sobre
+Andorra. Cada conversa ha de començar amb un dubte que una persona podria
+escriure en un xat. Els seguiments han de continuar el mateix fil.
 
-No es mesura la cobertura pel nombre de preguntes. Es mesura pels temes i fets
-revisats, inclosos els que no donen lloc a cap pregunta natural.
+El dataset no és un qüestionari del corpus. La cobertura dels fets es controla
+en un inventari separat. Un fet només genera una conversa quan dona peu a una
+resposta útil i natural.
 
-## Com es construeix un diàleg
+## Estructura
 
-1. **Entén el tema abans d'escriure.** Llegeix la peça sencera i les fonts que
-   calguin. Apunta en una nota interna els fets, els límits, les discrepàncies i
-   els drets de cada font.
-2. **Tria una necessitat humana concreta.** Per exemple: entendre una norma,
-   aclarir una paraula, saber per què una pràctica era diferent o comprovar una
-   idea que pot ser errònia. No triïs una dada només perquè encara no té
-   pregunta.
-3. **Escriu el primer missatge com un xat.** Dona només el context que la persona
-   diria de debò. La pregunta ha de tenir sentit sense veure cap fitxa, taula o
-   document.
-4. **Redacta la resposta abans del seguiment.** Contesta directament. Afegeix
-   prou context perquè s'entengui, sense descarregar-hi tots els detalls de la
-   font.
-5. **Continua el fil.** El següent missatge ha de sorgir d'una cosa que Maia
-   acaba d'explicar. Pot demanar un aclariment, una conseqüència, una diferència
-   o un límit. Si és una pregunta nova sense relació, comença un altre diàleg.
-6. **Atura't quan el dubte s'ha resolt.** Sovint n'hi haurà prou amb dos o tres
-   intercanvis. No s'afegeix un torn només per allargar la mostra.
-7. **Revisa el diàleg sense consultar la font.** Pregunta't si sona com una
-   conversa possible, si cada torn segueix l'anterior i si l'usuari sembla saber
-   coses que encara no li han explicat.
-8. **Contrasta després cada afirmació amb les fonts.** Si hi ha incertesa,
-   discrepància o un buit, conserva'l en la resposta sense inventar una
-   explicació.
+```text
+training-data/
+├── PLAN.md
+├── knowledge/
+│   ├── README.md
+│   ├── review/
+│   │   ├── CONVERSATION-GUIDE.md  # criteris editorials i exemples
+│   │   ├── conversations.jsonl    # converses candidates, una per línia
+│   │   └── provenance.jsonl       # fonts i estat dels drets
+│   ├── work/                      # inventari i seguiment de cobertura
+│   ├── output/                    # exportacions per entrenar
+│   └── reports/                   # cobertura i validació
+└── language/                      # flux separat, basat en parla autèntica
+```
 
-## Preguntes que volem
+No esborrem `work/`, `provenance.jsonl` ni els informes quan refem les
+converses. Aquests fitxers conserven la cobertura revisada i la traçabilitat de
+les fonts. Les converses rebutjades es treuen de l'exportació; el motiu queda
+anotat a la revisió.
 
-- Parteixen d'un dubte concret: «Quan parlem de terres comunals, vol dir que
-  pertanyien al comú?»
-- Poden demanar ajuda pràctica, sempre dins d'allò que les fonts permeten
-  afirmar: «Si hi vaig per Carnaval, a quina parròquia puc veure el ball de
-  l'ossa?»
-- Poden expressar una confusió real: «Aleshores, si el terreny era privat,
-  per què en diuen comunal?»
-- Poden comprovar una premissa: «La imatge de Meritxell es va quedar a
-  Canillo?»
-- Poden ser breus i col·loquials, però han de continuar sent clares i
-  respectuoses.
+## Procés editorial
 
-## Preguntes que descartem
+1. Llegeix tota la peça i les fonts necessàries. Separa fets, incerteses,
+   discrepàncies i drets d'ús.
+2. Escriu en una frase el dubte humà que la peça pot resoldre. Si només pots
+   formular-lo com «què diu la fitxa/secció/gràfic?», encara no hi ha una bona
+   conversa.
+3. Redacta una pregunta inicial que s'entengui sense haver vist el corpus.
+   Afegeix context només si una persona el necessitaria per fer la pregunta.
+4. Escriu una resposta directa i natural. No enumeris tots els fets de la peça.
+   Situa les normes històriques en el temps i marca les llegendes com a relats.
+5. Afegeix un seguiment només quan neixi de la resposta anterior. Pot aclarir
+   un terme, preguntar per una conseqüència o comprovar una implicació.
+6. Llegeix el diàleg sense mirar la font. Comprova que sona com un xat i que
+   cada torn respon al torn anterior.
+7. Contrasta després cada afirmació amb les fonts. Registra la procedència i
+   els límits de reutilització.
+8. Rebutja o reescriu qualsevol conversa que no passi tots els criteris.
 
-- «Què explica la secció X de la fitxa Y?»
-- «Què indica aquesta fila?» o «Què diu el gràfic?» sense descriure què vol
-  entendre la persona.
-- «Quin any va passar X?» quan l'any és una dada aïllada sense cap motiu
-  conversacional.
-- Una seqüència de preguntes independents, com si l'usuari passés un qüestionari.
-- Una història personal inventada («hi vaig anar l'altre dia», «el meu avi em
-  va dir…») usada només per fer més viva la pregunta.
-- Una premissa falsa que l'assistent no corregeix.
-- Sinònims d'una pregunta ja inclosa, si no canvien la intenció ni la resposta.
+## Criteris obligatoris
 
-## Respostes
+Una conversa només s'aprova si compleix tots aquests punts:
 
-- Comença per la resposta, no per una referència al document.
-- Usa frases completes i vocabulari planer. Defineix els termes històrics quan
-  són necessaris per seguir el fil.
-- Separa el fet documentat de la interpretació. No presentis una inferència com
-  si fos una dada de la font.
-- En preguntes sobre el passat, situa el període perquè no es confonguin amb una
-  norma vigent.
-- No donis consell legal, mèdic o financer actual a partir d'una font històrica.
-- Si la font no permet respondre, explica què se sap i què queda obert.
+- **Dubte real:** la primera pregunta demana ajuda, explicació o aclariment
+  sobre una situació o idea concreta.
+- **Autònoma:** s'entén sense títols de fitxa, números de fila, seccions ni
+  context ocult.
+- **Natural:** no sembla un examen ni una petició de resum escolar.
+- **Continuïtat:** cada seguiment reprèn una cosa que Maia acaba d'explicar.
+- **Resposta útil:** Maia contesta primer i afegeix només el context necessari.
+- **Fidelitat:** cada afirmació es pot justificar amb una font revisada.
+- **Límits clars:** la resposta conserva incerteses, discrepàncies i el període
+  històric quan són rellevants.
+- **No duplicada:** no repeteix una conversa existent canviant-hi els noms.
+- **Traçable:** té una entrada de procedència corresponent.
 
-## Criteris d'aprovació: tots han de passar
+Si una pregunta falla el criteri de naturalitat, no es corregeix només canviant
+«què explica» per «em pots explicar». Es torna a identificar el dubte de la
+persona i es redacta de nou des d'allà.
 
-1. **Intenció:** s'entén què vol saber la persona i per què ho preguntaria.
-2. **Naturalitat:** el missatge podria aparèixer en un xat real; no depèn d'una
-   fitxa ni sembla una pregunta d'examen.
-3. **Continuïtat:** cada seguiment reprèn la resposta anterior i no repeteix el
-   mateix dubte.
-4. **Utilitat:** la resposta resol la pregunta sense ser telegràfica ni
-   enciclopèdica.
-5. **Fidelitat:** cada afirmació és sostinguda per una font revisada i respecta
-   els seus límits.
-6. **Drets:** la procedència i les condicions de reutilització estan anotades.
-7. **Originalitat:** la conversa no duplica una altra mostra amb els noms
-   canviats.
+## Converses multitorn
 
-Si un criteri falla, es reescriu o es descarta. Una puntuació numèrica no
-substitueix aquesta revisió.
+- Normalment, dos o tres intercanvis són suficients.
+- Cada torn de l'usuari ha de tenir sentit com a rèplica a la resposta anterior.
+- L'usuari no pot preguntar per un detall que Maia encara no ha esmentat.
+- No s'encadenen preguntes independents per extreure una llista de dades.
+- Si canvia el tema o la intenció, es crea una conversa nova.
+- No s'inventa cap experiència personal per fer que la pregunta sembli humana.
+- Una pregunta d'una sola resposta és preferible a una conversa allargada sense
+  motiu.
 
-L'estat de drets es registra tal com consta a la font. Un estat «no» o
-«pendent» no s'ha de presentar com a permís. La decisió d'incloure material a
-la preparació del model correspon al propietari del projecte; l'exportació
-conserva l'atribució i les limitacions, i no declara una llicència global.
+## Cobertura
 
-## Cobertura i exportació
+La cobertura és una auditoria del coneixement, no una quota de preguntes.
+L'inventari registra quines parts de cada document s'han revisat, quines tenen
+una conversa aprovada i quines no en necessiten cap. No s'inventa una pregunta
+per cobrir una data, una fila o un nom aïllat.
 
-Es revisa el corpus tema a tema. L'inventari intern marca què s'ha llegit,
-quines afirmacions tenen mostra aprovada i quines encara no tenen una pregunta
-natural. Les relacions entre temes només s'utilitzen quan ajuden a respondre una
-necessitat concreta.
+Les converses sobre més d'una peça només s'escriuen quan una persona podria
+necessitar aquella connexió per resoldre el seu dubte. Els fets relacionats es
+guarden al mateix grup de split per evitar filtracions entre train, validation
+i test.
 
-Els exemples de `knowledge/review/EXEMPLES.md` fixen el criteri editorial. Les
-converses de producció van a `knowledge/review/conversations.jsonl`, una
-conversa completa per línia; la procedència va en una línia corresponent a
-`provenance.jsonl`. Només les converses aprovades passen a `knowledge/output/`.
-Cada conversa és un pas de treball independent: revisar-la, validar-la,
-actualitzar cobertura, fer un commit i push a `main` abans de començar la
-següent. Els splits s'agrupen per tema o fet relacionat per evitar variants
-gairebé iguals a banda i banda.
+## Flux de cada registre
+
+1. Revisar una conversa candidata i la seva procedència.
+2. Reescriure-la o rebutjar-la si falla un criteri.
+3. Validar l'estructura i l'enllaç de procedència.
+4. Actualitzar l'inventari de cobertura i l'informe.
+5. Exportar només registres aprovats.
+6. Revisar el diff i registrar el canvi segons el flux de Git del projecte.
 
 ## Maia Language
 
-És un flux separat. Només s'hi inclou parla contemporània autèntica amb drets
-anotats i transcripció prou fiable. Es conserva la formulació humana. No
-s'inventen preguntes ni es reescriu una resposta per imitar el català
-andorrà.
+Maia Language continua separat. Només usa parla contemporània autèntica amb
+transcripció prou fiable i drets anotats. No s'inventen preguntes per fer que
+un fragment sembli una conversa. La resposta preserva les paraules de la
+persona entrevistada.
 
-## Fases
+## Quan es considera acabat
 
-1. Aplicar els exemples editorials a cada tema i revisar tot el corpus, sense
-   saltar documents perquè siguin difícils o poc coneguts.
-2. Redactar i verificar converses una a una. Un registre ha de respondre una
-   necessitat real; diversos fets poden quedar coberts pel mateix diàleg si
-   aquest els necessita de debò.
-3. Afegir la procedència i les condicions reals de cada font. Marcar els drets
-   pendents o negatius; no convertir-los en una afirmació de permís.
-4. Mantenir inventari de documents i cobertura perquè es vegi què falta i per
-   què algun fet no té una pregunta natural.
-5. Deduplicar i agrupar els registres relacionats abans de crear els splits.
-6. Exportar, validar i informar la cobertura dels dos datasets.
+Knowledge només es dona per acabat quan s'ha revisat tot `docs/temes/`, les
+converses aprovades són correctes i naturals, la cobertura està auditada, no hi
+ha duplicats i els splits són vàlids.
 
-El treball continua tema a tema fins a cobrir el corpus. No es considera acabat
-per haver arribat a una xifra de registres.
+Language només es dona per acabat quan s'han revisat totes les peces elegibles
+de `docs/parla/`, s'han filtrat els fragments incerts i s'ha evitat barrejar
+fragments relacionats entre splits.
