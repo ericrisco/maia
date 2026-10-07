@@ -9,7 +9,7 @@
   "file_count": 1477,
   "article_count": 1348,
   "parse_error_count": 0,
-  "conversation_count": 136,
+  "conversation_count": 137,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 0,
@@ -1164,7 +1164,7 @@
       "topic": "temes/cultura",
       "source": "estadistica-ad",
       "status": "in_progress",
-      "conversation_count": 17,
+      "conversation_count": 18,
       "conversation_ids": [
         "habits-culturals-biblioteques-edat-001",
         "habits-culturals-biblioteques-enquesta-i-usuaris-001",
@@ -1179,6 +1179,7 @@
         "habits-culturals-museus-per-edat-001",
         "habits-culturals-plantilla-biblioteques-desglossament-001",
         "habits-culturals-prestec-llibres-i-audiovisuals-001",
+        "habits-culturals-prestec-periodics-i-so-001",
         "habits-culturals-teatre-i-multiplicitat-activitats-001",
         "habits-culturals-voluntariat-discrepancia-series-001",
         "habits-culturals-voluntariat-entitats-abast-001",
@@ -1213,7 +1214,8 @@
         "No hi ha dada d'horaris d'obertura; no s'infereix el servei a partir de la ràtio o plantilla.",
         "Personal 2024: 24 dones i 3 homes de 27 persones a les dues xarxes; segona sèrie «personal de les biblioteques» registra 32 el 2016 i no defineix l'abast addicional ni continua després del 2021.",
         "Pràctica esportiva per edat completa: 15-29 89,5% → 94,7%; 30-44 87,1% → 85,9%; 45-64 67,5% → 75,6%; 65+ 43,4% → 51,2%.",
-        "Voluntariat: sèrie d'entitats participants 14 el 2017, mínim 2 el 2021 i 14 el 2025; no equival a registre d'associacions i la definició exacta no consta."
+        "Voluntariat: sèrie d'entitats participants 14 el 2017, mínim 2 el 2021 i 14 el 2025; no equival a registre d'associacions i la definició exacta no consta.",
+        "Préstecs per categoria (2016-2024): periòdics 443 → 531 (+19,9%); sonors 554 → 371 (-33%); no totes les categories no-llibre disminueixen."
       ],
       "open_units": [
         "Revisar les altres activitats de l'enquesta i els seus desglossaments per edat, sexe i estudis.",
