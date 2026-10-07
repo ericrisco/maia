@@ -13767,12 +13767,16 @@
       "title": "Dues maneres de comptar la població",
       "type": "article",
       "topic": "temes/societat/demografia",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 19,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/societat/demografia/dues-maneres-de-comptar-la-poblacio.md#unit-0002"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 19,
-      "conversation_ids": []
+      "open_unit_count": 18,
+      "conversation_ids": [
+        "poblacio-per-poble-registrada-vs-estimada-001"
+      ]
     },
     "docs/temes/societat/demografia/la-composicio-per-nacionalitats.md": {
       "title": "La composició per nacionalitats",
@@ -13894,10 +13898,11 @@
         "docs/temes/societat/demografia/quaranta-quatre-pobles.md#unit-0038",
         "docs/temes/societat/demografia/quaranta-quatre-pobles.md#unit-0039",
         "docs/temes/societat/demografia/quaranta-quatre-pobles.md#unit-0041",
+        "docs/temes/societat/demografia/quaranta-quatre-pobles.md#unit-0042",
         "docs/temes/societat/demografia/quaranta-quatre-pobles.md#unit-0043"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 6,
+      "open_unit_count": 5,
       "conversation_ids": [
         "poblacio-44-entrades-nuclis-mes-petits-001",
         "poblacio-etiqueta-sant-julia-dues-parroquies-001",
@@ -13906,6 +13911,7 @@
         "poblacio-nuclis-petits-que-creixen-001",
         "poblacio-parroquies-mes-poblades-i-creixement-001",
         "poblacio-pas-casa-i-canillo-001",
+        "poblacio-per-poble-registrada-vs-estimada-001",
         "poblacio-pobles-amb-menys-habitants-001",
         "poblacio-pobles-creixement-proporcional-001",
         "poblacio-pobles-mes-creixement-i-parroquies-001"
@@ -13926,12 +13932,18 @@
       "title": "Qui compta com a resident",
       "type": "article",
       "topic": "temes/societat/demografia",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 57,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/societat/demografia/qui-compta-com-a-resident.md#unit-0001",
+        "docs/temes/societat/demografia/qui-compta-com-a-resident.md#unit-0008",
+        "docs/temes/societat/demografia/qui-compta-com-a-resident.md#unit-0009"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 57,
-      "conversation_ids": []
+      "open_unit_count": 54,
+      "conversation_ids": [
+        "poblacio-per-poble-registrada-vs-estimada-001"
+      ]
     },
     "docs/temes/societat/demografia/setanta-nou-anys-de-padro.md": {
       "title": "La població registrada d'Andorra i el seu canvi natural (1947–2025)",
