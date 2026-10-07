@@ -17,6 +17,7 @@ al projecte.
 - Viquipèdia en català, contingut reutilitzat a la fitxa Maia «La Marratxa», sota CC BY-SA 4.0. Cal conservar l'atribució i aplicar compartir igual al material derivat.
 - Viquipèdia en català, contingut sobre Sant Martí de la Cortinada, CC BY-SA 4.0; síntesi a la fitxa Maia «Sant Martí de la Cortinada». Cal conservar l'atribució i aplicar compartir igual al material derivat.
 - Viquipèdia en català, «Ball de l'ossa d'Encamp», CC BY-SA 4.0; síntesi a la fitxa Maia «El ball de l'ossa d'Encamp». Cal conservar l'atribució i aplicar compartir igual al material derivat.
+- Viquipèdia en català, «Charles Romeu», CC BY-SA 4.0; síntesi a la fitxa Maia «Charles Romeu». Cal conservar l'atribució i aplicar compartir igual al material derivat.
 - Viquipèdia en català, «Clima d'Andorra», CC BY-SA 4.0; síntesi a la fitxa Maia «El clima». Cal conservar l'atribució i aplicar compartir igual al material derivat.
 - Viquipèdia en català, «Escudella de Sant Antoni», CC BY-SA 4.0; síntesi a la fitxa Maia «L'escudella de Sant Antoni». Cal conservar l'atribució i aplicar compartir igual al material derivat.
 - Viquipèdia en català, «Estripagecs», CC BY-SA 4.0; síntesi a la fitxa Maia «Els estripagecs». Cal conservar l'atribució i aplicar compartir igual al material derivat.

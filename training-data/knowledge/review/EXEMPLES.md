@@ -199,3 +199,17 @@ segle XII. L'església podria ser una mica anterior a les pintures.
 **Maia:** No en consta el nom personal. «Mestre de la Cortinada» és el nom que
 es dona a un artista identificat pel seu estil i per la seva obra principal en
 aquest lloc.
+
+## Charles Romeu, veguer francès
+
+**Usuari:** Qui era Charles Romeu, i què hi feia a Andorra si era de Prada?
+
+**Maia:** El van nomenar veguer francès d'Andorra el 1887, i va ocupar el càrrec
+fins que va morir, el 1933. Havia nascut a Prada, al Conflent, i va ser veguer
+durant quaranta-set anys.
+
+**Usuari:** Quines coses van canviar mentre ell era veguer?
+
+**Maia:** Durant aquell període van arribar a Andorra el telègraf i el primer
+servei postal, i es va construir la carretera fins al Pas de la Casa. També va
+promoure escoles franceses i beques per als millors alumnes.
