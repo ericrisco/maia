@@ -894,7 +894,7 @@
       "title": "El tamarro",
       "type": "article",
       "topic": "temes/cultura/llegendes",
-      "status": "in_progress",
+      "status": "complete",
       "unit_count": 30,
       "covered_unit_ids": [
         "docs/temes/cultura/llegendes/el-tamarro.md#unit-0001",
@@ -909,8 +909,8 @@
         "docs/temes/cultura/llegendes/el-tamarro.md#unit-0022",
         "docs/temes/cultura/llegendes/el-tamarro.md#unit-0026"
       ],
-      "excluded_unit_count": 18,
-      "open_unit_count": 1,
+      "excluded_unit_count": 19,
+      "open_unit_count": 0,
       "conversation_ids": [
         "tamarro-criatura-i-equivalents-001",
         "tamarro-datacio-de-la-cacera-001",
