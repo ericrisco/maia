@@ -13734,11 +13734,11 @@
       "title": "Un cens de població per pagar la carretera (1896)",
       "type": "article",
       "topic": "temes/societat/demografia",
-      "status": "not_started",
+      "status": "complete",
       "unit_count": 11,
       "covered_unit_ids": [],
-      "excluded_unit_count": 0,
-      "open_unit_count": 11,
+      "excluded_unit_count": 11,
+      "open_unit_count": 0,
       "conversation_ids": []
     },
     "docs/temes/societat/demografia/demografia-index-de-fitxes.md": {
