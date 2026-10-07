@@ -53,9 +53,10 @@
       "topic": "temes/costums/calendari-festiu",
       "source": "premsa-andorrana",
       "status": "in_progress",
-      "conversation_count": 2,
+      "conversation_count": 3,
       "conversation_ids": [
         "judici-contrabandistes-text-i-antiguitat-01",
+        "operacio-carnestoltes-origen-autor-01",
         "operacio-carnestoltes-viscera-escenari-01"
       ],
       "reviewed_units": [
@@ -63,7 +64,9 @@
         "operació del Carnestoltes: vísceres de la matança del porc, ubicació al complex esportiu i incorporació cap al 1970",
         "límit sobre les dates anuals i la font del programa de 2026",
         "judici dels contrabandistes: guió no localitzat i detalls escènics desconeguts",
-        "antiguitat del judici d’Encamp situada al segle XIX o abans, sense any exacte"
+        "antiguitat del judici d’Encamp situada al segle XIX o abans, sense any exacte",
+        "operació del Carnestoltes incorporada pels volts de 1970",
+        "autor de l’operació no identificat"
       ],
       "completion_note": "",
       "reason": ""
@@ -1518,12 +1521,13 @@
       "topic": "temes/cultura/teatre",
       "source": "masegosa-teatre-andorra",
       "status": "in_progress",
-      "conversation_count": 8,
+      "conversation_count": 9,
       "conversation_ids": [
         "arlequins-canillo-judici-carnestoltes-01",
         "ball-ossa-versions-localitats-01",
         "judici-contrabandistes-text-i-antiguitat-01",
         "judicis-carnaval-encamp-ordino-01",
+        "operacio-carnestoltes-origen-autor-01",
         "operacio-carnestoltes-viscera-escenari-01",
         "ossa-nom-i-ritual-pirinenc-01",
         "tralari-marieta-text-i-argument-01",
