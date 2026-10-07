@@ -756,6 +756,7 @@
         "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0041",
         "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0042",
         "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0043",
+        "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0044",
         "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0046",
         "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0047",
         "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0048",
@@ -777,7 +778,7 @@
         "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0073"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 21,
+      "open_unit_count": 20,
       "conversation_ids": [
         "biblioteques-prestecs-i-inscrits-2020-001",
         "biblioteques-prestecs-per-inscrit-2016-2024-001",
@@ -790,6 +791,7 @@
         "lectura-oci-diferencia-sexe-001",
         "lectura-oci-estudis-001",
         "lectura-oci-ingressos-2019-001",
+        "museus-i-monuments-recuperacio-2019-2024-001",
         "visites-museus-canvi-per-edat-001",
         "voluntariat-discrepancia-taules-2022-2025-001",
         "voluntariat-serie-i-entitats-2010-2025-001",
@@ -1174,12 +1176,17 @@
       "title": "Els museus d'Andorra — índex de fitxes",
       "type": "article",
       "topic": "temes/cultura/museus-i-arxius/museus",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 85,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/cultura/museus-i-arxius/museus/els-museus-d-andorra-index-de-fitxes.md#unit-0066",
+        "docs/temes/cultura/museus-i-arxius/museus/els-museus-d-andorra-index-de-fitxes.md#unit-0068"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 85,
-      "conversation_ids": []
+      "open_unit_count": 83,
+      "conversation_ids": [
+        "museus-i-monuments-recuperacio-2019-2024-001"
+      ]
     },
     "docs/temes/cultura/museus-i-arxius/museus/la-farga-rosell.md": {
       "title": "La Farga Rosell i la ruta del ferro",
