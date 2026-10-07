@@ -168,7 +168,7 @@ conclou que **Andorra continua oferint un nivell adequat de protecció** per a
 les dades transferides des de la UE, en el sentit del RGPD. El [country report
 que l'acompanya](../../../raw/relacions-exteriors/adequacio-dades-revisio-2024.pdf)
 documenta que la Llei 29/2021 va entrar en vigor el maig del 2022 i que està
-estretament alineada amb el RGPD.
+estretament alineada amb el RGPD ([fitxa de la font](../../../fonts/eur-lex-revisio-adequacio-2024.md)). La revisió no és una decisió nova.
 
 **La llacuna de les decisions automatitzades: tancada el 2026-09-14.** El
 dictamen del 2009 deia que la llei andorrana **no les reconeixia expressament**.

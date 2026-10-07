@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1388** documents · **644** fonts · **40** aptes com a model de llengua · **127** temes amb contingut.
+**1388** documents · **645** fonts · **40** aptes com a model de llengua · **127** temes amb contingut.
 
 ## parla/oral
 
@@ -2302,6 +2302,7 @@
 | [`eur-lex-decisio-adequacio-2016-2295`](fonts/eur-lex-decisio-adequacio-2016-2295.md) | Unió Europea · Comissió Europea · Oficina de Publicacions | reutilització autoritzada, comercial i no comercial, per la Decisió 2011/833/UE | si |
 | [`eur-lex-decisio-comite-mixt-1-2003`](fonts/eur-lex-decisio-comite-mixt-1-2003.md) | Unió Europea · Comitè Mixt CE-Andorra · Oficina de Publicacions | Els documents legals publicats a EUR-Lex es poden reutilitzar amb finalitats comercials o no comercials, llevat que s'hi indiqui una condició especial. | si |
 | [`eur-lex-protocol-seguretat-duanera-2011`](fonts/eur-lex-protocol-seguretat-duanera-2011.md) | Unió Europea · Oficina de Publicacions (edició al Diari Oficial). Parts: la Unió Europea i el Principat d'Andorra | reutilització autoritzada, comercial i no comercial, per la Decisió 2011/833/UE | si |
+| [`eur-lex-revisio-adequacio-2024`](fonts/eur-lex-revisio-adequacio-2024.md) | Unió Europea · Comissió Europea · Direcció General de Justícia i Consumidors | reutilització autoritzada, comercial i no comercial, per la Decisió 2011/833/UE | si |
 | [`eychenne-bibliografia`](fonts/eychenne-bibliografia.md) |  |  |  |
 | [`fab-ad-la-federacio`](fonts/fab-ad-la-federacio.md) | Federació Andorrana de Basquetbol (FAB) | publicació institucional, sense llicència declarada | pendent |
 | [`facc-paddleworldwide`](fonts/facc-paddleworldwide.md) | International Canoe Federation (ICF) · Paddle Worldwide | publicació institucional, sense llicència declarada | pendent |
