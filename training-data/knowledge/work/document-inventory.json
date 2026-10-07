@@ -9,7 +9,7 @@
   "file_count": 1477,
   "article_count": 1348,
   "parse_error_count": 0,
-  "conversation_count": 23,
+  "conversation_count": 24,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 0,
@@ -1392,11 +1392,12 @@
       "topic": "temes/cultura/museus-i-arxius",
       "source": "jurisprudencia-ad",
       "status": "in_progress",
-      "conversation_count": 23,
+      "conversation_count": 24,
       "conversation_ids": [
         "diposit-legal-bases-dades-programari-exemplars-001",
         "diposit-legal-braille-i-edicio-luxe-001",
         "diposit-legal-cartells-i-propaganda-exemplars-001",
+        "diposit-legal-cinema-fotoquimic-formats-001",
         "diposit-legal-cinema-llargmetratge-curtmetratge-001",
         "diposit-legal-consulta-material-digital-001",
         "diposit-legal-editor-andorra-domini-ad-001",
@@ -1442,7 +1443,8 @@
         "Llei 15/2025, article 11.1.b: two copies for video games in any medium.",
         "Llei 15/2025, article 14.d-e: preservation copies and formats for digital cinema releases and other films.",
         "Llei 15/2025, article 15: two copies for each fixed-periodicity television broadcast and for other television productions.",
-        "Llei 15/2025, article 14.a-b: original negatives, positive copies, artistic sheets and scripts for feature, medium-length and short films."
+        "Llei 15/2025, article 14.a-b: original negatives, positive copies, artistic sheets and scripts for feature, medium-length and short films.",
+        "Llei 15/2025, article 14.c: preservation materials and new 35 mm copy for photo-chemical film; other analog copies match the release format."
       ],
       "open_units": [
         "Finish reviewing the remaining physical deposit categories and special formats, periodicals, film/television/radio, and linked regulations.",
