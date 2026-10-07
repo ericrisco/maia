@@ -2,7 +2,7 @@
   "source_root": "docs/temes/",
   "file_count": 1477,
   "article_count": 1348,
-  "conversation_count": 51,
+  "conversation_count": 52,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 1,
@@ -16632,7 +16632,7 @@
       "topic": "temes/institucions/relacions-exteriors",
       "source": "jurisprudencia-ad",
       "status": "in_progress",
-      "conversation_count": 25,
+      "conversation_count": 26,
       "conversation_ids": [
         "antecedents-penals-residents-estranger-001",
         "bens-sense-propietari-identificat-001",
@@ -16651,6 +16651,7 @@
         "extradicio-dret-demanar-llibertat-001",
         "extradicio-govern-o-tribunals-decisio-001",
         "extradicio-llindar-pena-minima-001",
+        "extradicio-parts-i-proves-judici-001",
         "extradicio-pena-mort-i-control-judicial-001",
         "extradicio-regla-especialitat-i-45-dies-001",
         "mesures-cautelars-terminis-notificacio-aixecament-001",
@@ -16685,7 +16686,8 @@
         "Llei d’extradició, article 2: llindar de pena màxima potencial a les dues jurisdiccions i llindar de condemna ja imposada.",
         "Llei d’extradició, article 3: regla d’especialitat, excepció amb consentiment/ampliació i termini de 45 dies sense sortir del país receptor.",
         "Llei qualificada d’extradició, article 9: terminis de detenció provisional de 18 i 40 dies, i efectes de l’alliberament si la demanda completa arriba més tard.",
-        "Llei qualificada d’extradició, article 10: petició de llibertat durant el procediment i apel·lació, sense confondre el dret a sol·licitar-la amb una concessió automàtica."
+        "Llei qualificada d’extradició, article 10: petició de llibertat durant el procediment i apel·lació, sense confondre el dret a sol·licitar-la amb una concessió automàtica.",
+        "Llei qualificada d’extradició, article 11: parts del judici, representació de l’estat sol·licitant pel fiscal, termini de quinze dies per a al·legacions/proves i prova acordada d’ofici."
       ],
       "open_units": [
         "Abast i límits de la instantània consolidada del 2026-09-12."
