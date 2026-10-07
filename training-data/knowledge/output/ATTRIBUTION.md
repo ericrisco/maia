@@ -12,3 +12,4 @@ el BOPA no implica cap suport al projecte. No s'atribueix una llicència global 
 ## Fonts dels registres exportats
 
 - Departament d’Estadística d’Andorra, Enquesta d’hàbits culturals i esportius i estadística de biblioteques; dades obtingudes de l’API pública, captura del 18-09-2026. Informació estadística pròpia sota CC BY 4.0: cal atribució, indicar canvis si n’hi ha i no suggerir patrocini. La llicència no cobreix marques ni continguts de tercers.
+- Departament d’Estadística d’Andorra, Enquesta d’hàbits culturals i esportius, taula d’assistència a museus per edat; dades obtingudes de l’API pública, captura del 18-09-2026. Informació estadística pròpia sota CC BY 4.0: cal atribució, indicar canvis si n’hi ha i no suggerir patrocini. La llicència no cobreix marques ni continguts de tercers.
