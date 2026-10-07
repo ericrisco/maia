@@ -15701,7 +15701,7 @@
       "topic": "temes/institucions/relacions-exteriors",
       "source": "eur-lex-adequacio-dades-andorra-2010",
       "status": "in_progress",
-      "conversation_count": 11,
+      "conversation_count": 12,
       "conversation_ids": [
         "adequacio-2010-base-legal-agencia-02",
         "adequacio-2010-entrada-en-vigor-tractats-04",
@@ -15713,6 +15713,7 @@
         "adequacio-2016-vigilancia-acces-estatal-05",
         "adequacio-2021-decisions-automatitzades-menors-09",
         "adequacio-2021-transferencies-llista-europea-i-garanties-10",
+        "adequacio-2024-revisio-no-nova-decisio-11",
         "protocol-duaner-cita-adequacio-dades-10"
       ],
       "reviewed_units": [
@@ -15727,7 +15728,8 @@
         "procediment de l'article 3 després de 2016 per suspendre o prohibir fluxos i avisar la Comissió",
         "supòsits de suspensió de transferències previstos per l'article 3 original i condició per aixecar-la",
         "evolució de l'advertiment europeu del 2009 sobre decisions automatitzades fins a l'article 25 de la Llei 29/2021, inclosa la protecció específica dels menors",
-        "connexió entre l'adequació de la UE a Andorra i el criteri andorrà de transferències internacionals dels articles 42–44 de la Llei 29/2021"
+        "connexió entre l'adequació de la UE a Andorra i el criteri andorrà de transferències internacionals dels articles 42–44 de la Llei 29/2021",
+        "revisió europea del 2024: conclusió sobre adequació continuada sota el RGPD i diferència entre informe de revisió i nova decisió"
       ],
       "open_units": [
         "auditar la cobertura de la resta de la Decisió 2010/625/UE i de la seva versió consolidada del 2016"
