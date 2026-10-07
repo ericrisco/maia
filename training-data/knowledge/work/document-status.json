@@ -1581,13 +1581,12 @@
       "unit_count": 35,
       "covered_unit_ids": [
         "docs/temes/cultura/museus-i-arxius/museus/les-cases-museu.md#unit-0002",
-        "docs/temes/cultura/museus-i-arxius/museus/les-cases-museu.md#unit-0003",
         "docs/temes/cultura/museus-i-arxius/museus/les-cases-museu.md#unit-0004",
         "docs/temes/cultura/museus-i-arxius/museus/les-cases-museu.md#unit-0005",
         "docs/temes/cultura/museus-i-arxius/museus/les-cases-museu.md#unit-0009"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 30,
+      "open_unit_count": 31,
       "conversation_ids": [
         "casa-rull-riquesa-i-vida-domestica-001"
       ]
