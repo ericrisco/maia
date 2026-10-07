@@ -13859,7 +13859,7 @@
       "title": "La població dels 44 pobles d'Andorra (2010–2025)",
       "type": "article",
       "topic": "temes/societat/demografia",
-      "status": "in_progress",
+      "status": "complete",
       "unit_count": 43,
       "covered_unit_ids": [
         "docs/temes/societat/demografia/quaranta-quatre-pobles.md#unit-0001",
@@ -13902,8 +13902,8 @@
         "docs/temes/societat/demografia/quaranta-quatre-pobles.md#unit-0042",
         "docs/temes/societat/demografia/quaranta-quatre-pobles.md#unit-0043"
       ],
-      "excluded_unit_count": 0,
-      "open_unit_count": 4,
+      "excluded_unit_count": 4,
+      "open_unit_count": 0,
       "conversation_ids": [
         "poblacio-44-entrades-nuclis-mes-petits-001",
         "poblacio-etiqueta-sant-julia-dues-parroquies-001",
