@@ -714,5 +714,21 @@
     "reviewed_units": [
       "Només l’Anyell de Déu roman in situ; la major part de les pintures es troba a l’Espai Columba després del retorn al Govern el 2007, i dos fragments van seguir itineraris separats."
     ]
+  },
+  "docs/temes/cultura/artesania/el-ferro.md": {
+    "status": "in_progress",
+    "open_units": [
+      "Divergència interna sobre l’auge al primer quart del segle XX malgrat decadència i tancament el 1893.",
+      "Recompte de fargues: la del Puntal i la d’Ordino podrien ser una o dues.",
+      "Ubicació exacta d’algunes fargues i origen del mineral pendents.",
+      "Noms de ferrers locals i vocabulari de l’ofici incomplets.",
+      "La llista nominal de treballadors francesos de 1629, ordenada però encara no localitzada."
+    ],
+    "conversation_ids": [
+      "ferrers-modernitzacio-i-caiguda-demanda-001"
+    ],
+    "reviewed_units": [
+      "Els ferrers es van modernitzar, però van perdre clients per la mecanització agrícola, els tractors i les eines importades; ferrar animals era la tasca principal, no l’única."
+    ]
   }
 }

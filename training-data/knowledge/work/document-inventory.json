@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 47,
+    "in_progress": 48,
     "no_natural_question": 0,
-    "not_started": 1301
+    "not_started": 1300
   },
   "documents": [
     {
@@ -1113,11 +1113,21 @@
       "type": "article",
       "topic": "temes/cultura/artesania",
       "source": "mas-pagesos-i-artesans",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "ferrers-modernitzacio-i-caiguda-demanda-001"
+      ],
+      "reviewed_units": [
+        "Els ferrers es van modernitzar, però van perdre clients per la mecanització agrícola, els tractors i les eines importades; ferrar animals era la tasca principal, no l’única."
+      ],
+      "open_units": [
+        "Divergència interna sobre l’auge al primer quart del segle XX malgrat decadència i tancament el 1893.",
+        "Recompte de fargues: la del Puntal i la d’Ordino podrien ser una o dues.",
+        "Ubicació exacta d’algunes fargues i origen del mineral pendents.",
+        "Noms de ferrers locals i vocabulari de l’ofici incomplets.",
+        "La llista nominal de treballadors francesos de 1629, ordenada però encara no localitzada."
+      ],
       "completion_note": "",
       "reason": ""
     },
