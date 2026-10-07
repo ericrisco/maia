@@ -543,12 +543,20 @@
       "title": "Sant Joan de Caselles",
       "type": "article",
       "topic": "temes/cultura/arquitectura",
-      "status": "not_started",
+      "status": "complete",
       "unit_count": 10,
-      "covered_unit_ids": [],
-      "excluded_unit_count": 0,
-      "open_unit_count": 10,
-      "conversation_ids": []
+      "covered_unit_ids": [
+        "docs/temes/cultura/arquitectura/sant-joan-de-caselles.md#unit-0001",
+        "docs/temes/cultura/arquitectura/sant-joan-de-caselles.md#unit-0002",
+        "docs/temes/cultura/arquitectura/sant-joan-de-caselles.md#unit-0003",
+        "docs/temes/cultura/arquitectura/sant-joan-de-caselles.md#unit-0005",
+        "docs/temes/cultura/arquitectura/sant-joan-de-caselles.md#unit-0006"
+      ],
+      "excluded_unit_count": 5,
+      "open_unit_count": 0,
+      "conversation_ids": [
+        "sant-joan-caselles-estuc-retaule-001"
+      ]
     },
     "docs/temes/cultura/arquitectura/sant-marti-de-la-cortinada.md": {
       "title": "Sant Martí de la Cortinada",
