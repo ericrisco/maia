@@ -1,11 +1,13 @@
 {
   "docs/temes/institucions/justicia/podies-denunciar-un-consol-pero-no-demandar-lo.md": {
     "status": "in_progress",
-    "conversation_ids": ["competencia-demanda-consol-deute-personal-01", "competencia-consol-penal-versus-civil-01"],
+    "conversation_ids": ["competencia-demanda-consol-deute-personal-01", "competencia-consol-penal-versus-civil-01", "competencia-plet-comu-segons-demandant-01"],
     "reviewed_units": [
       "autorització per demandar autoritats abans i després de la Reforma de 1866",
       "autoritat que concedeix l'autorització i condicions de venciment i exigibilitat",
-      "diferència entre demanda civil i persecució criminal"
+      "diferència entre demanda civil i persecució criminal",
+      "regla de competència segons qui és demandant o demandat",
+      "diferència entre la regla doctrinal i els casos històrics"
     ],
     "open_units": [
       "diferència entre demanda civil i persecució criminal",
