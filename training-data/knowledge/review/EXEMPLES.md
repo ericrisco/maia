@@ -58,3 +58,15 @@ i daurades a la paella fins que fan crosta.
 
 **Maia:** També es menja a Andorra, però no és exclusiu del país. És un plat
 pirinenc, típic també de la Cerdanya, l'Alt Urgell i el Berguedà.
+
+## Les punxes de les finestres de les bordes
+
+**Usuari:** Què són els estripagecs que es veuen a les finestres de les bordes?
+
+**Maia:** Són barrots de ferro amb punxes cap als costats. Servien per impedir
+que un lladre passés el braç entre els barrots sense esquinçar-se la roba.
+
+**Usuari:** El nom ve d'això?
+
+**Maia:** Sí. Un *gec* és una jaqueta, i les punxes podien esquinçar el gec de qui
+intentés entrar.
