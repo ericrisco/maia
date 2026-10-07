@@ -1468,12 +1468,19 @@
       "title": "El primer museu andorrà: girafes dissecades a Ordino",
       "type": "article",
       "topic": "temes/cultura/museus-i-arxius/museus",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 41,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/cultura/museus-i-arxius/museus/el-primer-museu.md#unit-0001",
+        "docs/temes/cultura/museus-i-arxius/museus/el-primer-museu.md#unit-0002",
+        "docs/temes/cultura/museus-i-arxius/museus/el-primer-museu.md#unit-0005",
+        "docs/temes/cultura/museus-i-arxius/museus/el-primer-museu.md#unit-0009"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 41,
-      "conversation_ids": []
+      "open_unit_count": 37,
+      "conversation_ids": [
+        "primer-museu-zoologia-ordino-001"
+      ]
     },
     "docs/temes/cultura/museus-i-arxius/museus/els-altres-museus.md": {
       "title": "Els altres museus: art sacre, romànic, electricitat, còmic, miniatura, moto, aigua",
