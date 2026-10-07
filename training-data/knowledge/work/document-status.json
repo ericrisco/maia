@@ -13690,11 +13690,16 @@
         "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0029",
         "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0030",
         "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0031",
+        "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0032",
+        "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0033",
+        "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0034",
+        "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0035",
+        "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0036",
         "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0037",
         "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0038"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 45,
+      "open_unit_count": 40,
       "conversation_ids": [
         "dret-vot-nacionalitat-parroquia-residencia-origen-001",
         "eleccions-comunals-composicio-i-repartiment-escons-001",
@@ -13703,6 +13708,7 @@
         "llistes-electorals-comuns-actualitzacio-semestral-001",
         "privacio-dret-sufragi-sentencia-ferma-001",
         "referendum-reforma-constitucional-resultat-i-blancs-001",
+        "referendums-consultiu-i-reforma-convocatoria-pregunta-data-001",
         "repartiment-escons-consell-general-resta-mes-elevada-001",
         "vot-llista-completa-preferencies-candidats-001"
       ]
