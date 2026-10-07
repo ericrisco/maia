@@ -9,7 +9,7 @@
   "file_count": 1477,
   "article_count": 1348,
   "parse_error_count": 0,
-  "conversation_count": 16,
+  "conversation_count": 17,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 0,
@@ -1392,7 +1392,7 @@
       "topic": "temes/cultura/museus-i-arxius",
       "source": "jurisprudencia-ad",
       "status": "in_progress",
-      "conversation_count": 16,
+      "conversation_count": 17,
       "conversation_ids": [
         "diposit-legal-bases-dades-programari-exemplars-001",
         "diposit-legal-braille-i-edicio-luxe-001",
@@ -1407,6 +1407,7 @@
         "diposit-legal-radio-periodica-i-custodia-001",
         "diposit-legal-rastreig-web-i-frequencia-001",
         "diposit-legal-retard-i-sancio-001",
+        "diposit-legal-revista-periodica-numero-i-exemplars-001",
         "diposit-legal-termini-numero-i-exemplars-001",
         "diposit-legal-web-fora-dandorra-001",
         "diposit-legal-web-pagament-clau-acces-001"
@@ -1428,7 +1429,8 @@
         "Llei 15/2025, article 11.1.a: three copies for each book binding or digital layout, regardless of medium.",
         "Llei 15/2025, article 11.1.b: two copies for advertising posters and electoral propaganda.",
         "Llei 15/2025, article 11.1.c: one copy for software and databases.",
-        "Llei 15/2025, article 11.1.c: one copy for works in Braille and luxury or facsimile bibliographic editions."
+        "Llei 15/2025, article 11.1.c: one copy for works in Braille and luxury or facsimile bibliographic editions.",
+        "Llei 15/2025, articles 13.1-13.2: periodicals register once; two copies per issue, delivered immediately after publication."
       ],
       "open_units": [
         "Finish reviewing the remaining physical deposit categories and special formats, periodicals, film/television/radio, and linked regulations.",
