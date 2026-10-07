@@ -965,6 +965,8 @@
         "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0018",
         "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0019",
         "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0020",
+        "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0028",
+        "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0030",
         "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0031",
         "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0032",
         "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0036",
@@ -972,8 +974,9 @@
         "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0038"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 32,
+      "open_unit_count": 30,
       "conversation_ids": [
+        "dama-blanca-records-al-territori-001",
         "llegenda-dama-blanca-identificacio-001",
         "llegenda-dama-blanca-sindic-001",
         "llegenda-dama-blanca-toponim-001"
