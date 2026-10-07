@@ -13667,6 +13667,10 @@
       "unit_count": 71,
       "covered_unit_ids": [
         "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0002",
+        "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0003",
+        "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0004",
+        "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0005",
+        "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0006",
         "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0007",
         "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0008",
         "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0009",
@@ -13702,8 +13706,9 @@
         "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0070"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 37,
+      "open_unit_count": 33,
       "conversation_ids": [
+        "consell-general-minim-maxim-constitucio-i-llei-001",
         "dret-vot-nacionalitat-parroquia-residencia-origen-001",
         "eleccions-comunals-composicio-i-repartiment-escons-001",
         "empat-eleccions-comunals-repartiment-directe-001",
