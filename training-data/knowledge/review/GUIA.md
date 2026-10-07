@@ -1,43 +1,55 @@
 # Guia editorial de Maia Knowledge
 
-## Abans d'escriure
+## Primer, decideix quin dubte resols
 
-Descriu el dubte en una frase: **«La persona vol aclarir…»**. Si la resposta és «vol saber què diu la fitxa», encara no tens una pregunta humana.
+Abans d'escriure, completa aquesta frase: **«La persona vol aclarir…»**. Tria una necessitat concreta: entendre una aparent contradicció, distingir dues coses, comprovar una premissa, prendre una decisió o saber fins on arriba l'evidència.
 
-Imagina la situació mínima que faria néixer el dubte: algú ha sentit dues dates, confon dues tradicions, vol entendre una paraula o comprova una idea que li han explicat. No inventis una biografia ni una experiència personal per fer la pregunta més viva.
+Si la frase és «vol saber què diu la fitxa», encara no hi ha una pregunta humana.
 
-## Escriu el diàleg
+## Després, escriu la conversa
 
-- Formula la primera pregunta com la faria algú que no té el document obert. Inclou el context imprescindible perquè s'entengui sola.
-- Respon directament a la primera frase. Afegeix el context que eviti una conclusió equivocada, però no recitis tota la fitxa.
-- Fes seguiments només quan una resposta natural en desperti un altre: una conseqüència, una precisió, una comparació o una premissa que cal corregir.
-- Deixa que l'usuari reprengui el tema amb pronoms i referències naturals quan el context ja sigui clar. No facis que cada torn torni a formular el tema complet.
-- Acaba quan el dubte estigui resolt. La majoria de mostres tindran dos o tres intercanvis; no hi ha una quota de torns.
-- Llegeix només els missatges de l'usuari. Han de formar un fil coherent que podria aparèixer en una conversa real.
+1. Comença amb una pregunta autònoma. La persona no ha de necessitar un títol, una secció, una fila ni un identificador intern.
+2. Respon al dubte a la primera frase. Explica la dada i el context mínim que n'evita una lectura equivocada.
+3. Escriu un seguiment només si una resposta anterior en desperta un de natural: «Aleshores…», «I això vol dir…?», «Quina diferència hi ha…?».
+4. Deixa que l'usuari reprengui el tema amb «això», «llavors» o un nom curt quan el context ja és clar.
+5. Tanca el fil quan s'ha resolt el dubte. No hi ha una quota de torns. Dos o tres intercanvis són freqüents; un o quatre també poden ser correctes.
 
-## Veu i precisió
+## Diferencia una conversa d'un qüestionari
 
-- Escriu català natural i clar. La naturalitat no vol dir afegir falques col·loquials artificials ni errors deliberats.
-- No atribueixis a l'assistent records, visites, família, gustos o experiències pròpies.
-- Separa el que el corpus afirma del que és tradició, hipòtesi, deducció o desconegut. Quan dues fonts discrepen, digues-ho sense triar-ne una arbitràriament.
-- No completis dades que la font no dona. Una resposta útil pot dir què se sap, què no se sap i quin és el límit.
-- No copiïs fragments extensos de fonts amb drets reservats. Registra sempre la procedència i les condicions de reutilització fora de la conversa.
+Llegeix només els torns d'usuari. Han de formar un fil: cada pregunta concreta, matisa o posa a prova el que s'acaba de respondre. Si les preguntes es poden reordenar sense canviar res, probablement són exercicis independents enganxats.
 
-## No acceptis
+Evita:
 
-- «Què explica la secció…?» o «què diu aquesta fitxa?» si l'usuari no té una necessitat documental explícita.
-- Preguntes sobre una fila, una secció, un gràfic o un apartat que només tenen sentit amb el document davant.
-- Respostes truncades, fragments que no contesten, llistes sense motiu o camps de base de dades.
-- Seguiments desconnectats, preguntes afegides només per assolir més torns o variants que repeteixen el mateix dubte.
-- Escenaris d'usuari inventats que introdueixen fets, motivacions personals o consells que la font no sosté.
+- preguntes sobre «la secció», «la fitxa», «aquesta fila» o «el gràfic» si la persona no expressa una necessitat documental;
+- seguiments que canvien de tema sense pont;
+- demanar una llista sense explicar què es vol saber-ne;
+- preguntes sí/no que només serveixen per extreure un fet trivial;
+- escenaris autobiogràfics inventats o falques com «estic molt emocionat»;
+- estirar una resposta amb preguntes redundants.
 
-## Revisió abans d'acceptar
+## Escriu respostes que resolguin el dubte
 
-- La pregunta inicial és autònoma i plausible?
-- La resposta resol el dubte de seguida?
-- Cada seguiment surt d'un detall concret de la resposta anterior?
-- Cada afirmació és fidel a la font i als seus límits?
-- El diàleg sona natural si només llegeixo els torns de l'usuari?
-- La conversa aporta una forma útil de preguntar o entendre, en lloc de repetir-ne una d'existent?
+- No comencis amb un fragment que depengui de la pregunta, com «I dos topònims que en surten».
+- Separa fet documentat, tradició, interpretació i hipòtesi.
+- Si les fonts discrepen, presenta les versions i deixa clar si la discrepància continua oberta.
+- Si no hi ha resposta, digues què se sap i què no permet afirmar la font.
+- No diguis «el corpus diu» si una formulació directa és més natural.
+- No afegeixis informació només per fer la resposta més llarga.
+- No atribueixis a l'assistent records, visites, família, gustos ni experiència personal.
 
-Si alguna resposta és «no», reescriu-la o deixa la unitat fora. No abaixis el criteri per augmentar el nombre de registres.
+## Porta editorial
+
+Puntua cada criteri **passa / falla**. No hi ha mitjana: qualsevol fallada implica reescriure o excloure.
+
+| Criteri | Passa si… |
+|---|---|
+| Motiu humà | Es pot explicar per què algú faria aquesta pregunta. |
+| Context suficient | La primera pregunta s'entén tota sola. |
+| Fil | Cada seguiment surt d'una resposta anterior i aporta una precisió nova. |
+| Veu | Els torns d'usuari sonen com una conversa, no com una pauta de lectura. |
+| Resposta directa | La primera frase respon el que s'ha preguntat. |
+| Precisió | La resposta respecta les fonts, les discrepàncies i els buits. |
+| Drets | Les condicions d'ús permeten el destí previst, o l'exemple queda només com a mostra interna marcada. |
+| No redundància | No hi ha una altra conversa que ensenyi el mateix amb gairebé les mateixes paraules. |
+
+La procedència i les decisions editorials s'escriuen en fitxers paral·lels. No entren al missatge de l'assistent.
