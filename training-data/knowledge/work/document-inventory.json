@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 2,
-    "in_progress": 2,
+    "in_progress": 3,
     "no_natural_question": 0,
-    "not_started": 1344
+    "not_started": 1343
   },
   "documents": [
     {
@@ -480,7 +480,7 @@
       "topic": "temes/costums/sant-antoni",
       "source": "premsa-andorrana",
       "status": "in_progress",
-      "conversation_count": 7,
+      "conversation_count": 8,
       "conversation_ids": [
         "benediccio-animals-sant-antoni-estat-actual-01",
         "escudella-andorra-la-vella-racions-confraria-01",
@@ -488,6 +488,7 @@
         "escudella-sant-antoni-variacio-local-01",
         "origen-ramader-sant-antoni-01",
         "recuperacions-escudella-sant-antoni-per-parroquia-01",
+        "sant-sebastia-sant-antoni-associacio-01",
         "vianda-canillo-encants-01"
       ],
       "reviewed_units": [
@@ -503,6 +504,8 @@
         "la fitxa no confirma si la benedicció d'animals continua avui ni on es fa",
         "totes les parròquies preparen escudella, però no consta si ho fan igual",
         "vianda està documentat a Canillo, però no consta si és exclusiu",
+        "sant Sebastià surt associat a Sant Antoni, però no consta si es feia una celebració conjunta",
+        "la Confraria de Sant Sebastià de Sant Julià feia assistència mútua, però no consta l'any de pesta",
         "la recuperació a Andorra la Vella als anys setanta i la primera vianda de Canillo el 1979 són casos diferents"
       ],
       "open_units": [
@@ -19530,9 +19533,11 @@
       "type": "article",
       "topic": "temes/societat/vida-civica",
       "source": "canturri-associacionisme-historic-2007",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "sant-sebastia-sant-antoni-associacio-01"
+      ],
       "reviewed_units": [],
       "open_units": [],
       "completion_note": "",
