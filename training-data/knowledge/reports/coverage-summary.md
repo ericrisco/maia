@@ -4,14 +4,14 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 
 - Fitxes article: **1348**.
 - Fitxers totals, inclosos índexs: **1477**.
-- Converses candidates: **52**.
+- Converses candidates: **53**.
 
 | Estat de revisió | Fitxes |
 |---|---:|
 | Revisades completes | 0 |
-| En curs | 10 |
+| En curs | 11 |
 | Revisades sense pregunta natural | 0 |
-| No començades | 1338 |
+| No començades | 1337 |
 
 ## Estat per tema
 
@@ -85,7 +85,7 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 | `temes/institucions/consell-general` | 84 | 84 | 0 | 0 | 0 |
 | `temes/institucions/coprincipat` | 33 | 33 | 0 | 0 | 0 |
 | `temes/institucions/govern` | 8 | 8 | 0 | 0 | 0 |
-| `temes/institucions/justicia` | 138 | 136 | 2 | 0 | 0 |
+| `temes/institucions/justicia` | 138 | 135 | 3 | 0 | 0 |
 | `temes/institucions/nacionalitat-i-residencia` | 18 | 18 | 0 | 0 | 0 |
 | `temes/institucions/patrimoni-institucional` | 6 | 6 | 0 | 0 | 0 |
 | `temes/institucions/petits-estats` | 2 | 2 | 0 | 0 | 0 |

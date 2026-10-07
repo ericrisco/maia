@@ -232,7 +232,8 @@
       "manuscrit-extracte-paragraf-deu-original-no-localitzat-01",
       "manuscrit-vers-brutails-habitants-vs-establerts-01",
       "quarta-penyores-mobles-vs-immobles-lectura-ambigua-01",
-      "collita-no-cobreix-deute-altres-bens-01"
+      "collita-no-cobreix-deute-altres-bens-01",
+      "quarta-relacio-manuscrit-instructa-1740-hipotesi-01"
     ],
     "reviewed_units": [
       "embargament de collita només després de la sega; possible relació amb calendari de feriats marcada com a hipòtesi, no com a regla coordinada",
@@ -254,12 +255,28 @@
       "límits del testimoni: els nou primers paràgrafs no apareixen a l’extracte; Brutails no en dona signatura ni localització, de manera que el corpus no en reconstrueix el contingut ni identifica on es conserva l’original",
       "divergència entre el manuscrit i la glossa de Brutails: el primer parla d’habitants i el comentari d’andorrans establerts; el corpus els atribueix separadament i no els considera equivalents per definició",
       "quarta part: a favor del creditor en la taxació de mobles i bestiar; direcció ambigua per als immobles, sense extrapolar-hi la regla mobiliària",
-      "insuficiència de collita hipotecada: la resta es podia cobrar sobre altres béns de la casa segons les clàusules de l’obligació; el manuscrit no concreta els béns ni el procediment"
+      "insuficiència de collita hipotecada: la resta es podia cobrar sobre altres béns de la casa segons les clàusules de l’obligació; el manuscrit no concreta els béns ni el procediment",
+      "relació amb l’aranzel de 1740: paral·lel entre la quarta de mobles/bestiar i la deducció a subhasta, i entre el tractament del blat; cap text no cita l’altre, de manera que la connexió resta hipòtesi"
     ],
     "open_units": [
-      "vigència i relacions: no consta si el procediment encara regia el 1740 ni què va passar entre els dos textos; no hi ha acte de derogació o substitució identificat",
+      "vigència: no consta si el procediment del manuscrit continuava en vigor el 1740 ni què va passar entre els textos; no s’ha identificat cap acte de derogació o substitució",
       "terminologia: què designa exactament «prom» i si és el mateix ofici que prohom jurat; sentit jurídic dels mots no contrastat amb diccionari",
-      "recobrament i pràctica: aplicació real del termini d’un any i un dia; coincidències i diferències amb la Instructa de 1740, sense continuïtat demostrada"
+      "pràctica: no consta si el termini antic d’un any i un dia es va aplicar en casos reals"
+    ]
+  },
+  "docs/temes/institucions/justicia/una-creu-al-prat-sis-sous-i-sis-diners.md": {
+    "status": "in_progress",
+    "conversation_ids": [
+      "quarta-relacio-manuscrit-instructa-1740-hipotesi-01"
+    ],
+    "reviewed_units": [
+      "quarta de l’aranzel del 1740: a petició del creditor, possible descompte d’una quarta part a la subhasta pública; or, plata, metall i grans exclosos i rebuts al valor just; comparació amb el manuscrit de procediment registrada com a hipòtesi"
+    ],
+    "open_units": [
+      "tarifa del 1740: actes, dietes i repartiment dels cobraments entre batlle, notari i nunci; conversió de rals i sous",
+      "embargament per creu: data mínima de 1657, ús documentat el 1822 i desaparició abans del 1904; termini, dies festius i béns consumibles",
+      "vendes i execució: defectes visibles i interns de cavalcadures; eines i animals del pagès; tarifa notarial de 1657 i continuïtats amb 1740",
+      "buits: preu dels capmassos, lectures d’OCR pendents de l’imprès, data en què desapareix l’embargament per creu i relació amb les tarifes actuals"
     ]
   }
 }
