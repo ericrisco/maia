@@ -5,15 +5,15 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 - Documents inventariats: **1477** (1348 articles).
 - Unitats estructurals totals: **62911**.
 - Unitats cobertes per converses aprovades: **91** (0.145%).
-- Unitats excloses amb motiu: **111**.
-- Unitats encara obertes: **62709**.
+- Unitats excloses amb motiu: **134**.
+- Unitats encara obertes: **62686**.
 - Converses candidates: **24**; aprovades: **24**; mostres de calibratge: **0** (no compten com a cobertura).
 
 ## Estat per tema
 
 | Tema | Documents | Unitats | Cobertes | Excloses | Obertes |
 |---|---:|---:|---:|---:|---:|
-| `(sense tema)` | 123 | 1707 | 1 | 0 | 1706 |
+| `(sense tema)` | 123 | 1707 | 1 | 23 | 1683 |
 | `societat/treball` | 1 | 7 | 0 | 0 | 7 |
 | `temes/costums/calendari-festiu` | 2 | 65 | 0 | 0 | 65 |
 | `temes/costums/caramelles` | 1 | 18 | 0 | 0 | 18 |
@@ -143,7 +143,7 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 
 ## Exclusions per motiu
 
-- `duplicate`: 5.
-- `excluded_rights`: 32.
-- `no_natural_question`: 3.
-- `not_knowledge`: 71.
+- `duplicate`: 10.
+- `excluded_rights`: 34.
+- `no_natural_question`: 5.
+- `not_knowledge`: 85.

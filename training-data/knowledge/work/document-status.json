@@ -1015,13 +1015,13 @@
       "title": "Llegendes — índex de fitxes",
       "type": "index",
       "topic": "",
-      "status": "in_progress",
+      "status": "complete",
       "unit_count": 24,
       "covered_unit_ids": [
         "docs/temes/cultura/llegendes/llegendes-index-de-fitxes.md#unit-0018"
       ],
-      "excluded_unit_count": 0,
-      "open_unit_count": 23,
+      "excluded_unit_count": 23,
+      "open_unit_count": 0,
       "conversation_ids": [
         "dama-bruixa-verge-i-hipotesi-camiade-001"
       ]
