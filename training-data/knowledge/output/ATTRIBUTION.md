@@ -37,6 +37,7 @@ el BOPA no implica cap suport al projecte. No s'atribueix una llicència global 
 - Adaptació de la transcripció digital del Corpus des actes royaux de la France médiévale (CARo), fitxa 860, 19 de novembre de 860. Edició digital reutilitzable segons la Licence Etalab 2.0; no es redistribueix una edició nova del llibre de 1943.
 - Adaptació de l’article «Andorra women’s national basketball team» de la Viquipèdia en anglès, llicència CC BY-SA 4.0. Cal conservar l’atribució i compartir l’adaptació amb la mateixa llicència.
 - Adaptació de l’article «Dama Blanca d’Aubinyà» de la Viquipèdia en català, llicència CC BY-SA 4.0. Cal conservar l’atribució i compartir l’adaptació amb la mateixa llicència.
+- Adaptació de l’article «Francisco José Catalán de Ocón» de la Viquipèdia en castellà, llicència CC BY-SA 4.0. Cal conservar l’atribució i compartir l’adaptació amb la mateixa llicència.
 - Adaptació de l’article «Selecció d’hoquei sobre patins masculina d’Andorra» de la Viquipèdia en català, llicència CC BY-SA 4.0. Cal conservar l’atribució i compartir l’adaptació amb la mateixa llicència.
 - Adaptació de «Festes de l'ossa a Andorra», Viquipèdia en català, llicència CC BY-SA 4.0. Cal conservar l'atribució i compartir igual.
 - Adaptació de «La marratxa» i «Ball de la Marratxa», Viquipèdia en català, llicència CC BY-SA 4.0. Cal conservar l'atribució i compartir igual.
