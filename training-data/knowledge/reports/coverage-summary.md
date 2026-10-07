@@ -4,10 +4,10 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 
 - Documents inventariats: **1477** (1348 articles).
 - Unitats estructurals totals: **62911**.
-- Unitats cobertes per converses aprovades: **107** (0.170%).
+- Unitats cobertes per converses aprovades: **110** (0.175%).
 - Unitats excloses amb motiu: **1183**.
-- Unitats encara obertes: **61621**.
-- Registres: **25**; aprovats: **25**; mostres de calibratge: **0** (no compten com a cobertura).
+- Unitats encara obertes: **61618**.
+- Registres: **26**; aprovats: **26**; mostres de calibratge: **0** (no compten com a cobertura).
 
 ## Estat per tema
 
@@ -98,7 +98,7 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 | `temes/llengua/manlleus` | 4 | 272 | 0 | 0 | 272 |
 | `temes/llengua/morfosintaxi` | 3 | 63 | 0 | 0 | 63 |
 | `temes/llengua/onomastica` | 3 | 99 | 0 | 0 | 99 |
-| `temes/llengua/politica-linguistica` | 13 | 1288 | 0 | 0 | 1288 |
+| `temes/llengua/politica-linguistica` | 13 | 1288 | 3 | 0 | 1285 |
 | `temes/llengua/registres` | 1 | 14 | 0 | 0 | 14 |
 | `temes/llengua/tractament` | 1 | 30 | 0 | 0 | 30 |
 | `temes/persones` | 43 | 1167 | 0 | 0 | 1167 |

@@ -12832,12 +12832,18 @@
       "title": "El dipòsit legal d'aquesta edició és AND. 000-2019",
       "type": "article",
       "topic": "temes/llengua/politica-linguistica",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 293,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/llengua/politica-linguistica/el-diposit-legal-daquesta-edicio-es-and-000-2019.md#unit-0023",
+        "docs/temes/llengua/politica-linguistica/el-diposit-legal-daquesta-edicio-es-and-000-2019.md#unit-0025",
+        "docs/temes/llengua/politica-linguistica/el-diposit-legal-daquesta-edicio-es-and-000-2019.md#unit-0026"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 293,
-      "conversation_ids": []
+      "open_unit_count": 290,
+      "conversation_ids": [
+        "indicador-linguistic-comparativa-2014-2018-001"
+      ]
     },
     "docs/temes/llengua/politica-linguistica/el-model-del-2009-comprovat.md": {
       "title": "El model del 2009, comprovat",

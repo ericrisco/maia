@@ -29,16 +29,16 @@ Assistent: Per a una persecució criminal no calia aquella autorització. La pro
 
 La pregunta no demana que l'assistent expliqui una regla titulada per l'editor. El seguiment explora la distinció important entre les vies civil i criminal.
 
-### De «què indica aquesta fila» a aclarir una contradicció
+### De «què indica aquesta fila» a una comparació que algú faria
 
 ```text
-Usuari: En l'enquesta d'usos lingüístics del 2018, el gràfic i el text semblen intercanviar les xifres del català i del castellà. Quina dada és la bona?
-Assistent: El text coincideix amb la sèrie de l'Estadística: el 2018 l'indicador és 56,8 per al català i 57,6 per al castellà. El gràfic etiqueta les dues xifres al revés.
-Usuari: El gràfic també s'equivoca amb les dades del 2014?
-Assistent: No en aquell punt: el 2014 la sèrie dona 57,7 per al català i 56,4 per al castellà. La discrepància documentada és la inversió dels valors del 2018 al gràfic.
+Usuari: El 2018, el català ja havia tornat a superar el castellà a l'enquesta?
+Assistent: No. L'indicador era 56,8 per al català i 57,6 per al castellà, així que el castellà encara quedava una mica per davant.
+Usuari: I el 2014 qui anava al davant?
+Assistent: El català, amb 57,7 davant de 56,4 del castellà.
 ```
 
-El diàleg posa nom al fenomen i a la pregunta real: quina versió cal prendre per bona. La dada prové de l'API estadística i no reprodueix text de l'informe.
+La persona pregunta per l'evolució i rep la comparació directament. Les xifres provenen de l'API pública del Departament d'Estadística. La pregunta sobre si el gràfic del document està equivocat queda fora de l'export mentre l'informe que permet comprovar-ho tingui redistribució marcada com a «no».
 
 ### De la contradicció aparent a la diferència entre contractes
 
