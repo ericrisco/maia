@@ -13703,6 +13703,8 @@
         "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0038",
         "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0039",
         "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0040",
+        "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0042",
+        "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0045",
         "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0048",
         "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0049",
         "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0051",
@@ -13722,7 +13724,7 @@
         "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0070"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 17,
+      "open_unit_count": 15,
       "conversation_ids": [
         "aportacions-privades-partits-limits-i-treball-voluntari-001",
         "consell-general-minim-maxim-constitucio-i-llei-001",
@@ -13739,6 +13741,7 @@
         "referendum-reforma-constitucional-resultat-i-blancs-001",
         "referendums-consultiu-i-reforma-convocatoria-pregunta-data-001",
         "repartiment-escons-consell-general-resta-mes-elevada-001",
+        "requisits-elegibilitat-inelegibilitats-consell-general-001",
         "signatures-presentacio-candidatures-consell-general-001",
         "sorteig-electoral-constancia-dus-historic-001",
         "subvencio-electoral-imports-per-vot-i-escó-topall-001",
