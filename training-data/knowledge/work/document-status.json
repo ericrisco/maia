@@ -887,6 +887,8 @@
         "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0022",
         "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0023",
         "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0024",
+        "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0025",
+        "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0026",
         "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0028",
         "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0030",
         "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0031",
@@ -896,10 +898,11 @@
         "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0038"
       ],
       "excluded_unit_count": 12,
-      "open_unit_count": 4,
+      "open_unit_count": 2,
       "conversation_ids": [
         "dama-blanca-esbart-i-escultura-001",
         "dama-blanca-hipotesis-origen-003",
+        "dama-blanca-referencia-camiade-001",
         "dama-blanca-relat-i-llop-001",
         "dama-blanca-toponimia-oficial-001"
       ]
