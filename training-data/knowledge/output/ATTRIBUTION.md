@@ -20,4 +20,5 @@ el BOPA no implica cap suport al projecte. No s'atribueix una llicència global 
 - Departament d’Estadística d’Andorra, béns immobles transmesos per tipus de comprador i tipologia, dades obtingudes de l’API pública, captura del 18-09-2026. Informació estadística pròpia sota CC BY 4.0; cal atribució i no suggerir patrocini.
 - Departament d’Estadística d’Andorra, ensenyament per sistema educatiu, divisió 253; dades obtingudes de l’API pública, captura del 18-09-2026. Informació estadística pròpia sota CC BY 4.0; cal atribució i no suggerir patrocini.
 - Viquipèdia en català, article «Dama Blanca d’Aubinyà», llicència CC BY-SA 4.0. Resum i adaptació per a Maia. Cal mantenir l’atribució i compartir qualsevol adaptació sota CC BY-SA 4.0; no implica aval de Wikimedia.
+- Viquipèdia en català, article «Marratxa», CC BY-SA 4.0; resum i adaptació per a Maia. Cal atribució i compartir l'adaptació sota CC BY-SA 4.0; no implica aval de Wikimedia.
 - Viquipèdia en català, articles «Ball de l'ossa d'Encamp» i «Última ossa d'Ordino», CC BY-SA 4.0; resum i adaptació per a Maia. Cal atribució i compartir l'adaptació sota CC BY-SA 4.0; no implica aval de Wikimedia.
