@@ -13879,6 +13879,8 @@
         "docs/temes/societat/demografia/quaranta-quatre-pobles.md#unit-0028",
         "docs/temes/societat/demografia/quaranta-quatre-pobles.md#unit-0029",
         "docs/temes/societat/demografia/quaranta-quatre-pobles.md#unit-0031",
+        "docs/temes/societat/demografia/quaranta-quatre-pobles.md#unit-0032",
+        "docs/temes/societat/demografia/quaranta-quatre-pobles.md#unit-0033",
         "docs/temes/societat/demografia/quaranta-quatre-pobles.md#unit-0034",
         "docs/temes/societat/demografia/quaranta-quatre-pobles.md#unit-0038",
         "docs/temes/societat/demografia/quaranta-quatre-pobles.md#unit-0039",
@@ -13886,10 +13888,11 @@
         "docs/temes/societat/demografia/quaranta-quatre-pobles.md#unit-0043"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 17,
+      "open_unit_count": 15,
       "conversation_ids": [
         "poblacio-44-entrades-nuclis-mes-petits-001",
         "poblacio-etiqueta-sant-julia-dues-parroquies-001",
+        "poblacio-massana-ordino-creixement-relatiu-001",
         "poblacio-pas-casa-i-canillo-001",
         "poblacio-pobles-amb-menys-habitants-001",
         "poblacio-pobles-creixement-proporcional-001",
