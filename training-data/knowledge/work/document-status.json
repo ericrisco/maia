@@ -13756,12 +13756,17 @@
       "title": "Demografia",
       "type": "article",
       "topic": "temes/societat/demografia",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 14,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/societat/demografia/demografia.md#unit-0001",
+        "docs/temes/societat/demografia/demografia.md#unit-0002"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 14,
-      "conversation_ids": []
+      "open_unit_count": 12,
+      "conversation_ids": [
+        "demografia-dues-series-encamp-2026-001"
+      ]
     },
     "docs/temes/societat/demografia/dues-maneres-de-comptar-la-poblacio.md": {
       "title": "Dues maneres de comptar la població",
@@ -13770,11 +13775,15 @@
       "status": "in_progress",
       "unit_count": 19,
       "covered_unit_ids": [
-        "docs/temes/societat/demografia/dues-maneres-de-comptar-la-poblacio.md#unit-0002"
+        "docs/temes/societat/demografia/dues-maneres-de-comptar-la-poblacio.md#unit-0001",
+        "docs/temes/societat/demografia/dues-maneres-de-comptar-la-poblacio.md#unit-0002",
+        "docs/temes/societat/demografia/dues-maneres-de-comptar-la-poblacio.md#unit-0015",
+        "docs/temes/societat/demografia/dues-maneres-de-comptar-la-poblacio.md#unit-0017"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 18,
+      "open_unit_count": 15,
       "conversation_ids": [
+        "demografia-dues-series-encamp-2026-001",
         "poblacio-per-poble-registrada-vs-estimada-001"
       ]
     },
