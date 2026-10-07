@@ -554,14 +554,22 @@
       "topic": "temes/costums/sant-antoni",
       "source": "premsa-andorrana",
       "status": "in_progress",
-      "conversation_count": 1,
+      "conversation_count": 2,
       "conversation_ids": [
-        "sant-antoni-absent-calendari-judicial-1902-01"
+        "sant-antoni-absent-calendari-judicial-1902-01",
+        "sant-antoni-animals-i-vianda-canillo-01"
       ],
       "reviewed_units": [
-        "l’escudella de Sant Antoni el 17 de gener; diferència entre la fitxa de la festa i la llista judicial"
+        "relació de Sant Antoni amb benedicció, descans i alimentació del bestiar; àpat comunitari posterior; nom vianda i primera edició popular de Canillo el 1979"
       ],
-      "open_units": [],
+      "open_units": [
+        "dates, llocs, organització i noms locals de les celebracions de cada parròquia",
+        "si avui es manté la benedicció dels animals i on",
+        "si vianda és exclusiu de Canillo i quina és la seva extensió semàntica",
+        "recuperació dels encants de Canillo cap a l’any 2000 i paper de Josep Casal i del Comú",
+        "Sant Sebastià del 20 de gener i relació amb la confraria de Sant Julià",
+        "sant Antoni del porquet i fonts etnogràfiques pendents"
+      ],
       "completion_note": "",
       "reason": ""
     },
