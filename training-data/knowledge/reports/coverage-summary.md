@@ -4,21 +4,21 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 
 - Fitxes article: **1348**.
 - Fitxers totals, inclosos índexs: **1477**.
-- Converses candidates: **6**.
+- Converses candidates: **7**.
 
 | Estat de revisió | Fitxes |
 |---|---:|
 | Revisades completes | 0 |
-| En curs | 3 |
+| En curs | 4 |
 | Revisades sense pregunta natural | 0 |
-| No començades | 1345 |
+| No començades | 1344 |
 
 ## Estat per tema
 
 | Tema | Articles | No començades | En curs | Completes | Sense pregunta natural |
 |---|---:|---:|---:|---:|---:|
 | `societat/treball` | 1 | 1 | 0 | 0 | 0 |
-| `temes/costums/calendari-festiu` | 2 | 2 | 0 | 0 | 0 |
+| `temes/costums/calendari-festiu` | 2 | 1 | 1 | 0 | 0 |
 | `temes/costums/caramelles` | 1 | 1 | 0 | 0 | 0 |
 | `temes/costums/danses` | 7 | 5 | 2 | 0 | 0 |
 | `temes/costums/falles` | 1 | 1 | 0 | 0 | 0 |

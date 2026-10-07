@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 3,
+    "in_progress": 4,
     "no_natural_question": 0,
-    "not_started": 1345
+    "not_started": 1344
   },
   "documents": [
     {
@@ -43,9 +43,11 @@
       "type": "article",
       "topic": "temes/costums/calendari-festiu",
       "source": "premsa-andorrana",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "ordino-ossa-cronologies-contradictories-001"
+      ],
       "reviewed_units": [],
       "open_units": [],
       "completion_note": "",
@@ -128,13 +130,14 @@
       "topic": "temes/costums/danses",
       "source": "wikipedia-ball-ossa-encamp",
       "status": "in_progress",
-      "conversation_count": 6,
+      "conversation_count": 7,
       "conversation_ids": [
         "ball-ossa-arguments-divergents-001",
         "ball-ossa-dallaires-paper-001",
         "ball-ossa-marsol-modernitzacio-001",
         "ball-ossa-ritus-iniciatic-001",
         "festes-ossa-inscripcio-unesco-001",
+        "ordino-ossa-cronologies-contradictories-001",
         "ossa-encamp-disfressa-materials-001"
       ],
       "reviewed_units": [
@@ -218,16 +221,18 @@
       "topic": "temes/costums/danses",
       "source": "wikipedia-llegendes-andorra",
       "status": "in_progress",
-      "conversation_count": 1,
+      "conversation_count": 2,
       "conversation_ids": [
-        "festes-ossa-inscripcio-unesco-001"
+        "festes-ossa-inscripcio-unesco-001",
+        "ordino-ossa-cronologies-contradictories-001"
       ],
       "reviewed_units": [
         "Les Festes de l'Os dels Pirineus van ser inscrites el 2022 a la Llista Representativa de la UNESCO en una candidatura conjunta d'Andorra i França.",
-        "El Ball de l'Ossa d'Encamp i l'Última Ossa d'Ordino consten com a representacions andorranes de la candidatura."
+        "El Ball de l'Ossa d'Encamp i l'Última Ossa d'Ordino consten com a representacions andorranes de la candidatura.",
+        "Les fonts discrepen sobre la primera represa d'Ordino (1978 o 1985) i la següent aturada (1992 o mitjan anys noranta); coincideixen en la recuperació de 2017, però no hi ha font per arbitrar-ho."
       ],
       "open_units": [
-        "La definició, el repartiment territorial, les màscares, les trames, les dates i els canvis històrics de les festes de l'ossa encara no estan coberts en converses actives.",
+        "La definició, el repartiment territorial, les màscares, les trames i els canvis històrics de les festes de l'ossa encara no estan coberts en converses actives.",
         "Les condicions de redistribució de la notícia governamental i de la fitxa UNESCO impedeixen exportar aquest candidat sense una base reutilitzable o autorització."
       ],
       "completion_note": "",
