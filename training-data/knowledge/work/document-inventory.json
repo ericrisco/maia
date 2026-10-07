@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 11,
+    "in_progress": 12,
     "no_natural_question": 0,
-    "not_started": 1337
+    "not_started": 1336
   },
   "documents": [
     {
@@ -93,16 +93,20 @@
       "type": "article",
       "topic": "temes/costums/caramelles",
       "source": "premsa-andorrana",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "caramelles-sant-julia-recorregut-i-cantaires-01"
+      ],
+      "reviewed_units": [
+        "Sant Julià: recorregut de la Coral Rocafort, parades i durada aproximada reportada el 2026; hi participen cantaires adults i Petits Cantaires.",
+        "El llistat complet de carrers no consta al corpus."
+      ],
       "open_units": [
-        "etimologia de caramelles i relació amb l’instrument de canya",
-        "antiguitat, origen medieval i context religiós: verificació de fonts",
-        "diferències entre parròquies, grups participants i recorreguts actuals",
-        "cas de Sant Julià: recorregut de tres hores i organització",
-        "lletres cantades, enregistraments i elegibilitat per al corpus de parla"
+        "Caramelles com a cants de Pasqua i el canvi històric d’ous a donatius; origen, etimologia, repertori i lletres.",
+        "Diferències de pràctica i grups a Ordino i altres parròquies.",
+        "Data d’inici de les caramelles d’Ordino i documentació anterior a la Segona Guerra Mundial.",
+        "Drets de la premsa i del portal del Govern marcats com a no."
       ],
       "completion_note": "",
       "reason": ""
