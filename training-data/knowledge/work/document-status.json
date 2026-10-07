@@ -247,7 +247,8 @@
       "bibliografia recollida: Ysàs Trias 2016, Perramon 1994, Casanova 2005, volum del Govern 2019 i Junoy 1838; cap obra citada no forma part del corpus",
       "continuïtat: Encamp va modernitzar la representació amb el guió de Sícoris de 1959 i implicació del jovent; per a la represa d’Ordino el 2017 no consta la causa",
       "les festes d’Encamp i Ordino consten com a béns immaterials a l’inventari general del Govern; la inscripció UNESCO del 2022 és un reconeixement internacional diferent",
-      "l’Última Ossa d’Ordino va passar de la plaça del poble davant l’església de Sant Corneli i Sant Cebrià als jardins d’Areny-Plandolit a Sant Esteve, i després al desembre; la fitxa no data el trasllat"
+      "l’Última Ossa d’Ordino va passar de la plaça del poble davant l’església de Sant Corneli i Sant Cebrià als jardins d’Areny-Plandolit a Sant Esteve, i després al desembre; la fitxa no data el trasllat",
+      "Areny-Plandolit va fotografiar el ball a la plaça d’Ordino a principi del segle XX; la imatge i el seu fons encara no s’han identificat al corpus"
     ],
     "completion_note": "",
     "reason": ""
@@ -297,6 +298,14 @@
     "status": "in_progress",
     "reviewed_units": [
       "la reforma electoral de 1866 concedeix el vot als caps de casa; la casa és la unitat política i vota a través del seu cap"
+    ],
+    "completion_note": "",
+    "reason": ""
+  },
+  "docs/temes/historia/segle-xix/guillem-dareny-plandolit.md": {
+    "status": "in_progress",
+    "reviewed_units": [
+      "la fitxa de les festes de l’ossa li atribueix fotografies del ball a la plaça d’Ordino a principi del segle XX; no s’ha localitzat la imatge ni el fons"
     ],
     "completion_note": "",
     "reason": ""
