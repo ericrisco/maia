@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 0,
+    "in_progress": 1,
     "no_natural_question": 0,
-    "not_started": 1348
+    "not_started": 1347
   },
   "documents": [
     {
@@ -2269,11 +2269,23 @@
       "type": "article",
       "topic": "temes/economia/comerc",
       "source": "vilar-andorre-1904",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "vilar1904-recompte-bestiar-doble-001"
+      ],
+      "reviewed_units": [
+        "Vilar recull com a queixa dels veïns dels cantons francesos la sospita que les mateixes bèsties es comptaven més d'una vegada; el capítol no aporta cens, acta ni comprovació.",
+        "Vilar declara que va fer aprovar un vot el 5 d'octubre de 1904 per demanar un nou cens, verificar certificats d'origen i limitar temporalment l'entrada en franquícia; el llibre no en dona els resultats.",
+        "La fitxa esmenta els recomptes francesos de bestiar de 1898-1900, però no estableix que cobreixin el mateix univers que la queixa ni els compara amb ella."
+      ],
+      "open_units": [
+        "La regla francesa del terç del bestiar i la relació amb la quota espanyola proposada el 1895.",
+        "La comparació entre l'acusació de doble recompte i els censos francesos de 1898-1900; les fonts no indiquen si compten el mateix univers.",
+        "La cronologia de les franquícies franceses i espanyoles, incloses les peces de 1767, 1806, 1867 i 1895.",
+        "L'explicació del règim sense duanes pròpies i l'efecte sobre el comerç i el contraban.",
+        "Les fonts externes i els resultats del vot del Consell General dels Pirineus Orientals de 1904."
+      ],
       "completion_note": "",
       "reason": ""
     },
