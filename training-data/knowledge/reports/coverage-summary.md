@@ -5,7 +5,7 @@ L’inventari inclou tots els Markdown de `docs/temes/`, inclosos índexs. Una f
 - Fitxers Markdown inventariats: **1477**.
 - Fitxes `article`: **1348**.
 - Fitxers amb frontmatter invàlid: **0**.
-- Converses actives amb procedència: **101**.
+- Converses actives amb procedència: **102**.
 
 ## Estat de tots els fitxers
 
@@ -13,9 +13,9 @@ L’inventari inclou tots els Markdown de `docs/temes/`, inclosos índexs. Una f
 |---|---:|
 | Completats | 0 |
 | Exclosos per drets | 0 |
-| En curs | 5 |
+| En curs | 6 |
 | Sense pregunta natural | 0 |
-| No començats | 1472 |
+| No començats | 1471 |
 
 ## Estat de les fitxes article
 
@@ -23,9 +23,9 @@ L’inventari inclou tots els Markdown de `docs/temes/`, inclosos índexs. Una f
 |---|---:|
 | Completats | 0 |
 | Exclosos per drets | 0 |
-| En curs | 5 |
+| En curs | 6 |
 | Sense pregunta natural | 0 |
-| No començats | 1343 |
+| No començats | 1342 |
 
 ## Estat per tema
 
@@ -85,7 +85,7 @@ L’inventari inclou tots els Markdown de `docs/temes/`, inclosos índexs. Una f
 | `temes/historia/constitucio-1993` | 2 | 2 | 0 | 0 | 0 | 0 |
 | `temes/historia/contraban` | 2 | 2 | 0 | 0 | 0 | 0 |
 | `temes/historia/democratitzacio` | 3 | 3 | 0 | 0 | 0 | 0 |
-| `temes/historia/edat-mitjana` | 42 | 42 | 0 | 0 | 0 | 0 |
+| `temes/historia/edat-mitjana` | 42 | 41 | 1 | 0 | 0 | 0 |
 | `temes/historia/guerres-i-neutralitat` | 22 | 22 | 0 | 0 | 0 | 0 |
 | `temes/historia/historia-recent` | 7 | 7 | 0 | 0 | 0 | 0 |
 | `temes/historia/historiografia` | 11 | 11 | 0 | 0 | 0 | 0 |
@@ -163,5 +163,6 @@ L’inventari inclou tots els Markdown de `docs/temes/`, inclosos índexs. Una f
 - `docs/temes/costums/danses/la-marratxa.md` — 11 converses; 5 punts oberts.
 - `docs/temes/costums/meritxell/meritxell.md` — 1 converses; 5 punts oberts.
 - `docs/temes/cultura/museus-i-arxius/el-diposit-legal.md` — 77 converses; 3 punts oberts.
-- `docs/temes/historia/pareatge/el-pareatge.md` — 6 converses; 8 punts oberts.
+- `docs/temes/historia/edat-mitjana/per-aquests-malfets-i-per-la-redempcio-de-la-seva-anima.md` — 1 converses; 5 punts oberts.
+- `docs/temes/historia/pareatge/el-pareatge.md` — 7 converses; 8 punts oberts.
 - `docs/temes/historia/pareatge/el-segon-pareatge-desmunta-enclar-i-crea-el-notariat-1288.md` — 10 converses; 3 punts oberts.

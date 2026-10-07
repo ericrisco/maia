@@ -214,7 +214,8 @@
         "pareatge-segon-acord-1288-001",
         "pareatge-meritxell-coincidencia-data-001",
         "pareatge-armistici-o-fundacio-001",
-        "pareatge-vincle-foix-herencia-1208-001"
+        "pareatge-vincle-foix-herencia-1208-001",
+        "acte-1133-sous-donacio-no-venda-001"
       ],
       "covered_units": [
         "Data del Pareatge: 8-09-1278, en contrast amb la data tradicional del 7-09 atribuïda a la primera ballada de la Marratxa; la diferència no queda explicada.",
@@ -222,7 +223,8 @@
         "Segon Pareatge de 1288: va aclarir qüestions ambigües del primer i va ordenar aturar i retirar el castell començat a Sant Vicenç d'Enclar; no es presenta com a substitució completa ni se'n dona per provada l'execució.",
         "El Pareatge de 1278 comparteix data, 8 de setembre, amb la festa de Meritxell; les fonts no documenten relació causal ni permeten dir si és intencionada o casual.",
         "Interpretació del Pareatge de 1278: Palau i Martí el llegeix com un armistici que estableix sobirania compartida; la seva importància deriva també de la continuïtat posterior, i no d'haver creat l'Estat modern en un sol acte.",
-        "Cadena feudal cap a Foix: el 1208 Ermessenda va aportar la doble herència, inclòs el feu andorrà, en casar-se amb Roger Bernat II; aquesta transmissió s'explica per herència, no per conquesta."
+        "Cadena feudal cap a Foix: el 1208 Ermessenda va aportar la doble herència, inclòs el feu andorrà, en casar-se amb Roger Bernat II; aquesta transmissió s'explica per herència, no per conquesta.",
+        "Correcció de l'acte de 1133: els 1.200 sous els dona el bisbe al comte dins d'una transmissió motivada pels malfets reconeguts i la redempció de l'ànima; no es presenta com el preu d'una venda."
       ],
       "open_units": [
         "Revisar l'homenatge feudal, els successors de Foix, la contrasignatura atribuïda a Pere II i el rebuig andorrà de 1283.",
@@ -232,7 +234,7 @@
         "Consultar el text llatí, els estudis pendents, la contrasignatura, la carta de 1283 i l'original de 1288; documentar els buits que no es poden resoldre amb les fonts actuals.",
         "Revisar les altres clàusules del segon Pareatge de 1288 i les seves fonts; no limitar-ne el contingut a Enclar.",
         "Revisar la formulació exacta de les parts i clàusules del text de 1278 contra l'original llatí; distingir-ho de les interpretacions historiogràfiques.",
-        "Revisar les transferències anteriors a 1208 (988, 1133, 1176 i Caboet-Castellbò), inclosa la correcció del pagament i del jurament de 1133."
+        "Revisar els documents de 988 i 1176 i els trams Caboet-Castellbò de la cadena feudal; la correcció de 1133 ja té una conversa pròpia."
       ]
     },
     "docs/temes/historia/pareatge/el-segon-pareatge-desmunta-enclar-i-crea-el-notariat-1288.md": {
@@ -281,6 +283,22 @@
         "Revisar el santuari nou de 1976, la rèplica de la imatge, l'autoria de Sergi Mas i el mural de Jerusalem de 1994.",
         "Revisar la llista de dies festius judicials de 1902 i el que acredita, sense atribuir-li noms o significats que no conté.",
         "Verificar amb l'acta original de 1873 si hi ha relació documentada entre la festivitat i el Pareatge; no assumir causalitat."
+      ]
+    },
+    "docs/temes/historia/edat-mitjana/per-aquests-malfets-i-per-la-redempcio-de-la-seva-anima.md": {
+      "status": "in_progress",
+      "conversation_ids": [
+        "acte-1133-sous-donacio-no-venda-001"
+      ],
+      "covered_units": [
+        "Naturalesa de l'acte i pagament: el document el motiva pels malfets i la redempció de l'ànima; el bisbe dona 1.200 sous al comte. La interpretació com a venda encoberta no queda resolta."
+      ],
+      "open_units": [
+        "Cobrir què es transmet (censos, usatges i alous), la fórmula de transmissió total i el límit territorial des de Sant Serni.",
+        "Cobrir l'ordre als homes d'Andorra: donació, ajut i defensa del bisbe i jurament per sagrament.",
+        "Cobrir emprament i emparament a les terres del comte, la clàusula de no-regressió i els límits del que es pot inferir.",
+        "Cobrir la doble sanció civil i espiritual, els signants i la data del document.",
+        "Representar els buits: identificació del bisbe, ubicació de Sant Serni, execució dels drets d'ús, lectures de l'OCR i drets pendents de l'edició de 1920."
       ]
     }
   },
