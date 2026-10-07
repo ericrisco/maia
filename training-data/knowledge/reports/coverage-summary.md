@@ -4,7 +4,7 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 
 - Fitxes article: **1348**.
 - Fitxers totals, inclosos índexs: **1477**.
-- Converses candidates: **34**.
+- Converses candidates: **35**.
 
 | Estat de revisió | Fitxes |
 |---|---:|

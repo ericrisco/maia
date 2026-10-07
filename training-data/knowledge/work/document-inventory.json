@@ -1006,12 +1006,14 @@
       "topic": "temes/cultura",
       "source": "estadistica-ad",
       "status": "in_progress",
-      "conversation_count": 1,
+      "conversation_count": 2,
       "conversation_ids": [
+        "cultura-biblioteques-joves-2019-2024-001",
         "cultura-cinema-2019-2024-001"
       ],
       "reviewed_units": [
-        "Cinema attendance in the cultural habits survey rises from 57.4% in 2019 to 66.3% in 2024 (+8.9 points), across all ages, with the largest increase among ages 45-64 (+12.8) and 65+ (+10.4). The survey has only two waves, so this is not an annual trend and does not establish a cause."
+        "Cinema attendance in the cultural habits survey rises from 57.4% in 2019 to 66.3% in 2024 (+8.9 points), across all ages, with the largest increase among ages 45-64 (+12.8) and 65+ (+10.4). The survey has only two waves, so this is not an annual trend and does not establish a cause.",
+        "Biblioteca: l'ús entre 15-29 anys baixa del 55,6% el 2019 al 40,6% el 2024 (-15 punts); en total, del 36,4% al 30,7%. Per edat, -4,9 punts (30-44), -0,3 (45-64) i -8,1 (65+). Són dues onades, no una sèrie anual."
       ],
       "open_units": [
         "The remaining comparisons for sport, theatre, leisure reading, libraries, museums, and participation in 11+ cultural activities are not yet covered.",
