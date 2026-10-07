@@ -15701,12 +15701,13 @@
       "topic": "temes/institucions/relacions-exteriors",
       "source": "eur-lex-adequacio-dades-andorra-2010",
       "status": "in_progress",
-      "conversation_count": 18,
+      "conversation_count": 19,
       "conversation_ids": [
         "adequacio-2010-abast-article2-16",
         "adequacio-2010-aplicacio-i-supervisio-15",
         "adequacio-2010-base-legal-agencia-02",
         "adequacio-2010-consultes-organs-europeus-17",
+        "adequacio-2010-coprincipat-i-supervisio-18",
         "adequacio-2010-criteris-avaluacio-i-no-discriminacio-13",
         "adequacio-2010-entrada-en-vigor-tractats-04",
         "adequacio-2010-excepcions-recursos-apda-12",
@@ -15741,7 +15742,8 @@
         "considerant 8: disposicions de protecció de dades en normativa financera, sanitària i de registres públics; la decisió no n'enumera les lleis",
         "articles 5–7 de la Decisió 2010/625/UE: seguiment de la Comissió, compliment pels estats membres abans de 2011 i destinataris de l'acte",
         "article 2: l'adequació del destí no altera les altres condicions i restriccions de la Directiva sobre tractaments dins dels estats membres",
-        "considerants 14–15: consulta al Supervisor Europeu de Protecció de Dades i distinció entre l'opinió del Grup de l'article 29 i la del Comitè de l'article 31"
+        "considerants 14–15: consulta al Supervisor Europeu de Protecció de Dades i distinció entre l'opinió del Grup de l'article 29 i la del Comitè de l'article 31",
+        "considerant 5 i 10: coprincipat parlamentari, identitat dels coprínceps i supervisió de dades atribuïda a l'APDA, no als coprínceps"
       ],
       "open_units": [
         "auditar la cobertura de la resta de la Decisió 2010/625/UE i de la seva versió consolidada del 2016"
