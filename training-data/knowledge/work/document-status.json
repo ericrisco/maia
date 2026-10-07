@@ -99,12 +99,18 @@
     ]
   },
   "docs/temes/costums/caramelles/les-caramelles.md": {
-    "status": "not_started",
+    "status": "in_progress",
     "open_units": [
       "Caramelles com a cants de Pasqua i el canvi històric d’ous a donatius; origen, etimologia, repertori i lletres.",
       "Diferències de pràctica i grups a Ordino i altres parròquies.",
       "Data d’inici de les caramelles d’Ordino i documentació anterior a la Segona Guerra Mundial.",
       "Drets de la premsa i del portal del Govern marcats com a no."
+    ],
+    "conversation_ids": [
+      "caramelles-sant-julia-recorregut-i-data-001"
+    ],
+    "reviewed_units": [
+      "Sant Julià: la Coral Rocafort recorre carrers i s’atura a places o sota balcons per cantar i recollir donatius; se celebra el diumenge següent a Pasqua."
     ]
   },
   "docs/temes/institucions/justicia/un-fadri-sense-casa-si-que-es-pot-emparar.md": {

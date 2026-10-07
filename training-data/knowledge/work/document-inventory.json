@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 4,
+    "in_progress": 5,
     "no_natural_question": 0,
-    "not_started": 1344
+    "not_started": 1343
   },
   "documents": [
     {
@@ -89,10 +89,14 @@
       "type": "article",
       "topic": "temes/costums/caramelles",
       "source": "premsa-andorrana",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "caramelles-sant-julia-recorregut-i-data-001"
+      ],
+      "reviewed_units": [
+        "Sant Julià: la Coral Rocafort recorre carrers i s’atura a places o sota balcons per cantar i recollir donatius; se celebra el diumenge següent a Pasqua."
+      ],
       "open_units": [
         "Caramelles com a cants de Pasqua i el canvi històric d’ous a donatius; origen, etimologia, repertori i lletres.",
         "Diferències de pràctica i grups a Ordino i altres parròquies.",
