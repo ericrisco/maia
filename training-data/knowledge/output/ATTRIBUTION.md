@@ -21,6 +21,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - J.-A. Brutails, La Coutume d'Andorre (1904), cap. VII, pp. 239–245; digitalització Gallica BnF.
 - J.-A. Brutails, La Coutume d'Andorre (1904), cap. VII, pp. 242–244; digitalització Gallica BnF.
 - J.-A. Brutails, La Coutume d'Andorre (1904), cap. VII, secció «Justice politique», pp. 239–245; digitalització Gallica BnF.
+- J.-A. Brutails, La Coutume d’Andorre (1904), cap. VII, p. 244; digitalització Gallica BnF.
 - J.-A. Brutails, La Coutume d’Andorre (1904), cap. VII, p. 251; digitalització Gallica BnF.
 - J.-A. Brutails, La Coutume d’Andorre (1904), cap. VII, p. 276; digitalització Gallica BnF.
 
