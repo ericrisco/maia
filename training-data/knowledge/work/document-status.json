@@ -731,12 +731,21 @@
       "title": "Sant Romà de les Bons",
       "type": "article",
       "topic": "temes/cultura/arquitectura",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 15,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/cultura/arquitectura/sant-roma-de-les-bons.md#unit-0001",
+        "docs/temes/cultura/arquitectura/sant-roma-de-les-bons.md#unit-0002",
+        "docs/temes/cultura/arquitectura/sant-roma-de-les-bons.md#unit-0004",
+        "docs/temes/cultura/arquitectura/sant-roma-de-les-bons.md#unit-0005",
+        "docs/temes/cultura/arquitectura/sant-roma-de-les-bons.md#unit-0006",
+        "docs/temes/cultura/arquitectura/sant-roma-de-les-bons.md#unit-0008"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 15,
-      "conversation_ids": []
+      "open_unit_count": 9,
+      "conversation_ids": [
+        "sant-roma-art-i-estrats-historics-001"
+      ]
     },
     "docs/temes/cultura/arquitectura/sant-serni-de-canillo.md": {
       "title": "Sant Serni de Canillo",
