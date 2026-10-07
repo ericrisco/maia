@@ -598,12 +598,22 @@
       "title": "Els estripagecs",
       "type": "article",
       "topic": "temes/cultura/arquitectura",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 33,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0001",
+        "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0003",
+        "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0004",
+        "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0012",
+        "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0014",
+        "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0017",
+        "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0025"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 33,
-      "conversation_ids": []
+      "open_unit_count": 26,
+      "conversation_ids": [
+        "estripagecs-circuit-i-funcio-001"
+      ]
     },
     "docs/temes/cultura/arquitectura/espai-columba.md": {
       "title": "L'Espai Columba",
