@@ -144,6 +144,6 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 ## Exclusions per motiu
 
 - `duplicate`: 11.
-- `excluded_rights`: 527.
+- `excluded_rights`: 528.
 - `no_natural_question`: 8.
-- `not_knowledge`: 307.
+- `not_knowledge`: 306.
