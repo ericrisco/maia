@@ -13764,13 +13764,15 @@
         "docs/temes/societat/demografia/demografia.md#unit-0003",
         "docs/temes/societat/demografia/demografia.md#unit-0004",
         "docs/temes/societat/demografia/demografia.md#unit-0005",
+        "docs/temes/societat/demografia/demografia.md#unit-0011",
         "docs/temes/societat/demografia/demografia.md#unit-0013"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 8,
+      "open_unit_count": 7,
       "conversation_ids": [
         "demografia-composicio-nacionalitats-juliol-2026-001",
         "demografia-dues-series-encamp-2026-001",
+        "demografia-nacionalitat-estrangera-juliol-2025-001",
         "demografia-nacionalitat-no-es-llengua-001"
       ]
     },
