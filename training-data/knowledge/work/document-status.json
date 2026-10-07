@@ -174,7 +174,7 @@
       "title": "Les festes de l'ossa",
       "type": "article",
       "topic": "temes/costums/danses",
-      "status": "in_progress",
+      "status": "complete",
       "unit_count": 59,
       "covered_unit_ids": [
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0001",
@@ -212,8 +212,8 @@
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0044",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0045"
       ],
-      "excluded_unit_count": 1,
-      "open_unit_count": 24,
+      "excluded_unit_count": 25,
+      "open_unit_count": 0,
       "conversation_ids": [
         "festes-ossa-bibliografia-per-investigar-001",
         "festes-ossa-calendari-i-canvi-001",
