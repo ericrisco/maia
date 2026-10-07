@@ -9,7 +9,7 @@
   "file_count": 1477,
   "article_count": 1348,
   "parse_error_count": 0,
-  "conversation_count": 94,
+  "conversation_count": 95,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 0,
@@ -11456,9 +11456,10 @@
       "topic": "temes/historia/pareatge",
       "source": "enciclopedia-segon-pariatge-1288",
       "status": "in_progress",
-      "conversation_count": 6,
+      "conversation_count": 7,
       "conversation_ids": [
         "pareatge-segon-acord-1288-001",
+        "segon-pareatge-1288-arbitres-001",
         "segon-pareatge-confirmacio-papal-pena-001",
         "segon-pareatge-decima-pagaments-001",
         "segon-pareatge-enclar-arfa-fortificacions-001",
@@ -11471,7 +11472,8 @@
         "Dècima d'Andorra: els fruits havien de cobrir 140 sous anuals al prevere de Sant Llorenç, 40 al prior de la Seu i 10 als preveres de la Seu; el sobrant corresponia al comte i als successors.",
         "Notariat: el bisbe i el comte nomenaven conjuntament un o més notaris, amb autoritat compartida; els ingressos de creació, vendes i contractes es repartien a meitats.",
         "Confirmació papal: el comte reclamava 50.000 sous; els àrbitres van considerar provada la confirmació dins del termini, van descartar la pena i van ordenar lliurar la butlla segellada en un any des de Pasqua, sota una pena de 1.000 morabatins.",
-        "Notari que falsifica o delinqueix: investigació conjunta del bisbe i el comte o els seus oficials; penes i composicions econòmiques repartides a parts iguals."
+        "Notari que falsifica o delinqueix: investigació conjunta del bisbe i el comte o els seus oficials; penes i composicions econòmiques repartides a parts iguals.",
+        "Context del segon Pariatge: sentència del 6-12-1288 entre Pere d'Urtx i Roger Bernat III; Ramon d'Urtx i Guillem Ramon de Josa hi intervenen com a àrbitres davant novetats i ambigüitats prèvies."
       ],
       "open_units": [
         "Revisar la prohibició de fortificar la roca d'Arfa i la diferència respecte d'Enclar.",
