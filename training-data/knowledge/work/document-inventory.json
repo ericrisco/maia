@@ -53,11 +53,12 @@
       "topic": "temes/costums/calendari-festiu",
       "source": "premsa-andorrana",
       "status": "in_progress",
-      "conversation_count": 3,
+      "conversation_count": 4,
       "conversation_ids": [
         "judici-contrabandistes-text-i-antiguitat-01",
         "operacio-carnestoltes-origen-autor-01",
-        "operacio-carnestoltes-viscera-escenari-01"
+        "operacio-carnestoltes-viscera-escenari-01",
+        "ossa-encamp-variants-i-reescriptura-01"
       ],
       "reviewed_units": [
         "tres farses d’Encamp i moment de representació",
@@ -66,7 +67,8 @@
         "judici dels contrabandistes: guió no localitzat i detalls escènics desconeguts",
         "antiguitat del judici d’Encamp situada al segle XIX o abans, sense any exacte",
         "operació del Carnestoltes incorporada pels volts de 1970",
-        "autor de l’operació no identificat"
+        "autor de l’operació no identificat",
+        "guió de Sícoris escrit el 1959; no s’estableix quan canvia la trama de l’ossa"
       ],
       "completion_note": "",
       "reason": ""
@@ -156,13 +158,16 @@
       "topic": "temes/costums/danses",
       "source": "wikipedia-ball-ossa-encamp",
       "status": "in_progress",
-      "conversation_count": 1,
+      "conversation_count": 2,
       "conversation_ids": [
-        "ossa-encamp-dallaires-i-ritus-de-pas-01"
+        "ossa-encamp-dallaires-i-ritus-de-pas-01",
+        "ossa-encamp-variants-i-reescriptura-01"
       ],
       "reviewed_units": [
         "dallaires presents durant tota la farsa i interpretats pels joves amb els seus noms",
-        "lectura iniciàtica atribuïda a Ysàs Trias: aprenentatge laboral i sexual, mort de l’ossa i reconeixement com a adults; tesi subjacent no consultada directament"
+        "lectura iniciàtica atribuïda a Ysàs Trias: aprenentatge laboral i sexual, mort de l’ossa i reconeixement com a adults; tesi subjacent no consultada directament",
+        "diferència entre el relat d’Amades de 1950 (ossa cerca mel al rusc) i la cacera de la versió descrita per Masegosa",
+        "Rossend Marsol escriu i modernitza una representació el 1959; les fonts no daten el canvi concret entre les dues trames"
       ],
       "completion_note": "",
       "reason": ""
@@ -1583,7 +1588,7 @@
       "topic": "temes/cultura/teatre",
       "source": "masegosa-teatre-andorra",
       "status": "in_progress",
-      "conversation_count": 9,
+      "conversation_count": 10,
       "conversation_ids": [
         "arlequins-canillo-judici-carnestoltes-01",
         "ball-ossa-versions-localitats-01",
@@ -1591,6 +1596,7 @@
         "judicis-carnaval-encamp-ordino-01",
         "operacio-carnestoltes-origen-autor-01",
         "operacio-carnestoltes-viscera-escenari-01",
+        "ossa-encamp-variants-i-reescriptura-01",
         "ossa-nom-i-ritual-pirinenc-01",
         "tralari-marieta-text-i-argument-01",
         "tralari-marieta-variant-canillo-01"
@@ -1606,7 +1612,8 @@
         "període anual de representació entre dissabte de Carnaval i dimecres de Cendra",
         "farsa del dimecres de Cendra a Canillo: judici del Carnestoltes, no procés real",
         "estat de les farses de Canillo documentat per la tesi de 2017 i límit temporal de l’afirmació",
-        "diferència entre les farses del judici d’Encamp i d’Ordino; recuperació d’Ordino el 2017 sense prova de continuïtat posterior"
+        "diferència entre les farses del judici d’Encamp i d’Ordino; recuperació d’Ordino el 2017 sense prova de continuïtat posterior",
+        "el guió de Rossend Marsol de 1959 i la diferència entre la trama d’Amades i la descrita posteriorment per Masegosa"
       ],
       "completion_note": "",
       "reason": ""
