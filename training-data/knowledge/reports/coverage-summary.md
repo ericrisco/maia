@@ -4,7 +4,7 @@ El recompte inclou tots els Markdown de `docs/temes/`, també índexs i altres f
 
 - Fitxers Markdown inventariats: **1477**.
 - Fitxes `article`: **1348**.
-- Converses candidates amb procedència: **43**.
+- Converses candidates amb procedència: **44**.
 
 ## Estat de tots els fitxers
 

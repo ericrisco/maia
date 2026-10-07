@@ -2,7 +2,7 @@
   "source_root": "docs/temes/",
   "file_count": 1477,
   "article_count": 1348,
-  "conversation_count": 43,
+  "conversation_count": 44,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 1,
@@ -16632,7 +16632,7 @@
       "topic": "temes/institucions/relacions-exteriors",
       "source": "jurisprudencia-ad",
       "status": "in_progress",
-      "conversation_count": 17,
+      "conversation_count": 18,
       "conversation_ids": [
         "antecedents-penals-residents-estranger-001",
         "bens-sense-propietari-identificat-001",
@@ -16640,6 +16640,7 @@
         "comissio-rogatoria-cost-gratuitat-i-desplaçaments-001",
         "cooperacio-penal-circulacio-vigilada-001",
         "cooperacio-penal-exculpacio-i-ús-informacio-001",
+        "cooperacio-penal-i-extradicio-lleis-diferents-001",
         "cooperacio-penal-portes-dentrada-001",
         "cooperacio-penal-transferencia-procediments-001",
         "cooperacio-penal-vuit-filtres-i-divisio-001",
@@ -16669,10 +16670,10 @@
         "Article 31: certificats d’antecedents de residents, llindar de processament/convocatòria, doble incriminació i exclusió d’inscripcions dispensades o cancel·lades.",
         "Article 40: circulació/entrada vigilada de drogues i altres béns i participació d’agent encobert, subjectes al Codi de procediment penal.",
         "Article 24: termini de mesures d’embargament preventiu fixat pel batlle segons gravetat i complexitat, prorrogable per motius greus.",
-        "Articles 21–22: objectes de prova tramesos a l’estat demandant versus altres béns restituïbles immediatament, i retorn obligatori quan la causa acaba fermament sense condemna."
+        "Articles 21–22: objectes de prova tramesos a l’estat demandant versus altres béns restituïbles immediatament, i retorn obligatori quan la causa acaba fermament sense condemna.",
+        "Llei 32/2021 versus Llei qualificada d’extradició de 1996: matèries diferents i caràcter subsidiari de la llei d’extradició respecte dels tractats; comprovació de vigència datada."
       ],
       "open_units": [
-        "Llei d’extradició de 1996 i diferència amb l’auxili judicial de la Llei 32/2021.",
         "Abast i límits de la instantània consolidada del 2026-09-12."
       ],
       "completion_note": "",
