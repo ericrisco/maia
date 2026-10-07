@@ -1010,13 +1010,16 @@
         "docs/temes/cultura/llegendes/llegendes.md#unit-0003",
         "docs/temes/cultura/llegendes/llegendes.md#unit-0004",
         "docs/temes/cultura/llegendes/llegendes.md#unit-0005",
+        "docs/temes/cultura/llegendes/llegendes.md#unit-0006",
+        "docs/temes/cultura/llegendes/llegendes.md#unit-0007",
         "docs/temes/cultura/llegendes/llegendes.md#unit-0008",
         "docs/temes/cultura/llegendes/llegendes.md#unit-0009"
       ],
       "excluded_unit_count": 1,
-      "open_unit_count": 5,
+      "open_unit_count": 3,
       "conversation_ids": [
-        "llegendes-estat-material-001"
+        "llegendes-estat-material-001",
+        "llegendes-hipotesi-figures-femenines-001"
       ]
     },
     "docs/temes/cultura/museus-i-arxius/abans-ho-decretava-el-govern.md": {
