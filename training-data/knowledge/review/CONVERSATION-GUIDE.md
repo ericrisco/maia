@@ -1,46 +1,48 @@
 # Guia editorial: converses que sonen humanes
 
-## La pregunta ha de néixer d'una situació
+## Comença pel dubte, no pel document
 
-Abans d'escriure-la, explica en una frase quin dubte té la persona. Per exemple: ha vist un programa, ha sentit versions diferents, vol explicar una tradició o necessita entendre un document.
+Abans d'escriure una conversa, formula per a tu mateix el dubte que l'usuari vol resoldre: entendre una diferència, comprovar una xifra, recordar una història o saber què permet concloure una font. Després escriu el dubte directament, amb paraules de conversa.
 
-Si el motiu real és «vol saber què diu la fitxa», encara no tenim una pregunta d'usuari. Reformula el dubte en llenguatge corrent o descarta'l.
+No cal inventar una filla, un viatge, una feina o una trobada per fer que la pregunta sembli humana. Afegeix context només si ajuda a entendre el dubte i és plausible a partir del que la persona diu. «Què explica aquesta secció?» o «què indica aquesta fila?» solen ser ordres d'extracció, no preguntes d'usuari.
 
 ## Prova de naturalitat
 
-Llegeix només la intervenció de l'usuari i pregunta't:
+Llegeix només les intervencions de l'usuari i pregunta't:
 
-1. Podria haver-la escrit algú que no coneix el corpus?
-2. Què vol resoldre aquesta persona?
-3. La diria així en una conversa normal amb un assistent?
-4. El context és necessari i creïble, o només decora una pregunta de fitxa?
+1. S'entenen sense tenir el document obert?
+2. Què vol resoldre l'usuari?
+3. Ho diria així en una conversa normal amb un assistent?
+4. Cada detall del context és necessari o només decora la pregunta?
 
-Una resposta «no» demana una reescriptura. Expressions com «què explica la secció», «què indica aquesta fila» o «digues dos topònims» són senyals d'alerta, no prohibicions absolutes: només tindrien sentit si la persona estigués parlant realment d'aquell document o d'aquella taula.
+Si una resposta és «no», reescriu o descarta la pregunta. El tema pot ser específic o històric; la persona no ha de conèixer el nom de la fitxa ni els seus encapçalaments.
 
 ## Continuïtat entre torns
 
 - Cada seguiment reprèn un detall de la resposta anterior.
-- El seguiment demana una precisió, explora una conseqüència o resol una confusió que acaba de sorgir.
+- Pot demanar una precisió, explorar una conseqüència o resoldre una confusió que acaba de sorgir.
 - No encadenis preguntes independents per allargar el registre.
-- No obliguis cada registre a tenir un nombre fix de torns. Dos intercanvis naturals ja són una conversa; un seguiment forçat empitjora l'exemple.
-- No facis que l'usuari repeteixi amb altres paraules la pregunta inicial.
+- No exigeixis un nombre fix de torns. Una pregunta i una resposta poden ser suficients; afegeix seguiments només si surten de manera natural.
+- No facis que l'usuari repeteixi la pregunta inicial amb altres paraules.
+- Atura't quan el dubte queda resolt.
 
 ## Resposta de Maia
 
 - Contesta primer i sense preàmbuls editorials.
 - Escriu com un assistent informat, no com una fitxa ni un informe.
-- Explica prou perquè la resposta s'entengui sense consultar la font.
+- Dona prou context perquè la resposta s'entengui sense consultar la font.
 - No amunteguis detalls que no ajuden a aquell dubte.
 - Atribueix llegendes i interpretacions amb naturalitat («segons la llegenda», «una interpretació proposa...»).
-- Marca els límits quan siguin rellevants, sense convertir cada resposta en una llista de disclaimers.
+- Marca els límits quan siguin rellevants, sense convertir cada resposta en una llista d'advertiments.
 - No presentis com a actual una dada històrica o normativa que no s'ha verificat com a vigent.
+- Si les fonts discrepen, explica què diu cadascuna i què no es pot resoldre.
 
 ## Rebuig immediat
 
-Descarta o reescriu el registre si:
+Reescriu o descarta el registre si:
 
 - la pregunta només s'entén amb una fitxa oberta;
-- el context és inventat només per fer que una dada sembli interessant;
+- s'ha inventat una situació personal per disfressar una pregunta de fitxa;
 - la resposta no resol el que s'ha preguntat;
 - un seguiment canvia de tema sense motiu;
 - es confon una llegenda, una hipòtesi o una interpretació amb un fet;
@@ -49,6 +51,6 @@ Descarta o reescriu el registre si:
 
 ## Procedència i format
 
-La persona revisora contrasta cada afirmació amb les fitxes i fonts originals. Les notes de revisió van a `provenance.jsonl`, no al diàleg. El text final exportable només conté missatges `user` i `assistant`.
+Contrasta cada afirmació amb la fitxa completa i les fonts disponibles. Registra per separat les fonts, els drets, els límits i les decisions editorials. El diàleg d'entrenament conté només missatges `user` i `assistant`; no hi incloguis evidence IDs, estats epistemològics ni notes del pipeline.
 
-Les converses de `EXEMPLES.md` són per calibrar. No són registres aprovats ni compten per a la cobertura.
+Les mostres de `EXEMPLES.md` serveixen per calibrar l'estil. No són registres aprovats ni compten per a la cobertura.

@@ -45,15 +45,17 @@ training-data/
 
 Abans d'aprovar-la, llegeix la conversa en veu alta sense mirar les fonts. Si sembla un qüestionari, una ordre d'extracció o una història inventada per justificar la pregunta, reescriu-la o descarta-la.
 
-## Exemples de necessitats humanes
+## De la pregunta de fitxa a una pregunta humana
 
-- Algú veu tres actes al programa d'una festa i vol saber si tots són balls.
-- Algú ha sentit dues dates i vol entendre si són dues fites diferents o una contradicció.
-- Algú planifica una visita i pregunta què podria veure en un lloc i una data concrets.
-- Algú vol explicar una llegenda a un infant i no recorda com acaba.
-- Algú consulta un document històric i es pregunta què permet concloure i què no.
+La pregunta no ha de narrar una biografia inventada. Ha d'anomenar el dubte real de manera directa:
 
-Aquests contextos són punts de partida, no plantilles. No afegim viatges, familiars, estudis o decisions fictícies si no fan més clara una necessitat real.
+| Pregunta d'extracció que descartem | Dubte natural que podria preguntar l'usuari |
+| --- | --- |
+| «Què explica la secció “El relat” de la fitxa “La troballa de Meritxell”?» | «Em recordes la llegenda de la imatge de Meritxell? Per què la van deixar just allà?» |
+| «Què indica aquesta fila?» | «Per al 1930 em surten dues xifres de població. S'ha aclarit quina és bona?» |
+| «Digues dos topònims que hi surten.» | Descartar-ho si no hi ha un dubte humà al darrere; no convertir cada detall del document en una pregunta. |
+
+La formulació final ha de tenir sentit sense accés al nom de la fitxa o a les seves seccions. No afegim familiars, viatges, feines o estudis ficticis per decorar-la.
 
 ## Regles per a respostes fiables
 
@@ -95,9 +97,7 @@ Treballar-lo separadament. Incloure només peces elegibles i fragments fiables, 
 
 Una conversa per línia JSONL, amb missatges alternats i sense procedència ni notes internes:
 
-```json
-{"messages":[{"role":"user","content":"Al programa de Sant Julià hi ha la Passa i el ball del Cerdà. Són dues danses?"},{"role":"assistant","content":"El Cerdà és un ball; la Passa és una cercavila de parelles de fadrins. Les parelles que es casaran aquell any van al davant."},{"role":"user","content":"Ah, per això la Passa té un ordre concret?"},{"role":"assistant","content":"Sí. La resta de parelles segueix de més grans a més joves. La fitxa no explica com es formen les parelles."}]}
-```
+Els exemples complets i contrastats són a [`knowledge/review/EXEMPLES.md`](knowledge/review/EXEMPLES.md). Són mostres de calibratge, no candidats ni dades d'entrenament.
 
 ## Prioritats
 
