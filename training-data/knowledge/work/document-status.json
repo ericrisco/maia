@@ -640,5 +640,20 @@
     "reviewed_units": [
       "L’edifici és dels segles XI-XII i les pintures de finals del XII; «mestre de la Cortinada» és una atribució estilística, no un nom personal conegut."
     ]
+  },
+  "docs/temes/cultura/arquitectura/sant-miquel-de-prats.md": {
+    "status": "in_progress",
+    "open_units": [
+      "Qui va autoritzar la venda del retaule el 1926 i recorregut complet de totes les peces.",
+      "Possibilitat de retorn o préstec del crucifix que és a Yale.",
+      "Data de finalització de la recomposició i de les obres estructurals encara no fixada.",
+      "Contrast acadèmic independent sobre l’autoria atribuïda al Mestre de Canillo i les peces del retaule."
+    ],
+    "conversation_ids": [
+      "sant-miquel-prats-recomposicio-retaule-001"
+    ],
+    "reviewed_units": [
+      "La recomposició representa en blanc i negre les parts perdudes a partir de fotografies; tres taules i la predel·la han estat localitzades en institucions diferents."
+    ]
   }
 }

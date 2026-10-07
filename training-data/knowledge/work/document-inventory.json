@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 42,
+    "in_progress": 43,
     "no_natural_question": 0,
-    "not_started": 1306
+    "not_started": 1305
   },
   "documents": [
     {
@@ -985,11 +985,20 @@
       "type": "article",
       "topic": "temes/cultura/arquitectura",
       "source": "elperiodic-sant-miquel-de-prats-retaule",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "sant-miquel-prats-recomposicio-retaule-001"
+      ],
+      "reviewed_units": [
+        "La recomposició representa en blanc i negre les parts perdudes a partir de fotografies; tres taules i la predel·la han estat localitzades en institucions diferents."
+      ],
+      "open_units": [
+        "Qui va autoritzar la venda del retaule el 1926 i recorregut complet de totes les peces.",
+        "Possibilitat de retorn o préstec del crucifix que és a Yale.",
+        "Data de finalització de la recomposició i de les obres estructurals encara no fixada.",
+        "Contrast acadèmic independent sobre l’autoria atribuïda al Mestre de Canillo i les peces del retaule."
+      ],
       "completion_note": "",
       "reason": ""
     },
