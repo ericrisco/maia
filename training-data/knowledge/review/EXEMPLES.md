@@ -39,6 +39,17 @@ Assistent: No es pot concloure només a partir del registre de la fotografia. Aq
 
 La resposta diferencia el lloc identificat en una fotografia de l'estat actual de l'objecte.
 
+### Seguir el trajecte de les pintures de Santa Coloma
+
+```text
+Usuari: Per què les pintures famoses de Santa Coloma són a l'Espai Columba i no dins l'església?
+Assistent: Les van arrencar de l'església el 1932 i les van traslladar a Barcelona per restaurar-les. El gruix de les pintures es va vendre al baró Cassel; el govern nazi va requisar la seva col·lecció i les obres van acabar dipositades a Munic i després a Berlín. El Govern d'Andorra les va adquirir el 2007 per 4,5 milions d'euros i ara s'exposen a l'Espai Columba.
+Usuari: A l'església no n'hi queda cap, doncs?
+Assistent: Sí que n'hi queda un fragment: l'Anyell de Déu continua in situ. Dels dos fragments de sants que van seguir un altre camí, sant Silvestre és a l'Amherst College des del 1941; de sant Gregori se'n perd el rastre després de la subhasta de 1955.
+```
+
+La pregunta demana una explicació històrica i el seguiment comprova què continua a l'església. La resposta separa les pintures principals dels fragments amb un trajecte diferent.
+
 ### Situar Sant Romà de les Bons i entendre'n les pintures
 
 ```text
