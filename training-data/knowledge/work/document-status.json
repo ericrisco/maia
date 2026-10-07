@@ -166,16 +166,23 @@
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0018",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0019",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0020",
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0022",
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0023",
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0024",
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0025",
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0026",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0028",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0029",
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0030",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0031"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 41,
+      "open_unit_count": 35,
       "conversation_ids": [
         "festes-ossa-calendari-i-canvi-001",
         "festes-ossa-cronologia-i-interrupcions-001",
-        "festes-ossa-format-i-desenllac-001"
+        "festes-ossa-format-i-desenllac-001",
+        "festes-ossa-localitats-i-calendari-001"
       ]
     },
     "docs/temes/costums/falles/falles-index-de-fitxes.md": {
