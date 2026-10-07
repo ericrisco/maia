@@ -15641,12 +15641,13 @@
       "topic": "temes/institucions/relacions-exteriors",
       "source": "eur-lex-protocol-seguretat-duanera-2011",
       "status": "in_progress",
-      "conversation_count": 4,
+      "conversation_count": 5,
       "conversation_ids": [
         "andorra-comite-duaner-observador-sense-vot-01",
         "andorra-comites-duaners-abast-i-exclusio-03",
         "andorra-normes-duaneres-interpretacio-equivalent-04",
-        "protocol-duaner-no-adopcio-suspensio-02"
+        "protocol-duaner-no-adopcio-suspensio-02",
+        "protocol-duaner-versions-autentiques-catala-05"
       ],
       "reviewed_units": [
         "participació d’un expert de l’administració andorrana com a observador, sense vot, amb posició expressada i opinió registrada a part",
@@ -15658,16 +15659,17 @@
         "facultat del president per reunir el comitè sense l’expert, amb obligació d’informar Andorra",
         "deure de la Comissió d’informar amb temps les dates, l’ordre del dia i la informació rellevant",
         "interpretació segons la jurisprudència del Tribunal de Justícia de les disposicions duaneres substancialment idèntiques a les dues parts de la unió",
-        "decisió equivalent de les autoritats andorranes en els casos concrets en què les disposicions aplicables encomanen una decisió a la Comissió"
+        "decisió equivalent de les autoritats andorranes en els casos concrets en què les disposicions aplicables encomanen una decisió a la Comissió",
+        "llengües autèntiques del Protocol i signatura en català; la versió íntegra catalana no s’ha localitzat"
       ],
       "open_units": [
         "abast territorial diferent de l’acord duaner i de les mesures de seguretat; inclusió dels productes agrícoles",
         "absència de declaració prèvia de seguretat en el transport entre els territoris duaners i reconeixement mutu dels sistemes de gestió del risc",
         "intercanvi d’informació sobre operadors econòmics autoritzats",
         "aplicació provisional des de 2011 i notificació d’entrada en vigor definitiva no localitzada",
-        "vint-i-tres llengües autèntiques i signatura andorrana en català",
         "relació amb la Decisió d’adequació de dades personals de 2010 i les fonts que el protocol cita",
-        "si l’article 12k s’ha invocat mai, i si s’ha aplicat alguna suspensió o mesura de reequilibri"
+        "si l’article 12k s’ha invocat mai, i si s’ha aplicat alguna suspensió o mesura de reequilibri",
+        "localitzar el text íntegre autèntic en català del protocol"
       ],
       "completion_note": "",
       "reason": ""
