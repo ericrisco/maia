@@ -4,10 +4,10 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 
 - Documents inventariats: **1477** (1348 articles).
 - Unitats estructurals totals: **62911**.
-- Unitats cobertes per converses aprovades: **223** (0.354%).
+- Unitats cobertes per converses aprovades: **228** (0.362%).
 - Unitats excloses amb motiu: **1182**.
-- Unitats encara obertes: **61506**.
-- Registres: **66**; aprovats: **65**; mostres de calibratge: **0** (no compten com a cobertura).
+- Unitats encara obertes: **61501**.
+- Registres: **67**; aprovats: **66**; mostres de calibratge: **0** (no compten com a cobertura).
 
 ## Estat per tema
 
@@ -27,7 +27,7 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 | `temes/costums/sant-antoni` | 1 | 19 | 0 | 0 | 19 |
 | `temes/cultura` | 1 | 73 | 6 | 0 | 67 |
 | `temes/cultura/andorra-vista-de-fora` | 6 | 280 | 0 | 248 | 32 |
-| `temes/cultura/arquitectura` | 11 | 216 | 16 | 175 | 25 |
+| `temes/cultura/arquitectura` | 11 | 216 | 21 | 175 | 20 |
 | `temes/cultura/artesania` | 2 | 138 | 0 | 138 | 0 |
 | `temes/cultura/arts-visuals` | 9 | 303 | 0 | 247 | 56 |
 | `temes/cultura/cultura-popular` | 2 | 48 | 0 | 0 | 48 |
