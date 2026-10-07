@@ -9,7 +9,7 @@
   "file_count": 1477,
   "article_count": 1348,
   "parse_error_count": 0,
-  "conversation_count": 89,
+  "conversation_count": 90,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 0,
@@ -11456,12 +11456,14 @@
       "topic": "temes/historia/pareatge",
       "source": "enciclopedia-segon-pariatge-1288",
       "status": "in_progress",
-      "conversation_count": 1,
+      "conversation_count": 2,
       "conversation_ids": [
-        "pareatge-segon-acord-1288-001"
+        "pareatge-segon-acord-1288-001",
+        "segon-pareatge-enclar-arfa-fortificacions-001"
       ],
       "reviewed_units": [
-        "Segon Pareatge de 1288: les qüestions derivaven d'ambigüitats prèvies; a Enclar s'ordena aturar i retirar la construcció i no fortificar sense consentiment de l'altre senyor."
+        "Segon Pareatge de 1288: les qüestions derivaven d'ambigüitats prèvies; a Enclar s'ordena aturar i retirar la construcció i no fortificar sense consentiment de l'altre senyor.",
+        "Fortificacions: a Enclar s'atura i retira la construcció començada, i no es pot fortificar sense consentiment exprés; a Arfa la prohibició és permanent llevat d'acord conjunt. Enclar també queda com a empriu."
       ],
       "open_units": [
         "Revisar la prohibició de fortificar la roca d'Arfa i la diferència respecte d'Enclar.",

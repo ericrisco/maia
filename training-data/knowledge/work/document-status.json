@@ -232,10 +232,12 @@
     "docs/temes/historia/pareatge/el-segon-pareatge-desmunta-enclar-i-crea-el-notariat-1288.md": {
       "status": "in_progress",
       "conversation_ids": [
-        "pareatge-segon-acord-1288-001"
+        "pareatge-segon-acord-1288-001",
+        "segon-pareatge-enclar-arfa-fortificacions-001"
       ],
       "covered_units": [
-        "Segon Pareatge de 1288: les qüestions derivaven d'ambigüitats prèvies; a Enclar s'ordena aturar i retirar la construcció i no fortificar sense consentiment de l'altre senyor."
+        "Segon Pareatge de 1288: les qüestions derivaven d'ambigüitats prèvies; a Enclar s'ordena aturar i retirar la construcció i no fortificar sense consentiment de l'altre senyor.",
+        "Fortificacions: a Enclar s'atura i retira la construcció començada, i no es pot fortificar sense consentiment exprés; a Arfa la prohibició és permanent llevat d'acord conjunt. Enclar també queda com a empriu."
       ],
       "open_units": [
         "Revisar la prohibició de fortificar la roca d'Arfa i la diferència respecte d'Enclar.",
