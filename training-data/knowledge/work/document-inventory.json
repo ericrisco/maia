@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 20,
+    "in_progress": 23,
     "no_natural_question": 0,
-    "not_started": 1328
+    "not_started": 1325
   },
   "documents": [
     {
@@ -567,10 +567,16 @@
       "type": "article",
       "topic": "temes/costums/ritus-de-pas",
       "source": "iec-vocabulari-andorra",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "cap-de-casa-familia-vot-i-significat-01"
+      ],
+      "reviewed_units": [
+        "«cap de casa» té el sentit de golfes i el de membre de la família amb autoritat",
+        "el vot de la Nova Reforma de 1866 es concedia als caps de casa; la unitat política era la casa, no cada home adult",
+        "el pas d’una persona a cap de casa, l’herència i el sistema de l’hereu i la pubilla continuen sense documentació al corpus"
+      ],
       "completion_note": "",
       "reason": ""
     },
@@ -9565,10 +9571,14 @@
       "type": "article",
       "topic": "temes/historia/segle-xix",
       "source": "archives-diplomatiques-reforma-1866",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "cap-de-casa-familia-vot-i-significat-01"
+      ],
+      "reviewed_units": [
+        "la reforma electoral de 1866 concedeix el vot als caps de casa; la casa és la unitat política i vota a través del seu cap"
+      ],
       "completion_note": "",
       "reason": ""
     },
@@ -15046,10 +15056,14 @@
       "type": "article",
       "topic": "temes/llengua/lexic-andorra",
       "source": "iec-vocabulari-andorra",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "cap-de-casa-familia-vot-i-significat-01"
+      ],
+      "reviewed_units": [
+        "«cap de casa» al DIEC2: golfa i membre de la família que té l’autoritat; sentit citat en la ponència de l’IEC"
+      ],
       "completion_note": "",
       "reason": ""
     },

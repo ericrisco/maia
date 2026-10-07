@@ -43,6 +43,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - Joan Amades, descripció del 1950 citada per Pere Canturri Montanya (1994); Viquipèdia en català, «Ball de l’ossa d’Encamp», CC BY-SA 4.0.
 - Joan Amades, descripció del Ball del porrer citada per Pere Canturri i Montanya a «Andorra en el Costumari català de Joan Amades», 1994, p. 33–39.
 - Joan Amades, relat del 1950 citat per Pere Canturri Montanya (1994); Fabiola Masegosa, tesi doctoral de 2017 i resum publicat el 2020; la fitxa de Viquipèdia en català és CC BY-SA 4.0.
+- Joan Sans Urgell, ponència de l’IEC sobre vocabulari andorrà; expedient diplomàtic francès 6MD/1 de 1866, consultat a les Archives diplomatiques.
 - La fitxa del corpus «El ball del Cerdà» atribueix el lloc i l’hora a «premsa andorrana», sense identificar el mitjà, l’article, la data ni l’URL.
 - La fitxa «El ball del Cerdà» cita una font secundària no identificada; «La marratxa» recull dades atribuïdes a Viquipèdia en català, CC BY-SA 4.0, amb atribució i compartir igual.
 - La fitxa «El contrapàs» atribueix la participació, la descripció coreogràfica i el calendari a «premsa andorrana», sense identificar el mitjà, l’article, la data ni l’URL.
@@ -80,6 +81,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - Contingut periodístic amb drets reservats; la fitxa premsa-andorrana registra redistribució:no. La referència concreta no es pot verificar.
 - Font institucional amb drets reservats; el portal exigeix autorització escrita per redistribuir o transformar continguts i no consta un permís específic. Aquesta limitació queda registrada; no s’interpreta la inclusió com a llicència.
 - La fitxa de Canturri registra redistribució pendent. La conversa conserva l’atribució i no trasllada a Sant Julià les dates documentades per als gegants d’Andorra la Vella.
+- La publicació de l’IEC té redistribució pendent. Les imatges dels Archives diplomatiques estan subjectes a les condicions del portal. No consta permís específic per redistribuir les fonts.
 - La pàgina institucional registra drets reservats i redistribució:no; el portal exigeix autorització escrita i no consta cap permís específic. Aquesta limitació es conserva al registre de procedència.
 - La referència sobre el Cerdà prové de premsa amb drets reservats i no identificada; redistribució:no. Les fonts de Viquipèdia són CC BY-SA 4.0, amb obligació d’atribució i compartir igual. La limitació de la font no identificada es manté explícita.
 - La transcripció institucional dels documents precedents no declara llicència i la redistribució consta pendent. L’obra de Brutails (1904) és en domini públic; Gallica permet reutilització no comercial amb atribució. L’elegibilitat del destí d’entrenament no consta resolta; es conserven les condicions de les dues fonts.

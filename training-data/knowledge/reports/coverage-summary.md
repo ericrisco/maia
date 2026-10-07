@@ -4,14 +4,14 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 
 - Fitxes article: **1348**.
 - Fitxers totals, inclosos índexs: **1477**.
-- Converses candidates: **86**.
+- Converses candidates: **87**.
 
 | Estat de revisió | Fitxes |
 |---|---:|
 | Revisades completes | 0 |
-| En curs | 20 |
+| En curs | 23 |
 | Revisades sense pregunta natural | 0 |
-| No començades | 1328 |
+| No començades | 1325 |
 
 ## Estat per tema
 
@@ -26,7 +26,7 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 | `temes/costums/gegants` | 1 | 0 | 1 | 0 | 0 |
 | `temes/costums/meritxell` | 1 | 1 | 0 | 0 | 0 |
 | `temes/costums/religiositat` | 5 | 5 | 0 | 0 | 0 |
-| `temes/costums/ritus-de-pas` | 2 | 1 | 1 | 0 | 0 |
+| `temes/costums/ritus-de-pas` | 2 | 0 | 2 | 0 | 0 |
 | `temes/costums/sant-antoni` | 1 | 1 | 0 | 0 | 0 |
 | `temes/cultura` | 1 | 1 | 0 | 0 | 0 |
 | `temes/cultura/andorra-vista-de-fora` | 6 | 6 | 0 | 0 | 0 |
@@ -79,7 +79,7 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 | `temes/historia/moments-historics` | 2 | 2 | 0 | 0 | 0 |
 | `temes/historia/origens` | 15 | 15 | 0 | 0 | 0 |
 | `temes/historia/pareatge` | 6 | 5 | 1 | 0 | 0 |
-| `temes/historia/segle-xix` | 29 | 29 | 0 | 0 | 0 |
+| `temes/historia/segle-xix` | 29 | 28 | 1 | 0 | 0 |
 | `temes/historia/segle-xx-primera-meitat` | 30 | 30 | 0 | 0 | 0 |
 | `temes/institucions/comuns-i-parroquies` | 35 | 35 | 0 | 0 | 0 |
 | `temes/institucions/consell-general` | 84 | 84 | 0 | 0 | 0 |
@@ -97,7 +97,7 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 | `temes/llengua/fonetica` | 2 | 2 | 0 | 0 | 0 |
 | `temes/llengua/fraseologia` | 1 | 1 | 0 | 0 | 0 |
 | `temes/llengua/historia-de-la-llengua` | 3 | 3 | 0 | 0 | 0 |
-| `temes/llengua/lexic-andorra` | 3 | 3 | 0 | 0 | 0 |
+| `temes/llengua/lexic-andorra` | 3 | 2 | 1 | 0 | 0 |
 | `temes/llengua/manlleus` | 4 | 4 | 0 | 0 | 0 |
 | `temes/llengua/morfosintaxi` | 3 | 3 | 0 | 0 | 0 |
 | `temes/llengua/onomastica` | 3 | 3 | 0 | 0 | 0 |
