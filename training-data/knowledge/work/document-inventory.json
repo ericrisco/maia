@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 1,
-    "in_progress": 2,
+    "in_progress": 3,
     "no_natural_question": 0,
-    "not_started": 1345
+    "not_started": 1344
   },
   "documents": [
     {
@@ -480,11 +480,12 @@
       "topic": "temes/costums/sant-antoni",
       "source": "premsa-andorrana",
       "status": "in_progress",
-      "conversation_count": 4,
+      "conversation_count": 5,
       "conversation_ids": [
         "benediccio-animals-sant-antoni-estat-actual-01",
         "escudella-sant-antoni-acte-vianda-01",
         "origen-ramader-sant-antoni-01",
+        "recuperacions-escudella-sant-antoni-per-parroquia-01",
         "vianda-canillo-encants-01"
       ],
       "reviewed_units": [
@@ -497,7 +498,8 @@
         "el Comú organitza l'acte el diumenge més proper i reparteix prop de mil racions",
         "els encants són subhastes i la seva tradició es va recuperar cap al 2000",
         "Sant Antoni és patró dels animals domèstics i dels traginers",
-        "la fitxa no confirma si la benedicció d'animals continua avui ni on es fa"
+        "la fitxa no confirma si la benedicció d'animals continua avui ni on es fa",
+        "la recuperació a Andorra la Vella als anys setanta i la primera vianda de Canillo el 1979 són casos diferents"
       ],
       "open_units": [
         "estat actual de la benedicció d'animals a cada parròquia, no confirmat per la font"
@@ -7245,11 +7247,21 @@
       "type": "article",
       "topic": "temes/gastronomia/plats",
       "source": "viquipedia-ca",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "recuperacions-escudella-sant-antoni-per-parroquia-01"
+      ],
+      "reviewed_units": [
+        "recuperació de l'escudella comunitària a Andorra la Vella a principis dels anys setanta per uns amics anomenats Anton",
+        "diferència entre el cas d'Andorra la Vella i la vianda de Canillo"
+      ],
+      "open_units": [
+        "ingredients de l'escudella i la denominació de plat nacional",
+        "antecedent de repartiment de menjar als pobres el dia de Sant Antoni",
+        "origen del nom Tons i diferència amb escudellaires",
+        "buits sobre la data exacta, fundadors, confraria, racions i altres parròquies"
+      ],
       "completion_note": "",
       "reason": ""
     },

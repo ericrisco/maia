@@ -28,7 +28,8 @@
       "escudella-sant-antoni-acte-vianda-01",
       "origen-ramader-sant-antoni-01",
       "vianda-canillo-encants-01",
-      "benediccio-animals-sant-antoni-estat-actual-01"
+      "benediccio-animals-sant-antoni-estat-actual-01",
+      "recuperacions-escudella-sant-antoni-per-parroquia-01"
     ],
     "covered_units": [
       "preparar i repartir escudella al carrer, no només el plat",
@@ -40,7 +41,8 @@
       "el Comú organitza l'acte el diumenge més proper i reparteix prop de mil racions",
       "els encants són subhastes i la seva tradició es va recuperar cap al 2000",
       "Sant Antoni és patró dels animals domèstics i dels traginers",
-      "la fitxa no confirma si la benedicció d'animals continua avui ni on es fa"
+      "la fitxa no confirma si la benedicció d'animals continua avui ni on es fa",
+      "la recuperació a Andorra la Vella als anys setanta i la primera vianda de Canillo el 1979 són casos diferents"
     ],
     "open_units": [
       "estat actual de la benedicció d'animals a cada parròquia, no confirmat per la font"
@@ -61,5 +63,20 @@
       "buits i incerteses explícits de la font"
     ],
     "note": "Cobertura parcial feta des de l'enllaç amb l'article de calendari festiu."
+  },
+  "docs/temes/gastronomia/plats/lescudella-de-sant-antoni.md": {
+    "status": "in_progress",
+    "conversation_ids": ["recuperacions-escudella-sant-antoni-per-parroquia-01"],
+    "covered_units": [
+      "recuperació de l'escudella comunitària a Andorra la Vella a principis dels anys setanta per uns amics anomenats Anton",
+      "diferència entre el cas d'Andorra la Vella i la vianda de Canillo"
+    ],
+    "open_units": [
+      "ingredients de l'escudella i la denominació de plat nacional",
+      "antecedent de repartiment de menjar als pobres el dia de Sant Antoni",
+      "origen del nom Tons i diferència amb escudellaires",
+      "buits sobre la data exacta, fundadors, confraria, racions i altres parròquies"
+    ],
+    "note": "Primera conversa de síntesi amb la fitxa de Sant Antoni de Canillo."
   }
 }
