@@ -53,8 +53,9 @@
       "topic": "temes/costums/calendari-festiu",
       "source": "premsa-andorrana",
       "status": "in_progress",
-      "conversation_count": 5,
+      "conversation_count": 6,
       "conversation_ids": [
+        "carnaval-encamp-ossa-i-contrabandistes",
         "judici-contrabandistes-text-i-antiguitat-01",
         "operacio-carnestoltes-origen-autor-01",
         "operacio-carnestoltes-viscera-escenari-01",
@@ -71,7 +72,8 @@
         "autor de l’operació no identificat",
         "guió de Sícoris escrit el 1959; no s’estableix quan canvia la trama de l’ossa",
         "la representació actual de l’ossa d’Encamp té lloc el dilluns de Carnaval; es contrasta amb l’Última Ossa d’Ordino al desembre",
-        "la cronologia d’Ordino transmesa per Masegosa difereix de la de Viquipèdia; el corpus no arbitra la represa de 1978 o 1985"
+        "la cronologia d’Ordino transmesa per Masegosa difereix de la de Viquipèdia; el corpus no arbitra la represa de 1978 o 1985",
+        "el binomi de «Els contrabandistes» i «L’ossa» són dues farses diferents i complementàries, representades en dies consecutius"
       ],
       "completion_note": "",
       "reason": ""
@@ -166,8 +168,9 @@
       "topic": "temes/costums/danses",
       "source": "wikipedia-ball-ossa-encamp",
       "status": "in_progress",
-      "conversation_count": 9,
+      "conversation_count": 10,
       "conversation_ids": [
+        "carnaval-encamp-ossa-i-contrabandistes",
         "danses-parroquies-i-sardana-importada-01",
         "ordino-ossa-discrepancia-1978-1985",
         "ossa-encamp-anonimat-dallaires-01",
@@ -188,7 +191,8 @@
         "el Ball de l’Ossa d’Encamp figura entre les representacions andorranes identificades a la candidatura UNESCO del 2022, juntament amb l’Última Ossa d’Ordino",
         "Rossend Marsol Clua, Sícoris, va reescriure i modernitzar el guió el 1959, va incorporar megafonia i va implicar el jovent; alguns rols passen entre generacions",
         "les cronologies d’Ordino de Masegosa (1959/1978/1992/2017) i Viquipèdia (1985/mitjan anys 1990/2017) discrepen; només coincideixen el 2017",
-        "a la descripció d’Amades de 1950, la mort de l’ossa tanca la farsa però els intèrprets ballen tota la tarda; l’autoritat que hi guanyen només consta durant el ball"
+        "a la descripció d’Amades de 1950, la mort de l’ossa tanca la farsa però els intèrprets ballen tota la tarda; l’autoritat que hi guanyen només consta durant el ball",
+        "«Els contrabandistes» i «L’ossa» són farses complementàries representades en dies consecutius; una parodia els contrabandistes i l’altra els segadors i la cacera de l’ossa"
       ],
       "completion_note": "",
       "reason": ""
