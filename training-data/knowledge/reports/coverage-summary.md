@@ -1,6 +1,6 @@
 # Cobertura de Maia Knowledge
 
-El recompte inclou tots els Markdown de `docs/temes/`, també índexs i altres fitxers. Un article només és complet quan cada unitat útil s’ha revisat i les exclusions o buits tenen una nota explícita.
+El recompte inclou tots els Markdown de `docs/temes/`, també índexs i altres fitxers. Les exclusions per drets continuen comptant a la cobertura i necessiten una raó documentada. Un article només és complet quan cada unitat útil s’ha revisat i els buits tenen una nota explícita.
 
 - Fitxers Markdown inventariats: **1477**.
 - Fitxes `article`: **1348**.
@@ -11,18 +11,20 @@ El recompte inclou tots els Markdown de `docs/temes/`, també índexs i altres f
 | Estat | Fitxers |
 |---|---:|
 | Completats | 0 |
+| Exclosos per drets | 1 |
 | En curs | 5 |
 | Sense pregunta natural | 0 |
-| No començats | 1472 |
+| No començats | 1471 |
 
 ## Estat de les fitxes article
 
 | Estat | Articles |
 |---|---:|
 | Completats | 0 |
+| Exclosos per drets | 1 |
 | En curs | 5 |
 | Sense pregunta natural | 0 |
-| No començats | 1343 |
+| No començats | 1342 |
 
 ## Estat per tema
 
@@ -101,7 +103,7 @@ El recompte inclou tots els Markdown de `docs/temes/`, també índexs i altres f
 | `temes/institucions/patrimoni-institucional` | 6 | 6 | 0 | 0 | 0 |
 | `temes/institucions/petits-estats` | 2 | 2 | 0 | 0 | 0 |
 | `temes/institucions/quarts-i-veinats` | 2 | 2 | 0 | 0 | 0 |
-| `temes/institucions/relacions-exteriors` | 8 | 4 | 4 | 0 | 0 |
+| `temes/institucions/relacions-exteriors` | 8 | 3 | 4 | 0 | 0 |
 | `temes/institucions/simbols` | 4 | 4 | 0 | 0 | 0 |
 | `temes/llengua/contacte-de-llengues` | 5 | 5 | 0 | 0 | 0 |
 | `temes/llengua/dialectologia` | 4 | 4 | 0 | 0 | 0 |

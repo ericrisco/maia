@@ -14,7 +14,7 @@ DOCS = ROOT / 'docs' / 'temes'
 REVIEW = DATA / 'review'
 WORK = DATA / 'work'
 REPORTS = DATA / 'reports'
-STATUSES = {'not_started', 'in_progress', 'complete', 'no_natural_question'}
+STATUSES = {'not_started', 'in_progress', 'complete', 'no_natural_question', 'excluded_rights'}
 
 
 def read_jsonl(path: Path) -> list[dict[str, Any]]:
@@ -110,6 +110,8 @@ def main() -> None:
             raise ValueError(f'{relative}: complete necessita completion_note')
         if status == 'no_natural_question' and not state.get('reason'):
             raise ValueError(f'{relative}: no_natural_question necessita reason')
+        if status == 'excluded_rights' and not state.get('exclusion_reason'):
+            raise ValueError(f'{relative}: excluded_rights necessita exclusion_reason')
         row = {
             'path': relative,
             'title': meta['title'],
@@ -123,6 +125,7 @@ def main() -> None:
             'open_units': state.get('open_units', []),
             'completion_note': state.get('completion_note', ''),
             'reason': state.get('reason', ''),
+            'exclusion_reason': state.get('exclusion_reason', ''),
         }
         inventory.append(row)
         file_totals[status] += 1
@@ -147,10 +150,10 @@ def main() -> None:
             'documents': inventory,
         }, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
 
-    labels = {'not_started':'No començats', 'in_progress':'En curs', 'complete':'Completats', 'no_natural_question':'Sense pregunta natural'}
+    labels = {'not_started':'No començats', 'in_progress':'En curs', 'complete':'Completats', 'no_natural_question':'Sense pregunta natural', 'excluded_rights':'Exclosos per drets'}
     lines = [
         '# Cobertura de Maia Knowledge', '',
-        'El recompte inclou tots els Markdown de `docs/temes/`, també índexs i altres fitxers. Un article només és complet quan cada unitat útil s’ha revisat i les exclusions o buits tenen una nota explícita.', '',
+        'El recompte inclou tots els Markdown de `docs/temes/`, també índexs i altres fitxers. Les exclusions per drets continuen comptant a la cobertura i necessiten una raó documentada. Un article només és complet quan cada unitat útil s’ha revisat i els buits tenen una nota explícita.', '',
         f"- Fitxers Markdown inventariats: **{len(inventory)}**.",
         f"- Fitxes `article`: **{sum(1 for row in inventory if row['type'] == 'article')}**.",
         f'- Converses candidates amb procedència: **{len(conversations)}**.',

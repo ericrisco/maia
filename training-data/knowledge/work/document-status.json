@@ -73,5 +73,9 @@
       "Abast del protocol: el títol IIA transforma l’acord duaner de 1990 en un mecanisme d’alineament de seguretat amb la UE, mantenint facilitació del trànsit; el preàmbul cita l’adequació de dades de 2010."
     ],
     "open_units": []
+  },
+  "docs/temes/institucions/relacions-exteriors/lacord-dassociacio-amb-la-ue.md": {
+    "status": "excluded_rights",
+    "exclusion_reason": "La fitxa depèn de premsa andorrana amb drets reservats i redistribució=no; no identifica els diaris, titulars ni dates de cada dada. A més, la fitxa de l’11-09-2026 preveia una signatura per a setembre/principis d’octubre de 2026, termini que ja ha passat. No generar candidats fins que hi hagi font oficial vigent i drets compatibles."
   }
 }

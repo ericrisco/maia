@@ -24,7 +24,7 @@ La primera frase resol la pregunta. La resta explica només el context útil. Ca
 
 ## Flux de Knowledge
 
-1. Inventariar tots els documents i registrar elegibilitat, procedència i drets.
+1. Inventariar tots els documents i registrar elegibilitat, procedència i drets. Les fonts amb redistribució prohibida o no verificable queden fora de les cues; l’inventari les compta amb l’estat `excluded_rights` i una raó explícita. Les dades d’actualitat també necessiten una font vigent i datada abans de generar converses.
 2. Revisar cada document per unitats de coneixement: afirmacions, dates, noms, relacions, taules, excepcions, desacords i incerteses.
 3. Per cada unitat útil, decidir quina intenció humana podria portar-hi; crear una conversa només si la pregunta és versemblant i aporta cobertura nova.
 4. Guardar els candidats amb traçabilitat de font i afirmacions sustentades, fora del format final.
