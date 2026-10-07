@@ -177,6 +177,7 @@
       "status": "in_progress",
       "unit_count": 59,
       "covered_unit_ids": [
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0001",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0004",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0005",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0006",
@@ -188,6 +189,8 @@
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0018",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0019",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0020",
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0022",
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0023",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0024",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0028",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0029",
@@ -195,8 +198,9 @@
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0031"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 43,
+      "open_unit_count": 40,
       "conversation_ids": [
+        "festes-ossa-abast-i-desaparicio-001",
         "festes-ossa-ordino-i-encamp-001",
         "ultima-ossa-ordino-representacio-001"
       ]
