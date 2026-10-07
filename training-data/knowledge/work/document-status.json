@@ -103,14 +103,18 @@
         "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0011",
         "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0012",
         "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0013",
+        "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0026",
+        "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0027",
+        "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0028",
         "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0036",
         "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0037",
         "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0038"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 53,
+      "open_unit_count": 50,
       "conversation_ids": [
         "ball-ossa-encamp-ritus-pas-001",
+        "ossa-encamp-pervivencia-i-ordino-buit-001",
         "ultima-ossa-cronologia-discrepant-001"
       ]
     },
@@ -226,6 +230,7 @@
         "festes-ossa-emigracio-i-decandiment-001",
         "festes-ossa-que-perviuen-calendari-001",
         "festes-ossa-referencia-mes-antiga-001",
+        "ossa-encamp-pervivencia-i-ordino-buit-001",
         "ultima-ossa-cronologia-discrepant-001",
         "ultima-ossa-final-i-sang-001",
         "ultima-ossa-mascara-ordino-001"
