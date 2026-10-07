@@ -2,7 +2,7 @@
   "source_root": "docs/temes/",
   "file_count": 1477,
   "article_count": 1348,
-  "conversation_count": 39,
+  "conversation_count": 40,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 1,
@@ -16632,8 +16632,9 @@
       "topic": "temes/institucions/relacions-exteriors",
       "source": "jurisprudencia-ad",
       "status": "in_progress",
-      "conversation_count": 13,
+      "conversation_count": 14,
       "conversation_ids": [
+        "antecedents-penals-residents-estranger-001",
         "bens-sense-propietari-identificat-001",
         "comis-estranger-execucio-i-destinacio-001",
         "comissio-rogatoria-cost-gratuitat-i-desplaçaments-001",
@@ -16661,7 +16662,8 @@
         "Articles 18–19: assistència d’agents, advocats i fiscal estrangers i preguntes/repreguntes per mitjà del batlle, condicionades als principis fonamentals.",
         "Articles 17 i 21: còpies certificades com a regla, originals amb justificació i aprovació judicial; retorn d’objectes en cas d’arxiu, sobreseïment o absolució.",
         "Article 20: termini de 30 dies hàbils per notificar mesures cautelars i de 15 dies hàbils per resoldre peticions d’aixecament després d’escoltar les parts.",
-        "Articles 25–30: cooperació penal en dues direccions, condicions per assumir o transferir un procediment, dret aplicable, prohibició de judici en absència i renúncia a persecució duplicada."
+        "Articles 25–30: cooperació penal en dues direccions, condicions per assumir o transferir un procediment, dret aplicable, prohibició de judici en absència i renúncia a persecució duplicada.",
+        "Article 31: certificats d’antecedents de residents, llindar de processament/convocatòria, doble incriminació i exclusió d’inscripcions dispensades o cancel·lades."
       ],
       "open_units": [
         "Llei d’extradició de 1996 i diferència amb l’auxili judicial de la Llei 32/2021.",
