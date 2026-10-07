@@ -1,12 +1,10 @@
-# Treball intern de Knowledge
+# Treball i cobertura de Knowledge
 
-Aquí aniran els inventaris per tema i les notes que connecten cada conversa amb
-els fets que la sostenen. No s'hi posen preguntes artificials per omplir buits.
+Inventari per tema i article, amb unitats de coneixement rellevants, converses
+que les cobreixen i motius per no generar una pregunta quan no n'hi ha cap de
+natural. El nombre d'articles o de registres no substitueix la revisió de
+cobertura.
 
-`document-status.json` és la revisió humana per fitxa. Les fitxes comencen com a
-`not_started`; una conversa les passa només a `in_progress`. Només es marca
-`complete` després de llegir totes les seccions, taules, llistes, dates, xifres,
-relacions i buits. Si no hi ha cap pregunta natural, es marca
-`no_natural_question` i s'explica el motiu.
-
-Regenera l'inventari i el report amb `../scripts/build_document_inventory.py`.
+No convertir cada paràgraf, fila o dada en una pregunta. Una mateixa conversa
+pot cobrir fets relacionats; una fitxa pot requerir diverses converses si hi ha
+dubtes diferents.

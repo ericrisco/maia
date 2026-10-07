@@ -1,5 +1,5 @@
-# Informes Knowledge
+# Reports de Knowledge
 
-`export-summary.md` s'actualitza en exportar les converses aprovades. Indica
-quantes fitxes font tenen almenys una conversa; no equival a cobertura completa
-del coneixement de cada fitxa.
+Desa aquí cobertura per tema, resultats de revisió naturalitat/correcció,
+duplicats i motius d'exclusió. Separa «no representat» de «no té cap pregunta
+natural»: no són el mateix estat.

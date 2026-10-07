@@ -1,4 +1,5 @@
-# Exportació Language
+# Exports de Language
 
-Encara no hi ha registres aprovats. El contingut d'aquest flux no es barreja amb
-Maia Knowledge.
+Els splits només es generen a partir d'intercanvis humans elegibles i aprovats.
+Cada línia segueix l'esquema `{"messages": [...]}`. No afegeixis mostres
+inventades per augmentar-ne el volum.

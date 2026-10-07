@@ -1,4 +1,4 @@
-# Informes Language
+# Reports de Language
 
-Els informes de peces utilitzades, excloses i incertes es crearan després de
-revisar les transcripcions i els drets.
+Informa del total de peces elegibles, incloses i excloses; fragments emprats i
+descartats; incerteses de transcripció; estat de drets; i agrupació dels splits.
