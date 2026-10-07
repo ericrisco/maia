@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 6,
+    "in_progress": 7,
     "no_natural_question": 0,
-    "not_started": 1342
+    "not_started": 1341
   },
   "documents": [
     {
@@ -30,14 +30,16 @@
       "topic": "temes/costums/calendari-festiu",
       "source": "premsa-andorrana",
       "status": "in_progress",
-      "conversation_count": 2,
+      "conversation_count": 3,
       "conversation_ids": [
         "festa-major-parroquia-versus-meritxell-01",
+        "sant-antoni-absent-calendari-judicial-1902-01",
         "tribunals-fira-organya-1902-motiu-i-limit-01"
       ],
       "reviewed_units": [
         "diferència entre les festes majors locals d’estiu i la Festa Nacional de Meritxell del 8 de setembre; absència de dates locals oficials a la fitxa",
-        "distinció entre calendari judicial de 1902 i calendari festiu popular; el tancament per fira no acredita assistència universal ni activitat concreta"
+        "distinció entre calendari judicial de 1902 i calendari festiu popular; el tancament per fira no acredita assistència universal ni activitat concreta",
+        "el calendari judicial de 1902 no és el calendari popular; l’absència de Sant Antoni no prova absència de celebració"
       ],
       "open_units": [
         "dates concretes de cada festa major i fonts primàries comunals, que l’article declara absents",
@@ -525,10 +527,14 @@
       "type": "article",
       "topic": "temes/costums/sant-antoni",
       "source": "premsa-andorrana",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "sant-antoni-absent-calendari-judicial-1902-01"
+      ],
+      "reviewed_units": [
+        "l’escudella de Sant Antoni el 17 de gener; diferència entre la fitxa de la festa i la llista judicial"
+      ],
       "open_units": [],
       "completion_note": "",
       "reason": ""
@@ -13750,12 +13756,14 @@
       "topic": "temes/institucions/justicia",
       "source": "brutails-coutume-1904",
       "status": "in_progress",
-      "conversation_count": 1,
+      "conversation_count": 2,
       "conversation_ids": [
+        "sant-antoni-absent-calendari-judicial-1902-01",
         "tribunals-fira-organya-1902-motiu-i-limit-01"
       ],
       "reviewed_units": [
-        "fira d’Organyà com a motiu escrit del tancament judicial de 27 de novembre a 4 de desembre de 1902; límit respecte de la llista anterior"
+        "fira d’Organyà com a motiu escrit del tancament judicial de 27 de novembre a 4 de desembre de 1902; límit respecte de la llista anterior",
+        "abast de la llista de 1902: dies de tancament judicial, no catàleg de festes populars"
       ],
       "open_units": [
         "altres fires i trams de tancament de la llista de 1902 i la numeració duplicada de l’epígraf setè",

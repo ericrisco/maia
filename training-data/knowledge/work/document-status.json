@@ -98,11 +98,13 @@
     "status": "in_progress",
     "conversation_ids": [
       "festa-major-parroquia-versus-meritxell-01",
-      "tribunals-fira-organya-1902-motiu-i-limit-01"
+      "tribunals-fira-organya-1902-motiu-i-limit-01",
+      "sant-antoni-absent-calendari-judicial-1902-01"
     ],
     "reviewed_units": [
       "diferència entre les festes majors locals d’estiu i la Festa Nacional de Meritxell del 8 de setembre; absència de dates locals oficials a la fitxa",
-      "distinció entre calendari judicial de 1902 i calendari festiu popular; el tancament per fira no acredita assistència universal ni activitat concreta"
+      "distinció entre calendari judicial de 1902 i calendari festiu popular; el tancament per fira no acredita assistència universal ni activitat concreta",
+      "el calendari judicial de 1902 no és el calendari popular; l’absència de Sant Antoni no prova absència de celebració"
     ],
     "open_units": [
       "dates concretes de cada festa major i fonts primàries comunals, que l’article declara absents",
@@ -116,10 +118,12 @@
   "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md": {
     "status": "in_progress",
     "conversation_ids": [
-      "tribunals-fira-organya-1902-motiu-i-limit-01"
+      "tribunals-fira-organya-1902-motiu-i-limit-01",
+      "sant-antoni-absent-calendari-judicial-1902-01"
     ],
     "reviewed_units": [
-      "fira d’Organyà com a motiu escrit del tancament judicial de 27 de novembre a 4 de desembre de 1902; límit respecte de la llista anterior"
+      "fira d’Organyà com a motiu escrit del tancament judicial de 27 de novembre a 4 de desembre de 1902; límit respecte de la llista anterior",
+      "abast de la llista de 1902: dies de tancament judicial, no catàleg de festes populars"
     ],
     "open_units": [
       "altres fires i trams de tancament de la llista de 1902 i la numeració duplicada de l’epígraf setè",
@@ -128,5 +132,15 @@
       "terminis judicials i efecte dels feriats en recursos, execucions i embargaments",
       "hipòtesis del corpus sobre sega, empara i diferències entre habitants i forasters"
     ]
+  },
+  "docs/temes/costums/sant-antoni/escudelles-de-sant-antoni.md": {
+    "status": "in_progress",
+    "conversation_ids": [
+      "sant-antoni-absent-calendari-judicial-1902-01"
+    ],
+    "reviewed_units": [
+      "l’escudella de Sant Antoni el 17 de gener; diferència entre la fitxa de la festa i la llista judicial"
+    ],
+    "open_units": []
   }
 }
