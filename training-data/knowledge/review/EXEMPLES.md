@@ -1,92 +1,48 @@
-# Criteri de conversa per a Maia Knowledge
+# Exemples de conversa: criteri de naturalitat
 
-Aquest document calibra la redacció de converses. Els missatges són el producte visible; les fonts, els drets i les unitats cobertes es registren a `provenance.jsonl`.
+Els registres antics sovint preguntaven pel nom d'una secció, una fila o un
+fragment de fitxa. Això només ho preguntaria algú que estigués fent un examen
+sobre el document. Una conversa de training ha de començar pel dubte que el
+contingut ajuda a resoldre.
 
-## Per què els exemples anteriors no bastaven
+Els exemples d'aquí són mostres inicials aprovades per calibrar el criteri. La
+procedència i els límits de les afirmacions són a `provenance.jsonl`.
 
-Dir «sona humà» no dona prou instruccions. Molts registres acabaven amb el mateix patró: pregunta factual, resposta plena de xifres, «i això vol dir...?», aclariment. La pregunta podia ser plausible, però el diàleg semblava un qüestionari creat per recórrer una taula.
-
-La cobertura del corpus és una feina interna. No s'ha de notar com una llista de comprovació dins la conversa. Primer es tria una necessitat comunicativa; després s'hi incorpora el coneixement que realment ajuda a resoldre-la.
-
-## Com construir un diàleg
-
-Abans d'escriure'l, anota per a tu mateix:
-
-1. **La situació comunicativa:** què intenta entendre, explicar, decidir o comprovar la persona?
-2. **La pregunta espontània:** com ho preguntaria sense haver vist la fitxa?
-3. **El fil de seguiment:** quin dubte nou podria sorgir de la resposta, sense que l'autor l'hagi de suggerir artificialment?
-4. **El límit de la font:** quina conclusió no es pot treure?
-
-Després escriu el diàleg. No incloguis aquestes notes als missatges.
-
-### Regles de redacció
-
-- Obre amb la necessitat o el dubte, no amb el nom de la secció, la fitxa o una fila.
-- Fes que cada torn aporti una cosa nova: una distinció, una conseqüència, una excepció o una decisió pràctica.
-- Accepta converses curtes quan el dubte queda resolt. No calen sempre dos seguiments.
-- No facis servir «I això vol dir que...?» si la resposta no ha creat aquesta confusió de manera plausible.
-- Varia la forma de les preguntes i les respostes. No comencis cada registre amb «Si...» o «Aleshores...».
-- No inventis una biografia, una experiència personal ni una falsa urgència per fer la pregunta més viva.
-- No converteixis cada fila, xifra o unitat de cobertura en una conversa independent. Agrupa dades quan serveixen per respondre una mateixa necessitat.
-- No forcis tota la cobertura dins de converses llargues. Una conversa natural pot cobrir una part; la cobertura es comprova per separat.
-
-## Exemples de calibratge
-
-Els diàlegs següents parteixen de dades presents als registres revisats. Són exemples de forma i de progressió, no plantilles per copiar literalment.
-
-### 0. Resoldre el dubte en una resposta
+## La Dama Blanca i el llop
 
 ```json
-{"messages":[{"role":"user","content":"Passo per Aubinyà: hi ha alguna cosa relacionada amb la Dama Blanca que es pugui veure?"},{"role":"assistant","content":"Sí. A l’entrada del poble hi ha una escultura metàl·lica de Toni Cruz que representa la Dama Blanca acompanyada d’un llop."}]}
+{"messages":[{"role":"user","content":"A l'escultura de la Dama Blanca d'Aubinyà també hi surt un llop. Quin paper té en la llegenda?"},{"role":"assistant","content":"La llegenda continua després que el bisbe d'Urgell desaparegui: un llop negre comença a sembrar el terror i un síndic el mata. Després, el síndic té malsons i embogeix. El relat diu que el llop duia dins seu l'ànima negra del bisbe."},{"role":"user","content":"Així que el llop és el bisbe, d'alguna manera?"},{"role":"assistant","content":"Dins la llegenda, sí: el llop conté l'ànima del bisbe. És part del relat llegendari, no una afirmació sobre un fet històric."}]}
 ```
 
-**Per què funciona:** és una pregunta pràctica que podria sorgir en visitar el poble. La resposta la resol en un torn. Afegir-ne un altre només per allargar el diàleg no hi aportaria res. La informació surt de la fitxa de la Dama Blanca, basada en una font CC BY-SA 4.0.
+**Per què funciona:** la pregunta sorgeix d'un element visible de l'escultura;
+la resposta explica el fil narratiu i el seguiment comprova una interpretació
+plausible. L'assistent marca que es tracta d'una llegenda.
 
-### 1. Preparar una explicació breu
+## Ficció televisiva i història
 
 ```json
-{"messages":[{"role":"user","content":"He de resumir què ha passat amb el cinema entre el 2019 i el 2024. Puc dir que el públic jove és qui més hi ha tornat?"},{"role":"assistant","content":"No exactament. La proporció que anava al cinema va augmentar en tots els trams d’edat, però l’increment més gran va ser entre les persones de 45 a 64 anys: 12,8 punts. Entre les de 15 a 29 anys va pujar 3,4 punts."},{"role":"user","content":"Llavors, quina frase evitaria confondre l’augment amb qui hi va més?"},{"role":"assistant","content":"Pots dir que l’assistència declarada al cinema va créixer en tots els grups d’edat, amb l’augment més fort entre els 45 i els 64 anys. El 2024, però, la proporció més alta continuava sent la dels joves de 15 a 29 anys: 78,8%, davant del 68,6% entre els 45 i els 64."}]}
+{"messages":[{"role":"user","content":"La minisèrie «Andorra, entre el torb i la Gestapo» és fidel als fets o s'inventa part de la història?"},{"role":"assistant","content":"És una ficció basada en fets reals i en el llibre autobiogràfic de Francesc Viadiu. La trama dramatitza una xarxa d'evasió per Andorra que ajuda aviadors britànics ferits i perseguits per la Gestapo."},{"role":"user","content":"Aleshores, per explicar què va passar de debò, em puc basar només en la minisèrie?"},{"role":"assistant","content":"No. La pots fer servir per parlar de com la sèrie explica aquests fets, però no per provar que cada escena va passar tal com es veu. Per explicar la història, cal contrastar-ne la trama amb fonts documentals."}]}
 ```
 
-**Per què funciona:** la persona té una tasca concreta; el seguiment demana una formulació útil i neix de la distinció de la primera resposta. No demana llegir una taula en veu alta.
+**Per què funciona:** la primera resposta separa l'origen autobiogràfic de la
+dramatització. El seguiment pregunta per una conseqüència concreta i rep un
+límit d'evidència clar.
 
-### 2. Comprovar si dues dades es contradiuen
-
-```json
-{"messages":[{"role":"user","content":"He vist que hi ha més persones inscrites a les biblioteques, però l’enquesta diu que hi va menys gent. Quina de les dues dades és correcta?"},{"role":"assistant","content":"Poden ser correctes totes dues perquè mesuren coses diferents. Les inscripcions van passar de 19.580 el 2016 a 29.364 el 2024. L’enquesta estima la proporció de persones que deien haver visitat una biblioteca: va baixar del 36,4% el 2019 al 30,7% el 2024."},{"role":"user","content":"Per tant, amb les inscripcions no puc afirmar que les visites hagin augmentat?"},{"role":"assistant","content":"Exacte. Una inscripció compta persones registrades; no compta ni les visites ni la freqüència d’ús. Per parlar de visites cal una sèrie de visites, que aquestes xifres no aporten."}]}
-```
-
-**Per què funciona:** parteix d’una aparent contradicció i resol la diferència entre mesures sense insinuar que cap dada sigui errònia.
-
-### 3. Demanar una conclusió que les dades no permeten
-
-```json
-{"messages":[{"role":"user","content":"Els recomptes dels museus han baixat. Això vol dir que hi han anat menys residents?"},{"role":"assistant","content":"El recompte total de visitants va baixar de 149.679 el 2019 a 92.583 el 2024, però aquesta sèrie no separa residents i turistes. Per tant, no permet saber quin grup explica la baixada."},{"role":"user","content":"I l’enquesta pot aclarir-ho?"},{"role":"assistant","content":"L’enquesta també mostra una baixada en la proporció de persones que deien haver visitat un museu, del 63,8% al 54,5%. Però aquestes xifres tampoc no identifiquen si els visitants eren residents o turistes."}]}
-```
-
-**Per què funciona:** respon a la inferència que la persona vol fer i explica quin límit comparteixen les dues fonts.
-
-## Exemples que cal rebutjar
+## Patrons que cal rebutjar
 
 ```text
 Què explica la secció «El relat» de la fitxa «La troballa de Meritxell»?
 Què indica aquesta fila?
-Quin és el percentatge de 2014?
-La baixada afecta igual totes les edats? I els joves? I les persones grans?
+Quina resposta dona el segon paràgraf?
+La baixada és igual a totes les edats? I als joves? I a la gent gran?
 ```
 
-Les tres primeres depenen de l'estructura de la font o semblen un examen. L'última encadena preguntes de cobertura sense una conversa que les motivi.
+Les primeres preguntes depenen del document o semblen un qüestionari. L'última
+encadena subpreguntes sense deixar que la resposta anterior motivi el torn
+següent.
 
-## Revisió abans d'incorporar un registre
+## Prova final
 
-- La pregunta inicial té sentit fora de Maia i no delata la fitxa d'origen.
-- La necessitat és concreta i plausible, sense ficció biogràfica.
-- Cada seguiment respon a alguna cosa dita abans i canvia o aprofundeix el dubte.
-- Si traiem un torn, el diàleg perd una distinció o un pas útil; si no, traiem-lo.
-- Les respostes comencen pel que la persona necessita saber i no reciten dades sense explicar-les.
-- Les xifres tenen període, unitat i comparació clars. Una variació de percentatge no es confon amb punts percentuals.
-- La font sosté les afirmacions i els límits. Cap correlació no es presenta com a causa.
-- No hi ha una pregunta gairebé duplicada ni una seqüència mecànica repetida en els registres propers.
-- Les unitats cobertes consten a la procedència, no s'utilitzen per justificar una pregunta artificial.
-
-Si un registre no passa aquests punts, es reescriu o queda fora de la revisió activa.
+Llegeix només els missatges, sense veure la fitxa font. Si no s'entén què vol
+saber l'usuari, si la conversa sona com una tasca d'extracció o si algun torn
+només hi és per fer-la més llarga, reescriu-la.

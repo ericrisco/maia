@@ -1,3 +1,4 @@
-# Exports de Maia Language
+# Exports de Language
 
-Encara no hi ha exports. Només es generaran quan els fragments humans elegibles estiguin revisats i els splits evitin barrejar fragments de la mateixa peça o parlant.
+No hi ha exports. Els splits només es crearan després d'auditar el material humà
+i agrupar-lo per peça o parlant.

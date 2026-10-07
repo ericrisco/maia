@@ -1,28 +1,12 @@
 # Maia Training Data
 
-Aquesta carpeta prepara dos datasets separats a partir de `docs/`.
+Àrea de treball per preparar dos fluxos independents:
 
-- **Knowledge**: converses que ensenyen el coneixement andorrà del corpus.
-- **Language**: parla andorrana contemporània autèntica, produïda per persones.
+- **Knowledge**: respostes informatives fonamentades en `docs/temes/`.
+- **Language**: mostres reals de català andorrà de `docs/parla/`.
 
-`knowledge/review/conversations.jsonl` ja conté tres converses aprovades. Encara no són els exports `train`, `validation` i `test`: abans cal completar cobertura, deduplicació i splits.
+No es barregen objectius ni registres. Ara mateix només hi ha dos exemples de
+calibratge de Knowledge. No s'han generat exports ni s'ha declarat cobertura.
 
-## Estructura
-
-```text
-training-data/
-├── PLAN.md
-├── knowledge/
-│   ├── review/       # converses i procedència
-│   ├── work/         # inventari i estat de cobertura
-│   ├── reports/      # cobertura, qualitat i exclusions
-│   ├── scripts/      # inventari i validació
-│   └── output/       # exports després de la revisió
-└── language/
-    ├── review/       # fragments humans i procedència
-    ├── work/         # elegibilitat i verificació
-    ├── reports/      # peces incloses i exclusions
-    └── output/       # exports després de la revisió
-```
-
-No es creen fitxers d'export buits.
+El procés i els criteris són a [`PLAN.md`](PLAN.md). Les mostres inicials i els
+criteris de conversa són a [`knowledge/review/EXEMPLES.md`](knowledge/review/EXEMPLES.md).

@@ -1,50 +1,99 @@
 # Pla de Maia Training Data
 
-## Objectiu complet
+## Propòsit
 
-Crear dos datasets separats a partir del corpus `docs/`:
+Preparar converses útils per a un assistent, a partir del corpus `docs/`, sense
+convertir cada secció en una pregunta ni afegir-hi informació de fora.
 
-- **Maia Knowledge** cobreix de manera exhaustiva el coneixement útil de `docs/temes/` amb converses naturals, correctes i preparades per entrenar.
-- **Maia Language** conserva el català andorrà contemporani produït per persones a `docs/parla/`, sense inventar llengua ni respostes.
+Hi ha dos fluxos separats:
 
-No es barreja coneixement amb senyal lingüístic. La qualitat i la cobertura tenen prioritat sobre el volum.
+- **Knowledge** respon preguntes sobre Andorra amb informació de `docs/temes/`.
+- **Language** conserva llengua contemporània produïda per persones a
+  `docs/parla/`. No s'hi redacten respostes artificials per imitar una veu local.
 
-## Format actiu
+## Fase actual: calibratge
 
-`knowledge/review/conversations.jsonl` conté una conversa per línia, només amb `messages` i torns alterns `user` / `assistant`. La procedència i les unitats cobertes van a `provenance.jsonl`, mai als missatges.
+Abans de reprendre la producció, revisar els exemples de
+`knowledge/review/EXEMPLES.md` i confirmar que el to, la naturalitat i la
+progressió dels torns són els desitjats. Els exemples són mostres de calibratge,
+no una declaració de cobertura del corpus.
 
-Cada conversa nova es revisa, valida, commiteja i puja individualment a `main`. No s'acumulen converses noves en un mateix commit.
+## Com crear converses de Knowledge
 
-## Com escriure converses que sonin humanes
+1. **Comença per una necessitat humana.** Tria què vol entendre, aclarir,
+   comparar o comprovar la persona. No parteixis d'un títol, una secció o una
+   fila que s'hagi de cobrir.
+2. **Escriu la pregunta com es faria parlant.** Ha de tenir sentit encara que la
+   persona no conegui el corpus ni la fitxa. No inventis una biografia per
+   justificar la pregunta.
+3. **Respon de seguida al dubte.** Dona el context necessari, explica les
+   distincions que importen i conserva els límits de l'evidència. Evita recitar
+   dades sense explicar per què responen la pregunta.
+4. **Afegeix seguiments només quan neixin del diàleg.** Cada nova pregunta ha de
+   sorgir d'una cosa concreta que acaba de dir l'assistent i ha d'aportar un pas
+   útil. No hi ha una llargada obligatòria: una bona conversa pot tenir un sol
+   intercanvi.
+5. **Separa conversa i auditoria.** Els missatges contenen només la conversa.
+   Fonts, llicències, afirmacions sostingudes, límits i cobertura van a
+   `knowledge/review/provenance.jsonl`.
 
-La cobertura del corpus i la naturalitat de la conversa són controls diferents. No transformis cada unitat de cobertura en una pregunta. Agrupa el coneixement que serveix a una mateixa necessitat i comprova la cobertura a la procedència.
+### Preguntes que cal evitar
 
-Abans de redactar, identifica la situació comunicativa: entendre una aparent contradicció, preparar una explicació, comprovar una afirmació, comparar opcions o saber què permet concloure una dada. Formula la pregunta tal com sorgiria en aquella situació, sense referir-te a la fitxa. Escriu seguiments només si un dubte nou apareix de manera plausible després de la resposta.
+- «Què explica la secció X de la fitxa Y?»
+- «Què indica aquesta fila?» o «I dos topònims que en surten?»
+- fragments que pressuposen que l'usuari ha vist una taula o un document;
+- preguntes successives que només existeixen per omplir més torns;
+- preguntes que demanen una dada aïllada quan una persona normal preguntaria
+  pel seu significat, context o límit.
 
-No imposis una llargada fixa. Una conversa pot acabar després d'una resposta; pot tenir més torns si cada pas aporta una distinció necessària. No repeteixis una forma de diàleg com a plantilla ni inventis una biografia per donar aparença d'autenticitat. Les respostes han de resoldre la necessitat amb les dades i els límits pertinents.
+### Revisió de cada conversa
 
-La guia amb exemples calibrats és `knowledge/review/EXEMPLES.md`. Els registres que es van aprovar abans d'aquesta guia no s'han de considerar automàticament aprovats pel criteri nou: s'han de revisar abans de publicar els exports.
+- La pregunta inicial sona plausible fora d'un examen i no delata l'estructura de
+  la font.
+- La resposta resol la pregunta abans d'afegir context.
+- Cada seguiment té una causa visible en el torn anterior; si es pot eliminar
+  sense perdre res, s'elimina.
+- El diàleg no força una mateixa plantilla ni repeteix el mateix tipus de
+  seguiment en registres consecutius.
+- Cada afirmació factual està sostinguda per la font indicada. Llegendes,
+  interpretacions, ficció, hipòtesis i fets documentats queden distingits.
+- La llicència permet l'ús previst i la procedència dona l'atribució requerida.
+- No s'exposa al missatge cap ID intern, estat de revisió ni nota del pipeline.
 
-## Cobertura exhaustiva de Knowledge
+## Registre i creixement
 
-Processa totes les fitxes de `docs/temes/`, inclosos títols, seccions, paràgrafs, llistes, taules, files, cronologies, nombres, entitats, relacions, comparacions, correccions, divergències i buits explícits. No donis cobertura per acabada comptant converses: cada unitat útil ha d'estar representada en una resposta o tenir una exclusió justificada i auditable.
+Els exemples aprovats es guarden com una conversa JSONL per línia a
+`knowledge/review/conversations.jsonl`, amb només `messages` i rols alterns
+`user` / `assistant`. La procedència es guarda en una línia corresponent de
+`provenance.jsonl`.
 
-Mantén inventari regenerable, procedència, decisions de cobertura i grups de deduplicació fora dels missatges. Registra drets, atribució, límits i dades font abans d'incloure informació. No completis amb coneixement extern el que el corpus no resol.
+La cobertura es controla per separat: una conversa pot resoldre una necessitat
+amb diverses unitats de coneixement, i una unitat no obliga a fabricar una
+pregunta. Les unitats no cobertes han de quedar identificades i, si s'exclouen,
+cal justificar-ho.
 
-## Maia Language
+Abans de crear registres a escala:
 
-Inspecciona totes les peces de `docs/parla/`. Només inclou material que compleixi `veu == originaria`, `epoca == contemporania` i `apte_llengua == true`. Revisa drets, consentiment aplicable i fiabilitat de la transcripció. Conserva els fragments humans; no generis respostes que imitin la parla andorrana.
+1. aprovar el calibratge;
+2. regenerar l'inventari de `docs/temes/` i establir l'estat de cobertura;
+3. treballar tema a tema, agrupant fets quan serveixin la mateixa necessitat;
+4. auditar drets i procedència abans d'incorporar contingut;
+5. deduplicar, revisar naturalitat i factualitat, i només llavors crear splits i
+   exports no buits.
 
-Separa els splits per peça o parlant per evitar que fragments consecutius de la mateixa conversa passin a train i test.
+Cada registre nou passa revisió i validació abans d'incorporar-se. El flux de Git
+acordat és un commit i un push per conversa.
 
-## Exports i validació
+## Flux de Language
 
-No publiquis exports fins que cobertura, drets, deduplicació i splits estiguin revisats. Cada split serà JSONL vàlid amb una conversa per línia. Informa documents inspeccionats, unitats cobertes, exclusions, converses i registres per split. Els exports no es creen buits.
+Inspecciona totes les peces de `docs/parla/`. Inclou només material elegible,
+amb drets, consentiment i fiabilitat de transcripció revisats. Conserva la veu
+humana; no generis preguntes i respostes fictícies per fer-la semblar
+andorrana. Separa els splits per peça o parlant per evitar filtracions entre
+train, validation i test.
 
-## Fases de treball
+## Exports
 
-1. Calibrar el criteri de conversa amb els exemples de `knowledge/review/EXEMPLES.md` i revisar els registres existents amb aquest criteri.
-2. Regenerar inventari i estat de cobertura de `docs/temes/`.
-3. Recórrer Knowledge tema a tema, creant converses des de necessitats humanes i auditant la cobertura a part.
-4. Auditar i preparar Maia Language en un flux separat.
-5. Deduplicar, revisar qualitat humana, dividir, validar i publicar els exports i informes.
+No creïs fitxers de split buits ni declaris el dataset preparat fins que la
+cobertura, els drets, la deduplicació i la partició s'hagin revisat. Els
+missatges finals no inclouran metadades internes.

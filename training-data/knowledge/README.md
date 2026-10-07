@@ -1,10 +1,10 @@
 # Maia Knowledge
 
-Conversa sobre Andorra, amb respostes basades en `docs/temes/`.
+Converses informatives basades en `docs/temes/`. La naturalitat de cada diàleg i
+la cobertura del corpus es revisen per separat.
 
-- `review/conversations.jsonl`: registres aprovats, una conversa per línia.
-- `review/provenance.jsonl`: font, llicència, límits i unitats cobertes, en el mateix ordre.
-- `work/`: inventari del corpus i estat auditable per document.
-- `reports/`: cobertura i exclusions.
-- `scripts/`: generació de l'inventari i validació.
-- `output/`: splits finals, quan hi hagi cobertura revisada.
+- `review/`: exemples i registres en revisió o aprovats, amb procedència
+  paral·lela.
+- `work/`: inventaris i decisions de cobertura regenerables.
+- `reports/`: informes de cobertura, exclusions i qualitat.
+- `output/`: exports train, validation i test, només quan estiguin revisats.

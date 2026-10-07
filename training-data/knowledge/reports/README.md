@@ -1,3 +1,5 @@
 # Informes de Knowledge
 
-Els informes de cobertura, qualitat, exclusions i duplicats es generaran després d'aprovar el criteri de calibratge i reprendre la revisió del corpus.
+Quan comenci l'auditoria exhaustiva, documenta aquí documents inspeccionats,
+unitats cobertes, exclusions justificades, qualitat, duplicats i limitacions.
+No declaris cobertura a partir del nombre de converses.

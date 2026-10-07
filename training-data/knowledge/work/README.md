@@ -1,3 +1,4 @@
-# Treball de Knowledge
+# Work de Knowledge
 
-Aquí aniran l'inventari de documents, les unitats de coneixement, les decisions de cobertura i els grups per evitar que exemples equivalents caiguin en splits diferents. Encara no hi ha inventari nou.
+Inventari regenerable de `docs/temes/`, mapa d'unitats semàntiques i decisions
+de cobertura. No hi desem missatges d'entrenament ni material font duplicat.

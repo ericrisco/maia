@@ -1,3 +1,4 @@
-# Revisió de Maia Language
+# Revisió de Language
 
-Els fragments humans i la seva procedència s'afegiran aquí després d'auditar elegibilitat, drets i qualitat de transcripció. Knowledge i Language no comparteixen registres.
+Reserva per revisar fragments humans, consentiment aplicable, llicències i
+fiabilitat de transcripció. Encara no hi ha registres aprovats.

@@ -1,3 +1,4 @@
-# Informes de Maia Language
+# Informes de Language
 
-Aquí s'informaran les peces inspeccionades, incloses i excloses, els fragments verificats i els motius d'exclusió.
+Documenta peces inspeccionades, fragments utilitzats o exclosos, incertesa de
+transcripció, drets i criteris de partició quan s'iniciï aquest flux.
