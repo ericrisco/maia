@@ -103,11 +103,17 @@
     ]
   },
   "docs/temes/costums/falles/falles.md": {
-    "status": "not_started",
+    "status": "in_progress",
     "open_units": [
       "variants i recorreguts per parròquia",
       "estat del reconeixement patrimonial andorrà i fonts comunals",
       "any exacte de la pèrdua i persones que van recuperar la tradició"
+    ],
+    "conversation_ids": [
+      "falles-andorra-i-valencia-materials-001"
+    ],
+    "reviewed_units": [
+      "Distinció entre les falles andorranes com a torxes i les falles valencianes; materials i pràctica tradicional descrits per Canturri."
     ]
   },
   "docs/temes/costums/caramelles/les-caramelles.md": {

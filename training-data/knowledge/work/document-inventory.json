@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 14,
+    "in_progress": 15,
     "no_natural_question": 0,
-    "not_started": 1334
+    "not_started": 1333
   },
   "documents": [
     {
@@ -307,10 +307,14 @@
       "type": "article",
       "topic": "temes/costums/falles",
       "source": "canturri-usos-i-costums",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "falles-andorra-i-valencia-materials-001"
+      ],
+      "reviewed_units": [
+        "Distinció entre les falles andorranes com a torxes i les falles valencianes; materials i pràctica tradicional descrits per Canturri."
+      ],
       "open_units": [
         "variants i recorreguts per parròquia",
         "estat del reconeixement patrimonial andorrà i fonts comunals",
