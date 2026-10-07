@@ -467,11 +467,11 @@
       "title": "Andorra vista de fora",
       "type": "article",
       "topic": "temes/cultura/andorra-vista-de-fora",
-      "status": "in_progress",
+      "status": "complete",
       "unit_count": 35,
       "covered_unit_ids": [],
-      "excluded_unit_count": 34,
-      "open_unit_count": 1,
+      "excluded_unit_count": 35,
+      "open_unit_count": 0,
       "conversation_ids": []
     },
     "docs/temes/cultura/andorra-vista-de-fora/els-descobridors.md": {
