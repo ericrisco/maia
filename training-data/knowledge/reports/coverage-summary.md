@@ -4,14 +4,14 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 
 - Fitxes article: **1348**.
 - Fitxers totals, inclosos índexs: **1477**.
-- Converses candidates: **6**.
+- Converses candidates: **7**.
 
 | Estat de revisió | Fitxes |
 |---|---:|
 | Revisades completes | 1 |
-| En curs | 0 |
+| En curs | 2 |
 | Revisades sense pregunta natural | 0 |
-| No començades | 1347 |
+| No començades | 1345 |
 
 ## Estat per tema
 
@@ -41,7 +41,7 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 | `temes/cultura/musica-i-cancons` | 3 | 3 | 0 | 0 | 0 |
 | `temes/cultura/teatre` | 2 | 2 | 0 | 0 | 0 |
 | `temes/economia/banca-i-fiscalitat` | 33 | 33 | 0 | 0 | 0 |
-| `temes/economia/comerc` | 17 | 16 | 0 | 1 | 0 |
+| `temes/economia/comerc` | 17 | 15 | 1 | 1 | 0 |
 | `temes/economia/energia-i-serveis` | 4 | 4 | 0 | 0 | 0 |
 | `temes/economia/les-grans-families` | 1 | 1 | 0 | 0 | 0 |
 | `temes/economia/ramaderia-i-agricultura` | 11 | 11 | 0 | 0 | 0 |
@@ -79,7 +79,7 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 | `temes/historia/moments-historics` | 2 | 2 | 0 | 0 | 0 |
 | `temes/historia/origens` | 15 | 15 | 0 | 0 | 0 |
 | `temes/historia/pareatge` | 6 | 6 | 0 | 0 | 0 |
-| `temes/historia/segle-xix` | 29 | 29 | 0 | 0 | 0 |
+| `temes/historia/segle-xix` | 29 | 28 | 1 | 0 | 0 |
 | `temes/historia/segle-xx-primera-meitat` | 30 | 30 | 0 | 0 | 0 |
 | `temes/institucions/comuns-i-parroquies` | 35 | 35 | 0 | 0 | 0 |
 | `temes/institucions/consell-general` | 84 | 84 | 0 | 0 | 0 |

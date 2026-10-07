@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 1,
-    "in_progress": 0,
+    "in_progress": 2,
     "no_natural_question": 0,
-    "not_started": 1347
+    "not_started": 1345
   },
   "documents": [
     {
@@ -2199,11 +2199,24 @@
       "type": "article",
       "topic": "temes/economia/comerc",
       "source": "diario-sesiones-corts-1895",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "corts1895-importacions-transit-franca-001"
+      ],
+      "reviewed_units": [
+        "L'inventari oficial del 27 de març de 1895 desglossa les compres d'Andorra a Espanya per partida i valor, i suma 467.419 pessetes per a uns 6.000 habitants.",
+        "Les partides de xocolata, llumins i cafè inclouen quantitats que anaven a l'estranger, identificat en aquest context com França; el document no en separa la quantitat exacta.",
+        "Carvajal relaciona els aranzels amb el contraban, però les partides en trànsit no identifiquen cada enviament com a il·legal."
+      ],
+      "open_units": [
+        "El pes del vi i les begudes en la cistella d'importacions.",
+        "El predomini del sègol respecte del blat i què permet inferir sobre el pa i el consum.",
+        "Les categories absents o petites, inclosa la carn, els lactis i les patates.",
+        "Les partides menudes de la llista i què acrediten sobre correu, llum i consum quotidià.",
+        "La discrepància de 40.000 pessetes entre l'inventari parlamentari i el fullet citat per Brutails, i el límit de les comparacions disponibles.",
+        "Les dues notes al peu i els límits de les dades de la font."
+      ],
       "completion_note": "",
       "reason": ""
     },
@@ -10073,9 +10086,11 @@
       "type": "article",
       "topic": "temes/historia/segle-xix",
       "source": "diario-sesiones-corts-1895",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "corts1895-importacions-transit-franca-001"
+      ],
       "reviewed_units": [],
       "open_units": [],
       "completion_note": "",
