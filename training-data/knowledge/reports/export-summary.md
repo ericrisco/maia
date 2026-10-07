@@ -2,14 +2,14 @@
 
 Aquest report no acredita cobertura exhaustiva: mostra els registres aprovats i les fitxes representades fins ara.
 
-- Converses candidates: **68**.
-- Converses exportades: **68**.
-- Fitxes font representades: **13**.
+- Converses candidates: **69**.
+- Converses exportades: **69**.
+- Fitxes font representades: **14**.
 - Fitxes article a `docs/temes/`: **1348** (fitxers totals: 1477).
 
 | Split | Converses |
 |---|---:|
-| `train` | 68 |
+| `train` | 69 |
 | `validation` | 0 |
 | `test` | 0 |
 
@@ -24,6 +24,7 @@ Aquest report no acredita cobertura exhaustiva: mostra els registres aprovats i 
 - `docs/temes/costums/danses/la-marratxa.md`
 - `docs/temes/costums/falles/falles.md`
 - `docs/temes/cultura/teatre/el-teatre-de-carnestoltes.md`
+- `docs/temes/historia/pareatge/el-pareatge.md`
 - `docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md`
 - `docs/temes/institucions/justicia/podies-denunciar-un-consol-pero-no-demandar-lo.md`
 - `docs/temes/institucions/justicia/si-dos-consellers-son-parents-desapareix-una-instancia.md`

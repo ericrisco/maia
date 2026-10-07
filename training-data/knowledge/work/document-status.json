@@ -153,7 +153,8 @@
       "coreografia actual fixada als anys seixanta a partir de la memòria de Ricard Mas; l’Esbart Laurèdia la interpreta des del 1963",
       "la fixació moderna de la coreografia no prova l’origen de la dansa",
       "marratxa/morratxa/almorratxa: recipient d’aigua perfumada portat pels dansaires als orígens; l’objecte ja no forma part del ball",
-      "ballada dilluns de la festa major de Sant Julià amb la Passa i el Cerdà; el corpus no dona l’hora"
+      "ballada dilluns de la festa major de Sant Julià amb la Passa i el Cerdà; el corpus no dona l’hora",
+      "la tradició data la primera ballada el 7-09-1278 després dels Pareatges; el document és datat el 8-09-1278 i la contradicció no està resolta"
     ],
     "completion_note": "",
     "reason": ""
@@ -173,6 +174,14 @@
     "reviewed_units": [
       "dallaires presents durant tota la farsa i interpretats pels joves amb els seus noms",
       "lectura iniciàtica atribuïda a Ysàs Trias: aprenentatge laboral i sexual, mort de l’ossa i reconeixement com a adults; tesi subjacent no consultada directament"
+    ],
+    "completion_note": "",
+    "reason": ""
+  },
+  "docs/temes/historia/pareatge/el-pareatge.md": {
+    "status": "in_progress",
+    "reviewed_units": [
+      "data del Pareatge del 1278: 8 de setembre segons la fitxa del corpus; contrastada amb la data tradicional de la Marratxa, discrepància oberta"
     ],
     "completion_note": "",
     "reason": ""
