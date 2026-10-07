@@ -1,10 +1,11 @@
 # Maia Knowledge
 
-Converses sobre Andorra fonamentades en fonts elegibles de `docs/temes/`.
+Conjunt de converses sobre Andorra basades en totes les fonts elegibles de `docs/temes/`.
 
-- `review/`: guia, exemples de calibratge i procedència. No són dades actives.
-- `candidates/`: cua futura de converses revisables.
-- `work/`: inventari, drets i cobertura.
-- `scripts/`: eines que s'afegiran quan el format estigui aprovat.
-- `reports/`: cobertura i qualitat.
-- `output/`: exports revisats i dividits. Actualment buit.
+- `review/calibration.jsonl`: exemples editorials, fora del dataset.
+- `review/conversations.jsonl`: converses actives, una per línia.
+- `review/provenance.jsonl`: procedència paral·lela, fora del text d'entrenament.
+- `work/`: inventari i cobertura de totes les fitxes.
+- `scripts/`: eines de revisió, validació, deduplicació i exportació.
+- `reports/`: cobertura, drets, exclusions i qualitat.
+- `output/`: exports revisats, deduplicats i dividits.
