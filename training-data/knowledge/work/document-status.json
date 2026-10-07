@@ -455,5 +455,21 @@
     "reviewed_units": [
       "El corpus documenta «nascència» aplicada a animals, però no permet confirmar-ne l’ús referit a persones ni declarar-lo incorrecte."
     ]
+  },
+  "docs/temes/cultura/andorra-vista-de-fora/andorra-vista-de-fora.md": {
+    "status": "in_progress",
+    "open_units": [
+      "Lectura directa de la novel·la i visionat de la pel·lícula d’Isabelle Sandy.",
+      "Any d’emissió de la minisèrie: les fonts discrepen entre 1999 i 2000.",
+      "Lectura de la novel·la original de Francesc Viadiu.",
+      "Catàleg d’obres de viatgers, documentals i cinema rodat a Andorra.",
+      "Representacions contemporànies d’Andorra des de fora."
+    ],
+    "conversation_ids": [
+      "adaptacio-estanc-i-retrat-dandorra-001"
+    ],
+    "reviewed_units": [
+      "Canturri considera l’estanc de la minisèrie un error institucional que delata una representació genèrica d’Andorra; la seva lectura queda atribuïda."
+    ]
   }
 }

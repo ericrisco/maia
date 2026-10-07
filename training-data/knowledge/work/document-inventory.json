@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 28,
+    "in_progress": 30,
     "no_natural_question": 0,
-    "not_started": 1320
+    "not_started": 1318
   },
   "documents": [
     {
@@ -690,11 +690,21 @@
       "type": "article",
       "topic": "temes/cultura/andorra-vista-de-fora",
       "source": "canturri-usos-i-costums",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "adaptacio-estanc-i-retrat-dandorra-001"
+      ],
+      "reviewed_units": [
+        "Canturri considera l’estanc de la minisèrie un error institucional que delata una representació genèrica d’Andorra; la seva lectura queda atribuïda."
+      ],
+      "open_units": [
+        "Lectura directa de la novel·la i visionat de la pel·lícula d’Isabelle Sandy.",
+        "Any d’emissió de la minisèrie: les fonts discrepen entre 1999 i 2000.",
+        "Lectura de la novel·la original de Francesc Viadiu.",
+        "Catàleg d’obres de viatgers, documentals i cinema rodat a Andorra.",
+        "Representacions contemporànies d’Andorra des de fora."
+      ],
       "completion_note": "",
       "reason": ""
     },
@@ -2934,9 +2944,11 @@
       "type": "article",
       "topic": "temes/economia/tabac",
       "source": "viquipedia-ca",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "adaptacio-estanc-i-retrat-dandorra-001"
+      ],
       "reviewed_units": [],
       "open_units": [],
       "completion_note": "",
