@@ -142,12 +142,19 @@
       "title": "La marratxa",
       "type": "article",
       "topic": "temes/costums/danses",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 24,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/costums/danses/la-marratxa.md#unit-0015",
+        "docs/temes/costums/danses/la-marratxa.md#unit-0016",
+        "docs/temes/costums/danses/la-marratxa.md#unit-0017",
+        "docs/temes/costums/danses/la-marratxa.md#unit-0018"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 24,
-      "conversation_ids": []
+      "open_unit_count": 20,
+      "conversation_ids": [
+        "marratxa-coreografia-memoria-i-data-001"
+      ]
     },
     "docs/temes/costums/danses/les-festes-de-lossa.md": {
       "title": "Les festes de l'ossa",
