@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 3,
+    "in_progress": 4,
     "no_natural_question": 0,
-    "not_started": 1345
+    "not_started": 1344
   },
   "documents": [
     {
@@ -254,8 +254,10 @@
       "topic": "temes/costums/falles",
       "source": "canturri-usos-i-costums",
       "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
+      "conversation_count": 1,
+      "conversation_ids": [
+        "coca-massegada-sant-joan-i-falles-01"
+      ],
       "reviewed_units": [],
       "open_units": [
         "variants i recorreguts per parròquia",
@@ -7372,11 +7374,20 @@
       "type": "article",
       "topic": "temes/gastronomia/rebosteria",
       "source": "premsa-andorrana",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "coca-massegada-sant-joan-i-falles-01"
+      ],
+      "reviewed_units": [
+        "Ingredients principals de la coca massegada i fruita emprada; consum tradicional la nit del 23 de juny.",
+        "Relació temporal amb les falles de Sant Joan, sense confondre les dues tradicions."
+      ],
+      "open_units": [
+        "Grafia normativa massegada/masegada i etimologia, no verificades.",
+        "Receptari oficial de Visit Andorra pendent de buidar; proporcions i preparació no documentades aquí.",
+        "Identificació de l’article periodístic i revisió dels drets de reutilització."
+      ],
       "completion_note": "",
       "reason": ""
     },

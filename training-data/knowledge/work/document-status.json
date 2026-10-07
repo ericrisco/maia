@@ -192,5 +192,20 @@
       "Vigència consolidada després de modificacions i normativa posterior; la fitxa no reconstrueix tota la cadena normativa.",
       "Expedients concrets, compliment de les obligacions, jurisprudència i càlcul tècnic del risc residual."
     ]
+  },
+  "docs/temes/gastronomia/rebosteria/la-coca-massegada.md": {
+    "status": "in_progress",
+    "conversation_ids": [
+      "coca-massegada-sant-joan-i-falles-01"
+    ],
+    "reviewed_units": [
+      "Ingredients principals de la coca massegada i fruita emprada; consum tradicional la nit del 23 de juny.",
+      "Relació temporal amb les falles de Sant Joan, sense confondre les dues tradicions."
+    ],
+    "open_units": [
+      "Grafia normativa massegada/masegada i etimologia, no verificades.",
+      "Receptari oficial de Visit Andorra pendent de buidar; proporcions i preparació no documentades aquí.",
+      "Identificació de l’article periodístic i revisió dels drets de reutilització."
+    ]
   }
 }

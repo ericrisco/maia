@@ -4,14 +4,14 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 
 - Fitxes article: **1348**.
 - Fitxers totals, inclosos índexs: **1477**.
-- Converses candidates: **3**.
+- Converses candidates: **4**.
 
 | Estat de revisió | Fitxes |
 |---|---:|
 | Revisades completes | 0 |
-| En curs | 3 |
+| En curs | 4 |
 | Revisades sense pregunta natural | 0 |
-| No començades | 1345 |
+| No començades | 1344 |
 
 ## Estat per tema
 
@@ -66,7 +66,7 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 | `temes/gastronomia/historia-alimentaria` | 5 | 5 | 0 | 0 | 0 |
 | `temes/gastronomia/plats` | 5 | 5 | 0 | 0 | 0 |
 | `temes/gastronomia/productes` | 2 | 2 | 0 | 0 | 0 |
-| `temes/gastronomia/rebosteria` | 1 | 1 | 0 | 0 | 0 |
+| `temes/gastronomia/rebosteria` | 1 | 0 | 1 | 0 | 0 |
 | `temes/historia/antic-regim` | 50 | 50 | 0 | 0 | 0 |
 | `temes/historia/constitucio-1993` | 2 | 2 | 0 | 0 | 0 |
 | `temes/historia/contraban` | 2 | 2 | 0 | 0 | 0 |
