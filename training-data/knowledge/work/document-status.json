@@ -884,11 +884,13 @@
         "docs/temes/cultura/llegendes/el-tamarro.md#unit-0014",
         "docs/temes/cultura/llegendes/el-tamarro.md#unit-0015",
         "docs/temes/cultura/llegendes/el-tamarro.md#unit-0016",
-        "docs/temes/cultura/llegendes/el-tamarro.md#unit-0017"
+        "docs/temes/cultura/llegendes/el-tamarro.md#unit-0017",
+        "docs/temes/cultura/llegendes/el-tamarro.md#unit-0020"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 22,
+      "open_unit_count": 21,
       "conversation_ids": [
+        "tamarro-dinosaure-insperatus-001",
         "tamarro-llegenda-i-parallels-001",
         "tamarro-mascota-i-itinerari-001"
       ]
