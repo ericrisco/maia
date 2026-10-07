@@ -1,57 +1,75 @@
-# Calibratge de converses de Maia Knowledge
+# Guia d'exemples per a Maia Knowledge
 
-Aquestes tres mostres fixen el punt de partida per a la revisió humana. Una
-mostra no queda aprovada només perquè sigui correcta o passi el validador.
-Cal llegir-la com un diàleg i comprovar que la pregunta sona espontània.
+Aquestes mostres calibren el to i l'estructura. No són registres finals d'entrenament. Les mostres vigents també apareixen a `conversations.jsonl` i duen `approved_sample` a la procedència.
 
-## Llegenda de la Dama Blanca
+## Converses que funcionen
 
-```text
-Usuari: A la llegenda de la Dama Blanca també hi surt un llop. Quin paper hi té?
-Assistent: Després que desaparegui el bisbe d'Urgell, un llop negre comença a sembrar la mort i el terror. Un síndic el caça, però més endavant té malsons i embogeix. La llegenda diu que el llop duia l'ànima negra del bisbe.
-Usuari: I què li passa, al síndic?
-Assistent: La Dama Blanca no el pot guarir i ell acaba morint. Després, el llop i el bisbe deixen de manifestar-se. És el desenllaç de la llegenda, no un fet històric documentat.
-```
-
-La pregunta parteix de la història, no del nom d'una secció. El seguiment demana
-el desenllaç d'un personatge que acaba d'aparèixer.
-
-## Visita a Barcelona
+### Planificar una festa
 
 ```text
-Usuari: Passaré unes hores per Barcelona. On puc veure escultures de Josep Viladomat?
-Assistent: En pots veure, per exemple, a la plaça de Catalunya (*Dona amb nen i flabiol*), a la Casa de la Ciutat (*Maternitat*) i als jardins de Joan Maragall (*Dos Tritons*).
+Usuari: Ens agradaria veure una festa de l'ossa aquest hivern. A Ordino i a Encamp la fan per les mateixes dates?
+Assistent: No, són en moments diferents. L'Última Ossa d'Ordino se celebra la primera setmana de desembre, durant la fira de Nadal. El ball d'Encamp es fa el dilluns de Carnaval.
+Usuari: Ah, doncs si només podem anar-hi per Carnaval, ens toca Encamp?
+Assistent: Sí. Si hi aneu per Carnaval, la festa que encaixa és la d'Encamp. La d'Ordino és al desembre.
 ```
 
-La resposta resol una petició pràctica en un torn. No cal afegir una pregunta
-només per convertir-la en multitorn.
+La pregunta conté una decisió real. El seguiment la resol amb la diferència de calendari.
 
-## Ficció i història
+### Aclarir dues versions d'una llegenda
 
 ```text
-Usuari: He començat «Andorra, entre el torb i la Gestapo». La història va passar tal com la veiem?
-Assistent: La minisèrie és una ficció basada en fets reals i en el llibre autobiogràfic de Francesc Viadiu. Dramatitza una xarxa d'evasió que ajudava per Andorra aviadors britànics ferits i perseguits per la Gestapo. Això no confirma que cada escena passés tal com es mostra.
-Usuari: Què se sap de la xarxa, doncs?
-Assistent: La trama parla d'una xarxa d'evasió que ajudava aviadors britànics ferits i perseguits per la Gestapo a través d'Andorra. La informació disponible no confirma quines escenes concretes van passar.
+Usuari: A casa sempre m'havien dit que els minairons sortien d'una herba. Després he llegit que els tenien dins d'un canó. Com quadren les dues versions?
+Assistent: Les dues imatges formen part de les llegendes. Alguns relats fan néixer els minairons de l'herba menaironera; després, l'amo els guarda en un canó. La tradició no acaba de resoldre si neixen de la llavor o si el minairó mateix n'és la llavor.
+Usuari: I quin perill hi ha, si algú destapa el canó?
+Assistent: En poden sortir milers de cop i demanar feina. Segons la llegenda, si l'amo no els en mana, el maten.
 ```
 
-El seguiment pregunta per un límit pràctic que neix de la primera resposta.
+La primera pregunta compara dues idees que la persona ja ha sentit. La resposta conserva la incertesa de la font.
 
-## Rebutja aquests patrons
+### Distingir una broma antiga d'una activitat actual
 
-- «Què explica la secció X de la fitxa Y?»
-- «Què indica aquesta fila?»
-- Respostes que comencen a mitja idea o només deixen una dada sense context.
-- Un seguiment de confirmació que repeteix la resposta anterior.
-- Afegir torns perquè totes les converses tinguin la mateixa llargada.
+```text
+Usuari: Els itineraris per trobar el Tamarro són una continuació de la cacera que feien abans?
+Assistent: Comparteixen el personatge, però el plantejament és diferent. La cacera tradicional era una broma pesada: feien anar algú a buscar una bèstia imaginària. Avui el Tamarro també és una mascota i el protagonista d'itineraris familiars per la natura.
+Usuari: O sigui que no és un animal que es pugui veure de veritat?
+Assistent: Exacte. El Tamarro és una criatura del folklore, no un animal real. Els itineraris són una activitat turística, no una cerca d'una espècie que visqui als boscos.
+```
 
-## Revisió ràpida
+El seguiment surt d'una ambigüitat concreta: si la criatura és real o forma part del joc.
 
-1. Amaga la font i llegeix només els missatges.
-2. Comprova que la primera pregunta podria aparèixer en una conversa real.
-3. Comprova que la resposta contesta abans d'afegir context.
-4. Suprimeix cada seguiment que no aporta una nova necessitat.
-5. Comprova les afirmacions i els drets a `provenance.jsonl`.
+## Patrons que no funcionen
 
-Les mostres apareixen a `conversations.jsonl` amb estat `approved_sample` a la
-procedència. Són material de calibratge; no són exemples aprovats per entrenar.
+```text
+Usuari: Què explica la secció «El relat» de la fitxa «La troballa de Meritxell»?
+Assistent: Se la va endur a Canillo i la va posar sobre l'altar major.
+```
+
+Això demana extreure una secció i la resposta comença a mitja història. Cal reformular-ho des del dubte d'una persona i donar el context necessari.
+
+```text
+Usuari: Què indica aquesta fila?
+Assistent: 2014 — verd, 57,7 — morat, 56,4.
+```
+
+Sense context, no se sap quin gràfic es mira ni què vol dir la resposta. Si la dada és útil, cal explicar-la en una pregunta real amb els valors i les categories identificats.
+
+```text
+Usuari: Els minairons surten d'una herba?
+Assistent: Sí.
+Usuari: I de quina herba?
+Assistent: De l'herba menaironera.
+```
+
+El segon torn no amplia gaire la resposta. És millor contestar l'origen amb el context rellevant en un sol torn, tret que la persona pregunti després per un aspecte nou.
+
+## Checklist abans d'aprovar
+
+- La pregunta inicial podria aparèixer en una conversa normal?
+- S'entén sense veure la fitxa, el títol d'una secció ni un gràfic ocult?
+- La resposta contesta directament i dona context suficient?
+- Cada torn següent neix de la resposta anterior i demana una cosa nova?
+- S'ha respectat la diferència entre fet, tradició oral, interpretació i incertesa?
+- Les afirmacions tenen suport en les fonts declarades i els drets permeten redistribuir-les?
+- Si elimino un seguiment, la conversa empitjora? Si no, l'elimino.
+
+Qualsevol resposta «no» obliga a corregir o rebutjar el registre. No s'accepta una pregunta només per cobrir una unitat del corpus.
