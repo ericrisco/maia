@@ -211,7 +211,7 @@
       "title": "Les festes de l'ossa",
       "type": "article",
       "topic": "temes/costums/danses",
-      "status": "in_progress",
+      "status": "complete",
       "unit_count": 59,
       "covered_unit_ids": [
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0001",
@@ -253,8 +253,8 @@
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0045",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0047"
       ],
-      "excluded_unit_count": 1,
-      "open_unit_count": 20,
+      "excluded_unit_count": 21,
+      "open_unit_count": 0,
       "conversation_ids": [
         "festes-ossa-abast-i-desaparicio-001",
         "festes-ossa-bibliografia-per-seguir-001",
