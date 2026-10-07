@@ -596,5 +596,20 @@
     "reviewed_units": [
       "L’Espai Columba exposa pintures i objectes litúrgics; la visita es complementa amb l’església de Santa Coloma i una projecció de l’interior original."
     ]
+  },
+  "docs/temes/cultura/arquitectura/romanic.md": {
+    "status": "in_progress",
+    "open_units": [
+      "Buidatge crític de la tesi doctoral de Maria Cristina Tarradellas Corominas.",
+      "Inventari del Govern amb les fitxes romàniques revisades una per una.",
+      "Contrast dels motius artístics, tallers i atribucions amb fonts acadèmiques primàries.",
+      "Context perdut de la talla romànica de Meritxell i altres obres desaparegudes."
+    ],
+    "conversation_ids": [
+      "romanic-motius-compartits-i-autoria-001"
+    ],
+    "reviewed_units": [
+      "Motius de Caselles i Santa Coloma reapareixen a Sant Martí de la Cortinada; això sosté continuïtat artística però no una autoria comuna."
+    ]
   }
 }

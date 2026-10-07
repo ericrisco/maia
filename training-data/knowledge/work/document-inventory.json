@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 39,
+    "in_progress": 40,
     "no_natural_question": 0,
-    "not_started": 1309
+    "not_started": 1308
   },
   "documents": [
     {
@@ -917,11 +917,20 @@
       "type": "article",
       "topic": "temes/cultura/arquitectura",
       "source": "viquipedia-ca",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "romanic-motius-compartits-i-autoria-001"
+      ],
+      "reviewed_units": [
+        "Motius de Caselles i Santa Coloma reapareixen a Sant Martí de la Cortinada; això sosté continuïtat artística però no una autoria comuna."
+      ],
+      "open_units": [
+        "Buidatge crític de la tesi doctoral de Maria Cristina Tarradellas Corominas.",
+        "Inventari del Govern amb les fitxes romàniques revisades una per una.",
+        "Contrast dels motius artístics, tallers i atribucions amb fonts acadèmiques primàries.",
+        "Context perdut de la talla romànica de Meritxell i altres obres desaparegudes."
+      ],
       "completion_note": "",
       "reason": ""
     },
