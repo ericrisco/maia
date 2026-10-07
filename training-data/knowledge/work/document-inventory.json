@@ -15701,7 +15701,7 @@
       "topic": "temes/institucions/relacions-exteriors",
       "source": "eur-lex-adequacio-dades-andorra-2010",
       "status": "in_progress",
-      "conversation_count": 19,
+      "conversation_count": 20,
       "conversation_ids": [
         "adequacio-2010-abast-article2-16",
         "adequacio-2010-aplicacio-i-supervisio-15",
@@ -15713,6 +15713,7 @@
         "adequacio-2010-excepcions-recursos-apda-12",
         "adequacio-2010-garanties-interpretacio-01",
         "adequacio-2010-normes-sectorials-14",
+        "adequacio-2010-reaccio-a-fallades-de-control-19",
         "adequacio-2010-supòsits-suspensio-08",
         "adequacio-2010-tractats-internacionals-03",
         "adequacio-2016-poders-suspensio-fluxos-07",
@@ -15743,10 +15744,11 @@
         "articles 5–7 de la Decisió 2010/625/UE: seguiment de la Comissió, compliment pels estats membres abans de 2011 i destinataris de l'acte",
         "article 2: l'adequació del destí no altera les altres condicions i restriccions de la Directiva sobre tractaments dins dels estats membres",
         "considerants 14–15: consulta al Supervisor Europeu de Protecció de Dades i distinció entre l'opinió del Grup de l'article 29 i la del Comitè de l'article 31",
-        "considerant 5 i 10: coprincipat parlamentari, identitat dels coprínceps i supervisió de dades atribuïda a l'APDA, no als coprínceps"
+        "considerant 5 i 10: coprincipat parlamentari, identitat dels coprínceps i supervisió de dades atribuïda a l'APDA, no als coprínceps",
+        "article 4(2)–(3): intercanvi d'informació sobre fallades de supervisió i mesures de la Comissió; cap ús real verificat"
       ],
       "open_units": [
-        "auditar la cobertura de la resta de la Decisió 2010/625/UE i de la seva versió consolidada del 2016"
+        "verificar en fonts de pràctica si els articles 3 o 4 es van activar i si hi va haver mesures o decisions posteriors específiques sobre Andorra"
       ],
       "completion_note": "",
       "reason": ""
