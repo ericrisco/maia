@@ -215,16 +215,18 @@
     "conversation_ids": [
       "embargament-en-feriat-i-hipotesi-sega-01",
       "forasters-terminis-embargament-patron-no-regla-universal-01",
-      "ampara-verificacio-deu-dies-subhasta-tres-01"
+      "ampara-verificacio-deu-dies-subhasta-tres-01",
+      "empara-cavalcadura-nunci-custodia-01"
     ],
     "reviewed_units": [
       "embargament de collita només després de la sega; possible relació amb calendari de feriats marcada com a hipòtesi, no com a regla coordinada",
       "terminis de pagament diferents per a reclamants habitants i forasters, embargament de béns i límits de la generalització",
-      "verificació de l’empara: deu dies per justificar-la, nul·litat i alliberament si no es verifica, subhasta dins de tres dies i mitjans de prova esmentats"
+      "verificació de l’empara: deu dies per justificar-la, nul·litat i alliberament si no es verifica, subhasta dins de tres dies i mitjans de prova esmentats",
+      "límits de l’empara sobre béns de forasters: presa per la part interessada amb ordre i testimoni quan els béns són en mans d’un habitant; intervenció exclusiva del nunci per a cavalcadures en moviment, a la via pública o lligades a una porta, i dipòsit en custòdia de tercer"
     ],
     "open_units": [
       "datació del manuscrit: termini final desconegut i intervencions editorials entre claudàtors, inclosa l’excepció del fadrí sense casa",
-      "abast de l’empara segons la persona i el tipus de bé, i límit de l’actuació del nunci",
+      "abast personal de l’empara: prohibició d’habitant a habitant i excepció del fadrí sense casa, que l’edició posa entre claudàtors i caldria contrastar amb el manuscrit",
       "execució posterior: vies diferents per a penyores, collites i immobles; taxació, venda, recuperació i terminis, sense projectar la regla antiga a períodes posteriors"
     ]
   }
