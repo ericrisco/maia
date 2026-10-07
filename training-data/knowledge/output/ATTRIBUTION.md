@@ -83,6 +83,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - Viquipèdia en català, article «Festes de l’ossa a Andorra», llicència CC BY-SA 4.0; trama resumida de l’Última Ossa d’Ordino.
 - Viquipèdia en català, articles sobre les festes de l’ossa d’Andorra i el ball de l’ossa d’Encamp; llicència CC BY-SA 4.0.
 - Viquipèdia en català, articles sobre les festes de l’ossa i el ball d’Encamp, CC BY-SA 4.0; les fitxes del corpus atribueixen a aquestes fonts la cronologia i la informació sobre Rossend Marsol Clua.
+- Viquipèdia en català, articles sobre les festes de l’ossa i el ball d’Encamp, llicència CC BY-SA 4.0; la font assenyala que el text de l’Última Ossa no està transcrit al corpus.
 - Viquipèdia en català, articles «Ball de l’ossa d’Encamp» i «Festes de l’ossa a Andorra», llicència CC BY-SA 4.0.
 - Viquipèdia en català, dades sobre els dansaires i la simbologia de la Marratxa; llicència CC BY-SA 4.0.
 - Viquipèdia en català, dades sobre la tradició de la Marratxa i la data dels Pareatges; CC BY-SA 4.0. Les fitxes del corpus registren la discrepància.
@@ -102,6 +103,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - CC BY-SA 4.0, amb obligació d’atribució i compartir igual. La font és secundària; la tradició sobre els orígens s’atribueix com a tal.
 - CC BY-SA 4.0, amb obligació d’atribució i compartir igual. L’origen medieval es manté com a hipòtesi probable de la font, no com a fet provat.
 - CC BY-SA 4.0; atribució i compartir igual. La causa de la represa d’Ordino no consta a la font.
+- CC BY-SA 4.0; atribució i compartir igual. La descripció d’Amades es manté atribuïda al 1950 i no es presenta com el guió actual.
 - CC BY-SA 4.0; atribució i compartir igual. La font no data el trasllat al desembre.
 - CC BY-SA 4.0; atribució i compartir igual. La font no presenta aquests noms com a exclusius d’Andorra.
 - CC BY-SA 4.0; atribució i compartir igual. La fotografia mateixa no forma part del corpus consultat.
