@@ -97,10 +97,12 @@
   "docs/temes/costums/calendari-festiu/calendari-festiu.md": {
     "status": "in_progress",
     "conversation_ids": [
-      "festa-major-parroquia-versus-meritxell-01"
+      "festa-major-parroquia-versus-meritxell-01",
+      "tribunals-fira-organya-1902-motiu-i-limit-01"
     ],
     "reviewed_units": [
-      "diferència entre les festes majors locals d’estiu i la Festa Nacional de Meritxell del 8 de setembre; absència de dates locals oficials a la fitxa"
+      "diferència entre les festes majors locals d’estiu i la Festa Nacional de Meritxell del 8 de setembre; absència de dates locals oficials a la fitxa",
+      "distinció entre calendari judicial de 1902 i calendari festiu popular; el tancament per fira no acredita assistència universal ni activitat concreta"
     ],
     "open_units": [
       "dates concretes de cada festa major i fonts primàries comunals, que l’article declara absents",
@@ -109,6 +111,22 @@
       "origen dels Tons fundadors i dels escudellaires",
       "supressions de festes religioses als bisbats espanyols i afirmació atribuïda a Brutails",
       "relacions amb les fitxes d’escudelles, caramelles, falles, Meritxell, festes majors i fira d’Organyà"
+    ]
+  },
+  "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md": {
+    "status": "in_progress",
+    "conversation_ids": [
+      "tribunals-fira-organya-1902-motiu-i-limit-01"
+    ],
+    "reviewed_units": [
+      "fira d’Organyà com a motiu escrit del tancament judicial de 27 de novembre a 4 de desembre de 1902; límit respecte de la llista anterior"
+    ],
+    "open_units": [
+      "altres fires i trams de tancament de la llista de 1902 i la numeració duplicada de l’epígraf setè",
+      "llista possiblement del segle XVIII: quatre fires, sega, dates i topònim Berdu no identificat",
+      "seixanta-dos dies datats, períodes mòbils i total anual no calculable sense any concret",
+      "terminis judicials i efecte dels feriats en recursos, execucions i embargaments",
+      "hipòtesis del corpus sobre sega, empara i diferències entre habitants i forasters"
     ]
   }
 }

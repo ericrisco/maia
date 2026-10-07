@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 5,
+    "in_progress": 6,
     "no_natural_question": 0,
-    "not_started": 1343
+    "not_started": 1342
   },
   "documents": [
     {
@@ -30,12 +30,14 @@
       "topic": "temes/costums/calendari-festiu",
       "source": "premsa-andorrana",
       "status": "in_progress",
-      "conversation_count": 1,
+      "conversation_count": 2,
       "conversation_ids": [
-        "festa-major-parroquia-versus-meritxell-01"
+        "festa-major-parroquia-versus-meritxell-01",
+        "tribunals-fira-organya-1902-motiu-i-limit-01"
       ],
       "reviewed_units": [
-        "diferència entre les festes majors locals d’estiu i la Festa Nacional de Meritxell del 8 de setembre; absència de dates locals oficials a la fitxa"
+        "diferència entre les festes majors locals d’estiu i la Festa Nacional de Meritxell del 8 de setembre; absència de dates locals oficials a la fitxa",
+        "distinció entre calendari judicial de 1902 i calendari festiu popular; el tancament per fira no acredita assistència universal ni activitat concreta"
       ],
       "open_units": [
         "dates concretes de cada festa major i fonts primàries comunals, que l’article declara absents",
@@ -13747,11 +13749,21 @@
       "type": "article",
       "topic": "temes/institucions/justicia",
       "source": "brutails-coutume-1904",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "tribunals-fira-organya-1902-motiu-i-limit-01"
+      ],
+      "reviewed_units": [
+        "fira d’Organyà com a motiu escrit del tancament judicial de 27 de novembre a 4 de desembre de 1902; límit respecte de la llista anterior"
+      ],
+      "open_units": [
+        "altres fires i trams de tancament de la llista de 1902 i la numeració duplicada de l’epígraf setè",
+        "llista possiblement del segle XVIII: quatre fires, sega, dates i topònim Berdu no identificat",
+        "seixanta-dos dies datats, períodes mòbils i total anual no calculable sense any concret",
+        "terminis judicials i efecte dels feriats en recursos, execucions i embargaments",
+        "hipòtesis del corpus sobre sega, empara i diferències entre habitants i forasters"
+      ],
       "completion_note": "",
       "reason": ""
     },
