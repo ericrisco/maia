@@ -12,6 +12,7 @@ el BOPA no implica cap suport al projecte. No s'atribueix una llicència global 
 ## Fonts dels registres exportats
 
 - André Vilar, L'Andorre (1904), p. 137 i nota 1, obra en domini públic. Resum i adaptació per a Maia; les sospites s'atribueixen als veïns que Vilar cita i no es presenten com a fet provat.
+- André Vilar, L'Andorre (1904), pp. 34–35, obra en domini públic. Resum i adaptació per a Maia; la tesi s'atribueix a l'autor.
 - André Vilar, L'Andorre (1904), pp. 71–72, obra en domini públic. Resum i adaptació per a Maia; les afirmacions s'atribueixen expressament a l'autor.
 - André Vilar, L'Andorre (1904), pp. 72–73, obra en domini públic. Resum i adaptació per a Maia; afirmacions atribuïdes expressament a Vilar.
 - André Vilar, L'Andorre (1904), pp. 73–74, obra en domini públic. Resum i adaptació per a Maia; afirmacions atribuïdes expressament a Vilar.
