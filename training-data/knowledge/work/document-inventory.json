@@ -227,12 +227,14 @@
       "topic": "temes/costums/danses",
       "source": "wikipedia-llegendes-andorra",
       "status": "in_progress",
-      "conversation_count": 1,
+      "conversation_count": 2,
       "conversation_ids": [
-        "festes-ossa-emigracio-i-primer-testimoni-01"
+        "festes-ossa-emigracio-i-primer-testimoni-01",
+        "ultima-ossa-ordino-mascara-centenaria-01"
       ],
       "reviewed_units": [
-        "causa atribuïda a l’emigració dels anys vint, dues festes que en queden i primera referència escrita del 1838; origen medieval només probable"
+        "causa atribuïda a l’emigració dels anys vint, dues festes que en queden i primera referència escrita del 1838; origen medieval només probable",
+        "màscara de l’Última Ossa: cap d’os dissecat descrit com a centenari, transmissió entre generacions i continuïtat d’ús després del 2017; origen exacte desconegut"
       ],
       "open_units": [
         "descripció completa de l’Última Ossa d’Ordino, personatges i seqüència final",
