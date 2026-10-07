@@ -173,15 +173,16 @@
     "docs/temes/costums/danses/la-marratxa.md": {
       "status": "in_progress",
       "conversation_ids": [
-        "marratxa-simbolisme-parroquies-001"
+        "marratxa-simbolisme-parroquies-001",
+        "marratxa-recipient-i-nom-001"
       ],
       "covered_units": [
-        "Balladors i simbolisme: dos dansaires representen els coprínceps; tres noies representen les sis antigues parròquies. La font no explica la correspondència numèrica."
+        "Balladors i simbolisme: dos dansaires representen els coprínceps; tres noies representen les sis antigues parròquies. La font no explica la correspondència numèrica.",
+        "Nom i objecte: marratxa/morratxa/almorratxa és un recipient d'aigua perfumada que els balladors duien als orígens; avui no es fa servir, però el nom es conserva."
       ],
       "open_units": [
         "Origen tradicional de la primera ballada el 7-09-1278 i discrepància amb la data del Pareatge (8-09-1278); verificar amb font primària.",
         "Primera documentació de la dansa i moment en què se li atribueix la commemoració dels Pareatges.",
-        "Nom i variants (marratxa, morratxa, almorratxa), recipient perfumat i desaparició de l'objecte en la dansa actual.",
         "Quan es balla dins la festa major de Sant Julià i quina relació té amb la Passa i el ball del Cerdà.",
         "Història de la coreografia actual: Ricard Mas, Daniel Areny, Isidre Marbà i l'Esbart Laurèdia; distingir fixació moderna d'origen antic.",
         "Detalls de vestuari i rastre documental que les fonts actuals deixen pendents."
