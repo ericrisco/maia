@@ -1,10 +1,11 @@
 {
   "docs/temes/costums/calendari-festiu/calendari-festiu.md": {
-    "status": "in_progress",
+    "status": "complete",
     "conversation_ids": [
       "festa-major-no-hi-ha-data-unica-01",
       "llista-judicial-no-es-calendari-popular-01",
-      "fites-calendari-festiu-andorra-01"
+      "fites-calendari-festiu-andorra-01",
+      "escudella-sant-antoni-acte-vianda-01"
     ],
     "covered_units": [
       "no hi ha una festa major comuna a tot Andorra",
@@ -14,14 +15,28 @@
       "caramelles a la primavera",
       "Sant Joan i les falles el 23 de juny",
       "Meritxell, festa nacional, el 8 de setembre",
+      "la celebració de l'escudella inclou preparar-la i repartir-la",
       "la llista judicial de 1902 no és un calendari popular",
       "l'absència d'una festa a la llista judicial no prova que no se celebrés"
     ],
-    "open_units": [
-      "dates concretes de cada parròquia i vila",
-      "altres fites del calendari festiu i el seu abast"
+    "open_units": [],
+    "completion_note": "Fitxa sencera revisada: el calendari anual, la variació de les festes majors, l'escudella com a acte i el límit del calendari judicial de 1902 estan representats. Les dates concretes locals queden identificades com a informació que aquesta fitxa no conté i s'han de cobrir des de les fitxes comunals corresponents."
+  },
+  "docs/temes/costums/sant-antoni/escudelles-de-sant-antoni.md": {
+    "status": "in_progress",
+    "conversation_ids": ["escudella-sant-antoni-acte-vianda-01"],
+    "covered_units": [
+      "preparar i repartir escudella al carrer, no només el plat",
+      "la celebració es fa a totes les parròquies",
+      "a Canillo se'n diu vianda"
     ],
-    "note": "La fitxa és un mapa general; no suplir els calendaris comunals absents."
+    "open_units": [
+      "Sant Antoni com a patró d'animals domèstics i traginers",
+      "origen ramader: benedicció, descans i pinso extraordinari del bestiar",
+      "cas de Canillo: primera vianda del 1979, encants recuperats cap al 2000, data, organització i racions",
+      "estat actual de la benedicció d'animals i informació que la font no concreta"
+    ],
+    "note": "La conversa cobreix una part de la fitxa i enllaça la perspectiva del calendari general."
   },
   "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md": {
     "status": "in_progress",

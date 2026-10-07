@@ -3,10 +3,10 @@
   "article_count": 1348,
   "file_count": 1477,
   "status_totals": {
-    "complete": 0,
+    "complete": 1,
     "in_progress": 2,
     "no_natural_question": 0,
-    "not_started": 1346
+    "not_started": 1345
   },
   "documents": [
     {
@@ -29,9 +29,10 @@
       "type": "article",
       "topic": "temes/costums/calendari-festiu",
       "source": "premsa-andorrana",
-      "status": "in_progress",
-      "conversation_count": 3,
+      "status": "complete",
+      "conversation_count": 4,
       "conversation_ids": [
+        "escudella-sant-antoni-acte-vianda-01",
         "festa-major-no-hi-ha-data-unica-01",
         "fites-calendari-festiu-andorra-01",
         "llista-judicial-no-es-calendari-popular-01"
@@ -44,14 +45,12 @@
         "caramelles a la primavera",
         "Sant Joan i les falles el 23 de juny",
         "Meritxell, festa nacional, el 8 de setembre",
+        "la celebració de l'escudella inclou preparar-la i repartir-la",
         "la llista judicial de 1902 no és un calendari popular",
         "l'absència d'una festa a la llista judicial no prova que no se celebrés"
       ],
-      "open_units": [
-        "dates concretes de cada parròquia i vila",
-        "altres fites del calendari festiu i el seu abast"
-      ],
-      "completion_note": "",
+      "open_units": [],
+      "completion_note": "Fitxa sencera revisada: el calendari anual, la variació de les festes majors, l'escudella com a acte i el límit del calendari judicial de 1902 estan representats. Les dates concretes locals queden identificades com a informació que aquesta fitxa no conté i s'han de cobrir des de les fitxes comunals corresponents.",
       "reason": ""
     },
     {
@@ -480,11 +479,22 @@
       "type": "article",
       "topic": "temes/costums/sant-antoni",
       "source": "premsa-andorrana",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "escudella-sant-antoni-acte-vianda-01"
+      ],
+      "reviewed_units": [
+        "preparar i repartir escudella al carrer, no només el plat",
+        "la celebració es fa a totes les parròquies",
+        "a Canillo se'n diu vianda"
+      ],
+      "open_units": [
+        "Sant Antoni com a patró d'animals domèstics i traginers",
+        "origen ramader: benedicció, descans i pinso extraordinari del bestiar",
+        "cas de Canillo: primera vianda del 1979, encants recuperats cap al 2000, data, organització i racions",
+        "estat actual de la benedicció d'animals i informació que la font no concreta"
+      ],
       "completion_note": "",
       "reason": ""
     },
