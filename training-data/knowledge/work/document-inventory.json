@@ -374,7 +374,7 @@
       "topic": "temes/costums/religiositat",
       "source": "bopa-ad",
       "status": "in_progress",
-      "conversation_count": 24,
+      "conversation_count": 25,
       "conversation_ids": [
         "registre-religios-actualitzar-dades-declaracio-biennal-14",
         "registre-religios-associacio-cultural-dependent-03",
@@ -399,6 +399,7 @@
         "registre-religios-responsabilitat-promotors-19",
         "registre-religios-responsable-i-suplents-21",
         "registre-religios-termin-inscripcio-prorroga-08",
+        "registre-religios-transicio-des-del-registre-associacions-25",
         "registre-religios-via-esglesia-catolica-15"
       ],
       "reviewed_units": [
@@ -428,7 +429,8 @@
         "Nomenament del responsable i suplents, casos d’actuació, autonomia i autoritat que emet assentaments (art. 5).",
         "Presentació al Servei de Tràmits, gratuïtat de la inscripció i destinatari/domicili de les notificacions (art. 6).",
         "Comunicació d’indicis racionals d’il·licitud penal al ministre i eventual trasllat al Ministeri Fiscal (art. 6).",
-        "Efectes de la inscripció: personalitat jurídica i beneficis generals per a entitats sense ànim de lucre; absència d’exempció fiscal concreta a la Llei 2/2025 (art. 10)."
+        "Efectes de la inscripció: personalitat jurídica i beneficis generals per a entitats sense ànim de lucre; absència d’exempció fiscal concreta a la Llei 2/2025 (art. 10).",
+        "Règim transitori per a entitats religioses ja inscrites al Registre d’associacions: termini de dos anys, reutilització de documents compatibles i cancel·lació si no es demana la nova inscripció (disposició transitòria)."
       ],
       "open_units": [
         "Passada editorial integral de la fitxa: revisar la resta d’afirmacions i buits contra les converses i conservar explícitament allò que no consta."
