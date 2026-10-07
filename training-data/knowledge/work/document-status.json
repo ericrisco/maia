@@ -797,7 +797,7 @@
       "title": "El buner d'Ordino",
       "type": "article",
       "topic": "temes/cultura/llegendes",
-      "status": "in_progress",
+      "status": "complete",
       "unit_count": 19,
       "covered_unit_ids": [
         "docs/temes/cultura/llegendes/el-buner-dordino.md#unit-0001",
@@ -806,8 +806,8 @@
         "docs/temes/cultura/llegendes/el-buner-dordino.md#unit-0005",
         "docs/temes/cultura/llegendes/el-buner-dordino.md#unit-0006"
       ],
-      "excluded_unit_count": 0,
-      "open_unit_count": 14,
+      "excluded_unit_count": 14,
+      "open_unit_count": 0,
       "conversation_ids": [
         "buner-ordino-buna-i-ofici-001",
         "buner-ordino-supera-els-llops-001"
