@@ -767,5 +767,20 @@
     "reviewed_units": [
       "La noblesa del temps és un bronze de Dalí donat al Govern per Enric Sabater i instal·lat a la plaça de la Rotonda."
     ]
+  },
+  "docs/temes/cultura/arts-visuals/balma-de-la-margineda.md": {
+    "status": "in_progress",
+    "open_units": [
+      "Monografia d’excavació i inventari arqueològic complet no incorporats.",
+      "Seqüència estratigràfica i datacions detallades dels còdols pendents.",
+      "Localització actual de les peces no documentada.",
+      "La interpretació dels còdols com a art continua oberta."
+    ],
+    "conversation_ids": [
+      "balma-margineda-troballa-i-interpretacio-001"
+    ],
+    "reviewed_units": [
+      "La font descriu còdols amb pigment i un altre gravat d’uns deu mil anys com a possible art primerenc, sense donar per tancada la interpretació; Pere Canturri descobrí el jaciment el 1960."
+    ]
   }
 }

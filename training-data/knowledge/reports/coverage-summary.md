@@ -4,14 +4,14 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 
 - Fitxes article: **1348**.
 - Fitxers totals, inclosos índexs: **1477**.
-- Converses candidates: **46**.
+- Converses candidates: **47**.
 
 | Estat de revisió | Fitxes |
 |---|---:|
 | Revisades completes | 0 |
-| En curs | 51 |
+| En curs | 53 |
 | Revisades sense pregunta natural | 0 |
-| No començades | 1297 |
+| No començades | 1295 |
 
 ## Estat per tema
 
@@ -32,7 +32,7 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 | `temes/cultura/andorra-vista-de-fora` | 6 | 0 | 6 | 0 | 0 |
 | `temes/cultura/arquitectura` | 11 | 0 | 11 | 0 | 0 |
 | `temes/cultura/artesania` | 2 | 0 | 2 | 0 | 0 |
-| `temes/cultura/arts-visuals` | 8 | 7 | 1 | 0 | 0 |
+| `temes/cultura/arts-visuals` | 8 | 6 | 2 | 0 | 0 |
 | `temes/cultura/cultura-popular` | 2 | 2 | 0 | 0 | 0 |
 | `temes/cultura/literatura` | 1 | 1 | 0 | 0 | 0 |
 | `temes/cultura/llegendes` | 10 | 10 | 0 | 0 | 0 |
@@ -104,7 +104,7 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 | `temes/llengua/politica-linguistica` | 13 | 13 | 0 | 0 | 0 |
 | `temes/llengua/registres` | 1 | 1 | 0 | 0 | 0 |
 | `temes/llengua/tractament` | 1 | 1 | 0 | 0 | 0 |
-| `temes/persones` | 43 | 43 | 0 | 0 | 0 |
+| `temes/persones` | 43 | 42 | 1 | 0 | 0 |
 | `temes/politica/identitat-politica` | 3 | 3 | 0 | 0 | 0 |
 | `temes/politica/parlamentarisme` | 4 | 4 | 0 | 0 | 0 |
 | `temes/politica/partits` | 3 | 3 | 0 | 0 | 0 |

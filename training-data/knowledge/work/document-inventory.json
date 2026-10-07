@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 51,
+    "in_progress": 53,
     "no_natural_question": 0,
-    "not_started": 1297
+    "not_started": 1295
   },
   "documents": [
     {
@@ -1204,11 +1204,20 @@
       "type": "article",
       "topic": "temes/cultura/arts-visuals",
       "source": "rodriguez-rossa-creacio-artistica",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "balma-margineda-troballa-i-interpretacio-001"
+      ],
+      "reviewed_units": [
+        "La font descriu còdols amb pigment i un altre gravat d’uns deu mil anys com a possible art primerenc, sense donar per tancada la interpretació; Pere Canturri descobrí el jaciment el 1960."
+      ],
+      "open_units": [
+        "Monografia d’excavació i inventari arqueològic complet no incorporats.",
+        "Seqüència estratigràfica i datacions detallades dels còdols pendents.",
+        "Localització actual de les peces no documentada.",
+        "La interpretació dels còdols com a art continua oberta."
+      ],
       "completion_note": "",
       "reason": ""
     },
@@ -17321,9 +17330,11 @@
       "type": "article",
       "topic": "temes/persones",
       "source": "wikipedia-ca-pere-canturri-montanya",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "balma-margineda-troballa-i-interpretacio-001"
+      ],
       "reviewed_units": [],
       "open_units": [],
       "completion_note": "",
