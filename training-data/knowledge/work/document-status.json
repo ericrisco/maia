@@ -234,5 +234,19 @@
       "Trajectòria esportiva, ascensos i descensos, estadi i situació actual; revisar per separat per dates i actualitat.",
       "Fets citats per l’article que provenen d’altres fonts i no de la pàgina Viquipèdia identificada a la fitxa."
     ]
+  },
+  "docs/temes/costums/meritxell/meritxell.md": {
+    "status": "in_progress",
+    "conversation_ids": [
+      "meritxell-festa-nacional-i-origen-01"
+    ],
+    "reviewed_units": [
+      "La festa nacional se celebra el 8 de setembre; la data de la declaració de patronatge s’atribueix a premsa.",
+      "L’acta original del 1873 no consta al corpus, per tant no hi ha confirmació amb font primària."
+    ],
+    "open_units": [
+      "Localitzar i llegir l’acta del Consell General del 24 d’octubre de 1873.",
+      "Incendi del santuari el 1972, reconstrucció i rèplica; relació eventual entre el 8 de setembre i el Pareatge, sense font que la demostri."
+    ]
   }
 }

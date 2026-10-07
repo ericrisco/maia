@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 7,
+    "in_progress": 8,
     "no_natural_question": 0,
-    "not_started": 1341
+    "not_started": 1340
   },
   "documents": [
     {
@@ -30,8 +30,10 @@
       "topic": "temes/costums/calendari-festiu",
       "source": "premsa-andorrana",
       "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
+      "conversation_count": 1,
+      "conversation_ids": [
+        "meritxell-festa-nacional-i-origen-01"
+      ],
       "reviewed_units": [],
       "open_units": [
         "L’article és secundari i no identifica la peça de premsa concreta; calendari oficial per parròquia i vila absent del corpus.",
@@ -366,11 +368,19 @@
       "type": "article",
       "topic": "temes/costums/meritxell",
       "source": "premsa-andorrana",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "meritxell-festa-nacional-i-origen-01"
+      ],
+      "reviewed_units": [
+        "La festa nacional se celebra el 8 de setembre; la data de la declaració de patronatge s’atribueix a premsa.",
+        "L’acta original del 1873 no consta al corpus, per tant no hi ha confirmació amb font primària."
+      ],
+      "open_units": [
+        "Localitzar i llegir l’acta del Consell General del 24 d’octubre de 1873.",
+        "Incendi del santuari el 1972, reconstrucció i rèplica; relació eventual entre el 8 de setembre i el Pareatge, sense font que la demostri."
+      ],
       "completion_note": "",
       "reason": ""
     },
