@@ -6,7 +6,7 @@ a dades, encara cal verificar la procedència i els drets de les fonts citades.
 
 ## Dues festes de l'ossa, dos calendaris
 
-**Usuari:** Si vull veure una festa de l'ossa, he d'anar-hi per Carnaval?
+**Usuari:** Les festes de l'ossa es fan totes per Carnaval?
 
 **Maia:** Depèn d'on. A Encamp, el ball de l'ossa es representa el dilluns de
 Carnaval. A Ordino, l'Última ossa es fa durant la primera setmana de desembre,
@@ -31,13 +31,13 @@ resposta dona el que se sap i marca el límit sense inventar un motiu.
 **Maia:** També es menja a Andorra, però no és exclusivament andorrà. És un
 plat pirinenc que també es troba a la Cerdanya, l'Alt Urgell i el Berguedà.
 
-**Usuari:** I la col i la patata són la recepta tradicional d'aquí?
+**Usuari:** I hi ha una versió del trinxat pròpia d'Andorra?
 
 **Maia:** La fitxa descriu el trinxat amb col i patata bullides, aixafades i
 daurades amb el greix de la cansalada. Però no concreta si hi ha una variant
 pròpia d'Andorra; aquest detall no consta al corpus.
 
-**Usuari:** Per què precisament aquests ingredients?
+**Usuari:** I per què es feia amb col i patata?
 
 **Maia:** La fitxa ho relaciona amb els hiverns del Pirineu: la col podia
 aguantar al camp i la patata es guardava al celler quan hi havia pocs aliments

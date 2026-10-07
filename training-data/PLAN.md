@@ -29,19 +29,21 @@ redacció, però no ha d'aparèixer com a interfície de la conversa.
 
 ## El mètode: de la necessitat a la conversa
 
-### 1. Trobar una necessitat, no una frase del document
+### 1. Trobar una situació que generi un dubte
 
 Per cada tema, escriu una targeta de treball amb:
 
-- **Situació:** quin dubte, decisió o confusió podria tenir una persona?
-- **Pregunta inicial:** com ho diria sense conèixer la fitxa?
+- **Situació:** què ha sentit, llegit o vol aclarir aquesta persona?
+- **Pregunta inicial:** quina és la manera més directa i natural de demanar-ho?
 - **Què ha d'entendre:** quina idea o distinció resol el dubte?
 - **Límit:** què no permet afirmar el corpus?
 - **Fonts:** quines fitxes sostenen cada afirmació?
 
 La situació és una eina editorial i no s'exporta. No atribueixis a l'usuari una
-experiència personal inventada («ahir hi vaig anar») ni li facis recitar un
-encapçalament.
+experiència personal inventada («ahir hi vaig anar»), però tampoc converteixis
+totes les preguntes en formulacions de llibre de text. Una persona pot parlar
+amb naturalitat sense explicar la seva biografia: «Això també es fa a Ordino?»
+o «Vols dir que les dues xifres compten coses diferents?»
 
 ### 2. Redactar la primera pregunta com una persona
 
@@ -55,7 +57,10 @@ Prioritza preguntes que neixen de motius corrents:
 - la resposta anterior li suggereix una conseqüència concreta.
 
 No cal afegir context fictici per fer-la «humana». La naturalitat ve de la
-intenció i de la manera de parlar, no d'inventar una biografia per a l'usuari.
+intenció, del vocabulari planer i de no fer explicar a l'usuari el que ja es
+desprèn de la conversa. Evita preguntes de catàleg («Què explica la secció...»,
+«Quins són els tres elements...»), preguntes massa solemnes i introduccions
+que ningú no faria en una consulta normal.
 
 ### 3. Fer que cada seguiment neixi de la resposta
 
@@ -68,7 +73,8 @@ Cada torn ha de tenir sentit en aquell punt de la conversa. No hi afegeixis
 «I què més?» ni preguntes independents només per assolir un nombre de torns.
 Dues interaccions ben resoltes són millors que sis d'artificials. La majoria de
 registres tindran dos o tres intercanvis; fes-los més llargs només quan el fil
-ho demani de debò.
+ho demani de debò. No obliguis cada registre a ser multitorn: una pregunta
+resolta completament en un torn és millor que una conversa allargada a la força.
 
 ### 4. Contestar com un assistent, no com una fitxa
 
@@ -79,6 +85,10 @@ ho demani de debò.
 - Separa el que la font afirma del que només es podria inferir.
 - Si no se sap, digues què no consta i evita omplir el buit amb una explicació plausible.
 - No recitis l'article ni amunteguis dades només perquè són a la font.
+- No comencis amb una rèplica ornamental («Bona pregunta!») ni repeteixis la
+  pregunta abans de respondre-la.
+- Fes servir noms i xifres quan ajudin a resoldre el dubte; explica què
+  representen, en lloc de deixar-los com una llista deslligada.
 
 ### 5. Revisar amb fonts obertes
 
@@ -156,3 +166,19 @@ de les sortides aprovades.
 
 La prioritat és correcció, naturalitat i cobertura traçable. El nombre de
 registres no és una mètrica d'èxit per si sol.
+
+## Porta d'entrada per a cada registre nou
+
+Abans d'afegir-lo a `review/conversations.jsonl`, escriu-lo com un diàleg pla i
+passa aquestes preguntes:
+
+1. La primera pregunta expressa un dubte que algú podria tenir sense haver llegit
+   les fonts?
+2. La resposta resol aquest dubte en llenguatge corrent i amb prou context?
+3. El seguiment surt d'una paraula, una dada o una idea de la resposta anterior?
+4. Si traiem el seguiment, la conversa perd alguna cosa? Si no, potser sobra.
+5. Les fonts sostenen cada afirmació i també els límits que s'hi expliquen?
+
+Només després de passar aquesta lectura s'afegeixen metadades de revisió,
+procedència, drets i split. Els exemples de `knowledge/review/EXEMPLES.md`
+serveixen per calibrar la veu, no per copiar-ne les plantilles.
