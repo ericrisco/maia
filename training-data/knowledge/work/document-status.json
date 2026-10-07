@@ -1286,14 +1286,17 @@
         "docs/temes/cultura/museus-i-arxius/museus/el-museu-del-tabac.md#unit-0001",
         "docs/temes/cultura/museus-i-arxius/museus/el-museu-del-tabac.md#unit-0002",
         "docs/temes/cultura/museus-i-arxius/museus/el-museu-del-tabac.md#unit-0003",
+        "docs/temes/cultura/museus-i-arxius/museus/el-museu-del-tabac.md#unit-0004",
+        "docs/temes/cultura/museus-i-arxius/museus/el-museu-del-tabac.md#unit-0006",
         "docs/temes/cultura/museus-i-arxius/museus/el-museu-del-tabac.md#unit-0008",
         "docs/temes/cultura/museus-i-arxius/museus/el-museu-del-tabac.md#unit-0009"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 10,
+      "open_unit_count": 8,
       "conversation_ids": [
         "museu-tabac-exposicions-temporals-001",
-        "museu-tabac-fabrica-i-visita-001"
+        "museu-tabac-fabrica-i-visita-001",
+        "museu-tabac-familia-reig-i-sindicatura-001"
       ]
     },
     "docs/temes/cultura/museus-i-arxius/museus/el-museu-postal.md": {
