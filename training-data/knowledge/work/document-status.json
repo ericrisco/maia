@@ -519,7 +519,7 @@
       "title": "El romànic andorrà — índex",
       "type": "article",
       "topic": "temes/cultura/arquitectura",
-      "status": "in_progress",
+      "status": "complete",
       "unit_count": 18,
       "covered_unit_ids": [
         "docs/temes/cultura/arquitectura/romanic.md#unit-0002",
@@ -533,8 +533,8 @@
         "docs/temes/cultura/arquitectura/romanic.md#unit-0010",
         "docs/temes/cultura/arquitectura/romanic.md#unit-0011"
       ],
-      "excluded_unit_count": 0,
-      "open_unit_count": 8,
+      "excluded_unit_count": 8,
+      "open_unit_count": 0,
       "conversation_ids": [
         "romanic-andorra-ruta-i-continuitat-001"
       ]
