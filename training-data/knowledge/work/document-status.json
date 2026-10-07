@@ -788,11 +788,11 @@
       "title": "La Balma de la Margineda",
       "type": "article",
       "topic": "temes/cultura/arts-visuals",
-      "status": "not_started",
+      "status": "complete",
       "unit_count": 6,
       "covered_unit_ids": [],
-      "excluded_unit_count": 0,
-      "open_unit_count": 6,
+      "excluded_unit_count": 6,
+      "open_unit_count": 0,
       "conversation_ids": []
     },
     "docs/temes/cultura/arts-visuals/els-mestres-anonims.md": {
@@ -810,11 +810,11 @@
       "title": "La Feixa del Moro de Juberri",
       "type": "article",
       "topic": "temes/cultura/arts-visuals",
-      "status": "not_started",
+      "status": "complete",
       "unit_count": 5,
       "covered_unit_ids": [],
-      "excluded_unit_count": 0,
-      "open_unit_count": 5,
+      "excluded_unit_count": 5,
+      "open_unit_count": 0,
       "conversation_ids": []
     },
     "docs/temes/cultura/arts-visuals/josep-viladomat.md": {
