@@ -1,143 +1,150 @@
-# Pla de disseny de converses de Maia Knowledge
+# Pla editorial de Maia Training Data
 
 ## Objectiu
 
-Crear converses que ensenyin Maia a entendre dubtes normals sobre Andorra,
-respondre'ls amb precisió i seguir el fil. El contingut factual surt de
-`docs/temes/`. La conversa ha de tenir sentit per si sola: qui la llegeix no
-ha de conèixer les fitxes ni els seus títols.
+Preparar dos datasets separats i útils per entrenar un assistent:
 
-`Maia Language` continua separat. Només s'hi poden posar intervencions humanes
-autèntiques i autoritzades de `docs/parla/`; no s'hi inventen entrevistes.
+- **Knowledge**: respondre preguntes sobre Andorra amb el coneixement de
+  `docs/temes/`.
+- **Language**: aprendre de parla andorrana contemporània autèntica i autoritzada
+  a `docs/parla/`; no inventar converses ni barrejar-la amb Knowledge.
 
-## Què va fallar
+La cobertura ha de ser exhaustiva. La generació de dades, però, no consisteix a
+convertir cada títol, paràgraf o fila en una pregunta. Es cobreixen els fets amb
+preguntes que una persona faria; quan no n'hi ha cap de natural, el fet queda
+registrat com a pendent, no es força una conversa.
 
-Aquestes formes no són preguntes útils d'un usuari:
+## Per què es refà el criteri
 
-- «Què explica la secció X de la fitxa Y?» demana un resum de l'índex.
-- «Què indica aquesta fila?» assenyala material que no és a la conversa.
-- «I dos topònims que en surten:» no és ni una pregunta clara ni una resposta.
-- Reproduir una taula amb guions trasllada dades sense explicar què volen dir.
+Una pregunta com «Què explica la secció X de la fitxa Y?» pressuposa que
+l'usuari té una fitxa al davant. «Què indica aquesta fila?» depèn d'una taula
+que no forma part del xat. I una resposta com «La fitxa no ho concreta» parla
+del sistema de documentació, no ajuda l'usuari.
 
-No n'hi ha prou de canviar-ne les paraules. Cal trobar primer el dubte que una
-persona voldria resoldre.
+També són febles les preguntes que només existeixen per activar una dada, les
+converses on cada usuari pregunta una cosa nova sense escoltar la resposta, i
+els diàlegs amb el mateix inici fictici repetit («em pensava que...», «he vist
+que...»). Canviar aquestes frases per sinònims no resol el problema.
 
-## Mètode editorial
+## Escriure una conversa de Knowledge
 
-### 1. Entendre el material abans d'escriure
+### 1. Comença pel motiu de consulta
 
-Llegeix la fitxa sencera i les fitxes enllaçades que siguin necessàries. Apunta
-en una targeta interna:
-
-- què vol aclarir la conversa;
-- quins fets concrets poden respondre-ho;
-- quines fonts sostenen cada fet i si permeten reutilitzar-lo;
-- què no se sap o quina interpretació seria excessiva.
-
-No comencis per una fila, un encapçalament o una dada a la qual l'usuari no té
-accés. La fitxa és la font de l'assistent, no el context compartit del diàleg.
-
-### 2. Escriure la pregunta inicial des d'una intenció
-
-Abans de redactar-la, completa per a ús editorial: «Aquesta persona vol saber
-___ perquè ___». La resposta ha de poder omplir el primer buit amb una
-necessitat concreta, com ara:
-
-- entendre si dues coses són iguals o diferents;
-- saber quan o on passa una cosa;
-- comprovar una impressió o una premissa;
-- entendre què vol dir una pràctica o una paraula;
-- saber què es pot concloure d'una dada.
-
-Després expressa aquesta intenció en català corrent. Es permet una mica de
-context («Em pensava que...», «Quan hi anem...») si ajuda a entendre el dubte,
-però no inventis una biografia, una experiència personal ni una conversa prèvia.
-No facis servir «segons la fitxa», «en aquesta taula» o «a l'apartat».
-
-### 3. Construir el seguiment a partir de la resposta
-
-Escriu primer la resposta. A continuació, formula la pregunta que aquella
-resposta faria venir al cap: aclarir una excepció, comprovar una conseqüència,
-demanar el motiu o seguir un detall que acaba d'aparèixer. Si el seguiment no
-depèn d'alguna cosa que l'assistent acaba de dir, no és un bon seguiment.
-
-Fes normalment 2 o 3 intercanvis. No allarguis el diàleg per complir una quota.
-Una sola pregunta pot ser millor que una conversa forçada; però quan la tasca
-demana multitorn, cada torn ha d'afegir una necessitat real i no repetir la
-resposta anterior amb altres paraules.
-
-### 4. Respondre com en una conversa
-
-- Contesta la pregunta concreta a la primera frase.
-- Usa frases completes, amb prou context perquè s'entenguin sense la font.
-- Explica què representen les dates, xifres i noms; no els deixis com una llista.
-- Corregeix una premissa amb tacte i dona la versió que sí que se sosté.
-- Separa el fet documentat de la inferència. Digues què no consta quan calgui.
-- Afegeix context només si ajuda a resoldre el dubte o entendre'n el límit.
-- Evita l'obertura buida («Bona pregunta!»), el to d'examen i la prosa de fitxa.
-
-### 5. Revisar el diàleg sense mirar la font
-
-Llegeix només els missatges, en veu alta. Rebutja'l si:
-
-- no s'entén què vol saber la persona;
-- sembla que l'usuari conegui la fitxa o una dada no dita abans;
-- el seguiment es podria enganxar a qualsevol conversa;
-- una resposta comença amb una llista o amb una frase inacabada;
-- el diàleg sona com un qüestionari, un guió promocional o una entrevista
-  escrita per omplir torns.
-
-Després comprova de nou cada afirmació contra les fonts i els seus drets.
-
-## Targeta de treball i registre
-
-La targeta de treball és editorial i no s'exporta:
+Llegeix la fitxa sencera i les fonts relacionades que calguin. Abans de redactar,
+anota en una targeta interna:
 
 ```text
-Intenció de l'usuari:
-Situació mínima necessària:
-Fets que responen el dubte:
-Límit / què no consta:
-Fonts i drets:
-Possible seguiment que neix de la resposta:
+Què necessita resoldre l'usuari?
+Quina resposta concreta li servirà?
+Quins fets i quines fonts ho sostenen?
+Quin límit o dubte no es pot donar per resolt?
+Quina pregunta podria sorgir després de la resposta?
 ```
 
-El registre revisat conserva identificador, fonts, drets, revisió i split als
-fitxers interns. El JSONL d'entrenament conté només `messages`, amb rols
-alternats `user` i `assistant`, sense cap metadada interna.
+La intenció pot ser pràctica (què cal saber per anar-hi o fer-ho), explicativa
+(què vol dir o com funciona), de verificació (és cert això?), de comparació (en
+què es diferencien?) o de context (com s'hi ha arribat?). No facis servir el
+títol de la fitxa com a motiu de consulta.
 
-## Criteris de calibratge
+### 2. Formula la pregunta com un missatge de xat
 
-Puntua cada aspecte de 0 a 2: intenció recognoscible, naturalitat, continuïtat
-entre torns, resposta completa i fidelitat a les fonts. Cal obtenir 9/10 o més,
-cap zero, i passar totes dues lectures: primer només el diàleg; després amb les
-fonts obertes. La puntuació no substitueix el judici editorial.
+La pregunta ha de ser comprensible sense cap document extern. Escriu-la com la
+diria algú que vol resoldre aquell dubte, amb la quantitat de context que
+realment aportaria al xat. Combina preguntes directes, peticions pràctiques,
+dubtes de significat, comprovacions i comparacions. No repeteixis una plantilla
+amb els noms canviats.
 
-## Estructura i ordre de treball
+No inventis una biografia, una experiència, una observació o una conversa
+prèvia per fer la pregunta més viva. «On i quan puc veure una festa de l'ossa?»
+ja té una intenció clara; no cal atribuir a l'usuari un viatge que no ha explicat.
+No parlis de «la fitxa», «el corpus», «aquesta secció» ni «la fila».
+
+### 3. Fes que cada seguiment continuï el fil
+
+Primer escriu la resposta inicial. Després pregunta't què voldria aclarir algú
+que acaba de llegir-la: una diferència, una conseqüència, un terme, una data o
+un límit. El seguiment ha de reprendre una dada o una idea de la resposta
+anterior; si es podria enganxar igualment a qualsevol conversa, no serveix.
+
+No exigeixis un nombre fix de torns. Una conversa pot tenir un seguiment o més
+d'un si el fil ho demana. No hi afegeixis preguntes només per arribar a tres
+intercanvis. No tornis a preguntar el mateix amb altres paraules.
+
+### 4. Respon de manera directa i útil
+
+- Comença contestant el que s'ha preguntat.
+- Escriu frases completes i autònomes, amb context suficient per entendre-les.
+- Explica què vol dir una data, una xifra, una institució o un nom quan calgui.
+- Corregeix una premissa amb naturalitat i ofereix la informació que sí que
+  consta.
+- Si hi ha discrepàncies, explica-les sense triar arbitràriament una versió.
+- Si la font no permet concloure una cosa, digues-ho sense fer veure que ho sap.
+- No diguis «la fitxa», «el corpus» o «el document diu» en lloc de contestar.
+- No afegeixis context només per omplir la resposta.
+
+### 5. Llegeix només el diàleg i fes la revisió factual
+
+Fes dues revisions separades:
+
+1. **Lectura de persona usuària:** només amb els missatges, s'entén per què
+   pregunta i què vol resoldre? El fil sona com un xat que podria passar de
+   debò? Hi ha alguna dada que l'usuari sembla saber sense que ningú l'hagi
+   introduïda?
+2. **Lectura de font:** cada afirmació de l'assistent està sostinguda? La
+   resposta distingeix els fets, les interpretacions i les coses que no
+   consten? Els drets permeten reutilitzar-la?
+
+Descarta o reescriu qualsevol conversa que soni a examen, interrogatori, índex,
+formulari o demostració d'una plantilla. Com a comprovació addicional, puntua
+de 0 a 2 la intenció recognoscible, la naturalitat, la continuïtat, la resposta
+i la fidelitat. Cal 9/10 o més i cap zero; una puntuació alta no substitueix les
+dues revisions.
+
+## Cobertura sense preguntes artificials
+
+Treballa tema a tema. Registra quins documents, seccions, taules, noms, dates,
+relacions i buits s'han revisat. Connecta fitxes quan una resposta necessita
+més d'una font. Marca explícitament els fets sense una pregunta natural, els
+buits i les discrepàncies. Això permet auditar cobertura sense inflar el
+dataset amb preguntes inútils.
+
+## Language: flux separat
+
+Inclou només material de `docs/parla/` que compleixi els criteris de veu,
+època, aptitud lingüística, drets i fiabilitat de transcripció. Quan hi hagi
+intercanvis reals, conserva'ls amb retocs mínims. No fabriquis preguntes per
+convertir monòlegs en diàlegs i no reescriguis les respostes com si fossin una
+imitació del parlar andorrà.
+
+## Estructura
 
 ```text
 training-data/
 ├── README.md
 ├── PLAN.md
 ├── knowledge/
-│   ├── review/       # exemples, candidats i procedència
-│   ├── work/         # targetes, inventari i cobertura
+│   ├── review/       # candidats, procedència i exemples de calibratge
+│   ├── work/         # inventari, targetes i cobertura
 │   ├── output/       # converses aprovades, només missatges
 │   ├── reports/      # cobertura, qualitat, drets i splits
 │   ├── scripts/      # exportació i validació
-│   └── archive/      # lots antics, preservats i exclosos
-└── language/         # flux separat basat en parla humana autoritzada
+│   └── archive/      # lots retirats, preservats i exclosos
+└── language/         # flux separat de parla humana autoritzada
 ```
 
-Per a cada lot: tria un tema, revisa les fonts i els drets, escriu poques
-converses, aplica la lectura editorial, comprova duplicats i cobertura, i només
-llavors aprova i exporta. No generis una pregunta per paràgraf o per fila. Anota
-els fets sense una pregunta natural a la cobertura pendent, en lloc d'inventar
-una pregunta. No ampliïs el volum fins que les mostres de calibratge siguin
-aprovades.
+Els lots antics romanen a `knowledge/archive/`; no entren a l'exportació. Cada
+conversa recuperada s'ha de tornar a redactar i revisar. `output/` només inclou
+registres aprovats; cada línia final conté únicament `messages` i no exposa
+identificadors, notes editorials ni metadades internes.
 
-## Propera etapa
+## Seqüència de treball
 
-Llegir i aprovar les mostres de `knowledge/review/EXEMPLES.md`. Després crear
-un lot petit, tema per tema, amb el mateix estàndard. Els registres antics
-queden arxivats i no tornen a les sortides sense una revisió completa.
+Per cada conversa: revisa el tema i la font, redacta el fil, comprova la
+naturalitat llegint-lo sense les fonts, verifica els fets i els drets, revisa
+duplicats i split, exporta i actualitza cobertura. Fes un commit i un push per
+conversa, a `main`, després de validar els canvis. No passis al registre
+següent si el push ha fallat.
+
+No ampliïs el volum fins que els exemples de calibratge sonin creïbles llegits
+en veu alta. Un nombre més alt de registres no compensa preguntes que ningú no
+faria.

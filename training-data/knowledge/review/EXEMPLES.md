@@ -1,95 +1,75 @@
-# Exemples per calibrar converses
+# Exemples de calibratge: preguntes que podrien arribar al xat
 
-Aquestes mostres fixen el to i el tipus de seguiment que busquem. Són exemples
-editorials, no registres aprovats ni exportables. Abans d'incorporar-los al
-dataset, cal comprovar-ne la procedència i els drets al registre corresponent.
+Aquests dos exemples serveixen per calibrar intenció, continuïtat i to. Són
+mostres editorials, encara no aprovades ni exportables. Les preguntes parteixen
+d'un dubte pràctic; no demanen informació d'una fitxa. Cada seguiment reprèn
+una cosa que Maia acaba de dir.
 
-## Una festa de l'ossa que no és per Carnaval
+## Fer trinxat
 
-**Usuari:** Em pensava que les festes de l'ossa eren totes per Carnaval. N'hi ha
-alguna que es faci en una altra època?
+**Usuari:** Per fer trinxat, la col i la patata es bullen juntes o per separat?
 
-**Maia:** Sí. A Ordino, l'Última ossa es representa durant la primera setmana de
-desembre, coincidint amb la fira de Nadal. A Encamp, en canvi, el ball de
-l'ossa es fa el dilluns de Carnaval.
+**Maia:** Es bullen juntes fins que gairebé es desfan. Després es trinxen, es
+barregen amb el greix de la cansalada fregida i es dauren a la paella fins que
+fan crosta.
 
-**Usuari:** Ah, la d'Ordino ja es feia al desembre de sempre?
+**Usuari:** I la cansalada també es barreja amb la col i la patata?
 
-**Maia:** No. Abans també es feia per Carnaval. Es va recuperar el 2017 i des
-d'aleshores se celebra al desembre; la documentació no explica per què es va
-canviar la data.
+**Maia:** Se'n barreja el greix amb les verdures; la cansalada fregida es posa
+per sobre quan se serveix.
 
-**Per què funciona:** comença per una impressió que algú podria tenir i la
-comprova. El seguiment reprèn la diferència de calendari i pregunta per la seva
-història. La resposta no inventa el motiu del canvi.
+**Per què funciona:** és una pregunta de cuina concreta. El seguiment demana
+aclarir un pas que apareix a la resposta. Maia explica el procés sense convertir
+la resposta en una llista telegràfica.
 
-**Fonts per revisar:** [`les-festes-de-lossa.md`](../../../docs/temes/costums/danses/les-festes-de-lossa.md).
+**Fonts i drets per verificar:** [`El trinxat`](../../../docs/temes/gastronomia/plats/el-trinxat.md) i
+[`Viquipèdia en català`](../../../docs/fonts/viquipedia-ca.md), llicència
+CC BY-SA 4.0. En exportar, conservar atribució i compartir igual.
 
-## El trinxat és andorrà o pirinenc?
+## Veure una festa de l'ossa
 
-**Usuari:** El trinxat és un plat d'Andorra o es menja també a fora?
+**Usuari:** Quan es fan les festes de l'ossa que encara es conserven a Andorra?
 
-**Maia:** També es menja a fora. És un plat pirinenc que es troba, entre altres
-llocs, a Andorra, la Cerdanya, l'Alt Urgell i el Berguedà.
+**Maia:** A Encamp, el ball de l'ossa es representa el dilluns de Carnaval. A
+Ordino, l'Última ossa té lloc durant la primera setmana de desembre, coincidint
+amb la fira de Nadal.
 
-**Usuari:** I què porta, més o menys?
+**Usuari:** La d'Ordino sempre s'ha fet al desembre?
 
-**Maia:** Es fa amb col i patata bullides i aixafades, que es barregen amb el
-greix de la cansalada i es dauren a la paella. La fitxa no concreta si a
-Andorra hi ha una variant pròpia.
+**Maia:** No. Originàriament també es feia per Carnaval. Ordino la va recuperar
+el 2017 i, des d'aleshores, se celebra al desembre. La documentació disponible
+no explica per què es va fixar aquesta nova data.
 
-**Usuari:** Doncs si demano trinxat aquí, puc esperar que sigui diferent del de
-la Cerdanya?
+**Per què funciona:** la primera pregunta ajuda a entendre quan es poden veure
+les dues celebracions vigents. El seguiment sorgeix de la diferència de
+calendari entre Ordino i Encamp; la resposta n'explica el canvi conegut i no
+atribueix un motiu que no està documentat.
 
-**Maia:** No ho podem donar per fet. El corpus descriu la preparació general,
-però no documenta cap diferència entre una versió andorrana i una de cerdana.
+**Fonts i drets per verificar:** [`Les festes de l'ossa`](../../../docs/temes/costums/danses/les-festes-de-lossa.md) i
+[`Viquipèdia en català`](../../../docs/fonts/wikipedia-llegendes-andorra.md),
+llicència CC BY-SA 4.0. En exportar, conservar atribució i compartir igual.
 
-**Per què funciona:** la conversa va de l'origen del plat a què hi porta i
-després a una conseqüència pràctica. Maia no inventa una «variant andorrana»
-perquè la pregunta la suggereixi.
+## Rebuig de patrons
 
-**Fonts per revisar:** [`el-trinxat.md`](../../../docs/temes/gastronomia/plats/el-trinxat.md).
+No són preguntes d'entrenament útils:
 
-## Com pot baixar i pujar alhora la població d'Encamp?
+- «Què explica la secció X de la fitxa Y?» — l'usuari no ha dit que tingui la
+  fitxa davant ni quin dubte vol resoldre.
+- «Què indica aquesta fila?» — depèn d'una taula absent del xat.
+- «Què explica el corpus sobre X?» — demana metadades del nostre procés, no una
+  resposta sobre Andorra.
+- Una pregunta de quiz com «Quin any es va recuperar?» si no hi ha un motiu
+  conversacional per demanar una data aïllada.
+- Dos o tres torns que només repeteixen la mateixa dada amb altres paraules.
 
-**Usuari:** He vist que Encamp perd població en una estadística i en guanya en
-una altra. Com pot ser?
+## Vista de format final
 
-**Maia:** Perquè no compten exactament el mateix. El juliol del 2026, la
-població registrada d'Encamp havia baixat un 4,7% respecte d'un any abans,
-mentre que l'estimada havia pujat un 2,2%. La primera surt del cens comunal;
-la segona calcula la població resident encreuant-lo amb altres registres.
-
-**Usuari:** Llavors la baixada del cens no vol dir que tanta gent hagi marxat?
-
-**Maia:** No ho podem saber només amb aquesta dada. Estadística adverteix que
-les variacions del registre també poden reflectir depuracions administratives,
-però no quantifica quina part de la baixada d'Encamp ve d'això.
-
-**Per què funciona:** la pregunta surt d'una contradicció aparent entre dues
-dades concretes. El seguiment prova una interpretació possible; la resposta
-marca el límit que la font dona per a Encamp.
-
-**Fonts per revisar:** [`dues-maneres-de-comptar-la-poblacio.md`](../../../docs/temes/societat/demografia/dues-maneres-de-comptar-la-poblacio.md) i [`estadistica-ad.md`](../../../docs/fonts/estadistica-ad.md).
-
-## Contramodel: pregunta i resposta que descartem
-
-**No:** «Què explica la secció “El relat” de la fitxa “La troballa de
-Meritxell”?»
-
-**Per què no:** depèn d'un document que l'usuari no ha esmentat. No diu quin
-dubte vol resoldre.
-
-**Tampoc:** «Tres coses que el corpus registra per separat:»
-
-**Per què no:** és un fragment sense resposta directa. Una bona resposta ha de
-dir què són aquestes coses i per què contesten la pregunta.
-
-## Format d'entrenament quan s'aprovi una mostra
+Quan un exemple hagi passat revisió factual, editorial i de drets, el format
+d'exportació serà una sola línia JSONL amb els missatges del diàleg. Per exemple:
 
 ```json
-{"messages":[{"role":"user","content":"Em pensava que les festes de l'ossa eren totes per Carnaval. N'hi ha alguna que es faci en una altra època?"},{"role":"assistant","content":"Sí. A Ordino, l'Última ossa es representa durant la primera setmana de desembre, coincidint amb la fira de Nadal. A Encamp, en canvi, el ball de l'ossa es fa el dilluns de Carnaval."},{"role":"user","content":"Ah, la d'Ordino ja es feia al desembre de sempre?"},{"role":"assistant","content":"No. Abans també es feia per Carnaval. Es va recuperar el 2017 i des d'aleshores se celebra al desembre; la documentació no explica per què es va canviar la data."}]}
+{"messages":[{"role":"user","content":"Per fer trinxat, la col i la patata es bullen juntes o per separat?"},{"role":"assistant","content":"Es bullen juntes fins que gairebé es desfan. Després es trinxen, es barregen amb el greix de la cansalada fregida i es dauren a la paella fins que fan crosta."},{"role":"user","content":"I la cansalada també es barreja amb la col i la patata?"},{"role":"assistant","content":"Se'n barreja el greix amb les verdures; la cansalada fregida es posa per sobre quan se serveix."}]}
 ```
 
-El JSONL final només conté `messages`. Identificadors, fonts, drets i decisions
-editorials queden als fitxers interns de revisió.
+L'exportació real només inclou mostres aprovades. Fonts, drets, identificadors i
+notes editorials es queden als registres interns.
