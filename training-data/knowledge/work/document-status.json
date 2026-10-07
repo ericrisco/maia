@@ -13647,12 +13647,19 @@
       "title": "Com es compten els vots",
       "type": "article",
       "topic": "temes/politica/sistema-electoral",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 71,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0007",
+        "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0008",
+        "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0015",
+        "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0017"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 71,
-      "conversation_ids": []
+      "open_unit_count": 67,
+      "conversation_ids": [
+        "escons-parroquials-i-nacionals-repartiment-001"
+      ]
     },
     "docs/temes/politica/sistema-electoral/el-financament-dels-partits.md": {
       "title": "El finançament dels partits",
