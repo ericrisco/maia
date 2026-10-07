@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 2,
+    "in_progress": 3,
     "no_natural_question": 0,
-    "not_started": 1346
+    "not_started": 1345
   },
   "documents": [
     {
@@ -128,12 +128,13 @@
       "topic": "temes/costums/danses",
       "source": "wikipedia-ball-ossa-encamp",
       "status": "in_progress",
-      "conversation_count": 5,
+      "conversation_count": 6,
       "conversation_ids": [
         "ball-ossa-arguments-divergents-001",
         "ball-ossa-dallaires-paper-001",
         "ball-ossa-marsol-modernitzacio-001",
         "ball-ossa-ritus-iniciatic-001",
+        "festes-ossa-inscripcio-unesco-001",
         "ossa-encamp-disfressa-materials-001"
       ],
       "reviewed_units": [
@@ -143,7 +144,8 @@
         "La font recull una interpretació d'Eloi Ysàs que llegeix la farsa com un ritu iniciàtic, però la tesi original no s'ha pogut consultar.",
         "La disfressa és descrita amb pells d'ovella, abans farcides de palla, i avui de pèl de peluix; la font no en data el canvi.",
         "La font atribueix a Rossend Marsol la modernització, l'ús de megafonia i la implicació del jovent; el seu guió encara n'és l'esquema, però la font no afirma que la representació sigui idèntica cada any.",
-        "La descripció atribuïda a Amades i la de Masegosa divergeixen; Masegosa descriu la representació actual com a sàtira política i social amb contingut canviant. No s'arbitra quina trama és original."
+        "La descripció atribuïda a Amades i la de Masegosa divergeixen; Masegosa descriu la representació actual com a sàtira política i social amb contingut canviant. No s'arbitra quina trama és original.",
+        "Les Festes de l'Os dels Pirineus són inscrites a la UNESCO des del 2022; la candidatura inclou les representacions d'Encamp i Ordino."
       ],
       "open_units": [
         "La lectura del ball com a ritus iniciàtic depèn d'una tesi doctoral identificada però no consultada; no tractar-la com a fet verificat.",
@@ -215,11 +217,19 @@
       "type": "article",
       "topic": "temes/costums/danses",
       "source": "wikipedia-llegendes-andorra",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "festes-ossa-inscripcio-unesco-001"
+      ],
+      "reviewed_units": [
+        "Les Festes de l'Os dels Pirineus van ser inscrites el 2022 a la Llista Representativa de la UNESCO en una candidatura conjunta d'Andorra i França.",
+        "El Ball de l'Ossa d'Encamp i l'Última Ossa d'Ordino consten com a representacions andorranes de la candidatura."
+      ],
+      "open_units": [
+        "La definició, el repartiment territorial, les màscares, les trames, les dates i els canvis històrics de les festes de l'ossa encara no estan coberts en converses actives.",
+        "Les condicions de redistribució de la notícia governamental i de la fitxa UNESCO impedeixen exportar aquest candidat sense una base reutilitzable o autorització."
+      ],
       "completion_note": "",
       "reason": ""
     },
