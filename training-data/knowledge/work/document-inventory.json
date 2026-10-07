@@ -9,7 +9,7 @@
   "file_count": 1477,
   "article_count": 1348,
   "parse_error_count": 0,
-  "conversation_count": 127,
+  "conversation_count": 128,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 0,
@@ -1164,13 +1164,14 @@
       "topic": "temes/cultura",
       "source": "estadistica-ad",
       "status": "in_progress",
-      "conversation_count": 8,
+      "conversation_count": 9,
       "conversation_ids": [
         "habits-culturals-biblioteques-edat-001",
         "habits-culturals-biblioteques-enquesta-i-usuaris-001",
         "habits-culturals-cinema-biblioteques-001",
         "habits-culturals-cinema-edat-i-augment-001",
         "habits-culturals-esport-total-i-edat-001",
+        "habits-culturals-lectura-per-estudis-001",
         "habits-culturals-lectura-per-oci-genere-001",
         "habits-culturals-museus-per-edat-001",
         "habits-culturals-teatre-i-multiplicitat-activitats-001"
@@ -1192,7 +1193,9 @@
         "Teatre: 39,4% → 39,0% (-0,4 punts), gairebé estable.",
         "Participació en més d'11 activitats culturals: 55,0% → 44,3% (-10,7 punts), sense tractar-ho com a indicador exhaustiu de participació cultural.",
         "Assistència a biblioteques per edat: caiguda més gran entre 15-29 (-15 punts); 45-64 gairebé estable (-0,3); 30-44 -4,9; 65+ -8,1.",
-        "L'indicador mesura percentatge de persones que van a biblioteca, no nombre de visites."
+        "L'indicador mesura percentatge de persones que van a biblioteca, no nombre de visites.",
+        "Lectura per oci segons estudis: terciaris 83,0% → 76,1%; secundaris 68,2% → 66,5%; obligatoris 45,7% → 48,8%.",
+        "Distància terciaris-obligatoris: 37,3 punts el 2019 i 27,3 el 2024; continua sent marcada."
       ],
       "open_units": [
         "Revisar les altres activitats de l'enquesta i els seus desglossaments per edat, sexe i estudis.",
