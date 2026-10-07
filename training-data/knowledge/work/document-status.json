@@ -932,10 +932,17 @@
       "topic": "temes/cultura/llegendes",
       "status": "in_progress",
       "unit_count": 12,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/cultura/llegendes/la-bruixa-de-sornas.md#unit-0001",
+        "docs/temes/cultura/llegendes/la-bruixa-de-sornas.md#unit-0003",
+        "docs/temes/cultura/llegendes/la-bruixa-de-sornas.md#unit-0004",
+        "docs/temes/cultura/llegendes/la-bruixa-de-sornas.md#unit-0005"
+      ],
       "excluded_unit_count": 6,
-      "open_unit_count": 6,
-      "conversation_ids": []
+      "open_unit_count": 2,
+      "conversation_ids": [
+        "bruixa-sornas-llegenda-i-buits-001"
+      ]
     },
     "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md": {
       "title": "La Dama Blanca d'Aubinyà",
