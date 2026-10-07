@@ -310,11 +310,14 @@
     "docs/temes/costums/danses/les-festes-de-lossa.md": {
       "status": "in_progress",
       "conversation_ids": [
-        "festes-ossa-ordino-calendari-carnaval-001"
+        "festes-ossa-ordino-calendari-carnaval-001",
+        "festes-ossa-abast-geografic-emigracio-001"
       ],
       "covered_units": [
         "Les dues manifestacions descrites com a vigents i els seus calendaris: Última Ossa d'Ordino la primera setmana de desembre; Ball de l'Ossa d'Encamp dilluns de Carnaval.",
-        "Ordino celebrava la festa per Carnaval abans del calendari actual; la font situa la recuperació del 2017 però no explica el motiu ni data exacta del canvi."
+        "Ordino celebrava la festa per Carnaval abans del calendari actual; la font situa la recuperació del 2017 però no explica el motiu ni data exacta del canvi.",
+        "La font documenta celebracions de l'ossa a set indrets i situa la temporada tradicional entre Sant Esteve i Carnaval.",
+        "La font atribueix la decadència i desaparició de moltes festes a l'emigració juvenil cap al sud de França als anys vint, sense oferir cronologies locals completes."
       ],
       "open_units": [
         "Confirmar amb fonts primàries la cronologia d'interrupcions i represes d'Ordino; les fonts secundàries discrepen sobre les dates anteriors a 2017.",
