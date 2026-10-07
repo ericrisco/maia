@@ -48,13 +48,19 @@
     ]
   },
   "docs/temes/costums/danses/les-festes-de-lossa.md": {
-    "status": "not_started",
+    "status": "in_progress",
+    "conversation_ids": [
+      "festes-ossa-unesco-andorra-franca-01"
+    ],
+    "reviewed_units": [
+      "Inscripció del 2022 de la candidatura conjunta Andorra-França i presència de les dues manifestacions andorranes: Encamp i Ordino.",
+      "Distinció entre les festes locals i el seu lloc dins l’element patrimonial transnacional."
+    ],
     "open_units": [
-      "descripció completa de l’Última Ossa d’Ordino, personatges i seqüència final",
-      "cronologia contradictòria de les represes d’Ordino i causes que les fonts no expliquen",
-      "màscara centenària d’Ordino i continuïtat d’ús després del 2017",
-      "fotografies atribuïdes a Guillem d’Areny-Plandolit i verificació externa pendent",
-      "altres localitats documentades i causes de continuïtat només parcialment cobertes"
+      "Farsa antiga, personatges, usos de màscares i cronologia de les parròquies; discrepàncies no resoltes de les dates de represa d’Ordino.",
+      "Primera referència escrita, emigració dels anys vint i motius de les supervivències locals.",
+      "Textos i testimonis d’arxiu, encara no consultats.",
+      "Condicions de reutilització de la notícia institucional del Govern; llicència de la Viquipèdia CC BY-SA."
     ]
   },
   "docs/temes/costums/calendari-festiu/calendari-festiu.md": {
