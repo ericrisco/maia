@@ -146,9 +146,13 @@
     ]
   },
   "docs/temes/costums/religiositat/el-registre-dentitats-religioses.md": {
-    "status": "in_progress",
+    "status": "complete",
     "open_units": [
-      "Passada editorial integral de la fitxa: revisar la resta d’afirmacions i buits contra les converses i conservar explícitament allò que no consta."
+      "Entrades actuals del Registre: nombre i identitat de les entitats i distribució dels llocs de culte; no consultades al corpus.",
+      "Composició del Registre d’associacions anterior a la Llei 2/2025; les entitats no s’identifiquen a la disposició transitòria.",
+      "Aplicació real de la clàusula de proselitisme abusiu; no hi ha resolucions ni resposta del Registre al corpus.",
+      "Mecanisme i activitat actuals dels canals de diàleg que el Govern ha d’establir.",
+      "Estat actual de la presentació electrònica i reglament vigent sobre certificacions i còpies; no verificats amb font actual."
     ],
     "conversation_ids": [
       "registre-religios-no-inscrit-responsabilitat-i-inscripcio-01",
@@ -180,7 +184,8 @@
       "registre-religios-governanca-i-adreces-27",
       "registre-religios-entrades-actuals-no-consultades-28",
       "registre-religios-situacio-abans-de-2025-29",
-      "registre-religios-denegacions-proselitisme-casos-no-documentats-30"
+      "registre-religios-denegacions-proselitisme-casos-no-documentats-30",
+      "registre-religios-llibertat-i-via-catolica-31"
     ],
     "reviewed_units": [
       "Responsabilitat solidària dels membres d’una entitat religiosa no inscrita per les obligacions contretes en nom seu (art. 15.1).",
@@ -215,7 +220,9 @@
       "Facultats i designació d’òrgans de govern, seu central, adreça a Andorra i adreça opcional de comunicacions (art. 4.1.c i e).",
       "Llei exigeix dades sobre entitats i llocs de culte, però el corpus no ha consultat entrades actuals ni pot donar recomptes o distribució (arts. 4 i 8; buit registrat).",
       "Situació anterior al 2025: la disposició transitòria confirma una via prèvia pel Registre d’associacions per a algunes entitats, però no n’identifica la composició ni l’abast (buit registrat).",
-      "Aplicació de la clàusula de proselitisme abusiu: no hi ha resolucions ni resposta del Registre al corpus, de manera que no es documenten casos (buit registrat)."
-    ]
+      "Aplicació de la clàusula de proselitisme abusiu: no hi ha resolucions ni resposta del Registre al corpus, de manera que no es documenten casos (buit registrat).",
+      "Constitució art. 11: garantia general de llibertat religiosa i garantia específica de l’exercici públic i col·laboració de l’Església catòlica; abast limitat de la via catòlica (arts. 11 i 13)."
+    ],
+    "completion_note": "Revisada la fitxa sencera i contrastades les afirmacions jurídiques amb la Llei 2/2025, la Constitució i el BOPA. Les normes, els procediments, les excepcions i els límits d’evidència estan representats en converses naturals; les dades actuals que la font no aporta queden registrades com a buits i no s’infereixen."
   }
 }
