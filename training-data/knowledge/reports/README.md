@@ -1,4 +1,5 @@
 # Informes Knowledge
 
-Els informes de cobertura i qualitat es generaran quan comenci la revisió tema a
-tema. No s'informen mètriques amb una mostra de calibratge.
+`export-summary.md` s'actualitza en exportar les converses aprovades. Indica
+quantes fitxes font tenen almenys una conversa; no equival a cobertura completa
+del coneixement de cada fitxa.

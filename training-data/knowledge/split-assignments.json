@@ -1,0 +1,7 @@
+{
+  "policy": "Els registres d'un mateix grup semàntic es mantenen al mateix split.",
+  "groups": {
+    "institucions-justicia-autoritats": "train",
+    "institucions-justicia-veheduria": "train"
+  }
+}

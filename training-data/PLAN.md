@@ -94,6 +94,11 @@ revisats, inclosos els que no donen lloc a cap pregunta natural.
 Si un criteri falla, es reescriu o es descarta. Una puntuació numèrica no
 substitueix aquesta revisió.
 
+L'estat de drets es registra tal com consta a la font. Un estat «no» o
+«pendent» no s'ha de presentar com a permís. La decisió d'incloure material a
+la preparació del model correspon al propietari del projecte; l'exportació
+conserva l'atribució i les limitacions, i no declara una llicència global.
+
 ## Cobertura i exportació
 
 Es revisa el corpus tema a tema. L'inventari intern marca què s'ha llegit,
