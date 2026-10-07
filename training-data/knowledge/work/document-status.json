@@ -37,5 +37,6 @@
         "Re-read the full source article and linked documents to identify any other useful claims not yet represented; current records cover selected units only."
       ]
     }
-  }
+  },
+  "schema_version": 1
 }

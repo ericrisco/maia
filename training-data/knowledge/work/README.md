@@ -1,3 +1,3 @@
 # Treball de Knowledge
 
-Aquí aniran inventari de documents, drets, unitats de coneixement i estat de cobertura. Encara no hi ha un inventari refet amb el nou criteri.
+`document-inventory.json` és l'inventari de tots els fitxers de `docs/temes/`; `document-status.json` conserva l'estat i els punts oberts per fitxa. Cap fitxa es marca com a completa només pel nombre de converses. El recompte per tema es publica a `../reports/coverage-summary.md`.
