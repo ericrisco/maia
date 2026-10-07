@@ -44,6 +44,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - Joan Amades, descripció del Ball del porrer citada per Pere Canturri i Montanya a «Andorra en el Costumari català de Joan Amades», 1994, p. 33–39.
 - Joan Amades, relat del 1950 citat per Pere Canturri Montanya (1994); Fabiola Masegosa, tesi doctoral de 2017 i resum publicat el 2020; la fitxa de Viquipèdia en català és CC BY-SA 4.0.
 - Joan Sans Urgell, ponència de l’IEC sobre vocabulari andorrà; expedient diplomàtic francès 6MD/1 de 1866, consultat a les Archives diplomatiques.
+- Joan Sans Urgell, ponència de l’IEC sobre vocabulari andorrà; la fitxa recull «nascència» aplicada a animals i la qüestió oberta sobre persones.
 - La fitxa del corpus «El ball del Cerdà» atribueix el lloc i l’hora a «premsa andorrana», sense identificar el mitjà, l’article, la data ni l’URL.
 - La fitxa «El ball del Cerdà» cita una font secundària no identificada; «La marratxa» recull dades atribuïdes a Viquipèdia en català, CC BY-SA 4.0, amb atribució i compartir igual.
 - La fitxa «El contrapàs» atribueix la participació, la descripció coreogràfica i el calendari a «premsa andorrana», sense identificar el mitjà, l’article, la data ni l’URL.
@@ -93,6 +94,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - Premsa: drets reservats i redistribució:no, amb referència no verificable. Govern: autorització escrita necessària per redistribuir o transformar; no consta permís específic.
 - Premsa: drets reservats i redistribució:no; referència no verificable. Govern: l’avís general exigeix autorització escrita per redistribuir o transformar contingut; no consta permís específic.
 - Publicació acadèmica de Canturri en accés obert amb redistribució pendent. Viquipèdia és CC BY-SA 4.0, amb atribució i compartir igual. No es coneix la data del canvi de pràctica.
+- Publicació acadèmica de l’IEC en accés obert; la fitxa de font registra redistribució pendent. No es reprodueix cap passatge extens.
 - Publicació acadèmica en accés obert; la fitxa de font registra redistribució pendent. La conversa és una paràfrasi atribuïda i no afirma que el vestuari es conservi avui.
 - Publicació acadèmica en accés obert; la fitxa de font registra redistribució pendent. L’elegibilitat del destí d’entrenament no consta resolta.
 - Publicació acadèmica en accés obert; la fitxa de font registra redistribució pendent. S’atribueix l’anàlisi a Canturri i no es tracta l’accés obert com a permís de redistribució.

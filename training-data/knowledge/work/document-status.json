@@ -270,7 +270,8 @@
     "reviewed_units": [
       "«cap de casa» té el sentit de golfes i el de membre de la família amb autoritat",
       "el vot de la Nova Reforma de 1866 es concedia als caps de casa; la unitat política era la casa, no cada home adult",
-      "el pas d’una persona a cap de casa, l’herència i el sistema de l’hereu i la pubilla continuen sense documentació al corpus"
+      "el pas d’una persona a cap de casa, l’herència i el sistema de l’hereu i la pubilla continuen sense documentació al corpus",
+      "«nascència» s’usa referit a animals segons el corpus; l’aplicació a persones no està confirmada"
     ],
     "completion_note": "",
     "reason": ""
@@ -278,7 +279,8 @@
   "docs/temes/llengua/lexic-andorra/glossari-de-mots-documentats.md": {
     "status": "in_progress",
     "reviewed_units": [
-      "«cap de casa» al DIEC2: golfa i membre de la família que té l’autoritat; sentit citat en la ponència de l’IEC"
+      "«cap de casa» al DIEC2: golfa i membre de la família que té l’autoritat; sentit citat en la ponència de l’IEC",
+      "«nascència»: el fet de néixer; a Andorra documentat per a animals («la nascència dels vedells»), no confirmat per a persones"
     ],
     "completion_note": "",
     "reason": ""
