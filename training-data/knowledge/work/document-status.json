@@ -339,5 +339,15 @@
     "reviewed_units": [
       "Cada parròquia té festa major i moltes viles també; no hi ha un únic esdeveniment nacional."
     ]
+  },
+  "docs/temes/costums/gegants/els-gegants.md": {
+    "open_units": [],
+    "status": "in_progress",
+    "conversation_ids": [
+      "gegants-andorra-la-vella-origen-i-portadors-001"
+    ],
+    "reviewed_units": [
+      "Origen modern dels gegants d’Andorra la Vella: idea cap al 1982, construcció el 1985, figures triades per «fer poble»; portadors membres de la Gresca Gegantera."
+    ]
   }
 }
