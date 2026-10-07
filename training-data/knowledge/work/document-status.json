@@ -645,12 +645,21 @@
       "title": "Sant Martí de la Cortinada",
       "type": "article",
       "topic": "temes/cultura/arquitectura",
-      "status": "in_progress",
+      "status": "complete",
       "unit_count": 12,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/cultura/arquitectura/sant-marti-de-la-cortinada.md#unit-0001",
+        "docs/temes/cultura/arquitectura/sant-marti-de-la-cortinada.md#unit-0002",
+        "docs/temes/cultura/arquitectura/sant-marti-de-la-cortinada.md#unit-0003",
+        "docs/temes/cultura/arquitectura/sant-marti-de-la-cortinada.md#unit-0004",
+        "docs/temes/cultura/arquitectura/sant-marti-de-la-cortinada.md#unit-0005",
+        "docs/temes/cultura/arquitectura/sant-marti-de-la-cortinada.md#unit-0006"
+      ],
       "excluded_unit_count": 6,
-      "open_unit_count": 6,
-      "conversation_ids": []
+      "open_unit_count": 0,
+      "conversation_ids": [
+        "cortinada-pintures-i-mestre-001"
+      ]
     },
     "docs/temes/cultura/arquitectura/sant-miquel-de-prats.md": {
       "title": "Sant Miquel de Prats",
