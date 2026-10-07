@@ -2305,10 +2305,11 @@
       "topic": "temes/economia/comerc",
       "source": "estadistica-ad",
       "status": "in_progress",
-      "conversation_count": 6,
+      "conversation_count": 7,
       "conversation_ids": [
         "ipc-comunicacions-baixen-telefon-001",
         "ipc-dues-fases-inflacio-deflacio-001",
+        "ipc-errada-comparacio-energia-serveis-001",
         "ipc-grup-molt-encarit-pes-petit-001",
         "ipc-ponderacio-lloguer-canvi-cistella-1998-2017-001",
         "ipc-salari-minim-real-2001-2026-001",
@@ -2320,10 +2321,12 @@
         "Les comunicacions són l’únic grup que baixa entre gener del 2001 i agost del 2026 (−21,8%); vestit i calçat pugen un 3,2%. La variació de grup no descriu cada contracte o factura individual.",
         "L’índex del transport per carretera baixa en dos salts (95,1 el juny de 2022, 62,5 el juliol i 46,1 el setembre; −51,5% des del desembre de 2021); la dada de l’IPC no assigna cada salt a una mesura concreta.",
         "La variació acumulada és +32,6% el 2001–2012, +7,7% el 2012–2021 i +21,5% el desembre de 2021–agost de 2026; les mitjanes anuals baixen el 2009, 2014, 2015 i 2016, i hi ha 46 mesos interanuals negatius de 296.",
-        "A la base antiga, la ponderació del lloguer passa de l’11,9% el 1998 al 18,7% el 2017; vestit baixa del 7,10% al 3,65% i carn del 6,86% al 3,94%. Les ponderacions no són variacions de preus i les bases no s’encadenen directament."
+        "A la base antiga, la ponderació del lloguer passa de l’11,9% el 1998 al 18,7% el 2017; vestit baixa del 7,10% al 3,65% i carn del 6,86% al 3,94%. Les ponderacions no són variacions de preus i les bases no s’encadenen directament.",
+        "L’agost del 2026, l’índex d’energia és 151,25 i el de serveis 110,92 amb base 2021=100; les variacions són +51,25% i +10,92%, per tant la frase «gairebé el triple» de la fitxa no concorda amb les xifres."
       ],
       "open_units": [
-        "Resta revisar els dotze grups, classes, sèries anuals i mensuals, canvis de base, pes de les ponderacions, xifres d'autobús, relació salari-preus i tots els límits temporals i metodològics de la fitxa."
+        "Resta revisar els dotze grups, classes, sèries anuals i mensuals, canvis de base, pes de les ponderacions, xifres d'autobús, relació salari-preus i tots els límits temporals i metodològics de la fitxa.",
+        "Corregir a la fitxa font la comparació «l’energia ha pujat gairebé el triple que els serveis»: els índexs publicats impliquen aproximadament 4,7 vegades l’augment dels serveis."
       ],
       "completion_note": "Primera conversa candidata sobre la diferència entre variació del preu i pes a l'IPC. Revisió de l'article continua.",
       "reason": ""
