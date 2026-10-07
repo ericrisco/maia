@@ -417,7 +417,8 @@
         "habits-culturals-esport-per-edat-complet-001",
         "habits-culturals-voluntariat-entitats-abast-001",
         "habits-culturals-prestec-periodics-i-so-001",
-        "habits-culturals-voluntariat-serie-temporal-001"
+        "habits-culturals-voluntariat-serie-temporal-001",
+        "museus-enquesta-i-afluencia-visites-2019-2024-001"
       ],
       "covered_units": [
         "Enquesta 2019 i 2024: cinema, 57,4% → 66,3% (+8,9 punts).",
@@ -450,12 +451,25 @@
         "Pràctica esportiva per edat completa: 15-29 89,5% → 94,7%; 30-44 87,1% → 85,9%; 45-64 67,5% → 75,6%; 65+ 43,4% → 51,2%.",
         "Voluntariat: sèrie d'entitats participants 14 el 2017, mínim 2 el 2021 i 14 el 2025; no equival a registre d'associacions i la definició exacta no consta.",
         "Préstecs per categoria (2016-2024): periòdics 443 → 531 (+19,9%); sonors 554 → 371 (-33%); no totes les categories no-llibre disminueixen.",
-        "Voluntariat, sèrie de totals: 295 el 2010, màxim 762 el 2020, 100 el 2021 i 178 el 2025; la font no explica les causes."
+        "Voluntariat, sèrie de totals: 295 el 2010, màxim 762 el 2020, 100 el 2021 i 178 el 2025; la font no explica les causes.",
+        "Comptabilitat de museus: 149.679 visites el 2019 i 92.583 el 2024; són visites, no recompte de persones úniques."
       ],
       "open_units": [
         "Revisar les altres activitats de l'enquesta i els seus desglossaments per edat, sexe i estudis.",
         "Revisar els museus, la lectura, l'esport i el voluntariat, incloent les discrepàncies identificades a la font.",
         "Llegir de nou l'article complet per identificar altres unitats útils; no donar la fitxa per coberta amb aquesta conversa."
+      ]
+    },
+    "docs/temes/cultura/museus-i-arxius/museus/els-museus-d-andorra-index-de-fitxes.md": {
+      "status": "in_progress",
+      "conversation_ids": [
+        "museus-enquesta-i-afluencia-visites-2019-2024-001"
+      ],
+      "covered_units": [
+        "Afluència total de museus: 149.679 visites el 2019 i 92.583 el 2024; el recompte no identifica persones úniques."
+      ],
+      "open_units": [
+        "Revisar la resta de l'article sobre la xarxa museística, la història institucional i les fitxes dels museus; aquesta dada no cobreix l'article complet."
       ]
     }
   },

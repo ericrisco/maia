@@ -9,20 +9,20 @@
   "file_count": 1477,
   "article_count": 1348,
   "parse_error_count": 0,
-  "conversation_count": 138,
+  "conversation_count": 139,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 0,
-    "in_progress": 12,
+    "in_progress": 13,
     "no_natural_question": 0,
-    "not_started": 1465
+    "not_started": 1464
   },
   "article_status_totals": {
     "complete": 0,
     "excluded_rights": 0,
-    "in_progress": 12,
+    "in_progress": 13,
     "no_natural_question": 0,
-    "not_started": 1336
+    "not_started": 1335
   },
   "documents": [
     {
@@ -1164,7 +1164,7 @@
       "topic": "temes/cultura",
       "source": "estadistica-ad",
       "status": "in_progress",
-      "conversation_count": 19,
+      "conversation_count": 20,
       "conversation_ids": [
         "habits-culturals-biblioteques-edat-001",
         "habits-culturals-biblioteques-enquesta-i-usuaris-001",
@@ -1184,7 +1184,8 @@
         "habits-culturals-voluntariat-discrepancia-series-001",
         "habits-culturals-voluntariat-entitats-abast-001",
         "habits-culturals-voluntariat-serie-temporal-001",
-        "habits-culturals-xarxa-biblioteques-i-plantilla-001"
+        "habits-culturals-xarxa-biblioteques-i-plantilla-001",
+        "museus-enquesta-i-afluencia-visites-2019-2024-001"
       ],
       "reviewed_units": [
         "Enquesta 2019 i 2024: cinema, 57,4% → 66,3% (+8,9 punts).",
@@ -1217,7 +1218,8 @@
         "Pràctica esportiva per edat completa: 15-29 89,5% → 94,7%; 30-44 87,1% → 85,9%; 45-64 67,5% → 75,6%; 65+ 43,4% → 51,2%.",
         "Voluntariat: sèrie d'entitats participants 14 el 2017, mínim 2 el 2021 i 14 el 2025; no equival a registre d'associacions i la definició exacta no consta.",
         "Préstecs per categoria (2016-2024): periòdics 443 → 531 (+19,9%); sonors 554 → 371 (-33%); no totes les categories no-llibre disminueixen.",
-        "Voluntariat, sèrie de totals: 295 el 2010, màxim 762 el 2020, 100 el 2021 i 178 el 2025; la font no explica les causes."
+        "Voluntariat, sèrie de totals: 295 el 2010, màxim 762 el 2020, 100 el 2021 i 178 el 2025; la font no explica les causes.",
+        "Comptabilitat de museus: 149.679 visites el 2019 i 92.583 el 2024; són visites, no recompte de persones úniques."
       ],
       "open_units": [
         "Revisar les altres activitats de l'enquesta i els seus desglossaments per edat, sexe i estudis.",
@@ -1953,11 +1955,17 @@
       "type": "article",
       "topic": "temes/cultura/museus-i-arxius/museus",
       "source": "wikipedia-museus-andorra",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "museus-enquesta-i-afluencia-visites-2019-2024-001"
+      ],
+      "reviewed_units": [
+        "Afluència total de museus: 149.679 visites el 2019 i 92.583 el 2024; el recompte no identifica persones úniques."
+      ],
+      "open_units": [
+        "Revisar la resta de l'article sobre la xarxa museística, la història institucional i les fitxes dels museus; aquesta dada no cobreix l'article complet."
+      ],
       "completion_note": "",
       "reason": "",
       "exclusion_reason": "",
