@@ -13841,13 +13841,15 @@
         "docs/temes/societat/demografia/la-mateixa-gent-quinze-anys-mes-gran.md#unit-0015",
         "docs/temes/societat/demografia/la-mateixa-gent-quinze-anys-mes-gran.md#unit-0016",
         "docs/temes/societat/demografia/la-mateixa-gent-quinze-anys-mes-gran.md#unit-0017",
+        "docs/temes/societat/demografia/la-mateixa-gent-quinze-anys-mes-gran.md#unit-0018",
         "docs/temes/societat/demografia/la-mateixa-gent-quinze-anys-mes-gran.md#unit-0041"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 33,
+      "open_unit_count": 32,
       "conversation_ids": [
         "demografia-canvi-poblacio-per-edat-2010-2025-001",
-        "demografia-edat-modal-no-es-seguiment-001"
+        "demografia-edat-modal-no-es-seguiment-001",
+        "demografia-registre-edat-zero-i-un-any-001"
       ]
     },
     "docs/temes/societat/demografia/la-poblacio-al-segle-xix.md": {
