@@ -1,6 +1,7 @@
 {
   "description": "Assigna cada font de contingut a un únic split; exemples amb fonts relacionades comparteixen split.",
   "groups": {
+    "docs/temes/cultura/museus-i-arxius/museus/la-farga-rosell.md": "train",
     "docs/temes/cultura/arquitectura/sant-roma-de-les-bons.md": "train",
     "docs/temes/cultura/arquitectura/santa-coloma.md": "train",
     "docs/temes/cultura/arquitectura/sant-marti-de-la-cortinada.md": "train",
