@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 1,
+    "in_progress": 2,
     "no_natural_question": 0,
-    "not_started": 1347
+    "not_started": 1346
   },
   "documents": [
     {
@@ -14296,7 +14296,7 @@
       "topic": "temes/institucions/justicia",
       "source": "brutails-coutume-1904",
       "status": "in_progress",
-      "conversation_count": 7,
+      "conversation_count": 8,
       "conversation_ids": [
         "competencia-consol-penal-versus-civil-01",
         "competencia-criminal-consell-politar-divergencia-01",
@@ -14304,7 +14304,8 @@
         "competencia-plet-comu-segons-demandant-01",
         "competencia-responsabilitat-consol-pagament-multa-1891-01",
         "consols-detencio-danys-comunal-decret-1866-01",
-        "consuls-immunitat-civil-politar-reforma-1866-01"
+        "consuls-immunitat-civil-politar-reforma-1866-01",
+        "justicia-politica-i-tribunals-veheduria-01"
       ],
       "reviewed_units": [
         "autorització per demandar autoritats abans i després de la Reforma de 1866",
@@ -14315,7 +14316,8 @@
         "supòsits i límits del decret de detenció del 1866",
         "pràctica del Consell General en matèria criminal i divergència amb la doctrina atribuïda al Politar",
         "cas de 1891 sobre la responsabilitat del cònsol i el pagament de la multa",
-        "immunitat civil durant l'any de càrrec segons el Politar i canvi amb la Reforma de 1866"
+        "immunitat civil durant l'any de càrrec segons el Politar i canvi amb la Reforma de 1866",
+        "abast de la justícia política i naturalesa dels tribunals de veheduria"
       ],
       "open_units": [
         "diferència entre demanda civil i persecució criminal",
@@ -14667,9 +14669,11 @@
       "type": "article",
       "topic": "temes/institucions/justicia",
       "source": "brutails-coutume-1904",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "justicia-politica-i-tribunals-veheduria-01"
+      ],
       "reviewed_units": [],
       "open_units": [],
       "completion_note": "",
