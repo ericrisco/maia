@@ -44,8 +44,9 @@
       "topic": "temes/costums/calendari-festiu",
       "source": "premsa-andorrana",
       "status": "in_progress",
-      "conversation_count": 4,
+      "conversation_count": 5,
       "conversation_ids": [
+        "ball-ossa-encamp-femeni-i-reminiscencia-01",
         "ball-ossa-encamp-versions-1950-avui-01",
         "carnaval-encamp-horaris-2026-01",
         "carnaval-encamp-sentit-guio-incert-01",
@@ -55,7 +56,8 @@
         "horaris i lloc del Judici dels Contrabandistes i del Ball de l’Ossa a l’edició d’Encamp del 2026; caràcter mòbil de les dates",
         "Judici dels Contrabandistes: farsa pública i lectura de la fitxa sobre el contraban; guió no localitzat i forma de representació desconeguda",
         "comparison between the 1950 description of the Ball de l’Ossa and the later argument summarized from Masegosa; source verification caveat retained",
-        "cronologies incompatibles d’Ordino segons Masegosa i Viquipèdia; totes dues registren la represa del 2017, però el corpus no les arbitra"
+        "cronologies incompatibles d’Ordino segons Masegosa i Viquipèdia; totes dues registren la represa del 2017, però el corpus no les arbitra",
+        "forma femenina l’Ossa i relació amb rituals pirinencs segons Masegosa; reminiscència no presentada com a continuïtat exacta"
       ],
       "open_units": [
         "les tres representacions del Carnaval d’Encamp i el seu calendari complet",
@@ -1657,9 +1659,10 @@
       "topic": "temes/cultura/teatre",
       "source": "masegosa-teatre-andorra",
       "status": "in_progress",
-      "conversation_count": 4,
+      "conversation_count": 5,
       "conversation_ids": [
         "ball-ossa-encamp-cortinada-arguments-01",
+        "ball-ossa-encamp-femeni-i-reminiscencia-01",
         "operacio-carnestoltes-matanca-porc-origen-01",
         "tralari-marieta-final-i-lectura-01",
         "tralari-marieta-variant-canillo-text-perdut-01"
@@ -1668,7 +1671,8 @@
         "diferència entre les versions del Ball de l'Ossa d'Encamp i la Cortinada; variació local sense origen comú establert",
         "Operació del Carnestoltes: vísceres de la matança del porc com a attrezzo, incorporació pels volts de 1970, autor desconegut i representació al complex esportiu",
         "Tralarí i la Marieta: final de la farsa i interpretació de Masegosa sobre gènere, crema del ninot i cicle Carnaval-Quaresma",
-        "Tralarí i la Marieta: variant de nom a Canillo, constància des del segle XIX i absència de text escrit; no es pot confirmar que els arguments fossin idèntics"
+        "Tralarí i la Marieta: variant de nom a Canillo, constància des del segle XIX i absència de text escrit; no es pot confirmar que els arguments fossin idèntics",
+        "forma femenina del Ball de l’óssa d’Encamp i reminiscència dels rituals pirinencs; continuïtat literal no demostrada"
       ],
       "open_units": [
         "forma de teatre popular i relació entre actors i públic",
