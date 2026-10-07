@@ -487,11 +487,15 @@
         "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0004",
         "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0012",
         "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0017",
-        "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0018"
+        "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0018",
+        "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0025",
+        "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0026",
+        "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0027"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 26,
+      "open_unit_count": 23,
       "conversation_ids": [
+        "estripagecs-cronologia-i-autoria-desconegudes-001",
         "estripagecs-escultures-i-circuit-001",
         "estripagecs-funcio-i-abast-geografic-001",
         "estripagecs-i-tamarro-reutilitzacio-cultural-001"
