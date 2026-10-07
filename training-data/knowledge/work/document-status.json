@@ -2043,12 +2043,21 @@
       "title": "La Comissió dels pagesos",
       "type": "article",
       "topic": "temes/economia/ramaderia-i-agricultura",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 31,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/economia/ramaderia-i-agricultura/la-comissio-dels-pagesos.md#unit-0005",
+        "docs/temes/economia/ramaderia-i-agricultura/la-comissio-dels-pagesos.md#unit-0006",
+        "docs/temes/economia/ramaderia-i-agricultura/la-comissio-dels-pagesos.md#unit-0007",
+        "docs/temes/economia/ramaderia-i-agricultura/la-comissio-dels-pagesos.md#unit-0008",
+        "docs/temes/economia/ramaderia-i-agricultura/la-comissio-dels-pagesos.md#unit-0009",
+        "docs/temes/economia/ramaderia-i-agricultura/la-comissio-dels-pagesos.md#unit-0010"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 31,
-      "conversation_ids": []
+      "open_unit_count": 25,
+      "conversation_ids": [
+        "cnra-composicio-i-periodicitat-001"
+      ]
     },
     "docs/temes/economia/ramaderia-i-agricultura/la-crisi-de-lovi.md": {
       "title": "La crisi de l'oví",
