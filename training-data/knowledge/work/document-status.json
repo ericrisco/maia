@@ -13797,15 +13797,17 @@
         "docs/temes/societat/demografia/dues-maneres-de-comptar-la-poblacio.md#unit-0014",
         "docs/temes/societat/demografia/dues-maneres-de-comptar-la-poblacio.md#unit-0015",
         "docs/temes/societat/demografia/dues-maneres-de-comptar-la-poblacio.md#unit-0017",
+        "docs/temes/societat/demografia/dues-maneres-de-comptar-la-poblacio.md#unit-0018",
         "docs/temes/societat/demografia/dues-maneres-de-comptar-la-poblacio.md#unit-0019"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 4,
+      "open_unit_count": 3,
       "conversation_ids": [
         "demografia-diferencia-andorra-la-vella-i-nacionalitat-001",
         "demografia-dues-series-encamp-2026-001",
         "demografia-metode-estimacio-altes-i-baixes-001",
         "demografia-registre-estimacio-per-parroquia-2026-001",
+        "demografia-vigencia-metodologia-estimacio-2026-001",
         "poblacio-per-poble-registrada-vs-estimada-001"
       ]
     },
