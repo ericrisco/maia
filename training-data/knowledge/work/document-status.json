@@ -183,7 +183,7 @@
     ]
   },
   "docs/temes/costums/religiositat/el-registre-dentitats-religioses.md": {
-    "status": "not_started",
+    "status": "in_progress",
     "open_units": [
       "Entrades actuals del Registre: nombre i identitat de les entitats i distribució dels llocs de culte; no consultades al corpus.",
       "Composició del Registre d’associacions anterior a la Llei 2/2025; les entitats no s’identifiquen a la disposició transitòria.",
@@ -191,7 +191,13 @@
       "Mecanisme i activitat actuals dels canals de diàleg que el Govern ha d’establir.",
       "Estat actual de la presentació electrònica i reglament vigent sobre certificacions i còpies; no verificats amb font actual."
     ],
-    "completion_note": "Revisada la fitxa sencera i contrastades les afirmacions jurídiques amb la Llei 2/2025, la Constitució i el BOPA. Les normes, els procediments, les excepcions i els límits d’evidència estan representats en converses naturals; les dades actuals que la font no aporta queden registrades com a buits i no s’infereixen."
+    "completion_note": "Revisada la fitxa sencera i contrastades les afirmacions jurídiques amb la Llei 2/2025, la Constitució i el BOPA. Les normes, els procediments, les excepcions i els límits d’evidència estan representats en converses naturals; les dades actuals que la font no aporta queden registrades com a buits i no s’infereixen.",
+    "conversation_ids": [
+      "registre-religios-vint-persones-i-personalitat-juridica-001"
+    ],
+    "reviewed_units": [
+      "Llei 2/2025: mínim de vint persones (andorranes o residents), amb almenys una persona adulta amb plenitud de drets; la personalitat jurídica s’adquireix amb la inscripció."
+    ]
   },
   "docs/temes/cultura/museus-i-arxius/com-sentra-a-larxiu-nacional.md": {
     "status": "not_started",

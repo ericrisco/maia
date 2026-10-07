@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 19,
+    "in_progress": 20,
     "no_natural_question": 0,
-    "not_started": 1329
+    "not_started": 1328
   },
   "documents": [
     {
@@ -448,10 +448,14 @@
       "type": "article",
       "topic": "temes/costums/religiositat",
       "source": "bopa-ad",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "registre-religios-vint-persones-i-personalitat-juridica-001"
+      ],
+      "reviewed_units": [
+        "Llei 2/2025: mínim de vint persones (andorranes o residents), amb almenys una persona adulta amb plenitud de drets; la personalitat jurídica s’adquireix amb la inscripció."
+      ],
       "open_units": [
         "Entrades actuals del Registre: nombre i identitat de les entitats i distribució dels llocs de culte; no consultades al corpus.",
         "Composició del Registre d’associacions anterior a la Llei 2/2025; les entitats no s’identifiquen a la disposició transitòria.",

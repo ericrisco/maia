@@ -4,14 +4,14 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 
 - Fitxes article: **1348**.
 - Fitxers totals, inclosos índexs: **1477**.
-- Converses candidates: **16**.
+- Converses candidates: **17**.
 
 | Estat de revisió | Fitxes |
 |---|---:|
 | Revisades completes | 0 |
-| En curs | 19 |
+| En curs | 20 |
 | Revisades sense pregunta natural | 0 |
-| No començades | 1329 |
+| No començades | 1328 |
 
 ## Estat per tema
 
@@ -25,7 +25,7 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 | `temes/costums/festes-majors` | 2 | 0 | 2 | 0 | 0 |
 | `temes/costums/gegants` | 1 | 0 | 1 | 0 | 0 |
 | `temes/costums/meritxell` | 1 | 0 | 1 | 0 | 0 |
-| `temes/costums/religiositat` | 5 | 5 | 0 | 0 | 0 |
+| `temes/costums/religiositat` | 5 | 4 | 1 | 0 | 0 |
 | `temes/costums/ritus-de-pas` | 2 | 1 | 1 | 0 | 0 |
 | `temes/costums/sant-antoni` | 1 | 1 | 0 | 0 | 0 |
 | `temes/cultura` | 1 | 1 | 0 | 0 | 0 |
