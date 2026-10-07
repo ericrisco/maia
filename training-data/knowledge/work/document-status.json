@@ -93,12 +93,16 @@
       "title": "El ball de l'ossa d'Encamp",
       "type": "article",
       "topic": "temes/costums/danses",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 63,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0031"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 63,
-      "conversation_ids": []
+      "open_unit_count": 62,
+      "conversation_ids": [
+        "carnaval-encamp-ossa-i-contrabandistes-001"
+      ]
     },
     "docs/temes/costums/danses/el-ball-del-cerda.md": {
       "title": "El ball del Cerdà",
@@ -194,11 +198,13 @@
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0035",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0036",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0037",
-        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0038"
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0038",
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0046"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 28,
+      "open_unit_count": 27,
       "conversation_ids": [
+        "carnaval-encamp-ossa-i-contrabandistes-001",
         "festes-ossa-bibliografia-001",
         "festes-ossa-forma-teatral-i-ordino-001",
         "festes-ossa-localitats-i-calendari-001",
