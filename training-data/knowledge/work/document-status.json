@@ -478,7 +478,7 @@
       "title": "Els estripagecs",
       "type": "article",
       "topic": "temes/cultura/arquitectura",
-      "status": "in_progress",
+      "status": "complete",
       "unit_count": 33,
       "covered_unit_ids": [
         "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0001",
@@ -494,8 +494,8 @@
         "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0027",
         "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0028"
       ],
-      "excluded_unit_count": 0,
-      "open_unit_count": 21,
+      "excluded_unit_count": 21,
+      "open_unit_count": 0,
       "conversation_ids": [
         "estripagecs-cronologia-i-autoria-desconegudes-001",
         "estripagecs-escultures-i-circuit-001",
