@@ -9,7 +9,7 @@
   "file_count": 1477,
   "article_count": 1348,
   "parse_error_count": 0,
-  "conversation_count": 62,
+  "conversation_count": 63,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 0,
@@ -1392,7 +1392,7 @@
       "topic": "temes/cultura/museus-i-arxius",
       "source": "jurisprudencia-ad",
       "status": "in_progress",
-      "conversation_count": 62,
+      "conversation_count": 63,
       "conversation_ids": [
         "diposit-legal-anuari-i-serie-numerada-001",
         "diposit-legal-autoedicio-publicacio-gratuita-abast-001",
@@ -1429,6 +1429,7 @@
         "diposit-legal-infraccions-greus-i-lleus-001",
         "diposit-legal-invitacions-esqueles-excepcio-literaria-001",
         "diposit-legal-lamines-estampes-anuncis-001",
+        "diposit-legal-manuals-instruccions-i-procediments-exclosos-001",
         "diposit-legal-mapa-tiratge-inferior-30-001",
         "diposit-legal-migracio-suports-obsolets-001",
         "diposit-legal-multa-infraccio-greu-graduacio-001",
@@ -1520,7 +1521,8 @@
         "Llei 15/2025, articles 5.2.e and 6.1.j: print-on-demand materials are generally listed, with a specific exclusion for family-use publications.",
         "Llei 15/2025, articles 6.1.d and 6.2: exclusion of ordinary social/private print, artistic/literary exception, and determination process for doubtful cases.",
         "Llei 15/2025, articles 6.1.e and 6.2: commercial catalog exclusion, artistic/technical/literary exceptions, and determination for uncertain cases.",
-        "Llei 15/2025, articles 5.2.s, 6.1.i and 6.2: identical reprints excluded; reprints with variations, modified versions and updates listed; uncertain cases determined by the Library."
+        "Llei 15/2025, articles 5.2.s, 6.1.i and 6.2: identical reprints excluded; reprints with variations, modified versions and updates listed; uncertain cases determined by the Library.",
+        "Llei 15/2025, article 6.1.b and 6.1.g: exclusion of internal procedure manuals and manuals accompanying objects, appliances or machinery."
       ],
       "open_units": [
         "Finish reviewing the remaining physical deposit categories and special formats, periodicals, film/television/radio, and linked regulations.",
