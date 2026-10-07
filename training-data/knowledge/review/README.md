@@ -1,7 +1,7 @@
 # Revisió de Knowledge
 
-Les converses candidates s'hi afegeixen després de passar la
-[guia editorial](CONVERSATION-GUIDE.md). Mantén el JSONL de missatges separat
-del registre intern de procedència i dels motius de revisió. Les mostres de
-`../examples.jsonl` són per calibrar el criteri, no s'han de copiar com a
-plantilles.
+Les converses candidates s'afegeixen a `conversations.jsonl` després de passar
+la [guia editorial](CONVERSATION-GUIDE.md) i el criteri de
+[mostres](EXEMPLES.md). `conversations.jsonl` conté només `messages`;
+`provenance.jsonl` registra font, llicència, estat de redistribució i revisió.
+Una conversa nova o corregida es commiteja i es puja per separat.

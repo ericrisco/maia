@@ -67,13 +67,24 @@ clarament la decisió. Agrupar els splits per entrevista o parlant quan es pugui
 
 ## Fases
 
-1. Calibrar preguntes i respostes amb les mostres i la guia editorial.
-2. Acordar el criteri abans de reprendre la producció de registres.
-3. Revisar Knowledge tema per tema, amb procedència i cobertura auditables.
-4. Auditar Language peça per peça, sense fabricar converses.
+1. Aplicar les mostres i la guia editorial a cada conversa.
+2. Revisar, corregir i registrar les converses una per una.
+3. Revisar tots els articles i temes de Knowledge amb procedència i cobertura
+   auditables.
+4. Auditar totes les peces de Language, incloses i excloses, sense fabricar
+   converses.
 5. Deduplicar, assignar train/validation/test sense fuga i validar els JSONL.
 6. Publicar els reports i documentar com regenerar els exports.
 
-Cada pas s'ha de revisar i validar abans del seu commit i push. No es creen
-exports finals fins que les converses hagin passat la revisió editorial i de
-procedència.
+Cada conversa JSONL nova o corregida és un pas independent: revisar-la,
+validar-la, fer-ne un commit a `main` i pujar-lo abans de passar a la següent.
+La procedència registra sempre la llicència i el valor real de
+`redistribucio`. Segons `docs/CONTRACT.md`, els valors `no` i `pendent` són
+avisos R005 i no bloquegen per si sols la inclusió; l'autorització final la
+sosté el propietari del projecte. Els informes han de mantenir visibles aquests
+avisos i permetre separar els registres per font.
+
+Els fitxers de revisió actius són `knowledge/review/EXEMPLES.md`,
+`knowledge/review/conversations.jsonl` i `knowledge/review/provenance.jsonl`.
+El JSONL de converses és també la font de regeneració dels exports: una línia,
+un objecte `messages`, sense metadata editorial.

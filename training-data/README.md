@@ -4,10 +4,12 @@ Projecte per preparar dos datasets de fine-tuning separats a partir de
 `docs/`: **Knowledge** ensenya informació documentada sobre Andorra;
 **Language** preserva català andorrà contemporani de parlants reals.
 
-La primera feina és calibrar què compta com una conversa bona. Els exemples
-actuals són editorials: no són aprovats per entrenar fins que se'n resolgui
-l'estat de drets. Encara no es generen exports massius ni s'omplen els
-directoris `output/`.
+La primera feina és calibrar què compta com una conversa bona. Cada conversa
+aprovada tindrà procedència, font i estat de drets registrats. Segons el
+contracte del corpus, un estat `no` o `pendent` genera un avís i no bloqueja
+per si sol la inclusió: l'autorització final correspon al propietari del
+projecte. Encara no es generen exports finals fins que hi hagi volum revisat i
+splits sense fuga.
 
 ## Estructura
 
@@ -27,5 +29,5 @@ training-data/
     └── reports/             # inclusió, exclusions i qualitat
 ```
 
-Vegeu [el pla de treball](PLAN.md), [les mostres de Knowledge](knowledge/examples.jsonl)
-i [la guia per escriure-les](knowledge/review/CONVERSATION-GUIDE.md).
+Vegeu [el pla de treball](PLAN.md), [els exemples de Knowledge](knowledge/review/EXEMPLES.md)
+i [la guia per escriure'ls](knowledge/review/CONVERSATION-GUIDE.md).
