@@ -1583,11 +1583,13 @@
         "docs/temes/cultura/museus-i-arxius/museus/les-cases-museu.md#unit-0002",
         "docs/temes/cultura/museus-i-arxius/museus/les-cases-museu.md#unit-0004",
         "docs/temes/cultura/museus-i-arxius/museus/les-cases-museu.md#unit-0005",
-        "docs/temes/cultura/museus-i-arxius/museus/les-cases-museu.md#unit-0009"
+        "docs/temes/cultura/museus-i-arxius/museus/les-cases-museu.md#unit-0009",
+        "docs/temes/cultura/museus-i-arxius/museus/les-cases-museu.md#unit-0019"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 31,
+      "open_unit_count": 30,
       "conversation_ids": [
+        "cal-pal-rostres-caps-biga-001",
         "casa-rull-riquesa-i-vida-domestica-001"
       ]
     },
