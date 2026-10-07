@@ -14689,10 +14689,11 @@
       "topic": "temes/institucions/justicia",
       "source": "brutails-coutume-1904",
       "status": "in_progress",
-      "conversation_count": 12,
+      "conversation_count": 13,
       "conversation_ids": [
         "costum-cedir-parella-ball-public-interpretacio-01",
         "justicia-politica-i-tribunals-veheduria-01",
+        "veheduria-aigua-bestiar-manuscrit-palmitjavila-01",
         "veheduria-arbitratge-consentiment-veins-1547-01",
         "veheduria-limits-servitude-ownership-01",
         "veheduria-origen-doleances-1364-incert-01",
@@ -14714,9 +14715,19 @@
         "sentència del 1875 sobre la divisió dels termes de la Cortinada i Ansalonga, sense traçat conservat",
         "visura del 1760 per revisar una sentència anterior amb prohoms triats pel Consell General",
         "procés del 1887 entre un particular i el quart de les Escaldes, amb objecte no especificat",
-        "identificació de les causes de veí a veí amb servituds al Politar i la Instructa i reserva de Brutails sobre aquesta equivalència"
+        "identificació de les causes de veí a veí amb servituds al Politar i la Instructa i reserva de Brutails sobre aquesta equivalència",
+        "llista manuscrita atribuïda a Palmitjavila: límits, aigua, servituds, tala de fusta i danys de bestiar; «bans y tales» no definits i manuscrit no identificat ni datat"
       ],
-      "open_units": [],
+      "open_units": [
+        "detalls de les visures de 1601 i 1603 i registre de pastura del segle XVI encara no localitzat",
+        "apel·lació original de 1364: vuit greuges, context, síndics i dos saigs",
+        "contingut de l’Instructa de 1740 més enllà de la regla de competència: cinc matèries, experts jurats i escales de decisió",
+        "sales i instàncies del Consell General, incompatibilitat de vot entre instàncies i designació de prohoms",
+        "origen i variants del cot, cot de fallits i límits de les jurisdiccions inferiors segons el Politar",
+        "aranzel de delegats: còpies per parròquia i publicació a les cases del Comú",
+        "autodisciplina del Consell, obligació de dissentir i intervenció del batlle segons el Politar",
+        "etimologia de visura a les Constitucions de Catalunya i aplicació en disputes locals"
+      ],
       "completion_note": "",
       "reason": ""
     },
