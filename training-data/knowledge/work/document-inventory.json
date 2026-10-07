@@ -1633,14 +1633,16 @@
       "topic": "temes/cultura/teatre",
       "source": "masegosa-teatre-andorra",
       "status": "in_progress",
-      "conversation_count": 2,
+      "conversation_count": 3,
       "conversation_ids": [
         "ball-ossa-encamp-cortinada-arguments-01",
-        "operacio-carnestoltes-matanca-porc-origen-01"
+        "operacio-carnestoltes-matanca-porc-origen-01",
+        "tralari-marieta-final-i-lectura-01"
       ],
       "reviewed_units": [
         "diferència entre les versions del Ball de l'Ossa d'Encamp i la Cortinada; variació local sense origen comú establert",
-        "Operació del Carnestoltes: vísceres de la matança del porc com a attrezzo, incorporació pels volts de 1970, autor desconegut i representació al complex esportiu"
+        "Operació del Carnestoltes: vísceres de la matança del porc com a attrezzo, incorporació pels volts de 1970, autor desconegut i representació al complex esportiu",
+        "Tralarí i la Marieta: final de la farsa i interpretació de Masegosa sobre gènere, crema del ninot i cicle Carnaval-Quaresma"
       ],
       "open_units": [
         "forma de teatre popular i relació entre actors i públic",
