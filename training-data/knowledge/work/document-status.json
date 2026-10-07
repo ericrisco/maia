@@ -720,7 +720,7 @@
       "title": "Cinc anys, i el cinema és l'única cosa que puja",
       "type": "article",
       "topic": "temes/cultura",
-      "status": "in_progress",
+      "status": "complete",
       "unit_count": 73,
       "covered_unit_ids": [
         "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0002",
@@ -792,10 +792,11 @@
         "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0069",
         "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0070",
         "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0071",
-        "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0072"
+        "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0072",
+        "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0073"
       ],
       "excluded_unit_count": 2,
-      "open_unit_count": 1,
+      "open_unit_count": 0,
       "conversation_ids": [
         "biblioteques-canvi-tipus-prestec-001",
         "biblioteques-equipaments-i-plantilla-001",
@@ -810,7 +811,8 @@
         "lectura-oci-canvis-sexe-estudis-renda-001",
         "museus-assistencia-per-edat-001",
         "museus-enquesta-i-comptatge-de-visitants-001",
-        "voluntariat-dues-series-no-coincidents-001"
+        "voluntariat-dues-series-no-coincidents-001",
+        "voluntariat-evolucio-total-i-entitats-001"
       ]
     },
     "docs/temes/cultura/cultura-d-andorra-index-de-fitxes.md": {
