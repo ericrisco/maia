@@ -911,7 +911,7 @@
       "title": "El minairó",
       "type": "article",
       "topic": "temes/cultura/llegendes",
-      "status": "in_progress",
+      "status": "complete",
       "unit_count": 38,
       "covered_unit_ids": [
         "docs/temes/cultura/llegendes/el-minairo.md#unit-0001",
@@ -944,8 +944,8 @@
         "docs/temes/cultura/llegendes/el-minairo.md#unit-0028",
         "docs/temes/cultura/llegendes/el-minairo.md#unit-0030"
       ],
-      "excluded_unit_count": 0,
-      "open_unit_count": 9,
+      "excluded_unit_count": 9,
+      "open_unit_count": 0,
       "conversation_ids": [
         "minairo-cano-i-tarteres-001",
         "minairo-canons-i-cases-001",
