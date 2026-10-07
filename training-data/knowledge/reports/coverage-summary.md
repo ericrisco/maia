@@ -7,7 +7,7 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 - Unitats cobertes per converses aprovades: **116** (0.184%).
 - Unitats excloses amb motiu: **15**.
 - Unitats encara obertes: **62780**.
-- Converses candidates: **34**; aprovades: **34**.
+- Converses candidates: **35**; aprovades: **35**.
 
 ## Estat per tema
 
