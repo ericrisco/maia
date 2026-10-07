@@ -854,11 +854,11 @@
       "title": "L'art més antic",
       "type": "article",
       "topic": "temes/cultura/arts-visuals",
-      "status": "not_started",
+      "status": "complete",
       "unit_count": 38,
       "covered_unit_ids": [],
-      "excluded_unit_count": 0,
-      "open_unit_count": 38,
+      "excluded_unit_count": 38,
+      "open_unit_count": 0,
       "conversation_ids": []
     },
     "docs/temes/cultura/arts-visuals/les-escoles-dart-comunals.md": {
