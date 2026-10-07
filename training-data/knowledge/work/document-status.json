@@ -2,10 +2,12 @@
   "docs/temes/costums/calendari-festiu/el-carnaval-dencamp.md": {
     "status": "in_progress",
     "conversation_ids": [
-      "carnaval-encamp-horaris-2026-01"
+      "carnaval-encamp-horaris-2026-01",
+      "carnaval-encamp-sentit-guio-incert-01"
     ],
     "reviewed_units": [
-      "horaris i lloc del Judici dels Contrabandistes i del Ball de l’Ossa a l’edició d’Encamp del 2026; caràcter mòbil de les dates"
+      "horaris i lloc del Judici dels Contrabandistes i del Ball de l’Ossa a l’edició d’Encamp del 2026; caràcter mòbil de les dates",
+      "Judici dels Contrabandistes: farsa pública i lectura de la fitxa sobre el contraban; guió no localitzat i forma de representació desconeguda"
     ],
     "open_units": [
       "les tres representacions del Carnaval d’Encamp i el seu calendari complet",
