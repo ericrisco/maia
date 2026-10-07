@@ -670,5 +670,20 @@
     "reviewed_units": [
       "Els originals són al MNAC des de l’extracció de 1919–1923; l’absis conserva una reproducció de 1982. La seva autoria s’atribueix al Mestre de Santa Coloma."
     ]
+  },
+  "docs/temes/cultura/arquitectura/sant-roma-de-les-bons.md": {
+    "status": "in_progress",
+    "open_units": [
+      "Inventari complet de les pintures de totes les èpoques i estat de conservació.",
+      "Motiu de l’arrencada de les pintures romàniques i destí de cada fragment no identificat.",
+      "Règim de visita actual: les hores documentades corresponen a una campanya temporal de tardor de 2025.",
+      "Elements del conjunt històric més enllà de l’església no descrits en detall."
+    ],
+    "conversation_ids": [
+      "sant-roma-les-bons-capes-artistiques-001"
+    ],
+    "reviewed_units": [
+      "L’església del segle XII conserva obres romàniques, del segle XVI i barroques; les reformes posteriors expliquen la superposició d’etapes."
+    ]
   }
 }

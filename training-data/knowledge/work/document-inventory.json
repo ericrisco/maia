@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 44,
+    "in_progress": 45,
     "no_natural_question": 0,
-    "not_started": 1304
+    "not_started": 1303
   },
   "documents": [
     {
@@ -1031,11 +1031,20 @@
       "type": "article",
       "topic": "temes/cultura/arquitectura",
       "source": "viquipedia-ca",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "sant-roma-les-bons-capes-artistiques-001"
+      ],
+      "reviewed_units": [
+        "L’església del segle XII conserva obres romàniques, del segle XVI i barroques; les reformes posteriors expliquen la superposició d’etapes."
+      ],
+      "open_units": [
+        "Inventari complet de les pintures de totes les èpoques i estat de conservació.",
+        "Motiu de l’arrencada de les pintures romàniques i destí de cada fragment no identificat.",
+        "Règim de visita actual: les hores documentades corresponen a una campanya temporal de tardor de 2025.",
+        "Elements del conjunt històric més enllà de l’església no descrits en detall."
+      ],
       "completion_note": "",
       "reason": ""
     },
