@@ -38,6 +38,7 @@ el BOPA no implica cap suport al projecte. No s'atribueix una llicència global 
 - Adaptació de l’article «Andorra women’s national basketball team» de la Viquipèdia en anglès, llicència CC BY-SA 4.0. Cal conservar l’atribució i compartir l’adaptació amb la mateixa llicència.
 - Adaptació de l’article «Dama Blanca d’Aubinyà» de la Viquipèdia en català, llicència CC BY-SA 4.0. Cal conservar l’atribució i compartir l’adaptació amb la mateixa llicència.
 - Adaptació de l’article «Francisco José Catalán de Ocón» de la Viquipèdia en castellà, llicència CC BY-SA 4.0. Cal conservar l’atribució i compartir l’adaptació amb la mateixa llicència.
+- Adaptació de l’article «List of political parties in Andorra» de la Viquipèdia en anglès, llicència CC BY-SA 4.0. Cal conservar l’atribució i compartir l’adaptació amb la mateixa llicència.
 - Adaptació de l’article «Selecció d’hoquei sobre patins masculina d’Andorra» de la Viquipèdia en català, llicència CC BY-SA 4.0. Cal conservar l’atribució i compartir l’adaptació amb la mateixa llicència.
 - Adaptació de «Festes de l'ossa a Andorra», Viquipèdia en català, llicència CC BY-SA 4.0. Cal conservar l'atribució i compartir igual.
 - Adaptació de «La marratxa» i «Ball de la Marratxa», Viquipèdia en català, llicència CC BY-SA 4.0. Cal conservar l'atribució i compartir igual.

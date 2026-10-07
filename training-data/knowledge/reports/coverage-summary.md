@@ -26,7 +26,7 @@ La cobertura és per document citat i és només un límit inferior: una cita no
 | `institucions` | 338 | 1 | 337 |
 | `llengua` | 43 | 1 | 42 |
 | `persones` | 43 | 1 | 42 |
-| `politica` | 19 | 0 | 19 |
+| `politica` | 19 | 1 | 18 |
 | `societat` | 142 | 1 | 141 |
 | `territori` | 49 | 1 | 48 |
 | `vida-quotidiana` | 11 | 0 | 11 |
@@ -126,7 +126,7 @@ Aquest índex més fi permet avançar branca per branca. `Amb conversa` segueix 
 | `temes/persones` | 43 | 1 | 42 | 24 | 10 | 8 | 1 |
 | `temes/politica/identitat-politica` | 3 | 0 | 3 | 0 | 3 | 0 | 0 |
 | `temes/politica/parlamentarisme` | 4 | 0 | 4 | 0 | 4 | 0 | 0 |
-| `temes/politica/partits` | 3 | 0 | 3 | 3 | 0 | 0 | 0 |
+| `temes/politica/partits` | 3 | 1 | 2 | 3 | 0 | 0 | 0 |
 | `temes/politica/sistema-electoral` | 9 | 0 | 9 | 4 | 5 | 0 | 0 |
 | `temes/societat` | 1 | 0 | 1 | 1 | 0 | 0 | 0 |
 | `temes/societat/associacionisme` | 1 | 0 | 1 | 1 | 0 | 0 | 0 |
@@ -176,7 +176,7 @@ Aquesta tria només mira el camp `font` de la capçalera i la seva fitxa a `docs
 | `pending` | 604 |
 | `missing` | 1 |
 
-**Total:** 1348 fitxes article; **28** tenen almenys una conversa citada i **1320** encara no en tenen.
+**Total:** 1348 fitxes article; **29** tenen almenys una conversa citada i **1319** encara no en tenen.
 
 ## Límits
 
