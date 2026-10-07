@@ -13666,11 +13666,12 @@
       "topic": "temes/institucions/justicia",
       "source": "brutails-coutume-1904",
       "status": "in_progress",
-      "conversation_count": 5,
+      "conversation_count": 6,
       "conversation_ids": [
         "berdu-feriats-i-tancament-sega-001",
         "dies-feriats-total-anual-1902-001",
         "embargament-dies-feriats-sega-1902-001",
+        "foraster-audiencia-especial-feriats-1902-001",
         "organya-tribunals-calendari-fires-001",
         "termini-apellacio-dies-feriats-1902-001"
       ],
@@ -13679,7 +13680,8 @@
         "Còmput d’un termini d’apel·lació a partir d’un cas del 1902: deu dies de rigor més tres de gràcia, amb dies feriats exclosos; el tram de 12 a 28 de gener és un cas, no un termini universal.",
         "Els dies feriats suspenien el còmput de terminis, però l’embargament s’hi podia practicar; la possible relació amb el període de sega és una hipòtesi, no una explicació documental.",
         "Recompte possible de 62 dies datats; no hi ha total anual perquè s’hi afegeixen diumenges i quatre períodes mòbils que poden solapar-se, i cal concretar l’any.",
-        "La llista possiblement del segle XVIII esmenta Berdu, no identificat ni a la llista de 1902; la connexió entre la sega i el tancament d’estiu de 1902 no queda provada."
+        "La llista possiblement del segle XVIII esmenta Berdu, no identificat ni a la llista de 1902; la connexió entre la sega i el tancament d’estiu de 1902 no queda provada.",
+        "El comentari de Brutails descriu una audiència especial fora dels dies feriats per al foraster, amb dipòsit de 15 pessetes i avís a l’altra part amb tres dies d’antelació; no n’estableix l’aplicació als habitants."
       ],
       "open_units": [
         "Les altres festes religioses, diumenges i períodes de tancament enumerats a la llista de 1902.",
