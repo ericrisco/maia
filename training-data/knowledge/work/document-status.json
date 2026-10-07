@@ -593,7 +593,7 @@
       "title": "Els estripagecs",
       "type": "article",
       "topic": "temes/cultura/arquitectura",
-      "status": "in_progress",
+      "status": "complete",
       "unit_count": 33,
       "covered_unit_ids": [
         "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0001",
@@ -605,15 +605,17 @@
         "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0017",
         "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0025",
         "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0026",
-        "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0027"
+        "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0027",
+        "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0028"
       ],
-      "excluded_unit_count": 21,
-      "open_unit_count": 2,
+      "excluded_unit_count": 22,
+      "open_unit_count": 0,
       "conversation_ids": [
         "estripagecs-circuit-ordino-001",
         "estripagecs-datacio-i-ofici-001",
         "estripagecs-definicio-nom-i-abast-001",
-        "estripagecs-fotografia-casa-rull-001"
+        "estripagecs-fotografia-casa-rull-001",
+        "estripagecs-repartiment-andorra-001"
       ]
     },
     "docs/temes/cultura/arquitectura/espai-columba.md": {
