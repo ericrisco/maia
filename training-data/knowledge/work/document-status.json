@@ -226,7 +226,8 @@
       "penyora-porta-trucar-testimoni-claudators-01",
       "subhasta-immoble-tres-encants-ritual-possessio-01",
       "retracte-finca-un-any-i-dia-regla-antiga-01",
-      "sentencia-verbal-apelacio-citacio-absolucio-01"
+      "sentencia-verbal-apelacio-citacio-absolucio-01",
+      "termini-curt-foraster-motiu-no-consta-01"
     ],
     "reviewed_units": [
       "embargament de collita només després de la sega; possible relació amb calendari de feriats marcada com a hipòtesi, no com a regla coordinada",
@@ -242,11 +243,12 @@
       "si el deutor era absent: calia trucar a la porta abans de fer-hi la penyora; el testimoni només consta entre claudàtors editorials i resta sense verificar",
       "execució d’immobles: tres subhastes separades per deu dies (tres en temps de Corts); si no hi havia comprador, taxació i lliurament al creditor; ritual de possessió amb terra/herba o amb entrada i portes",
       "recobrament d’immobles: regla antiga d’un any i un dia i canvi posterior; no es presenta el termini antic com a vigent el 1904",
-      "sentència verbal: apel·lació al jutge ordinari de les Valls, amb exclusivitat d’aquesta via només entre claudàtors; citació pel nunci o la part amb ordre i testimoni; silenci a la part si el batlle absolia"
+      "sentència verbal: apel·lació al jutge ordinari de les Valls, amb exclusivitat d’aquesta via només entre claudàtors; citació pel nunci o la part amb ordre i testimoni; silenci a la part si el batlle absolia",
+      "motiu del termini curt per als forasters: el manuscrit estableix la diferència però no n’explica la raó ni declara una intenció d’afavorir el creditor de fora"
     ],
     "open_units": [
       "datació i abast del testimoni: manuscrit posterior a 1607 sense terminus ante quem; possible referència a un altre manuscrit del segle XVI; original no localitzat i paràgrafs 1–9 absents",
-      "divergències i buits: la glossa francesa d’«habitant a habitant»; raó dels terminis més curts als forasters; si el procediment era vigent el 1740; què vol dir exactament «prom» i si coincideix amb prohom jurat",
+      "divergències i buits: la glossa francesa d’«habitant a habitant»; vigència del procediment el 1740; què vol dir exactament «prom» i si coincideix amb prohom jurat",
       "execució restant: collita insuficient; direcció de la quarta en immobles; aplicació real del termini d’un any i un dia; relació amb la Instructa de 1740, sense acte de substitució identificat"
     ]
   }
