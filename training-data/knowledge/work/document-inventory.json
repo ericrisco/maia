@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 18,
+    "in_progress": 19,
     "no_natural_question": 0,
-    "not_started": 1330
+    "not_started": 1329
   },
   "documents": [
     {
@@ -425,10 +425,14 @@
       "type": "article",
       "topic": "temes/costums/meritxell",
       "source": "premsa-andorrana",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "meritxell-incendi-i-replica-001"
+      ],
+      "reviewed_units": [
+        "Incendi de 1972: pèrdua de la talla del segle XII; la imatge actual és una rèplica de Sergi Mas i el santuari de Bofill es va inaugurar el 1976."
+      ],
       "open_units": [
         "Localitzar i llegir l’acta del Consell General del 24 d’octubre de 1873.",
         "Incendi del santuari el 1972, reconstrucció i rèplica; relació eventual entre el 8 de setembre i el Pareatge, sense font que la demostri."
