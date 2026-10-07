@@ -3,8 +3,8 @@
   "article_count": 1348,
   "file_count": 1477,
   "status_totals": {
-    "complete": 0,
-    "in_progress": 24,
+    "complete": 1,
+    "in_progress": 23,
     "no_natural_question": 0,
     "not_started": 1324
   },
@@ -285,8 +285,8 @@
       "type": "article",
       "topic": "temes/costums/danses",
       "source": "wikipedia-llegendes-andorra",
-      "status": "in_progress",
-      "conversation_count": 18,
+      "status": "complete",
+      "conversation_count": 19,
       "conversation_ids": [
         "festes-ossa-abast-historic-territorial-01",
         "festes-ossa-bibliografia-per-ampliar",
@@ -296,6 +296,7 @@
         "ordino-ossa-discrepancia-1978-1985",
         "ossa-calendari-hibernacio-i-tradicio-01",
         "ossa-inventari-andorra-i-unesco",
+        "ossa-noms-populars-pirineus",
         "ossa-origen-medieval-hipotesi",
         "ossa-pervivencia-encamp-ordino",
         "ossa-reference-escrita-1838-i-origen-01",
@@ -330,9 +331,10 @@
         "l’Última Ossa d’Ordino va passar de la plaça del poble davant l’església de Sant Corneli i Sant Cebrià als jardins d’Areny-Plandolit a Sant Esteve, i després al desembre; la fitxa no data el trasllat",
         "Areny-Plandolit va fotografiar el ball a la plaça d’Ordino a principi del segle XX; la imatge i el seu fons encara no s’han identificat al corpus",
         "la represa d’Ordino té cronologies incompatibles: 1978 en una font i 1985 en una altra; totes dues coincideixen en 2017",
-        "l’origen medieval és una hipòtesi basada en l’extensió pirinenca del culte als ossos, sense prova concreta d’una celebració andorrana medieval; la primera referència escrita citada és de 1838"
+        "l’origen medieval és una hipòtesi basada en l’extensió pirinenca del culte als ossos, sense prova concreta d’una celebració andorrana medieval; la primera referència escrita citada és de 1838",
+        "noms populars de l’ós bru al Pirineu central: «l’ossa», «la Senyora» i «la Peluda»; la font no els limita a Andorra"
       ],
-      "completion_note": "",
+      "completion_note": "Fitxa sencera revisada. Les dades útils del text i les connexions amb les fonts disponibles tenen converses o cobertura registrada. La bibliografia no consultada, els documents d’arxiu no identificats i les causes encara desconegudes queden com a buits explícits, no com a fets inferits.",
       "reason": ""
     },
     {

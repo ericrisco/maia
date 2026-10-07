@@ -228,7 +228,7 @@
     "reason": ""
   },
   "docs/temes/costums/danses/les-festes-de-lossa.md": {
-    "status": "in_progress",
+    "status": "complete",
     "reviewed_units": [
       "l’Última Ossa d’Ordino se celebra la primera setmana de desembre a la fira de Nadal; abans es feia per Carnaval",
       "el ball de l’ossa d’Encamp es representa el dilluns de Carnaval",
@@ -252,9 +252,10 @@
       "l’Última Ossa d’Ordino va passar de la plaça del poble davant l’església de Sant Corneli i Sant Cebrià als jardins d’Areny-Plandolit a Sant Esteve, i després al desembre; la fitxa no data el trasllat",
       "Areny-Plandolit va fotografiar el ball a la plaça d’Ordino a principi del segle XX; la imatge i el seu fons encara no s’han identificat al corpus",
       "la represa d’Ordino té cronologies incompatibles: 1978 en una font i 1985 en una altra; totes dues coincideixen en 2017",
-      "l’origen medieval és una hipòtesi basada en l’extensió pirinenca del culte als ossos, sense prova concreta d’una celebració andorrana medieval; la primera referència escrita citada és de 1838"
+      "l’origen medieval és una hipòtesi basada en l’extensió pirinenca del culte als ossos, sense prova concreta d’una celebració andorrana medieval; la primera referència escrita citada és de 1838",
+      "noms populars de l’ós bru al Pirineu central: «l’ossa», «la Senyora» i «la Peluda»; la font no els limita a Andorra"
     ],
-    "completion_note": "",
+    "completion_note": "Fitxa sencera revisada. Les dades útils del text i les connexions amb les fonts disponibles tenen converses o cobertura registrada. La bibliografia no consultada, els documents d’arxiu no identificats i les causes encara desconegudes queden com a buits explícits, no com a fets inferits.",
     "reason": ""
   },
   "docs/temes/costums/ritus-de-pas/la-passa.md": {
