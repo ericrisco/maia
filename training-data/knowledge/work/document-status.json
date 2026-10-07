@@ -12356,12 +12356,18 @@
       "title": "El Gran Carlemany",
       "type": "article",
       "topic": "temes/institucions/simbols",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 23,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/institucions/simbols/el-gran-carlemany.md#unit-0002",
+        "docs/temes/institucions/simbols/el-gran-carlemany.md#unit-0003",
+        "docs/temes/institucions/simbols/el-gran-carlemany.md#unit-0006"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 23,
-      "conversation_ids": []
+      "open_unit_count": 20,
+      "conversation_ids": [
+        "gran-carlemany-veu-i-autoria-001"
+      ]
     },
     "docs/temes/institucions/simbols/la-bandera.md": {
       "title": "La bandera",
