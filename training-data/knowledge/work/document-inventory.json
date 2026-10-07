@@ -1515,13 +1515,14 @@
       "topic": "temes/cultura/teatre",
       "source": "masegosa-teatre-andorra",
       "status": "in_progress",
-      "conversation_count": 5,
+      "conversation_count": 6,
       "conversation_ids": [
         "ball-ossa-versions-localitats-01",
         "judici-contrabandistes-text-i-antiguitat-01",
         "operacio-carnestoltes-viscera-escenari-01",
         "ossa-nom-i-ritual-pirinenc-01",
-        "tralari-marieta-text-i-argument-01"
+        "tralari-marieta-text-i-argument-01",
+        "tralari-marieta-variant-canillo-01"
       ],
       "reviewed_units": [
         "arguments diferents del ball de l’óssa a Encamp i la Cortinada",
@@ -1529,7 +1530,9 @@
         "forma local femenina «l’Ossa» i relació amb el ball de l’ós pirinenc",
         "referència a rituals anteriors al cristianisme, sense afirmar continuïtat intacta",
         "Tralarí i Marieta: text escrit no localitzat; descripció basada en narracions orals i fotografies",
-        "seqüència de quatre escenes de Tralarí i Marieta"
+        "seqüència de quatre escenes de Tralarí i Marieta",
+        "variant de nom del Tralarí i Marieta a Canillo",
+        "període anual de representació entre dissabte de Carnaval i dimecres de Cendra"
       ],
       "completion_note": "",
       "reason": ""
