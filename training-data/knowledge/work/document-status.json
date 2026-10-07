@@ -663,7 +663,7 @@
       "title": "Sant Joan de Caselles",
       "type": "article",
       "topic": "temes/cultura/arquitectura",
-      "status": "in_progress",
+      "status": "complete",
       "unit_count": 10,
       "covered_unit_ids": [
         "docs/temes/cultura/arquitectura/sant-joan-de-caselles.md#unit-0001",
@@ -672,8 +672,8 @@
         "docs/temes/cultura/arquitectura/sant-joan-de-caselles.md#unit-0005",
         "docs/temes/cultura/arquitectura/sant-joan-de-caselles.md#unit-0006"
       ],
-      "excluded_unit_count": 0,
-      "open_unit_count": 5,
+      "excluded_unit_count": 5,
+      "open_unit_count": 0,
       "conversation_ids": [
         "romanics-motius-i-mestre-cortinada-001",
         "sant-joan-caselles-cronologia-edifici-001",
