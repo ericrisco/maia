@@ -24,15 +24,19 @@
   },
   "docs/temes/costums/sant-antoni/escudelles-de-sant-antoni.md": {
     "status": "in_progress",
-    "conversation_ids": ["escudella-sant-antoni-acte-vianda-01"],
+    "conversation_ids": [
+      "escudella-sant-antoni-acte-vianda-01",
+      "origen-ramader-sant-antoni-01"
+    ],
     "covered_units": [
       "preparar i repartir escudella al carrer, no només el plat",
       "la celebració es fa a totes les parròquies",
-      "a Canillo se'n diu vianda"
+      "a Canillo se'n diu vianda",
+      "origen ramader: benedicció, descans i pinso extraordinari del bestiar",
+      "el menjar comunitari per a les persones es va afegir després"
     ],
     "open_units": [
       "Sant Antoni com a patró d'animals domèstics i traginers",
-      "origen ramader: benedicció, descans i pinso extraordinari del bestiar",
       "cas de Canillo: primera vianda del 1979, encants recuperats cap al 2000, data, organització i racions",
       "estat actual de la benedicció d'animals i informació que la font no concreta"
     ],
