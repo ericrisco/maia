@@ -1,6 +1,6 @@
 # Guia d'exemples per a Maia Knowledge
 
-Aquestes mostres calibren el to i l'estructura. No són registres finals d'entrenament. Les mostres vigents també apareixen a `conversations.jsonl` i duen `approved_sample` a la procedència.
+Aquestes converses mostren el to i l'estructura esperats. Algunes ja són registres aprovats; les que duen `approved_sample` a la procedència continuen sent només material de calibratge i no entrenen el model.
 
 ## Converses que funcionen
 

@@ -13,7 +13,7 @@ Knowledge ensenya a resoldre preguntes reals amb coneixement del corpus. Languag
 
 Les preguntes enganxades a seccions, files o títols de fitxes semblen exercicis de lectura, no preguntes d'una persona. Algunes respostes començaven a mitja idea. Altres converses repetien la mateixa dada amb un seguiment afegit per rutina.
 
-Per això, les converses anteriors ja no són candidates actives. L'inventari del corpus, els drets de les fonts i les eines de cobertura es conserven. Les tres converses actuals són mostres de calibratge. No compten com a dades d'entrenament ni com a cobertura.
+Per això, les converses anteriors ja no són candidates actives. L'inventari del corpus, els drets de les fonts i les eines de cobertura es conserven. Les converses inicials van servir per calibrar el to; cada una es pot aprovar com a dada només després de revisar naturalitat, contingut i drets. Les que mantenen `approved_sample` no compten com a dades d'entrenament ni com a cobertura.
 
 ## Com crear una conversa
 
