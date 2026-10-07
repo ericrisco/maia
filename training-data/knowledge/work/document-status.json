@@ -176,16 +176,18 @@
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0028",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0029",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0030",
-        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0031"
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0031",
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0032"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 33,
+      "open_unit_count": 32,
       "conversation_ids": [
         "festes-ossa-calendari-i-canvi-001",
         "festes-ossa-cronologia-i-interrupcions-001",
         "festes-ossa-format-i-desenllac-001",
         "festes-ossa-localitats-i-calendari-001",
-        "festes-ossa-mascara-centenaria-001"
+        "festes-ossa-mascara-centenaria-001",
+        "ultima-ossa-2020-representacio-001"
       ]
     },
     "docs/temes/costums/falles/falles-index-de-fitxes.md": {
