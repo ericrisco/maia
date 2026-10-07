@@ -532,16 +532,18 @@
       "topic": "temes/costums/ritus-de-pas",
       "source": "premsa-andorrana",
       "status": "in_progress",
-      "conversation_count": 2,
+      "conversation_count": 3,
       "conversation_ids": [
         "dama-blanca-geganta-no-dansa-antiga-01",
-        "la-passa-ritus-i-majors-fadrins-01"
+        "la-passa-ritus-i-majors-fadrins-01",
+        "majors-fadrins-funcions-festa-major-01"
       ],
       "reviewed_units": [
         "la Passa és una cercavila de parelles de fadrins, no una dansa; dilluns de festa major, amb ordre per matrimoni de l’any i edat",
         "«majors fadrins» són les parelles que es casaran aquell any; condició anual no heretada ni elegida",
         "la font periodística no està identificada; les funcions concretes durant la festa continuen desconegudes",
-        "el ball de la Dama Blanca és el ball de la geganta de Sant Julià, no una dansa antiga de parella; no consta data d’inici"
+        "el ball de la Dama Blanca és el ball de la geganta de Sant Julià, no una dansa antiga de parella; no consta data d’inici",
+        "no es documenta si els majors fadrins organitzen, paguen o obren els balls de la festa; l’analogia amb altres festes pirinenques no ho prova per a Sant Julià"
       ],
       "completion_note": "",
       "reason": ""
