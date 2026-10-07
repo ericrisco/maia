@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 61,
+    "in_progress": 62,
     "no_natural_question": 0,
-    "not_started": 1287
+    "not_started": 1286
   },
   "documents": [
     {
@@ -380,9 +380,10 @@
       "topic": "temes/costums/gegants",
       "source": "canturri-usos-i-costums",
       "status": "in_progress",
-      "conversation_count": 1,
+      "conversation_count": 2,
       "conversation_ids": [
-        "gegants-andorra-la-vella-origen-i-portadors-001"
+        "gegants-andorra-la-vella-origen-i-portadors-001",
+        "usos-costums-gegants-data-i-tradicio-001"
       ],
       "reviewed_units": [
         "Origen modern dels gegants d’Andorra la Vella: idea cap al 1982, construcció el 1985, figures triades per «fer poble»; portadors membres de la Gresca Gegantera."
@@ -1438,11 +1439,20 @@
       "type": "article",
       "topic": "temes/cultura/cultura-popular",
       "source": "canturri-usos-i-costums",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "usos-costums-gegants-data-i-tradicio-001"
+      ],
+      "reviewed_units": [
+        "La idea dels gegants d’Andorra la Vella se situa cap al 1982 i la construcció el 1985; la tradició és recent, i la valoració sobre manca d’espontaneïtat s’atribueix a Canturri."
+      ],
+      "open_units": [
+        "No existeix un costumari d’Andorra; els registres etnogràfics són dins el Costumari català d’Amades o escampats per monografies.",
+        "Els tres grups d’informants que classifica Canturri i què aporta cadascun encara no estan coberts.",
+        "La tesi de Canturri sobre el pas de l’espontaneïtat a l’associació i els exemples de sardana i falles encara no estan coberts en aquesta conversa.",
+        "La ponència completa de Canturri i altres exemples no s’han buidat íntegrament."
+      ],
       "completion_note": "",
       "reason": ""
     },

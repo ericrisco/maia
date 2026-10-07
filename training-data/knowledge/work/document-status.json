@@ -901,5 +901,20 @@
     "reviewed_units": [
       "El corpus encara no recull jocs ni cançons infantils transcrits; la fitxa proposa documentar-los amb testimonis orals, sense afirmar que no existeixin reculls externs."
     ]
+  },
+  "docs/temes/cultura/cultura-popular/els-usos-i-costums.md": {
+    "status": "in_progress",
+    "open_units": [
+      "No existeix un costumari d’Andorra; els registres etnogràfics són dins el Costumari català d’Amades o escampats per monografies.",
+      "Els tres grups d’informants que classifica Canturri i què aporta cadascun encara no estan coberts.",
+      "La tesi de Canturri sobre el pas de l’espontaneïtat a l’associació i els exemples de sardana i falles encara no estan coberts en aquesta conversa.",
+      "La ponència completa de Canturri i altres exemples no s’han buidat íntegrament."
+    ],
+    "conversation_ids": [
+      "usos-costums-gegants-data-i-tradicio-001"
+    ],
+    "reviewed_units": [
+      "La idea dels gegants d’Andorra la Vella se situa cap al 1982 i la construcció el 1985; la tradició és recent, i la valoració sobre manca d’espontaneïtat s’atribueix a Canturri."
+    ]
   }
 }

@@ -4,14 +4,14 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 
 - Fitxes article: **1348**.
 - Fitxers totals, inclosos índexs: **1477**.
-- Converses candidates: **55**.
+- Converses candidates: **56**.
 
 | Estat de revisió | Fitxes |
 |---|---:|
 | Revisades completes | 0 |
-| En curs | 61 |
+| En curs | 62 |
 | Revisades sense pregunta natural | 0 |
-| No començades | 1287 |
+| No començades | 1286 |
 
 ## Estat per tema
 
@@ -33,7 +33,7 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 | `temes/cultura/arquitectura` | 11 | 0 | 11 | 0 | 0 |
 | `temes/cultura/artesania` | 2 | 0 | 2 | 0 | 0 |
 | `temes/cultura/arts-visuals` | 8 | 0 | 8 | 0 | 0 |
-| `temes/cultura/cultura-popular` | 2 | 1 | 1 | 0 | 0 |
+| `temes/cultura/cultura-popular` | 2 | 0 | 2 | 0 | 0 |
 | `temes/cultura/literatura` | 1 | 1 | 0 | 0 | 0 |
 | `temes/cultura/llegendes` | 10 | 10 | 0 | 0 | 0 |
 | `temes/cultura/museus-i-arxius` | 15 | 15 | 0 | 0 | 0 |
