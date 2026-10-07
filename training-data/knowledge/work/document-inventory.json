@@ -214,8 +214,9 @@
       "topic": "temes/costums/danses",
       "source": "viquipedia-ca",
       "status": "in_progress",
-      "conversation_count": 1,
+      "conversation_count": 2,
       "conversation_ids": [
+        "marratxa-modern-choreography-001",
         "marratxa-symbolism-001"
       ],
       "reviewed_units": [
@@ -224,7 +225,8 @@
         "La dansa es balla el dilluns de la festa major de Sant Julià de Lòria, amb la Passa i el ball del Cerdà.",
         "Dos dansaires, un de casat i un de solter, representen els dos coprínceps; tres balladores representen les sis antigues parròquies, sense explicació de la correspondència.",
         "La coreografia actual es va fixar als anys seixanta: Daniel Areny va recollir les variacions de la tonada de la memòria de Ricard Mas i Isidre Marbà la va harmonitzar i en va crear la coreografia.",
-        "L’Esbart Laurèdia interpreta la dansa a la plaça Major de Sant Julià des del 1963."
+        "L’Esbart Laurèdia interpreta la dansa a la plaça Major de Sant Julià des del 1963.",
+        "La cadena de conservació moderna té noms i dates: Ricard Mas va transmetre la tonada, Daniel Areny en va recollir les variacions, Isidre Marbà en va crear la coreografia i l’Esbart Laurèdia la interpreta des del 1963."
       ],
       "open_units": [
         "No hi ha font primària que verifiqui quan es va ballar per primer cop ni quan es va començar a atribuir l’origen al 1278.",
