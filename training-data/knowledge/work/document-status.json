@@ -14196,12 +14196,23 @@
       "title": "L'escola andorrana ha passat al davant",
       "type": "article",
       "topic": "temes/societat/educacio",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 87,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/societat/educacio/lescola-andorrana-ha-passat-al-davant.md#unit-0002",
+        "docs/temes/societat/educacio/lescola-andorrana-ha-passat-al-davant.md#unit-0003",
+        "docs/temes/societat/educacio/lescola-andorrana-ha-passat-al-davant.md#unit-0004",
+        "docs/temes/societat/educacio/lescola-andorrana-ha-passat-al-davant.md#unit-0005",
+        "docs/temes/societat/educacio/lescola-andorrana-ha-passat-al-davant.md#unit-0006",
+        "docs/temes/societat/educacio/lescola-andorrana-ha-passat-al-davant.md#unit-0011",
+        "docs/temes/societat/educacio/lescola-andorrana-ha-passat-al-davant.md#unit-0015",
+        "docs/temes/societat/educacio/lescola-andorrana-ha-passat-al-davant.md#unit-0017"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 87,
-      "conversation_ids": []
+      "open_unit_count": 79,
+      "conversation_ids": [
+        "matricula-sistemes-escolars-i-angles-001"
+      ]
     },
     "docs/temes/societat/educacio/lescola-andorrana.md": {
       "title": "L'Escola Andorrana",
