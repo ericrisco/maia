@@ -36,6 +36,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - J.-A. Brutails, La Coutume d’Andorre (1904), cap. VII, pp. 244–246; digitalització Gallica BnF.
 - J.-A. Brutails, La Coutume d’Andorre (1904), pièce justificative XXVIII, p. LX; comentari, pp. 266–268; digitalització Gallica BnF.
 - J.-A. Brutails, La Coutume d’Andorre (1904), pp. 266–268, 277–278; digitalització Gallica BnF.
+- J.-A. Brutails, La Coutume d’Andorre (1904), pp. 274, 266–268; digitalització Gallica BnF.
 - Premsa andorrana; la fitxa de font no identifica el diari, l’article, la data ni l’URL de la publicació concreta.
 
 ## Condicions registrades
