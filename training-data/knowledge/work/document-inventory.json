@@ -213,10 +213,11 @@
       "topic": "temes/costums/danses",
       "source": "viquipedia-ca",
       "status": "in_progress",
-      "conversation_count": 3,
+      "conversation_count": 4,
       "conversation_ids": [
         "marratxa-calendari-sant-julia-001",
         "marratxa-nom-i-simbolisme-001",
+        "marratxa-origen-i-coreografia-001",
         "marratxa-pareatge-data-1278-001"
       ],
       "reviewed_units": [
@@ -224,7 +225,8 @@
         "La descripció recollida identifica dos dansaires —un casat i un solter— amb els coprínceps, i tres noies amb les sis antigues parròquies; els dos dansaires porten barret alt amb cintes dels colors de la bandera andorrana.",
         "La font no explica com es correspon el nombre de tres noies amb les sis parròquies.",
         "La tradició de la Marratxa diu 7 de setembre de 1278 per a la primera ballada després del Pareatge, mentre que la fitxa del Pareatge data la signatura el 8 de setembre; la discrepància no està resolta i l'origen llegendari requereix font primària.",
-        "La Marratxa es balla el dilluns de la festa major de Sant Julià de Lòria, juntament amb la Passa i el ball del Cerdà."
+        "La Marratxa es balla el dilluns de la festa major de Sant Julià de Lòria, juntament amb la Passa i el ball del Cerdà.",
+        "La coreografia actual es va fixar als anys seixanta: Daniel Areny va recollir les variacions de la tonada de la memòria de Ricard Mas; Isidre Marbà les va harmonitzar i en va crear els passos; l'Esbart Laurèdia la interpreta des del 1963."
       ],
       "open_units": [
         "L'origen atribuït al Pareatge del 1278 i la diferència entre el 7 i el 8 de setembre necessiten una font primària.",
