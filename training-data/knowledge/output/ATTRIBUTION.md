@@ -53,6 +53,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - Viquipèdia en català, article «Festes de l’ossa a Andorra», CC BY-SA 4.0. La fitxa del corpus hi atribueix la causa de la decadència i la cronologia d’Ordino.
 - Viquipèdia en català, article «Festes de l’ossa a Andorra», CC BY-SA 4.0; atribueix a la Relació sobre la Vall de Andorra de 1838 la referència escrita més antiga.
 - Viquipèdia en català, article «Festes de l’ossa a Andorra», CC BY-SA 4.0; la fitxa del corpus descriu la màscara de l’Última Ossa d’Ordino.
+- Viquipèdia en català, article «Festes de l’ossa a Andorra», CC BY-SA 4.0; la font atribueix el calendari a la creença que l’ossa hibernava entre Nadal i la Candelera.
 - Viquipèdia en català, articles sobre les festes de l’ossa d’Andorra i el ball de l’ossa d’Encamp; llicència CC BY-SA 4.0.
 - Viquipèdia en català, dades sobre els dansaires i la simbologia de la Marratxa; llicència CC BY-SA 4.0.
 - Viquipèdia en català, dades sobre la tradició de la Marratxa i la data dels Pareatges; CC BY-SA 4.0. Les fitxes del corpus registren la discrepància.
@@ -64,6 +65,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - CC BY-SA 4.0, amb obligació d’atribució i compartir igual. El 7 de setembre és una data atribuïda a la tradició, no confirmada per font primària; la contradicció amb el 8 de setembre queda oberta.
 - CC BY-SA 4.0, amb obligació d’atribució i compartir igual. La causa i les dates s’atribueixen a la font secundària consultada.
 - CC BY-SA 4.0, amb obligació d’atribució i compartir igual. La continuïtat d’ús s’atribueix a la font secundària.
+- CC BY-SA 4.0, amb obligació d’atribució i compartir igual. La creença s’identifica com a explicació tradicional, no com a dada zoològica.
 - CC BY-SA 4.0, amb obligació d’atribució i compartir igual. La fitxa manté explícit que la font no explica la correspondència entre tres noies i sis parròquies.
 - CC BY-SA 4.0, amb obligació d’atribució i compartir igual. La fitxa no concreta l’any en què la representació d’Ordino es va traslladar al desembre.
 - CC BY-SA 4.0, amb obligació d’atribució i compartir igual. La font és secundària; la tradició sobre els orígens s’atribueix com a tal.
