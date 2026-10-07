@@ -2270,8 +2270,9 @@
       "topic": "temes/economia/comerc",
       "source": "vilar-andorre-1904",
       "status": "in_progress",
-      "conversation_count": 4,
+      "conversation_count": 5,
       "conversation_ids": [
+        "vilar1904-comparar-franca-espanya-franquicia-001",
         "vilar1904-declaracio-origen-1850-001",
         "vilar1904-no-duana-contraban-001",
         "vilar1904-recompte-bestiar-doble-001",
@@ -2283,12 +2284,12 @@
         "La fitxa esmenta els recomptes francesos de bestiar de 1898-1900, però no estableix que cobreixin el mateix univers que la queixa ni els compara amb ella.",
         "La franquícia francesa permetia entrar sense drets un terç del bestiar existent a Andorra, de manera que la xifra del cens determinava la quantitat autoritzada; la font no diu cada quant es comptava.",
         "Vilar descriu Andorra sense duana pròpia entre els cordons duaners francès i espanyol i relaciona aquesta situació amb el contraban, però no quantifica l'activitat ni afirma que tot el comerç fos il·legal.",
-        "Vilar diu que Espanya va començar a exigir una declaració de procedència cap al 1850 perquè productes francesos entraven per Andorra en franquícia; encara no se'n comprovava l'origen."
+        "Vilar diu que Espanya va començar a exigir una declaració de procedència cap al 1850 perquè productes francesos entraven per Andorra en franquícia; encara no se'n comprovava l'origen.",
+        "Vilar diferencia la regla francesa proporcional a un terç del bestiar i la proposta espanyola de 1895, que enumerava quantitats per espècie; no documenta que els dos països les acordessin. Segons Vilar, la proposta espanyola es va rebutjar."
       ],
       "open_units": [
-        "La relació entre la regla francesa del terç i la quota espanyola proposada el 1895.",
         "La comparació entre l'acusació de doble recompte i els censos francesos de 1898-1900; les fonts no indiquen si compten el mateix univers.",
-        "La cronologia de les franquícies franceses i espanyoles, incloses les peces de 1767, 1806, 1867 i 1895, i la relació entre la regla francesa del terç i la quota espanyola.",
+        "La cronologia de les franquícies franceses i espanyoles, incloses les peces de 1767, 1806 i 1867.",
         "Les fonts externes i els resultats del vot del Consell General dels Pirineus Orientals de 1904."
       ],
       "completion_note": "",
