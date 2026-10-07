@@ -53,8 +53,9 @@
       "topic": "temes/costums/calendari-festiu",
       "source": "premsa-andorrana",
       "status": "in_progress",
-      "conversation_count": 7,
+      "conversation_count": 8,
       "conversation_ids": [
+        "carnaval-encamp-horaris-2026",
         "carnaval-encamp-ossa-i-contrabandistes",
         "judici-contrabandistes-text-i-antiguitat-01",
         "operacio-carnestoltes-origen-autor-01",
@@ -75,7 +76,8 @@
         "la representació actual de l’ossa d’Encamp té lloc el dilluns de Carnaval; es contrasta amb l’Última Ossa d’Ordino al desembre",
         "la cronologia d’Ordino transmesa per Masegosa difereix de la de Viquipèdia; el corpus no arbitra la represa de 1978 o 1985",
         "el binomi de «Els contrabandistes» i «L’ossa» són dues farses diferents i complementàries, representades en dies consecutius",
-        "Masegosa interpreta la farsa d’Ordino com a defensa territorial; no és una prova de data d’origen o continuïtat medieval"
+        "Masegosa interpreta la farsa d’Ordino com a defensa territorial; no és una prova de data d’origen o continuïtat medieval",
+        "programa de 2026: Judici dels Contrabandistes diumenge 15 de febrer a les 16 h i Ball de l’Ossa dilluns 16 a les 16.15 h, tots dos al Prat de l’Areny; el carnaval és mòbil"
       ],
       "completion_note": "",
       "reason": ""

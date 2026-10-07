@@ -57,6 +57,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - Pere Canturri i Montanya, «Usos i costums d’Andorra» (2002), informació sobre els gegants i la tradició de Sant Julià; publicació d’accés obert.
 - Pere Canturri i Montanya, «Usos i costums d’Andorra», 15a Diada Andorrana a la XXXIV Universitat Catalana d’Estiu (2002), dins Una història d’Andorra, temàtica, p. 209 i següents.
 - Premsa andorrana; la fitxa de font no identifica el diari, l’article, la data ni l’URL de la publicació concreta.
+- Programa oficial del Comú d’Encamp, Carnaval 2026, consultat segons la fitxa de font.
 - UNESCO, fitxa oficial «Bear festivities in the Pyrenees», element 01846, decisió 17.COM 7.b.39 (2022); contrastada amb els articles de Viquipèdia en català, CC BY-SA 4.0.
 - Viquipèdia en català, article «Ball de l’ossa d’Encamp», CC BY-SA 4.0; interpretació del ritu de pas atribuïda a Eloi Ysàs Trias.
 - Viquipèdia en català, article «Ball de l’ossa d’Encamp», llicència CC BY-SA 4.0; compara l’escenari descrit per Amades el 1950 amb el lloc actual.
@@ -121,6 +122,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - CC BY-SA 4.0; atribució i compartir igual. L’origen medieval no és una dada demostrada.
 - CC BY-SA 4.0; atribució i compartir igual. No redistribuir sense conservar les condicions de la llicència.
 - Contingut periodístic amb drets reservats; la fitxa premsa-andorrana registra redistribució:no. La referència concreta no es pot verificar.
+- Document institucional amb drets reservats i redistribució no autoritzada. S’utilitzen dades factuals mínimes per al dataset intern; no redistribuir contingut del programa sense permís.
 - Font institucional amb drets reservats; el portal exigeix autorització escrita per redistribuir o transformar continguts i no consta un permís específic. Aquesta limitació queda registrada; no s’interpreta la inclusió com a llicència.
 - La fitxa UNESCO té ús limitat a citació i recerca. La resposta conté dades factuals mínimes i no reprodueix el text oficial.
 - La fitxa UNESCO té ús limitat a citació i recerca; la resposta usa dades factuals mínimes i no reprodueix el text oficial. Les pàgines de Viquipèdia són CC BY-SA 4.0. No redistribuir contingut UNESCO més enllà de l’ús autoritzat.
