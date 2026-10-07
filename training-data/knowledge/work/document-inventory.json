@@ -9,7 +9,7 @@
   "file_count": 1477,
   "article_count": 1348,
   "parse_error_count": 0,
-  "conversation_count": 66,
+  "conversation_count": 67,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 0,
@@ -1392,13 +1392,14 @@
       "topic": "temes/cultura/museus-i-arxius",
       "source": "jurisprudencia-ad",
       "status": "in_progress",
-      "conversation_count": 66,
+      "conversation_count": 67,
       "conversation_ids": [
         "diposit-legal-anuari-i-serie-numerada-001",
         "diposit-legal-autoedicio-publicacio-gratuita-abast-001",
         "diposit-legal-bases-dades-programari-exemplars-001",
         "diposit-legal-bibliografia-nacional-consulta-001",
         "diposit-legal-braille-i-edicio-luxe-001",
+        "diposit-legal-calendaris-agendes-excepcio-001",
         "diposit-legal-cartells-i-propaganda-exemplars-001",
         "diposit-legal-catalogs-comercials-excepcions-001",
         "diposit-legal-cdrom-versus-online-001",
@@ -1528,7 +1529,8 @@
         "Llei 15/2025, article 6.1.b and 6.1.g: exclusion of internal procedure manuals and manuals accompanying objects, appliances or machinery.",
         "Llei 15/2025, articles 6.1.c and 11.1.b: postage stamps are excluded; philatelic inserts are included and require two copies.",
         "Llei 15/2025, article 6.1.a and 6.1.h: exclusions for administrative/office forms and for patents, designs and industrial models.",
-        "Llei 15/2025, article 6.1.f: press dossiers and collections of copies are excluded."
+        "Llei 15/2025, article 6.1.f: press dossiers and collections of copies are excluded.",
+        "Llei 15/2025, articles 6.1.l and 6.2: exclusion of plain calendars/agendas, artistic or explanatory-text exception, and determination for doubtful cases."
       ],
       "open_units": [
         "Finish reviewing the remaining physical deposit categories and special formats, periodicals, film/television/radio, and linked regulations.",
