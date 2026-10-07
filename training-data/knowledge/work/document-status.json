@@ -797,5 +797,20 @@
     "reviewed_units": [
       "La font constata l’escassetat d’escultura medieval en pedra però no en dona la causa; tampoc interpreta els caps humans esculpits als campanars."
     ]
+  },
+  "docs/temes/cultura/arts-visuals/feixa-del-moro.md": {
+    "status": "in_progress",
+    "open_units": [
+      "Inventari detallat dels materials arqueològics i de les estructures d’hàbitat no incorporat.",
+      "Datacions i anàlisis bioquímiques completes no transcrites.",
+      "Pèrdues de dades entre les excavacions de 1983-1985 i la revisió de 2016 encara no reconstruïdes.",
+      "Estat i lloc actual de les peces no establerts per la fitxa."
+    ],
+    "conversation_ids": [
+      "feixa-del-moro-cistes-i-conservacio-001"
+    ],
+    "reviewed_units": [
+      "La Feixa del Moro conté tres cistes, llars i sitges; la conservació dels ossos i les estructures és excepcional per a un jaciment d’alta muntanya."
+    ]
   }
 }

@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 54,
+    "in_progress": 55,
     "no_natural_question": 0,
-    "not_started": 1294
+    "not_started": 1293
   },
   "documents": [
     {
@@ -1250,11 +1250,20 @@
       "type": "article",
       "topic": "temes/cultura/arts-visuals",
       "source": "govern-feixa-del-moro-2016",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "feixa-del-moro-cistes-i-conservacio-001"
+      ],
+      "reviewed_units": [
+        "La Feixa del Moro conté tres cistes, llars i sitges; la conservació dels ossos i les estructures és excepcional per a un jaciment d’alta muntanya."
+      ],
+      "open_units": [
+        "Inventari detallat dels materials arqueològics i de les estructures d’hàbitat no incorporat.",
+        "Datacions i anàlisis bioquímiques completes no transcrites.",
+        "Pèrdues de dades entre les excavacions de 1983-1985 i la revisió de 2016 encara no reconstruïdes.",
+        "Estat i lloc actual de les peces no establerts per la fitxa."
+      ],
       "completion_note": "",
       "reason": ""
     },
