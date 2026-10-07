@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 2,
+    "in_progress": 3,
     "no_natural_question": 0,
-    "not_started": 1346
+    "not_started": 1345
   },
   "documents": [
     {
@@ -1632,11 +1632,25 @@
       "type": "article",
       "topic": "temes/cultura/teatre",
       "source": "masegosa-teatre-andorra",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "ball-ossa-encamp-cortinada-arguments-01"
+      ],
+      "reviewed_units": [
+        "diferència entre les versions del Ball de l'Ossa d'Encamp i la Cortinada; variació local sense origen comú establert"
+      ],
+      "open_units": [
+        "forma de teatre popular i relació entre actors i públic",
+        "història del Ball de l’Ossa a Encamp, Ordino i la Cortinada; fonts en desacord sobre cronologies",
+        "textos de les farses, guions, enregistraments i parts que continuen sense documentar",
+        "Tralarí i la Marieta: noms, escenes, variants, cronologia i interpretacions atribuïdes",
+        "Judicis dels Contrabandistes d’Encamp i Ordino: diferències, cronologia i textos",
+        "Operació del Carnestoltes: origen, argument, calendari i fonts",
+        "Canillo i els arlequins: història i pràctiques actuals",
+        "altres cicles de teatre: Nadal i Pasqua, dates, obres i participants",
+        "buits de font i interpretacions que encara cal atribuir o delimitar"
+      ],
       "completion_note": "",
       "reason": ""
     },
