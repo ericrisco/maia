@@ -5,6 +5,10 @@
     "docs/raw/estadistica-api/cultura/habits-culturals-esportius-i-voluntariat-per-l-api-d-estadistica.md": "validation",
     "docs/raw/estadistica-api/cultura/cultura-i-esport-api-2026-09-18.tsv": "validation",
     "docs/raw/estadistica-api/salut-cultura-medi/salut-cultura-i-medi-per-l-api-d-estadistica.md": "validation",
-    "docs/raw/estadistica-api/salut-cultura-medi/salut-cultura-medi-api-2026-09-18.tsv": "validation"
+    "docs/raw/estadistica-api/salut-cultura-medi/salut-cultura-medi-api-2026-09-18.tsv": "validation",
+    "docs/temes/economia/ramaderia-i-agricultura/qui-cobra-els-ajuts-agraris.md": "train",
+    "docs/raw/estadistica-agricultura/a112-2026-05-26.pdf": "train",
+    "docs/raw/estadistica-agricultura/a112-2026-05-26.txt": "train",
+    "docs/raw/estadistica-agricultura/estadistica-d-agricultura-evidencia-primaria.md": "train"
   }
 }
