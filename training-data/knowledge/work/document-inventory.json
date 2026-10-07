@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 16,
+    "in_progress": 17,
     "no_natural_question": 0,
-    "not_started": 1332
+    "not_started": 1331
   },
   "documents": [
     {
@@ -350,10 +350,15 @@
       "type": "article",
       "topic": "temes/costums/festes-majors",
       "source": "premsa-andorrana",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "festes-majors-una-per-parroquia-01"
+      ],
+      "reviewed_units": [
+        "una festa major per parròquia i celebracions també en moltes viles, totes a l’estiu segons la fitxa",
+        "dates i programes concrets absents; referència a premsa genèrica no identificada"
+      ],
       "completion_note": "",
       "reason": ""
     },

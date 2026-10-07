@@ -4,7 +4,7 @@ Aquest report no acredita cobertura exhaustiva: mostra els registres aprovats i 
 
 - Converses candidates: **75**.
 - Converses exportades: **75**.
-- Fitxes font representades: **16**.
+- Fitxes font representades: **17**.
 - Fitxes article a `docs/temes/`: **1348** (fitxers totals: 1477).
 
 | Split | Converses |
@@ -25,6 +25,7 @@ Aquest report no acredita cobertura exhaustiva: mostra els registres aprovats i 
 - `docs/temes/costums/danses/els-catorze-balls.md`
 - `docs/temes/costums/danses/la-marratxa.md`
 - `docs/temes/costums/falles/falles.md`
+- `docs/temes/costums/festes-majors/festes-majors.md`
 - `docs/temes/cultura/teatre/el-teatre-de-carnestoltes.md`
 - `docs/temes/historia/pareatge/el-pareatge.md`
 - `docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md`
