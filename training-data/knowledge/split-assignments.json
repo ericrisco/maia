@@ -24,6 +24,9 @@
     "docs/temes/cultura/llegendes/el-minairo.md": "validation",
     "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md": "validation",
     "docs/raw/estadistica-api/cultura/habits-culturals-esportius-i-voluntariat-per-l-api-d-estadistica.md": "validation",
-    "docs/raw/estadistica-api/cultura/cultura-i-esport-api-2026-09-18.tsv": "validation"
+    "docs/raw/estadistica-api/cultura/cultura-i-esport-api-2026-09-18.tsv": "validation",
+    "docs/temes/societat/habitatge/dos-tercos-del-pais-viuen-de-lloguer.md": "train",
+    "docs/raw/estadistica-api/pobresa/pobresa-desigualtat-i-llars-per-l-api-d-estadistica.md": "train",
+    "docs/raw/estadistica-api/pobresa/pobresa-i-llars-api-2026-09-18.tsv": "train"
   }
 }
