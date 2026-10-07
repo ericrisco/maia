@@ -7,3 +7,15 @@ El conjunt derivat es distribueix sota [CC BY-SA 4.0](https://creativecommons.or
 d'acord amb les fonts CC BY-SA incorporades. Les dades del BOPA es reutilitzen
 segons les condicions oficials registrades al corpus; el BOPA no implica cap suport
 al projecte.
+
+## Fonts dels registres exportats
+
+- Constitució del Principat d'Andorra, article 43, BOPA núm. 24, 4-05-1993; registre de condicions d'ús a docs/fonts/bopa-ad.md.
+- Representació del Copríncep Francès a Andorra, informació institucional pública; resum a la fitxa Maia «El Coprincipat».
+- Viquipèdia en català, contingut reutilitzat a la fitxa Maia «La Marratxa», sota CC BY-SA 4.0. Cal conservar l'atribució i aplicar compartir igual al material derivat.
+- Viquipèdia en català, «Ball de l'ossa d'Encamp», CC BY-SA 4.0; síntesi a la fitxa Maia «El ball de l'ossa d'Encamp». Cal conservar l'atribució i aplicar compartir igual al material derivat.
+- Viquipèdia en català, «Escudella de Sant Antoni», CC BY-SA 4.0; síntesi a la fitxa Maia «L'escudella de Sant Antoni». Cal conservar l'atribució i aplicar compartir igual al material derivat.
+- Viquipèdia en català, «Estripagecs», CC BY-SA 4.0; síntesi a la fitxa Maia «Els estripagecs». Cal conservar l'atribució i aplicar compartir igual al material derivat.
+- Viquipèdia en català, «Festes de l'ossa a Andorra», CC BY-SA 4.0; síntesi a la fitxa Maia «Les festes de l'ossa». Cal conservar l'atribució i aplicar compartir igual al material derivat.
+- Viquipèdia en català, «Sant Joan de Caselles», CC BY-SA 4.0; síntesi a la fitxa Maia «Sant Joan de Caselles». Cal conservar l'atribució i aplicar compartir igual al material derivat.
+- Viquipèdia en català, «Trinxat», CC BY-SA 4.0; síntesi a la fitxa Maia «El trinxat». Cal conservar l'atribució i aplicar compartir igual al material derivat.

@@ -2,17 +2,25 @@
 
 Generat per `scripts/export_approved.py`. Cada línia dels JSONL conté una conversa amb `messages`; no hi ha camps interns.
 
-- Converses aprovades exportades: **0**.
-- Fitxes `docs/temes/` representades: **0**.
-- Converses de revisió no exportables: **9**.
+- Converses aprovades exportades: **9**.
+- Fitxes `docs/temes/` representades: **8**.
+- Converses de revisió no exportables: **0**.
 
 | Split | Converses |
 |---|---:|
-| `train` | 0 |
-| `validation` | 0 |
-| `test` | 0 |
+| `train` | 3 |
+| `validation` | 4 |
+| `test` | 2 |
 
 ## Fonts incloses
 
+- `docs/temes/costums/danses/el-ball-de-lossa-dencamp.md` → `validation`
+- `docs/temes/costums/danses/la-marratxa.md` → `validation`
+- `docs/temes/costums/danses/les-festes-de-lossa.md` → `validation`
+- `docs/temes/cultura/arquitectura/els-estripagecs.md` → `test`
+- `docs/temes/cultura/arquitectura/sant-joan-de-caselles.md` → `test`
+- `docs/temes/gastronomia/plats/el-trinxat.md` → `train`
+- `docs/temes/gastronomia/plats/lescudella-de-sant-antoni.md` → `validation`
+- `docs/temes/institucions/coprincipat/el-coprincipat.md` → `train`
 
 Aquesta exportació és parcial. El recompte de fitxes representades no acredita cobertura exhaustiva del coneixement del corpus.
