@@ -568,10 +568,16 @@
       "topic": "temes/cultura/arquitectura",
       "status": "in_progress",
       "unit_count": 10,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/cultura/arquitectura/sant-joan-de-caselles.md#unit-0002",
+        "docs/temes/cultura/arquitectura/sant-joan-de-caselles.md#unit-0005",
+        "docs/temes/cultura/arquitectura/sant-joan-de-caselles.md#unit-0006"
+      ],
       "excluded_unit_count": 5,
-      "open_unit_count": 5,
-      "conversation_ids": []
+      "open_unit_count": 2,
+      "conversation_ids": [
+        "sant-joan-caselles-crist-estuc-i-continuïtat-001"
+      ]
     },
     "docs/temes/cultura/arquitectura/sant-marti-de-la-cortinada.md": {
       "title": "Sant Martí de la Cortinada",
