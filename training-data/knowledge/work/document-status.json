@@ -281,12 +281,18 @@
       "title": "Meritxell",
       "type": "article",
       "topic": "temes/costums/meritxell",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 21,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/costums/meritxell/meritxell.md#unit-0007",
+        "docs/temes/costums/meritxell/meritxell.md#unit-0008",
+        "docs/temes/costums/meritxell/meritxell.md#unit-0009"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 21,
-      "conversation_ids": []
+      "open_unit_count": 18,
+      "conversation_ids": [
+        "sergi-mas-meritxell-i-casa-vall-001"
+      ]
     },
     "docs/temes/costums/religiositat/el-registre-dentitats-religioses.md": {
       "title": "El registre d'entitats religioses",
