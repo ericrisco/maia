@@ -120,6 +120,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - La fitxa UNESCO té ús limitat a citació i recerca; la resposta usa dades factuals mínimes i no reprodueix el text oficial. Les pàgines de Viquipèdia són CC BY-SA 4.0. No redistribuir contingut UNESCO més enllà de l’ús autoritzat.
 - La fitxa de Canturri registra redistribució pendent. La conversa conserva l’atribució i no trasllada a Sant Julià les dates documentades per als gegants d’Andorra la Vella.
 - La fitxa de Viquipèdia és CC BY-SA 4.0. La resposta parafraseja breument la descripció d’Amades i no en reprodueix la citació extensa, que la font secundària marca amb «citació necessària».
+- La fitxa de Viquipèdia és CC BY-SA 4.0. La resposta parafraseja breument l’escena d’Amades sense reproduir la citació extensa marcada amb «citació necessària».
 - La fitxa de Viquipèdia és CC BY-SA 4.0. La resposta parafraseja el passatge atribuït a Amades i no en reprodueix la citació extensa.
 - La fitxa de Viquipèdia és CC BY-SA 4.0. La resposta parafraseja una variant breument i no copia la citació extensa d’Amades, que la font secundària marca amb «citació necessària».
 - La fitxa de Viquipèdia és CC BY-SA 4.0. La tesi d’Ysàs citada no s’ha pogut consultar directament; la lectura s’atribueix a la font secundària i la resposta és una paràfrasi breu.
