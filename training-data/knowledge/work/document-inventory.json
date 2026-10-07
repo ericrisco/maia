@@ -9,7 +9,7 @@
   "file_count": 1477,
   "article_count": 1348,
   "parse_error_count": 0,
-  "conversation_count": 64,
+  "conversation_count": 65,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 0,
@@ -1392,7 +1392,7 @@
       "topic": "temes/cultura/museus-i-arxius",
       "source": "jurisprudencia-ad",
       "status": "in_progress",
-      "conversation_count": 64,
+      "conversation_count": 65,
       "conversation_ids": [
         "diposit-legal-anuari-i-serie-numerada-001",
         "diposit-legal-autoedicio-publicacio-gratuita-abast-001",
@@ -1435,6 +1435,7 @@
         "diposit-legal-multa-infraccio-greu-graduacio-001",
         "diposit-legal-on-indicar-numero-001",
         "diposit-legal-partitures-mapes-enregistraments-001",
+        "diposit-legal-patents-i-impresos-administratius-exclosos-001",
         "diposit-legal-pelicula-digital-requisits-preservacio-001",
         "diposit-legal-postals-fotografies-exemplars-001",
         "diposit-legal-prescripcio-infraccions-sancions-001",
@@ -1524,7 +1525,8 @@
         "Llei 15/2025, articles 6.1.e and 6.2: commercial catalog exclusion, artistic/technical/literary exceptions, and determination for uncertain cases.",
         "Llei 15/2025, articles 5.2.s, 6.1.i and 6.2: identical reprints excluded; reprints with variations, modified versions and updates listed; uncertain cases determined by the Library.",
         "Llei 15/2025, article 6.1.b and 6.1.g: exclusion of internal procedure manuals and manuals accompanying objects, appliances or machinery.",
-        "Llei 15/2025, articles 6.1.c and 11.1.b: postage stamps are excluded; philatelic inserts are included and require two copies."
+        "Llei 15/2025, articles 6.1.c and 11.1.b: postage stamps are excluded; philatelic inserts are included and require two copies.",
+        "Llei 15/2025, article 6.1.a and 6.1.h: exclusions for administrative/office forms and for patents, designs and industrial models."
       ],
       "open_units": [
         "Finish reviewing the remaining physical deposit categories and special formats, periodicals, film/television/radio, and linked regulations.",
