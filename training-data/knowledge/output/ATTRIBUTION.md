@@ -18,6 +18,7 @@ el BOPA no implica cap suport al projecte. No s'atribueix una llicència global 
 - Adaptació de «La religiositat», amb dades de la Viquipèdia en català, llicència CC BY-SA 4.0. S'indiquen les fonts i es conserva la condició de compartir igual per a aquesta adaptació.
 - Adaptació de «Les religions d'Andorra avui», amb dades de l'article «Església catòlica a Andorra» de la Viquipèdia en català, llicència CC BY-SA 4.0. S'indiquen les fonts i es conserva la condició de compartir igual per a aquesta adaptació.
 - Adaptació dels articles «Ball de l'ossa d'Encamp» i «Festes de l'ossa a Andorra», Viquipèdia en català, llicència CC BY-SA 4.0. S'indiquen les fonts i es conserva la condició de compartir igual per a aquesta adaptació.
+- BOPA, Constitució del Principat d'Andorra, article 11.1, i Llei qualificada 2/2025, articles 2 i 4. S'han resumit les normes conservant-ne el sentit. La menció del BOPA no implica suport del Servei al projecte.
 - BOPA, Llei qualificada 2/2025, del 23 de gener, article 11. S'ha resumit la norma conservant-ne el sentit. La menció del BOPA no implica suport del Servei al projecte.
 - BOPA, Llei qualificada 2/2025, del 23 de gener, article 12. S'ha resumit la norma conservant-ne el sentit. La menció del BOPA no implica suport del Servei al projecte.
 - BOPA, Llei qualificada 2/2025, del 23 de gener, article 13. S'ha resumit el procediment conservant-ne el sentit. La menció del BOPA no implica suport del Servei al projecte.
