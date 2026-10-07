@@ -1,11 +1,17 @@
 {
   "docs/temes/costums/calendari-festiu/el-carnaval-dencamp.md": {
-    "status": "not_started",
+    "status": "in_progress",
     "open_units": [
       "Argument complet, personatges i text del Judici dels Contrabandistes; no localitzats al corpus.",
       "Ball de l’Ossa d’Encamp: seqüència, música i discrepàncies de variants.",
       "Calendari anual concret i pràctiques actuals, que canvien cada any.",
       "Traçabilitat de la font periodística i drets de la publicació de Masegosa, pendents."
+    ],
+    "conversation_ids": [
+      "carnaval-encamp-judici-i-ossa-001"
+    ],
+    "reviewed_units": [
+      "Diferència entre el Judici dels Contrabandistes i el Ball de l’Ossa; el Judici posa el contraban en escena, però no se’n conserva el guió ni els papers."
     ]
   },
   "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md": {
@@ -17,7 +23,7 @@
     ]
   },
   "docs/temes/cultura/teatre/el-teatre-de-carnestoltes.md": {
-    "status": "not_started",
+    "status": "in_progress",
     "open_units": [
       "forma de teatre popular i relació entre actors i públic",
       "història del Ball de l’Ossa a Encamp, Ordino i la Cortinada; fonts en desacord sobre cronologies",
@@ -28,6 +34,12 @@
       "Canillo i els arlequins: història i pràctiques actuals",
       "altres cicles de teatre: Nadal i Pasqua, dates, obres i participants",
       "buits de font i interpretacions que encara cal atribuir o delimitar"
+    ],
+    "conversation_ids": [
+      "carnaval-encamp-judici-i-ossa-001"
+    ],
+    "reviewed_units": [
+      "Distinció entre dues farses d’Encamp i tema del Judici dels Contrabandistes; guió i personatges no consten."
     ]
   },
   "docs/temes/costums/danses/les-festes-de-lossa.md": {

@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 2,
+    "in_progress": 4,
     "no_natural_question": 0,
-    "not_started": 1346
+    "not_started": 1344
   },
   "documents": [
     {
@@ -52,10 +52,14 @@
       "type": "article",
       "topic": "temes/costums/calendari-festiu",
       "source": "premsa-andorrana",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "carnaval-encamp-judici-i-ossa-001"
+      ],
+      "reviewed_units": [
+        "Diferència entre el Judici dels Contrabandistes i el Ball de l’Ossa; el Judici posa el contraban en escena, però no se’n conserva el guió ni els papers."
+      ],
       "open_units": [
         "Argument complet, personatges i text del Judici dels Contrabandistes; no localitzats al corpus.",
         "Ball de l’Ossa d’Encamp: seqüència, música i discrepàncies de variants.",
@@ -1677,10 +1681,14 @@
       "type": "article",
       "topic": "temes/cultura/teatre",
       "source": "masegosa-teatre-andorra",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "carnaval-encamp-judici-i-ossa-001"
+      ],
+      "reviewed_units": [
+        "Distinció entre dues farses d’Encamp i tema del Judici dels Contrabandistes; guió i personatges no consten."
+      ],
       "open_units": [
         "forma de teatre popular i relació entre actors i públic",
         "història del Ball de l’Ossa a Encamp, Ordino i la Cortinada; fonts en desacord sobre cronologies",
