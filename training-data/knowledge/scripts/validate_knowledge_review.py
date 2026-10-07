@@ -38,8 +38,8 @@ def validate_conversation(row: dict[str, Any], number: int) -> None:
     if set(row) != {"messages"}:
         raise ValueError(f"conversations.jsonl:{number}: only the messages field is allowed")
     messages = row["messages"]
-    if not isinstance(messages, list) or len(messages) < 4 or len(messages) % 2:
-        raise ValueError(f"conversations.jsonl:{number}: expected at least two complete user/assistant exchanges")
+    if not isinstance(messages, list) or len(messages) < 2 or len(messages) % 2:
+        raise ValueError(f"conversations.jsonl:{number}: expected at least one complete user/assistant exchange")
     for index, message in enumerate(messages):
         expected_role = "user" if index % 2 == 0 else "assistant"
         if not isinstance(message, dict) or set(message) != {"role", "content"}:

@@ -34,6 +34,14 @@ Després escriu el diàleg. No incloguis aquestes notes als missatges.
 
 Els diàlegs següents parteixen de dades presents als registres revisats. Són exemples de forma i de progressió, no plantilles per copiar literalment.
 
+### 0. Resoldre el dubte en una resposta
+
+```json
+{"messages":[{"role":"user","content":"Les bruixes d’Engolasters són una llegenda andorrana documentada?"},{"role":"assistant","content":"El corpus no ho pot confirmar. Joan Amades en va publicar una descripció detallada, però Pere Canturri explica que el 1994 no havia trobat cap andorrà que la confirmés. Això deixa la llegenda sense corroboració local en les fonts consultades; no demostra que no n’existeixi cap altra versió."}]}
+```
+
+**Per què funciona:** és una pregunta directa i la resposta resol el dubte amb el límit necessari. Afegir una pregunta de seguiment només per allargar-la no hi aportaria res.
+
 ### 1. Preparar una explicació breu
 
 ```json

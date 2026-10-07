@@ -20,13 +20,12 @@ class KnowledgeReviewValidationTests(unittest.TestCase):
         }
         validator.validate_conversation(row, 1)
 
-    def test_rejects_a_single_exchange(self) -> None:
+    def test_accepts_a_single_exchange_when_the_question_is_resolved(self) -> None:
         row = {"messages": [
             {"role": "user", "content": "Què va passar?"},
             {"role": "assistant", "content": "La font no ho diu."},
         ]}
-        with self.assertRaisesRegex(ValueError, "at least two"):
-            validator.validate_conversation(row, 1)
+        validator.validate_conversation(row, 1)
 
     def test_rejects_role_order_errors(self) -> None:
         row = {"messages": [
