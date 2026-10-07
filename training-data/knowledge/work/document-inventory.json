@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 64,
+    "in_progress": 65,
     "no_natural_question": 0,
-    "not_started": 1284
+    "not_started": 1283
   },
   "documents": [
     {
@@ -1501,11 +1501,20 @@
       "type": "article",
       "topic": "temes/cultura/llegendes",
       "source": "llegendes-dandorra-llibre",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "buner-us-documentacio-i-normativa-001"
+      ],
+      "reviewed_units": [
+        "La ponència de l’IEC del 2014 documenta buner/-a com a persona que toca la buna, assenyala que té tradició andorrana i distingeix el seu ús de la seva admissió al DIEC2."
+      ],
+      "open_units": [
+        "La versió sencera de la llegenda i les variants pròpies d’Ordino no s’han comparat.",
+        "No s’ha verificat si alguna variant publicada dona un nom propi al buner.",
+        "No hi ha informació al corpus sobre l’ús històric real de la buna a Andorra ni sobre instruments conservats.",
+        "Altres llegendes de llops i bèsties de muntanya anunciades al recull no s’han documentat."
+      ],
       "completion_note": "",
       "reason": ""
     },
