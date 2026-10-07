@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 16,
+    "in_progress": 17,
     "no_natural_question": 0,
-    "not_started": 1332
+    "not_started": 1331
   },
   "documents": [
     {
@@ -427,11 +427,17 @@
       "type": "article",
       "topic": "temes/costums/religiositat",
       "source": "bopa-ad",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "registre-religios-requisits-i-via-catolica-01"
+      ],
+      "reviewed_units": [
+        "Llei 2/2025, articles 3, 10 i 13: requisits generals per inscriure una entitat religiosa, efecte de la inscripció i via específica de les institucions catòliques."
+      ],
+      "open_units": [
+        "Resta de les seccions de la fitxa: dades del Registre, accés, exclusions, cancel·lació, responsabilitats i context constitucional; revisar íntegrament abans de marcar la fitxa completa."
+      ],
       "completion_note": "",
       "reason": ""
     },

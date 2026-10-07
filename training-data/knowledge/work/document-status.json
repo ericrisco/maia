@@ -417,5 +417,14 @@
     ],
     "completion_note": "",
     "reason": ""
+  },
+  "docs/temes/costums/religiositat/el-registre-dentitats-religioses.md": {
+    "status": "in_progress",
+    "reviewed_units": [
+      "Llei 2/2025, articles 3, 10 i 13: requisits generals per inscriure una entitat religiosa, efecte de la inscripció i via específica de les institucions catòliques."
+    ],
+    "open_units": [
+      "Resta de les seccions de la fitxa: dades del Registre, accés, exclusions, cancel·lació, responsabilitats i context constitucional; revisar íntegrament abans de marcar la fitxa completa."
+    ]
   }
 }
