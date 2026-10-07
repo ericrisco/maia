@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 50,
+    "in_progress": 51,
     "no_natural_question": 0,
-    "not_started": 1298
+    "not_started": 1297
   },
   "documents": [
     {
@@ -1181,11 +1181,20 @@
       "type": "article",
       "topic": "temes/cultura/arts-visuals",
       "source": "viquipedia-ca",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "noblesa-del-temps-dali-rotonda-001"
+      ],
+      "reviewed_units": [
+        "La noblesa del temps és un bronze de Dalí donat al Govern per Enric Sabater i instal·lat a la plaça de la Rotonda."
+      ],
+      "open_units": [
+        "Biografies i inventari d’obra dels artistes plàstics andorrans encara pendents.",
+        "Registre i mapa d’escultura pública del Govern encara no publicats al corpus.",
+        "Pintura mural romànica: tesi doctoral identificada però no estudiada sistemàticament.",
+        "Fotografia històrica, art religiós posterior al romànic i col·leccions pendents."
+      ],
       "completion_note": "",
       "reason": ""
     },

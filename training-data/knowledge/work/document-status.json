@@ -752,5 +752,20 @@
       "La fàbrica de mantes d’Escaldes va operar aproximadament del 1920 als anys quaranta; la font n’atribueix el tancament a importacions més barates i a l’encariment de la matèria primera.",
       "Les fonts situen les ordinacions el 1604 i la constitució de la confraria el 1659; la relació entre les dates és desconeguda."
     ]
+  },
+  "docs/temes/cultura/arts-visuals/arts-visuals.md": {
+    "status": "in_progress",
+    "open_units": [
+      "Biografies i inventari d’obra dels artistes plàstics andorrans encara pendents.",
+      "Registre i mapa d’escultura pública del Govern encara no publicats al corpus.",
+      "Pintura mural romànica: tesi doctoral identificada però no estudiada sistemàticament.",
+      "Fotografia històrica, art religiós posterior al romànic i col·leccions pendents."
+    ],
+    "conversation_ids": [
+      "noblesa-del-temps-dali-rotonda-001"
+    ],
+    "reviewed_units": [
+      "La noblesa del temps és un bronze de Dalí donat al Govern per Enric Sabater i instal·lat a la plaça de la Rotonda."
+    ]
   }
 }
