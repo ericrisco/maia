@@ -17,7 +17,8 @@
         "diposit-legal-web-pagament-clau-acces-001",
         "diposit-legal-retard-i-sancio-001",
         "diposit-legal-editor-andorra-domini-ad-001",
-        "diposit-legal-publicacio-mixta-exemplars-001"
+        "diposit-legal-publicacio-mixta-exemplars-001",
+        "diposit-legal-exemplars-per-enquadernacio-001"
       ],
       "covered_units": [
         "Llei 15/2025, article 22: scope of online publications; hosting location and domain; access unrestricted or restricted",
@@ -32,7 +33,8 @@
         "Decret 100/2026, article 7: restricted-access and subscription websites; requested credentials; keeping access information current and access permanent.",
         "Llei 15/2025, articles 30-31: late delivery is a minor offense; fines; repeat offenses; paying a fine does not remove the deposit obligation.",
         "Llei 15/2025, article 22: Andorran editor/resident and .ad domain as independent inclusion criteria.",
-        "Llei 15/2025, article 12: same copy count for every part of a mixed publication, based on the part requiring the largest number."
+        "Llei 15/2025, article 12: same copy count for every part of a mixed publication, based on the part requiring the largest number.",
+        "Llei 15/2025, article 11.1.a: three copies for each book binding or digital layout, regardless of medium."
       ],
       "open_units": [
         "Finish reviewing the remaining physical deposit categories and special formats, periodicals, film/television/radio, and linked regulations.",
