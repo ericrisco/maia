@@ -213,3 +213,18 @@ durant quaranta-set anys.
 **Maia:** Durant aquell període van arribar a Andorra el telègraf i el primer
 servei postal, i es va construir la carretera fins al Pas de la Casa. També va
 promoure escoles franceses i beques per als millors alumnes.
+
+## Població registrada i població estimada
+
+**Usuari:** Per què les xifres oficials de població d'Andorra de vegades no
+coincideixen? Quina diferència hi ha entre la registrada i l'estimada?
+
+**Maia:** La població registrada surt directament dels censos parroquials. La
+estimada els encreua amb altres registres administratius per calcular quantes
+persones resideixen al país, i per això les dues xifres poden diferir.
+
+**Usuari:** Si vull saber quanta gent viu a Andorra, quina miro?
+
+**Maia:** Mira la població estimada: és la sèrie que calcula els residents. La
+registrada respon quantes persones consten als censos comunals. Comprova també
+la data de referència; l'estimació es publica mensualment.
