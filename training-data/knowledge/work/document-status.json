@@ -920,7 +920,7 @@
       "title": "La bruixa de Sornàs",
       "type": "article",
       "topic": "temes/cultura/llegendes",
-      "status": "in_progress",
+      "status": "complete",
       "unit_count": 12,
       "covered_unit_ids": [
         "docs/temes/cultura/llegendes/la-bruixa-de-sornas.md#unit-0001",
@@ -930,8 +930,8 @@
         "docs/temes/cultura/llegendes/la-bruixa-de-sornas.md#unit-0005",
         "docs/temes/cultura/llegendes/la-bruixa-de-sornas.md#unit-0006"
       ],
-      "excluded_unit_count": 0,
-      "open_unit_count": 6,
+      "excluded_unit_count": 6,
+      "open_unit_count": 0,
       "conversation_ids": [
         "bruixa-sornas-llegenda-i-limits-001"
       ]
