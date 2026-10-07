@@ -4,10 +4,10 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 
 - Documents inventariats: **1477** (1348 articles).
 - Unitats estructurals totals: **62911**.
-- Unitats cobertes per converses aprovades: **358** (0.569%).
+- Unitats cobertes per converses aprovades: **361** (0.574%).
 - Unitats excloses amb motiu: **184**.
-- Unitats encara obertes: **62369**.
-- Converses candidates: **103**; aprovades: **103**.
+- Unitats encara obertes: **62366**.
+- Converses candidates: **104**; aprovades: **104**.
 
 ## Estat per tema
 
@@ -61,7 +61,7 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 | `temes/gastronomia/begudes` | 1 | 69 | 2 | 0 | 67 |
 | `temes/gastronomia/calendari-gastronomic` | 1 | 12 | 0 | 0 | 12 |
 | `temes/gastronomia/historia-alimentaria` | 5 | 228 | 0 | 0 | 228 |
-| `temes/gastronomia/plats` | 5 | 81 | 9 | 0 | 72 |
+| `temes/gastronomia/plats` | 5 | 81 | 12 | 0 | 69 |
 | `temes/gastronomia/productes` | 2 | 39 | 0 | 0 | 39 |
 | `temes/gastronomia/rebosteria` | 1 | 16 | 0 | 0 | 16 |
 | `temes/historia/antic-regim` | 50 | 2236 | 0 | 0 | 2236 |

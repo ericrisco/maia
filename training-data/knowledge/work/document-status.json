@@ -6135,13 +6135,17 @@
       "covered_unit_ids": [
         "docs/temes/gastronomia/plats/el-trinxat.md#unit-0001",
         "docs/temes/gastronomia/plats/el-trinxat.md#unit-0002",
+        "docs/temes/gastronomia/plats/el-trinxat.md#unit-0005",
+        "docs/temes/gastronomia/plats/el-trinxat.md#unit-0006",
+        "docs/temes/gastronomia/plats/el-trinxat.md#unit-0007",
         "docs/temes/gastronomia/plats/el-trinxat.md#unit-0008",
         "docs/temes/gastronomia/plats/el-trinxat.md#unit-0009",
         "docs/temes/gastronomia/plats/el-trinxat.md#unit-0010"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 8,
+      "open_unit_count": 5,
       "conversation_ids": [
+        "trinxat-ingredients-i-hivern-pirinenc-001",
         "trinxat-origen-geografic-recepta-001"
       ]
     },
