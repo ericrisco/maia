@@ -168,7 +168,7 @@
       "topic": "temes/costums/danses",
       "source": "wikipedia-ball-ossa-encamp",
       "status": "in_progress",
-      "conversation_count": 17,
+      "conversation_count": 18,
       "conversation_ids": [
         "carnaval-encamp-ossa-i-contrabandistes",
         "danses-parroquies-i-sardana-importada-01",
@@ -185,6 +185,7 @@
         "ossa-encamp-variant-matrimoni-ric",
         "ossa-encamp-variants-i-reescriptura-01",
         "ossa-pervivencia-encamp-ordino",
+        "ossa-unesco-inscripcio-estat-actual",
         "ultima-ossa-ordino-carnaval-i-desembre-01",
         "unesco-festes-os-encamp-ordino-2022-01"
       ],
@@ -206,7 +207,8 @@
         "escenari: el 1950 la representació es feia en un prat de ribera prop del Valira amb el públic a l’altra banda; avui es fa a l’aparcament del prat de l’Areny, amb palla i un pi central",
         "en la versió d’Amades de 1950, la fregona entra vestida de dona damunt d’un ruc petit, va a rentar al Valira i es baralla amb els dallaires; la representa un fadrí i només hi actuen fadrins",
         "variant d’Amades amb un matrimoni ric vestit a l’antiga: la dona simula estar embarassada i desitja mel; mentre busquen mel al rusc apareix l’ossa, diferent de l’escena del cavaller i el servent",
-        "en la interpretació iniciàtica atribuïda a Ysàs, el queefe i el manador introdueixen els dallaires al món laboral, la fregona i el fregó a la sexualitat, i el senyor els reconeix com a adults; la tesi no s’ha consultat directament"
+        "en la interpretació iniciàtica atribuïda a Ysàs, el queefe i el manador introdueixen els dallaires al món laboral, la fregona i el fregó a la sexualitat, i el senyor els reconeix com a adults; la tesi no s’ha consultat directament",
+        "discrepància sobre l’estat UNESCO: una pàgina de Viquipèdia diu que la inclusió es tramitava, però la fitxa oficial 01846 confirma inscripció el 2022 (decisió 17.COM 7.b.39)"
       ],
       "completion_note": "",
       "reason": ""
@@ -306,7 +308,7 @@
       "topic": "temes/costums/danses",
       "source": "wikipedia-llegendes-andorra",
       "status": "complete",
-      "conversation_count": 20,
+      "conversation_count": 21,
       "conversation_ids": [
         "festes-ossa-abast-historic-territorial-01",
         "festes-ossa-bibliografia-per-ampliar",
@@ -321,6 +323,7 @@
         "ossa-origen-medieval-hipotesi",
         "ossa-pervivencia-encamp-ordino",
         "ossa-reference-escrita-1838-i-origen-01",
+        "ossa-unesco-inscripcio-estat-actual",
         "ultima-ossa-mascara-centenaria-01",
         "ultima-ossa-ordino-canvis-lloc",
         "ultima-ossa-ordino-carnaval-i-desembre-01",
@@ -354,7 +357,8 @@
         "la represa d’Ordino té cronologies incompatibles: 1978 en una font i 1985 en una altra; totes dues coincideixen en 2017",
         "l’origen medieval és una hipòtesi basada en l’extensió pirinenca del culte als ossos, sense prova concreta d’una celebració andorrana medieval; la primera referència escrita citada és de 1838",
         "noms populars de l’ós bru al Pirineu central: «l’ossa», «la Senyora» i «la Peluda»; la font no els limita a Andorra",
-        "diferència documentada en el final de les dues festes: allioli de codony a Encamp i aigua amb granadina com a «sang» a Ordino"
+        "diferència documentada en el final de les dues festes: allioli de codony a Encamp i aigua amb granadina com a «sang» a Ordino",
+        "la fitxa oficial de la UNESCO confirma inscripció de les Festes de l’Os dels Pirineus el 2022; la formulació de tràmit pendent és desactualitzada"
       ],
       "completion_note": "Fitxa sencera revisada. Les dades útils del text i les connexions amb les fonts disponibles tenen converses o cobertura registrada. La bibliografia no consultada, els documents d’arxiu no identificats i les causes encara desconegudes queden com a buits explícits, no com a fets inferits.",
       "reason": ""

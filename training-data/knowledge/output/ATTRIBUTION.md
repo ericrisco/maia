@@ -56,6 +56,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - Pere Canturri i Montanya, «Usos i costums d’Andorra» (2002), informació sobre els gegants i la tradició de Sant Julià; publicació d’accés obert.
 - Pere Canturri i Montanya, «Usos i costums d’Andorra», 15a Diada Andorrana a la XXXIV Universitat Catalana d’Estiu (2002), dins Una història d’Andorra, temàtica, p. 209 i següents.
 - Premsa andorrana; la fitxa de font no identifica el diari, l’article, la data ni l’URL de la publicació concreta.
+- UNESCO, fitxa oficial «Bear festivities in the Pyrenees», element 01846, decisió 17.COM 7.b.39 (2022); contrastada amb els articles de Viquipèdia en català, CC BY-SA 4.0.
 - Viquipèdia en català, article «Ball de l’ossa d’Encamp», CC BY-SA 4.0; interpretació del ritu de pas atribuïda a Eloi Ysàs Trias.
 - Viquipèdia en català, article «Ball de l’ossa d’Encamp», llicència CC BY-SA 4.0; compara l’escenari descrit per Amades el 1950 amb el lloc actual.
 - Viquipèdia en català, article «Ball de l’ossa d’Encamp», llicència CC BY-SA 4.0; descripció atribuïda a Joan Amades, *Costumari Català* (1950), p. 674.
@@ -112,6 +113,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - CC BY-SA 4.0; atribució i compartir igual. No redistribuir sense conservar les condicions de la llicència.
 - Contingut periodístic amb drets reservats; la fitxa premsa-andorrana registra redistribució:no. La referència concreta no es pot verificar.
 - Font institucional amb drets reservats; el portal exigeix autorització escrita per redistribuir o transformar continguts i no consta un permís específic. Aquesta limitació queda registrada; no s’interpreta la inclusió com a llicència.
+- La fitxa UNESCO té ús limitat a citació i recerca; la resposta usa dades factuals mínimes i no reprodueix el text oficial. Les pàgines de Viquipèdia són CC BY-SA 4.0. No redistribuir contingut UNESCO més enllà de l’ús autoritzat.
 - La fitxa de Canturri registra redistribució pendent. La conversa conserva l’atribució i no trasllada a Sant Julià les dates documentades per als gegants d’Andorra la Vella.
 - La fitxa de Viquipèdia és CC BY-SA 4.0. La resposta parafraseja breument la descripció d’Amades i no en reprodueix la citació extensa, que la font secundària marca amb «citació necessària».
 - La fitxa de Viquipèdia és CC BY-SA 4.0. La resposta parafraseja el passatge atribuït a Amades i no en reprodueix la citació extensa.
