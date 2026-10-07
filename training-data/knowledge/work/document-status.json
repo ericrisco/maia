@@ -340,11 +340,13 @@
   "docs/temes/institucions/relacions-exteriors/andorra-es-adequada.md": {
     "status": "in_progress",
     "conversation_ids": [
-      "protocol-duaner-cita-adequacio-dades-10"
+      "protocol-duaner-cita-adequacio-dades-10",
+      "adequacio-2010-garanties-interpretacio-01"
     ],
     "reviewed_units": [
       "relació entre la referència del preàmbul del Protocol de 2011 i la Decisió 2010/625/UE",
-      "significat de l’adequació del 2010 per a les transferències de dades des de la UE sota la Directiva 95/46/CE"
+      "significat de l’adequació del 2010 per a les transferències de dades des de la UE sota la Directiva 95/46/CE",
+      "caràcter condicional de l'adequació del 2010 i garanties sobre la interpretació del dret andorrà"
     ],
     "open_units": [
       "auditar la cobertura de la resta de la Decisió 2010/625/UE i de la seva versió consolidada del 2016"
