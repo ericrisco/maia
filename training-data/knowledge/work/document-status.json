@@ -103,6 +103,7 @@
         "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0011",
         "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0012",
         "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0013",
+        "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0022",
         "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0026",
         "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0027",
         "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0028",
@@ -114,8 +115,9 @@
         "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0038"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 47,
+      "open_unit_count": 46,
       "conversation_ids": [
+        "ball-ossa-encamp-espai-escenic-001",
         "ball-ossa-encamp-ritus-pas-001",
         "ossa-encamp-allioli-de-codony-001",
         "ossa-encamp-i-contrabandistes-001",
