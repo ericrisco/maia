@@ -4,10 +4,10 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 
 - Documents inventariats: **1477** (1348 articles).
 - Unitats estructurals totals: **62911**.
-- Unitats cobertes per converses aprovades: **0** (0.000%).
-- Unitats excloses amb motiu: **0**.
-- Unitats encara obertes: **62911**.
-- Converses candidates: **2**; aprovades: **0**; mostres de calibratge: **2** (no compten com a cobertura).
+- Unitats cobertes per converses aprovades: **19** (0.030%).
+- Unitats excloses amb motiu: **2**.
+- Unitats encara obertes: **62890**.
+- Converses candidates: **3**; aprovades: **3**; mostres de calibratge: **0** (no compten com a cobertura).
 
 ## Estat per tema
 
@@ -32,7 +32,7 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 | `temes/cultura/arts-visuals` | 9 | 303 | 0 | 0 | 303 |
 | `temes/cultura/cultura-popular` | 2 | 48 | 0 | 0 | 48 |
 | `temes/cultura/literatura` | 1 | 87 | 0 | 0 | 87 |
-| `temes/cultura/llegendes` | 10 | 254 | 0 | 0 | 254 |
+| `temes/cultura/llegendes` | 10 | 254 | 16 | 2 | 236 |
 | `temes/cultura/museus-i-arxius` | 15 | 912 | 0 | 0 | 912 |
 | `temes/cultura/museus-i-arxius/museus` | 11 | 335 | 0 | 0 | 335 |
 | `temes/cultura/musica-i-cancons` | 3 | 103 | 0 | 0 | 103 |
@@ -69,7 +69,7 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 | `temes/historia/contraban` | 2 | 116 | 0 | 0 | 116 |
 | `temes/historia/democratitzacio` | 3 | 87 | 0 | 0 | 87 |
 | `temes/historia/edat-mitjana` | 42 | 1212 | 0 | 0 | 1212 |
-| `temes/historia/guerres-i-neutralitat` | 22 | 503 | 0 | 0 | 503 |
+| `temes/historia/guerres-i-neutralitat` | 22 | 503 | 3 | 0 | 500 |
 | `temes/historia/historia-recent` | 7 | 396 | 0 | 0 | 396 |
 | `temes/historia/historiografia` | 11 | 644 | 0 | 0 | 644 |
 | `temes/historia/manual-digest` | 5 | 353 | 0 | 0 | 353 |
@@ -140,3 +140,7 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 | `temes/vida-quotidiana/geografia-mental` | 1 | 23 | 0 | 0 | 23 |
 | `temes/vida-quotidiana/humor` | 1 | 18 | 0 | 0 | 18 |
 | `temes/vida-quotidiana/referents-compartits` | 1 | 34 | 0 | 0 | 34 |
+
+## Exclusions per motiu
+
+- `not_knowledge`: 2.
