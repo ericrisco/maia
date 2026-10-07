@@ -7,7 +7,7 @@ autor: comunitat Viquipèdia
 publicacio: "ca.wikipedia.org"
 url: https://ca.wikipedia.org/wiki/Esgl%C3%A9sia_de_Santa_Coloma_(Andorra_la_Vella)
 llicencia: CC BY-SA 4.0
-redistribucio: permesa amb atribució (CC BY-SA)
+redistribucio: si
 data_consulta: 2026-10-07
 abast: >
   Arquitectura i història de Santa Coloma: ubicació, nau i absis
