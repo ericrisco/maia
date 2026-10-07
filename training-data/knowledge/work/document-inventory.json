@@ -2,7 +2,7 @@
   "source_root": "docs/temes/",
   "file_count": 1477,
   "article_count": 1348,
-  "conversation_count": 49,
+  "conversation_count": 50,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 1,
@@ -16632,7 +16632,7 @@
       "topic": "temes/institucions/relacions-exteriors",
       "source": "jurisprudencia-ad",
       "status": "in_progress",
-      "conversation_count": 23,
+      "conversation_count": 24,
       "conversation_ids": [
         "antecedents-penals-residents-estranger-001",
         "bens-sense-propietari-identificat-001",
@@ -16647,6 +16647,7 @@
         "documents-originals-i-retorn-objectes-001",
         "embargament-preventiu-termini-prorroga-001",
         "extradicio-ciutada-andorra-motius-rebuig-001",
+        "extradicio-detencio-provisional-terminis-001",
         "extradicio-govern-o-tribunals-decisio-001",
         "extradicio-llindar-pena-minima-001",
         "extradicio-pena-mort-i-control-judicial-001",
@@ -16681,7 +16682,8 @@
         "Llei d’extradició, article 14: quinze motius taxats de denegació, inclosa la nacionalitat andorrana i garanties de drets/processals.",
         "Llei d’extradició, article 14: condició sobre pena de mort, garanties judicials i control de versemblança/error manifest en els casos taxats.",
         "Llei d’extradició, article 2: llindar de pena màxima potencial a les dues jurisdiccions i llindar de condemna ja imposada.",
-        "Llei d’extradició, article 3: regla d’especialitat, excepció amb consentiment/ampliació i termini de 45 dies sense sortir del país receptor."
+        "Llei d’extradició, article 3: regla d’especialitat, excepció amb consentiment/ampliació i termini de 45 dies sense sortir del país receptor.",
+        "Llei qualificada d’extradició, article 9: terminis de detenció provisional de 18 i 40 dies, i efectes de l’alliberament si la demanda completa arriba més tard."
       ],
       "open_units": [
         "Abast i límits de la instantània consolidada del 2026-09-12."
