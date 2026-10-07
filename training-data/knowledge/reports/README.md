@@ -1,5 +1,3 @@
-# Reports de Knowledge
+# Informes de Knowledge
 
-Desa aquí cobertura per tema, resultats de revisió naturalitat/correcció,
-duplicats i motius d'exclusió. Separa «no representat» de «no té cap pregunta
-natural»: no són el mateix estat.
+Els informes de cobertura i qualitat es generaran després de revisar registres reals. Els exemples editorials no compten en cap recompte.

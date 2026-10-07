@@ -1,45 +1,41 @@
-# Exemples de calibratge per a Maia Knowledge
+# Exemples de calibratge
 
-Aquests exemples fixen el llindar editorial. No són registres aprovats, no compten per a cobertura i no s'exporten. Les dades i els límits s'han de poder rastrejar a les fitxes indicades a [`examples-provenance.md`](examples-provenance.md).
+Aquests exemples mostren converses multitorn que parteixen d'un dubte i mantenen el fil. No són candidats, no compten per a cobertura i no s'exporten. Les fonts i l'abast de cada resposta són a [`examples-provenance.md`](examples-provenance.md).
 
-La prova principal és llegir només les intervencions d'usuari. Han de semblar una consulta amb sentit propi, i el seguiment ha de sortir del que Maia acaba de respondre.
-
-## 1. El nom de la Marratxa i el ball d'avui
+## 1. La Marratxa i el recipient del nom
 
 ```json
-{"messages":[{"role":"user","content":"La Marratxa encara es balla amb una marratxa a la mà, o només n'ha quedat el nom?"},{"role":"assistant","content":"Només n'ha quedat el nom. La marratxa era un recipient d'aigua perfumada que els dansaires duien antigament; avui ja no es fa servir en el ball."},{"role":"user","content":"I els passos que es ballen ara són els mateixos de sempre?"},{"role":"assistant","content":"No es pot assegurar. La versió actual es va fixar als anys seixanta: Daniel Areny va recollir la tonada de la memòria del dansaire Ricard Mas, i Isidre Marbà en va harmonitzar la música i en va crear la coreografia. No hi ha prou documentació per afirmar que aquests passos siguin els del segle XIII."}]}
+{"messages":[{"role":"user","content":"La Marratxa encara es balla amb el recipient de perfum, o només n'ha quedat el nom?"},{"role":"assistant","content":"Només n'ha quedat el nom. La marratxa era un recipient d'aigua perfumada que els dansaires duien antigament, però avui l'objecte ja no forma part del ball."},{"role":"user","content":"I que es ballés per primer cop el 1278 ho sabem del cert?"},{"role":"assistant","content":"No. La tradició situa el primer ball el 7 de setembre de 1278, però el corpus no ho verifica amb una font primària. A més, el Pareatge se situa el 8 de setembre. La relació amb el 1278 s'ha d'explicar com una tradició, no com una data demostrada."}]}
 ```
 
-**Per què passa:** la primera pregunta surt d'una confusió natural entre el nom i l'objecte. El seguiment pregunta per la continuïtat que suggereix la paraula «encara»; la resposta distingeix la pràctica documentada de l'origen llegendari.
+**Per què funciona:** la primera pregunta surt d'una confusió plausible entre el nom i l'objecte. El seguiment pregunta si l'origen que suggereix el ball és un fet comprovat.
 
-## 2. Més inscrits, menys gent que diu que hi va
+## 2. Més gent al cinema: augment continu o dues fotografies?
 
 ```json
-{"messages":[{"role":"user","content":"No ho acabo d'entendre: l'enquesta diu que menys gent va a les biblioteques, però els usuaris inscrits han pujat. Com pot ser?"},{"role":"assistant","content":"No necessàriament es contradiuen: mesuren coses diferents. L'enquesta pregunta si la persona hi ha anat; el registre administratiu compta inscripcions. La proporció que diu que hi va baixa del 36,4% el 2019 al 30,7% el 2024, mentre que les inscripcions passen de 25.038 a 29.364."},{"role":"user","content":"I amb més inscrits s'enduien més llibres?"},{"role":"assistant","content":"Si mirem del 2016 al 2024, sí: el total de préstecs de llibres puja de 29.945 a 37.270. Però això no vol dir que cada persona n'agafés més. En el mateix període, la mitjana de préstecs a domicili de tots els documents per persona inscrita baixa de 2,01 a 1,39. L'enquesta cobreix 2019-2024; les dades de préstecs i inscripcions, 2016-2024."}]}
+{"messages":[{"role":"user","content":"Sembla que el 2024 hi havia més gent que anava al cinema que el 2019. Vol dir que l'assistència ha anat pujant cada any?"},{"role":"assistant","content":"No ho podem saber amb aquestes dades. L'enquesta indica que hi va el 57,4% el 2019 i el 66,3% el 2024, però només compara aquests dos anys."},{"role":"user","content":"Aleshores no sabem quan va créixer ni si va baixar mentrestant?"},{"role":"assistant","content":"Exacte. Sense observacions dels anys intermedis, no es pot reconstruir el recorregut ni dir si l'augment va ser gradual, sobtat o amb alts i baixos."}]}
 ```
 
-**Per què passa:** la pregunta expressa una contradicció percebuda. El seguiment reprèn la distinció entre inscriure's i utilitzar el servei; no demana una llista de xifres de la fitxa.
+**Per què funciona:** la primera pregunta comprova una conclusió que sovint es treu d'una comparació. El seguiment concreta què falta per saber, sense canviar de tema.
 
-## 3. Dos anys no són una tendència anual
+## 3. Menys visites a biblioteques, més persones inscrites?
 
 ```json
-{"messages":[{"role":"user","content":"Sembla que hi va més gent al cinema el 2024 que el 2019. Podem dir que ha anat pujant cada any?"},{"role":"assistant","content":"No. La proporció que diu que va al cinema passa del 57,4% el 2019 al 66,3% el 2024, però les dades només comparen aquests dos anys. No mostren què va passar entremig ni quan es va produir l'augment."},{"role":"user","content":"Aleshores tampoc no sabem si va ser un canvi gradual o d'un sol cop?"},{"role":"assistant","content":"Exacte. Només tenim dues onades, la del 2019 i la del 2024. No es pot reconstruir l'evolució entre totes dues ni atribuir la diferència a una causa concreta."}]}
+{"messages":[{"role":"user","content":"No acabo d'entendre les dades de biblioteques: l'enquesta diu que hi va menys gent, però les inscripcions han pujat. Com poden ser certes totes dues coses?"},{"role":"assistant","content":"Perquè compten coses diferents. L'enquesta pregunta a les persones si hi han anat; el registre compta quanta gent està inscrita. Entre 2019 i 2024, la primera proporció baixa del 36,4% al 30,7%, mentre les inscripcions passen de 25.038 a 29.364."},{"role":"user","content":"I els inscrits també s'enduien més llibres?"},{"role":"assistant","content":"En total, sí: els préstecs de llibres passen de 29.945 el 2016 a 37.270 el 2024. Però no podem dir que cada persona n'agafés més: la mitjana disponible per persona inscrita agrupa tots els documents, no només els llibres, i baixa de 2,01 a 1,39. A més, aquesta mitjana i el total de préstecs cobreixen 2016–2024; l'enquesta només compara 2019 i 2024."}]}
 ```
 
-**Per què passa:** l'usuari pregunta per una conclusió que les dades no permeten treure. El seguiment precisa el mateix límit; no canvia de tema ni força una explicació.
+**Per què funciona:** l'usuari assenyala una contradicció concreta. La resposta distingeix dues mesures; el seguiment pregunta per una conseqüència relacionada i la resposta separa volum total de mitjana per persona.
 
-## Quan un sol intercanvi és suficient
+## Quan no afegir un seguiment
 
-No afegeixis un seguiment perquè el format sigui «multitorn». Si la pregunta era «La Marratxa encara es balla a Sant Julià?», una resposta directa sobre el dilluns de festa major pot tancar la consulta. Un fil curt ben resolt és millor que una segona pregunta ornamental.
+No allarguis una conversa només perquè volem entrenar diàleg. Si la resposta tanca el dubte i no desperta una pregunta concreta, deixa el fil en un intercanvi. Naturalitat abans que longitud.
 
-## Exemples de preguntes que es descarten
+## Exemples que es descarten
 
-| Pregunta rebutjada | Motiu |
+| Pregunta | Motiu |
 |---|---|
-| «Què explica la secció “El relat” de la fitxa de Meritxell?» | Depèn que l'usuari conegui la fitxa i la seva estructura. |
-| «Què indica aquesta fila?» | No diu què es compara ni quin dubte vol resoldre. |
+| «Què explica la secció “El relat” de la fitxa de Meritxell?» | Demana navegar l'estructura interna d'un document. |
+| «Què indica aquesta fila?» | No identifica ni el dubte ni què es compara. |
 | «I dos topònims que en surten:» | És un fragment, no una pregunta. |
-| «Enumera els fets principals de la Marratxa.» | Demana una extracció, sense una motivació identificable. |
-| «La Marratxa és una dansa? I quin dia es balla? I qui la va coreografiar?» | Acumula consultes independents en una sola intervenció. Cal separar-les si cada dubte té valor propi. |
-
-Si una pregunta falla, no l'arreglis només canviant el títol per una frase més col·loquial. Reescriu el dubte des de la necessitat de qui pregunta o descarta el registre.
+| «Digues tres dades sobre la Marratxa.» | Demana extreure informació sense una intenció clara. |
+| «La Marratxa és una dansa? Quin dia es balla? Qui la va coreografiar?» | Ajunta dubtes independents sense construir una conversa. |

@@ -1,11 +1,11 @@
 # Procedència dels exemples editorials
 
-Els exemples d'`EXEMPLES.md` són mostres de redacció, no candidats ni registres d'entrenament. Es poden fer servir per revisar l'estil intern; no s'exporten. Les condicions de llicència aquí descrites són part de la mostra i no substitueixen la procedència específica de cada conversa candidata.
+Els exemples serveixen per calibrar l'estil i no són dades d'entrenament. Aquesta referència no substitueix la procedència individual que caldrà registrar per a cada candidat.
 
-| Exemple | Document Maia consultat | Font i condicions | Abast factual |
+| Exemple | Document Maia | Font i drets anotats al corpus | Abast i límit |
 |---|---|---|---|
-| La Marratxa | `docs/temes/costums/danses/la-marratxa.md` | Viquipèdia en català, CC BY-SA 4.0; cal atribució i compartir igual. | Recipient perfumat, absència actual de l'objecte i reconstrucció de la coreografia als anys seixanta. No tracta l'origen llegendari del 1278 com un fet verificat. |
-| Biblioteques | `docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md` | API del Departament d'Estadística: dades estadístiques pròpies sota CC BY 4.0, amb atribució. | Diferència entre assistència declarada i usuaris inscrits; préstecs de llibres i totals de préstecs. |
-| Cinema | `docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md` | API del Departament d'Estadística: dades estadístiques pròpies sota CC BY 4.0, amb atribució. | Enquesta de 2019 i 2024; no hi ha una sèrie anual que indiqui què va passar entre les dues onades. |
+| La Marratxa | `docs/temes/costums/danses/la-marratxa.md`; `docs/temes/historia/pareatge/el-pareatge.md` | Viquipèdia en català, CC BY-SA 4.0; atribució i compartir igual. | Recipient perfumat, data atribuïda per la tradició i discrepància amb la data del Pareatge. El primer ball no es tracta com a fet verificat. |
+| Cinema | `docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md` | Enquesta del Departament d'Estadística, CC BY 4.0, amb atribució. | Compara 2019 amb 2024; no permet inferir els anys intermedis ni una tendència contínua. |
+| Biblioteques | `docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md` | Enquesta i estadístiques del Departament d'Estadística, CC BY 4.0, amb atribució. | Distingeix assistència declarada, inscripcions, préstecs totals i mitjana per persona; períodes diferents. |
 
-Abans d'afegir un registre real a `conversations.jsonl`, crea una fila pròpia a `provenance.jsonl` amb els documents, fonts, drets, afirmacions sustentades i grup de deduplicació. Un exemple d'aquí no compta per cobrir cap fitxa.
+Els registres actius tindran un `example_id` propi i una entrada coincident a `provenance.jsonl`, amb fonts, llicència, afirmacions sustentades i grup per deduplicar.

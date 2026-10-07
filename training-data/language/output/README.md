@@ -1,5 +1,3 @@
 # Exports de Language
 
-Els splits només es generen a partir d'intercanvis humans elegibles i aprovats.
-Cada línia segueix l'esquema `{"messages": [...]}`. No afegeixis mostres
-inventades per augmentar-ne el volum.
+Aquest directori no conté exports. Les mostres es prepararan només després de verificar elegibilitat, drets, consentiment, transcripció i separació per peça o parlant.

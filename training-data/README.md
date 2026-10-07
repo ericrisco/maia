@@ -1,35 +1,27 @@
 # Maia Training Data
 
-Conté dos datasets independents per especialitzar Maia en Andorra:
+Prepararem dos conjunts separats a partir del corpus de `docs/`:
 
-- **Knowledge:** respostes correctes a preguntes reals sobre el contingut de `docs/temes/`.
-- **Language:** mostres de català andorrà contemporani produïdes per persones, extretes de `docs/parla/` amb els criteris d'elegibilitat del corpus.
+- **Knowledge** respon dubtes reals sobre Andorra amb informació de `docs/temes/`.
+- **Language** conserva mostres de català andorrà contemporani produïdes per persones, a partir de material elegible de `docs/parla/`.
 
-Les preguntes de Knowledge no es fabriquen a partir de títols o seccions. Cada conversa ha de començar amb un dubte que una persona formularia sense veure la fitxa. Els seguiments només s'afegeixen quan neixen de la resposta anterior. Language no comparteix registres ni criteris de redacció amb Knowledge.
+Ara només hi ha exemples editorials per calibrar Knowledge. No són registres d'entrenament. Les cues candidates comencen buides i no hi ha cap export preparat.
 
 ```text
 training-data/
 ├── PLAN.md
 ├── knowledge/
-│   ├── review/       # exemples editorials, candidats, procedència i arxiu
-│   ├── work/         # inventari i cobertura per document
-│   ├── scripts/      # inventari, validació i exportació
+│   ├── review/       # criteris, exemples, candidats i procedència
+│   ├── work/         # inventari i estat de revisió del corpus
+│   ├── scripts/      # eines de cobertura, validació i exportació
 │   ├── reports/      # cobertura, qualitat i exclusions
-│   └── output/       # només datasets aprovats
+│   └── output/       # exports aprovats; buit durant el calibratge
 └── language/
-    ├── review/       # fragments candidats i procedència
-    ├── work/         # elegibilitat i fiabilitat de transcripcions
+    ├── review/       # fragments humans candidats i procedència
+    ├── work/         # elegibilitat i fiabilitat de transcripció
     ├── scripts/
     ├── reports/
-    └── output/       # només datasets aprovats
+    └── output/       # exports aprovats; buit durant el calibratge
 ```
 
-`knowledge/review/EXEMPLES.md` calibra l'estil i no és entrenament. Els 49 candidats anteriors s'han apartat de la cua activa perquè cal revisar-los sota el criteri nou; la seva procedència i l'estat de cobertura es conserven a `knowledge/review/archive/pre-redesign-2026-10-07/`. No compten com a cobertura ni s'exporten.
-
-La cua activa comença buida. Encara no hi ha exports preparats. Per revisar la cobertura de Knowledge, executa des de l'arrel de `maia/`:
-
-```bash
-python3 training-data/knowledge/scripts/build_document_inventory.py
-```
-
-Cada línia de `conversations.jsonl` és una conversa sencera amb `messages` de rols `user` i `assistant`. La procedència, els drets i les afirmacions recolzades es guarden en una línia corresponent de `provenance.jsonl`. Cada nova conversa es revisa, valida, commiteja i puja abans d'afegir-ne una altra.
+Comença per [`PLAN.md`](PLAN.md) i [`knowledge/review/EXEMPLES.md`](knowledge/review/EXEMPLES.md). La procedència dels exemples és a [`knowledge/review/examples-provenance.md`](knowledge/review/examples-provenance.md). La procedència dels registres reals es guardarà separada del text de conversa.

@@ -1,9 +1,5 @@
 # Maia Language
 
-Dataset separat de Knowledge. Vol preservar català andorrà contemporani a
-partir de parla humana real de `docs/parla/`; no ensenya informació
-enciclopèdica ni una imitació escrita per un model.
+Conjunt separat de Knowledge. Només inclourà parla humana real i elegible de `docs/parla/`, amb `veu: originaria`, `epoca: contemporania` i `apte_llengua: true`.
 
-Només es pot incloure material elegible, verificat i amb drets documentats. No
-converteixis un monòleg en diàleg inventant preguntes o respostes. Si una peça
-no conté intercanvis reals, deixa-la fora d'un dataset de converses.
+No inventarem cap diàleg per convertir un monòleg en conversa. Abans d'incloure una peça, cal verificar-ne els drets o el permís, el consentiment aplicable i la fiabilitat de la transcripció. La cua de registres comença buida.

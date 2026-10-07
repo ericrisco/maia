@@ -1,6 +1,3 @@
-# Treball de Language
+# Elegibilitat i transcripcions
 
-Inventaria les peces de `docs/parla/`, comprova elegibilitat, veu, data,
-qualitat de transcripció i drets. Separa fragments fiables dels dubtosos i
-anota el motiu de cada inclusió o exclusió. Agrupa qualsevol split per peça o
-entrevista per evitar fuga entre train i test.
+L'inventari local d'elegibilitat que ja existia es conserva aquí. Cal tornar a comprovar els seus estats i drets contra les peces actuals abans d'utilitzar cap fragment.

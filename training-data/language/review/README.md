@@ -1,5 +1,3 @@
-# Revisió de Language
+# Revisió de Maia Language
 
-Registra els fragments humans seleccionats i lliga'ls a la peça original, la
-persona/veu quan estigui documentada, els permisos i les incerteses de
-transcripció. No redactis respostes noves per «sonar andorrà».
+La revisió conservarà fragments humans verificables i la seva procedència. No es redactaran exemples ficticis d'«un andorrà parlant». Cada mostra candidata ha d'enllaçar amb una peça elegible i amb les condicions d'ús comprovades.

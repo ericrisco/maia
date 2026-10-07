@@ -1,19 +1,12 @@
 # Maia Knowledge
 
-Conjunt de converses sobre Andorra, basades en `docs/temes/`. La unitat de treball és un dubte humà, no una secció ni una dada a extreure.
+Converses que responen preguntes sobre Andorra a partir de `docs/temes/`.
 
-- [`review/`](review/): criteri editorial, exemples de calibratge, candidats, procedència i arxiu.
-- `work/`: inventari i estat de revisió de cada fitxa.
-- `scripts/`: inventari, validació i exportació.
-- `reports/`: cobertura, qualitat i exclusions.
-- `output/`: només exports aprovats i elegibles.
+- `review/EXEMPLES.md` calibra l'estil; no és part del dataset.
+- `review/conversations.jsonl` rebrà candidats actius, una conversa JSONL per línia.
+- `review/provenance.jsonl` guardarà les fonts i els drets, una entrada per candidat.
+- `work/` recollirà inventari i cobertura després de començar la revisió exhaustiva.
+- `scripts/` i `reports/` s'ompliran quan hi hagi un procés de revisió i dades suficients.
+- `output/` es mantindrà buit fins que els registres estiguin revisats i aprovats.
 
-Els 49 candidats anteriors i la seva procedència es conserven a `review/archive/pre-redesign-2026-10-07/` per auditar-los. No són candidats actius ni compten com a cobertura. La cua activa comença buida per aplicar els criteris de `review/CONVERSATION-GUIDE.md` i `review/EXEMPLES.md` des del primer registre.
-
-Per regenerar l'inventari i el resum de cobertura, executa des de l'arrel de `maia/`:
-
-```bash
-python3 training-data/knowledge/scripts/build_document_inventory.py
-```
-
-El format candidat és una conversa JSONL per línia, amb rols `user` i `assistant`. La procedència correspon a la mateixa conversa per `example_id`; les metadades internes no entren al text d'entrenament.
+Les preguntes han de néixer d'una intenció humana. Els seguiments han d'enllaçar amb la resposta anterior. Vegeu [`review/CONVERSATION-GUIDE.md`](review/CONVERSATION-GUIDE.md).
