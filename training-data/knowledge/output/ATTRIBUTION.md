@@ -57,12 +57,12 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - Pere Canturri i Montanya, «Usos i costums d’Andorra», 15a Diada Andorrana a la XXXIV Universitat Catalana d’Estiu (2002), dins Una història d’Andorra, temàtica, p. 209 i següents.
 - Premsa andorrana; la fitxa de font no identifica el diari, l’article, la data ni l’URL de la publicació concreta.
 - Viquipèdia en català, article «Festes de l’ossa a Andorra», CC BY-SA 4.0. La fitxa del corpus hi atribueix la causa de la decadència i la cronologia d’Ordino.
+- Viquipèdia en català, article «Festes de l’ossa a Andorra», CC BY-SA 4.0; Fabiola Sofia Masegosa i Gayo, «La vida teatral a Andorra de 1900 a 1970» (conferència del 2018, publicada el 2020), que resumeix la seva tesi doctoral del 2017; la cronologia arriba via la fitxa del Carnaval d’Encamp.
 - Viquipèdia en català, article «Festes de l’ossa a Andorra», CC BY-SA 4.0; atribueix a la Relació sobre la Vall de Andorra de 1838 la referència escrita més antiga.
 - Viquipèdia en català, article «Festes de l’ossa a Andorra», CC BY-SA 4.0; la fitxa del corpus descriu la màscara de l’Última Ossa d’Ordino.
 - Viquipèdia en català, article «Festes de l’ossa a Andorra», CC BY-SA 4.0; la fitxa descriu la festa com una farsa còmica d’un acte i enumera els personatges.
 - Viquipèdia en català, article «Festes de l’ossa a Andorra», CC BY-SA 4.0; la fitxa descriu la «sang» com aigua amb granadina i el ball final.
 - Viquipèdia en català, article «Festes de l’ossa a Andorra», CC BY-SA 4.0; la font atribueix el calendari a la creença que l’ossa hibernava entre Nadal i la Candelera.
-- Viquipèdia en català, article «Festes de l’ossa a Andorra», CC BY-SA 4.0; tesi d’Eloi Ysàs Trias, citada i resumida pel corpus via Fabiola Masegosa.
 - Viquipèdia en català, article «Festes de l’ossa a Andorra», llicència CC BY-SA 4.0; bibliografia transcrita de la fitxa del corpus.
 - Viquipèdia en català, article «Festes de l’ossa a Andorra», llicència CC BY-SA 4.0; cronologia de l’Última Ossa d’Ordino el 2020.
 - Viquipèdia en català, article «Festes de l’ossa a Andorra», llicència CC BY-SA 4.0; cronologia i llocs de celebració de l’Última Ossa d’Ordino.
