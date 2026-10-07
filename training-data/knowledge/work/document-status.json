@@ -40,12 +40,18 @@
     ]
   },
   "docs/temes/costums/calendari-festiu/calendari-festiu.md": {
-    "status": "not_started",
+    "status": "in_progress",
     "open_units": [
       "Sant Antoni i l’escudella, caramelles, Sant Joan i falles; relacions amb fitxes específiques.",
       "Calendari judicial de 1902 versus calendari popular; les absències no proven que una festa no existís.",
       "Calendari oficial primari de cada parròquia i vila pendent.",
       "Referència exacta de la premsa que sosté el calendari general, no identificada."
+    ],
+    "conversation_ids": [
+      "calendari-festa-major-no-esdeveniment-nacional-001"
+    ],
+    "reviewed_units": [
+      "Diferència entre una festa major per parròquia i les festes de les viles; les dates concretes no consten."
     ]
   },
   "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md": {

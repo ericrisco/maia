@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 1,
+    "in_progress": 2,
     "no_natural_question": 0,
-    "not_started": 1347
+    "not_started": 1346
   },
   "documents": [
     {
@@ -29,10 +29,14 @@
       "type": "article",
       "topic": "temes/costums/calendari-festiu",
       "source": "premsa-andorrana",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "calendari-festa-major-no-esdeveniment-nacional-001"
+      ],
+      "reviewed_units": [
+        "Diferència entre una festa major per parròquia i les festes de les viles; les dates concretes no consten."
+      ],
       "open_units": [
         "Sant Antoni i l’escudella, caramelles, Sant Joan i falles; relacions amb fitxes específiques.",
         "Calendari judicial de 1902 versus calendari popular; les absències no proven que una festa no existís.",
