@@ -401,7 +401,8 @@
       "conversation_ids": [
         "habits-culturals-cinema-biblioteques-001",
         "habits-culturals-lectura-per-oci-genere-001",
-        "habits-culturals-biblioteques-enquesta-i-usuaris-001"
+        "habits-culturals-biblioteques-enquesta-i-usuaris-001",
+        "habits-culturals-museus-per-edat-001"
       ],
       "covered_units": [
         "Enquesta 2019 i 2024: cinema, 57,4% → 66,3% (+8,9 punts).",
@@ -410,7 +411,9 @@
         "Lectura per oci, total: 69,6% el 2019 i 67,3% el 2024 (-2,3 punts).",
         "Lectura per oci per sexe: dones 77,9% → 72,2%; homes 61,5% → 62,9%; diferència 16,4 → 9,3 punts.",
         "Biblioteques: enquesta d'assistència (36,4% el 2019; 30,7% el 2024) diferenciada del recompte d'inscrits.",
-        "Xarxa de Biblioteques: usuaris inscrits 19.580 (2016) i 29.364 (2024); préstecs a domicili 39.331 (2016), 43.773 (2019), 17.646 (2020) i 40.914 (2024)."
+        "Xarxa de Biblioteques: usuaris inscrits 19.580 (2016) i 29.364 (2024); préstecs a domicili 39.331 (2016), 43.773 (2019), 17.646 (2020) i 40.914 (2024).",
+        "Enquesta sobre museus per edat: total 63,8% → 54,5%; el grup de 65+ registra la caiguda més forta, 55,2% → 38,2% (-17 punts).",
+        "Museus per edat el 2024: 15-29, 58,6%; 30-44, 62,4%; 45-64, 54,5%; 65+, 38,2%."
       ],
       "open_units": [
         "Revisar les altres activitats de l'enquesta i els seus desglossaments per edat, sexe i estudis.",
