@@ -724,11 +724,11 @@
       "title": "El ferro — fargues i ferrers",
       "type": "article",
       "topic": "temes/cultura/artesania",
-      "status": "not_started",
+      "status": "complete",
       "unit_count": 86,
       "covered_unit_ids": [],
-      "excluded_unit_count": 0,
-      "open_unit_count": 86,
+      "excluded_unit_count": 86,
+      "open_unit_count": 0,
       "conversation_ids": []
     },
     "docs/temes/cultura/artesania/el-textil.md": {
