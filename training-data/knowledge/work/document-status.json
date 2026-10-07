@@ -81,7 +81,8 @@
     "reviewed_units": [
       "La sèrie del 2025 registra importacions de béns per 1.997,4 M€, exportacions per 197,2 M€, una cobertura del 9,9% i un dèficit de béns de 1.800,2 M€; aquestes xifres no inclouen tot el comerç de serveis.",
       "Les quotes d’importació d’Espanya i França canvien entre 1997, 2020 i 2025; el pic espanyol de 2020 coincideix amb fronteres tancades, però la font no n’explica la causa.",
-      "El capítol 97 (art, col·lecció i antiguitat) explica el 88,2% del salt de les exportacions del 2022; la sèrie no identifica les peces ni l’operació que el causa."
+      "El capítol 97 (art, col·lecció i antiguitat) explica el 88,2% del salt de les exportacions del 2022; la sèrie no identifica les peces ni l’operació que el causa.",
+      "El 2025 Turquia és el cinquè destí d’exportació (6,1 M€, 3,1%); la taula per país no diu quins productes s’hi van vendre."
     ],
     "open_units": [
       "Resta revisar la resta de la fitxa: evolució anual, països d'origen i destí, capítols aranzelaris, salt exportador del 2022, períodes incomplets i límits d'interpretació."
@@ -90,7 +91,8 @@
     "conversation_ids": [
       "comerc-2025-deu-a-un-be-ns-001",
       "comerc-importacions-espanya-franca-tendencia-001",
-      "comerc-exportacions-salt-2022-art-001"
+      "comerc-exportacions-salt-2022-art-001",
+      "comerc-exportacions-turquia-desti-2025-001"
     ]
   }
 }
