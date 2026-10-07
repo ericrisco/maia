@@ -15641,9 +15641,10 @@
       "topic": "temes/institucions/relacions-exteriors",
       "source": "eur-lex-protocol-seguretat-duanera-2011",
       "status": "in_progress",
-      "conversation_count": 2,
+      "conversation_count": 3,
       "conversation_ids": [
         "andorra-comite-duaner-observador-sense-vot-01",
+        "andorra-comites-duaners-abast-i-exclusio-03",
         "protocol-duaner-no-adopcio-suspensio-02"
       ],
       "reviewed_units": [
@@ -15651,11 +15652,12 @@
         "consulta informal abans de noves normes de seguretat duanera i còpia de la proposta en trametre-la al Parlament o al Consell",
         "límit del mecanisme de controvèrsies: no resol la interpretació del dret de la Unió",
         "conseqüència prevista si Andorra no adopta nova normativa: possible suspensió del títol IIA, no anul·lació automàtica de tot l’acord",
-        "consultes abans de mesures de reequilibri i excepció per a mesures provisionals urgents si una demora comprometés la seguretat"
+        "consultes abans de mesures de reequilibri i excepció per a mesures provisionals urgents si una demora comprometés la seguretat",
+        "dos comitès habilitats per a la participació andorrana i límit a assumptes directament rellevants per al funcionament de la Unió Duanera",
+        "facultat del president per reunir el comitè sense l’expert, amb obligació d’informar Andorra",
+        "deure de la Comissió d’informar amb temps les dates, l’ordre del dia i la informació rellevant"
       ],
       "open_units": [
-        "quins dos comitès i quines matèries concretes admeten experts andorrans segons la Decisió 1/2003",
-        "informació prèvia sobre dates, ordres del dia i documents; possibilitat que el president reuneixi el comitè sense l’expert",
         "abast territorial diferent de l’acord duaner i de les mesures de seguretat; inclusió dels productes agrícoles",
         "absència de declaració prèvia de seguretat en el transport entre els territoris duaners i reconeixement mutu dels sistemes de gestió del risc",
         "intercanvi d’informació sobre operadors econòmics autoritzats",
