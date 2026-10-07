@@ -183,6 +183,8 @@
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0006",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0007",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0010",
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0012",
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0013",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0015",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0016",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0017",
@@ -198,10 +200,11 @@
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0031"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 40,
+      "open_unit_count": 38,
       "conversation_ids": [
         "festes-ossa-abast-i-desaparicio-001",
         "festes-ossa-ordino-i-encamp-001",
+        "festes-ossa-origen-i-primera-font-001",
         "ultima-ossa-ordino-representacio-001"
       ]
     },
