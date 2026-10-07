@@ -374,7 +374,7 @@
       "topic": "temes/costums/religiositat",
       "source": "bopa-ad",
       "status": "in_progress",
-      "conversation_count": 28,
+      "conversation_count": 29,
       "conversation_ids": [
         "registre-religios-actualitzar-dades-declaracio-biennal-14",
         "registre-religios-associacio-cultural-dependent-03",
@@ -401,6 +401,7 @@
         "registre-religios-publicitat-i-abast-02",
         "registre-religios-responsabilitat-promotors-19",
         "registre-religios-responsable-i-suplents-21",
+        "registre-religios-situacio-abans-de-2025-29",
         "registre-religios-termin-inscripcio-prorroga-08",
         "registre-religios-transicio-des-del-registre-associacions-25",
         "registre-religios-via-esglesia-catolica-15"
@@ -436,7 +437,8 @@
         "Règim transitori per a entitats religioses ja inscrites al Registre d’associacions: termini de dos anys, reutilització de documents compatibles i cancel·lació si no es demana la nova inscripció (disposició transitòria).",
         "Disposició addicional sobre termini per habilitar gestió electrònica i presentació en paper durant la transició; estat actual del servei no verificat al corpus.",
         "Facultats i designació d’òrgans de govern, seu central, adreça a Andorra i adreça opcional de comunicacions (art. 4.1.c i e).",
-        "Llei exigeix dades sobre entitats i llocs de culte, però el corpus no ha consultat entrades actuals ni pot donar recomptes o distribució (arts. 4 i 8; buit registrat)."
+        "Llei exigeix dades sobre entitats i llocs de culte, però el corpus no ha consultat entrades actuals ni pot donar recomptes o distribució (arts. 4 i 8; buit registrat).",
+        "Situació anterior al 2025: la disposició transitòria confirma una via prèvia pel Registre d’associacions per a algunes entitats, però no n’identifica la composició ni l’abast (buit registrat)."
       ],
       "open_units": [
         "Passada editorial integral de la fitxa: revisar la resta d’afirmacions i buits contra les converses i conservar explícitament allò que no consta."
