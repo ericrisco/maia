@@ -625,5 +625,20 @@
     "reviewed_units": [
       "La majestat d’estuc del segle XII es conserva a l’església; també hi ha un retaule de 1527 amb influències italianes i germàniques."
     ]
+  },
+  "docs/temes/cultura/arquitectura/sant-marti-de-la-cortinada.md": {
+    "status": "in_progress",
+    "open_units": [
+      "Inventari iconogràfic complet de les pintures i estat peça per peça.",
+      "Font publicada per Pere Canturri per a la datació concreta de les pintures.",
+      "Buidatge crític de la tesi doctoral de Maria Cristina Tarradellas Corominas.",
+      "Seguiment de les obres i de la restauració dels retaules, informació que pot canviar."
+    ],
+    "conversation_ids": [
+      "sant-marti-edifici-pintures-i-mestre-001"
+    ],
+    "reviewed_units": [
+      "L’edifici és dels segles XI-XII i les pintures de finals del XII; «mestre de la Cortinada» és una atribució estilística, no un nom personal conegut."
+    ]
   }
 }

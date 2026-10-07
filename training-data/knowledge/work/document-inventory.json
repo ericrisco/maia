@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 41,
+    "in_progress": 42,
     "no_natural_question": 0,
-    "not_started": 1307
+    "not_started": 1306
   },
   "documents": [
     {
@@ -962,11 +962,20 @@
       "type": "article",
       "topic": "temes/cultura/arquitectura",
       "source": "viquipedia-ca",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "sant-marti-edifici-pintures-i-mestre-001"
+      ],
+      "reviewed_units": [
+        "L’edifici és dels segles XI-XII i les pintures de finals del XII; «mestre de la Cortinada» és una atribució estilística, no un nom personal conegut."
+      ],
+      "open_units": [
+        "Inventari iconogràfic complet de les pintures i estat peça per peça.",
+        "Font publicada per Pere Canturri per a la datació concreta de les pintures.",
+        "Buidatge crític de la tesi doctoral de Maria Cristina Tarradellas Corominas.",
+        "Seguiment de les obres i de la restauració dels retaules, informació que pot canviar."
+      ],
       "completion_note": "",
       "reason": ""
     },
