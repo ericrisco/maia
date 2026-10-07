@@ -1243,12 +1243,16 @@
       "title": "El Museu de la Ràdio, un projecte encara pendent",
       "type": "article",
       "topic": "temes/cultura/museus-i-arxius/museus",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 17,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/cultura/museus-i-arxius/museus/el-museu-de-la-radio.md#unit-0004"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 17,
-      "conversation_ids": []
+      "open_unit_count": 16,
+      "conversation_ids": [
+        "radio-andorra-abast-emissions-001"
+      ]
     },
     "docs/temes/cultura/museus-i-arxius/museus/el-museu-del-perfum.md": {
       "title": "El Museu del Perfum, i la dona que va obrir una perruqueria el 1939",
