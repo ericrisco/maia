@@ -11,12 +11,23 @@ Hi ha dos fluxos separats:
 - **Language** conserva llengua contemporània produïda per persones a
   `docs/parla/`. No s'hi redacten respostes artificials per imitar una veu local.
 
-## Fase actual: calibratge
+## Fase actual: inventari i cobertura
 
-Abans de reprendre la producció, revisar els exemples de
-`knowledge/review/EXEMPLES.md` i confirmar que el to, la naturalitat i la
-progressió dels torns són els desitjats. Els exemples són mostres de calibratge,
-no una declaració de cobertura del corpus.
+El calibratge de les preguntes s'ha aprovat amb els exemples de
+`knowledge/review/EXEMPLES.md`. Ara s'inventaria tot `docs/temes/` i es reprèn la
+producció tema a tema. Els exemples són mostres inicials, no una declaració de
+cobertura exhaustiva.
+
+Regenera l'inventari amb:
+
+```bash
+python3 training-data/knowledge/scripts/build_knowledge_inventory.py --check
+python3 training-data/knowledge/scripts/validate_knowledge_review.py --check
+```
+
+El primer comandament processa els Markdown, el frontmatter, les seccions,
+paràgrafs, llistes, taules, cites, blocs de codi i enllaços interns. El segon
+comprova les converses, la procedència, els drets i l'estat de cobertura.
 
 ## Com crear converses de Knowledge
 
@@ -83,6 +94,10 @@ Abans de crear registres a escala:
 
 Cada registre nou passa revisió i validació abans d'incorporar-se. El flux de Git
 acordat és un commit i un push per conversa.
+
+Una conversa només es pot aprovar si totes les fonts que hi contribueixen tenen
+`redistribucio: si` i la procedència conté l'atribució exigida. Les fonts amb
+redistribució `no` o `pendent` no aporten contingut als missatges.
 
 ## Flux de Language
 

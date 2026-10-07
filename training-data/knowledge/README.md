@@ -7,4 +7,5 @@ la cobertura del corpus es revisen per separat.
   paral·lela.
 - `work/`: inventaris i decisions de cobertura regenerables.
 - `reports/`: informes de cobertura, exclusions i qualitat.
+- `scripts/`: inventari, validador i proves dels dos processos.
 - `output/`: exports train, validation i test, només quan estiguin revisats.
