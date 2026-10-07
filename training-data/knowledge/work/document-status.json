@@ -15,11 +15,17 @@
     ]
   },
   "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md": {
-    "status": "not_started",
+    "status": "in_progress",
     "open_units": [
       "Tesi d’Eloi Ysàs Trias no consultada directament; text de la farsa, variants, música i context complet pendents.",
       "Discrepàncies sobre cronologia d’Ordino i estat patrimonial resoltes o no segons les fonts indicades a la fitxa; revisar cada unitat abans de generar preguntes.",
       "Relació històrica entre les variants, cronologies i fonts primàries locals pendents."
+    ],
+    "conversation_ids": [
+      "ball-ossa-dallaires-i-lectura-iniciatica-001"
+    ],
+    "reviewed_units": [
+      "Paper central dels dallaires i interpretació iniciàtica atribuïda a Eloi Ysàs Trias."
     ]
   },
   "docs/temes/cultura/teatre/el-teatre-de-carnestoltes.md": {

@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 6,
+    "in_progress": 7,
     "no_natural_question": 0,
-    "not_started": 1342
+    "not_started": 1341
   },
   "documents": [
     {
@@ -158,10 +158,14 @@
       "type": "article",
       "topic": "temes/costums/danses",
       "source": "wikipedia-ball-ossa-encamp",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "ball-ossa-dallaires-i-lectura-iniciatica-001"
+      ],
+      "reviewed_units": [
+        "Paper central dels dallaires i interpretació iniciàtica atribuïda a Eloi Ysàs Trias."
+      ],
       "open_units": [
         "Tesi d’Eloi Ysàs Trias no consultada directament; text de la farsa, variants, música i context complet pendents.",
         "Discrepàncies sobre cronologia d’Ordino i estat patrimonial resoltes o no segons les fonts indicades a la fitxa; revisar cada unitat abans de generar preguntes.",
