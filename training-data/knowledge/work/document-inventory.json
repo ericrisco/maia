@@ -9,7 +9,7 @@
   "file_count": 1477,
   "article_count": 1348,
   "parse_error_count": 0,
-  "conversation_count": 41,
+  "conversation_count": 42,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 0,
@@ -1392,12 +1392,13 @@
       "topic": "temes/cultura/museus-i-arxius",
       "source": "jurisprudencia-ad",
       "status": "in_progress",
-      "conversation_count": 41,
+      "conversation_count": 42,
       "conversation_ids": [
         "diposit-legal-anuari-i-serie-numerada-001",
         "diposit-legal-bases-dades-programari-exemplars-001",
         "diposit-legal-braille-i-edicio-luxe-001",
         "diposit-legal-cartells-i-propaganda-exemplars-001",
+        "diposit-legal-cdrom-versus-online-001",
         "diposit-legal-cinema-fotoquimic-formats-001",
         "diposit-legal-cinema-llargmetratge-curtmetratge-001",
         "diposit-legal-competencia-i-caducitat-sancionadora-001",
@@ -1478,7 +1479,8 @@
         "Decret 100/2026, article 4: request for partial exemption from copy delivery, required information, ten-business-day decision and negative silence.",
         "Llei 15/2025, article 11.1.b: two copies for collectible cards and playing cards.",
         "Llei 15/2025, article 11.1.b: two copies for philatelic inserts and goigs.",
-        "Llei 15/2025, article 11.1.b: two copies for slides, transparencies and microforms."
+        "Llei 15/2025, article 11.1.b: two copies for slides, transparencies and microforms.",
+        "Llei 15/2025, articles 11.1.b and 22-25: two copies for local-access optical electronic documents versus the separate online-publication deposit regime."
       ],
       "open_units": [
         "Finish reviewing the remaining physical deposit categories and special formats, periodicals, film/television/radio, and linked regulations.",
