@@ -88,7 +88,8 @@
       "El valor de les importacions de vehicles puja de 85,39 M€ el 2010 a 337,60 M€ el 2025; el valor no indica per si sol el nombre de vehicles importats.",
       "Espanya i França passen de sumar el 89% dels destins d’exportació el 1997 al 67% el 2025; la font registra quotes d’altres mercats, però no n’explica l’origen.",
       "El pes del vestit en les exportacions baixa del 19,8% el 1993 al 2,0% el 2025; la sèrie no diu on es fabriquen els béns exportats.",
-      "La dada d’exportació del 2026 cobreix només una part de l’any i no es pot comparar directament amb els totals anuals; no prova una caiguda anual."
+      "La dada d’exportació del 2026 cobreix només una part de l’any i no es pot comparar directament amb els totals anuals; no prova una caiguda anual.",
+      "La cobertura màxima de la sèrie és del 20,7% el 2022 (367,5 M€ exportats sobre 1.773,1 M€ importats); no representa una balança equilibrada."
     ],
     "open_units": [
       "Resta revisar la resta de la fitxa: evolució anual, països d'origen i destí, capítols aranzelaris, salt exportador del 2022, períodes incomplets i límits d'interpretació."
@@ -104,7 +105,8 @@
       "comerc-importacio-vehicles-valor-2010-2025-001",
       "comerc-exportacions-nous-destins-1997-2025-001",
       "comerc-exportacions-roba-pes-1993-2025-001",
-      "comerc-exportacions-2026-parcial-001"
+      "comerc-exportacions-2026-parcial-001",
+      "comerc-cobertura-record-2022-001"
     ]
   }
 }
