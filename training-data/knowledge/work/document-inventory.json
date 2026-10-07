@@ -9,7 +9,7 @@
   "file_count": 1477,
   "article_count": 1348,
   "parse_error_count": 0,
-  "conversation_count": 145,
+  "conversation_count": 146,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 0,
@@ -1164,7 +1164,7 @@
       "topic": "temes/cultura",
       "source": "estadistica-ad",
       "status": "in_progress",
-      "conversation_count": 26,
+      "conversation_count": 27,
       "conversation_ids": [
         "afluencia-museus-monuments-serie-2017-2024-001",
         "habits-culturals-biblioteques-edat-001",
@@ -1182,6 +1182,7 @@
         "habits-culturals-prestec-llibres-i-audiovisuals-001",
         "habits-culturals-prestec-periodics-i-so-001",
         "habits-culturals-prestecs-per-usuari-i-xoc-2020-001",
+        "habits-culturals-sense-desglossament-parroquia-nacionalitat-001",
         "habits-culturals-teatre-i-multiplicitat-activitats-001",
         "habits-culturals-voluntariat-discrepancia-series-001",
         "habits-culturals-voluntariat-entitats-abast-001",
@@ -1232,7 +1233,8 @@
         "Museus i monuments: total 86.893 (2020), 222.636 (2019), 176.254 (2024); el 2024 és -20,8% del 2019, malgrat duplicar 2020. Museus -38,1%, monuments +14,7%; la font no distingeix residents i turistes.",
         "Casa d'Areny-Plandolit: 15.627 visites el 2024, més que cap museu temàtic; el rang no s'estén a monuments.",
         "Sèrie d'afluència 2017-2024, sense 2021: totals anuals de museus i monuments; ambdues cauen el 2020, però el 2024 només els monuments superen el 2019.",
-        "2023-2024: visites de museus 94.576 → 92.583 (-2,1%), monuments 74.300 → 83.671; total combinat 168.876 → 176.254 (+4,4%)."
+        "2023-2024: visites de museus 94.576 → 92.583 (-2,1%), monuments 74.300 → 83.671; total combinat 168.876 → 176.254 (+4,4%).",
+        "L'enquesta no desglossa resultats per parròquia o nacionalitat; l'absència no prova igualtat entre grups."
       ],
       "open_units": [
         "Revisar les altres activitats de l'enquesta i els seus desglossaments per edat, sexe i estudis.",
