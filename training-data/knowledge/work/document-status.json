@@ -735,6 +735,10 @@
         "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0018",
         "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0027",
         "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0028",
+        "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0040",
+        "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0041",
+        "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0042",
+        "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0043",
         "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0046",
         "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0047",
         "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0048",
@@ -745,14 +749,15 @@
         "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0056"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 53,
+      "open_unit_count": 49,
       "conversation_ids": [
         "biblioteques-prestecs-i-inscrits-2020-001",
         "canvis-habits-culturals-2019-2024-001",
         "esport-canvi-per-edat-001",
         "lectura-oci-diferencia-sexe-001",
         "lectura-oci-estudis-001",
-        "lectura-oci-ingressos-2019-001"
+        "lectura-oci-ingressos-2019-001",
+        "visites-museus-canvi-per-edat-001"
       ]
     },
     "docs/temes/cultura/cultura-d-andorra-index-de-fitxes.md": {
