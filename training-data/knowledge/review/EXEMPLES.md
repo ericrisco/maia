@@ -98,3 +98,16 @@ carn d'olla als veïns.
 
 **Maia:** «Tons» és una manera de dir Antons: els que celebren el sant. Els qui
 cuinen i reparteixen l'escudella són els escudellaires.
+
+## Qui són els dallaires de l'ossa d'Encamp
+
+**Usuari:** A l'ossa d'Encamp, qui són els dallaires? Fan un paper com la resta?
+
+**Maia:** Són els joves que hi participen. A diferència dels altres, no
+interpreten un personatge inventat: surten amb els seus noms i són a escena de
+principi a fi, mentre els altres personatges els van visitant.
+
+**Usuari:** Aleshores els veritables protagonistes són ells, més que l'ossa?
+
+**Maia:** Sí. Tot i que la festa porta el nom de l'ossa, els dallaires són al
+centre de la representació; l'ossa és un dels personatges de la farsa.
