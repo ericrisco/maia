@@ -979,5 +979,20 @@
     "reviewed_units": [
       "En la llegenda, els minairons surten del canó exigint feina i poden matar l’amo si no en reben; el relat els atribueix l’acumulació de pedres que explica les tarteres com a motiu folklòric."
     ]
+  },
+  "docs/temes/cultura/llegendes/el-roc-de-les-bruixes.md": {
+    "status": "in_progress",
+    "open_units": [
+      "Els dos primers grups de gravats no tenen datació absoluta ni mètode de datació especificat a la fitxa del Govern.",
+      "El relat complet i les variants de la llegenda no consten al corpus.",
+      "El règim d’accés actual no queda verificat; la notícia consultada només documenta la posició ministerial de 2018.",
+      "L’Arxiu Nacional encara no s’ha consultat."
+    ],
+    "conversation_ids": [
+      "roc-bruixes-gravats-datacio-i-llegenda-001"
+    ],
+    "reviewed_units": [
+      "El Govern descriu tres grups de gravats i només qualifica de probablement medievals les figures humanes i el cavall; la creença sobre les bruixes és una interpretació popular, no una datació ni una atribució arqueològica."
+    ]
   }
 }

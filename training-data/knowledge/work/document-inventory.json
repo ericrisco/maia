@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 67,
+    "in_progress": 68,
     "no_natural_question": 0,
-    "not_started": 1281
+    "not_started": 1280
   },
   "documents": [
     {
@@ -1571,11 +1571,20 @@
       "type": "article",
       "topic": "temes/cultura/llegendes",
       "source": "viquipedia-ca",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "roc-bruixes-gravats-datacio-i-llegenda-001"
+      ],
+      "reviewed_units": [
+        "El Govern descriu tres grups de gravats i només qualifica de probablement medievals les figures humanes i el cavall; la creença sobre les bruixes és una interpretació popular, no una datació ni una atribució arqueològica."
+      ],
+      "open_units": [
+        "Els dos primers grups de gravats no tenen datació absoluta ni mètode de datació especificat a la fitxa del Govern.",
+        "El relat complet i les variants de la llegenda no consten al corpus.",
+        "El règim d’accés actual no queda verificat; la notícia consultada només documenta la posició ministerial de 2018.",
+        "L’Arxiu Nacional encara no s’ha consultat."
+      ],
       "completion_note": "",
       "reason": ""
     },
