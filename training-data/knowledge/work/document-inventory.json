@@ -2,7 +2,7 @@
   "source_root": "docs/temes/",
   "file_count": 1477,
   "article_count": 1348,
-  "conversation_count": 32,
+  "conversation_count": 33,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 1,
@@ -16632,14 +16632,15 @@
       "topic": "temes/institucions/relacions-exteriors",
       "source": "jurisprudencia-ad",
       "status": "in_progress",
-      "conversation_count": 6,
+      "conversation_count": 7,
       "conversation_ids": [
         "bens-sense-propietari-identificat-001",
         "comis-estranger-execucio-i-destinacio-001",
         "cooperacio-penal-exculpacio-i-ús-informacio-001",
         "cooperacio-penal-portes-dentrada-001",
         "cooperacio-penal-vuit-filtres-i-divisio-001",
-        "secret-bancari-enregistraments-cooperacio-001"
+        "secret-bancari-enregistraments-cooperacio-001",
+        "testimoni-detingut-trasllat-temporal-001"
       ],
       "reviewed_units": [
         "Llei 32/2021, arts. 9–11: via ordinària i urgent per rebre peticions d’auxili penal i regla per a citacions a judici.",
@@ -16647,7 +16648,8 @@
         "Articles 5, 6 i 8: excepció exculpatòria amb consentiment i límits d’especialitat/compromís previ per a la informació.",
         "Articles 36, 38 i 39: sentències penals estrangeres, excepció del comís, límits de revisió andorrana i destinació dels béns comissats.",
         "Articles 23, 38 i 39: embargament preventiu i comís de béns/diners/valors sense propietaris legítims identificats; distingit de l’adjudicació final.",
-        "Articles 32, 34 i 35: autorització judicial de mesures sobre comptes/intercepcions; abast desconegut del secret bancari; destrucció de fragments irrellevants i còpies amb omissions protegides."
+        "Articles 32, 34 i 35: autorització judicial de mesures sobre comptes/intercepcions; abast desconegut del secret bancari; destrucció de fragments irrellevants i còpies amb omissions protegides.",
+        "Articles 12 i 14: trasllat temporal d’una persona detinguda per declarar com a testimoni, garanties de consentiment/retorn i despeses del viatge."
       ],
       "open_units": [
         "Procediments, terminis, costos i detalls operatius dels articles 12–24.",
