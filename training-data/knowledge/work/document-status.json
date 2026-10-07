@@ -231,7 +231,8 @@
       "manuscrit-palmitjavila-datacio-despres-1607-01",
       "manuscrit-extracte-paragraf-deu-original-no-localitzat-01",
       "manuscrit-vers-brutails-habitants-vs-establerts-01",
-      "quarta-penyores-mobles-vs-immobles-lectura-ambigua-01"
+      "quarta-penyores-mobles-vs-immobles-lectura-ambigua-01",
+      "collita-no-cobreix-deute-altres-bens-01"
     ],
     "reviewed_units": [
       "embargament de collita només després de la sega; possible relació amb calendari de feriats marcada com a hipòtesi, no com a regla coordinada",
@@ -252,12 +253,13 @@
       "datació i identitat: evidència que el manuscrit és posterior al febrer de 1607; la referència al segle XVI podria ser un altre text, però no se’n confirma la identitat; no hi ha terminus ante quem",
       "límits del testimoni: els nou primers paràgrafs no apareixen a l’extracte; Brutails no en dona signatura ni localització, de manera que el corpus no en reconstrueix el contingut ni identifica on es conserva l’original",
       "divergència entre el manuscrit i la glossa de Brutails: el primer parla d’habitants i el comentari d’andorrans establerts; el corpus els atribueix separadament i no els considera equivalents per definició",
-      "quarta part: a favor del creditor en la taxació de mobles i bestiar; direcció ambigua per als immobles, sense extrapolar-hi la regla mobiliària"
+      "quarta part: a favor del creditor en la taxació de mobles i bestiar; direcció ambigua per als immobles, sense extrapolar-hi la regla mobiliària",
+      "insuficiència de collita hipotecada: la resta es podia cobrar sobre altres béns de la casa segons les clàusules de l’obligació; el manuscrit no concreta els béns ni el procediment"
     ],
     "open_units": [
       "vigència i relacions: no consta si el procediment encara regia el 1740 ni què va passar entre els dos textos; no hi ha acte de derogació o substitució identificat",
       "terminologia: què designa exactament «prom» i si és el mateix ofici que prohom jurat; sentit jurídic dels mots no contrastat amb diccionari",
-      "execució restant: collita insuficient; aplicació real del termini d’un any i un dia; relació amb la Instructa de 1740, sense acte de substitució identificat"
+      "recobrament i pràctica: aplicació real del termini d’un any i un dia; coincidències i diferències amb la Instructa de 1740, sense continuïtat demostrada"
     ]
   }
 }
