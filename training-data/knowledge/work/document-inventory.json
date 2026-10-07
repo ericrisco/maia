@@ -170,13 +170,14 @@
       "topic": "temes/costums/danses",
       "source": "wikipedia-ball-ossa-encamp",
       "status": "in_progress",
-      "conversation_count": 24,
+      "conversation_count": 25,
       "conversation_ids": [
         "carnaval-encamp-ossa-i-contrabandistes",
         "danses-parroquies-i-sardana-importada-01",
         "ordino-ossa-discrepancia-1978-1985",
         "ossa-encamp-anonimat-dallaires-01",
         "ossa-encamp-balli-despres-de-farsa",
+        "ossa-encamp-cavaller-servent-amades",
         "ossa-encamp-dallaires-i-ritus-de-pas-01",
         "ossa-encamp-dallaires-sega-escena",
         "ossa-encamp-disfressa-i-interpretacio",
@@ -222,7 +223,8 @@
         "a la versió d’Amades, el rusc és una construcció de cartó; l’ossa s’hi acosta per mel, els figurants entren en pànic i un caçador la mata, tancant la farsa",
         "la lectura territorial de la farsa d’Ordino atribuïda a Masegosa és diferent de la hipòtesi general d’origen ritual medieval basada en el culte als ossos",
         "en la versió d’Amades de 1950, dos minyons feien de dallaires i simulaven dallar el prat; la font no diu que fossin segadors professionals",
-        "el guió de Sícoris de 1959 no està al corpus, tot i que es diu que encara és l’esquema de la representació; es diferencia de la descripció d’Amades de 1950"
+        "el guió de Sícoris de 1959 no està al corpus, tot i que es diu que encara és l’esquema de la representació; es diferencia de la descripció d’Amades de 1950",
+        "en el relat d’Amades, el cavaller i el servent precedeixen l’aparició de l’ossa; el servent tem que hi hagi un ós a la vora, però és el caçador qui la mata"
       ],
       "completion_note": "",
       "reason": ""

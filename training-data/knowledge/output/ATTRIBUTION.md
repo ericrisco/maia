@@ -63,6 +63,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - Viquipèdia en català, article «Ball de l’ossa d’Encamp», llicència CC BY-SA 4.0; descripció atribuïda a Joan Amades, *Costumari Català* (1950), p. 674.
 - Viquipèdia en català, article «Ball de l’ossa d’Encamp», llicència CC BY-SA 4.0; descripció de Joan Amades, *Costumari Català* (1950), p. 674.
 - Viquipèdia en català, article «Ball de l’ossa d’Encamp», llicència CC BY-SA 4.0; el passatge històric es presenta com una descripció de Joan Amades publicada el 1950.
+- Viquipèdia en català, article «Ball de l’ossa d’Encamp», llicència CC BY-SA 4.0; escena atribuïda a Joan Amades, *Costumari Català* (1950), p. 674.
 - Viquipèdia en català, article «Ball de l’ossa d’Encamp», llicència CC BY-SA 4.0; informació sobre el guió de Rossend Marsol Clua, àlies Sícoris, i la descripció anterior d’Amades.
 - Viquipèdia en català, article «Ball de l’ossa d’Encamp», llicència CC BY-SA 4.0; la font descriu «Els contrabandistes» i «L’ossa» com a farses complementàries en dies consecutius.
 - Viquipèdia en català, article «Ball de l’ossa d’Encamp», llicència CC BY-SA 4.0; la interpretació simbòlica s’hi atribueix a Eloi Ysàs Trias.
@@ -126,6 +127,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - La fitxa de Viquipèdia és CC BY-SA 4.0. La resposta parafraseja breument la descripció d’Amades i no en reprodueix la citació extensa, que la font secundària marca amb «citació necessària».
 - La fitxa de Viquipèdia és CC BY-SA 4.0. La resposta parafraseja breument l’escena d’Amades sense reproduir la citació extensa marcada amb «citació necessària».
 - La fitxa de Viquipèdia és CC BY-SA 4.0. La resposta parafraseja el passatge atribuït a Amades i no en reprodueix la citació extensa.
+- La fitxa de Viquipèdia és CC BY-SA 4.0. La resposta parafraseja l’escena sense reproduir la citació extensa d’Amades.
 - La fitxa de Viquipèdia és CC BY-SA 4.0. La resposta parafraseja una dada breu i no reprodueix la citació extensa d’Amades.
 - La fitxa de Viquipèdia és CC BY-SA 4.0. La resposta parafraseja una variant breument i no copia la citació extensa d’Amades, que la font secundària marca amb «citació necessària».
 - La fitxa de Viquipèdia és CC BY-SA 4.0. La tesi d’Ysàs citada no s’ha pogut consultar directament; la lectura s’atribueix a la font secundària i la resposta és una paràfrasi breu.
