@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 9,
+    "in_progress": 10,
     "no_natural_question": 0,
-    "not_started": 1339
+    "not_started": 1338
   },
   "documents": [
     {
@@ -13790,8 +13790,9 @@
       "topic": "temes/institucions/justicia",
       "source": "brutails-coutume-1904",
       "status": "in_progress",
-      "conversation_count": 7,
+      "conversation_count": 8,
       "conversation_ids": [
+        "embargament-en-feriat-i-hipotesi-sega-01",
         "feriats-1902-62-dies-no-total-anual-01",
         "feriats-1902-sete-epigraf-afegit-marge-01",
         "feriats-estiu-sega-llista-antiga-no-rao-1902-01",
@@ -13807,7 +13808,8 @@
         "doble numeració del setè epígraf: afegit sobre Organyà al marge, segellat per segona vegada i numeració no corregida; cap desacord registrat",
         "62 dies datats són un subtotal del recompte del corpus, no el total anual; diumenges i períodes mòbils requereixen càlcul per any sense solapaments",
         "tancament d’estiu del 25 de juliol al 17 d’agost sense motiu a la llista de 1902; possible context agrícola només consta en una llista antiga",
-        "termini d’apel·lació: deu dies de rigor més tres de gràcia, només dies hàbils; exemple de 12 a 28 de gener"
+        "termini d’apel·lació: deu dies de rigor més tres de gràcia, només dies hàbils; exemple de 12 a 28 de gener",
+        "efecte diferent dels feriats sobre terminis i embargaments; hipòtesi de relació amb la sega separada dels fets escrits"
       ],
       "open_units": [
         "altres fires i trams de tancament de la llista de 1902 i la numeració duplicada de l’epígraf setè",
@@ -14959,10 +14961,14 @@
       "type": "article",
       "topic": "temes/institucions/justicia",
       "source": "brutails-coutume-1904",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "embargament-en-feriat-i-hipotesi-sega-01"
+      ],
+      "reviewed_units": [
+        "embargament de collita només després de la sega; possible relació amb calendari de feriats marcada com a hipòtesi, no com a regla coordinada"
+      ],
       "open_units": [],
       "completion_note": "",
       "reason": ""
