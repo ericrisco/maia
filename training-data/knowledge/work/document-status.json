@@ -983,12 +983,14 @@
         "docs/temes/cultura/llegendes/el-tamarro.md#unit-0004",
         "docs/temes/cultura/llegendes/el-tamarro.md#unit-0005",
         "docs/temes/cultura/llegendes/el-tamarro.md#unit-0014",
+        "docs/temes/cultura/llegendes/el-tamarro.md#unit-0020",
         "docs/temes/cultura/llegendes/el-tamarro.md#unit-0022"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 23,
+      "open_unit_count": 22,
       "conversation_ids": [
         "tamarro-cacera-i-cronologia-001",
+        "tamarro-dinosaure-insperatus-001",
         "tamarro-distribucio-i-variants-001",
         "tamarro-mascota-jocs-1991-001"
       ]
