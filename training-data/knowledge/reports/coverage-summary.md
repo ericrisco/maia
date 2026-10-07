@@ -4,10 +4,10 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 
 - Documents inventariats: **1477** (1348 articles).
 - Unitats estructurals totals: **62911**.
-- Unitats cobertes per converses aprovades: **62** (0.099%).
-- Unitats excloses amb motiu: **0**.
-- Unitats encara obertes: **62849**.
-- Converses candidates: **13**; aprovades: **13**.
+- Unitats cobertes per converses aprovades: **75** (0.119%).
+- Unitats excloses amb motiu: **2**.
+- Unitats encara obertes: **62834**.
+- Converses candidates: **14**; aprovades: **14**.
 
 ## Estat per tema
 
@@ -25,7 +25,7 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 | `temes/costums/religiositat` | 5 | 292 | 0 | 0 | 292 |
 | `temes/costums/ritus-de-pas` | 2 | 51 | 0 | 0 | 51 |
 | `temes/costums/sant-antoni` | 1 | 19 | 0 | 0 | 19 |
-| `temes/cultura` | 1 | 73 | 57 | 0 | 16 |
+| `temes/cultura` | 1 | 73 | 70 | 2 | 1 |
 | `temes/cultura/andorra-vista-de-fora` | 6 | 280 | 0 | 0 | 280 |
 | `temes/cultura/arquitectura` | 11 | 216 | 0 | 0 | 216 |
 | `temes/cultura/artesania` | 2 | 138 | 0 | 0 | 138 |
@@ -140,3 +140,7 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 | `temes/vida-quotidiana/geografia-mental` | 1 | 23 | 0 | 0 | 23 |
 | `temes/vida-quotidiana/humor` | 1 | 18 | 0 | 0 | 18 |
 | `temes/vida-quotidiana/referents-compartits` | 1 | 34 | 0 | 0 | 34 |
+
+## Exclusions per motiu
+
+- `not_knowledge`: 2.
