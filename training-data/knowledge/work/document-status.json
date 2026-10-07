@@ -449,7 +449,7 @@
       "title": "L'estafa d'Andorra, el documental",
       "type": "article",
       "topic": "temes/cultura/andorra-vista-de-fora",
-      "status": "in_progress",
+      "status": "complete",
       "unit_count": 52,
       "covered_unit_ids": [
         "docs/temes/cultura/andorra-vista-de-fora/lestafa-dandorra.md#unit-0003",
@@ -493,8 +493,8 @@
         "docs/temes/cultura/andorra-vista-de-fora/lestafa-dandorra.md#unit-0042",
         "docs/temes/cultura/andorra-vista-de-fora/lestafa-dandorra.md#unit-0043"
       ],
-      "excluded_unit_count": 10,
-      "open_unit_count": 2,
+      "excluded_unit_count": 12,
+      "open_unit_count": 0,
       "conversation_ids": [
         "andorra-hustle-difusio-no-prova-001",
         "andorra-hustle-entrevistats-i-abast-001",
