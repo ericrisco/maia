@@ -1132,17 +1132,18 @@
       "topic": "temes/cultura/llegendes",
       "source": "wikipedia-llegendes-andorra",
       "status": "in_progress",
-      "conversation_count": 1,
+      "conversation_count": 2,
       "conversation_ids": [
-        "minairo-cano-i-tarteres-001"
+        "minairo-cano-i-tarteres-001",
+        "minairo-herba-sant-joan-001"
       ],
       "reviewed_units": [
         "Els minairons són follets diminuts que, segons la tradició, caben per milers en un canó; en sortir demanen feina i maten l'amo si no els en mana.",
-        "La llegenda explica algunes tarteres com a pedres apilades pels minairons per ordre d'un amo desesperat."
+        "La llegenda explica algunes tarteres com a pedres apilades pels minairons per ordre d'un amo desesperat.",
+        "La tradició situa el naixement dels minairons a l'herba menaironera o herba de Sant Joan, que floreix i grana al solstici; algunes versions la identifiquen amb una falguera, però la font no resol la botànica ni si el minairó és la llavor. L'herba creix en coves fondes guardades per gegants i dracs, accessibles a mitjanit de Sant Joan."
       ],
       "open_units": [
-        "L'herba menaironera i les variants pròpies d'Andorra no estan tractades en conversa.",
-        "Les cases andorranes atribuïdes als minairons i altres detalls de noms locals continuen oberts."
+        "Les variants pròpies d'Andorra, les cases associades als minairons i els noms locals encara no estan tractats en converses."
       ],
       "completion_note": "",
       "reason": ""
