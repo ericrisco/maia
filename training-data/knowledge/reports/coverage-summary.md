@@ -4,14 +4,14 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 
 - Fitxes article: **1348**.
 - Fitxers totals, inclosos índexs: **1477**.
-- Converses candidates: **34**.
+- Converses candidates: **35**.
 
 | Estat de revisió | Fitxes |
 |---|---:|
 | Revisades completes | 2 |
-| En curs | 7 |
+| En curs | 8 |
 | Revisades sense pregunta natural | 0 |
-| No començades | 1339 |
+| No començades | 1338 |
 
 ## Estat per tema
 
@@ -121,7 +121,7 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 | `temes/societat/mitjans` | 5 | 5 | 0 | 0 | 0 |
 | `temes/societat/proteccio-social` | 4 | 4 | 0 | 0 | 0 |
 | `temes/societat/sanitat` | 19 | 19 | 0 | 0 | 0 |
-| `temes/societat/treball` | 18 | 18 | 0 | 0 | 0 |
+| `temes/societat/treball` | 18 | 17 | 1 | 0 | 0 |
 | `temes/societat/vida-civica` | 8 | 8 | 0 | 0 | 0 |
 | `temes/territori/clima-i-muntanya` | 14 | 14 | 0 | 0 | 0 |
 | `temes/territori/fauna-i-flora` | 5 | 5 | 0 | 0 | 0 |
