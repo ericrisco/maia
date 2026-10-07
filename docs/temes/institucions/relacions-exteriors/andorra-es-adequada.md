@@ -124,6 +124,15 @@ l'estat, que el text original no tenia:
 **El 2010 la pregunta era si les empreses andorranes tractaven bé les dades. Des
 del 2016 la pregunta inclou si l'estat andorrà hi accedeix més del necessari.**
 
+**El motiu de la reforma era europeu, no una sanció específica contra Andorra.**
+La Decisió 2016/2295 respon a la sentència *Schrems* del TJUE, que va aclarir
+que les autoritats nacionals de control mantenien els poders d'investigació i
+intervenció previstos per la Directiva. La Comissió va modificar diverses
+decisions d'adequació i va establir-ne la vigilància continuada, també pel que
+fa a l'accés de les autoritats públiques a dades personals
+([font](../../../fonts/eur-lex-decisio-adequacio-2016-2295.md)). La decisió no
+atribueix aquesta reforma a cap incompliment andorrà concret.
+
 I l'article 3 vigent és **més curt** que l'original: on el text del 2010
 enumerava **dos casos taxats** en què un estat membre podia suspendre els fluxos
 —incompliment declarat per l'autoritat andorrana, o risc imminent de dany greu
@@ -170,12 +179,10 @@ L'informe de revisió de 2024 ja pren en consideració la Llei 29/2021 i manté 
 conclusió d'adequació; això no equival a una decisió nova ni permet deduir quan
 serà la revisió següent.
 
-~~**La Decisió (UE) 2016/2295 no s'ha llegit.**~~ — **`parcial` el
-19-09-2026**: el [text consolidat de la Decisió 2010/625, modificat el
-2016](../../../raw/relacions-exteriors/adequacio-2010-consolidat-2016.txt), ja
-ha estat llegit en la part dispositiva. La modificació afegeix l'article 3 i
-reforça l'article 4 sobre vigilància de l'accés de les autoritats públiques;
-el preàmbul autònom i la seva motivació encara no s'han llegit sencers.
+~~**La Decisió (UE) 2016/2295 no s'havia llegit sencera.**~~ — **`resolt` el
+2026-10-07**: el text oficial complet explica que respon a la sentència
+*Schrems* i que la reforma és general per a diverses decisions d'adequació; no
+la presenta com una sanció específica contra Andorra.
 
 **El règim andorrà de transferències internacionals, en canvi, sí que s'ha
 llegit.** Els articles 42 a 45 de la Llei 29/2021 fixen un criteri andorrà

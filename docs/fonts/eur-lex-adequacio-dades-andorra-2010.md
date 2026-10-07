@@ -41,8 +41,12 @@ de fi.
 
 ## Buits registrats
 
-**La Decisió (UE) 2016/2295 no s'ha llegit.** El corpus n'ha llegit **el
-resultat** al text consolidat, no l'acte ni els seus motius.
+**La Decisió (UE) 2016/2295** s'ha llegit sencera a
+[EUR-Lex](./eur-lex-decisio-adequacio-2016-2295.md). El seu preàmbul explica
+que la modificació respon a la sentència *Schrems* del TJUE sobre els poders de
+les autoritats nacionals de control i l'obligació de la Comissió de revisar
+periòdicament les decisions d'adequació. La motivació és general per a diverses
+decisions; no identifica un incompliment específic d'Andorra.
 
 **Cap de les quatre normes andorranes que la decisió invoca no és al corpus:**
 la **Llei qualificada 15/2003, de 18 de desembre, de protecció de dades

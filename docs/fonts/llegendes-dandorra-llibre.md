@@ -1,7 +1,7 @@
 ---
 type: font
 id: llegendes-dandorra-llibre
-title: "Llegendes d'Andorra" (edició d'Anem, 2023)
+title: Llegendes d'Andorra (edició d'Anem, 2023)
 titular: Àlvar Valls i Roser Carol · Anem Editors
 autor: Roser Carol; Àlvar Valls
 publicacio: "Llegendes d'Andorra, primera edició d'Anem Editors, 2023, ISBN 978-84-18865-27-5"

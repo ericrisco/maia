@@ -2,7 +2,7 @@
 
 # Índex del cervell andorrà
 
-**1388** documents · **627** fonts · **40** aptes com a model de llengua · **127** temes amb contingut.
+**1388** documents · **644** fonts · **40** aptes com a model de llengua · **127** temes amb contingut.
 
 ## parla/oral
 
@@ -2077,6 +2077,7 @@
 | [`archives-diplomatiques-reforma-1866`](fonts/archives-diplomatiques-reforma-1866.md) | Ministère des Affaires étrangères de France · Centre des archives diplomatiques de La Courneuve | condicions de reproducció i reutilització dels Archives diplomatiques; el portal mostra llicència Etalab per al web | subjecta a les condicions del portal |
 | [`archives-diplomatiques-reforma-1867`](fonts/archives-diplomatiques-reforma-1867.md) | Ministère des Affaires étrangères de France · Centre des archives diplomatiques de La Courneuve | condicions de reproducció i reutilització dels Archives diplomatiques; el portal mostra llicència Etalab per al web | subjecta a les condicions del portal |
 | [`ari-aiguats-1982-2022`](fonts/ari-aiguats-1982-2022.md) | Andorra Recerca i Innovació · Institut Cartogràfic i Geològic de Catalunya | publicació institucional i tècnica en accés públic; sense llicència de redistribució declarada | pendent |
+| [`ari-capsula-34`](fonts/ari-capsula-34.md) | Andorra Recerca + Innovació (AR+I) | Creative Commons Attribution (reuse allowed), declarada per YouTube per a aquesta peça | si |
 | [`ari-capsules`](fonts/ari-capsules.md) | Andorra Recerca + Innovació (AR+I) | YouTube declara Creative Commons Attribution en vídeos individuals; verificació per peça, no per sèrie. Verificada a #34, #49, #56, #57, #60 i #65. | pendent |
 | [`ari-carta-pobla-2018`](fonts/ari-carta-pobla-2018.md) | Institut d'Estudis Andorrans · Andorra Recerca + Innovació | publicació institucional en accés públic; sense llicència de redistribució declarada | pendent |
 | [`ari-enquesta-opinio-politica-2025`](fonts/ari-enquesta-opinio-politica-2025.md) | Andorra Recerca + Innovació (AR+I), successora del CRES-IEA | publicació institucional, sense llicència declarada | pendent |
@@ -2115,7 +2116,8 @@
 | [`asc-04505-04506-collegi-foix-sucara-1672`](fonts/asc-04505-04506-collegi-foix-sucara-1672.md) | Arxiu Nacional d’Andorra · Arxiu de les Set Claus | Fitxes públiques amb consulta i rendicions; no consta una llicència específica de reutilització | Imatges de consulta conservades per a recerca interna; no es publica una transcripció reutilitzable |
 | [`asc-04538-restriccio-emigrats-francesos-1904`](fonts/asc-04538-restriccio-emigrats-francesos-1904.md) | Arxiu Nacional d’Andorra · Arxiu de les Set Claus | Fitxa pública amb consulta, previsualització i descàrrega; no consta una llicència específica de reutilització | Rendicions d’imatge conservades per a recerca interna; no es publica una transcripció reutilitzable |
 | [`asc-04549-conveni-apotecari-balmes-1737`](fonts/asc-04549-conveni-apotecari-balmes-1737.md) | Arxiu Nacional d’Andorra · Arxiu de les Set Claus | Fitxa pública amb consulta, previsualització i descàrrega; no consta una llicència específica de reutilització | Rendicions d’imatge conservades per a recerca interna; no es publica una transcripció reutilitzable |
-| [`asc-04695-sentencia-taxes-saigs-1456`](fonts/asc-04695-sentencia-taxes-saigs-1456.md) | Arxiu Nacional d’Andorra · Arxiu de les Set Claus | Fitxa pública amb consulta i rendicions; no consta una llicència específica de reutilització | Imatges de consulta conservades per a recerca interna; no es publica una transcripció reutilitzable |
+| [`asc-04695-sentencia-taxes-saigs-1456`](fonts/asc-04695-sentencia-taxes-saigs-1456.md) | Arxiu Nacional d’Andorra · Arxiu de les Set Claus | No consta una llicència específica per a aquest document. Els termes generals de l'Arxiu Nacional reserven els drets dels continguts i exigeixen autorització per reproduir-los, distribuir-los o transformar-los. La clàusula de descàrrega d'imatges limita l'ús a finalitats privades o de recerca/docència no comercials, sense difusió ni modificació.
+ | No consta permís per entrenar ni redistribuir una transcripció; cal autorització específica. |
 | [`asc-04696-sentencia-ramats-gascunya-1468`](fonts/asc-04696-sentencia-ramats-gascunya-1468.md) | Arxiu Nacional d’Andorra · Arxiu de les Set Claus | Fitxa pública amb permisos de consulta i descàrrega; no consta una llicència específica de reutilització | PDF digitalitzat conservat per a recerca interna; no es publica com a text reutilitzable |
 | [`asc-05249-conveni-banc-agricol-caixa-pensions-1934`](fonts/asc-05249-conveni-banc-agricol-caixa-pensions-1934.md) | Arxiu Nacional d’Andorra · Arxiu de les Set Claus | Fitxa pública amb consulta, previsualització i descàrrega; no consta una llicència específica de reutilització | Es conserva una previsualització pública; no es publica una transcripció ni el document complet |
 | [`asc-05521-05573-telegraf-1882-1897`](fonts/asc-05521-05573-telegraf-1882-1897.md) | Arxiu Nacional d’Andorra · Arxiu de les Set Claus | Fitxes amb View, Preview i Download; sense llicència específica de reutilització | pendent |
@@ -2178,6 +2180,7 @@
 | [`bopa-edicte-2011-ajudes-esportives`](fonts/bopa-edicte-2011-ajudes-esportives.md) | Govern d'Andorra | publicació oficial de lliure consulta | si (document públic) |
 | [`bopa-edicte-2024-raonador-designacio`](fonts/bopa-edicte-2024-raonador-designacio.md) | Consell General d'Andorra | publicació oficial de lliure consulta | si (document públic) |
 | [`bopa-edictes-contractacio-ensenyants-1990-1997`](fonts/bopa-edictes-contractacio-ensenyants-1990-1997.md) | Govern d'Andorra | publicació oficial de lliure consulta | si (document públic) |
+| [`bopa-llei-18-2026-codi-penal`](fonts/bopa-llei-18-2026-codi-penal.md) | Servei del Butlletí Oficial del Principat d'Andorra · Govern d'Andorra | condicions generals d'utilització de la informació de la seu electrònica del BOPA | si |
 | [`bopa-llei-associacions-2000`](fonts/bopa-llei-associacions-2000.md) | Consell General | publicació oficial de lliure consulta | si (document públic) |
 | [`bopa-llei-enade-1996`](fonts/bopa-llei-enade-1996.md) | Consell General | publicació oficial de lliure consulta | si (document públic) |
 | [`bopa-subvencions-culturals-2010`](fonts/bopa-subvencions-culturals-2010.md) | Govern d'Andorra | publicació oficial de lliure consulta | si (document públic) |
@@ -2198,6 +2201,7 @@
 | [`caro-charles-860`](fonts/caro-charles-860.md) | Corpus des actes royaux de la France médiévale (CARo) | Licence Etalab 2.0 per a l'edició digital CARo; l'edició bibliogràfica original conserva els seus drets | derivat digital CARo reutilitzable segons Etalab 2.0; no es redistribueix una edició nova del llibre de 1943 |
 | [`cass-ad`](fonts/cass-ad.md) | Caixa Andorrana de Seguretat Social | drets reservats; reutilització subjecta a autorització del titular | pendent |
 | [`cass-informacio-institucional`](fonts/cass-informacio-institucional.md) | Caixa Andorrana de Seguretat Social (CASS) | pàgina institucional pública | pendent |
+| [`cathalaunia-d01228-843`](fonts/cathalaunia-d01228-843.md) | Fons Cathalaunia | drets reservats; no s'ha localitzat cap llicència ni avís de reutilització publicat al domini de consulta | pendent |
 | [`cavero-parlamentarisme-segle-xx`](fonts/cavero-parlamentarisme-segle-xx.md) | Pere Cavero i Muñoz · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`cerqueda-banca`](fonts/cerqueda-banca.md) | Manel Cerqueda i Donadeu · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`cervantesvirtual-edicio-andorra`](fonts/cervantesvirtual-edicio-andorra.md) | EDI-RED (Editores y Editoriales Iberoamericanos, siglos XIX-XXI) | portal acadèmic, accés obert | citacio |
@@ -2210,7 +2214,10 @@
 | [`codina-carbo-farga-2010`](fonts/codina-carbo-farga-2010.md) | Olivier Codina i Vialette · Societat Andorrana de Ciències | Publicació acadèmica en accés públic; no hi consta una llicència específica de redistribució | no |
 | [`coma-ad-institucional`](fonts/coma-ad-institucional.md) | Col·legi Oficial de Metges d'Andorra (COMA) | publicació institucional, sense llicència declarada | pendent |
 | [`comas-pujadas-andorra-pais-frontera-1997`](fonts/comas-pujadas-andorra-pais-frontera-1997.md) | Dolors Comas d'Argemir i Joan Josep Pujadas Muñoz | drets reservats | False |
+| [`comu-canillo-sant-serni-web`](fonts/comu-canillo-sant-serni-web.md) | Comú de Canillo | copyright © 2026; no s'ha identificat una llicència oberta ni una autorització general de reutilització | False |
 | [`comu-encamp-carnaval-2026`](fonts/comu-encamp-carnaval-2026.md) | Comú d'Encamp, Comunicació Encamp | Drets reservats; document institucional | False |
+| [`comu-encamp-liquidacio-2020`](fonts/comu-encamp-liquidacio-2020.md) | Comú d'Encamp | Cap llicència oberta identificada per al PDF; l'abast de les condicions del Comú sobre aquest document no queda verificat. | pendent |
+| [`comu-la-massana-web`](fonts/comu-la-massana-web.md) | Comú de la Massana | No declarada en les pàgines consultades; l'avís legal de la seu electrònica no estableix una llicència de reutilització del contingut web. | pendent |
 | [`comu-sant-julia-privilegis-vitualles-1606`](fonts/comu-sant-julia-privilegis-vitualles-1606.md) | Comú de Sant Julià de Lòria | Publicació institucional; termes de reutilització no especificats | False |
 | [`consell-general-bcg-2018-21`](fonts/consell-general-bcg-2018-21.md) | Consell General, publicador; Ponència i Comissió Legislativa d'Afers Socials | pendent de determinar per a la peça concreta | pendent |
 | [`consell-general-bcg-2021-23`](fonts/consell-general-bcg-2021-23.md) | Consell General, publicador; Govern d'Andorra, autor de la resposta | pendent de determinar per a la peça concreta | pendent |
@@ -2242,6 +2249,7 @@
 | [`cr-31883-enviaments-ferro-1808`](fonts/cr-31883-enviaments-ferro-1808.md) | Arxiu Nacional d’Andorra · Casa Rossell | Fitxa pública amb consulta, previsualització i descàrrega; no consta una llicència específica de reutilització | Rendicions d’imatge conservades per a recerca interna; no es publica una transcripció reutilitzable |
 | [`cr-31892-rebut-dandine-ferro-1812`](fonts/cr-31892-rebut-dandine-ferro-1812.md) | Arxiu Nacional d’Andorra · Casa Rossell | Fitxa pública amb consulta, previsualització i descàrrega; no consta una llicència específica de reutilització | Rendició d’imatge conservada per a recerca interna; no es publica una transcripció reutilitzable |
 | [`crbmc-butlla-silvestre-ii-1001`](fonts/crbmc-butlla-silvestre-ii-1001.md) | Centre de Restauració de Béns Mobles de Catalunya · Generalitat de Catalunya | publicació institucional; sense llicència oberta identificada | False |
+| [`cultura-popular-ad`](fonts/cultura-popular-ad.md) | Govern d'Andorra · Ministeri de Cultura, Joventut i Esports | Avís legal: propietat intel·lectual del Govern o de tercers; reproducció i reutilització subjectes a consentiment previ i per escrit. | False |
 | [`dalleres-coprincipat-parlamentari`](fonts/dalleres-coprincipat-parlamentari.md) | Josep Dallerès i Codina · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`dalmau-historia-1849`](fonts/dalmau-historia-1849.md) | Domini públic. Exemplar digitalitzat per la Library of Congress | La Library of Congress declara no tenir constancia de cap restriccio de drets sobre l'item | si |
 | [`dcg-18-1990-reforma-institucional`](fonts/dcg-18-1990-reforma-institucional.md) | Consell General de les Valls | acta parlamentària pública; llicència específica no indicada | no; es conserva per a lectura i citació |
@@ -2283,6 +2291,7 @@
 | [`escacsandorra-peona-i-peo-2025`](fonts/escacsandorra-peona-i-peo-2025.md) | Escacs Andorra / GEVA-CEA | Pàgina web pública; sense llicència de redistribució declarada | pendent |
 | [`escaler-cambra-de-comerc`](fonts/escaler-cambra-de-comerc.md) | Pilar Escaler i Penella · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`escribano-musica`](fonts/escribano-musica.md) | Josep Maria Escribano i Casaldàliga · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
+| [`estadistica-a001-a003-2023-altaveu`](fonts/estadistica-a001-a003-2023-altaveu.md) | Departament d'Estadística d'Andorra (autoria indicada a la còpia); Altaveu (allotjament) | L'avís legal d'Altaveu consultat el 04-10-2026 no declara una llicència ni un permís de redistribució aplicable a aquesta còpia. | pendent |
 | [`estadistica-ad`](fonts/estadistica-ad.md) | Govern d'Andorra · Departament d'Estadística | CC BY 4.0 per a la informació estadística pròpia, llevat d'indicació contrària | si |
 | [`estadistica-cens-electors-nacional`](fonts/estadistica-cens-electors-nacional.md) | Secretaria General, via API pública del Departament d'Estadística | dades públiques | citacio |
 | [`estadistica-habitatges-turistics`](fonts/estadistica-habitatges-turistics.md) | Departament d'Estadística, Govern d'Andorra | dades públiques | citacio |
@@ -2290,6 +2299,8 @@
 | [`esteves-exili-i-evasions`](fonts/esteves-exili-i-evasions.md) | Sergi Esteves Lorenzo · Universitat de Barcelona | accés obert al Dipòsit Digital de la UB | pendent |
 | [`eur-lex-acord-ce-andorra-1990`](fonts/eur-lex-acord-ce-andorra-1990.md) | Unió Europea · Oficina de Publicacions (edició al Diari Oficial). Parts de l'acord: el Principat d'Andorra i la Comunitat Econòmica Europea | reutilització autoritzada, comercial i no comercial, per la Decisió 2011/833/UE. Els textos consolidats, CC BY 4.0 | si |
 | [`eur-lex-adequacio-dades-andorra-2010`](fonts/eur-lex-adequacio-dades-andorra-2010.md) | Unió Europea · Comissió Europea · Oficina de Publicacions | reutilització autoritzada, comercial i no comercial, per la Decisió 2011/833/UE | si |
+| [`eur-lex-decisio-adequacio-2016-2295`](fonts/eur-lex-decisio-adequacio-2016-2295.md) | Unió Europea · Comissió Europea · Oficina de Publicacions | reutilització autoritzada, comercial i no comercial, per la Decisió 2011/833/UE | si |
+| [`eur-lex-decisio-comite-mixt-1-2003`](fonts/eur-lex-decisio-comite-mixt-1-2003.md) | Unió Europea · Comitè Mixt CE-Andorra · Oficina de Publicacions | Els documents legals publicats a EUR-Lex es poden reutilitzar amb finalitats comercials o no comercials, llevat que s'hi indiqui una condició especial. | si |
 | [`eur-lex-protocol-seguretat-duanera-2011`](fonts/eur-lex-protocol-seguretat-duanera-2011.md) | Unió Europea · Oficina de Publicacions (edició al Diari Oficial). Parts: la Unió Europea i el Principat d'Andorra | reutilització autoritzada, comercial i no comercial, per la Decisió 2011/833/UE | si |
 | [`eychenne-bibliografia`](fonts/eychenne-bibliografia.md) |  |  |  |
 | [`fab-ad-la-federacio`](fonts/fab-ad-la-federacio.md) | Federació Andorrana de Basquetbol (FAB) | publicació institucional, sense llicència declarada | pendent |
@@ -2349,12 +2360,14 @@
 | [`govern-arxiu-comunal-andorra`](fonts/govern-arxiu-comunal-andorra.md) | Arxiu Nacional d’Andorra · Govern d’Andorra | Catàleg públic del Govern d’Andorra; condicions del portal | instrument de descripció per a identificació, lectura i citació |
 | [`govern-arxiu-sandy-2026`](fonts/govern-arxiu-sandy-2026.md) |  |  |  |
 | [`govern-capacitat-carrega-parroquial-2026`](fonts/govern-capacitat-carrega-parroquial-2026.md) | Govern d'Andorra | pàgina institucional amb drets reservats | pendent; còpia de treball conservada fora del corpus |
+| [`govern-caramelles-ordino-sant-julia-2026`](fonts/govern-caramelles-ordino-sant-julia-2026.md) | Govern del Principat d’Andorra | drets reservats; l’avís general del portal exigeix autorització escrita per redistribuir o transformar els continguts | False |
 | [`govern-cnra-2024`](fonts/govern-cnra-2024.md) | Govern d'Andorra | pàgina web institucional, sense llicència oberta identificada | False |
 | [`govern-collegis-professionals-salut-2026`](fonts/govern-collegis-professionals-salut-2026.md) | Govern d'Andorra | pàgina institucional amb drets reservats | pendent; còpia de treball conservada fora del corpus |
 | [`govern-engolasters-tardor-2025`](fonts/govern-engolasters-tardor-2025.md) | Govern d'Andorra, Ministeri de Cultura | drets reservats, sense llicència oberta indicada | False |
 | [`govern-enquesta-1347-2026`](fonts/govern-enquesta-1347-2026.md) | Govern d’Andorra · Arxiu Nacional d’Andorra | Pàgina i imatge institucionals; termes de reutilització no especificats | False |
 | [`govern-estadistica-poblacio-2021`](fonts/govern-estadistica-poblacio-2021.md) | Govern d’Andorra · Departament d’Estadística | Nota estadística institucional; no hi consta una llicència de reutilització | no; es conserva per a lectura i verificació |
 | [`govern-feixa-del-moro-2016`](fonts/govern-feixa-del-moro-2016.md) | Govern d'Andorra · Departament de Patrimoni Cultural | registre institucional i article acadèmic d'accés obert; condicions específiques per peça | pendent |
+| [`govern-festes-os-pirineus-2022`](fonts/govern-festes-os-pirineus-2022.md) | Govern del Principat d’Andorra | drets reservats; l’avís general del portal exigeix autorització escrita per redistribuir o transformar els continguts | False |
 | [`govern-festes-patrons-2022`](fonts/govern-festes-patrons-2022.md) | Govern d'Andorra — Arxiu Nacional | Pàgina institucional pública; sense llicència de redistribució declarada | pendent |
 | [`govern-flexibilitzacio-ajuts-desocupacio-2021`](fonts/govern-flexibilitzacio-ajuts-desocupacio-2021.md) | Govern del Principat d'Andorra | drets reservats; l'avís general del Govern exigeix autorització escrita per reproducció i distribució | False |
 | [`govern-historia-esqui-1956`](fonts/govern-historia-esqui-1956.md) | Govern d'Andorra | publicació institucional del Govern d'Andorra; sense llicència oberta identificada | False |
@@ -2408,7 +2421,7 @@
 | [`ladepeche-francois-soulie-2024`](fonts/ladepeche-francois-soulie-2024.md) | La Dépêche du Midi | premsa digital, sense llicència oberta declarada | pendent |
 | [`lang-valchs-refugiats-andorrans-2016`](fonts/lang-valchs-refugiats-andorrans-2016.md) | Societat Andorrana de Ciències | publicació acadèmica en accés obert; sense llicència de redistribució declarada | pendent |
 | [`laura-salles-naixement`](fonts/laura-salles-naixement.md) | El Periòdic d'Andorra / Concòrdia | Pàgines públiques; sense llicència de redistribució declarada | pendent |
-| [`llegendes-dandorra-llibre`](fonts/llegendes-dandorra-llibre.md) | Roser Carol i Àlvar Valls · Editorial andorrana | obra literària amb drets reservats | False |
+| [`llegendes-dandorra-llibre`](fonts/llegendes-dandorra-llibre.md) | Àlvar Valls i Roser Carol · Anem Editors | obra literària amb drets reservats | False |
 | [`llei-administracio-general-1985`](fonts/llei-administracio-general-1985.md) | Consell General del Principat d’Andorra · Portal Jurídic d’Andorra | transcripció jurídica pública; llicència específica no indicada | no; es conserva per a lectura i citació |
 | [`llei-creacio-cambra-comerc-1993`](fonts/llei-creacio-cambra-comerc-1993.md) | Consell General | text legal, domini públic | si |
 | [`llei-nacionalitat-1995-article14`](fonts/llei-nacionalitat-1995-article14.md) | Consell General del Principat d'Andorra | publicació legal, ús públic | si |
@@ -2462,6 +2475,7 @@
 | [`museu-thyssen-talents-rigalt-puigdengolas`](fonts/museu-thyssen-talents-rigalt-puigdengolas.md) | Museu Carmen Thyssen Andorra · Crèdit Andorrà | pàgina institucional del museu; citació breu de la informació pública | no per al catàleg; extracte web conservat a docs/raw/web/cultura/ |
 | [`museus-ad-espai-columba-2026`](fonts/museus-ad-espai-columba-2026.md) | Govern d'Andorra · Àrea de Museus i Monuments | web institucional, drets reservats; sense llicència oberta identificada | False |
 | [`museus-ad-moto-centre-natura-2026`](fonts/museus-ad-moto-centre-natura-2026.md) | Govern d'Andorra · Àrea de Museus i Monuments | web i publicació institucionals, sense llicència oberta identificada | False |
+| [`museus-ad-sant-serni-web`](fonts/museus-ad-sant-serni-web.md) | Govern d'Andorra | copyright © Govern d'Andorra; l'avís legal consultat no identifica una llicència oberta ni una autorització general de reutilització | False |
 | [`museus-itinerari-sergi-mas`](fonts/museus-itinerari-sergi-mas.md) | Govern d'Andorra · Ministeri de Cultura | drets reservats · contingut institucional públic | pendent |
 | [`museusad-mina-de-llorts`](fonts/museusad-mina-de-llorts.md) | Museus d'Andorra (Govern d'Andorra) | publicació institucional, sense llicència declarada | pendent |
 | [`naiara-linan-altaveu-consolidacio`](fonts/naiara-linan-altaveu-consolidacio.md) | Altaveu, el diari digital d'Andorra | premsa, drets reservats; citació breu | False |
@@ -2530,6 +2544,7 @@
 | [`saas-ad-historia`](fonts/saas-ad-historia.md) | SAAS (Servei Andorrà d'Atenció Sanitària) | publicació institucional, sense llicència declarada | pendent |
 | [`sac-cineclub-les-valls-1968`](fonts/sac-cineclub-les-valls-1968.md) | Societat Andorrana de Ciències | Publicació institucional accessible en PDF; sense llicència de redistribució declarada | pendent |
 | [`sac-esport-i-salut`](fonts/sac-esport-i-salut.md) | Manuel Suárez i García · Societat Andorrana de Ciències | publicació acadèmica en accés obert (repositori de l'Institut d'Estudis Catalans) | pendent |
+| [`sac-perez-carrillo-2016-sardana`](fonts/sac-perez-carrillo-2016-sardana.md) | Societat Andorrana de Ciències | Publicació acadèmica en accés obert; llicència de redistribució no verificada | pendent |
 | [`sac-qui-som`](fonts/sac-qui-som.md) | Societat Andorrana de Ciències | pàgina institucional pública | pendent |
 | [`sac-rosa-ferrer-1990`](fonts/sac-rosa-ferrer-1990.md) | Societat Andorrana de Ciències | publicació acadèmica en accés obert | pendent |
 | [`sagarra-sigillografia-bernat-salba-1610`](fonts/sagarra-sigillografia-bernat-salba-1610.md) | Ajuntament de Barcelona | Obra bibliogràfica antiga digitalitzada; termes de reutilització de la còpia no especificats | False |
@@ -2558,6 +2573,7 @@
 | [`uda-model-sistemic-2010`](fonts/uda-model-sistemic-2010.md) | Grup de recerca en llengua catalana de la Universitat d'Andorra i els autors · publicat al portal del Govern d'Andorra | sense llicència declarada; el document no porta pàgina de crèdits, ni ISBN, ni dipòsit legal | no |
 | [`uefa-faf-antoni-giribet`](fonts/uefa-faf-antoni-giribet.md) | UEFA · Federació Andorrana de Futbol | drets reservats — citació breu | False |
 | [`uefa-faf-member-association`](fonts/uefa-faf-member-association.md) | UEFA (Union of European Football Associations) | pàgina institucional pública | pendent |
+| [`un-ccpr-andorra-concluding-2026`](fonts/un-ccpr-andorra-concluding-2026.md) | Nacions Unides · Comitè de Drets Humans | © United Nations. Els termes d'ús dels webs de l'ONU permeten accedir i descarregar/copiar materials per a ús personal i no comercial; no autoritzen revenda, redistribució ni compilació o obres derivades. Les reutilitzacions de publicacions de l'ONU requereixen permís del Publications Board. Els termes de la Biblioteca Digital prohibeixen scraping i descàrrega automatitzada sense autorització; consultes de reutilització a permissions@un.org. | pendent |
 | [`un-member-states`](fonts/un-member-states.md) | Organització de les Nacions Unides | pàgina institucional pública | pendent |
 | [`unesco-bear-festivities-pyrenees`](fonts/unesco-bear-festivities-pyrenees.md) | UNESCO, Sector de Cultura | Copyright UNESCO; citació i ús de recerca | limitada |
 | [`unesco-countries-andorra`](fonts/unesco-countries-andorra.md) | UNESCO | desconeguda, ús informatiu | False |
@@ -2568,12 +2584,14 @@
 | [`vela-consell-de-la-terra-1419`](fonts/vela-consell-de-la-terra-1419.md) | Susanna Vela i Palomares · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`vela-ordinacions-segle-xv`](fonts/vela-ordinacions-segle-xv.md) | Susanna Vela i Palomares · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`vellasolsona-mestre-roure-2006`](fonts/vellasolsona-mestre-roure-2006.md) | Ramon Estany, Solsona (butlletí local) | desconeguda, ús informatiu | False |
+| [`veny-atles-andorra-2014`](fonts/veny-atles-andorra-2014.md) | Institut d'Estudis Catalans · Secció Filològica; coedició amb Govern d'Andorra | No s'ha localitzat una llicència de reutilització per al PDF ni una autorització de redistribució en la fitxa editorial consultada. | pendent |
 | [`vila-creixement-economic-immigracio-1989`](fonts/vila-creixement-economic-immigracio-1989.md) | Societat Andorrana de Ciències · Editorial Maia (edició) i l'autor (text) | drets reservats; cap llicència oberta declarada al volum | no |
 | [`vilar-andorre-1904`](fonts/vilar-andorre-1904.md) | André Vilar · V. Giard & E. Brière, París · obra de 1904, domini públic | domini públic per antiguitat; digitalització de Google Books | si |
 | [`vilar-etat-ignore-1908`](fonts/vilar-etat-ignore-1908.md) | André Vilar · F. R. de Rudeval, éditeur, París · obra de 1908, domini públic | domini públic per antiguitat; digitalització de Google Books | si |
 | [`vilaweb-cuina-barroc-fra-sever`](fonts/vilaweb-cuina-barroc-fra-sever.md) | VilaWeb · Jaume Fabrega | premsa/blog, drets reservats; citació breu | False |
 | [`vilaweb-deu-anys-bpa-operacio-catalunya`](fonts/vilaweb-deu-anys-bpa-operacio-catalunya.md) | VilaWeb | premsa, drets reservats; citació breu | False |
 | [`vilaweb-mort-sergi-mas`](fonts/vilaweb-mort-sergi-mas.md) | Partal, Maresma & Associats SL (VilaWeb) | drets reservats · citació breu amb atribució | False |
+| [`villanueva-viage-literario-x-1851`](fonts/villanueva-viage-literario-x-1851.md) | Jaime Villanueva; digitalització de la Universitat d'Alacant | obra en domini públic per antiguitat; els termes de reutilització de la còpia digital no s'han localitzat | pendent |
 | [`villaro-estat-questio-historiografia`](fonts/villaro-estat-questio-historiografia.md) | Institut d'Estudis Andorrans · Centre d'Estudis Històrics i Polítics | publicació institucional en accés obert al web de l'IEA | pendent |
 | [`vinas-nacionalitat-andorrana-1990`](fonts/vinas-nacionalitat-andorrana-1990.md) | Ramon Viñas i Farré · Societat Andorrana de Ciències | publicació acadèmica en accés obert (Calaix, Generalitat de Catalunya) | pendent |
 | [`viquipedia-ca`](fonts/viquipedia-ca.md) | Comunitat de la Viquipèdia · Wikimedia Foundation | CC BY-SA 4.0 | si |

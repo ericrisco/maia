@@ -1,0 +1,177 @@
+L_2016344EN.01008301.xml
+17.12.2016
+EN
+Official Journal of the European Union
+L 344/83
+COMMISSION IMPLEMENTING DECISION (EU) 2016/2295
+of 16 December 2016
+amending Decisions 2000/518/EC, 2002/2/EC, 2003/490/EC, 2003/821/EC, 2004/411/EC, 2008/393/EC, 2010/146/EU, 2010/625/EU, 2011/61/EU and Implementing Decisions 2012/484/EU, 2013/65/EU on the adequate protection of personal data by certain countries, pursuant to Article 25(6) of Directive 95/46/EC of the European Parliament and of the Council
+(notified under document C(2016) 8353)
+(Text with EEA relevance)
+THE EUROPEAN COMMISSION,
+Having regard to the Treaty on the Functioning of the European Union,
+Having regard to Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data ( 1 ) , and in particular Article 25(6) thereof,
+After consulting the European Data Protection Supervisor,
+Whereas:
+(1)
+In its judgment of 6 October 2015 in Case C-362/14 Maximillian Schrems v Data Protection Commissioner ( 2 ) the Court of Justice of the European Union found that, in adopting Article 3 of Decision 2000/520/EC ( 3 ) , the Commission exceeded the power which is conferred upon it in Article 25(6) of Directive 95/46/EC, read in the light of the Charter of Fundamental Rights of the European Union, and declared Article 3 of that Decision invalid.
+(2)
+Article 3(1) first subparagraph of Decision 2000/520/EC laid down restrictive conditions under which national supervisory authorities could decide to suspend data flows to a U.S. self-certified company, notwithstanding the Commission's adequacy finding.
+(3)
+In its Schrems judgment, the Court of Justice clarified that national supervisory authorities remain competent to oversee the transfer of personal data to a third country which has been the subject of a Commission adequacy decision and that the Commission has no competence to restrict their powers under Article 28 of Directive 95/46/EC. Pursuant to this Article, those authorities possess, in particular, investigative powers, such as the power to collect all the information necessary for the performance of their supervisory duties, effective powers of intervention, such as that of imposing a temporary or definitive ban on the processing of data, and the power to engage in legal proceedings ( 4 ) .
+(4)
+The Court of Justice recalled in the Schrems judgment that, in line with the second subparagraph of Article 25(6) of Directive 95/46/EC, Member States and their organs must take the measures necessary to comply with acts of the Union institutions, as the latter are in principle presumed to be lawful and accordingly produce legal effects until such time as they are withdrawn, annulled in an action for annulment, or declared invalid following a reference for a preliminary ruling or a plea of illegality.
+(5)
+Consequently, a Commission adequacy decision adopted pursuant to Article 25(6) of Directive 95/46/EC is binding on all organs of the Member States to which it is addressed, including their independent supervisory authorities, in so far as it has the effect of authorising transfers of personal data from the respective Member State to the third country covered by it ( 5 ) . It follows that national supervisory authorities cannot adopt measures contrary to a Commission adequacy decision, such as acts declaring that decision invalid or which are intended to determine with binding effect that the third country covered by it does not ensure an adequate level of protection. As clarified by the Schrems judgment, this does not prevent a national supervisory authority from examining the claim of an individual concerning the level of protection of personal data ensured in a third country subject to a Commission adequacy decision and, where it considers it well founded, to engage in legal proceedings before the national courts, in order for them, if they share the doubts as to the validity of the Commission decision, to make a reference for a preliminary ruling for the purpose of examination of the decision's validity ( 6 ) .
+(6)
+Commission Decisions 2000/518/EC ( 7 ) , 2002/2/EC ( 8 ) , 2003/490/EC ( 9 ) , 2003/821/EC ( 10 ) , 2004/411/EC ( 11 ) , 2008/393/EC ( 12 ) , 2010/146/EU ( 13 ) , 2010/625/EU ( 14 ) and 2011/61/EU ( 15 ) and Commission Implementing Decisions 2012/484/EU ( 16 ) and 2013/65/EU ( 17 ) , which are adequacy decisions, contain a limitation on the powers of the national supervisory authorities that is comparable to Article 3(1) first subparagraph of Decision 2000/520/EC, which the Court of Justice considered invalid.
+(7)
+In the light of the Schrems judgment and pursuant to Article 266 of the Treaty, the provisions in those Decisions limiting the powers of national supervisory authorities should therefore be replaced.
+(8)
+In the Schrems judgment, the Court of Justice further clarified that, as the level of protection ensured by a third country may be liable to change, it is incumbent on the Commission, after it has adopted a decision pursuant to Article 25(6) of Directive 95/46/EC, to check periodically whether the finding relating to the adequacy of the level of protection ensured by the third country in question is still factually and legally justified ( 18 ) . In the light of the findings in that judgment as regards access to personal data by public authorities, the rules and practice governing such access should also be monitored.
+(9)
+Therefore, for those countries for which it has adopted an adequacy decision, the Commission will, on an ongoing basis, monitor developments, both in law and in practice, that could affect the functioning of such decisions, including developments concerning access to personal data by public authorities.
+(10)
+In order to facilitate the effective monitoring of the functioning of the adequacy decisions currently in force, the Commission should be informed by Member States about relevant action undertaken by national supervisory authorities.
+(11)
+The Working Party on the Protection of Individuals with regard to the Processing of Personal Data established under Article 29 of Directive 95/46/EC has delivered an opinion, which has been taken into account in the preparation of this Decision.
+(12)
+The measures provided for in this Decision are in accordance with the opinion of the Committee established under Article 31(1) of Directive 95/46/EC.
+(13)
+Decisions 2000/518/EC, 2002/2/EC, 2003/490/EC, 2003/821/EC, 2004/411/EC, 2008/393/EC, 2010/146/EU, 2010/625/EU and 2011/61/EU and Implementing Decisions 2012/484/EU and 2013/65/EU should therefore be amended accordingly,
+HAS ADOPTED THIS DECISION:
+Article 1
+Decision 2000/518/EC is amended as follows:
+(1)
+Article 3 is replaced by the following:
+‘Article 3
+Whenever the competent authorities in Member States exercise their powers pursuant to Article 28(3) of Directive 95/46/EC leading to the suspension or definitive ban of data flows to Switzerland in order to protect individuals with regard to the processing of their personal data, the Member State concerned shall, without delay, inform the Commission which will forward the information to the other Member States.’;
+(2)
+the following Article 3 a is inserted:
+‘Article 3a
+1. The Commission shall, on an ongoing basis, monitor developments in the Swiss legal order that could affect the functioning of this Decision, including developments concerning access to personal data by public authorities, with a view to assessing whether Switzerland continues to ensure an adequate level of protection of personal data.
+2. The Member States and the Commission shall inform each other of cases where the action of bodies responsible for ensuring compliance with the standard of protection in Switzerland fails to secure such compliance.
+3. The Member States and the Commission shall inform each other of any indications that interferences by Swiss public authorities responsible for national security, law enforcement or other public interests with the right of individuals to the protection of their personal data go beyond what is strictly necessary, or that there is no effective legal protection against such interferences.
+4. Where evidence shows that an adequate level of protection is no longer ensured, including in situations referred to in paragraphs 2 and 3 of this Article, the Commission shall inform the competent Swiss authority and, if necessary, propose draft measures in accordance with the procedure referred to in Article 31(2) of Directive 95/46/EC with a view to repealing or suspending this Decision or limiting its scope.’.
+Article 2
+Decision 2002/2/EC is amended as follows:
+(1)
+Article 3 is replaced by the following:
+‘Article 3
+Whenever the competent authorities in Member States exercise their powers pursuant to Article 28(3) of Directive 95/46/EC leading to the suspension or definitive ban of data flows to a recipient in Canada whose activities fall under the scope of the Canadian Personal Information Protection and Electronic Documents Act in order to protect individuals with regard to the processing of their personal data, the Member State concerned shall, without delay, inform the Commission which will forward the information to the other Member States.’;
+(2)
+the following Article 3 a is inserted:
+‘Article 3a
+1. The Commission shall, on an ongoing basis, monitor developments in the Canadian legal order that could affect the functioning of this Decision, including developments concerning access to personal data by public authorities, with a view to assessing whether Canada continues to ensure an adequate level of protection of personal data.
+2. The Member States and the Commission shall inform each other of cases where the action of bodies responsible for ensuring compliance with the standard of protection in Canada fails to secure such compliance.
+3. The Member States and the Commission shall inform each other of any indications that interferences by Canadian public authorities responsible for national security, law enforcement or other public interests with the right of individuals to the protection of their personal data go beyond what is strictly necessary, or that there is no effective legal protection against such interferences.
+4. Where evidence shows that an adequate level of protection is no longer ensured, including in situations covered by paragraphs 2 and 3 of this Article, the Commission shall inform the competent Canadian authority and, if necessary, propose draft measures in accordance with the procedure referred to in Article 31(2) of Directive 95/46/EC with a view to repealing or suspending this Decision or limiting its scope.’.
+Article 3
+Decision 2003/490/EC is amended as follows:
+(1)
+Article 3 is replaced by the following:
+‘Article 3
+Whenever the competent authorities in Member States exercise their powers pursuant to Article 28(3) of Directive 95/46/EC leading to the suspension or definitive ban of data flows to Argentina in order to protect individuals with regard to the processing of their personal data, the Member State concerned shall, without delay, inform the Commission which will forward the information to the other Member States.’;
+(2)
+the following Article 3 a is inserted:
+‘Article 3a
+1. The Commission shall, on an ongoing basis, monitor developments in the Argentinian legal order that could affect the functioning of this Decision, including developments concerning access to personal data by public authorities, with a view to assessing whether Argentina continues to ensure an adequate level of protection of personal data.
+2. The Member States and the Commission shall inform each other of cases where the action of bodies responsible for ensuring compliance with the standard of protection in Argentina fails to secure such compliance.
+3. The Member States and the Commission shall inform each other of any indications that interferences by Argentinian public authorities responsible for national security, law enforcement or other public interests with the right of individuals to the protection of their personal data go beyond what is strictly necessary, or that there is no effective legal protection against such interferences.
+4. Where evidence shows that an adequate level of protection is no longer ensured, including in situations referred to in paragraphs 2 and 3 of this Article, the Commission shall inform the competent Argentinian authority and, if necessary, propose draft measures in accordance with the procedure referred to in Article 31(2) of Directive 95/46/EC with a view to repealing or suspending this Decision or limiting its scope.’.
+Article 4
+Articles 3 and 4 of Decision 2003/821/EC are replaced by the following:
+‘Article 3
+Whenever the competent authorities in Member States exercise their powers pursuant to Article 28(3) of Directive 95/46/EC leading to the suspension or definitive ban of data flows to the Bailiwick of Guernsey in order to protect individuals with regard to the processing of their personal data, the Member State concerned shall, without delay, inform the Commission which will forward the information to the other Member States.
+Article 4
+1. The Commission shall, on an ongoing basis, monitor developments in the Guernsey legal order that could affect the functioning of this Decision, including developments concerning access to personal data by public authorities, with a view to assessing whether Guernsey continues to ensure an adequate level of protection of personal data.
+2. The Member States and the Commission shall inform each other of cases where the action of bodies responsible for ensuring compliance with the standard of protection in Guernsey fails to secure such compliance.
+3. The Member States and the Commission shall inform each other of any indications that interferences by Guernsey public authorities responsible for national security, law enforcement or other public interests with the right of individuals to the protection of their personal data go beyond what is strictly necessary, or that there is no effective legal protection against such interferences.
+4. Where evidence shows that an adequate level of protection is no longer ensured, including in situations referred to in paragraphs 2 and 3 of this Article, the Commission shall inform the competent Guernsey authority and, if necessary, propose draft measures in accordance with the procedure referred to in Article 31(2) of Directive 95/46/EC with a view to repealing or suspending this Decision or limiting its scope.’.
+Article 5
+Articles 3 and 4 of Decision 2004/411/EC are replaced by the following:
+‘Article 3
+Whenever the competent authorities in Member States exercise their powers pursuant to Article 28(3) of Directive 95/46/EC leading to the suspension or definitive ban of data flows to the Isle of Man in order to protect individuals with regard to the processing of their personal data, the Member State concerned shall, without delay, inform the Commission which will forward the information to the other Member States.
+Article 4
+1. The Commission shall, on an ongoing basis, monitor developments in the legal order of the Isle of Man that could affect the functioning of this Decision, including developments concerning access to personal data by public authorities, with a view to assessing whether the Isle of Man continues to ensure an adequate level of protection of personal data.
+2. The Member States and the Commission shall inform each other of cases where the action of bodies responsible for ensuring compliance with the standard of protection in the Isle of Man fails to secure such compliance.
+3. The Member States and the Commission shall inform each other of any indications that interferences by public authorities of the Isle of Man responsible for national security, law enforcement or other public interests with the right of individuals to the protection of their personal data go beyond what is strictly necessary, or that there is no effective legal protection against such interferences.
+4. Where evidence shows that an adequate level of protection is no longer ensured, including in situations referred to in paragraphs 2 and 3 of this Article, the Commission shall inform the competent Isle of Man authority and, if necessary, propose draft measures in accordance with the procedure referred to in Article 31(2) of Directive 95/46/EC with a view to repealing or suspending this Decision or limiting its scope.’.
+Article 6
+Articles 3 and 4 of Decision 2008/393/EC are replaced by the following:
+‘Article 3
+Whenever the competent authorities in Member States exercise their powers pursuant to Article 28(3) of Directive 95/46/EC leading to the suspension or definitive ban of data flows to Jersey in order to protect individuals with regard to the processing of their personal data, the Member State concerned shall, without delay, inform the Commission which will forward the information to the other Member States.
+Article 4
+1. The Commission shall, on an ongoing basis, monitor developments in the Jersey legal order that could affect the functioning of this Decision, including developments concerning access to personal data by public authorities, with a view to assessing whether Jersey continues to ensure an adequate level of protection of personal data.
+2. The Member States and the Commission shall inform each other of cases where the action of bodies responsible for ensuring compliance with the standard of protection in Jersey fails to secure such compliance.
+3. The Member States and the Commission shall inform each other of any indications that interferences by Jersey public authorities responsible for national security, law enforcement or other public interests with the right of individuals to the protection of their personal data go beyond what is strictly necessary, or that there is no effective legal protection against such interferences.
+4. Where evidence shows that an adequate level of protection is no longer ensured, including in situations referred to in paragraphs 2 and 3 of this Article, the Commission shall inform the competent Jersey authority and, if necessary, propose draft measures in accordance with the procedure referred to in Article 31(2) of Directive 95/46/EC with a view to repealing or suspending this Decision or limiting its scope.’.
+Article 7
+Articles 3 and 4 of Decision 2010/146/EU are replaced by the following:
+‘Article 3
+Whenever the competent authorities in Member States exercise their powers pursuant to Article 28(3) of Directive 95/46/EC leading to the suspension or definitive ban of data flows to a recipient in the Faeroe Islands whose activities fall under the scope of the Faroese Act on Processing of Personal Data in order to protect individuals with regard to the processing of their personal data, the Member State concerned shall, without delay, inform the Commission which will forward the information to the other Member States.
+Article 4
+1. The Commission shall, on an ongoing basis, monitor developments in the Faeroese legal order that could affect the functioning of this Decision, including developments concerning access to personal data by public authorities, with a view to assessing whether the Faeroe Islands continue to ensure an adequate level of protection of personal data.
+2. The Member States and the Commission shall inform each other of cases where the action of bodies responsible for ensuring compliance with the standard of protection in the Faeroe Islands fails to secure such compliance.
+3. The Member States and the Commission shall inform each other of any indications that interferences by Faeroese public authorities responsible for national security, law enforcement or other public interests with the right of individuals to the protection of their personal data go beyond what is strictly necessary, or that there is no effective legal protection against such interferences.
+4. Where evidence shows that an adequate level of protection is no longer ensured, including in situations referred to paragraphs 2 and 3 of this Article, the Commission shall inform the competent Faeroese authority and, if necessary, propose draft measures in accordance with the procedure referred to in Article 31(2) of Directive 95/46/EC with a view to repealing or suspending this Decision or limiting its scope.’.
+Article 8
+Articles 3 and 4 of Decision 2010/625/EU are replaced by the following:
+‘Article 3
+Whenever the competent authorities in Member States exercise their powers pursuant to Article 28(3) of Directive 95/46/EC leading to the suspension or definitive ban of data flows to Andorra in order to protect individuals with regard to the processing of their personal data, the Member State concerned shall, without delay, inform the Commission which will forward the information to the other Member States.
+Article 4
+1. The Commission shall, on an ongoing basis, monitor developments in the Andorran legal order that could affect the functioning of this Decision, including developments concerning access to personal data by public authorities, with a view to assessing whether Andorra continues to ensure an adequate level of protection of personal data.
+2. The Member States and the Commission shall inform each other of cases where the action of bodies responsible for ensuring compliance with the standard of protection in Andorra fails to secure such compliance.
+3. The Member States and the Commission shall inform each other of any indications that interferences by Andorran public authorities responsible for national security, law enforcement or other public interests with the right of individuals to the protection of their personal data go beyond what is strictly necessary, or that there is no effective legal protection against such interferences.
+4. Where evidence shows that an adequate level of protection is no longer ensured, including in situations referred to in paragraphs 2 and 3 of this Article, the Commission shall inform the competent Andorran authority and, if necessary, propose draft measures in accordance with the procedure referred to in Article 31(2) of Directive 95/46/EC with a view to repealing or suspending this Decision or limiting its scope.’.
+Article 9
+Articles 3 and 4 of Decision 2011/61/EU are replaced by the following:
+‘Article 3
+Whenever the competent authorities in Member States exercise their powers pursuant to Article 28(3) of Directive 95/46/EC leading to the suspension or definitive ban of data flows to the State of Israel in order to protect individuals with regard to the processing of their personal data, the Member State concerned shall, without delay, inform the Commission which will forward the information to the other Member States.
+Article 4
+1. The Commission shall, on an ongoing basis, monitor developments in the Israeli legal order that could affect the functioning of this decision, including developments concerning access to personal data by public authorities, with a view to assessing whether the State of Israel continues to ensure an adequate level of protection of personal data.
+2. The Member States and the Commission shall inform each other of cases where the action of bodies responsible for ensuring compliance with the standard of protection in the State of Israel fails to secure such compliance.
+3. The Member States and the Commission shall inform each other of any indications that interferences by Israeli public authorities responsible for national security, law enforcement or other public interests with the right of individuals to the protection of their personal data go beyond what is strictly necessary, or that there is no effective legal protection against such interferences.
+4. Where evidence shows that an adequate level of protection is no longer ensured, including in situations referred to in paragraphs 2 and 3 of this Article, the Commission shall inform the competent Israeli authority and, if necessary, propose draft measures in accordance with the procedure referred to in Article 31(2) of Directive 95/46/EC with a view to repealing or suspending this Decision or limiting its scope.’.
+Article 10
+Articles 2 and 3 of Implementing Decision 2012/484/EU are replaced by the following:
+‘Article 2
+Whenever the competent authorities in Member States exercise their powers pursuant to Article 28(3) of Directive 95/46/EC leading to the suspension or definitive ban of data flows to the Eastern Republic of Uruguay in order to protect individuals with regard to the processing of their personal data, the Member State concerned shall, without delay, inform the Commission which will forward the information to the other Member States.
+Article 3
+1. The Commission shall, on an ongoing basis, monitor developments in the legal order of the Eastern Republic of Uruguay that could affect the functioning of this Decision, including developments concerning access to personal data by public authorities, with a view to assessing whether the Eastern Republic of Uruguay continues to ensure an adequate level of protection of personal data.
+2. The Member States and the Commission shall inform each other of cases where the action of bodies responsible for ensuring compliance with the standard of protection in the Eastern Republic of Uruguay fails to secure such compliance.
+3. The Member States and the Commission shall inform each other of any indications that interferences by Uruguayan public authorities responsible for national security, law enforcement or other public interests with the right of individuals to the protection of their personal data go beyond what is strictly necessary, or that there is no effective legal protection against such interferences.
+4. Where evidence shows that an adequate level of protection is no longer ensured, including in situations referred to in paragraphs 2 and 3, the Commission shall inform the competent Uruguayan authority and, if necessary, propose draft measures in accordance with the procedure referred to in Article 31(2) of Directive 95/46/EC with a view to repealing or suspending this Decision or limiting its scope.’.
+Article 11
+Articles 2 and 3 of Implementing Decision 2013/65/EU are replaced by the following:
+‘Article 2
+Whenever the competent authorities in Member States exercise their powers pursuant to Article 28(3) of Directive 95/46/EC leading to the suspension or definitive ban of data flows to New Zealand in order to protect individuals with regard to the processing of their personal data, the Member State concerned shall, without delay, inform the Commission which will forward the information to the other Member States.
+Article 3
+1. The Commission shall, on an ongoing basis, monitor developments in the New Zealand legal order that could affect the functioning of this Decision, including developments concerning access to personal data by public authorities, with a view to assessing whether New Zealand continues to ensure an adequate level of protection of personal data.
+2. The Member States and the Commission shall inform each other of cases where the action of bodies responsible for ensuring compliance with the standard of protection in New Zealand fails to secure such compliance.
+3. The Member States and the Commission shall inform each other of any indications that interferences by New Zealand public authorities responsible for national security, law enforcement or other public interests with the right of individuals to the protection of their personal data go beyond what is strictly necessary, or that there is no effective legal protection against such interferences.
+4. Where evidence shows that an adequate level of protection is no longer ensured, including in situations referred to in paragraphs 2 and 3 of this Article, the Commission shall inform the competent New Zealand authority and, if necessary, propose draft measures in accordance with the procedure referred to in Article 31(2) of Directive 95/46/EC with a view to repealing or suspending this Decision or limiting its scope.’.
+Article 12
+This Decision is addressed to the Member States.
+Done at Brussels, 16 December 2016.
+For the Commission
+Věra JOUROVÁ
+Member of the Commission
+( 1 ) OJ L 281, 23.11.1995, p. 31 .
+( 2 ) ECLI:EU:C:2015:650.
+( 3 ) Commission Decision 2000/520/EC of 26 July 2000 pursuant to Directive 95/46/EC of the European Parliament and of the Council on the adequacy of the protection provided by the Safe Harbour Privacy Principles and related Frequently Asked Questions issued by the U.S. Department of Commerce ( OJ L 215, 25.8.2000, p. 7 ).
+( 4 ) Schrems , paragraphs 40 et seq., 101 to 103.
+( 5 ) Schrems , paragraphs 51, 52 and 62.
+( 6 ) Schrems , paragraphs 52, 62 and 65.
+( 7 ) Commission Decision 2000/518/EC of 26 July 2000 pursuant to Directive 95/46/EC of the European Parliament and of the Council on the adequate protection of personal data provided in Switzerland ( OJ L 215, 25.8.2000, p. 1 ).
+( 8 ) Commission Decision 2002/2/EC of 20 December 2001 pursuant to Directive 95/46/EC of the European Parliament and of the Council on the adequate protection of personal data provided by the Canadian Personal Information Protection and Electronic Documents Act ( OJ L 2, 4.1.2002, p. 13 ).
+( 9 ) Commission Decision 2003/490/EC of 30 June 2003 pursuant to Directive 95/46/EC of the European Parliament and of the Council on the adequate protection of personal data in Argentina ( OJ L 168, 5.7.2003, p. 19 ).
+( 10 ) Commission Decision 2003/821/EC of 21 November 2003 on the adequate protection of personal data in Guernsey ( OJ L 308, 25.11.2003, p. 27 ).
+( 11 ) Commission Decision 2004/411/EC of 28 April 2004 on the adequate protection of personal data in the Isle of Man ( OJ L 151, 30.4.2004, p. 48 ).
+( 12 ) Commission Decision 2008/393/EC of 8 May 2008 pursuant to Directive 95/46/EC of the European Parliament and of the Council on the adequate protection of personal data in Jersey ( OJ L 138, 28.5.2008, p. 21 ).
+( 13 ) Commission Decision 2010/146/EU of 5 March 2010 pursuant to Directive 95/46/EC of the European Parliament and of the Council on the adequate protection provided by the Faeroese Act on processing of personal data ( OJ L 58, 9.3.2010, p. 17 ).
+( 14 ) Commission Decision 2010/625/EU of 19 October 2010 pursuant to Directive 95/46/EC of the European Parliament and of the Council on the adequate protection of personal data in Andorra ( OJ L 277, 21.10.2010, p. 27 ).
+( 15 ) Commission Decision 2011/61/EU of 31 January 2011 pursuant to Directive 95/46/EC of the European Parliament and of the Council on the adequate protection of personal data by the State of Israel with regard to automated processing of personal data ( OJ L 27, 1.2.2011, p. 39 ).
+( 16 ) Commission Implementing Decision 2012/484/EU of 21 August 2012 pursuant to Directive 95/46/EC of the European Parliament and of the Council on the adequate protection of personal data by the Eastern Republic of Uruguay with regard to automated processing of personal data ( OJ L 227, 23.8.2012, p. 11 ).
+( 17 ) Commission Implementing Decision 2013/65/EU of 19 December 2012 pursuant to Directive 95/46/EC of the European Parliament and of the Council on the adequate protection of personal data by New Zealand ( OJ L 28, 30.1.2013, p. 12 ).
+( 18 ) Schrems , paragraph 76. Such a check is required, in any event, when the Commission acquires any information giving rise to a justified doubt in that regard.
