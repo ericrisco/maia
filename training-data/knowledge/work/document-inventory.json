@@ -428,10 +428,11 @@
       "topic": "temes/costums/religiositat",
       "source": "bopa-ad",
       "status": "in_progress",
-      "conversation_count": 5,
+      "conversation_count": 6,
       "conversation_ids": [
         "registre-religios-acces-public-i-consulta-concreta-02",
         "registre-religios-cancellacio-inactivitat-i-avis-03",
+        "registre-religios-comptatge-practicants-i-llocs-culte-06",
         "registre-religios-dades-organs-govern-consentiment-05",
         "registre-religios-obligacions-abans-inscripcio-04",
         "registre-religios-requisits-i-via-catolica-01"
@@ -441,7 +442,8 @@
         "Llei 2/2025, articles 2 i 8: abast pràctic de la publicitat del Registre, consulta de documents concrets de procediments acabats i límit a les consultes genèriques.",
         "Llei 2/2025, article 11: cancel·lació per sol·licitud, sentència ferma o inactivitat de deu anys, amb notificació prèvia en aquest darrer cas.",
         "Llei 2/2025, article 15: responsabilitat solidària de membres d’entitats no inscrites i promotors, i assumpció per l’entitat quan s’inscriu, llevat de previsió diferent.",
-        "Llei 2/2025, article 12: tractament de dades personals dels òrgans representatius i de govern sense consentiment explícit, mantenint l’aplicació de la normativa de protecció de dades."
+        "Llei 2/2025, article 12: tractament de dades personals dels òrgans representatius i de govern sense consentiment explícit, mantenint l’aplicació de la normativa de protecció de dades.",
+        "Llei 2/2025, article 4: nombre aproximat de practicants per entitat inscrita i llocs de culte; aquesta dada no permet inferir un cens complet de cada confessió."
       ],
       "open_units": [
         "Resta de les seccions de la fitxa: dades del Registre, accés, exclusions, cancel·lació, responsabilitats i context constitucional; revisar íntegrament abans de marcar la fitxa completa."
