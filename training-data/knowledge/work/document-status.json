@@ -480,10 +480,16 @@
       "topic": "temes/cultura/arquitectura",
       "status": "in_progress",
       "unit_count": 33,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0001",
+        "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0002",
+        "docs/temes/cultura/arquitectura/els-estripagecs.md#unit-0003"
+      ],
       "excluded_unit_count": 22,
-      "open_unit_count": 11,
-      "conversation_ids": []
+      "open_unit_count": 8,
+      "conversation_ids": [
+        "estripagecs-definicio-i-abast-001"
+      ]
     },
     "docs/temes/cultura/arquitectura/espai-columba.md": {
       "title": "L'Espai Columba",
