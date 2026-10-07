@@ -197,6 +197,8 @@
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0008",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0009",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0010",
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0012",
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0013",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0022",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0023",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0024",
@@ -207,12 +209,13 @@
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0031"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 43,
+      "open_unit_count": 41,
       "conversation_ids": [
         "festa-ossa-farsa-i-personatges-001",
         "festes-ossa-calendari-hibernacio-001",
         "festes-ossa-distribucio-i-pervivencia-001",
         "festes-ossa-que-perviuen-calendari-001",
+        "festes-ossa-referencia-mes-antiga-001",
         "ultima-ossa-final-i-sang-001",
         "ultima-ossa-mascara-ordino-001"
       ]
