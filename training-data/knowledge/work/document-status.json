@@ -14039,6 +14039,8 @@
         "docs/temes/societat/demografia/qui-compta-com-a-resident.md#unit-0017",
         "docs/temes/societat/demografia/qui-compta-com-a-resident.md#unit-0018",
         "docs/temes/societat/demografia/qui-compta-com-a-resident.md#unit-0019",
+        "docs/temes/societat/demografia/qui-compta-com-a-resident.md#unit-0020",
+        "docs/temes/societat/demografia/qui-compta-com-a-resident.md#unit-0021",
         "docs/temes/societat/demografia/qui-compta-com-a-resident.md#unit-0025",
         "docs/temes/societat/demografia/qui-compta-com-a-resident.md#unit-0026",
         "docs/temes/societat/demografia/qui-compta-com-a-resident.md#unit-0027",
@@ -14048,9 +14050,10 @@
         "docs/temes/societat/demografia/qui-compta-com-a-resident.md#unit-0031"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 32,
+      "open_unit_count": 30,
       "conversation_ids": [
         "poblacio-per-poble-registrada-vs-estimada-001",
+        "residencia-discrepancia-diagrama-i-totals-001",
         "residencia-empadronament-i-concepte-habitual-001",
         "residencia-registrada-estimada-i-registre-001"
       ]
