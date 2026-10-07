@@ -14536,12 +14536,18 @@
       "title": "Dos terços del país viuen de lloguer",
       "type": "article",
       "topic": "temes/societat/habitatge",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 96,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/societat/habitatge/dos-tercos-del-pais-viuen-de-lloguer.md#unit-0003",
+        "docs/temes/societat/habitatge/dos-tercos-del-pais-viuen-de-lloguer.md#unit-0004",
+        "docs/temes/societat/habitatge/dos-tercos-del-pais-viuen-de-lloguer.md#unit-0007"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 96,
-      "conversation_ids": []
+      "open_unit_count": 93,
+      "conversation_ids": [
+        "habitatge-regim-tinenca-evolucio-001"
+      ]
     },
     "docs/temes/societat/habitatge/els-habitatges-buits.md": {
       "title": "Els habitatges buits",
