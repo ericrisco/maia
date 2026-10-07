@@ -374,7 +374,7 @@
       "topic": "temes/costums/religiositat",
       "source": "bopa-ad",
       "status": "in_progress",
-      "conversation_count": 22,
+      "conversation_count": 23,
       "conversation_ids": [
         "registre-religios-actualitzar-dades-declaracio-biennal-14",
         "registre-religios-associacio-cultural-dependent-03",
@@ -387,6 +387,7 @@
         "registre-religios-documentacio-sollicitud-basica-18",
         "registre-religios-esmena-documents-terminari-09",
         "registre-religios-exclusio-parapsicologia-04",
+        "registre-religios-indicis-penals-trasllat-fiscalia-23",
         "registre-religios-no-inscrit-responsabilitat-i-inscripcio-01",
         "registre-religios-noms-carrecs-consentiment-dades-11",
         "registre-religios-practicants-i-declaracio-individual-16",
@@ -424,7 +425,8 @@
         "Responsabilitat personal i solidària dels promotors pels actes de constitució i inscripció, assumida per l’entitat en inscriure’s llevat de disposició diferent (art. 15.2).",
         "Obligació del Govern d’establir canals de diàleg amb entitats inscrites i absència de dades sobre el mecanisme actual (art. 14).",
         "Nomenament del responsable i suplents, casos d’actuació, autonomia i autoritat que emet assentaments (art. 5).",
-        "Presentació al Servei de Tràmits, gratuïtat de la inscripció i destinatari/domicili de les notificacions (art. 6)."
+        "Presentació al Servei de Tràmits, gratuïtat de la inscripció i destinatari/domicili de les notificacions (art. 6).",
+        "Comunicació d’indicis racionals d’il·licitud penal al ministre i eventual trasllat al Ministeri Fiscal (art. 6)."
       ],
       "open_units": [
         "Passada editorial integral de la fitxa: revisar la resta d’afirmacions i buits contra les converses i conservar explícitament allò que no consta."
