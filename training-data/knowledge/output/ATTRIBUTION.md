@@ -39,6 +39,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - J.-A. Brutails, La Coutume d’Andorre (1904), pièce justificative XXVIII, p. LX; comentari, pp. 266–268; digitalització Gallica BnF.
 - J.-A. Brutails, La Coutume d’Andorre (1904), pp. 266–268, 277–278; digitalització Gallica BnF.
 - J.-A. Brutails, La Coutume d’Andorre (1904), pp. 274, 266–268; digitalització Gallica BnF.
+- Pere Canturri i Montanya, «Usos i costums d’Andorra», 15a Diada Andorrana a la XXXIV Universitat Catalana d’Estiu (2002), dins Una història d’Andorra, temàtica, p. 209 i següents.
 - Premsa andorrana; la fitxa de font no identifica el diari, l’article, la data ni l’URL de la publicació concreta.
 
 ## Condicions registrades

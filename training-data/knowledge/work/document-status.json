@@ -124,5 +124,15 @@
       "cap lletra transcrita al corpus; no s’ha identificat font amb drets clars per a incorporar-la a parla",
       "l’absència de transcripció al corpus no prova que les lletres no existeixin fora del corpus"
     ]
+  },
+  "docs/temes/costums/falles/falles.md": {
+    "status": "in_progress",
+    "reviewed_units": [
+      "distinció entre torxa fallaire and monument valencià",
+      "falla antiga: escorça de beç i bastó de boix, girada sobre el cap",
+      "pèrdua i recuperació quatre o cinc anys abans de 2002",
+      "canvis de material i de participació segons Canturri",
+      "variants parroquials, fonts primàries i reconeixement patrimonial encara pendents"
+    ]
   }
 }

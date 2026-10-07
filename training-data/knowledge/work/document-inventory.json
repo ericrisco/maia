@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 8,
+    "in_progress": 9,
     "no_natural_question": 0,
-    "not_started": 1340
+    "not_started": 1339
   },
   "documents": [
     {
@@ -246,10 +246,18 @@
       "type": "article",
       "topic": "temes/costums/falles",
       "source": "canturri-usos-i-costums",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "falles-recuperacio-materials-01"
+      ],
+      "reviewed_units": [
+        "distinció entre torxa fallaire and monument valencià",
+        "falla antiga: escorça de beç i bastó de boix, girada sobre el cap",
+        "pèrdua i recuperació quatre o cinc anys abans de 2002",
+        "canvis de material i de participació segons Canturri",
+        "variants parroquials, fonts primàries i reconeixement patrimonial encara pendents"
+      ],
       "completion_note": "",
       "reason": ""
     },
