@@ -61,6 +61,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - Viquipèdia en català, article «Festes de l’ossa a Andorra», CC BY-SA 4.0; la fitxa descriu la festa com una farsa còmica d’un acte i enumera els personatges.
 - Viquipèdia en català, article «Festes de l’ossa a Andorra», CC BY-SA 4.0; la fitxa descriu la «sang» com aigua amb granadina i el ball final.
 - Viquipèdia en català, article «Festes de l’ossa a Andorra», CC BY-SA 4.0; la font atribueix el calendari a la creença que l’ossa hibernava entre Nadal i la Candelera.
+- Viquipèdia en català, article «Festes de l’ossa a Andorra», llicència CC BY-SA 4.0; bibliografia transcrita de la fitxa del corpus.
 - Viquipèdia en català, article «Festes de l’ossa a Andorra», llicència CC BY-SA 4.0; cronologia de l’Última Ossa d’Ordino el 2020.
 - Viquipèdia en català, article «Festes de l’ossa a Andorra», llicència CC BY-SA 4.0; la fitxa cita l’Arxiu Nacional com a custodi de documents i testimonis orals.
 - Viquipèdia en català, article «Festes de l’ossa a Andorra», llicència CC BY-SA 4.0; trama resumida de l’Última Ossa d’Ordino.
@@ -82,6 +83,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - CC BY-SA 4.0, amb obligació d’atribució i compartir igual. La fitxa no concreta l’any en què la representació d’Ordino es va traslladar al desembre.
 - CC BY-SA 4.0, amb obligació d’atribució i compartir igual. La font és secundària; la tradició sobre els orígens s’atribueix com a tal.
 - CC BY-SA 4.0, amb obligació d’atribució i compartir igual. L’origen medieval es manté com a hipòtesi probable de la font, no com a fet provat.
+- CC BY-SA 4.0; atribució i compartir igual. Les obres citades són només referències, no contingut consultat ni reproduït.
 - CC BY-SA 4.0; atribució i compartir igual. No redistribuir sense conservar les condicions de la llicència.
 - Contingut periodístic amb drets reservats; la fitxa premsa-andorrana registra redistribució:no. La referència concreta no es pot verificar.
 - Font institucional amb drets reservats; el portal exigeix autorització escrita per redistribuir o transformar continguts i no consta un permís específic. Aquesta limitació queda registrada; no s’interpreta la inclusió com a llicència.
