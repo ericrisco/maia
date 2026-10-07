@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 56,
+    "in_progress": 57,
     "no_natural_question": 0,
-    "not_started": 1292
+    "not_started": 1291
   },
   "documents": [
     {
@@ -1296,11 +1296,20 @@
       "type": "article",
       "topic": "temes/cultura/arts-visuals",
       "source": "rodriguez-rossa-creacio-artistica",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "gravats-rupestres-estil-no-data-001"
+      ],
+      "reviewed_units": [
+        "Els motius dels gravats es repeteixen al llarg del temps; l’estil per si sol no permet datar-los, i la fitxa no aporta un mètode alternatiu específic."
+      ],
+      "open_units": [
+        "Inventari i estudi dels gravats rupestres andorrans i dels seus motius encara parcials.",
+        "Fitxes completes de l’Oral i el Cedre pendents.",
+        "Localització actual de còdols, dena de collaret, peu votiu i fíbula no identificada.",
+        "Límit entre objecte funcional i obra d’art queda com a pregunta oberta de la font."
+      ],
       "completion_note": "",
       "reason": ""
     },

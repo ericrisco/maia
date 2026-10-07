@@ -4,14 +4,14 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 
 - Fitxes article: **1348**.
 - Fitxers totals, inclosos índexs: **1477**.
-- Converses candidates: **50**.
+- Converses candidates: **51**.
 
 | Estat de revisió | Fitxes |
 |---|---:|
 | Revisades completes | 0 |
-| En curs | 56 |
+| En curs | 57 |
 | Revisades sense pregunta natural | 0 |
-| No començades | 1292 |
+| No començades | 1291 |
 
 ## Estat per tema
 
@@ -32,7 +32,7 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 | `temes/cultura/andorra-vista-de-fora` | 6 | 0 | 6 | 0 | 0 |
 | `temes/cultura/arquitectura` | 11 | 0 | 11 | 0 | 0 |
 | `temes/cultura/artesania` | 2 | 0 | 2 | 0 | 0 |
-| `temes/cultura/arts-visuals` | 8 | 3 | 5 | 0 | 0 |
+| `temes/cultura/arts-visuals` | 8 | 2 | 6 | 0 | 0 |
 | `temes/cultura/cultura-popular` | 2 | 2 | 0 | 0 | 0 |
 | `temes/cultura/literatura` | 1 | 1 | 0 | 0 | 0 |
 | `temes/cultura/llegendes` | 10 | 10 | 0 | 0 | 0 |

@@ -827,5 +827,20 @@
     "reviewed_units": [
       "Les fonts discrepen sobre si Viladomat es va establir a Escaldes després de la Guerra Civil o només hi va residir els últims anys; l’arribada no està datada."
     ]
+  },
+  "docs/temes/cultura/arts-visuals/lart-mes-antic.md": {
+    "status": "in_progress",
+    "open_units": [
+      "Inventari i estudi dels gravats rupestres andorrans i dels seus motius encara parcials.",
+      "Fitxes completes de l’Oral i el Cedre pendents.",
+      "Localització actual de còdols, dena de collaret, peu votiu i fíbula no identificada.",
+      "Límit entre objecte funcional i obra d’art queda com a pregunta oberta de la font."
+    ],
+    "conversation_ids": [
+      "gravats-rupestres-estil-no-data-001"
+    ],
+    "reviewed_units": [
+      "Els motius dels gravats es repeteixen al llarg del temps; l’estil per si sol no permet datar-los, i la fitxa no aporta un mètode alternatiu específic."
+    ]
   }
 }
