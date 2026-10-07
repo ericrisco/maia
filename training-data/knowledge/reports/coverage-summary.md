@@ -27,7 +27,7 @@ La cobertura és per document citat i és només un límit inferior: una cita no
 | `llengua` | 43 | 0 | 43 |
 | `persones` | 43 | 0 | 43 |
 | `politica` | 19 | 0 | 19 |
-| `societat` | 142 | 6 | 136 |
+| `societat` | 142 | 7 | 135 |
 | `territori` | 49 | 1 | 48 |
 | `vida-quotidiana` | 11 | 0 | 11 |
 
@@ -135,7 +135,7 @@ Aquest índex més fi permet avançar branca per branca. `Amb conversa` segueix 
 | `temes/societat/educacio` | 30 | 1 | 29 | 8 | 19 | 3 | 0 |
 | `temes/societat/esport` | 1 | 0 | 1 | 1 | 0 | 0 | 0 |
 | `temes/societat/familia` | 4 | 0 | 4 | 3 | 1 | 0 | 0 |
-| `temes/societat/habitatge` | 9 | 1 | 8 | 6 | 2 | 1 | 0 |
+| `temes/societat/habitatge` | 9 | 2 | 7 | 6 | 2 | 1 | 0 |
 | `temes/societat/immigracio` | 19 | 0 | 19 | 3 | 14 | 2 | 0 |
 | `temes/societat/mitjans` | 5 | 0 | 5 | 3 | 2 | 0 | 0 |
 | `temes/societat/proteccio-social` | 4 | 1 | 3 | 3 | 0 | 1 | 0 |
@@ -176,7 +176,7 @@ Aquesta tria només mira el camp `font` de la capçalera i la seva fitxa a `docs
 | `pending` | 604 |
 | `missing` | 1 |
 
-**Total:** 1348 fitxes article; **14** tenen almenys una conversa citada i **1334** encara no en tenen.
+**Total:** 1348 fitxes article; **15** tenen almenys una conversa citada i **1333** encara no en tenen.
 
 ## Límits
 

@@ -1,6 +1,7 @@
 {
   "description": "Assigna cada font de contingut a un únic split; exemples amb fonts relacionades comparteixen split.",
   "groups": {
+    "docs/temes/societat/habitatge/dos-tercos-del-pais-viuen-de-lloguer.md": "train",
     "docs/temes/societat/proteccio-social/el-gini-ha-pujat-vuit-punts.md": "train",
     "docs/raw/estadistica-api/pobresa/pobresa-desigualtat-i-llars-per-l-api-d-estadistica.md": "train",
     "docs/raw/estadistica-api/pobresa/pobresa-i-llars-api-2026-09-18.tsv": "train",
