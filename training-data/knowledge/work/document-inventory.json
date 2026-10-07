@@ -9,7 +9,7 @@
   "file_count": 1477,
   "article_count": 1348,
   "parse_error_count": 0,
-  "conversation_count": 126,
+  "conversation_count": 127,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 0,
@@ -1164,8 +1164,9 @@
       "topic": "temes/cultura",
       "source": "estadistica-ad",
       "status": "in_progress",
-      "conversation_count": 7,
+      "conversation_count": 8,
       "conversation_ids": [
+        "habits-culturals-biblioteques-edat-001",
         "habits-culturals-biblioteques-enquesta-i-usuaris-001",
         "habits-culturals-cinema-biblioteques-001",
         "habits-culturals-cinema-edat-i-augment-001",
@@ -1189,7 +1190,9 @@
         "Esport: 73,2% → 77,8% (+4,6 punts) en conjunt; 45-64 +8,1, 65+ +7,8 i 30-44 -1,2.",
         "L'indicador d'esport no mesura hores ni freqüència de pràctica.",
         "Teatre: 39,4% → 39,0% (-0,4 punts), gairebé estable.",
-        "Participació en més d'11 activitats culturals: 55,0% → 44,3% (-10,7 punts), sense tractar-ho com a indicador exhaustiu de participació cultural."
+        "Participació en més d'11 activitats culturals: 55,0% → 44,3% (-10,7 punts), sense tractar-ho com a indicador exhaustiu de participació cultural.",
+        "Assistència a biblioteques per edat: caiguda més gran entre 15-29 (-15 punts); 45-64 gairebé estable (-0,3); 30-44 -4,9; 65+ -8,1.",
+        "L'indicador mesura percentatge de persones que van a biblioteca, no nombre de visites."
       ],
       "open_units": [
         "Revisar les altres activitats de l'enquesta i els seus desglossaments per edat, sexe i estudis.",
