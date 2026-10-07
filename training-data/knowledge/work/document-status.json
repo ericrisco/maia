@@ -2,7 +2,7 @@
   "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md": {
     "status": "in_progress",
     "open_units": [
-      "Les altres festes religioses, diumenges i períodes de tancament enumerats a la llista de 1902.",
+      "La font primària original de la llista més antiga i la seva datació exacta; el corpus només té la descripció de Brutails.",
       "Els efectes dels feriats sobre execucions i altres procediments judicials no coberts pels terminis d’apel·lació i els embargaments.",
       "La vigència de la llista de 1902 i quan va deixar d'aplicar-se; el corpus no té una llista posterior."
     ],
@@ -12,7 +12,8 @@
       "embargament-dies-feriats-sega-1902-001",
       "dies-feriats-total-anual-1902-001",
       "berdu-feriats-i-tancament-sega-001",
-      "foraster-audiencia-especial-feriats-1902-001"
+      "foraster-audiencia-especial-feriats-1902-001",
+      "llista-feriats-1902-dies-i-fires-001"
     ],
     "reviewed_units": [
       "La llista de 1902 tancava els tribunals del 27 de novembre al 4 de desembre per la fira d'Organyà; aquest interval no prova la durada de la fira ni l'assistència de persones concretes.",
@@ -20,7 +21,8 @@
       "Els dies feriats suspenien el còmput de terminis, però l’embargament s’hi podia practicar; la possible relació amb el període de sega és una hipòtesi, no una explicació documental.",
       "Recompte possible de 62 dies datats; no hi ha total anual perquè s’hi afegeixen diumenges i quatre períodes mòbils que poden solapar-se, i cal concretar l’any.",
       "La llista possiblement del segle XVIII esmenta Berdu, no identificat ni a la llista de 1902; la connexió entre la sega i el tancament d’estiu de 1902 no queda provada.",
-      "El comentari de Brutails descriu una audiència especial fora dels dies feriats per al foraster, amb dipòsit de 15 pessetes i avís a l’altra part amb tres dies d’antelació; no n’estableix l’aplicació als habitants."
+      "El comentari de Brutails descriu una audiència especial fora dels dies feriats per al foraster, amb dipòsit de 15 pessetes i avís a l’altra part amb tres dies d’antelació; no n’estableix l’aplicació als habitants.",
+      "Calendari de tancaments de 1902: diumenges, festes religioses i períodes fixos o mòbils; tres intervals s’associen a les fires de Salàs, la Seu i Organyà. La peça només data sis punts explícitament."
     ]
   }
 }
