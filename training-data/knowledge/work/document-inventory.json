@@ -14972,7 +14972,7 @@
       "topic": "temes/institucions/justicia",
       "source": "brutails-coutume-1904",
       "status": "in_progress",
-      "conversation_count": 18,
+      "conversation_count": 19,
       "conversation_ids": [
         "ampara-collita-llindar-blat-herba-01",
         "ampara-verificacio-deu-dies-subhasta-tres-01",
@@ -14985,6 +14985,7 @@
         "manuscrit-palmitjavila-datacio-despres-1607-01",
         "manuscrit-vers-brutails-habitants-vs-establerts-01",
         "penyora-porta-trucar-testimoni-claudators-01",
+        "quarta-penyores-mobles-vs-immobles-lectura-ambigua-01",
         "retracte-finca-un-any-i-dia-regla-antiga-01",
         "sentencia-verbal-apelacio-citacio-absolucio-01",
         "signar-penyores-deutor-custodia-tria-01",
@@ -15011,12 +15012,13 @@
         "motiu del termini curt per als forasters: el manuscrit estableix la diferència però no n’explica la raó ni declara una intenció d’afavorir el creditor de fora",
         "datació i identitat: evidència que el manuscrit és posterior al febrer de 1607; la referència al segle XVI podria ser un altre text, però no se’n confirma la identitat; no hi ha terminus ante quem",
         "límits del testimoni: els nou primers paràgrafs no apareixen a l’extracte; Brutails no en dona signatura ni localització, de manera que el corpus no en reconstrueix el contingut ni identifica on es conserva l’original",
-        "divergència entre el manuscrit i la glossa de Brutails: el primer parla d’habitants i el comentari d’andorrans establerts; el corpus els atribueix separadament i no els considera equivalents per definició"
+        "divergència entre el manuscrit i la glossa de Brutails: el primer parla d’habitants i el comentari d’andorrans establerts; el corpus els atribueix separadament i no els considera equivalents per definició",
+        "quarta part: a favor del creditor en la taxació de mobles i bestiar; direcció ambigua per als immobles, sense extrapolar-hi la regla mobiliària"
       ],
       "open_units": [
         "vigència i relacions: no consta si el procediment encara regia el 1740 ni què va passar entre els dos textos; no hi ha acte de derogació o substitució identificat",
         "terminologia: què designa exactament «prom» i si és el mateix ofici que prohom jurat; sentit jurídic dels mots no contrastat amb diccionari",
-        "execució restant: collita insuficient; direcció de la quarta en immobles; aplicació real del termini d’un any i un dia; relació amb la Instructa de 1740, sense acte de substitució identificat"
+        "execució restant: collita insuficient; aplicació real del termini d’un any i un dia; relació amb la Instructa de 1740, sense acte de substitució identificat"
       ],
       "completion_note": "",
       "reason": ""
