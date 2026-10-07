@@ -63,6 +63,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - Viquipèdia en català, article «Ball de l’ossa d’Encamp», llicència CC BY-SA 4.0; descripció atribuïda a Joan Amades, *Costumari Català* (1950), p. 674.
 - Viquipèdia en català, article «Ball de l’ossa d’Encamp», llicència CC BY-SA 4.0; descripció de Joan Amades, *Costumari Català* (1950), p. 674.
 - Viquipèdia en català, article «Ball de l’ossa d’Encamp», llicència CC BY-SA 4.0; el passatge històric es presenta com una descripció de Joan Amades publicada el 1950.
+- Viquipèdia en català, article «Ball de l’ossa d’Encamp», llicència CC BY-SA 4.0; informació sobre el guió de Rossend Marsol Clua, àlies Sícoris, i la descripció anterior d’Amades.
 - Viquipèdia en català, article «Ball de l’ossa d’Encamp», llicència CC BY-SA 4.0; la font descriu «Els contrabandistes» i «L’ossa» com a farses complementàries en dies consecutius.
 - Viquipèdia en català, article «Ball de l’ossa d’Encamp», llicència CC BY-SA 4.0; la interpretació simbòlica s’hi atribueix a Eloi Ysàs Trias.
 - Viquipèdia en català, article «Ball de l’ossa d’Encamp», llicència CC BY-SA 4.0; relació de personatges de la farsa.
@@ -104,6 +105,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - CC BY-SA 4.0, amb obligació d’atribució i compartir igual. La fitxa no concreta l’any en què la representació d’Ordino es va traslladar al desembre.
 - CC BY-SA 4.0, amb obligació d’atribució i compartir igual. La font és secundària; la tradició sobre els orígens s’atribueix com a tal.
 - CC BY-SA 4.0, amb obligació d’atribució i compartir igual. L’origen medieval es manté com a hipòtesi probable de la font, no com a fet provat.
+- CC BY-SA 4.0; atribució i compartir igual. El guió de Sícoris no es reprodueix perquè no consta al corpus.
 - CC BY-SA 4.0; atribució i compartir igual. La causa de la represa d’Ordino no consta a la font.
 - CC BY-SA 4.0; atribució i compartir igual. La descripció d’Amades es manté atribuïda al 1950 i no es presenta com el guió actual.
 - CC BY-SA 4.0; atribució i compartir igual. La font no data el trasllat al desembre.
