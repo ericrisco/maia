@@ -233,15 +233,16 @@
       "status": "in_progress",
       "conversation_ids": [
         "pareatge-segon-acord-1288-001",
-        "segon-pareatge-enclar-arfa-fortificacions-001"
+        "segon-pareatge-enclar-arfa-fortificacions-001",
+        "segon-pareatge-decima-pagaments-001"
       ],
       "covered_units": [
         "Segon Pareatge de 1288: les qüestions derivaven d'ambigüitats prèvies; a Enclar s'ordena aturar i retirar la construcció i no fortificar sense consentiment de l'altre senyor.",
-        "Fortificacions: a Enclar s'atura i retira la construcció començada, i no es pot fortificar sense consentiment exprés; a Arfa la prohibició és permanent llevat d'acord conjunt. Enclar també queda com a empriu."
+        "Fortificacions: a Enclar s'atura i retira la construcció començada, i no es pot fortificar sense consentiment exprés; a Arfa la prohibició és permanent llevat d'acord conjunt. Enclar també queda com a empriu.",
+        "Dècima d'Andorra: els fruits havien de cobrir 140 sous anuals al prevere de Sant Llorenç, 40 al prior de la Seu i 10 als preveres de la Seu; el sobrant corresponia al comte i als successors."
       ],
       "open_units": [
         "Revisar la prohibició de fortificar la roca d'Arfa i la diferència respecte d'Enclar.",
-        "Revisar la dècima d'Andorra, els imports anuals i la destinació dels pagaments.",
         "Revisar el nomenament conjunt de notaris, competències, repartiment d'ingressos i responsabilitat.",
         "Revisar la confirmació papal, la pena, els terminis i el lliurament de la butlla.",
         "Mantenir oberts els buits sobre execució material, primers notaris, butlla i consulta de l'original; revisar drets de la reproducció i traducció abans de l'export."
