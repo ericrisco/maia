@@ -2130,9 +2130,10 @@
       "topic": "temes/economia/comerc",
       "source": "estadistica-ad",
       "status": "in_progress",
-      "conversation_count": 9,
+      "conversation_count": 10,
       "conversation_ids": [
         "comerc-2025-deu-a-un-be-ns-001",
+        "comerc-exportacions-2026-parcial-001",
         "comerc-exportacions-nous-destins-1997-2025-001",
         "comerc-exportacions-roba-pes-1993-2025-001",
         "comerc-exportacions-salt-2022-art-001",
@@ -2151,7 +2152,8 @@
         "La importació de tabac assoleix 107,11 M€ el 1997, entre 64,74 M€ el 1996 i 37,23 M€ el 1998; la font no n’explica la causa ni atribueix el pic al contraban.",
         "El valor de les importacions de vehicles puja de 85,39 M€ el 2010 a 337,60 M€ el 2025; el valor no indica per si sol el nombre de vehicles importats.",
         "Espanya i França passen de sumar el 89% dels destins d’exportació el 1997 al 67% el 2025; la font registra quotes d’altres mercats, però no n’explica l’origen.",
-        "El pes del vestit en les exportacions baixa del 19,8% el 1993 al 2,0% el 2025; la sèrie no diu on es fabriquen els béns exportats."
+        "El pes del vestit en les exportacions baixa del 19,8% el 1993 al 2,0% el 2025; la sèrie no diu on es fabriquen els béns exportats.",
+        "La dada d’exportació del 2026 cobreix només una part de l’any i no es pot comparar directament amb els totals anuals; no prova una caiguda anual."
       ],
       "open_units": [
         "Resta revisar la resta de la fitxa: evolució anual, països d'origen i destí, capítols aranzelaris, salt exportador del 2022, períodes incomplets i límits d'interpretació."
