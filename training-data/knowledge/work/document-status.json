@@ -776,7 +776,6 @@
       "status": "in_progress",
       "unit_count": 23,
       "covered_unit_ids": [
-        "docs/temes/cultura/arquitectura/santa-coloma.md#unit-0005",
         "docs/temes/cultura/arquitectura/santa-coloma.md#unit-0006",
         "docs/temes/cultura/arquitectura/santa-coloma.md#unit-0008",
         "docs/temes/cultura/arquitectura/santa-coloma.md#unit-0009",
@@ -789,7 +788,7 @@
         "docs/temes/cultura/arquitectura/santa-coloma.md#unit-0016",
         "docs/temes/cultura/arquitectura/santa-coloma.md#unit-0019"
       ],
-      "excluded_unit_count": 0,
+      "excluded_unit_count": 1,
       "open_unit_count": 11,
       "conversation_ids": [
         "santa-coloma-periple-pintures-001"
