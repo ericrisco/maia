@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 2,
-    "in_progress": 3,
+    "in_progress": 4,
     "no_natural_question": 0,
-    "not_started": 1343
+    "not_started": 1342
   },
   "documents": [
     {
@@ -2335,12 +2335,19 @@
       "type": "article",
       "topic": "temes/economia/comerc",
       "source": "jurisprudencia-ad",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
-      "completion_note": "",
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "duana-unio-aduanera-aliments-001"
+      ],
+      "reviewed_units": [
+        "El Codi de Duana separa el règim dels capítols 1–24, inclosos els productes agrícoles i alimentaris, del règim de la unió duanera CE–Andorra dels capítols 25–97.",
+        "El Codi anomena «lliure disposició» l'estatut dels productes dels capítols 1–24 després de les formalitats d'importació i del cobrament de la taxa sobre el consum; «lliure pràctica» s'aplica als capítols 25–97."
+      ],
+      "open_units": [
+        "Només s'ha revisat el perímetre per capítol i els termes lliure disposició/lliure pràctica. Cal revisar la resta del Codi, les franquícies, la vigència i els límits de la fitxa abans de marcar-la completa."
+      ],
+      "completion_note": "Una conversa candidata cobreix l'àmbit material de la unió duanera i el règim de les importacions alimentàries. La revisió de l'article continua.",
       "reason": ""
     },
     {
