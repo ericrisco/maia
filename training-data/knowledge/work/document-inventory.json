@@ -91,15 +91,18 @@
       "topic": "temes/costums/caramelles",
       "source": "premsa-andorrana",
       "status": "in_progress",
-      "conversation_count": 1,
+      "conversation_count": 2,
       "conversation_ids": [
+        "caramelles-ous-diners-transicio-01",
         "caramelles-sant-julia-recorregut-donatius-01"
       ],
       "reviewed_units": [
         "caramelles com a cants de Pasqua i activitats del grup",
         "recorregut de Sant Julià: cants al carrer i sota balcons o en places",
         "recollida de donatius amb cistella a peu pla o amb perxa",
-        "drets pendents de la font institucional i font periodística genèrica no verificable"
+        "drets pendents de la font institucional i font periodística genèrica no verificable",
+        "evolució descrita: recollida d’ous per a una truitada i recollida actual de diners per a un àpat",
+        "font no aporta data ni causa del canvi i la referència periodística concreta no és verificable"
       ],
       "completion_note": "",
       "reason": ""
