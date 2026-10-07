@@ -86,5 +86,20 @@
     "reviewed_units": [
       "Diferència entre les falles andorranes com a torxes i les Falles valencianes com a monuments; materials antics i canvi documentat per Canturri després de la recuperació cap al 1997-1998."
     ]
+  },
+  "docs/temes/costums/caramelles/les-caramelles.md": {
+    "status": "in_progress",
+    "open_units": [
+      "Lletres i enregistraments de les caramelles, amb permisos i drets clars.",
+      "Recorregut detallat i data d’inici de les caramelles d’Ordino.",
+      "Història completa i fonts datades per al pas de la recollida d’ous als donatius.",
+      "Condicions de reutilització de les fonts periodístiques i institucionals citades."
+    ],
+    "conversation_ids": [
+      "caramelles-sant-julia-diumenge-seguent-001"
+    ],
+    "reviewed_units": [
+      "A Sant Julià, les caramelles es fan el diumenge després de Pasqua; la Coral Rocafort recorre carrers, s’atura sota balcons o a places, canta i recull donatius."
+    ]
   }
 }
