@@ -449,12 +449,21 @@
       "title": "L'estafa d'Andorra, el documental",
       "type": "article",
       "topic": "temes/cultura/andorra-vista-de-fora",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 52,
-      "covered_unit_ids": [],
-      "excluded_unit_count": 0,
-      "open_unit_count": 52,
-      "conversation_ids": []
+      "covered_unit_ids": [
+        "docs/temes/cultura/andorra-vista-de-fora/lestafa-dandorra.md#unit-0006",
+        "docs/temes/cultura/andorra-vista-de-fora/lestafa-dandorra.md#unit-0007",
+        "docs/temes/cultura/andorra-vista-de-fora/lestafa-dandorra.md#unit-0008",
+        "docs/temes/cultura/andorra-vista-de-fora/lestafa-dandorra.md#unit-0009",
+        "docs/temes/cultura/andorra-vista-de-fora/lestafa-dandorra.md#unit-0010",
+        "docs/temes/cultura/andorra-vista-de-fora/lestafa-dandorra.md#unit-0011"
+      ],
+      "excluded_unit_count": 1,
+      "open_unit_count": 45,
+      "conversation_ids": [
+        "andorra-hustle-retirada-amazon-001"
+      ]
     },
     "docs/temes/cultura/arquitectura/arquitectura-index-de-fitxes.md": {
       "title": "Arquitectura — índex de fitxes",
