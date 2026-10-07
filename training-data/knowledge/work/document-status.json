@@ -965,15 +965,18 @@
         "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0018",
         "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0019",
         "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0020",
+        "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0031",
+        "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0032",
         "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0036",
         "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0037",
         "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0038"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 34,
+      "open_unit_count": 32,
       "conversation_ids": [
         "llegenda-dama-blanca-identificacio-001",
-        "llegenda-dama-blanca-sindic-001"
+        "llegenda-dama-blanca-sindic-001",
+        "llegenda-dama-blanca-toponim-001"
       ]
     },
     "docs/temes/cultura/llegendes/la-troballa-de-meritxell.md": {
