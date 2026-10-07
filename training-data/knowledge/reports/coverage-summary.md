@@ -5,8 +5,8 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 - Documents inventariats: **1477** (1348 articles).
 - Unitats estructurals totals: **62911**.
 - Unitats cobertes per converses aprovades: **177** (0.281%).
-- Unitats excloses amb motiu: **81**.
-- Unitats encara obertes: **62653**.
+- Unitats excloses amb motiu: **95**.
+- Unitats encara obertes: **62639**.
 - Converses candidates: **44**; aprovades: **44**.
 
 ## Estat per tema
@@ -32,7 +32,7 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 | `temes/cultura/arts-visuals` | 9 | 303 | 0 | 0 | 303 |
 | `temes/cultura/cultura-popular` | 2 | 48 | 5 | 3 | 40 |
 | `temes/cultura/literatura` | 1 | 87 | 0 | 0 | 87 |
-| `temes/cultura/llegendes` | 10 | 254 | 8 | 4 | 242 |
+| `temes/cultura/llegendes` | 10 | 254 | 8 | 18 | 228 |
 | `temes/cultura/museus-i-arxius` | 15 | 912 | 0 | 0 | 912 |
 | `temes/cultura/museus-i-arxius/museus` | 11 | 335 | 5 | 0 | 330 |
 | `temes/cultura/musica-i-cancons` | 3 | 103 | 0 | 0 | 103 |
@@ -143,6 +143,6 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 
 ## Exclusions per motiu
 
-- `duplicate`: 29.
-- `excluded_rights`: 12.
+- `duplicate`: 32.
+- `excluded_rights`: 23.
 - `not_knowledge`: 40.
