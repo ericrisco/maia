@@ -15,7 +15,8 @@
       "foraster-audiencia-especial-feriats-1902-001",
       "llista-feriats-1902-dies-i-fires-001",
       "llista-feriats-1902-font-i-abast-001",
-      "meritxell-feriat-i-festa-nacional-1902-001"
+      "meritxell-feriat-i-festa-nacional-1902-001",
+      "sant-antoni-llista-judicial-i-escudella-001"
     ],
     "reviewed_units": [
       "La llista de 1902 tancava els tribunals del 27 de novembre al 4 de desembre per la fira d'Organyà; aquest interval no prova la durada de la fira ni l'assistència de persones concretes.",
@@ -26,7 +27,8 @@
       "El comentari de Brutails descriu una audiència especial fora dels dies feriats per al foraster, amb dipòsit de 15 pessetes i avís a l’altra part amb tres dies d’antelació; no n’estableix l’aplicació als habitants.",
       "Calendari de tancaments de 1902: diumenges, festes religioses i períodes fixos o mòbils; tres intervals s’associen a les fires de Salàs, la Seu i Organyà. La peça només data sis punts explícitament.",
       "Abast i procedència de la llista: redactada i aprovada el 1902 per resoldre el desacord local sobre els dies feriats, no com a prova de pràctiques anteriors.",
-      "El 8 de setembre de 1902 figura com a feriat judicial amb el nom Nativitat de la Mare de Déu; la llista no l’anomena Meritxell ni festa nacional."
+      "El 8 de setembre de 1902 figura com a feriat judicial amb el nom Nativitat de la Mare de Déu; la llista no l’anomena Meritxell ni festa nacional.",
+      "L’absència de Sant Antoni a la llista judicial de 1902 no prova que la celebració popular no existís."
     ]
   },
   "docs/temes/costums/meritxell/meritxell.md": {
@@ -40,6 +42,35 @@
     ],
     "reviewed_units": [
       "La llista judicial de 1902 anomena el 8 de setembre Nativitat de la Mare de Déu; no acredita per si sola que fos festa nacional ni que el Consell la denominés Meritxell."
+    ]
+  },
+  "docs/temes/costums/calendari-festiu/calendari-festiu.md": {
+    "status": "in_progress",
+    "open_units": [
+      "Dates i fonts primàries dels calendaris de cada parròquia i vila.",
+      "Caramelles, Sant Joan i falles, i la cronologia detallada de les celebracions populars.",
+      "La font periodística del calendari general no està identificada ni datada."
+    ],
+    "conversation_ids": [
+      "sant-antoni-llista-judicial-i-escudella-001"
+    ],
+    "reviewed_units": [
+      "La llista judicial de 1902 no és un calendari popular; l’absència de Sant Antoni no prova que la festa no se celebrés."
+    ]
+  },
+  "docs/temes/costums/sant-antoni/escudelles-de-sant-antoni.md": {
+    "status": "in_progress",
+    "open_units": [
+      "Calendari, lloc, nom local i organitzadors de les escudelles a les parròquies fora del cas documentat de Canillo.",
+      "Origen històric de la festa i primera documentació de l’escudella popular; no hi ha font datada per a 1902.",
+      "Vigència i localització actual de la benedicció dels animals.",
+      "Extensió del sentit local de vianda i documentació dels encants i Sant Sebastià."
+    ],
+    "conversation_ids": [
+      "sant-antoni-llista-judicial-i-escudella-001"
+    ],
+    "reviewed_units": [
+      "La llista judicial de 1902 no permet datar l’escudella popular; la primera vianda de Canillo documentada a la fitxa és del 1979 i no data les altres parròquies."
     ]
   }
 }

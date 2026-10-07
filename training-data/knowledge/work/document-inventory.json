@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 2,
+    "in_progress": 4,
     "no_natural_question": 0,
-    "not_started": 1346
+    "not_started": 1344
   },
   "documents": [
     {
@@ -29,11 +29,19 @@
       "type": "article",
       "topic": "temes/costums/calendari-festiu",
       "source": "premsa-andorrana",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "sant-antoni-llista-judicial-i-escudella-001"
+      ],
+      "reviewed_units": [
+        "La llista judicial de 1902 no és un calendari popular; l’absència de Sant Antoni no prova que la festa no se celebrés."
+      ],
+      "open_units": [
+        "Dates i fonts primàries dels calendaris de cada parròquia i vila.",
+        "Caramelles, Sant Joan i falles, i la cronologia detallada de les celebracions populars.",
+        "La font periodística del calendari general no està identificada ni datada."
+      ],
       "completion_note": "",
       "reason": ""
     },
@@ -470,11 +478,20 @@
       "type": "article",
       "topic": "temes/costums/sant-antoni",
       "source": "premsa-andorrana",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "sant-antoni-llista-judicial-i-escudella-001"
+      ],
+      "reviewed_units": [
+        "La llista judicial de 1902 no permet datar l’escudella popular; la primera vianda de Canillo documentada a la fitxa és del 1979 i no data les altres parròquies."
+      ],
+      "open_units": [
+        "Calendari, lloc, nom local i organitzadors de les escudelles a les parròquies fora del cas documentat de Canillo.",
+        "Origen històric de la festa i primera documentació de l’escudella popular; no hi ha font datada per a 1902.",
+        "Vigència i localització actual de la benedicció dels animals.",
+        "Extensió del sentit local de vianda i documentació dels encants i Sant Sebastià."
+      ],
       "completion_note": "",
       "reason": ""
     },
@@ -13673,7 +13690,7 @@
       "topic": "temes/institucions/justicia",
       "source": "brutails-coutume-1904",
       "status": "in_progress",
-      "conversation_count": 9,
+      "conversation_count": 10,
       "conversation_ids": [
         "berdu-feriats-i-tancament-sega-001",
         "dies-feriats-total-anual-1902-001",
@@ -13683,6 +13700,7 @@
         "llista-feriats-1902-font-i-abast-001",
         "meritxell-feriat-i-festa-nacional-1902-001",
         "organya-tribunals-calendari-fires-001",
+        "sant-antoni-llista-judicial-i-escudella-001",
         "termini-apellacio-dies-feriats-1902-001"
       ],
       "reviewed_units": [
@@ -13694,7 +13712,8 @@
         "El comentari de Brutails descriu una audiència especial fora dels dies feriats per al foraster, amb dipòsit de 15 pessetes i avís a l’altra part amb tres dies d’antelació; no n’estableix l’aplicació als habitants.",
         "Calendari de tancaments de 1902: diumenges, festes religioses i períodes fixos o mòbils; tres intervals s’associen a les fires de Salàs, la Seu i Organyà. La peça només data sis punts explícitament.",
         "Abast i procedència de la llista: redactada i aprovada el 1902 per resoldre el desacord local sobre els dies feriats, no com a prova de pràctiques anteriors.",
-        "El 8 de setembre de 1902 figura com a feriat judicial amb el nom Nativitat de la Mare de Déu; la llista no l’anomena Meritxell ni festa nacional."
+        "El 8 de setembre de 1902 figura com a feriat judicial amb el nom Nativitat de la Mare de Déu; la llista no l’anomena Meritxell ni festa nacional.",
+        "L’absència de Sant Antoni a la llista judicial de 1902 no prova que la celebració popular no existís."
       ],
       "open_units": [
         "Els efectes dels feriats sobre execucions i altres procediments judicials no coberts pels terminis d’apel·lació i els embargaments.",
