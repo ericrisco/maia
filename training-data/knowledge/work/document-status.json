@@ -93,12 +93,22 @@
       "title": "El ball de l'ossa d'Encamp",
       "type": "article",
       "topic": "temes/costums/danses",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 63,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0004",
+        "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0006",
+        "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0008",
+        "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0010",
+        "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0011",
+        "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0012",
+        "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0013"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 63,
-      "conversation_ids": []
+      "open_unit_count": 56,
+      "conversation_ids": [
+        "ball-ossa-encamp-ritus-pas-001"
+      ]
     },
     "docs/temes/costums/danses/el-ball-del-cerda.md": {
       "title": "El ball del Cerdà",
