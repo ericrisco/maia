@@ -1,20 +1,6 @@
 {
   "docs/temes/costums/calendari-festiu/el-carnaval-dencamp.md": {
-    "status": "in_progress",
-    "conversation_ids": [
-      "carnaval-encamp-horaris-2026-01",
-      "carnaval-encamp-sentit-guio-incert-01",
-      "ball-ossa-encamp-versions-1950-avui-01",
-      "ultima-ossa-ordino-cronologies-en-desacord-01",
-      "ball-ossa-encamp-femeni-i-reminiscencia-01"
-    ],
-    "reviewed_units": [
-      "horaris i lloc del Judici dels Contrabandistes i del Ball de l’Ossa a l’edició d’Encamp del 2026; caràcter mòbil de les dates",
-      "Judici dels Contrabandistes: farsa pública i lectura de la fitxa sobre el contraban; guió no localitzat i forma de representació desconeguda",
-      "comparison between the 1950 description of the Ball de l’Ossa and the later argument summarized from Masegosa; source verification caveat retained",
-      "cronologies incompatibles d’Ordino segons Masegosa i Viquipèdia; totes dues registren la represa del 2017, però el corpus no les arbitra",
-      "forma femenina l’Ossa i relació amb rituals pirinencs segons Masegosa; reminiscència no presentada com a continuïtat exacta"
-    ],
+    "status": "not_started",
     "open_units": [
       "les tres representacions del Carnaval d’Encamp i el seu calendari complet",
       "contingut i context del Judici dels Contrabandistes",
@@ -24,15 +10,7 @@
     ]
   },
   "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md": {
-    "status": "in_progress",
-    "conversation_ids": [
-      "ball-ossa-encamp-versions-1950-avui-01",
-      "ultima-ossa-ordino-cronologies-en-desacord-01"
-    ],
-    "reviewed_units": [
-      "versions documented for the Ball de l’Ossa d’Encamp: Amades (1950) and the later account summarized from Masegosa; the corpus does not arbitrate authenticity",
-      "cronologies incompatibles de les interrupcions i represes d’Ordino segons Viquipèdia i Masegosa; desacord sense resoldre"
-    ],
+    "status": "not_started",
     "open_units": [
       "personatges de la farsa i paper dels dallaires",
       "lectura iniciàtica i atribució a Ysàs; límits de la interpretació",
@@ -43,21 +21,7 @@
     ]
   },
   "docs/temes/cultura/teatre/el-teatre-de-carnestoltes.md": {
-    "status": "in_progress",
-    "conversation_ids": [
-      "ball-ossa-encamp-cortinada-arguments-01",
-      "operacio-carnestoltes-matanca-porc-origen-01",
-      "tralari-marieta-final-i-lectura-01",
-      "tralari-marieta-variant-canillo-text-perdut-01",
-      "ball-ossa-encamp-femeni-i-reminiscencia-01"
-    ],
-    "reviewed_units": [
-      "diferència entre les versions del Ball de l'Ossa d'Encamp i la Cortinada; variació local sense origen comú establert",
-      "Operació del Carnestoltes: vísceres de la matança del porc com a attrezzo, incorporació pels volts de 1970, autor desconegut i representació al complex esportiu",
-      "Tralarí i la Marieta: final de la farsa i interpretació de Masegosa sobre gènere, crema del ninot i cicle Carnaval-Quaresma",
-      "Tralarí i la Marieta: variant de nom a Canillo, constància des del segle XIX i absència de text escrit; no es pot confirmar que els arguments fossin idèntics",
-      "forma femenina del Ball de l’óssa d’Encamp i reminiscència dels rituals pirinencs; continuïtat literal no demostrada"
-    ],
+    "status": "not_started",
     "open_units": [
       "forma de teatre popular i relació entre actors i públic",
       "història del Ball de l’Ossa a Encamp, Ordino i la Cortinada; fonts en desacord sobre cronologies",
@@ -71,21 +35,7 @@
     ]
   },
   "docs/temes/costums/danses/les-festes-de-lossa.md": {
-    "status": "in_progress",
-    "conversation_ids": [
-      "festes-ossa-emigracio-i-primer-testimoni-01",
-      "ultima-ossa-ordino-mascara-centenaria-01",
-      "ultima-ossa-ordino-canvi-desembre-01",
-      "festes-ossa-unesco-candidatura-conjunta-01",
-      "festes-ossa-calendari-hibernacio-tradicio-01"
-    ],
-    "reviewed_units": [
-      "causa atribuïda a l’emigració dels anys vint, dues festes que en queden i primera referència escrita del 1838; origen medieval només probable",
-      "màscara de l’Última Ossa: cap d’os dissecat descrit com a centenari, transmissió entre generacions i continuïtat d’ús després del 2017; origen exacte desconegut",
-      "canvi de calendari i emplaçament de l’Última Ossa d’Ordino, motiu del trasllat no documentat, i contrast amb el dilluns de Carnaval d’Encamp",
-      "inscripció UNESCO de 2022: les representacions d’Encamp i Ordino dins les Festes de l’Os dels Pirineus i candidatura conjunta d’Andorra i França",
-      "calendari de les festes entre Sant Esteve i Carnaval i creença tradicional sobre la hibernació fins a la Candelera, diferenciada d’una afirmació zoològica"
-    ],
+    "status": "not_started",
     "open_units": [
       "descripció completa de l’Última Ossa d’Ordino, personatges i seqüència final",
       "cronologia contradictòria de les represes d’Ordino i causes que les fonts no expliquen",
@@ -95,19 +45,7 @@
     ]
   },
   "docs/temes/costums/calendari-festiu/calendari-festiu.md": {
-    "status": "in_progress",
-    "conversation_ids": [
-      "festa-major-parroquia-versus-meritxell-01",
-      "tribunals-fira-organya-1902-motiu-i-limit-01",
-      "sant-antoni-absent-calendari-judicial-1902-01",
-      "falles-andorranes-no-son-valencianes-canvi-material-01"
-    ],
-    "reviewed_units": [
-      "diferència entre les festes majors locals d’estiu i la Festa Nacional de Meritxell del 8 de setembre; absència de dates locals oficials a la fitxa",
-      "distinció entre calendari judicial de 1902 i calendari festiu popular; el tancament per fira no acredita assistència universal ni activitat concreta",
-      "el calendari judicial de 1902 no és el calendari popular; l’absència de Sant Antoni no prova absència de celebració",
-      "Sant Joan i falles al 23 de juny; data general sense convertir-la en calendari oficial de cada vila"
-    ],
+    "status": "not_started",
     "open_units": [
       "dates concretes de cada festa major i fonts primàries comunals, que l’article declara absents",
       "Sant Antoni, caramelles, Sant Joan i falles: dates, relacions entre tradicions i fonts",
@@ -118,37 +56,7 @@
     ]
   },
   "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md": {
-    "status": "in_progress",
-    "conversation_ids": [
-      "tribunals-fira-organya-1902-motiu-i-limit-01",
-      "sant-antoni-absent-calendari-judicial-1902-01",
-      "llista-feriats-1902-creacio-no-costum-antic-01",
-      "feriats-1902-sete-epigraf-afegit-marge-01",
-      "feriats-1902-62-dies-no-total-anual-01",
-      "feriats-estiu-sega-llista-antiga-no-rao-1902-01",
-      "termini-apellar-deu-dies-setze-calendari-01",
-      "embargament-en-feriat-i-hipotesi-sega-01",
-      "foraster-audiencia-fora-feriat-15-pessetes-01",
-      "llista-antiga-quatre-fires-berdu-no-identificat-01",
-      "reduccio-festius-bisbats-espanyols-sense-detall-01",
-      "llista-1902-dates-originals-i-comentari-brutails-01",
-      "forasters-terminis-embargament-patron-no-regla-universal-01"
-    ],
-    "reviewed_units": [
-      "fira d’Organyà com a motiu escrit del tancament judicial de 27 de novembre a 4 de desembre de 1902; límit respecte de la llista anterior",
-      "abast de la llista de 1902: dies de tancament judicial, no catàleg de festes populars",
-      "origen de la llista de feriats de 1902: desacord sobre el nombre, encàrrec a Charles Romeu i aprovació del Consell i dels batlles; no acredita costum anterior",
-      "doble numeració del setè epígraf: afegit sobre Organyà al marge, segellat per segona vegada i numeració no corregida; cap desacord registrat",
-      "62 dies datats són un subtotal del recompte del corpus, no el total anual; diumenges i períodes mòbils requereixen càlcul per any sense solapaments",
-      "tancament d’estiu del 25 de juliol al 17 d’agost sense motiu a la llista de 1902; possible context agrícola només consta en una llista antiga",
-      "termini d’apel·lació: deu dies de rigor més tres de gràcia, només dies hàbils; exemple de 12 a 28 de gener",
-      "efecte diferent dels feriats sobre terminis i embargaments; hipòtesi de relació amb la sega separada dels fets escrits",
-      "audiència especial fora dels feriats per a un foraster: dipòsit de quinze pessetes i avís amb tres dies; cap conclusió sobre vies equivalents per als habitants",
-      "comparació entre llista possiblement del segle XVIII i llista de 1902: quatre fires versus tres, motiu agrícola a l’antiga i Berdu sense identificar",
-      "afirmació atribuïda a Brutails que l’Església va suprimir festes als bisbats espanyols; celebracions, dates i norma no identificades",
-      "sis dates escrites a la llista original distingides de les dates de festes que aporta el comentari de Brutails, pàgines 267-268",
-      "audiència fora dels feriats per a forasters; contrastada amb regles manuscrites de períodes diferents sense convertir-les en norma universal"
-    ],
+    "status": "not_started",
     "open_units": [
       "altres fires i trams de tancament de la llista de 1902 i la numeració duplicada de l’epígraf setè",
       "llista possiblement del segle XVIII: quatre fires, sega, dates i topònim Berdu no identificat",
@@ -158,13 +66,7 @@
     ]
   },
   "docs/temes/costums/sant-antoni/escudelles-de-sant-antoni.md": {
-    "status": "in_progress",
-    "conversation_ids": [
-      "sant-antoni-animals-i-vianda-canillo-01"
-    ],
-    "reviewed_units": [
-      "relació de Sant Antoni amb benedicció, descans i alimentació del bestiar; àpat comunitari posterior; nom vianda i primera edició popular de Canillo el 1979"
-    ],
+    "status": "not_started",
     "open_units": [
       "dates, llocs, organització i noms locals de les celebracions de cada parròquia",
       "si avui es manté la benedicció dels animals i on",
@@ -175,13 +77,7 @@
     ]
   },
   "docs/temes/costums/falles/falles.md": {
-    "status": "in_progress",
-    "conversation_ids": [
-      "falles-andorranes-no-son-valencianes-canvi-material-01"
-    ],
-    "reviewed_units": [
-      "diferència entre les falles andorranes i les falles valencianes; materials antics i actuals; recuperació aproximada de 1997-1998"
-    ],
+    "status": "not_started",
     "open_units": [
       "variants i recorreguts per parròquia",
       "estat del reconeixement patrimonial andorrà i fonts comunals",
@@ -189,19 +85,7 @@
     ]
   },
   "docs/temes/costums/caramelles/les-caramelles.md": {
-    "status": "in_progress",
-    "conversation_ids": [
-      "caramelles-ous-pasquetes-horari-01",
-      "caramelles-sant-julia-recorregut-i-data-01",
-      "caramelles-origen-general-i-arribada-andorra-01",
-      "caramelles-nom-instrument-canya-01"
-    ],
-    "reviewed_units": [
-      "recollida tradicional d’ous i truitada de Pasqüetes versus donatius actuals per a un àpat col·lectiu; horaris de les cantades",
-      "format únic de Sant Julià, recorregut de tres hores, Coral Rocafort, parades per cantar i recollir donatius, celebració el diumenge després de Pasqua",
-      "distinció entre l’origen medieval general de les caramelles i la introducció a Andorra situada durant la Segona Guerra Mundial; manca de recerca arxivística anterior",
-      "etimologia proposada: caramella com a instrument de vent fet de canya; abast d’ús a Andorra i font lexicogràfica encara no verificats"
-    ],
+    "status": "not_started",
     "open_units": [
       "etimologia de caramelles i relació amb l’instrument de canya",
       "antiguitat, origen medieval i context religiós: verificació de fonts",
@@ -211,67 +95,13 @@
     ]
   },
   "docs/temes/institucions/justicia/un-fadri-sense-casa-si-que-es-pot-emparar.md": {
-    "status": "in_progress",
-    "conversation_ids": [
-      "embargament-en-feriat-i-hipotesi-sega-01",
-      "forasters-terminis-embargament-patron-no-regla-universal-01",
-      "ampara-verificacio-deu-dies-subhasta-tres-01",
-      "empara-cavalcadura-nunci-custodia-01",
-      "excepcio-fadri-claudators-original-incert-01",
-      "taxacio-penyores-quarta-vuit-deu-01",
-      "ampara-collita-llindar-blat-herba-01",
-      "termini-collita-nou-o-deu-discrepancia-01",
-      "apel-lordre-batlle-recupere-penyores-tres-dies-01",
-      "signar-penyores-deutor-custodia-tria-01",
-      "penyora-porta-trucar-testimoni-claudators-01",
-      "subhasta-immoble-tres-encants-ritual-possessio-01",
-      "retracte-finca-un-any-i-dia-regla-antiga-01",
-      "sentencia-verbal-apelacio-citacio-absolucio-01",
-      "termini-curt-foraster-motiu-no-consta-01",
-      "manuscrit-palmitjavila-datacio-despres-1607-01",
-      "manuscrit-extracte-paragraf-deu-original-no-localitzat-01",
-      "manuscrit-vers-brutails-habitants-vs-establerts-01",
-      "quarta-penyores-mobles-vs-immobles-lectura-ambigua-01",
-      "collita-no-cobreix-deute-altres-bens-01",
-      "quarta-relacio-manuscrit-instructa-1740-hipotesi-01",
-      "procediment-palmitjavila-vigencia-1740-no-provada-01"
-    ],
-    "reviewed_units": [
-      "embargament de collita només després de la sega; possible relació amb calendari de feriats marcada com a hipòtesi, no com a regla coordinada",
-      "terminis de pagament diferents per a reclamants habitants i forasters, embargament de béns i límits de la generalització",
-      "verificació de l’empara: deu dies per justificar-la, nul·litat i alliberament si no es verifica, subhasta dins de tres dies i mitjans de prova esmentats",
-      "límits de l’empara sobre béns de forasters: presa per la part interessada amb ordre i testimoni quan els béns són en mans d’un habitant; intervenció exclusiva del nunci per a cavalcadures en moviment, a la via pública o lligades a una porta, i dipòsit en custòdia de tercer",
-      "incertesa de la clàusula sobre el fadrí sense casa: entre claudàtors a l’edició i no verificable sense localitzar el manuscrit original",
-      "taxació de mobles i bestiar: el creditor havia d’acceptar les penyores; s’hi afegia una quarta part (vuit lliures de deute, deu de taxació), valorada per dos judicadors o prohoms; no consta com es liquidava una diferència eventual ni si prom era el mateix càrrec que prohom jurat",
-      "empara de collita: finca especialment hipotecada, fruit ja segat i dallat encara a la finca; blat lliurat directament al creditor i herba subhastada amb una quarta addicional",
-      "termini per pagar després de l’empara de collita: el paràgraf dona nou i deu dies en punts diferents, sense resolució ni explicació de la divergència",
-      "ordre del batlle per lliurar penyores: força de sentència i possibilitat d’apel·lar; sense apel·lació ni lletra inhibitòria dins del termini fixat, subhasta pel nunci; tres dies posteriors per pagar i recuperar-les",
-      "signar penyores: béns concrets designats pel batlle que romanien en poder del deutor, no es podien alienar i se n’havia de donar compte; si no hi havia béns signats, el deutor triava què lliurar",
-      "si el deutor era absent: calia trucar a la porta abans de fer-hi la penyora; el testimoni només consta entre claudàtors editorials i resta sense verificar",
-      "execució d’immobles: tres subhastes separades per deu dies (tres en temps de Corts); si no hi havia comprador, taxació i lliurament al creditor; ritual de possessió amb terra/herba o amb entrada i portes",
-      "recobrament d’immobles: regla antiga d’un any i un dia i canvi posterior; no es presenta el termini antic com a vigent el 1904",
-      "sentència verbal: apel·lació al jutge ordinari de les Valls, amb exclusivitat d’aquesta via només entre claudàtors; citació pel nunci o la part amb ordre i testimoni; silenci a la part si el batlle absolia",
-      "motiu del termini curt per als forasters: el manuscrit estableix la diferència però no n’explica la raó ni declara una intenció d’afavorir el creditor de fora",
-      "datació i identitat: evidència que el manuscrit és posterior al febrer de 1607; la referència al segle XVI podria ser un altre text, però no se’n confirma la identitat; no hi ha terminus ante quem",
-      "límits del testimoni: els nou primers paràgrafs no apareixen a l’extracte; Brutails no en dona signatura ni localització, de manera que el corpus no en reconstrueix el contingut ni identifica on es conserva l’original",
-      "divergència entre el manuscrit i la glossa de Brutails: el primer parla d’habitants i el comentari d’andorrans establerts; el corpus els atribueix separadament i no els considera equivalents per definició",
-      "quarta part: a favor del creditor en la taxació de mobles i bestiar; direcció ambigua per als immobles, sense extrapolar-hi la regla mobiliària",
-      "insuficiència de collita hipotecada: la resta es podia cobrar sobre altres béns de la casa segons les clàusules de l’obligació; el manuscrit no concreta els béns ni el procediment",
-      "relació amb l’aranzel de 1740: paral·lel entre la quarta de mobles/bestiar i la deducció a subhasta, i entre el tractament del blat; cap text no cita l’altre, de manera que la connexió resta hipòtesi",
-      "vigència el 1740: la Instructa és un text separat; no hi ha cap document de derogació, substitució o continuïtat que confirmi si el procediment antic encara s’aplicava"
-    ],
+    "status": "not_started",
     "open_units": [
       "pràctica: no consta si el termini antic d’un any i un dia es va aplicar en casos reals"
     ]
   },
   "docs/temes/institucions/justicia/una-creu-al-prat-sis-sous-i-sis-diners.md": {
-    "status": "in_progress",
-    "conversation_ids": [
-      "quarta-relacio-manuscrit-instructa-1740-hipotesi-01"
-    ],
-    "reviewed_units": [
-      "quarta de l’aranzel del 1740: a petició del creditor, possible descompte d’una quarta part a la subhasta pública; or, plata, metall i grans exclosos i rebuts al valor just; comparació amb el manuscrit de procediment registrada com a hipòtesi"
-    ],
+    "status": "not_started",
     "open_units": [
       "tarifa del 1740: actes, dietes i repartiment dels cobraments entre batlle, notari i nunci; conversió de rals i sous",
       "embargament per creu: data mínima de 1657, ús documentat el 1822 i desaparició abans del 1904; termini, dies festius i béns consumibles",
@@ -280,13 +110,7 @@
     ]
   },
   "docs/temes/institucions/justicia/dos-de-tres-i-les-parts-no-ho-saben.md": {
-    "status": "in_progress",
-    "conversation_ids": [
-      "procediment-palmitjavila-vigencia-1740-no-provada-01"
-    ],
-    "reviewed_units": [
-      "relació amb el procediment de Palmitjavila: el corpus no demostra continuïtat, substitució ni derogació abans o durant 1740"
-    ],
+    "status": "not_started",
     "open_units": [
       "consulta del batlle amb tres advocats en casos difícils; diferències entre qui demanda i qui és demandat",
       "apel·lacions civils, termini de deu dies i camins disponibles",
@@ -296,154 +120,33 @@
     ]
   },
   "docs/temes/institucions/relacions-exteriors/andorra-a-la-comissio-on-no-vota.md": {
-    "status": "in_progress",
-    "conversation_ids": [
-      "andorra-comite-duaner-observador-sense-vot-01",
-      "protocol-duaner-no-adopcio-suspensio-02",
-      "andorra-comites-duaners-abast-i-exclusio-03",
-      "andorra-normes-duaneres-interpretacio-equivalent-04",
-      "protocol-duaner-versions-autentiques-catala-05",
-      "protocol-duaner-agricultura-i-transit-entre-territoris-06",
-      "protocol-duaner-reconeixement-risk-i-operadors-07",
-      "protocol-duaner-aplicacio-provisional-i-vigencia-08",
-      "protocol-duaner-suspensio-real-no-verificada-09",
-      "protocol-duaner-cita-adequacio-dades-10"
-    ],
-    "reviewed_units": [
-      "participació d’un expert de l’administració andorrana com a observador, sense vot, amb posició expressada i opinió registrada a part",
-      "consulta informal abans de noves normes de seguretat duanera i còpia de la proposta en trametre-la al Parlament o al Consell",
-      "límit del mecanisme de controvèrsies: no resol la interpretació del dret de la Unió",
-      "conseqüència prevista si Andorra no adopta nova normativa: possible suspensió del títol IIA, no anul·lació automàtica de tot l’acord",
-      "consultes abans de mesures de reequilibri i excepció per a mesures provisionals urgents si una demora comprometés la seguretat",
-      "dos comitès habilitats per a la participació andorrana i límit a assumptes directament rellevants per al funcionament de la Unió Duanera",
-      "facultat del president per reunir el comitè sense l’expert, amb obligació d’informar Andorra",
-      "deure de la Comissió d’informar amb temps les dates, l’ordre del dia i la informació rellevant",
-      "interpretació segons la jurisprudència del Tribunal de Justícia de les disposicions duaneres substancialment idèntiques a les dues parts de la unió",
-      "decisió equivalent de les autoritats andorranes en els casos concrets en què les disposicions aplicables encomanen una decisió a la Comissió",
-      "llengües autèntiques del Protocol i signatura en català; la versió íntegra catalana no s’ha localitzat",
-      "aplicació de les mesures de seguretat als productes agrícoles dels capítols 1 a 24 tot i la seva exclusió de la unió duanera",
-      "exclusió de les mesures de seguretat del transport de mercaderies entre els territoris duaners de les parts",
-      "reconeixement mutu de l’equivalència dels sistemes de gestió del risc relacionats amb la seguretat",
-      "intercanvi periòdic de dades sobre operadors econòmics autoritzats i els set camps especificats al Protocol",
-      "aplicació provisional des de l’1 de gener de 2011 i condició de notificació per a l’entrada en vigor definitiva; notificació no localitzada",
-      "no s’ha verificat cap invocació real de la suspensió; l’absència de cas localitzat no prova que no n’hi hagués",
-      "referència del preàmbul a l’adequació de protecció de dades de 2010 com a acte separat del protocol duaner"
-    ],
+    "status": "not_started",
     "open_units": [
       "aplicació provisional des de 2011 i notificació d’entrada en vigor definitiva no localitzada",
       "verificar en fonts oficials si l’article 12k s’ha invocat i si hi ha hagut suspensions o mesures de reequilibri",
       "localitzar el text íntegre autèntic en català del protocol"
-    ],
-    "completion_note": "",
-    "reason": ""
+    ]
   },
   "docs/temes/institucions/relacions-exteriors/andorra-es-adequada.md": {
-    "status": "in_progress",
-    "conversation_ids": [
-      "protocol-duaner-cita-adequacio-dades-10",
-      "adequacio-2010-garanties-interpretacio-01",
-      "adequacio-2010-base-legal-agencia-02",
-      "adequacio-2010-tractats-internacionals-03",
-      "adequacio-2010-entrada-en-vigor-tractats-04",
-      "adequacio-2016-vigilancia-acces-estatal-05",
-      "adequacio-2016-reforma-general-schrems-06",
-      "adequacio-2016-poders-suspensio-fluxos-07",
-      "adequacio-2010-supòsits-suspensio-08",
-      "adequacio-2021-decisions-automatitzades-menors-09",
-      "adequacio-2021-transferencies-llista-europea-i-garanties-10",
-      "adequacio-2024-revisio-no-nova-decisio-11",
-      "adequacio-2010-excepcions-recursos-apda-12",
-      "adequacio-2010-criteris-avaluacio-i-no-discriminacio-13",
-      "adequacio-2010-normes-sectorials-14",
-      "adequacio-2010-aplicacio-i-supervisio-15",
-      "adequacio-2010-abast-article2-16",
-      "adequacio-2010-consultes-organs-europeus-17",
-      "adequacio-2010-coprincipat-i-supervisio-18",
-      "adequacio-2010-reaccio-a-fallades-de-control-19"
-    ],
-    "reviewed_units": [
-      "relació entre la referència del preàmbul del Protocol de 2011 i la Decisió 2010/625/UE",
-      "significat de l’adequació del 2010 per a les transferències de dades des de la UE sota la Directiva 95/46/CE",
-      "caràcter condicional de l'adequació del 2010 i garanties sobre la interpretació del dret andorrà",
-      "base jurídica de l'adequació: Constitució, Llei 15/2003, registre de 2004, reglament de l'APDA de 2010 i tractats ratificats",
-      "tractats internacionals citats a la Decisió 2010/625/UE i distinció entre instruments de dades i tractats generals de drets",
-      "dates d'entrada en vigor a Andorra del Conveni Europeu de Drets Humans i del Pacte Internacional de Drets Civils i Polítics",
-      "canvis de la Decisió 2016/2295 als articles 3 i 4: vigilància de l'accés públic a dades i resposta a indicis d'interferència excessiva",
-      "motiu general de la reforma de 2016: sentència Schrems, poders de les autoritats de control i revisió periòdica de l'adequació",
-      "procediment de l'article 3 després de 2016 per suspendre o prohibir fluxos i avisar la Comissió",
-      "supòsits de suspensió de transferències previstos per l'article 3 original i condició per aixecar-la",
-      "evolució de l'advertiment europeu del 2009 sobre decisions automatitzades fins a l'article 25 de la Llei 29/2021, inclosa la protecció específica dels menors",
-      "connexió entre l'adequació de la UE a Andorra i el criteri andorrà de transferències internacionals dels articles 42–44 de la Llei 29/2021",
-      "revisió europea del 2024: conclusió sobre adequació continuada sota el RGPD i diferència entre informe de revisió i nova decisió",
-      "considerant 10: principis de protecció, excepcions per interessos públics, recursos administratius i judicials i poders independents de l'APDA",
-      "considerants 3 i 4: valoració de totes les circumstàncies de les transferències i límit a la discriminació arbitrària o a les barreres comercials encobertes",
-      "considerant 8: disposicions de protecció de dades en normativa financera, sanitària i de registres públics; la decisió no n'enumera les lleis",
-      "articles 5–7 de la Decisió 2010/625/UE: seguiment de la Comissió, compliment pels estats membres abans de 2011 i destinataris de l'acte",
-      "article 2: l'adequació del destí no altera les altres condicions i restriccions de la Directiva sobre tractaments dins dels estats membres",
-      "considerants 14–15: consulta al Supervisor Europeu de Protecció de Dades i distinció entre l'opinió del Grup de l'article 29 i la del Comitè de l'article 31",
-      "considerant 5 i 10: coprincipat parlamentari, identitat dels coprínceps i supervisió de dades atribuïda a l'APDA, no als coprínceps",
-      "article 4(2)–(3): intercanvi d'informació sobre fallades de supervisió i mesures de la Comissió; cap ús real verificat"
-    ],
+    "status": "not_started",
     "open_units": [
       "verificar en fonts de pràctica si els articles 3 o 4 es van activar i si hi va haver mesures o decisions posteriors específiques sobre Andorra"
-    ],
-    "completion_note": "",
-    "reason": ""
+    ]
   },
   "docs/temes/institucions/justicia/ladministracio-no-paga-multa.md": {
-    "status": "in_progress",
-    "conversation_ids": [
-      "adequacio-2021-decisions-automatitzades-menors-09"
-    ],
-    "reviewed_units": [
-      "article 25: dret davant decisions automatitzades i perfils; excepcions; garanties d'intervenció humana, opinió i impugnació; prohibició aplicable als menors"
-    ],
+    "status": "not_started",
     "open_units": [
       "altres unitats de coneixement de la fitxa, inclòs el règim d'ammendes i sancions reputacionals"
-    ],
-    "completion_note": "",
-    "reason": ""
+    ]
   },
   "docs/temes/institucions/justicia/un-corpus-no-es-un-organisme-competent.md": {
-    "status": "in_progress",
-    "conversation_ids": [
-      "adequacio-2021-transferencies-llista-europea-i-garanties-10"
-    ],
-    "reviewed_units": [
-      "articles 42–44: equivalence standard, EU adequacy list, Convention 108+ and alternative guarantees with enforceable rights and effective remedies"
-    ],
+    "status": "not_started",
     "open_units": [
       "altres unitats de coneixement de la fitxa, incloses les bases legals per a recerca, arxiu i expressió acadèmica"
-    ],
-    "completion_note": "",
-    "reason": ""
+    ]
   },
   "docs/temes/costums/religiositat/el-registre-dentitats-religioses.md": {
-    "status": "in_progress",
-    "reviewed_units": [
-      "Llei 2/2025, articles 3, 10 i 13: requisits generals per inscriure una entitat religiosa, efecte de la inscripció i via específica de les institucions catòliques.",
-      "Llei 2/2025, articles 2 i 8: abast pràctic de la publicitat del Registre, consulta de documents concrets de procediments acabats i límit a les consultes genèriques.",
-      "Llei 2/2025, article 11: cancel·lació per sol·licitud, sentència ferma o inactivitat de deu anys, amb notificació prèvia en aquest darrer cas.",
-      "Llei 2/2025, article 15: responsabilitat solidària de membres d’entitats no inscrites i promotors, i assumpció per l’entitat quan s’inscriu, llevat de previsió diferent.",
-      "Llei 2/2025, article 12: tractament de dades personals dels òrgans representatius i de govern sense consentiment explícit, mantenint l’aplicació de la normativa de protecció de dades.",
-      "Llei 2/2025, article 4: nombre aproximat de practicants per entitat inscrita i llocs de culte; aquesta dada no permet inferir un cens complet de cada confessió.",
-      "Llei 2/2025, article 3.4: la limitació per proselitisme abusiu o il·lícit exigeix elements de risc acreditats i una mesura proporcionada i adequada.",
-      "Llei 2/2025, article 14 i exposició de motius: obligació d’establir canals de diàleg, diferenciada de les reunions documentades durant la preparació i de l’activitat posterior no verificada.",
-      "Llei 2/2025, article 9.2 i 9.4: documentació addicional d’entitats d’origen estranger i requisits de forma, legalització, postil·la i traducció.",
-      "Llei 2/2025, article 9.1, 9.3 i 9.5: dades i acta de constitució per a la sol·licitud, possibilitat de documentació reglamentària addicional i comunicació de canvis en tres mesos.",
-      "Llei 2/2025, article 6: termini ordinari i pròrroga, esmena de defectes, suspensió del còmput i caducitat de l’expedient.",
-      "Llei 2/2025, article 7, amb contrast amb l’article 11: declaració telemàtica biennal, anotació per incompliment i distinció respecte de la cancel·lació per deu anys d’inactivitat.",
-      "Llei 2/2025, article 5: nomenament de responsable i suplents, resolució dels assentaments i publicació dels nomenaments al BOPA.",
-      "Llei 2/2025, article 3.3: exclusió registral acotada a organitzacions centrades en activitats psíquiques/parapsicològiques o finalitats espiritualistes alienes a les religioses.",
-      "Constitució, article 11.1–3: garantia general de llibertat ideològica, religiosa i de culte, límits legals a la manifestació de creences i garanties específiques de l’Església catòlica.",
-      "Llei 2/2025, article 6: recurs administratiu potestatiu contra les resolucions i possibilitat de demanda judicial directa pel procediment urgent i preferent de tutela de drets fonamentals.",
-      "Llei 2/2025, articles 5–6: caràcter potestatiu de l’enquesta policial i dels informes experts, i separació entre instrucció de l’expedient i resolució registral.",
-      "Llei 2/2025, article 6: formulari oficial, signatura del representant legal, residència legal a Andorra per al representant estranger i gratuïtat de la inscripció.",
-      "Llei 2/2025, article 8.5: prohibició específica de crear fitxers per emmagatzemar exclusivament dades personals que revelin religió o creences, diferenciada de l’accés legal al Registre.",
-      "Llei 2/2025, article 6: comunicació dels indicis racionals d’il·licitat penal al ministeri competent i trasllat al Ministeri Fiscal només si escau.",
-      "Llei 2/2025, articles 6 i 9.5: destinataris i domicili social de notificacions, i actualització de variacions registrals en tres mesos.",
-      "Llei 2/2025, article 8.4 i 8.6: publicitat formal per certificacions o còpies, sotmeses a normativa d’accés i protecció de dades; obtenció desenvolupada reglamentàriament."
-    ],
+    "status": "not_started",
     "open_units": [
       "Passada editorial integral de la fitxa: repassar les afirmacions i els buits registrats contra les converses i conservar explícitament allò que no consta."
     ]

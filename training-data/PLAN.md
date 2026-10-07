@@ -1,104 +1,93 @@
-# Pla de Maia Training Data
+# Pla revisat de Maia Training Data
 
-## Propòsit
+## Objectiu
 
-Preparar dos datasets separats a partir de `docs/`:
+Preparar dos datasets independents a partir de `docs/`:
 
-- **Maia Knowledge** ensenya a respondre preguntes sobre Andorra amb el coneixement de `docs/temes/`.
-- **Maia Language** conserva català andorrà contemporani produït per persones, a partir de les peces elegibles de `docs/parla/`.
+- **Maia Knowledge**: respostes útils sobre Andorra, basades en `docs/temes/`.
+- **Maia Language**: fragments de català andorrà real, basats en peces humanes elegibles de `docs/parla/`.
 
-Aquest document defineix el flux de treball. Els exemples de `knowledge/review/EXEMPLES.md` són mostres de calibratge, no registres per entrenar.
+La prioritat és que cada conversa resolgui un dubte que una persona podria tenir. El recompte de registres ve després.
 
 ## Estructura
 
 ```text
 training-data/
-├── README.md
 ├── PLAN.md
+├── README.md
 ├── knowledge/
-│   ├── README.md
 │   ├── review/
-│   │   ├── README.md
 │   │   ├── CONVERSATION-GUIDE.md
-│   │   ├── EXEMPLES.md             # mostra editorial, no s'exporta
-│   │   ├── conversations.jsonl    # candidats; no exportar abans d'auditar-los
-│   │   └── provenance.jsonl       # font i drets, fora del text d'entrenament
-│   ├── work/                       # inventari, cobertura i notes d'evidència
+│   │   ├── EXEMPLES.md          # calibratge editorial; no s'exporta
+│   ├── work/                    # cobertura i evidència interna
 │   ├── scripts/
 │   ├── reports/
-│   └── output/                     # exports només després de validar
+│   └── output/                  # només exports aprovats
 └── language/
-    ├── README.md
-    ├── review/                     # selecció i revisió de fragments humans
-    ├── work/                       # elegibilitat i exclusions justificades
+    ├── review/                  # fragments humans candidats
+    ├── work/                    # elegibilitat i exclusions
     ├── scripts/
     ├── reports/
-    └── output/                     # exports separats dels de Knowledge
+    └── output/                  # exports independents de Knowledge
 ```
 
-No es posa cap dada de Language a Knowledge ni a l'inrevés. La procedència i les anotacions internes no entren als JSONL finals.
+Les mostres de `EXEMPLES.md` no són registres i no compten com a cobertura. Quan el pilot s'aprovi, els registres aniran a `review/conversations.jsonl` i la procedència a `review/provenance.jsonl`. Les dades de treball i la procedència no s'exporten.
 
-## Per què els registres anteriors no són un bon patró
+## Com escriurem Knowledge
 
-Algunes preguntes tracten la fitxa com si l'usuari la tingués oberta: «Què explica aquesta secció?», «Què indica aquesta fila?» o «I dos topònims que en surten?». D'altres apilen peticions independents per extreure dades. Una resposta pot ser certa i continuar sent una mala mostra si ningú no faria aquella pregunta en una conversa real.
+1. Llegir la fitxa completa i les fonts que sostenen la resposta.
+2. Escriure en una nota interna qui pregunta i quin dubte pràctic té.
+3. Començar amb context natural. La persona no té la fitxa oberta ni parla del corpus.
+4. Fer que cada seguiment surti de la resposta anterior. Res de preguntes encadenades per buidar una llista.
+5. Aturar-se quan el dubte queda resolt. No afegir torns per arribar a una llargada fixa.
+6. Contrastar totes les afirmacions. Mantenir atribucions, dates, contradiccions i incerteses.
+7. Revisar la conversa sense mirar la font. Després revisar-la amb la font i registrar la procedència.
 
-Per això no n'hi ha prou amb una llista de formes de pregunta. Cada conversa ha de començar amb una situació o un dubte recognoscible; cada seguiment ha de néixer de la resposta anterior.
+Una conversa pot tenir un sol intercanvi si no hi ha un seguiment honest. Quan hi ha una continuació natural, el pilot preferirà dos o tres intercanvis breus.
 
-## Flux per crear Maia Knowledge
+## Com escriurem Language
 
-1. **Tria una unitat de coneixement** de la font i llegeix el document sencer, incloses les taules, els enllaços i els avisos d'incertesa que afectin el fet.
-2. **Imagina qui ho preguntaria i per què.** Escriu una nota interna breu com «vol organitzar una visita», «ha sentit dues versions» o «vol saber si és una dansa». Si no hi ha cap motiu humà plausible, no forcis una pregunta.
-3. **Escriu el primer torn** amb el context mínim perquè s'entengui sense conèixer Maia ni tenir un document al davant.
-4. **Construeix el diàleg torn a torn.** Maia respon primer el dubte. Després, l'usuari pregunta una cosa que una persona podria voler aclarir arran d'aquella resposta. La conversa sol tenir més d'un intercanvi, però no s'afegeixen torns només per complir una quota.
-5. **Contrasta cada afirmació** amb la font. Si hi ha versions diferents, límits o dades absents, la resposta ho explica sense inventar una resolució.
-6. **Passa la porta editorial** de `knowledge/review/CONVERSATION-GUIDE.md`. Rebutja o reescriu qualsevol conversa que soni a interrogatori de la fitxa.
-7. **Registra la procedència** per separat. Després d'aprovar, actualitza la cobertura de la font i valida el format abans d'afegir el registre.
+Knowledge pot tenir respostes redactades amb naturalitat a partir de fonts. Language ha de conservar veu humana real. No inventarem preguntes i respostes per convertir un monòleg en entrevista. Només inclourem fragments elegibles, amb drets i transcripció revisats. Les peces amb incertesa es filtraran fragment a fragment o s'exclouran amb motiu registrat.
 
-### Patró de conversa
+## Fases
 
-```text
-Persona: situació o dubte real
-Maia: resposta directa, amb el context just
-Persona: aclariment que surt d'aquesta resposta
-Maia: resposta al seguiment, sense reobrir tota la fitxa
-```
+### 1. Reinici editorial
 
-El patró orienta; no és una plantilla literal. Les preguntes han de sonar variades perquè les situacions són variades, no perquè s'hagin parafrasejat plantilles.
+Els registres Knowledge de l'intent anterior s'han retirat. La cobertura torna a `not_started`; cap mostra d'exemple compta com a dada ni com a cobertura. No generar encara exports.
 
-## Porta de qualitat
+### 2. Pilot petit de Knowledge
 
-Una conversa només s'accepta si compleix tots aquests punts:
+Preparar 5–10 converses de temes diferents. Llegir-les en veu alta i revisar-les amb la persona usuària. Si una pregunta sembla un exercici sobre la fitxa, descartar-la o reescriure-la.
 
-- S'entén sense cap referència a seccions, files, documents o al corpus.
-- La pregunta inicial té una intenció humana que es pot resumir en una frase.
-- Els seguiments reprenen el fil i no demanen dades inconnexes.
-- Maia contesta el que li han preguntat des de la primera frase.
-- Cada afirmació factual està sostinguda per una font identificable.
-- Les reserves, contradiccions i absències de la font es conserven amb naturalitat.
-- El diàleg ensenya una cosa útil i no duplica un registre existent.
-- L'extensió és la necessària per contestar, sense llistes de farciment.
+### 3. Acordar el criteri
 
-**Prova de lectura:** llegir només els missatges, sense obrir la font. Si la persona sembla estar fent una auditoria, dictant una cerca o donant ordres a una base de dades, el registre no passa.
+Després del pilot, ajustar la guia amb els comentaris. Només llavors reprendre la producció regular, en grups petits i fàcils de revisar.
 
-## Cobertura i estat
+### 4. Cobrir el corpus
 
-La cobertura es mesura per coneixement útil revisat i representat, no pel nombre de preguntes. Cada document ha de deixar constància de les unitats tractades, les converses que les cobreixen i els buits que no es poden entrenar. No s'inventa contingut per arribar a una xifra.
+Recórrer totes les fitxes de `temes/`. Cobrir les unitats útils, no cada frase amb preguntes artificials. Registrar també els buits i les dades que no es poden afirmar.
 
-Els registres de `conversations.jsonl` només contenen `messages` amb torns `user` i `assistant`. La font, els drets i l'estat de revisió van a `provenance.jsonl`. Els drets s'han de transcriure segons `docs/CONTRACT.md`.
+### 5. Revisar Language per separat
 
-## Maia Language
+Comprovar veu, època, `apte_llengua`, drets i fiabilitat de transcripció per peça. Incloure només fragments humans aptes. No barrejar els seus criteris amb els de Knowledge.
 
-Language segueix un procés separat. Només s'utilitza material de veu humana que compleixi les condicions del corpus: veu originària, època contemporània i `apte_llengua: true`. Les respostes provenen de fragments reals, amb canvis mínims i documentats. No s'inventen respostes perquè un monòleg sembli un diàleg. Les exclusions i les transcripcions incertes queden justificades.
+### 6. Validar i exportar
 
-## Etapes del projecte
+Deduplicar, revisar qualitat i cobertura, i fer splits agrupats per document, peça o parlant quan pertoqui. Generar `train.jsonl`, `validation.jsonl` i `test.jsonl` només quan les dades estiguin aprovades.
 
-1. Calibrar aquest pla amb els exemples i aprovar el criteri editorial.
-2. Auditar els registres antics. Classificar-los com a bons, recuperables o descartats; no donar-los per vàlids només perquè són al JSONL. Fins que la revisió acabi, el fitxer és una cua de candidats, no un dataset aprovat.
-3. Fixar el format mínim de procedència i la cobertura de Knowledge.
-4. Produir registres nous per tema, revisar-los amb la porta de qualitat i actualitzar l'inventari després de cada grup petit.
-5. Quan el criteri estigui estable, revisar el corpus Knowledge complet i cobrir les unitats útils pendents.
-6. Revisar per separat les peces Language i aplicar-ne els criteris d'autenticitat.
-7. Deduplicar, crear splits sense leakage i generar exports només quan la cobertura i la qualitat siguin auditables.
-8. Validar i documentar els dos datasets.
+## Porta de qualitat per a cada conversa
 
-No es genera volum per si mateix. Prioritats: correctesa, cobertura, naturalitat, varietat d'intencions i absència d'al·lucinacions.
+- La pregunta té sentit sense veure cap document.
+- Es pot explicar en una frase per què una persona ho preguntaria.
+- La resposta contesta de seguida i amb el context just.
+- Cada seguiment respon al fil de la conversa.
+- La resposta no inventa detalls ni converteix una llegenda en fet històric.
+- No demana «què diu la secció», «què indica la fila» ni «quins elements hi surten».
+- No repeteix la mateixa dada amb una altra formulació.
+- La conversa ensenya alguna cosa útil i no sembla un qüestionari.
+
+Si falla un punt, no s'afegeix al conjunt aprovat.
+
+## Pas següent
+
+Revisar `knowledge/review/EXEMPLES.md` com a calibratge. Després fer el pilot curt i validar-ne el to abans de crear més registres.

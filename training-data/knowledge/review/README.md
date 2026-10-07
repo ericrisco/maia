@@ -1,18 +1,11 @@
-# Revisió de Knowledge
+# Revisió de Maia Knowledge
 
-Aquest directori separa les mostres editorials dels registres que es poden
-exportar:
+Aquest directori conté la pauta i les mostres per calibrar la qualitat:
 
-- `CONVERSATION-GUIDE.md` defineix la porta de qualitat.
-- `EXEMPLES.md` calibra el to amb converses completes i fonts verificables; no
-  compta com a dades d'entrenament.
-- `conversations.jsonl` conté els candidats en format `messages`; els registres
-  antics continuen pendents d'auditoria amb el criteri actual.
-- `provenance.jsonl` guarda font, drets i revisió, fora del text que aprendrà el
-  model.
+- `EXEMPLES.md`: converses de calibratge editorial. No són registres i no compten per a la cobertura.
+- `CONVERSATION-GUIDE.md`: criteris per escriure i revisar converses.
+- `examples-provenance.md`: fonts i límits de les mostres editorials.
 
-No exportis ni donis per aprovats els registres antics fins a revisar-los amb el
-criteri actual. No afegeixis una conversa només perquè sigui factualment correcta. Primer
-comprova que la pregunta tingui un motiu humà, que cada seguiment reprengui el
-fil i que la resposta es pugui verificar. Els registres antics s'han de
-revisar amb el criteri actual abans de tractar-los com a aprovats.
+Els registres antics de Knowledge s'han retirat. El fitxer `conversations.jsonl` i el seu registre de procedència es crearan quan s'aprovi el pilot. Abans d'afegir dades, aplica la [guia de conversa](CONVERSATION-GUIDE.md). Si la pregunta no tindria sentit sense la fitxa oberta, o si el seguiment no surt de la resposta anterior, descarta-la.
+
+Les condicions de drets s'han de tornar a comprovar per als registres reals abans d'exportar-los.

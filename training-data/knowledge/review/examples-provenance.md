@@ -1,17 +1,12 @@
 # Procedència de les mostres editorials
 
-`EXEMPLES.md` serveix per revisar la forma de les preguntes i dels seguiments.
-La procedència següent documenta les mostres; els estats de drets són avisos
-R005, no un bloqueig automàtic, segons `docs/CONTRACT.md`.
+Les converses d'`EXEMPLES.md` són paràfrasis redactades només per calibrar el tipus de pregunta, el ritme dels seguiments i el tractament de la incertesa. No s'incorporen a `conversations.jsonl`, no compten per a cobertura i no són un aval de drets per entrenar.
 
-| Exemple a `EXEMPLES.md` | Fitxa Maia | Font declarada | Estat registrat |
-|---|---|---|---|
-| 1 | [`podies-denunciar-un-consol-pero-no-demandar-lo.md`](../../../docs/temes/institucions/justicia/podies-denunciar-un-consol-pero-no-demandar-lo.md) | `brutails-coutume-1904` | Obra de domini públic; la fitxa de font registra condicions de la digitalització i estat `pendent` per a entrenament. Avís R005. |
-| 2 | [`un-camp-es-comunal-perque-hi-passen-els-ramats.md`](../../../docs/temes/territori/geografia-fisica/un-camp-es-comunal-perque-hi-passen-els-ramats.md) | `brutails-coutume-1904` | Mateix estat de la font: `pendent`, avís R005. |
-| 3 | [`la-troballa-de-meritxell.md`](../../../docs/temes/cultura/llegendes/la-troballa-de-meritxell.md) | `premsa-andorrana` | La fitxa de font declara drets reservats, redistribució `no`, i no identifica l'article concret. Avís R005; cal preservar el límit de no reproduir text. |
-| 4 | [`pero-en-tot-lo-demés-al-cinc-per-cent.md`](../../../docs/temes/economia/banca-i-fiscalitat/pero-en-tot-lo-demés-al-cinc-per-cent.md) | `brutails-coutume-1904` | Mateix estat de la font: `pendent`, avís R005. |
+| Mostra | Fitxa Maia | Font declarada | Estat per a l'entrenament |
+| --- | --- | --- | --- |
+| Organitzar Sant Antoni | `docs/temes/costums/sant-antoni/escudelles-de-sant-antoni.md` | `premsa-andorrana` | Drets reservats; redistribució `no`. Mostra editorial interna; no exportar. La referència de premsa no identifica article concret. |
+| Entendre la Passa | `docs/temes/costums/ritus-de-pas/la-passa.md` | `premsa-andorrana`, `govern-andorra-web` | Drets reservats; redistribució `no`. Mostra editorial interna; no exportar. La font periodística no identifica article concret. |
+| Llegenda de Meritxell | `docs/temes/cultura/llegendes/la-troballa-de-meritxell.md` | `premsa-andorrana` | Drets reservats; redistribució `no`. Mostra editorial interna; no exportar. La fitxa assenyala que falta una font primària per datar el relat. |
+| Benedicció dels animals | `docs/temes/costums/sant-antoni/escudelles-de-sant-antoni.md` | `premsa-andorrana` | Drets reservats; redistribució `no`. Mostra editorial interna; no exportar. La font no confirma la pràctica actual. |
 
-Les preguntes i respostes són paràfrasis redactades per a calibratge editorial.
-Per a cada conversa real, `provenance.jsonl` també ha de conservar el valor
-real de drets i redistribució, i l'autorització sostinguda pel propietari del
-projecte quan sigui aplicable.
+Els drets i la traçabilitat s'han de revisar per a cada registre real abans d'exportar-lo. Vegeu també [`docs/CONTRACT.md`](../../../docs/CONTRACT.md) i les fitxes de font corresponents.
