@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 17,
+    "in_progress": 18,
     "no_natural_question": 0,
-    "not_started": 1331
+    "not_started": 1330
   },
   "documents": [
     {
@@ -68,7 +68,8 @@
         "antiguitat del judici d’Encamp situada al segle XIX o abans, sense any exacte",
         "operació del Carnestoltes incorporada pels volts de 1970",
         "autor de l’operació no identificat",
-        "guió de Sícoris escrit el 1959; no s’estableix quan canvia la trama de l’ossa"
+        "guió de Sícoris escrit el 1959; no s’estableix quan canvia la trama de l’ossa",
+        "la representació actual de l’ossa d’Encamp té lloc el dilluns de Carnaval; es contrasta amb l’Última Ossa d’Ordino al desembre"
       ],
       "completion_note": "",
       "reason": ""
@@ -163,19 +164,21 @@
       "topic": "temes/costums/danses",
       "source": "wikipedia-ball-ossa-encamp",
       "status": "in_progress",
-      "conversation_count": 4,
+      "conversation_count": 5,
       "conversation_ids": [
         "danses-parroquies-i-sardana-importada-01",
         "ossa-encamp-anonimat-dallaires-01",
         "ossa-encamp-dallaires-i-ritus-de-pas-01",
-        "ossa-encamp-variants-i-reescriptura-01"
+        "ossa-encamp-variants-i-reescriptura-01",
+        "ultima-ossa-ordino-carnaval-i-desembre-01"
       ],
       "reviewed_units": [
         "dallaires presents durant tota la farsa i interpretats pels joves amb els seus noms",
         "lectura iniciàtica atribuïda a Ysàs Trias: aprenentatge laboral i sexual, mort de l’ossa i reconeixement com a adults; tesi subjacent no consultada directament",
         "diferència entre el relat d’Amades de 1950 (ossa cerca mel al rusc) i la cacera de la versió descrita per Masegosa",
         "Rossend Marsol escriu i modernitza una representació el 1959; les fonts no daten el canvi concret entre les dues trames",
-        "Amades documenta el 1950 només fadrins i anonimat dels intèrprets; la descripció posterior diu que els dallaires duen els noms reals; data del canvi desconeguda"
+        "Amades documenta el 1950 només fadrins i anonimat dels intèrprets; la descripció posterior diu que els dallaires duen els noms reals; data del canvi desconeguda",
+        "calendari de la representació d’Encamp: dilluns de Carnaval, contrastat amb l’Última Ossa d’Ordino al desembre"
       ],
       "completion_note": "",
       "reason": ""
@@ -274,10 +277,16 @@
       "type": "article",
       "topic": "temes/costums/danses",
       "source": "wikipedia-llegendes-andorra",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "ultima-ossa-ordino-carnaval-i-desembre-01"
+      ],
+      "reviewed_units": [
+        "l’Última Ossa d’Ordino se celebra la primera setmana de desembre a la fira de Nadal; abans es feia per Carnaval",
+        "el ball de l’ossa d’Encamp es representa el dilluns de Carnaval",
+        "les fonts no daten el trasllat de la celebració d’Ordino al desembre"
+      ],
       "completion_note": "",
       "reason": ""
     },

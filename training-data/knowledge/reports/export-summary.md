@@ -2,14 +2,14 @@
 
 Aquest report no acredita cobertura exhaustiva: mostra els registres aprovats i les fitxes representades fins ara.
 
-- Converses candidates: **75**.
-- Converses exportades: **75**.
-- Fitxes font representades: **17**.
+- Converses candidates: **76**.
+- Converses exportades: **76**.
+- Fitxes font representades: **18**.
 - Fitxes article a `docs/temes/`: **1348** (fitxers totals: 1477).
 
 | Split | Converses |
 |---|---:|
-| `train` | 75 |
+| `train` | 76 |
 | `validation` | 0 |
 | `test` | 0 |
 
@@ -24,6 +24,7 @@ Aquest report no acredita cobertura exhaustiva: mostra els registres aprovats i 
 - `docs/temes/costums/danses/el-contrapas.md`
 - `docs/temes/costums/danses/els-catorze-balls.md`
 - `docs/temes/costums/danses/la-marratxa.md`
+- `docs/temes/costums/danses/les-festes-de-lossa.md`
 - `docs/temes/costums/falles/falles.md`
 - `docs/temes/costums/festes-majors/festes-majors.md`
 - `docs/temes/cultura/teatre/el-teatre-de-carnestoltes.md`
