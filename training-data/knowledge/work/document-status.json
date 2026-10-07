@@ -413,5 +413,22 @@
     "reviewed_units": [
       "El 531 documenta Just d’Urgell com a bisbe, no l’arribada del cristianisme; la via comercial des de Tarragona és una hipòtesi sense dades directes."
     ]
+  },
+  "docs/temes/costums/religiositat/religiositat.md": {
+    "status": "in_progress",
+    "open_units": [
+      "Pràctica religiosa quotidiana i assistència als serveis, sense dades completes.",
+      "Evolució de la secularització: l’estudi disponible és parcial i no forma una sèrie llarga.",
+      "Inventari d’esglésies i ermites per parròquia incomplet.",
+      "Sants patrons de les parròquies pendents per a diverses parròquies.",
+      "Altres romiatges i aplecs no inventariats.",
+      "Lèxic religiós oral contemporani no recollit sistemàticament."
+    ],
+    "conversation_ids": [
+      "romiatge-meritxell-set-parroquies-001"
+    ],
+    "reviewed_units": [
+      "El romiatge anual de Meritxell aplega les set parròquies el primer diumenge de maig; no és la festa nacional del 8 de setembre."
+    ]
   }
 }

@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 24,
+    "in_progress": 25,
     "no_natural_question": 0,
-    "not_started": 1324
+    "not_started": 1323
   },
   "documents": [
     {
@@ -426,10 +426,11 @@
       "topic": "temes/costums/meritxell",
       "source": "premsa-andorrana",
       "status": "in_progress",
-      "conversation_count": 2,
+      "conversation_count": 3,
       "conversation_ids": [
         "meritxell-festa-nacional-i-acta-1873-001",
-        "meritxell-incendi-i-replica-001"
+        "meritxell-incendi-i-replica-001",
+        "romiatge-meritxell-set-parroquies-001"
       ],
       "reviewed_units": [
         "Incendi de 1972: pèrdua de la talla del segle XII; la imatge actual és una rèplica de Sergi Mas i el santuari de Bofill es va inaugurar el 1976.",
@@ -550,11 +551,22 @@
       "type": "article",
       "topic": "temes/costums/religiositat",
       "source": "viquipedia-ca",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "romiatge-meritxell-set-parroquies-001"
+      ],
+      "reviewed_units": [
+        "El romiatge anual de Meritxell aplega les set parròquies el primer diumenge de maig; no és la festa nacional del 8 de setembre."
+      ],
+      "open_units": [
+        "Pràctica religiosa quotidiana i assistència als serveis, sense dades completes.",
+        "Evolució de la secularització: l’estudi disponible és parcial i no forma una sèrie llarga.",
+        "Inventari d’esglésies i ermites per parròquia incomplet.",
+        "Sants patrons de les parròquies pendents per a diverses parròquies.",
+        "Altres romiatges i aplecs no inventariats.",
+        "Lèxic religiós oral contemporani no recollit sistemàticament."
+      ],
       "completion_note": "",
       "reason": ""
     },
