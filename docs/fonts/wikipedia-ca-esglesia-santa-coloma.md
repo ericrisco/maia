@@ -8,11 +8,11 @@ publicacio: "ca.wikipedia.org"
 url: https://ca.wikipedia.org/wiki/Esgl%C3%A9sia_de_Santa_Coloma_(Andorra_la_Vella)
 llicencia: CC BY-SA 4.0
 redistribucio: permesa amb atribució (CC BY-SA)
-data_consulta: 2026-09-18
+data_consulta: 2026-10-07
 abast: >
-  Història de les pintures murals de Santa Coloma: venda el 1932-1933,
-  confiscació nazi, dipòsit a Berlín, i recuperació pel Govern
-  d'Andorra el 2007.
+  Arquitectura i història de Santa Coloma: ubicació, nau i absis
+  preromànics, campanar circular del segle XII, i periple de les
+  pintures murals fins a la seva recuperació pel Govern d'Andorra el 2007.
 ---
 
 # Viquipèdia — Església de Santa Coloma, la història de les pintures
@@ -23,6 +23,9 @@ abast: >
 periple que les porta d'Andorra a Berlín i, en part, de tornada.
 
 ## Què en treu
+
+**Arquitectura**: la pàgina situa l’església a Santa Coloma, dins la parròquia d’Andorra la Vella. Descriu la nau rectangular i l’absis quadrat com a preromànics; el campanar circular, de quatre pisos, es va construir al segle XII.
+
 
 **La venda (1932)**: les pintures es despengen **el 1932**, per
 **Arturo Cividini**, **a instàncies de l'antiquari i comprador Josep
