@@ -124,5 +124,28 @@
       "comerc-cobertura-2020-interpretacio-001",
       "comerc-contradiccio-cobertura-2020-2022-001"
     ]
+  },
+  "docs/temes/economia/comerc/blat-cerdanya-parroquies-1904.md": {
+    "status": "in_progress",
+    "reviewed_units": [
+      "La fitxa resumeix quatre relacions arxivístiques de l’octubre de 1904 que registren blat portat de Cerdanya i repartit entre veïns d’Encamp, Andorra, la Massana i Ordino.",
+      "Les quatre fonts enumeren persones i quantitats en unitats manuscrites que no s’han pogut normalitzar amb seguretat; la fitxa no calcula totals comparables.",
+      "La fitxa registra com a desconeguts el preu, el transport, qui va ordenar o finançar l’operació, els criteris d’assignació, l’abast de la sèrie i si l’episodi reflecteix escassetat."
+    ],
+    "open_units": [
+      "Les fitxes d’Arxius en Línia ofereixen consulta, previsualització i descàrrega, però no declaren una llicència de reutilització. Els termes oficials de FotoWeb indiquen que l’accés no concedeix drets d’ús sense autorització expressa. No crear ni exportar converses basades en aquestes descripcions o imatges fins que l’elegibilitat per a training estigui documentada."
+    ],
+    "completion_note": "S’ha revisat la fitxa i les metadades de drets de les quatre peces. No s’ha afegit cap conversa perquè no consta autorització de reutilització per a training. La cobertura de coneixement queda en curs fins a obtenir permís o documentar l’exclusió.",
+    "conversation_ids": [],
+    "rights_review": {
+      "source_documents": [
+        "docs/fonts/asc-03958-blat-encamp-1904.md",
+        "docs/fonts/asc-03961-blat-andorra-1904.md",
+        "docs/fonts/asc-03962-blat-massana-1904.md",
+        "docs/fonts/asc-03963-blat-ordino-1904.md"
+      ],
+      "terms_url": "https://www.arxiuenlinia.ad/fotoweb/views/terms-and-conditions",
+      "status": "reuse authorization not established"
+    }
   }
 }
