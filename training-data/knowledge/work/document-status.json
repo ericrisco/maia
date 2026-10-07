@@ -812,5 +812,20 @@
     "reviewed_units": [
       "La Feixa del Moro conté tres cistes, llars i sitges; la conservació dels ossos i les estructures és excepcional per a un jaciment d’alta muntanya."
     ]
+  },
+  "docs/temes/cultura/arts-visuals/josep-viladomat.md": {
+    "status": "in_progress",
+    "open_units": [
+      "Data d’arribada a Andorra: fonts discrepants, cap contrast independent incorporat.",
+      "Inventari de l’obra andorrana de Viladomat entre 1967 i 1989 incomplet.",
+      "Biografia detallada i context de les obres polítiques, inclosa l’estàtua de Franco, pendents.",
+      "Origen i motivació de la donació de La noblesa del temps no desenvolupats més enllà de la donació per Enric Sabater."
+    ],
+    "conversation_ids": [
+      "josep-viladomat-arribada-andorra-discrepant-001"
+    ],
+    "reviewed_units": [
+      "Les fonts discrepen sobre si Viladomat es va establir a Escaldes després de la Guerra Civil o només hi va residir els últims anys; l’arribada no està datada."
+    ]
   }
 }

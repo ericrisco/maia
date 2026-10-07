@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 55,
+    "in_progress": 56,
     "no_natural_question": 0,
-    "not_started": 1293
+    "not_started": 1292
   },
   "documents": [
     {
@@ -1273,11 +1273,20 @@
       "type": "article",
       "topic": "temes/cultura/arts-visuals",
       "source": "wikipedia-art-andorra",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "josep-viladomat-arribada-andorra-discrepant-001"
+      ],
+      "reviewed_units": [
+        "Les fonts discrepen sobre si Viladomat es va establir a Escaldes després de la Guerra Civil o només hi va residir els últims anys; l’arribada no està datada."
+      ],
+      "open_units": [
+        "Data d’arribada a Andorra: fonts discrepants, cap contrast independent incorporat.",
+        "Inventari de l’obra andorrana de Viladomat entre 1967 i 1989 incomplet.",
+        "Biografia detallada i context de les obres polítiques, inclosa l’estàtua de Franco, pendents.",
+        "Origen i motivació de la donació de La noblesa del temps no desenvolupats més enllà de la donació per Enric Sabater."
+      ],
       "completion_note": "",
       "reason": ""
     },
