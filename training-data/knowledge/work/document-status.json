@@ -865,11 +865,17 @@
         "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0005",
         "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0006",
         "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0009",
-        "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0011"
+        "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0011",
+        "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0038",
+        "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0039",
+        "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0040",
+        "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0041",
+        "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0042"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 56,
+      "open_unit_count": 51,
       "conversation_ids": [
+        "sergi-mas-llibres-i-abast-001",
         "sergi-mas-meritxell-i-oficis-001"
       ]
     },
