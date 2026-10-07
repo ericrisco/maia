@@ -93,5 +93,22 @@
       "fotografies atribuïdes a Guillem d’Areny-Plandolit i verificació externa pendent",
       "altres localitats documentades i causes de continuïtat només parcialment cobertes"
     ]
+  },
+  "docs/temes/costums/calendari-festiu/calendari-festiu.md": {
+    "status": "in_progress",
+    "conversation_ids": [
+      "festa-major-parroquia-versus-meritxell-01"
+    ],
+    "reviewed_units": [
+      "diferència entre les festes majors locals d’estiu i la Festa Nacional de Meritxell del 8 de setembre; absència de dates locals oficials a la fitxa"
+    ],
+    "open_units": [
+      "dates concretes de cada festa major i fonts primàries comunals, que l’article declara absents",
+      "Sant Antoni, caramelles, Sant Joan i falles: dates, relacions entre tradicions i fonts",
+      "llista de festes judicials aprovada el 1902, períodes de tancament i distinció respecte del calendari popular",
+      "origen dels Tons fundadors i dels escudellaires",
+      "supressions de festes religioses als bisbats espanyols i afirmació atribuïda a Brutails",
+      "relacions amb les fitxes d’escudelles, caramelles, falles, Meritxell, festes majors i fira d’Organyà"
+    ]
   }
 }
