@@ -1368,12 +1368,20 @@
       "title": "El Museu Casa d'Areny-Plandolit",
       "type": "article",
       "topic": "temes/cultura/museus-i-arxius/museus",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 28,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/cultura/museus-i-arxius/museus/casa-dareny-plandolit.md#unit-0011",
+        "docs/temes/cultura/museus-i-arxius/museus/casa-dareny-plandolit.md#unit-0016",
+        "docs/temes/cultura/museus-i-arxius/museus/casa-dareny-plandolit.md#unit-0019",
+        "docs/temes/cultura/museus-i-arxius/museus/casa-dareny-plandolit.md#unit-0020",
+        "docs/temes/cultura/museus-i-arxius/museus/casa-dareny-plandolit.md#unit-0021"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 28,
-      "conversation_ids": []
+      "open_unit_count": 23,
+      "conversation_ids": [
+        "nova-reforma-1866-vot-i-mandats-001"
+      ]
     },
     "docs/temes/cultura/museus-i-arxius/museus/el-museu-de-la-radio.md": {
       "title": "El Museu de la Ràdio, un projecte encara pendent",
