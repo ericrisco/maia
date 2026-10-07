@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 14,
+    "in_progress": 0,
     "no_natural_question": 0,
-    "not_started": 1334
+    "not_started": 1348
   },
   "documents": [
     {
@@ -43,11 +43,9 @@
       "type": "article",
       "topic": "temes/costums/calendari-festiu",
       "source": "premsa-andorrana",
-      "status": "in_progress",
-      "conversation_count": 1,
-      "conversation_ids": [
-        "ordino-ossa-cronologies-contradictories-001"
-      ],
+      "status": "not_started",
+      "conversation_count": 0,
+      "conversation_ids": [],
       "reviewed_units": [],
       "open_units": [],
       "completion_note": "",
@@ -129,38 +127,11 @@
       "type": "article",
       "topic": "temes/costums/danses",
       "source": "wikipedia-ball-ossa-encamp",
-      "status": "in_progress",
-      "conversation_count": 10,
-      "conversation_ids": [
-        "ball-ossa-arguments-divergents-001",
-        "ball-ossa-dallaires-paper-001",
-        "ball-ossa-marsol-modernitzacio-001",
-        "ball-ossa-ritus-iniciatic-001",
-        "encamp-ossa-contrabandistes-001",
-        "encamp-ossa-escenari-actual-001",
-        "festes-ossa-emigracio-i-represa-001",
-        "festes-ossa-inscripcio-unesco-001",
-        "ordino-ossa-cronologies-contradictories-001",
-        "ossa-encamp-disfressa-materials-001"
-      ],
-      "reviewed_units": [
-        "Els dallaires són a escena des del principi fins al final i reben les visites dels altres personatges.",
-        "Els intèrprets dels dallaires hi apareixen amb els seus noms reals, a diferència de la resta de papers.",
-        "La fitxa identifica els dallaires com els grans protagonistes de la farsa, tot i que el títol destaca l'ossa.",
-        "La font recull una interpretació d'Eloi Ysàs que llegeix la farsa com un ritu iniciàtic, però la tesi original no s'ha pogut consultar.",
-        "La disfressa és descrita amb pells d'ovella, abans farcides de palla, i avui de pèl de peluix; la font no en data el canvi.",
-        "La font atribueix a Rossend Marsol la modernització, l'ús de megafonia i la implicació del jovent; el seu guió encara n'és l'esquema, però la font no afirma que la representació sigui idèntica cada any.",
-        "La descripció atribuïda a Amades i la de Masegosa divergeixen; Masegosa descriu la representació actual com a sàtira política i social amb contingut canviant. No s'arbitra quina trama és original.",
-        "Les Festes de l'Os dels Pirineus són inscrites a la UNESCO des del 2022; la candidatura inclou les representacions d'Encamp i Ordino.",
-        "Rossend Marsol Clua va refer el guió del Ball de l'Ossa d'Encamp el 1959, el va modernitzar amb megafonia, va implicar-hi jovent i alguns papers han passat de generació en generació.",
-        "Els Contrabandistes i el Ball de l'Ossa són farses complementàries representades en dies consecutius; la primera parodia contrabandistes, la segona l'entorn dels segadors, i al final es reparteix allioli de codony.",
-        "El Ball de l'Ossa d'Encamp es representa actualment al pàrquing del prat de l'Areny, amb l'escenari cobert de palla i un pi al centre."
-      ],
-      "open_units": [
-        "La lectura del ball com a ritus iniciàtic depèn d'una tesi doctoral identificada però no consultada; no tractar-la com a fet verificat.",
-        "La descripció de Joan Amades del 1950 i les diferències amb la representació actual requereixen revisar les condicions de la font citada i separar els relats de cada versió.",
-        "La història de la disfressa de l'ossa i la seva interpretació simbòlica no queden cobertes per aquesta conversa."
-      ],
+      "status": "not_started",
+      "conversation_count": 0,
+      "conversation_ids": [],
+      "reviewed_units": [],
+      "open_units": [],
       "completion_note": "",
       "reason": ""
     },
@@ -212,26 +183,11 @@
       "type": "article",
       "topic": "temes/costums/danses",
       "source": "viquipedia-ca",
-      "status": "in_progress",
-      "conversation_count": 4,
-      "conversation_ids": [
-        "marratxa-calendari-sant-julia-001",
-        "marratxa-nom-i-simbolisme-001",
-        "marratxa-origen-i-coreografia-001",
-        "marratxa-pareatge-data-1278-001"
-      ],
-      "reviewed_units": [
-        "Marratxa, morratxa o almorratxa és el nom d'un recipient d'aigua perfumada que els dansaires duien a les mans als orígens; l'objecte ja no és al ball però el nom s'ha conservat.",
-        "La descripció recollida identifica dos dansaires —un casat i un solter— amb els coprínceps, i tres noies amb les sis antigues parròquies; els dos dansaires porten barret alt amb cintes dels colors de la bandera andorrana.",
-        "La font no explica com es correspon el nombre de tres noies amb les sis parròquies.",
-        "La tradició de la Marratxa diu 7 de setembre de 1278 per a la primera ballada després del Pareatge, mentre que la fitxa del Pareatge data la signatura el 8 de setembre; la discrepància no està resolta i l'origen llegendari requereix font primària.",
-        "La Marratxa es balla el dilluns de la festa major de Sant Julià de Lòria, juntament amb la Passa i el ball del Cerdà.",
-        "La coreografia actual es va fixar als anys seixanta: Daniel Areny va recollir les variacions de la tonada de la memòria de Ricard Mas; Isidre Marbà les va harmonitzar i en va crear els passos; l'Esbart Laurèdia la interpreta des del 1963."
-      ],
-      "open_units": [
-        "L'origen atribuït al Pareatge del 1278 i la diferència entre el 7 i el 8 de setembre necessiten una font primària.",
-        "La coreografia, la música, el vestuari complet i el rastre documental anterior als anys seixanta no estan coberts en converses actives."
-      ],
+      "status": "not_started",
+      "conversation_count": 0,
+      "conversation_ids": [],
+      "reviewed_units": [],
+      "open_units": [],
       "completion_note": "",
       "reason": ""
     },
@@ -241,38 +197,11 @@
       "type": "article",
       "topic": "temes/costums/danses",
       "source": "wikipedia-llegendes-andorra",
-      "status": "in_progress",
-      "conversation_count": 10,
-      "conversation_ids": [
-        "festes-ossa-calendari-hivern-001",
-        "festes-ossa-distribucio-i-calendari-001",
-        "festes-ossa-emigracio-i-represa-001",
-        "festes-ossa-inscripcio-unesco-001",
-        "festes-ossa-primera-referencia-001",
-        "ordino-ossa-calendari-emplaçament-001",
-        "ordino-ossa-cronologies-contradictories-001",
-        "ordino-ossa-farsa-i-final-001",
-        "ordino-ossa-mascara-centenaria-001",
-        "ordino-ossa-pandemia-2020-001"
-      ],
-      "reviewed_units": [
-        "Les Festes de l'Os dels Pirineus van ser inscrites el 2022 a la Llista Representativa de la UNESCO en una candidatura conjunta d'Andorra i França.",
-        "El Ball de l'Ossa d'Encamp i l'Última Ossa d'Ordino consten com a representacions andorranes de la candidatura.",
-        "Les fonts discrepen sobre la primera represa d'Ordino (1978 o 1985) i la següent aturada (1992 o mitjan anys noranta); coincideixen en la recuperació de 2017, però no hi ha font per arbitrar-ho.",
-        "Les festes es feien a gairebé totes les parròquies; l'Arxiu Nacional conserva referències a set llocs. Avui només perviuen Encamp i Ordino, amb celebracions el dilluns de Carnaval i la primera setmana de desembre, respectivament.",
-        "L'Última Ossa d'Ordino conserva una màscara centenària de cap d'ós dissecat, transmesa entre generacions; la mateixa es continua fent servir després de la represa del 2017.",
-        "Les festes se solien celebrar entre Sant Esteve i Carnaval, segons la creença tradicional que l'ossa hivernava entre Nadal i la Candelera, el 2 de febrer.",
-        "La forta emigració econòmica de joves andorrans cap al sud de França als anys vint va fer decaure les festes de l'ossa i en va provocar la desaparició a gairebé tot el Principat.",
-        "Les festes de l'ossa són farses còmiques d'un sol acte amb personatges típics de la vida rural.",
-        "A l'Última Ossa d'Ordino, un malentès entre el senyoret, els homes rics, les senyores visitants i els homes humils s'aclareix quan tots maten l'ossa; després la minyona comparteix amb el públic la sang representada amb aigua i granadina i la festa acaba amb un ball col·lectiu.",
-        "La primera referència escrita citada és de 1838, a la Relació sobre la Vall de Andorra de Tomàs Junoy i Arraut; l'origen medieval només es planteja com a probable.",
-        "L'Última Ossa d'Ordino es va representar el desembre de 2020 malgrat la pandèmia, amb canvi d'emplaçament i ajornament d'uns dies per no coincidir amb el dol nacional de tres dies per la mort de Valéry Giscard d'Estaing.",
-        "L'Última Ossa d'Ordino passà de celebrar-se per Carnaval a fer-se la primera setmana de desembre; l'emplaçament original era la plaça davant de Sant Corneli i Sant Cebrià, després els jardins d'Areny-Plandolit a Sant Esteve."
-      ],
-      "open_units": [
-        "La cronologia completa de les represes d'Ordino i els canvis de calendari encara no està coberta en converses actives.",
-        "Les condicions de redistribució de la notícia governamental i de la fitxa UNESCO impedeixen exportar aquest candidat sense una base reutilitzable o autorització."
-      ],
+      "status": "not_started",
+      "conversation_count": 0,
+      "conversation_ids": [],
+      "reviewed_units": [],
+      "open_units": [],
       "completion_note": "",
       "reason": ""
     },
@@ -352,20 +281,11 @@
       "type": "article",
       "topic": "temes/costums/gegants",
       "source": "canturri-usos-i-costums",
-      "status": "in_progress",
-      "conversation_count": 1,
-      "conversation_ids": [
-        "gegants-andorra-la-vella-constructors-001"
-      ],
-      "reviewed_units": [
-        "Els gegants d'Andorra la Vella es diuen Carlemany i Ermessenda; els va construir Manel Casserras i Boix el 1985.",
-        "La Gresca Gegantera es va constituir el 1985 amb deu persones i el suport del comú.",
-        "Ermessenda fa 3,75 m i pesa 50 kg; Carlemany fa 3,50 m i pesa 60 kg."
-      ],
-      "open_units": [
-        "La decisió inicial atribuïda a cap al 1982 i les raons per escollir Carlemany i Ermessenda depenen de Canturri, amb reutilització pendent.",
-        "La història dels gegants de Sant Julià i la vigència actual de la Gresca necessiten revisió addicional."
-      ],
+      "status": "not_started",
+      "conversation_count": 0,
+      "conversation_ids": [],
+      "reviewed_units": [],
+      "open_units": [],
       "completion_note": "",
       "reason": ""
     },
@@ -1005,47 +925,11 @@
       "type": "article",
       "topic": "temes/cultura",
       "source": "estadistica-ad",
-      "status": "in_progress",
-      "conversation_count": 16,
-      "conversation_ids": [
-        "cultura-biblioteques-2019-2020-comparacio-001",
-        "cultura-biblioteques-2020-prestecs-001",
-        "cultura-biblioteques-inscrits-i-prestecs-001",
-        "cultura-biblioteques-joves-2019-2024-001",
-        "cultura-biblioteques-personal-sexe-2024-001",
-        "cultura-biblioteques-xarxa-personal-2016-2024-001",
-        "cultura-cinema-2019-2024-001",
-        "cultura-cinema-edats-completes-2019-2024-001",
-        "cultura-esport-edats-2019-2024-001",
-        "cultura-lectura-oci-renda-2019-2024-001",
-        "cultura-lectura-oci-sexe-estudis-2019-2024-001",
-        "cultura-lectura-variables-no-publicades-2019-2024-001",
-        "cultura-museus-visitants-edats-2019-2024-001",
-        "cultura-practiques-sintesi-2019-2024-001",
-        "cultura-prestecs-per-tipus-2016-2024-001",
-        "voluntariat-sumes-i-serie-total-2010-2025-001"
-      ],
-      "reviewed_units": [
-        "Cinema attendance in the cultural habits survey rises from 57.4% in 2019 to 66.3% in 2024 (+8.9 points), across all ages, with the largest increase among ages 45-64 (+12.8) and 65+ (+10.4). The survey has only two waves, so this is not an annual trend and does not establish a cause.",
-        "Biblioteca: l'ús entre 15-29 anys baixa del 55,6% el 2019 al 40,6% el 2024 (-15 punts); en total, del 36,4% al 30,7%. Per edat, -4,9 punts (30-44), -0,3 (45-64) i -8,1 (65+). Són dues onades, no una sèrie anual.",
-        "La proporció que diu que va a biblioteques (enquesta) baixa del 36,4% el 2019 al 30,7% el 2024; els inscrits (registre administratiu) pugen de 19.580 el 2016 a 29.364 el 2024. Els préstecs pugen només un 4%, de 39.331 a 40.914; préstecs per persona inscrita baixen de 2,01 a 1,39 documents.",
-        "Per tipus de document, els préstecs de llibres pugen de 29.945 (2016) a 37.270 (2024), +24,5%; audiovisuals baixen de 8.389 a 2.737 (-67,4%), i sonors de 554 a 371 (-33%). El total només creix un 4%.",
-        "La proporció que practica esport puja del 73,2% el 2019 al 77,8% el 2024 (+4,6 punts); la variació és +8,1 punts als 45-64, +7,8 als 65+ i -1,2 als 30-44.",
-        "La lectura per oci baixa de 69,6% (2019) a 67,3% (2024); per sexe: dones 77,9→72,2%, homes 61,5→62,9%, distància 16,4→9,3 punts. Per estudis: terciaris -6,9 punts, secundària -1,7, obligatoris +3,1; distància terciaris-obligatoris 37,3→27,3 punts.",
-        "La proporció que visita museus baixa entre 2019 i 2024: 15-29 anys 72,5→58,6% (-13,9), 30-44 63,9→62,4% (-1,5), 45-64 63,0→54,5% (-8,5), 65+ 55,2→38,2% (-17,0). L'enquesta no n'explica la causa.",
-        "La participació en més d'11 activitats culturals baixa de 55% (2019) a 44,3% (2024), -10,7 punts. A la taula pugen cinema i esport, el teatre gairebé es manté, i baixen lectura per oci, biblioteques i museus; l'enquesta només té dues onades.",
-        "El 2020 hi va haver 17.646 préstecs a domicili (-59,7% respecte del 2019), mentre que els usuaris inscrits van ser 25.368, més que l'any anterior; la sèrie no n'identifica la causa.",
-        "El 2019, la lectura per oci és del 79,7% per als ingressos mensuals >3.000 € i del 65,2% per als ingressos <1.200 €; el desglossament per renda no es publica el 2024.",
-        "La Xarxa manté vuit biblioteques més la Biblioteca Nacional de 2016 a 2024; la ràtio baixa d'1,2 a 1,0 per 10.000 habitants perquè creix la població. Una taula dona 29 persones de plantilla el 2016 i 27 el 2024; una segona sèrie 'personal de biblioteques' dona 32 el 2016 i s'atura el 2021, sense que consti què inclou.",
-        "La plantilla de biblioteques el 2024 és de 27 persones, 24 dones i 3 homes; la font no aporta aquí un desglossament per sexe d'altres anys.",
-        "La sèrie total de voluntariat i la suma per sexe coincideixen del 2010 al 2021 i el 2025, però divergeixen el 2022 (468/242), 2023 (517/260) i 2024 (476/281), sense explicació de la font. El total dona 295 voluntaris el 2010, màxim 762 el 2020, 100 el 2021 i 178 el 2025; el desglossament de 2025 quadra (101 dones, 77 homes).",
-        "L'enquesta de lectura només publica la variable 'lectura per oci'; no dona la llengua de lectura, el tipus de contingut, el suport, ni desglossament per parròquia o nacionalitat.",
-        "El cinema augmenta en totes les edats: 15-29, 75,4→78,8% (+3,4); 30-44, 64,3→72,2% (+7,9); 45-64, 55,8→68,6% (+12,8); 65+, 28,3→38,7% (+10,4). El màxim augment és entre 45-64.",
-        "Els usuaris inscrits pugen de 25.038 el 2019 a 25.368 el 2020; els préstecs baixen de 43.773 a 17.646 (-59,7%). La font no n'estableix la causa."
-      ],
-      "open_units": [
-        "La fitxa no permet inferir les causes dels canvis culturals ni una evolució anual entre 2019 i 2024."
-      ],
+      "status": "not_started",
+      "conversation_count": 0,
+      "conversation_ids": [],
+      "reviewed_units": [],
+      "open_units": [],
       "completion_note": "",
       "reason": ""
     },
@@ -1167,24 +1051,11 @@
       "type": "article",
       "topic": "temes/cultura/llegendes",
       "source": "wikipedia-llegendes-andorra",
-      "status": "in_progress",
-      "conversation_count": 4,
-      "conversation_ids": [
-        "minairo-cano-i-tarteres-001",
-        "minairo-herba-sant-joan-001",
-        "minairo-variants-etimologia-001",
-        "minairons-cases-pairals-001"
-      ],
-      "reviewed_units": [
-        "Els minairons són follets diminuts que, segons la tradició, caben per milers en un canó; en sortir demanen feina i maten l'amo si no els en mana.",
-        "La llegenda explica algunes tarteres com a pedres apilades pels minairons per ordre d'un amo desesperat.",
-        "La tradició situa el naixement dels minairons a l'herba menaironera o herba de Sant Joan, que floreix i grana al solstici; algunes versions la identifiquen amb una falguera, però la font no resol la botànica ni si el minairó és la llavor. L'herba creix en coves fondes guardades per gegants i dracs, accessibles a mitjanit de Sant Joan.",
-        "Les variants territorials inclouen minairons/manairons/menairons a Andorra, l'Alt Urgell i el Pallars; mineirons a la Seu; jaumets al Pallars Sobirà; diablorins a l'Alta Ribagorça; petits/martinets a la Cerdanya; fameliars a les Pitiüses; galtzagorri al País Basc. La font deriva minairó del català antic minaire/menaire, 'miner'.",
-        "La font associa la possessió del canó amb la prosperitat sobtada de nou cases pirinenques: Llibrada de Benasc, Joaniquet de Forcat, Teixidor d'Aulet, Xollat de Perves, Jaume de la Torre de Cabdella, Tor d'Alós, Badinet d'Isil, Sidro d'Estaon i el Feu de la Guàrdia d'Ares; cap és andorrana."
-      ],
-      "open_units": [
-        "La font no documenta quines cases andorranes, si n'hi havia, tenien fama de posseir un canó de minairons; les variants andorranes encara no s'han buidat."
-      ],
+      "status": "not_started",
+      "conversation_count": 0,
+      "conversation_ids": [],
+      "reviewed_units": [],
+      "open_units": [],
       "completion_note": "",
       "reason": ""
     },
@@ -1194,18 +1065,11 @@
       "type": "article",
       "topic": "temes/cultura/llegendes",
       "source": "viquipedia-ca",
-      "status": "in_progress",
-      "conversation_count": 1,
-      "conversation_ids": [
-        "roc-bruixes-geografia-canillo-001"
-      ],
-      "reviewed_units": [
-        "El Roc de les Bruixes és una roca amb gravats en un bosc de Canillo, encarada al santuari de Meritxell; tots dos són al mateix terme.",
-        "Al mateix terme hi ha l'església romànica de Sant Joan de Caselles, dels segles XI-XII."
-      ],
-      "open_units": [
-        "El significat i la datació dels gravats, el relat de la llegenda i l'accés actual depenen de fonts governamentals o periodístiques amb reutilització pendent/no confirmada."
-      ],
+      "status": "not_started",
+      "conversation_count": 0,
+      "conversation_ids": [],
+      "reviewed_units": [],
+      "open_units": [],
       "completion_note": "",
       "reason": ""
     },
@@ -1215,21 +1079,11 @@
       "type": "article",
       "topic": "temes/cultura/llegendes",
       "source": "wikipedia-tamarro",
-      "status": "in_progress",
-      "conversation_count": 2,
-      "conversation_ids": [
-        "tamarro-abast-geografic-001",
-        "tamarro-cacera-i-itinerari-001"
-      ],
-      "reviewed_units": [
-        "El tamarro és una bèstia imaginària; la cacera era una broma per enganyar forasters amb una comporta i un sac, que els deixava xops i enfangats; la font descriu que podia incloure un gat amb morrió o un gos i la qualifica de cruel.",
-        "Els itineraris infantils actuals conviden a trobar el tamarro, presentat com a protector de la natura i els boscos.",
-        "La criatura imaginària és present en llegendes del Pallars, la Vall d'Aran, Andorra, Occitània i comarques properes; als territoris catalans i a la península hi ha equivalents anomenats gambutzí, gamusino, gamburrino i gambozino."
-      ],
-      "open_units": [
-        "La història completa i les seves variants encara no estan cobertes; la font primària de la descripció de la broma no està identificada.",
-        "La data d'inici i final de la cacera, el seu nom local i el document de la mascota olímpica de 1991 encara no tenen conversa activa."
-      ],
+      "status": "not_started",
+      "conversation_count": 0,
+      "conversation_ids": [],
+      "reviewed_units": [],
+      "open_units": [],
       "completion_note": "",
       "reason": ""
     },
@@ -1239,18 +1093,11 @@
       "type": "article",
       "topic": "temes/cultura/llegendes",
       "source": "viquipedia-ca",
-      "status": "in_progress",
-      "conversation_count": 1,
-      "conversation_ids": [
-        "bruixa-sornas-relat-i-buits-001"
-      ],
-      "reviewed_units": [
-        "A Sornàs hi ha una figura a la roca que representa una dona; la llegenda diu que és una bruixa cremada allà mateix.",
-        "La versió disponible no diu qui era, qui la va cremar, el motiu o la data, i no aporta rastre documental d'un procés."
-      ],
-      "open_units": [
-        "No hi ha versió llarga, identificació de la figura material ni font sobre processos històrics de bruixeria."
-      ],
+      "status": "not_started",
+      "conversation_count": 0,
+      "conversation_ids": [],
+      "reviewed_units": [],
+      "open_units": [],
       "completion_note": "",
       "reason": ""
     },
@@ -1260,24 +1107,11 @@
       "type": "article",
       "topic": "temes/cultura/llegendes",
       "source": "wikipedia-dama-blanca",
-      "status": "in_progress",
-      "conversation_count": 3,
-      "conversation_ids": [
-        "dama-blanca-auvinya-toponim-001",
-        "dama-blanca-llegenda-001",
-        "dama-blanca-representacions-001"
-      ],
-      "reviewed_units": [
-        "La llegenda presenta la Dama Blanca com a esperit protector d'Andorra, vinculada a un llinatge noble dels passos fronterers.",
-        "Un bisbe d'Urgell la troba prop d'Aubinyà, jura no tornar-hi, trenca el jurament, torna a trobar-la i desapareix.",
-        "Després apareix un llop negre que duu l'ànima del bisbe; un síndic el caça i embogeix pels malsons; la llegenda no identifica el bisbe ni el síndic.",
-        "A l'entrada d'Aubinyà hi ha una escultura metàl·lica de la Dama Blanca amb un llop, obra de Toni Cruz; l'Esbart Laurèdia té una peça dedicada a la Dama Blanca del 2013.",
-        "La grafia oficial del topònim va passar d'Aubinyà a Auvinyà el 2011; Aubinyà es manté com a forma tradicional del nom de la llegenda."
-      ],
-      "open_units": [
-        "Les hipòtesis d'origen de la Dama Blanca no estan resoltes.",
-        "La cronologia documental de la llegenda i la relació exacta entre la Dama Blanca i els gegants de Sant Julià no estan establertes."
-      ],
+      "status": "not_started",
+      "conversation_count": 0,
+      "conversation_ids": [],
+      "reviewed_units": [],
+      "open_units": [],
       "completion_note": "",
       "reason": ""
     },
@@ -1581,17 +1415,11 @@
       "type": "article",
       "topic": "temes/cultura/museus-i-arxius/museus",
       "source": "wikipedia-museus-andorra",
-      "status": "in_progress",
-      "conversation_count": 1,
-      "conversation_ids": [
-        "cultura-museus-visitants-edats-2019-2024-001"
-      ],
-      "reviewed_units": [
-        "El recompte de visitants dels museus registra 149.679 el 2019 i 92.583 el 2024; coincideix en direcció amb la baixada d'assistència indicada per l'enquesta d'hàbits culturals."
-      ],
-      "open_units": [
-        "Les altres sèries de visitants, la comparació per museu i els límits de les fonts d'entrades encara no estan coberts en converses actives."
-      ],
+      "status": "not_started",
+      "conversation_count": 0,
+      "conversation_ids": [],
+      "reviewed_units": [],
+      "open_units": [],
       "completion_note": "",
       "reason": ""
     },
@@ -1783,11 +1611,9 @@
       "type": "article",
       "topic": "temes/cultura/teatre",
       "source": "masegosa-teatre-andorra",
-      "status": "in_progress",
-      "conversation_count": 1,
-      "conversation_ids": [
-        "ball-ossa-arguments-divergents-001"
-      ],
+      "status": "not_started",
+      "conversation_count": 0,
+      "conversation_ids": [],
       "reviewed_units": [],
       "open_units": [],
       "completion_note": "",
@@ -9975,11 +9801,9 @@
       "type": "article",
       "topic": "temes/historia/pareatge",
       "source": "palau-marti-identitat-andorrana-1994",
-      "status": "in_progress",
-      "conversation_count": 1,
-      "conversation_ids": [
-        "marratxa-pareatge-data-1278-001"
-      ],
+      "status": "not_started",
+      "conversation_count": 0,
+      "conversation_ids": [],
       "reviewed_units": [],
       "open_units": [],
       "completion_note": "",

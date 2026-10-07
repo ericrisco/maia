@@ -1,13 +1,11 @@
-# Procedència del pilot de calibratge
+# Procedència dels exemples editorials
 
-Les mostres d'`EXEMPLES.md` són diàlegs editorials per revisar naturalitat. No són registres aprovats, no compten per a la cobertura i no s'exporten. Les condicions següents s'han de resoldre per a cada ús previst abans de crear candidats d'entrenament.
+Els exemples d'`EXEMPLES.md` són mostres de redacció, no candidats ni registres d'entrenament. Es poden fer servir per revisar l'estil intern; no s'exporten. Les condicions de llicència aquí descrites són part de la mostra i no substitueixen la procedència específica de cada conversa candidata.
 
-| Exemple | Fitxa Maia consultada | Drets de les fonts | Abast de la mostra |
+| Exemple | Document Maia consultat | Font i condicions | Abast factual |
 |---|---|---|---|
-| Denunciar i demandar | `docs/temes/institucions/justicia/podies-denunciar-un-consol-pero-no-demandar-lo.md` | J.-A. Brutails (1904): obra impresa en domini públic; còpia digital amb condicions no comercials i elegibilitat per a entrenament pendent. | Distinció històrica entre acció civil i persecució criminal, i canvi de la Reforma de 1866. |
-| Text i gràfic | `docs/temes/llengua/politica-linguistica/el-diposit-legal-daquesta-edicio-es-and-000-2019.md`; `docs/temes/llengua/politica-linguistica/sis-onades-en-una-taula.md` | La publicació del Govern té drets reservats. Les dades pròpies de l'API del Departament d'Estadística tenen CC BY 4.0 i requereixen atribució. | Per al 2018, la sèrie de l'API coincideix amb el text de la publicació, no amb el gràfic. El 2014 dona 57,7 per al català i 56,4 per al castellà. |
-| Nom de la Marratxa | `docs/temes/costums/danses/la-marratxa.md` | Viquipèdia en català: CC BY-SA 4.0, amb atribució i compartir igual. | El nom prové d'un recipient d'aigua perfumada que els dansaires duien antigament; la fitxa diu que ja no es fa servir. |
-| Tipus d'interès | `docs/temes/economia/banca-i-fiscalitat/pero-en-tot-lo-demes-al-cinc-per-cent.md` | Brutails (1904): elegibilitat per a entrenament pendent. | El decret de 1895 manté el tres i terç per als censals i diferencia la resta, acceptada al 5%. |
-| Llegenda de Meritxell | `docs/temes/cultura/llegendes/la-troballa-de-meritxell.md` | La referència a premsa no està identificada i té drets reservats; redistribució no autoritzada. | Resum del relat llegendari i límit de la fitxa sobre la seva verificació històrica. |
+| La Marratxa | `docs/temes/costums/danses/la-marratxa.md` | Viquipèdia en català, CC BY-SA 4.0; cal atribució i compartir igual. | Recipient perfumat, absència actual de l'objecte i reconstrucció de la coreografia als anys seixanta. No tracta l'origen llegendari del 1278 com un fet verificat. |
+| Biblioteques | `docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md` | API del Departament d'Estadística: dades estadístiques pròpies sota CC BY 4.0, amb atribució. | Diferència entre assistència declarada i usuaris inscrits; préstecs de llibres i totals de préstecs. |
+| Cinema | `docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md` | API del Departament d'Estadística: dades estadístiques pròpies sota CC BY 4.0, amb atribució. | Enquesta de 2019 i 2024; no hi ha una sèrie anual que indiqui què va passar entre les dues onades. |
 
-Les mostres que depenen de fonts amb drets reservats o elegibilitat pendent són només exemples de redacció dins la documentació de treball. No s'han d'afegir a `conversations.jsonl` ni a cap exportació.
+Abans d'afegir un registre real a `conversations.jsonl`, crea una fila pròpia a `provenance.jsonl` amb els documents, fonts, drets, afirmacions sustentades i grup de deduplicació. Un exemple d'aquí no compta per cobrir cap fitxa.

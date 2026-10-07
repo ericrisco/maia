@@ -1,0 +1,21 @@
+{
+  "example_id": "topic-intent-001",
+  "source_documents": [
+    "docs/temes/path/to/article.md"
+  ],
+  "source_rights_by_document": [
+    {
+      "source_document": "docs/fonts/source-id.md",
+      "redistribucio": "pendent",
+      "license": "Declared licence and required attribution"
+    }
+  ],
+  "claims": [
+    "A factual claim in the conversation, linked to the source that supports it."
+  ],
+  "editorial_review": "Why a person could ask this and how the follow-up connects.",
+  "rights_note": "Restrictions or attribution obligations for this record.",
+  "review_status": "candidate",
+  "conversation_type": "Human intent in a few words",
+  "split_group": "topic-intent"
+}

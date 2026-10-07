@@ -1,11 +1,12 @@
 # Revisió de Maia Knowledge
 
-Aquí es calibra l'estil i es revisen els candidats abans d'exportar-los.
+Aquí es calibra l'estil i es revisen els candidats abans de l'exportació.
 
-- [`CONVERSATION-GUIDE.md`](CONVERSATION-GUIDE.md): com identificar un dubte humà i revisar el fil multitorn.
-- [`EXEMPLES.md`](EXEMPLES.md): cinc mostres editorials per calibratge; no són dades d'entrenament.
-- [`examples-provenance.md`](examples-provenance.md): fonts, drets i límits de cada mostra.
-- `conversations.jsonl` i `provenance.jsonl`: candidats actius i procedència; cada registre nou tindrà una fila a cadascun.
-- [`archive/initial-pilot-2026-10-07/`](archive/initial-pilot-2026-10-07/): pilot anterior retingut per auditoria; no s'ha d'exportar ni comptar com a cobertura.
+- [`CONVERSATION-GUIDE.md`](CONVERSATION-GUIDE.md): criteri per escriure un dubte humà i comprovar que el fil funciona.
+- [`EXEMPLES.md`](EXEMPLES.md): exemples de calibratge; no són registres d'entrenament.
+- [`examples-provenance.md`](examples-provenance.md): fonts i drets de les mostres editorials.
+- [`provenance-template.json`](provenance-template.json): camps necessaris per documentar cada conversa candidata.
+- `conversations.jsonl` i `provenance.jsonl`: cua activa; cada conversa ha de tenir un registre de procedència corresponent.
+- [`archive/`](archive/): candidats retirats i les instantànies necessàries per auditar-los.
 
-La primera conversa activa tracta el paper dels dallaires al Ball de l'Ossa d'Encamp. Segueix la [guia de conversa](CONVERSATION-GUIDE.md), revisa la procedència i no exportis candidats fins que passin la revisió editorial i de drets.
+La cua activa comença buida. No copiïs automàticament candidats de l'arxiu. Abans d'afegir una conversa, comprova la pregunta llegint només els missatges d'usuari, revisa les respostes contra les fonts i registra els drets.

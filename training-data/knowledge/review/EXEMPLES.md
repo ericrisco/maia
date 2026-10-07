@@ -1,56 +1,45 @@
-# Pilot de calibratge: converses que podria iniciar una persona
+# Exemples de calibratge per a Maia Knowledge
 
-Aquests cinc exemples serveixen per comprovar el nou criteri. Parteixen d'un dubte, una confusió o una petició de recordar; cap pregunta no depèn del nom d'una fitxa o d'una secció. Els seguiments continuen el tema que Maia acaba d'explicar.
+Aquests exemples fixen el llindar editorial. No són registres aprovats, no compten per a cobertura i no s'exporten. Les dades i els límits s'han de poder rastrejar a les fitxes indicades a [`examples-provenance.md`](examples-provenance.md).
 
-**No són registres aprovats ni entren dades.** Es conserven aquí perquè els puguem revisar i canviar abans d'obrir una nova tanda de candidats. La procedència i l'estat de drets consten a [`examples-provenance.md`](examples-provenance.md).
+La prova principal és llegir només les intervencions d'usuari. Han de semblar una consulta amb sentit propi, i el seguiment ha de sortir del que Maia acaba de respondre.
 
-## 1. Denunciar i demandar no eren el mateix
-
-```json
-{"messages":[{"role":"user","content":"Com pot ser que es pogués denunciar un cònsol però no reclamar-li un deute? No era el mateix?"},{"role":"assistant","content":"No. La fitxa descriu dues vies diferents. Abans de la Reforma de 1866, calia autorització prèvia per iniciar una acció civil contra una autoritat, fins i tot per un deute personal. Per perseguir-la criminalment, no calia aquell permís."},{"role":"user","content":"I després de la Reforma ja se li podia reclamar qualsevol deute?"},{"role":"assistant","content":"No qualsevol. Després de 1866, l'autorització només es mantenia per als deutes contrets en exercici del càrrec. Per un deute personal, es podia citar l'autoritat sense demanar-la abans."}]}
-```
-
-**Per què funciona:** la pregunta neix d'una contradicció aparent; el seguiment pregunta per la conseqüència del canvi històric.
-
-## 2. El text i el gràfic es contradiuen
+## 1. El nom de la Marratxa i el ball d'avui
 
 ```json
-{"messages":[{"role":"user","content":"La publicació diu que el 2018 el català era al 56,8 i el castellà al 57,6, però el gràfic sembla posar el català per sobre. Quina dada és correcta?"},{"role":"assistant","content":"Per al 2018, la sèrie del Departament d'Estadística dona 56,8 per al català i 57,6 per al castellà, igual que el text. El gràfic està invertit: dibuixa el català a 57,6 i el castellà a 56,8."},{"role":"user","content":"I el 2014 el català sí que havia passat al davant?"},{"role":"assistant","content":"Sí. El 2014 la mateixa sèrie dona 57,7 per al català i 56,4 per al castellà: una diferència d'1,3 punts a favor del català."}]}
+{"messages":[{"role":"user","content":"La Marratxa encara es balla amb una marratxa a la mà, o només n'ha quedat el nom?"},{"role":"assistant","content":"Només n'ha quedat el nom. La marratxa era un recipient d'aigua perfumada que els dansaires duien antigament; avui ja no es fa servir en el ball."},{"role":"user","content":"I els passos que es ballen ara són els mateixos de sempre?"},{"role":"assistant","content":"No es pot assegurar. La versió actual es va fixar als anys seixanta: Daniel Areny va recollir la tonada de la memòria del dansaire Ricard Mas, i Isidre Marbà en va harmonitzar la música i en va crear la coreografia. No hi ha prou documentació per afirmar que aquests passos siguin els del segle XIII."}]}
 ```
 
-**Per què funciona:** l'usuari demana resoldre una contradicció concreta; la resposta separa text, gràfic i sèrie estadística.
+**Per què passa:** la primera pregunta surt d'una confusió natural entre el nom i l'objecte. El seguiment pregunta per la continuïtat que suggereix la paraula «encara»; la resposta distingeix la pràctica documentada de l'origen llegendari.
 
-## 3. D'on ve el nom de la Marratxa?
+## 2. Més inscrits, menys gent que diu que hi va
 
 ```json
-{"messages":[{"role":"user","content":"Per què es diu Marratxa? Encara ballen amb aquell recipient?"},{"role":"assistant","content":"El nom ve d'una marratxa, un recipient d'aigua perfumada que els dansaires duien a les mans. La fitxa diu que l'objecte va desaparèixer del ball, tot i que el nom es va conservar."},{"role":"user","content":"I quan es balla ara a Sant Julià?"},{"role":"assistant","content":"La Marratxa es balla el dilluns de la festa major de Sant Julià de Lòria, juntament amb el ball del Cerdà i la Passa."}]}
+{"messages":[{"role":"user","content":"No ho acabo d'entendre: l'enquesta diu que menys gent va a les biblioteques, però els usuaris inscrits han pujat. Com pot ser?"},{"role":"assistant","content":"No necessàriament es contradiuen: mesuren coses diferents. L'enquesta pregunta si la persona hi ha anat; el registre administratiu compta inscripcions. La proporció que diu que hi va baixa del 36,4% el 2019 al 30,7% el 2024, mentre que les inscripcions passen de 25.038 a 29.364."},{"role":"user","content":"I amb més inscrits s'enduien més llibres?"},{"role":"assistant","content":"Si mirem del 2016 al 2024, sí: el total de préstecs de llibres puja de 29.945 a 37.270. Però això no vol dir que cada persona n'agafés més. En el mateix període, la mitjana de préstecs a domicili de tots els documents per persona inscrita baixa de 2,01 a 1,39. L'enquesta cobreix 2019-2024; les dades de préstecs i inscripcions, 2016-2024."}]}
 ```
 
-**Per què funciona:** el seguiment sorgeix d'una resposta sobre la dansa i afegeix una dada pràctica relacionada.
+**Per què passa:** la pregunta expressa una contradicció percebuda. El seguiment reprèn la distinció entre inscriure's i utilitzar el servei; no demana una llista de xifres de la fitxa.
 
-## 4. Un tipus del 3,33% i un altre del 5%
+## 3. Dos anys no són una tendència anual
 
 ```json
-{"messages":[{"role":"user","content":"M'he trobat un 3,33% i un 5% en textos sobre interessos a Andorra. Quin dels dos s'aplicava?"},{"role":"assistant","content":"Depenia del contracte. Un decret de 1895 diu que els censals continuaven al tres i terç per cent —aproximadament un 3,33%—, mentre que per a la resta el Consell i les Corts acceptaven el 5%."},{"role":"user","content":"Aleshores la regla del tres i terç encara valia el 1895?"},{"role":"assistant","content":"Sí. El decret del 25 de novembre de 1895 reconeix que el tipus del censal continuava vigent «segons la llei de la Vall». També diferencia aquest contracte de la resta, per als quals s'acceptava el 5%."}]}
+{"messages":[{"role":"user","content":"Sembla que hi va més gent al cinema el 2024 que el 2019. Podem dir que ha anat pujant cada any?"},{"role":"assistant","content":"No. La proporció que diu que va al cinema passa del 57,4% el 2019 al 66,3% el 2024, però les dades només comparen aquests dos anys. No mostren què va passar entremig ni quan es va produir l'augment."},{"role":"user","content":"Aleshores tampoc no sabem si va ser un canvi gradual o d'un sol cop?"},{"role":"assistant","content":"Exacte. Només tenim dues onades, la del 2019 i la del 2024. No es pot reconstruir l'evolució entre totes dues ni atribuir la diferència a una causa concreta."}]}
 ```
 
-**Per què funciona:** la primera pregunta expressa una confusió real; el seguiment comprova si una norma anterior continuava vigent.
+**Per què passa:** l'usuari pregunta per una conclusió que les dades no permeten treure. El seguiment precisa el mateix límit; no canvia de tema ni força una explicació.
 
-## 5. Recordar la llegenda de Meritxell
+## Quan un sol intercanvi és suficient
 
-```json
-{"messages":[{"role":"user","content":"Em recordes la llegenda de la imatge de Meritxell? Per què es va quedar en aquell lloc?"},{"role":"assistant","content":"Segons la llegenda, un pastor va trobar la imatge sota una gavernera florida el dia de Reis. La van portar a Canillo i després la van tancar a Encamp, però cada vegada tornava al lloc de la troballa. La gent va entendre que volia quedar-s'hi i hi va construir el santuari."},{"role":"user","content":"Això es pot donar per fet històric?"},{"role":"assistant","content":"No amb les fonts que recull la fitxa. És el relat de la llegenda; no hi consta una font primària ni la data en què es va documentar per primera vegada."}]}
-```
+No afegeixis un seguiment perquè el format sigui «multitorn». Si la pregunta era «La Marratxa encara es balla a Sant Julià?», una resposta directa sobre el dilluns de festa major pot tancar la consulta. Un fil curt ben resolt és millor que una segona pregunta ornamental.
 
-**Per què funciona:** la primera pregunta demana una història concreta; el seguiment comprova què és llegenda i què està verificat.
+## Exemples de preguntes que es descarten
 
-## Les preguntes que no passaven el filtre
+| Pregunta rebutjada | Motiu |
+|---|---|
+| «Què explica la secció “El relat” de la fitxa de Meritxell?» | Depèn que l'usuari conegui la fitxa i la seva estructura. |
+| «Què indica aquesta fila?» | No diu què es compara ni quin dubte vol resoldre. |
+| «I dos topònims que en surten:» | És un fragment, no una pregunta. |
+| «Enumera els fets principals de la Marratxa.» | Demana una extracció, sense una motivació identificable. |
+| «La Marratxa és una dansa? I quin dia es balla? I qui la va coreografiar?» | Acumula consultes independents en una sola intervenció. Cal separar-les si cada dubte té valor propi. |
 
-| Formulació descartada | Què falla | Direcció millor |
-|---|---|---|
-| «Què explica la secció “El relat” de la fitxa “La troballa de Meritxell”?» | L'usuari ha de tenir la fitxa oberta. | «Em recordes la llegenda de la imatge de Meritxell?» |
-| «Què indica aquesta fila?» | No identifica què vol entendre. | Explicar què es contradiu i preguntar quina dada és fiable. |
-| «I dos topònims que en surten:» | És un fragment sense una petició completa. | Descartar-lo, llevat que hi hagi una pregunta real sobre aquells llocs. |
-| «Tres coses que el corpus registra per separat:» | És una nota editorial, no una intervenció d'usuari. | Preguntar quin dubte resol el document —per exemple, per què hi ha dos tipus d'interès. |
-
-No cal convertir cada pregunta descartada en una pregunta nova. Si no hi ha una motivació natural, no hi ha registre.
+Si una pregunta falla, no l'arreglis només canviant el títol per una frase més col·loquial. Reescriu el dubte des de la necessitat de qui pregunta o descarta el registre.

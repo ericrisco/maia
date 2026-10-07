@@ -4,42 +4,42 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 
 - Fitxes article: **1348**.
 - Fitxers totals, inclosos índexs: **1477**.
-- Converses candidates: **0**.
+- Converses candidates: **49**.
 
 | Estat de revisió | Fitxes |
 |---|---:|
-| Revisades completes | 0 |
-| En curs | 0 |
+| Revisades completes | 1 |
+| En curs | 13 |
 | Revisades sense pregunta natural | 0 |
-| No començades | 1348 |
+| No començades | 1334 |
 
 ## Estat per tema
 
 | Tema | Articles | No començades | En curs | Completes | Sense pregunta natural |
 |---|---:|---:|---:|---:|---:|
 | `societat/treball` | 1 | 1 | 0 | 0 | 0 |
-| `temes/costums/calendari-festiu` | 2 | 2 | 0 | 0 | 0 |
+| `temes/costums/calendari-festiu` | 2 | 1 | 1 | 0 | 0 |
 | `temes/costums/caramelles` | 1 | 1 | 0 | 0 | 0 |
-| `temes/costums/danses` | 7 | 7 | 0 | 0 | 0 |
+| `temes/costums/danses` | 7 | 4 | 3 | 0 | 0 |
 | `temes/costums/falles` | 1 | 1 | 0 | 0 | 0 |
 | `temes/costums/festes-majors` | 2 | 2 | 0 | 0 | 0 |
-| `temes/costums/gegants` | 1 | 1 | 0 | 0 | 0 |
+| `temes/costums/gegants` | 1 | 0 | 1 | 0 | 0 |
 | `temes/costums/meritxell` | 1 | 1 | 0 | 0 | 0 |
 | `temes/costums/religiositat` | 5 | 5 | 0 | 0 | 0 |
 | `temes/costums/ritus-de-pas` | 2 | 2 | 0 | 0 | 0 |
 | `temes/costums/sant-antoni` | 1 | 1 | 0 | 0 | 0 |
-| `temes/cultura` | 1 | 1 | 0 | 0 | 0 |
+| `temes/cultura` | 1 | 0 | 0 | 1 | 0 |
 | `temes/cultura/andorra-vista-de-fora` | 6 | 6 | 0 | 0 | 0 |
 | `temes/cultura/arquitectura` | 11 | 11 | 0 | 0 | 0 |
 | `temes/cultura/artesania` | 2 | 2 | 0 | 0 | 0 |
 | `temes/cultura/arts-visuals` | 8 | 8 | 0 | 0 | 0 |
 | `temes/cultura/cultura-popular` | 2 | 2 | 0 | 0 | 0 |
 | `temes/cultura/literatura` | 1 | 1 | 0 | 0 | 0 |
-| `temes/cultura/llegendes` | 10 | 10 | 0 | 0 | 0 |
+| `temes/cultura/llegendes` | 10 | 5 | 5 | 0 | 0 |
 | `temes/cultura/museus-i-arxius` | 15 | 15 | 0 | 0 | 0 |
-| `temes/cultura/museus-i-arxius/museus` | 11 | 11 | 0 | 0 | 0 |
+| `temes/cultura/museus-i-arxius/museus` | 11 | 10 | 1 | 0 | 0 |
 | `temes/cultura/musica-i-cancons` | 3 | 3 | 0 | 0 | 0 |
-| `temes/cultura/teatre` | 2 | 2 | 0 | 0 | 0 |
+| `temes/cultura/teatre` | 2 | 1 | 1 | 0 | 0 |
 | `temes/economia/banca-i-fiscalitat` | 33 | 33 | 0 | 0 | 0 |
 | `temes/economia/comerc` | 17 | 17 | 0 | 0 | 0 |
 | `temes/economia/energia-i-serveis` | 4 | 4 | 0 | 0 | 0 |
@@ -78,7 +78,7 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 | `temes/historia/manual-digest` | 5 | 5 | 0 | 0 | 0 |
 | `temes/historia/moments-historics` | 2 | 2 | 0 | 0 | 0 |
 | `temes/historia/origens` | 15 | 15 | 0 | 0 | 0 |
-| `temes/historia/pareatge` | 6 | 6 | 0 | 0 | 0 |
+| `temes/historia/pareatge` | 6 | 5 | 1 | 0 | 0 |
 | `temes/historia/segle-xix` | 29 | 29 | 0 | 0 | 0 |
 | `temes/historia/segle-xx-primera-meitat` | 30 | 30 | 0 | 0 | 0 |
 | `temes/institucions/comuns-i-parroquies` | 35 | 35 | 0 | 0 | 0 |

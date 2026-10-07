@@ -54,9 +54,11 @@ Una conversa passa el filtre només si totes aquestes respostes són sí:
 
 Un «no» implica reescriure o descartar, no rebaixar el criteri.
 
-## Què va passar amb el pilot anterior
+## Candidats retirats
 
-Els primers candidats es van escriure com si l'usuari tingués una fitxa oberta. S'han apartat de la cua activa i es conserven a `archive/initial-pilot-2026-10-07/` per consultar-ne la procedència. No compten com a registres aprovats ni com a cobertura. Els exemples nous d'`EXEMPLES.md` són només calibratge fins que el criteri s'hagi validat.
+Les primeres tandes incloïen preguntes que semblaven encàrrecs d'extreure informació d'una fitxa. S'han apartat de la cua activa a `archive/`; les instantànies conserven les converses, la procedència i l'estat anterior. No compten com a registres actius ni com a cobertura. No els tornis a activar sense revisar cada fil sota aquesta guia.
+
+Els exemples d'`EXEMPLES.md` només calibren el criteri. No compten com a candidats, cobertura ni dades exportables.
 
 ## Format
 
