@@ -9,6 +9,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 ## Fonts dels registres exportats
 
 - J.-A. Brutails, La Coutume d'Andorre (1904), cap. VII, especialment pp. 276–277 del Politar citat; digitalització Gallica BnF.
+- J.-A. Brutails, La Coutume d'Andorre (1904), cap. VII, p. 219 del Politar citat; digitalització Gallica BnF.
 - J.-A. Brutails, La Coutume d'Andorre (1904), cap. VII, p. 242; digitalització Gallica BnF.
 - J.-A. Brutails, La Coutume d'Andorre (1904), cap. VII, p. 244; digitalització Gallica BnF.
 - J.-A. Brutails, La Coutume d'Andorre (1904), cap. VII, p. 249 del Politar citat; digitalització Gallica BnF.

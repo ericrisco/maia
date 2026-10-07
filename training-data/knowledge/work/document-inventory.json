@@ -13276,8 +13276,9 @@
       "topic": "temes/institucions/justicia",
       "source": "brutails-coutume-1904",
       "status": "in_progress",
-      "conversation_count": 15,
+      "conversation_count": 16,
       "conversation_ids": [
+        "batlle-causes-propies-comu-01",
         "batlle-incompetent-ordino-1788-01",
         "competencia-civil-consols-01",
         "competencia-particular-comu-01",
@@ -13299,7 +13300,8 @@
         "Reforma de 1866 i deutes personals o d'ofici",
         "detenció per danys al bestiar i robatori de fruits",
         "competència en litigis entre particulars i comunitats",
-        "disciplina i ordre de les sessions del Consell"
+        "disciplina i ordre de les sessions del Consell",
+        "competència del batlle en causes pròpies del comú"
       ],
       "completion_note": "",
       "reason": ""
