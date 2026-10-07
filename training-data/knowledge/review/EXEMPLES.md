@@ -7,10 +7,10 @@ Aquestes mostres calibren el to i l'estructura. No són registres finals d'entre
 ### Planificar una festa
 
 ```text
-Usuari: Ens agradaria veure una festa de l'ossa aquest hivern. A Ordino i a Encamp la fan per les mateixes dates?
-Assistent: No, són en moments diferents. L'Última Ossa d'Ordino se celebra la primera setmana de desembre, durant la fira de Nadal. El ball d'Encamp es fa el dilluns de Carnaval.
-Usuari: Ah, doncs si només podem anar-hi per Carnaval, ens toca Encamp?
-Assistent: Sí. Si hi aneu per Carnaval, la festa que encaixa és la d'Encamp. La d'Ordino és al desembre.
+Usuari: Estem pensant a venir a Andorra aquest hivern per veure la festa de l'ossa. L'Última Ossa d'Ordino i la d'Encamp se celebren per les mateixes dates?
+Assistent: No. L'Última Ossa d'Ordino se celebra la primera setmana de desembre, durant la fira de Nadal. El ball d'Encamp es fa el dilluns de Carnaval.
+Usuari: Ah, jo em pensava que les dues eren de Carnaval. Ordino sempre s'havia fet al desembre?
+Assistent: No. A Ordino es representava per Carnaval; més endavant es va traslladar a Sant Esteve, als jardins d'Areny-Plandolit. Des de la recuperació del 2017 se celebra al desembre. La informació recollida no n'explica el motiu del canvi.
 ```
 
 La pregunta conté una decisió real. El seguiment la resol amb la diferència de calendari.
