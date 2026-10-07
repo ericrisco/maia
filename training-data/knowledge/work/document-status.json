@@ -863,7 +863,7 @@
       "title": "La Dama Blanca d'Aubinyà",
       "type": "article",
       "topic": "temes/cultura/llegendes",
-      "status": "in_progress",
+      "status": "complete",
       "unit_count": 44,
       "covered_unit_ids": [
         "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0001",
@@ -898,8 +898,8 @@
         "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0037",
         "docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md#unit-0038"
       ],
-      "excluded_unit_count": 12,
-      "open_unit_count": 1,
+      "excluded_unit_count": 13,
+      "open_unit_count": 0,
       "conversation_ids": [
         "dama-blanca-esbart-i-escultura-001",
         "dama-blanca-hipotesis-origen-003",
