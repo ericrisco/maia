@@ -95,11 +95,19 @@
     ]
   },
   "docs/temes/costums/sant-antoni/escudelles-de-sant-antoni.md": {
-    "status": "not_started",
+    "status": "in_progress",
     "open_units": [
-      "Noms locals, calendari i organització de Sant Antoni a les altres parròquies.",
-      "Si la benedicció d’animals es manté avui i on; usos locals de vianda; Sant Sebastià i Sant Antoni del porquet.",
-      "Identificació i termes de la premsa que sosté les afirmacions de Canillo."
+      "Calendari, lloc i organització de cada parròquia fora del cas documentat de Canillo.",
+      "Benedicció d’animals: pràctica actual i llocs on encara es fa.",
+      "Festa de Sant Sebastià del 20 de gener i vincle històric amb la confraria.",
+      "El debat sobre la reinvenció contemporània de Sant Antoni.",
+      "Referències concretes de premsa (mitjà, data, titular) per a les dades de Canillo pendents d’identificar."
+    ],
+    "conversation_ids": [
+      "canillo-vianda-i-recuperacio-encants-001"
+    ],
+    "reviewed_units": [
+      "A Canillo, la primera vianda popular es va fer el 1979 a Montaup; els encants perduts es van recuperar cap al 2000. La font periodística concreta no està identificada."
     ]
   },
   "docs/temes/costums/falles/falles.md": {
