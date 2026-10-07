@@ -169,6 +169,9 @@
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0005",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0006",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0007",
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0008",
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0009",
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0010",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0016",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0017",
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0018",
@@ -176,9 +179,10 @@
         "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0031"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 49,
+      "open_unit_count": 46,
       "conversation_ids": [
         "festes-ossa-forma-teatral-i-ordino-001",
+        "ultima-ossa-mascara-i-final-001",
         "ultima-ossa-ordino-canvis-de-data-001"
       ]
     },
