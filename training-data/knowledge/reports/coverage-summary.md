@@ -4,10 +4,10 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 
 - Documents inventariats: **1477** (1348 articles).
 - Unitats estructurals totals: **62911**.
-- Unitats cobertes per converses aprovades: **39** (0.062%).
+- Unitats cobertes per converses aprovades: **45** (0.072%).
 - Unitats excloses amb motiu: **0**.
-- Unitats encara obertes: **62872**.
-- Converses candidates: **8**; aprovades: **8**.
+- Unitats encara obertes: **62866**.
+- Converses candidates: **9**; aprovades: **9**.
 
 ## Estat per tema
 
@@ -25,7 +25,7 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 | `temes/costums/religiositat` | 5 | 292 | 0 | 0 | 292 |
 | `temes/costums/ritus-de-pas` | 2 | 51 | 0 | 0 | 51 |
 | `temes/costums/sant-antoni` | 1 | 19 | 0 | 0 | 19 |
-| `temes/cultura` | 1 | 73 | 39 | 0 | 34 |
+| `temes/cultura` | 1 | 73 | 40 | 0 | 33 |
 | `temes/cultura/andorra-vista-de-fora` | 6 | 280 | 0 | 0 | 280 |
 | `temes/cultura/arquitectura` | 11 | 216 | 0 | 0 | 216 |
 | `temes/cultura/artesania` | 2 | 138 | 0 | 0 | 138 |
@@ -34,7 +34,7 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 | `temes/cultura/literatura` | 1 | 87 | 0 | 0 | 87 |
 | `temes/cultura/llegendes` | 10 | 254 | 0 | 0 | 254 |
 | `temes/cultura/museus-i-arxius` | 15 | 912 | 0 | 0 | 912 |
-| `temes/cultura/museus-i-arxius/museus` | 11 | 335 | 0 | 0 | 335 |
+| `temes/cultura/museus-i-arxius/museus` | 11 | 335 | 5 | 0 | 330 |
 | `temes/cultura/musica-i-cancons` | 3 | 103 | 0 | 0 | 103 |
 | `temes/cultura/teatre` | 2 | 159 | 0 | 0 | 159 |
 | `temes/economia/banca-i-fiscalitat` | 33 | 2053 | 0 | 0 | 2053 |

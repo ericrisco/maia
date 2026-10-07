@@ -761,10 +761,11 @@
         "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0041",
         "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0042",
         "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0043",
+        "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0044",
         "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md#unit-0057"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 34,
+      "open_unit_count": 33,
       "conversation_ids": [
         "biblioteques-canvi-tipus-prestec-001",
         "biblioteques-evolucio-per-edat-001",
@@ -773,7 +774,8 @@
         "biblioteques-prestecs-i-inscripcions-001",
         "cinema-pel-tram-dedat-001",
         "cultura-canvis-i-pandemia-001",
-        "museus-assistencia-per-edat-001"
+        "museus-assistencia-per-edat-001",
+        "museus-enquesta-i-comptatge-de-visitants-001"
       ]
     },
     "docs/temes/cultura/cultura-d-andorra-index-de-fitxes.md": {
@@ -1154,12 +1156,20 @@
       "title": "Els museus d'Andorra — índex de fitxes",
       "type": "article",
       "topic": "temes/cultura/museus-i-arxius/museus",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 85,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/cultura/museus-i-arxius/museus/els-museus-d-andorra-index-de-fitxes.md#unit-0060",
+        "docs/temes/cultura/museus-i-arxius/museus/els-museus-d-andorra-index-de-fitxes.md#unit-0061",
+        "docs/temes/cultura/museus-i-arxius/museus/els-museus-d-andorra-index-de-fitxes.md#unit-0062",
+        "docs/temes/cultura/museus-i-arxius/museus/els-museus-d-andorra-index-de-fitxes.md#unit-0065",
+        "docs/temes/cultura/museus-i-arxius/museus/els-museus-d-andorra-index-de-fitxes.md#unit-0068"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 85,
-      "conversation_ids": []
+      "open_unit_count": 80,
+      "conversation_ids": [
+        "museus-enquesta-i-comptatge-de-visitants-001"
+      ]
     },
     "docs/temes/cultura/museus-i-arxius/museus/la-farga-rosell.md": {
       "title": "La Farga Rosell i la ruta del ferro",
