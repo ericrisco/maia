@@ -9,20 +9,20 @@
   "file_count": 1477,
   "article_count": 1348,
   "parse_error_count": 0,
-  "conversation_count": 79,
+  "conversation_count": 80,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 0,
-    "in_progress": 2,
+    "in_progress": 3,
     "no_natural_question": 0,
-    "not_started": 1475
+    "not_started": 1474
   },
   "article_status_totals": {
     "complete": 0,
     "excluded_rights": 0,
-    "in_progress": 2,
+    "in_progress": 3,
     "no_natural_question": 0,
-    "not_started": 1346
+    "not_started": 1345
   },
   "documents": [
     {
@@ -224,21 +224,23 @@
       "topic": "temes/costums/danses",
       "source": "viquipedia-ca",
       "status": "in_progress",
-      "conversation_count": 2,
+      "conversation_count": 3,
       "conversation_ids": [
+        "marratxa-data-tradicio-i-pareatge-001",
         "marratxa-recipient-i-nom-001",
         "marratxa-simbolisme-parroquies-001"
       ],
       "reviewed_units": [
         "Balladors i simbolisme: dos dansaires representen els coprínceps; tres noies representen les sis antigues parròquies. La font no explica la correspondència numèrica.",
-        "Nom i objecte: marratxa/morratxa/almorratxa és un recipient d'aigua perfumada que els balladors duien als orígens; avui no es fa servir, però el nom es conserva."
+        "Nom i objecte: marratxa/morratxa/almorratxa és un recipient d'aigua perfumada que els balladors duien als orígens; avui no es fa servir, però el nom es conserva.",
+        "Cronologia tradicional: la primera ballada s'atribueix al 7-09-1278; la fitxa del Pareatge el data el 8-09-1278. La diferència no està resolta i no se n'infereix cap explicació."
       ],
       "open_units": [
-        "Origen tradicional de la primera ballada el 7-09-1278 i discrepància amb la data del Pareatge (8-09-1278); verificar amb font primària.",
         "Primera documentació de la dansa i moment en què se li atribueix la commemoració dels Pareatges.",
         "Quan es balla dins la festa major de Sant Julià i quina relació té amb la Passa i el ball del Cerdà.",
         "Història de la coreografia actual: Ricard Mas, Daniel Areny, Isidre Marbà i l'Esbart Laurèdia; distingir fixació moderna d'origen antic.",
-        "Detalls de vestuari i rastre documental que les fonts actuals deixen pendents."
+        "Detalls de vestuari i rastre documental que les fonts actuals deixen pendents.",
+        "Verificar amb font primària les dates de la primera ballada i del Pareatge; la discrepància secundària continua oberta."
       ],
       "completion_note": "",
       "reason": "",
@@ -11388,11 +11390,24 @@
       "type": "article",
       "topic": "temes/historia/pareatge",
       "source": "palau-marti-identitat-andorrana-1994",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "marratxa-data-tradicio-i-pareatge-001"
+      ],
+      "reviewed_units": [
+        "Data del Pareatge: 8-09-1278, en contrast amb la data tradicional del 7-09 atribuïda a la primera ballada de la Marratxa; la diferència no queda explicada."
+      ],
+      "open_units": [
+        "Revisar definició del Pareatge de 1278, parts, contingut, conseqüències i distinció respecte d'un acte fundacional.",
+        "Revisar el segon Pareatge de 1288 i les clàusules sobre el castell d'Enclar, el notariat i la confirmació papal.",
+        "Revisar la cadena feudal (988, 1133, 1176, segle XII i 1208) i les correccions documentals associades.",
+        "Revisar l'homenatge feudal, els successors de Foix, la contrasignatura atribuïda a Pere II i el rebuig andorrà de 1283.",
+        "Revisar les fonts jurídiques aplicables, la continuïtat del coprincipat, la Constitució de 1993 i la nota sobre la data compartida amb Meritxell.",
+        "Revisar variants pareatge/pariatge i les lectures historiogràfiques de Palau i Martí, Vilar, Brutails i Becat; mantenir les discrepàncies sense arbitrar.",
+        "Revisar les taules i els onze articles, incloses les cinc disposicions sobre altres territoris.",
+        "Consultar el text llatí, els estudis pendents, la contrasignatura, la carta de 1283 i l'original de 1288; documentar els buits que no es poden resoldre amb les fonts actuals."
+      ],
       "completion_note": "",
       "reason": "",
       "exclusion_reason": "",

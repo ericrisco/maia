@@ -5,7 +5,7 @@ L’inventari inclou tots els Markdown de `docs/temes/`, inclosos índexs. Una f
 - Fitxers Markdown inventariats: **1477**.
 - Fitxes `article`: **1348**.
 - Fitxers amb frontmatter invàlid: **0**.
-- Converses actives amb procedència: **79**.
+- Converses actives amb procedència: **80**.
 
 ## Estat de tots els fitxers
 
@@ -13,9 +13,9 @@ L’inventari inclou tots els Markdown de `docs/temes/`, inclosos índexs. Una f
 |---|---:|
 | Completats | 0 |
 | Exclosos per drets | 0 |
-| En curs | 2 |
+| En curs | 3 |
 | Sense pregunta natural | 0 |
-| No començats | 1475 |
+| No començats | 1474 |
 
 ## Estat de les fitxes article
 
@@ -23,9 +23,9 @@ L’inventari inclou tots els Markdown de `docs/temes/`, inclosos índexs. Una f
 |---|---:|
 | Completats | 0 |
 | Exclosos per drets | 0 |
-| En curs | 2 |
+| En curs | 3 |
 | Sense pregunta natural | 0 |
-| No començats | 1346 |
+| No començats | 1345 |
 
 ## Estat per tema
 
@@ -92,7 +92,7 @@ L’inventari inclou tots els Markdown de `docs/temes/`, inclosos índexs. Una f
 | `temes/historia/manual-digest` | 5 | 5 | 0 | 0 | 0 | 0 |
 | `temes/historia/moments-historics` | 2 | 2 | 0 | 0 | 0 | 0 |
 | `temes/historia/origens` | 15 | 15 | 0 | 0 | 0 | 0 |
-| `temes/historia/pareatge` | 6 | 6 | 0 | 0 | 0 | 0 |
+| `temes/historia/pareatge` | 6 | 5 | 1 | 0 | 0 | 0 |
 | `temes/historia/segle-xix` | 29 | 29 | 0 | 0 | 0 | 0 |
 | `temes/historia/segle-xx-primera-meitat` | 30 | 30 | 0 | 0 | 0 | 0 |
 | `temes/institucions/comuns-i-parroquies` | 35 | 35 | 0 | 0 | 0 | 0 |
@@ -160,5 +160,6 @@ L’inventari inclou tots els Markdown de `docs/temes/`, inclosos índexs. Una f
 
 ## Documents en curs
 
-- `docs/temes/costums/danses/la-marratxa.md` — 2 converses; 5 punts oberts.
+- `docs/temes/costums/danses/la-marratxa.md` — 3 converses; 5 punts oberts.
 - `docs/temes/cultura/museus-i-arxius/el-diposit-legal.md` — 77 converses; 3 punts oberts.
+- `docs/temes/historia/pareatge/el-pareatge.md` — 1 converses; 8 punts oberts.
