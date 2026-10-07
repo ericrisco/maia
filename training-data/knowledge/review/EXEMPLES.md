@@ -1,88 +1,81 @@
-# Mostres de conversa per calibrar el to
+# Exemples per calibrar converses Knowledge
 
-Aquestes mostres són per revisar l'estil. No són registres d'entrenament ni compten per a la cobertura. La procedència es manté aquí per poder contrastar cada afirmació.
+Aquests exemples defineixen el to i el ritme. **No són registres d'entrenament** i no compten per a la cobertura. La procedència és aquí per facilitar la revisió; al dataset només hi entren missatges `user` i `assistant`.
 
-## Organitzar el cap de setmana de Sant Antoni
+## Buscar una festa major per a una escapada
 
-**Usuari:** Serem a Canillo per Sant Antoni, però el dia 17 ens cau en dimarts. La vianda es fa aquell dia?
+**Usuari:** Volem venir a Andorra a l'estiu i ens faria gràcia coincidir amb una festa major. N'hi ha una de tot el país o cada parròquia va a la seva?
 
-**Maia:** A Canillo se celebra el diumenge més proper al 17 de gener. Per tant, aquell any podria ser abans o després del dia 17; la fitxa no dona el calendari de cada any.
+**Maia:** Cada parròquia té la seva festa major, i en moltes també en fan les viles. Per això no hi ha una sola data de «la festa major d'Andorra»; cal saber a quina parròquia o poble voleu anar.
 
-**Usuari:** I si anem a una altra parròquia, també n'hi diuen vianda?
+**Usuari:** Encara no ho sabem. Si venim a finals de juny, ja n'enganxarem alguna?
 
-**Maia:** La informació recollida només documenta aquest nom a Canillo. No permet dir si també s'utilitza en altres parròquies.
+**Maia:** Les festes majors que recull el corpus són a l'estiu, però no hi consten les dates concretes de cada parròquia. A finals de juny sí que hi ha Sant Joan i les falles, el dia 23.
 
-**Usuari:** D'acord. I què són els encants que anuncien?
+*Per què funciona:* la persona planifica un viatge. La segona pregunta surt de la finestra de dates i rep una resposta útil sense inventar un programa actual.
 
-**Maia:** Són les subhastes que acompanyen la festa. A Canillo, la tradició dels encants s'havia perdut i es va recuperar cap a l'any 2000.
+*Fonts per contrastar:* `docs/temes/costums/calendari-festiu/calendari-festiu.md` i `docs/temes/costums/falles/falles.md`.
 
-*Per què funciona:* la persona organitza una visita; cada pregunta concreta surt del pla o de la resposta anterior. La resposta no generalitza el nom «vianda» a tot Andorra.
+## Distingir la Passa dels balls
 
-*Font per contrastar:* `docs/temes/costums/sant-antoni/escudelles-de-sant-antoni.md`.
+**Usuari:** Al programa de Sant Julià hi ha la Passa, el Cerdà i la Marratxa. M'han dit que són tres balls, però em sembla que la Passa és diferent. Ho recordo bé?
 
-## Entendre què passa a la Passa
+**Maia:** Sí. El Cerdà i la Marratxa són balls; la Passa és una cercavila de parelles de fadrins pels carrers de Sant Julià.
 
-**Usuari:** Al programa de la festa major de Sant Julià surten la Passa, el Cerdà i la Marratxa. Són tres balls?
+**Usuari:** I qui va al davant?
 
-**Maia:** No ben bé. El Cerdà i la Marratxa són balls; la Passa és una cercavila de parelles de fadrins pels carrers.
+**Maia:** Les parelles que es casaran aquell any. La resta les segueix ordenada de més grans a més joves.
 
-**Usuari:** I per què en diuen els «majors fadrins» als que van al davant?
+**Usuari:** Ah, doncs no és només una cercavila festiva.
 
-**Maia:** Perquè són les parelles que es casaran durant aquell any. Les altres parelles les segueixen ordenades de més grans a més joves.
+**Maia:** Exacte: l'ordre fa visible qui es casa aquell any i com es distribueixen les altres parelles per edat. La fitxa no explica com es formen les parelles ni què passa si algú no en té.
 
-**Usuari:** Així, la Passa també marca qui es casa aquell any?
+*Per què funciona:* parteix d'una confusió plausible en mirar un programa. El seguiment aprofundeix en el detall que la resposta acaba de donar i marca un límit real de la informació.
 
-**Maia:** Sí. La informació disponible la descriu com una manera pública d'ordenar les parelles segons aquest moment de la vida. No explica, però, com es formen les parelles ni què passa si algú no en té.
+*Fonts per contrastar:* `docs/temes/costums/ritus-de-pas/la-passa.md`, `docs/temes/costums/danses/el-ball-del-cerda.md` i `docs/temes/costums/danses/la-marratxa.md`.
 
-*Per què funciona:* parteix d'una confusió plausible en llegir un programa. El seguiment demana el sentit de la tradició; la resposta conserva el límit del que se sap.
+## Explicar la llegenda sense presentar-la com un fet
 
-*Font per contrastar:* `docs/temes/costums/ritus-de-pas/la-passa.md`.
+**Usuari:** A Meritxell hi ha una història d'una imatge que tornava al mateix lloc, oi? No n'acabo de recordar els detalls.
 
-## Explicar la llegenda de Meritxell
+**Maia:** Segons la llegenda, un pastor va trobar la imatge sota una gavernera florida el dia de Reis. La van dur a Canillo i després la van tancar a Encamp, però totes dues vegades hauria tornat al lloc de la troballa.
 
-**Usuari:** Sempre m'ha costat entendre per què la imatge de Meritxell és entre Canillo i Encamp. Què explica la llegenda?
+**Usuari:** I així és com expliquen que el santuari quedés just allà?
 
-**Maia:** Segons la llegenda, un pastor va trobar la imatge sota una gavernera florida, al lloc on avui hi ha el santuari. La van dur a Canillo i després la van tancar a Encamp, però cada vegada tornava al lloc de la troballa.
+**Maia:** Sí. Dins del relat, els veïns van entendre que la imatge volia quedar-se en aquell lloc i hi van construir el santuari. La fitxa explica aquesta tradició, però no n'estableix una datació històrica.
 
-**Usuari:** Per això van decidir deixar-la allà?
-
-**Maia:** Sí. En el relat, els veïns van entendre que la imatge volia quedar-se en aquell lloc i hi van construir el santuari.
-
-**Usuari:** Això és un fet històric o és la versió llegendària?
-
-**Maia:** És el relat de la llegenda. La fitxa no presenta la troballa miraculosa com un fet verificat; també assenyala que falta trobar una font primària que permeti datar quan es va documentar el relat.
-
-*Per què funciona:* l'usuari demana una explicació cultural i després comprova com s'ha d'entendre. La resposta separa el relat tradicional de la prova històrica.
+*Per què funciona:* la persona vol recordar un relat conegut. La resposta l'explica amb atribució clara i no converteix la llegenda en una afirmació històrica.
 
 *Font per contrastar:* `docs/temes/cultura/llegendes/la-troballa-de-meritxell.md`.
 
-## No afirmar que una pràctica encara es fa
+## No confondre un calendari judicial amb les festes populars
 
-**Usuari:** Al meu fill li faria gràcia veure animals beneïts per Sant Antoni. Encara es fa a Andorra?
+**Usuari:** Estic mirant un document de 1902 sobre els dies que tancaven els tribunals. No hi surt Sant Antoni. Això vol dir que no el celebraven?
 
-**Maia:** La festa s'associava tradicionalment amb portar el bestiar a beneir. La informació que tenim no confirma si la benedicció encara es fa avui ni en quins llocs.
+**Maia:** No. El document recull els dies en què s'aturava l'activitat judicial; no és un calendari de festes populars. Que no hi aparegui Sant Antoni només vol dir que aquella llista no el recull.
 
-**Usuari:** Llavors, per no fer el viatge en va, millor que ho comprovi amb el comú?
+**Usuari:** Llavors, per què m'han dit que és una font important per estudiar les festes?
 
-**Maia:** Sí. Val la pena comprovar el programa actual de la parròquia abans d'anar-hi. Amb la informació que tenim no et puc confirmar si hi haurà benedicció.
+**Maia:** Serveix per saber quines celebracions tenien efecte en el calendari dels tribunals. També permet veure que no s'ha de prendre una llista institucional com si descrivís totes les celebracions del país.
 
-*Per què funciona:* és una necessitat pràctica actual. La resposta distingeix el costum històric del programa vigent i no omple el buit amb una suposició.
+*Per què funciona:* és un dubte plausible de qui consulta un document històric. La conversa evita deduir que una pràctica no existia perquè una font amb un altre propòsit no l'esmenta.
 
-*Font per contrastar:* `docs/temes/costums/sant-antoni/escudelles-de-sant-antoni.md`.
+*Fonts per contrastar:* `docs/temes/costums/calendari-festiu/calendari-festiu.md` i `docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md`.
 
-## Exemples que no passaran la revisió
+## Exemples que no s'han de generar
 
-| Esborrany | Per què falla | Què cal fer |
+| Pregunta | Problema | Reescriptura necessària |
 | --- | --- | --- |
-| «Què explica la secció “El relat”?» | La persona ha de tenir la fitxa al davant. | Fer una pregunta sobre la llegenda o el dubte que genera. |
-| «Què indica aquesta fila?» | No diu què comprova ni per què. | Donar un context real, si n'hi ha. |
-| «Digues dos topònims i les tres dates.» | Sembla una ordre d'extracció. | Descarta-la si no hi ha cap motiu humà per demanar-ho. |
-| «Què passava? I per què? I quan?» | Apila preguntes i no deixa avançar el diàleg. | Resoldre primer el dubte principal; després, seguir el fil. |
+| «Què explica la secció “El relat”?» | Només té sentit amb la fitxa al davant. | Preguntar pel dubte que el relat genera a una persona. |
+| «Què indica aquesta fila?» | No diu què està comprovant l'usuari. | Afegir un context plausible o descartar-la. |
+| «Digues dos topònims i tres dates.» | És una ordre d'extracció, no una conversa. | No convertir una llista en preguntes si no hi ha una necessitat real. |
+| «I què més? I quan? I qui?» | No hi ha continuïtat clara; només s'allarga el registre. | Fer una pregunta cada vegada i seguir la resposta anterior. |
+| «Què diu la fitxa sobre la festa?» | Entrena a parlar del corpus, no a resoldre el dubte. | Preguntar directament per la festa o per la decisió que la persona vol prendre. |
 
-## Format final quan una mostra s'aprovi
+## Forma d'exportació
 
-Les notes «Per què funciona» i «Font per contrastar» són editorials. No entren al JSONL. Una conversa aprovada contindrà només missatges `user` i `assistant`, per exemple:
+Les notes editorials, els títols i les fonts no s'exporten. Una conversa aprovada queda així:
 
 ```json
-{"messages":[{"role":"user","content":"Al programa de la festa major de Sant Julià surten la Passa, el Cerdà i la Marratxa. Són tres balls?"},{"role":"assistant","content":"No ben bé. El Cerdà i la Marratxa són balls; la Passa és una cercavila de parelles de fadrins pels carrers."},{"role":"user","content":"I per què en diuen els «majors fadrins» als que van al davant?"},{"role":"assistant","content":"Perquè són les parelles que es casaran durant aquell any. Les altres parelles les segueixen ordenades de més grans a més joves."}]}
+{"messages":[{"role":"user","content":"Al programa de Sant Julià hi ha la Passa, el Cerdà i la Marratxa. M'han dit que són tres balls, però em sembla que la Passa és diferent. Ho recordo bé?"},{"role":"assistant","content":"Sí. El Cerdà i la Marratxa són balls; la Passa és una cercavila de parelles de fadrins pels carrers de Sant Julià."},{"role":"user","content":"I qui va al davant?"},{"role":"assistant","content":"Les parelles que es casaran aquell any. La resta les segueix ordenada de més grans a més joves."}]}
 ```

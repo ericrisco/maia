@@ -45,17 +45,10 @@
     ]
   },
   "docs/temes/costums/calendari-festiu/calendari-festiu.md": {
-    "status": "in_progress",
+    "status": "not_started",
     "open_units": [
       "L’article és secundari i no identifica la peça de premsa concreta; calendari oficial per parròquia i vila absent del corpus.",
       "Sant Antoni (17 de gener) i l’escudella, encara sense conversa pròpia sobre aquesta unitat."
-    ],
-    "conversation_ids": [
-      "calendari-festes-majors-per-parroquia-i-sant-joan-01"
-    ],
-    "reviewed_units": [
-      "No hi ha una festa major única del país: cadascuna de les set parròquies té la seva i moltes viles també en celebren; l’article no dona dates concretes.",
-      "Marcadors anuals: caramelles a la primavera, Sant Joan i falles el 23 de juny, Meritxell el 8 de setembre."
     ]
   },
   "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md": {
@@ -149,82 +142,13 @@
     ]
   },
   "docs/temes/costums/religiositat/el-registre-dentitats-religioses.md": {
-    "status": "complete",
+    "status": "not_started",
     "open_units": [
       "Entrades actuals del Registre: nombre i identitat de les entitats i distribució dels llocs de culte; no consultades al corpus.",
       "Composició del Registre d’associacions anterior a la Llei 2/2025; les entitats no s’identifiquen a la disposició transitòria.",
       "Aplicació real de la clàusula de proselitisme abusiu; no hi ha resolucions ni resposta del Registre al corpus.",
       "Mecanisme i activitat actuals dels canals de diàleg que el Govern ha d’establir.",
       "Estat actual de la presentació electrònica i reglament vigent sobre certificacions i còpies; no verificats amb font actual."
-    ],
-    "conversation_ids": [
-      "registre-religios-no-inscrit-responsabilitat-i-inscripcio-01",
-      "registre-religios-publicitat-i-abast-02",
-      "registre-religios-associacio-cultural-dependent-03",
-      "registre-religios-exclusio-parapsicologia-04",
-      "registre-religios-proselitisme-proporcionalitat-05",
-      "registre-religios-cancellacio-inactivitat-06",
-      "registre-religios-documentacio-entitat-estrangera-07",
-      "registre-religios-termin-inscripcio-prorroga-08",
-      "registre-religios-esmena-documents-terminari-09",
-      "registre-religios-denegacio-i-recurs-opcional-10",
-      "registre-religios-noms-carrecs-consentiment-dades-11",
-      "registre-religios-prohibicio-fitxers-religio-12",
-      "registre-religios-certificat-assentament-13",
-      "registre-religios-actualitzar-dades-declaracio-biennal-14",
-      "registre-religios-via-esglesia-catolica-15",
-      "registre-religios-practicants-i-declaracio-individual-16",
-      "registre-religios-dades-minimes-assentament-17",
-      "registre-religios-documentacio-sollicitud-basica-18",
-      "registre-religios-responsabilitat-promotors-19",
-      "registre-religios-canals-dialeg-govern-20",
-      "registre-religios-responsable-i-suplents-21",
-      "registre-religios-presentacio-cost-i-notificacions-22",
-      "registre-religios-indicis-penals-trasllat-fiscalia-23",
-      "registre-religios-efectes-personalitat-beneficis-no-lucratius-24",
-      "registre-religios-transicio-des-del-registre-associacions-25",
-      "registre-religios-presentacio-paper-o-electronica-26",
-      "registre-religios-governanca-i-adreces-27",
-      "registre-religios-entrades-actuals-no-consultades-28",
-      "registre-religios-situacio-abans-de-2025-29",
-      "registre-religios-denegacions-proselitisme-casos-no-documentats-30",
-      "registre-religios-llibertat-i-via-catolica-31"
-    ],
-    "reviewed_units": [
-      "Responsabilitat solidària dels membres d’una entitat religiosa no inscrita per les obligacions contretes en nom seu (art. 15.1).",
-      "Efecte de la inscripció: personalitat jurídica; els articles citats no resolen la transferència de deutes previs (art. 10).",
-      "Requisits personals bàsics per inscriure una entitat religiosa (art. 3.1): entitat no lucrativa radicada a Andorra, mínim de vint persones andorranes o residents, mateixa creença i culte, i almenys una persona adulta amb plenitud de drets.",
-      "Publicitat i consulta del Registre: documents concrets de procediments acabats, procediment electrònic o escrit, límits de les consultes genèriques i protecció de dades (art. 8.1–3).",
-      "Dades mínimes dels assentaments i significat limitat de la xifra aproximada de practicants per entitat inscrita (art. 4.1).",
-      "Associacions i fundacions de naturalesa no religiosa creades per una entitat inscrita: registre general propi i constància com a dependents al Registre religiós (art. 3.2).",
-      "Exclusions del Registre religiós per a entitats centrades en fenòmens psíquics/parapsicològics o finalitats humanístiques i espiritualistes alienes a la religió; abast limitat de l’exclusió (art. 3.3).",
-      "Límits a les restriccions i denegació per proselitisme abusiu o il·lícit: risc acreditat i proporcionalitat/adequació (art. 3.4).",
-      "Cancel·lació d’ofici per deu anys d’inactivitat des de la darrera comunicació, amb notificació prèvia; causes alternatives (art. 11).",
-      "Documentació addicional per a entitats d’origen i dependència estrangera, escriptura pública, legalització, postil·la i traducció (art. 9.2 i 9.4).",
-      "Termini ordinari de dos mesos, possible pròrroga de dos mesos per instrucció i mesures d’instrucció possibles (art. 6).",
-      "Esmena de defectes en trenta dies, suspensió del termini, caducitat i arxivament si no s’esmena, devolució d’originals i recurs administratiu (art. 6).",
-      "Denegació motivada després d’esmenar defectes, notificació, recurs administratiu potestatiu i accés directe a la via judicial urgent i preferent (art. 6).",
-      "Inscripció dels noms de càrrecs representatius i tractament sense consentiment explícit, subjecte a protecció de dades (arts. 4.1.g i 12).",
-      "Advertiment contra crear fitxers destinats exclusivament a emmagatzemar dades personals que revelin religió o creences, en rebre certificacions o còpies; abast de la prohibició (art. 8.5).",
-      "Publicitat formal mitjançant certificacions o còpies, procediment pendent de reglament i canal per consultar documents concrets (art. 8.2, 8.4 i 8.6).",
-      "Actualització de variacions registrals en tres mesos i declaració biennal de funcionament, amb anotació informativa si manca (arts. 7 i 9.5).",
-      "Via específica de l’Església catòlica: personalitat canònica, notificació del Bisbat d’Urgell i funció receptora del Registre (art. 13).",
-      "Protecció constitucional contra l’obligació de declarar creences, distingida de la xifra aproximada de practicants per entitat i dels noms de càrrecs registrats (Constitució art. 11.1; Llei 2/2025 art. 4.1).",
-      "Llista completa de dades mínimes registrals, requisits de denominació i distinció entre data d’establiment de religió i data de constitució d’entitat (art. 4.1).",
-      "Model oficial, signatura del representant, documentació bàsica i acta pública de constitució, possibles documents reglamentaris i residència legal del representant estranger (arts. 6 i 9.1–3).",
-      "Responsabilitat personal i solidària dels promotors pels actes de constitució i inscripció, assumida per l’entitat en inscriure’s llevat de disposició diferent (art. 15.2).",
-      "Obligació del Govern d’establir canals de diàleg amb entitats inscrites i absència de dades sobre el mecanisme actual (art. 14).",
-      "Nomenament del responsable i suplents, casos d’actuació, autonomia i autoritat que emet assentaments (art. 5).",
-      "Presentació al Servei de Tràmits, gratuïtat de la inscripció i destinatari/domicili de les notificacions (art. 6).",
-      "Comunicació d’indicis racionals d’il·licitud penal al ministre i eventual trasllat al Ministeri Fiscal (art. 6).",
-      "Efectes de la inscripció: personalitat jurídica i beneficis generals per a entitats sense ànim de lucre; absència d’exempció fiscal concreta a la Llei 2/2025 (art. 10).",
-      "Règim transitori per a entitats religioses ja inscrites al Registre d’associacions: termini de dos anys, reutilització de documents compatibles i cancel·lació si no es demana la nova inscripció (disposició transitòria).",
-      "Disposició addicional sobre termini per habilitar gestió electrònica i presentació en paper durant la transició; estat actual del servei no verificat al corpus.",
-      "Facultats i designació d’òrgans de govern, seu central, adreça a Andorra i adreça opcional de comunicacions (art. 4.1.c i e).",
-      "Llei exigeix dades sobre entitats i llocs de culte, però el corpus no ha consultat entrades actuals ni pot donar recomptes o distribució (arts. 4 i 8; buit registrat).",
-      "Situació anterior al 2025: la disposició transitòria confirma una via prèvia pel Registre d’associacions per a algunes entitats, però no n’identifica la composició ni l’abast (buit registrat).",
-      "Aplicació de la clàusula de proselitisme abusiu: no hi ha resolucions ni resposta del Registre al corpus, de manera que no es documenten casos (buit registrat).",
-      "Constitució art. 11: garantia general de llibertat religiosa i garantia específica de l’exercici públic i col·laboració de l’Església catòlica; abast limitat de la via catòlica (arts. 11 i 13)."
     ],
     "completion_note": "Revisada la fitxa sencera i contrastades les afirmacions jurídiques amb la Llei 2/2025, la Constitució i el BOPA. Les normes, els procediments, les excepcions i els límits d’evidència estan representats en converses naturals; les dades actuals que la font no aporta queden registrades com a buits i no s’infereixen."
   }
