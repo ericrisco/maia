@@ -1046,6 +1046,11 @@
         "docs/temes/cultura/llegendes/el-minairo.md#unit-0009",
         "docs/temes/cultura/llegendes/el-minairo.md#unit-0011",
         "docs/temes/cultura/llegendes/el-minairo.md#unit-0012",
+        "docs/temes/cultura/llegendes/el-minairo.md#unit-0014",
+        "docs/temes/cultura/llegendes/el-minairo.md#unit-0015",
+        "docs/temes/cultura/llegendes/el-minairo.md#unit-0016",
+        "docs/temes/cultura/llegendes/el-minairo.md#unit-0017",
+        "docs/temes/cultura/llegendes/el-minairo.md#unit-0018",
         "docs/temes/cultura/llegendes/el-minairo.md#unit-0020",
         "docs/temes/cultura/llegendes/el-minairo.md#unit-0021",
         "docs/temes/cultura/llegendes/el-minairo.md#unit-0022",
@@ -1058,8 +1063,9 @@
         "docs/temes/cultura/llegendes/el-minairo.md#unit-0030"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 19,
+      "open_unit_count": 14,
       "conversation_ids": [
+        "minairons-canons-cases-i-prosperitat-001",
         "minairons-canut-tarteres-etimologia-001",
         "minairons-noms-i-abast-pirinenc-001",
         "minairons-origen-herba-i-variants-001"
