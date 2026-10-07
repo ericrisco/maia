@@ -9,7 +9,7 @@
   "file_count": 1477,
   "article_count": 1348,
   "parse_error_count": 0,
-  "conversation_count": 19,
+  "conversation_count": 20,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 0,
@@ -1392,7 +1392,7 @@
       "topic": "temes/cultura/museus-i-arxius",
       "source": "jurisprudencia-ad",
       "status": "in_progress",
-      "conversation_count": 19,
+      "conversation_count": 20,
       "conversation_ids": [
         "diposit-legal-bases-dades-programari-exemplars-001",
         "diposit-legal-braille-i-edicio-luxe-001",
@@ -1411,6 +1411,7 @@
         "diposit-legal-retard-i-sancio-001",
         "diposit-legal-revista-periodica-numero-i-exemplars-001",
         "diposit-legal-termini-numero-i-exemplars-001",
+        "diposit-legal-videojocs-qualsevol-suport-001",
         "diposit-legal-web-fora-dandorra-001",
         "diposit-legal-web-pagament-clau-acces-001"
       ],
@@ -1434,7 +1435,8 @@
         "Llei 15/2025, article 11.1.c: one copy for works in Braille and luxury or facsimile bibliographic editions.",
         "Llei 15/2025, articles 13.1-13.2: periodicals register once; two copies per issue, delivered immediately after publication.",
         "Llei 15/2025, article 11.1.b: two copies for musical scores, maps and sound recordings.",
-        "Llei 15/2025, article 11.1.b: two copies for illustrated postcards and edited photographs."
+        "Llei 15/2025, article 11.1.b: two copies for illustrated postcards and edited photographs.",
+        "Llei 15/2025, article 11.1.b: two copies for video games in any medium."
       ],
       "open_units": [
         "Finish reviewing the remaining physical deposit categories and special formats, periodicals, film/television/radio, and linked regulations.",
