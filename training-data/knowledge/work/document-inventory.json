@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 32,
+    "in_progress": 33,
     "no_natural_question": 0,
-    "not_started": 1316
+    "not_started": 1315
   },
   "documents": [
     {
@@ -738,11 +738,21 @@
       "type": "article",
       "topic": "temes/cultura/andorra-vista-de-fora",
       "source": "rodriguez-rossa-creacio-artistica",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "gravat-romantic-com-a-font-i-contrast-001"
+      ],
+      "reviewed_units": [
+        "Els gravats romàntics poden documentar la representació del segle XIX, però cal corroborar-los independentment abans de tractar-los com a representació fidel del paisatge."
+      ],
+      "open_units": [
+        "Inspecció directa de les estampes enumerades i contrast de gravats entre si.",
+        "Identificació d’un gravat concret de Dunki i del lloc representat.",
+        "Catàlegs complets dels paisatgistes catalans que representaren Andorra.",
+        "Identitat de Joan o Josep Oromí i fitxa de Sant Joan de la Mosquera.",
+        "Els altres elements de canvi cultural del segle XX, absents del fragment consultat."
+      ],
       "completion_note": "",
       "reason": ""
     },

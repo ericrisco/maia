@@ -487,5 +487,21 @@
     "reviewed_units": [
       "L’anècdota d’Anníbal no és fiable segons Ferrer; el testimoni extern més antic identificat amb nom i data és Francisco de Zamora, 1788, però el seu diari encara no s’ha llegit."
     ]
+  },
+  "docs/temes/cultura/andorra-vista-de-fora/els-gravats-romantics.md": {
+    "status": "in_progress",
+    "open_units": [
+      "Inspecció directa de les estampes enumerades i contrast de gravats entre si.",
+      "Identificació d’un gravat concret de Dunki i del lloc representat.",
+      "Catàlegs complets dels paisatgistes catalans que representaren Andorra.",
+      "Identitat de Joan o Josep Oromí i fitxa de Sant Joan de la Mosquera.",
+      "Els altres elements de canvi cultural del segle XX, absents del fragment consultat."
+    ],
+    "conversation_ids": [
+      "gravat-romantic-com-a-font-i-contrast-001"
+    ],
+    "reviewed_units": [
+      "Els gravats romàntics poden documentar la representació del segle XIX, però cal corroborar-los independentment abans de tractar-los com a representació fidel del paisatge."
+    ]
   }
 }

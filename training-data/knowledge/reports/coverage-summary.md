@@ -4,14 +4,14 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 
 - Fitxes article: **1348**.
 - Fitxers totals, inclosos índexs: **1477**.
-- Converses candidates: **25**.
+- Converses candidates: **26**.
 
 | Estat de revisió | Fitxes |
 |---|---:|
 | Revisades completes | 0 |
-| En curs | 32 |
+| En curs | 33 |
 | Revisades sense pregunta natural | 0 |
-| No començades | 1316 |
+| No començades | 1315 |
 
 ## Estat per tema
 
@@ -29,7 +29,7 @@ Cada fitxa article es revisa sencera. Una conversa només marca la fitxa com a i
 | `temes/costums/ritus-de-pas` | 2 | 0 | 2 | 0 | 0 |
 | `temes/costums/sant-antoni` | 1 | 0 | 1 | 0 | 0 |
 | `temes/cultura` | 1 | 1 | 0 | 0 | 0 |
-| `temes/cultura/andorra-vista-de-fora` | 6 | 4 | 2 | 0 | 0 |
+| `temes/cultura/andorra-vista-de-fora` | 6 | 3 | 3 | 0 | 0 |
 | `temes/cultura/arquitectura` | 11 | 11 | 0 | 0 | 0 |
 | `temes/cultura/artesania` | 2 | 2 | 0 | 0 | 0 |
 | `temes/cultura/arts-visuals` | 8 | 8 | 0 | 0 | 0 |
