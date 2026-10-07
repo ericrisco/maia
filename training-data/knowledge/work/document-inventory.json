@@ -2,7 +2,7 @@
   "source_root": "docs/temes/",
   "file_count": 1477,
   "article_count": 1348,
-  "conversation_count": 69,
+  "conversation_count": 70,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 1,
@@ -10795,12 +10795,14 @@
       "topic": "temes/historia/segle-xix",
       "source": "boletin-oficial-leon-1894",
       "status": "in_progress",
-      "conversation_count": 1,
+      "conversation_count": 2,
       "conversation_ids": [
-        "canal-madrid-intermediaris-001"
+        "canal-madrid-intermediaris-001",
+        "reial-ordre-protectorat-tesi-oficial-001"
       ],
       "reviewed_units": [
-        "Prohibició de relacions oficials dels jutges i funcionaris judicials espanyols amb les autoritats andorranes; canal obligatori pel bisbe d’Urgell i el Ministeri d’Estat."
+        "Prohibició de relacions oficials dels jutges i funcionaris judicials espanyols amb les autoritats andorranes; canal obligatori pel bisbe d’Urgell i el Ministeri d’Estat.",
+        "La reial ordre del 1894 formula la tesi oficial espanyola del protectorat per mitjà de la Mitra d’Urgell, la por a una independència contrària als interessos d’Espanya i la instrucció de canalitzar pel bisbe totes les relacions oficials judicials."
       ],
       "open_units": [
         "Justificació espanyola del protectorat i de la por a una situació d’independència.",
