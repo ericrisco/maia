@@ -1,3 +1,3 @@
-# Informes de Knowledge
+# Knowledge reports
 
-Els informes de cobertura, qualitat, deduplicació i drets es generaran a partir dels candidats revisats.
+Informes de cobertura, qualitat, exclusions, duplicats i estat dels drets. Encara no hi ha informes nous després del reinici editorial.

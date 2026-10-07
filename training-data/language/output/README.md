@@ -1,3 +1,3 @@
-# Exports de Language
+# Language output
 
-No hi ha exports. Les particions es faran per entrevista o peça per evitar que fragments consecutius quedin en conjunts diferents.
+Encara no hi ha fragments aprovats ni exports. Només s'hi publicaran exemples de parla humana elegible i verificada.

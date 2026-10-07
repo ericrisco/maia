@@ -1,11 +1,10 @@
 # Maia Knowledge
 
-Conjunt de converses sobre Andorra basades en totes les fonts elegibles de `docs/temes/`.
+Dataset de converses sobre Andorra basades en `docs/temes/`. Cada exemple parteix d'una pregunta que una persona podria fer sense tenir una fitxa oberta.
 
-- `review/calibration.jsonl`: tres exemples gold per calibrar naturalitat i continuïtat; fora del dataset.
-- `review/conversations.jsonl`: converses de treball, una per línia. Els registres existents s'han de revisar amb `review/GUIA.md` abans de considerar-los aprovats.
-- `review/provenance.jsonl`: procedència paral·lela, fora del text d'entrenament.
-- `work/`: inventari i cobertura de totes les fitxes.
-- `scripts/`: eines de revisió, validació, deduplicació i exportació.
-- `reports/`: cobertura, drets, exclusions i qualitat.
-- `output/`: exports revisats, deduplicats i dividits.
+- [`examples/conversations.jsonl`](examples/conversations.jsonl) conté tres exemples de calibratge, no entrenables.
+- [`examples/provenance.jsonl`](examples/provenance.jsonl) en registra les fonts i la llicència.
+- `work/` i `reports/` guardaran la cobertura i les revisions.
+- `output/` es mantindrà sense exports fins que hi hagi dades aprovades.
+
+Segueix la porta de qualitat de [`../PLAN.md`](../PLAN.md). La procedència mai no va dins dels missatges del model.

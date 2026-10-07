@@ -1,3 +1,3 @@
-# Exports de Knowledge
+# Knowledge output
 
-No hi ha exports. Train, validation i test només es generaran després de revisar els registres i agrupar-los per tema i fonts relacionades.
+Encara no hi ha exports aprovats. No s'ha d'entrenar amb els exemples de calibratge de `examples/`.

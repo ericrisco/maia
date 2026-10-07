@@ -1,3 +1,3 @@
-# Informes de Language
+# Language reports
 
-Els informes comptaran peces revisades, incloses i excloses, i fragments utilitzats.
+Informes de peces inspeccionades, incloses i excloses, motius d'exclusió, fragments verificats i drets.

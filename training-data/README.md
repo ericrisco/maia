@@ -1,10 +1,10 @@
 # Maia Training Data
 
-Aquesta àrea prepara dos conjunts separats:
+Aquesta àrea contindrà dos conjunts separats:
 
-- **Knowledge** ensenya a respondre preguntes sobre Andorra amb fets traçables a `docs/temes/`.
-- **Language** conserva formes reals del català andorrà a partir de material humà elegible de `docs/parla/`.
+- **Maia Knowledge**: converses que ensenyen a respondre preguntes sobre Andorra amb informació documentada a `docs/temes/`.
+- **Maia Language**: fragments de conversa humana que preserven el català andorrà contemporani, extrets de material elegible de `docs/parla/`.
 
-No es barregen. Les converses de calibratge són exemples editorials: no entrenen el model i no compten per a cobertura. Comença per [PLAN.md](PLAN.md). La guia i els registres de calibratge són a `knowledge/review/`.
+No es barreja coneixement enciclopèdic amb senyal lingüístic. Comença per [`PLAN.md`](PLAN.md) i les instruccions de cada conjunt.
 
-L'export encara no està creat: els fitxers de `output/` són instruccions, no datasets. `knowledge/review/conversations.jsonl` conté registres de treball. Cal revisar-los amb la guia abans de considerar-los aprovats; no s'han d'entrenar directament. El recompte vigent i la cobertura per article són a `knowledge/reports/coverage-summary.md`. `knowledge/review/calibration.jsonl` conté tres exemples gold per revisar la naturalitat de les preguntes, la continuïtat dels seguiments i la qualitat de les respostes. Els seus drets també s'han de comprovar abans d'exportar.
+Els exemples de `knowledge/examples/` serveixen per calibrar l'estil. No són registres aprovats ni s'han d'entrenar. Els exports de `output/` només es creen després de revisar contingut, procedència, drets i separació dels conjunts.

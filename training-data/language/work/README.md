@@ -1,3 +1,3 @@
-# Treball de Language
+# Language work
 
-`eligibility-inventory.json` registra totes les peces de `docs/parla/`, els filtres del corpus, la font, els drets coneguts i l'estat de transcripció. `reports/eligibility-summary.md` en resumeix els pendents.
+Inventari d'elegibilitat, verificació de transcripció i procedència de les peces de parla. No hi ha fragments aprovats encara.

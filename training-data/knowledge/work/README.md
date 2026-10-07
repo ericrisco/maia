@@ -1,3 +1,3 @@
-# Treball de Knowledge
+# Knowledge work
 
-`document-inventory.json` és l'inventari de tots els fitxers de `docs/temes/`; `document-status.json` conserva l'estat i els punts oberts per fitxa. Cap fitxa es marca com a completa només pel nombre de converses. El recompte per tema es publica a `../reports/coverage-summary.md`.
+Inventaris de documents, unitats de contingut, fonts, drets i estat de revisió. Aquestes dades són internes i no s'afegeixen als missatges d'entrenament.

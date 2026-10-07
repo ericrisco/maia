@@ -1,5 +1,5 @@
 # Maia Language
 
-Conjunt separat de Knowledge. Només s'hi incorporaran fragments humans elegibles de `docs/parla/`, amb drets per peça i qualitat de transcripció revisats.
+Dataset separat per preservar parla humana autèntica en català andorrà contemporani, a partir de material elegible de `docs/parla/`.
 
-Una peça que passi els tres filtres (`veu: originaria`, `epoca: contemporania`, `apte_llengua: true`) encara no està aprovada per a entrenament. Les llicències de sèries audiovisuals no es donen per aplicables a totes les peces. Les transcripcions automàtiques incertes s'han de verificar contra l'àudio. No s'inventen preguntes o respostes per simular català andorrà.
+Aquí no es generen diàlegs de mostra amb respostes inventades: això contaminaria el senyal lingüístic. `examples/` queda reservat a exemples de format clarament etiquetats si en calen. `work/` documentarà elegibilitat i verificació; `output/` només contindrà fragments humans revisats i amb drets compatibles.
