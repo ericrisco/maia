@@ -14068,10 +14068,11 @@
         "docs/temes/societat/demografia/qui-compta-com-a-resident.md#unit-0052",
         "docs/temes/societat/demografia/qui-compta-com-a-resident.md#unit-0053",
         "docs/temes/societat/demografia/qui-compta-com-a-resident.md#unit-0055",
+        "docs/temes/societat/demografia/qui-compta-com-a-resident.md#unit-0056",
         "docs/temes/societat/demografia/qui-compta-com-a-resident.md#unit-0057"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 9,
+      "open_unit_count": 8,
       "conversation_ids": [
         "pla-estadistica-residencia-i-registre-001",
         "poblacio-per-poble-registrada-vs-estimada-001",
@@ -14081,6 +14082,7 @@
         "residencia-legal-i-treball-sense-residencia-001",
         "residencia-permisos-fronterers-i-temporals-001",
         "residencia-registrada-estimada-i-registre-001",
+        "residencia-reglament-europeu-i-font-catalana-001",
         "residencia-vigencia-metodologia-a001-2026-001"
       ]
     },
