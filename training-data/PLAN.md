@@ -13,7 +13,7 @@ No barregem coneixement enciclopèdic amb exemples de parla. La correcció, la n
 
 Les primeres preguntes seguien els títols i les seccions de les fitxes. Això produïa preguntes de lector («què explica aquesta secció?»), respostes sense context i seguiments que només repartien una resposta en diversos torns. A més, les converses i la procedència es guardaven en dos fitxers paral·lels; una desalineació podia atribuir una font equivocada a una conversa.
 
-Ara cada registre de revisió conté **la conversa i la seva procedència al mateix objecte JSONL**. La sortida entrenable només n'exporta `messages`. Les mostres d'aquest començament tenen estat `approved_sample`: serveixen per acordar el criteri, però no entrenen el model ni compten com a cobertura.
+Ara cada registre de revisió conté **la conversa i la seva procedència al mateix objecte JSONL**. La sortida entrenable només n'exporta `messages`. Els primers exemples ja són registres aprovats; `approved_sample` queda reservat a exemples de calibratge que no entrenen el model ni compten com a cobertura.
 
 ## Com escriure preguntes que faria una persona
 
@@ -71,7 +71,7 @@ Un registre de `records.jsonl` inclou `record_id`, `review_status`, `messages`, 
 
 ## Seqüència de treball
 
-1. Revisar els exemples de calibratge i ajustar el criteri editorial.
+1. Revisar els primers exemples aprovats i aplicar el mateix criteri a cada tema.
 2. Per a cada tema, comprovar primer les fonts i els drets.
 3. Identificar quina pregunta humana resol el coneixement; si no n'hi ha cap de natural, registrar la decisió i no forçar un exemple.
 4. Redactar una conversa completa. Crear seguiments només quan aportin una resposta nova i coherent.

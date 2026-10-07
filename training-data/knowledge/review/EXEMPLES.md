@@ -1,6 +1,6 @@
 # Exemples de conversa per a Maia Knowledge
 
-Els exemples de [`records.jsonl`](records.jsonl) són mostres de calibratge. Serveixen per decidir com han de sonar els registres futurs. No són entrenables mentre tinguin `review_status: approved_sample`.
+Els tres primers exemples són registres aprovats de [`records.jsonl`](records.jsonl) i apareixen a l'export `conversations.jsonl`. La guia també inclou exemples rebutjats per aclarir què no s'ha d'afegir.
 
 ## 1. Entendre una paraula i la funció que descriu
 

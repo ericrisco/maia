@@ -11,7 +11,7 @@ Els registres poden tenir aquests estats:
 - `approved`: revisat i elegible per a l'exportació i la cobertura.
 - `rejected`: descartat.
 
-El JSONL final d'entrenament contindrà només `{"messages":[...]}`. No hi exportem `record_id`, fonts ni dades internes. Les mostres actuals fixen el criteri editorial; no són dades entrenables.
+El JSONL final d'entrenament contindrà només `{"messages":[...]}`. No hi exportem `record_id`, fonts ni dades internes. Els primers tres exemples de la guia ja són registres aprovats i formen part de `conversations.jsonl`.
 
 `unit-decisions.jsonl` registra unitats no entrenables o excloses, amb el motiu i les fonts examinades. `work/` conté inventari regenerable; `reports/` conté informes de cobertura.
 
