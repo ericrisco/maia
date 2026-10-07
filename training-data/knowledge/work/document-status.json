@@ -1034,7 +1034,7 @@
       "title": "El minairó",
       "type": "article",
       "topic": "temes/cultura/llegendes",
-      "status": "in_progress",
+      "status": "complete",
       "unit_count": 38,
       "covered_unit_ids": [
         "docs/temes/cultura/llegendes/el-minairo.md#unit-0001",
@@ -1066,8 +1066,8 @@
         "docs/temes/cultura/llegendes/el-minairo.md#unit-0029",
         "docs/temes/cultura/llegendes/el-minairo.md#unit-0030"
       ],
-      "excluded_unit_count": 4,
-      "open_unit_count": 6,
+      "excluded_unit_count": 10,
+      "open_unit_count": 0,
       "conversation_ids": [
         "minairons-canons-cases-i-prosperitat-001",
         "minairons-canut-tarteres-etimologia-001",
