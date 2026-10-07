@@ -825,14 +825,18 @@
         "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0009",
         "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0011",
         "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0012",
+        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0017",
+        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0018",
+        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0019",
         "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0021",
         "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0022",
         "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0023"
       ],
       "excluded_unit_count": 3,
-      "open_unit_count": 18,
+      "open_unit_count": 15,
       "conversation_ids": [
         "josep-viladomat-origen-formacio-001",
+        "viladomat-colleccio-centre-art-001",
         "viladomat-monuments-andorra-001",
         "viladomat-puntaire-i-arribada-001",
         "viladomat-republica-i-franco-001"
