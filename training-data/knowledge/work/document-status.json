@@ -101,6 +101,13 @@
         "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0005",
         "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0006",
         "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0007",
+        "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0008",
+        "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0010",
+        "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0011",
+        "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0012",
+        "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0013",
+        "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0014",
+        "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0015",
         "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0026",
         "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0027",
         "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0028",
@@ -109,9 +116,10 @@
         "docs/temes/costums/danses/el-ball-de-lossa-dencamp.md#unit-0033"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 52,
+      "open_unit_count": 45,
       "conversation_ids": [
         "ball-ossa-encamp-dallaires-protagonistes-001",
+        "ball-ossa-encamp-lectura-iniciatica-001",
         "ball-ossa-encamp-sicoris-001",
         "encamp-ossa-contrabandistes-binomi-001"
       ]
