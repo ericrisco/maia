@@ -3,8 +3,8 @@
   "article_count": 1348,
   "file_count": 1477,
   "status_totals": {
-    "complete": 2,
-    "in_progress": 3,
+    "complete": 3,
+    "in_progress": 2,
     "no_natural_question": 0,
     "not_started": 1343
   },
@@ -479,8 +479,8 @@
       "type": "article",
       "topic": "temes/costums/sant-antoni",
       "source": "premsa-andorrana",
-      "status": "in_progress",
-      "conversation_count": 8,
+      "status": "complete",
+      "conversation_count": 9,
       "conversation_ids": [
         "benediccio-animals-sant-antoni-estat-actual-01",
         "escudella-andorra-la-vella-racions-confraria-01",
@@ -488,6 +488,7 @@
         "escudella-sant-antoni-variacio-local-01",
         "origen-ramader-sant-antoni-01",
         "recuperacions-escudella-sant-antoni-per-parroquia-01",
+        "sant-antoni-porquet-tradicio-no-datada-01",
         "sant-sebastia-sant-antoni-associacio-01",
         "vianda-canillo-encants-01"
       ],
@@ -506,12 +507,11 @@
         "vianda està documentat a Canillo, però no consta si és exclusiu",
         "sant Sebastià surt associat a Sant Antoni, però no consta si es feia una celebració conjunta",
         "la Confraria de Sant Sebastià de Sant Julià feia assistència mútua, però no consta l'any de pesta",
+        "la fitxa registra el debat del Sant Antoni del porquet però no permet datar-lo ni decidir si és una reinvenció",
         "la recuperació a Andorra la Vella als anys setanta i la primera vianda de Canillo el 1979 són casos diferents"
       ],
-      "open_units": [
-        "estat actual de la benedicció d'animals a cada parròquia, no confirmat per la font"
-      ],
-      "completion_note": "",
+      "open_units": [],
+      "completion_note": "Fitxa sencera revisada: àmbit de la festa, origen ramader, escudelles de totes les parròquies i cas de Canillo, límit de la benedicció actual, relació no resolta amb Sant Sebastià i debat no documentat sobre el Sant Antoni del porquet queden representats amb els seus límits.",
       "reason": ""
     },
     {

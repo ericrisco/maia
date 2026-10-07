@@ -23,7 +23,7 @@
     "completion_note": "Fitxa sencera revisada: el calendari anual, la variació de les festes majors, l'escudella com a acte i el límit del calendari judicial de 1902 estan representats. Les dates concretes locals queden identificades com a informació que aquesta fitxa no conté i s'han de cobrir des de les fitxes comunals corresponents."
   },
   "docs/temes/costums/sant-antoni/escudelles-de-sant-antoni.md": {
-    "status": "in_progress",
+    "status": "complete",
     "conversation_ids": [
       "escudella-sant-antoni-acte-vianda-01",
       "origen-ramader-sant-antoni-01",
@@ -31,6 +31,7 @@
       "benediccio-animals-sant-antoni-estat-actual-01",
       "escudella-sant-antoni-variacio-local-01",
       "sant-sebastia-sant-antoni-associacio-01",
+      "sant-antoni-porquet-tradicio-no-datada-01",
       "recuperacions-escudella-sant-antoni-per-parroquia-01"
     ],
     "covered_units": [
@@ -48,12 +49,11 @@
       "vianda està documentat a Canillo, però no consta si és exclusiu",
       "sant Sebastià surt associat a Sant Antoni, però no consta si es feia una celebració conjunta",
       "la Confraria de Sant Sebastià de Sant Julià feia assistència mútua, però no consta l'any de pesta",
+      "la fitxa registra el debat del Sant Antoni del porquet però no permet datar-lo ni decidir si és una reinvenció",
       "la recuperació a Andorra la Vella als anys setanta i la primera vianda de Canillo el 1979 són casos diferents"
     ],
-    "open_units": [
-      "estat actual de la benedicció d'animals a cada parròquia, no confirmat per la font"
-    ],
-    "note": "La conversa cobreix una part de la fitxa i enllaça la perspectiva del calendari general."
+    "open_units": [],
+    "completion_note": "Fitxa sencera revisada: àmbit de la festa, origen ramader, escudelles de totes les parròquies i cas de Canillo, límit de la benedicció actual, relació no resolta amb Sant Sebastià i debat no documentat sobre el Sant Antoni del porquet queden representats amb els seus límits."
   },
   "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md": {
     "status": "in_progress",
