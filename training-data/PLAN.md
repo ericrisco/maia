@@ -20,7 +20,23 @@ secció X», no és una bona candidata.
 Les preguntes poden néixer d'una curiositat, una confusió habitual, una decisió
 pràctica o una comparació que algú faria de debò. No inventis que l'usuari ha
 viscut una experiència concreta. Dona a la pregunta prou context perquè
-s'entengui sense veure el corpus.
+s'entengui sense veure el corpus. No facis que l'usuari parli com un editor, un
+arxiver o algú que està llegint els encapçalaments interns de la fitxa, llevat
+que la pregunta sigui explícitament sobre aquella font.
+
+### Senyals que una pregunta no funciona
+
+- Demana «què explica la secció...» o «què indica aquesta fila...» sense
+  explicar quin dubte intenta resoldre la persona.
+- Només es pot entendre si es coneix el títol d'una fitxa, un subtítol o una
+  etiqueta del corpus.
+- És una instrucció d'extracció («enumera», «resumeix la secció») que cap
+  persona faria en una conversa normal.
+- El seguiment diu «i què més?» o canvia de tema sense reprendre la resposta.
+- El diàleg repeteix el mateix motlle o afegeix un segon intercanvi només per
+  semblar multitorn.
+- La resposta comença amb un fragment sense subjecte («I dos topònims...»)
+  o queda incompleta si se separa del títol de la font.
 
 ### Abans i després
 
@@ -38,22 +54,20 @@ gràfic o si la contradicció no és rellevant per entendre el tema.
 
 ## Com construir cada conversa
 
-1. Llegeix les fonts primàries disponibles i identifica el fet que respon el
-   dubte, els matisos i allò que no se sap.
-2. Escriu una pregunta com l'escriuria algú en una conversa: natural, directa i
-   sense vocabulari editorial del corpus.
-3. Respon primer la pregunta. Afegeix només el context necessari per entendre
-   la resposta; no enumeris tot el que saps del tema.
-4. Continua el fil només quan la resposta faci sorgir una pregunta probable. El
-   seguiment ha de dependre d'una cosa concreta que s'acaba de dir.
-5. Llegeix el diàleg en veu alta, sense mirar les fonts. Si sembla un examen,
-   una entrevista artificial o dues preguntes independents, reescriu-lo o
-   deixa'l en un sol intercanvi.
-6. Contrasta cada afirmació amb les fonts i registra la procedència i les
+1. Llegeix les fonts i descompon el document en afirmacions verificables. Anota
+   què se sap, què és incert i quines afirmacions depenen d'una data o font.
+2. Escriu fora del diàleg quin dubte humà resoldrà la conversa i quins fets
+   cobrirà.
+3. Formula la pregunta amb paraules corrents. Afegeix context només quan faci
+   falta per entendre el dubte.
+4. Respon directament i amb frases completes. Afegeix el context necessari,
+   no tot el contingut de la fitxa.
+5. Afegeix seguiments quan el fil els justifiqui. Fes servir converses d'un
+   intercanvi i de diversos; no hi ha una llargada obligatòria.
+6. Llegeix-ho en veu alta sense mirar la font. Si sembla un examen, una
+   entrevista artificial o una fitxa disfressada de diàleg, reescriu-ho.
+7. Contrasta cada afirmació amb les fonts i registra la procedència i les
    condicions de reutilització fora del text de conversa.
-
-La mida habitual és de dos intercanvis, però un intercanvi és millor que un
-seguiment forçat. No hi ha quota de registres per fitxa.
 
 ## Respostes
 
@@ -66,17 +80,23 @@ seguiment forçat. No hi ha quota de registres per fitxa.
 - No deixis frases tallades ni respostes que només s'entenguin amb el títol de la
   font.
 
-## Cobertura sense preguntes de farciment
+## Cobertura exhaustiva sense preguntes artificials
 
-L'inventari ha de cobrir tots els documents i assenyalar quins coneixements
-importants s'han revisat. Això no vol dir que cada dada hagi de tenir la seva
-pròpia pregunta. Agrupa fets quan una persona els demanaria junts; deixa fora
-detalls sense un ús conversacional clar i registra el motiu a l'auditoria.
+El coneixement del corpus no s'ha de retallar per fer el dataset més fàcil.
+Cal inventariar tots els documents i els seus fets rellevants, i vincular cada
+fet a una conversa aprovada o deixar-ne una exclusió justificada a l'auditoria.
+Es poden agrupar fets relacionats en una conversa quan una persona els
+demanaria junts. Si cap pregunta sobre un detall no sona humana, conserva'l a
+l'inventari i explica per què no s'ha convertit en conversa.
+
+La cobertura es mesura sobre fets revisats, no comptant només fitxes amb almenys
+un exemple. Una fitxa amb molts fets i una pregunta genèrica no és cobertura
+completa.
 
 Per a cada conversa, revisa: naturalitat, context suficient, resposta directa,
-dependència entre torns, exactitud, matisos, redundància i drets. Els exemples
-de `knowledge/review/EXEMPLES.md` són calibratge editorial, no registres que
-s'hagin d'imitar literalment.
+dependència entre torns, cobertura dels fets previstos, exactitud, matisos,
+redundància i drets. Els exemples de `knowledge/review/EXEMPLES.md` mostren
+formes possibles, no una plantilla que calgui repetir.
 
 ## Knowledge i Language no es barregen
 
@@ -92,14 +112,17 @@ peça o parlant al mateix split.
 
 ## Passos
 
-1. Mantenir els inventaris complets i separar Knowledge de Language.
-2. Crear candidats petits i revisables, amb procedència al costat.
-3. Aplicar el criteri humà d'aquest pla; descartar o reescriure els que sonin a
-   qüestionari documental.
-4. Aprovar exactitud, naturalitat i drets abans d'exportar.
+1. Inventariar tots els documents i els fets de Knowledge, i revisar elegibilitat
+   i drets de les peces de Language.
+2. Crear converses candidates de tema en tema, amb procedència i mapa de
+   cobertura al costat.
+3. Revisar cada pregunta amb el criteri humà d'aquest pla; reescriure les que
+   sonin a qüestionari documental.
+4. Aprovar exactitud, naturalitat, cobertura i drets abans d'exportar.
 5. Assignar splits per font o grup de coneixement per evitar filtracions entre
    train, validation i test.
-6. Validar el format i publicar informes de cobertura, qualitat i exclusions.
+6. Validar el format i publicar informes de cobertura per fet, qualitat,
+   exclusions i drets pendents.
 
 El JSONL final és una línia per conversa:
 
@@ -114,6 +137,7 @@ metadata interna, cites de revisió o identificador editorial no s'afegeix a
 ## Criteri d'acceptació
 
 Una persona que no ha vist el corpus entén per què es pregunta i què respon
-Maia. La resposta és exacta i natural. El seguiment és espontani i reprèn el fil.
-Cada frase factual té una font compatible. Si algun d'aquests punts falla, el
+Maia. La resposta és exacta i natural. Si hi ha seguiment, reprèn el fil. Tots
+els fets rellevants consten en una conversa o en una exclusió justificada. Cada
+afirmació factual té una font compatible. Si falla algun d'aquests punts, el
 registre continua en revisió o es descarta.

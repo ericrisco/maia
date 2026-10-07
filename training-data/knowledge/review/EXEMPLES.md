@@ -1,230 +1,79 @@
-# Exemples per calibrar preguntes humanes
+# Exemples de converses per calibrar
 
-Cada exemple ha de sonar com una conversa que algú iniciaria sense tenir una
-fitxa al davant. La resposta ha de resoldre el dubte i el seguiment ha de sortir
-del fil anterior. Els primers exemples s'afegiran d'un en un després de validar
-el criteri de `../PLAN.md`.
+Aquests exemples mostren maneres diferents d'iniciar i continuar una conversa.
+No són motlles: cada registre del dataset ha de sortir del dubte i dels fets de
+la seva font. Les converses poden tenir un sol intercanvi o diversos.
 
-## Una festa que encara es fa
+## Dubte pràctic i seguiment útil
 
-**Usuari:** L'ossa encara es representa a Andorra, o és una festa que ja s'ha
-perdut?
+**Usuari:** He vist dues xifres diferents de població d'Andorra. Quina he de fer
+servir si vull saber quanta gent hi viu?
 
-**Maia:** Encara se'n fan dues representacions. L'Última ossa d'Ordino es fa la
-primera setmana de desembre, durant la fira de Nadal, i el ball de l'ossa
-d'Encamp es representa el dilluns de Carnaval.
+**Maia:** Mira la població estimada: calcula quantes persones resideixen al país
+a partir dels censos i d'altres registres administratius. La població
+registrada compta les persones que consten als censos parroquials.
 
-**Usuari:** La d'Ordino també es feia per Carnaval abans?
+**Usuari:** Llavors la registrada no és simplement una xifra més antiga?
 
-**Maia:** Sí. A Ordino es representava per Carnaval. Després de diverses
-interrupcions i recuperacions, es va reprendre el 2017 i es va situar a la fira
-de Nadal.
+**Maia:** No necessàriament. Són dues mesures diferents, amb mètodes diferents.
+Per comparar-les, també cal mirar la data de referència de cada xifra.
 
-## D'on ve el nom d'un ball
+## Una curiositat amb context històric
 
-**Usuari:** A la festa major de Sant Julià ballen la Marratxa. D'on surt aquest
-nom?
+**Usuari:** L'ossa encara es representa a Andorra? Em pensava que era una
+tradició de Carnaval.
 
-**Maia:** Ve d'un recipient que es deia marratxa, morratxa o almorratxa. Era un
-atuell amb aigua perfumada que els dansaires duien als orígens del ball.
+**Maia:** Sí. A Encamp es representa el dilluns de Carnaval. A Ordino, en canvi,
+es fa durant la fira de Nadal; abans també es representava per Carnaval.
 
-**Usuari:** Encara el porten quan ballen?
+**Usuari:** Quan va passar a fer-se per Nadal a Ordino?
 
-**Maia:** No. El recipient ja no forma part del ball; el nom és el que s'ha
-conservat.
+**Maia:** La representació es va reprendre el 2017 i es va situar a la fira de
+Nadal.
 
-## El paper del bisbe d'Urgell
+## Una pregunta directa sense seguiment forçat
 
-**Usuari:** El bisbe d'Urgell, a part de ser bisbe, té algun paper en les
-institucions d'Andorra?
+**Usuari:** Què vol dir que la majestat de Sant Joan de Caselles sigui d'estuc?
 
-**Maia:** Sí. És un dels dos Coprínceps d'Andorra. La Constitució estableix que
-els Coprínceps són conjuntament el cap de l'Estat.
+**Maia:** Vol dir que la crucifixió està modelada en estuc, una tècnica de
+relleu. No és una pintura mural ni una talla de fusta.
 
-**Usuari:** Aleshores té els mateixos poders que el president de França?
+## Rectificar una impressió equivocada
 
-**Maia:** Sí. La Constitució diu que el bisbe d'Urgell i el president de la
-República Francesa tenen poders iguals.
+**Usuari:** El trinxat és bàsicament puré de patata, oi?
 
-## Què porta el trinxat
+**Maia:** No ben bé. Porta patata i col bullides, que es trinxen amb el greix de
+la cansalada i es dauren a la paella fins que fan crosta. A més, no és exclusiu
+d'Andorra: també és propi d'altres zones del Pirineu.
 
-**Usuari:** El trinxat és una mena de puré de patata?
+**Usuari:** Ah, per això no el trobo només en receptaris andorrans.
 
-**Maia:** S'hi assembla perquè es trinxen els ingredients, però no és només
-patata: es fa amb col i patata bullides, barrejades amb el greix de la cansalada
-i daurades a la paella fins que fan crosta.
+**Maia:** Exacte. També és típic de la Cerdanya, l'Alt Urgell i el Berguedà.
 
-**Usuari:** És un plat propi d'Andorra?
+## Preguntar per una discrepància visible
 
-**Maia:** També es menja a Andorra, però no és exclusiu del país. És un plat
-pirinenc, típic també de la Cerdanya, l'Alt Urgell i el Berguedà.
+**Usuari:** En aquest gràfic, la fila del 2014 dona 57,7 per al català i 56,4
+per al castellà. Vol dir que el català estava per sobre aquell any?
 
-## Les punxes de les finestres de les bordes
+**Maia:** Sí, en aquella fila el valor del català és superior al del castellà.
+Aquesta dada sola no permet concloure quina llengua puja o baixa al llarg de
+tota la sèrie.
 
-**Usuari:** Què són els estripagecs que es veuen a les finestres de les bordes?
+**Usuari:** Entesos: la comparació d'aquell any no resol la tendència general.
 
-**Maia:** Són barrots de ferro amb punxes cap als costats. Servien per impedir
-que un lladre passés el braç entre els barrots sense esquinçar-se la roba.
+**Maia:** Exacte. Per parlar de tendència cal mirar els valors dels altres anys
+i comprovar que el gràfic i el text descriguin la mateixa sèrie.
 
-**Usuari:** El nom ve d'això?
+## Exemple rebutjat
 
-**Maia:** Sí. Un *gec* és una jaqueta, i les punxes podien esquinçar el gec de qui
-intentés entrar.
+**No:** «Què explica la secció “El relat” de la fitxa “La troballa de
+Meritxell”?»
 
-## Una majestat d'estuc
+La pregunta només funciona si l'usuari coneix l'organització interna de la
+fitxa. Cal convertir el dubte en una pregunta que algú faria sobre la llegenda,
+per exemple: «Com explica la llegenda que la imatge acabés a Canillo?»
 
-**Usuari:** A Sant Joan de Caselles hi ha una majestat d'estuc. Què vol dir que
-sigui d'estuc?
+**No:** «I dos topònims que en surten:»
 
-**Maia:** Vol dir que és un relleu modelat amb estuc, no una pintura mural ni una
-talla de fusta. La crucifixió es conserva dins l'església, al lloc original.
-
-**Usuari:** I el retaule també és romànic?
-
-**Maia:** No. El retaule és del 1527 i té influències del Renaixement italià i
-germànic. L'església, en canvi, es va construir entre els segles XI i XII.
-
-## La tradició de l'escudella de Sant Antoni
-
-**Usuari:** D'on surt la tradició de repartir escudella per Sant Antoni a
-Andorra la Vella?
-
-**Maia:** El dia de Sant Antoni ja hi havia el costum de repartir menjar als
-més pobres de la parròquia. La celebració actual es va recuperar a principis
-dels anys setanta, quan uns amics de l'avinguda Meritxell van oferir escudella i
-carn d'olla als veïns.
-
-**Usuari:** I per què els organitzadors es diuen els Tons?
-
-**Maia:** «Tons» és una manera de dir Antons: els que celebren el sant. Els qui
-cuinen i reparteixen l'escudella són els escudellaires.
-
-## Qui són els dallaires de l'ossa d'Encamp
-
-**Usuari:** A l'ossa d'Encamp, qui són els dallaires? Fan un paper com la resta?
-
-**Maia:** Són els joves que hi participen. A diferència dels altres, no
-interpreten un personatge inventat: surten amb els seus noms i són a escena de
-principi a fi, mentre els altres personatges els van visitant.
-
-**Usuari:** Aleshores els veritables protagonistes són ells, més que l'ossa?
-
-**Maia:** Sí. Tot i que la festa porta el nom de l'ossa, els dallaires són al
-centre de la representació; l'ossa és un dels personatges de la farsa.
-
-## Per què el president francès és copríncep
-
-**Usuari:** Com és que el president de França acaba sent un dels caps d'estat
-d'Andorra? Té a veure amb el comte de Foix?
-
-**Maia:** Sí. El Pareatge del 1278 va establir la sobirania conjunta del bisbe
-d'Urgell i el comte de Foix. Els drets dels Foix van passar per herència fins a
-la corona francesa; el 1607 Enric IV els va incorporar a la corona.
-
-**Usuari:** Aleshores, avui el president francès és copríncep automàticament?
-
-**Maia:** Sí. Ho és per raó del càrrec: qui ocupa la presidència francesa
-assumeix el títol de copríncep, sense que l'elegeixin a Andorra.
-
-## El tamarro, una bèstia imaginària
-
-**Usuari:** El tamarro és real, com un animal que es pugui anar a buscar a la
-muntanya?
-
-**Maia:** No. És una bèstia imaginària del folklore pirinenc. A Andorra, la seva
-cacera es feia com una broma per enganyar forasters; avui s'ha convertit en un
-personatge d'itineraris infantils que es presenta com a protector dels boscos.
-
-**Usuari:** Aleshores les rutes són més aviat un joc per a la mainada?
-
-**Maia:** Sí. Els itineraris conviden els infants a buscar-lo; és una
-reinterpretació actual d'una bèstia que, segons la llegenda, gairebé no es
-deixava veure.
-
-## Els impostos a l'Andorra de 1904
-
-**Usuari:** És veritat que a Andorra no hi havia impostos abans del segle XX?
-
-**Maia:** No. André Vilar descrivia el 1904 un impost sobre la renda d'aproximadament
-una seixantena part dels ingressos de cada persona. Se'n deia *quèstia*, i un
-*contador* per parròquia establia i repartia l'import.
-
-**Usuari:** Per què li deien quèstia? Era el mateix tribut que es pagava als
-coprínceps?
-
-**Maia:** Sí. La quèstia servia per pagar el tribut als dos cosenyors de
-l'època: el bisbe d'Urgell i la part francesa. Si en sobrava, l'excedent anava
-a les caixes de l'Estat.
-
-## Diferències de clima dins d'Andorra
-
-**Usuari:** El clima és semblant a les valls i als pobles de més amunt
-d'Andorra?
-
-**Maia:** No gaire. L'altitud i l'orientació de les valls hi influeixen molt.
-Per exemple, Soldeu, a 1.825 metres, registra 58 dies de neu l'any; Sant Julià
-de Lòria, a 940 metres, en registra 10.
-
-**Usuari:** Per tant, l'altitud no és l'únic que compta?
-
-**Maia:** Exacte. L'orientació de les valls i les muntanyes també hi pesa molt;
-no n'hi ha prou de mirar només l'altitud per descriure el clima d'un lloc.
-
-## Què són els comuns
-
-**Usuari:** A Andorra hi ha ajuntaments, o fan aquesta funció els comuns?
-
-**Maia:** Cada parròquia té un comú, que la representa i l'administra. Els
-òrgans de govern s'elegeixen democràticament, i els comuns gestionen el seu
-pressupost i el patrimoni parroquial.
-
-**Usuari:** Aleshores cada comú pot decidir qualsevol cosa dins la seva
-parròquia?
-
-**Maia:** No. La Constitució els garanteix autogovern dins les competències
-comunals, però és la llei qui en delimita l'abast. També es poden delegar
-competències de l'Estat als comuns per llei.
-
-## Les pintures de Sant Martí de la Cortinada
-
-**Usuari:** Les pintures romàniques de Sant Martí de la Cortinada són de la
-mateixa època que l'església?
-
-**Maia:** No exactament. L'edifici original es data entre els segles XI i XII,
-mentre que les pintures murals del mestre de la Cortinada són de finals del
-segle XII. L'església podria ser una mica anterior a les pintures.
-
-**Usuari:** Se sap qui era aquest mestre?
-
-**Maia:** No en consta el nom personal. «Mestre de la Cortinada» és el nom que
-es dona a un artista identificat pel seu estil i per la seva obra principal en
-aquest lloc.
-
-## Charles Romeu, veguer francès
-
-**Usuari:** Qui era Charles Romeu, i què hi feia a Andorra si era de Prada?
-
-**Maia:** El van nomenar veguer francès d'Andorra el 1887, i va ocupar el càrrec
-fins que va morir, el 1933. Havia nascut a Prada, al Conflent, i va ser veguer
-durant quaranta-set anys.
-
-**Usuari:** Quines coses van canviar mentre ell era veguer?
-
-**Maia:** Durant aquell període van arribar a Andorra el telègraf i el primer
-servei postal, i es va construir la carretera fins al Pas de la Casa. També va
-promoure escoles franceses i beques per als millors alumnes.
-
-## Població registrada i població estimada
-
-**Usuari:** Per què les xifres oficials de població d'Andorra de vegades no
-coincideixen? Quina diferència hi ha entre la registrada i l'estimada?
-
-**Maia:** La població registrada surt directament dels censos parroquials. La
-estimada els encreua amb altres registres administratius per calcular quantes
-persones resideixen al país, i per això les dues xifres poden diferir.
-
-**Usuari:** Si vull saber quanta gent viu a Andorra, quina miro?
-
-**Maia:** Mira la població estimada: és la sèrie que calcula els residents. La
-registrada respon quantes persones consten als censos comunals. Comprova també
-la data de referència; l'estimació es publica mensualment.
+Això no és una resposta completa. Cal respondre el dubte amb una frase que
+s'entengui per si sola, i donar els topònims només si la persona els ha demanat.
