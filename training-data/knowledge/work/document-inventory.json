@@ -14675,7 +14675,7 @@
       "topic": "temes/institucions/justicia",
       "source": "brutails-coutume-1904",
       "status": "in_progress",
-      "conversation_count": 8,
+      "conversation_count": 9,
       "conversation_ids": [
         "costum-cedir-parella-ball-public-interpretacio-01",
         "justicia-politica-i-tribunals-veheduria-01",
@@ -14684,6 +14684,7 @@
         "veheduria-origen-doleances-1364-incert-01",
         "veheduria-reclamacio-dret-de-ballar-01",
         "veheduria-sentencia-aigua-aqueducte-1888-01",
+        "veheduria-terms-cortinada-ansalonga-1875-01",
         "veheduria-titols-escrits-regla-no-automatica-01"
       ],
       "reviewed_units": [
@@ -14692,10 +14693,11 @@
         "sentència de 1888: la competència sobre la servitud d'aqüeducte i la petició temporal de reg amb quarts d'aigua",
         "possible origen al segle XIV i dubtes de Brutails sobre l'autenticitat de les al·legacions de 1364",
         "casos de 1547 i 1601-1603 sotmesos voluntàriament a visura i límit entre consentiment i jurisdicció",
-        "costum de cedir la parella als balls públics i conjectura de Brutails sobre el motiu"
+        "costum de cedir la parella als balls públics i conjectura de Brutails sobre el motiu",
+        "sentència del 1875 sobre la divisió dels termes de la Cortinada i Ansalonga, sense traçat conservat"
       ],
       "open_units": [
-        "visura de revisió de 1760, divisió territorial entre quarts el 1875 i procés contra el quart de les Escaldes el 1887",
+        "visura de revisió de 1760 i procés contra el quart de les Escaldes el 1887",
         "sinonímia entre causes de veí a veí i servituds segons Politar i Instructa"
       ],
       "completion_note": "",
