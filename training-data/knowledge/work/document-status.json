@@ -61,7 +61,8 @@
         "diposit-legal-edicio-bibliofila-llibre-artistic-001",
         "diposit-legal-mapa-tiratge-inferior-30-001",
         "diposit-legal-rastreig-permes-versus-iniciat-001",
-        "diposit-legal-volum-conservat-no-documentat-001"
+        "diposit-legal-volum-conservat-no-documentat-001",
+        "diposit-legal-propietat-suport-i-drets-autor-001"
       ],
       "covered_units": [
         "Llei 15/2025, article 22: scope of online publications; hosting location and domain; access unrestricted or restricted",
@@ -120,7 +121,8 @@
         "Llei 15/2025, article 11.1.b-c: maps usually require two copies, but cartographic works under 30 copies require one; 30 is not under 30.",
         "Operational-status boundary: legal authority for web crawling does not show it has begun or covers every website; actual tools and activity need institutional confirmation.",
         "Corpus gap: no total count of materials actually held is provided; statutory delivery quantities cannot be used as a historical holdings estimate.",
-        "Llei 15/2025 preamble and repeal clause: legal deposit created 31 March 1980; its regulation was approved 29 September and entered into force 8 October 1980; 2025 law repeals it."
+        "Llei 15/2025 preamble and repeal clause: legal deposit created 31 March 1980; its regulation was approved 29 September and entered into force 8 October 1980; 2025 law repeals it.",
+        "Llei 15/2025, article 4: custody institutions, physical treatment/preservation responsibility, Government ownership of tangible deposited supports without transfer of copyright or neighboring rights."
       ],
       "open_units": [
         "Finish reviewing the remaining physical deposit categories and special formats, periodicals, film/television/radio, and linked regulations.",

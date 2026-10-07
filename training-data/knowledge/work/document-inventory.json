@@ -9,7 +9,7 @@
   "file_count": 1477,
   "article_count": 1348,
   "parse_error_count": 0,
-  "conversation_count": 56,
+  "conversation_count": 57,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 0,
@@ -1392,7 +1392,7 @@
       "topic": "temes/cultura/museus-i-arxius",
       "source": "jurisprudencia-ad",
       "status": "in_progress",
-      "conversation_count": 56,
+      "conversation_count": 57,
       "conversation_ids": [
         "diposit-legal-anuari-i-serie-numerada-001",
         "diposit-legal-bases-dades-programari-exemplars-001",
@@ -1434,6 +1434,7 @@
         "diposit-legal-postals-fotografies-exemplars-001",
         "diposit-legal-prescripcio-infraccions-sancions-001",
         "diposit-legal-produccio-televisiva-copies-001",
+        "diposit-legal-propietat-suport-i-drets-autor-001",
         "diposit-legal-prorroga-i-anullacio-numero-001",
         "diposit-legal-publicacio-en-linia-manuals-i-acces-001",
         "diposit-legal-publicacio-en-linia-sense-numero-001",
@@ -1508,7 +1509,8 @@
         "Llei 15/2025, article 11.1.b-c: maps usually require two copies, but cartographic works under 30 copies require one; 30 is not under 30.",
         "Operational-status boundary: legal authority for web crawling does not show it has begun or covers every website; actual tools and activity need institutional confirmation.",
         "Corpus gap: no total count of materials actually held is provided; statutory delivery quantities cannot be used as a historical holdings estimate.",
-        "Llei 15/2025 preamble and repeal clause: legal deposit created 31 March 1980; its regulation was approved 29 September and entered into force 8 October 1980; 2025 law repeals it."
+        "Llei 15/2025 preamble and repeal clause: legal deposit created 31 March 1980; its regulation was approved 29 September and entered into force 8 October 1980; 2025 law repeals it.",
+        "Llei 15/2025, article 4: custody institutions, physical treatment/preservation responsibility, Government ownership of tangible deposited supports without transfer of copyright or neighboring rights."
       ],
       "open_units": [
         "Finish reviewing the remaining physical deposit categories and special formats, periodicals, film/television/radio, and linked regulations.",
