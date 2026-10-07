@@ -9,7 +9,7 @@
   "file_count": 1477,
   "article_count": 1348,
   "parse_error_count": 0,
-  "conversation_count": 49,
+  "conversation_count": 50,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 0,
@@ -1392,10 +1392,11 @@
       "topic": "temes/cultura/museus-i-arxius",
       "source": "jurisprudencia-ad",
       "status": "in_progress",
-      "conversation_count": 49,
+      "conversation_count": 50,
       "conversation_ids": [
         "diposit-legal-anuari-i-serie-numerada-001",
         "diposit-legal-bases-dades-programari-exemplars-001",
+        "diposit-legal-bibliografia-nacional-consulta-001",
         "diposit-legal-braille-i-edicio-luxe-001",
         "diposit-legal-cartells-i-propaganda-exemplars-001",
         "diposit-legal-cdrom-versus-online-001",
@@ -1494,7 +1495,8 @@
         "Llei 15/2025, article 30: serious offenses include false data, fraudulent number manipulation and inspection obstruction; late delivery is minor, repetition escalates.",
         "Llei 15/2025, article 26: 30-calendar-day deadline for restricted online deposits and duty to notify address, access-instruction and key changes.",
         "Corpus historical evidence: the BOPA carried AND.2-2015 by 2018, proving pre-2025 practice; the origin and prior legal basis remain unknown.",
-        "Llei 15/2025, article 11.1.b: two copies for sound and audiovisual recordings."
+        "Llei 15/2025, article 11.1.b: two copies for sound and audiovisual recordings.",
+        "Llei 15/2025, articles 3.3-3.4: periodic national bibliography from deposited materials, publication channels and consultation-only access."
       ],
       "open_units": [
         "Finish reviewing the remaining physical deposit categories and special formats, periodicals, film/television/radio, and linked regulations.",

@@ -5,7 +5,7 @@ L’inventari inclou tots els Markdown de `docs/temes/`, inclosos índexs. Una f
 - Fitxers Markdown inventariats: **1477**.
 - Fitxes `article`: **1348**.
 - Fitxers amb frontmatter invàlid: **0**.
-- Converses actives amb procedència: **49**.
+- Converses actives amb procedència: **50**.
 
 ## Estat de tots els fitxers
 
@@ -160,4 +160,4 @@ L’inventari inclou tots els Markdown de `docs/temes/`, inclosos índexs. Una f
 
 ## Documents en curs
 
-- `docs/temes/cultura/museus-i-arxius/el-diposit-legal.md` — 49 converses; 2 punts oberts.
+- `docs/temes/cultura/museus-i-arxius/el-diposit-legal.md` — 50 converses; 2 punts oberts.
