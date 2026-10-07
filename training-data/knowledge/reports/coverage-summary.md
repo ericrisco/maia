@@ -160,4 +160,4 @@ L’inventari inclou tots els Markdown de `docs/temes/`, inclosos índexs. Una f
 
 ## Documents en curs
 
-- `docs/temes/cultura/museus-i-arxius/el-diposit-legal.md` — 56 converses; 2 punts oberts.
+- `docs/temes/cultura/museus-i-arxius/el-diposit-legal.md` — 56 converses; 3 punts oberts.

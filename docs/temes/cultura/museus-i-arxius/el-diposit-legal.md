@@ -172,14 +172,12 @@ obligats**.
 ## Buits registrats
 
 - ~~**Quant hi ha dipositat, i des de quan**~~ — **`parcial` el 17-09-2026**:
-   la llei és del **2025**; la pràctica documentada és anterior, però el seu origen continua obert.
-  **La cerca al [BOPA](../../../fonts/bopa.md) no ha trobat cap norma de dipòsit
-  legal anterior a la Llei 15/2025**: només hi identifica la llei i el Decret
-  100/2026. Però un número del mateix Butlletí, publicat el 2018, porta la
-  menció «Dipòsit legal: AND.2-2015». Això prova que la pràctica era anterior a
-  la llei de 2025; **no permet saber quan va començar ni si abans es regia per
-  una altra norma**. `La història anterior continua oberta: cal demanar-la a la
-  Biblioteca Nacional.`
+  el preàmbul de la Llei 15/2025 situa la creació del dipòsit legal del
+  Principat el **31 de març del 1980**, quan el Consell General en va decretar
+  la creació. El funcionament es va regular el **29 de setembre del 1980**, i
+  aquest reglament va entrar en vigor el **8 d’octubre del 1980**. Les fonts
+  consultades no donen, però, una xifra total dels materials rebuts o conservats;
+  això cal demanar-ho a la Biblioteca Nacional i a l’Arxiu Nacional.
 - ~~**La recol·lecció automàtica de webs**: si s'ha començat, amb quines eines i
   amb quin abast, no es diu enlloc del text.~~ — **`parcial` el 17-09-2026** a
   «[El reglament que diu com es raspa el web](#el-reglament-que-diu-com-es-raspa-el-web)»:
