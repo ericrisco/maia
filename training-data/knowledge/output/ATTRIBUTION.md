@@ -39,6 +39,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - J.-A. Brutails, La Coutume d’Andorre (1904), pièce justificative XXVIII, p. LX; comentari, pp. 266–268; digitalització Gallica BnF.
 - J.-A. Brutails, La Coutume d’Andorre (1904), pp. 266–268, 277–278; digitalització Gallica BnF.
 - J.-A. Brutails, La Coutume d’Andorre (1904), pp. 274, 266–268; digitalització Gallica BnF.
+- Joan Amades, descripció del 1950 citada per Pere Canturri Montanya (1994); Viquipèdia en català, «Ball de l’ossa d’Encamp», CC BY-SA 4.0.
 - Joan Amades, descripció del Ball del porrer citada per Pere Canturri i Montanya a «Andorra en el Costumari català de Joan Amades», 1994, p. 33–39.
 - Joan Amades, relat del 1950 citat per Pere Canturri Montanya (1994); Fabiola Masegosa, tesi doctoral de 2017 i resum publicat el 2020; la fitxa de Viquipèdia en català és CC BY-SA 4.0.
 - La fitxa del corpus «El ball del Cerdà» atribueix el lloc i l’hora a «premsa andorrana», sense identificar el mitjà, l’article, la data ni l’URL.
@@ -65,6 +66,7 @@ la inclusió no converteix un estat pendent o negatiu en permís de redistribuci
 - No s’incorpora text de cançons. La fitxa no identifica cap font amb drets clars per a les lletres; la font declarada de l’article és premsa andorrana amb redistribució:no.
 - Obra impresa de 1904 en domini públic; Gallica permet reutilització no comercial gratuïta amb atribució. L'elegibilitat del destí d'entrenament no consta resolta a la fitxa de font.
 - Obra impresa de 1904 en domini públic; Gallica permet reutilització no comercial gratuïta amb atribució. L’elegibilitat del destí d’entrenament no consta resolta a la fitxa de font.
+- Publicació acadèmica de Canturri en accés obert amb redistribució pendent. Viquipèdia és CC BY-SA 4.0, amb atribució i compartir igual. No es coneix la data del canvi de pràctica.
 - Publicació acadèmica en accés obert; la fitxa de font registra redistribució pendent. La conversa és una paràfrasi atribuïda i no afirma que el vestuari es conservi avui.
 - Publicació acadèmica en accés obert; la fitxa de font registra redistribució pendent. L’elegibilitat del destí d’entrenament no consta resolta.
 - Publicació acadèmica en accés obert; la fitxa de font registra redistribució pendent. S’atribueix l’anàlisi a Canturri i no es tracta l’accés obert com a permís de redistribució.
