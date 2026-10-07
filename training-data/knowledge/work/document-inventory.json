@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 15,
+    "in_progress": 16,
     "no_natural_question": 0,
-    "not_started": 1333
+    "not_started": 1332
   },
   "documents": [
     {
@@ -144,10 +144,15 @@
       "type": "article",
       "topic": "temes/costums/danses",
       "source": "premsa-andorrana",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "danses-parroquies-i-sardana-importada-01"
+      ],
+      "reviewed_units": [
+        "les danses documentades a les fitxes es vinculen a parròquies concretes; el corpus no identifica una dansa compartida pròpia de tot el país",
+        "la sardana s’introdueix a Andorra als anys quaranta segons Canturri; importació del segle XX, no repertori local antic"
+      ],
       "completion_note": "",
       "reason": ""
     },
@@ -158,8 +163,9 @@
       "topic": "temes/costums/danses",
       "source": "wikipedia-ball-ossa-encamp",
       "status": "in_progress",
-      "conversation_count": 3,
+      "conversation_count": 4,
       "conversation_ids": [
+        "danses-parroquies-i-sardana-importada-01",
         "ossa-encamp-anonimat-dallaires-01",
         "ossa-encamp-dallaires-i-ritus-de-pas-01",
         "ossa-encamp-variants-i-reescriptura-01"
@@ -181,10 +187,11 @@
       "topic": "temes/costums/danses",
       "source": "premsa-andorrana",
       "status": "in_progress",
-      "conversation_count": 2,
+      "conversation_count": 3,
       "conversation_ids": [
         "ball-cerda-origen-i-quan-veure-01",
-        "cerda-origen-vs-coreografia-marratxa-01"
+        "cerda-origen-vs-coreografia-marratxa-01",
+        "danses-parroquies-i-sardana-importada-01"
       ],
       "reviewed_units": [
         "nom Cerdà relacionat amb la Cerdanya; procedència i origen del nom no resolts",
@@ -201,9 +208,10 @@
       "topic": "temes/costums/danses",
       "source": "premsa-andorrana",
       "status": "in_progress",
-      "conversation_count": 1,
+      "conversation_count": 2,
       "conversation_ids": [
-        "contrapas-participacio-i-quan-veure-01"
+        "contrapas-participacio-i-quan-veure-01",
+        "danses-parroquies-i-sardana-importada-01"
       ],
       "reviewed_units": [
         "participació de l’Esbart Dansaire, ciutadans i càrrecs electes; font periodística no identificada",
@@ -241,9 +249,10 @@
       "topic": "temes/costums/danses",
       "source": "viquipedia-ca",
       "status": "in_progress",
-      "conversation_count": 4,
+      "conversation_count": 5,
       "conversation_ids": [
         "cerda-origen-vs-coreografia-marratxa-01",
+        "danses-parroquies-i-sardana-importada-01",
         "marratxa-dansaires-i-simbolisme-01",
         "marratxa-nom-recipient-i-quan-es-balla-01",
         "marratxa-pareatge-discrepancia-de-dates-01"

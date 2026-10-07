@@ -2,14 +2,14 @@
 
 Aquest report no acredita cobertura exhaustiva: mostra els registres aprovats i les fitxes representades fins ara.
 
-- Converses candidates: **74**.
-- Converses exportades: **74**.
-- Fitxes font representades: **15**.
+- Converses candidates: **75**.
+- Converses exportades: **75**.
+- Fitxes font representades: **16**.
 - Fitxes article a `docs/temes/`: **1348** (fitxers totals: 1477).
 
 | Split | Converses |
 |---|---:|
-| `train` | 74 |
+| `train` | 75 |
 | `validation` | 0 |
 | `test` | 0 |
 
@@ -18,6 +18,7 @@ Aquest report no acredita cobertura exhaustiva: mostra els registres aprovats i 
 - `docs/temes/costums/calendari-festiu/calendari-festiu.md`
 - `docs/temes/costums/calendari-festiu/el-carnaval-dencamp.md`
 - `docs/temes/costums/caramelles/les-caramelles.md`
+- `docs/temes/costums/danses/danses.md`
 - `docs/temes/costums/danses/el-ball-de-lossa-dencamp.md`
 - `docs/temes/costums/danses/el-ball-del-cerda.md`
 - `docs/temes/costums/danses/el-contrapas.md`

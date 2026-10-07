@@ -202,5 +202,14 @@
     ],
     "completion_note": "",
     "reason": ""
+  },
+  "docs/temes/costums/danses/danses.md": {
+    "status": "in_progress",
+    "reviewed_units": [
+      "les danses documentades a les fitxes es vinculen a parròquies concretes; el corpus no identifica una dansa compartida pròpia de tot el país",
+      "la sardana s’introdueix a Andorra als anys quaranta segons Canturri; importació del segle XX, no repertori local antic"
+    ],
+    "completion_note": "",
+    "reason": ""
   }
 }
