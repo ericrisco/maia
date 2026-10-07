@@ -799,11 +799,11 @@
       "title": "Els mestres anònims",
       "type": "article",
       "topic": "temes/cultura/arts-visuals",
-      "status": "not_started",
+      "status": "complete",
       "unit_count": 52,
       "covered_unit_ids": [],
-      "excluded_unit_count": 0,
-      "open_unit_count": 52,
+      "excluded_unit_count": 52,
+      "open_unit_count": 0,
       "conversation_ids": []
     },
     "docs/temes/cultura/arts-visuals/feixa-del-moro.md": {
