@@ -2,13 +2,13 @@
 
 Generat per `scripts/export_approved.py`. Cada línia dels JSONL conté una conversa amb `messages`; no hi ha camps interns.
 
-- Converses aprovades exportades: **12**.
+- Converses aprovades exportades: **13**.
 - Fitxes `docs/temes/` representades: **4**.
 - Converses de revisió no exportables: **0**.
 
 | Split | Converses |
 |---|---:|
-| `train` | 12 |
+| `train` | 13 |
 | `validation` | 0 |
 | `test` | 0 |
 
