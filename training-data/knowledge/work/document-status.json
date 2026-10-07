@@ -2,22 +2,23 @@
   "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md": {
     "status": "in_progress",
     "open_units": [
-      "Els altres períodes de tancament de la llista de 1902 i les festes que s'hi esmenten.",
-      "La llista més antiga possiblement del segle XVIII, les quatre fires i el topònim Berdu, que no s'identifica.",
-      "Els efectes dels feriats sobre execucions, embargaments i altres terminis judicials.",
+      "Les altres festes religioses, diumenges i períodes de tancament enumerats a la llista de 1902.",
+      "Els efectes dels feriats sobre execucions i altres procediments judicials no coberts pels terminis d’apel·lació i els embargaments.",
       "La vigència de la llista de 1902 i quan va deixar d'aplicar-se; el corpus no té una llista posterior."
     ],
     "conversation_ids": [
       "organya-tribunals-calendari-fires-001",
       "termini-apellacio-dies-feriats-1902-001",
       "embargament-dies-feriats-sega-1902-001",
-      "dies-feriats-total-anual-1902-001"
+      "dies-feriats-total-anual-1902-001",
+      "berdu-feriats-i-tancament-sega-001"
     ],
     "reviewed_units": [
       "La llista de 1902 tancava els tribunals del 27 de novembre al 4 de desembre per la fira d'Organyà; aquest interval no prova la durada de la fira ni l'assistència de persones concretes.",
       "Còmput d’un termini d’apel·lació a partir d’un cas del 1902: deu dies de rigor més tres de gràcia, amb dies feriats exclosos; el tram de 12 a 28 de gener és un cas, no un termini universal.",
       "Els dies feriats suspenien el còmput de terminis, però l’embargament s’hi podia practicar; la possible relació amb el període de sega és una hipòtesi, no una explicació documental.",
-      "Recompte possible de 62 dies datats; no hi ha total anual perquè s’hi afegeixen diumenges i quatre períodes mòbils que poden solapar-se, i cal concretar l’any."
+      "Recompte possible de 62 dies datats; no hi ha total anual perquè s’hi afegeixen diumenges i quatre períodes mòbils que poden solapar-se, i cal concretar l’any.",
+      "La llista possiblement del segle XVIII esmenta Berdu, no identificat ni a la llista de 1902; la connexió entre la sega i el tancament d’estiu de 1902 no queda provada."
     ]
   }
 }
