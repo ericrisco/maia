@@ -1,3 +1,3 @@
 # Exports de Knowledge
 
-Aquest directori no conté exports. `train`, `validation` i `test` es crearan quan hi hagi registres aprovats, drets revisats i una agrupació que eviti variants semblants entre splits.
+Buit deliberadament durant el calibratge. Només hi haurà `train.jsonl`, `validation.jsonl` i `test.jsonl` després de la revisió factual, editorial, de drets, deduplicació i separació per grups.

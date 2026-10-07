@@ -1,3 +1,3 @@
 # Revisió de Maia Language
 
-La revisió conservarà fragments humans verificables i la seva procedència. No es redactaran exemples ficticis d'«un andorrà parlant». Cada mostra candidata ha d'enllaçar amb una peça elegible i amb les condicions d'ús comprovades.
+Encara no hi ha fragments candidats. La revisió futura enregistrarà peça, parlant si consta, fragment literal, normalització aplicada, qualitat de transcripció i drets. Una conversa només s'inclourà quan els torns humans permetin reconstruir-la fidelment.

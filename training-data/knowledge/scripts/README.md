@@ -1,3 +1,3 @@
 # Eines de Knowledge
 
-Encara no hi ha scripts de generació o exportació. Afegirem eines quan el procés editorial estigui calibrat i hi hagi una definició verificable de cobertura.
+Els scripts de cobertura, validació, deduplicació i exportació s'afegiran després d'aprovar el calibratge editorial. Cap eina no ha de convertir títols o files en preguntes automàticament.

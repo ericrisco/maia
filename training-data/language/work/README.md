@@ -1,3 +1,3 @@
-# Elegibilitat i transcripcions
+# Treball intern de Maia Language
 
-L'inventari local d'elegibilitat que ja existia es conserva aquí. Cal tornar a comprovar els seus estats i drets contra les peces actuals abans d'utilitzar cap fragment.
+Aquí s'enregistraran elegibilitat de les peces, qualitat de transcripció, drets i agrupació per entrevista/parlant. Una peça no es considera elegible només perquè contingui català.

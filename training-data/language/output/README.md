@@ -1,3 +1,3 @@
 # Exports de Language
 
-Aquest directori no conté exports. Les mostres es prepararan només després de verificar elegibilitat, drets, consentiment, transcripció i separació per peça o parlant.
+Buit deliberadament. No s'exportarà res fins a revisar elegibilitat, drets, transcripció i separació per entrevista o parlant.

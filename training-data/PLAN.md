@@ -1,44 +1,70 @@
-# Pla de treball
+# Pla de Maia Training Data
 
 ## Objectiu
 
-Crear converses d'entrenament útils, correctes i naturals. La unitat no és una dada de la fitxa: és una consulta humana que Maia sap resoldre gràcies a la fitxa.
+Preparar exemples de conversa que ensenyin un assistent a resoldre dubtes humans sobre Andorra i, en un conjunt separat, a conservar senyals reals del català andorrà contemporani. El corpus font és `docs/`. No es converteixen documents mecànicament en preguntes.
 
-## 1. Calibrar el to abans de produir registres
+## Criteri editorial: començar per la intenció
 
-1. Llegir sencera la fitxa i comprovar-ne les fonts i els drets.
-2. Escriure poques converses representatives a `knowledge/review/EXEMPLES.md`.
-3. Fer que les preguntes inicials expliquin un dubte reconeixible sense esmentar la fitxa, cap secció ni cap fila.
-4. Afegir seguiments només quan una resposta hagi obert una curiositat concreta. Preferir fils amb més d'un intercanvi quan siguin naturals; no allargar-los per quota.
-5. Revisar els exemples llegint només els missatges de l'usuari. Si el fil no s'entén o el seguiment podria anar després de qualsevol resposta, reescriure'l.
+Abans d'escriure cap conversa, l'editor anota en una frase: **«Què intenta aclarir la persona i per què preguntaria això?»** Intencions útils: entendre una pràctica, resoldre una aparent contradicció, comprovar si una història és documentada, saber què va canviar, o distingir dues mesures o tradicions.
 
-Els exemples són guia editorial. No compten com a registres, cobertura ni exports. Cal revisar-ne el to abans d'obrir una tanda gran de registres.
+Si la motivació és només «aquesta dada surt al document», no es crea el registre. Les preguntes no poden referir-se a una fitxa, secció, taula, fila, font interna o identificador. Tampoc no s'inventa una situació personal per fer veure que la consulta és real.
 
-## 2. Crear converses Knowledge, fitxa a fitxa
+## Conversa multitorn
 
-- Revisar la fitxa sencera, no només el títol o el fragment que inspira la pregunta.
-- Buscar intencions reals: aclarir una confusió, entendre una tradició, comprovar una data, comparar dues mesures o saber què es pot concloure.
-- Escriure una conversa per intenció. No acumular preguntes independents en un sol fil.
-- Donar context a la primera pregunta. Els seguiments poden usar pronoms o el·lipsis perquè ja tenen context conversacional.
-- Respondre directament. Distingir fets, llegendes, interpretacions, dades històriques i informació vigent.
-- Dir què no se sap quan la font no permet tancar una qüestió. No inventar causes ni detalls per fer la resposta més rodona.
-- Registrar fonts, drets, afirmacions recolzades i grup de deduplicació a `provenance.jsonl`.
-- Una fitxa pot generar cap conversa si no hi ha cap pregunta humana útil. Cobertura vol dir haver-la revisat, no convertir cada frase en una pregunta.
+- Cada conversa comença amb una pregunta completa, comprensible sense context previ.
+- La resposta contesta directament i amb prou context per entendre-la.
+- El torn següent surt d'una cosa que s'ha dit o d'un dubte que la resposta deixa obert. Llegides seguides, només les preguntes de l'usuari han de formar un fil coherent.
+- Normalment es busquen 2–4 torns d'usuari quan el tema dona peu a aclariments reals. No s'allarga una conversa per arribar a una quota: un intercanvi és millor que un seguiment forçat.
+- No s'encadenen preguntes independents dins del mateix missatge. No es fan servir «I què més?» o «I per què?» si no queda clar a què es refereixen.
 
-## 3. Revisar, aprovar i exportar Knowledge
+## Respostes
 
-Mantenir separats els exemples editorials, els candidats actius i els registres aprovats. Revisar cada conversa en context, comprovar-ne les afirmacions i els drets, deduplicar-la i agrupar variants per tema i font. Crear `train`, `validation` i `test` només quan hi hagi prou registres aprovats; mantenir les variants d'una mateixa font o intenció al mateix split.
+La primera frase resol la pregunta. La resta explica només el context útil. Cal distingir fets documentats, tradició, interpretació i hipòtesi; situar les xifres en el temps i dir què mesuren; i fer explícites les discrepàncies o els límits de la font. No es completa amb coneixement extern ni s'atribueixen causes que el corpus no demostra.
 
-Abans d'exportar, validar el format, els torns, els duplicats, la procedència, els drets i la cobertura de les fitxes. No presentar exemples de calibratge ni candidats pendents com un dataset llest per entrenar.
+## Flux de Knowledge
 
-## 4. Construir Maia Language per separat
+1. Inventariar tots els documents i registrar elegibilitat, procedència i drets.
+2. Revisar cada document per unitats de coneixement: afirmacions, dates, noms, relacions, taules, excepcions, desacords i incerteses.
+3. Per cada unitat útil, decidir quina intenció humana podria portar-hi; crear una conversa només si la pregunta és versemblant i aporta cobertura nova.
+4. Guardar els candidats amb traçabilitat de font i afirmacions sustentades, fora del format final.
+5. Fer revisió factual, editorial, de drets, de duplicats i de cobertura abans d'exportar.
+6. Separar train/validation/test per tema o grup de fonts relacionades per reduir filtracions entre conjunts.
 
-- Revisar cada peça de `docs/parla/` i confirmar `veu: originaria`, `epoca: contemporania` i `apte_llengua: true`.
-- Verificar drets, permís d'ús i fiabilitat de transcripció per peça.
-- Conservar text produït per persones. No inventar preguntes o respostes per convertir monòlegs en diàleg.
-- Preservar lèxic, sintaxi i ordre del parlant. Documentar qualsevol normalització.
-- Separar les peces o entrevistes entre els splits per evitar que fragments relacionats caiguin a train i test.
+## Flux de Language
 
-## Criteri de sortida
+1. Revisar les peces de `docs/parla/` i aplicar els criteris del corpus: veu originària, època contemporània i `apte_llengua: true`.
+2. Comprovar drets i qualitat de transcripció abans d'usar fragments.
+3. Convertir només intercanvis o fragments humans que admetin un context d'usuari fidel. La resposta ha de conservar el text original o una normalització mínima documentada.
+4. No inventar frases «com si les digués un andorrà» ni fabricar seguiments. Si no hi ha un torn humà coherent, es descarta el fragment per a fine-tuning conversacional.
+5. Separar els splits per entrevista/peça i, si és possible, parlant.
 
-Knowledge només es declara preparat després de revisar tot `docs/temes/`, tractar cobertura, drets i duplicats, i validar els exports. Language només es declara preparat després de revisar totes les peces elegibles, filtrar fragments dubtosos, comprovar drets i validar els splits. El nombre de registres no substitueix cap d'aquestes comprovacions.
+## Revisió obligatòria de cada conversa Knowledge
+
+Puntuació editorial interna (0–2 per criteri):
+
+- **Intenció humana:** s'entén què vol resoldre la persona?
+- **Coherència:** cada seguiment reprèn el fil anterior?
+- **Resposta:** contesta directament i amb la llargada necessària?
+- **Suport:** cada afirmació està sustentada per una font elegible?
+- **Naturalitat:** sona com una conversa real, sense parlar del document?
+
+Un zero en intenció, coherència o suport implica reescriure o descartar. Els exemples editorials no es compten com a dades ni com a cobertura.
+
+## Estructura
+
+- `knowledge/review/`: guia, exemples editorials i més endavant candidats amb procedència.
+- `knowledge/work/`: inventaris i estat de cobertura.
+- `knowledge/scripts/`: eines de revisió, validació, deduplicació i exportació.
+- `knowledge/reports/`: cobertura, drets, exclusions i qualitat.
+- `knowledge/output/`: només exports revisats, deduplicats i dividits.
+- `language/`: les mateixes fases, amb elegibilitat i fidelitat lingüística pròpies.
+
+## Fites
+
+1. **Calibratge editorial (ara):** aprovar les intencions, la guia i els exemples abans de reprendre la producció de registres.
+2. **Knowledge:** inventari i drets; cobertura document a document; producció de converses; revisió i deduplicació; splits i validació.
+3. **Language:** elegibilitat, drets i qualitat; selecció de fragments humans; splits sense leakage; validació.
+4. **Tancament:** documentar volum, cobertura, exclusions, drets i limitacions de cada conjunt.
+
+Cap fita de producció no es dona per acabada només perquè existeixi l'estructura o hi hagi exemples.

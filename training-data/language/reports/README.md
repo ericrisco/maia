@@ -1,3 +1,3 @@
 # Informes de Language
 
-Els informes futurs mostraran peces inspeccionades, incloses i excloses, fragments utilitzats, dubtes de transcripció i estat dels drets.
+Els informes futurs comptaran peces revisades, incloses i excloses, fragments utilitzats/descartats, dubtes de transcripció i distribució dels splits.

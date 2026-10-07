@@ -1,3 +1,3 @@
-# Treball i cobertura
+# Treball intern de Knowledge
 
-Aquí guardarem l'inventari de `docs/temes/` i l'estat de revisió per fitxa. Encara no hi ha inventari nou: els fitxers de cobertura anteriors s'han retirat perquè la cua antiga es descarta. La cobertura es tornarà a calcular quan comenci la revisió sota el criteri nou.
+Aquí aniran l'inventari de documents, l'estat de revisió i les unitats de coneixement traçables. No són dades per al model. Encara no hi ha cap inventari regenerat en aquesta estructura nova.

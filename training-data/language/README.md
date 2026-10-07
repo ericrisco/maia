@@ -1,5 +1,5 @@
 # Maia Language
 
-Conjunt separat de Knowledge. Només inclourà parla humana real i elegible de `docs/parla/`, amb `veu: originaria`, `epoca: contemporania` i `apte_llengua: true`.
+Conjunt separat per conservar senyals del català andorrà contemporani en parla humana de `docs/parla/`. No és un conjunt per ensenyar fets sobre Andorra.
 
-No inventarem cap diàleg per convertir un monòleg en conversa. Abans d'incloure una peça, cal verificar-ne els drets o el permís, el consentiment aplicable i la fiabilitat de la transcripció. La cua de registres comença buida.
+Només s'acceptarà material que compleixi els criteris d'elegibilitat del corpus, tingui drets compatibles i sigui prou fiable. No es fabricaran respostes ni seguiments amb una veu local inventada.

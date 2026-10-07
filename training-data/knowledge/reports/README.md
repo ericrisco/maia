@@ -1,3 +1,3 @@
 # Informes de Knowledge
 
-Els informes de cobertura i qualitat es generaran després de revisar registres reals. Els exemples editorials no compten en cap recompte.
+Els informes futurs separaran cobertura, drets, exclusions, qualitat editorial, duplicats i volum exportat. Els exemples de calibratge no comptaran en cap mètrica.

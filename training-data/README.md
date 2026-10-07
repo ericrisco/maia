@@ -1,27 +1,10 @@
 # Maia Training Data
 
-Prepararem dos conjunts separats a partir del corpus de `docs/`:
+Aquesta àrea prepararà dos corpus de fine-tuning separats a partir de `docs/`.
 
-- **Knowledge** respon dubtes reals sobre Andorra amb informació de `docs/temes/`.
-- **Language** conserva mostres de català andorrà contemporani produïdes per persones, a partir de material elegible de `docs/parla/`.
+- **Knowledge** ensenya a respondre preguntes sobre Andorra amb informació de `docs/temes/`.
+- **Language** conserva trets del català andorrà contemporani a partir de parla humana elegible de `docs/parla/`.
 
-Ara només hi ha exemples editorials per calibrar Knowledge. No són registres d'entrenament. Les cues candidates comencen buides i no hi ha cap export preparat.
+La carpeta s'ha reiniciat per corregir el disseny de les converses. Els fitxers d'`EXEMPLES.md` només calibren l'estil: no són registres d'entrenament ni compten com a cobertura. Les cues de dades i els exports són buits de moment.
 
-```text
-training-data/
-├── PLAN.md
-├── knowledge/
-│   ├── review/       # criteris, exemples, candidats i procedència
-│   ├── work/         # inventari i estat de revisió del corpus
-│   ├── scripts/      # eines de cobertura, validació i exportació
-│   ├── reports/      # cobertura, qualitat i exclusions
-│   └── output/       # exports aprovats; buit durant el calibratge
-└── language/
-    ├── review/       # fragments humans candidats i procedència
-    ├── work/         # elegibilitat i fiabilitat de transcripció
-    ├── scripts/
-    ├── reports/
-    └── output/       # exports aprovats; buit durant el calibratge
-```
-
-Comença per [`PLAN.md`](PLAN.md) i [`knowledge/review/EXEMPLES.md`](knowledge/review/EXEMPLES.md). La procedència dels exemples és a [`knowledge/review/examples-provenance.md`](knowledge/review/examples-provenance.md). La procedència dels registres reals es guardarà separada del text de conversa.
+Llegeix [`PLAN.md`](PLAN.md) i després les guies de cada àrea. No s'inclou cap dada a un export sense procedència i revisió dels drets.

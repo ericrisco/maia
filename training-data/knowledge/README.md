@@ -1,12 +1,5 @@
 # Maia Knowledge
 
-Converses que responen preguntes sobre Andorra a partir de `docs/temes/`.
+Conjunt conversacional de coneixement andorrà basat en `docs/temes/`. Cada registre parteix d'un dubte que una persona podria tenir, no d'una secció del document. Els candidats i les seves fonts es revisaran abans de crear exports.
 
-- `review/EXEMPLES.md` calibra l'estil; no és part del dataset.
-- `review/conversations.jsonl` rebrà candidats actius, una conversa JSONL per línia.
-- `review/provenance.jsonl` guardarà les fonts i els drets, una entrada per candidat.
-- `work/` recollirà inventari i cobertura després de començar la revisió exhaustiva.
-- `scripts/` i `reports/` s'ompliran quan hi hagi un procés de revisió i dades suficients.
-- `output/` es mantindrà buit fins que els registres estiguin revisats i aprovats.
-
-Les preguntes han de néixer d'una intenció humana. Els seguiments han d'enllaçar amb la resposta anterior. Vegeu [`review/CONVERSATION-GUIDE.md`](review/CONVERSATION-GUIDE.md).
+Consulta [`review/GUIA.md`](review/GUIA.md) i [`review/EXEMPLES.md`](review/EXEMPLES.md). Els exemples són només calibratge.
