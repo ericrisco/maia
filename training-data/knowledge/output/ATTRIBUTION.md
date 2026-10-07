@@ -25,6 +25,7 @@ el BOPA no implica cap suport al projecte. No s'atribueix una llicència global 
 - Adaptació de l'article «Sergi Mas Balaguer» de la Viquipèdia en català, llicència CC BY-SA 4.0. Cal conservar l'atribució i compartir l'adaptació amb la mateixa llicència.
 - Adaptació de l'article «Trinxat» de la Viquipèdia en català, llicència CC BY-SA 4.0. Cal conservar l'atribució i compartir igual.
 - Adaptació de la Constitució del Principat d’Andorra, BOPA núm. 24, 4-05-1993, article 81, pp. 455. Es conserva el sentit de la norma i s’identifica la publicació; el BOPA no implica suport al projecte.
+- Adaptació de la Constitució del Principat d’Andorra, BOPA núm. 24, 4-05-1993, articles 43, 45 i 72. Es conserva el sentit de la norma i s’identifica la publicació; el BOPA no implica suport al projecte.
 - Adaptació de la Llei 13/2013, del 13 de juny, de competència efectiva i protecció del consumidor, article 32.2–9. Norma oficial andorrana; text vigent contrastat al Portal Jurídic el 2026-10-07.
 - Adaptació de la Llei 13/2013, del 13 de juny, de competència efectiva i protecció del consumidor, articles 30.3 i 30.8. Norma oficial andorrana; text vigent contrastat al Portal Jurídic el 2026-10-07.
 - Adaptació de la Llei 13/2013, del 13 de juny, de competència efectiva i protecció del consumidor, articles 30.3 i 31.5. Norma oficial andorrana; text vigent contrastat al Portal Jurídic el 2026-10-07.
