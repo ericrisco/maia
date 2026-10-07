@@ -6015,12 +6015,17 @@
       "title": "El vi d'Andorra",
       "type": "article",
       "topic": "temes/gastronomia/begudes",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 69,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/gastronomia/begudes/el-vi-dandorra.md#unit-0042",
+        "docs/temes/gastronomia/begudes/el-vi-dandorra.md#unit-0061"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 69,
-      "conversation_ids": []
+      "open_unit_count": 67,
+      "conversation_ids": [
+        "vinya-andorrana-cellers-superficie-varietats-001"
+      ]
     },
     "docs/temes/gastronomia/calendari-gastronomic/calendari-gastronomic-index-de-fitxes.md": {
       "title": "Calendari gastronòmic — índex de fitxes",
