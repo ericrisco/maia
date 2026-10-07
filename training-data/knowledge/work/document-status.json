@@ -699,5 +699,20 @@
     "reviewed_units": [
       "L’edifici original era romànic; les ampliacions dels segles XVII-XVIII li donaren l’aspecte actual. El pagament del retaule el 1651 no data una reconstrucció completa."
     ]
+  },
+  "docs/temes/cultura/arquitectura/santa-coloma.md": {
+    "status": "in_progress",
+    "open_units": [
+      "Documentació completa sobre la venda de 1932 i els responsables, més enllà del que recull la font secundària.",
+      "Història posterior i estat actual del fragment perdut de sant Gregori no resolts.",
+      "Conservació i estudi crític del programa pictòric complet pendents de fonts primàries.",
+      "Atribució del Mestre de Santa Coloma i relació amb Engolasters sense nom personal conegut."
+    ],
+    "conversation_ids": [
+      "santa-coloma-pintures-esglesia-i-retorn-001"
+    ],
+    "reviewed_units": [
+      "Només l’Anyell de Déu roman in situ; la major part de les pintures es troba a l’Espai Columba després del retorn al Govern el 2007, i dos fragments van seguir itineraris separats."
+    ]
   }
 }

@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 46,
+    "in_progress": 47,
     "no_natural_question": 0,
-    "not_started": 1302
+    "not_started": 1301
   },
   "documents": [
     {
@@ -1076,11 +1076,20 @@
       "type": "article",
       "topic": "temes/cultura/arquitectura",
       "source": "enciclopedia-cat-santa-coloma",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "santa-coloma-pintures-esglesia-i-retorn-001"
+      ],
+      "reviewed_units": [
+        "Només l’Anyell de Déu roman in situ; la major part de les pintures es troba a l’Espai Columba després del retorn al Govern el 2007, i dos fragments van seguir itineraris separats."
+      ],
+      "open_units": [
+        "Documentació completa sobre la venda de 1932 i els responsables, més enllà del que recull la font secundària.",
+        "Història posterior i estat actual del fragment perdut de sant Gregori no resolts.",
+        "Conservació i estudi crític del programa pictòric complet pendents de fonts primàries.",
+        "Atribució del Mestre de Santa Coloma i relació amb Engolasters sense nom personal conegut."
+      ],
       "completion_note": "",
       "reason": ""
     },
