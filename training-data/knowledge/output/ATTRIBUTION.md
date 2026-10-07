@@ -12,6 +12,7 @@ el BOPA no implica cap suport al projecte. No s'atribueix una llicència global 
 ## Fonts dels registres exportats
 
 - André Vilar, L'Andorre (1904), p. 137 i nota 1, obra en domini públic. Resum i adaptació per a Maia; les sospites s'atribueixen als veïns que Vilar cita i no es presenten com a fet provat.
+- André Vilar, L'Andorre (1904), p. 36, obra en domini públic; i Viquipèdia en català, article «La quèstia», CC BY-SA 4.0. Resum i adaptació per a Maia; atribució preservada i adaptació compartida sota CC BY-SA 4.0.
 - André Vilar, L'Andorre (1904), pp. 34–35, obra en domini públic. Resum i adaptació per a Maia; la tesi s'atribueix a l'autor.
 - André Vilar, L'Andorre (1904), pp. 35–36, obra en domini públic. Resum i adaptació per a Maia; les disposicions s'atribueixen a les lletres patents d'Enric IV tal com les transcriu Vilar.
 - André Vilar, L'Andorre (1904), pp. 38–39, obra en domini públic. Resum i adaptació per a Maia; la interpretació s'atribueix a la carta administrativa transcrita per Vilar.
