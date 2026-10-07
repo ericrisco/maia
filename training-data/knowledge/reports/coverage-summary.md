@@ -7,7 +7,7 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 - Unitats cobertes per converses aprovades: **181** (0.288%).
 - Unitats excloses amb motiu: **1178**.
 - Unitats encara obertes: **61552**.
-- Registres: **52**; aprovats: **52**; mostres de calibratge: **0** (no compten com a cobertura).
+- Registres: **53**; aprovats: **52**; mostres de calibratge: **0** (no compten com a cobertura).
 
 ## Estat per tema
 
