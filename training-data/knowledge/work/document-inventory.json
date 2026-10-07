@@ -4,9 +4,9 @@
   "file_count": 1477,
   "status_totals": {
     "complete": 0,
-    "in_progress": 43,
+    "in_progress": 44,
     "no_natural_question": 0,
-    "not_started": 1305
+    "not_started": 1304
   },
   "documents": [
     {
@@ -1008,11 +1008,20 @@
       "type": "article",
       "topic": "temes/cultura/arquitectura",
       "source": "enciclopedia-cat-sant-miquel-dengolasters",
-      "status": "not_started",
-      "conversation_count": 0,
-      "conversation_ids": [],
-      "reviewed_units": [],
-      "open_units": [],
+      "status": "in_progress",
+      "conversation_count": 1,
+      "conversation_ids": [
+        "engolasters-pintures-originals-i-reproduccio-001"
+      ],
+      "reviewed_units": [
+        "Els originals són al MNAC des de l’extracció de 1919–1923; l’absis conserva una reproducció de 1982. La seva autoria s’atribueix al Mestre de Santa Coloma."
+      ],
+      "open_units": [
+        "Descripció iconogràfica completa i estat de conservació de cada fragment de pintura.",
+        "Contrast acadèmic independent de l’atribució al Mestre de Santa Coloma.",
+        "Règim de visita permanent; només consta una campanya temporal de tardor del 2025.",
+        "Recerca de les parts de les pintures i del seu recorregut abans de l’extracció."
+      ],
       "completion_note": "",
       "reason": ""
     },

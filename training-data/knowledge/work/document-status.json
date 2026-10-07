@@ -655,5 +655,20 @@
     "reviewed_units": [
       "La recomposició representa en blanc i negre les parts perdudes a partir de fotografies; tres taules i la predel·la han estat localitzades en institucions diferents."
     ]
+  },
+  "docs/temes/cultura/arquitectura/sant-miquel-dengolasters.md": {
+    "status": "in_progress",
+    "open_units": [
+      "Descripció iconogràfica completa i estat de conservació de cada fragment de pintura.",
+      "Contrast acadèmic independent de l’atribució al Mestre de Santa Coloma.",
+      "Règim de visita permanent; només consta una campanya temporal de tardor del 2025.",
+      "Recerca de les parts de les pintures i del seu recorregut abans de l’extracció."
+    ],
+    "conversation_ids": [
+      "engolasters-pintures-originals-i-reproduccio-001"
+    ],
+    "reviewed_units": [
+      "Els originals són al MNAC des de l’extracció de 1919–1923; l’absis conserva una reproducció de 1982. La seva autoria s’atribueix al Mestre de Santa Coloma."
+    ]
   }
 }
