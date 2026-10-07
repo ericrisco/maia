@@ -6,8 +6,10 @@ Projecte per preparar dos datasets de fine-tuning separats a partir de
 
 La primera feina és calibrar què compta com una conversa bona. Les mostres
 editorials són a `knowledge/review/EXEMPLES.md`; no són registres d'entrenament.
-Els JSONL actius només s'ompliran amb converses aprovades, una per una, amb
-procedència i estat de drets registrats. Encara no es generen exports finals.
+`knowledge/review/conversations.jsonl` conserva converses candidates de l'intent
+anterior. Encara no les tractem com a aprovades: les passarem pel nou filtre i
+les classificarem com a bones, recuperables o descartades. No es generen exports
+finals fins a acabar aquesta revisió.
 
 ## Estructura
 

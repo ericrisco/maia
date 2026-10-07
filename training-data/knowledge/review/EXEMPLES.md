@@ -1,74 +1,82 @@
-# Exemples per calibrar les converses
+# Converses de mostra per calibrar Maia Knowledge
 
-Aquests exemples són mostres editorials. No formen part de `conversations.jsonl`
-i no compten com a cobertura. Cada conversa comença amb una necessitat normal;
-els seguiments surten de la resposta anterior.
+Aquestes mostres serveixen per decidir si el to i els seguiments semblen
+humans. **No són registres d'entrenament ni compten per a la cobertura.**
+Les fonts apareixen fora del diàleg per poder verificar les respostes.
 
-## Organitzar-se per Sant Antoni a Canillo
+## Anar a la vianda de Canillo
 
-**Usuari:** Si vaig a Canillo per Sant Antoni, quin dia fan la vianda?
+**Usuari:** Al gener voldríem anar a Canillo per Sant Antoni. La vianda la
+fan sempre el dia 17?
 
-**Maia:** La fan el diumenge més proper al 17 de gener. La fitxa no concreta la
-data de cap edició futura.
+**Maia:** No necessàriament. A Canillo la fan el diumenge més proper al 17 de
+gener, que és Sant Antoni.
 
-**Usuari:** Ah, doncs no cau sempre el mateix dia?
+**Usuari:** I en diuen vianda en comptes d'escudella només a Canillo?
 
-**Maia:** Exacte. La data depèn de quin dia de la setmana queda més a prop del 17
-de gener.
+**Maia:** La font documenta aquest nom a Canillo, però no diu si també es fa
+servir en altres parròquies. Per tant, no podem afirmar que sigui exclusiu.
 
-*Font per contrastar els fets:* `docs/temes/costums/sant-antoni/escudelles-de-sant-antoni.md`.
+*Font per contrastar:* `docs/temes/costums/sant-antoni/escudelles-de-sant-antoni.md`.
 
-## Comprovar una cosa que ens han explicat
+## Entendre què és la Passa
 
-**Usuari:** M'han dit que a totes les parròquies l'escudella de Sant Antoni es
-diuvia vianda. És veritat?
+**Usuari:** Al programa de Sant Julià veig la Passa al costat del Cerdà i la
+Marratxa. La Passa també és un ball?
 
-**Maia:** No ho podem assegurar. Les fonts recollides documenten el nom
-*vianda* a Canillo; per a la resta de parròquies parlen d'escudella.
+**Maia:** No. És una cercavila de parelles de fadrins pels carrers de Sant
+Julià, no una dansa com el Cerdà o la Marratxa.
 
-**Usuari:** Llavors no se sap si a les altres parròquies també en diuen així?
+**Usuari:** I què la fa especial?
 
-**Maia:** Això mateix. La informació disponible no diu quin nom s'hi fa servir,
-ni permet afirmar que *vianda* sigui exclusiu de Canillo.
+**Maia:** L'ordre de les parelles: al davant hi van les que s'han de casar
+durant aquell any, i la resta les segueix de més grans a més joves.
 
-*Font per contrastar els fets:* `docs/temes/costums/sant-antoni/escudelles-de-sant-antoni.md`.
+**Usuari:** Ah, doncs és per això que en diuen els «majors fadrins»?
 
-## Distingir una llegenda d'un fet comprovat
+**Maia:** Sí. Aquest nom designa les parelles que es casaran aquell any i que
+obren la cercavila.
 
-**Usuari:** Com diu la llegenda que van trobar la imatge de Meritxell?
+*Font per contrastar:* `docs/temes/costums/ritus-de-pas/la-passa.md`.
 
-**Maia:** Explica que un pastor la va trobar sota una gavernera florida, en ple
-hivern. La van portar a Canillo i després a Encamp, però, segons el relat, la
-imatge tornava al lloc on l'havien trobada.
+## Triar quin dia anar al Carnaval d'Encamp
 
-**Usuari:** Això està documentat com un fet històric?
+**Usuari:** Serem a Encamp el cap de setmana de Carnaval, però dilluns ja marxem
+al matí. Què ens perdrem?
 
-**Maia:** La fitxa ho presenta com una llegenda. No n'estableix la primera
-referència escrita ni quan es va originar.
+**Maia:** El Judici dels Contrabandistes es fa diumenge a la tarda i el Ball de
+l'Ossa, dilluns a la tarda. Si marxeu al matí, us perdreu el Ball de l'Ossa.
 
-*Font per contrastar els fets:* `docs/temes/cultura/llegendes/la-troballa-de-meritxell.md`.
+**Usuari:** Són dues parts de la mateixa representació?
 
-## Entendre una diferència entre dues fonts
+**Maia:** No, són dues farses diferents del Carnaval d'Encamp. La font les
+presenta com a actes separats, cadascun en una tarda.
 
-**Usuari:** Per què tancaven els tribunals andorrans durant la fira d'Organyà?
+*Font per contrastar:* `docs/temes/costums/calendari-festiu/el-carnaval-dencamp.md`.
 
-**Maia:** La llista de 1902 els dona per tancats del 27 de novembre al 4 de
-desembre, coincidint amb la fira. Una llista anterior diu que la gent del país
-hi estava ocupada; no sabem si aquesta era també l'explicació oficial el 1902.
+## No donar per fet allò que la font no confirma
 
-**Usuari:** I la fira durava tota aquella setmana?
+**Usuari:** A Sant Antoni encara beneeixen els animals? M'ho han explicat com
+si fos part de la festa d'avui.
 
-**Maia:** La llista només fixa els dies de tancament dels tribunals. No concreta
-la durada de la fira.
+**Maia:** La tradició s'associa amb portar el bestiar a beneir, però la
+informació disponible no confirma si la benedicció encara es fa ni on.
 
-*Font per contrastar els fets:* `docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md`.
+**Usuari:** Llavors és millor dir que era costum, sense assegurar que continuï?
 
-## Exemples que no volem
+**Maia:** Exacte. Podem explicar-ne el vincle històric amb la benedicció dels
+animals, però no presentar-la com un acte actual confirmat.
 
-- «Què explica la secció “El relat”?» — la persona ha de tenir una fitxa al
-  davant i no expressa cap necessitat pròpia.
-- «Què indica aquesta fila?» — depèn d'una taula que no s'ha identificat.
-- «I dos topònims que en surten?» — és una ordre d'extracció, no una pregunta
-  que segueixi una conversa.
-- Cinc versions de «Quan se celebra?» — canvien les paraules, però no el que
-  el model aprèn.
+*Font per contrastar:* `docs/temes/costums/sant-antoni/escudelles-de-sant-antoni.md`.
+
+## Exemples que cal rebutjar o reescriure
+
+| Esborrany | Problema | Com reconduir-lo |
+| --- | --- | --- |
+| «Què explica la secció “El relat”?» | Només té sentit amb la fitxa al davant. | «Com explica la llegenda que van trobar la imatge de Meritxell?» |
+| «Què indica aquesta fila?» | No identifica què mira ni per què li importa. | Dir quina dada està comprovant i en quin context. |
+| «I dos topònims que en surten?» | És una ordre d'extracció, no un seguiment natural. | Preguntar quin lloc vol trobar o comparar. |
+| «Què passava? Per què? I en quina data?» | Apila preguntes sense conversa ni context. | Començar pel dubte principal i afegir només seguiments que surtin de la resposta. |
+
+No copiïs aquests exemples com a plantilles. Serveixen per veure la diferència
+entre preguntar sobre una necessitat i demanar que es buidi una fitxa.
