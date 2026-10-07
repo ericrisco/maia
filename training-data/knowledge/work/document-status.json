@@ -179,5 +179,18 @@
     "conversation_ids": [
       "bruixa-sornas-relat-i-buits-001"
     ]
+  },
+  "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md": {
+    "status": "in_progress",
+    "reviewed_units": [
+      "Cinema attendance in the cultural habits survey rises from 57.4% in 2019 to 66.3% in 2024 (+8.9 points), across all ages, with the largest increase among ages 45-64 (+12.8) and 65+ (+10.4). The survey has only two waves, so this is not an annual trend and does not establish a cause."
+    ],
+    "open_units": [
+      "The remaining comparisons for sport, theatre, leisure reading, libraries, museums, and participation in 11+ cultural activities are not yet covered.",
+      "Library visits and loans are separate measures; document-level breakdowns and the limitations of the source need separate review."
+    ],
+    "conversation_ids": [
+      "cultura-cinema-2019-2024-001"
+    ]
   }
 }
