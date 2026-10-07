@@ -21,7 +21,7 @@ La cobertura és per document citat i és només un límit inferior: una cita no
 | `cultura` | 72 | 2 | 70 |
 | `economia` | 95 | 0 | 95 |
 | `esports` | 272 | 0 | 272 |
-| `gastronomia` | 15 | 1 | 14 |
+| `gastronomia` | 15 | 2 | 13 |
 | `historia` | 226 | 0 | 226 |
 | `institucions` | 338 | 1 | 337 |
 | `llengua` | 43 | 0 | 43 |
@@ -83,7 +83,7 @@ Aquest índex més fi permet avançar branca per branca. `Amb conversa` segueix 
 | `temes/gastronomia/begudes` | 1 | 0 | 1 | 0 | 1 | 0 | 0 |
 | `temes/gastronomia/calendari-gastronomic` | 1 | 0 | 1 | 1 | 0 | 0 | 0 |
 | `temes/gastronomia/historia-alimentaria` | 5 | 0 | 5 | 0 | 5 | 0 | 0 |
-| `temes/gastronomia/plats` | 5 | 1 | 4 | 3 | 2 | 0 | 0 |
+| `temes/gastronomia/plats` | 5 | 2 | 3 | 3 | 2 | 0 | 0 |
 | `temes/gastronomia/productes` | 2 | 0 | 2 | 1 | 1 | 0 | 0 |
 | `temes/gastronomia/rebosteria` | 1 | 0 | 1 | 0 | 0 | 1 | 0 |
 | `temes/historia/antic-regim` | 50 | 0 | 50 | 13 | 30 | 7 | 0 |
@@ -176,7 +176,7 @@ Aquesta tria només mira el camp `font` de la capçalera i la seva fitxa a `docs
 | `pending` | 604 |
 | `missing` | 1 |
 
-**Total:** 1348 fitxes article; **6** tenen almenys una conversa citada i **1342** encara no en tenen.
+**Total:** 1348 fitxes article; **7** tenen almenys una conversa citada i **1341** encara no en tenen.
 
 ## Límits
 

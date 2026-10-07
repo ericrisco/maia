@@ -83,3 +83,18 @@ talla de fusta. La crucifixió es conserva dins l'església, al lloc original.
 
 **Maia:** No. El retaule és del 1527 i té influències del Renaixement italià i
 germànic. L'església, en canvi, es va construir entre els segles XI i XII.
+
+## La tradició de l'escudella de Sant Antoni
+
+**Usuari:** D'on surt la tradició de repartir escudella per Sant Antoni a
+Andorra la Vella?
+
+**Maia:** El dia de Sant Antoni ja hi havia el costum de repartir menjar als
+més pobres de la parròquia. La celebració actual es va recuperar a principis
+dels anys setanta, quan uns amics de l'avinguda Meritxell van oferir escudella i
+carn d'olla als veïns.
+
+**Usuari:** I per què els organitzadors es diuen els Tons?
+
+**Maia:** «Tons» és una manera de dir Antons: els que celebren el sant. Els qui
+cuinen i reparteixen l'escudella són els escudellaires.
