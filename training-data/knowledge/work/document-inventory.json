@@ -9,7 +9,7 @@
   "file_count": 1477,
   "article_count": 1348,
   "parse_error_count": 0,
-  "conversation_count": 11,
+  "conversation_count": 12,
   "file_status_totals": {
     "complete": 0,
     "excluded_rights": 0,
@@ -1392,13 +1392,14 @@
       "topic": "temes/cultura/museus-i-arxius",
       "source": "jurisprudencia-ad",
       "status": "in_progress",
-      "conversation_count": 11,
+      "conversation_count": 12,
       "conversation_ids": [
         "diposit-legal-consulta-material-digital-001",
         "diposit-legal-editor-andorra-domini-ad-001",
         "diposit-legal-exclusions-online-001",
         "diposit-legal-exemplars-tirada-petita-001",
         "diposit-legal-publicacio-en-linia-sense-numero-001",
+        "diposit-legal-publicacio-mixta-exemplars-001",
         "diposit-legal-radio-periodica-i-custodia-001",
         "diposit-legal-rastreig-web-i-frequencia-001",
         "diposit-legal-retard-i-sancio-001",
@@ -1418,7 +1419,8 @@
         "Decret 100/2026, article 6: web crawling for freely accessible online publications; site-holder cooperation; Library selection and capture frequency.",
         "Decret 100/2026, article 7: restricted-access and subscription websites; requested credentials; keeping access information current and access permanent.",
         "Llei 15/2025, articles 30-31: late delivery is a minor offense; fines; repeat offenses; paying a fine does not remove the deposit obligation.",
-        "Llei 15/2025, article 22: Andorran editor/resident and .ad domain as independent inclusion criteria."
+        "Llei 15/2025, article 22: Andorran editor/resident and .ad domain as independent inclusion criteria.",
+        "Llei 15/2025, article 12: same copy count for every part of a mixed publication, based on the part requiring the largest number."
       ],
       "open_units": [
         "Finish reviewing the remaining physical deposit categories and special formats, periodicals, film/television/radio, and linked regulations.",
