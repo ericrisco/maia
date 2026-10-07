@@ -186,12 +186,19 @@
       "title": "Les festes de l'ossa",
       "type": "article",
       "topic": "temes/costums/danses",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 59,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0028",
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0029",
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0030",
+        "docs/temes/costums/danses/les-festes-de-lossa.md#unit-0031"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 59,
-      "conversation_ids": []
+      "open_unit_count": 55,
+      "conversation_ids": [
+        "festes-ossa-que-perviuen-calendari-001"
+      ]
     },
     "docs/temes/costums/falles/falles-index-de-fitxes.md": {
       "title": "Falles — índex de fitxes",
