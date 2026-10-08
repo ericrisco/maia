@@ -1,3 +1,3 @@
-# Exportacions de Language
+# Exportacions
 
-Encara no hi ha registres aprovats. Les exportacions només es crearan quan les fonts, les transcripcions i les autoritzacions hagin passat revisió.
+Encara no hi ha dades. Maia Language es mantindrà separat de Maia Knowledge.

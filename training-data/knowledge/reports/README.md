@@ -1,3 +1,3 @@
-# Informes de Knowledge
+# Informes
 
-S'hi publicaran cobertura, qualitat, drets i exclusions quan comenci el processament exhaustiu. Les mostres actuals no compten com a cobertura.
+Els informes de cobertura i qualitat es crearan quan comenci la revisió exhaustiva del corpus.

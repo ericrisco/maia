@@ -1,3 +1,3 @@
-# Informes de Language
+# Informes
 
-S'hi documentaran peces revisades, fragments inclosos i exclosos, motius, drets i estat de validació humana.
+Els informes d'inclusió, exclusió, qualitat i cobertura es crearan quan s'inspeccionin les peces de parla.

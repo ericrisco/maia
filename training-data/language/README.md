@@ -1,5 +1,5 @@
 # Maia Language
 
-Flux separat per aprendre trets del català andorrà contemporani a partir de parla humana autèntica. Només s'hi incorporaran materials que compleixin els criteris de fiabilitat, consentiment i drets del corpus.
+Objectiu separat de Knowledge: conservar trets del català andorrà contemporani a partir de parla humana autèntica.
 
-No s'hi inventen diàlegs ni s'hi copien les respostes redactades de Maia Knowledge. Encara no hi ha registres aprovats.
+No hi ha mostres ni exportacions en aquesta carpeta encara. Només s'hi afegirà material de `docs/parla/` quan la veu sigui originària, contemporània i apte per a llengua; els drets i el consentiment estiguin comprovats; i l'àudio i la transcripció s'hagin revisat. No es generaran diàlegs artificials per augmentar el volum.
