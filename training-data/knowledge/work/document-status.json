@@ -14151,16 +14151,19 @@
         "docs/temes/politica/sistema-electoral/el-financament-dels-partits.md#unit-0032",
         "docs/temes/politica/sistema-electoral/el-financament-dels-partits.md#unit-0035",
         "docs/temes/politica/sistema-electoral/el-financament-dels-partits.md#unit-0036",
+        "docs/temes/politica/sistema-electoral/el-financament-dels-partits.md#unit-0038",
+        "docs/temes/politica/sistema-electoral/el-financament-dels-partits.md#unit-0039",
         "docs/temes/politica/sistema-electoral/el-financament-dels-partits.md#unit-0040"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 123,
+      "open_unit_count": 121,
       "conversation_ids": [
         "aportacions-indirectes-i-activitat-mercantil-partits-001",
         "despesa-electoral-topalls-i-reemborsament-001",
         "donacions-partits-empreses-i-contractacio-publica-001",
         "financament-internacional-partits-i-candidatures-001",
         "quotes-carrecs-publics-limit-i-control-001",
+        "subvencio-campanya-vots-escons-i-cost-real-001",
         "subvencio-representacio-partits-escons-i-independents-001"
       ]
     },
