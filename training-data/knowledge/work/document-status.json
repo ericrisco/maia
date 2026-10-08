@@ -887,14 +887,23 @@
         "docs/temes/cultura/llegendes/el-minairo.md#unit-0014",
         "docs/temes/cultura/llegendes/el-minairo.md#unit-0015",
         "docs/temes/cultura/llegendes/el-minairo.md#unit-0016",
-        "docs/temes/cultura/llegendes/el-minairo.md#unit-0017"
+        "docs/temes/cultura/llegendes/el-minairo.md#unit-0017",
+        "docs/temes/cultura/llegendes/el-minairo.md#unit-0020",
+        "docs/temes/cultura/llegendes/el-minairo.md#unit-0021",
+        "docs/temes/cultura/llegendes/el-minairo.md#unit-0022",
+        "docs/temes/cultura/llegendes/el-minairo.md#unit-0023",
+        "docs/temes/cultura/llegendes/el-minairo.md#unit-0024",
+        "docs/temes/cultura/llegendes/el-minairo.md#unit-0025",
+        "docs/temes/cultura/llegendes/el-minairo.md#unit-0026",
+        "docs/temes/cultura/llegendes/el-minairo.md#unit-0027"
       ],
       "excluded_unit_count": 12,
-      "open_unit_count": 18,
+      "open_unit_count": 10,
       "conversation_ids": [
         "minairons-fortunes-cases-pirinenques-001",
         "minairons-herba-i-cano-001",
-        "minairons-llegenda-origen-tarteres-001"
+        "minairons-llegenda-origen-tarteres-001",
+        "minairons-variants-regionals-i-noms-equivalents-001"
       ]
     },
     "docs/temes/cultura/llegendes/el-roc-de-les-bruixes.md": {
