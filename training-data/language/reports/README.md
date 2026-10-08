@@ -1,3 +1,3 @@
 # Informes de Maia Language
 
-Informes de peces examinades, incloses i excloses, fragments verificats, drets i riscos de filtració entre splits.
+`source-audit.md` resumeix els termes d’ús documentats, les incidències estructurals de transcripció i la revisió d’identitat lingüística pendent. S’hi afegiran els informes de peces examinades, incloses i excloses, fragments verificats i splits.
