@@ -775,6 +775,7 @@
         "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0002",
         "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0003",
         "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0006",
+        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0007",
         "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0008",
         "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0011",
         "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0012",
@@ -789,7 +790,7 @@
         "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0026"
       ],
       "excluded_unit_count": 6,
-      "open_unit_count": 11,
+      "open_unit_count": 10,
       "conversation_ids": [
         "caee-edifici-i-collections-permanents-001",
         "josep-viladomat-origen-i-formacio-001",
@@ -797,6 +798,7 @@
         "viladomat-ball-morisca-casa-vall-001",
         "viladomat-monument-benlloch-i-casa-vall-001",
         "viladomat-obres-centre-art-i-museus-001",
+        "viladomat-puntaire-barcelona-i-obra-andorra-001",
         "viladomat-republica-i-estatua-franco-001"
       ]
     },
