@@ -7638,11 +7638,14 @@
       "covered_unit_ids": [
         "docs/temes/historia/manual-digest/els-costumaris-andorrans.md#unit-0003",
         "docs/temes/historia/manual-digest/els-costumaris-andorrans.md#unit-0006",
-        "docs/temes/historia/manual-digest/els-costumaris-andorrans.md#unit-0009"
+        "docs/temes/historia/manual-digest/els-costumaris-andorrans.md#unit-0009",
+        "docs/temes/historia/manual-digest/els-costumaris-andorrans.md#unit-0021",
+        "docs/temes/historia/manual-digest/els-costumaris-andorrans.md#unit-0022"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 69,
+      "open_unit_count": 67,
       "conversation_ids": [
+        "anton-picart-batlle-i-memories-001",
         "costumaris-instructa-batlles-copies-001"
       ]
     },
