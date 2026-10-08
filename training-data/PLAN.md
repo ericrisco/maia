@@ -33,7 +33,7 @@ Les preguntes «Què explica aquesta secció?» o «Què indica aquesta fila?» 
 ## Cicle de treball
 
 1. **Calibrar:** revisar les mostres de `knowledge/examples/` i acordar veu, extensió i estil de seguiment.
-2. **Inventariar:** recórrer tots els documents de `docs/temes/` i `docs/parla/`; marcar cada unitat com pendent, coberta o exclosa amb motiu.
+2. **Parsejar i inventariar:** llegir totes les fitxes Markdown i el frontmatter. Preservar en ordre els títols, paràgrafs, llistes, taules, files, cites, enllaços i marques d’incertesa. Comptar documents, seccions, taules, files, enllaços i errors. Mantenir inventaris separats de `docs/temes/` i `docs/parla/`; cada fitxer queda pendent, cobert o exclòs amb motiu.
 3. **Crear per tema:** llegir la font completa, anotar els fets verificables i redactar converses només quan hi hagi una pregunta humana plausible.
 4. **Revisar:** comprovar naturalitat, resposta completa, exactitud, seguiments i procedència. Registrar drets abans d'exportar.
 5. **Ampliar:** avançar tema a tema, sense quotes artificials ni paraphrases repetides. Revisar les noves mostres abans de generar-ne més.

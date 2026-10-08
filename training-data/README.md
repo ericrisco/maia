@@ -12,11 +12,12 @@ La carpeta `knowledge/examples/` conté quatre mostres per revisar el to i el di
 ## Estructura
 
 - `PLAN.md`: criteris i passos de treball.
-- `scripts/inventory.py`: reconstrueix els inventaris a partir de tots els Markdown del corpus.
+- `scripts/inventory.py`: reconstrueix els inventaris a partir de tots els Markdown del corpus i conserva l’estat de revisió existent.
+- `scripts/parse_corpus.py`: llegeix les fitxes Knowledge en blocs semàntics i genera un informe de cobertura.
 - `knowledge/examples/`: mostres editorials i procedència.
 - `knowledge/work/`: inventari de cobertura i feina pendent.
 - `knowledge/output/`: reservat per a exports aprovats.
 - `language/work/`: inventari i revisió de peces de parla.
 - `language/output/`: reservat per a fragments elegibles i splits.
 
-Knowledge i Language no es barregen. Vegeu els README de cada àrea abans d'afegir registres.
+Knowledge i Language no es barregen. Vegeu els README de cada àrea abans d'afegir registres. Els comandaments de regeneració i validació són a [`scripts/README.md`](scripts/README.md).
