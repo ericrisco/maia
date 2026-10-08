@@ -7636,14 +7636,16 @@
         "docs/temes/historia/manual-digest/el-politar.md#unit-0051",
         "docs/temes/historia/manual-digest/el-politar.md#unit-0053",
         "docs/temes/historia/manual-digest/el-politar.md#unit-0054",
-        "docs/temes/historia/manual-digest/el-politar.md#unit-0057"
+        "docs/temes/historia/manual-digest/el-politar.md#unit-0057",
+        "docs/temes/historia/manual-digest/el-politar.md#unit-0058"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 84,
+      "open_unit_count": 83,
       "conversation_ids": [
         "politar-batlles-saigs-mateixa-funcio-001",
         "politar-capitans-deseners-captura-delinqüents-001",
         "politar-capitans-deseners-repartiment-i-nomenament-001",
+        "politar-escorcolls-iniciativa-i-moderacio-001",
         "politar-jurisdiccio-veguers-i-pariatges-001",
         "politar-nomenament-batlles-cisena-incompatibilitats-001"
       ]
