@@ -8,9 +8,10 @@ Consulteu el [pla general](../PLAN.md) i els [exemples de
 calibratge](review/EXEMPLES.md). Aquests exemples no són dades d'entrenament.
 Les converses candidates i la procedència s'afegiran a `review/` després
 d'aprovar el criteri. No hi ha cap exportació Knowledge aprovada en aquest
-moment. El fitxer `review/conversations.jsonl` conté registres d'un lot
-anterior; no es consideren aprovats amb el criteri nou fins que no es revisin
-un per un.
+moment. Les 89 primeres línies de `review/conversations.jsonl` pertanyen a un
+lot anterior i no es consideren aprovades amb el criteri nou fins que no es
+revisin una per una. Les línies afegides després es revisen i s'aproven
+individualment amb la seva procedència.
 
 No poseu IDs, fonts, notes editorials ni estats interns dins dels missatges.
 Guardeu la procedència en un fitxer separat per poder auditar cada afirmació.

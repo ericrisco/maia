@@ -12,7 +12,8 @@ Knowledge](knowledge/review/EXEMPLES.md) serveixen per calibrar l'estil; no
 són registres d'entrenament. Les preguntes parteixen d'un dubte humà i els
 seguiments mantenen el fil sense allargar-lo per obligació.
 
-Encara no s'ha aprovat cap nou lot de converses Knowledge després d'aquest
-canvi de criteri. `knowledge/review/conversations.jsonl` conserva el lot antic,
-que s'ha de revisar registre per registre abans de reutilitzar-lo. Els exemples
-són editorials; no s'exporten a `output/`.
+Les 89 primeres converses de `knowledge/review/conversations.jsonl` són del lot
+antic i s'han de revisar registre per registre abans de reutilitzar-les. Les
+converses afegides després s'aproven individualment amb procedència. Encara no
+hi ha cap exportació Knowledge final. Els exemples són editorials i no
+s'exporten a `output/`.
