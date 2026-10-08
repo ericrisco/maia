@@ -1,10 +1,10 @@
 # Maia Training Data
 
-Aquest espai prepara dos conjunts separats a partir de `docs/`.
+Aquí preparem dos conjunts separats a partir de `docs/`.
 
-- **Knowledge** ensenya a respondre dubtes sobre Andorra amb informació documentada.
-- **Language** conserva trets del català andorrà contemporani a partir de parla humana autèntica i autoritzada.
+- **Knowledge** ensenya a respondre dubtes documentats sobre Andorra.
+- **Language** conserva trets de parla humana andorrana contemporània.
 
-`knowledge/review/conversations.jsonl` combina mostres editorials i converses revisades; `knowledge/review/provenance.jsonl` n'indica l'estat. Encara no és una exportació per entrenar: `output/` continuarà buit fins que la cobertura del corpus, els drets, la deduplicació i els splits estiguin revisats.
+Ara mateix, `knowledge/review/conversations.jsonl` conté només tres mostres editorials per fixar l'estil. No són registres aprovats per entrenar. `output/` és intencionadament buit. Les fonts, drets i notes de les mostres són a `knowledge/review/provenance.jsonl`.
 
-El criteri de naturalitat és a [`knowledge/review/EXEMPLES.md`](knowledge/review/EXEMPLES.md). Vegeu [`PLAN.md`](PLAN.md) per al mètode i les fases.
+Abans d'afegir registres nous, llegiu [`PLAN.md`](PLAN.md) i la guia [`knowledge/review/EXEMPLES.md`](knowledge/review/EXEMPLES.md). La regla clau: la pregunta ha de sonar com un dubte que una persona faria sense tenir una fitxa al davant; el seguiment ha de néixer de la resposta.

@@ -1,5 +1,7 @@
 # Maia Knowledge
 
-Converses basades en el coneixement sobre Andorra de `docs/temes/`. Les preguntes han de semblar dubtes espontanis d'una persona, no instruccions per resumir documents.
+Conjunt de converses que ensenya a respondre dubtes sobre Andorra amb informació de `docs/temes/`.
 
-`review/conversations.jsonl` pot contenir mostres editorials i registres revisats. Consulta l'estat de cada conversa i les seves fonts a `review/provenance.jsonl`. Les converses revisades encara no formen una exportació completa: `output/` queda buit fins que es comprovin cobertura, drets, deduplicació i separació dels splits.
+El directori `review/` és la zona editorial. En aquesta etapa conté només tres mostres de calibratge; no són dades d'entrenament. Cada conversa ha de tenir una pregunta inicial natural, una resposta directa i només els seguiments que tinguin sentit. La procedència i els drets es registren a banda dels missatges.
+
+No exporteu dades a `output/` fins que l'estil estigui aprovat i la cobertura, els drets i els duplicats s'hagin revisat. Consulteu `../PLAN.md` i `review/EXEMPLES.md`.

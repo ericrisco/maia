@@ -1,67 +1,68 @@
-# Guia editorial i exemples de Maia Knowledge
+# Mostres de calibratge: Maia Knowledge
 
-Aquesta guia fixa com ha de sonar una conversa abans d'afegir registres. Les converses de `conversations.jsonl` són candidates; l'estat i la procedència de cadascuna es consulten a `provenance.jsonl`.
+Aquestes converses serveixen per decidir l'estil abans de crear més registres. No són exemples d'una plantilla que cal omplir, ni dades aprovades per entrenar.
 
-## La prova principal
+## Com reconèixer una bona pregunta
 
-Amaga el nom de la fitxa i llegeix només els missatges. Si la pregunta sembla una consigna d'examen, si pressuposa que l'usuari té un article al davant, o si el seguiment només serveix per allargar el diàleg, no passa.
+- Podria fer-la algú que no ha obert cap article?
+- Expressa un dubte concret amb paraules normals?
+- Té context només quan ajuda a entendre la pregunta?
+- El seguiment és una curiositat nova que neix de la resposta?
 
-Una pregunta humana sol néixer d'una cosa que la persona ha vist, sentit o vol aclarir. Pot contenir una confusió. No cal fer veure que coneixem la vida de qui pregunta.
+Evitem preguntes com «Què explica la secció X?», «Què indica aquesta fila?» o «Resumeix-me aquesta fitxa». També evitem fabricar una situació personal només per disfressar una pregunta d'examen.
 
-## Conversa útil: una confusió que surt d'un programa
+## Mostra 1: aclarir dues coses que es confonen
 
 ```text
-Usuari: He vist la Passa i la Marratxa al programa de dilluns. Són les dues danses?
-Assistent: No. La Marratxa és una dansa; la Passa és una cercavila de parelles de fadrins. Les parelles que es casaran aquell any van al davant i la resta segueix per edat.
-Usuari: I la Passa no té passos de ball?
-Assistent: La descripció disponible la presenta com una cercavila, no com una dansa, i no descriu passos de ball. Tampoc concreta si hi ha música o moviments ritualitzats durant el recorregut.
+Usuari: Quina diferència hi ha entre la Passa i la Marratxa? Sempre les confonc.
+Assistent: La Marratxa és una dansa; la Passa és una cercavila de parelles de fadrins. A la Passa, les parelles que es casaran aquell any van al davant i la resta se situa per edat.
+Usuari: I totes dues es fan el dilluns de la festa major?
+Assistent: Sí. La Passa es fa al migdia del dilluns, i la Marratxa també es balla aquell dilluns. La informació disponible no concreta l'hora de la Marratxa.
+Usuari: Els «majors fadrins» són els que es casen aquell any, doncs?
+Assistent: Exacte: així s'anomenen les parelles que es casaran durant l'any i que obren la Passa. No consta si també organitzen la festa.
 ```
 
-La pregunta neix d'una confusió plausible entre dos actes del mateix programa. La resposta separa els actes i no inventa coreografia.
-
-## Conversa útil: una discrepància que no s'ha de tapar
+## Mostra 2: no resoldre una discrepància a la força
 
 ```text
-Usuari: He sentit que la Marratxa commemora el Pareatge, però trobo el 7 i el 8 de setembre. Quina data és la bona?
-Assistent: Les fonts recollides no coincideixen: la tradició de la Marratxa la situa el 7 de setembre de 1278, i la fitxa del Pareatge data la signatura a Lleida el 8 de setembre. La discrepància no està resolta.
-Usuari: Així, tampoc no sabem segur que la dansa es ballés després de signar-lo?
-Assistent: Exacte. La primera ballada forma part del relat tradicional, però la documentació consultada no la prova com a fet històric.
+Usuari: La Marratxa commemora el Pareatge? Em ballen les dates: he trobat el 7 i el 8 de setembre.
+Assistent: Segons la tradició de la dansa, la primera ballada va ser el 7 de setembre de 1278. La fitxa del Pareatge situa la signatura a Lleida el dia 8. Les dues dates no quadren i la discrepància continua oberta.
+Usuari: Podria ser que la dansa es ballés la vigília?
+Assistent: És una possibilitat, però les fonts disponibles no ho demostren. El que podem dir és que la Marratxa s'associa tradicionalment amb el Pareatge; no podem presentar la primera ballada com un fet verificat.
 ```
 
-La resposta distingeix tradició i fet documentat. No tria una data per fer desaparèixer la discrepància.
-
-## Conversa útil: una inferència que va massa lluny
+## Mostra 3: respondre amb el límit de la font
 
 ```text
-Usuari: M'han dit que a la Passa les parelles que es casen aquell any van al davant. I la resta com s'ordena?
-Assistent: La resta va darrere, de més grans a més joves. Les parelles que es casen aquell any s'anomenen «majors fadrins» i obren la cercavila.
-Usuari: Aleshores els majors fadrins organitzen la festa?
-Assistent: No ho podem assegurar. La informació disponible deixa aquesta qüestió oberta i no documenta quines funcions tenen durant la festa.
+Usuari: A la Passa, com decideixen qui forma parella amb qui?
+Assistent: La informació disponible no ho explica. Sí que descriu l'ordre de la cercavila: les parelles que es casaran aquell any van al davant, i la resta va darrere de més grans a més joves.
+Usuari: I si algú no té parella?
+Assistent: Això tampoc no hi consta. No seria correcte deduir com ho resolen només a partir de l'ordre de la cercavila.
 ```
 
-La resposta corregeix la inferència sense presentar una hipòtesi com a fet.
-
-## Conversa que rebutgem
+## Mostres que rebutgem
 
 ```text
-Usuari: Què explica la secció «Què és» de la fitxa «La Passa»?
-Assistent: És una cercavila de parelles de fadrins.
+Usuari: Què explica la secció «Quan es balla» de la fitxa «La Marratxa»?
+Assistent: Es balla el dilluns.
+```
+
+La pregunta depèn d'una fitxa que l'usuari no ha dit que tingui. La resposta és telegràfica i ha perdut la dada útil: dilluns de la festa major de Sant Julià de Lòria.
+
+```text
+Usuari: La Passa és una dansa?
+Assistent: No.
 Usuari: I què més?
-Assistent: Van ordenats per edat.
+Assistent: És una cercavila.
 ```
 
-Aquesta forma exigeix conèixer la fitxa, la primera resposta queda curta i el seguiment no té una curiositat concreta.
+El seguiment existeix només per dividir una resposta que hauria de ser completa des del principi.
 
-## Llista de control abans d'aprovar
+## Revisió de cada conversa
 
-- La pregunta inicial s'entén sense títol, secció ni ID de font.
-- El dubte sembla una cosa que algú voldria aclarir en una conversa normal.
-- La resposta contesta primer i afegeix només el context que ajuda.
-- Cada seguiment neix del torn anterior i aporta alguna cosa nova.
-- Cap torn no repeteix la mateixa dada amb paraules diferents.
-- Les premisses falses es corregeixen amb tacte.
-- Les dades, dates i límits coincideixen amb les fonts.
-- Les fonts i drets permeten l'ús previst, i això consta a `provenance.jsonl`.
-- Llegida sense metadades, la conversa no sembla una fitxa transformada en qüestionari.
-
-Una conversa que no passa un punt es reescriu o es descarta. No es compensa una pregunta artificial amb una resposta correcta.
+1. Llegeix només els missatges, sense títol de font ni metadades.
+2. Comprova que la pregunta inicial sembli espontània i s'entengui sola.
+3. Comprova que cada resposta resolgui primer el dubte i que cap torn no es limiti a repetir.
+4. Contrasta cada dada amb la font i conserva les incerteses.
+5. Registra font, drets, afirmacions i estat de revisió a `provenance.jsonl`.
+6. Si la conversa sembla un examen, una fitxa o una entrevista fabricada, reescriu-la o descarta-la.
