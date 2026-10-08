@@ -12,7 +12,19 @@ Les converses de [`../examples/conversations.jsonl`](../examples/conversations.j
 6. **Comprova cada afirmació a les fonts.** Desa'n el camí, la llicència, el permís, les condicions d'atribució i els límits a `provenance.jsonl`.
 7. **Actualitza la cobertura concreta.** Marca només els fets i parts del document que la conversa realment tracta.
 
-La conversa ha de ser multitorn quan hi ha una repregunta natural. No s'afegeix un torn artificial per assolir una llargada fixa. Evita començar totes les preguntes amb la mateixa fórmula.
+Cada registre ha de ser multitorn i contenir com a mínim dues preguntes de l'usuari. La segona pregunta ha de sortir de la primera resposta i demanar una cosa nova. Si el tema no permet una repregunta natural, no s'afegeix un «i això?» de farciment: es busca una altra conversa que sí que sostingui el format.
+
+## Prova de lectura sense la fitxa
+
+Llegeix només els missatges i pregunta't:
+
+- La primera pregunta la faria algú que no sap com està organitzat el corpus?
+- La primera resposta ja resol el dubte, sense obligar a esperar el torn següent?
+- El seguiment s'entén pel que s'acaba de dir i aporta una resposta nova?
+- Es distingeix què és documentat, què és una tradició i què no se sap?
+- La conversa sona natural dita en veu alta, sense frases de fitxa ni llistes penjades?
+
+Si falla una resposta, reescriu el torn sencer. No tapis una resposta incompleta amb una repregunta.
 
 ## Dos patrons de reescriptura
 
@@ -23,6 +35,10 @@ La conversa ha de ser multitorn quan hi ha una repregunta natural. No s'afegeix 
 **No passa:** «I dos topònims que en surten:» És un fragment que no respon una pregunta.
 
 **Millor:** explicar quins topònims són i per què importen, o dir clarament que les fonts no expliquen la relació.
+
+**No passa:** «Tres coses que el corpus registra per separat:» Anuncia una llista, parla del procés intern i no respon el dubte de la persona.
+
+**Millor:** dir directament què resol el decret, distingir els dos tipus d'interès i explicar què continua sense saber-se.
 
 ## Dades i drets
 

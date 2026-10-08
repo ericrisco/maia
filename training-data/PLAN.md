@@ -13,7 +13,7 @@ Cada conversa parteix d'un dubte que algú podria tenir sense conèixer les fitx
 
 Les repreguntes segueixen el mateix fil: poden aclarir una paraula, preguntar «i això encara es fa?», explorar una conseqüència o comprovar una dada sorprenent. No serveixen per anar recollint una dada diferent de cada paràgraf. Les preguntes curtes són bones quan el context ja és a la conversa.
 
-La conversa acostuma a tenir dos o tres torns d'usuari. No s'allarga per complir una quota. Cada resposta ha de ser completa, directa i natural llegida en veu alta; pot referir-se al que s'acaba de dir, però no pot quedar en un fragment incomprensible fora de context.
+Cada registre és una conversa multitorn: té almenys dos torns d'usuari. El seguiment ha de néixer de la resposta anterior i obrir un pas nou del mateix dubte. Si no surt cap repregunta natural, no s'inventa per omplir una quota: es busca un altre angle o s'ajorna el registre. Cada resposta resol el torn completament i sona natural llegida en veu alta. Pot fer servir el context de la conversa, però mai queda com un fragment que només s'entén llegint la fitxa.
 
 ### Angles que poden donar preguntes humanes
 
@@ -37,6 +37,19 @@ Són idees per inspirar-se, no plantilles. Cal variar la manera d'entrar al tema
 - Corregeix premisses errònies amb naturalitat i sense renyar.
 - No mencionis fitxes, seccions, IDs, estats interns ni procedència dins del diàleg.
 
+## Porta de qualitat abans d'afegir una conversa
+
+Una conversa només entra a `knowledge/review/conversations.jsonl` quan passa tots aquests controls:
+
+1. **Pregunta inicial humana**: planteja una curiositat, una decisió pràctica o una confusió plausible; no demana explicar una secció, una fitxa, una fila o un fragment.
+2. **Resposta resolutiva**: la primera frase respon el dubte. La resposta dona el context imprescindible i es pot llegir sola com a resposta a aquell torn.
+3. **Seguiment real**: hi ha almenys una repregunta amb referents clars, informació nova i continuïtat. No és una pregunta de comprovació afegida mecànicament.
+4. **Diàleg autònom**: una persona que no ha vist el corpus entén de què parlen. No apareixen expressions com «la fitxa diu», «a la secció», «el corpus registra» ni instruccions editorials.
+5. **Fets i límits**: cada afirmació està coberta per les fonts. Tradició, interpretació, dada històrica i fet verificat no es confonen; els buits es diuen clarament.
+6. **Drets i utilitat**: la procedència queda registrada. Si la reutilització per entrenar està prohibida o pendent, la conversa pot servir per calibratge intern però no es promou a l'export.
+
+Una pregunta sintàcticament correcta no passa si sona a qüestionari sobre el document. Una resposta que comença «I dos topònims que en surten:» o «Tres coses que el corpus registra per separat:» no és una resposta completa i s'ha de reescriure, no retocar només al final.
+
 ## Flux de creació i revisió
 
 1. Tria un tema i llegeix la fitxa sencera, les fonts citades i les notes de drets.
@@ -44,7 +57,7 @@ Són idees per inspirar-se, no plantilles. Cal variar la manera d'entrar al tema
 3. Afegeix només seguiments que una persona faria després d'escoltar la resposta.
 4. Fes una lectura cega: sense mirar les fonts, comprova que el diàleg flueix i que cada resposta és clara.
 5. Verifica cada afirmació i cada límit contra les fonts. Registra font, llicència, atribució i condicions a `provenance.jsonl`.
-6. Desa converses candidates a `knowledge/review/`. Mantén els exemples de calibratge separats.
+6. Desa a `knowledge/review/` només les converses que hagin passat la porta de qualitat. Mantén els exemples de calibratge separats i exclosos de l'entrenament.
 7. Actualitza la cobertura només per als fets realment resolts. Deduplica i revisa drets abans d'exportar.
 8. Quan hi hagi prou material, agrupa converses relacionades abans de crear train/validation/test per evitar que reformulacions similars caiguin en splits diferents.
 
