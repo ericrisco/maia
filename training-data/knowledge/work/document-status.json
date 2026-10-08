@@ -3027,10 +3027,12 @@
         "docs/temes/esports/competicio/andorra-als-jocs-olimpics.md#unit-0026",
         "docs/temes/esports/competicio/andorra-als-jocs-olimpics.md#unit-0041",
         "docs/temes/esports/competicio/andorra-als-jocs-olimpics.md#unit-0044",
-        "docs/temes/esports/competicio/andorra-als-jocs-olimpics.md#unit-0051"
+        "docs/temes/esports/competicio/andorra-als-jocs-olimpics.md#unit-0051",
+        "docs/temes/esports/competicio/andorra-als-jocs-olimpics.md#unit-0060",
+        "docs/temes/esports/competicio/andorra-als-jocs-olimpics.md#unit-0061"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 221,
+      "open_unit_count": 219,
       "conversation_ids": [
         "andorra-debut-olimpic-estiu-hivern-continuat-001",
         "andorra-medalla-olimpica-monica-doria-001",
@@ -3038,7 +3040,8 @@
         "delegacio-estiu-evolucio-i-causa-desconeguda-001",
         "delegacio-hivern-milano-cortina-2026-001",
         "delegacions-olimpiques-estiu-barcelona-atlanta-paris-001",
-        "esports-olimpics-estiu-i-fons-hivern-001"
+        "esports-olimpics-estiu-i-fons-hivern-001",
+        "joan-montane-boxa-montreal-1976-001"
       ]
     },
     "docs/temes/esports/competicio/andorra-als-jocs-paralimpics.md": {
