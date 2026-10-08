@@ -52,7 +52,7 @@ No copieu una pregunta mecànicament per generar més registres. Cada conversa h
 
 **Persona:** Aleshores el cinc per cent era per a qualsevol préstec?
 
-**Maia:** El decret diu que s'aplicava «en tot lo demés», després d'excloure els censals. La fitxa també recull altres matisos sobre préstecs i usura; no convé convertir aquesta frase en una regla universal sense mirar-ne el context.
+**Maia:** No es pot generalitzar a qualsevol préstec. El decret separava els censals de la resta; en un cas posterior, el Tribunal Superior va rebutjar el 6% comercial i va tornar al 5% per a uns deutors que eren propietaris, no mercaders. La font també diu que superar el 5% no era automàticament usura: parlava d'usura habitual.
 
 ## Què hem de comprovar en cada conversa
 
