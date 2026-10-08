@@ -3164,12 +3164,22 @@
       "title": "Cinquanta anys d'esquí olímpic",
       "type": "article",
       "topic": "temes/esports/esqui",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 153,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/esports/esqui/cinquanta-anys-desqui-olimpic.md#unit-0006",
+        "docs/temes/esports/esqui/cinquanta-anys-desqui-olimpic.md#unit-0009",
+        "docs/temes/esports/esqui/cinquanta-anys-desqui-olimpic.md#unit-0012",
+        "docs/temes/esports/esqui/cinquanta-anys-desqui-olimpic.md#unit-0015",
+        "docs/temes/esports/esqui/cinquanta-anys-desqui-olimpic.md#unit-0016",
+        "docs/temes/esports/esqui/cinquanta-anys-desqui-olimpic.md#unit-0017",
+        "docs/temes/esports/esqui/cinquanta-anys-desqui-olimpic.md#unit-0018"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 153,
-      "conversation_ids": []
+      "open_unit_count": 146,
+      "conversation_ids": [
+        "carlos-font-debut-jocs-hivern-1976-001"
+      ]
     },
     "docs/temes/esports/esqui/esqui-index-de-fitxes.md": {
       "title": "Esquí — índex de fitxes",
