@@ -13746,6 +13746,7 @@
         "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0040",
         "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0042",
         "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0045",
+        "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0046",
         "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0048",
         "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0049",
         "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0051",
@@ -13766,7 +13767,7 @@
         "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0071"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 14,
+      "open_unit_count": 13,
       "conversation_ids": [
         "aportacions-privades-partits-limits-i-treball-voluntari-001",
         "consell-general-minim-maxim-constitucio-i-llei-001",
@@ -13776,6 +13777,7 @@
         "empat-eleccions-comunals-repartiment-directe-001",
         "empat-eleccions-parroquials-consell-general-001",
         "grups-electors-suport-opcions-referendum-001",
+        "incompatibilitat-funcio-publica-eleccio-mateixa-administracio-001",
         "llistes-electorals-comuns-actualitzacio-semestral-001",
         "privacio-dret-sufragi-sentencia-ferma-001",
         "publicacio-resultats-consulta-parroquial-i-nacional-001",
