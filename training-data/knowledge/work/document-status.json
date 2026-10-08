@@ -13738,10 +13738,11 @@
         "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0036",
         "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0037",
         "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0038",
-        "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0048"
+        "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0048",
+        "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0049"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 39,
+      "open_unit_count": 38,
       "conversation_ids": [
         "dret-vot-nacionalitat-parroquia-residencia-origen-001",
         "eleccions-comunals-composicio-i-repartiment-escons-001",
@@ -13753,6 +13754,7 @@
         "referendum-reforma-constitucional-resultat-i-blancs-001",
         "referendums-consultiu-i-reforma-convocatoria-pregunta-data-001",
         "repartiment-escons-consell-general-resta-mes-elevada-001",
+        "signatures-presentacio-candidatures-consell-general-001",
         "vot-llista-completa-preferencies-candidats-001"
       ]
     },
