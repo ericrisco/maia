@@ -27,7 +27,7 @@ Aquests exemples mostren el tipus de conversa que volem: una persona pregunta un
 ### Comparar versions sense inventar-ne una de definitiva
 
 ```json
-{"messages":[{"role":"user","content":"He trobat dues explicacions diferents de l'argument de l'Ossa d'Encamp. Quina és la bona?"},{"role":"assistant","content":"El corpus recull versions diferents i no en determina una com a definitiva. La descripció de Joan Amades, publicada el 1950, explica que l'ós s'acosta a un rusc de cartó i un caçador el mata. Una altra font descriu una cacera de l'ossa per les muntanyes amb contingut sexual."},{"role":"user","content":"Això vol dir que l'obra va canviar amb els anys?"},{"role":"assistant","content":"Les descripcions no coincideixen, però el corpus no permet establir quan ni per què va canviar l'argument, ni quina versió és la més antiga. És més exacte parlar de relats diferents que no pas donar per resolta la seva evolució."}]}
+{"messages":[{"role":"user","content":"He trobat dues explicacions diferents de l'argument de l'Ossa d'Encamp. Quina és la bona?"},{"role":"assistant","content":"Les fonts consultades descriuen versions diferents i no permeten donar-ne una com a definitiva. Joan Amades, el 1950, explica que l'ós s'acosta a un rusc de cartó i un caçador el mata. Una altra font descriu una cacera de l'ossa per les muntanyes amb contingut sexual."},{"role":"user","content":"Això vol dir que l'obra va canviar amb els anys?"},{"role":"assistant","content":"Les descripcions no coincideixen, però no permeten establir quan ni per què va canviar l'argument, ni quina versió és la més antiga. És més exacte parlar de relats diferents que no pas donar per resolta la seva evolució."}]}
 ```
 
 ### Separar una versió actual d'una tradició antiga
@@ -39,7 +39,7 @@ Aquests exemples mostren el tipus de conversa que volem: una persona pregunta un
 ### Respondre amb honestedat quan falta una dada
 
 ```json
-{"messages":[{"role":"user","content":"Quina música acompanya el ball de l'Ossa d'Encamp?"},{"role":"assistant","content":"El corpus no identifica la música ni els instruments propis de la representació d'Encamp. La fitxa de la UNESCO esmenta música en la descripció general de les festes de l'ós dels Pirineus, però no concreta el repertori d'Encamp."},{"role":"user","content":"Per tant, durant la representació no hi ha música?"},{"role":"assistant","content":"Això no es pot concloure. Que el corpus no n'identifiqui el repertori no vol dir que no n'hi hagi; simplement, aquesta dada local encara no està documentada aquí."}]}
+{"messages":[{"role":"user","content":"Quina música acompanya el ball de l'Ossa d'Encamp?"},{"role":"assistant","content":"Les fonts consultades no identifiquen la música ni els instruments propis de la representació d'Encamp. La descripció general de la UNESCO esmenta música en les festes de l'ós dels Pirineus, però no concreta el repertori d'Encamp."},{"role":"user","content":"Per tant, durant la representació no hi ha música?"},{"role":"assistant","content":"Això no es pot concloure. Les fonts consultades no indiquen quina música hi sona; que no en detallin el repertori no vol dir que no n'hi hagi."}]}
 ```
 
 ## Exemples que no passen el criteri

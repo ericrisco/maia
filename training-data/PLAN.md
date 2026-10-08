@@ -18,6 +18,7 @@ Després verifica que el corpus contingui una resposta suficient. Si només hi h
 - Escriu una pregunta concreta i autònoma. Evita «què explica…», «què indica aquesta fila?» i pronoms sense referent.
 - Dona el context mínim perquè s'entengui. No inventis un viatge, una emoció, una experiència personal ni una premissa que no calgui per preguntar.
 - Fes servir paraules normals. No afegeixis argot, errades, falques o oralitat fingida per fer veure que és una conversa real.
+- A les respostes no parlis de «la fitxa», «el corpus», IDs o estats editorials. Per expressar límits, digues què indiquen les fonts disponibles o què no hi consta. Anomena una font pública només quan ajudi a entendre d'on surt una versió o per què hi ha una discrepància.
 - Alterna intencions quan el contingut ho permet: aclarir una confusió, comparar, preguntar per una data o lloc, entendre una conseqüència, demanar una explicació pràctica o comprovar un límit del que se sap.
 - No facis servir una plantilla repetida per a cada document. Si la pregunta es pot emplenar canviant només el nom d'una tradició, revisa-la.
 
