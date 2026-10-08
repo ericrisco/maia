@@ -1,78 +1,50 @@
-# Pla: converses de Maia Knowledge que sonen humanes
+# Pla de Maia Training Data
 
 ## Objectiu
 
-Crear converses en català que ensenyin a Maia a respondre dubtes reals sobre Andorra. La unitat de treball és una curiositat humana resolta en conversa, no una secció del corpus convertida en pregunta.
+Preparar converses útils per entrenar un model especialitzat en Andorra. Cada exemple ha de sonar com una conversa que una persona podria tenir i ensenyar una resposta correcta, completa i natural.
 
-## Què fallava en les preguntes anteriors
+No convertim títols, paràgrafs, taules o files en preguntes mecàniques. Primer identifiquem una curiositat humana; després comprovem que el corpus permet respondre-la.
 
-Preguntes com «Què explica aquesta secció?» o «Què indica aquesta fila?» només les faria algú que ja tingués la fitxa al davant. Les respostes com «I dos topònims que en surten:» són fragments, no respostes. Aquest patró ensenya a repetir títols i notes internes, no a ajudar una persona.
+## Per què canviem el mètode
 
-Per evitar-ho, no esmentem fitxes, seccions, taules, files, corpus ni documents dins la conversa. La persona pregunta pel tema directament. Cada resposta resol el que li acaben de preguntar i s'entén tota sola.
+Les preguntes «Què explica aquesta secció?» o «Què indica aquesta fila?» pressuposen que la persona llegeix material editorial. Les respostes fragmentàries com «I dos topònims que en surten:» tampoc resolen cap dubte. Aquests exemples ensenyen a repetir l'estructura de les notes, no a conversar.
 
-## Flux per a cada conversa
+## Criteris per a cada conversa Knowledge
 
-1. **Triar una curiositat concreta.** Abans de redactar, anotar per a ús editorial què vol entendre la persona: una regla, una diferència, una conseqüència, una data o un límit del que se sap.
-2. **Llegir la font sencera i el context.** Comprovar la fitxa de Maia, les fonts originals disponibles i els matisos. No convertir un resum provisional en una certesa.
-3. **Escriure el primer torn com ho preguntaria una persona.** Ha de funcionar sense haver vist cap document. Evitar preguntes que només demanen «què és X?» si la curiositat real és més concreta.
-4. **Respondre de seguida i amb sentit complet.** Donar la informació que resol el dubte i el context mínim que la fa entendre. No començar una llista per deixar-la a mitges.
-5. **Fer conversa, no una pregunta de fitxa.** Cada registre de Knowledge ha de tenir com a mínim dues preguntes d'usuari. El seguiment neix de la resposta anterior i demana una conseqüència, aclareix una distinció o comprova una deducció. Si no hi ha cap seguiment natural que aporti informació nova, no es força: es descarta aquell registre i es tria una curiositat que sí permeti conversa.
-6. **Llegir la conversa sense les fonts.** En veu alta, comprovar si sembla una conversa possible. Si sona com un examen, una consulta a una taula o una transcripció de notes, reescriure-la.
-7. **Registrar la procedència per separat.** Cada afirmació factual ha de poder tornar a una font. Les llicències i condicions de les fonts externes es documenten abans d'incorporar-ne material.
+1. **Curiositat concreta:** què vol entendre una persona i per què ho preguntaria?
+2. **Pregunta autònoma:** s'entén sense haver vist cap fitxa, títol o taula. El context necessari apareix a la pregunta o al torn anterior.
+3. **Resposta directa:** la primera frase resol el dubte; després hi afegeix només el context necessari.
+4. **Seguiment motivat:** cada nou torn neix de la resposta anterior, demana una aclaració, una conseqüència o posa a prova una deducció. No canviem de tema per arribar a més torns.
+5. **Conversació completa:** com a mínim dos torns d'usuari. Si no surt un seguiment útil i natural, no forcem la conversa.
+6. **Límits clars:** distingim fets, relats tradicionals, interpretacions i incerteses. No generalitzem més enllà de la font.
+7. **Procedència separada:** les converses no porten IDs ni notes internes; un fitxer de procedència les vincula amb fonts, afirmacions i situació dels drets.
+8. **Lectura en veu alta:** si sona com un examen, una consulta de base de dades o una nota de recerca, es reescriu.
 
-## Com sonen les preguntes humanes
+## Preguntes a evitar
 
-Poden sortir d'una confusió («No ho acabo d'entendre…»), d'una deducció («Això vol dir que…?»), d'una discrepància («Per què aquí surt un dia i allà un altre?»), d'una comparació o d'una conseqüència pràctica. No cal afegir fórmules col·loquials si no hi encaixen.
+- «Què explica la fitxa/secció?»
+- «Què indica aquesta fila/taula?»
+- «Quins elements hi surten?» sense dir què vol resoldre la persona.
+- «I què més?» si no hi ha un antecedent clar.
+- Preguntes que ja contenen la resposta o exigeixen endevinar un context absent.
+- Seguiments que repeteixen la primera pregunta amb altres paraules.
 
-Una pregunta bona és específica sense dependre de vocabulari editorial. No conté la resposta sencera ni obliga l'assistent a endevinar de quin tema es parla.
+## Cicle de treball
 
-### Patrons que cal rebutjar
+1. **Calibrar:** revisar les mostres de `knowledge/examples/` i acordar veu, extensió i estil de seguiment.
+2. **Inventariar:** recórrer tots els documents de `docs/temes/` i `docs/parla/`; marcar cada unitat com pendent, coberta o exclosa amb motiu.
+3. **Crear per tema:** llegir la font completa, anotar els fets verificables i redactar converses només quan hi hagi una pregunta humana plausible.
+4. **Revisar:** comprovar naturalitat, resposta completa, exactitud, seguiments i procedència. Registrar drets abans d'exportar.
+5. **Ampliar:** avançar tema a tema, sense quotes artificials ni paraphrases repetides. Revisar les noves mostres abans de generar-ne més.
+6. **Exportar Knowledge:** deduplicar i fer splits per tema/font per limitar filtracions. Incloure només registres aprovats i fonts elegibles.
+7. **Preparar Language:** seleccionar fragments humans elegibles, verificar transcripció i drets, conservar la veu real i agrupar splits per peça o parlant.
+8. **Validar i documentar:** comprovar format, contingut, cobertura, procedència, drets i separació entre train/validation/test.
 
-- «Què explica la secció…?», «què indica aquesta fila?» o «què diu la fitxa…?»: pressuposen que la persona està llegint el material de recerca.
-- Preguntes que només demanen repetir un títol, un encapçalament o una etiqueta.
-- Respostes que comencen amb «I dues coses…», dos punts, una llista sense pregunta o un pronom sense antecedent.
-- Segon torn que repeteix el primer amb altres paraules o canvia de tema sense motiu.
-- Col·loquialismes afegits només per fer veure que la pregunta és humana.
+## Format
 
-Abans d'escriure, formula en una línia privada la curiositat: «què vol entendre aquesta persona?». Després redacta la pregunta sense mirar el títol de la fitxa. Si només es pot formular fent referència a la fitxa, busca una altra curiositat o no generis el registre.
+Una línia JSONL per conversa, només amb `messages` i els rols `user` / `assistant`. La procedència va en un fitxer separat. Les mostres d'`examples/` no es copien a cap exportació automàticament.
 
-## Com responen les converses
+## Estat i següent pas
 
-- La primera frase contesta la pregunta.
-- Els fets, els relats tradicionals i les interpretacions es distingeixen amb claredat.
-- Una premissa equivocada es corregeix amb tacte i amb la dada correcta.
-- Si la font no resol una qüestió, s'explica què se sap i què queda obert, sense inventar una resposta plausible.
-- La resposta és completa però proporcionada. No recita tot el document.
-- No acaba amb dos punts, un encapçalament o una promesa de continuar.
-
-## Revisió abans d'acceptar cada registre
-
-- Una persona podria fer la pregunta sense haver llegit Maia?
-- La primera resposta resol el dubte inicial?
-- Cada seguiment té una raó conversacional clara?
-- Hi ha almenys un seguiment natural que aporta informació nova? Si no, el registre es descarta.
-- Cada resposta conté una idea completa i respon al torn immediatament anterior?
-- El fil manté el tema i no repeteix la mateixa pregunta amb altres paraules?
-- Es poden verificar les afirmacions? Es preserven els dubtes reals de la font?
-- Llegit en veu alta, sona com una conversa i no com un examen o una fitxa?
-
-Si alguna resposta és «no», el registre encara és un esborrany.
-
-## Cobertura íntegra del brain
-
-La font de Knowledge és tot `maia/docs/temes/`, no una selecció de temes populars. L'inventari `knowledge/work/coverage.csv` inclou cada fitxer Markdown, també els índexs i documents que acabin justificant-se com a no entrenables. Cap fitxer es considera cobert només perquè n'hàgim llegit el títol.
-
-Per cada article cal revisar les seccions, paràgrafs, llistes, taules i enllaços rellevants. Cada dada o idea entrenable ha de quedar representada en una o més converses; si no s'inclou, l'inventari n'ha de registrar el motiu. El progrés es marca per fitxer i per conversa, amb procedència. Els índexs serveixen per trobar relacions i no per generar preguntes sobre l'índex mateix.
-
-La font de Language és tot `maia/docs/parla/`. `language/work/coverage.csv` enumera totes les peces Markdown; cadascuna s'ha d'avaluar per autenticitat, transcripció, drets i elegibilitat. Una peça pendent no és una peça aprovada. No es generen respostes sintètiques per omplir buits.
-
-La cobertura només es pot donar per acabada quan tots els elements dels dos inventaris tenen estat revisat, inclòs o exclòs amb motiu, i els registres tenen procedència comprovable.
-
-## Fases
-
-1. **Calibratge:** revisar els exemples de `knowledge/review/calibration.jsonl` i ajustar la guia d'estil abans de continuar la cobertura. Aquests exemples són una mostra editorial, no s'afegeixen automàticament a les exportacions.
-2. **Construcció:** avançar tema per tema. Per cada tanda, preparar preguntes, respostes i procedència; després revisar-les abans d'afegir la següent.
-3. **Cobertura:** comparar els registres amb els coneixements de cada font i identificar què falta, sense multiplicar paraphrases.
-4. **Exportació:** només després de revisar exactitud, naturalitat, cobertura, deduplicació i drets de les fonts. Separar train, validation i test per tema o font per reduir filtracions.
-
-La primera tanda és deliberadament petita. No és una afirmació que el corpus estigui cobert ni que l'estil ja estigui tancat.
+Les quatre converses inicials són una prova de disseny, no una cobertura del corpus. El següent pas és revisar-les junts, corregir les que no sonin naturals i acordar el patró abans de produir més registres.

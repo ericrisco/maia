@@ -1,3 +1,3 @@
-# Work files
+# Feina de Knowledge
 
-Inventaris i notes temporals per preparar tandes. No s'entrenen ni s'exporten. Conserva aquí només materials regenerables i documenta'n l'origen.
+Aquí hi haurà l'inventari exhaustiu de `docs/temes/`, amb l'estat de cada document i el motiu de qualsevol exclusió. La cobertura es considerarà completa només quan tots els documents hagin estat revisats.

@@ -1,16 +1,21 @@
 # Maia Training Data
 
-Aquest espai prepararà dos materials diferents:
+Aquest espai prepara dos datasets separats a partir del corpus de Maia:
 
-- **Knowledge**: respostes útils sobre Andorra, basades en `maia/docs/temes/`.
-- **Language**: català andorrà contemporani extret de parla humana a `maia/docs/parla/`.
+- **Knowledge** ensenya a respondre preguntes sobre Andorra amb informació de `maia/docs/temes/`.
+- **Language** conserva usos lingüístics humans de `maia/docs/parla/`; no s'hi inventen veus ni respostes.
 
-No barregem els dos objectius. Les converses Knowledge són exemples de coneixement; Language no inventa ni reescriu veus humanes.
+## Estat actual
 
-## Punt de partida
+La carpeta `knowledge/examples/` conté quatre mostres per revisar el to i el disseny de converses. **No són exports d'entrenament.** Encara no hi ha datasets finals ni particions train/validation/test. La procedència i els drets es mantenen separats dels missatges.
 
-El pla de [Knowledge](PLAN.md) comença amb cinc converses de calibratge a `knowledge/review/calibration.jsonl`. Serveixen per revisar el to i el format abans d'ampliar el conjunt. Les fonts i les afirmacions verificables són a `knowledge/review/calibration-provenance.jsonl`. No s'exporten automàticament.
+## Estructura
 
-Les converses que ja formen part del conjunt de revisió són a `knowledge/review/conversations.jsonl`; la seva procedència és a `knowledge/review/provenance.jsonl`. Encara no hi ha exportacions ni un dataset complet.
+- `PLAN.md`: criteris i passos de treball.
+- `knowledge/examples/`: mostres editorials i procedència.
+- `knowledge/work/`: inventari de cobertura i feina pendent.
+- `knowledge/output/`: reservat per a exports aprovats.
+- `language/work/`: inventari i revisió de peces de parla.
+- `language/output/`: reservat per a fragments elegibles i splits.
 
-Quan l'estil estigui validat, ampliarem el dataset tema per tema i revisarem la cobertura abans de generar cap partició d'entrenament.
+Knowledge i Language no es barregen. Vegeu els README de cada àrea abans d'afegir registres.
