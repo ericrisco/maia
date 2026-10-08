@@ -102,3 +102,7 @@ Treballar en aquest ordre:
 7. Fer splits agrupant per tema o peça, per reduir filtracions entre train, validation i test.
 
 Una línia de JSONL representa una conversa completa. Els fitxers de `output/` només contenen `messages`; cap candidat no hi arriba automàticament.
+
+## Control de canvis del dataset
+
+Cada conversa completa —una línia JSONL amb totes les seves parelles de torns— és una unitat de canvi. En crear-la o corregir-la, valida el registre, crea un commit propi i fes-ne push a `main` abans de passar a la conversa següent. No agrupis diverses converses en un mateix commit.
