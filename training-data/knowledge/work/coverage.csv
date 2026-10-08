@@ -1,7 +1,7 @@
 source_path,title,source_type,status,conversation_ids,exclusion_reason
 docs/temes/costums/calendari-festiu/calendari-festiu-index-de-fitxes.md,Calendari festiu — índex de fitxes,index,excluded,,Índex de navegació sense coneixement propi; les relacions i dades s’han de cobrir a les fitxes enllaçades.
 docs/temes/costums/calendari-festiu/calendari-festiu.md,El calendari festiu,article,partial,knowledge-calendari-festiu-1902-sant-antoni-judicial-01;knowledge-calendari-festiu-1902-fires-estiu-01;knowledge-calendari-festiu-1902-trams-tancament-01;knowledge-calendari-festiu-1902-origen-i-esmena-01;knowledge-calendari-festiu-1902-total-dies-01;knowledge-calendari-festiu-1902-dates-fixes-mobils-01;knowledge-calendari-festiu-anual-vs-estiu-01,
-docs/temes/costums/calendari-festiu/el-carnaval-dencamp.md,El carnaval d'Encamp,article,partial,knowledge-carnaval-encamp-tres-farses-operacio-01;knowledge-carnaval-judicis-encamp-ordino-origins-01;knowledge-carnaval-ossa-argument-encamp-cortinada-01;knowledge-carnaval-ossa-nom-i-ritual-antic-01,
+docs/temes/costums/calendari-festiu/el-carnaval-dencamp.md,El carnaval d'Encamp,article,partial,knowledge-carnaval-encamp-tres-farses-operacio-01;knowledge-carnaval-judicis-encamp-ordino-origins-01;knowledge-carnaval-ossa-argument-encamp-cortinada-01;knowledge-carnaval-ossa-nom-i-ritual-antic-01;knowledge-carnaval-ossa-guio-1959-satira-01,
 docs/temes/costums/caramelles/caramelles-index-de-fitxes.md,Caramelles — índex de fitxes,index,pending,,
 docs/temes/costums/caramelles/les-caramelles.md,Les caramelles,article,pending,,
 docs/temes/costums/costums-d-andorra-index-de-fitxes.md,Costums d'Andorra — índex de fitxes,index,pending,,
@@ -113,7 +113,7 @@ docs/temes/cultura/musica-i-cancons/la-canco-popular-andorrana.md,La cançó pop
 docs/temes/cultura/musica-i-cancons/liaem-i-el-1980.md,L'IAEM i el 1980,article,pending,,
 docs/temes/cultura/musica-i-cancons/musica-i-cancons-index-de-fitxes.md,Música i cançons — índex de fitxes,index,pending,,
 docs/temes/cultura/musica-i-cancons/musica-i-cancons.md,Música i cançons,article,pending,,
-docs/temes/cultura/teatre/el-teatre-de-carnestoltes.md,El teatre de Carnestoltes,article,partial,knowledge-carnaval-judicis-encamp-ordino-origins-01;knowledge-carnaval-ossa-argument-encamp-cortinada-01;knowledge-carnaval-ossa-nom-i-ritual-antic-01,
+docs/temes/cultura/teatre/el-teatre-de-carnestoltes.md,El teatre de Carnestoltes,article,partial,knowledge-carnaval-judicis-encamp-ordino-origins-01;knowledge-carnaval-ossa-argument-encamp-cortinada-01;knowledge-carnaval-ossa-nom-i-ritual-antic-01;knowledge-carnaval-ossa-guio-1959-satira-01,
 docs/temes/cultura/teatre/la-vida-teatral.md,La vida teatral,article,pending,,
 docs/temes/cultura/teatre/teatre-index-de-fitxes.md,Teatre — índex de fitxes,index,pending,,
 docs/temes/economia/banca-i-fiscalitat/a-andorra-si-que-hi-havia-impost.md,"A Andorra sí que hi havia impost, i era sobre la renda",article,pending,,
