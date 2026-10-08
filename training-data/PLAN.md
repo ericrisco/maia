@@ -25,6 +25,22 @@ La pregunta pot ser col·loquial, però no cal inventar una biografia o una
 escena personal. Feu servir expressions normals com «no ho acabo d'entendre»,
 «però llavors…?» o «això vol dir que…?» quan encaixin amb el dubte.
 
+### Senyals de mala pregunta
+
+Rebutgeu o reescriviu qualsevol registre que:
+
+- pregunti «què explica aquesta secció?» o «què indica aquesta fila?»;
+- depengui d'un títol de fitxa, d'un epígraf o d'una taula que la persona no ha
+  vist;
+- sigui una ordre d'extracció disfressada de conversa;
+- es pugui contestar amb un fragment que no resolgui la pregunta;
+- comenci una llista o una explicació i la deixi penjada;
+- afegeixi torns només per arribar a una llargada fixada.
+
+No feu que cada registre sembli una pregunta d'examen. La curiositat pot néixer
+d'una sorpresa, una contradicció, una conseqüència pràctica, una comparació o
+un límit del que se sap.
+
 ## Com escriure una conversa multitorn
 
 1. **Obriu amb el dubte principal.** La primera resposta ha de resoldre'l sense
@@ -74,26 +90,24 @@ Maia no pugui saber què vol aclarir la persona.
 
 ## Flux de producció
 
-0. **Revisar el lot antic.** Les 89 primeres línies de
-   `knowledge/review/conversations.jsonl` són del lot escrit amb el criteri
-   anterior. No s'han de considerar aprovades pel fet de ser-hi. Cada conversa
-   s'ha de tornar a llegir amb aquests criteris; si no passa, es reescriu o
-   s'exclou abans de qualsevol exportació. Les línies afegides després del
-   canvi de criteri es revisen individualment amb la procedència corresponent.
-   Les mostres de `EXEMPLES.md` no substitueixen aquesta revisió.
-1. **Triar una curiositat.** Llegir la fitxa i anotar el dubte humà que pot
+1. **Calibrar l'estil.** Llegir `knowledge/examples/EXEMPLES.md`. Són mostres
+   editorials, no dades d'entrenament ni unitats de cobertura.
+2. **Triar una curiositat.** Llegir la fitxa i anotar el dubte humà que pot
    aclarir. La nota no apareix als missatges.
-2. **Comprovar la font.** Revisar la fitxa, la font original, els drets i els
+3. **Comprovar la font.** Revisar la fitxa, la font original, els drets i els
    límits que el corpus registra.
-3. **Redactar el fil sencer.** Escriure la pregunta inicial, la resposta i els
+4. **Redactar el fil sencer.** Escriure la pregunta inicial, la resposta i els
    seguiments que realment se'n desprenen.
-4. **Revisar cada afirmació.** La procedència queda en un fitxer separat i
+5. **Revisar cada afirmació.** La procedència queda en un fitxer separat i
    permet localitzar les fonts i comprovar els fets.
-5. **Fer lectura cega.** Llegir només els missatges, en veu alta. Si sona com
+6. **Fer lectura cega.** Llegir només els missatges, en veu alta. Si sona com
    una pregunta d'examen o com una fitxa recitada, reescriure-la o descartar-la.
-6. **Afegir registres petits.** Després d'aprovar aquestes mostres, afegir
-   tandes curtes i revisar-les abans de crear-ne més.
-7. **Exportar al final.** No generar `train`, `validation` ni `test` fins que
+7. **Afegir registres petits.** Crear tandes curtes i revisar tots els torns
+   abans de començar la tanda següent.
+8. **Revalidar l'existent.** Cap conversa queda aprovada només perquè ja sigui
+   al fitxer de revisió. Llegir-la amb aquests criteris, reescriure-la,
+   arxivar-la o excloure-la. Mantenir-ne la procedència alineada.
+9. **Exportar al final.** No generar `train`, `validation` ni `test` fins que
    els registres, les fonts, la cobertura i la separació dels conjunts s'hagin
    revisat.
 
@@ -107,6 +121,10 @@ Maia no pugui saber què vol aclarir la persona.
 - Les respostes sonen com una conversa informada, no com una base de dades.
 - Les afirmacions es poden verificar i els límits de la font queden clars.
 - No hi ha preguntes repetides amb paraules diferents ni informació inventada.
+- Llegit sense cap document al davant, el fil sona com una conversa que podria
+  passar entre una persona curiosa i algú que en sap.
+- Cada resposta resol la pregunta del seu torn. No és un títol, un inici de
+  frase ni un fragment que només té sentit dins la fitxa.
 
 ## Estructura
 
@@ -116,9 +134,13 @@ training-data/
 ├── PLAN.md
 ├── knowledge/
 │   ├── README.md
-│   ├── review/
+│   ├── examples/
 │   │   ├── README.md
 │   │   └── EXEMPLES.md       # calibratge editorial, no s'entrena
+│   ├── review/
+│   │   ├── README.md
+│   │   ├── conversations.jsonl
+│   │   └── provenance.jsonl
 │   ├── work/                 # inventaris i candidats regenerables
 │   ├── reports/              # cobertura i qualitat
 │   └── output/               # exportacions després de la revisió
@@ -130,12 +152,11 @@ training-data/
     └── output/                # text literal, separat de Knowledge
 ```
 
-Les converses Knowledge aprovades s'afegiran a `knowledge/review/` després
-d'acordar aquest calibratge. La procedència sempre queda separada dels
-missatges. Les mostres de `EXEMPLES.md` no compten com a registres ni com a
-cobertura. Les 89 primeres línies de `conversations.jsonl` són material antic
-pendent de revalidació; les línies posteriors són registres revisats
-individualment segons aquest pla.
+Les converses Knowledge revisades s'emmagatzemen a `knowledge/review/`. La
+procedència sempre queda separada dels missatges. Les mostres de
+`knowledge/examples/EXEMPLES.md` no compten com a registres ni com a cobertura.
+Els registres que ja existien s'han de revalidar un per un; no s'infereix que
+siguin bons pel fet d'estar al fitxer.
 
 ## Language
 

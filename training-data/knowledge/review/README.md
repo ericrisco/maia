@@ -1,10 +1,13 @@
 # Revisió de converses de Knowledge
 
-`EXEMPLES.md` conté només mostres de calibratge. No es compten com a dades ni
-es copien automàticament al dataset.
+Aquest directori conté registres candidats i la seva procedència. Les mostres
+d'estil són a [../examples/](../examples/), fora del conjunt revisat, i no es
+compten com a dades ni com a cobertura.
 
-Quan el criteri quedi acordat, cada registre candidat serà una conversa
-completa amb torns alternats `user` i `assistant`. La procedència quedarà en
-un fitxer separat, alineada pel mateix identificador de registre. La revisió
-ha de comprovar naturalitat, exactitud, drets de les fonts, cobertura i
-absència de duplicats abans de preparar els splits.
+Cada registre ha de contenir una conversa completa amb torns alternats `user`
+i `assistant`. La procedència s'alinea pel mateix identificador en un fitxer
+separat. Abans d'exportar, reviseu naturalitat, exactitud, drets de les fonts,
+cobertura, duplicats i resposta completa a cada torn.
+
+Cap registre antic s'aprova automàticament. Torneu-los a llegir amb els
+criteris de `PLAN.md`; reescriviu-los, arxiveu-los o excloeu-los.
