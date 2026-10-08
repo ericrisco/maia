@@ -7,8 +7,8 @@ autor: Govern d’Andorra
 url: https://www.govern.ad/ca/tematiques/cultura-i-esports/patrimoni-cultural/que-es-el-patrimoni-immaterial/les-festes-d-interes-cultural/les-caramelles-d-ordino-i-sant-julia-de-loria
 llicencia: drets reservats; l’avís general del portal exigeix autorització escrita per redistribuir o transformar els continguts
 redistribucio: no
-data_consulta: 2026-09-19
-abast: "Fitxa patrimonial sobre les caramelles d’Ordino i Sant Julià de Lòria, incloent-hi el recorregut i la recollida de donatius a Sant Julià."
+data_consulta: 2026-10-08
+abast: "Fitxa patrimonial sobre l’origen de les caramelles a Andorra, les parròquies on es mantenen, els grups que les canten i la recollida de donatius."
 notes: >
   Font primària institucional. S'ha conservat només un extracte factual a
   docs/raw/web/costums/govern-caramelles-ordino-sant-julia-2026.txt; no es

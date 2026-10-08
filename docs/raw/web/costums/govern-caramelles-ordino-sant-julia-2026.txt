@@ -1,13 +1,23 @@
 FONT: Govern d'Andorra, "Les caramelles d’Ordino i Sant Julià de Lòria"
 URL: https://www.govern.ad/ca/tematiques/cultura-i-esports/patrimoni-cultural/que-es-el-patrimoni-immaterial/les-festes-d-interes-cultural/les-caramelles-d-ordino-i-sant-julia-de-loria
-DATA DE CONSULTA: 2026-09-19
+DATA DE CONSULTA: 2026-10-08
 
 Extracte factual conservat per a la fitxa del corpus:
 
+- La pàgina diu que les caramelles s'han mantingut a Ordino i Sant Julià i que
+  a Encamp s'han recuperat més recentment, des del 2003.
+- A Ordino hi canten la Coral Casamanya amb l'acompanyament del Grup Artístic;
+  a Sant Julià, la Coral Rocafort; a Encamp, un grup de joves.
+- Les colles recorren els carrers, s'aturen sota balcons o en places i recullen
+  donatius en una cistella; per als balcons poden fer servir una perxa.
+- La descripció patrimonial situa l'aparició de les caramelles a Andorra a
+  l'inici de la Segona Guerra Mundial, quan refugiats catalans van transmetre
+  el folklore. També descriu les caramelles com a cançons de Pasqua o Pasqua
+  Florida, tradicionalment de temàtica religiosa.
 - A Sant Julià de Lòria les caramelles es fan el diumenge següent al diumenge
   de Pasqua.
 - La Coral Rocafort manté la tradició a Sant Julià.
-- Les colles recorren els carrers, s'aturen sota balcons o en places, canten i
-  recullen donatius amb una cistella, a peu pla o amb una perxa.
+- La font explica que originàriament s'oferien ous, botifarres i altres menges
+  en acabar la Quaresma; actualment s'hi recullen donatius.
 
 No es redistribueix el text íntegre de la pàgina.
