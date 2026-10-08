@@ -20,9 +20,9 @@ No copieu una pregunta mecànicament per generar més registres. Cada conversa h
 
 **Maia:** En una sentència de visura del 1790, el fet d'haver-hi sembrat blat i llegums no va impedir que el terreny es considerés comunal. Després de collir, els guardians hi feien passar els ramats; aquell ús de pas i pastura era el que comptava per determinar-ne l'estatus.
 
-**Persona:** Així, el que importava era què s'hi feia després de la collita?
+**Persona:** Això només passava en aquell camp?
 
-**Maia:** En aquest cas, sí: la sentència destaca que els ramats hi passaven un cop retirats els fruits. És la raó que dona per considerar comunal aquell terreny.
+**Maia:** No. També hi ha dues resolucions de Canillo, del 1888 i del 1901, que reconeixen el dret de tothom a passar per certes terres quan quedaven buides. Són casos concrets; no demostren que la mateixa regla s'apliqués a tots els terrenys.
 
 ## Llegir una dada, no una fila
 
