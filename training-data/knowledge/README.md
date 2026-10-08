@@ -1,12 +1,12 @@
 # Maia Knowledge
 
-Conversa en català sobre Andorra a partir de `docs/temes/`. Les persones pregunten per resoldre dubtes recognoscibles, no per consultar l'organització d'una font.
+Conversa en català sobre Andorra, fonamentada en `docs/temes/`. El dataset no és un resum de les fitxes: cada exemple parteix d'un dubte recognoscible i l'assistent el resol amb el context just.
 
-- `examples/`: exemples de calibratge, no exportables.
-- `review/`: candidats actius que encara necessiten revisió humana.
-- `archive/`: esborranys antics que no compten com a cobertura.
-- `work/`: inventari, afirmacions i procedència interns.
-- `reports/`: cobertura, qualitat i exclusions.
+- `examples/`: calibratge positiu, no exportable.
+- `review/`: candidats actius pendents de revisió.
+- `archive/`: candidats retirats i decisions prèvies, fora del flux actiu.
+- `work/`: inventari, afirmacions, procedència i cobertura.
+- `reports/`: qualitat, cobertura i exclusions.
 - `output/`: només converses aprovades i amb drets resolts.
 
-La cua activa és buida mentre es calibra el to amb els exemples. No reprendre la generació per volum; reprendre-la quan les preguntes i els seguiments sonin naturals llegits sense les fonts al davant.
+La cua activa queda buida mentre es revisa el nou criteri. Els fets arxivats no compten com a cobertura. No reprenguis la generació per volum: primer comprova naturalitat i procedència.

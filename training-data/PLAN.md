@@ -4,92 +4,100 @@
 
 Preparar dos conjunts separats a partir de `docs/`:
 
-- **Maia Knowledge** respon preguntes reals sobre Andorra amb coneixement de `docs/temes/`.
-- **Maia Language** conserva llengua humana autèntica de `docs/parla/`; no es creen respostes artificials per imitar-la.
+- **Maia Knowledge**: converses útils sobre Andorra, basades en `docs/temes/`.
+- **Maia Language**: mostres de llengua humana andorrana contemporània, basades en `docs/parla/` i en els criteris d'elegibilitat del corpus.
 
-La sortida d'entrenament és una conversa JSONL amb missatges `user` i `assistant`. Les fonts, drets, afirmacions i notes de revisió queden en fitxers interns separats.
+La sortida eventual és JSONL de converses. Procedència, afirmacions, drets i cobertura es mantenen en fitxers interns separats. Una conversa de revisió no és una dada d'entrenament: només s'exporta quan passa les comprovacions de contingut, naturalitat i drets.
 
-## Estructura
+## Estructura de treball
 
 ```text
 training-data/
 ├── PLAN.md
 ├── README.md
-├── scripts/                 # validació i generació, quan existeixin
+├── scripts/
 ├── knowledge/
-│   ├── examples/            # calibratge; mai no s'exporta
-│   ├── review/              # candidats pendents de revisió humana
-│   ├── archive/             # esborranys descartats o substituïts
-│   ├── work/                # inventari i cobertura interns
-│   ├── reports/             # resultats de qualitat i cobertura
-│   └── output/              # només registres aprovats
-└── language/                # inventari i selecció lingüística separats
+│   ├── examples/       # exemples de calibratge, mai no s'exporten
+│   ├── review/         # candidats pendents de decisió
+│   ├── archive/        # candidats antics i decisions substituïdes
+│   ├── work/           # inventari, afirmacions, procedència i cobertura
+│   ├── reports/        # qualitat, drets i cobertura
+│   └── output/         # només converses aprovades
+└── language/           # inventari, revisió i sortida de llengua, separats
 ```
 
-No es mou cap registre a `output/` només perquè el seu fet sigui correcte. També ha de passar el filtre de naturalitat, procedència i drets.
+No s'esborren els inventaris ni els candidats antics quan es canvia el criteri: s'arxiven perquè les decisions continuïn auditables. `output/` resta buit fins que hi hagi registres aprovats i drets compatibles amb l'ús previst.
 
-## Com trobar una conversa
+## El mètode per crear una conversa
 
-Parteix d'una necessitat recognoscible: entendre una tradició, aclarir una confusió, situar una dada, saber què implica una norma o comprovar si una afirmació és segura. La pregunta no ha de dependre d'haver llegit una fitxa.
+### 1. Trobar una necessitat humana
 
-Abans d'escriure-la, resumeix per a tu mateix el dubte en una frase. Si només pots formular-lo copiant el títol, una secció, una fila o un identificador de la font, encara no has trobat una pregunta humana.
+Llegeix el contingut de la font i pregunta't quin dubte pràctic, curiositat o confusió podria tenir algú. Escriu aquest dubte en una frase abans de redactar el xat.
 
-Escriu la pregunta amb el vocabulari que faria servir una persona. Dona el context imprescindible perquè s'entengui sola. No inventis una biografia, una visita, una conversa prèvia ni una motivació personal per fer-la semblar real.
+Bones famílies d'intencions, quan el contingut les sosté:
 
-### Senyals per descartar una pregunta
+- aclarir una confusió: «La Passa és un ball o una cercavila?»
+- entendre com funciona una pràctica: «Com s'organitzen les parelles de la Passa?»
+- situar una dada amb context: «Quan i on es pot veure el ball del Cerdà?»
+- comprovar una afirmació: «És cert que la sardana ja es ballava a Andorra abans que hi arribés una cobla?»
+- entendre una diferència: «Què canvia entre la dada de 2019 i la de 2024?»
+- saber què es pot concloure: «Aquestes xifres expliquen per què va canviar l'assistència?»
 
-- Demana què diu una secció, una taula, una fila, una fitxa o el corpus.
-- És un «què és X?» mecànic que es podria aplicar a qualsevol entrada.
-- Pregunta una dada aïllada sense cap motiu ni context suficient.
-- Presuposa una premissa falsa que ningú no tindria motiu per creure.
-- S'ha escrit només perquè una afirmació del registre de cobertura encara no té pregunta.
-- Té una resposta que sona bé però no es pot derivar de les fonts.
+No copiïs un títol, subtítol, fila, etiqueta ni identificador de la font per fabricar la pregunta. No cal preguntar per cada fet: si no hi ha una necessitat recognoscible, conserva el fet a l'inventari i no el converteixis en conversa.
 
-No cal convertir cada fet en una pregunta. Una dada sense una demanda humana clara pot quedar documentada a `work/` sense entrar al dataset.
+### 2. Escriure com parlaria una persona
 
-## Escriure la resposta
+La pregunta ha de tenir prou context per entendre's per si sola, però no ha d'inventar una visita, una experiència personal o una conversa prèvia. Evita «Què diu aquesta secció?», «Explica'm aquesta fila» i «Què és X?» quan només siguin plantilles repetides.
 
-Contesta de seguida la pregunta concreta. Escriu com ho explicaries a algú, no com ompliries una cel·la.
+Si una pregunta és massa abstracta, concreta el dubte real. Per exemple, en lloc de «Què explica el relat de la troballa?», pregunta «Per què, segons la llegenda, la imatge de Meritxell es va quedar al lloc de la gavernera?».
 
-- Fes servir frases completes i identifica persones, llocs, períodes i unitats.
-- Inclou només el context necessari per entendre la resposta.
-- Presenta una llegenda com a llegenda, una interpretació com a interpretació i una dada com a dada.
-- No converteixis correlació en causa.
-- Si les fonts discrepen o no permeten concloure, explica el límit de manera breu i concreta.
-- No comencis amb un fragment, una capçalera, una llista nua o «el corpus diu».
-- No afegeixis fets per fer la resposta més rodona.
+### 3. Respondre el dubte, no resumir la font
 
-Una bona resposta pot ser curta. La mida segueix la pregunta, no la llargada de la font.
+Comença per la resposta directa. Afegeix només el context que ajudi a entendre-la. Fes servir frases completes i distingeix entre fet, llegenda, interpretació, estimació i dada d'enquesta. Si les fonts no permeten afirmar una cosa, digues-ho clarament i breument.
 
-## Quan fer-la multitorn
+No arrenquis amb una capçalera o un tros de llista. No repeteixis la pregunta en altres paraules. No afegeixis detalls només per fer la resposta més llarga.
 
-Una conversa pot tenir un torn o diversos. No hi ha una quota de seguiments.
+### 4. Decidir si és multitorn
 
-Escriu un seguiment només si algú, després de llegir l'última resposta, tindria una pregunta probable que continua el mateix dubte. El seguiment pot aclarir un terme que acaba d'aparèixer, preguntar per una conseqüència directa o comprovar si una conclusió és vàlida.
+Un torn és suficient quan resol el dubte. Afegeix un seguiment només si la resposta anterior fa probable una pregunta immediata sobre el mateix assumpte: aclarir un terme que acaba d'aparèixer, preguntar per una conseqüència directa o comprovar el límit d'una conclusió.
 
-No afegeixis «i què més?», una pregunta de control ni un canvi de tema per allargar-la. Si la resposta ja resol la necessitat, acaba la conversa. Si la nova pregunta obre un altre fil, crea un registre separat.
+El seguiment ha de dependre del torn anterior i la resposta ha de contestar-lo. No afegeixis «i què més?», una pregunta de control, ni una dada no relacionada per arribar a dos torns. Si el dubte nou és independent, fes un registre separat.
 
-## Revisió de naturalitat
+### 5. Revisar el xat sense la font al davant
 
-Llegeix només la conversa, sense mirar la font, i comprova:
+Un altre lector ha de poder llegir només la conversa i respondre «sí» a tot això:
 
-1. Entenc què vol saber la persona i per què ho pregunta?
+1. Entenc quin dubte té la persona i per què és raonable?
 2. La pregunta sonaria normal dita en veu alta?
-3. La resposta resol el dubte completament i amb el context just?
-4. El seguiment surt de la resposta anterior i conserva el fil?
-5. He tret qualsevol referència a l'estructura interna de Maia?
-6. Cada fet i cada matís es poden comprovar a les fonts?
-7. Els drets permeten l'ús previst?
+3. La primera resposta resol exactament el que s'ha preguntat?
+4. Si hi ha seguiment, surt de manera natural de la resposta anterior?
+5. Cada detall és verificable i el grau de certesa és correcte?
+6. La conversa evita parlar de fitxes, seccions, files, corpus o identificadors interns?
 
-Si la conversa falla en naturalitat, reescriu-la o descarta-la. No la conservis només per cobrir una afirmació.
+Qualsevol «no» vol dir reescriure o descartar el candidat. La cobertura no justifica conservar una pregunta artificial.
 
-## Flux de treball
+## Cobertura sense preguntes forçades
 
-1. Calibrar el to amb `knowledge/examples/`. Aquests registres no s'entrenen.
-2. Crear candidats en lots petits a `knowledge/review/`; registrar les fonts i els drets al fitxer de procedència paral·lel.
-3. Revisar naturalitat, exactitud, cobertura i drets abans d'aprovar cap candidat.
-4. Actualitzar l'inventari de cobertura només amb converses aprovades; les afirmacions sense pregunta humana clara poden quedar fora.
-5. Deduplicar i separar train, validation i test agrupant converses sobre el mateix contingut.
-6. Auditar `language/` amb el filtre d'autenticitat, època, transcripció i drets. No omplir-lo amb imitacions generades.
+L'inventari ha de registrar què conté cada document i quines unitats s'han revisat. La cobertura del dataset compta només converses aprovades, però no obliga a convertir cada unitat en una pregunta. Els fets sense una demanda humana clara queden documentats com a «sense conversa adequada», amb el motiu. Això permet distingir una omissió del procés d'una decisió editorial deliberada.
 
-Cada lot és un step separat: validar JSONL i diffs, revisar els fitxers preparats, fer commit i push abans de començar el lot següent.
+Les converses entre documents només s'escriuen quan una persona podria tenir un dubte que realment requereixi relacionar-los. No es combinen dades només perquè comparteixen tema o parròquia.
+
+## Drets i procedència
+
+Abans d'incloure cap registre a `output/`, comprova la procedència i els drets de totes les fonts que sustenten la resposta. La font i la seva llicència s'han de documentar segons el protocol del repositori abans d'entrar al conjunt d'entrenament. Una dada correcta no és automàticament reutilitzable. Els candidats amb permisos pendents romanen a `review/` o a l'arxiu; no s'exporten.
+
+## Maia Language
+
+Maia Language té un flux independent. Només s'utilitza material humà que compleixi els criteris del corpus per a veu originària, època contemporània, aptitud lingüística, qualitat de transcripció i drets. No s'inventen respostes per imitar un parlant. Els fragments es mantenen tan literals com sigui possible i s'agrupen per peça/parlant abans de dividir train, validation i test.
+
+## Flux de cada lot
+
+1. Revisar una font i les seves condicions d'ús.
+2. Registrar les unitats de coneixement i la seva procedència.
+3. Proposar només converses amb una necessitat humana clara.
+4. Revisar exactitud, naturalitat, continuïtat i drets.
+5. Validar els formats i revisar el diff.
+6. Arxivar els candidats descartats o substituïts; actualitzar cobertura només amb evidència revisada.
+7. Aprovar i exportar únicament registres que superin totes les portes de qualitat i drets.
+
+Treballar en lots petits. Cada lot funcional es revisa, valida, commet i puja abans de començar el següent, segons l'objectiu del projecte.
