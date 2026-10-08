@@ -3,7 +3,7 @@
 Regenerar amb `python3 training-data/knowledge/scripts/build_coverage_report.py`.
 
 Documents inventariats: **1477**.
-Cobertura parcial: **2**. Pendents: **1475**. Complets: **0**.
+Cobertura parcial: **3**. Pendents: **1474**. Complets: **0**.
 
 La cobertura parcial només indica que hi ha converses revisades que citen el document. No vol dir que totes les seccions, files de taules o unitats estiguin cobertes. Els mostrejos editorials no compten com a cobertura.
 
