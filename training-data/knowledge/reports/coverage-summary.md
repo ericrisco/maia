@@ -4,10 +4,10 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 
 - Documents inventariats: **1477** (1348 articles).
 - Unitats estructurals totals: **62911**.
-- Unitats cobertes per converses aprovades: **421** (0.669%).
+- Unitats cobertes per converses aprovades: **426** (0.677%).
 - Unitats excloses amb motiu: **1186**.
-- Unitats encara obertes: **61304**.
-- Registres: **181**; aprovats: **124**; mostres de calibratge: **3** (no compten com a cobertura).
+- Unitats encara obertes: **61299**.
+- Registres: **182**; aprovats: **125**; mostres de calibratge: **3** (no compten com a cobertura).
 
 ## Estat per tema
 
@@ -76,7 +76,7 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 | `temes/historia/moments-historics` | 2 | 153 | 0 | 0 | 153 |
 | `temes/historia/origens` | 15 | 414 | 0 | 0 | 414 |
 | `temes/historia/pareatge` | 6 | 473 | 0 | 0 | 473 |
-| `temes/historia/segle-xix` | 29 | 1819 | 22 | 0 | 1797 |
+| `temes/historia/segle-xix` | 29 | 1819 | 27 | 0 | 1792 |
 | `temes/historia/segle-xx-primera-meitat` | 30 | 892 | 0 | 0 | 892 |
 | `temes/institucions/comuns-i-parroquies` | 35 | 971 | 0 | 0 | 971 |
 | `temes/institucions/consell-general` | 84 | 2530 | 0 | 0 | 2530 |
