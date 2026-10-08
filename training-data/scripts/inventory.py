@@ -41,6 +41,10 @@ def write_inventory(source: Path, target: Path, language: bool = False) -> int:
         else ["path", "title", "description", "tema", "type", "veu", "epoca", "font", "timestamp", "tags", "status", "conversation_ids", "exclusion_reason"]
     )
     files = sorted(source.rglob("*.md"), key=lambda item: item.as_posix().casefold())
+    previous: dict[str, dict[str, str]] = {}
+    if target.exists():
+        with target.open(encoding="utf-8", newline="") as stream:
+            previous = {row["path"]: row for row in csv.DictReader(stream)}
     target.parent.mkdir(parents=True, exist_ok=True)
     with target.open("w", newline="", encoding="utf-8") as stream:
         writer = csv.DictWriter(stream, fieldnames=fields, lineterminator="\n")
@@ -49,12 +53,14 @@ def write_inventory(source: Path, target: Path, language: bool = False) -> int:
             meta = frontmatter(path)
             row = {key: meta.get(key, "") for key in FIELDS}
             row["path"] = path.relative_to(ROOT).as_posix()
-            row["status"] = "pending-review" if language else "pending"
+            prior = previous.get(row["path"], {})
+            default_status = "pending-review" if language else "pending"
+            row["status"] = prior.get("status") or default_status
             if language:
-                row["review_notes"] = ""
+                row["review_notes"] = prior.get("review_notes", "")
             else:
-                row["conversation_ids"] = ""
-                row["exclusion_reason"] = ""
+                row["conversation_ids"] = prior.get("conversation_ids", "")
+                row["exclusion_reason"] = prior.get("exclusion_reason", "")
             writer.writerow({key: row.get(key, "") for key in fields})
     return len(files)
 
