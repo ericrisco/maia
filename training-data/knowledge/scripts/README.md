@@ -18,3 +18,13 @@ python3 -m unittest discover -s training-data/knowledge/scripts/tests -v
 ```
 
 `--check` valida frontmatter i identificadors sense escriure l'inventari. La generació només divideix el Markdown per estructures visibles; una unitat inventariada encara necessita revisió humana abans de donar-la per coberta.
+
+
+## Informe de cobertura
+
+`build_knowledge_coverage.py` relaciona cada registre de revisió amb els articles de l'inventari i compta unitats només quan `unit_ids` és explícit. Genera `reports/coverage.md`; no infereix cobertura completa d'un document a partir d'una sola conversa.
+
+```sh
+python3 training-data/knowledge/scripts/build_knowledge_coverage.py --check
+python3 training-data/knowledge/scripts/build_knowledge_coverage.py
+```
