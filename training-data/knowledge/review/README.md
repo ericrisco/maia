@@ -1,3 +1,5 @@
-# Revisió de Knowledge
+# Revisió de Maia Knowledge
 
-`conversations.jsonl` és el fitxer actiu de candidats, una conversa per línia. La procedència corresponent va a `../work/provenance.jsonl`. Reviseu cada registre amb la prova de lectura humana del [`../PLAN.md`](../PLAN.md), contrasteu les afirmacions amb les fonts i anoteu drets i cobertura abans d'exportar.
+Aquí aniran les converses candidates després d'acordar les mostres de calibratge. Una conversa és un registre complet, encara pendent de comprovació factual, naturalitat, duplicació i drets.
+
+No s'hi afegeixen preguntes que només demanin què diu una secció, una fila o una fitxa. La procedència es manté separada dels `messages`.

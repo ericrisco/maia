@@ -1,3 +1,3 @@
-# Export de Language
+# Export de Maia Language
 
-Encara no hi ha dades finals. Feu els splits per peça, conversa o parlant per evitar que fragments relacionats quedin repartits entre train, validation i test.
+Encara no hi ha cap export. Només s'hi publicaran fragments humans aprovats, amb la seva conversa completa i sense barreja amb Maia Knowledge.

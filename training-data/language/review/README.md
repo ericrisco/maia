@@ -1,3 +1,3 @@
-# Revisió de Language
+# Revisió de Maia Language
 
-Encara no hi ha registres. Afegiu converses només quan pregunta i resposta es puguin construir amb parla humana autèntica i verificable.
+Els candidats han de ser fragments produïts per parlants humans i conservar-ne la formulació original sempre que sigui possible. No s'hi generen diàlegs sintètics per ampliar el volum.

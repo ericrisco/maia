@@ -1,3 +1,5 @@
-# Exemples de calibratge
+# Mostres de calibratge
 
-Quatre mostres positives: tres converses amb seguiments motivats pel torn anterior i una resposta completa d'un sol torn. No són dades aprovades ni exportables; consulteu `provenance.jsonl` per les fonts i l'estat de drets.
+`conversations.jsonl` conté cinc converses de prova per revisar el criteri abans de crear més registres. Són totes multitorn perquè es pugui jutjar el fil; això no imposa que cada registre futur també ho sigui.
+
+No són candidates aprovades ni formen part de `output/`. La procedència i les empremtes SHA-256 de les fitxes font són a `provenance.jsonl`. Els drets de cada font encara s'han de confirmar abans d'autoritzar-ne l'export.

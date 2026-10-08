@@ -1,12 +1,31 @@
 # Maia Training Data
 
-Dos conjunts diferents, perquè cadascun ensenya una habilitat diferent:
+Àrea de treball per preparar dos corpus diferents:
 
-- **Knowledge** ensenya a contestar preguntes reals sobre Andorra amb informació de `docs/temes/`.
-- **Language** conserva usos reals del català andorrà contemporani a partir de `docs/parla/`. No s'inventen diàlegs per imitar una veu local.
+- **Maia Knowledge** ensenya coneixement documentat sobre Andorra.
+- **Maia Language** conserva patrons de parla andorrana contemporània a partir de material humà elegible.
 
-`knowledge/examples/` conté quatre mostres per calibrar el to. Són internes, no aprovades ni exportables. Les converses candidates actives són a `knowledge/review/conversations.jsonl`; passen pel criteri de `PLAN.md` abans d'exportar-se.
+Els exemples de calibratge serveixen per acordar com sonen les converses. No són una mostra de volum ni un export d'entrenament. Cap registre passa a `output/` sense revisió de contingut, procedència i drets.
 
-No hi ha datasets finals. Els splits es crearan quan hi hagi prou registres revisats, drets comprovats i una separació fiable entre train, validation i test.
+```text
+training-data/
+├── README.md
+├── PLAN.md
+├── knowledge/
+│   ├── README.md
+│   ├── scripts/        # Automatització futura, encara sense pipeline
+│   ├── examples/       # Mostres de calibratge i procedència
+│   ├── review/         # Converses candidates, pendents de revisió
+│   ├── work/           # Cobertura i anotacions internes
+│   ├── output/         # Només exports aprovats
+│   └── reports/        # Cobertura, exclusions i qualitat
+└── language/
+    ├── README.md
+    ├── scripts/        # Automatització futura, encara sense pipeline
+    ├── review/         # Fragments humans candidats
+    ├── work/           # Elegibilitat, verificació i cobertura
+    ├── output/         # Només exports aprovats
+    └── reports/        # Peces incloses i excloses
+```
 
-**Regla principal:** cada conversa comença amb un dubte que una persona podria tenir sense haver obert cap fitxa. La resposta el resol directament. El seguiment només s'hi afegeix si surt de la resposta anterior. No hi ha quota de torns: un torn també pot ser suficient.
+Knowledge i Language no comparteixen exemples, fonts ni exports. Ara el projecte només prepara l'estructura i calibra Knowledge; els registres nous es faran després de revisar les mostres.

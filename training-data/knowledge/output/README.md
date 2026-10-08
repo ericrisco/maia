@@ -1,3 +1,3 @@
-# Export de Knowledge
+# Export de Maia Knowledge
 
-Encara no hi ha datasets finals. Quan hi hagi prou registres aprovats, cada JSONL tindrà una conversa per línia i només el camp `messages`. No feu splits petits que no permetin una separació fiable per tema o font.
+Encara no hi ha cap export. Quan hi hagi converses aprovades, cada línia de `*.jsonl` contindrà una conversa completa amb només el camp `messages`.

@@ -1,3 +1,3 @@
-# Informes de Knowledge
+# Informes de Maia Knowledge
 
-Aquí es publicaran els informes de cobertura, qualitat, exclusions i volum quan hi hagi una tanda revisada.
+Encara no hi ha informes. Aquí es desaran els resultats de cobertura de contingut, duplicació, exclusions i revisió de qualitat.

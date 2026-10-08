@@ -1,5 +1,12 @@
 # Maia Language
 
-Flux independent per preservar català andorrà contemporani de parlants humans, a partir de `docs/parla/`. Només s'utilitza material elegible (`veu: originaria`, `epoca: contemporania`, `apte_llengua: true`), amb qualitat de transcripció i drets comprovats.
+Flux separat per aprendre llengua andorrana contemporània a partir de parla humana real de `docs/parla/`. No s'hi afegeixen respostes redactades per imitar com «sonaria» una persona andorrana.
 
-Les respostes han de provenir de parla real. No es redacten exemples ficticis per imitar un accent o estil local. Aquest flux no comparteix registres amb Maia Knowledge.
+Només es poden revisar fragments que compleixin `veu: originaria`, `epoca: contemporania` i `apte_llengua: true`, amb transcripció fiable i procedència registrada. Cal preservar lèxic, sintaxi i expressió amb normalització mínima i documentada.
+
+- `review/`: fragments humans candidats pendents de validació.
+- `work/`: elegibilitat, qualitat de transcripció i cobertura.
+- `output/`: exports aprovats, sense barrejar-los amb Maia Knowledge.
+- `reports/`: peces incloses i exclusions, amb els motius.
+
+Ara mateix aquest flux només té l'estructura; no s'hi han afegit registres.

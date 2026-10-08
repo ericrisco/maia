@@ -1,3 +1,3 @@
-# Treball intern de Language
+# Treball intern de Maia Language
 
-Aquí s'inventariaran peces de parla, fragments elegibles, qualitat de transcripció, procedència i drets. No s'hi generen respostes fictícies.
+Inventari d'elegibilitat, verificació de transcripcions, procedència i agrupació per peça o parlant. No és material d'entrenament.
