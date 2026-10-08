@@ -1868,19 +1868,12 @@
       "title": "Amb qui comercia Andorra",
       "type": "article",
       "topic": "temes/economia/comerc",
-      "status": "in_progress",
+      "status": "not_started",
       "unit_count": 96,
-      "covered_unit_ids": [
-        "docs/temes/economia/comerc/amb-qui-comercia-andorra.md#unit-0025",
-        "docs/temes/economia/comerc/amb-qui-comercia-andorra.md#unit-0026",
-        "docs/temes/economia/comerc/amb-qui-comercia-andorra.md#unit-0027",
-        "docs/temes/economia/comerc/amb-qui-comercia-andorra.md#unit-0028"
-      ],
+      "covered_unit_ids": [],
       "excluded_unit_count": 0,
-      "open_unit_count": 92,
-      "conversation_ids": [
-        "origen-importacions-espanya-franca-001"
-      ]
+      "open_unit_count": 96,
+      "conversation_ids": []
     },
     "docs/temes/economia/comerc/blat-cerdanya-parroquies-1904.md": {
       "title": "El blat de Cerdanya es reparteix entre els veïns (1904)",
