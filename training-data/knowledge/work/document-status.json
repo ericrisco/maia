@@ -15153,12 +15153,21 @@
       "title": "De què es mor a Andorra",
       "type": "article",
       "topic": "temes/societat/sanitat",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 66,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/societat/sanitat/de-que-es-mor-a-andorra.md#unit-0002",
+        "docs/temes/societat/sanitat/de-que-es-mor-a-andorra.md#unit-0004",
+        "docs/temes/societat/sanitat/de-que-es-mor-a-andorra.md#unit-0006",
+        "docs/temes/societat/sanitat/de-que-es-mor-a-andorra.md#unit-0007",
+        "docs/temes/societat/sanitat/de-que-es-mor-a-andorra.md#unit-0009",
+        "docs/temes/societat/sanitat/de-que-es-mor-a-andorra.md#unit-0030"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 66,
-      "conversation_ids": []
+      "open_unit_count": 60,
+      "conversation_ids": [
+        "causes-mort-andorra-i-quinquenni-covid-001"
+      ]
     },
     "docs/temes/societat/sanitat/donar-i-ser-ates.md": {
       "title": "Donar i ser atès",
