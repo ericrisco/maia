@@ -1,7 +1,8 @@
 # Maia Knowledge
 
-Conjunt de converses que ensenya a respondre dubtes sobre Andorra amb informació de `docs/temes/`.
+Ensenya a respondre dubtes sobre Andorra amb informació documentada a
+`docs/temes/`. Les mostres editorials són a `examples/`; les converses que
+podrien entrar al dataset es guarden separadament a `review/` amb procedència.
 
-El directori `review/` conté mostres editorials i converses revisades. Les mostres no són dades d'entrenament. Cada conversa ha de tenir una pregunta inicial natural, una resposta directa i només els seguiments que tinguin sentit. La procedència i els drets es registren a banda dels missatges.
-
-No exporteu dades a `output/` fins que l'estil estigui aprovat i la cobertura, els drets i els duplicats s'hagin revisat. Consulteu `../PLAN.md` i `review/EXEMPLES.md`.
+No exporteu res a `output/` fins que s'hagin revisat les fonts, els drets, la
+cobertura i els duplicats. Consulteu [`../PLAN.md`](../PLAN.md).

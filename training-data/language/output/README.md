@@ -1,3 +1,4 @@
-# Exportacions
+# Sortida de Maia Language
 
-Encara no hi ha dades. Maia Language es mantindrà separat de Maia Knowledge.
+Els splits d'entrenament, validació i prova es crearan només després de revisar
+les fonts i agrupar els fragments per peça o parlant, per reduir filtracions.

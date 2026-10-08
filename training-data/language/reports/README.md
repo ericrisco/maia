@@ -1,3 +1,4 @@
-# Informes
+# Informes de Maia Language
 
-Els informes d'inclusió, exclusió, qualitat i cobertura es crearan quan s'inspeccionin les peces de parla.
+Els informes indicaran peces revisades, incloses i excloses, fragments
+utilitzats i motius d'exclusió.

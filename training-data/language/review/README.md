@@ -1,3 +1,5 @@
 # Revisió de Maia Language
 
-Encara no hi ha fragments candidats. Només s'hi incorporarà material humà amb drets i consentiment comprovats, àudio escoltat i transcripció revisada.
+Aquí s'inventariaran per separat les peces i els fragments humans elegibles,
+amb referència a la font i notes sobre la fiabilitat de la transcripció. No
+barregeu aquest material amb les converses de Maia Knowledge.

@@ -1,5 +1,9 @@
 # Maia Language
 
-Objectiu separat de Knowledge: conservar trets del català andorrà contemporani a partir de parla humana autèntica.
+Aquest conjunt és independent de Knowledge. L'objectiu és conservar trets de
+català andorrà contemporani a partir de parla humana del corpus `docs/parla/`.
 
-No hi ha mostres ni exportacions en aquesta carpeta encara. Només s'hi afegirà material de `docs/parla/` quan la veu sigui originària, contemporània i apte per a llengua; els drets i el consentiment estiguin comprovats; i l'àudio i la transcripció s'hagin revisat. No es generaran diàlegs artificials per augmentar el volum.
+Només s'hi inclouran peces que compleixin els criteris del corpus per a veu
+originària, època contemporània i ús lingüístic elegible. Les transcripcions
+incertes es revisaran o s'exclouran. No es generaran respostes artificials per
+imitar una manera de parlar.

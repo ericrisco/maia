@@ -2,7 +2,12 @@
 
 ## Objectiu
 
-Crear Maia Knowledge i Maia Language amb cobertura exhaustiva del corpus, converses naturals multitorn i procedència verificable. Avançar tema a tema i registre a registre; una pregunta o conversa completada és un pas revisable, validat i pujat abans de continuar.
+Preparar dades de fine-tuning que ensenyin a Maia a contestar com un assistent
+útil, no com un cercador de títols o un lector de fitxes. Cada conversa ha de
+néixer d'un dubte que una persona podria tenir sense haver vist el corpus.
+
+Knowledge i Language continuen separats. Les mostres de calibratge serveixen
+per acordar l'estil; no compten com a dades d'entrenament ni com a cobertura.
 
 ## Estructura
 
@@ -12,53 +17,79 @@ training-data/
 ├── PLAN.md
 ├── knowledge/
 │   ├── README.md
-│   ├── review/
-│   │   ├── EXEMPLES.md
-│   │   ├── conversations.jsonl  # converses revisades i mostres editorials diferenciades
-│   │   └── provenance.jsonl     # fonts, drets i estat de cada mostra
-│   ├── output/                  # buit fins que hi hagi prou dades revisades
-│   └── reports/                 # cobertura i qualitat, més endavant
+│   ├── examples/EXEMPLES.md       # mostres editorials, mai exportades
+│   ├── review/                    # converses reals revisades i procedència
+│   ├── work/                      # inventari i cobertura, quan es regenerin
+│   ├── reports/                   # informes d'auditoria
+│   └── output/                    # train/validation/test, al final
 └── language/
     ├── README.md
-    ├── review/                  # corpus humà elegible, pendent de revisió
-    ├── output/                  # separat de Knowledge
-    └── reports/
+    ├── review/                    # fragments humans elegibles i procedència
+    ├── reports/
+    └── output/                    # train/validation/test, al final
 ```
 
-Knowledge ensenya a respondre preguntes documentades sobre Andorra. Language conserva trets de parla humana andorrana contemporània. No es barregen.
+## Com s'escriu una conversa de Knowledge
 
-## Estàndard d'una conversa
+1. **Partir d'una intenció humana.** Abans de redactar, escriure en una frase
+   què vol resoldre la persona: una confusió, una decisió, una comparació, una
+   dada que no li quadra o una conseqüència que vol entendre.
+2. **Redactar sense mirar els títols de secció.** La pregunta inicial ha de
+   tenir sentit per si sola. No pot demanar què diu una fitxa, una secció, una
+   fila o un document.
+3. **Respondre el dubte complet.** La primera resposta ha de poder-se llegir
+   sola i contenir el context necessari. No s'ha de repartir una resposta en
+   torns artificials.
+4. **Afegir seguiments només si neixen de la resposta.** Cada nou torn de la
+   persona ha d'aportar una curiositat o una conseqüència genuïna. No hi ha una
+   llargada obligatòria; si el fil s'ha acabat, la conversa s'acaba.
+5. **Respectar el que la font no resol.** Corregir una premissa amb tacte.
+   Separar els fets de les interpretacions i dir clarament quan el corpus no
+   permet respondre.
+6. **Revisar-la sense metadades.** Llegir només els missatges. Si sona a examen,
+   a consulta a una base de dades o a resum d'article, reescriure-la o descartar-la.
 
-Una conversa parteix d'un dubte que algú podria tenir sense haver obert una fitxa. Pot ser una confusió, una dada que no quadra, una decisió pràctica o una curiositat que surt del torn anterior.
+No s'ha d'aplicar una plantilla fixa de tipus de pregunta. La varietat ha de
+sortir de necessitats diferents, no de canviar «què és» per «quan passa».
+Tampoc no s'han d'inventar situacions personals per fer més simpàtica una
+pregunta.
 
-- La primera pregunta s'entén sola. No diu «què explica la secció», «segons la fitxa» ni «què indica aquesta fila».
-- No cal inventar una biografia per fer-la versemblant. Es poden fer preguntes directes: «Quina diferència hi ha entre la Passa i la Marratxa? Sempre les confonc.»
-- Cada conversa segueix un fil. La persona rep una resposta i pregunta una cosa que realment se'n desprèn.
-- No s'afegeixen torns per arribar a una llargada fixa. Si no hi ha un seguiment útil, la conversa s'acaba.
-- La resposta comença pel que resol el dubte. Després afegeix el context necessari, amb llenguatge normal i precís.
-- Si la font no ho resol, es diu què se sap i què queda obert. No s'omple el buit amb una explicació plausible.
-- Les fonts, drets, afirmacions i notes de revisió van a `provenance.jsonl`, mai als missatges d'entrenament.
+## Registre i control
 
-### Pregunta de control
-
-Llegida sense metadades, la conversa sembla una persona aclarint un dubte real? Si sembla un examen, una consulta a una base de dades o un resum de document, es reescriu o es descarta.
+- Una conversa per registre revisable; una conversa completada per commit i push.
+- `messages` conté només torns `user` i `assistant`. Font, drets, afirmacions i
+  notes de revisió van en un fitxer de procedència separat.
+- Cada resposta factual s'ha de contrastar amb la font original. Cap dada nova
+  no pot venir d'una suposició de qui redacta.
+- Cobertura vol dir que les afirmacions rellevants de cada font estan
+  representades; tenir una conversa que en cita el document no és cobertura
+  completa.
+- Els fets que canvien amb el temps —composició actual d'institucions, horaris
+  o preus— es tracten segons la constitució del projecte: són candidats a
+  recuperació de documents, no coneixement per congelar al fine-tuning.
+- Les mostres d'`examples/` són només editorials. No s'afegeixen a `review/` ni
+  a `output/` sense una revisió independent de font i drets.
 
 ## Fases
 
-1. **Calibratge.** Llegir les mostres editorials sense metadades i aplicar-ne el criteri de naturalitat; no copiar una sola plantilla de conversa.
-2. **Preparació de fonts.** Per cada conversa, comprovar el document original, les afirmacions que sosté i les condicions de reutilització. Registrar la procedència i els límits.
-3. **Redacció i revisió.** Crear una conversa per necessitat humana i per commit. Comprovar continuïtat, exactitud, límits, naturalitat i duplicats; validar el JSONL, fer commit i push abans del següent registre.
-4. **Cobertura exhaustiva.** Fer servir `knowledge/reports/coverage.jsonl` com a inventari de totes les fitxes i índexs de `docs/temes/`; regenerar-lo després d'afegir registres. Revisar seccions, paràgrafs, llistes, files de taula i relacions, i registrar exclusions amb motiu. `partial` vol dir que hi ha alguna conversa vinculada, no que la fitxa estigui completa. Avançar tema a tema fins que no quedi cap coneixement entrenable sense tractar.
-5. **Maia Language.** Revisar separadament totes les peces de `docs/parla/`. Incloure només parla humana contemporània elegible, amb drets, consentiment, àudio i transcripció revisats; no inventar respostes per imitar un dialecte.
-6. **Exportació i auditoria.** Quan cobertura i drets estiguin revisats, deduplicar i preparar train/validation/test per grup de font o tema. Verificar els fitxers finals i publicar informes de cobertura i exclusions.
+1. **Calibratge d'estil.** Revisar les mostres d'`knowledge/examples/EXEMPLES.md`.
+   No ampliar el corpus fins que les preguntes i respostes tinguin el to desitjat.
+2. **Inventari de fonts.** Recórrer `docs/temes/`, registrar drets i identificar
+   fets entrenables, informació volàtil, incerteses i relacions entre fitxes.
+3. **Producció de Knowledge.** Crear converses a partir d'intencions humanes,
+   revisar-les contra les fonts i desar cada conversa amb la seva procedència.
+4. **Cobertura i deduplicació.** Comparar afirmacions i unitats de cada fitxa
+   amb els registres. Completar buits i descartar repeticions sense valor.
+5. **Producció de Language.** Inspeccionar `docs/parla/` separadament. Utilitzar
+   només parla humana contemporània marcada com a elegible i filtrar fragments
+   incerts; no inventar respostes per imitar un dialecte.
+6. **Exportació.** Crear `train.jsonl`, `validation.jsonl` i `test.jsonl` només
+   després de revisar qualitat i drets. Agrupar pel tema o la font abans de fer
+   el split per reduir filtracions entre conjunts.
+7. **Auditoria final.** Validar format, duplicats, cobertura, procedència i
+   elegibilitat lingüística; deixar els informes a `reports/`.
 
-## Criteri per passar del calibratge a la producció
+## Regla de pas
 
-- Les mostres passen la pregunta de control.
-- Les primeres preguntes no depenen del títol ni del contingut d'una pàgina.
-- Els seguiments continuen el fil i no repeteixen dades.
-- Les respostes corregeixen errors amb tacte i no sonen telegràfiques.
-- Cada afirmació factual té font i condicions d'ús registrades.
-- Els dubtes i desacords de les fonts es representen sense resoldre'ls artificialment.
-
-Les mostres editorials continuen marcades com a tals i no s'exporten. Els registres revisats amb drets aptes poden formar part de l'exportació quan el split i la cobertura estiguin verificats. `output/` queda buit fins aleshores.
+Primer cal acordar l'estil amb les mostres. Després es reprèn la producció, una
+conversa per vegada, amb revisió, validació, commit i push abans de continuar.
