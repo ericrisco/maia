@@ -3191,6 +3191,9 @@
         "docs/temes/esports/esqui/cinquanta-anys-desqui-olimpic.md#unit-0027",
         "docs/temes/esports/esqui/cinquanta-anys-desqui-olimpic.md#unit-0028",
         "docs/temes/esports/esqui/cinquanta-anys-desqui-olimpic.md#unit-0030",
+        "docs/temes/esports/esqui/cinquanta-anys-desqui-olimpic.md#unit-0032",
+        "docs/temes/esports/esqui/cinquanta-anys-desqui-olimpic.md#unit-0033",
+        "docs/temes/esports/esqui/cinquanta-anys-desqui-olimpic.md#unit-0036",
         "docs/temes/esports/esqui/cinquanta-anys-desqui-olimpic.md#unit-0038",
         "docs/temes/esports/esqui/cinquanta-anys-desqui-olimpic.md#unit-0039",
         "docs/temes/esports/esqui/cinquanta-anys-desqui-olimpic.md#unit-0040",
@@ -3247,8 +3250,9 @@
         "docs/temes/esports/esqui/cinquanta-anys-desqui-olimpic.md#unit-0142"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 75,
+      "open_unit_count": 72,
       "conversation_ids": [
+        "albert-llovera-sarajevo-i-retorn-esport-001",
         "albertville-1992-tres-desqualificacions-supergegant-001",
         "cande-moreno-pequin-2022-combinada-001",
         "carlos-font-debut-jocs-hivern-1976-001",
@@ -13261,12 +13265,17 @@
       "title": "Albert Llovera i Massana",
       "type": "article",
       "topic": "temes/persones",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 48,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/persones/albert-llovera.md#unit-0002",
+        "docs/temes/persones/albert-llovera.md#unit-0003"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 48,
-      "conversation_ids": []
+      "open_unit_count": 46,
+      "conversation_ids": [
+        "albert-llovera-sarajevo-i-retorn-esport-001"
+      ]
     },
     "docs/temes/persones/albert-villaro.md": {
       "title": "Albert Villaró i Boix",

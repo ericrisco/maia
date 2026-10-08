@@ -4,10 +4,10 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 
 - Documents inventariats: **1477** (1348 articles).
 - Unitats estructurals totals: **62911**.
-- Unitats cobertes per converses aprovades: **371** (0.590%).
+- Unitats cobertes per converses aprovades: **376** (0.598%).
 - Unitats excloses amb motiu: **1186**.
-- Unitats encara obertes: **61354**.
-- Registres: **164**; aprovats: **107**; mostres de calibratge: **3** (no compten com a cobertura).
+- Unitats encara obertes: **61349**.
+- Registres: **165**; aprovats: **108**; mostres de calibratge: **3** (no compten com a cobertura).
 
 ## Estat per tema
 
@@ -50,7 +50,7 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 | `temes/esports/altres-esports` | 33 | 876 | 0 | 0 | 876 |
 | `temes/esports/competicio` | 7 | 721 | 0 | 0 | 721 |
 | `temes/esports/escacs` | 5 | 207 | 0 | 0 | 207 |
-| `temes/esports/esqui` | 2 | 169 | 78 | 0 | 91 |
+| `temes/esports/esqui` | 2 | 169 | 81 | 0 | 88 |
 | `temes/esports/esqui/esquiadors` | 32 | 798 | 0 | 0 | 798 |
 | `temes/esports/estiu` | 33 | 861 | 0 | 0 | 861 |
 | `temes/esports/formacio-esportiva` | 1 | 74 | 0 | 0 | 74 |
@@ -101,7 +101,7 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 | `temes/llengua/politica-linguistica` | 13 | 1288 | 0 | 0 | 1288 |
 | `temes/llengua/registres` | 1 | 14 | 0 | 0 | 14 |
 | `temes/llengua/tractament` | 1 | 30 | 0 | 0 | 30 |
-| `temes/persones` | 43 | 1167 | 0 | 0 | 1167 |
+| `temes/persones` | 43 | 1167 | 2 | 0 | 1165 |
 | `temes/politica/identitat-politica` | 3 | 325 | 0 | 0 | 325 |
 | `temes/politica/parlamentarisme` | 4 | 379 | 0 | 0 | 379 |
 | `temes/politica/partits` | 4 | 142 | 0 | 0 | 142 |
