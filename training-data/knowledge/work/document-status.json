@@ -8170,12 +8170,22 @@
       "title": "El desenllaç de la qüestió duanera",
       "type": "article",
       "topic": "temes/historia/segle-xix",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 134,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/historia/segle-xix/el-desenllac-de-la-questio-duanera.md#unit-0022",
+        "docs/temes/historia/segle-xix/el-desenllac-de-la-questio-duanera.md#unit-0023",
+        "docs/temes/historia/segle-xix/el-desenllac-de-la-questio-duanera.md#unit-0027",
+        "docs/temes/historia/segle-xix/el-desenllac-de-la-questio-duanera.md#unit-0028",
+        "docs/temes/historia/segle-xix/el-desenllac-de-la-questio-duanera.md#unit-0029",
+        "docs/temes/historia/segle-xix/el-desenllac-de-la-questio-duanera.md#unit-0032",
+        "docs/temes/historia/segle-xix/el-desenllac-de-la-questio-duanera.md#unit-0034"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 134,
-      "conversation_ids": []
+      "open_unit_count": 127,
+      "conversation_ids": [
+        "franquicia-duanera-1895-rebuig-i-argument-del-bisbe-001"
+      ]
     },
     "docs/temes/historia/segle-xix/el-prefecte-va-ratllar-la-paraula-republica.md": {
       "title": "El prefecte va ratllar la paraula república",
