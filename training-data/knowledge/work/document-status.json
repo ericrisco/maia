@@ -801,7 +801,7 @@
       "title": "Sergi Mas i Balaguer",
       "type": "article",
       "topic": "temes/cultura/arts-visuals",
-      "status": "in_progress",
+      "status": "complete",
       "unit_count": 63,
       "covered_unit_ids": [
         "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0002",
@@ -817,8 +817,8 @@
         "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0052",
         "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0055"
       ],
-      "excluded_unit_count": 47,
-      "open_unit_count": 4,
+      "excluded_unit_count": 51,
+      "open_unit_count": 0,
       "conversation_ids": [
         "meritxell-talla-perduda-i-imatge-de-sergi-mas-001",
         "sergi-mas-arribada-aixovall-001",
