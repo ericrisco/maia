@@ -1,7 +1,7 @@
 document,title,type,tema,status,conversation_ids,rights_status,notes
 docs/temes/costums/calendari-festiu/calendari-festiu-index-de-fitxes.md,Calendari festiu — índex de fitxes,index,,pending,,not-reviewed,
 docs/temes/costums/calendari-festiu/calendari-festiu.md,El calendari festiu,article,temes/costums/calendari-festiu,candidate,knowledge-calendar-festiu-overview-01;knowledge-court-holidays-1902-01,review-before-export,"La conversa sobre festes majors i la de la llista judicial del 1902 cobreixen part de la fitxa. Resten el cicle festiu complet, dates per parròquia, verificació de la premsa i drets."
-docs/temes/costums/calendari-festiu/el-carnaval-dencamp.md,El carnaval d'Encamp,article,temes/costums/calendari-festiu,candidate,knowledge-encamp-carnival-operation-01;knowledge-encamp-carnival-trial-01;knowledge-encamp-ossa-versions-01;knowledge-encamp-ossa-protagonists-01,review-before-export,"Coberts el judici, l’operació del Carnestoltes, les versions del ball de l’Ossa i el protagonisme dels dallaires. Resten altres actes, calendari anual, variants locals i revisió de drets."
+docs/temes/costums/calendari-festiu/el-carnaval-dencamp.md,El carnaval d'Encamp,article,temes/costums/calendari-festiu,candidate,knowledge-encamp-carnival-operation-01;knowledge-encamp-carnival-trial-01;knowledge-encamp-ossa-versions-01;knowledge-encamp-ossa-protagonists-01;knowledge-encamp-ordino-bear-festivities-01,review-before-export,"Afegida la distinció entre les farses d’Encamp i Ordino i el reconeixement transnacional UNESCO. Resten detalls de cada acte, calendari anual, variacions i drets."
 docs/temes/costums/caramelles/caramelles-index-de-fitxes.md,Caramelles — índex de fitxes,index,,pending,,not-reviewed,
 docs/temes/costums/caramelles/les-caramelles.md,Les caramelles,article,temes/costums/caramelles,pending,,not-reviewed,
 docs/temes/costums/costums-d-andorra-index-de-fitxes.md,Costums d'Andorra — índex de fitxes,index,,pending,,not-reviewed,
@@ -113,7 +113,7 @@ docs/temes/cultura/musica-i-cancons/la-canco-popular-andorrana.md,La cançó pop
 docs/temes/cultura/musica-i-cancons/liaem-i-el-1980.md,L'IAEM i el 1980,article,temes/cultura/musica-i-cancons,pending,,not-reviewed,
 docs/temes/cultura/musica-i-cancons/musica-i-cancons-index-de-fitxes.md,Música i cançons — índex de fitxes,index,,pending,,not-reviewed,
 docs/temes/cultura/musica-i-cancons/musica-i-cancons.md,Música i cançons,article,temes/cultura/musica-i-cancons,pending,,not-reviewed,
-docs/temes/cultura/teatre/el-teatre-de-carnestoltes.md,El teatre de Carnestoltes,article,temes/cultura/teatre,pending,,not-reviewed,
+docs/temes/cultura/teatre/el-teatre-de-carnestoltes.md,El teatre de Carnestoltes,article,temes/cultura/teatre,candidate,knowledge-encamp-ordino-bear-festivities-01,review-before-export,"Afegida la diferència de tema entre les farses d’Encamp i Ordino i el seu marc patrimonial compartit. Resten la resta de cicles, obres, dates, fonts i drets."
 docs/temes/cultura/teatre/la-vida-teatral.md,La vida teatral,article,temes/cultura/teatre,pending,,not-reviewed,
 docs/temes/cultura/teatre/teatre-index-de-fitxes.md,Teatre — índex de fitxes,index,,pending,,not-reviewed,
 docs/temes/economia/banca-i-fiscalitat/a-andorra-si-que-hi-havia-impost.md,"A Andorra sí que hi havia impost, i era sobre la renda",article,temes/economia/banca-i-fiscalitat,pending,,not-reviewed,
