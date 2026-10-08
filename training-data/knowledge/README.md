@@ -2,4 +2,4 @@
 
 Converses basades en el coneixement sobre Andorra de `docs/temes/`. Les preguntes han de semblar dubtes espontanis d'una persona, no instruccions per resumir documents.
 
-`review/conversations.jsonl` conté només mostres editorials i candidates. `review/provenance.jsonl` n'explica l'evidència i l'estat. `output/` queda sense dades fins que hi hagi aprovació, cobertura i revisió suficients.
+`review/conversations.jsonl` pot contenir mostres editorials i registres revisats. Consulta l'estat de cada conversa i les seves fonts a `review/provenance.jsonl`. Les converses revisades encara no formen una exportació completa: `output/` queda buit fins que es comprovin cobertura, drets, deduplicació i separació dels splits.
