@@ -1,47 +1,57 @@
-# Criteri i exemples de Maia Knowledge
+# Criteri de calibratge de Maia Knowledge
 
-Aquest fitxer governa les converses candidates a `conversations.jsonl`. Una bona conversa resol un dubte que una persona podria tenir sense haver llegit el corpus.
+Aquests exemples mostren el tipus de conversa que volem: una persona pregunta una cosa que realment necessita aclarir; la resposta resol el dubte; el seguiment surt d'allò que s'acaba de dir. Són mostres de criteri, no plantilles per copiar.
 
-## Regles
+## Què fa que soni humà
 
-1. Cada conversa té com a mínim dos torns de `user` i dos d'`assistant`.
-2. La primera pregunta és concreta i autònoma. No esmenta fitxes, seccions, files, gràfics ni IDs.
-3. La resposta comença pel que l'usuari vol saber; després hi afegeix només el context necessari.
-4. El seguiment és una pregunta nova que sorgeix de la resposta anterior. No canvia de tema per omplir torns ni repeteix la primera pregunta.
-5. Cada afirmació factual es pot rastrejar fins a un document del corpus. La procedència i els drets s'anoten fora de `messages`.
-6. Si el corpus no resol una qüestió, la resposta ho diu amb naturalitat i no inventa una explicació.
-7. La resposta ha de ser completa encara que la conversa s'acabi després de qualsevol torn d'assistent.
-8. Llegeix el diàleg sense la font. Si no sona com una conversa útil, reescriu-lo o descarta'l.
+- La pregunta té sentit fora del corpus i sense haver llegit cap fitxa.
+- El context és suficient però no teatral. No inventem qui és l'usuari, on va, què sent ni què ha llegit.
+- El seguiment reprèn una idea concreta de la resposta anterior.
+- Cada resposta és completa per si sola. No deixem una dada important per al torn següent.
+- Quan les fonts no resolen una qüestió, la resposta ho diu amb precisió i sense convertir el buit en una certesa.
 
-## Exemples acceptables
+## Exemples de referència
 
-### Dubte i aclariment
+### Distingir dues tradicions
 
 ```json
-{"messages":[{"role":"user","content":"La Passa de Sant Julià és un ball?"},{"role":"assistant","content":"No. És una cercavila de parelles de fadrins pels carrers principals, i es considera un ritu de pas."},{"role":"user","content":"Qui hi va al davant?"},{"role":"assistant","content":"Les parelles que es casaran aquell any, anomenades «majors fadrins». La resta desfila darrere seu, de més grans a més joves."}]}
+{"messages":[{"role":"user","content":"La Passa i la Marratxa són dos balls de Sant Julià?"},{"role":"assistant","content":"Només la Marratxa és un ball. La Passa és una cercavila de parelles de fadrins; totes dues formen part del dilluns de la festa major de Sant Julià de Lòria."},{"role":"user","content":"I com s'ordena la gent a la Passa?"},{"role":"assistant","content":"Al davant hi van les parelles que es casaran aquell any, conegudes com a «majors fadrins». Darrere seu, les altres parelles desfilen de més grans a més joves."}]}
 ```
 
-### Confusió corregida i conseqüència
+### Aclarir què va passar amb un objecte
 
 ```json
-{"messages":[{"role":"user","content":"La Passa i la Marratxa són dos balls de la festa major?"},{"role":"assistant","content":"No ben bé: la Marratxa és un ball, però la Passa és una cercavila de parelles de fadrins. Totes dues es fan el dilluns de la festa major de Sant Julià."},{"role":"user","content":"Aleshores, la Passa també té una coreografia?"},{"role":"assistant","content":"El corpus no ho documenta com una dansa ni descriu cap coreografia. El que sí que explica és l'ordre de la cercavila: al davant hi van les parelles que es casaran aquell any."}]}
+{"messages":[{"role":"user","content":"La imatge de Meritxell que es venera avui és la talla medieval original?"},{"role":"assistant","content":"No. La talla original, del segle XII, es va perdre en l'incendi del santuari la nit del 8 al 9 de setembre de 1972. La imatge actual és una rèplica."},{"role":"user","content":"Se sap qui va fer la rèplica?"},{"role":"assistant","content":"Sí. La va fer l'escultor Sergi Mas. El santuari nou, projectat per Ricard Bofill, es va inaugurar el 1976."}]}
 ```
 
-### Pregunta pràctica amb límit explícit
+### Comparar versions sense inventar-ne una de definitiva
 
 ```json
-{"messages":[{"role":"user","content":"Els estripagecs dels cims d'Ordino són antics o els van instal·lar fa poc?"},{"role":"assistant","content":"Les peces dels cims són modernes: sis rèpliques d'1,4 metres es van instal·lar el juny del 2017. A Sorteny ja hi havia cinc tòtems de vuit metres des de la tardor del 2015."},{"role":"user","content":"Es poden veure tots en una sola excursió?"},{"role":"assistant","content":"El conjunt es presenta com un repte d'excursionisme, però el corpus no especifica si tots els punts es fan en una sola ruta ni quant dura."}]}
+{"messages":[{"role":"user","content":"He trobat dues explicacions diferents de l'argument de l'Ossa d'Encamp. Quina és la bona?"},{"role":"assistant","content":"El corpus recull versions diferents i no en determina una com a definitiva. La descripció de Joan Amades, publicada el 1950, explica que l'ós s'acosta a un rusc de cartó i un caçador el mata. Una altra font descriu una cacera de l'ossa per les muntanyes amb contingut sexual."},{"role":"user","content":"Això vol dir que l'obra va canviar amb els anys?"},{"role":"assistant","content":"Les descripcions no coincideixen, però el corpus no permet establir quan ni per què va canviar l'argument, ni quina versió és la més antiga. És més exacte parlar de relats diferents que no pas donar per resolta la seva evolució."}]}
 ```
 
-## Exemples que cal rebutjar
+### Separar una versió actual d'una tradició antiga
 
-- «Què explica la secció “El relat” de la fitxa de Meritxell?» — pressuposa que l'usuari coneix una fitxa interna.
-- «Què indica aquesta fila?» — no diu quin dubte vol resoldre.
-- «I dos topònims que en surten:» — no és una pregunta completa i no té resposta.
-- «Què és X?» repetit per cada document — és una plantilla, no una conversa.
-- Resposta que enganxa una llista del document sense explicar què vol dir.
-- Seguiment que salta a una altra fitxa només per fer la conversa més llarga.
+```json
+{"messages":[{"role":"user","content":"La Marratxa que es balla avui conserva una coreografia antiga?"},{"role":"assistant","content":"La coreografia actual es va fixar als anys seixanta. Ricard Mas, dansaire del ball durant més de vint anys, va conservar-ne els passos i la música. El compositor Daniel Areny va recollir de la seva memòria les variacions de la tonada, i Isidre Marbà les va harmonitzar i hi va crear una coreografia. L'Esbart Laurèdia la interpreta des del 1963."},{"role":"user","content":"Aleshores sabem que la dansa va començar als anys seixanta?"},{"role":"assistant","content":"No. Aquesta data correspon a la fixació de la versió actual, no pas a l'origen de la dansa. La tradició la situa el 7 de setembre de 1278, però la fitxa del Pareatge dona el 8 de setembre; el corpus registra la discrepància i no la resol."}]}
+```
 
-## Abans d'afegir una conversa
+### Respondre amb honestedat quan falta una dada
 
-Comprova-la contra quatre coses: naturalitat, fil entre torns, exactitud factual i procedència. Anota també a `work/coverage.csv` quins fets o parts del document queden coberts. No marquis un document complet si hi ha una secció, taula, llista, excepció o incertesa encara no revisada.
+```json
+{"messages":[{"role":"user","content":"Quina música acompanya el ball de l'Ossa d'Encamp?"},{"role":"assistant","content":"El corpus no identifica la música ni els instruments propis de la representació d'Encamp. La fitxa de la UNESCO esmenta música en la descripció general de les festes de l'ós dels Pirineus, però no concreta el repertori d'Encamp."},{"role":"user","content":"Per tant, durant la representació no hi ha música?"},{"role":"assistant","content":"Això no es pot concloure. Que el corpus no n'identifiqui el repertori no vol dir que no n'hi hagi; simplement, aquesta dada local encara no està documentada aquí."}]}
+```
+
+## Exemples que no passen el criteri
+
+- «Què explica la secció “El relat” de la fitxa de Meritxell?» — depèn de conèixer un document intern.
+- «Què indica aquesta fila?» — no explica quin dubte vol resoldre i no té referent.
+- «2014 — verd, 57,7 — morat, 56,4» — és una resposta fragmentària sense context ni explicació.
+- «I dos topònims que en surten:» — no és una pregunta completa.
+- Afegir «vaig a visitar-ho aquest cap de setmana» si la resposta no necessita ni pot resoldre aquesta situació — context inventat que no aporta res.
+- Fer una segona pregunta d'un altre tema només per arribar a dos torns — conversa forçada.
+- Repetir «Què és X?» per a cada fitxa — plantilla recognoscible, no diversitat real.
+
+## Porta d'entrada
+
+Abans d'afegir una conversa a `review/`, comprova els punts del [pla](../../PLAN.md), valida cada afirmació contra el corpus i registra les fitxes font i els drets a `work/provenance.jsonl`. Si el diàleg no se sosté tot sol, reescriu-lo o descarta'l. Aquestes mostres de calibratge tampoc no passen a `output/` automàticament.
