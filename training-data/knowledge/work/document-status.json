@@ -13754,11 +13754,16 @@
         "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0056",
         "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0057",
         "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0062",
+        "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0063",
+        "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0064",
+        "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0065",
+        "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0066",
+        "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0067",
         "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0070",
         "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0071"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 22,
+      "open_unit_count": 17,
       "conversation_ids": [
         "aportacions-privades-partits-limits-i-treball-voluntari-001",
         "consell-general-minim-maxim-constitucio-i-llei-001",
@@ -13776,6 +13781,7 @@
         "repartiment-escons-consell-general-resta-mes-elevada-001",
         "signatures-presentacio-candidatures-consell-general-001",
         "sorteig-electoral-constancia-dus-historic-001",
+        "subvencio-electoral-imports-per-vot-i-escó-topall-001",
         "subvencio-representacio-llindar-i-candidatura-independent-001",
         "vot-llista-completa-preferencies-candidats-001"
       ]
