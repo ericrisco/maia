@@ -47,6 +47,16 @@ Una pregunta bona és específica sense dependre de vocabulari editorial. No con
 
 Si alguna resposta és «no», el registre encara és un esborrany.
 
+## Cobertura íntegra del brain
+
+La font de Knowledge és tot `maia/docs/temes/`, no una selecció de temes populars. L'inventari `knowledge/work/coverage.csv` inclou cada fitxer Markdown, també els índexs i documents que acabin justificant-se com a no entrenables. Cap fitxer es considera cobert només perquè n'hàgim llegit el títol.
+
+Per cada article cal revisar les seccions, paràgrafs, llistes, taules i enllaços rellevants. Cada dada o idea entrenable ha de quedar representada en una o més converses; si no s'inclou, l'inventari n'ha de registrar el motiu. El progrés es marca per fitxer i per conversa, amb procedència. Els índexs serveixen per trobar relacions i no per generar preguntes sobre l'índex mateix.
+
+La font de Language és tot `maia/docs/parla/`. `language/work/coverage.csv` enumera totes les peces Markdown; cadascuna s'ha d'avaluar per autenticitat, transcripció, drets i elegibilitat. Una peça pendent no és una peça aprovada. No es generen respostes sintètiques per omplir buits.
+
+La cobertura només es pot donar per acabada quan tots els elements dels dos inventaris tenen estat revisat, inclòs o exclòs amb motiu, i els registres tenen procedència comprovable.
+
 ## Fases
 
 1. **Calibratge:** revisar les primeres converses i ajustar la guia d'estil amb exemples concrets.
