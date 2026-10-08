@@ -2004,12 +2004,20 @@
       "title": "Les mateixes bèsties passaven dues vegades pel cens",
       "type": "article",
       "topic": "temes/economia/comerc",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 58,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/economia/comerc/les-mateixes-besties-passaven-dues-vegades-pel-cens.md#unit-0010",
+        "docs/temes/economia/comerc/les-mateixes-besties-passaven-dues-vegades-pel-cens.md#unit-0017",
+        "docs/temes/economia/comerc/les-mateixes-besties-passaven-dues-vegades-pel-cens.md#unit-0021",
+        "docs/temes/economia/comerc/les-mateixes-besties-passaven-dues-vegades-pel-cens.md#unit-0024",
+        "docs/temes/economia/comerc/les-mateixes-besties-passaven-dues-vegades-pel-cens.md#unit-0027"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 58,
-      "conversation_ids": []
+      "open_unit_count": 53,
+      "conversation_ids": [
+        "denuncia-comptatge-bestiar-i-vilar-1904-001"
+      ]
     },
     "docs/temes/economia/comerc/les-mesures-i-les-monedes.md": {
       "title": "Les mesures i les monedes",
