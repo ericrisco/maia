@@ -8175,12 +8175,14 @@
       "status": "in_progress",
       "unit_count": 56,
       "covered_unit_ids": [
+        "docs/temes/historia/segle-xix/nova-reforma.md#unit-0002",
         "docs/temes/historia/segle-xix/nova-reforma.md#unit-0007"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 55,
+      "open_unit_count": 54,
       "conversation_ids": [
-        "nova-reforma-abans-eleccio-i-imposicio-001"
+        "nova-reforma-abans-eleccio-i-imposicio-001",
+        "nova-reforma-vint-i-quatre-consellers-renovacio-001"
       ]
     },
     "docs/temes/historia/segle-xix/o-ho-accepteu-o-el-bestiar-passa-a-ser-estranger.md": {
