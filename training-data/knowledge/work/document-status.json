@@ -1882,13 +1882,19 @@
         "docs/temes/economia/comerc/amb-qui-comercia-andorra.md#unit-0040",
         "docs/temes/economia/comerc/amb-qui-comercia-andorra.md#unit-0041",
         "docs/temes/economia/comerc/amb-qui-comercia-andorra.md#unit-0042",
-        "docs/temes/economia/comerc/amb-qui-comercia-andorra.md#unit-0043"
+        "docs/temes/economia/comerc/amb-qui-comercia-andorra.md#unit-0043",
+        "docs/temes/economia/comerc/amb-qui-comercia-andorra.md#unit-0074",
+        "docs/temes/economia/comerc/amb-qui-comercia-andorra.md#unit-0075",
+        "docs/temes/economia/comerc/amb-qui-comercia-andorra.md#unit-0076",
+        "docs/temes/economia/comerc/amb-qui-comercia-andorra.md#unit-0078",
+        "docs/temes/economia/comerc/amb-qui-comercia-andorra.md#unit-0079"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 84,
+      "open_unit_count": 79,
       "conversation_ids": [
         "comerc-exportacions-destins-1997-2025-001",
-        "comerc-importacions-exportacions-i-pic-2022-001"
+        "comerc-importacions-exportacions-i-pic-2022-001",
+        "comerc-pic-importacio-tabac-1997-001"
       ]
     },
     "docs/temes/economia/comerc/blat-cerdanya-parroquies-1904.md": {
