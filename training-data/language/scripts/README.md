@@ -1,3 +1,3 @@
-# Eines de Language
+# Language scripts
 
-Afegirem eines quan els criteris d'elegibilitat i transcripció estiguin prou definits per automatitzar-los sense perdre control humà.
+Encara no hi ha scripts. Primer cal revisar l'elegibilitat i la qualitat de les transcripcions.

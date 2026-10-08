@@ -1,3 +1,3 @@
-# Sortida de Knowledge
+# Knowledge output
 
-Encara no hi ha cap exportació. Només s'hi escriuen converses aprovades i amb els drets de les fonts revisats.
+Buit expressament. No hi haurà fitxers train/validation/test fins que els registres passin la revisió de naturalitat, exactitud, drets i duplicats.

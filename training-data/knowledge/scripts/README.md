@@ -1,3 +1,3 @@
-# Eines de Knowledge
+# Knowledge scripts
 
-Afegirem scripts quan hi hagi una necessitat repetible i un criteri estable. Els scripts no poden aprovar per si sols la naturalitat d'una conversa.
+Encara no hi ha scripts. Primer acordem el criteri editorial amb exemples petits; després afegirem només les eines necessàries per inventariar, validar i exportar.

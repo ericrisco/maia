@@ -1,3 +1,3 @@
-# Informes de Knowledge
+# Knowledge reports
 
-Resums de cobertura, qualitat, duplicats i exclusions. No confonguis documents inspeccionats amb temes ben representats en converses útils.
+Els informes de cobertura i qualitat s'afegiran quan comenci la revisió sistemàtica. Els tres exemples actuals són només una prova d'estil.

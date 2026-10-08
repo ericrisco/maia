@@ -1,11 +1,5 @@
 # Maia Knowledge
 
-Ensenya a respondre preguntes sobre Andorra amb informació de `docs/temes/`.
+Col·lecció de converses útils sobre Andorra, basades en `docs/temes/`. La conversa ha de respondre una curiositat o necessitat recognoscible; no ha de demanar que l'assistent reciti una secció o una fila.
 
-- `examples/`: poques converses contrastades per calibrar naturalitat i fidelitat.
-- `review/`: candidats que encara necessiten revisió.
-- `work/`: inventari de cobertura i procedència, fora dels missatges.
-- `reports/`: què s'ha cobert, què falta i per què s'han descartat registres.
-- `output/`: només converses aprovades per contingut i drets.
-
-No cal generar una conversa per cada document. Cal cobrir coneixement útil sense convertir els títols, apartats o taules en preguntes.
+Els exemples de `examples/` són material de calibratge, no un dataset aprovat. `work/` guardarà cobertura i procedència; `output/` només rebrà registres revisats i autoritzats.

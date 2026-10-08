@@ -1,49 +1,36 @@
-# Pla: converses que comencen en una necessitat humana
+# Pla de treball: converses que una persona faria
 
-## Què va fallar
+## Per què refem els exemples
 
-Les preguntes com «què explica aquesta secció?» o «què indica aquesta fila?» són ordres de lectura, no dubtes que una persona tindria sobre Andorra. També fallen les respostes penjades —per exemple, anunciar «tres coses» sense explicar-les— i els seguiments afegits només per complir una longitud.
+Preguntes com «què explica aquesta secció?» comproven si el model ha llegit un document, no si sap ajudar una persona. També són dolentes les preguntes amb context inventat, les dades obscures sense motiu i els seguiments que només allarguen el diàleg.
 
-## Objectiu
+## Criteri de conversa
 
-Crear converses breus i multitorn que ajudin una persona a entendre, decidir o aclarir alguna cosa. La pregunta surt d'una situació recognoscible; la resposta usa els documents de Maia i explica el que cal amb paraules pròpies. El diàleg pot tenir dos o més seguiments, però només mentre cada torn nou sigui una continuació versemblant.
+1. **Comença per una intenció humana concreta.** Per exemple: entendre què veurà algú en una festa, aclarir una tradició, situar un fet en el temps o distingir dues versions.
+2. **Redacta la pregunta sense mirar el títol ni l'estructura de la fitxa.** Ha de tenir sentit per a algú que no sap com està organitzat Maia.
+3. **Dona la resposta principal al primer torn.** Explica prou perquè sigui útil encara que la conversa s'acabi aquí.
+4. **Fes un seguiment només quan una resposta desperti una pregunta versemblant.** El seguiment ha de demanar una cosa nova. No repeteixis la mateixa dada amb altres paraules.
+5. **No inventis una biografia ni una situació personal** per fer que la pregunta sembli natural. Un pla hipotètic simple —com triar quin dia assistir a una festa— és acceptable si la informació realment l'ajuda.
+6. **Separa fets, relats i incerteses.** Una llegenda es presenta com a llegenda. Una font que no resol una qüestió no autoritza a completar-la per intuïció.
+7. **Revisa només el diàleg, sense veure la font.** Si sembla un examen, una ordre per resumir o una consulta sobre el repositori, reescriu-lo o descarta'l.
+8. **Comprova cada afirmació amb les fonts** i desa la procedència i els drets en fitxers de treball separats.
 
-## Mètode per a cada conversa
+## Multitorn sense farciment
 
-1. **Tria una intenció humana**, abans de redactar: entendre una regla, preparar una visita, comprovar una dada, distingir dues coses, saber què implica una pràctica o aclarir una contradicció.
-2. **Consulta les fonts necessàries** a `docs/temes/`. Apunta les afirmacions que responen a aquella intenció i també els límits o desacords rellevants.
-3. **Escriu la pregunta inicial sense mirar els títols de les fitxes.** Ha de ser comprensible per a algú que no coneix Maia ni la seva estructura.
-4. **Contesta de seguida i amb context suficient.** No reservis la dada principal per al torn següent. Marca llegendes, interpretacions i incerteses com a tals.
-5. **Afegeix un seguiment només si la resposta el provoca.** Ha de demanar una precisió o conseqüència nova sobre una idea que acaba d'aparèixer. Si no n'hi ha cap de natural, descarta el fil; no inventis una pregunta de farciment.
-6. **Llegeix el diàleg sense veure'n la font.** Si sona com una consulta sobre un document o una prova escolar, torna al pas 1.
-7. **Verifica cada afirmació i registra fonts, llicència i hash fora de `messages`.** Una dada sense suport no s'hi incorpora.
+Els exemples de calibratge tenen almenys dos parells de torns per mostrar continuïtat. Això no obliga a allargar totes les converses futures: si no hi ha un seguiment natural, es canvia de tema o es descarta el fil. Cada parell de torns ha de ser útil per si sol.
 
-## Forma de les converses
+## Prova ràpida de qualitat
 
-- Cada línia de JSONL conté una conversa completa amb missatges alternats `user` i `assistant`.
-- Cada conversa de Knowledge tindrà com a mínim dues parelles de torns, sempre que el seguiment sigui natural. No s'allarga artificialment per satisfer aquesta regla.
-- La primera resposta resol la pregunta inicial; cada resposta posterior també resol el seu torn.
-- Els missatges no inclouen títols de fitxa, seccions, files, gràfics, IDs, etiquetes de revisió ni comentaris sobre el corpus.
-- No inventis experiències personals, emocions ni context biogràfic per fer que una pregunta sembli espontània.
-- No facis servir una plantilla repetida canviant només el nom propi.
-- Les fonts i notes editorials van en fitxers de procedència separats.
+- La pregunta inicial és una cosa que algú preguntaria sense haver vist la font?
+- Queda clar què vol saber i a què es refereix?
+- La primera resposta contesta directament i amb prou context?
+- El seguiment neix de la resposta anterior i aporta informació nova?
+- La conversa continua sonant natural llegida en veu alta?
+- Les afirmacions són fidels a fonts consultades i no amaguen incerteses?
 
-## Prova de naturalitat
+Un «no» vol dir revisar o descartar. La cobertura del corpus no justifica una pregunta artificial.
 
-Abans d'acceptar cada conversa, respon sí a totes aquestes preguntes:
-
-1. Algú podria fer la pregunta inicial sense haver llegit la font?
-2. S'entén què vol aclarir i de què parla?
-3. La primera resposta és completa i útil si la conversa s'acaba aquí?
-4. El seguiment sorgeix d'una curiositat que la resposta acaba de despertar?
-5. Cada torn aporta informació nova sense desviar-se ni repetir-se?
-6. La resposta diferencia fets, llegendes, versions i incerteses?
-7. Totes les afirmacions es poden rastrejar fins a una font autoritzada?
-8. El diàleg sona natural llegit en veu alta, sense haver vist cap títol o document?
-
-Un «no» vol dir reescriure o descartar. La cobertura no justifica una pregunta artificial.
-
-## Estructura
+## Estructura i fases
 
 ```text
 training-data/
@@ -51,30 +38,24 @@ training-data/
 ├── PLAN.md
 ├── knowledge/
 │   ├── README.md
-│   ├── examples/       # Exemples curts per calibrar l'estil
-│   ├── review/         # Converses candidates, encara no exportables
-│   ├── work/           # Cobertura i procedència
-│   ├── reports/        # Qualitat, exclusions i cobertura
-│   ├── scripts/        # Eines, quan calguin
-│   └── output/         # Només registres aprovats
+│   ├── examples/       # Pocs exemples per acordar el criteri
+│   ├── work/           # Inventari, cobertura i procedència
+│   ├── reports/        # Cobertura, qualitat i exclusions
+│   ├── scripts/        # Eines de validació o generació, quan calguin
+│   └── output/         # Només converses aprovades i amb drets revisats
 └── language/
     ├── README.md
-    ├── review/
     ├── work/
     ├── reports/
     ├── scripts/
     └── output/
 ```
 
-## Ordre de treball
+1. Acordar l'estil amb els exemples petits de Knowledge.
+2. Ajustar el criteri si encara sonen a preguntes d'examen.
+3. Recuperar o reconstruir l'inventari i la procedència; no convertir cada fitxa en una pregunta automàtica.
+4. Crear converses en lots petits, amb revisió humana de naturalitat i exactitud.
+5. Treballar Language a part: només veu humana contemporània elegible i transcripció prou fiable; no inventar respostes per imitar parlants.
+6. Exportar i fer splits només quan contingut, drets, cobertura i duplicats estiguin revisats.
 
-1. Acordar el criteri amb pocs exemples contrastats.
-2. Revisar els exemples només llegint `messages`.
-3. Recuperar l'inventari de cobertura i procedència sense convertir-lo en preguntes per document.
-4. Crear converses per necessitats humanes, agrupant fets relacionats quan ajudin a respondre aquella necessitat.
-5. Revisar naturalitat, exactitud, duplicats, drets i cobertura abans d'exportar.
-6. Fer Knowledge i Language per separat. A Language només entra parla humana contemporània elegible i transcripció prou fiable.
-
-## Límits de l'exportació
-
-`output/` no s'omple automàticament. No s'exporten candidats pendents de revisió, fonts sense drets aclarits ni material de parla dubtós. El format d'entrenament conté només `messages`; les dades de procedència queden en fitxers interns.
+`output/` comença buit expressament. Els exemples no són encara dades aprovades per entrenar.

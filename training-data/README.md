@@ -1,10 +1,7 @@
 # Maia Training Data
 
-Àrea per preparar dues col·leccions separades:
+Àrea de preparació de dues col·leccions separades. Knowledge ensenya a respondre sobre Andorra amb informació de `docs/temes/`. Language conserva trets del català andorrà contemporani a partir de parla humana elegible de `docs/parla/`.
 
-- **Knowledge** ensenya a respondre preguntes sobre Andorra a partir de `docs/temes/`.
-- **Language** conserva trets del català andorrà contemporani a partir de parla humana elegible a `docs/parla/`.
+Els exemples actuals serveixen per acordar l'estil. No són exportacions d'entrenament. La procedència, els drets i les decisions de revisió es documenten fora de `messages`.
 
-Els fitxers `review/` i `examples/` són material de treball. Només el que passi la revisió de contingut, naturalitat i drets podrà arribar a `output/`. La procedència i la cobertura es guarden fora dels missatges d'entrenament.
-
-Comença per [PLAN.md](PLAN.md), [knowledge/README.md](knowledge/README.md) i [language/README.md](language/README.md).
+Comença per [PLAN.md](PLAN.md), [Knowledge](knowledge/README.md) i [Language](language/README.md).

@@ -1,3 +1,3 @@
-# Informes de Language
+# Language reports
 
-Compta peces i fragments inclosos o exclosos i explica els motius. Agrupa els splits per peça o entrevista per evitar que fragments veïns apareguin en conjunts diferents.
+Els informes indicaran peces revisades, incloses i excloses, i els motius. Encara no s'ha iniciat aquesta revisió.

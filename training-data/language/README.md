@@ -1,7 +1,5 @@
 # Maia Language
 
-Objectiu separat de Knowledge: conservar trets del català andorrà contemporani a partir de parla humana de `docs/parla/`.
+Col·lecció separada per preservar usos reals del català andorrà contemporani a partir de `docs/parla/`. Només s'hi podrà incorporar veu humana elegible, amb transcripció prou fiable i drets revisats. No s'inventaran preguntes o respostes per simular com parlaria una persona.
 
-Només són elegibles peces amb `veu: originaria`, `epoca: contemporania` i `apte_llengua: true`. Cal revisar també els avisos de transcripció. No inventem frases per fer créixer el volum: el text d'assistent ha de provenir del material humà, amb normalització mínima i traçable.
-
-`review/` contindrà fragments candidats; `work/`, elegibilitat i procedència; `reports/`, inclusions i exclusions; `output/`, només fragments aprovats i separats per peça per evitar filtracions entre splits.
+Els exemples de Knowledge no pertanyen a aquesta col·lecció. `output/` romandrà buit fins que s'hagi revisat el material lingüístic.

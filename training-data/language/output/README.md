@@ -1,3 +1,3 @@
-# Sortida de Language
+# Language output
 
-Encara no hi ha cap exportació. Només s'hi escriu parla humana elegible, revisada i agrupada per peça als splits.
+Buit expressament. Només s'hi exportarà parla humana elegible amb transcripció fiable i drets revisats.
