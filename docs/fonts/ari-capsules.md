@@ -20,6 +20,11 @@ notes: >
   La metadada de YouTube declara CC BY per a #34, #49, #56, #57, #60 i #65;
   altres peces encara no estan comprovades. La captura de #49 del 2026-09-25,
   amb hash ff1dcbb286b6b557a77fbf4d0bd781759135f41e44e0e540060ef51996ae7d17, és a docs/raw/parla/ari-capsula-49/youtube-info-2026-09-25.json.
+  El 2026-10-08 s'han capturat també les metadades individuals de #34, #56 i
+  #57 a docs/raw/parla/ari-capsula-34/youtube-info-2026-10-08.json,
+  docs/raw/parla/ari-capsula-56/youtube-info-2026-10-08.json i
+  docs/raw/parla/ari-capsula-57/youtube-info-2026-10-08.json; totes tres
+  declaren «Creative Commons Attribution license (reuse allowed)».
   El registre global queda pendent perquè la llicència no s'ha verificat per a
   totes les peces. La llicència d'una peça no valida la seva transcripció ni
   acredita la identitat o varietat lingüística del ponent.

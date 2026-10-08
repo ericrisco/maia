@@ -1,0 +1,23 @@
+{
+  "capture": {
+    "captured_at_utc": "2026-10-08",
+    "method": "yt-dlp --no-warnings --no-playlist --dump-single-json --skip-download",
+    "tool": "yt-dlp",
+    "tool_version": "2026.03.17",
+    "source_url": "https://youtu.be/lC14HCz82_Y"
+  },
+  "metadata": {
+    "id": "lC14HCz82_Y",
+    "title": "Càpsula #56. La vida a pagès, per Albert Rossa.",
+    "uploader": "Andorra Recerca Innovació",
+    "channel": "Andorra Recerca Innovació",
+    "channel_id": "UC_sgrb5DXkWphnjcW1YThzg",
+    "channel_url": "https://www.youtube.com/channel/UC_sgrb5DXkWphnjcW1YThzg",
+    "upload_date": "20200629",
+    "release_date": null,
+    "license": "Creative Commons Attribution license (reuse allowed)",
+    "webpage_url": "https://www.youtube.com/watch?v=lC14HCz82_Y",
+    "duration": 742,
+    "availability": "public"
+  }
+}
