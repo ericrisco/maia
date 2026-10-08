@@ -1,11 +1,11 @@
 # Maia Knowledge
 
-Converses sobre Andorra basades en `docs/temes/`.
+Converses factuals sobre Andorra basades en `docs/temes/`. La prioritat és que la gent pregunti com preguntaria en una conversa real i rebi una resposta correcta, útil i ben matisada.
 
-- `examples/conversations.jsonl`: cinc mostres multitorn per calibrar naturalitat i qualitat de resposta.
-- `examples/provenance.jsonl`: fonts, afirmacions, límits i situació dels drets de les mostres.
-- `review/GUIA.md`: criteris editorials i procés de revisió. La cua de candidates s'ha buidat per començar amb el criteri nou.
-- `work/coverage.csv`: inventari de tots els documents de `docs/temes/` i estat de cobertura.
-- `output/README.md`: condicions per crear exports futurs.
+- `examples/`: exemples de calibratge, exclosos de l'entrenament.
+- `review/`: converses candidates pendents d'aprovació.
+- `work/`: cobertura i registres de curació.
+- `output/`: exports aprovats; encara no n'hi ha.
+- `reports/`: resultats de cobertura, qualitat i drets.
 
-Les converses d'exemple no són un dataset d'entrenament ni compten com a cobertura. Encara no hi ha candidates ni exports. No s'exporta cap font mentre els drets no estiguin revisats.
+Consulta [`../PLAN.md`](../PLAN.md) abans d'afegir registres.

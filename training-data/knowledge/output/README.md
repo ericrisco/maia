@@ -1,3 +1,3 @@
 # Exports Knowledge
 
-Aquest directori és buit a propòsit. Només hi entraran converses revisades, deduplicades i amb drets elegibles. Els splits es faran per tema o font per evitar que reformulacions d'una mateixa conversa apareguin en particions diferents.
+Els fitxers train, validation i test es generaran després d'aprovar, deduplicar i agrupar les converses. Encara no hi ha exports: els exemples de calibratge no s'hi copien.

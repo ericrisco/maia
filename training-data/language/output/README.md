@@ -1,3 +1,3 @@
 # Exports Language
 
-Buit fins que les peces elegibles de parla humana hagin passat la revisió. Els fragments consecutius d'una mateixa entrevista s'han de mantenir junts en separar train, validation i test.
+Els splits es generaran després d'auditar les peces elegibles i excloure transcripcions incertes. No hi ha exports provisionals.

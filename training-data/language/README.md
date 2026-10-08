@@ -1,7 +1,10 @@
 # Maia Language
 
-Aquest dataset ensenya patrons del català andorrà contemporani a partir de parla humana de `docs/parla/`. No és un dataset de coneixement sobre Andorra.
+Aquest dataset ensenya patrons de llengua a partir de parla andorrana real, no coneixement sobre Andorra. La font és `docs/parla/`.
 
-Només s'hi admet material amb origen humà, època contemporània i `apte_llengua: true`, després de revisar transcripció, fragment, consentiment i condicions d'ús. Les respostes no s'inventen ni es generen per imitar una veu local.
+Només es pot incloure material amb `veu: originaria`, `epoca: contemporania` i `apte_llengua: true`, drets compatibles amb l'ús i transcripció verificada. Les respostes han de provenir de persones enregistrades; no s'inventen torns per fer-les sonar andorranes. Es preserven lèxic, sintaxi i expressió oral, amb normalització mínima i documentada.
 
-`work/` guardarà l'inventari i les decisions d'elegibilitat. `output/` continuarà buit fins que els fragments passin la revisió i els drets permetin l'ús.
+- `work/`: inventari d'elegibilitat, verificació i cobertura.
+- `review/`: fragments humans candidats amb traçabilitat.
+- `output/`: exports aprovats.
+- `reports/`: peces incloses i exclusions, motius i qualitat de transcripció.
