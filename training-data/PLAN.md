@@ -30,7 +30,7 @@ training-data/
 └── language/
     ├── README.md
     ├── scripts/
-    ├── review/                    # fragments i procedència
+    ├── review/                    # segments literals i procedència alineada
     ├── work/
     ├── reports/
     └── output/
@@ -98,12 +98,14 @@ No inventeu una situació personal només per fer que la pregunta sembli humana.
    `knowledge/review/provenance.jsonl`.
 4. **Revisar i cobrir.** Revisar to, evidència, drets, duplicats i quines
    afirmacions rellevants encara no tenen cap conversa útil.
-5. **Tractar Language a part.** Seleccionar només parla humana contemporània
-   elegible de `docs/parla/`; no inventar diàlegs ni respostes per imitar una
+5. **Tractar Language a part.** Seleccionar parla humana contemporània amb
+   elegibilitat i procedència registrades. Extreure'n línies literals, excloure
+   les que tenen marques explícites d'incertesa i anotar quan falta verificar la
+   transcripció contra l'àudio. No inventar diàlegs ni respostes per imitar una
    varietat lingüística.
-6. **Exportar després de l'aprovació.** Separar train, validation i test per
-   font o tema per evitar que la mateixa informació aparegui als dos costats
-   de l'avaluació.
+6. **Exportar després de revisar les fonts.** Knowledge es divideix per tema o
+   font; Language, per peça de parla. Així la mateixa informació o veu no queda
+   repartida entre train, validation i test.
 7. **Auditar l'exportació.** Validar esquema, duplicats, procedència, drets,
    cobertura i criteris de qualitat abans de donar-la per bona.
 

@@ -32,6 +32,7 @@ class SpeechProvenance:
     source_path: str | None
     status: ProvenanceStatus
     redistribution: str | None
+    licence: str | None = None
 
 
 @dataclass(frozen=True, slots=True)
@@ -163,8 +164,10 @@ def _provenance(
                     redistribution = "si" if raw_redistribution else "no"
                 else:
                     redistribution = str(raw_redistribution).strip().casefold()
+                raw_licence = card.document.metadata.get("llicencia")
+                licence = str(raw_licence).strip() if raw_licence else None
                 references.append(
-                    SpeechProvenance(source_id, card.path, "recorded", redistribution)
+                    SpeechProvenance(source_id, card.path, "recorded", redistribution, licence)
                 )
                 continue
         stem_entry = by_stem.get(source_id)
