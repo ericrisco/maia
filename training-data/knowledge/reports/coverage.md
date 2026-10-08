@@ -4,9 +4,9 @@ Informe regenerable a partir de l'inventari, `conversations.jsonl` i `records.js
 
 - Documents Markdown inventariats: **1477**.
 - Articles del brain: **1348**.
-- Converses de revisió amb registre: **23**.
-- Articles citats per almenys una conversa: **8**.
-- Unitats estructurals enllaçades explícitament amb `unit_ids`: **24**.
+- Converses de revisió amb registre: **24**.
+- Articles citats per almenys una conversa: **9**.
+- Unitats estructurals enllaçades explícitament amb `unit_ids`: **26**.
 
 > La cobertura d'un article només indica que hi ha una conversa que el cita. No implica que tot el document, tema o coneixement estigui cobert. Les unitats sense enllaç explícit no es compten.
 
@@ -25,7 +25,7 @@ Informe regenerable a partir de l'inventari, `conversations.jsonl` i `records.js
 | `temes/costums/religiositat` | 5 | 0 | 0 |
 | `temes/costums/ritus-de-pas` | 2 | 0 | 0 |
 | `temes/costums/sant-antoni` | 1 | 0 | 0 |
-| `temes/cultura` | 1 | 0 | 0 |
+| `temes/cultura` | 1 | 1 | 1 |
 | `temes/cultura/andorra-vista-de-fora` | 6 | 0 | 0 |
 | `temes/cultura/arquitectura` | 11 | 0 | 0 |
 | `temes/cultura/artesania` | 2 | 0 | 0 |
