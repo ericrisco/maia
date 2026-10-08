@@ -19,6 +19,8 @@ La primera pregunta planteja una curiositat clara. La resposta la resol directam
 
 Les converses poden tenir més de dos torns d'usuari quan el diàleg ho demani. No fem una pregunta per cada frase de la font. Agrupem fets relacionats en converses que una persona voldria tenir i cobrim punts diferents amb registres diferents.
 
+Abans de continuar la producció, passa els registres existents per una revisió de naturalitat amb [`knowledge/review/EXEMPLES.md`](knowledge/review/EXEMPLES.md). Rebutja preguntes que nomenin una fitxa, una secció, una fila o «el corpus». Reescriu respostes fragmentàries com a respostes autònomes, amb referents explícits. Si no es pot formular una pregunta humana sense canviar el fet que es vol cobrir, deixa el punt pendent i revisa la font; no el disfressis amb una pregunta artificial.
+
 La resposta ha de:
 
 - respondre primer, en català natural i amb context suficient;

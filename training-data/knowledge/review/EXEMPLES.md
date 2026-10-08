@@ -34,6 +34,30 @@ La resposta ha de donar els noms i explicar què permet afirmar la font. Si la f
 
 La resposta explica la regla i el motiu documentat, sense parlar del procés de treball.
 
+### Mostres que cal descartar o reescriure
+
+Les preguntes següents venen d'una prova de dades i **no són exemples aprovats**.
+
+| Evita | Pregunta més humana | Què ha de fer la resposta |
+| --- | --- | --- |
+| «Què explica la secció “La regla de competència: depèn de qui és demandat”?» | «Per què importava qui denunciaves en un procés contra un cònsol?» | Explicar la regla i dir clarament quin recurs hi havia, si la font ho documenta. «Apel·lació al Consell General» tot sol és un fragment, no una resposta. |
+| «Què explica la secció “El vocabulari que ho ordena”?» | «Quins dos llocs hi surten, i què hi passa en cadascun?» | Donar els topònims, identificar-ne el paper i aclarir si la font estableix cap relació entre ells. No deixar «I dos topònims que en surten» com a resposta. |
+| «Què indica aquesta fila?» | «Què compara el gràfic per al 2014?» | Anomenar les dues sèries, les xifres i què representen els colors, amb una frase completa. |
+| «Què explica la secció “El relat”?» | «Què va passar després que la imatge arribés a Canillo?» | Fer servir referents explícits: «L'endemà, la imatge ja no era a l'altar; havia tornat a aparèixer al peu de la gavernera florida.» |
+| «Què explica la secció “I aquí hi ha el document que ho resol”?» | Escriure la pregunta sobre el fet que el document resol, no sobre el document mateix. | Si encara no s'han extret i verificat aquests fets, no inventar-los ni substituir-los per «Tres coses que el corpus registra per separat». Deixar el registre pendent. |
+
+La reformulació no valida automàticament el contingut. Abans d'aprovar-la, cal contrastar pregunta i resposta amb la fitxa i les fonts. Una dada sense context no es converteix en bona resposta només perquè estigui ben redactada.
+
+### Formes de conversa que sí que busquem
+
+- **Curiositat directa:** «Per què es va traslladar la festa a l'hivern?»
+- **Aclariment d'una premissa:** «Quan en diuen “l'ossa”, parlen necessàriament d'una femella?»
+- **Seguiment causal:** «I se sap per què es va canviar la data?»
+- **Comparació útil:** «En què s'assemblen les versions d'Encamp i Ordino, i en què canvien?»
+- **Límit ben explicat:** «La font no dona el motiu del canvi; només permet dir quan se celebra avui.»
+
+No s'ha de forçar una conversa de dues preguntes si el seguiment no surt de manera natural. Quan hi ha un seguiment, ha d'aprofitar el context compartit i afegir una peça nova d'informació.
+
 ## Prova de lectura en veu alta
 
 Llegeix només els missatges, sense obrir les fonts. Pregunta't:
