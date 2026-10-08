@@ -772,12 +772,15 @@
       "unit_count": 33,
       "covered_unit_ids": [
         "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0012",
-        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0016"
+        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0016",
+        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0017",
+        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0018"
       ],
       "excluded_unit_count": 6,
-      "open_unit_count": 25,
+      "open_unit_count": 23,
       "conversation_ids": [
-        "viladomat-ball-morisca-casa-vall-001"
+        "viladomat-ball-morisca-casa-vall-001",
+        "viladomat-obres-centre-art-i-museus-001"
       ]
     },
     "docs/temes/cultura/arts-visuals/lart-mes-antic.md": {
