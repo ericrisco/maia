@@ -1,103 +1,141 @@
-# Mostres de conversa per calibrar Maia Knowledge
+# Converses de mostra per a Maia Knowledge
 
-Aquestes converses són exemples editorials. No són registres d'entrenament i
-no compten per a la cobertura. Les preguntes expressen curiositats que poden
-aparèixer en una conversa normal. Els seguiments surten de la resposta
-anterior.
+Aquestes mostres calibren l'estil. No són registres d'entrenament i no compten
+com a cobertura. Cada fil comença amb una curiositat que es podria plantejar
+sense haver llegit la fitxa. Els seguiments són opcionals: només s'hi afegeixen
+quan la resposta anterior fa néixer una pregunta concreta.
 
-## 1. Llegenda i geografia
+## 1. Una regla judicial que sembla contradictòria
 
-**Persona:** Els minairons són com una mena de follets d'Andorra?
+**Persona:** Com és que es podia perseguir criminalment un cònsol, però per
+reclamar-li un deute calia demanar permís?
 
-**Maia:** No exclusivament. Són especialment coneguts a Andorra i a l'Alt
-Pirineu, però la tradició s'estén per altres zones i canvia de nom segons el
-lloc. Al Pallars Sobirà, per exemple, també se'n diu *jaumets*.
+**Maia:** La font descriu dues vies diferents. Per iniciar una acció civil contra
+una autoritat calia autorització prèvia; per perseguir-la criminalment, no. La
+Reforma de 1866 va limitar el permís civil als deutes contrets en exercici del
+càrrec. La font no explica per què el filtre era diferent en cada via.
 
-**Persona:** I són els que, segons la llegenda, van fer les tarteres?
+**Persona:** Així doncs, un deute personal ja no quedava bloquejat?
 
-**Maia:** Sí. La llegenda diu que, quan algú destapava el canó i no sabia com
-aturar els minairons, els manava apilar les pedres dels voltants. Així explica
-la formació de les tarteres. És la versió llegendària de com s'haurien format.
+**Maia:** Segons l'article 16 que recull la fitxa, no calia llicència prèvia per
+reclamar els deutes contrets com a particulars. Per als deutes del càrrec sí que
+calia autorització, però s'havia de concedir quan el termini hagués vençut i el
+crèdit fos exigible. És una regla històrica descrita en una obra de 1904, no una
+explicació del dret actual.
 
-**Per què funciona:** La primera pregunta neix d'una possible confusió sobre
-si la tradició és pròpia d'un sol lloc. El seguiment concreta una història
-associada als minairons i Maia separa llegenda i explicació física.
+**Font per verificar:** `docs/temes/institucions/justicia/podies-denunciar-un-consol-pero-no-demandar-lo.md`.
 
-**Font per verificar:** `docs/temes/cultura/llegendes/el-minairo.md`.
+**Per què funciona:** Parteix d'una paradoxa entenedora i pregunta per una
+conseqüència real de la regla. La resposta manté el període històric i no
+presenta la descripció de 1904 com a dret vigent.
 
-## 2. Una majoria que no és només sumar vots
+## 2. Si la terra era privada, què hi podien fer els ramats?
 
-**Persona:** Com pot ser que una llei tingui més vots a favor que en contra i
-tot i així no s'aprovi?
+**Persona:** Si un camp era privat, com és que hi podien passar els ramats del
+poble?
 
-**Maia:** Depèn de quina llei sigui. Les lleis qualificades sobre matèria
-electoral, referèndums, competències comunals i transferències als comuns
-necessiten una majoria absoluta separada dels consellers parroquials i dels
-nacionals. Amb vint-i-vuit escons, setze vots repartits nou i set no basten:
-calen almenys vuit de cada grup.
+**Maia:** La fitxa descriu una servitud anomenada *peixena*: en terres que no
+eren «de guarda», els habitants tenien dret de pas i de pastura després de la
+collita i abans de la sembra. Per això, ser propietari no volia dir poder
+canviar lliurement tots els usos del camp.
 
-**Persona:** O sigui que no n'hi ha prou amb sumar tots els vots?
+**Persona:** També condicionava què hi podia plantar el propietari?
 
-**Maia:** Exacte. En aquestes lleis, cada grup ha d'arribar a la seva pròpia
-majoria. No n'hi ha prou que el total superi la meitat de la cambra.
+**Maia:** Sí. La font diu que, sense autorització del consell de parròquia, no
+podia canviar la rotació de conreus ni plantar-hi farratge. La pastura havia de
+continuar sent possible quan s'obria el torn comunal.
 
-**Per què funciona:** La pregunta surt d'una dificultat concreta i dona un
-exemple numèric. El seguiment comprova una conseqüència sense demanar que Maia
-repeteixi la regla amb altres paraules.
+**Font per verificar:** `docs/temes/territori/geografia-fisica/un-camp-es-comunal-perque-hi-passen-els-ramats.md`.
 
-**Font per verificar:** `docs/temes/institucions/consell-general/el-consell-general.md`,
-que resumeix l'article 57.3 de la Constitució.
+**Per què funciona:** La pregunta surt d'un dubte quotidià sobre què vol dir
+«propietat privada». El seguiment aprofundeix en l'efecte pràctic del dret de
+pastura, sense demanar que Maia reciti una secció.
 
-## 3. Qui manté les funcions del Consell
+## 3. Per què la imatge de Meritxell tornava al mateix lloc?
 
-**Persona:** Quan es dissol el Consell per anar a eleccions, el Parlament queda
-completament aturat?
+**Persona:** Què explica la llegenda de la imatge de Meritxell? Per què el
+santuari es va fer allà?
 
-**Maia:** No del tot. El Reglament preveu una Comissió Permanent que vetlla
-pels poders del Consell quan la cambra està dissolta o entre períodes de
-sessions. La formen el síndic i sis consellers.
+**Maia:** Segons el relat, un pastor va trobar la imatge sota una gavernera
+florida en ple hivern i se la va endur a Canillo. L'endemà havia tornat al lloc
+de la troballa. Després la van tancar a Encamp, però també va reaparèixer allà.
+Canillencs i encampadans van entendre que volia quedar-se en aquell indret i hi
+van construir el santuari. És una llegenda, no una prova de com es va fundar.
 
-**Persona:** I aquests sis, com es reparteixen?
+**Persona:** I quan es va convertir en patrona d'Andorra?
 
-**Maia:** Tres els elegeixen els consellers del col·legi nacional i tres els
-consellers dels col·legis parroquials. Així, la composició manté representats
-els dos tipus de circumscripció.
+**Maia:** La fitxa afegeix una dada institucional: en una sessió solemne del
+Consell General del 24 d'octubre de 1873, la imatge va ser declarada patrona i
+protectora del Principat. La festa se celebra el 8 de setembre.
 
-**Per què funciona:** La persona parteix d'una conseqüència pràctica i després
-demana un detall de la resposta. Maia no afirma que la Comissió pugui fer
-qualsevol cosa que faria el Ple.
+**Font per verificar:** `docs/temes/cultura/llegendes/la-troballa-de-meritxell.md`.
 
-**Font per verificar:** `docs/temes/institucions/consell-general/el-consell-general.md`,
-basada en l'article 37.1 del Reglament del Consell General de 2026.
+**Per què funciona:** Comença amb una pregunta natural sobre un relat conegut i
+separa la llegenda del fet institucional que la fitxa documenta.
 
-## 4. Què se sap dels colors de la bandera
+## 4. El cinc per cent i el tres i un terç
 
-**Persona:** El blau i el vermell de la bandera venen de França, i el groc i
-el vermell del bisbat d'Urgell, oi?
+**Persona:** M'he perdut amb els interessos: a Andorra aplicaven un 5 % o un
+3,33 %?
 
-**Maia:** És una explicació coneguda, però el corpus no l'ha pogut verificar.
-Un testimoni de 1904 descriu la bandera amb franges blava, groga i vermella i
-l'escut al centre, però no explica d'on venen els colors.
+**Maia:** Depenia del tipus d'operació. Un decret de 1854 fixava un 3,33 % per
+als *censals*. El 1895, el Consell General va dir que aquesta regla continuava
+vigent per als censals, mentre que en la resta de casos el Consell i el Tribunal
+de Corts havien acceptat el 5 %.
 
-**Persona:** I en aquell moment ja era oficial?
+**Persona:** Per tant, no era que el cinc per cent hagués substituït la norma
+anterior?
 
-**Maia:** Segons el testimoni de 1904, encara no tenia caràcter oficial. Les
-actes del Consell citades al corpus documenten que la bandera, l'himne i
-l'escut es van declarar oficials el 22 de desembre de 1942.
+**Maia:** Exacte. El document de 1895 distingeix els censals dels altres casos;
+no diu que el decret de 1854 hagués quedat anul·lat. La fitxa interpreta que la
+contradicció aparent venia de barrejar dues figures diferents.
 
-**Per què funciona:** La primera pregunta conté una explicació familiar, però
-Maia no la dona per certa sense prova. El seguiment aprofita la data del
-testimoni per preguntar per l'estatus legal.
+**Font per verificar:** `docs/temes/economia/banca-i-fiscalitat/pero-en-tot-lo-demes-al-cinc-per-cent.md`.
 
-**Font per verificar:** `docs/temes/institucions/simbols/la-bandera.md`.
+**Per què funciona:** La persona posa en paraules una confusió real. La resposta
+la resol amb la distinció necessària i presenta la interpretació com a lectura
+de la fitxa.
+
+## 5. D'on surt una xifra que no quadra?
+
+**Persona:** Com pot una pàgina donar una xifra i el gràfic de la mateixa pàgina
+una altra?
+
+**Maia:** Cal veure quina pàgina i quins valors són. Si em dones l'enllaç o les
+xifres, puc comparar el text amb el gràfic i dir-te què mostra cadascun. Sense
+identificar-los, no puc saber si és una errada, si mesuren coses diferents o si
+el gràfic correspon a un altre període.
+
+**Persona:** Si el gràfic és de 2014 i marca 57,7 per al català i 56,4 per al
+castellà, ja sabem quin dels dos és correcte?
+
+**Maia:** Encara no. Aquestes dues xifres només ens diuen què atribueix el gràfic
+a cada llengua. Per decidir si contradiuen el text, cal tenir també l'enunciat,
+les etiquetes dels eixos i la font de les dades. No seria correcte triar una
+xifra sense aquesta comprovació.
+
+**Font per verificar:** afegiu la fitxa i la font primària exactes abans
+d'acceptar aquesta mostra com a candidata. Aquesta mostra il·lustra com
+respondre quan falta context; no és una afirmació sobre una fitxa concreta.
+
+**Per què funciona:** El fil no fa veure que Maia coneix una pàgina que no s'ha
+identificat. Demana el context que falta i evita convertir dos números aïllats
+en una conclusió.
 
 ## Senyals per reescriure o descartar
 
-- «Què explica la secció…?» o «què diu aquesta fila…?»
-- Una pregunta que només s'entén si la persona ha llegit la fitxa.
-- Una primera resposta que sembla una introducció i no resol el dubte.
-- Un seguiment que canvia de tema o només repeteix la resposta anterior.
-- La mateixa conversa reproduïda amb sinònims per inflar el nombre de registres.
-- Una resposta que presenta com a fet una llegenda, una hipòtesi o una dada
-  que la font no verifica.
-- Un torn afegit només per fer que la conversa tingui més missatges.
+- «Què explica la secció…?» o «què indica aquesta fila…?» quan la persona no
+  tindria el document al davant.
+- Una pregunta que només es pot fer després de llegir el títol intern de la
+  fitxa.
+- Una resposta que comença amb un fragment, un encapçalament o una llista
+  anunciada que no arriba.
+- Un seguiment que repeteix la resposta anterior o salta de tema sense motiu.
+- Un fil amb un nombre fix de torns, encara que el dubte ja estigui resolt.
+- Una resposta que confon una llegenda amb un fet o una font històrica amb una
+  norma actual.
+- Una pregunta amb sinònims que només serveix per inflar el recompte.
+
+La mostra 5 és deliberadament un exemple de límit: una xifra sola no substitueix
+la font. No s'ha d'incorporar al dataset com a resposta factual sobre la pàgina
+esmentada sense verificar-ne la fitxa i la font original.

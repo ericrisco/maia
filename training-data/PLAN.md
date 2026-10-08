@@ -74,6 +74,12 @@ Maia no pugui saber què vol aclarir la persona.
 
 ## Flux de producció
 
+0. **Revisar el lot antic.** Els registres que ja hi ha a
+   `knowledge/review/conversations.jsonl` es van escriure amb un criteri
+   anterior. No s'han de considerar aprovats pel fet de ser-hi. Cada conversa
+   s'ha de tornar a llegir amb aquests criteris; si no passa, es reescriu o
+   s'exclou abans de qualsevol exportació. Les mostres de `EXEMPLES.md` no
+   substitueixen aquesta revisió.
 1. **Triar una curiositat.** Llegir la fitxa i anotar el dubte humà que pot
    aclarir. La nota no apareix als missatges.
 2. **Comprovar la font.** Revisar la fitxa, la font original, els drets i els
@@ -126,7 +132,8 @@ training-data/
 Les converses Knowledge aprovades s'afegiran a `knowledge/review/` després
 d'acordar aquest calibratge. La procedència sempre queda separada dels
 missatges. Les mostres de `EXEMPLES.md` no compten com a registres ni com a
-cobertura.
+cobertura. Els registres existents a `conversations.jsonl` són material antic
+pendent de revalidació, no una tanda aprovada.
 
 ## Language
 

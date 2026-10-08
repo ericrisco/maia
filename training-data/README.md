@@ -13,4 +13,6 @@ són registres d'entrenament. Les preguntes parteixen d'un dubte humà i els
 seguiments mantenen el fil sense allargar-lo per obligació.
 
 Encara no s'ha aprovat cap nou lot de converses Knowledge després d'aquest
-canvi de criteri. Els exemples són editorials; no s'exporten a `output/`.
+canvi de criteri. `knowledge/review/conversations.jsonl` conserva el lot antic,
+que s'ha de revisar registre per registre abans de reutilitzar-lo. Els exemples
+són editorials; no s'exporten a `output/`.
