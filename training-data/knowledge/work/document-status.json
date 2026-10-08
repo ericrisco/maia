@@ -3173,12 +3173,22 @@
         "docs/temes/esports/esqui/cinquanta-anys-desqui-olimpic.md#unit-0015",
         "docs/temes/esports/esqui/cinquanta-anys-desqui-olimpic.md#unit-0016",
         "docs/temes/esports/esqui/cinquanta-anys-desqui-olimpic.md#unit-0017",
-        "docs/temes/esports/esqui/cinquanta-anys-desqui-olimpic.md#unit-0018"
+        "docs/temes/esports/esqui/cinquanta-anys-desqui-olimpic.md#unit-0018",
+        "docs/temes/esports/esqui/cinquanta-anys-desqui-olimpic.md#unit-0020",
+        "docs/temes/esports/esqui/cinquanta-anys-desqui-olimpic.md#unit-0021",
+        "docs/temes/esports/esqui/cinquanta-anys-desqui-olimpic.md#unit-0022",
+        "docs/temes/esports/esqui/cinquanta-anys-desqui-olimpic.md#unit-0023",
+        "docs/temes/esports/esqui/cinquanta-anys-desqui-olimpic.md#unit-0024",
+        "docs/temes/esports/esqui/cinquanta-anys-desqui-olimpic.md#unit-0025",
+        "docs/temes/esports/esqui/cinquanta-anys-desqui-olimpic.md#unit-0026",
+        "docs/temes/esports/esqui/cinquanta-anys-desqui-olimpic.md#unit-0027",
+        "docs/temes/esports/esqui/cinquanta-anys-desqui-olimpic.md#unit-0028"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 146,
+      "open_unit_count": 137,
       "conversation_ids": [
-        "carlos-font-debut-jocs-hivern-1976-001"
+        "carlos-font-debut-jocs-hivern-1976-001",
+        "carlos-font-lake-placid-1980-i-delegacio-001"
       ]
     },
     "docs/temes/esports/esqui/esqui-index-de-fitxes.md": {
