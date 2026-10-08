@@ -5,7 +5,8 @@ Inventari revisat el 2026-10-09. Les xifres descriuen la cua de treball, no cobe
 | Estat | Documents | Significat |
 |---|---:|---|
 | `pending_review` | 1.421 | Encara no hi ha cap conversa candidata associada. |
-| `candidate_pending_review` | 53 | Hi ha converses candidates recuperades, però cal revisar preguntes, respostes, fonts i drets. |
+| `candidate_pending_review` | 52 | Hi ha converses candidates recuperades que encara necessiten revisió de contingut o fonts. |
+| `content_reviewed_rights_pending` | 1 | La pregunta, resposta i cobertura factual s'han revisat; els drets de la font encara impedeixen exportar-la. |
 | `retrieval_only` | 3 | Índexs de navegació; els articles enllaçats s'inventarien separadament. |
 
 Hi ha 409 unitats candidates de coneixement a `../work/coverage-items.jsonl`. S'han de revalidar abans de comptar-les com a cobertes. El fitxer de revisió conté 216 converses candidates; cap no passa automàticament a `output/`.
