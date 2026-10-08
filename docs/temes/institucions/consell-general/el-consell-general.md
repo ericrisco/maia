@@ -13,7 +13,7 @@ tags: [institucions, lexic-marcat, reglament, representacio]
 
 # El Consell General
 
-**La Constitució no fixa el parlament en 28 escons: permet entre 21 i 42.**
+**La Constitució no fixa el parlament en 28 escons: permet entre 28 i 42.**
 La meitat s'elegeix per circumscripció nacional i l'altra meitat es reparteix
 igualment entre les set parròquies. Els consellers tenen la mateixa naturalesa
 representativa i els mateixos drets i deures, sense mandat imperatiu.
