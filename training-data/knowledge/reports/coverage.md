@@ -4,9 +4,9 @@ Informe regenerable a partir de l'inventari, `conversations.jsonl` i `records.js
 
 - Documents Markdown inventariats: **1477**.
 - Articles del brain: **1348**.
-- Converses de revisió amb registre: **64**.
-- Articles citats per almenys una conversa: **29**.
-- Unitats estructurals enllaçades explícitament amb `unit_ids`: **275**.
+- Converses de revisió amb registre: **65**.
+- Articles citats per almenys una conversa: **30**.
+- Unitats estructurals enllaçades explícitament amb `unit_ids`: **278**.
 
 > La cobertura d'un article només indica que hi ha una conversa que el cita. No implica que tot el document, tema o coneixement estigui cobert. Les unitats sense enllaç explícit no es compten.
 
@@ -108,7 +108,7 @@ Informe regenerable a partir de l'inventari, `conversations.jsonl` i `records.js
 | `temes/politica/sistema-electoral` | 9 | 0 | 0 |
 | `temes/societat` | 1 | 1 | 1 |
 | `temes/societat/associacionisme` | 1 | 0 | 0 |
-| `temes/societat/demografia` | 15 | 5 | 26 |
+| `temes/societat/demografia` | 15 | 6 | 27 |
 | `temes/societat/dones` | 7 | 1 | 1 |
 | `temes/societat/educacio` | 30 | 3 | 5 |
 | `temes/societat/esport` | 1 | 0 | 0 |
