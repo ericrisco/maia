@@ -13991,12 +13991,20 @@
       "title": "Dues maneres de comptar la població",
       "type": "article",
       "topic": "temes/societat/demografia",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 19,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/societat/demografia/dues-maneres-de-comptar-la-poblacio.md#unit-0001",
+        "docs/temes/societat/demografia/dues-maneres-de-comptar-la-poblacio.md#unit-0002",
+        "docs/temes/societat/demografia/dues-maneres-de-comptar-la-poblacio.md#unit-0005",
+        "docs/temes/societat/demografia/dues-maneres-de-comptar-la-poblacio.md#unit-0015",
+        "docs/temes/societat/demografia/dues-maneres-de-comptar-la-poblacio.md#unit-0017"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 19,
-      "conversation_ids": []
+      "open_unit_count": 14,
+      "conversation_ids": [
+        "encamp-registre-i-estimacio-poblacio-2026-001"
+      ]
     },
     "docs/temes/societat/demografia/la-composicio-per-nacionalitats.md": {
       "title": "La composició per nacionalitats",
