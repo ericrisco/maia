@@ -1,8 +1,8 @@
 # Pla de treball: Maia Training Data
 
-## Objectiu d'aquesta etapa
+## Objectiu
 
-Reiniciar l'edició de Knowledge amb un estàndard de conversa clar. Ara només hi ha d'haver una estructura mínima i unes poques mostres per calibrar el to. Les mostres no són dades d'entrenament. No reprendre la producció en volum fins que l'estil de les preguntes i les respostes estigui validat.
+Crear Maia Knowledge i Maia Language amb cobertura exhaustiva del corpus, converses naturals multitorn i procedència verificable. Avançar tema a tema i registre a registre; una pregunta o conversa completada és un pas revisable, validat i pujat abans de continuar.
 
 ## Estructura
 
@@ -14,7 +14,7 @@ training-data/
 │   ├── README.md
 │   ├── review/
 │   │   ├── EXEMPLES.md
-│   │   ├── conversations.jsonl  # només mostres de calibratge, de moment
+│   │   ├── conversations.jsonl  # converses revisades i mostres editorials diferenciades
 │   │   └── provenance.jsonl     # fonts, drets i estat de cada mostra
 │   ├── output/                  # buit fins que hi hagi prou dades revisades
 │   └── reports/                 # cobertura i qualitat, més endavant
@@ -45,13 +45,12 @@ Llegida sense metadades, la conversa sembla una persona aclarint un dubte real? 
 
 ## Fases
 
-1. **Calibratge.** Mantenir unes poques mostres curtes i variades a `knowledge/review/conversations.jsonl`. Revisar-les llegint només els missatges.
-2. **Aprovació de l'estil.** Ajustar les mostres fins que preguntes, seguiments i respostes sonin naturals i siguin exactes. Encara no crear lots.
-3. **Preparació de fonts.** Per cada conversa nova, comprovar el document original, les afirmacions que sosté i les condicions de reutilització. Registrar-ho abans d'afegir-la.
-4. **Redacció i revisió.** Escriure una conversa per necessitat humana; comprovar continuïtat, exactitud, límits, naturalitat i duplicats.
-5. **Cobertura.** Quan l'estil estigui fixat, avançar pel corpus de manera sistemàtica i registrar què s'ha cobert i què s'exclou.
-6. **Exportació.** Només després de revisar cobertura, drets i duplicats, preparar train/validation/test. Separar per font o tema abans de fer variants per evitar contaminació entre splits.
-7. **Maia Language.** Tractar-la després i per separat. Incloure només parla humana contemporània elegible, amb drets i transcripció revisats; no inventar respostes per imitar un dialecte.
+1. **Calibratge.** Llegir les mostres editorials sense metadades i aplicar-ne el criteri de naturalitat; no copiar una sola plantilla de conversa.
+2. **Preparació de fonts.** Per cada conversa, comprovar el document original, les afirmacions que sosté i les condicions de reutilització. Registrar la procedència i els límits.
+3. **Redacció i revisió.** Crear una conversa per necessitat humana i per commit. Comprovar continuïtat, exactitud, límits, naturalitat i duplicats; validar el JSONL, fer commit i push abans del següent registre.
+4. **Cobertura exhaustiva.** Inventariar tots els documents de `docs/temes/`, inclosos articles, índexs, taules i contingut relacionat. Registrar cada unitat coberta o exclosa amb motiu; avançar tema a tema fins que no quedi cap coneixement entrenable sense tractar.
+5. **Maia Language.** Revisar separadament totes les peces de `docs/parla/`. Incloure només parla humana contemporània elegible, amb drets, consentiment, àudio i transcripció revisats; no inventar respostes per imitar un dialecte.
+6. **Exportació i auditoria.** Quan cobertura i drets estiguin revisats, deduplicar i preparar train/validation/test per grup de font o tema. Verificar els fitxers finals i publicar informes de cobertura i exclusions.
 
 ## Criteri per passar del calibratge a la producció
 
@@ -62,4 +61,4 @@ Llegida sense metadades, la conversa sembla una persona aclarint un dubte real? 
 - Cada afirmació factual té font i condicions d'ús registrades.
 - Els dubtes i desacords de les fonts es representen sense resoldre'ls artificialment.
 
-Fins que es compleixi aquest criteri, `output/` queda buit i les mostres continuen marcades com a editorials.
+Les mostres editorials continuen marcades com a tals i no s'exporten. Els registres revisats amb drets aptes poden formar part de l'exportació quan el split i la cobertura estiguin verificats. `output/` queda buit fins aleshores.
