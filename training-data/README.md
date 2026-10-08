@@ -16,6 +16,7 @@ Les fonts, drets i notes de revisió van en fitxers separats dels missatges. Una
 - `PLAN.md`: criteris de conversa i fases del projecte.
 - `scripts/`: lector i inventari del corpus.
 - `knowledge/examples/`: converses de calibració i procedència.
+- `knowledge/review/`: converses candidates, criteris editorials i procedència abans d'aprovació.
 - `knowledge/work/`: cobertura i estat de revisió de les fitxes.
 - `knowledge/output/`: reservat per als exports aprovats.
 - `language/work/`: inventari i estat d'elegibilitat de les peces de parla.

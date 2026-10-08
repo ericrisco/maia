@@ -2,7 +2,7 @@
 
 ## Objectiu immediat
 
-Reiniciar els exemples editorials de Knowledge i acordar un patró de conversa abans de reprendre la producció. Les mostres actuals són una calibració, no un dataset ni una promesa de cobertura. No generarem més registres fins que aquest patró estigui revisat.
+Crear els datasets complets de Knowledge i Language, tema a tema i amb cobertura auditable. Els exemples de `knowledge/examples/` defineixen el patró editorial; els registres nous s'escriuen a `knowledge/review/` i no es consideren exports fins que passin la revisió de qualitat i drets.
 
 ## El problema que corregim
 
@@ -42,7 +42,7 @@ Una sola fallada en els quatre primers filtres rebutja o retorna el registre per
 
 ## Fases del projecte
 
-1. **Calibrar la conversa.** Revisar les mostres de `knowledge/examples/` i ajustar pregunta, resposta, seguiment i llargada. No produir registres nous abans d'acabar aquesta revisió.
+1. **Aplicar la calibració.** Fer servir les mostres de `knowledge/examples/` i els criteris de `knowledge/review/EXEMPLES.md` com a patró. Ajustar-los quan la revisió dels registres aporti evidència, sense interrompre la cobertura.
 2. **Reconstruir l'inventari.** Processar tots els Markdown de `docs/temes/` i `docs/parla/`, mantenint els objectius separats. Preservar frontmatter, ordre, títols, paràgrafs, llistes, taules, files, enllaços, correccions, divergències i buits. Comptar errors i elements llegits.
 3. **Extreure coneixement amb traça.** Per cada tema, registrar internament els fets, matisos i buits que podrien respondre una pregunta. No exposar aquesta estructura interna als missatges.
 4. **Escriure converses Knowledge.** Crear converses naturals, majoritàriament multitorn, quan hi hagi una curiositat i un seguiment justificats. Incloure temes, preguntes contextuals, comparacions i límits del coneixement quan les fonts ho permetin.
@@ -60,4 +60,4 @@ Una línia JSONL per conversa, amb només `messages` i els rols `user` / `assist
 
 ## Següent pas
 
-Revisar en veu alta les quatre converses de `knowledge/examples/conversations.jsonl`. Després corregirem el patró amb aquesta evidència i només llavors reprendrem els registres.
+Treballar la primera fitxa pendent amb una pregunta humana i un seguiment motivat. Per cada conversa: revisar-ne les fonts, afegir procedència, actualitzar la cobertura, validar, fer commit i push abans de passar a la següent.
