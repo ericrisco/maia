@@ -7996,12 +7996,17 @@
       "title": "Deu lliures per testar",
       "type": "article",
       "topic": "temes/historia/segle-xix",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 69,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/historia/segle-xix/deu-lliures-per-testar.md#unit-0017",
+        "docs/temes/historia/segle-xix/deu-lliures-per-testar.md#unit-0019"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 69,
-      "conversation_ids": []
+      "open_unit_count": 67,
+      "conversation_ids": [
+        "donacio-conjuges-reserva-testar-deu-lliures-001"
+      ]
     },
     "docs/temes/historia/segle-xix/dotze-anys-amb-un-sol-coprincep.md": {
       "title": "Dotze anys amb un sol copríncep",
