@@ -16,7 +16,7 @@ Per evitar-ho, no esmentem fitxes, seccions, taules, files, corpus ni documents 
 2. **Llegir la font sencera i el context.** Comprovar la fitxa de Maia, les fonts originals disponibles i els matisos. No convertir un resum provisional en una certesa.
 3. **Escriure el primer torn com ho preguntaria una persona.** Ha de funcionar sense haver vist cap document. Evitar preguntes que només demanen «què és X?» si la curiositat real és més concreta.
 4. **Respondre de seguida i amb sentit complet.** Donar la informació que resol el dubte i el context mínim que la fa entendre. No començar una llista per deixar-la a mitges.
-5. **Fer conversa, no una pregunta de fitxa.** La tanda de calibratge tindrà converses de dos o més torns d'usuari quan el tema ho permeti. Cada seguiment ha de néixer de la resposta anterior: demanar una conseqüència, aclarir una distinció o comprovar una deducció. No s'allarga un fil amb preguntes artificials; una pregunta factual simple pot quedar resolta en un sol torn.
+5. **Fer conversa, no una pregunta de fitxa.** Cada registre de Knowledge ha de tenir com a mínim dues preguntes d'usuari. El seguiment neix de la resposta anterior i demana una conseqüència, aclareix una distinció o comprova una deducció. Si no hi ha cap seguiment natural que aporti informació nova, no es força: es descarta aquell registre i es tria una curiositat que sí permeti conversa.
 6. **Llegir la conversa sense les fonts.** En veu alta, comprovar si sembla una conversa possible. Si sona com un examen, una consulta a una taula o una transcripció de notes, reescriure-la.
 7. **Registrar la procedència per separat.** Cada afirmació factual ha de poder tornar a una font. Les llicències i condicions de les fonts externes es documenten abans d'incorporar-ne material.
 
@@ -50,6 +50,7 @@ Abans d'escriure, formula en una línia privada la curiositat: «què vol entend
 - Una persona podria fer la pregunta sense haver llegit Maia?
 - La primera resposta resol el dubte inicial?
 - Cada seguiment té una raó conversacional clara?
+- Hi ha almenys un seguiment natural que aporta informació nova? Si no, el registre es descarta.
 - Cada resposta conté una idea completa i respon al torn immediatament anterior?
 - El fil manté el tema i no repeteix la mateixa pregunta amb altres paraules?
 - Es poden verificar les afirmacions? Es preserven els dubtes reals de la font?
