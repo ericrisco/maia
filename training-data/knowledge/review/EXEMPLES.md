@@ -1,48 +1,47 @@
-# Calibratge: preguntes que podria fer una persona
+# Criteri de conversa
 
-## El criteri en una frase
+Els registres que sonen a «què explica la secció X?» o «què indica aquesta fila?» depenen d’haver vist una fitxa. No són preguntes que una persona faria per entendre Andorra. I una resposta com «Tres coses que el corpus registra per separat» no resol res a qui llegeix el xat.
 
-La pregunta ha de néixer d’un dubte sobre el tema; no de la manera com el corpus ha ordenat la informació. El seguiment només s’hi queda si la resposta anterior el provoca de manera natural.
+Partim del dubte, no de l’estructura de la font. Responem el dubte amb frases completes. Si la resposta ja basta, acabem aquí. Els exemples següents són de calibratge: ajuden a decidir el to, però no són registres d’entrenament.
 
-## Exemple bo: una confusió que es resol
+## Una confusió concreta, amb seguiment natural
 
-**Persona:** La imatge de Meritxell que hi ha ara és l’original?
+**Persona:** A la festa major de Sant Julià, la Passa és un ball?
 
-**Assistent:** No. La talla romànica original es va destruir en l’incendi del santuari la nit del 8 al 9 de setembre de 1972. La imatge que s’hi venera avui és una rèplica feta per l’escultor Sergi Mas.
+**Assistent:** No ben bé. És una cercavila de parelles de fadrins pels carrers de Sant Julià. Les parelles que es casaran aquell any van al davant; la resta segueixen ordenades de més grans a més joves.
 
-**Persona:** I el santuari nou, quan es va inaugurar?
+**Persona:** Ah, per això en dieu «majors fadrins» als que van al davant?
 
-**Assistent:** Es va inaugurar el 1976. El va projectar l’arquitecte Ricard Bofill.
+**Assistent:** Sí. El nom es refereix als fadrins que es casaran aquell any. La fitxa no concreta si, a més, tenen cap altra funció durant la festa.
 
-El seguiment continua el mateix fil: què es va reconstruir després de la pèrdua. No demana una altra dada a l’atzar.
+El seguiment aclareix una expressió que acaba d’aparèixer. La resposta no inventa altres funcions.
 
-## Exemple bo: separar tradició i fet
+## Una llegenda explicada com a llegenda
 
-**Persona:** La Marratxa commemora de debò la signatura del Pareatge?
+**Persona:** Què explica la llegenda de la imatge de Meritxell?
 
-**Assistent:** Això és el que explica la tradició, però les fonts no ho demostren com un fet històric. A més, les dates no coincideixen: la tradició situa la primera ballada el 7 de setembre de 1278, mentre que el Pareatge consta signat el dia 8.
+**Assistent:** Segons el relat, un pastor va trobar la imatge sota una gavernera florida el dia de Reis. La va dur a Canillo, però l’endemà havia tornat al lloc de la troballa. També la van provar de deixar a Encamp, i el relat diu que tornava igualment. Per això, a la llegenda, van entendre que volia quedar-se allà i hi van construir el santuari.
 
-**Persona:** Llavors, se sap per què ballen el dia abans?
+**Persona:** Se sap si va passar de debò?
 
-**Assistent:** No. La relació amb la vigília és una possibilitat, però les fonts no l’expliquen ni permeten confirmar-la.
+**Assistent:** La fitxa recull una llegenda, però no n’aporta una font primària ni una datació antiga que permetin comprovar el relat. Per tant, es pot explicar com a tradició, no donar-lo per fet històric.
 
-El seguiment surt de la discrepància que acaba d’aparèixer. La resposta no inventa una explicació per tancar-la.
+El seguiment surt del relat i pregunta pel seu estatus. La resposta manté el límit de la font.
 
-## Exemple bo: una pregunta que s’acaba en un torn
+## Una pregunta que es resol en un torn
 
-**Persona:** La Marratxa és el ball o el recipient?
+**Persona:** Per què el ball de la Marratxa té aquest nom?
 
-**Assistent:** La paraula també designa un recipient d’aigua perfumada que els dansaires duien antigament. El ball va conservar-ne el nom, tot i que el recipient ja no s’hi fa servir.
+**Assistent:** El nom ve d’un recipient d’aigua perfumada que els dansaires duien antigament. El recipient ja no es fa servir, però el ball n’ha conservat el nom.
 
-No cal afegir un seguiment artificial: la resposta resol les dues parts del dubte.
+No afegim «I què més?» només per allargar la conversa. Si la persona vol saber quan es balla o què representa, això pot ser una altra conversa.
 
 ## Exemples que descartem
 
-- «Què explica la secció “El relat”?» — pressuposa que qui pregunta coneix el document.
-- «Què indica aquesta fila?» — assenyala una taula que la persona pot no haver vist.
-- «I què més?» — no expressa cap dubte concret.
-- Una segona pregunta sobre un nom, una data o un lloc sense relació amb la resposta anterior — sembla una seqüència d’examen.
+- «Què explica la secció “El relat”?» — la persona ha de conèixer una fitxa.
+- «Què indica aquesta fila?» — no diu de quina informació parla.
+- «Tres coses que el corpus registra per separat» — és un fragment, no una resposta.
+- Preguntar per una data, un nom i una altra dada sense relació per crear multitorn.
+- Afirmar que una llegenda és un fet perquè la pregunta ho pressuposa.
 
-## Abans d’afegir registres
-
-Llegiu cada diàleg en veu alta i pregunteu-vos: «Ho diria així a algú que m’està ajudant a entendre el tema?» Si no, reescriviu la pregunta amb paraules més corrents o descarteu-la. No cal que tots els registres tinguin més d’un intercanvi.
+Abans de donar un registre per bo, llegeix-lo en veu alta com si fossis qui necessita la informació. Si sona a examen o a nota interna, reescriu-lo o descarta’l.
