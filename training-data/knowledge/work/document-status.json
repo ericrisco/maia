@@ -13718,13 +13718,18 @@
         "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0014",
         "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0015",
         "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0016",
-        "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0017"
+        "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0017",
+        "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0019",
+        "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0020",
+        "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0021",
+        "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0022"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 59,
+      "open_unit_count": 55,
       "conversation_ids": [
         "empat-eleccions-parroquials-consell-general-001",
-        "repartiment-escons-consell-general-resta-mes-elevada-001"
+        "repartiment-escons-consell-general-resta-mes-elevada-001",
+        "vot-llista-completa-preferencies-candidats-001"
       ]
     },
     "docs/temes/politica/sistema-electoral/el-financament-dels-partits.md": {
