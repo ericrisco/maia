@@ -1,0 +1,76 @@
+{{otros usos}}
+{{Ficha de entidad subnacional
+| bandera = Hypothetical flag of Canillo.svg
+| capital = no
+| imagen = Caselles 1.jpg
+| pie_de_imagen = Sant Joan de Caselles.
+| mapa_loc = Andorra
+| mapa = {{Mapa interactivo localidad}}
+| pie_mapa = La parroquia de Canillo en Andorra.
+| unidad = [[Organización territorial de Andorra|Parroquia]]
+| país = {{AND}}
+| tipo_superior_1 = [[Organización territorial de Andorra|Parroquia]]
+| superior_1 = {{AND|1}}
+| dirigentes_títulos = [[Cónsul mayor]]<br>[[Cónsul menor]]
+| dirigentes_nombres = Jordi Alcobé (DA) <br>Marc Casal (DA)
+| superficie = 121
+| población_año = 2015
+| población = 4124<ref>{{Cita web
+ |url          = http://www.estadistica.ad/serveiestudis/web/banc_dades4.asp?lang=2&codi_tema=2&codi_divisio=9&codi_subtemes=8
+ |autor        = Departamento de Estadística de Andorra
+ |título      = Población por parroquia
+ |fechaacceso  = 22 de mayo de 2016
+ |urlarchivo   = https://web.archive.org/web/20160625014554/http://www.estadistica.ad/serveiestudis/web/banc_dades4.asp?lang=2&codi_tema=2&codi_divisio=9&codi_subtemes=8
+ |fechaarchivo = 25 de junio de 2016
+}}</ref>
+| densidad = 37.5
+| altitud = 1526
+| altitud_max = 2913
+| altitud_min = 1400
+| web = www.comucanillo.ad
+| idioma = [[Idioma catalán|Catalán]]
+| otros_idiomas = [[Idioma español|Español]] y [[Idioma francés|Francés]]
+| escudo = Emblem of Canillo.svg
+| nombre = Canillo
+}}
+
+'''Canillo''' es una [[Organización territorial de Andorra|parroquia]] de [[Andorra]], con una superficie de 120,86 km², y la primera por orden protocolario. Está constituida por los pueblos y núcleos urbanos de [[L'Aldosa de Canillo|Aldosa]], Canillo, [[El Forn]], [[El Tarter]], El Vilar, Els Plans, [[Incles]], Meritxell, [[Prats (Canillo)|Prats]], [[Ransol]], [[Soldeu|Soldeo]], Bordes de Envalira, San Pedro, Armiana y Molleres. Con un total de 1977 habitantes en 2015.<ref>{{Cita web
+ |url          = http://www.estadistica.ad/serveiestudis/web/banc_dades4.asp?lang=2&codi_tema=2&codi_divisio=16&codi_subtemes=8
+ |autor        = Departamento de Estadística de Andorra
+ |título      = Población por pueblo
+ |fechaacceso  = 22 de mayo de 2016
+ |urlarchivo   = https://web.archive.org/web/20160625065101/http://www.estadistica.ad/serveiestudis/web/banc_dades4.asp?lang=2&codi_tema=2&codi_divisio=16&codi_subtemes=8
+ |fechaarchivo = 25 de junio de 2016
+}}</ref>
+
+== Geografía ==
+Canillo es una [[Parroquias de Andorra|parroquia]] situada en la parte axial de los [[Pirineos]], al noreste de [[Andorra]]. Su geografía está marcada por un entorno de [[alta montaña]], valles y un clima característico de zonas frías. Aunque se encuentra alejada del mar, Canillo ha establecido históricamente conexiones naturales con regiones costeras mediante una [[red hidrográfica]] que conecta las montañas con las [[Cuenca hidrográfica|cuencas]] Mediterráneo y el Atlántico.<ref name=":0">{{Cita publicación|url=https://perpinianum.fr/Perpinianum/doc/SYRACUSE/2349842/de-les-muntanyes-de-canillo-al-mar-domenec-bascompte-i-grau?_lg=ca-FR|título=De les muntanyes de Canillo al mar / Domènec Bascompte i Grau|apellidos=Bascompte Grau|nombre=Domènec|fecha=2018|publicación=De les muntanyes de Canillo al mar / Domènec Bascompte i Grau|fechaacceso=2024-11-25|serie=Els pirineus marítims}}</ref>
+
+El relieve de Canillo, determinado por su altitud, la posiciona entre las parroquias más elevadas de Andorra. Las montañas que la rodean actúan como barreras naturales, mientras que los valles intermedios ofrecen áreas habitables y fértiles, adecuadas para actividades tradicionales como la agricultura y la [[ganadería]].<ref name=":0" />
+
+Los ríos que nacen en Canillo desempeñan un papel esencial en la conexión natural entre los Pirineos y los espacios marítimos. La mayoría de estas aguas fluyen hacia el Mediterráneo, siguiendo el curso del [[río Valira]] hasta unirse con el [[Río Segre|Segre]] y el [[Ebro]]. En menor medida, algunas aguas se dirigen al Atlántico a través de los ríos [[Rio Ariège|Ariège]] y [[Río Garona|Garona]]. En la parroquia también se encuentran [[Estanque|estanques]] y lagos de alta montaña, como el [[Estany Negre]]. Canillo ha establecido relaciones culturales e históricas con las tierras bajas y costeras, especialmente con el [[sur de Francia]].<ref name=":0" />
+
+El clima de Canillo se caracteriza por ser propio de alta montaña. Los inviernos son largos y fríos, con abundantes nevadas, lo que ha convertido a la región para el turismo invernal. Los veranos son cortos y frescos, favoreciendo actividades tradicionales como el [[pastoreo]]. Estas condiciones climáticas limitan la diversidad de flora y fauna, predominando los [[Bosque de coníferas|bosques de coníferas]], los pastos alpinos y las plantas adaptadas a las alturas. En cuanto a fauna, la región alberga especies como [[ciervos]], [[marmota]] y [[aves rapaces]].<ref name=":0" />
+
+== Patrimonio ==
+En la parroquia de Canillo se encuentran el [[Santuario de Meritxell|santuario de Nuestra Señora de Meritxell]], patrona del [[Principado de Andorra]], la [[iglesia de Sant Joan de Caselles]] (edificio románico de finales del {{siglo|XI||s}}, cuyo campanario es de estilo lombardo), el [[Palacio de Hielo de Canillo|Palacio de Hielo de Andorra]], con más de 8000 m² y una pista de hielo de dimensiones olímpicas, y los grabados rupestres del [[roc de les Bruixes]].{{sfn|AA.VV.|2014|p=12,13}}
+
+== Turismo ==
+Igualmente, en Canillo puede visitarse [[Grandvalira]], la estación de esquí más extensa de Andorra, en la que la nieve está garantizada durante toda la temporada.
+
+A pesar de tener vocación turística, la parroquia de Canillo conserva todavía muchos rasgos ganaderos y agrícolas.
+
+Desde el 2 de julio de 2016, se ha incorporado como actividad turística el Mirador Roc del Quer. Una plataforma de 20 metros de largo y 20 metros de altura, 10 de los cuales están colgando del vacío en  una caída libre al precipicio. No se paga nada por esta atracción (desde 2023 se pagan 5 euros) y se dispone de un pequeño aparcamiento en el camino de tierra que lleva al mirador.  La vistas panorámicas que dispone este mirador, del valle de Canillo, son espectaculares.<ref>{{Cita web|url=http://www.viajarsinbillete.com/2017/03/mirador-roc-del-quer-canillo-andorra.html|título=EL MIRADOR ROC DEL QUER EN CANILLO ANDORRA - ViajarSinBillete.com|fechaacceso=15 de marzo de 2017|apellido=Ferrer|nombre=Pere|sitioweb=www.viajarsinbillete.com|urlarchivo=https://web.archive.org/web/20170316025214/http://www.viajarsinbillete.com/2017/03/mirador-roc-del-quer-canillo-andorra.html|fechaarchivo=16 de marzo de 2017}}</ref>
+
+== Referencias ==
+{{Listaref}}
+
+== Bibliografía ==
+*{{cita publicación|apellidos1=AA.VV.|título=Gravat de la Roca de les Bruixes|publicación=l'esKpada|fecha=Octubre de 2014|volumen=VII|número=83|url=https://issuu.com/eskpada/docs/eskpada_83|fechaacceso=30 de septiembre de 2016}}
+== Enlaces externos ==
+{{Commonscat}}
+* [http://www.comucanillo.ad Común de Canillo] {{Wayback|url=http://www.comucanillo.ad/ |date=20080908010445 }} (multilingüe).
+* [http://www.vdc.ad/ Valles de Canillo] (en catalán, castellano, francés e inglés).
+
+{{Control de autoridades}}
+[[Categoría:Canillo| ]]
