@@ -4,9 +4,9 @@ Informe regenerable a partir de l'inventari, `conversations.jsonl` i `records.js
 
 - Documents Markdown inventariats: **1477**.
 - Articles del brain: **1348**.
-- Converses de revisió amb registre: **53**.
-- Articles citats per almenys una conversa: **18**.
-- Unitats estructurals enllaçades explícitament amb `unit_ids`: **213**.
+- Converses de revisió amb registre: **54**.
+- Articles citats per almenys una conversa: **19**.
+- Unitats estructurals enllaçades explícitament amb `unit_ids`: **216**.
 
 > La cobertura d'un article només indica que hi ha una conversa que el cita. No implica que tot el document, tema o coneixement estigui cobert. Les unitats sense enllaç explícit no es compten.
 
@@ -122,7 +122,7 @@ Informe regenerable a partir de l'inventari, `conversations.jsonl` i `records.js
 | `temes/societat/vida-civica` | 8 | 0 | 0 |
 | `temes/territori/clima-i-muntanya` | 14 | 0 | 0 |
 | `temes/territori/fauna-i-flora` | 5 | 0 | 0 |
-| `temes/territori/geografia-fisica` | 9 | 0 | 0 |
+| `temes/territori/geografia-fisica` | 9 | 1 | 1 |
 | `temes/territori/paisatge-construit` | 5 | 0 | 0 |
 | `temes/territori/parroquies/andorra-la-vella` | 1 | 0 | 0 |
 | `temes/territori/parroquies/canillo` | 1 | 0 | 0 |
