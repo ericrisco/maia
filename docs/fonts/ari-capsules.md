@@ -24,7 +24,10 @@ notes: >
   #57 a docs/raw/parla/ari-capsula-34/youtube-info-2026-10-08.json,
   docs/raw/parla/ari-capsula-56/youtube-info-2026-10-08.json i
   docs/raw/parla/ari-capsula-57/youtube-info-2026-10-08.json; totes tres
-  declaren «Creative Commons Attribution license (reuse allowed)».
+  declaren «Creative Commons Attribution license (reuse allowed)». El 2026-10-09
+  s’ha verificat també la càpsula #66 a
+  docs/raw/parla/ari-capsula-66/youtube-info-2026-10-09.json amb la mateixa
+  declaració de llicència; la transcripció continua sense verificar.
   El registre global queda pendent perquè la llicència no s'ha verificat per a
   totes les peces. La llicència d'una peça no valida la seva transcripció ni
   acredita la identitat o varietat lingüística del ponent.

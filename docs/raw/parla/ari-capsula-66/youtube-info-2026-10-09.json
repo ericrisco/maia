@@ -1,0 +1,28 @@
+{
+  "capture": {
+    "captured_at_utc": "2026-10-09",
+    "method": "yt-dlp --no-warnings --no-playlist --dump-single-json --skip-download",
+    "tool": "yt-dlp",
+    "tool_version": "2026.03.17",
+    "source_url": "https://youtu.be/YGSaA_njUIo"
+  },
+  "metadata": {
+    "id": "YGSaA_njUIo",
+    "title": "Càpsula #66. La dansa tradicional d'Andorra: el contrapàs, per Teo Armengol.",
+    "uploader": "Andorra Recerca Innovació",
+    "channel": "Andorra Recerca Innovació",
+    "channel_id": "UC_sgrb5DXkWphnjcW1YThzg",
+    "channel_url": "https://www.youtube.com/channel/UC_sgrb5DXkWphnjcW1YThzg",
+    "upload_date": "20200713",
+    "release_date": null,
+    "license": "Creative Commons Attribution license (reuse allowed)",
+    "webpage_url": "https://www.youtube.com/watch?v=YGSaA_njUIo",
+    "duration": 1004,
+    "availability": "public"
+  },
+  "caption_tracks": {
+    "manual_languages": [],
+    "automatic_languages": [],
+    "note": "yt-dlp no ha exposat pistes de subtítols o captions en aquesta consulta; això no és una verificació auditiva de la transcripció."
+  }
+}
