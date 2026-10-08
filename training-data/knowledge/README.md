@@ -1,17 +1,10 @@
 # Maia Knowledge
 
-Aquest conjunt ensenya a respondre preguntes sobre Andorra a partir de
-`docs/temes/`. Cada registre ha de semblar una conversa real, resoldre un dubte
-concret i quedar sostingut pel corpus.
+Aquest dataset ensenyarà coneixement sobre Andorra a partir de `maia/docs/temes/`. Les converses revisades i la seva procedència es guarden separadament a `review/`.
 
-Llegiu el [pla general](../PLAN.md) i els [exemples editorials](examples/EXEMPLES.md)
-abans de crear registres. Els exemples no són dades d'entrenament.
+- `review/conversations.jsonl`: una conversa per línia, només missatges `user` i `assistant`.
+- `review/provenance.jsonl`: fonts i afirmacions que permeten verificar cada conversa.
+- `work/`: espai per a inventaris temporals mentre ampliem la cobertura.
+- `reports/`: informes de revisió i cobertura.
 
-`review/conversations.jsonl` conté els missatges. `review/provenance.jsonl`
-conté la procedència alineada per identificador. Revalideu tots els registres
-existents abans d'exportar-los. Reescriviu, arxiveu o excloeu els que no passin
-els criteris actuals. No hi ha cap exportació Knowledge aprovada en aquest
-moment.
-
-No poseu IDs, fonts ni notes editorials dins dels missatges. Guardeu la
-procedència en un fitxer separat per poder auditar cada afirmació.
+Les tres converses inicials són una tanda de calibratge. No són una exportació final ni representen cobertura exhaustiva.

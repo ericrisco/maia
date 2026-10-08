@@ -1,5 +1,3 @@
-# Treball intern
+# Work files
 
-Inventaris del corpus, mapes d'afirmacions i altres fitxers regenerables aniran
-aquí quan es reprengui la cobertura. Aquest material és de control intern; no
-forma part del dataset de fine-tuning.
+Inventaris i notes temporals per preparar tandes. No s'entrenen ni s'exporten. Conserva aquí només materials regenerables i documenta'n l'origen.
