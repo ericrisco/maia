@@ -1,3 +1,3 @@
-# Exports
+# Exports de Maia Language
 
-Encara no hi ha exports de Maia Language. Es generaran quan s'hagin revisat les peces elegibles i els drets permetin l'ús previst.
+Encara no hi ha material aprovat per exportar. Només s'hi inclouran fragments humans verificats i amb drets compatibles.

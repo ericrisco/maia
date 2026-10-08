@@ -1,3 +1,3 @@
-# Materials de treball
+# Inventari i decisions
 
-Aquí es documentaran l'elegibilitat de cada peça, els fragments verificats i les exclusions. Els fragments consecutius d'una mateixa peça o parlant es mantindran junts en fer els splits.
+`coverage.csv` enumera totes les peces de `docs/parla/`. El filtre inicial per metadades identifica candidates amb `type: parla`, `veu: originaria`, `epoca: contemporania` i `apte_llengua: true`; això no les aprova automàticament. Cal revisar drets, parlant, qualitat i incertesa de transcripció peça per peça.

@@ -1,3 +1,3 @@
-# Revisió de candidates
+# Candidates en revisió
 
-Aquí aniran les converses candidates de Maia Knowledge. Cada registre ha de complir la porta de qualitat de `../README.md` i tenir la procedència associada. Els exemples de `../examples/` són només per calibrar i no es copien automàticament aquí.
+Les candidates s'afegeixen aquí només després de calibrar l'estil amb els exemples. Cada conversa ha de tenir procedència associada i passar revisió humana de naturalitat, continuïtat, exactitud i drets abans d'exportar-se.

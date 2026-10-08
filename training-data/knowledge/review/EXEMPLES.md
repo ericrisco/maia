@@ -1,39 +1,45 @@
-# Com escriure converses Knowledge
+# Criteri per a les converses de Maia Knowledge
 
-Els tres exemples bons són a [`../examples/conversations.jsonl`](../examples/conversations.jsonl). La procedència i els límits d'ús són a [`../examples/provenance.jsonl`](../examples/provenance.jsonl). Són material de calibratge; no s'exporten.
+Aquesta guia governa les candidates de `conversations.jsonl`. Els exemples de `../examples/conversations.jsonl` només calibren l'estil; no es copien a l'entrenament sense revisió.
 
-## El criteri és la intenció humana
+## La pregunta ha de sonar humana
 
-Abans de redactar, resumeix per a tu mateix què vol entendre la persona. Després formula la pregunta com la faria algú que no ha vist el document. La pregunta pot ser simple, tenir una premissa equivocada o aparèixer com a seguiment d'un tema ja obert. No ha d'anunciar una secció, una taula, una fila ni una «fitxa».
+La persona pregunta pel tema que vol entendre, no per l'estructura del corpus. Pot arribar-hi amb una confusió, una comparació, una dada sorprenent o una qüestió pràctica. No ha de conèixer títols, seccions, files, fitxes o camps interns.
 
-Exemples de preguntes que no serveixen:
+- No: «Què explica la secció “La regla de competència”?»
+- Sí: «Si un comú et demanda, ho veu el mateix tribunal que si el demandes tu?»
+- No: «Què indica aquesta fila?»
+- Sí: «El gràfic i el text coincideixen sobre quin idioma tenia el valor més alt?»
 
-- «Què explica la secció “La regla de competència”?»
-- «Què indica aquesta fila?»
-- «Quins elements s'hi esmenten?»
-- «Què explica el relat?»
+La primera pregunta ha d'incloure el context mínim perquè s'entengui. Les preguntes de seguiment poden ser més curtes si el diàleg ja ha presentat el referent.
 
-No revelen què vol entendre la persona. Canvia-les per preguntes concretes, com ara «Si algú devia diners a un cònsol, el podia demandar?» o «Com podia ser comunal un camp si algú l'havia estat sembrant?».
+## La conversa ha de tenir continuïtat
 
-## El seguiment no és una quota
+Cada resposta resol la pregunta que acaba de rebre. El seguiment surt d'una distinció, un terme o un límit que acaba d'aparèixer. No s'afegeix un torn només per fer que el registre sigui multitorn.
 
-La primera resposta ha de resoldre la primera pregunta. No reservis un fet necessari per fer que la repregunta sembli útil. El seguiment ha de sorgir d'un detall o una distinció de la resposta: «Així que…?», «Vol dir que…?» o «I se sap…?». Ha de canviar o precisar la comprensió, no demanar «què més».
+- Un seguiment útil aclareix què implica una regla, què vol dir un terme, si una dada és segura o com es compara amb el cas que s'acaba d'explicar.
+- Un seguiment buit és «I què més?» o una pregunta sobre un fet nou sense relació amb el fil.
+- Si el tema no dona peu a una repregunta natural, és millor una conversa d'un sol torn que una conversa artificial.
 
-El pilot fa servir dues preguntes d'usuari perquè es pugui veure el fil. No cal que totes les converses finals tinguin el mateix nombre de torns. Si no hi ha una repregunta natural, no l'inventis.
+## Respostes
 
-## Respostes completes i calibrades
+- Comença amb la resposta directa i explica només el context necessari.
+- Escriu frases completes, no notes, etiquetes ni fragments de la fitxa.
+- Mantén clars els referents quan el diàleg fa servir «això», «ell», «llavors» o el·lipsis.
+- Separa fets documentats de tradicions, interpretacions, estimacions i hipòtesis.
+- Acota dates, llocs i conclusions al cas que la font permet afirmar.
+- Si no se sap o les fonts discrepen, explica-ho sense inventar una resolució.
+- No esmentis el corpus, IDs, estats, procedència ni pipeline dins dels missatges.
 
-- Contesta directament, amb frases completes i els referents necessaris.
-- Inclou el context just perquè la resposta s'entengui sense convertir-la en un resum de tota la fitxa.
-- Separa fets documentats, llegendes, interpretacions i hipòtesis.
-- Acota conclusions al lloc, període o cas que la font permet.
-- Si una dada no consta, digues què no es pot afirmar; no omplis el buit.
-- No parlis del corpus, dels IDs, de camps interns ni del procés de recerca.
-- No inventis experiències personals («ahir ho vaig veure») ni facis servir col·loquialismes de disfressa.
+## Revisió obligatòria
 
-## Dues lectures de qualitat
+Abans d'afegir una conversa, llegeix només els missatges i comprova:
 
-1. **Lectura humana:** llegeix només els missatges seguits. El diàleg sona com una conversa amb un únic tema? La pregunta podria sorgir fora de la fitxa? La repregunta té un motiu clar?
-2. **Lectura factual:** contrasta cada afirmació amb la fitxa i les fonts. La fluïdesa no prova que la resposta sigui certa. Revisa dates, noms, quantitats, excepcions, atribucions i el grau de certesa.
+1. La pregunta inicial podria fer-la algú que no ha vist la fitxa?
+2. La resposta contesta la pregunta de seguida?
+3. El seguiment neix del torn anterior i afegeix comprensió?
+4. El diàleg sona natural llegit en veu alta, sense repeticions de plantilla?
+5. Cada dada, nom, data i matís està verificat a les fonts?
+6. La conversa evita conclusions més fortes que les fonts?
 
-Després revisa procedència i drets. Un bon exemple lingüístic encara no és exportable si no tenim dret a usar-ne les fonts per entrenar.
+Registra procedència i drets a `provenance.jsonl`. Una candidate amb drets pendents es pot mantenir en revisió, però no passa a `output/`.

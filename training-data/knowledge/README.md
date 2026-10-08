@@ -1,5 +1,9 @@
 # Maia Knowledge
 
-Conversa factual basada en `docs/temes/`. La persona no ha de conèixer les fitxes ni la seva estructura. Vegeu els exemples de calibratge i el pla a [training-data/PLAN.md](../PLAN.md).
+Conjunt de converses basades en coneixement documentat sobre Andorra a `docs/temes/`. La qualitat d'una conversa es jutja pel dubte humà que resol, la continuïtat dels seguiments, la precisió de la resposta i la procedència.
 
-Els exemples no són dades d'entrenament. Les converses candidates han de passar revisió natural, factual i de drets abans d'arribar a `output/`.
+- `examples/`: exemples de calibratge, fora de l'entrenament.
+- `review/`: candidates pendents de revisió.
+- `work/`: inventari i cobertura.
+- `output/`: només exports aprovats.
+- `reports/`: qualitat, cobertura, exclusions i drets.

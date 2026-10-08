@@ -1,3 +1,3 @@
-# Exports
+# Exports de Maia Knowledge
 
-Encara no hi ha cap export d'entrenament. Els fitxers es crearan quan hi hagi candidates revisades, drets clars i una divisió entre train, validation i test que eviti separar converses similars.
+Encara no hi ha converses aprovades per exportar. No afegir registres fins que passin les revisions de contingut, procedència, drets i deduplicació.

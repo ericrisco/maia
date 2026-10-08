@@ -1,3 +1,3 @@
-# Revisió de material lingüístic
+# Material en revisió
 
-Només s'hi afegiran fragments de parla humana verificats, elegibles i amb condicions de reutilització documentades. No s'hi escriuran respostes fictícies per completar una conversa.
+Fragments de parla humana pendents de validar. Registrar peça, parlant quan sigui conegut, fidelitat de transcripció, incerteses i estat dels drets abans d'incloure cap fragment.

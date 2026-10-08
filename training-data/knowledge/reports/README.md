@@ -1,3 +1,3 @@
-# Informes
+# Informes de Maia Knowledge
 
-Aquí publicarem informes de cobertura, qualitat, duplicats, drets i exclusions quan comenci la producció de candidates.
+Aquí es publicaran els informes de cobertura, qualitat, drets, exclusions i partició de dades quan aquests processos estiguin definits.
