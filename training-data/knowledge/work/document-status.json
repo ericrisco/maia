@@ -1603,12 +1603,17 @@
       "title": "Però en tot lo demés, al cinc per cent",
       "type": "article",
       "topic": "temes/economia/banca-i-fiscalitat",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 76,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/economia/banca-i-fiscalitat/pero-en-tot-lo-demes-al-cinc-per-cent.md#unit-0007",
+        "docs/temes/economia/banca-i-fiscalitat/pero-en-tot-lo-demes-al-cinc-per-cent.md#unit-0009"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 76,
-      "conversation_ids": []
+      "open_unit_count": 74,
+      "conversation_ids": [
+        "censal-i-prestec-tipus-interes-1895-001"
+      ]
     },
     "docs/temes/economia/banca-i-fiscalitat/quatre-pagines-que-no-hi-son.md": {
       "title": "Quatre pàgines que no hi són",
