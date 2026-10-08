@@ -3010,12 +3010,18 @@
       "title": "Andorra als Jocs Olímpics",
       "type": "article",
       "topic": "temes/esports/competicio",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 236,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/esports/competicio/andorra-als-jocs-olimpics.md#unit-0005",
+        "docs/temes/esports/competicio/andorra-als-jocs-olimpics.md#unit-0007",
+        "docs/temes/esports/competicio/andorra-als-jocs-olimpics.md#unit-0051"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 236,
-      "conversation_ids": []
+      "open_unit_count": 233,
+      "conversation_ids": [
+        "andorra-medalla-olimpica-monica-doria-001"
+      ]
     },
     "docs/temes/esports/competicio/andorra-als-jocs-paralimpics.md": {
       "title": "Andorra als Jocs Paralímpics",
