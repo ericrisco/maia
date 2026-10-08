@@ -1,3 +1,30 @@
-# Eines de Knowledge
+# Eines de Maia Knowledge
 
-Encara no hi ha generador d'exportacions. El primer pas és aprovar l'estil i el registre d'evidència; després es construirà i validarà el lector del corpus.
+## Inventari estructural del corpus
+
+`build_knowledge_inventory.py` recorre totes les fitxes Markdown de `docs/temes/`, valida el YAML i crea:
+
+- `work/documents.jsonl`: tipus, títol, tema, font, frontmatter i recompte d'unitats per document.
+- `work/document-units.jsonl`: unitats estructurals amb text, línia, secció i enllaços interns.
+- `reports/inventory-summary.md`: recomptes per tipus, tema i font.
+
+Executar des de l'arrel de `maia/`:
+
+```sh
+python3 -m pip install -r training-data/knowledge/scripts/requirements.txt
+python3 training-data/knowledge/scripts/build_knowledge_inventory.py --check
+python3 training-data/knowledge/scripts/build_knowledge_inventory.py
+python3 -m unittest discover -s training-data/knowledge/scripts/tests -v
+```
+
+`--check` valida frontmatter i identificadors sense escriure l'inventari. La generació només divideix el Markdown per estructures visibles; una unitat inventariada encara necessita revisió humana abans de donar-la per coberta.
+
+
+## Informe de cobertura
+
+`build_knowledge_coverage.py` relaciona cada registre de revisió amb els articles de l'inventari i compta unitats només quan `unit_ids` és explícit. Genera `reports/coverage.md`; no infereix cobertura completa d'un document a partir d'una sola conversa.
+
+```sh
+python3 training-data/knowledge/scripts/build_knowledge_coverage.py --check
+python3 training-data/knowledge/scripts/build_knowledge_coverage.py
+```
