@@ -1,6 +1,6 @@
 # Guia per redactar candidats
 
-Les mostres aprovades només per calibratge són a [`../examples/conversations.jsonl`](../examples/conversations.jsonl). Les candidates antigues de `conversations.jsonl` estan retirades; la propera tanda s'escriu a `candidates-v2.jsonl`.
+Les mostres de calibratge són a [`../examples/conversations.jsonl`](../examples/conversations.jsonl). Les candidates actives s'escriuen a `conversations.jsonl`, amb procedència separada.
 
 ## Reescriu la necessitat, no el títol
 

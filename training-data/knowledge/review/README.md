@@ -1,5 +1,3 @@
 # Revisió de Knowledge
 
-`conversations.jsonl` conté els candidats antics retirats. Es conserva només com a rastre de revisió; no s'ha de revisar, comptar com a cobertura ni exportar.
-
-Els candidats nous van a `candidates-v2.jsonl`, una conversa per línia, amb procedència separada. Abans d'aprovar-los, llegiu-los en veu alta sense la font i apliqueu la prova del [`../PLAN.md`](../PLAN.md).
+`conversations.jsonl` és el fitxer actiu de candidats, una conversa per línia. La procedència corresponent va a `../work/provenance.jsonl`. Reviseu cada registre amb la prova de lectura humana del [`../PLAN.md`](../PLAN.md), contrasteu les afirmacions amb les fonts i anoteu drets i cobertura abans d'exportar.

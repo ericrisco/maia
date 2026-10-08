@@ -5,7 +5,7 @@ Dos conjunts diferents, perquè cadascun ensenya una habilitat diferent:
 - **Knowledge** ensenya a contestar preguntes reals sobre Andorra amb informació de `docs/temes/`.
 - **Language** conserva usos reals del català andorrà contemporani a partir de `docs/parla/`. No s'inventen diàlegs per imitar una veu local.
 
-`knowledge/examples/` conté quatre mostres per calibrar el to. Són internes, no aprovades ni exportables. Els candidats antics de `knowledge/review/` queden retirats: no s'han de revisar ni exportar. Els registres nous han d'estar en un fitxer nou i passar el criteri de `PLAN.md`.
+`knowledge/examples/` conté quatre mostres per calibrar el to. Són internes, no aprovades ni exportables. Les converses candidates actives són a `knowledge/review/conversations.jsonl`; passen pel criteri de `PLAN.md` abans d'exportar-se.
 
 No hi ha datasets finals. Els splits es crearan quan hi hagi prou registres revisats, drets comprovats i una separació fiable entre train, validation i test.
 

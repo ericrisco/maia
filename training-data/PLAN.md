@@ -26,13 +26,13 @@ Una conversa només passa si és plausible, s'entén sola, és correcta i cada t
 ## Estructura i estats
 
 - `knowledge/examples/`: calibratge intern, no exportable.
-- `knowledge/review/`: candidats nous en JSONL, amb procedència separada.
+- `knowledge/review/conversations.jsonl`: fitxer actiu de converses candidates, una conversa per línia. La procedència es desa a `knowledge/work/provenance.jsonl`.
 - `knowledge/work/`: cobertura i anotacions internes, mai dins del missatge final.
 - `knowledge/output/`: només converses aprovades, una per línia i només amb `messages`.
 - `knowledge/reports/`: cobertura, exclusions i resultats de revisió.
 - `language/`: flux separat basat en fragments humans elegibles de `docs/parla/`.
 
-Els candidats antics marcats com a retirats no es recuperen automàticament. Cap registre és exportable fins que s'hagin revisat exactitud, duplicació, procedència i drets de totes les fonts.
+Els registres existents continuen a la tanda; es revisen amb aquest criteri i es corregeixen quan calgui. Cap registre és exportable fins que s'hagin revisat exactitud, duplicació, procedència i drets de totes les fonts.
 
 ## Maia Language
 
