@@ -14808,12 +14808,21 @@
       "title": "El Gini ha pujat vuit punts",
       "type": "article",
       "topic": "temes/societat/proteccio-social",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 69,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/societat/proteccio-social/el-gini-ha-pujat-vuit-punts.md#unit-0006",
+        "docs/temes/societat/proteccio-social/el-gini-ha-pujat-vuit-punts.md#unit-0007",
+        "docs/temes/societat/proteccio-social/el-gini-ha-pujat-vuit-punts.md#unit-0009",
+        "docs/temes/societat/proteccio-social/el-gini-ha-pujat-vuit-punts.md#unit-0011",
+        "docs/temes/societat/proteccio-social/el-gini-ha-pujat-vuit-punts.md#unit-0012",
+        "docs/temes/societat/proteccio-social/el-gini-ha-pujat-vuit-punts.md#unit-0016"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 69,
-      "conversation_ids": []
+      "open_unit_count": 63,
+      "conversation_ids": [
+        "desigualtat-ingressos-gini-i-quintils-001"
+      ]
     },
     "docs/temes/societat/proteccio-social/la-caixa-va-neixer-de-la-immigracio.md": {
       "title": "La Caixa va néixer de la immigració",
