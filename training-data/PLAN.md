@@ -1,13 +1,15 @@
-# Pla de treball: Maia Training Data
+# Pla de treball: dades de Maia
 
 ## Objectiu
 
-Preparar dades de fine-tuning que ensenyin a Maia a contestar com un assistent
-útil, no com un cercador de títols o un lector de fitxes. Cada conversa ha de
-néixer d'un dubte que una persona podria tenir sense haver vist el corpus.
+Crear exemples que ensenyin a Maia a mantenir converses útils i naturals sobre
+Andorra. La persona pregunta perquè vol entendre, comprovar o relacionar alguna
+cosa; no perquè conegui el nom d'una fitxa o vulgui que el model reciti un
+fragment del corpus.
 
-Knowledge i Language continuen separats. Les mostres de calibratge serveixen
-per acordar l'estil; no compten com a dades d'entrenament ni com a cobertura.
+Knowledge i Language són conjunts separats. `knowledge/review/EXEMPLES.md`
+serveix per acordar el criteri editorial; no és dada d'entrenament ni compta
+per a la cobertura.
 
 ## Estructura
 
@@ -17,87 +19,97 @@ training-data/
 ├── PLAN.md
 ├── knowledge/
 │   ├── README.md
-│   ├── examples/EXEMPLES.md       # mostres editorials, mai exportades
-│   ├── scripts/                   # interfícies locals del pipeline
-│   ├── review/                    # converses reals revisades i procedència
-│   ├── work/                      # inventari i cobertura, quan es regenerin
+│   ├── scripts/                   # instruccions del pipeline
+│   ├── review/
+│   │   ├── EXEMPLES.md            # mostres editorials, mai exportades
+│   │   ├── conversations.jsonl    # registres candidats
+│   │   └── provenance.jsonl       # fonts i revisions
+│   ├── work/                      # inventaris i candidats regenerables
 │   ├── reports/                   # informes d'auditoria
-│   └── output/                    # train/validation/test, al final
+│   └── output/                    # exportació només després de l'aprovació
 └── language/
     ├── README.md
     ├── scripts/
-    ├── review/                    # fragments humans elegibles i procedència
+    ├── review/                    # fragments i procedència
     ├── work/
     ├── reports/
-    └── output/                    # train/validation/test, al final
+    └── output/
 ```
 
-El codi compartit del pipeline viu a `src/training_data/`. Les carpetes
-`scripts/` documenten els punts d'entrada propis de cada conjunt; `work/`, els
-informes generats i `output/` tenen `.gitignore` perquè són artefactes locals o
-fragments del dataset.
+El pipeline compartit viu a `src/training_data/`. `review/` conté els registres
+que una persona encara ha de revisar. Cada línia de `conversations.jsonl` és una
+conversa completa; la línia corresponent de `provenance.jsonl` documenta fonts,
+afirmacions i decisions editorials. No poseu metadades als missatges. Els
+artefactes regenerables de `work/`, els informes locals i els conjunts exportats
+es regeixen pels `.gitignore` de cada carpeta.
 
-## Com s'escriu una conversa de Knowledge
+## Mètode per escriure Knowledge
 
-1. **Partir d'una intenció humana.** Abans de redactar, escriure en una frase
-   què vol resoldre la persona: una confusió, una decisió, una comparació, una
-   dada que no li quadra o una conseqüència que vol entendre.
-2. **Redactar sense mirar els títols de secció.** La pregunta inicial ha de
-   tenir sentit per si sola. No pot demanar què diu una fitxa, una secció, una
-   fila o un document.
-3. **Respondre el dubte complet.** La primera resposta ha de poder-se llegir
-   sola i contenir el context necessari. No s'ha de repartir una resposta en
-   torns artificials.
-4. **Afegir seguiments només si neixen de la resposta.** Cada nou torn de la
-   persona ha d'aportar una curiositat o una conseqüència genuïna. No hi ha una
-   llargada obligatòria; si el fil s'ha acabat, la conversa s'acaba.
-5. **Respectar el que la font no resol.** Corregir una premissa amb tacte.
-   Separar els fets de les interpretacions i dir clarament quan el corpus no
-   permet respondre.
-6. **Revisar-la sense metadades.** Llegir només els missatges. Si sona a examen,
-   a consulta a una base de dades o a resum d'article, reescriure-la o descartar-la.
+1. **Trobar una necessitat, no una secció.** Abans d'obrir el text, anoteu en
+   privat què voldria aclarir una persona: una confusió, una comparació, una
+   conseqüència, una contradicció aparent o el context d'una història. Aquesta
+   nota no entra als missatges.
+2. **Redactar la pregunta amb paraules pròpies.** La persona no ha de saber que
+   existeix una fitxa, una taula ni cap apartat. Eviteu «què explica la
+   secció…», «què indica aquesta fila?» i «resumeix aquest document».
+3. **Contestar el dubte de debò.** La resposta inicial ha de ser entenedora per
+   si sola, donar el context imprescindible i distingir fets, llegenda i
+   interpretació. No amagueu la resposta darrere d'una frase introductòria ni
+   la talleu per fabricar més torns.
+4. **Continuar només quan hi ha una raó natural.** El seguiment ha de néixer del
+   que s'acaba de dir: una conseqüència, una excepció o una comparació que la
+   persona probablement voldria aclarir. No hi ha un mínim de torns. Una bona
+   conversa pot acabar després d'una resposta; una conversa més llarga ha de
+   conservar el context i no repetir preguntes ja resoltes.
+5. **Respectar els límits de la font.** Si la informació no hi consta, digueu-ho
+   amb claredat. No convertiu una hipòtesi en fet ni completeu buits amb
+   coneixement extern sense verificar-lo i registrar-ne la font.
+6. **Fer la prova de lectura cega.** Llegiu només `messages`, sense títols,
+   notes ni metadades. Pregunteu-vos: «Això ho podria preguntar algú parlant
+   amb una persona que en sap? La resposta sona completa i espontània? El
+   seguiment surt de la conversa?» Si alguna resposta és no, reescriviu o
+   descarteu el registre.
 
-No s'ha d'aplicar una plantilla fixa de tipus de pregunta. La varietat ha de
-sortir de necessitats diferents, no de canviar «què és» per «quan passa».
-Tampoc no s'han d'inventar situacions personals per fer més simpàtica una
-pregunta.
+No s'ha de perseguir la varietat canviant paraules d'una mateixa plantilla.
+Busqueu dubtes diferents i deixeu que la llargada i el to s'adaptin a cada fil.
+No inventeu una situació personal només per fer que la pregunta sembli humana.
 
-## Registre i control
+## Criteris per acceptar un registre
 
-- Una conversa per registre revisable; una conversa completada per commit i push.
-- `messages` conté només torns `user` i `assistant`. Font, drets, afirmacions i
-  notes de revisió van en un fitxer de procedència separat.
-- Cada resposta factual s'ha de contrastar amb la font original. Cap dada nova
-  no pot venir d'una suposició de qui redacta.
-- Cobertura vol dir que les afirmacions rellevants de cada font estan
-  representades; tenir una conversa que en cita el document no és cobertura
-  completa.
-- Els fets que canvien amb el temps —composició actual d'institucions, horaris
-  o preus— es tracten segons la constitució del projecte: són candidats a
-  recuperació de documents, no coneixement per congelar al fine-tuning.
-- Les mostres d'`examples/` són només editorials. No s'afegeixen a `review/` ni
-  a `output/` sense una revisió independent de font i drets.
+- La pregunta inicial té sentit sense veure el corpus i no apunta a una peça
+  editorial concreta.
+- La resposta cobreix el que s'ha preguntat, sense fragments penjats ni
+  informació ornamental.
+- Cada afirmació factual és traçable a una font i a evidència concreta.
+- Els seguiments afegeixen una curiositat real; no són obligatoris.
+- El diàleg sona natural llegit en veu alta i no sembla una fitxa d'examen.
+- No hi ha dades volàtils congelades com si fossin coneixement permanent.
+- La procedència registra llicència, termes i estat de redistribució de totes
+  les fonts, abans d'incloure'n material al conjunt.
 
 ## Fases
 
-1. **Calibratge d'estil.** Revisar les mostres d'`knowledge/examples/EXEMPLES.md`.
-   No ampliar el corpus fins que les preguntes i respostes tinguin el to desitjat.
-2. **Inventari de fonts.** Recórrer `docs/temes/`, registrar drets i identificar
-   fets entrenables, informació volàtil, incerteses i relacions entre fitxes.
-3. **Producció de Knowledge.** Crear converses a partir d'intencions humanes,
-   revisar-les contra les fonts i desar cada conversa amb la seva procedència.
-4. **Cobertura i deduplicació.** Comparar afirmacions i unitats de cada fitxa
-   amb els registres. Completar buits i descartar repeticions sense valor.
-5. **Producció de Language.** Inspeccionar `docs/parla/` separadament. Utilitzar
-   només parla humana contemporània marcada com a elegible i filtrar fragments
-   incerts; no inventar respostes per imitar un dialecte.
-6. **Exportació.** Crear `train.jsonl`, `validation.jsonl` i `test.jsonl` només
-   després de revisar qualitat i drets. Agrupar pel tema o la font abans de fer
-   el split per reduir filtracions entre conjunts.
-7. **Auditoria final.** Validar format, duplicats, cobertura, procedència i
-   elegibilitat lingüística; deixar els informes a `reports/`.
+1. **Acordar l'estil.** Llegir `knowledge/review/EXEMPLES.md` i ajustar-lo
+   abans de reprendre la producció.
+2. **Revisar fonts i drets.** Inventariar `docs/temes/`, comprovar les fonts
+   originals i marcar fets estables, contingut volàtil, buits i restriccions.
+3. **Produir converses candidates.** Crear una conversa per registre a
+   `knowledge/review/conversations.jsonl` i la seva procedència a
+   `knowledge/review/provenance.jsonl`.
+4. **Revisar i cobrir.** Revisar to, evidència, drets, duplicats i quines
+   afirmacions rellevants encara no tenen cap conversa útil.
+5. **Tractar Language a part.** Seleccionar només parla humana contemporània
+   elegible de `docs/parla/`; no inventar diàlegs ni respostes per imitar una
+   varietat lingüística.
+6. **Exportar després de l'aprovació.** Separar train, validation i test per
+   font o tema per evitar que la mateixa informació aparegui als dos costats
+   de l'avaluació.
+7. **Auditar l'exportació.** Validar esquema, duplicats, procedència, drets,
+   cobertura i criteris de qualitat abans de donar-la per bona.
 
 ## Regla de pas
 
-Primer cal acordar l'estil amb les mostres. Després es reprèn la producció, una
-conversa per vegada, amb revisió, validació, commit i push abans de continuar.
+Les mostres són el calibratge, no una autorització automàtica per generar lots.
+Un cop acordat l'estil, es reprèn el treball amb registres petits i revisables.
+Cap mostra editorial no passa a `review/` o `output/` sense una revisió nova de
+contingut i procedència.
