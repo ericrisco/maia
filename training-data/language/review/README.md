@@ -17,3 +17,10 @@ L'estat no afirma que una paraula incerta sigui correcta. Reviseu aquest camp i
 les condicions de cada font abans de tractar la sortida com a final. No barregeu
 els fragments amb les converses de Maia Knowledge ni inventeu preguntes o
 respostes per completar-los.
+
+El 2026-10-08 s'ha verificat a les metadades individuals de YouTube la llicència
+CC BY de les càpsules AR+I **#34, #56 i #57**. La procedència de les **177
+mostres** d'aquestes tres peces apunta a les captures guardades a
+`docs/raw/parla/ari-capsula-*/`. Això resol només els drets d'aquestes peces;
+la transcripció continua pendent de comprovació contra l'àudio i no acredita,
+per si sola, que els ponents siguin parlants andorrans.
