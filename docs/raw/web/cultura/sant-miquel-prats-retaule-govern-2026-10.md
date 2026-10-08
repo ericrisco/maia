@@ -41,3 +41,7 @@ El retaule es dedicava a sant Miquel, patró de l’església, i s’adaptava a 
 Al primer pis hi havia la caiguda dels àngels rebels, sant Miquel pesant les ànimes, la curació d’Aquilinus i el miracle del Mont-Saint-Michel. Al segon, el miracle del mont Gàrgan, l’aparició de sant Miquel al bisbe i dues taules amb fons estelat. La cresteria del nínxol central duia sant Miquel matant la bèstia dels set caps i dues taules laterals també amb fons estelat. El perímetre tenia un guardapols amb relleus vegetals i animals fantàstics.
 
 La predel·la inferior tenia cinc escenes de la Passió: el prendiment de Jesús; Crist davant Pilat i el rentat de mans; la crucifixió; el plany davant el cos de Crist; i l’enterrament. A un costat hi havia una porta amb sant Pere; la identificació de sant Pau a l’altre costat és probable, no segura.
+
+## La talla de sant Miquel que continua a l’església (2026-10-08)
+
+La publicació explica que la talla original de sant Miquel és l’únic element del retaule antic que continua a l’església de Prats. Després de vendre el retaule, amb els diners es va comprar un retaule nou i s’hi va instal·lar poc després; la talla antiga en forma part. Aquesta escultura és diferent del crucifix gòtic del segle XIV, que la fitxa del corpus situa al Museu de Yale.
