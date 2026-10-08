@@ -771,6 +771,9 @@
       "status": "in_progress",
       "unit_count": 33,
       "covered_unit_ids": [
+        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0001",
+        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0002",
+        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0003",
         "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0012",
         "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0016",
         "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0017",
@@ -780,8 +783,9 @@
         "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0023"
       ],
       "excluded_unit_count": 6,
-      "open_unit_count": 20,
+      "open_unit_count": 17,
       "conversation_ids": [
+        "josep-viladomat-origen-i-formacio-001",
         "viladomat-ball-morisca-casa-vall-001",
         "viladomat-obres-centre-art-i-museus-001",
         "viladomat-republica-i-estatua-franco-001"
