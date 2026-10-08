@@ -10,6 +10,14 @@ Una conversa ha de començar amb una necessitat que una persona pugui tenir sens
 
 La primera pregunta té una raó pràctica i es pot entendre sense saber què conté la fitxa. El seguiment reprèn la cercavila que acaba d'esmentar l'assistent i demana un detall concret. La resposta no deixa el lloc ni l'hora per al torn següent.
 
+## Mostra: distingir l'original de la rèplica
+
+```json
+{"messages":[{"role":"user","content":"La imatge que es venera ara al santuari de Meritxell és l'original medieval?"},{"role":"assistant","content":"No. La talla de fusta del segle XII es va perdre en l'incendi del santuari la nit del 8 al 9 de setembre de 1972. La imatge actual és una rèplica de l'escultor Sergi Mas."},{"role":"user","content":"I quan es va obrir el santuari nou?"},{"role":"assistant","content":"El santuari nou, projectat per Ricard Bofill, es va inaugurar el 1976."}]}
+```
+
+La primera pregunta neix d'una confusió comprensible entre la imatge venerada avui i la talla històrica. El seguiment demana què va passar amb el santuari després del mateix incendi; no canvia de tema ni obliga l'assistent a reservar informació important.
+
 ## Regles per revisar cada conversa
 
 - Llegeix els missatges sense títol, ID ni font. Si la pregunta només té sentit amb la fitxa al davant, reescriu-la o descarta-la.
