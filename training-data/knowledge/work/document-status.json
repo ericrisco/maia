@@ -14108,12 +14108,18 @@
       "title": "La població al segle XIX",
       "type": "article",
       "topic": "temes/societat/demografia",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 59,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/societat/demografia/la-poblacio-al-segle-xix.md#unit-0001",
+        "docs/temes/societat/demografia/la-poblacio-al-segle-xix.md#unit-0005",
+        "docs/temes/societat/demografia/la-poblacio-al-segle-xix.md#unit-0007"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 59,
-      "conversation_ids": []
+      "open_unit_count": 56,
+      "conversation_ids": [
+        "brutails-recompte-1897-cases-habitants-001"
+      ]
     },
     "docs/temes/societat/demografia/les-estadistiques-que-no-hi-havia.md": {
       "title": "Les estadístiques que no hi havia",
