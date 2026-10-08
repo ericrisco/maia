@@ -4,7 +4,7 @@ Aquest conjunt ensenya a respondre preguntes sobre Andorra amb informació de `d
 
 ## Estat
 
-La fase actual defineix l'estructura i calibra el criteri amb tres exemples. Aquests exemples tenen estat `approved_sample`: serveixen per revisar la qualitat, però no s'exporten ni compten com a cobertura. Encara no hi ha una cua nova de registres de producció.
+La guia de `review/EXEMPLES.md` fixa el llindar editorial amb tres mostres `approved_sample`. Aquestes mostres no s'exporten ni compten com a cobertura. També hi ha converses de producció aprovades; les xifres actuals, la cobertura per tema i les unitats pendents són a [`reports/coverage-summary.md`](reports/coverage-summary.md). La cobertura encara és parcial i cada registre nou ha de passar la revisió de qualitat i drets.
 
 ## Carpetes
 
