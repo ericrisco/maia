@@ -25,3 +25,11 @@ La publicació presenta la història a partir de l'estudi d'Alberto Velasco sobr
 La publicació oficial d’octubre de 2026 situa una taula anomenada *La caiguda dels àngels rebels* a les reserves de Patrimoni Cultural i la predel·la i *El miracle del mont Gàrgan* a la col·lecció d’art de Crèdit Andorrà, exposades a la seu de Creand. El resum anterior del corpus anomena la taula de Patrimoni *La victòria de Sant Miquel* i la del mont Gàrgan *L’aparició del mont Gàrgan*. Les fonts no expliquen si són variants de títol o peces diferents.
 
 El text anterior del corpus parla de tres de sis taules localitzades. La publicació d’octubre enumera cinc taules narratives que encara falten, a més d’elements ornamentals, i identifica en fotografies la taula de sant Miquel lluitant amb la bèstia dels set caps. No són recomptes formulats amb la mateixa unitat; no se’n dedueix un total únic de peces pendents. La taula identificada en fotografia no té una ubicació física confirmada en aquesta font.
+
+## Autoria i estructura del retaule (2026-10-08)
+
+La publicació oficial atribueix la pintura a Miquel Ramells i el daurat a Guiu Borgonyó, coneguts conjuntament com el Mestre de Canillo. La data proposada és cap al 1537 i la tècnica és oli i tremp d’ou sobre fusta. La mateixa font relaciona aquest conjunt amb el retaule de Sant Joan de Caselles, atribuït a la mateixa parella i amb semblances entre les obres.
+
+El retaule s’adaptava a l’absis. Tenia una predel·la amb cinc escenes de la Passió i dos pisos de taules sobre la vida i els miracles de sant Miquel. La fornícula central ocupava els dos pisos i contenia la talla de sant Miquel; la taula del coronament el mostrava combatent la bèstia dels set caps. El perímetre tenia un guardapols. La font enumera també escenes i elements laterals, amb algunes identificacions marcades com a probables.
+
+Aquesta és una nota factual pròpia; no es copia el text ni les imatges de la publicació. La pàgina indica drets de tercers per a diverses fotografies, que no s’han descarregat ni s’han d’incorporar al dataset.
