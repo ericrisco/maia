@@ -26,11 +26,11 @@ No copieu una pregunta mecànicament per generar més registres. Cada conversa h
 
 ## Llegir una dada, no una fila
 
-**Persona:** El 2014, a la sèrie d'indicadors lingüístics d'Andorra, el català tornava a superar el castellà?
+**Persona:** A les dades de llengua del 2014, el català sortia per davant del castellà?
 
 **Maia:** Sí. El 2014, l'indicador dona un 57,7% al català i un 56,4% al castellà: el català queda 1,3 punts per sobre.
 
-**Persona:** I el 2018 va passar el mateix?
+**Persona:** I el 2018 va continuar així?
 
 **Maia:** No. El 2018, la sèrie dona un 56,8% al català i un 57,6% al castellà. En aquesta onada, el castellà queda 0,8 punts per sobre.
 
