@@ -2,22 +2,23 @@
 
 Aquest espai prepara dos datasets separats a partir del corpus de Maia:
 
-- **Knowledge** ensenya a respondre preguntes sobre Andorra amb informació de `maia/docs/temes/`.
-- **Language** conserva usos lingüístics humans de `maia/docs/parla/`; no s'hi inventen veus ni respostes.
+- **Maia Knowledge**: converses per respondre preguntes sobre Andorra, a partir de `docs/temes/`.
+- **Maia Language**: senyal lingüístic humà contemporani, a partir de `docs/parla/`; no s'hi inventen veus ni respostes.
 
 ## Estat actual
 
-La carpeta `knowledge/examples/` conté quatre mostres per revisar el to i el disseny de converses. **No són exports d'entrenament.** Encara no hi ha datasets finals ni particions train/validation/test. La procedència i els drets es mantenen separats dels missatges.
+Hem reiniciat la calibració perquè les preguntes anteriors sonaven com consultes sobre fitxes i taules. `knowledge/examples/` conté quatre converses noves per revisar naturalitat i seguiments. Són exemples editorials, no exports d'entrenament. No hi ha fitxers finals ni particions train/validation/test.
 
-## Estructura
+Les fonts, drets i notes de revisió van en fitxers separats dels missatges. Una font amb drets pendents no es pot exportar.
 
-- `PLAN.md`: criteris i passos de treball.
-- `scripts/inventory.py`: reconstrueix els inventaris a partir de tots els Markdown del corpus i conserva l’estat de revisió existent.
-- `scripts/parse_corpus.py`: llegeix les fitxes Knowledge en blocs semàntics i genera un informe de cobertura.
-- `knowledge/examples/`: mostres editorials i procedència.
-- `knowledge/work/`: inventari de cobertura i feina pendent.
-- `knowledge/output/`: reservat per a exports aprovats.
-- `language/work/`: inventari i revisió de peces de parla.
-- `language/output/`: reservat per a fragments elegibles i splits.
+## Mapa
 
-Knowledge i Language no es barregen. Vegeu els README de cada àrea abans d'afegir registres. Els comandaments de regeneració i validació són a [`scripts/README.md`](scripts/README.md).
+- `PLAN.md`: criteris de conversa i fases del projecte.
+- `scripts/`: lector i inventari del corpus.
+- `knowledge/examples/`: converses de calibració i procedència.
+- `knowledge/work/`: cobertura i estat de revisió de les fitxes.
+- `knowledge/output/`: reservat per als exports aprovats.
+- `language/work/`: inventari i estat d'elegibilitat de les peces de parla.
+- `language/output/`: reservat per als fragments elegibles i els splits.
+
+Knowledge i Language no es barregen. Vegeu els README de cada àrea i el [pla de conversa](PLAN.md) abans d'afegir registres.
