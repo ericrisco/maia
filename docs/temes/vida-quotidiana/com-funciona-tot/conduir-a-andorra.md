@@ -22,7 +22,7 @@ Llegit sencer, és **el retrat d'un país de muntanya sense autopistes**.
 > «a) **90 km/h** a les carreteres generals i **60 km/h** a les carreteres
 > secundàries. b) **50 km/h** a les zones urbanes per a tota mena de carreteres.
 > c) **30 km/h** a les zones establertes com Zona 30. d) **20 km/h** a les zones
-> establertes com Zona 20» (article 7).
+> establertes com Zona 20» (article 8).
 
 **No hi ha cap categoria de via més ràpida.** Andorra no té autopista ni via
 ràpida, i el codi no en preveu la figura: **noranta és el sostre legal de tot el
