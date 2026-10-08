@@ -1,3 +1,3 @@
-# Informes de Maia Knowledge
+# Informes de Knowledge
 
-Aquí es publiquen informes regenerables d’inventari i cobertura, i s’hi afegiran resultats de qualitat, drets i duplicació. Les mètriques serveixen per localitzar mancances; no substitueixen la revisió dels diàlegs.
+S'hi publicaran cobertura, qualitat, drets i exclusions quan comenci el processament exhaustiu. Les mostres actuals no compten com a cobertura.

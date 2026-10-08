@@ -1,3 +1,3 @@
-# Informes de Maia Language
+# Informes de Language
 
-`source-audit.md` resumeix els termes d’ús documentats, les incidències estructurals de transcripció i la revisió d’identitat lingüística pendent. S’hi afegiran els informes de peces examinades, incloses i excloses, fragments verificats i splits.
+S'hi documentaran peces revisades, fragments inclosos i exclosos, motius, drets i estat de validació humana.

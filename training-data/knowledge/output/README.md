@@ -1,3 +1,3 @@
-# Exports de Maia Knowledge
+# Exportacions de Knowledge
 
-Els exports d'entrenament només s'afegiran quan els registres hagin passat la revisió de contingut i drets i hi hagi una estratègia de partició sense filtracions. Els exemples de `review/` no són exports.
+Encara no hi ha registres aprovats per exportar. Les mostres de revisió no s'han d'entrenar. `train.jsonl`, `validation.jsonl` i `test.jsonl` es crearan després de revisar cobertura, deduplicació i drets.

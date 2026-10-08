@@ -1,5 +1,5 @@
 # Maia Knowledge
 
-Converses informatives sobre Andorra, basades en `docs/temes/` i fonts que permetin l'ús previst. La persona que pregunta no ha de conèixer les fitxes. Cada resposta ha de contestar el dubte amb informació verificable.
+Converses en català que ensenyen coneixement documentat sobre Andorra. Les preguntes han de semblar dubtes que algú faria a un assistent, no ordres per resumir una fitxa.
 
-`review/examples.jsonl` és només una mostra editorial. No és material aprovat per entrenar i no es copia automàticament a `output/`.
+Les mostres editorials són a `review/examples.jsonl`; la seva evidència i llicència són a `review/evidence.jsonl`. Cap mostra no és encara un registre aprovat. Els criteris i les fases són a `../PLAN.md`.

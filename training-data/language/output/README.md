@@ -1,3 +1,3 @@
-# Exports de Maia Language
+# Exportacions de Language
 
-Només hi haurà exports quan fragments humans reals hagin passat la revisió de drets, consentiment i transcripció.
+Encara no hi ha registres aprovats. Les exportacions només es crearan quan les fonts, les transcripcions i les autoritzacions hagin passat revisió.

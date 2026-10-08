@@ -1,3 +1,3 @@
-# Treball de Maia Language
+# Intermedis de Language
 
-Inventaris regenerables de peces, permisos i fragments revisats. No s'hi generen imitacions de parla.
+Materials regenerables de transcripció i filtratge. No són exportacions i no s'han de barrejar amb Knowledge.
