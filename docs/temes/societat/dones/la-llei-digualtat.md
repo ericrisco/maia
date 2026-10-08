@@ -54,7 +54,7 @@ administratius sancionadors (article 24.2) —on regeix la presumpció d'innocè
 | Qui | Obligació |
 | --- | --- |
 | **Administracions públiques** i organismes que en depenen | aprovar un pla d'igualtat **en dos anys** des de l'entrada en vigor (article 52.1) |
-| **Empreses de 50 o més persones treballadores** | articular les mesures **a través d'un pla negociat** amb la representació del personal, **màxim sis mesos** (article 59.2) |
+| **Empreses de 50 o més persones treballadores** | articular les mesures **a través d'un pla negociat** amb la representació del personal, **màxim sis mesos** (article 57.2) |
 
 Si a l'empresa no hi ha representació del personal, els treballadors poden
 designar **una comissió de tres membres elegida democràticament** entre ells.
@@ -62,7 +62,7 @@ designar **una comissió de tres membres elegida democràticament** entre ells.
 I el desenllaç no es deixa obert:
 
 > «Si finalitzat el període de negociació les parts no arribessin a un acord,
-> **l'empresa hauria d'implantar el pla de forma unilateral**» (article 59.2).
+> **l'empresa hauria d'implantar el pla de forma unilateral**» (article 57.2).
 
 **El pla no és negociable en el sentit de poder no existir.** Es negocia el
 contingut; l'existència, no.
