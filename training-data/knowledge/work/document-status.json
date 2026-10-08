@@ -770,10 +770,15 @@
       "topic": "temes/cultura/arts-visuals",
       "status": "in_progress",
       "unit_count": 33,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0012",
+        "docs/temes/cultura/arts-visuals/josep-viladomat.md#unit-0016"
+      ],
       "excluded_unit_count": 6,
-      "open_unit_count": 27,
-      "conversation_ids": []
+      "open_unit_count": 25,
+      "conversation_ids": [
+        "viladomat-ball-morisca-casa-vall-001"
+      ]
     },
     "docs/temes/cultura/arts-visuals/lart-mes-antic.md": {
       "title": "L'art més antic",
