@@ -4,7 +4,7 @@ Informe regenerable a partir de l'inventari, `conversations.jsonl` i `records.js
 
 - Documents Markdown inventariats: **1477**.
 - Articles del brain: **1348**.
-- Converses de revisió amb registre: **5**.
+- Converses de revisió amb registre: **6**.
 - Articles citats per almenys una conversa: **1**.
 - Unitats estructurals enllaçades explícitament amb `unit_ids`: **27**.
 
@@ -116,7 +116,7 @@ Informe regenerable a partir de l'inventari, `conversations.jsonl` i `records.js
 | `temes/societat/habitatge` | 9 | 0 | 0 |
 | `temes/societat/immigracio` | 19 | 0 | 0 |
 | `temes/societat/mitjans` | 5 | 0 | 0 |
-| `temes/societat/proteccio-social` | 4 | 1 | 5 |
+| `temes/societat/proteccio-social` | 4 | 1 | 6 |
 | `temes/societat/sanitat` | 19 | 0 | 0 |
 | `temes/societat/treball` | 18 | 0 | 0 |
 | `temes/societat/vida-civica` | 8 | 0 | 0 |
