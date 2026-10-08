@@ -804,12 +804,15 @@
       "status": "in_progress",
       "unit_count": 63,
       "covered_unit_ids": [
-        "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0002"
+        "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0002",
+        "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0004",
+        "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0006"
       ],
       "excluded_unit_count": 47,
-      "open_unit_count": 15,
+      "open_unit_count": 13,
       "conversation_ids": [
-        "meritxell-talla-perduda-i-imatge-de-sergi-mas-001"
+        "meritxell-talla-perduda-i-imatge-de-sergi-mas-001",
+        "sergi-mas-casa-de-la-vall-i-oficis-001"
       ]
     },
     "docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md": {
