@@ -626,10 +626,15 @@
       "topic": "temes/cultura/arquitectura",
       "status": "in_progress",
       "unit_count": 15,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/cultura/arquitectura/sant-roma-de-les-bons.md#unit-0001",
+        "docs/temes/cultura/arquitectura/sant-roma-de-les-bons.md#unit-0002"
+      ],
       "excluded_unit_count": 12,
-      "open_unit_count": 3,
-      "conversation_ids": []
+      "open_unit_count": 1,
+      "conversation_ids": [
+        "sant-roma-les-bons-interior-de-diverses-epoques-001"
+      ]
     },
     "docs/temes/cultura/arquitectura/sant-serni-de-canillo.md": {
       "title": "Sant Serni de Canillo",
