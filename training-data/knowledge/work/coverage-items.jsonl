@@ -8,3 +8,4 @@
 {"unit_id":"knowledge-0005-claim-002","path":"docs/temes/costums/danses/la-marratxa.md","claim":"La font no explica com es reparteixen les sis parròquies entre les tres balladores.","status":"covered","conversation_ids":["knowledge-0005"]}
 {"unit_id":"knowledge-0006-claim-001","path":"docs/temes/costums/danses/la-marratxa.md","claim":"Marratxa és el nom d’un recipient d’aigua perfumada que els dansaires duien als inicis del ball.","status":"covered","conversation_ids":["knowledge-0006"]}
 {"unit_id":"knowledge-0006-claim-002","path":"docs/temes/costums/danses/la-marratxa.md","claim":"El recipient ja no forma part del ball i el nom s’ha conservat.","status":"covered","conversation_ids":["knowledge-0006"]}
+{"unit_id":"knowledge-0007-claim-001","path":"docs/temes/costums/danses/la-marratxa.md","claim":"La Marratxa es balla dilluns de la Festa Major de Sant Julià, amb La Passa i el ball del Cerdà.","status":"covered","conversation_ids":["knowledge-0007"]}
