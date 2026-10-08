@@ -1,6 +1,6 @@
 document,title,type,epoca,apte_llengua,status,record_ids,notes
 docs/temes/costums/calendari-festiu/calendari-festiu-index-de-fitxes.md,Calendari festiu — índex de fitxes,index,,,pending_review,,
-docs/temes/costums/calendari-festiu/calendari-festiu.md,El calendari festiu,article,contemporania,false,partially_covered,knowledge-0001;knowledge-0002,"Covers parish-level framing, annual celebration overview and escudella; judicial calendar and caveats pending."
+docs/temes/costums/calendari-festiu/calendari-festiu.md,El calendari festiu,article,contemporania,false,partially_covered,knowledge-0001;knowledge-0002;knowledge-0012,"Annual calendar, escudella and source-scope caveats covered; judicial list details remain."
 docs/temes/costums/calendari-festiu/el-carnaval-dencamp.md,El carnaval d'Encamp,article,contemporania,false,partially_covered,knowledge-0003;knowledge-0004;knowledge-0005;knowledge-0006;knowledge-0007;knowledge-0008;knowledge-0009;knowledge-0010;knowledge-0011,"Cross-parish names, performance period and loss of written script covered; other sections pending."
 docs/temes/costums/caramelles/caramelles-index-de-fitxes.md,Caramelles — índex de fitxes,index,,,pending_review,,
 docs/temes/costums/caramelles/les-caramelles.md,Les caramelles,article,contemporania,false,pending_review,,
@@ -974,7 +974,7 @@ docs/temes/institucions/justicia/el-veguer-de-franca-pagava-les-corts-de-la-seva
 docs/temes/institucions/justicia/els-consols-els-lliuren-amb-els-ulls-tancats.md,Els cònsols els lliuren amb els ulls tancats,article,historica,false,pending_review,,
 docs/temes/institucions/justicia/els-mateixos-tretze-dies-dues-explicacions.md,"Els mateixos tretze dies, dues explicacions",article,contemporania,false,pending_review,,
 docs/temes/institucions/justicia/els-notaris-deien-que-sense-escriptura-no-hi-havia-venda.md,Els notaris deien que sense escriptura no hi havia venda,article,historica,false,pending_review,,
-docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md,Els tribunals tancaven per la fira d'Organyà,article,contemporania,false,pending_review,,
+docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md,Els tribunals tancaven per la fira d'Organyà,article,contemporania,false,partially_covered,knowledge-0012,"Document identity, origin, official approval and limits covered; all eight epigraphs and procedural implications pending."
 docs/temes/institucions/justicia/es-deixaven-escapar-els-presos.md,Es deixaven escapar els presos,article,historica,false,pending_review,,
 docs/temes/institucions/justicia/es-pot-renunciar-a-una-autoritzacio-no-a-una-prescripcio.md,"Es pot renunciar a una autorització, no a una prescripció",article,historica,false,pending_review,,
 docs/temes/institucions/justicia/escrupols-quant-a-la-forma-atreviments-quant-al-fons.md,"Escrúpols quant a la forma, atreviments quant al fons",article,historica,false,pending_review,,
