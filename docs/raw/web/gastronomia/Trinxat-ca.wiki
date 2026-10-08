@@ -1,0 +1,39 @@
+{{vegeu lliure|Per al tipus de [[partició heràldica]], vegeu '''[[Trinxat (heràldica)]]'''.}}
+{{Infotaula menjar
+| nom = Trinxat
+| image =Trinxat de La Cerdanya (2020).jpg
+| llegenda = Trinxat de La Cerdanya amb cansalada i botifarra negra
+| origen = [[Pirineus|Pirineu català]]
+| tipus cuina = [[Cuina de Catalunya]]
+| ingredients destacats = [[Col]], [[patata]], [[porc]] salat
+| metode = Bullit, triturat (trinxat) i cuinat en paella.
+| on = [[Cerdanya]], [[Alt Urgell]], [[Pallars Sobirà]], [[Pallars Jussà]] i [[Andorra]]
+}}
+'''Trinxat''' és un plat de la [[Cerdanya]],<ref>‘Lleida cocina’, guia publicada per la Diputació de Lleida</ref> l'[[Alt Urgell]]
+<ref>[http://alturgell.semicinternet.com/ca/turisme/gastronomia Gastronomia,] {{Webarchive|url=https://web.archive.org/web/20091019143459/http://alturgell.semicinternet.com/ca/turisme/gastronomia |date=2009-10-19}} comunitat rural de l'Alt Urgell</ref><ref name="periodico"/> i [[Andorra]]<ref>{{Ref-web |url=http://www.andorra.ad/ca-ES/recursos/Pagines/TRINXAT.aspx |títol=Plana web oficial d'Andorra |consulta=2009-07-28 |arxiuurl=https://web.archive.org/web/20130207060003/http://www.andorra.ad/ca-es/recursos/pagines/trinxat.aspx |arxiudata=2013-02-07}}</ref> fet a base de bullir [[patata]] i [[col]] i després triturar-les i barrejar-les. S'hi afegeix cansalada i algun tipus de llard (greix) per tal de fregir la mixta. Ocasionalment s'hi afegeix all fregit. Per acabar, es fregeix tot en una paella al fogó fins que queda cuit i amb forma de [[truita de patata]].
+
+Té l'aspecte d'una [[truita d'ous|truita]] petita, esqueixada amb trossos de col que li proporciona un toc de verd fosc. Se'n sol menjar durant l'[[hivern]], sent un menjar calorífic. Sovint va acompanyat amb [[cansalada]]. És un plat destacat dins de la [[cuina catalana]] de muntanya i a [[Puigcerdà]] se celebra cada any la Festa del Trinxat.<ref name="Cerdanya">‘Cerdanya, la gran vall del Pirineu’, guia publicada pel Consell Comarcal de la Cerdanya</ref>
+
+== Recepta ==
+Els ingredients són [[patata]], [[col d'hivern]], [[porc]] salat o [[cansalada]], i per assaonar [[oli d'oliva]] i [[all]]. Sovint a l'[[Alt Urgell]] canvien la [[cansalada]] per papada del porc.<ref name="periodico">[http://www.elperiodico.com/verpdf.asp?p=88CB1A840CD49EDCD39BFDA29E85C31E58CF94F101DEE4B033EB5307E2B0916781DD0C7710F0D03EDFB6DBAF91023F3F&idioma=CAS&idpublicacio_PK=46&h=080517 El Periódico de Catalunya,]{{Enllaç no actiu|date=d'agost 2025 |bot=InternetArchiveBot }} el trinxat.</ref>
+
+== Vegeu també ==
+* [[Patates emmascarades]]
+
+== Referències ==
+{{referències}}
+
+== Enllaços externs ==
+* [http://www.cerdanyaonline.com/ca/cerdanya/gastronomia/gastronomia.html Gastronomia Cerdanya"] {{Webarchive|url=https://web.archive.org/web/20150706104353/http://www.cerdanyaonline.com/ca/cerdanya/gastronomia/gastronomia.html |date=2015-07-06}}
+* [http://www.andorra.ad/ca-ES/propostes/Pagines/PlatsTipics.aspx Plana web oficial d'Andorra Recepta per a trinxat d'Andorra] {{Webarchive|url=https://web.archive.org/web/20081115134744/http://www.andorra.ad/ca-ES/propostes/Pagines/PlatsTipics.aspx |date=2008-11-15 }}
+* [http://www.gastroteca.cat/ca/fitxa-receptes/trinxat_de_la_cerdanya Recepta del trinxat de la Cerdanya] a la gastroteca.cat
+
+{{cuina catalana|Plats}}
+{{Viccionari-lateral|trinxat}}
+{{Autoritat}}
+
+[[Categoria:Plats de Catalunya]]
+[[Categoria:Gastronomia d'Andorra]]
+[[Categoria:Gastronomia de l'Alt Urgell]]
+[[Categoria:Cultura de la Cerdanya]]
+[[Categoria:Plats amb patata]]
