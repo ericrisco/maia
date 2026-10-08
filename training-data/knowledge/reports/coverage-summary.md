@@ -4,10 +4,10 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 
 - Documents inventariats: **1477** (1348 articles).
 - Unitats estructurals totals: **62911**.
-- Unitats cobertes per converses aprovades: **311** (0.494%).
+- Unitats cobertes per converses aprovades: **315** (0.501%).
 - Unitats excloses amb motiu: **1186**.
-- Unitats encara obertes: **61414**.
-- Registres: **140**; aprovats: **83**; mostres de calibratge: **3** (no compten com a cobertura).
+- Unitats encara obertes: **61410**.
+- Registres: **141**; aprovats: **84**; mostres de calibratge: **3** (no compten com a cobertura).
 
 ## Estat per tema
 
@@ -50,7 +50,7 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 | `temes/esports/altres-esports` | 33 | 876 | 0 | 0 | 876 |
 | `temes/esports/competicio` | 7 | 721 | 0 | 0 | 721 |
 | `temes/esports/escacs` | 5 | 207 | 0 | 0 | 207 |
-| `temes/esports/esqui` | 2 | 169 | 18 | 0 | 151 |
+| `temes/esports/esqui` | 2 | 169 | 22 | 0 | 147 |
 | `temes/esports/esqui/esquiadors` | 32 | 798 | 0 | 0 | 798 |
 | `temes/esports/estiu` | 33 | 861 | 0 | 0 | 861 |
 | `temes/esports/formacio-esportiva` | 1 | 74 | 0 | 0 | 74 |
