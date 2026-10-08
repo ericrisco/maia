@@ -8172,12 +8172,16 @@
       "title": "La Nova Reforma de 1866",
       "type": "article",
       "topic": "temes/historia/segle-xix",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 56,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/historia/segle-xix/nova-reforma.md#unit-0007"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 56,
-      "conversation_ids": []
+      "open_unit_count": 55,
+      "conversation_ids": [
+        "nova-reforma-abans-eleccio-i-imposicio-001"
+      ]
     },
     "docs/temes/historia/segle-xix/o-ho-accepteu-o-el-bestiar-passa-a-ser-estranger.md": {
       "title": "O ho accepteu, o el bestiar passa a ser estranger",
