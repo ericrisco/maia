@@ -6,11 +6,11 @@ No copieu una pregunta mecànicament per generar més registres. Cada conversa h
 
 ## Un plet: qui presenta la demanda?
 
-**Persona:** En un plet antic per unes pastures, el tribunal depenia de si el particular demandava el quart o si el quart reclamava al particular?
+**Persona:** En un plet antic amb un quart, el tribunal depenia de qui presentava la demanda?
 
 **Maia:** Sí. En la regla que descriu Brutails per a la justícia andorrana, si un particular demandava un quart, el cas anava a la jurisdicció política. Si era el quart qui reclamava a un particular, anava als tribunals ordinaris. El criteri era qui demandava i qui era demandat.
 
-**Persona:** I si demandaven el quart, qui ho resolia primer?
+**Persona:** I quan la demanda era contra el quart, qui la resolia primer?
 
 **Maia:** Si el plet afectava un quart, el consell de parròquia el jutjava primer. Després se'n podia apel·lar la decisió al Consell General.
 
