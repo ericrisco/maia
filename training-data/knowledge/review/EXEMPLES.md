@@ -1,75 +1,103 @@
-# Mostres de calibratge: Maia Knowledge
+# Mostres de conversa per calibrar Maia Knowledge
 
-Aquestes mostres ajuden a decidir si el to és el que volem. **No són dades
-d'entrenament**, no compten per a la cobertura i no s'han de copiar a
-`review/` sense una nova revisió de contingut i procedència.
+Aquestes converses són exemples editorials. No són registres d'entrenament i
+no compten per a la cobertura. Les preguntes expressen curiositats que poden
+aparèixer en una conversa normal. Els seguiments surten de la resposta
+anterior.
 
-Les preguntes parteixen d'un dubte que es pot tenir sense conèixer les fitxes.
-La llargada varia: no s'allarga cap conversa només per fer-la multitorn.
+## 1. Llegenda i geografia
 
-## 1. Aclarir una confusió pràctica
+**Persona:** Els minairons són com una mena de follets d'Andorra?
 
-**Persona:** M'he perdut amb això dels 28 escons. Són quatre per parròquia?
+**Maia:** No exclusivament. Són especialment coneguts a Andorra i a l'Alt
+Pirineu, però la tradició s'estén per altres zones i canvia de nom segons el
+lloc. Al Pallars Sobirà, per exemple, també se'n diu *jaumets*.
 
-**Maia:** No. La Constitució permet que el Consell tingui entre 28 i 42
-consellers. La meitat s'elegeix a escala nacional i l'altra meitat es reparteix
-igualment entre les set parròquies. Si n'hi ha 28, això vol dir dos consellers
-per parròquia; si n'hi ha 42, en són tres.
+**Persona:** I són els que, segons la llegenda, van fer les tarteres?
 
-**Persona:** I els de la llista nacional també representen una parròquia?
+**Maia:** Sí. La llegenda diu que, quan algú destapava el canó i no sabia com
+aturar els minairons, els manava apilar les pedres dels voltants. Així explica
+la formació de les tarteres. És la versió llegendària de com s'haurien format.
 
-**Maia:** S'elegeixen en una circumscripció nacional, no per una parròquia
-concreta. Tot i així, tenen els mateixos drets i deures que els consellers
-parroquials.
+**Per què funciona:** La primera pregunta neix d'una possible confusió sobre
+si la tradició és pròpia d'un sol lloc. El seguiment concreta una història
+associada als minairons i Maia separa llegenda i explicació física.
 
-**Per què funciona:** sona com una confusió que pot sorgir parlant del nombre
-d'escons. La resposta fa el càlcul necessari i el seguiment concreta una
-conseqüència de la distinció.
+**Font per verificar:** `docs/temes/cultura/llegendes/el-minairo.md`.
 
-**Font de verificació:** `docs/temes/institucions/consell-general/el-consell-general.md`,
-que sintetitza els articles 52–53 de la Constitució d'Andorra.
+## 2. Una majoria que no és només sumar vots
 
-## 2. Distingir relat i realitat
+**Persona:** Com pot ser que una llei tingui més vots a favor que en contra i
+tot i així no s'aprovi?
 
-**Persona:** Les tarteres les haurien fet els minairons, de debò?
+**Maia:** Depèn de quina llei sigui. Les lleis qualificades sobre matèria
+electoral, referèndums, competències comunals i transferències als comuns
+necessiten una majoria absoluta separada dels consellers parroquials i dels
+nacionals. Amb vint-i-vuit escons, setze vots repartits nou i set no basten:
+calen almenys vuit de cada grup.
 
-**Maia:** Això ho explica la llegenda. Els minairons serien follets diminuts
-que, quan algú els destapava del canó i no sabia quina feina donar-los, rebien
-l'ordre d'apilar les pedres del voltant. Una tartera, en canvi, és un pedregar
-de vessant; la llegenda n'ofereix una explicació mítica, no geològica.
+**Persona:** O sigui que no n'hi ha prou amb sumar tots els vots?
 
-**Persona:** Ah, o sigui que la història serveix per explicar el paisatge.
+**Maia:** Exacte. En aquestes lleis, cada grup ha d'arribar a la seva pròpia
+majoria. No n'hi ha prou que el total superi la meitat de la cambra.
 
-**Maia:** Sí, és una manera tradicional d'explicar per què hi ha pedregars als
-vessants pirinencs.
+**Per què funciona:** La pregunta surt d'una dificultat concreta i dona un
+exemple numèric. El seguiment comprova una conseqüència sense demanar que Maia
+repeteixi la regla amb altres paraules.
 
-**Per què funciona:** la pregunta posa a prova una afirmació sense tractar la
-creença com un fet. El seguiment reformula la idea i Maia la confirma sense
-afegir-hi una altra lliçó.
+**Font per verificar:** `docs/temes/institucions/consell-general/el-consell-general.md`,
+que resumeix l'article 57.3 de la Constitució.
 
-**Font de verificació:** `docs/temes/cultura/llegendes/el-minairo.md`.
+## 3. Qui manté les funcions del Consell
 
-## 3. Donar una resposta breu quan el dubte ja queda resolt
+**Persona:** Quan es dissol el Consell per anar a eleccions, el Parlament queda
+completament aturat?
 
-**Persona:** El minairó és una llegenda només d'Andorra?
+**Maia:** No del tot. El Reglament preveu una Comissió Permanent que vetlla
+pels poders del Consell quan la cambra està dissolta o entre períodes de
+sessions. La formen el síndic i sis consellers.
 
-**Maia:** No. És especialment conegut a Andorra i a l'Alt Pirineu, però la
-tradició s'estén per altres zones. Segons el lloc, també se'n diu manairó,
-menairó o amb altres noms, com jaumet al Pallars Sobirà.
+**Persona:** I aquests sis, com es reparteixen?
 
-**Per què funciona:** és una resposta completa d'un sol torn. No cal afegir-hi
-una pregunta de seguiment només per complir una forma multitorn.
+**Maia:** Tres els elegeixen els consellers del col·legi nacional i tres els
+consellers dels col·legis parroquials. Així, la composició manté representats
+els dos tipus de circumscripció.
 
-**Font de verificació:** `docs/temes/cultura/llegendes/el-minairo.md`.
+**Per què funciona:** La persona parteix d'una conseqüència pràctica i després
+demana un detall de la resposta. Maia no afirma que la Comissió pugui fer
+qualsevol cosa que faria el Ple.
+
+**Font per verificar:** `docs/temes/institucions/consell-general/el-consell-general.md`,
+basada en l'article 37.1 del Reglament del Consell General de 2026.
+
+## 4. Què se sap dels colors de la bandera
+
+**Persona:** El blau i el vermell de la bandera venen de França, i el groc i
+el vermell del bisbat d'Urgell, oi?
+
+**Maia:** És una explicació coneguda, però el corpus no l'ha pogut verificar.
+Un testimoni de 1904 descriu la bandera amb franges blava, groga i vermella i
+l'escut al centre, però no explica d'on venen els colors.
+
+**Persona:** I en aquell moment ja era oficial?
+
+**Maia:** Segons el testimoni de 1904, encara no tenia caràcter oficial. Les
+actes del Consell citades al corpus documenten que la bandera, l'himne i
+l'escut es van declarar oficials el 22 de desembre de 1942.
+
+**Per què funciona:** La primera pregunta conté una explicació familiar, però
+Maia no la dona per certa sense prova. El seguiment aprofita la data del
+testimoni per preguntar per l'estatus legal.
+
+**Font per verificar:** `docs/temes/institucions/simbols/la-bandera.md`.
 
 ## Senyals per reescriure o descartar
 
-- La pregunta demana què diu una secció, una fila o una fitxa.
-- La resposta acaba en una frase incompleta, un encapçalament o una llista
-  anunciada però no donada.
-- La pregunta inicial ja inclou el títol o el vocabulari exacte del corpus que
-  una persona normalment no coneixeria.
-- Tots els registres tenen el mateix patró de dues preguntes i dues respostes.
-- El seguiment no tindria sentit si la primera resposta ja hagués estat clara.
-- La resposta presenta una llegenda, una interpretació o una dada antiga com un
-  fet actual sense matisar-ho.
+- «Què explica la secció…?» o «què diu aquesta fila…?»
+- Una pregunta que només s'entén si la persona ha llegit la fitxa.
+- Una primera resposta que sembla una introducció i no resol el dubte.
+- Un seguiment que canvia de tema o només repeteix la resposta anterior.
+- La mateixa conversa reproduïda amb sinònims per inflar el nombre de registres.
+- Una resposta que presenta com a fet una llegenda, una hipòtesi o una dada
+  que la font no verifica.
+- Un torn afegit només per fer que la conversa tingui més missatges.

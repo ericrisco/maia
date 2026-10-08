@@ -1,9 +1,10 @@
 # Revisió de converses de Knowledge
 
-Les converses futures s'afegiran aquí després d'aprovar l'estil. Cada línia de
-`conversations.jsonl` serà una conversa completa amb torns alternats `user` i
-`assistant`. La procedència es guardarà en un fitxer separat, una entrada per
-conversa, amb fonts, condicions d'ús, afirmacions verificades i notes de revisió.
+`EXEMPLES.md` conté només mostres de calibratge. No es compten com a dades ni
+es copien automàticament al dataset.
 
-Les mostres editorials de `EXEMPLES.md` no es copien aquí. No
-inclogueu referències internes, IDs ni metadades als missatges.
+Quan el criteri quedi acordat, cada registre candidat serà una conversa
+completa amb torns alternats `user` i `assistant`. La procedència quedarà en
+un fitxer separat, alineada pel mateix identificador de registre. La revisió
+ha de comprovar naturalitat, exactitud, drets de les fonts, cobertura i
+absència de duplicats abans de preparar els splits.

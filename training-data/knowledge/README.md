@@ -1,8 +1,14 @@
 # Maia Knowledge
 
-Ensenya a respondre dubtes sobre Andorra amb informació documentada a
-`docs/temes/`. Les mostres editorials són a `review/EXEMPLES.md`; les converses que
-podrien entrar al dataset es guarden separadament a `review/` amb procedència.
+Aquest conjunt ensenya a respondre preguntes sobre Andorra a partir de
+`docs/temes/`. L'objectiu és cobrir el coneixement útil del corpus amb
+converses clares, naturals i verificables.
 
-No exporteu res a `output/` fins que s'hagin revisat les fonts, els drets, la
-cobertura i els duplicats. Consulteu [`../PLAN.md`](../PLAN.md).
+Consulteu el [pla general](../PLAN.md) i els [exemples de
+calibratge](review/EXEMPLES.md). Aquests exemples no són dades d'entrenament.
+Les converses candidates i la procedència s'afegiran a `review/` després
+d'aprovar el criteri. No hi ha cap exportació Knowledge aprovada en aquest
+moment.
+
+No poseu IDs, fonts, notes editorials ni estats interns dins dels missatges.
+Guardeu la procedència en un fitxer separat per poder auditar cada afirmació.
