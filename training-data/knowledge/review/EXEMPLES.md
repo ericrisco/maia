@@ -26,6 +26,14 @@ La primera pregunta neix d'una confusió comprensible entre la imatge venerada a
 
 La resposta inicial marca el relat com a llegenda. El seguiment pregunta per l'antiguitat de la història, però la resposta no inventa una data ni tracta el relat com un fet comprovat.
 
+## Mostra: comparar pintures sense atribuir-les a la mateixa persona
+
+```json
+{"messages":[{"role":"user","content":"Les pintures murals de Sant Martí de la Cortinada tenen alguna cosa en comú amb les de Santa Coloma?"},{"role":"assistant","content":"Sí. Les pintures de Sant Martí, de finals del segle XII, reprenen alguns motius decoratius de Santa Coloma i de Sant Joan de Caselles, però també introdueixen canvis estilístics importants. S'atribueixen al Mestre de la Cortinada."},{"role":"user","content":"Això vol dir que el mateix pintor va treballar a Santa Coloma?"},{"role":"assistant","content":"No es pot deduir que fos el mateix pintor només pels motius compartits. L'atribució de Sant Martí és al Mestre de la Cortinada; les fonts consultades no atribueixen a aquesta mateixa mà les pintures de Santa Coloma."}]}
+```
+
+La pregunta compara dues obres conegudes pel seu lloc. El seguiment explora una conclusió possible, i la resposta separa la semblança dels motius de l'autoria que es pot atribuir.
+
 ## Regles per revisar cada conversa
 
 - Llegeix els missatges sense títol, ID ni font. Si la pregunta només té sentit amb la fitxa al davant, reescriu-la o descarta-la.
