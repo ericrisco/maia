@@ -1,3 +1,3 @@
-# Informes de Knowledge
+# Informes de Maia Knowledge
 
-Quan comenci la producció, aquí es registraran cobertura, qualitat, deduplicació, drets i exclusions. Encara no hi ha cap informe de dataset.
+Els informes futurs resumiran documents revisats, converses aprovades i descartades, motius de rebuig, cobertura, duplicats i estat de drets. No s'infereix cobertura a partir del nombre de registres.

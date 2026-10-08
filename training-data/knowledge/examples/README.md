@@ -1,5 +1,5 @@
-# Calibratge de Maia Knowledge
+# Exemples de calibratge
 
-`conversations.jsonl` conté quatre exemples positius de calibratge: aclarir una confusió, explicar un relat com a llegenda, llegir una comparació de dades sense inventar-ne les causes i respondre una pregunta d'un sol torn. No són registres aprovats ni s'exporten. `provenance.jsonl` identifica les fonts; els drets pendents també s'han de resoldre abans de qualsevol exportació.
+`conversations.jsonl` conté cinc exemples per mostrar el criteri de preguntes naturals i seguiments útils. Hi ha converses d'un torn i converses amb seguiments. Cap conversa no s'ha d'allargar si el dubte ja queda resolt.
 
-Abans de crear candidats, llegeix la conversa sense la font oberta. Ha de sonar com un dubte que algú faria en veu alta, contestar-se directament i acabar quan la necessitat queda resolta. El multitorn és opcional: només s'afegeix quan la resposta anterior provoca una continuació probable.
+No són dades aprovades ni s'han d'afegir a cap split. `provenance.jsonl` en registra les fonts i el motiu pel qual resten fora de l'export fins a una revisió específica de drets.

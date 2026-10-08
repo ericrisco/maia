@@ -1,5 +1,5 @@
 # Maia Language
 
-Conjunt separat de Maia Knowledge. Parteix de material humà de `docs/parla/` i preserva la parla real. No inventis preguntes ni converteixis un monòleg en un diàleg fictici.
+Flux independent per preservar el català andorrà contemporani de parlants humans. La font és `docs/parla/`; només s'inclou material elegible segons els criteris del corpus, la qualitat de transcripció i la procedència.
 
-Abans d’incloure material, verifica la transcripció, identifica la peça i el parlant quan sigui possible, i comprova els drets d’ús. Encara no hi ha registres aprovats ni exports.
+No s'inventen preguntes o respostes perquè imitin com parlaria una persona andorrana. El text de l'assistent ha de provenir de parla humana autèntica i mantenir-ne el lèxic i la sintaxi tant com sigui possible.

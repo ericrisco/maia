@@ -1,3 +1,3 @@
-# Exports de Maia Language
+# Export de Maia Language
 
-Encara no hi ha material aprovat per exportar. Els splits es crearan quan la transcripció i els drets estiguin verificats.
+Encara no hi ha fitxers finals. Els splits només es crearan amb fragments elegibles i revisats, agrupats per peça o parlant per evitar filtracions entre train, validation i test.

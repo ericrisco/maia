@@ -1,20 +1,19 @@
 # Maia Training Data
 
-Àrea de treball per preparar dos conjunts separats a partir del corpus actual:
+Aquesta carpeta prepara dos conjunts separats per al fine-tuning de Maia:
 
-- **Maia Knowledge**: converses en català que responen dubtes reals sobre Andorra amb fonts de `docs/temes/`.
-- **Maia Language**: mostra de català andorrà contemporani autèntic a partir de `docs/parla/`, sense imitar ni inventar veus.
+- **Knowledge** ensenya a respondre preguntes sobre Andorra amb informació documentada.
+- **Language** conserva la manera de parlar en català andorrà a partir de mostres humanes reals.
 
-Les converses de Knowledge han de sonar com una petició d'ajuda normal. No poden parlar de seccions, files o fitxes. Consulta [PLAN.md](PLAN.md) i els quatre [exemples de calibratge](knowledge/examples/README.md) abans de crear registres.
+La carpeta s'ha reiniciat per corregir el criteri de les preguntes. Els exemples actuals són només una guia d'estil. No són registres aprovats ni formen part dels fitxers d'entrenament.
 
-## Estructura
+## Estat actual
 
-- `knowledge/examples/`: calibratge; exclòs de l'entrenament.
-- `knowledge/review/`: cua activa de candidats sense aprovar.
-- `knowledge/archive/`: esborranys antics, conservats però fora del flux actiu.
-- `knowledge/work/`: inventari, procedència i cobertura interna.
-- `knowledge/reports/`: qualitat, cobertura i exclusions.
-- `knowledge/output/`: exports aprovats; buit fins que hi hagi dades revisades i drets resolts.
-- `language/`: inventari i procés separat per a parla autèntica.
+- `knowledge/examples/`: cinc converses de calibratge amb procedència separada.
+- `knowledge/review/`: buit; aquí es proposaran i revisaran registres nous.
+- `knowledge/output/`: encara no conté datasets finals.
+- `language/`: estructura preparada; encara no conté registres.
 
-Els candidats antics que hi havia a `knowledge/review/` s'han arxivat per tornar a començar la calibració. No són registres aprovats ni evidència de cobertura actual.
+No s'han creat fitxers `train.jsonl`, `validation.jsonl` ni `test.jsonl`. Aquests es generaran quan hi hagi prou registres revisats i es puguin separar sense filtracions entre splits.
+
+Consulta [`PLAN.md`](PLAN.md) abans de proposar converses noves.
