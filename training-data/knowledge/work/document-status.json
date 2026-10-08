@@ -15937,12 +15937,19 @@
       "title": "De què està fet el país",
       "type": "article",
       "topic": "temes/territori/geografia-fisica",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 52,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/territori/geografia-fisica/de-que-esta-fet-el-pais.md#unit-0003",
+        "docs/temes/territori/geografia-fisica/de-que-esta-fet-el-pais.md#unit-0004",
+        "docs/temes/territori/geografia-fisica/de-que-esta-fet-el-pais.md#unit-0018",
+        "docs/temes/territori/geografia-fisica/de-que-esta-fet-el-pais.md#unit-0042"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 52,
-      "conversation_ids": []
+      "open_unit_count": 48,
+      "conversation_ids": [
+        "cobertura-bosc-i-data-mapa-andorra-001"
+      ]
     },
     "docs/temes/territori/geografia-fisica/el-sol-comunal.md": {
       "title": "El sòl comunal",

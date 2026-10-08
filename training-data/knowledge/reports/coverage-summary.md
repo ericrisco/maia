@@ -4,10 +4,10 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 
 - Documents inventariats: **1477** (1348 articles).
 - Unitats estructurals totals: **62911**.
-- Unitats cobertes per converses aprovades: **239** (0.380%).
+- Unitats cobertes per converses aprovades: **243** (0.386%).
 - Unitats excloses amb motiu: **1186**.
-- Unitats encara obertes: **61486**.
-- Registres: **127**; aprovats: **70**; mostres de calibratge: **3** (no compten com a cobertura).
+- Unitats encara obertes: **61482**.
+- Registres: **128**; aprovats: **71**; mostres de calibratge: **3** (no compten com a cobertura).
 
 ## Estat per tema
 
@@ -122,7 +122,7 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 | `temes/societat/vida-civica` | 8 | 426 | 0 | 0 | 426 |
 | `temes/territori/clima-i-muntanya` | 14 | 402 | 7 | 0 | 395 |
 | `temes/territori/fauna-i-flora` | 5 | 304 | 0 | 0 | 304 |
-| `temes/territori/geografia-fisica` | 9 | 614 | 3 | 0 | 611 |
+| `temes/territori/geografia-fisica` | 9 | 614 | 7 | 0 | 607 |
 | `temes/territori/paisatge-construit` | 5 | 261 | 0 | 0 | 261 |
 | `temes/territori/parroquies/andorra-la-vella` | 1 | 15 | 0 | 0 | 15 |
 | `temes/territori/parroquies/canillo` | 1 | 17 | 0 | 0 | 17 |
