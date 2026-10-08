@@ -806,12 +806,15 @@
       "covered_unit_ids": [
         "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0002",
         "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0004",
-        "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0006"
+        "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0006",
+        "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0009",
+        "docs/temes/cultura/arts-visuals/sergi-mas.md#unit-0011"
       ],
       "excluded_unit_count": 47,
-      "open_unit_count": 13,
+      "open_unit_count": 11,
       "conversation_ids": [
         "meritxell-talla-perduda-i-imatge-de-sergi-mas-001",
+        "sergi-mas-arribada-aixovall-001",
         "sergi-mas-casa-de-la-vall-i-oficis-001"
       ]
     },
