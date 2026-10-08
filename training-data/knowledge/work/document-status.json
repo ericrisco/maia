@@ -14136,12 +14136,18 @@
         "docs/temes/politica/sistema-electoral/el-financament-dels-partits.md#unit-0011",
         "docs/temes/politica/sistema-electoral/el-financament-dels-partits.md#unit-0012",
         "docs/temes/politica/sistema-electoral/el-financament-dels-partits.md#unit-0014",
-        "docs/temes/politica/sistema-electoral/el-financament-dels-partits.md#unit-0015"
+        "docs/temes/politica/sistema-electoral/el-financament-dels-partits.md#unit-0015",
+        "docs/temes/politica/sistema-electoral/el-financament-dels-partits.md#unit-0025",
+        "docs/temes/politica/sistema-electoral/el-financament-dels-partits.md#unit-0027",
+        "docs/temes/politica/sistema-electoral/el-financament-dels-partits.md#unit-0028",
+        "docs/temes/politica/sistema-electoral/el-financament-dels-partits.md#unit-0031",
+        "docs/temes/politica/sistema-electoral/el-financament-dels-partits.md#unit-0032"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 138,
+      "open_unit_count": 133,
       "conversation_ids": [
-        "donacions-partits-empreses-i-contractacio-publica-001"
+        "donacions-partits-empreses-i-contractacio-publica-001",
+        "subvencio-representacio-partits-escons-i-independents-001"
       ]
     },
     "docs/temes/politica/sistema-electoral/el-referendum-constitucional-de-1993.md": {
