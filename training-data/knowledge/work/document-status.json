@@ -14134,12 +14134,17 @@
       "title": "Els tres sistemes educatius",
       "type": "article",
       "topic": "temes/societat/educacio",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 95,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/societat/educacio/els-tres-sistemes.md#unit-0053",
+        "docs/temes/societat/educacio/els-tres-sistemes.md#unit-0064"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 95,
-      "conversation_ids": []
+      "open_unit_count": 93,
+      "conversation_ids": [
+        "maternal-evolucio-cinc-cursos-a029-001"
+      ]
     },
     "docs/temes/societat/educacio/index-legislatiu-en-educacio.md": {
       "title": "Índex legislatiu en educació",
