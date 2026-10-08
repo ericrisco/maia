@@ -1,7 +1,8 @@
 # Revisió de Maia Knowledge
 
-- `examples.jsonl` conté dues mostres editorials, excloses dels exports.
-- `conversations.jsonl` i `records.jsonl` contenen 29 registres previs. No se n'afegeixen més fins a rellegir-los amb els criteris nous; cap mostra editorial es compta com a cobertura.
-- Abans d'exportar, cal revisar naturalitat, exactitud, procedència i drets de cada conversa. El registre intern ha d'identificar quines afirmacions sosté cada font.
+- `examples.jsonl` conté mostres editorials, excloses dels exports i del recompte de cobertura.
+- `conversations.jsonl` conté els diàlegs candidats; `records.jsonl` en guarda la revisió, la procedència i l'evidència.
+- El recompte vigent de converses, documents i unitats cobertes és a [`../reports/coverage.md`](../reports/coverage.md). Aquest recompte no certifica per si sol qualitat, exactitud, drets ni cobertura completa del brain.
+- Abans d'exportar, cada conversa s'ha de revisar individualment: naturalitat, resposta directa, seguiment coherent, exactitud, procedència, drets, períodes, unitats i incertesa. El registre intern identifica quines afirmacions sosté cada font.
 
-El pla i els criteris són a [`../../PLAN.md`](../../PLAN.md). La cobertura només es calcula sobre candidats actius; les mostres editorials no compten.
+El pla i els criteris són a [`../../PLAN.md`](../../PLAN.md). Les mostres editorials no compten com a cobertura.
