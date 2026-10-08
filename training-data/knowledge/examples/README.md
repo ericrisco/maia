@@ -1,5 +1,7 @@
 # Mostres de calibratge
 
-`conversations.jsonl` conté cinc converses de prova per revisar el criteri abans de crear més registres. Són totes multitorn perquè es pugui jutjar el fil; això no imposa que cada registre futur també ho sigui.
+`conversations.jsonl` conté mostres per jutjar naturalitat, continuïtat i qualitat de resposta abans d'afegir blocs nous. Cada línia és una conversa completa. Aquestes mostres són internes i no s'exporten a entrenament.
 
-No són candidates aprovades ni formen part de `output/`. La procedència i les empremtes SHA-256 de les fitxes font són a `provenance.jsonl`. Els drets de cada font encara s'han de confirmar abans d'autoritzar-ne l'export.
+La procedència i els hashes de les fitxes font són a `provenance.jsonl`. Els drets continuen pendents de revisió; per això cada mostra té `exportable: false`.
+
+Les mostres anteriors s'han retirat perquè algunes preguntes semblaven exercicis sobre el corpus. El nou criteri és a `../../PLAN.md` i les mostres revisables són a `../review/EXEMPLES.md`.
