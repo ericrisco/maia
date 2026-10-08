@@ -10813,6 +10813,13 @@
       "unit_count": 88,
       "covered_unit_ids": [
         "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0001",
+        "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0002",
+        "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0003",
+        "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0004",
+        "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0005",
+        "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0006",
+        "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0007",
+        "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0008",
         "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0012",
         "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0014",
         "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0015",
@@ -10840,10 +10847,11 @@
         "docs/temes/institucions/justicia/els-tribunals-tancaven-per-la-fira-dorganya.md#unit-0051"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 62,
+      "open_unit_count": 55,
       "conversation_ids": [
         "calendari-judicial-fires-exteriors-1902-001",
         "dies-feriats-datats-vs-total-anual-1902-001",
+        "llista-feriats-origen-i-aprovacio-1902-001",
         "tancament-estival-sega-i-fires-001",
         "termini-apellacio-feriats-1902-001"
       ]
