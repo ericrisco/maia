@@ -7645,13 +7645,15 @@
         "docs/temes/historia/manual-digest/els-costumaris-andorrans.md#unit-0026",
         "docs/temes/historia/manual-digest/els-costumaris-andorrans.md#unit-0027",
         "docs/temes/historia/manual-digest/els-costumaris-andorrans.md#unit-0032",
-        "docs/temes/historia/manual-digest/els-costumaris-andorrans.md#unit-0033"
+        "docs/temes/historia/manual-digest/els-costumaris-andorrans.md#unit-0033",
+        "docs/temes/historia/manual-digest/els-costumaris-andorrans.md#unit-0037"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 62,
+      "open_unit_count": 61,
       "conversation_ids": [
         "anton-picart-batlle-i-memories-001",
         "costumaris-instructa-batlles-copies-001",
+        "manual-digest-encarrec-comu-general-001",
         "manual-digest-politar-exemplars-1904-001",
         "moles-transcriu-costumaris-paris-1879-001"
       ]
