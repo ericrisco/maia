@@ -33,3 +33,11 @@ La publicació oficial atribueix la pintura a Miquel Ramells i el daurat a Guiu 
 El retaule s’adaptava a l’absis. Tenia una predel·la amb cinc escenes de la Passió i dos pisos de taules sobre la vida i els miracles de sant Miquel. La fornícula central ocupava els dos pisos i contenia la talla de sant Miquel; la taula del coronament el mostrava combatent la bèstia dels set caps. El perímetre tenia un guardapols. La font enumera també escenes i elements laterals, amb algunes identificacions marcades com a probables.
 
 Aquesta és una nota factual pròpia; no es copia el text ni les imatges de la publicació. La pàgina indica drets de tercers per a diverses fotografies, que no s’han descarregat ni s’han d’incorporar al dataset.
+
+## Escenes i disposició (2026-10-08)
+
+El retaule es dedicava a sant Miquel, patró de l’església, i s’adaptava a l’absis. La fornícula central ocupava els dos pisos i contenia una talla de sant Miquel clavant la llança al dimoni, destacada per un dosseret. Cada pis es dividia en cinc carrers.
+
+Al primer pis hi havia la caiguda dels àngels rebels, sant Miquel pesant les ànimes, la curació d’Aquilinus i el miracle del Mont-Saint-Michel. Al segon, el miracle del mont Gàrgan, l’aparició de sant Miquel al bisbe i dues taules amb fons estelat. La cresteria del nínxol central duia sant Miquel matant la bèstia dels set caps i dues taules laterals també amb fons estelat. El perímetre tenia un guardapols amb relleus vegetals i animals fantàstics.
+
+La predel·la inferior tenia cinc escenes de la Passió: el prendiment de Jesús; Crist davant Pilat i el rentat de mans; la crucifixió; el plany davant el cos de Crist; i l’enterrament. A un costat hi havia una porta amb sant Pere; la identificació de sant Pau a l’altre costat és probable, no segura.
