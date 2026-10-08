@@ -38,6 +38,32 @@ Les mostres de `knowledge/review/examples.jsonl` només calibren l'estil: no só
 6. **Exportació:** només quan hi hagi prou registres revisats, deduplicar i separar train/validation/test per evitar que reformulacions del mateix coneixement quedin repartides.
 7. **Maia Language:** treballar-ho en paral·lel només quan la parla sigui autèntica, prou fiable i autoritzada. No inventar converses ni barrejar aquest objectiu amb Knowledge.
 
+## Cobertura exhaustiva i ritme de treball
+
+L'objectiu és cobrir tot el coneixement entrenable de `docs/temes/`, no seleccionar només els temes més fàcils. Cal inventariar i revisar els articles, seccions, paràgrafs, llistes, taules, dates, xifres, noms, relacions i buits explícits. Una conversa pot ensenyar diversos fets relacionats, però cada afirmació ha de tenir una traça verificable; les unitats sense pregunta útil s'han de marcar com a revisades i excloses, no ignorar-les.
+
+Per a Maia Language, cal inspeccionar totes les peces elegibles de `docs/parla/`, comprovar drets i consentiment, escoltar l'àudio i revisar la transcripció. No es generen exemples de llengua autèntica a partir de text inventat o d'ASR no revisat.
+
+El progrés és incremental: **cada conversa de Knowledge afegida al dataset té el seu propi commit i push a `main` abans de passar a la pregunta següent**. Eines, inventaris i canvis de documentació poden tenir commits funcionals separats. No es barregen preguntes diferents en un mateix commit.
+
+## Definició de fet
+
+### Maia Knowledge
+
+- Tots els articles de `docs/temes/` inventariats i revisats.
+- Totes les unitats de coneixement rellevants cobertes per converses o marcades explícitament com a no entrenables, redundants, incertes o sense drets suficients.
+- Converses naturals, multitorn quan el seguiment aporti valor, exactes i deduplicades.
+- Drets i procedència registrats per a cada font abans d'exportar.
+- Exports `train`, `validation` i `test` vàlids, separats per tema/font per evitar fuga de contingut.
+- Informe que permeti verificar cobertura completa, qualitat, exclusions i limitacions.
+
+### Maia Language
+
+- Totes les peces elegibles de `docs/parla/` revisades.
+- Només parla humana contemporània autoritzada, amb identitat/atribució gestionada i àudio/transcripció revisats.
+- Fragments incerts exclosos o delimitats; cap diàleg fabricat.
+- Exports vàlids separats per parlant o peça i informe de material inclòs/exclòs.
+
 ## Criteri per acceptar una conversa
 
 - La pregunta sona natural i s'entén fora de la font.
