@@ -3,12 +3,12 @@ type: font
 id: diariandorra-caramelles-sant-julia-2026
 title: "Diari d'Andorra — entrevista a Brigit Garcia sobre les caramelles de Sant Julià"
 titular: Diari d'Andorra
-autor: no indicat a l'extracte conservat
+autor: Pedro García
 publicacio: diariandorra.ad
 url: https://www.diariandorra.ad/la-contra/260412/brigit-garcia-sardana-daniel-areny-sera-peca-emblem%C3%A1tica_193839.html
 llicencia: premsa digital, llicència no declarada
 redistribucio: pendent
-data_consulta: 2026-09-19
+data_consulta: 2026-10-08
 abast: "Entrevista que documenta la data, el recorregut, les parades i els participants de les caramelles de Sant Julià de Lòria."
 notes: >
   S'ha conservat un extracte factual a

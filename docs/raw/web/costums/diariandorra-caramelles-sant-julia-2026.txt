@@ -1,9 +1,11 @@
 FONT: Diari d'Andorra, entrevista a Brigit Garcia, "La sardana de Daniel Areny serà la peça emblemàtica"
 URL: https://www.diariandorra.ad/la-contra/260412/brigit-garcia-sardana-daniel-areny-sera-peca-emblemática_193839.html
-DATA DE CONSULTA: 2026-09-19
+DATA DE CONSULTA: 2026-10-08
 
 Extracte factual conservat per a la fitxa del corpus:
 
+- L'entrevista, publicada el 12 d'abril de 2026 per Pedro García, indica que
+  les caramelles de Sant Julià es fan des de 1962.
 - La Coral Rocafort situa les caramelles de Sant Julià el diumenge posterior a
   Pasqua.
 - La jornada comença a les 11 del matí al Comú i recorre la parròquia amb unes
@@ -11,5 +13,9 @@ Extracte factual conservat per a la fitxa del corpus:
 - Hi participen els cantaires adults de la Coral i els Petits Cantaires
   lauredians; els infants acompanyen vestits amb roba tradicional i reparteixen
   agulles amb la bandera d'Andorra mentre es fan aportacions voluntàries.
+- La directora explica que antigament rebien ous, pa i embotits, i que ara les
+  aportacions són econòmiques.
+- La directora diu que el recorregut complet de tres hores només es fa a Sant
+  Julià; esmenta cantades recuperades a Encamp i la Massana.
 
 No es redistribueix el text íntegre de l'entrevista.
