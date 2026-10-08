@@ -2180,12 +2180,22 @@
       "title": "El cens del bestiar de 1898-1900",
       "type": "article",
       "topic": "temes/economia/ramaderia-i-agricultura",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 60,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/economia/ramaderia-i-agricultura/el-cens-del-bestiar-de-1898-1900.md#unit-0003",
+        "docs/temes/economia/ramaderia-i-agricultura/el-cens-del-bestiar-de-1898-1900.md#unit-0004",
+        "docs/temes/economia/ramaderia-i-agricultura/el-cens-del-bestiar-de-1898-1900.md#unit-0009",
+        "docs/temes/economia/ramaderia-i-agricultura/el-cens-del-bestiar-de-1898-1900.md#unit-0014",
+        "docs/temes/economia/ramaderia-i-agricultura/el-cens-del-bestiar-de-1898-1900.md#unit-0022",
+        "docs/temes/economia/ramaderia-i-agricultura/el-cens-del-bestiar-de-1898-1900.md#unit-0023",
+        "docs/temes/economia/ramaderia-i-agricultura/el-cens-del-bestiar-de-1898-1900.md#unit-0028"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 60,
-      "conversation_ids": []
+      "open_unit_count": 53,
+      "conversation_ids": [
+        "bestiar-mules-censos-francesos-i-controversia-1895-001"
+      ]
     },
     "docs/temes/economia/ramaderia-i-agricultura/la-comissio-dels-pagesos.md": {
       "title": "La Comissió dels pagesos",
