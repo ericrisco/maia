@@ -1153,11 +1153,14 @@
       "covered_unit_ids": [
         "docs/temes/cultura/museus-i-arxius/el-dret-de-tempteig.md#unit-0003",
         "docs/temes/cultura/museus-i-arxius/el-dret-de-tempteig.md#unit-0005",
-        "docs/temes/cultura/museus-i-arxius/el-dret-de-tempteig.md#unit-0006"
+        "docs/temes/cultura/museus-i-arxius/el-dret-de-tempteig.md#unit-0006",
+        "docs/temes/cultura/museus-i-arxius/el-dret-de-tempteig.md#unit-0008",
+        "docs/temes/cultura/museus-i-arxius/el-dret-de-tempteig.md#unit-0009"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 23,
+      "open_unit_count": 21,
       "conversation_ids": [
+        "conservacio-expropiacio-be-cultural-001",
         "tempteig-retracte-immoble-interes-cultural-001"
       ]
     },
