@@ -1,75 +1,93 @@
-# Exemples i criteris de revisió de Maia Knowledge
+# Calibratge de converses Knowledge
 
-Els registres de `conversations.jsonl` han de sonar com una conversa entre una persona i un assistent. La persona no sap com està organitzat el corpus.
+Aquest document fixa com ha de sonar una conversa, no com s'ha de transformar cada paràgraf en una pregunta. Els exemples aprovats de calibratge són a [`../examples/conversations.jsonl`](../examples/conversations.jsonl); la seva traçabilitat i l'estat dels drets són a [`../examples/provenance.jsonl`](../examples/provenance.jsonl). No s'exporten.
 
-## Abans d'aprovar una conversa
+## La prova decisiva: quin dubte resol aquest diàleg?
 
-1. **Pregunta humana:** parteix d'una curiositat, sorpresa, confusió o necessitat real. No demana explicar una fitxa, secció, taula, fila o fragment.
-2. **Resposta completa:** resol la pregunta en el primer torn. No guarda informació imprescindible per al següent.
-3. **Seguiment amb fil:** la pregunta següent sorgeix de la resposta i explora una cosa nova. No repeteix el mateix ni canvia de tema per recollir una dada pendent.
-4. **Llengua oral i clara:** la pregunta podria dir-se en veu alta. Evita llistes telegràfiques i expressions internes com «el corpus registra».
-5. **Fets amb límits:** les afirmacions, dates i matisos concorden amb les fonts. Una tradició no es presenta com a prova.
-6. **Diàleg autònom:** una persona que no ha vist les fonts entén tots els torns i els pronoms tenen referents clars.
-7. **Traçabilitat:** cada fet es pot vincular a una font i a les seves condicions d'ús.
+Abans de redactar, resumeix la intenció de l'usuari sense esmentar el corpus. Si només pots descriure la intenció com «saber què diu la secció/fila/fitxa», encara no tens una pregunta humana.
 
-Cada registre té almenys dues preguntes d'usuari. Pot tenir-ne més si el fil ho demana. No s'allarga una conversa per complir una mida fixa.
+Una bona conversa té un fil: una curiositat plausible, una resposta que la resol, i una repregunta que surt d'aquella resposta i permet entendre una altra cosa. La persona no ha de conèixer la font ni parlar com si estigués fent un examen. Evita fórmules com «Què explica…», «Què indica aquesta fila?», «Quins elements s'hi esmenten?» i «El document diu…» quan el dubte real es pot formular directament.
 
-## Reescriptures
+La resposta inicial no ha de retenir fets per fer que la repregunta sembli necessària. El seguiment no demana simplement una altra dada adjacent per omplir un mínim de torns: posa a prova una inferència, aclareix una conseqüència, compara amb sentit o pregunta per un límit que la primera resposta ha fet rellevant. Si no hi ha aquesta repregunta, la conversa encara no està llesta com a exemple multitorn.
 
-**No:** «Què explica la secció “Els personatges”?»
+## Exemples de calibratge
 
-**Sí:** «A la farsa de l'ossa d'Encamp, per què els dallaires tenen tant de protagonisme?»
+Els exemples complets i basats en fonts es mantenen en JSONL a `../examples/conversations.jsonl`. A continuació, s'explica què fa bé un tipus de diàleg i què s'ha de rebutjar.
 
-La segona pregunta neix del tema i es pot fer sense veure la fitxa.
+### Exemple de bon fil: tradició antiga i dansa actual
 
-**No:** «I dos topònims que en surten:»
+**Intenció:** destriar l'origen tradicional atribuït a la Marratxa de la història documentada de la coreografia actual.
 
-**Sí:** «Quins dos llocs hi apareixen, i què se sap de la relació entre ells?»
+**User:** «La Marratxa que es balla avui és la mateixa que es ballava quan es va signar el Pareatge?»
 
-La resposta ha de donar els noms i explicar què permet afirmar la font. Si la font no explica la relació, ho ha de dir directament.
+**Assistant:** «No es pot assegurar. La tradició relaciona la dansa amb el Pareatge de 1278, però les fonts no demostren que la coreografia actual vingui d'aquell moment. La versió que es balla avui es va fixar als anys seixanta a partir de la memòria d'un dansaire.»
 
-**No:** «Tres coses que el corpus registra per separat:»
+**User:** «Aleshores el 1278 és una data que explica la tradició, no una prova de com era el ball?»
 
-**Sí:** «Per què el Consell General avançava diners per celebrar les Corts?»
+**Assistant:** «Exacte. És la data que li atribueix la tradició. A més, la data del ball —7 de setembre— no coincideix amb la del Pareatge que dona una altra font —8 de setembre—. La discrepància continua oberta.»
 
-La resposta explica la regla i el motiu documentat, sense parlar del procés de treball.
+El primer torn no afirma continuïtat que no està documentada; el seguiment comprova què significa la distinció. Les dades i els drets d'aquest exemple continuen subjectes a la fitxa de procedència.
 
-### Mostres que cal descartar o reescriure
+### Exemple de bon fil: un nom que sobreviu a l'objecte
 
-Les preguntes següents venen d'una prova de dades i **no són exemples aprovats**.
+**Intenció:** entendre una paraula poc coneguda i esbrinar què se'n pot dir més.
 
-| Evita | Pregunta més humana | Què ha de fer la resposta |
+**User:** «Què és una marratxa? És d'aquí que ve el nom del ball?»
+
+**Assistant:** «Sí. La marratxa —també anomenada morratxa o almorratxa— és un recipient amb aigua perfumada que, segons la descripció de la dansa, els balladors duien a les mans. El ball n'ha conservat el nom, tot i que avui ja no s'hi fa servir el recipient.»
+
+**User:** «Se sap quin perfum hi posaven?»
+
+**Assistant:** «La informació disponible explica que l'aigua era perfumada, però no identifica cap perfum concret.»
+
+La repregunta surt d'una part concreta de la resposta i permet mostrar un límit real sense omplir-lo amb una suposició.
+
+### Exemple de bon fil: una simbologia que no quadra a primera vista
+
+**Intenció:** entendre qui participa en la Marratxa i no atribuir una correspondència inventada.
+
+**User:** «Què representen els dansaires de la Marratxa?»
+
+**Assistant:** «La descripció atribueix als dos homes la representació dels coprínceps i diu que les tres noies simbolitzen les sis parròquies antigues.»
+
+**User:** «I se sap quines parròquies representa cadascuna?»
+
+**Assistant:** «No. La descripció no explica com es reparteix aquesta representació entre les tres noies.»
+
+El seguiment detecta una pregunta natural provocada per la resposta. No s'inventa una explicació només perquè la simbologia sembli incompleta.
+
+## Anti-exemples que s'han de rebutjar
+
+| Pregunta o resposta rebutjada | Per què falla | Com corregir el plantejament |
 | --- | --- | --- |
-| «Què explica la secció “La regla de competència: depèn de qui és demandat”?» | «Per què importava qui denunciaves en un procés contra un cònsol?» | Explicar la regla i dir clarament quin recurs hi havia, si la font ho documenta. «Apel·lació al Consell General» tot sol és un fragment, no una resposta. |
-| «Què explica la secció “El vocabulari que ho ordena”?» | «Quins dos llocs hi surten, i què hi passa en cadascun?» | Donar els topònims, identificar-ne el paper i aclarir si la font estableix cap relació entre ells. No deixar «I dos topònims que en surten» com a resposta. |
-| «Què indica aquesta fila?» | «Què compara el gràfic per al 2014?» | Anomenar les dues sèries, les xifres i què representen els colors, amb una frase completa. |
-| «Què explica la secció “El relat”?» | «Què va passar després que la imatge arribés a Canillo?» | Fer servir referents explícits: «L'endemà, la imatge ja no era a l'altar; havia tornat a aparèixer al peu de la gavernera florida.» |
-| «Què explica la secció “I aquí hi ha el document que ho resol”?» | Escriure la pregunta sobre el fet que el document resol, no sobre el document mateix. | Si encara no s'han extret i verificat aquests fets, no inventar-los ni substituir-los per «Tres coses que el corpus registra per separat». Deixar el registre pendent. |
+| «Què explica la secció “La regla de competència”?» | La persona coneix l'organització interna d'una fitxa. | Identifica el dubte sobre qui podia jutjar o recórrer i formula'l directament. |
+| «Què indica aquesta fila?» | No té context fora de la taula i no diu què vol saber. | Pregunta per la comparació o el canvi que la dada ajuda a entendre; anomena any i sèries si cal. |
+| «Què va passar al relat?» | Converteix un encapçalament en pregunta, sense cap intenció humana. | Pregunta per una acció o conseqüència que algú voldria entendre; mantén els referents explícits. |
+| «Tres coses que el corpus registra per separat:» | No és una resposta i parla del procés intern. | Respon directament el dubte real amb una frase completa. |
+| «Quan i on es balla?» → «A la una, a la plaça Major.» | Pot servir com una dada puntual, però aïllada no forma un diàleg humà ni situa la tradició. | Parteix d'una curiositat contextual i continua només amb una repregunta que n'aclareixi el sentit o un detall rellevant. |
+| «I què més?» / «Quins altres detalls hi ha?» | El seguiment no té objectiu i demana una llista indefinida. | Pregunta per la implicació específica de la resposta anterior. |
+| «Ahir ho vaig veure a la plaça. Per què…?» quan la font no ho diu | Inventa una experiència personal per fer més vistosa la pregunta. | Elimina l'anècdota fictícia; formula la curiositat directament. |
+| Resposta: «Apel·lació al Consell General.» | Fragment sense actor, relació ni context. | Explica qui podia apel·lar i en quines circumstàncies, només fins on arribi la font. |
 
-La reformulació no valida automàticament el contingut. Abans d'aprovar-la, cal contrastar pregunta i resposta amb la fitxa i les fonts. Una dada sense context no es converteix en bona resposta només perquè estigui ben redactada.
+## Llengua i contingut de les respostes
 
-### Formes de conversa que sí que busquem
+- Contesta primer la pregunta actual; no comencis per «segons la fitxa» ni «el corpus diu».
+- Escriu català natural i oral, sense exagerar col·loquialismes ni fingir una veu personal.
+- Dona el context que evita una resposta telegràfica, però no descarreguis tota la font en cada torn.
+- Escriu noms, dates, llocs, xifres i referents de manera inequívoca.
+- Presenta com a tradició el que la font presenta com a tradició; no ho converteixis en fet provat.
+- Quan una dada no consta, digues exactament què manca. No transformis l'absència de prova en prova que una cosa no va passar.
+- Corregeix amb tacte una premissa falsa i respon la pregunta que la persona probablement volia fer.
 
-- **Curiositat directa:** «Per què es va traslladar la festa a l'hivern?»
-- **Aclariment d'una premissa:** «Quan en diuen “l'ossa”, parlen necessàriament d'una femella?»
-- **Seguiment causal:** «I se sap per què es va canviar la data?»
-- **Comparació útil:** «En què s'assemblen les versions d'Encamp i Ordino, i en què canvien?»
-- **Límit ben explicat:** «La font no dona el motiu del canvi; només permet dir quan se celebra avui.»
+## Revisió abans d'acceptar
 
-No s'ha de forçar una conversa de dues preguntes si el seguiment no surt de manera natural. Quan hi ha un seguiment, ha d'aprofitar el context compartit i afegir una peça nova d'informació.
+Llegeix només la conversa, sense obrir les fonts, i comprova:
 
-## Prova de lectura en veu alta
+1. La persona podria tenir aquest dubte sense haver vist la fitxa?
+2. La conversa té un sol fil recognoscible, sense salts de tema ni preguntes de qüestionari?
+3. La primera resposta resol el dubte completament?
+4. El seguiment surt de la resposta i aporta una comprensió nova?
+5. Tots els torns s'entenen per si sols en el context del diàleg?
+6. La resposta distingeix el que se sap, el que s'atribueix i el que queda obert?
 
-Llegeix només els missatges, sense obrir les fonts. Pregunta't:
-
-- La primera pregunta la faria una persona que no coneix el corpus?
-- La resposta resol el dubte i s'entén en aquest torn?
-- El seguiment neix de la resposta i obre un pas nou?
-- La conversa té un ritme natural, sense semblar un qüestionari?
-- Cada resposta distingeix què sabem i què no podem afirmar?
-
-Si un punt falla, reescriu el diàleg. No afegeixis una repregunta per amagar una resposta incompleta.
-
-## Proveniència i exportació
-
-Els missatges finals només contenen rols i contingut. Els IDs, les fonts i els drets van a `provenance.jsonl`. Una candidata amb drets pendents pot quedar en revisió, però no s'exporta fins que l'ús per entrenar estigui justificat.
+Després contrasta cada afirmació amb les fonts i comprova la procedència i els drets. Si falla qualsevol punt, reescriu la conversa sencera o deixa-la pendent. Una pregunta més bonica no corregeix una afirmació sense base.
