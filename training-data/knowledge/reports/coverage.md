@@ -4,7 +4,7 @@ Informe regenerable a partir de l'inventari, `conversations.jsonl` i `records.js
 
 - Documents Markdown inventariats: **1477**.
 - Articles del brain: **1348**.
-- Converses de revisió amb registre: **33**.
+- Converses de revisió amb registre: **34**.
 - Articles citats per almenys una conversa: **5**.
 - Unitats estructurals enllaçades explícitament amb `unit_ids`: **86**.
 
@@ -78,7 +78,7 @@ Informe regenerable a partir de l'inventari, `conversations.jsonl` i `records.js
 | `temes/historia/pareatge` | 6 | 0 | 0 |
 | `temes/historia/segle-xix` | 29 | 0 | 0 |
 | `temes/historia/segle-xx-primera-meitat` | 30 | 0 | 0 |
-| `temes/institucions/comuns-i-parroquies` | 35 | 1 | 2 |
+| `temes/institucions/comuns-i-parroquies` | 35 | 1 | 3 |
 | `temes/institucions/consell-general` | 84 | 1 | 7 |
 | `temes/institucions/coprincipat` | 33 | 0 | 0 |
 | `temes/institucions/govern` | 8 | 0 | 0 |
