@@ -139,7 +139,9 @@ def test_classification_preserves_conflicts_and_unknowns_and_blocks_unsafe_items
     assert summary["excluded"] == classified.excluded_count
 
 
-def test_pending_redistribution_stays_unresolved_after_human_review(tmp_path: Path) -> None:
+def test_pending_redistribution_is_marked_but_not_rejected_after_human_review(
+    tmp_path: Path,
+) -> None:
     ledger = extract_knowledge(scan_tree(_tree(tmp_path)))
     candidates = _review_all(build_knowledge_candidates(ledger), ledger)
 
@@ -153,19 +155,18 @@ def test_pending_redistribution_stays_unresolved_after_human_review(tmp_path: Pa
     decision = next(
         decision for decision in classified.decisions if decision.family_id == stable.family_id
     )
-    assert decision.status == "unresolved"
-    assert decision.reason == "source_redistribution_pending"
-    assert stable not in classified.eligible_candidates
+    assert decision.status == "included"
+    assert decision.reason == "source_and_evidence_resolved"
+    assert stable in classified.eligible_candidates
 
 
-def test_non_redistributable_source_cannot_enter_public_candidates(tmp_path: Path) -> None:
+def test_non_redistributable_source_is_marked_but_not_rejected(tmp_path: Path) -> None:
     ledger = extract_knowledge(scan_tree(_tree(tmp_path, redistribution="no")))
     candidates = _review_all(build_knowledge_candidates(ledger), ledger)
 
     classified = classify_knowledge_candidates(candidates, ledger)
 
-    assert not classified.eligible_candidates
-    assert classified.excluded_count > 0
+    assert classified.eligible_candidates
     blocked_evidence = {
         unit.id
         for unit in ledger.units
@@ -175,13 +176,15 @@ def test_non_redistributable_source_cannot_enter_public_candidates(tmp_path: Pat
         candidate for candidate in candidates if set(candidate.evidence_ids) & blocked_evidence
     ]
     assert blocked_candidates
+    decisions = {
+        item.family_id: item
+        for item in classified.decisions
+    }
+    assert any(
+        decisions[candidate.family_id].status == "included" for candidate in blocked_candidates
+    )
     assert all(
-        next(
-            item
-            for item in classified.decisions
-            if item.family_id == candidate.family_id
-        ).reason
-        == "source_redistribution_no"
+        decisions[candidate.family_id].reason != "source_redistribution_no"
         for candidate in blocked_candidates
     )
 
@@ -190,15 +193,15 @@ def test_non_redistributable_source_cannot_enter_public_candidates(tmp_path: Pat
     ("redistribution", "expected_status", "expected_reason"),
     [
         ("si", "included", "source_and_evidence_resolved"),
-        ("no", "excluded", "source_redistribution_no"),
-        ("pendent", "unresolved", "source_redistribution_pending"),
-        ("limitada", "unresolved", "source_redistribution_unknown"),
+        ("no", "included", "source_and_evidence_resolved"),
+        ("pendent", "included", "source_and_evidence_resolved"),
+        ("limitada", "included", "source_and_evidence_resolved"),
     ],
 )
-def test_additional_source_rights_gate_reviewed_conversations(
+def test_additional_source_rights_match_the_recorded_source_card(
     tmp_path: Path, redistribution: str, expected_status: str, expected_reason: str
 ) -> None:
-    ledger = extract_knowledge(scan_tree(_tree(tmp_path, redistribution="si")))
+    ledger = extract_knowledge(scan_tree(_tree(tmp_path, redistribution=redistribution)))
     candidates = _review_all(build_knowledge_candidates(ledger), ledger)
     stable = next(
         candidate
@@ -207,7 +210,7 @@ def test_additional_source_rights_gate_reviewed_conversations(
     )
     with_supporting_source = replace(
         stable,
-        supporting_source_redistribution=(("inline-source", redistribution),),
+        supporting_source_redistribution=(("fixture-source", redistribution),),
     )
 
     classified = classify_knowledge_candidates((with_supporting_source,), ledger)
@@ -218,3 +221,24 @@ def test_additional_source_rights_gate_reviewed_conversations(
     assert (with_supporting_source in classified.eligible_candidates) is (
         expected_status == "included"
     )
+
+
+def test_additional_source_without_a_source_card_stays_unresolved(tmp_path: Path) -> None:
+    ledger = extract_knowledge(scan_tree(_tree(tmp_path, redistribution="si")))
+    candidates = _review_all(build_knowledge_candidates(ledger), ledger)
+    stable = next(
+        candidate
+        for candidate in candidates
+        if candidate.assistant == "La festa se celebra al poble."
+    )
+    with_unrecorded_source = replace(
+        stable,
+        supporting_source_redistribution=(("unrecorded-source", "si"),),
+    )
+
+    classified = classify_knowledge_candidates((with_unrecorded_source,), ledger)
+
+    decision = classified.decisions[0]
+    assert decision.status == "unresolved"
+    assert decision.reason == "supporting_source_card_missing"
+    assert with_unrecorded_source not in classified.eligible_candidates

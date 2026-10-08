@@ -24,6 +24,9 @@ CONFLICT_MARKERS = (
     "divergeixen",
     "dues lectures",
 )
+ALLOWED_REDISTRIBUTION = {"si", "sí", "yes", "allowed", "true"}
+DENIED_REDISTRIBUTION = {"no", "false", "not allowed", "denied"}
+PENDING_REDISTRIBUTION = {"pendent", "pending"}
 UNKNOWN_MARKERS = (
     "no consta",
     "no permet determinar",
@@ -354,26 +357,19 @@ def build_relation_candidates(ledger: KnowledgeLedger) -> tuple[ConversationCand
 def classify_knowledge_candidates(
     candidates: tuple[ConversationCandidate, ...], ledger: KnowledgeLedger
 ) -> CandidateClassification:
-    """Bloqueja esborranys, procedència no autoritzada i fets volàtils."""
+    """Bloqueja esborranys, procedència absent i fets volàtils; conserva els estats de drets."""
 
     evidence_by_id = {unit.id: unit for unit in ledger.units}
     decisions: list[CandidateDecision] = []
     eligible: list[ConversationCandidate] = []
     conflict_count = 0
     unknown_count = 0
-    allowed_rights = {"si", "sí", "yes", "allowed", "true"}
-    denied_rights = {"no", "false", "not allowed", "denied"}
-    pending_rights = {"pendent", "pending"}
+    source_redistribution = {card.source_id: card.redistribution for card in ledger.source_cards}
     for candidate in candidates:
         units = [evidence_by_id[item] for item in candidate.evidence_ids if item in evidence_by_id]
-        redistribution_states = [
-            (reference.redistribution or "").strip().casefold()
-            for unit in units
-            for reference in unit.provenance
-        ]
-        redistribution_states.extend(
-            state.strip().casefold()
-            for _, state in candidate.supporting_source_redistribution
+        supporting_sources = tuple(
+            (source_id, state.strip().casefold())
+            for source_id, state in candidate.supporting_source_redistribution
         )
         if not candidate.evidence_ids or len(units) != len(candidate.evidence_ids):
             decision = CandidateDecision(
@@ -396,20 +392,23 @@ def classify_knowledge_candidates(
                 "unresolved",
                 "missing_or_invalid_provenance",
             )
-        elif any(state in denied_rights for state in redistribution_states):
-            decision = CandidateDecision(
-                candidate.family_id,
-                candidate.evidence_ids,
-                "excluded",
-                "source_redistribution_no",
-            )
-        elif any(state not in allowed_rights for state in redistribution_states):
-            pending = any(state in pending_rights for state in redistribution_states)
+        elif any(source_id not in source_redistribution for source_id, _ in supporting_sources):
             decision = CandidateDecision(
                 candidate.family_id,
                 candidate.evidence_ids,
                 "unresolved",
-                "source_redistribution_pending" if pending else "source_redistribution_unknown",
+                "supporting_source_card_missing",
+            )
+        elif any(
+            _redistribution_category(state)
+            != _redistribution_category(source_redistribution[source_id])
+            for source_id, state in supporting_sources
+        ):
+            decision = CandidateDecision(
+                candidate.family_id,
+                candidate.evidence_ids,
+                "unresolved",
+                "source_redistribution_record_mismatch",
             )
         elif any(unit.volatility_score >= 0.5 for unit in units):
             decision = CandidateDecision(
@@ -447,6 +446,19 @@ def classify_knowledge_candidates(
         explicit_conflict_count=conflict_count,
         explicit_unknown_count=unknown_count,
     )
+
+
+def _redistribution_category(state: str) -> str:
+    """Group the recorded rights labels without treating a label as a veto."""
+
+    normalized = state.strip().casefold()
+    if normalized in ALLOWED_REDISTRIBUTION:
+        return "allowed"
+    if normalized in DENIED_REDISTRIBUTION:
+        return "denied"
+    if normalized in PENDING_REDISTRIBUTION:
+        return "pending"
+    return normalized
 
 
 def _relation_evidence(
