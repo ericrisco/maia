@@ -7633,12 +7633,18 @@
       "title": "Els costumaris andorrans",
       "type": "article",
       "topic": "temes/historia/manual-digest",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 72,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/historia/manual-digest/els-costumaris-andorrans.md#unit-0003",
+        "docs/temes/historia/manual-digest/els-costumaris-andorrans.md#unit-0006",
+        "docs/temes/historia/manual-digest/els-costumaris-andorrans.md#unit-0009"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 72,
-      "conversation_ids": []
+      "open_unit_count": 69,
+      "conversation_ids": [
+        "costumaris-instructa-batlles-copies-001"
+      ]
     },
     "docs/temes/historia/manual-digest/manual-digest-index-de-fitxes.md": {
       "title": "Manual Digest — índex de fitxes",
