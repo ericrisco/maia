@@ -1,3 +1,5 @@
 # Feina de Knowledge
 
-Aquí hi haurà l'inventari exhaustiu de `docs/temes/`, amb l'estat de cada document i el motiu de qualsevol exclusió. La cobertura es considerarà completa només quan tots els documents hagin estat revisats.
+`coverage.csv` enumera tots els fitxers Markdown de `docs/temes/`. Tots comencen amb estat `pending`; cap fitxer es considera revisat només perquè aparegui a l'inventari.
+
+Per reconstruir els inventaris de Knowledge i Language des de l'arrel de Maia, executa `python3 training-data/scripts/inventory.py`. El generador conserva les metadades del frontmatter i no marca cap font com a apte per entrenar.

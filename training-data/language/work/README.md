@@ -1,3 +1,3 @@
 # Feina de Language
 
-Aquí s'inventariaran totes les peces de `docs/parla/`, amb revisió de transcripció, drets, fragments elegibles i exclusions justificades. Una peça pendent no està aprovada.
+`coverage.csv` enumera totes les peces Markdown de `docs/parla/`. Totes comencen amb estat `pending-review`; cap peça queda aprovada automàticament. Cal revisar autenticitat, transcripció, drets i fragments elegibles abans d'incloure-la.

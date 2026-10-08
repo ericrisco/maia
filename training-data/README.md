@@ -12,6 +12,7 @@ La carpeta `knowledge/examples/` conté quatre mostres per revisar el to i el di
 ## Estructura
 
 - `PLAN.md`: criteris i passos de treball.
+- `scripts/inventory.py`: reconstrueix els inventaris a partir de tots els Markdown del corpus.
 - `knowledge/examples/`: mostres editorials i procedència.
 - `knowledge/work/`: inventari de cobertura i feina pendent.
 - `knowledge/output/`: reservat per a exports aprovats.
