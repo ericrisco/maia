@@ -8173,6 +8173,14 @@
       "status": "in_progress",
       "unit_count": 134,
       "covered_unit_ids": [
+        "docs/temes/historia/segle-xix/el-desenllac-de-la-questio-duanera.md#unit-0006",
+        "docs/temes/historia/segle-xix/el-desenllac-de-la-questio-duanera.md#unit-0007",
+        "docs/temes/historia/segle-xix/el-desenllac-de-la-questio-duanera.md#unit-0008",
+        "docs/temes/historia/segle-xix/el-desenllac-de-la-questio-duanera.md#unit-0009",
+        "docs/temes/historia/segle-xix/el-desenllac-de-la-questio-duanera.md#unit-0010",
+        "docs/temes/historia/segle-xix/el-desenllac-de-la-questio-duanera.md#unit-0011",
+        "docs/temes/historia/segle-xix/el-desenllac-de-la-questio-duanera.md#unit-0012",
+        "docs/temes/historia/segle-xix/el-desenllac-de-la-questio-duanera.md#unit-0014",
         "docs/temes/historia/segle-xix/el-desenllac-de-la-questio-duanera.md#unit-0022",
         "docs/temes/historia/segle-xix/el-desenllac-de-la-questio-duanera.md#unit-0023",
         "docs/temes/historia/segle-xix/el-desenllac-de-la-questio-duanera.md#unit-0027",
@@ -8182,9 +8190,10 @@
         "docs/temes/historia/segle-xix/el-desenllac-de-la-questio-duanera.md#unit-0034"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 127,
+      "open_unit_count": 119,
       "conversation_ids": [
-        "franquicia-duanera-1895-rebuig-i-argument-del-bisbe-001"
+        "franquicia-duanera-1895-rebuig-i-argument-del-bisbe-001",
+        "quota-franquicia-bestiar-1895-ports-i-farga-001"
       ]
     },
     "docs/temes/historia/segle-xix/el-prefecte-va-ratllar-la-paraula-republica.md": {
