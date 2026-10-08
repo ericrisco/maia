@@ -1,3 +1,3 @@
 # Language work
 
-Inventari futur de peces de `docs/parla/`, amb origen, parlant si consta, estat de transcripció, criteri d'elegibilitat i motiu d'exclusió. No barregis aquesta feina amb el coneixement de `docs/temes/`.
+`coverage.csv` enumera tots els fitxers Markdown de `docs/parla/`. `pending-review` només indica que els camps `veu`, `epoca` i `apte_llengua` compleixen la regla inicial. Encara cal revisar transcripció, incerteses, procedència i drets. `excluded-by-metadata` queda fora segons els camps actuals.

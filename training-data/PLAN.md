@@ -42,6 +42,12 @@ Després de la lectura cega, comprova cada afirmació amb les fonts. Registra ta
 
 **Language** parteix de `docs/parla/`. Les respostes han de provenir de persones reals i elegibles. No s'inventen converses perquè “sonin andorranes” ni s'utilitzen mostres Knowledge com a senyal lingüístic.
 
+## Ritme de producció
+
+Cada conversa candidata és un pas independent. Després de redactar una conversa, afegeix la seva procedència, actualitza la cobertura del document, valida els missatges i les fonts, i fes un commit i un push a `main`. No passis a la pregunta següent fins que el push s'hagi confirmat. Un commit no ha d'incloure altres converses.
+
+La cobertura és exhaustiva: un document pot necessitar diverses converses. Mantén anotats els fets i apartats que encara falten; una conversa no marca tota una fitxa com a coberta si només n'explica una part.
+
 ## Fases
 
 1. Acordar el to amb `knowledge/examples/conversations.jsonl`.

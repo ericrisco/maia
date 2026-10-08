@@ -1,3 +1,5 @@
 # Knowledge work
 
-Quan comenci el següent lot, aquest directori contindrà l'inventari de documents, l'estat de cobertura per tema i els motius d'exclusió. Cada conversa candidata s'haurà de poder vincular a les fonts que la sostenen. Les mostres de calibratge no compten com a cobertura.
+`coverage.csv` enumera tots els fitxers Markdown de `docs/temes/`. `pending` vol dir que encara no s’ha revisat el document; `candidate` vol dir que hi ha una conversa en revisió, no que el tema estigui cobert del tot.
+
+Actualitza la fila del document després de cada conversa. Un tema pot necessitar diverses converses. Registra els aspectes que falten a `notes` fins que les afirmacions rellevants, les taules i els enllaços útils estiguin coberts.
