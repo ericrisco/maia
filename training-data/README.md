@@ -1,10 +1,10 @@
 # Maia Training Data
 
-Àrea per crear dos conjunts exhaustius i independents a partir de `docs/`:
+Àrea de treball per preparar dos conjunts separats:
 
-- **Maia Knowledge**: converses naturals sobre el coneixement d’Andorra de `docs/temes/`.
-- **Maia Language**: llengua humana contemporània elegible de `docs/parla/`, preservada amb fidelitat.
+- **Maia Knowledge**: ensenyar coneixement sobre Andorra a partir de `docs/temes/` amb preguntes que una persona faria de debò.
+- **Maia Language**: conservar llengua humana autèntica de `docs/parla/`, sense inventar-hi preguntes ni respostes.
 
-La cobertura de totes dues fonts es registra a `knowledge/work/coverage.csv` i `language/work/coverage.csv`. Les candidates, procedència i drets es mantenen separats dels exports. Els exemples de `knowledge/examples/` calibren l’estil i no entren automàticament a l’entrenament.
+Ara només hi ha estructura i exemples de calibratge. Les cues de revisió i els exports són buits. Per tant, encara no hi ha cap dataset d’entrenament.
 
-Consulta [PLAN.md](PLAN.md) per als criteris i les fases.
+Consulta [PLAN.md](PLAN.md) per al mètode i [knowledge/review/EXEMPLES.md](knowledge/review/EXEMPLES.md) per als criteris de conversa.

@@ -1,45 +1,41 @@
-# Criteri per a les converses de Maia Knowledge
+# Criteri per redactar converses de Maia Knowledge
 
-Aquesta guia governa les candidates de `conversations.jsonl`. Els exemples de `../examples/conversations.jsonl` només calibren l'estil; no es copien a l'entrenament sense revisió.
+## Pregunta pel tema, no pel document
 
-## La pregunta ha de sonar humana
+La persona no coneix títols, seccions, taules ni fitxes. Busca entendre un fet, resoldre una confusió, comparar dues coses o comprovar què se sap.
 
-La persona pregunta pel tema que vol entendre, no per l'estructura del corpus. Pot arribar-hi amb una confusió, una comparació, una dada sorprenent o una qüestió pràctica. No ha de conèixer títols, seccions, files, fitxes o camps interns.
+- Evita: «Què explica la secció “El relat”?»
+- Evita: «Què indica aquesta fila?»
+- Evita: «Què registra el corpus sobre la data?»
+- Pregunta: «Per què el santuari de Meritxell es va construir just en aquell lloc?»
+- Pregunta: «La imatge que es venera avui és l’original?»
 
-- No: «Què explica la secció “La regla de competència”?»
-- Sí: «Si un comú et demanda, ho veu el mateix tribunal que si el demandes tu?»
-- No: «Què indica aquesta fila?»
-- Sí: «El gràfic i el text coincideixen sobre quin idioma tenia el valor més alt?»
+No disfressis una pregunta d’examen amb «m’han dit» o «m’he trobat». Fes servir aquest context només quan sigui una manera versemblant de plantejar el dubte.
 
-La primera pregunta ha d'incloure el context mínim perquè s'entengui. Les preguntes de seguiment poden ser més curtes si el diàleg ja ha presentat el referent.
+## Una conversa avança
 
-## La conversa ha de tenir continuïtat
+La resposta contesta la pregunta immediatament. El seguiment surt d’un detall que la resposta acaba d’introduir. Pot aclarir si una història és una llegenda, què vol dir una excepció o què queda sense demostrar.
 
-Cada resposta resol la pregunta que acaba de rebre. El seguiment surt d'una distinció, un terme o un límit que acaba d'aparèixer. No s'afegeix un torn només per fer que el registre sigui multitorn.
+No afegeixis preguntes de farciment. No saltis a un fet nou sense connexió. Si només hi ha una pregunta natural, deixa la conversa en un torn.
 
-- Un seguiment útil aclareix què implica una regla, què vol dir un terme, si una dada és segura o com es compara amb el cas que s'acaba d'explicar.
-- Un seguiment buit és «I què més?» o una pregunta sobre un fet nou sense relació amb el fil.
-- Si el tema no dona peu a una repregunta natural, és millor una conversa d'un sol torn que una conversa artificial.
+## Escriu les respostes per a qui pregunta
 
-## Respostes
+- Usa frases completes i noms clars.
+- Comença per la resposta; després dona el context necessari.
+- No copiïs trossos telegràfics de la font.
+- Distingeix fets, llegendes, interpretacions i hipòtesis.
+- Mantén les dates i les conclusions dins del que la font sosté.
+- Digues què no se sap quan és rellevant, sense convertir-ho en una certesa negativa.
+- No incloguis IDs, notes de procedència, estat de revisió ni comentaris del pipeline.
 
-- Comença amb la resposta directa i explica només el context necessari.
-- Escriu frases completes, no notes, etiquetes ni fragments de la fitxa.
-- Mantén clars els referents quan el diàleg fa servir «això», «ell», «llavors» o el·lipsis.
-- Separa fets documentats de tradicions, interpretacions, estimacions i hipòtesis.
-- Acota dates, llocs i conclusions al cas que la font permet afirmar.
-- Si no se sap o les fonts discrepen, explica-ho sense inventar una resolució.
-- No esmentis el corpus, IDs, estats, procedència ni pipeline dins dels missatges.
+## Prova final
 
-## Revisió obligatòria
+Llegeix només la conversa, sense obrir la font:
 
-Abans d'afegir una conversa, llegeix només els missatges i comprova:
+1. La primera pregunta sona com un dubte real i s’entén tota sola?
+2. La faria algú que encara no ha llegit l’article?
+3. La resposta resol el dubte en lloc de descriure el document?
+4. El seguiment depèn de la resposta anterior i aporta informació nova?
+5. Cada afirmació i cada matís estan verificats?
 
-1. La pregunta inicial podria fer-la algú que no ha vist la fitxa?
-2. La resposta contesta la pregunta de seguida?
-3. El seguiment neix del torn anterior i afegeix comprensió?
-4. El diàleg sona natural llegit en veu alta, sense repeticions de plantilla?
-5. Cada dada, nom, data i matís està verificat a les fonts?
-6. La conversa evita conclusions més fortes que les fonts?
-
-Registra procedència i drets a `provenance.jsonl`. Una candidate amb drets pendents es pot mantenir en revisió, però no passa a `output/`.
+Un «no» vol dir reescriure o descartar.

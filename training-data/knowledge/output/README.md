@@ -1,3 +1,3 @@
-# Exports de Maia Knowledge
+# Exports de Knowledge
 
-Encara no hi ha converses aprovades per exportar. No afegir registres fins que passin les revisions de contingut, procedència, drets i deduplicació.
+Encara no hi ha registres aprovats per exportar. No creïs `train`, `validation` o `test` fins que la revisió de contingut, cobertura i drets ho permeti.

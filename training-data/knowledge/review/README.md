@@ -1,3 +1,3 @@
-# Candidates en revisió
+# Converses Knowledge en revisió
 
-Les candidates s'afegeixen aquí només després de calibrar l'estil amb els exemples. Cada conversa ha de tenir procedència associada i passar revisió humana de naturalitat, continuïtat, exactitud i drets abans d'exportar-se.
+`conversations.jsonl` comença buit. Afegeix-hi candidates només després d’aplicar el criteri de [EXEMPLES.md](EXEMPLES.md). Registra fonts i drets, en el mateix ordre, a `provenance.jsonl`.

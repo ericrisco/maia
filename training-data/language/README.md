@@ -1,5 +1,5 @@
 # Maia Language
 
-Conjunt separat de Maia Knowledge. Només pot contenir material de parla humana elegible de `docs/parla/`, amb transcripció revisada i drets documentats. No s'inventen preguntes o respostes per fer parlar una persona ni s'imita la seva veu amb un model.
+Conjunt separat de Maia Knowledge. Parteix de material humà de `docs/parla/` i preserva la parla real. No inventis preguntes ni converteixis un monòleg en un diàleg fictici.
 
-L'auditoria de drets i transcripció és a [reports/source-audit.md](reports/source-audit.md). Passar el filtre de metadades no aprova una peça per entrenar.
+Abans d’incloure material, verifica la transcripció, identifica la peça i el parlant quan sigui possible, i comprova els drets d’ús. Encara no hi ha registres aprovats ni exports.

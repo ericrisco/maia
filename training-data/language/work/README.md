@@ -1,3 +1,3 @@
-# Inventari i decisions
+# Treball de Maia Language
 
-`coverage.csv` enumera totes les peces de `docs/parla/`. El filtre inicial per metadades identifica candidates amb `type: parla`, `veu: originaria`, `epoca: contemporania` i `apte_llengua: true`; això no les aprova automàticament. Cal revisar drets, parlant, qualitat i incertesa de transcripció peça per peça.
+Aquí hi aniran l’inventari de `docs/parla/`, la verificació d’àudio o text, les decisions d’elegibilitat i l’estat dels drets. Encara no s’ha iniciat aquesta auditoria.

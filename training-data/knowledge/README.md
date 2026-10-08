@@ -1,9 +1,9 @@
 # Maia Knowledge
 
-Conjunt de converses basades en coneixement documentat sobre Andorra a `docs/temes/`. La qualitat d'una conversa es jutja pel dubte humà que resol, la continuïtat dels seguiments, la precisió de la resposta i la procedència.
+Conversa en català sobre coneixement d’Andorra documentat a `docs/temes/`. Les preguntes parteixen de dubtes humans, no de l’estructura dels documents.
 
-- `examples/`: exemples de calibratge, fora de l'entrenament.
-- `review/`: candidates pendents de revisió.
-- `work/`: inventari i cobertura.
-- `output/`: només exports aprovats.
-- `reports/`: qualitat, cobertura, exclusions i drets.
+- `examples/`: mostres de calibratge, excloses dels exports.
+- `review/`: candidates noves pendents de revisió humana.
+- `work/`: inventari i seguiment de cobertura.
+- `output/`: splits d’entrenament aprovats; buit fins que hi hagi dades elegibles.
+- `reports/`: informes de qualitat, cobertura i exclusions.
