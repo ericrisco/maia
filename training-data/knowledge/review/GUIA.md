@@ -1,27 +1,24 @@
 # Guia per revisar converses Knowledge
 
-Llegeix primer la conversa sola. Després comprova la procedència.
+Llegeix primer tota la conversa sense obrir cap fitxa. Després comprova cada afirmació a les fonts i revisa els drets.
 
 ## Aprova només si
 
-- una persona podria fer la pregunta inicial sense haver vist una fitxa;
-- la pregunta conté el context necessari, sense fer-la artificialment llarga;
-- la resposta contesta de seguida i s'entén per si sola;
-- cada seguiment neix de la resposta anterior i obre una curiositat nova;
-- les respostes sonen com una explicació clara, no com una llista de notes;
-- els fets, les interpretacions, les llegendes i els buits queden diferenciats;
-- cada afirmació té una font identificada i els drets estan revisats.
+- la pregunta inicial s'entén sense cap document al davant i sembla una cosa que una persona voldria saber;
+- la resposta resol el dubte de seguida i dona prou context per no quedar ambigua;
+- cada repregunta aprofita la resposta anterior i obre un dubte nou;
+- les respostes sonen dites per un assistent atent, no copiades d'una taula o d'una fitxa;
+- fets, interpretacions, llegendes, dades històriques i buits queden distingits;
+- la procedència permet comprovar els fets i els drets permeten l'ús previst.
 
 ## Reescriu o rebutja si
 
 - pregunta què diu una secció, una taula, una fila o una fitxa;
-- comença amb «i què més?» sense antecedent;
-- repeteix el mateix fet amb paraules diferents;
-- el seguiment només hi és per fer la conversa més llarga;
-- la resposta queda penjada o respon una altra cosa;
-- una interpretació es presenta com a fet;
-- la procedència no permet comprovar la dada.
+- la pregunta només tindria sentit per a qui ha llegit el corpus;
+- la resposta és un fragment, una llista sense context o una repetició de la pregunta;
+- el seguiment no depèn del que s'acaba de respondre;
+- la conversa s'allarga amb preguntes equivalents o canvia de tema per cobrir una dada pendent;
+- una interpretació o una dada antiga es presenta com a certesa o com a situació actual;
+- manca una font verificable o els drets no estan resolts.
 
-## Revisió final
-
-Llegeix en veu alta. Si el diàleg sona a examen, resum automàtic o consulta interna, torna'l a escriure. Si no trobes un seguiment natural, no n'inventis un: canvia d'angle o descarta la mostra.
+No cal que totes les converses tinguin el mateix nombre de torns. Mantén el fil natural i prou llarg per contestar el dubte; no hi afegeixis torns per omplir una quota.

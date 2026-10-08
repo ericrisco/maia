@@ -7,7 +7,7 @@ Aquest directori prepara dos recursos separats a partir del corpus de Maia:
 
 ## Punt de partida
 
-Ara només hi ha una guia de redacció i quatre converses de calibratge de Knowledge. Serveixen per acordar el to. No són dades aprovades ni es poden exportar per entrenar. No hi ha cap dataset final ni cap split.
+Ara hi ha una guia de redacció i cinc converses de calibratge de Knowledge. Serveixen per acordar el to. No són dades aprovades ni es poden exportar per entrenar. No hi ha cap dataset final ni cap split.
 
 ## Estructura
 
