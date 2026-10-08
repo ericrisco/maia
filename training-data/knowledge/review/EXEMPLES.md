@@ -1,47 +1,67 @@
-# Exemples de to i de conversa
+# Tanda de calibratge: preguntes que faria una persona
 
-Aquest fitxer calibra l'estil. Els registres que compten com a dades són a `conversations.jsonl`; no copieu aquestes mostres com a registres addicionals. Les fonts s'han de comprovar sempre a la procedència del registre.
+Aquestes cinc converses reescriuen les preguntes editorials que van motivar la revisió. Són mostres per decidir el to i el nivell de detall. El format d'entrenament és a `calibration.jsonl`; les fonts i les afirmacions verificables són a `calibration-provenance.jsonl`.
 
-## Una curiositat i una conseqüència
+No copieu una pregunta mecànicament per generar més registres. Cada conversa ha de néixer d'una curiositat real i s'ha de contrastar amb la font sencera.
 
-**Persona:** He llegit que una part dels consellers s’elegeix per parròquia. Això vol dir que totes les parròquies hi tenen el mateix pes?
+## Un plet: qui presenta la demanda?
 
-**Maia:** Sí. La meitat dels escons es reparteix igualment entre les set parròquies; l’altra meitat s’elegeix en una circumscripció nacional.
+**Persona:** En un plet antic per unes pastures, el tribunal depenia de si el particular demandava el quart o si el quart reclamava al particular?
 
-**Persona:** I si el Consell té 28 escons, quants en surten de cada parròquia?
+**Maia:** Sí. En la regla que descriu Brutails per a la justícia andorrana, si un particular demandava un quart, el cas anava a la jurisdicció política. Si era el quart qui reclamava a un particular, anava als tribunals ordinaris. El criteri era qui demandava i qui era demandat.
 
-**Maia:** Catorze escons són parroquials, així que en corresponen dos a cada parròquia. Els altres catorze s’elegeixen a escala nacional.
+**Persona:** I si demandaven el quart, qui ho resolia primer?
 
-El seguiment surt de la resposta: la persona vol entendre com es concreta el repartiment.
+**Maia:** Si el plet afectava un quart, el consell de parròquia el jutjava primer. Després se'n podia apel·lar la decisió al Consell General.
 
-## Corregir una deducció sense renyar
+## Una terra sembrada podia ser comunal?
 
-**Persona:** A la Passa de Sant Julià, per què unes parelles van davant de les altres?
+**Persona:** Com podia ser comunal un terreny si una família l'havia sembrat durant anys?
 
-**Maia:** Al davant hi van les parelles que es casaran aquell any; la resta desfila darrere, ordenada de més grans a més joves.
+**Maia:** En una sentència de visura del 1790, el fet d'haver-hi sembrat blat i llegums no va impedir que el terreny es considerés comunal. Després de collir, els guardians hi feien passar els ramats; aquell ús de pas i pastura era el que comptava per determinar-ne l'estatus.
 
-**Persona:** Ah, doncs és un ball de festa major?
+**Persona:** Així, el que importava era què s'hi feia després de la collita?
 
-**Maia:** No ben bé: és una cercavila de parelles de fadrins, no una dansa. Se celebra el migdia del dilluns de la festa major de Sant Julià de Lòria.
+**Maia:** En aquest cas, sí: la sentència destaca que els ramats hi passaven un cop retirats els fruits. És la raó que dona per considerar comunal aquell terreny.
 
-La resposta resol la confusió i dona el terme precís sense convertir-ho en una lliçó.
+## Llegir una dada, no una fila
 
-## Dir què se sap i què queda obert
+**Persona:** El 2014, a la sèrie d'indicadors lingüístics d'Andorra, el català tornava a superar el castellà?
 
-**Persona:** La Marratxa commemora el Pareatge? M’he trobat amb dues dates diferents.
+**Maia:** Sí. El 2014, l'indicador dona un 57,7% al català i un 56,4% al castellà: el català queda 1,3 punts per sobre.
 
-**Maia:** Segons la tradició de la dansa, es va ballar per primer cop el 7 de setembre de 1278, després de la signatura del Pareatge. La font que documenta el Pareatge el situa l’endemà, el 8 de setembre.
+**Persona:** I el 2018 va passar el mateix?
 
-**Persona:** Llavors no se sap quina de les dues dates és bona?
+**Maia:** No. El 2018, la sèrie dona un 56,8% al català i un 57,6% al castellà. En aquesta onada, el castellà queda 0,8 punts per sobre.
 
-**Maia:** La discrepància no queda resolta amb la informació disponible. La tradició de la Marratxa dona el dia 7 i la font del Pareatge, el dia 8; caldria comprovar-ho amb documentació primària.
+## La llegenda de Meritxell
 
-No inventem una explicació per tancar una diferència que les fonts encara no resolen.
+**Persona:** La llegenda de Meritxell diu que la imatge va aparèixer primer a Canillo?
 
-## Exemple que cal rebutjar
+**Maia:** Segons el relat tradicional, un pastor que anava a missa el dia de Reis va trobar la imatge sota una gavernera florida, al lloc on avui hi ha el santuari. La va portar a l'església de Canillo, però l'endemà havia tornat al peu de l'arbust.
 
-> **Pregunta:** Què explica l'apartat «El relat» de la fitxa «La troballa de Meritxell»?
->
-> **Resposta:** Se la va endur a Canillo i la va posar sobre l'altar major.
+**Persona:** I per què també la van dur a Encamp?
 
-Això depèn d'un document que la persona no ha vist i la resposta no s'entén sense context. Cal preguntar per la història directament i explicar qui va fer què, amb una resposta completa.
+**Maia:** Canillo i Encamp se'n disputaven la proximitat. Segons la llegenda, la van tancar a Encamp amb pany i clau, però la imatge va tornar una altra vegada al lloc de la troballa. El relat diu que van entendre que volia quedar-s'hi i que per això hi van construir el santuari.
+
+## Dos tipus d'interès, no dues respostes incompatibles
+
+**Persona:** M'he trobat un interès del 3 i 1/3% i un altre del 5%. Són dues versions incompatibles de la mateixa regla?
+
+**Maia:** El decret del Consell General del 1895 els distingia per tipus d'operació. Mantenia el 3 i 1/3% per als censals, segons la llei de la Vall, i deia que per a la resta el Consell i el Tribunal de Corts acceptaven el 5%. Per tant, no els aplicava al mateix tipus de contracte.
+
+**Persona:** Aleshores el cinc per cent era per a qualsevol préstec?
+
+**Maia:** El decret diu que s'aplicava «en tot lo demés», després d'excloure els censals. La fitxa també recull altres matisos sobre préstecs i usura; no convé convertir aquesta frase en una regla universal sense mirar-ne el context.
+
+## Què hem de comprovar en cada conversa
+
+- La primera pregunta expressa una curiositat completa sense dir «fitxa», «secció», «fila» o «apartat».
+- La primera resposta resol el dubte en llenguatge natural i no comença amb un fragment.
+- El seguiment surt de la resposta anterior i demana una precisió útil.
+- Cada resposta es pot entendre tota sola dins de la conversa.
+- Els relats tradicionals s'atribueixen com a relats; una dada històrica no es presenta com a llei vigent.
+- Si la font no sosté una generalització, la resposta es limita al cas documentat.
+- La conversa sencera sona plausible llegida en veu alta.
+
+Si una mostra falla algun punt, s'edita o es rebutja. No s'afegeixen registres només per assolir una quota.

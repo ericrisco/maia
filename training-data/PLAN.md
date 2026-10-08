@@ -16,7 +16,7 @@ Per evitar-ho, no esmentem fitxes, seccions, taules, files, corpus ni documents 
 2. **Llegir la font sencera i el context.** Comprovar la fitxa de Maia, les fonts originals disponibles i els matisos. No convertir un resum provisional en una certesa.
 3. **Escriure el primer torn com ho preguntaria una persona.** Ha de funcionar sense haver vist cap document. Evitar preguntes que només demanen «què és X?» si la curiositat real és més concreta.
 4. **Respondre de seguida i amb sentit complet.** Donar la informació que resol el dubte i el context mínim que la fa entendre. No començar una llista per deixar-la a mitges.
-5. **Afegir seguiments només si neixen de la resposta.** Un bon seguiment comprova una conseqüència, demana una distinció o resol una ambigüitat que la resposta acaba d'obrir. No hi ha un nombre obligatori de torns.
+5. **Fer conversa, no una pregunta de fitxa.** La tanda de calibratge tindrà converses de dos o més torns d'usuari quan el tema ho permeti. Cada seguiment ha de néixer de la resposta anterior: demanar una conseqüència, aclarir una distinció o comprovar una deducció. No s'allarga un fil amb preguntes artificials; una pregunta factual simple pot quedar resolta en un sol torn.
 6. **Llegir la conversa sense les fonts.** En veu alta, comprovar si sembla una conversa possible. Si sona com un examen, una consulta a una taula o una transcripció de notes, reescriure-la.
 7. **Registrar la procedència per separat.** Cada afirmació factual ha de poder tornar a una font. Les llicències i condicions de les fonts externes es documenten abans d'incorporar-ne material.
 
@@ -25,6 +25,16 @@ Per evitar-ho, no esmentem fitxes, seccions, taules, files, corpus ni documents 
 Poden sortir d'una confusió («No ho acabo d'entendre…»), d'una deducció («Això vol dir que…?»), d'una discrepància («Per què aquí surt un dia i allà un altre?»), d'una comparació o d'una conseqüència pràctica. No cal afegir fórmules col·loquials si no hi encaixen.
 
 Una pregunta bona és específica sense dependre de vocabulari editorial. No conté la resposta sencera ni obliga l'assistent a endevinar de quin tema es parla.
+
+### Patrons que cal rebutjar
+
+- «Què explica la secció…?», «què indica aquesta fila?» o «què diu la fitxa…?»: pressuposen que la persona està llegint el material de recerca.
+- Preguntes que només demanen repetir un títol, un encapçalament o una etiqueta.
+- Respostes que comencen amb «I dues coses…», dos punts, una llista sense pregunta o un pronom sense antecedent.
+- Segon torn que repeteix el primer amb altres paraules o canvia de tema sense motiu.
+- Col·loquialismes afegits només per fer veure que la pregunta és humana.
+
+Abans d'escriure, formula en una línia privada la curiositat: «què vol entendre aquesta persona?». Després redacta la pregunta sense mirar el títol de la fitxa. Si només es pot formular fent referència a la fitxa, busca una altra curiositat o no generis el registre.
 
 ## Com responen les converses
 
@@ -59,7 +69,7 @@ La cobertura només es pot donar per acabada quan tots els elements dels dos inv
 
 ## Fases
 
-1. **Calibratge:** revisar les primeres converses i ajustar la guia d'estil amb exemples concrets.
+1. **Calibratge:** revisar els exemples de `knowledge/review/calibration.jsonl` i ajustar la guia d'estil abans de continuar la cobertura. Aquests exemples són una mostra editorial, no s'afegeixen automàticament a les exportacions.
 2. **Construcció:** avançar tema per tema. Per cada tanda, preparar preguntes, respostes i procedència; després revisar-les abans d'afegir la següent.
 3. **Cobertura:** comparar els registres amb els coneixements de cada font i identificar què falta, sense multiplicar paraphrases.
 4. **Exportació:** només després de revisar exactitud, naturalitat, cobertura, deduplicació i drets de les fonts. Separar train, validation i test per tema o font per reduir filtracions.
