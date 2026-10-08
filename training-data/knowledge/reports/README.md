@@ -1,3 +1,3 @@
 # Knowledge reports
 
-Els informes de cobertura i qualitat s'afegiran quan comenci la revisió sistemàtica. Els tres exemples actuals són només una prova d'estil.
+`coverage.md` registra el punt de partida dels inventaris. S'actualitzarà a mesura que es revisin continguts; l'inventari no equival a cobertura entrenable.

@@ -38,7 +38,7 @@ training-data/
 ├── PLAN.md
 ├── knowledge/
 │   ├── README.md
-│   ├── examples/       # Pocs exemples per acordar el criteri
+│   ├── review/         # Exemples i converses candidates revisables
 │   ├── work/           # Inventari, cobertura i procedència
 │   ├── reports/        # Cobertura, qualitat i exclusions
 │   ├── scripts/        # Eines de validació o generació, quan calguin
@@ -51,11 +51,13 @@ training-data/
     └── output/
 ```
 
-1. Acordar l'estil amb els exemples petits de Knowledge.
+1. Acordar l'estil amb els exemples petits de `knowledge/review/`.
 2. Ajustar el criteri si encara sonen a preguntes d'examen.
-3. Recuperar o reconstruir l'inventari i la procedència; no convertir cada fitxa en una pregunta automàtica.
+3. Mantenir un inventari de tots els documents i revisar-ne el contingut; no convertir cada fitxa en una pregunta automàtica.
 4. Crear converses en lots petits, amb revisió humana de naturalitat i exactitud.
 5. Treballar Language a part: només veu humana contemporània elegible i transcripció prou fiable; no inventar respostes per imitar parlants.
 6. Exportar i fer splits només quan contingut, drets, cobertura i duplicats estiguin revisats.
+
+`knowledge/work/coverage.csv` i `language/work/coverage.csv` han d'incloure cada Markdown de les dues fonts. Són inventaris per fer seguiment, no afirmacions que el contingut ja estigui cobert.
 
 `output/` comença buit expressament. Els exemples no són encara dades aprovades per entrenar.
