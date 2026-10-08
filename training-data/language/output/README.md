@@ -1,3 +1,3 @@
-# Exports Language
+# Exports
 
-Els splits es generaran després d'auditar les peces elegibles i excloure transcripcions incertes. No hi ha exports provisionals.
+Encara no hi ha exports de Maia Language. Es generaran quan s'hagin revisat les peces elegibles i els drets permetin l'ús previst.

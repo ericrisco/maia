@@ -1,3 +1,3 @@
-# Revisió de converses Knowledge
+# Revisió de candidates
 
-Afegeix una conversa per línia a `conversations.jsonl` només després que passi la revisió natural, factual i de drets descrita a [`../../PLAN.md`](../../PLAN.md). Desa'n la traçabilitat a `provenance.jsonl` amb un `example_id` equivalent. Les converses aquí són candidates; no són encara exports d'entrenament.
+Aquí aniran les converses candidates de Maia Knowledge. Cada registre ha de complir la porta de qualitat de `../README.md` i tenir la procedència associada. Els exemples de `../examples/` són només per calibrar i no es copien automàticament aquí.

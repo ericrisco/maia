@@ -1,5 +1,5 @@
 # Exemples de calibratge
 
-`conversations.jsonl` conté converses model per calibrar naturalitat, continuïtat entre torns i tractament dels matisos. No són candidates ni s'exporten a l'entrenament. `provenance.jsonl` associa cada exemple amb les fonts i les condicions de reutilització.
+`conversations.jsonl` conté tres converses que mostren el tipus de pregunta i seguiment que busquem. Serveixen per discutir i ajustar l'estil. No s'han d'incloure als exports.
 
-Les mostres amb fonts de drets reservats o reutilització pendent serveixen només per revisar el format. No es poden copiar a un export d'entrenament mentre no canviï l'estat dels drets. Les candidates reals viuen separades a `../review/` i han de passar tots els criteris de `../../PLAN.md`.
+`provenance.jsonl` enllaça cada exemple amb les fonts i en registra els límits de reutilització. Els drets pendents o no autoritzats impedeixen exportar el material encara que l'exemple sigui útil per calibrar.

@@ -1,3 +1,3 @@
-# Informes Language
+# Informes
 
-Documenta quines peces i fragments s'han inclòs o exclòs, els motius, els drets i el nivell de verificació de transcripció.
+Aquí es resumiran les peces inspeccionades, utilitzades i excloses, la verificació de transcripció, els drets i els splits.

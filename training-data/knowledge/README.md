@@ -1,11 +1,5 @@
 # Maia Knowledge
 
-Converses factuals sobre Andorra basades en `docs/temes/`. La prioritat és que la gent pregunti com preguntaria en una conversa real i rebi una resposta correcta, útil i ben matisada.
+Conversa factual basada en `docs/temes/`. La persona no ha de conèixer les fitxes ni la seva estructura. Vegeu els exemples de calibratge i el pla a [training-data/PLAN.md](../PLAN.md).
 
-- `examples/`: exemples de calibratge, exclosos de l'entrenament.
-- `review/`: converses candidates pendents d'aprovació.
-- `work/`: cobertura i registres de curació.
-- `output/`: exports aprovats; encara no n'hi ha.
-- `reports/`: resultats de cobertura, qualitat i drets.
-
-Consulta [`../PLAN.md`](../PLAN.md) abans d'afegir registres.
+Els exemples no són dades d'entrenament. Les converses candidates han de passar revisió natural, factual i de drets abans d'arribar a `output/`.

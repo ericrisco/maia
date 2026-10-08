@@ -1,3 +1,3 @@
-# Exports Knowledge
+# Exports
 
-Els fitxers train, validation i test es generaran després d'aprovar, deduplicar i agrupar les converses. Encara no hi ha exports: els exemples de calibratge no s'hi copien.
+Encara no hi ha cap export d'entrenament. Els fitxers es crearan quan hi hagi candidates revisades, drets clars i una divisió entre train, validation i test que eviti separar converses similars.

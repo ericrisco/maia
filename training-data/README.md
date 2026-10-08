@@ -1,8 +1,10 @@
 # Maia Training Data
 
-Àrea de preparació de dades per a dos objectius separats:
+Espai per preparar dos recursos diferents per a l'ajust fi de Maia:
 
-- [Maia Knowledge](knowledge/README.md): respostes factuals basades en `docs/temes/`.
-- [Maia Language](language/README.md): fragments de parla humana autèntica de `docs/parla/`.
+- **Knowledge** ensenya a respondre preguntes sobre Andorra amb informació de `docs/temes/`.
+- **Language** conserva trets del català andorrà contemporani a partir de parla humana de `docs/parla/`.
 
-Knowledge i Language no comparteixen registres ni criteris d'inclusió. Els exemples són per calibrar l'estil; no són automàticament dades d'entrenament. Les converses aprovades, la procedència i els informes es mantenen separats.
+No es barregen. Els exemples de Knowledge són material de calibratge i no formen part d'un dataset d'entrenament. Language no conté exemples inventats: només s'hi afegirà material humà elegible, verificat i amb drets documentats.
+
+Comença per [el pla](PLAN.md). Encara no hi ha exports per entrenar.
