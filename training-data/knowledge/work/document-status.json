@@ -7622,12 +7622,18 @@
       "title": "El Politar andorrà, llegit",
       "type": "article",
       "topic": "temes/historia/manual-digest",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 96,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/historia/manual-digest/el-politar.md#unit-0015",
+        "docs/temes/historia/manual-digest/el-politar.md#unit-0018",
+        "docs/temes/historia/manual-digest/el-politar.md#unit-0019"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 96,
-      "conversation_ids": []
+      "open_unit_count": 93,
+      "conversation_ids": [
+        "politar-jurisdiccio-veguers-i-pariatges-001"
+      ]
     },
     "docs/temes/historia/manual-digest/els-costumaris-andorrans.md": {
       "title": "Els costumaris andorrans",
