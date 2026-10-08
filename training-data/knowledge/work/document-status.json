@@ -248,12 +248,19 @@
       "title": "Els gegants",
       "type": "article",
       "topic": "temes/costums/gegants",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 36,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/costums/gegants/els-gegants.md#unit-0003",
+        "docs/temes/costums/gegants/els-gegants.md#unit-0008",
+        "docs/temes/costums/gegants/els-gegants.md#unit-0013",
+        "docs/temes/costums/gegants/els-gegants.md#unit-0030"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 36,
-      "conversation_ids": []
+      "open_unit_count": 32,
+      "conversation_ids": [
+        "gegants-andorra-la-vella-origen-i-constructor-001"
+      ]
     },
     "docs/temes/costums/gegants/gegants-index-de-fitxes.md": {
       "title": "Gegants — índex de fitxes",
