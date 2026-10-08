@@ -18,16 +18,24 @@ training-data/
 ├── knowledge/
 │   ├── README.md
 │   ├── examples/EXEMPLES.md       # mostres editorials, mai exportades
+│   ├── scripts/                   # interfícies locals del pipeline
 │   ├── review/                    # converses reals revisades i procedència
 │   ├── work/                      # inventari i cobertura, quan es regenerin
 │   ├── reports/                   # informes d'auditoria
 │   └── output/                    # train/validation/test, al final
 └── language/
     ├── README.md
+    ├── scripts/
     ├── review/                    # fragments humans elegibles i procedència
+    ├── work/
     ├── reports/
     └── output/                    # train/validation/test, al final
 ```
+
+El codi compartit del pipeline viu a `src/training_data/`. Les carpetes
+`scripts/` documenten els punts d'entrada propis de cada conjunt; `work/`, els
+informes generats i `output/` tenen `.gitignore` perquè són artefactes locals o
+fragments del dataset.
 
 ## Com s'escriu una conversa de Knowledge
 

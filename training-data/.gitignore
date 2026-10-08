@@ -1,0 +1,8 @@
+/knowledge/work/*.jsonl
+/knowledge/work/*.json
+/knowledge/reports/*.json
+/knowledge/output/*.jsonl
+/language/work/*.jsonl
+/language/work/*.json
+/language/reports/*.json
+/language/output/*.jsonl
