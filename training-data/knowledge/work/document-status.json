@@ -2187,14 +2187,17 @@
         "docs/temes/economia/ramaderia-i-agricultura/el-cens-del-bestiar-de-1898-1900.md#unit-0004",
         "docs/temes/economia/ramaderia-i-agricultura/el-cens-del-bestiar-de-1898-1900.md#unit-0009",
         "docs/temes/economia/ramaderia-i-agricultura/el-cens-del-bestiar-de-1898-1900.md#unit-0014",
+        "docs/temes/economia/ramaderia-i-agricultura/el-cens-del-bestiar-de-1898-1900.md#unit-0017",
+        "docs/temes/economia/ramaderia-i-agricultura/el-cens-del-bestiar-de-1898-1900.md#unit-0019",
         "docs/temes/economia/ramaderia-i-agricultura/el-cens-del-bestiar-de-1898-1900.md#unit-0022",
         "docs/temes/economia/ramaderia-i-agricultura/el-cens-del-bestiar-de-1898-1900.md#unit-0023",
         "docs/temes/economia/ramaderia-i-agricultura/el-cens-del-bestiar-de-1898-1900.md#unit-0028"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 53,
+      "open_unit_count": 51,
       "conversation_ids": [
-        "bestiar-mules-censos-francesos-i-controversia-1895-001"
+        "bestiar-mules-censos-francesos-i-controversia-1895-001",
+        "bestiar-ovelles-mes-nombroses-i-porcs-absents-001"
       ]
     },
     "docs/temes/economia/ramaderia-i-agricultura/la-comissio-dels-pagesos.md": {
