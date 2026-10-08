@@ -1,4 +1,3 @@
-# Exports de Language
+# Exportacions de Language
 
-No hi ha exports. Els splits només es crearan després d'auditar el material humà
-i agrupar-lo per peça o parlant.
+Encara no hi ha cap export. Cada futura partició haurà d'evitar separar fragments relacionats de la mateixa peça o parlant entre train, validation i test.

@@ -1,4 +1,3 @@
 # Informes de Language
 
-Documenta peces inspeccionades, fragments utilitzats o exclosos, incertesa de
-transcripció, drets i criteris de partició quan s'iniciï aquest flux.
+Els informes futurs indicaran peces inspeccionades, fragments inclosos i exclosos, fiabilitat de transcripció i motius d'exclusió.

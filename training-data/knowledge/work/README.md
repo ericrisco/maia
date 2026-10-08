@@ -1,4 +1,3 @@
-# Work de Knowledge
+# Treball intermedi de Knowledge
 
-Inventari regenerable de `docs/temes/`, mapa d'unitats semàntiques i decisions
-de cobertura. No hi desem missatges d'entrenament ni material font duplicat.
+Espai per a inventaris i fitxers regenerables del procés de Knowledge. No és una font d'entrenament ni un lloc per guardar secrets o còpies de documents sense autorització.

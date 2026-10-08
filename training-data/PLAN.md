@@ -2,54 +2,54 @@
 
 ## Objectiu
 
-Preparar dos conjunts independents a partir de `docs/`:
+Preparar dos datasets independents:
 
-- **Maia Knowledge** ensenya a respondre preguntes sobre Andorra amb informació de `docs/temes/` i fonts reutilitzables.
-- **Maia Language** preserva el català andorrà contemporani de parlants reals a `docs/parla/`.
+- **Maia Knowledge:** respostes útils sobre Andorra, basades en `docs/temes/` i fonts reutilitzables.
+- **Maia Language:** català andorrà contemporani extret de parla humana real, amb drets, consentiment i transcripció prou fiables.
 
-No es creen diàlegs de Knowledge per imitar la parla de Language. No es generen mostres de Language a partir de preguntes o respostes inventades.
+La prioritat és la qualitat del diàleg i la fidelitat a les fonts. No hi ha quota mínima de registres ni d'unitats cobertes.
 
 ## El problema que corregim
 
-Els exemples anteriors de vegades tractaven la fitxa com si l'usuari la tingués al davant: «què explica aquesta secció?» o «què indica aquesta fila?». Això produeix preguntes que una persona no faria i respostes incompletes que depenen del document.
+Una pregunta com «Què explica aquesta secció?» només té sentit per a qui veu una fitxa. I una resposta com «Tres coses que el corpus registra per separat» no resol el dubte d'una persona. Això són consultes al document, no converses amb un assistent.
 
-El nou punt de partida és el dubte de la persona. Primer definim què voldria entendre. Després consultem el corpus per redactar una resposta exacta. El títol, la secció i la fila només serveixen per trobar evidència; no passen a la conversa.
+Per a cada tema, primer definim quin dubte pràctic, curiositat o confusió podria tenir una persona. Després comprovem si el corpus el pot respondre. Els títols, apartats, taules i identificadors serveixen per trobar evidència; no són el guió del diàleg.
 
-## Procés per crear una conversa de Knowledge
+## Procés per a cada conversa de Knowledge
 
-1. **Descriure la necessitat en llenguatge planer.** Una frase interna, com «vol entendre per què la vall és patrimoni cultural» o «vol comparar l'origen de les importacions». No és un missatge del dataset.
-2. **Comprovar que el corpus ho pot respondre.** Llegir les fonts, revisar-ne els drets i anotar els fets, els límits i les incerteses que importen.
-3. **Escriure el diàleg sencer com una conversa.** La pregunta inicial ha de funcionar sense conèixer la fitxa. La resposta ha de resoldre-la. Cada seguiment ha de sorgir del que s'acaba de dir i obrir un dubte nou.
-4. **Fer la prova de lectura a cegues.** Llegir només el diàleg, sense fitxa ni notes. Si sembla un examen, una cerca de camp o una excusa per cobrir una fila, reescriure'l o descartar-lo.
-5. **Verificar cada afirmació i cada torn.** Cap motivació personal, causa, detall o conseqüència no documentats no s'afegeixen per fer més viva la conversa.
-6. **Registrar procedència i decisió al mateix registre.** El fitxer de revisió guarda fonts, drets, afirmacions i missatges junts. L'export final conté només `messages`.
+1. **Escriure la intenció en privat:** quin dubte vol resoldre la persona? Si només es pot formular com «vull saber què diu la fila 4», no és encara una bona intenció.
+2. **Comprovar evidència i drets:** consultar la fitxa i les fonts originals disponibles; anotar què se sap, què no se sap i si es pot reutilitzar el contingut en el dataset.
+3. **Redactar el diàleg sencer:** pregunta inicial clara per si sola, resposta directa i seguiment que neix del que s'acaba de dir.
+4. **Llegir-lo sense context:** amagar fitxes i notes, i llegir només els missatges en veu alta. Si sona a examen, a formulari o a recitació, reescriure'l.
+5. **Revisar cada torn:** verificar les afirmacions, els períodes, les xifres, les premisses i els límits de la resposta.
+6. **Registrar procedència i decisió:** conservar en la revisió les fonts i els drets; l'export d'entrenament contindrà només `messages`.
 
-## Regles de redacció
+## Què fa que una pregunta soni humana
 
-- Preguntes breus i directes són benvingudes. No cal disfressar cada dubte amb una història personal.
-- El context de l'usuari només s'hi posa si és necessari i no s'inventa. No atribuïm records, plans, família ni experiències a una persona fictícia.
-- Variem les intencions: entendre una paraula, aclarir una confusió, comparar dues opcions, saber què es conserva avui, entendre una conseqüència o situar un fet en el temps.
-- No repetim la mateixa plantilla canviant topònims o xifres. Una frase com «i què més?» tampoc no és un bon seguiment si no queda clar què demana.
-- Les respostes comencen per la resposta concreta. Després donen només el context necessari per entendre-la.
-- Una premissa errònia es corregeix amb respecte. Llegendes, interpretacions i incerteses es marquen com a tals.
-- No s'inventa una causa perquè les dades mostrin una tendència. «El corpus no ho indica» és una resposta vàlida quan s'explica què sí que sabem.
-- El multitorn és obligatori per als registres de Knowledge, però no justifica preguntes artificials. Si no apareix un seguiment creïble, s'ha de buscar un dubte inicial més ampli i relacionat. Si no n'hi ha, el contingut queda pendent; no s'infla.
-- Cada torn ha d'afegir informació útil. No es reparteix una resposta breu en diverses preguntes.
+- Comença pel dubte, no per la fitxa: «La Passa és un ball?» en lloc de «Què explica la secció sobre la Passa?»
+- No inventa un usuari, una biografia ni una situació personal per fer la frase més vistosa.
+- No força expressions com «segons la fila», «en aquesta taula» o «què diu el document?» quan la persona no tindria el document al davant.
+- Pot ser curta. La naturalitat ve de preguntar una cosa comprensible i pertinent, no d'afegir farciment.
+- El seguiment és una pregunta que podria sorgir en sentir la resposta: demana un detall nou, comprova una conseqüència o aclareix una confusió. No és una segona pregunta enganxada per cobrir més dades.
+- Cada resposta resol la pregunta del seu torn sense dependre de la següent.
+- Si un tema no dona per a un seguiment honest, el deixem pendent. No hi afegim una pregunta artificial per complir una llargada.
 
 ## Llindar d'aprovació
 
-Una conversa passa a `approved` només si compleix tots aquests punts:
+Una conversa s'aprova només si totes les respostes són «sí»:
 
-1. Una persona que no hagi llegit el corpus entendria què pregunta el primer torn.
-2. La primera resposta és completa per al dubte inicial, encara que la conversa s'acabi allí.
-3. El seguiment és conseqüència plausible del torn anterior, no una segona pregunta enganxada per quota.
-4. El seguiment demana informació nova i deixa clars els referents.
-5. Totes les afirmacions són al corpus i cada font permet la reutilització prevista.
-6. El diàleg sona normal en llegir-lo en veu alta.
+1. S'entén la primera pregunta sense haver llegit Maia ni cap font?
+2. Respon a un dubte que una persona podria tenir de debò?
+3. La primera resposta ja és completa si la conversa s'acaba allí?
+4. El seguiment és conseqüència plausible del torn anterior i demana informació nova?
+5. Queda clar a què es refereixen els pronoms i les expressions com «això»?
+6. Cada afirmació és verificable i cada font es pot reutilitzar per a aquest ús?
+7. Les xifres diuen què mesuren i de quin període són?
+8. El diàleg sona normal llegit en veu alta?
 
-Un sol «no» implica reescriure o descartar. No s'aprova una conversa perquè cobreixi moltes unitats.
+Un sol «no» vol dir revisar, deixar pendent o descartar. La cobertura mai no compensa una pregunta artificial ni una font no autoritzada.
 
-## Estructura de treball
+## Estructura
 
 ```text
 training-data/
@@ -57,31 +57,37 @@ training-data/
 ├── PLAN.md
 ├── knowledge/
 │   ├── README.md
-│   ├── review/
-│   │   ├── records.jsonl       # conversa, procedència i estat de revisió
-│   │   ├── conversations.jsonl # vista generada; només approved
-│   │   ├── EXEMPLES.md         # guia editorial i exemples de calibratge
-│   │   └── unit-decisions.jsonl
-│   ├── scripts/                # inventari i validació
-│   ├── work/                   # inventaris regenerables
-│   ├── reports/                # cobertura i decisions de qualitat
-│   └── output/                 # exports preparats per entrenar
-└── language/                   # flux separat per a parla humana autèntica
+│   ├── review/       # converses candidates, procedència i exemples editorials
+│   ├── scripts/      # eines de generació i validació, quan toqui
+│   ├── work/         # inventaris regenerables
+│   ├── reports/      # cobertura i qualitat
+│   └── output/       # exports d'entrenament, només quan estiguin aprovats
+└── language/
+    ├── README.md
+    ├── review/
+    ├── scripts/
+    ├── work/
+    ├── reports/
+    └── output/
 ```
 
-Els exemples de `EXEMPLES.md` i els registres `approved_sample` serveixen per calibrar el criteri. No són dades d'entrenament i no compten com a cobertura. Només els registres `approved` poden arribar a `conversations.jsonl`.
+Les carpetes buides tenen un `README.md` breu que n'explica el propòsit. No generem fitxers `train`, `validation` o `test` fins que hi hagi material revisat i un pla de partició que eviti filtracions.
 
 ## Fases
 
-1. Calibrar la veu i el llindar amb els exemples d'aquesta fase.
-2. Revisar candidats de Knowledge d'un en un: drets, intenció humana, diàleg, evidència, naturalitat.
-3. Revisar els registres antics amb el nou llindar abans de recuperar-ne cap. No hereten l'aprovació anterior.
-4. Mesurar cobertura i qualitat sense convertir el nombre de registres en una quota.
-5. Preparar splits només quan hi hagi prou converses revisades i sense separar converses o fonts relacionades.
-6. Avançar Maia Language sota les seves regles d'autenticitat, consentiment, drets i fidelitat de transcripció.
+1. Fixar el criteri amb exemples de calibratge i revisar-lo amb lectura a cegues.
+2. Crear converses de Knowledge una per una; comprovar fonts, drets, naturalitat i exactitud abans d'aprovar-les.
+3. Recuperar registres antics només després d'avaluar-los de nou amb aquest llindar. Cap aprovació anterior no es trasllada automàticament.
+4. Mesurar cobertura i duplicació sense convertir-les en quotes de redacció.
+5. Fer splits agrupant converses relacionades abans de repartir-les.
+6. Construir Language només amb parla humana elegible, sense fabricar respostes ni normalitzar la veu fins a esborrar-ne els trets.
+7. Validar formats, drets, duplicats, cobertura i exclusions abans d'exportar.
 
-## Acabament
+## Maia Language
 
-**Knowledge** queda llest quan el coneixement útil del corpus està cobert amb converses correctes, naturals, traçables i sense seguiments artificials, i els splits i informes passen els controls.
+Només pot aportar senyal lingüístic una peça que compleixi els criteris del corpus (`veu: originaria`, `epoca: contemporania`, `apte_llengua: true`) i la revisió de drets aplicable. Cal escoltar o verificar directament els fragments i excloure els trams incerts. No convertir monòlegs en diàlegs inventats ni omplir el conjunt amb imitacions generades.
 
-**Language** queda llest quan s'han revisat les fonts elegibles, només s'hi inclou parla humana prou fiable, es preserva la veu de les persones i els splits eviten filtracions entre fragments relacionats.
+## Definició d'acabament
+
+- **Knowledge:** el coneixement útil està cobert per converses correctes, naturals i traçables; els drets estan resolts; els splits i informes passen els controls.
+- **Language:** s'han revisat les peces elegibles; només s'hi inclou parla fiable i autoritzada; es preserva la veu humana; els splits eviten filtracions entre fragments relacionats.

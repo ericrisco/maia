@@ -1,32 +1,5 @@
 # Maia Language
 
-Flux separat per preservar català andorrà contemporani produït per persones a
-`docs/parla/`. Només s'hi incorporarà material elegible amb drets i fiabilitat
-de transcripció revisats. No s'hi generaran respostes artificials.
+Flux separat per preservar el català andorrà contemporani a partir de parla humana real de `docs/parla/`. Només s'hi inclouran peces amb elegibilitat lingüística, drets i consentiment resolts, i fragments revisats contra l'àudio.
 
-Quan la font sigui una entrevista dialogada, l'exemple conservarà el fil de
-diversos torns humans i els referents del context. No s'inventaran preguntes
-d'usuari per convertir un monòleg en una conversa ni per fer que el format sigui
-multitorn. Si una peça no conté una seqüència humana de diversos torns, queda
-fora de l'export de converses de Language; la seva elegibilitat lingüística es
-pot registrar per separat.
-
-## Inventari i estat actual
-
-Genera l'inventari de peces i comprova les metadades i les fonts amb:
-
-```bash
-python3 training-data/language/scripts/build_language_inventory.py --check
-```
-
-L'informe és a `reports/eligibility-status.md`; l'inventari detallat, a
-`work/source-inventory.json`. Aquests fitxers no copien les transcripcions ni
-aproven automàticament cap fragment.
-
-En la revisió del 7 d'octubre de 2026 hi ha 40 peces amb `type: parla`. Cap no
-està llesta per exportar: 27 entrevistes del Consell General tenen drets de
-redistribució pendents; 8 peces d'AR+I necessiten comprovació de llicència per
-vídeo; i 3 peces d'AR+I tenen llicència CC BY identificada per peça, però la
-transcripció continua sense verificar contra l'àudio. Dues peces no estan
-marcades com a mostra de llengua. El consentiment i la llicència de
-redistribució es revisen per separat.
+No es fabriquen preguntes o respostes per imitar parlants, no s'inventa conversa a partir d'un monòleg i no es corregeix la transcripció fins a esborrar-ne la veu. Aquesta fase només crea l'estructura; encara no hi ha mostres ni exports.

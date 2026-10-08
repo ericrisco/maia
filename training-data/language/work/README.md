@@ -1,4 +1,3 @@
-# Work de Language
+# Treball intermedi de Language
 
-Reserva per a l'inventari de peces de `docs/parla/` i les decisions d'elegibilitat.
-Agrupa les dades per peça o parlant per evitar filtracions entre splits.
+Espai per a inventaris regenerables de peces i fragments lingüístics. Les dades sensibles o les fonts no autoritzades no s'hi copien.

@@ -1,4 +1,3 @@
-# Exports de Knowledge
+# Exportacions de Knowledge
 
-Els splits train, validation i test es crearan aquí només després de revisar
-cobertura, drets, deduplicació i separació entre splits. No hi ha exports encara.
+Encara no hi ha cap export d'entrenament. Quan n'hi hagi, cada línia serà una conversa JSONL i contindrà només `messages`; no s'hi copiaran notes de revisió ni fonts no autoritzades.
