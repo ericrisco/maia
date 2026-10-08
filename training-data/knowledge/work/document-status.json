@@ -1415,12 +1415,23 @@
       "title": "A Andorra sí que hi havia impost, i era sobre la renda",
       "type": "article",
       "topic": "temes/economia/banca-i-fiscalitat",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 98,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/economia/banca-i-fiscalitat/a-andorra-si-que-hi-havia-impost.md#unit-0003",
+        "docs/temes/economia/banca-i-fiscalitat/a-andorra-si-que-hi-havia-impost.md#unit-0005",
+        "docs/temes/economia/banca-i-fiscalitat/a-andorra-si-que-hi-havia-impost.md#unit-0006",
+        "docs/temes/economia/banca-i-fiscalitat/a-andorra-si-que-hi-havia-impost.md#unit-0007",
+        "docs/temes/economia/banca-i-fiscalitat/a-andorra-si-que-hi-havia-impost.md#unit-0008",
+        "docs/temes/economia/banca-i-fiscalitat/a-andorra-si-que-hi-havia-impost.md#unit-0009",
+        "docs/temes/economia/banca-i-fiscalitat/a-andorra-si-que-hi-havia-impost.md#unit-0010",
+        "docs/temes/economia/banca-i-fiscalitat/a-andorra-si-que-hi-havia-impost.md#unit-0011"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 98,
-      "conversation_ids": []
+      "open_unit_count": 90,
+      "conversation_ids": [
+        "questia-impost-renda-i-tribut-cosenyors-1904-001"
+      ]
     },
     "docs/temes/economia/banca-i-fiscalitat/ab-propris-diners-y-per-son-propri-us.md": {
       "title": "Ab propris diners y per son propri us",
