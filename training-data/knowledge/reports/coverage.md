@@ -4,9 +4,9 @@ Informe regenerable a partir de l'inventari, `conversations.jsonl` i `records.js
 
 - Documents Markdown inventariats: **1477**.
 - Articles del brain: **1348**.
-- Converses de revisió amb registre: **28**.
+- Converses de revisió amb registre: **29**.
 - Articles citats per almenys una conversa: **4**.
-- Unitats estructurals enllaçades explícitament amb `unit_ids`: **77**.
+- Unitats estructurals enllaçades explícitament amb `unit_ids`: **78**.
 
 > La cobertura d'un article només indica que hi ha una conversa que el cita. No implica que tot el document, tema o coneixement estigui cobert. Les unitats sense enllaç explícit no es compten.
 
@@ -79,7 +79,7 @@ Informe regenerable a partir de l'inventari, `conversations.jsonl` i `records.js
 | `temes/historia/segle-xix` | 29 | 0 | 0 |
 | `temes/historia/segle-xx-primera-meitat` | 30 | 0 | 0 |
 | `temes/institucions/comuns-i-parroquies` | 35 | 0 | 0 |
-| `temes/institucions/consell-general` | 84 | 1 | 4 |
+| `temes/institucions/consell-general` | 84 | 1 | 5 |
 | `temes/institucions/coprincipat` | 33 | 0 | 0 |
 | `temes/institucions/govern` | 8 | 0 | 0 |
 | `temes/institucions/justicia` | 138 | 0 | 0 |
