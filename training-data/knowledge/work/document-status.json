@@ -1874,6 +1874,7 @@
         "docs/temes/economia/comerc/amb-qui-comercia-andorra.md#unit-0010",
         "docs/temes/economia/comerc/amb-qui-comercia-andorra.md#unit-0012",
         "docs/temes/economia/comerc/amb-qui-comercia-andorra.md#unit-0014",
+        "docs/temes/economia/comerc/amb-qui-comercia-andorra.md#unit-0016",
         "docs/temes/economia/comerc/amb-qui-comercia-andorra.md#unit-0017",
         "docs/temes/economia/comerc/amb-qui-comercia-andorra.md#unit-0019",
         "docs/temes/economia/comerc/amb-qui-comercia-andorra.md#unit-0024",
@@ -1887,14 +1888,17 @@
         "docs/temes/economia/comerc/amb-qui-comercia-andorra.md#unit-0075",
         "docs/temes/economia/comerc/amb-qui-comercia-andorra.md#unit-0076",
         "docs/temes/economia/comerc/amb-qui-comercia-andorra.md#unit-0078",
-        "docs/temes/economia/comerc/amb-qui-comercia-andorra.md#unit-0079"
+        "docs/temes/economia/comerc/amb-qui-comercia-andorra.md#unit-0079",
+        "docs/temes/economia/comerc/amb-qui-comercia-andorra.md#unit-0080",
+        "docs/temes/economia/comerc/amb-qui-comercia-andorra.md#unit-0081"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 79,
+      "open_unit_count": 76,
       "conversation_ids": [
         "comerc-exportacions-destins-1997-2025-001",
         "comerc-importacions-exportacions-i-pic-2022-001",
-        "comerc-pic-importacio-tabac-1997-001"
+        "comerc-pic-importacio-tabac-1997-001",
+        "comerc-zeros-exportacio-abans-1997-001"
       ]
     },
     "docs/temes/economia/comerc/blat-cerdanya-parroquies-1904.md": {
