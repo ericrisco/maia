@@ -70,9 +70,12 @@ No convertim monòlegs o transcripcions en preguntes i respostes inventades. Inc
 
 1. Calibrar preguntes i respostes amb `knowledge/examples/`.
 2. Revisar amb l’usuari el criteri i els primers exemples.
-3. Crear converses Knowledge tema a tema, amb procedència separada i un commit per conversa.
-4. Auditar les peces de Language per veu humana, transcripció i drets.
-5. Deduplicar, revisar cobertura i preparar splits per document o parlant.
-6. Generar i validar els exports d’entrenament.
+3. Revisar cada document de `docs/temes/` i cada unitat d’informació útil; registrar si queda coberta, parcial o exclosa, amb el motiu.
+4. Crear converses Knowledge tema a tema, amb procedència separada i un commit per conversa.
+5. Auditar les peces de Language per veu humana, transcripció i drets.
+6. Deduplicar, revisar cobertura i preparar splits per document o parlant.
+7. Generar i validar els exports d’entrenament.
 
-Ara mateix només s’ha completat l’etapa 1. Els fitxers de revisió i d’export són buits.
+L’inventari inicial té 1.477 fitxers a `docs/temes/` i 45 a `docs/parla/`, inclosos els índexs. Tots estan pendents de revisió; els índexs també rebran una decisió explícita, encara que no siguin material d’entrenament.
+
+La cua de Knowledge creix amb converses revisades. Els exports són buits fins que hi hagi dades aprovades.
