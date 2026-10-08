@@ -3013,13 +3013,16 @@
       "status": "in_progress",
       "unit_count": 236,
       "covered_unit_ids": [
+        "docs/temes/esports/competicio/andorra-als-jocs-olimpics.md#unit-0003",
+        "docs/temes/esports/competicio/andorra-als-jocs-olimpics.md#unit-0004",
         "docs/temes/esports/competicio/andorra-als-jocs-olimpics.md#unit-0005",
         "docs/temes/esports/competicio/andorra-als-jocs-olimpics.md#unit-0007",
         "docs/temes/esports/competicio/andorra-als-jocs-olimpics.md#unit-0051"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 233,
+      "open_unit_count": 231,
       "conversation_ids": [
+        "andorra-debut-olimpic-estiu-hivern-continuat-001",
         "andorra-medalla-olimpica-monica-doria-001"
       ]
     },
