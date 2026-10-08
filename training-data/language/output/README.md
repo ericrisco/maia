@@ -1,3 +1,3 @@
-# Exportacions de Language
+# Exports de Maia Language
 
-Encara no hi ha cap export. Cada futura partició haurà d'evitar separar fragments relacionats de la mateixa peça o parlant entre train, validation i test.
+Només hi haurà exports quan fragments humans reals hagin passat la revisió de drets, consentiment i transcripció.

@@ -1,3 +1,3 @@
-# Treball intermedi de Language
+# Treball de Maia Language
 
-Espai per a inventaris regenerables de peces i fragments lingüístics. Les dades sensibles o les fonts no autoritzades no s'hi copien.
+Inventaris regenerables de peces, permisos i fragments revisats. No s'hi generen imitacions de parla.

@@ -1,3 +1,3 @@
-# Eines de Language
+# Eines de Maia Language
 
-Espai reservat per a eines d'extracció i validació de fragments. No hi ha cap generador de diàlegs sintètics.
+Els scripts d'extracció i validació s'afegiran quan estigui definida la política de selecció de fragments autèntics i autoritzats.

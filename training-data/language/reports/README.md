@@ -1,3 +1,3 @@
-# Informes de Language
+# Informes de Maia Language
 
-Els informes futurs indicaran peces inspeccionades, fragments inclosos i exclosos, fiabilitat de transcripció i motius d'exclusió.
+Informes de peces examinades, incloses i excloses, fragments verificats, drets i riscos de filtració entre splits.

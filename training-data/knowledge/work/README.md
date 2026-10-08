@@ -1,3 +1,3 @@
-# Treball intermedi de Knowledge
+# Treball de Maia Knowledge
 
-Espai per a inventaris i fitxers regenerables del procés de Knowledge. `document-units.jsonl` és una vista de treball de `docs/temes/`, no una font d'entrenament. No s'hi guarden secrets ni còpies externes sense autorització.
+Inventaris i dades intermèdies regenerables. No s'hi desen exports finals ni dades de fonts sense comprovar-ne els drets.

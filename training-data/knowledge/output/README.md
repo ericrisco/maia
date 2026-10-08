@@ -1,3 +1,3 @@
-# Exportacions de Knowledge
+# Exports de Maia Knowledge
 
-Encara no hi ha cap export d'entrenament. Quan n'hi hagi, cada línia serà una conversa JSONL i contindrà només `messages`; no s'hi copiaran notes de revisió ni fonts no autoritzades.
+Els exports d'entrenament només s'afegiran quan els registres hagin passat la revisió de contingut i drets i hi hagi una estratègia de partició sense filtracions. Els exemples de `review/` no són exports.

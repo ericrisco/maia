@@ -1,3 +1,3 @@
-# Revisió de Language
+# Revisió de Maia Language
 
-Espai futur per documentar l'àudio, els drets i el consentiment, la verificació de cada fragment, les incerteses i les decisions d'inclusió o exclusió. No s'hi afegeixen mostres fins que es puguin escoltar i verificar directament.
+Inventari de peces candidates, permisos, consentiments i decisions sobre la fiabilitat de cada transcripció. Els criteris de frontmatter no substitueixen aquesta revisió.

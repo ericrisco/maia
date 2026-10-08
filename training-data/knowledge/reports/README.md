@@ -1,3 +1,3 @@
-# Informes de Knowledge
+# Informes de Maia Knowledge
 
-Els informes futurs descriuran cobertura, qualitat, duplicats, fonts excloses i motius d'exclusió. No es publicarà una xifra de cobertura sense una regla explícita sobre què compta com a coneixement cobert.
+Aquí es publicaran informes regenerables de cobertura, qualitat, drets i duplicació. Les mètriques serveixen per localitzar mancances; no substitueixen la revisió dels diàlegs.
