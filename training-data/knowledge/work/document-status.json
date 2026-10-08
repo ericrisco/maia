@@ -7999,6 +7999,7 @@
       "status": "in_progress",
       "unit_count": 69,
       "covered_unit_ids": [
+        "docs/temes/historia/segle-xix/deu-lliures-per-testar.md#unit-0001",
         "docs/temes/historia/segle-xix/deu-lliures-per-testar.md#unit-0010",
         "docs/temes/historia/segle-xix/deu-lliures-per-testar.md#unit-0012",
         "docs/temes/historia/segle-xix/deu-lliures-per-testar.md#unit-0013",
@@ -8010,12 +8011,16 @@
         "docs/temes/historia/segle-xix/deu-lliures-per-testar.md#unit-0026",
         "docs/temes/historia/segle-xix/deu-lliures-per-testar.md#unit-0027",
         "docs/temes/historia/segle-xix/deu-lliures-per-testar.md#unit-0028",
-        "docs/temes/historia/segle-xix/deu-lliures-per-testar.md#unit-0029"
+        "docs/temes/historia/segle-xix/deu-lliures-per-testar.md#unit-0029",
+        "docs/temes/historia/segle-xix/deu-lliures-per-testar.md#unit-0040",
+        "docs/temes/historia/segle-xix/deu-lliures-per-testar.md#unit-0041",
+        "docs/temes/historia/segle-xix/deu-lliures-per-testar.md#unit-0051"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 57,
+      "open_unit_count": 53,
       "conversation_ids": [
         "donacio-conjuges-bens-inclosos-i-exclosos-001",
+        "donacio-conjuges-identitat-i-data-001",
         "donacio-conjuges-irrevocabilitat-001",
         "donacio-conjuges-reserva-testar-deu-lliures-001"
       ]
