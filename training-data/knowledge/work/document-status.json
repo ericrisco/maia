@@ -2285,12 +2285,19 @@
       "title": "Producció de tabac a Andorra, 1973–2025",
       "type": "article",
       "topic": "temes/economia/tabac",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 54,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/economia/tabac/quant-tabac-es-cull-avui.md#unit-0001",
+        "docs/temes/economia/tabac/quant-tabac-es-cull-avui.md#unit-0007",
+        "docs/temes/economia/tabac/quant-tabac-es-cull-avui.md#unit-0015",
+        "docs/temes/economia/tabac/quant-tabac-es-cull-avui.md#unit-0018"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 54,
-      "conversation_ids": []
+      "open_unit_count": 50,
+      "conversation_ids": [
+        "produccio-tabac-repunt-2025-i-maxim-historic-001"
+      ]
     },
     "docs/temes/economia/tabac/tabac-index-de-fitxes.md": {
       "title": "Tabac — índex de fitxes",
