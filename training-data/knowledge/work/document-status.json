@@ -13726,14 +13726,16 @@
         "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0023",
         "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0024",
         "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0025",
-        "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0026"
+        "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0026",
+        "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0027"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 51,
+      "open_unit_count": 50,
       "conversation_ids": [
         "dret-vot-nacionalitat-parroquia-residencia-origen-001",
         "empat-eleccions-parroquials-consell-general-001",
         "llistes-electorals-comuns-actualitzacio-semestral-001",
+        "privacio-dret-sufragi-sentencia-ferma-001",
         "repartiment-escons-consell-general-resta-mes-elevada-001",
         "vot-llista-completa-preferencies-candidats-001"
       ]
