@@ -1,25 +1,22 @@
 # Maia Training Data
 
-Aquest espai prepara dos datasets separats a partir del corpus de Maia:
+Aquest directori prepara dos recursos separats a partir del corpus de Maia:
 
-- **Maia Knowledge**: converses per respondre preguntes sobre Andorra, a partir de `docs/temes/`.
-- **Maia Language**: senyal lingüístic humà contemporani, a partir de `docs/parla/`; no s'hi inventen veus ni respostes.
+- **Knowledge** ensenya a respondre preguntes reals sobre Andorra amb fets verificables de `docs/temes/`.
+- **Language** conserva trets de català andorrà contemporani a partir de parla humana de `docs/parla/`.
 
-## Estat actual
+## Punt de partida
 
-Hem reiniciat la calibració perquè les preguntes anteriors sonaven com consultes sobre fitxes i taules. `knowledge/examples/` conté quatre converses noves per revisar naturalitat i seguiments. Són exemples editorials, no exports d'entrenament. No hi ha fitxers finals ni particions train/validation/test.
+Ara només hi ha una guia de redacció i quatre converses de calibratge de Knowledge. Serveixen per acordar el to. No són dades aprovades ni es poden exportar per entrenar. No hi ha cap dataset final ni cap split.
 
-Les fonts, drets i notes de revisió van en fitxers separats dels missatges. Una font amb drets pendents no es pot exportar.
+## Estructura
 
-## Mapa
+- `PLAN.md`: com redactar, revisar i ampliar les converses.
+- `knowledge/examples/`: mostres de calibratge i procedència separada.
+- `knowledge/review/`: criteris per acceptar o rebutjar registres futurs.
+- `knowledge/work/`: inventari i seguiment de cobertura, quan reprenguem la producció.
+- `knowledge/output/`: reservat per a exports aprovats.
+- `language/work/`: inventari d'enregistraments i elegibilitat.
+- `language/output/`: reservat per a fragments humans aprovats.
 
-- `PLAN.md`: criteris de conversa i fases del projecte.
-- `scripts/`: lector i inventari del corpus.
-- `knowledge/examples/`: converses de calibració i procedència.
-- `knowledge/review/`: converses candidates, criteris editorials i procedència abans d'aprovació.
-- `knowledge/work/`: cobertura i estat de revisió de les fitxes.
-- `knowledge/output/`: reservat per als exports aprovats.
-- `language/work/`: inventari i estat d'elegibilitat de les peces de parla.
-- `language/output/`: reservat per als fragments elegibles i els splits.
-
-Knowledge i Language no es barregen. Vegeu els README de cada àrea i el [pla de conversa](PLAN.md) abans d'afegir registres.
+Les mostres actuals es poden llegir sense obrir cap fitxa. Els seus fets i límits, en canvi, sí que s'han de comprovar a les fonts indicades a `knowledge/examples/provenance.jsonl`.

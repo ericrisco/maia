@@ -1,63 +1,57 @@
-# Pla de treball: converses que sonen humanes
+# Pla per crear converses que faria una persona
 
-## Objectiu immediat
+## Què va fallar
 
-Crear els datasets complets de Knowledge i Language, tema a tema i amb cobertura auditable. Els exemples de `knowledge/examples/` defineixen el patró editorial; els registres nous s'escriuen a `knowledge/review/` i no es consideren exports fins que passin la revisió de qualitat i drets.
+Les mostres rebutjades parlaven de les fitxes, no del tema. «Què explica aquesta secció?» i «Què indica aquesta fila?» són ordres de lectura per a qui ja té un document al davant. Una persona curiosa preguntaria pel fet: qui podia demandar un cònsol, com funcionava un dret de pastura o per què dues xifres no coincideixen.
 
-## El problema que corregim
+Algunes respostes també començaven a mig pensament —«I dos topònims que en surten»— o deixaven el context clau fora. El seguiment ha de néixer del que acaba de dir l'assistent, i la resposta ha de resoldre el dubte sencer.
 
-Preguntes com «Què explica aquesta secció?» o «Què indica aquesta fila?» només tenen sentit davant d'una fitxa. Una persona normal preguntaria pel fet que li ha despertat curiositat. Les respostes tallades o en forma de notes tampoc resolen el dubte. Això fa que el model aprengui a parlar del corpus en lloc de parlar del tema.
+## Regla de redacció
 
-## Com ha de sonar una conversa
+Escriu una conversa que pugui començar sense que ningú hagi llegit el corpus.
 
-- La primera pregunta expressa una curiositat recognoscible i conté prou context per entendre-la sense veure la font.
-- L'assistent contesta de seguida, amb català natural i una resposta completa. Després afegeix només el context que ajuda.
-- La repregunta surt del que s'acaba de dir: demana aclarir un terme, entendre una conseqüència, comprovar una suposició o saber què passa després.
-- L'assistent aprofita el context dels torns previs. No reinicia l'explicació ni canvia de tema sense motiu.
-- Cada conversa de calibració té com a mínim dues preguntes de l'usuari. No afegirem torns només per allargar-la; si no hi ha una continuació natural, el registre no és multitorn i no s'inclou en aquesta tanda.
-- La resposta distingeix fets documentats, relats tradicionals, interpretacions i allò que no se sap. No omple buits amb intuïcions.
-- Els missatges no mencionen fitxes, seccions, taules, corpus, IDs ni el procés de recerca. La procedència es desa en un fitxer separat.
-- Cal llegir la conversa en veu alta. Si sembla un examen, una consulta a una base de dades o una resposta escrita per resumir un document, es reescriu.
+1. **Comença per una curiositat concreta.** Pot partir d'una sorpresa, un rumor, una contradicció o una cosa que la persona ha vist. No facis servir el títol, els apartats o les taules com a motiu de la pregunta.
+2. **Dona prou context al primer missatge.** Ha de quedar clar de quin lloc, període o fet es parla.
+3. **Contesta de seguida.** La primera frase resol la pregunta. Després afegeix només el context que l'ajuda a entendre-la.
+4. **Fes seguiments que surtin del diàleg.** La persona pot aclarir una paraula, comprovar què ha entès, preguntar per una conseqüència o demanar què se sap d'un límit.
+5. **Mantén el fil.** No tornis a començar l'explicació sencera ni canviïs de tema perquè queda una dada per cobrir.
+6. **No inventis el torn que falta.** Si la font no dona un motiu, una data o una resposta, digues-ho amb claredat.
+7. **Distingeix el tipus d'afirmació.** Una llegenda és un relat; una interpretació s'atribueix; una dada actual porta any; una incertesa no es converteix en certesa.
+8. **Deixa fora la cuina interna.** Als missatges no hi entren fitxes, seccions, files, IDs, estats de revisió ni instruccions del pipeline. La procedència va separada.
 
-## Filtres editorials abans d'acceptar una mostra
+## Què vol dir multitorn
 
-1. **Pregunta humana:** algú podria dir-la en una conversa real, sense conèixer l'estructura de les notes?
-2. **Resposta suficient:** contesta allò que s'ha preguntat i no acaba amb un fragment penjat.
-3. **Seguiment lligat:** la pregunta següent depèn de la resposta anterior i hi aporta una curiositat nova.
-4. **Fidelitat:** cada afirmació es pot justificar amb una font identificada; els límits també es conserven.
-5. **Veu natural:** frases clares, concretes i sense to enciclopèdic automàtic.
-6. **Drets i procedència:** cap font entra a cap exportació fins que se n'hagin registrat la llicència i les condicions d'ús.
+Cada mostra de calibratge té almenys dues intervencions de l'usuari. El seguiment ha de ser plausible i aportar un dubte nou. No allarguis una conversa només per complir el nombre de torns. Si un tema no dona peu a un seguiment natural, busca un altre angle o no el facis servir en aquesta tanda.
 
-Una sola fallada en els quatre primers filtres rebutja o retorna el registre per corregir. La qualitat no es decideix per volum.
+## Prova de lectura cega
 
-## Preguntes que rebutgem
+Llegeix només els missatges, sense obrir la fitxa. La mostra falla si passa qualsevol d'aquestes coses:
 
-- «Què explica la fitxa/secció?»
-- «Què indica aquesta fila/taula?»
-- «Quins elements hi surten?» sense una curiositat concreta.
-- «I què més?» sense un antecedent clar.
-- Paraphrases consecutives de la mateixa pregunta.
-- Preguntes que pressuposen un fet que les fonts no confirmen.
-- Preguntes sobre una data o un horari actual sense indicar-ne l'any.
+- la primera pregunta no s'entén fora d'un document;
+- sona com un examen o una consulta a una base de dades;
+- l'assistent tarda a respondre el que li han preguntat;
+- una resposta queda en forma de nota, títol o fragment;
+- una repregunta podria haver-se escrit sense llegir la resposta anterior;
+- la conversa fa passar una llegenda, hipòtesi o dada discutida per un fet segur.
 
-## Fases del projecte
+Després de la lectura cega, comprova cada afirmació amb les fonts. Registra també què no permet concloure la font.
 
-1. **Aplicar la calibració.** Fer servir les mostres de `knowledge/examples/` i els criteris de `knowledge/review/EXEMPLES.md` com a patró. Ajustar-los quan la revisió dels registres aporti evidència, sense interrompre la cobertura.
-2. **Reconstruir l'inventari.** Processar tots els Markdown de `docs/temes/` i `docs/parla/`, mantenint els objectius separats. Preservar frontmatter, ordre, títols, paràgrafs, llistes, taules, files, enllaços, correccions, divergències i buits. Comptar errors i elements llegits.
-3. **Extreure coneixement amb traça.** Per cada tema, registrar internament els fets, matisos i buits que podrien respondre una pregunta. No exposar aquesta estructura interna als missatges.
-4. **Escriure converses Knowledge.** Crear converses naturals, majoritàriament multitorn, quan hi hagi una curiositat i un seguiment justificats. Incloure temes, preguntes contextuals, comparacions i límits del coneixement quan les fonts ho permetin.
-5. **Revisar i cobrir.** Vincular cada conversa a la procedència; comprovar exactitud, naturalitat, cobertura, redundància i drets. Registrar també els motius d'exclusió.
-6. **Preparar exports Knowledge.** Exportar només registres aprovats i fonts elegibles. Deduplicar i separar train/validation/test per tema o font perquè converses semblants no acabin en particions diferents.
-7. **Construir Language per separat.** Revisar les peces de `docs/parla/`; admetre només veu originària, contemporània i marcada `apte_llengua: true`. Filtrar transcripcions incertes i registrar drets.
-8. **Preservar la parla humana.** Convertir a format chat només els fragments amb estructura conversacional. Mantenir lèxic i sintaxi; no inventar respostes ni imitar una veu andorrana.
-9. **Validar i documentar.** Validar JSONL, rols, buits, duplicats, procedència, cobertura i separació de particions. Informar inclusions, exclusions i límits.
+## Separació dels dos datasets
 
-Cada fase funcional es revisa i valida abans del seu commit i push, segons l'objectiu del projecte. Els exemples de calibració no s'exporten automàticament.
+**Knowledge** parteix de `docs/temes/`. Les converses són redacció nova, però els fets només poden venir del corpus. Només es podran exportar quan passin la revisió de qualitat i drets.
 
-## Format dels missatges
+**Language** parteix de `docs/parla/`. Les respostes han de provenir de persones reals i elegibles. No s'inventen converses perquè “sonin andorranes” ni s'utilitzen mostres Knowledge com a senyal lingüístic.
 
-Una línia JSONL per conversa, amb només `messages` i els rols `user` / `assistant`. La procedència, els drets i les notes de revisió van separats.
+## Fases
 
-## Següent pas
+1. Acordar el to amb `knowledge/examples/conversations.jsonl`.
+2. Ajustar la guia segons les observacions sobre aquestes mostres.
+3. Afegir converses en lots petits; revisar-les abans d'ampliar el volum.
+4. Vincular cada conversa a fonts i drets a `knowledge/examples/provenance.jsonl` o al registre de procedència de revisió.
+5. Registrar cobertura, duplicats i exclusions a `knowledge/work/`.
+6. Exportar només registres aprovats; separar train, validation i test per tema o font.
+7. Tractar Language en una fase independent, amb els controls d'origen i transcripció.
 
-Treballar la primera fitxa pendent amb una pregunta humana i un seguiment motivat. Per cada conversa: revisar-ne les fonts, afegir procedència, actualitzar la cobertura, validar, fer commit i push abans de passar a la següent.
+## Format de calibratge
+
+Una línia JSONL per conversa. El contingut inclou només els missatges `user` i `assistant`. La procedència és un fitxer separat. Les mostres són referències editorials i no passen automàticament a cap export.

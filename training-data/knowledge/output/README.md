@@ -1,3 +1,3 @@
-# Exports de Knowledge
+# Exports Knowledge
 
-Encara no hi ha exports entrenables. Els fitxers train/validation/test només es generaran després de revisar converses, cobertura, duplicats i drets de totes les fonts incloses.
+Aquest directori és buit a propòsit. Només hi entraran converses revisades, deduplicades i amb drets elegibles. Els splits es faran per tema o font per evitar que reformulacions d'una mateixa conversa apareguin en particions diferents.

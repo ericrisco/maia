@@ -1,3 +1,3 @@
-# Exports de Language
+# Exports Language
 
-Encara no hi ha exports entrenables. Els splits futurs s'agruparan per peça o parlant per reduir filtracions entre train, validation i test.
+Buit fins que les peces elegibles de parla humana hagin passat la revisió. Els fragments consecutius d'una mateixa entrevista s'han de mantenir junts en separar train, validation i test.

@@ -1,7 +1,7 @@
 # Maia Language
 
-Àrea reservada a fragments de parla humana de `maia/docs/parla/`. No es generen respostes sintètiques per imitar el català andorrà.
+Aquest dataset ensenya patrons del català andorrà contemporani a partir de parla humana de `docs/parla/`. No és un dataset de coneixement sobre Andorra.
 
-L’estat actual per peça és a [`reports/eligibility-status.md`](reports/eligibility-status.md).
+Només s'hi admet material amb origen humà, època contemporània i `apte_llengua: true`, després de revisar transcripció, fragment, consentiment i condicions d'ús. Les respostes no s'inventen ni es generen per imitar una veu local.
 
-Abans d'incloure cap peça, cal revisar l'autenticitat, la transcripció, les persones que hi parlen i les condicions d'ús. Les mostres d'aquesta àrea han de conservar la parla original, amb canvis mínims i documentats.
+`work/` guardarà l'inventari i les decisions d'elegibilitat. `output/` continuarà buit fins que els fragments passin la revisió i els drets permetin l'ús.

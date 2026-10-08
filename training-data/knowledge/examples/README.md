@@ -1,13 +1,5 @@
-# Mostres de calibració Knowledge
+# Exemples de calibratge
 
-Aquestes quatre converses són mostres per revisar el to, la resposta directa i els seguiments multitorn. No són registres aprovats ni exports d'entrenament.
+Les quatre converses de `conversations.jsonl` mostren preguntes inicials comprensibles sense la font, respostes directes i seguiments lligats al torn anterior. Llegeix-les en veu alta i sense obrir les fitxes.
 
-En llegir-les, comprova:
-
-- si la pregunta inicial sona com una curiositat real i s'entén sense obrir cap document;
-- si cada resposta resol la pregunta amb naturalitat;
-- si la repregunta neix del torn anterior;
-- si l'assistent manté el context i no barreja relat, interpretació i fet;
-- si la conversa evita parlar de fitxes, taules o del procés intern.
-
-La procedència és a `provenance.jsonl`. Tots els drets continuen pendents d'aprovació. A més, les fonts de les mostres sobre la Passa, Meritxell i caramelles remeten a «premsa andorrana» sense identificar l'article; aquestes dades s'han de verificar abans de qualsevol ús final.
+Són exemples editorials, no registres aprovats. La traçabilitat i els límits de cada mostra consten a `provenance.jsonl`.

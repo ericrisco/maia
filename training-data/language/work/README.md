@@ -1,3 +1,3 @@
-# Feina de Language
+# Language work
 
-`coverage.csv` enumera totes les peces Markdown de `docs/parla/`. Totes comencen amb estat `pending-review`; cap peça queda aprovada automàticament. Cal revisar autenticitat, transcripció, drets i fragments elegibles abans d'incloure-la.
+Inventari futur de peces de `docs/parla/`, amb origen, parlant si consta, estat de transcripció, criteri d'elegibilitat i motiu d'exclusió. No barregis aquesta feina amb el coneixement de `docs/temes/`.
