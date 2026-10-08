@@ -4,9 +4,9 @@ Informe regenerable a partir de l'inventari, `conversations.jsonl` i `records.js
 
 - Documents Markdown inventariats: **1477**.
 - Articles del brain: **1348**.
-- Converses de revisió amb registre: **45**.
+- Converses de revisió amb registre: **46**.
 - Articles citats per almenys una conversa: **13**.
-- Unitats estructurals enllaçades explícitament amb `unit_ids`: **178**.
+- Unitats estructurals enllaçades explícitament amb `unit_ids`: **180**.
 
 > La cobertura d'un article només indica que hi ha una conversa que el cita. No implica que tot el document, tema o coneixement estigui cobert. Les unitats sense enllaç explícit no es compten.
 
@@ -117,7 +117,7 @@ Informe regenerable a partir de l'inventari, `conversations.jsonl` i `records.js
 | `temes/societat/immigracio` | 19 | 0 | 0 |
 | `temes/societat/mitjans` | 5 | 0 | 0 |
 | `temes/societat/proteccio-social` | 4 | 0 | 0 |
-| `temes/societat/sanitat` | 19 | 1 | 1 |
+| `temes/societat/sanitat` | 19 | 1 | 2 |
 | `temes/societat/treball` | 18 | 1 | 1 |
 | `temes/societat/vida-civica` | 8 | 0 | 0 |
 | `temes/territori/clima-i-muntanya` | 14 | 0 | 0 |
