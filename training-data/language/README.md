@@ -5,7 +5,8 @@ Flux separat per aprendre llengua andorrana contemporània a partir de parla hum
 Només es poden revisar fragments que compleixin `veu: originaria`, `epoca: contemporania` i `apte_llengua: true`, amb transcripció fiable i procedència registrada. Cal preservar lèxic, sintaxi i expressió amb normalització mínima i documentada.
 
 - `review/`: fragments humans candidats pendents de validació.
-- `work/`: elegibilitat, qualitat de transcripció i cobertura.
+- `work/coverage.csv`: inventari dels fitxers de `docs/parla/` i elegibilitat inicial.
+- `work/`: verificació de transcripció, fonts i cobertura de fragments.
 - `output/`: exports aprovats, sense barrejar-los amb Maia Knowledge.
 - `reports/`: peces incloses i exclusions, amb els motius.
 

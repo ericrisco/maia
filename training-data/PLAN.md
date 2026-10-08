@@ -20,7 +20,7 @@ No cal que cada pregunta sigui original o dramàtica. Una pregunta breu i quotid
 4. Afegeix un seguiment quan sigui creïble que la resposta provoqui una altra pregunta. El seguiment ha d'aportar una dada o aclariment nou.
 5. Tanca quan la necessitat queda resolta. No allarguis el diàleg per assolir una quota de torns.
 
-El conjunt ha d'ensenyar a mantenir converses de més d'un torn. Això no vol dir que cada registre hagi de ser multitorn: es conserva el torn únic quan és la forma més natural i útil.
+Cada conversa del conjunt serà multitorn: com a mínim dues preguntes de l'usuari i dues respostes. El seguiment ha de néixer de la resposta anterior; si no es pot trobar un seguiment natural, no es força una conversa només per omplir una quota: es reformula la necessitat inicial o no es crea el registre.
 
 ## Respostes i límits
 
@@ -47,13 +47,14 @@ Si falla una comprovació, reescriu o descarta el registre. No comptis-lo com a 
 
 ## Fases
 
-1. Fixar el criteri amb les mostres de `knowledge/examples/`.
-2. Revisar les mostres i ajustar només el que no soni natural o no sigui prou fidel.
-3. Afegir registres a `knowledge/review/` per blocs temàtics, amb procedència separada.
-4. Revisar naturalitat, correcció, duplicació i drets abans de passar-los a `knowledge/output/`.
-5. Mesurar cobertura per contingut útil, no pel nombre de preguntes.
-6. Començar Maia Language en un flux separat, només amb fragments humans elegibles i transcripcions fiables.
-7. Fer splits quan hi hagi prou registres, agrupant per tema o peça per evitar filtracions entre conjunts.
+1. Fixar i seguir el criteri de `knowledge/review/EXEMPLES.md`.
+2. Inventariar tots els fitxers de `docs/temes/` i `docs/parla/` a `work/coverage.csv`; no donar per cobert cap tema sense inspecció.
+3. Afegir les converses a `knowledge/review/conversations.jsonl`, tema a tema i una conversa per línia, amb procedència a `work/provenance.jsonl`.
+4. Cada conversa ha de tenir el seu propi commit i push a `main`, després de validar contingut, cobertura, procedència i estructura.
+5. Revisar naturalitat, correcció, duplicació, afirmacions omeses i drets abans de passar converses a `knowledge/output/`.
+6. Mesurar cobertura per fet i relació útil, no només per document o pel nombre de preguntes.
+7. Processar Maia Language separadament, només amb fragments humans elegibles i transcripcions fiables, i preservar el text original.
+8. Fer splits quan hi hagi prou registres, agrupant per tema o peça per evitar filtracions entre conjunts.
 
 ## Formats
 
@@ -63,4 +64,4 @@ Una línia JSONL és una conversa completa:
 {"messages":[{"role":"user","content":"..."},{"role":"assistant","content":"..."},{"role":"user","content":"..."},{"role":"assistant","content":"..."}]}
 ```
 
-Els exports aprovats contenen només `messages`. Les mostres de calibratge són internes i no s'exporten automàticament.
+Els exports aprovats contenen només `messages`. Les mostres de calibratge són internes i no s'exporten automàticament. La traçabilitat, els hashes de font i els estats de drets queden separats a `work/provenance.jsonl`.

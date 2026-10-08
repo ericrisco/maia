@@ -1,3 +1,3 @@
 # Informes de Maia Knowledge
 
-Encara no hi ha informes. Aquí es desaran els resultats de cobertura de contingut, duplicació, exclusions i revisió de qualitat.
+L'inventari inicial és a [`coverage.md`](coverage.md). Aquí s'actualitzaran la cobertura de contingut, la duplicació, les exclusions i els resultats de revisió de qualitat.

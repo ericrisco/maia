@@ -4,8 +4,9 @@ Ensenya fets, context i relacions sobre Andorra que estiguin documentats a `docs
 
 - `examples/conversations.jsonl`: mostres per acordar naturalitat, context i seguiments. Són només de calibratge.
 - `examples/provenance.jsonl`: fitxes del corpus que sostenen cada mostra i estat de revisió dels drets.
-- `review/`: registres nous pendents de validació, amb procedència interna separada.
-- `work/`: inventari i cobertura. No forma part dels missatges entrenables.
+- `review/conversations.jsonl`: registres nous pendents de validació, una conversa per línia.
+- `work/coverage.csv`: inventari de tots els documents de `docs/temes/` i estat de cobertura.
+- `work/provenance.jsonl`: fonts, hashes i estat de drets per conversa. No forma part dels missatges entrenables.
 - `output/`: converses aprovades, una per línia JSONL i només amb `messages`.
 - `reports/`: cobertura, duplicats, exclusions i decisions de revisió.
 

@@ -1,3 +1,3 @@
 # Informes de Maia Language
 
-Encara no hi ha informes. Aquí s'indicaran les peces revisades, incloses o excloses, la qualitat de transcripció i els motius.
+L'inventari inicial és a [`eligibility.md`](eligibility.md). Aquí s'actualitzaran les peces revisades, incloses o excloses, la qualitat de transcripció i els motius.
