@@ -4,9 +4,9 @@ Informe regenerable a partir de l'inventari, `conversations.jsonl` i `records.js
 
 - Documents Markdown inventariats: **1477**.
 - Articles del brain: **1348**.
-- Converses de revisió amb registre: **29**.
-- Articles citats per almenys una conversa: **8**.
-- Unitats estructurals enllaçades explícitament amb `unit_ids`: **116**.
+- Converses de revisió amb registre: **30**.
+- Articles citats per almenys una conversa: **9**.
+- Unitats estructurals enllaçades explícitament amb `unit_ids`: **122**.
 
 > La cobertura d'un article només indica que hi ha una conversa que el cita. No implica que tot el document, tema o coneixement estigui cobert. Les unitats sense enllaç explícit no es compten.
 
@@ -113,12 +113,12 @@ Informe regenerable a partir de l'inventari, `conversations.jsonl` i `records.js
 | `temes/societat/educacio` | 30 | 0 | 0 |
 | `temes/societat/esport` | 1 | 0 | 0 |
 | `temes/societat/familia` | 4 | 0 | 0 |
-| `temes/societat/habitatge` | 9 | 3 | 9 |
+| `temes/societat/habitatge` | 9 | 3 | 10 |
 | `temes/societat/immigracio` | 19 | 0 | 0 |
 | `temes/societat/mitjans` | 5 | 0 | 0 |
 | `temes/societat/proteccio-social` | 4 | 0 | 0 |
 | `temes/societat/sanitat` | 19 | 0 | 0 |
-| `temes/societat/treball` | 18 | 0 | 0 |
+| `temes/societat/treball` | 18 | 1 | 1 |
 | `temes/societat/vida-civica` | 8 | 0 | 0 |
 | `temes/territori/clima-i-muntanya` | 14 | 0 | 0 |
 | `temes/territori/fauna-i-flora` | 5 | 0 | 0 |
