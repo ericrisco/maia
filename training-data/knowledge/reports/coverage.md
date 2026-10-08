@@ -6,7 +6,7 @@ Informe regenerable a partir de l'inventari, `conversations.jsonl` i `records.js
 - Articles del brain: **1348**.
 - Converses de revisió amb registre: **39**.
 - Articles citats per almenys una conversa: **9**.
-- Unitats estructurals enllaçades explícitament amb `unit_ids`: **146**.
+- Unitats estructurals enllaçades explícitament amb `unit_ids`: **151**.
 
 > La cobertura d'un article només indica que hi ha una conversa que el cita. No implica que tot el document, tema o coneixement estigui cobert. Les unitats sense enllaç explícit no es compten.
 
