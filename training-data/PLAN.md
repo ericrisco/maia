@@ -65,4 +65,4 @@ Els identificadors, fonts, permisos i decisions editorials es guarden a `provena
 
 ## Següent pas
 
-Revisar les mostres de `knowledge/review/conversations.jsonl`. Quan l'estil quedi acordat, afegirem candidates en lots petits i revisables, amb procedència registrada per separat. No començarem encara l'extracció massiva ni generarem split.
+Aplicar la guia `knowledge/review/EXEMPLES.md` a cada conversa i afegir registres de manera incremental, un per commit i push. Per cada registre, comprovar primer contingut i drets de la font; desar les afirmacions i la procedència a `knowledge/review/provenance.jsonl`. Després avançar tema a tema, sense ometre unitats del corpus. Els splits només vindran quan hi hagi cobertura i revisió suficients.
