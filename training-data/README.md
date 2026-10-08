@@ -1,10 +1,20 @@
 # Maia Training Data
 
-Àrea de treball per preparar dos conjunts separats:
+Àrea de treball per preparar dos conjunts separats a partir del corpus actual:
 
-- **Maia Knowledge**: ensenyar coneixement sobre Andorra a partir de `docs/temes/` amb preguntes que una persona faria de debò.
-- **Maia Language**: conservar llengua humana autèntica de `docs/parla/`, sense inventar-hi preguntes ni respostes.
+- **Maia Knowledge**: converses en català que responen dubtes reals sobre Andorra amb fonts de `docs/temes/`.
+- **Maia Language**: mostra de català andorrà contemporani autèntic a partir de `docs/parla/`, sense imitar ni inventar veus.
 
-`knowledge/examples/` conté tres exemples de calibratge. No s’exporten. `knowledge/review/` conté candidats de treball que encara s’han de revisar amb el criteri actualitzat; no són dades aprovades. `knowledge/output/` és buit perquè encara no hi ha registres aprovats per contingut i drets. Per tant, encara no hi ha un dataset d’entrenament exportable.
+Les converses de Knowledge han de sonar com una petició d'ajuda normal. No poden parlar de seccions, files o fitxes. Consulta [PLAN.md](PLAN.md) i els quatre [exemples de calibratge](knowledge/examples/README.md) abans de crear registres.
 
-Consulta [PLAN.md](PLAN.md) per al mètode i [knowledge/review/EXEMPLES.md](knowledge/review/EXEMPLES.md) per veure quin tipus de conversa acceptem i quin descartem. Maia Language continua separat i té el seu propi inventari d’elegibilitat.
+## Estructura
+
+- `knowledge/examples/`: calibratge; exclòs de l'entrenament.
+- `knowledge/review/`: cua activa de candidats sense aprovar.
+- `knowledge/archive/`: esborranys antics, conservats però fora del flux actiu.
+- `knowledge/work/`: inventari, procedència i cobertura interna.
+- `knowledge/reports/`: qualitat, cobertura i exclusions.
+- `knowledge/output/`: exports aprovats; buit fins que hi hagi dades revisades i drets resolts.
+- `language/`: inventari i procés separat per a parla autèntica.
+
+Els candidats antics que hi havia a `knowledge/review/` s'han arxivat per tornar a començar la calibració. No són registres aprovats ni evidència de cobertura actual.

@@ -1,7 +1,7 @@
-# Treball de Knowledge
+# Inventari de Maia Knowledge
 
-`coverage.csv` conté els 1.477 fitxers Markdown de `docs/temes/`, inclosos 129 índexs. Cada fitxer ha de rebre una decisió; les fitxes d’article també necessiten desglossament de les afirmacions útils. `coverage-items.jsonl` registra les afirmacions ja identificades. Ara hi ha una fitxa parcial i la resta continua pendent.
+`coverage.csv` llista els 1.477 fitxers Markdown de `docs/temes/`, inclosos 129 índexs. L'estat de cobertura s'ha reiniciat: els registres de l'arxiu eren candidats sense aprovar i no compten com a coneixement representat al dataset.
 
-La procedència es preomple amb la font declarada al frontmatter i la fitxa de `docs/fonts/` quan existeix. Hi ha un article amb una font declarada que no té fitxa coincident: `docs/temes/persones/esteve-albert-i-corp.md`. Cal resoldre aquesta traçabilitat abans de revisar-ne les afirmacions.
+`coverage-items.jsonl` conserva afirmacions de proves anteriors. Els ítems marcats `superseded` són històrics i no s'han de tractar com a cobertura activa. Després d'aprovar converses amb el criteri actual, actualitza afirmacions i `conversation_ids`.
 
-Les conversations `knowledge-0001`–`knowledge-0020` són una primera prova arxivada i ja no compten com a cobertura activa. Les afirmacions que n’havien sortit es marquen `superseded` fins que es tornin a cobrir amb converses noves. La cua activa comença a `knowledge-0021`.
+La procedència es preomple a partir de les fonts declarades als documents quan hi ha una fitxa de font. Confirma cada atribució i condició de redistribució abans d'exportar.
