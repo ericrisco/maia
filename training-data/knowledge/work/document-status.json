@@ -8102,12 +8102,16 @@
       "title": "Guillem d'Areny-Plandolit",
       "type": "article",
       "topic": "temes/historia/segle-xix",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 15,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/historia/segle-xix/guillem-dareny-plandolit.md#unit-0004"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 15,
-      "conversation_ids": []
+      "open_unit_count": 14,
+      "conversation_ids": [
+        "nova-reforma-electorat-caps-familia-001"
+      ]
     },
     "docs/temes/historia/segle-xix/la-questio-dandorra.md": {
       "title": "La Qüestió d'Andorra",
