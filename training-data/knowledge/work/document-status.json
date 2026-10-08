@@ -7425,12 +7425,19 @@
       "title": "Dalmau, 1849: una república amb fundador carolingi",
       "type": "article",
       "topic": "temes/historia/historiografia",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 14,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/historia/historiografia/dalmau-1849-la-republica-i-la-fundacio-carolingia.md#unit-0001",
+        "docs/temes/historia/historiografia/dalmau-1849-la-republica-i-la-fundacio-carolingia.md#unit-0002",
+        "docs/temes/historia/historiografia/dalmau-1849-la-republica-i-la-fundacio-carolingia.md#unit-0005",
+        "docs/temes/historia/historiografia/dalmau-1849-la-republica-i-la-fundacio-carolingia.md#unit-0006"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 14,
-      "conversation_ids": []
+      "open_unit_count": 10,
+      "conversation_ids": [
+        "dalmau-1849-republica-i-dedicacio-al-bisbe-001"
+      ]
     },
     "docs/temes/historia/historiografia/el-cas-amades.md": {
       "title": "El cas Amades",
