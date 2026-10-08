@@ -974,10 +974,17 @@
       "topic": "temes/cultura/llegendes",
       "status": "in_progress",
       "unit_count": 30,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/cultura/llegendes/el-tamarro.md#unit-0001",
+        "docs/temes/cultura/llegendes/el-tamarro.md#unit-0002",
+        "docs/temes/cultura/llegendes/el-tamarro.md#unit-0003",
+        "docs/temes/cultura/llegendes/el-tamarro.md#unit-0004"
+      ],
       "excluded_unit_count": 19,
-      "open_unit_count": 11,
-      "conversation_ids": []
+      "open_unit_count": 7,
+      "conversation_ids": [
+        "tamarro-criatura-imaginaria-i-equivalents-001"
+      ]
     },
     "docs/temes/cultura/llegendes/la-bruixa-de-sornas.md": {
       "title": "La bruixa de Sornàs",
