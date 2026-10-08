@@ -13742,13 +13742,14 @@
         "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0036",
         "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0037",
         "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0038",
+        "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0039",
         "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0048",
         "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0049",
         "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0070",
         "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0071"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 32,
+      "open_unit_count": 31,
       "conversation_ids": [
         "consell-general-minim-maxim-constitucio-i-llei-001",
         "dret-vot-nacionalitat-parroquia-residencia-origen-001",
@@ -13757,6 +13758,7 @@
         "empat-eleccions-parroquials-consell-general-001",
         "llistes-electorals-comuns-actualitzacio-semestral-001",
         "privacio-dret-sufragi-sentencia-ferma-001",
+        "publicacio-resultats-consulta-parroquial-i-nacional-001",
         "quota-sexe-llistes-parroquials-i-nacionals-001",
         "referendum-reforma-constitucional-resultat-i-blancs-001",
         "referendums-consultiu-i-reforma-convocatoria-pregunta-data-001",
