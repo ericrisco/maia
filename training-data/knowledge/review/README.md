@@ -1,6 +1,6 @@
 # Cua de revisió de Maia Knowledge
 
-Les converses candidates actives són a `conversations.jsonl`; la línia corresponent de `provenance.jsonl` conserva fonts, afirmacions i estat dels drets. Les línies s'alineen pel `conversation_id` de procedència. Els candidats encara no són dades aprovades ni compten com a cobertura completa.
+Les converses candidates actives són a `conversations.jsonl`; la línia corresponent de `provenance.jsonl` conserva fonts, afirmacions i estat dels drets. Les línies dels dos fitxers s'alineen per ordre: cada registre de procedència porta el seu `conversation_id`. Els candidats encara no són dades aprovades ni compten com a cobertura completa.
 
 Revisa cada conversa des del dubte humà que planteja, sense consultar mentalment els títols o les seccions de la fitxa. La resposta ha de ser completa, directa i ajustada a la certesa de les fonts. Un seguiment només s'hi queda si neix naturalment de la resposta anterior.
 
