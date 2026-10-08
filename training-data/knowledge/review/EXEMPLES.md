@@ -1,41 +1,48 @@
-# Criteri per redactar converses de Maia Knowledge
+# Calibratge: preguntes que podria fer una persona
 
-## Pregunta pel tema, no pel document
+## El criteri en una frase
 
-La persona no coneix títols, seccions, taules ni fitxes. Busca entendre un fet, resoldre una confusió, comparar dues coses o comprovar què se sap.
+La pregunta ha de néixer d’un dubte sobre el tema; no de la manera com el corpus ha ordenat la informació. El seguiment només s’hi queda si la resposta anterior el provoca de manera natural.
 
-- Evita: «Què explica la secció “El relat”?»
-- Evita: «Què indica aquesta fila?»
-- Evita: «Què registra el corpus sobre la data?»
-- Pregunta: «Per què el santuari de Meritxell es va construir just en aquell lloc?»
-- Pregunta: «La imatge que es venera avui és l’original?»
+## Exemple bo: una confusió que es resol
 
-No disfressis una pregunta d’examen amb «m’han dit» o «m’he trobat». Fes servir aquest context només quan sigui una manera versemblant de plantejar el dubte.
+**Persona:** La imatge de Meritxell que hi ha ara és l’original?
 
-## Una conversa avança
+**Assistent:** No. La talla romànica original es va destruir en l’incendi del santuari la nit del 8 al 9 de setembre de 1972. La imatge que s’hi venera avui és una rèplica feta per l’escultor Sergi Mas.
 
-La resposta contesta la pregunta immediatament. El seguiment surt d’un detall que la resposta acaba d’introduir. Pot aclarir si una història és una llegenda, què vol dir una excepció o què queda sense demostrar.
+**Persona:** I el santuari nou, quan es va inaugurar?
 
-No afegeixis preguntes de farciment. No saltis a un fet nou sense connexió. Si només hi ha una pregunta natural, deixa la conversa en un torn.
+**Assistent:** Es va inaugurar el 1976. El va projectar l’arquitecte Ricard Bofill.
 
-## Escriu les respostes per a qui pregunta
+El seguiment continua el mateix fil: què es va reconstruir després de la pèrdua. No demana una altra dada a l’atzar.
 
-- Usa frases completes i noms clars.
-- Comença per la resposta; després dona el context necessari.
-- No copiïs trossos telegràfics de la font.
-- Distingeix fets, llegendes, interpretacions i hipòtesis.
-- Mantén les dates i les conclusions dins del que la font sosté.
-- Digues què no se sap quan és rellevant, sense convertir-ho en una certesa negativa.
-- No incloguis IDs, notes de procedència, estat de revisió ni comentaris del pipeline.
+## Exemple bo: separar tradició i fet
 
-## Prova final
+**Persona:** La Marratxa commemora de debò la signatura del Pareatge?
 
-Llegeix només la conversa, sense obrir la font:
+**Assistent:** Això és el que explica la tradició, però les fonts no ho demostren com un fet històric. A més, les dates no coincideixen: la tradició situa la primera ballada el 7 de setembre de 1278, mentre que el Pareatge consta signat el dia 8.
 
-1. La primera pregunta sona com un dubte real i s’entén tota sola?
-2. La faria algú que encara no ha llegit l’article?
-3. La resposta resol el dubte en lloc de descriure el document?
-4. El seguiment depèn de la resposta anterior i aporta informació nova?
-5. Cada afirmació i cada matís estan verificats?
+**Persona:** Llavors, se sap per què ballen el dia abans?
 
-Un «no» vol dir reescriure o descartar.
+**Assistent:** No. La relació amb la vigília és una possibilitat, però les fonts no l’expliquen ni permeten confirmar-la.
+
+El seguiment surt de la discrepància que acaba d’aparèixer. La resposta no inventa una explicació per tancar-la.
+
+## Exemple bo: una pregunta que s’acaba en un torn
+
+**Persona:** La Marratxa és el ball o el recipient?
+
+**Assistent:** La paraula també designa un recipient d’aigua perfumada que els dansaires duien antigament. El ball va conservar-ne el nom, tot i que el recipient ja no s’hi fa servir.
+
+No cal afegir un seguiment artificial: la resposta resol les dues parts del dubte.
+
+## Exemples que descartem
+
+- «Què explica la secció “El relat”?» — pressuposa que qui pregunta coneix el document.
+- «Què indica aquesta fila?» — assenyala una taula que la persona pot no haver vist.
+- «I què més?» — no expressa cap dubte concret.
+- Una segona pregunta sobre un nom, una data o un lloc sense relació amb la resposta anterior — sembla una seqüència d’examen.
+
+## Abans d’afegir registres
+
+Llegiu cada diàleg en veu alta i pregunteu-vos: «Ho diria així a algú que m’està ajudant a entendre el tema?» Si no, reescriviu la pregunta amb paraules més corrents o descarteu-la. No cal que tots els registres tinguin més d’un intercanvi.
