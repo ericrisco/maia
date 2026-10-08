@@ -1,5 +1,7 @@
 # Treball intern de Knowledge
 
-Els inventaris i la procedència que ja hi ha aquí corresponen a la tanda antiga, ara retirada. Es conserven per traçabilitat, però no indiquen cobertura aprovada ni s'han d'usar per exportar candidats antics.
+- `coverage.csv` inventaria els documents de `docs/temes/` i indica quins tenen candidats associats.
+- `coverage-items.jsonl` desglossa els fets que cal cobrir i enllaça cada fet amb els registres de `review/conversations.jsonl`.
+- `provenance.jsonl` conserva les fonts, els drets i el resum de cobertura de cada conversa candidata. El hash ha de correspondre al JSON compacte de la conversa.
 
-La nova tanda tindrà inventari propi, vinculat només als registres de `review/candidates-v2.jsonl`. La procedència i els drets sempre queden separats del missatge d'entrenament.
+Les converses de `review/conversations.jsonl` són candidates, no dades finals aprovades. No s'exporten fins que s'hagin revisat la qualitat, la cobertura, els duplicats, la procedència i els drets de les fonts. La informació interna d'aquests fitxers no forma part del missatge d'entrenament.
