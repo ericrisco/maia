@@ -960,13 +960,17 @@
         "docs/temes/cultura/museus-i-arxius/el-dret-de-tempteig.md#unit-0005",
         "docs/temes/cultura/museus-i-arxius/el-dret-de-tempteig.md#unit-0006",
         "docs/temes/cultura/museus-i-arxius/el-dret-de-tempteig.md#unit-0008",
-        "docs/temes/cultura/museus-i-arxius/el-dret-de-tempteig.md#unit-0009"
+        "docs/temes/cultura/museus-i-arxius/el-dret-de-tempteig.md#unit-0009",
+        "docs/temes/cultura/museus-i-arxius/el-dret-de-tempteig.md#unit-0011",
+        "docs/temes/cultura/museus-i-arxius/el-dret-de-tempteig.md#unit-0012",
+        "docs/temes/cultura/museus-i-arxius/el-dret-de-tempteig.md#unit-0023"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 19,
+      "open_unit_count": 16,
       "conversation_ids": [
         "categories-patrimoni-cultural-declaracio-immobles-001",
         "conservacio-expropiacio-be-cultural-001",
+        "declarats-patrimoni-cultural-2003-i-altes-2010s-001",
         "tempteig-retracte-immoble-interes-cultural-001"
       ]
     },
