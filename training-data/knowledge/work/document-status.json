@@ -14128,12 +14128,21 @@
       "title": "El finançament dels partits",
       "type": "article",
       "topic": "temes/politica/sistema-electoral",
-      "status": "not_started",
+      "status": "in_progress",
       "unit_count": 144,
-      "covered_unit_ids": [],
+      "covered_unit_ids": [
+        "docs/temes/politica/sistema-electoral/el-financament-dels-partits.md#unit-0006",
+        "docs/temes/politica/sistema-electoral/el-financament-dels-partits.md#unit-0009",
+        "docs/temes/politica/sistema-electoral/el-financament-dels-partits.md#unit-0011",
+        "docs/temes/politica/sistema-electoral/el-financament-dels-partits.md#unit-0012",
+        "docs/temes/politica/sistema-electoral/el-financament-dels-partits.md#unit-0014",
+        "docs/temes/politica/sistema-electoral/el-financament-dels-partits.md#unit-0015"
+      ],
       "excluded_unit_count": 0,
-      "open_unit_count": 144,
-      "conversation_ids": []
+      "open_unit_count": 138,
+      "conversation_ids": [
+        "donacions-partits-empreses-i-contractacio-publica-001"
+      ]
     },
     "docs/temes/politica/sistema-electoral/el-referendum-constitucional-de-1993.md": {
       "title": "El referèndum constitucional del 1993",
