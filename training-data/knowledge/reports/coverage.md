@@ -4,9 +4,9 @@ Informe regenerable a partir de l'inventari, `conversations.jsonl` i `records.js
 
 - Documents Markdown inventariats: **1477**.
 - Articles del brain: **1348**.
-- Converses de revisió amb registre: **31**.
+- Converses de revisió amb registre: **32**.
 - Articles citats per almenys una conversa: **16**.
-- Unitats estructurals enllaçades explícitament amb `unit_ids`: **44**.
+- Unitats estructurals enllaçades explícitament amb `unit_ids`: **47**.
 
 > La cobertura d'un article només indica que hi ha una conversa que el cita. No implica que tot el document, tema o coneixement estigui cobert. Les unitats sense enllaç explícit no es compten.
 
@@ -44,7 +44,7 @@ Informe regenerable a partir de l'inventari, `conversations.jsonl` i `records.js
 | `temes/economia/ramaderia-i-agricultura` | 11 | 0 | 0 |
 | `temes/economia/tabac` | 5 | 1 | 1 |
 | `temes/economia/transformacio-economica` | 10 | 1 | 1 |
-| `temes/economia/transport` | 5 | 2 | 2 |
+| `temes/economia/transport` | 5 | 2 | 3 |
 | `temes/economia/turisme-i-neu` | 4 | 0 | 0 |
 | `temes/economia/turisme-i-neu/estacions` | 5 | 0 | 0 |
 | `temes/esports/altres-esports` | 32 | 0 | 0 |
