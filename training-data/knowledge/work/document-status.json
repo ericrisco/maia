@@ -15801,13 +15801,16 @@
         "docs/temes/territori/clima-i-muntanya/el-clima.md#unit-0009",
         "docs/temes/territori/clima-i-muntanya/el-clima.md#unit-0010",
         "docs/temes/territori/clima-i-muntanya/el-clima.md#unit-0011",
+        "docs/temes/territori/clima-i-muntanya/el-clima.md#unit-0013",
+        "docs/temes/territori/clima-i-muntanya/el-clima.md#unit-0014",
         "docs/temes/territori/clima-i-muntanya/el-clima.md#unit-0015",
         "docs/temes/territori/clima-i-muntanya/el-clima.md#unit-0016"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 18,
+      "open_unit_count": 16,
       "conversation_ids": [
-        "neu-soldeu-sant-julia-diferencia-i-temporada-001"
+        "neu-soldeu-sant-julia-diferencia-i-temporada-001",
+        "temperatures-ransol-i-escaldes-mitjanes-001"
       ]
     },
     "docs/temes/territori/clima-i-muntanya/el-pla-darinsal-i-els-avisos-dallaus.md": {
