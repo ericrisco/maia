@@ -50,7 +50,9 @@ Una conversa amb errors factuals o estil mecànic es reescriu sencera. No es pro
 
 ## Maia Language: preservar parla real
 
-Audita totes les peces de `docs/parla/`. Només el text amb `veu: originaria`, `epoca: contemporania` i `apte_llengua: true` pot aportar senyal lingüístic. El contingut de `temes/` no es reutilitza per simular una veu andorrana.
+Audita totes les peces de `docs/parla/`. Els camps `veu: originaria`, `epoca: contemporania` i `apte_llengua: true` són un **prefiltre necessari**, no una validació completa. Abans d'incloure una peça, documenta que la veu és humana, que el parlant usa català andorrà contemporani i que no s'està inferint aquest perfil només perquè parla d'Andorra, apareix en un canal del país o diu «aquí». Si la procedència lingüística no es pot establir, deixa la peça pendent o exclosa segons l'evidència; no la presentis com a parla andorrana.
+
+La llicència s'ha de verificar per peça, i la transcripció s'ha de contrastar amb l'àudio. Una llicència oberta no valida el perfil lingüístic ni la transcripció; el frontmatter del corpus tampoc substitueix aquestes dues comprovacions.
 
 La resposta lingüística ha de provenir del parlant. Es conserva el lèxic, l'ordre de paraules i les formes orals; no es reescriu com a català estàndard. Una transcripció dubtosa s'escolta i es contrasta amb l'àudio. S'exclouen els fragments no verificables i es registren les exclusions, la font, els drets i la verificació a `language/work/coverage.csv` i als informes.
 
