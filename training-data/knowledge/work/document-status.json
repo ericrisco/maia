@@ -7999,12 +7999,17 @@
       "status": "in_progress",
       "unit_count": 69,
       "covered_unit_ids": [
+        "docs/temes/historia/segle-xix/deu-lliures-per-testar.md#unit-0010",
+        "docs/temes/historia/segle-xix/deu-lliures-per-testar.md#unit-0012",
+        "docs/temes/historia/segle-xix/deu-lliures-per-testar.md#unit-0013",
+        "docs/temes/historia/segle-xix/deu-lliures-per-testar.md#unit-0014",
         "docs/temes/historia/segle-xix/deu-lliures-per-testar.md#unit-0017",
         "docs/temes/historia/segle-xix/deu-lliures-per-testar.md#unit-0019"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 67,
+      "open_unit_count": 63,
       "conversation_ids": [
+        "donacio-conjuges-bens-inclosos-i-exclosos-001",
         "donacio-conjuges-reserva-testar-deu-lliures-001"
       ]
     },
