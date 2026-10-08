@@ -1,19 +1,12 @@
 # Maia Training Data
 
-Aquesta carpeta prepara dos conjunts separats per al fine-tuning de Maia:
+Dos conjunts diferents, perquè cadascun ensenya una habilitat diferent:
 
-- **Knowledge** ensenya a respondre preguntes sobre Andorra amb informació documentada.
-- **Language** conserva la manera de parlar en català andorrà a partir de mostres humanes reals.
+- **Knowledge** ensenya a contestar preguntes reals sobre Andorra amb informació de `docs/temes/`.
+- **Language** conserva usos reals del català andorrà contemporani a partir de `docs/parla/`. No s'inventen diàlegs per imitar una veu local.
 
-La carpeta s'ha reiniciat per corregir el criteri de les preguntes. Els exemples actuals són només una guia d'estil. No són registres aprovats ni formen part dels fitxers d'entrenament.
+`knowledge/examples/` conté quatre mostres per calibrar el to. Són internes, no aprovades ni exportables. Els candidats antics de `knowledge/review/` queden retirats: no s'han de revisar ni exportar. Els registres nous han d'estar en un fitxer nou i passar el criteri de `PLAN.md`.
 
-## Estat actual
+No hi ha datasets finals. Els splits es crearan quan hi hagi prou registres revisats, drets comprovats i una separació fiable entre train, validation i test.
 
-- `knowledge/examples/`: cinc converses de calibratge amb procedència separada.
-- `knowledge/review/`: buit; aquí es proposaran i revisaran registres nous.
-- `knowledge/output/`: encara no conté datasets finals.
-- `language/`: estructura preparada; encara no conté registres.
-
-No s'han creat fitxers `train.jsonl`, `validation.jsonl` ni `test.jsonl`. Aquests es generaran quan hi hagi prou registres revisats i es puguin separar sense filtracions entre splits.
-
-Consulta [`PLAN.md`](PLAN.md) abans de proposar converses noves.
+**Regla principal:** cada conversa comença amb un dubte que una persona podria tenir sense haver obert cap fitxa. La resposta el resol directament. El seguiment només s'hi afegeix si surt de la resposta anterior. No hi ha quota de torns: un torn també pot ser suficient.

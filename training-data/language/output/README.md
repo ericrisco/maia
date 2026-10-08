@@ -1,3 +1,3 @@
-# Export de Maia Language
+# Export de Language
 
-Encara no hi ha fitxers finals. Els splits només es crearan amb fragments elegibles i revisats, agrupats per peça o parlant per evitar filtracions entre train, validation i test.
+Encara no hi ha dades finals. Feu els splits per peça, conversa o parlant per evitar que fragments relacionats quedin repartits entre train, validation i test.

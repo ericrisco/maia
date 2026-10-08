@@ -1,3 +1,3 @@
-# Revisió de Maia Language
+# Revisió de Language
 
-Aquí s'afegiran només fragments humans que hagin passat els criteris de veu originària, època contemporània, aptitud lingüística, qualitat de transcripció i drets. Cal conservar el vincle amb la peça i el parlant als registres interns, fora del text exportable.
+Encara no hi ha registres. Afegiu converses només quan pregunta i resposta es puguin construir amb parla humana autèntica i verificable.

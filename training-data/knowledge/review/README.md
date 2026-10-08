@@ -1,5 +1,5 @@
-# Revisió de Maia Knowledge
+# Revisió de Knowledge
 
-Els candidats nous s'afegeixen aquí després de comprovar que el dubte sona humà i que la font el sosté. Cada conversa ha de tenir una entrada de procedència corresponent a `knowledge/work/`.
+`conversations.jsonl` conté els candidats antics retirats. Es conserva només com a rastre de revisió; no s'ha de revisar, comptar com a cobertura ni exportar.
 
-No copiïs aquí els exemples de calibratge. Reescriu qualsevol pregunta que depengui de veure una fitxa, una secció, una fila o un gràfic. Aprova només converses que passin la prova de lectura humana de [`../PLAN.md`](../PLAN.md), la pauta de [`EXEMPLES.md`](EXEMPLES.md) i la revisió de drets.
+Els candidats nous van a `candidates-v2.jsonl`, una conversa per línia, amb procedència separada. Abans d'aprovar-los, llegiu-los en veu alta sense la font i apliqueu la prova del [`../PLAN.md`](../PLAN.md).

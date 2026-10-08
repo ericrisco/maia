@@ -1,3 +1,3 @@
-# Treball intern de Maia Language
+# Treball intern de Language
 
-Inventari d'elegibilitat, procedència, qualitat de transcripció i agrupació per peça o parlant. Cap text sintètic no es compta com a mostra de llengua humana.
+Aquí s'inventariaran peces de parla, fragments elegibles, qualitat de transcripció, procedència i drets. No s'hi generen respostes fictícies.

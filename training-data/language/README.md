@@ -1,5 +1,5 @@
 # Maia Language
 
-Flux independent per preservar el català andorrà contemporani de parlants humans. La font és `docs/parla/`; només s'inclou material elegible segons els criteris del corpus, la qualitat de transcripció i la procedència.
+Flux independent per preservar català andorrà contemporani de parlants humans, a partir de `docs/parla/`. Només s'utilitza material elegible (`veu: originaria`, `epoca: contemporania`, `apte_llengua: true`), amb qualitat de transcripció i drets comprovats.
 
-No s'inventen preguntes o respostes perquè imitin com parlaria una persona andorrana. El text de l'assistent ha de provenir de parla humana autèntica i mantenir-ne el lèxic i la sintaxi tant com sigui possible.
+Les respostes han de provenir de parla real. No es redacten exemples ficticis per imitar un accent o estil local. Aquest flux no comparteix registres amb Maia Knowledge.

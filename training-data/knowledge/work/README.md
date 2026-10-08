@@ -1,5 +1,5 @@
-# Treball intern de Maia Knowledge
+# Treball intern de Knowledge
 
-Inventaris, registres de procedència, notes de verificació i cobertura viuen aquí. No són dades d'entrenament i no s'afegeixen a les converses exportades.
+Els inventaris i la procedència que ja hi ha aquí corresponen a la tanda antiga, ara retirada. Es conserven per traçabilitat, però no indiquen cobertura aprovada ni s'han d'usar per exportar candidats antics.
 
-La cobertura compta només coneixement representat per converses revisades. Anota quan un fet no es converteix en pregunta perquè no té una formulació humana útil.
+La nova tanda tindrà inventari propi, vinculat només als registres de `review/candidates-v2.jsonl`. La procedència i els drets sempre queden separats del missatge d'entrenament.

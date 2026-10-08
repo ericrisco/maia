@@ -1,3 +1,3 @@
-# Informes de Maia Language
+# Informes de Language
 
-Els informes futurs indicaran peces inspeccionades, fragments inclosos o exclosos i els motius. També documentaran com s'han agrupat peces i parlants abans de fer els splits.
+Aquí s'informarà de peces revisades, material inclòs i exclòs, fragments utilitzats, qualitat de transcripció i drets.
