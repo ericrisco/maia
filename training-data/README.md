@@ -2,7 +2,7 @@
 
 Àrea de preparació de dos conjunts separats. **Knowledge** ensenya a respondre preguntes sobre Andorra a partir del corpus; **Language** conserva formes reals del català andorrà contemporani.
 
-Estat actual: el conjunt actiu de converses Knowledge s'ha buidat per tornar a calibrar-ne la naturalitat. `knowledge/review/examples.jsonl` conté dues mostres multitornals per acordar el to; no són registres aprovats ni compten com a cobertura. No hi ha cap export d'entrenament. L'inventari i les eines es conserven. `language/` encara no té cap fragment aprovat per exportar; el corpus de parla conserva candidats pendents de revisió auditiva i de drets.
+Estat actual: hi ha 29 converses i 29 registres de revisió a `knowledge/review/`; cal rellegir-los amb els criteris de naturalitat de [`PLAN.md`](PLAN.md) abans de reutilitzar-los o exportar-los. `knowledge/review/examples.jsonl` conté dues mostres editorials multitornals; no compten com a registres ni com a cobertura. No hi ha cap export d'entrenament. L'inventari i les eines es conserven. `language/` encara no té cap fragment aprovat per exportar; el corpus de parla conserva candidats pendents de revisió auditiva i de drets.
 
 - [Pla i criteris](PLAN.md)
 - [Maia Knowledge](knowledge/README.md)

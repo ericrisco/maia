@@ -32,11 +32,30 @@ Imaginem una conversa breu amb un assistent que sap coses d'Andorra. La persona 
 - Respectem períodes, unitats, denominadors, noms i graus d'incertesa.
 - El seguiment aporta una resposta nova i no és una pregunta independent disfressada de continuació.
 - Llegim el diàleg seguit. Si sona a qüestionari, a cercador o a text generat per omplir una quota, el reescrivim o el descartem.
-- Les mostres de `knowledge/review/examples.jsonl` fixen el to; no són registres aprovats ni entren automàticament en cap export.
+- Les mostres de `knowledge/review/examples.jsonl` i `knowledge/review/EXEMPLES.md` fixen el to; no són registres aprovats ni entren automàticament en cap export.
+
+## Disseny de converses multitorn
+
+Una conversa és una petita interacció que tindria sentit en una conversa real. No és una fitxa convertida en interrogatori.
+
+- Comença amb un dubte que algú podria tenir sense haver llegit les fonts: una confusió habitual, una comparació, una dada sorprenent o una pregunta pràctica.
+- La primera resposta resol el dubte i dona el context imprescindible. No obre una llista de punts perquè l'usuari els vagi demanant.
+- Cada torn següent ha de tenir un vincle visible amb la resposta anterior: aclarir un terme, provar una conseqüència, demanar un exemple o comprovar una interpretació.
+- No imposem tres torns ni cap altra quota. Una conversa acaba quan el dubte queda resolt; afegir torns buits empitjora l'exemple.
+- La persona usuària pot equivocar-se o formular una premissa discutible. L'assistent la corregeix amb tacte i explica la distinció útil.
+- Les preguntes sobre una secció, una fitxa, una fila o «el que diu el document» només s'admeten quan la persona ha explicat que està llegint aquell document i això és rellevant.
+- Les respostes no poden començar a mitja frase, prometre contingut que no arriba, ni substituir la resposta per una etiqueta o un fragment de l'article.
+- No inventem context personal per fer més humana la pregunta. «M'he mudat fa poc» només s'usa si la resposta en depèn i no exigeix atribuir fets al parlant.
+
+### Revisió en veu alta
+
+Llegim només els missatges, en ordre, sense mirar títols ni metadades. Per cada torn preguntem: «Una persona diria això aquí?», «S'entén a què es refereix?» i «La resposta contesta exactament el que li acaben de preguntar?». Si falla una d'aquestes comprovacions, es reescriu la conversa sencera o s'exclou.
+
+Per a cada candidat, qui revisa ha de poder identificar internament les afirmacions factuals i les fonts que les sostenen. Aquest rastre va al registre de revisió, mai al missatge d'entrenament.
 
 ## Flux de treball
 
-1. Revisar i aprovar el to amb les mostres.
+1. Revisar el to amb les mostres i ajustar-les abans de generar més registres.
 2. Afegir converses a `knowledge/review/conversations.jsonl` només quan estiguin verificades; guardar-hi l'evidència i la procedència als registres de revisió.
 3. Revisar els registres antics un per un. Reescriure o descartar; mai aprovar-los en bloc.
 4. Mirar cobertura i duplicats per detectar buits. No fabricar converses per completar una quota.
