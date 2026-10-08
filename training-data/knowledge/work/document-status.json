@@ -7629,13 +7629,17 @@
         "docs/temes/historia/manual-digest/el-politar.md#unit-0018",
         "docs/temes/historia/manual-digest/el-politar.md#unit-0019",
         "docs/temes/historia/manual-digest/el-politar.md#unit-0023",
-        "docs/temes/historia/manual-digest/el-politar.md#unit-0025"
+        "docs/temes/historia/manual-digest/el-politar.md#unit-0025",
+        "docs/temes/historia/manual-digest/el-politar.md#unit-0030",
+        "docs/temes/historia/manual-digest/el-politar.md#unit-0031",
+        "docs/temes/historia/manual-digest/el-politar.md#unit-0036"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 91,
+      "open_unit_count": 88,
       "conversation_ids": [
         "politar-batlles-saigs-mateixa-funcio-001",
-        "politar-jurisdiccio-veguers-i-pariatges-001"
+        "politar-jurisdiccio-veguers-i-pariatges-001",
+        "politar-nomenament-batlles-cisena-incompatibilitats-001"
       ]
     },
     "docs/temes/historia/manual-digest/els-costumaris-andorrans.md": {
