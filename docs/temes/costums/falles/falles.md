@@ -48,8 +48,17 @@ del foc, i que corri la joventut és qui ho fa.
 
 ## Com són ara
 
-El costum **es va perdre** i es va **recuperar quatre o cinc anys abans del
-2002** — és a dir, cap al **1997-1998**.
+El costum **es va perdre**. En la seva ponència del 2002, Canturri diu que
+s'havia recuperat **quatre o cinc anys abans** —cap al **1997-1998**—, però no
+especifica a quina parròquia es refereix.
+
+La cronologia institucional consultada el 2026 separa les represes per
+localitat: **Andorra la Vella, 1987; Sant Julià, 1997; Encamp, 1998;
+Escaldes-Engordany, 2000; i Ordino, 2018** ([font del Govern](../../../fonts/govern-festes-foc-solstici-pirineus.md)).
+Per tant, no hi ha una sola data de recuperació per a tot el país. **La
+diferència entre el 1987 d'Andorra la Vella i el 1997-1998 de Canturri queda
+oberta**: el seu text no identifica la localitat, i el corpus no pot afirmar
+que parlés de la primera represa ni que la seva data sigui errònia.
 
 I en tornar va tornar **canviat**:
 
