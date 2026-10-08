@@ -1,3 +1,3 @@
-# Export de Maia Language
+# Sortida de Language
 
-Encara no hi ha cap export. Només s'hi publicaran fragments humans aprovats, amb la seva conversa completa i sense barreja amb Maia Knowledge.
+Encara no hi ha cap exportació. Només s'hi escriu parla humana elegible, revisada i agrupada per peça als splits.

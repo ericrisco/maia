@@ -1,3 +1,3 @@
-# Export de Maia Knowledge
+# Sortida de Knowledge
 
-Encara no hi ha cap export. Quan hi hagi converses aprovades, cada línia de `*.jsonl` contindrà una conversa completa amb només el camp `messages`.
+Encara no hi ha cap exportació. Només s'hi escriuen converses aprovades i amb els drets de les fonts revisats.

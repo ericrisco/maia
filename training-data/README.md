@@ -1,31 +1,10 @@
 # Maia Training Data
 
-Àrea de treball per preparar dos corpus diferents:
+Àrea per preparar dues col·leccions separades:
 
-- **Maia Knowledge** ensenya coneixement documentat sobre Andorra.
-- **Maia Language** conserva patrons de parla andorrana contemporània a partir de material humà elegible.
+- **Knowledge** ensenya a respondre preguntes sobre Andorra a partir de `docs/temes/`.
+- **Language** conserva trets del català andorrà contemporani a partir de parla humana elegible a `docs/parla/`.
 
-Els exemples de calibratge serveixen per acordar com sonen les converses. No són una mostra de volum ni un export d'entrenament. Cap registre passa a `output/` sense revisió de contingut, procedència i drets.
+Els fitxers `review/` i `examples/` són material de treball. Només el que passi la revisió de contingut, naturalitat i drets podrà arribar a `output/`. La procedència i la cobertura es guarden fora dels missatges d'entrenament.
 
-```text
-training-data/
-├── README.md
-├── PLAN.md
-├── knowledge/
-│   ├── README.md
-│   ├── scripts/        # Automatització futura, encara sense pipeline
-│   ├── examples/       # Mostres de calibratge i procedència
-│   ├── review/         # Converses candidates, pendents de revisió
-│   ├── work/           # Cobertura i anotacions internes
-│   ├── output/         # Només exports aprovats
-│   └── reports/        # Cobertura, exclusions i qualitat
-└── language/
-    ├── README.md
-    ├── scripts/        # Automatització futura, encara sense pipeline
-    ├── review/         # Fragments humans candidats
-    ├── work/           # Elegibilitat, verificació i cobertura
-    ├── output/         # Només exports aprovats
-    └── reports/        # Peces incloses i excloses
-```
-
-Knowledge i Language no comparteixen exemples, fonts ni exports. Ara el projecte només prepara l'estructura i calibra Knowledge; els registres nous es faran després de revisar les mostres.
+Comença per [PLAN.md](PLAN.md), [knowledge/README.md](knowledge/README.md) i [language/README.md](language/README.md).

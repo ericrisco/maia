@@ -1,3 +1,3 @@
-# Revisió de Maia Language
+# Revisió de Language
 
-Els candidats han de ser fragments produïts per parlants humans i conservar-ne la formulació original sempre que sigui possible. No s'hi generen diàlegs sintètics per ampliar el volum.
+Només fragments de parla humana elegible. Comprova la font i els avisos de transcripció; no converteixis text generat en una falsa mostra de català andorrà.

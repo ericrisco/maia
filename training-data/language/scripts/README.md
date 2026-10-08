@@ -1,3 +1,3 @@
-# Scripts de Maia Language
+# Eines de Language
 
-Encara no hi ha scripts. El flux només s'automatitzarà quan estiguin definits els controls d'elegibilitat, transcripció i procedència.
+Afegirem eines quan els criteris d'elegibilitat i transcripció estiguin prou definits per automatitzar-los sense perdre control humà.

@@ -1,3 +1,3 @@
-# Treball intern de Maia Language
+# Treball intern de Language
 
-Inventari d'elegibilitat, verificació de transcripcions, procedència i agrupació per peça o parlant. No és material d'entrenament.
+Registra elegibilitat, peça d'origen, parlant si consta, confiança de transcripció, fragments descartats i procedència. Mantén aquests camps fora dels missatges.

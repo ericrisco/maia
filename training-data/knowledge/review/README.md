@@ -1,5 +1,3 @@
-# Revisió de Maia Knowledge
+# Revisió de Knowledge
 
-`conversations.jsonl` conté les converses candidates, una per línia. Cada registre és multitorn i continua pendent de comprovació factual, naturalitat, cobertura, duplicació i drets.
-
-No s'hi afegeixen preguntes que només demanin què diu una secció, una fila o una fitxa. La procedència es manté separada dels `messages`.
+Les converses d'aquí són candidates. Abans d'aprovar-les, verifica cada afirmació a la font i llegeix la conversa sense títols ni notes editorials. Un candidat no és exportable fins que contingut, naturalitat i drets estiguin revisats.

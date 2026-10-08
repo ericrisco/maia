@@ -1,3 +1,3 @@
-# Informes de Maia Language
+# Informes de Language
 
-L'inventari inicial és a [`eligibility.md`](eligibility.md). Aquí s'actualitzaran les peces revisades, incloses o excloses, la qualitat de transcripció i els motius.
+Compta peces i fragments inclosos o exclosos i explica els motius. Agrupa els splits per peça o entrevista per evitar que fragments veïns apareguin en conjunts diferents.

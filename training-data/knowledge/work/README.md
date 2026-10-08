@@ -1,3 +1,3 @@
-# Treball intern de Maia Knowledge
+# Treball intern de Knowledge
 
-Inventari de documents, unitats de cobertura, procedència i anotacions per revisar les converses. Aquest material serveix per auditar el procés i no va dins dels missatges entrenables.
+Inventari de documents, cobertura, fonts, hashes, llicències i notes de revisió. Aquesta informació no entra dins dels missatges del model.

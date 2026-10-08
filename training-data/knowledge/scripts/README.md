@@ -1,3 +1,3 @@
-# Scripts de Maia Knowledge
+# Eines de Knowledge
 
-Encara no hi ha scripts. El pipeline s'afegirà després d'acordar el criteri de conversa i les necessitats de cobertura.
+Afegirem scripts quan hi hagi una necessitat repetible i un criteri estable. Els scripts no poden aprovar per si sols la naturalitat d'una conversa.
