@@ -88,9 +88,11 @@ perdent precisament el que hi havia.
 ## El que encara falta
 
 - Les **variants per parròquia** — cada una té la seva manera i el seu recorregut.
-- El **reconeixement com a patrimoni immaterial**: les falles del Pirineu van ser
-  declarades per la UNESCO el 2015; **cal comprovar si Andorra hi consta i com**.
-  **Buit registrat.**
+- **Reconeixement com a patrimoni immaterial**: l'1 de desembre de 2015 la
+  UNESCO va inscriure les Falles d'Andorra la Vella com a part de les *Festes
+  del foc del solstici d'estiu als Pirineus*. La candidatura multinacional,
+  impulsada per Andorra amb França i Espanya, inclou 63 pobles, tres dels quals
+  són andorrans ([font del Govern](../../../fonts/govern-falles-andorra-unesco.md)).
 - Les **fonts primàries dels comuns**.
 - **Quan exactament es va perdre** i qui la va recuperar.
 
