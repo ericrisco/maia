@@ -4,10 +4,10 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 
 - Documents inventariats: **1477** (1348 articles).
 - Unitats estructurals totals: **62911**.
-- Unitats cobertes per converses aprovades: **258** (0.410%).
+- Unitats cobertes per converses aprovades: **260** (0.413%).
 - Unitats excloses amb motiu: **1186**.
-- Unitats encara obertes: **61467**.
-- Registres: **90**; aprovats: **86**; mostres de calibratge: **3** (no compten com a cobertura).
+- Unitats encara obertes: **61465**.
+- Registres: **91**; aprovats: **87**; mostres de calibratge: **3** (no compten com a cobertura).
 
 ## Estat per tema
 
@@ -131,7 +131,7 @@ La cobertura es per unitat estructural de l'inventari. Un bloc només compta com
 | `temes/territori/parroquies/la-massana` | 1 | 14 | 0 | 0 | 14 |
 | `temes/territori/parroquies/ordino` | 1 | 14 | 0 | 0 | 14 |
 | `temes/territori/parroquies/sant-julia-de-loria` | 1 | 14 | 0 | 0 | 14 |
-| `temes/territori/patrimoni-natural` | 2 | 45 | 0 | 0 | 45 |
+| `temes/territori/patrimoni-natural` | 2 | 45 | 2 | 0 | 43 |
 | `temes/territori/toponimia` | 5 | 375 | 0 | 0 | 375 |
 | `temes/territori/urbanisme` | 2 | 94 | 0 | 0 | 94 |
 | `temes/vida-quotidiana/com-funciona-tot` | 4 | 266 | 0 | 0 | 266 |
