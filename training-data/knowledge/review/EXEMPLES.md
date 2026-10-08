@@ -18,6 +18,14 @@ La primera pregunta té una raó pràctica i es pot entendre sense saber què co
 
 La primera pregunta neix d'una confusió comprensible entre la imatge venerada avui i la talla històrica. El seguiment demana què va passar amb el santuari després del mateix incendi; no canvia de tema ni obliga l'assistent a reservar informació important.
 
+## Mostra: separar una llegenda d'una data comprovada
+
+```json
+{"messages":[{"role":"user","content":"Com explica la llegenda que es va triar el lloc del santuari de Meritxell?"},{"role":"assistant","content":"Segons la llegenda, un pastor va trobar una imatge sota una gavernera florida el dia de Reis. La imatge tornava al mateix indret després que la portessin a Canillo i a Encamp; els veïns ho van entendre com un senyal que volia quedar-s'hi."},{"role":"user","content":"Se sap quan es va començar a explicar aquesta història?"},{"role":"assistant","content":"No se'n pot datar l'origen amb les fonts consultades: no s'hi ha localitzat la primera documentació ni la font primària del santuari que permetrien saber quan va començar a circular."}]}
+```
+
+La resposta inicial marca el relat com a llegenda. El seguiment pregunta per l'antiguitat de la història, però la resposta no inventa una data ni tracta el relat com un fet comprovat.
+
 ## Regles per revisar cada conversa
 
 - Llegeix els missatges sense títol, ID ni font. Si la pregunta només té sentit amb la fitxa al davant, reescriu-la o descarta-la.
