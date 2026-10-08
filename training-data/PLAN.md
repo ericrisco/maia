@@ -12,6 +12,17 @@ Per cada possible conversa, anota internament una frase: **què vol aclarir la p
 
 Després verifica que el corpus contingui una resposta suficient. Si només hi ha un fragment a mig fer, una inferència de l'autor o un buit, respon amb aquest límit o descarta el tema. No converteixis qualsevol dada en una pregunta.
 
+### Prova de naturalitat de la pregunta
+
+Abans d'escriure la pregunta, formula la necessitat sense mirar el títol ni els apartats de la font. Després comprova:
+
+1. **Una persona podria tenir aquest dubte fora d'un qüestionari?** Ha de sorgir d'una activitat o curiositat recognoscible: entendre una tradició, preparar una visita, aclarir un fet històric o interpretar una informació que ha trobat.
+2. **La pregunta dona prou context sense demanar que l'usuari conegui el corpus?** No pot dependre de «aquesta fila», «la secció», «la fitxa», un ID o un referent absent.
+3. **L'usuari hauria de conèixer una dada obscura només per poder preguntar?** Si sí, reformula-la amb paraules corrents i posa el terme específic a la resposta.
+4. **La pregunta continuaria tenint sentit si no existís la font consultada?** Si només serveix per fer sortir una dada perquè apareix al document, descarta-la.
+
+Es pot donar una situació breu quan expliqui de debò el dubte —per exemple, voler veure una celebració—, però no s'inventen biografies, emocions ni descobertes teatrals («he trobat dues fonts») només per fer més conversacional una pregunta de qüestionari.
+
 ## Escriure com parla un usuari, no com s'indexa una fitxa
 
 - Comença pel dubte de la persona, no pel títol, secció, fila, gràfic o ID del document.
@@ -21,6 +32,7 @@ Després verifica que el corpus contingui una resposta suficient. Si només hi h
 - A les respostes no parlis de «la fitxa», «el corpus», IDs o estats editorials. Per expressar límits, digues què indiquen les fonts disponibles o què no hi consta. Anomena una font pública només quan ajudi a entendre d'on surt una versió o per què hi ha una discrepància.
 - Alterna intencions quan el contingut ho permet: aclarir una confusió, comparar, preguntar per una data o lloc, entendre una conseqüència, demanar una explicació pràctica o comprovar un límit del que se sap.
 - No facis servir una plantilla repetida per a cada document. Si la pregunta es pot emplenar canviant només el nom d'una tradició, revisa-la.
+- No converteixis cada fet, paràgraf o document en una pregunta. Una conversa pot cobrir diversos fets si tots responen a la mateixa necessitat.
 
 ## Conversa multitorn
 
@@ -29,6 +41,8 @@ Cada registre de calibratge i de producció ha de tenir almenys **dues parelles*
 No canviïs de tema només per arribar a dos torns. Si no hi ha cap seguiment natural, busca una necessitat inicial que permeti un fil real o no creïs el registre. No allarguis una conversa més enllà del punt en què el dubte queda resolt.
 
 Cada resposta ha de ser útil encara que el diàleg s'acabi després d'aquella resposta. Contesta primer; després afegeix només el context necessari. Evita llistes de camps, fragments penjats i respostes que només serveixen per preparar el torn següent.
+
+Per a aquesta tanda, cada registre tindrà almenys dues parelles user-assistant. Això no autoritza a allargar-lo: si no surt un seguiment que una persona faria de manera natural, no s'aprova el registre i se'n busca un altre fil. La pregunta de seguiment ha de reprendre una idea concreta de la resposta anterior i demanar una cosa nova; no pot canviar de tema ni repetir la primera pregunta amb altres paraules.
 
 ## Fidelitat al corpus
 
@@ -52,7 +66,7 @@ Llegeix només els missatges, sense títol ni font. Accepta el registre únicame
 7. **Sona escrit per ajudar?** És clar i directe, sense imitar una persona concreta ni farcir amb expressions col·loquials.
 8. **Aporta varietat útil?** No duplica una conversa existent amb sinònims superficials.
 
-Una sola resposta «no» implica reescriure o descartar. Una pregunta plausible no salva una resposta incorrecta; una resposta correcta no salva una pregunta artificial.
+Una sola resposta «no» implica reescriure o descartar. Una pregunta plausible no salva una resposta incorrecta; una resposta correcta no salva una pregunta artificial. La revisió es fa llegint només els missatges: els títols, els IDs i les fonts queden fora de la vista fins després del judici de naturalitat.
 
 ## Estructura i flux de treball
 
