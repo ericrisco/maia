@@ -13744,6 +13744,7 @@
         "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0038",
         "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0039",
         "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0040",
+        "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0041",
         "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0042",
         "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0045",
         "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0046",
@@ -13768,11 +13769,12 @@
         "docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md#unit-0071"
       ],
       "excluded_unit_count": 0,
-      "open_unit_count": 12,
+      "open_unit_count": 11,
       "conversation_ids": [
         "aportacions-privades-partits-limits-i-treball-voluntari-001",
         "consell-general-minim-maxim-constitucio-i-llei-001",
         "control-comptes-despeses-electorals-i-subvencio-general-001",
+        "data-erronia-llei-junta-electoral-confirmada-bopa-001",
         "dret-vot-nacionalitat-parroquia-residencia-origen-001",
         "eleccions-comunals-composicio-i-repartiment-escons-001",
         "empat-eleccions-comunals-repartiment-directe-001",
