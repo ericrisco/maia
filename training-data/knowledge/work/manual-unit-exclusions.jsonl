@@ -6,3 +6,12 @@
 {"evidence_id":"temes/cultura/llegendes/el-minairo.md#block-00047","reason":"navigation_link_without_standalone_domain_claim"}
 {"evidence_id":"temes/cultura/llegendes/el-minairo.md#block-00048","reason":"navigation_link_without_standalone_domain_claim"}
 {"evidence_id":"temes/cultura/llegendes/el-minairo.md#block-00049","reason":"navigation_link_without_standalone_domain_claim"}
+{"evidence_id":"temes/costums/danses/el-ball-de-lossa-dencamp.md#metadata-description","reason":"duplicate_metadata_summary_of_facts_already_represented_by_review_candidates: protagonistes dallaires, lectura iniciàtica i descripció d'Amades"}
+{"evidence_id":"temes/costums/danses/el-ball-de-lossa-dencamp.md#block-00002","reason":"internal_curation_note_not_Andorran_domain_knowledge: records a previously open corpus gap"}
+{"evidence_id":"temes/costums/danses/el-ball-de-lossa-dencamp.md#block-00003","reason":"editorial_transition_not_standalone_domain_knowledge"}
+{"evidence_id":"temes/costums/danses/el-ball-de-lossa-dencamp.md#block-00008","reason":"rhetorical_transition_to_evidence_already_represented_by_adjacent_candidate"}
+{"evidence_id":"temes/costums/danses/el-ball-de-lossa-dencamp.md#block-00021","reason":"rhetorical_transition_to_costume_evidence_already_represented_by_review_candidate"}
+{"evidence_id":"temes/costums/danses/el-ball-de-lossa-dencamp.md#block-00028","reason":"table_introduction_not_domain_claim; substantive_items_are_represented_by_adjacent_candidates"}
+{"evidence_id":"temes/costums/danses/el-ball-de-lossa-dencamp.md#block-00043","reason":"rhetorical_source_introduction_not_standalone_domain_knowledge"}
+{"evidence_id":"temes/costums/danses/el-ball-de-lossa-dencamp.md#block-00071","reason":"internal_corpus_audit_history_not_Andorran_domain_knowledge"}
+{"evidence_id":"temes/costums/danses/el-ball-de-lossa-dencamp.md#block-00091","reason":"navigation_link_to_dance_index_without_standalone_domain_claim"}
