@@ -169,8 +169,10 @@
 {"evidence_id":"temes/costums/danses/la-marratxa.md#block-00011","reason":"structural_block_not_conversational_knowledge"}
 {"evidence_id":"temes/costums/danses/la-marratxa.md#block-00013","reason":"structural_block_not_conversational_knowledge"}
 {"evidence_id":"temes/costums/danses/la-marratxa.md#block-00014","reason":"internal_partial_coverage_note_underlying_facts_recorded_elsewhere"}
+{"evidence_id":"temes/costums/danses/la-marratxa.md#block-00018","reason":"editorial_transition_to_coreography_facts_covered_by_training_conversation"}
 {"evidence_id":"temes/costums/danses/la-marratxa.md#block-00019","reason":"table_header_context_not_standalone_knowledge"}
 {"evidence_id":"temes/costums/danses/la-marratxa.md#block-00020","reason":"table_separator_not_knowledge"}
+{"evidence_id":"temes/costums/danses/la-marratxa.md#block-00027","reason":"empty_internal_audit_marker_not_domain_knowledge"}
 {"evidence_id":"temes/costums/danses/la-marratxa.md#block-00028","reason":"structural_block_not_conversational_knowledge"}
 {"evidence_id":"temes/costums/danses/la-marratxa.md#block-00029","reason":"related_document_navigation_link"}
 {"evidence_id":"temes/costums/danses/la-marratxa.md#block-00030","reason":"related_document_navigation_link"}
