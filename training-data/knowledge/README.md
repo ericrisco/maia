@@ -1,9 +1,11 @@
 # Maia Knowledge
 
-Conjunt de converses sobre Andorra basades en `docs/temes/`. Les mostres i els candidats passen per una revisió editorial i de procedència abans de poder entrar en un export.
+Converses en català que ensenyen a respondre dubtes reals sobre Andorra. La font factual és `docs/temes/`; la procedència, les llicències i els límits de cada afirmació es guarden fora dels missatges.
 
-- `examples/`: cinc mostres de calibratge, no entrenables.
-- `review/`: lloc per als candidats nous.
-- `work/`: inventari i cobertura interna.
-- `reports/`: resultats de revisió.
-- `output/`: exports aprovats; encara buit.
+- [`examples/`](examples/): mostres editorials, encara no entrenables.
+- [`review/`](review/): candidats que esperen verificació humana.
+- [`work/`](work/): inventari i cobertura del corpus.
+- [`reports/`](reports/): resultats de revisió i cobertura.
+- [`output/`](output/): només exports aprovats i amb drets compatibles.
+
+Vegeu les regles de pregunta, resposta i seguiment a [`../PLAN.md`](../PLAN.md).

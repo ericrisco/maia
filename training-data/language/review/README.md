@@ -1,3 +1,3 @@
-# Revisió de Maia Language
+# Revisió de Language
 
-Els fragments humans elegibles s'hi revisaran abans de qualsevol export. Cal preservar les paraules i construccions originals i anotar els fragments incerts; no s'hi generen respostes imitatives.
+Buit en aquesta etapa. Només s'hi incorporaran fragments humans amb font, elegibilitat i confiança de transcripció revisades. No reutilitzar les converses redactades de Knowledge.

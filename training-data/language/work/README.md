@@ -1,3 +1,3 @@
-# Treball intern de Maia Language
+# Treball intern de Language
 
-Registra aquí l'elegibilitat de cada peça, la fiabilitat de la transcripció i els fragments inclosos o descartats. Consulta `docs/CONTRACT.md` abans de marcar una peça com a utilitzable.
+Inventari i decisions de filtratge de fragments orals. Agrupa per peça i, quan es pugui, per parlant, per evitar repartir fragments d'una mateixa conversa entre particions diferents.

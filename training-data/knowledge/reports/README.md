@@ -1,3 +1,3 @@
-# Informes de Maia Knowledge
+# Informes de Knowledge
 
-Aquesta carpeta recollirà els informes de cobertura, naturalitat, exactitud, duplicats i drets quan comenci la revisió temàtica. Encara no hi ha cap cobertura exhaustiva.
+Els informes resumiran documents revisats, cobertura, qualitat de les converses, qüestions obertes i exclusions per drets. No s'han generat informes encara.

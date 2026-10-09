@@ -1,3 +1,3 @@
-# Treball intern de Maia Knowledge
+# Treball intern de Knowledge
 
-Aquí viuran l'inventari de fonts i l'estat de cobertura per document i tema. No són dades d'entrenament. Cada fila ha de poder-se contrastar amb el corpus i els candidats revisats.
+Aquí aniran l'inventari semàntic i el seguiment de cobertura de `docs/temes/`. Cada unitat coberta ha de poder enllaçar-se amb una font i amb les converses que la comuniquen. No s'hi han de guardar registres com si fossin respostes finals.

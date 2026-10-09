@@ -1,3 +1,3 @@
-# Exports de Maia Language
+# Exports de Language
 
-Encara buit. No s'hi afegirà text fins que s'hagi comprovat que és parla humana andorrana contemporània i que la transcripció és fiable.
+No hi ha exports aprovats. Només s'hi publicaran fragments humans elegibles, verificats i compatibles amb els drets de reutilització.

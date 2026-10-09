@@ -1,5 +1,3 @@
-{"example_id":"sample-001","sources":["docs/temes/costums/ritus-de-pas/la-passa.md"],"review_status":"calibration_example","rights_status":"pending","exportable":false}
-{"example_id":"sample-002","sources":["docs/temes/cultura/llegendes/la-troballa-de-meritxell.md"],"review_status":"calibration_example","rights_status":"pending","exportable":false}
-{"example_id":"sample-003","sources":["docs/temes/costums/caramelles/les-caramelles.md"],"review_status":"calibration_example","rights_status":"pending","exportable":false}
-{"example_id":"sample-004","sources":["docs/temes/institucions/justicia/demanaves-lordre-i-laltre-passava-a-ser-demandant.md"],"review_status":"calibration_example","rights_status":"pending","exportable":false}
-{"example_id":"sample-005","sources":["docs/temes/cultura/andorra-vista-de-fora/els-gravats-romantics.md"],"review_status":"calibration_example","rights_status":"pending","exportable":false}
+{"record_id":"sample-001","sources":["docs/temes/costums/ritus-de-pas/la-passa.md"],"review_status":"editorial_example","rights_status":"pending","exportable":false}
+{"record_id":"sample-002","sources":["docs/temes/costums/caramelles/les-caramelles.md"],"review_status":"editorial_example","rights_status":"pending","exportable":false}
+{"record_id":"sample-003","sources":["docs/temes/institucions/consell-general/cap-de-casa-pero-de-casa-antiga.md","docs/temes/historia/segle-xix/nova-reforma.md","docs/temes/llengua/lexic-andorra/glossari-de-mots-documentats.md"],"review_status":"editorial_example","rights_status":"pending","exportable":false}

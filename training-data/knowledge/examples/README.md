@@ -1,3 +1,3 @@
-# Mostres de calibratge
+# Mostres editorials
 
-`conversations.jsonl` conté cinc exemples multitorn per revisar naturalitat, continuïtat i exactitud factual. Són mostres internes, no registres aprovats per entrenar. La procedència corresponent és a `provenance.jsonl`.
+Aquestes converses defineixen el nivell de naturalitat i continuïtat buscat. Serveixen per calibrar el criteri, no per mesurar la cobertura del corpus ni com a dades entrenables. La procedència i l'estat dels drets són a `provenance.jsonl`.

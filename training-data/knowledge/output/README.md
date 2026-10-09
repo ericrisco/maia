@@ -1,3 +1,3 @@
-# Exports de Maia Knowledge
+# Exports de Knowledge
 
-Encara buit: les mostres de calibratge no són dades aprovades per entrenar. Els fitxers `train`, `validation` i `test` només es crearan després de revisar qualitat, procedència, drets i estratègia de partició.
+No hi ha exports aprovats. Els fitxers `train`, `validation` i `test` només es crearan després de revisar qualitat, drets, duplicats i separació de fonts.

@@ -1,3 +1,5 @@
-# Revisió de Maia Knowledge
+# Revisió de Knowledge
 
-Els futurs candidats s'afegeixen aquí després de contrastar cada afirmació amb el corpus. Abans d'afegir registres, revisa les mostres de `../examples/` i aplica `../../PLAN.md`. La procedència i l'estat dels drets es mantenen separats dels missatges.
+Encara no hi ha candidats. Quan se n'afegeixin, cada línia de `conversations.jsonl` serà una conversa completa amb missatges `user` i `assistant` alternats. `provenance.jsonl` tindrà una fila amb les fonts, notes de verificació i estat de drets per cada `record_id`.
+
+Abans d'aprovar: pregunta humana, seguiments naturals, resposta directa, afirmacions verificades, incertesa preservada i cap dada interna dins dels missatges. Les mostres de `../examples/` són el patró editorial, no un substitut de la revisió.

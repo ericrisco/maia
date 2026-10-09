@@ -1,3 +1,3 @@
-# Informes de Maia Language
+# Informes de Language
 
-Aquesta carpeta recollirà les peces inspeccionades, les elegibles, les excloses i els fragments utilitzats o descartats.
+Aquí es documentaran les peces inspeccionades, incloses i excloses, la qualitat de transcripció i la cobertura per split. Encara no hi ha informes de dataset.
