@@ -5,13 +5,13 @@ Inventaris basats en els Markdown actuals de `docs/temes/` i `docs/parla/`. Els 
 ## Knowledge
 
 - Documents inventariats: 1477
-- Pendents de revisió de contingut: 1310
-- Documents amb converses candidates: 28
-- Converses candidates vinculades a la cobertura: 33
+- Pendents de revisió de contingut: 1309
+- Documents amb converses candidates: 29
+- Converses candidates vinculades a la cobertura: 34
 - Exclosos per drets de reutilització: 3
 - Índexs/navegació: 136
 - Exemples de calibratge: 3; no compten com a cobertura aprovada.
-- Exportacions: cap; els candidats encara requereixen revisió editorial i de drets.
+- Exportacions: cap; els candidats requereixen revisió editorial i de drets.
 
 Les exclusions actuals per drets inclouen tres documents derivats de *Anàlisi fisiogràfica de topònims andorrans d'arrel preromana* (2018), una obra amb drets reservats i sense llicència oberta. La font del Govern indica explícitament que el material no entra en datasets.
 
