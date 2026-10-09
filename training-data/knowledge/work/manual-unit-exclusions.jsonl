@@ -115,3 +115,5 @@
 {"evidence_id":"temes/costums/sant-antoni/sant-antoni-index-de-fitxes.md#block-00002","reason":"internal_voice_metadata_not_domain_knowledge"}
 {"evidence_id":"temes/costums/sant-antoni/sant-antoni-index-de-fitxes.md#block-00004","reason":"index_navigation_link"}
 {"evidence_id":"temes/costums/danses/les-festes-de-lossa.md#block-00026","reason":"editorial_cross_document_coverage_note_repeats_emigration_facts_covered_by_conversation"}
+{"evidence_id":"temes/costums/danses/el-ball-del-cerda.md#block-00022","reason":"cross_reference_navigation_fact_already_covered"}
+{"evidence_id":"temes/costums/danses/el-ball-del-cerda.md#block-00023","reason":"parish_context_already_covered_not_standalone_knowledge"}
