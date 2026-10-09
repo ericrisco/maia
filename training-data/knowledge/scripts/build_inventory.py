@@ -12,6 +12,7 @@ sys.path.insert(0, str(REPO / "src"))
 
 from training_data.inventory import scan_tree  # noqa: E402
 from training_data.knowledge import extract_knowledge, write_knowledge_extraction  # noqa: E402
+from training_data.knowledge_generate import load_review_conversations  # noqa: E402
 
 
 def main() -> None:
@@ -20,6 +21,23 @@ def main() -> None:
     work = REPO / "training-data/knowledge/work"
     reports = REPO / "training-data/knowledge/reports"
     report = write_knowledge_extraction(ledger, work=work, reports=reports)
+
+    review_conversations = REPO / "training-data/knowledge/review/conversations.jsonl"
+    review_provenance = REPO / "training-data/knowledge/review/provenance.jsonl"
+    candidates = load_review_conversations(review_conversations, review_provenance, ledger)
+    candidate_evidence = {
+        evidence_id
+        for candidate in candidates
+        if candidate.review_status != "human_reviewed"
+        for evidence_id in candidate.evidence_ids
+    }
+    approved_evidence = {
+        evidence_id
+        for candidate in candidates
+        if candidate.review_status == "human_reviewed"
+        for evidence_id in candidate.evidence_ids
+    }
+    candidate_evidence -= approved_evidence
 
     units_by_document: dict[str, list[object]] = {}
     for unit in ledger.units:
@@ -44,10 +62,11 @@ def main() -> None:
                 "table_rows",
                 "blockquotes",
                 "links",
-                "coverage_status",
-                "represented_units",
+                "candidate_units",
+                "approved_units",
                 "excluded_units",
                 "unresolved_units",
+                "coverage_status",
                 "review_notes",
             ]
         )
@@ -59,6 +78,18 @@ def main() -> None:
                 for unit in units
                 if unit.block_kind == "heading" and unit.heading_path
             }
+            document_ids = {unit.id for unit in units}
+            candidate_count = len(document_ids & candidate_evidence)
+            approved_count = len(document_ids & approved_evidence)
+            unresolved_count = len(units) - candidate_count - approved_count
+            if unresolved_count == 0 and candidate_count == 0:
+                status = "complete"
+            elif unresolved_count == 0:
+                status = "awaiting_approval"
+            elif candidate_count or approved_count:
+                status = "in_progress"
+            else:
+                status = "not_started"
             references = document.provenance
             writer.writerow(
                 [
@@ -75,10 +106,11 @@ def main() -> None:
                     kinds["table_row"],
                     kinds["blockquote"],
                     links_by_document[document.path],
-                    "not_reviewed",
+                    candidate_count,
+                    approved_count,
                     0,
-                    0,
-                    len(units),
+                    unresolved_count,
+                    status,
                     document.error or "",
                 ]
             )
@@ -87,6 +119,7 @@ def main() -> None:
     print(f"Sections: {report.sections_processed}")
     print(f"Tables / rows: {report.tables_processed} / {report.table_rows_processed}")
     print(f"Evidence units: {report.units_detected}")
+    print(f"Review candidates: {len(candidates)}")
     print(f"Coverage register: {coverage_path.relative_to(REPO)} ({len(ledger.documents)} documents)")
 
 
