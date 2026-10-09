@@ -1,0 +1,12 @@
+{
+  "eligible_pieces": 38,
+  "excluded_pieces": 7,
+  "markdown_errors": 0,
+  "processed_entries": 45,
+  "source_redistribution": {
+    "pendent": 40
+  },
+  "speech_documents": 40,
+  "uncertainty_spans": 8449,
+  "unresolved_pieces": 0
+}
