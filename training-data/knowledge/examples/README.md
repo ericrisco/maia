@@ -1,5 +1,5 @@
 # Exemples de calibratge
 
-Els registres de `conversations.jsonl` mostren el patró conversacional que volem provar: dubte recognoscible, resposta directa i seguiment que surt de la resposta. No s'exporten ni es consideren aprovats per a entrenament.
+`conversations.jsonl` conté tres diàlegs per provar la naturalitat: una confusió sorgida d'un programa, una reacció a una escena i una comparació útil per a una visita. Són exemples editorials; no s'exporten ni compten com a cobertura.
 
-La procedència, les afirmacions cobertes i l'estat dels drets són a `provenance.jsonl`. De moment tots els exemples són `exportable: false`.
+La procedència, les afirmacions cobertes i l'estat dels drets són a `provenance.jsonl`. Tots els exemples són `exportable: false`. Per decidir si un diàleg nou té aquest nivell, aplica [`../review/EXEMPLES.md`](../review/EXEMPLES.md).

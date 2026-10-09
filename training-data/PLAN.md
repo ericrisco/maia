@@ -32,13 +32,13 @@ training-data/
 
 ## Procés per escriure una conversa de Knowledge
 
-1. **Llegeix la font sencera.** Entén què afirma, què atribueix a una font i què deixa obert.
-2. **Descriu la necessitat humana en una línia interna.** Exemples: «vol saber si pot reclamar un deute a una autoritat» o «vol entendre què veurà en una festa».
-3. **Tanca la font i redacta la primera intervenció.** No citis títols, seccions, files, gràfics o “la fitxa”. La pregunta ha de tenir prou context per entendre's sola.
-4. **Respon directament.** La primera frase resol el dubte. Després afegeix els límits o matisos que evitin una impressió falsa.
-5. **Continua la conversa.** Afegeix una altra pregunta que algú faria en sentir la resposta. Ha de demanar una cosa nova i dependre del que s'acaba de dir; no cal repetir el context si el seguiment és clar.
-6. **Llegeix només els missatges, en veu alta.** Si sona a examen, encàrrec escolar, visita guiada per la fitxa o qüestionari de dades, reescriu-ho.
-7. **Verifica cada afirmació i registra la procedència a part.** Una pregunta natural no compensa una resposta sense suport o uns drets pendents.
+1. **Llegeix la font sencera**, incloses les notes sobre què és incert i què no s'ha comprovat.
+2. **Busca una situació de conversa recognoscible** que el corpus ajudi a resoldre: una confusió habitual, una decisió pràctica, una comparació que algú ja està fent o una afirmació que li han dit. No inventis una biografia per fer-la sonar humana.
+3. **Escriu la pregunta sense mirar el títol de la fitxa.** Ha d'explicar el context imprescindible amb paraules quotidianes. No cal que sigui una pregunta completa si una persona diria «Ah, i això quan passa?» com a seguiment.
+4. **Respon com un assistent**, no com un catàleg. Contesta primer, explica els termes locals i afegeix només el context necessari. No copiïs frases editorials com «la fitxa diu» ni comencis amb fragments penjats.
+5. **Escolta què obre la resposta.** El torn següent ha de sortir d'aquell punt: aclarir una conseqüència, resoldre una confusió o preguntar per un detall que ara té sentit. Si no n'hi ha, canvia d'angle o descarta la conversa; no afegeixis una segona targeta de preguntes.
+6. **Llegeix només el diàleg en veu alta.** Si cada torn sona com una pregunta d'examen, una entrevista al document o una seqüència dissenyada per exhibir cobertura, reescriu-lo.
+7. **Comprova naturalitat i fets per separat.** Un diàleg fluid pot contenir errors; una resposta correcta pot continuar sonant artificial. Verifica les afirmacions i registra la procedència i els drets a part.
 
 ### Prova de naturalitat abans d'escriure
 
@@ -47,21 +47,23 @@ Redacta primer una nota interna amb aquesta forma: **«La persona vol entendre/d
 La conversa ha de superar aquestes proves:
 
 - **Context autònom:** s'entén sense veure el document ni els missatges previs.
-- **Motiu recognoscible:** hi ha una curiositat, confusió, comparació o conseqüència concreta darrere la pregunta.
+- **Motiu recognoscible:** s'entén per què algú ho pregunta ara; no n'hi ha prou que la pregunta es pugui formular sobre aquella fitxa.
 - **Resposta completa:** el primer enunciat de l'assistent resol el dubte; no és un títol, una llista sense introducció ni un fragment de la font.
 - **Seguiment conversacional:** la segona pregunta reacciona a la resposta i demana una aclaració, un límit o una conseqüència que una persona voldria saber a continuació.
 - **Veu no fabricada:** no inventis una situació personal («m'ha passat…», «vull denunciar…») si no cal per formular el dubte.
-- **Varietat real:** no reutilitzis una mateixa plantilla canviant-hi només el topònim, la xifra o el nom.
+- **Veu oral variada:** alterna preguntes directes, dubtes, reaccions, peticions pràctiques i correccions de premissa. No omplis cada registre de «He vist que…», «És veritat que…», «Aleshores…» o «Se sap per què…».
+- **Fil de conversa:** no facis que cada diàleg tingui la mateixa arquitectura de dos torns pregunta-resposta ni que cada seguiment sigui una pregunta sobre allò que la font no explica.
+- **Varietat real:** no reutilitzis una mateixa plantilla canviant-hi el topònim, la xifra o el nom.
 
 No obliguis tots els registres a tenir el mateix nombre de torns. La pauta habitual és de dues parelles user/assistant, però un seguiment que no sorgeix de la primera resposta és pitjor que descartar el registre. Si la conversa s'allarga, cada torn ha d'afegir una necessitat nova i respondre-la sense perdre el fil.
 
 Abans de redactar, classifica la necessitat —per exemple, aclarir una contradicció, entendre una regla, saber què canvia entre dos casos, comprovar una premissa o entendre una conseqüència—. Fes servir aquesta classificació només per diversificar la cobertura; no converteixis les categories en motlles de pregunta.
 
-La guia vinculant de redacció i revisió és [`knowledge/review/EXEMPLES.md`](knowledge/review/EXEMPLES.md). La línia pública de `knowledge/review/conversations.jsonl` conté només `{"messages":[...]}`; `provenance.jsonl` manté la traça interna alineada per línia, incloent-hi evidències, motiu humà de la consulta, seguiment, estat de revisió i drets.
+La guia vinculant de redacció i revisió és [`knowledge/review/EXEMPLES.md`](knowledge/review/EXEMPLES.md). Els diàlegs de `knowledge/examples/` serveixen només per calibrar el to i no compten com a dades ni com a cobertura. La línia de `knowledge/review/conversations.jsonl` conté només `{"messages":[...]}`; `provenance.jsonl` manté la traça interna alineada per línia, incloent-hi evidències, motiu humà de la consulta, seguiment, estat de revisió i drets.
 
 ### Regla multitorn
 
-Una conversa de Knowledge que proposem per a revisió té almenys dues parelles de pregunta i resposta. El segon torn ha de ser un seguiment versemblant, no una variació de la primera pregunta ni una dada afegida només per arribar al mínim. Si no hi ha cap continuació honesta, no forcem la conversa: anotem la unitat a cobertura i la deixem fora dels candidats multitorn.
+Una conversa de Knowledge que proposem per a revisió és multitorn: normalment té dues o tres parelles de pregunta i resposta. No hi ha una quota fixa de torns. Cada intervenció ha de reaccionar a l'anterior i fer avançar el mateix fil. Si la continuació només serveix per afegir una dada independent, no és una conversa multitorn útil: busca un altre angle o deixa aquella unitat fora dels candidats.
 
 ### Preguntes que es rebutgen
 
@@ -74,7 +76,7 @@ No passen la revisió preguntes com:
 
 Depenen del document o produeixen respostes penjades. No n'hi ha prou de canviar «secció» per «text»: cal identificar què vol resoldre la persona.
 
-També es rebutja una pregunta que només soni oral però continuï sent una ordre de lectura, com ara «M'expliques aquest gràfic?» si el diàleg no diu quin dubte vol resoldre. Igualment, una resposta pot ser fluida i continuar sent dolenta si no contesta la pregunta, deixa el referent implícit o barreja fets que la font no relaciona.
+També es rebutja una pregunta que només soni oral però continuï sent una ordre de lectura, com ara «M'expliques aquest gràfic?» si el diàleg no diu quin dubte vol resoldre. Igualment, una resposta pot ser fluida i continuar sent dolenta si no contesta la pregunta, deixa el referent implícit o barreja fets que la font no relaciona. Expressions com «He vist que…» o «M'han dit que…» no fan humana una pregunta per si soles: només s'usen quan creen un context versemblant i no una excusa per empaquetar un fet.
 
 ## Porta de qualitat
 
@@ -106,7 +108,7 @@ Els fitxers de conversa d'exportació contindran només missatges `user` i `assi
 ## Ordre de treball i definició d'acabament
 
 1. Reconstituir l'inventari complet de Knowledge i l'auditoria d'elegibilitat de Language.
-2. Revisar primer els exemples de calibratge amb la guia. La cua activa de `knowledge/review/` comença buida. Els registres antics conservats en còpies o en la història de Git no s'hi reincorporen automàticament: només es pot recuperar una conversa després de reescriure-la des de la necessitat humana, verificar cada afirmació i tornar a registrar-ne la procedència. No afegir registres nous fins que els exemples de calibratge passin la revisió. La cobertura tampoc no es dona per feta perquè hi hagués una pregunta antiga.
+2. Revisar primer els exemples de calibratge amb la guia. La cua actual de `knowledge/review/` conté registres anteriors a aquesta guia: no es consideren aprovats ni una base per crear més registres. Abans de reprendre la producció, cal retirar-los de la cua activa o revisar-los un per un des de la necessitat humana. No afegir registres nous fins que els exemples de calibratge passin la revisió. La cobertura tampoc no es dona per feta perquè hi hagués una pregunta antiga.
 3. Treballar fitxa a fitxa i peça a peça. Cada nova conversa de Knowledge es revisa, es valida amb evidència i procedència, i rep el seu propi commit i push a `main` abans de començar la següent.
 4. Mantenir registres d'exclusió i cobertura que permetin demostrar què s'ha fet amb cada unitat i cada peça.
 5. Resoldre drets i deduplicar abans de fer splits. Knowledge s'agrupa per tema/font quan cal evitar filtració; Language s'agrupa com a mínim per peça i, quan es coneix, per parlant.

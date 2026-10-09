@@ -1,111 +1,82 @@
-# Guia per a converses de Maia Knowledge
+# Guia de qualitat per a converses de Maia Knowledge
 
-## Comença per la persona
+## El problema que volem evitar
 
-Escriu primer, només per a tu, què intenta resoldre la persona. Exemples: entendre si una norma canviava segons qui demandava, saber què podia fer el propietari d'una finca, o entendre per què un lloc té una història concreta.
+Una pregunta pot ser gramatical i correcta i, tot i així, no semblar una cosa que preguntaria una persona. Això passa quan la conversa només serveix per recitar una fitxa: «què explica aquesta secció?», «què indica aquesta fila?» o una successió de preguntes curtes que cobreixen fets independents.
 
-Després redacta la pregunta com la diria algú que no ha vist el corpus. Dona el context que calgui, però no parlis de fitxes, seccions, taules, gràfics, files ni fragments. No copiïs l'encapçalament de la font com si fos una consulta.
+No disfressis aquest patró afegint «he vist que», «m'han dit que» o «és veritat que». Aquestes expressions només funcionen quan la situació i el dubte són plausibles per si mateixos.
 
-## Mantén el fil
+## Abans de redactar
 
-La primera resposta ha de contestar la pregunta. El seguiment ha de sortir d'allò que acaba de sentir la persona i demanar una cosa nova. Mantén referents clars: si el segon torn diu «això», ha de quedar clar a què es refereix.
+Escriu una nota interna: **«Aquesta persona vol…»**. Ha de descriure una necessitat concreta, com orientar-se en una festa, aclarir una confusió o entendre què implica una dada. «Vol saber què diu el document» no serveix.
 
-No afegeixis torns per complir una quota. Si el corpus no permet un seguiment natural, busca un altre angle o no facis servir aquella unitat com a conversa. La naturalitat i la correcció valen més que la llargada.
+Després tanca la font i prova d'escriure el diàleg des d'aquesta necessitat. No inventis que l'usuari hi era, que va llegir una font o que té un problema personal. Dona només el context que una conversa real necessitaria.
 
-## Escriu respostes completes
+## Com ha de sonar
 
-- Comença per la resposta, no per una introducció sobre la font.
-- Fes servir frases completes i explica els termes locals.
-- Afegeix només els detalls útils per entendre la resposta.
-- No transformis interpretacions en fets ni completis buits amb intuïcions.
-- Si les fonts discrepen, explica què sosté cada versió i què queda sense resoldre.
-- Si una dada no consta, digues-ho amb claredat.
+- La primera pregunta pot tenir context («Al programa hi surten…») o anar al gra («La sang és de debò?»). No ha de seguir una plantilla fixa.
+- L'assistent respon primer la pregunta. Després explica el terme local o el límit necessari, sense parlar de «la fitxa» ni de «la font» si no és rellevant per a l'usuari.
+- El seguiment reacciona a la resposta i fa avançar el mateix tema. Pot ser breu; no ha de repetir tots els noms ni reformular la primera pregunta.
+- Una conversa pot tenir dos, tres o més seguiments si sorgeixen de debò. No afegeixis torns només per assolir un recompte.
+- Si el corpus no permet contestar una part, digues què se sap i què queda obert amb paraules normals. No converteixis cada seguiment en «se sap per què?».
+- Varia les veus i el ritme. Una persona pot corregir-se, demanar una precisió, dubtar d'una afirmació o preguntar què pot esperar d'un acte.
 
-## Exemples de redacció
+## Calibratge: diàlegs que sí que volem
 
-**En lloc de:** «Què explica la secció “La regla de competència: depèn de qui és demandat”?»
+Aquests exemples fixen el to. No són registres aprovats ni compten com a cobertura. La procedència de cada exemple és a `../examples/provenance.jsonl`.
 
-**Pregunta humana:** «Si un comú em reclamava una cosa, m'havia de jutjar el mateix tribunal que si jo el reclamava a ell?»
-
-La primera pregunta demana una resposta sobre un dubte jurídic. La segona demana que s'extregui un fragment.
-
-**En lloc de:** «Què indica aquesta fila del gràfic?»
-
-**Pregunta humana, si el dubte és sobre les dades:** «Aquestes xifres semblen contradir el text. Quina dada és més fiable i què no es pot assegurar?»
-
-Si les fonts no permeten decidir quina és correcta, la resposta ho ha de dir. No s'ha d'inventar una reconciliació.
-
-## Converses de calibratge
-
-Aquests diàlegs mostren el nivell esperat. Són exemples editorials, no registres nous ni aprovats per exportar. Les fonts i els estats de drets continuen a la procedència interna.
-
-### Dubte sobre una regla històrica
-
-**Consulta que es rebutja:** «Què explica la secció “La regla de competència: depèn de qui és demandat”?»
-
-**Necessitat humana:** entendre si un cònsol tenia una protecció especial davant dels tribunals i si depenia del tipus de causa.
+### Un dubte nascut d'un programa de festa
 
 ```text
-user: A l’Andorra del segle XIX, es podia portar un cònsol als tribunals per un deute privat com a qualsevol altre veí?
-assistant: Depenia del moment i de si el deute era personal o l’havia contret en exercici del càrrec. Abans de la Reforma de 1866 calia autorització prèvia per a qualsevol causa civil contra un cònsol; després, l’autorització només es mantenia per als deutes del càrrec.
-user: I si el problema era que havia comès un delicte?
-assistant: Per a una causa criminal no calia aquella autorització. La font marca aquesta diferència entre reclamacions civils i persecució criminal, però no n’explica el motiu.
+user: Al programa de la festa major de Sant Julià, la Passa surt al costat de la Marratxa. Són dos balls?
+assistant: La Marratxa sí que és un ball; la Passa és una cercavila de parelles de fadrins pels carrers. Totes dues es fan el dilluns de la festa major.
+user: Ah, entesos. I a la Passa les parelles van barrejades?
+assistant: No. Van ordenades per edat, i al davant hi van les parelles que s'han de casar aquell any.
 ```
 
-El seguiment és natural perquè demana si la regla que acaba de sentir també s'aplicava a un altre tipus de causa. La resposta separa civil i criminal i no inventa el motiu de la diferència.
+Per què funciona: el dubte neix d'una confusió concreta i la resposta permet entendre què veurà la persona. El seguiment demana un detall del mateix acte.
 
-### Contradicció entre xifres
-
-**Consulta que es rebutja:** «Què indica aquesta fila?»
-
-**Necessitat humana:** aclarir quin balanç es pot afirmar quan la mateixa font dona recomptes diferents.
+### Una pregunta espontània sobre una escena
 
 ```text
-user: A les inundacions del 1982 a Andorra, quanta gent va morir? He vist xifres diferents.
-assistant: Per a Andorra, la font dona set morts i dotze desapareguts. Però no permet tancar el recompte: en altres punts del mateix article el total de morts passa de catorze a dotze, i també s’hi diu que inicialment s’havia parlat d’una cinquantena de víctimes a Andorra. Sense una font andorrana de contrast, no es pot triar una xifra definitiva.
-user: I dels desapareguts, se’n va saber mai res?
-assistant: La font no diu què se’n va acabar sabent ni n’identifica els noms. Per resoldre-ho caldria consultar els registres andorrans.
+user: Quan maten l'ossa d'Ordino, la sang que reparteixen és de veritat?
+assistant: No. És aigua amb granadina. Dins la farsa, la minyona la «pua» i en comparteix la victòria amb el públic.
+user: I després ja s'acaba la representació?
+assistant: No, acaba amb un ball col·lectiu de cançons populars, en què també participa l'ossa.
 ```
 
-La resposta manté la discrepància visible. El seguiment pregunta per una conseqüència que la primera resposta deixa oberta, i l'assistent admet què no consta.
+Per què funciona: és una reacció plausible a una escena; la conversa continua amb què passa després, sense convertir-se en una llista de dades de la festa.
 
-### Entendre com funciona una institució
-
-**Consulta que es rebutja:** «Què explica la secció sobre els dos cosenyors?»
-
-**Necessitat humana:** saber què passava si els dos cosenyors no coincidien i quin paper tenia el Consell General.
+### Distingir dues peces d'una visita
 
 ```text
-user: Si els dos cosenyors no es posaven d’acord sobre una llei, qui ho desencallava? El país quedava aturat?
-assistant: Segons André Vilar, el 1904 el poble podia desempatar-los amb un referèndum; la manca d’acord no obligava a mantenir l’statu quo. Ara bé, Vilar no cita cap norma ni cap precedent que confirmi com s’havia aplicat aquesta regla.
-user: I el Consell General podia fer lleis pel seu compte?
-assistant: Formalment, no, en la lectura de Vilar: la llei depenia de l’acord dels dos cosenyors. A la pràctica, però, el Consell sovint proposava disposicions i l’acord tàcit dels cosenyors les convertia en lleis. Vilar també diu que moltes lleis consagraven costums que els andorrans ja s’havien donat.
+user: A Sant Joan de Caselles, la crucifixió i el retaule són tots dos romànics?
+assistant: No. La Crucifixió és una obra romànica d'estuc del segle XII i es conserva dins l'església. El retaule és molt posterior, del 1527, amb influències del Renaixement italià i germànic.
+user: La crucifixió l'han mogut d'on era originalment?
+assistant: No. Es conserva in situ: no l'han arrencat ni traslladat a un museu.
 ```
 
-La resposta distingeix entre la regla formal i la pràctica descrita per l'autor, sense presentar aquesta interpretació com una certesa jurídica independent.
+Per què funciona: la comparació és útil per a qui visita el lloc. El seguiment demana una conseqüència concreta de la primera resposta.
 
-### Quan el seguiment no és prou bo
+## Reescriptures i descart
 
-```text
-user: A les eleccions andorranes, la votació parroquial també reparteix els escons proporcionalment als vots?
-assistant: No. A cada parròquia, les dues candidatures més votades obtenen un escó cadascuna.
-user: I quants habitants té Canillo?
-```
+| No passa | Per què | Direcció útil |
+|---|---|---|
+| «Què explica la secció “El relat”?» | Depèn d'un document i no revela cap necessitat. | Pregunta pel dubte que el relat pot aclarir. |
+| «Què indica aquesta fila?» | No s'entén sense veure la taula. | Digues quines xifres xoquen i què necessites aclarir. |
+| «I dos topònims que en surten?» | És un fragment sense pregunta ni context. | Descarta'l si ningú no tindria un motiu real per demanar-los. |
+| «Què és la Passa? I quan és? I qui hi participa?» | Sembla un qüestionari de cobertura. | Comença pel dubte principal i deixa que el seguiment surti de la resposta. |
+| «He vist que la Marratxa té tres noies. Per què?» | Pot ser una pregunta natural, però no si l'únic objectiu és extreure una dada i el seguiment no avança. | Conserva-la només si la resposta i el torn següent formen una conversa clara i útil. |
 
-Encara que les dues preguntes siguin humanes per separat, el seguiment no sorgeix de la resposta i canvia de tema sense motiu. Cal triar un altre seguiment que aclareixi el sistema electoral o descartar aquesta parella.
+## Revisió abans d'afegir un candidat
 
-## Porta de qualitat
+Llegeix només els missatges, en veu alta, sense títols ni procedència. Accepta el diàleg només si pots respondre «sí» a tot això:
 
-Abans d'acceptar un exemple, comprova:
+1. Entenc qui pregunta i què intenta aclarir sense haver vist el corpus?
+2. La pregunta inicial sortiria en una conversa real, sense explicar una història inventada?
+3. L'assistent resol la pregunta a la primera frase i conserva els matisos importants?
+4. El seguiment respon al que s'acaba de dir i manté el mateix fil?
+5. Les respostes sonen com ajuda d'una persona informada, no com notes enganxades d'una fitxa?
+6. Cada afirmació està coberta per l'evidència i té procedència i drets registrats per separat?
 
-- La pregunta inicial sona plausible en una conversa real i s'entén tota sola.
-- La resposta resol el dubte a la primera frase.
-- El seguiment continua el mateix fil i pregunta una cosa nova.
-- El diàleg no pressuposa que la persona conegui la font.
-- Cada fet es pot verificar en una font citada a la procedència.
-- La llicència i la redistribució estan registrades. Si no permeten entrenar, l'exemple no s'exporta.
-- Llegit en veu alta, sembla una conversa d'ajuda i no un examen.
-- El seguiment sorgeix de la resposta anterior; no és una segona targeta de preguntes enganxada al mateix registre.
-- La resposta no queda interrompuda ni depèn d'un missatge que no hi és.
-
-Els missatges contenen només les veus `user` i `assistant`. Els IDs, les fonts, les notes editorials i els estats de revisió van a `provenance.jsonl`.
+Si falla la naturalitat, no ho arreglis afegint un altre torn. Reescriu-ho des de la necessitat humana o descarta-ho.
