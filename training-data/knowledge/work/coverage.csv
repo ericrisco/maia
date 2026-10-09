@@ -1,6 +1,6 @@
 path,topic,title,type,voice,period,language_eligible,status,conversation_ids,notes
 docs/temes/costums/calendari-festiu/calendari-festiu-index-de-fitxes.md,costums/calendari-festiu,Calendari festiu — índex de fitxes,index,,,false,pending,,
-docs/temes/costums/calendari-festiu/calendari-festiu.md,temes/costums/calendari-festiu,El calendari festiu,article,compilada,contemporania,false,pending,,
+docs/temes/costums/calendari-festiu/calendari-festiu.md,temes/costums/calendari-festiu,El calendari festiu,article,compilada,contemporania,false,in_progress,knowledge-0001,One candidate conversation; more sections and claims still need review.
 docs/temes/costums/calendari-festiu/el-carnaval-dencamp.md,temes/costums/calendari-festiu,El carnaval d'Encamp,article,compilada,contemporania,false,pending,,
 docs/temes/costums/caramelles/caramelles-index-de-fitxes.md,costums/caramelles,Caramelles — índex de fitxes,index,,,false,pending,,
 docs/temes/costums/caramelles/les-caramelles.md,temes/costums/caramelles,Les caramelles,article,compilada,contemporania,false,pending,,
@@ -21,7 +21,7 @@ docs/temes/costums/festes-majors/festes-majors.md,temes/costums/festes-majors,Fe
 docs/temes/costums/gegants/els-gegants.md,temes/costums/gegants,Els gegants,article,compilada,contemporania,false,pending,,
 docs/temes/costums/gegants/gegants-index-de-fitxes.md,costums/gegants,Gegants — índex de fitxes,index,,,false,pending,,
 docs/temes/costums/meritxell/meritxell-index-de-fitxes.md,costums/meritxell,Meritxell — índex de fitxes,index,,,false,pending,,
-docs/temes/costums/meritxell/meritxell.md,temes/costums/meritxell,Meritxell,article,compilada,contemporania,false,pending,,
+docs/temes/costums/meritxell/meritxell.md,temes/costums/meritxell,Meritxell,article,compilada,contemporania,false,in_progress,knowledge-0001,One candidate conversation; more sections and claims still need review.
 docs/temes/costums/religiositat/el-registre-dentitats-religioses.md,temes/costums/religiositat,El registre d'entitats religioses,article,compilada,contemporania,false,pending,,
 docs/temes/costums/religiositat/la-inquisicio-a-andorra.md,temes/costums/religiositat,La Inquisició a Andorra,article,compilada,contemporania,false,pending,,
 docs/temes/costums/religiositat/les-religions-dandorra-avui.md,temes/costums/religiositat,Les religions d'Andorra avui,article,compilada,contemporania,false,pending,,
