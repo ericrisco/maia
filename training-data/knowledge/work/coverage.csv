@@ -4,8 +4,8 @@ docs/temes/costums/calendari-festiu/calendari-festiu.md,El calendari festiu,arti
 docs/temes/costums/calendari-festiu/el-carnaval-dencamp.md,El carnaval d'Encamp,article,candidate_pending_review,knowledge-0002;knowledge-0009,"Candidates cover Sunday/Monday timing and the indoor operation, its approximate introduction and scene; source/rights review pending."
 docs/temes/costums/caramelles/caramelles-index-de-fitxes.md,Caramelles — índex de fitxes,index,navigation_only,,
 docs/temes/costums/caramelles/les-caramelles.md,Les caramelles,article,candidate_pending_review,knowledge-0003;knowledge-0012,"Candidates cover general schedule/history and Sant Julià’s three-hour street route, singing stops and donations; rights pending."
-docs/temes/costums/costums-d-andorra-index-de-fitxes.md,Costums d'Andorra — índex de fitxes,index,navigation_only,,
-docs/temes/costums/danses/danses-index-de-fitxes.md,Danses — índex de fitxes,index,navigation_only,,
+docs/temes/costums/costums-d-andorra-index-de-fitxes.md,Costums d'Andorra — índex de fitxes,index,pending_review,,"Index contains 105 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
+docs/temes/costums/danses/danses-index-de-fitxes.md,Danses — índex de fitxes,index,pending_review,,"Index contains 236 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/costums/danses/danses.md,Danses — índex,article,candidate_pending_review,knowledge-0061,"Candidate explains that documented dances belong to particular parishes and corrects the misconception that La Passa is a dance; source attribution and reuse terms remain pending."
 docs/temes/costums/danses/el-ball-de-lossa-dencamp.md,El ball de l'ossa d'Encamp,article,candidate_pending_review,knowledge-0008;knowledge-0010,Candidate covers the sourced initiation-rite interpretation and the role of the dallaires; some claims are relayed through Wikipedia and rights review remains pending.
 docs/temes/costums/danses/el-ball-del-cerda.md,El ball del Cerdà,article,candidate_pending_review,knowledge-0007,Candidate covers time/place and preserves uncertainty about the name’s relation to Cerdanya; press source/rights review pending.
@@ -26,7 +26,7 @@ docs/temes/costums/religiositat/el-registre-dentitats-religioses.md,El registre 
 docs/temes/costums/religiositat/la-inquisicio-a-andorra.md,La Inquisició a Andorra,article,candidate_pending_review,knowledge-0018;knowledge-0021,Candidates cover the 1601 privilege/jurisdiction and Capella’s 1599 limit on excommunication for debts/civil matters; source and rights review pending.
 docs/temes/costums/religiositat/les-religions-dandorra-avui.md,Les religions d'Andorra avui,article,candidate_pending_review,knowledge-0016,Candidate distinguishes a religious-population estimate from the 2020 nationality count and preserves uncertainty about origins; rights pending.
 docs/temes/costums/religiositat/levangelitzacio.md,L'evangelització,article,candidate_pending_review,knowledge-0019,Candidate distinguishes first documented bishop (531) from the unknown arrival of Christianity and labels the Tarragona route as hypothesis; rights pending.
-docs/temes/costums/religiositat/religiositat-index-de-fitxes.md,Religiositat — índex de fitxes,index,navigation_only,,
+docs/temes/costums/religiositat/religiositat-index-de-fitxes.md,Religiositat — índex de fitxes,index,pending_review,,"Index contains 149 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/costums/religiositat/religiositat.md,La religiositat,article,candidate_pending_review,knowledge-0062,"Candidate explains the bishop’s constitutional role and the decision and date behind the national feast; source-specific attribution and reuse rights remain pending."
 docs/temes/costums/ritus-de-pas/la-passa.md,La Passa,article,candidate_pending_review,knowledge-0044,"Candidate explains La Passa as a procession rather than a dance and defines the leading couples as majors fadrins; its press/Government citations are not individually identified and reuse rights remain pending."
 docs/temes/costums/ritus-de-pas/ritus-de-pas-index-de-fitxes.md,Ritus de pas — índex de fitxes,index,navigation_only,,
@@ -40,7 +40,7 @@ docs/temes/cultura/andorra-vista-de-fora/els-gravats-romàntics.md,Els gravats r
 docs/temes/cultura/andorra-vista-de-fora/la-por-de-fondres.md,La por de fondre's,article,candidate_pending_review,knowledge-0047,"Candidate presents Ferrer’s 2002 political concern as his opinion, distinguishes it from an official forecast, and records that he offered no concrete plan; academic reuse rights remain pending."
 docs/temes/cultura/andorra-vista-de-fora/les-guies-de-viatge.md,Les guies de viatge,article,candidate_pending_review,knowledge-0049,"Candidate covers the mule journey estimate and practical information in French travel guides; academic source redistribution rights remain pending."
 docs/temes/cultura/andorra-vista-de-fora/lestafa-dandorra.md,"L'estafa d'Andorra, el documental",article,candidate_pending_review,knowledge-0050,"Candidate separates the platform events from the director’s explanation; source rights and attribution remain unresolved."
-docs/temes/cultura/arquitectura/arquitectura-index-de-fitxes.md,Arquitectura — índex de fitxes,index,navigation_only,,
+docs/temes/cultura/arquitectura/arquitectura-index-de-fitxes.md,Arquitectura — índex de fitxes,index,pending_review,,"Index contains 293 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/cultura/arquitectura/el-romanic-com-a-operacio-politica.md,El romànic com a operació política,article,candidate_pending_review,knowledge-0043,"Conversation preserves the author's unverified political hypothesis and the unresolved homage-date disagreement; academic reuse terms remain pending."
 docs/temes/cultura/arquitectura/els-estripagecs.md,Els estripagecs,article,candidate_pending_review,knowledge-0051,"Candidate distinguishes the traditional window bars from Ordino’s modern sculptures; source licensing and attribution remain pending."
 docs/temes/cultura/arquitectura/espai-columba.md,L'Espai Columba,article,candidate_pending_review,knowledge-0052,"Candidate supports visitor questions about the collection, Santa Coloma church and the surviving in-situ mural; Government reuse rights remain pending."
@@ -52,10 +52,10 @@ docs/temes/cultura/arquitectura/sant-miquel-dengolasters.md,Sant Miquel d'Engola
 docs/temes/cultura/arquitectura/sant-roma-de-les-bons.md,Sant Romà de les Bons,article,candidate_pending_review,knowledge-0058,"Candidate distinguishes the church’s later additions and relocated Romanesque murals; Government and Wikipedia reuse terms need review."
 docs/temes/cultura/arquitectura/sant-serni-de-canillo.md,Sant Serni de Canillo,article,candidate_pending_review,knowledge-0060,"Candidate distinguishes the Romanesque origin from the present Baroque structure and dates later alterations; source reuse terms remain unresolved."
 docs/temes/cultura/arquitectura/santa-coloma.md,Santa Coloma,article,candidate_pending_review,knowledge-0057,"Candidate traces the mural cycle’s removal, Nazi confiscation and return to Andorra, then identifies its attributed painter and subject matter; reuse rights remain pending."
-docs/temes/cultura/artesania/artesania-index-de-fitxes.md,Artesania — índex de fitxes,index,navigation_only,,
+docs/temes/cultura/artesania/artesania-index-de-fitxes.md,Artesania — índex de fitxes,index,pending_review,,"Index contains 366 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/cultura/artesania/el-ferro.md,El ferro — fargues i ferrers,article,candidate_pending_review,knowledge-0063,"Candidate distinguishes the protoindustrial farga from local blacksmith work and preserves the source’s conflict about the period of peak production; rights remain pending."
 docs/temes/cultura/artesania/el-textil.md,El tèxtil,article,candidate_pending_review,knowledge-0064,"Candidate follows the local textile industry from the 1620 market collapse through Escaldes’s blanket factory; academic source reuse rights remain pending."
-docs/temes/cultura/arts-visuals/arts-visuals-index-de-fitxes.md,Arts visuals — índex de fitxes,index,navigation_only,,
+docs/temes/cultura/arts-visuals/arts-visuals-index-de-fitxes.md,Arts visuals — índex de fitxes,index,pending_review,,"Index contains 575 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/cultura/arts-visuals/arts-visuals.md,Les arts visuals,article,candidate_pending_review,knowledge-0065,"Candidate identifies Dalí’s bronze La noblesa del temps in Plaça de la Rotonda and distinguishes the donor from the artist; verify attribution and CC BY-SA obligations before export."
 docs/temes/cultura/arts-visuals/balma-de-la-margineda.md,La Balma de la Margineda,article,candidate_pending_review,knowledge-0066,"Candidate summarizes the roughly ten-thousand-year-old finds while preserving uncertainty about whether they qualify as art; reuse rights remain pending."
 docs/temes/cultura/arts-visuals/els-mestres-anonims.md,Els mestres anònims,article,candidate_pending_review,knowledge-0067,"Candidate explains that ‘Master of X’ is a location-based label and distinguishes anonymous creators from copyists; academic reuse rights remain pending."
@@ -65,7 +65,7 @@ docs/temes/cultura/arts-visuals/lart-mes-antic.md,L'art més antic,article,candi
 docs/temes/cultura/arts-visuals/les-escoles-dart-comunals.md,Les escoles d'art comunals,article,candidate_pending_review,knowledge-0071,"Candidate explains why the communal art schools emerged and how the curriculum included Romanesque and rock art; academic reuse terms remain pending."
 docs/temes/cultura/arts-visuals/sergi-mas.md,Sergi Mas i Balaguer,article,candidate_pending_review,knowledge-0072,"Candidate connects Sergi Mas’s Meritxell replica to his wider ceramic practice and teaching; Government and Wikipedia reuse terms require review."
 docs/temes/cultura/cinc-anys-i-el-cinema-es-lunica-cosa-que-puja.md,"Cinc anys, i el cinema és l'única cosa que puja",article,candidate_pending_review,knowledge-0073;knowledge-0074;knowledge-0075;knowledge-0076;knowledge-0077;knowledge-0078;knowledge-0079;knowledge-0080;knowledge-0081;knowledge-0082;knowledge-0083;knowledge-0084;knowledge-0085;knowledge-0086;knowledge-0087;knowledge-0088;knowledge-0089,"Candidates cover core participation results, age breakdowns, library usage and operations, museum visits, leisure reading, volunteer counts and discrepancies. Detailed source tables and final completeness review remain."
-docs/temes/cultura/cultura-d-andorra-index-de-fitxes.md,Cultura d'Andorra — índex de fitxes,index,navigation_only,,
+docs/temes/cultura/cultura-d-andorra-index-de-fitxes.md,Cultura d'Andorra — índex de fitxes,index,pending_review,,"Index contains 138 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/cultura/cultura-popular/cultura-popular-index-de-fitxes.md,Cultura popular — índex de fitxes,index,navigation_only,,
 docs/temes/cultura/cultura-popular/cultura-popular.md,Cultura popular,article,pending_review,,
 docs/temes/cultura/cultura-popular/els-usos-i-costums.md,"Els usos i costums, i qui els va inventar",article,pending_review,,
@@ -80,7 +80,7 @@ docs/temes/cultura/llegendes/la-bruixa-de-sornas.md,La bruixa de Sornàs,article
 docs/temes/cultura/llegendes/la-dama-blanca-daubinya.md,La Dama Blanca d'Aubinyà,article,pending_review,,
 docs/temes/cultura/llegendes/la-troballa-de-meritxell.md,La troballa de Meritxell,article,pending_review,,
 docs/temes/cultura/llegendes/les-bruixes-dengolasters.md,Les bruixes d'Engolasters,article,pending_review,,
-docs/temes/cultura/llegendes/llegendes-index-de-fitxes.md,Llegendes — índex de fitxes,index,navigation_only,,
+docs/temes/cultura/llegendes/llegendes-index-de-fitxes.md,Llegendes — índex de fitxes,index,pending_review,,"Index contains 464 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/cultura/llegendes/llegendes.md,Llegendes — índex,article,pending_review,,
 docs/temes/cultura/museus-i-arxius/abans-ho-decretava-el-govern.md,Abans ho decretava el Govern,article,pending_review,,
 docs/temes/cultura/museus-i-arxius/com-sentra-a-larxiu-nacional.md,Com s'entra a l'Arxiu Nacional,article,pending_review,,
@@ -103,7 +103,7 @@ docs/temes/cultura/museus-i-arxius/museus/els-museus-d-andorra-index-de-fitxes.m
 docs/temes/cultura/museus-i-arxius/museus/la-farga-rosell.md,La Farga Rosell i la ruta del ferro,article,pending_review,,
 docs/temes/cultura/museus-i-arxius/museus/les-cases-museu.md,"Les cases museu: Rull, Cristo i Cal Pal",article,pending_review,,
 docs/temes/cultura/museus-i-arxius/museus/museu-de-la-moto-i-centre-de-natura.md,Museu de la Moto i Centre de Natura,article,pending_review,,
-docs/temes/cultura/museus-i-arxius/museus-i-arxius-index-de-fitxes.md,Museus i arxius — índex de fitxes,index,navigation_only,,
+docs/temes/cultura/museus-i-arxius/museus-i-arxius-index-de-fitxes.md,Museus i arxius — índex de fitxes,index,pending_review,,"Index contains 465 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/cultura/museus-i-arxius/museus-i-arxius.md,Museus i arxius,article,pending_review,,
 docs/temes/cultura/museus-i-arxius/res-danterior-al-1984-no-es-tria.md,Res d'anterior al 1984 no es tria,article,pending_review,,
 docs/temes/cultura/museus-i-arxius/series-senceres-no.md,"Sèries senceres, no",article,pending_review,,
@@ -115,11 +115,11 @@ docs/temes/cultura/musica-i-cancons/musica-i-cancons-index-de-fitxes.md,Música 
 docs/temes/cultura/musica-i-cancons/musica-i-cancons.md,Música i cançons,article,pending_review,,
 docs/temes/cultura/teatre/el-teatre-de-carnestoltes.md,El teatre de Carnestoltes,article,pending_review,,
 docs/temes/cultura/teatre/la-vida-teatral.md,La vida teatral,article,pending_review,,
-docs/temes/cultura/teatre/teatre-index-de-fitxes.md,Teatre — índex de fitxes,index,navigation_only,,
+docs/temes/cultura/teatre/teatre-index-de-fitxes.md,Teatre — índex de fitxes,index,pending_review,,"Index contains 314 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/economia/banca-i-fiscalitat/a-andorra-si-que-hi-havia-impost.md,"A Andorra sí que hi havia impost, i era sobre la renda",article,pending_review,,
 docs/temes/economia/banca-i-fiscalitat/ab-propris-diners-y-per-son-propri-us.md,Ab propris diners y per son propri us,article,pending_review,,
 docs/temes/economia/banca-i-fiscalitat/abans-dels-bancs.md,Abans dels bancs,article,pending_review,,
-docs/temes/economia/banca-i-fiscalitat/banca-i-fiscalitat-index-de-fitxes.md,Banca i fiscalitat — índex de fitxes,index,navigation_only,,
+docs/temes/economia/banca-i-fiscalitat/banca-i-fiscalitat-index-de-fitxes.md,Banca i fiscalitat — índex de fitxes,index,pending_review,,"Index contains 1181 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/economia/banca-i-fiscalitat/banca-i-fiscalitat.md,Banca i fiscalitat,article,pending_review,,
 docs/temes/economia/banca-i-fiscalitat/blanqueig-i-actius-digitals.md,Blanqueig i actius digitals,article,pending_review,,
 docs/temes/economia/banca-i-fiscalitat/contribucio-industrial-comerc-1849.md,La contribució industrial i de comerç arriba al síndic (1849),article,pending_review,,
@@ -152,7 +152,7 @@ docs/temes/economia/banca-i-fiscalitat/vuit-dies-abans-o-vuit-dies-despres.md,Vu
 docs/temes/economia/banca-i-fiscalitat/y-los-vench-de-nou.md,«Y los vench de nou»,article,pending_review,,
 docs/temes/economia/comerc/amb-qui-comercia-andorra.md,Amb qui comercia Andorra,article,pending_review,,
 docs/temes/economia/comerc/blat-cerdanya-parroquies-1904.md,El blat de Cerdanya es reparteix entre els veïns (1904),article,pending_review,,
-docs/temes/economia/comerc/comerc-index-de-fitxes.md,Comerç — índex de fitxes,index,navigation_only,,
+docs/temes/economia/comerc/comerc-index-de-fitxes.md,Comerç — índex de fitxes,index,pending_review,,"Index contains 469 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/economia/comerc/comerc.md,Comerç,article,pending_review,,
 docs/temes/economia/comerc/el-comerc-a-ledat-moderna.md,El comerç a l'edat moderna,article,pending_review,,
 docs/temes/economia/comerc/el-que-andorra-comprava-a-espanya.md,El que Andorra comprava a Espanya,article,pending_review,,
@@ -168,14 +168,14 @@ docs/temes/economia/comerc/qui-posava-els-preus.md,Qui posava els preus,article,
 docs/temes/economia/comerc/qui-respon-duna-societat.md,Qui respon d'una societat,article,pending_review,,
 docs/temes/economia/comerc/suplica-sal-cardona-1520.md,"El síndic demana dos mesos per treure sal de Cardona, 1520",article,pending_review,,
 docs/temes/economia/comerc/vigilar-i-sancionar.md,Vigilar i sancionar,article,pending_review,,
-docs/temes/economia/economia-d-andorra-index-de-fitxes.md,Economia d'Andorra — índex de fitxes,index,navigation_only,,
-docs/temes/economia/energia-i-serveis/energia-i-serveis-index-de-fitxes.md,Energia i serveis — índex de fitxes,index,navigation_only,,
+docs/temes/economia/economia-d-andorra-index-de-fitxes.md,Economia d'Andorra — índex de fitxes,index,pending_review,,"Index contains 121 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
+docs/temes/economia/energia-i-serveis/energia-i-serveis-index-de-fitxes.md,Energia i serveis — índex de fitxes,index,pending_review,,"Index contains 427 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/economia/energia-i-serveis/fhasa.md,FHASA,article,pending_review,,
 docs/temes/economia/energia-i-serveis/la-transicio-energetica.md,La transició energètica,article,pending_review,,
 docs/temes/economia/energia-i-serveis/telegraf-franca-espanya-1882-1897.md,"El telègraf torna a Andorra: França, la Mitra i la Seu (1882–1897)",article,pending_review,,
 docs/temes/economia/energia-i-serveis/van-tallar-els-pals-del-telegraf.md,Van tallar els pals del telègraf,article,pending_review,,
 docs/temes/economia/les-grans-families/els-reig.md,Els Reig,article,pending_review,,
-docs/temes/economia/les-grans-families/les-grans-families-index-de-fitxes.md,Les grans famílies — índex de fitxes,index,navigation_only,,
+docs/temes/economia/les-grans-families/les-grans-families-index-de-fitxes.md,Les grans famílies — índex de fitxes,index,pending_review,,"Index contains 361 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/economia/ramaderia-i-agricultura/el-cens-del-bestiar-de-1898-1900.md,El cens del bestiar de 1898-1900,article,pending_review,,
 docs/temes/economia/ramaderia-i-agricultura/la-comissio-dels-pagesos.md,La Comissió dels pagesos,article,pending_review,,
 docs/temes/economia/ramaderia-i-agricultura/la-crisi-de-lovi.md,La crisi de l'oví,article,pending_review,,
@@ -186,13 +186,13 @@ docs/temes/economia/ramaderia-i-agricultura/les-mules.md,Les mules,article,pendi
 docs/temes/economia/ramaderia-i-agricultura/linteres-es-paga-en-llana.md,L'interès es paga en llana,article,pending_review,,
 docs/temes/economia/ramaderia-i-agricultura/mil-vuitanta-bovins-el-1900-mil-vuitanta-un-el-1988.md,"Mil vuitanta bovins el 1900, mil vuitanta-un el 1988",article,pending_review,,
 docs/temes/economia/ramaderia-i-agricultura/qui-cobra-els-ajuts-agraris.md,Qui cobra els ajuts agraris,article,pending_review,,
-docs/temes/economia/ramaderia-i-agricultura/ramaderia-i-agricultura-index-de-fitxes.md,Ramaderia i agricultura — índex de fitxes,index,navigation_only,,
+docs/temes/economia/ramaderia-i-agricultura/ramaderia-i-agricultura-index-de-fitxes.md,Ramaderia i agricultura — índex de fitxes,index,pending_review,,"Index contains 365 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/economia/ramaderia-i-agricultura/ramaderia-i-agricultura.md,Ramaderia i agricultura,article,pending_review,,
 docs/temes/economia/tabac/cent-hectarees-de-tabac.md,Cent hectàrees de tabac,article,pending_review,,
 docs/temes/economia/tabac/el-contraban-savui-sagafa-a-dins.md,"El contraban, avui, s'agafa a dins",article,pending_review,,
 docs/temes/economia/tabac/la-revolta-del-tabac-de-1733.md,La revolta del tabac de 1733,article,pending_review,,
 docs/temes/economia/tabac/quant-tabac-es-cull-avui.md,"Producció de tabac a Andorra, 1973–2025",article,pending_review,,
-docs/temes/economia/tabac/tabac-index-de-fitxes.md,Tabac — índex de fitxes,index,navigation_only,,
+docs/temes/economia/tabac/tabac-index-de-fitxes.md,Tabac — índex de fitxes,index,pending_review,,"Index contains 153 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/economia/tabac/tabac.md,El tabac,article,pending_review,,
 docs/temes/economia/transformacio-economica/andorra-2020.md,Andorra 2020,article,pending_review,,
 docs/temes/economia/transformacio-economica/els-jocs-datzar.md,Els jocs d'atzar,article,pending_review,,
@@ -203,24 +203,24 @@ docs/temes/economia/transformacio-economica/mil-set-centes-vint-i-sis-persones-e
 docs/temes/economia/transformacio-economica/ni-un-euro-a-la-universitat.md,Ni un euro a la universitat,article,pending_review,,
 docs/temes/economia/transformacio-economica/rebut-dandine-farga-1812.md,Un comprador d’Ausat tanca comptes amb una farga (1812),article,pending_review,,
 docs/temes/economia/transformacio-economica/tot-el-superavit-es-el-turisme.md,Tot el superàvit és el turisme,article,pending_review,,
-docs/temes/economia/transformacio-economica/transformacio-economica-index-de-fitxes.md,Transformació econòmica — índex de fitxes,index,navigation_only,,
+docs/temes/economia/transformacio-economica/transformacio-economica-index-de-fitxes.md,Transformació econòmica — índex de fitxes,index,pending_review,,"Index contains 232 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/economia/transformacio-economica/transformacio-economica.md,Transformació econòmica,article,pending_review,,
 docs/temes/economia/transport/laeroport-que-andorra-no-te.md,L'aeroport que Andorra no té,article,pending_review,,
 docs/temes/economia/transport/les-carreteres.md,Les carreteres d'Andorra,article,pending_review,,
 docs/temes/economia/transport/pont-grau-seu-andorra-1595.md,El pont del Grau i el camí de la Seu a Andorra (1595),article,pending_review,,
 docs/temes/economia/transport/primera-maquina-llevaneu-1936.md,Una màquina llevaneu mecanitza les carreteres d’Andorra (1936),article,pending_review,,
-docs/temes/economia/transport/transport-index-de-fitxes.md,Transport — índex de fitxes,article,navigation_only,,
+docs/temes/economia/transport/transport-index-de-fitxes.md,Transport — índex de fitxes,article,pending_review,,"Index contains 1388 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/economia/turisme-i-neu/de-la-fonda-a-lhotel.md,De la fonda a l'hotel,article,pending_review,,
 docs/temes/economia/turisme-i-neu/els-hostals-comunals.md,Els hostals comunals,article,pending_review,,
 docs/temes/economia/turisme-i-neu/els-pisos-turistics.md,Els pisos turístics,article,pending_review,,
 docs/temes/economia/turisme-i-neu/estacions/grandvalira.md,Grandvalira,article,pending_review,,
-docs/temes/economia/turisme-i-neu/estacions/les-estacions-d-esqui-index-de-fitxes.md,Les estacions d'esquí — índex de fitxes,article,navigation_only,,
+docs/temes/economia/turisme-i-neu/estacions/les-estacions-d-esqui-index-de-fitxes.md,Les estacions d'esquí — índex de fitxes,article,pending_review,,"Index contains 917 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/economia/turisme-i-neu/estacions/naturland.md,Naturland: el parc que ha perdut vint milions,article,pending_review,,
 docs/temes/economia/turisme-i-neu/estacions/pgi.md,PGI: Andorra exporta el model,article,pending_review,,
 docs/temes/economia/turisme-i-neu/estacions/vallnord.md,"Vallnord, la marca que va desaparèixer",article,pending_review,,
-docs/temes/economia/turisme-i-neu/turisme-i-neu-index-de-fitxes.md,Turisme i neu — índex de fitxes,index,navigation_only,,
+docs/temes/economia/turisme-i-neu/turisme-i-neu-index-de-fitxes.md,Turisme i neu — índex de fitxes,index,pending_review,,"Index contains 108 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/economia/turisme-i-neu/turisme-i-neu.md,Turisme i neu,article,pending_review,,
-docs/temes/esports/altres-esports/altres-esports-index-de-fitxes.md,Altres esports — índex de fitxes,index,navigation_only,,
+docs/temes/esports/altres-esports/altres-esports-index-de-fitxes.md,Altres esports — índex de fitxes,index,pending_review,,"Index contains 2161 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/esports/altres-esports/bc-andorra.md,El BC Andorra,article,pending_review,,
 docs/temes/esports/altres-esports/berta-miquel.md,Berta Miquel i Solé,article,pending_review,,
 docs/temes/esports/altres-esports/claudia-guri.md,Claudia Guri i Moreno,article,pending_review,,
@@ -255,20 +255,20 @@ docs/temes/esports/altres-esports/xavier-cardelus.md,Xavier «Xavi» Cardelús i
 docs/temes/esports/altres-esports/yolanda-garcia.md,Yolanda García,article,pending_review,,
 docs/temes/esports/competicio/andorra-als-jocs-olimpics.md,Andorra als Jocs Olímpics,article,pending_review,,
 docs/temes/esports/competicio/andorra-als-jocs-paralimpics.md,Andorra als Jocs Paralímpics,article,pending_review,,
-docs/temes/esports/competicio/competicio-index-de-fitxes.md,Competició — índex de fitxes,index,navigation_only,,
+docs/temes/esports/competicio/competicio-index-de-fitxes.md,Competició — índex de fitxes,index,pending_review,,"Index contains 226 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/esports/competicio/el-comite-olimpic.md,El Comitè Olímpic Andorrà,article,pending_review,,
 docs/temes/esports/competicio/els-abanderats.md,Els abanderats,article,pending_review,,
 docs/temes/esports/competicio/els-altres-jocs.md,Els altres Jocs,article,pending_review,,
 docs/temes/esports/competicio/els-jocs-dels-petits-estats.md,Els Jocs dels Petits Estats d'Europa,article,pending_review,,
 docs/temes/esports/competicio/la-llei-de-lesport.md,La llei de l'esport,article,pending_review,,
 docs/temes/esports/escacs/el-campionat.md,El Campionat d'Andorra d'escacs,article,pending_review,,
-docs/temes/esports/escacs/escacs-index-de-fitxes.md,Escacs — índex de fitxes,article,navigation_only,,
+docs/temes/esports/escacs/escacs-index-de-fitxes.md,Escacs — índex de fitxes,article,pending_review,,"Index contains 987 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/esports/escacs/la-federacio.md,La Federació d'Escacs Vall d'Andorra,article,pending_review,,
 docs/temes/esports/escacs/lobert-internacional.md,L'Obert Internacional d'Escacs d'Andorra,article,pending_review,,
 docs/temes/esports/escacs/oscar-de-la-riva.md,Òscar de la Riva i Aguado,article,pending_review,,
-docs/temes/esports/esports-d-andorra-index-de-fitxes.md,Esports d'Andorra — índex de fitxes,index,navigation_only,,
+docs/temes/esports/esports-d-andorra-index-de-fitxes.md,Esports d'Andorra — índex de fitxes,index,pending_review,,"Index contains 2415 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/esports/esqui/cinquanta-anys-desqui-olimpic.md,Cinquanta anys d'esquí olímpic,article,pending_review,,
-docs/temes/esports/esqui/esqui-index-de-fitxes.md,Esquí — índex de fitxes,index,navigation_only,,
+docs/temes/esports/esqui/esqui-index-de-fitxes.md,Esquí — índex de fitxes,index,pending_review,,"Index contains 800 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/esports/esqui/esquiadors/alex-antor.md,Alex Antor i Seignourel,article,pending_review,,
 docs/temes/esports/esqui/esquiadors/antoine-crespo.md,Antoine Crespo i Travesset,article,pending_review,,
 docs/temes/esports/esqui/esquiadors/antoni-naudi.md,Antoni Naudi i Casal,article,pending_review,,
@@ -276,7 +276,7 @@ docs/temes/esports/esqui/esquiadors/cande-moreno.md,Cande Moreno,article,pending
 docs/temes/esports/esqui/esquiadors/carlos-font.md,Carlos Font i Puig,article,pending_review,,
 docs/temes/esports/esqui/esquiadors/caroline-poussier.md,Caroline Poussier,article,pending_review,,
 docs/temes/esports/esqui/esquiadors/claudina-rossel.md,Claudina Rossel i Badia,article,pending_review,,
-docs/temes/esports/esqui/esquiadors/els-esquiadors-index-de-fitxes.md,Els esquiadors — índex de fitxes,index,navigation_only,,
+docs/temes/esports/esqui/esquiadors/els-esquiadors-index-de-fitxes.md,Els esquiadors — índex de fitxes,index,pending_review,,"Index contains 1464 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/esports/esqui/esquiadors/esteve-tomas.md,Esteve Tomàs i Roca,article,pending_review,,
 docs/temes/esports/esqui/esquiadors/francois-soulie.md,François «Francesc» Soulié,article,pending_review,,
 docs/temes/esports/esqui/esquiadors/gerard-escoda.md,Gerard Escoda i Alegret,article,pending_review,,
@@ -309,7 +309,7 @@ docs/temes/esports/estiu/carolina-cerqueda.md,Carolina Cerqueda i Santacreu,arti
 docs/temes/esports/estiu/cristina-llovera.md,Cristina Llovera i Rossell,article,pending_review,,
 docs/temes/esports/estiu/daniel-garcia-gonzalez.md,Daniel García i González,article,pending_review,,
 docs/temes/esports/estiu/david-ramon.md,David Ramón i Borra,article,pending_review,,
-docs/temes/esports/estiu/els-olimpics-d-estiu-index-de-fitxes.md,Els olímpics d'estiu — índex de fitxes,index,navigation_only,,
+docs/temes/esports/estiu/els-olimpics-d-estiu-index-de-fitxes.md,Els olímpics d'estiu — índex de fitxes,index,pending_review,,"Index contains 1614 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/esports/estiu/emili-perez.md,Emili Pérez i Font,article,pending_review,,
 docs/temes/esports/estiu/esteve-dolsa.md,Esteve Dolsa i Montaña,article,pending_review,,
 docs/temes/esports/estiu/esther-barrugues.md,Esther Barrugués i Alviñá,article,pending_review,,
@@ -359,7 +359,7 @@ docs/temes/esports/futbol/aron-rodrigo.md,Aron Rodrigo i Tapia,article,pending_r
 docs/temes/esports/futbol/biel-borra.md,Biel Borra i Font,article,pending_review,,
 docs/temes/esports/futbol/carlos-peppe.md,Carlos Eduardo «Edu» Peppe i Britos,article,pending_review,,
 docs/temes/esports/futbol/christian-garcia.md,Christian García i González,article,pending_review,,
-docs/temes/esports/futbol/clubs-i-competicions/clubs-i-competicions-index-de-fitxes.md,Clubs i competicions — índex de fitxes,article,navigation_only,,
+docs/temes/esports/futbol/clubs-i-competicions/clubs-i-competicions-index-de-fitxes.md,Clubs i competicions — índex de fitxes,article,pending_review,,"Index contains 639 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/esports/futbol/clubs-i-competicions/els-clubs.md,Els clubs,article,pending_review,,
 docs/temes/esports/futbol/clubs-i-competicions/fc-andorra.md,El FC Andorra,article,pending_review,,
 docs/temes/esports/futbol/clubs-i-competicions/la-copa.md,La Copa Constitució,article,pending_review,,
@@ -391,7 +391,7 @@ docs/temes/esports/futbol/femeni/claudia-plaja.md,Clàudia Plaja,article,pending
 docs/temes/esports/futbol/femeni/cristina-lacour.md,Cristina Lacour,article,pending_review,,
 docs/temes/esports/futbol/femeni/daniela-rodrigues.md,Daniela Rodrigues,article,pending_review,,
 docs/temes/esports/futbol/femeni/erica-goncalves.md,Erica Gonçalves,article,pending_review,,
-docs/temes/esports/futbol/femeni/futbol-femeni-index-de-fitxes.md,Futbol femení — índex de fitxes,article,navigation_only,,
+docs/temes/esports/futbol/femeni/futbol-femeni-index-de-fitxes.md,Futbol femení — índex de fitxes,article,pending_review,,"Index contains 1928 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/esports/futbol/femeni/gemma-lluch.md,Gemma Lluch,article,pending_review,,
 docs/temes/esports/futbol/femeni/iria-dominguez.md,Iria Domínguez,article,pending_review,,
 docs/temes/esports/futbol/femeni/julia-domingo.md,Júlia Domingo,article,pending_review,,
@@ -424,7 +424,7 @@ docs/temes/esports/futbol/femeni/violeta-de-freitas.md,Violeta de Freitas,articl
 docs/temes/esports/futbol/fernando-silva.md,Fernando José Silva i García,article,pending_review,,
 docs/temes/esports/futbol/ferran-pol.md,Ferran Pol i Pérez,article,pending_review,,
 docs/temes/esports/futbol/francesc-ramirez.md,Francesc Ramírez,article,pending_review,,
-docs/temes/esports/futbol/futbol-index-de-fitxes.md,Futbol — índex de fitxes,index,navigation_only,,
+docs/temes/esports/futbol/futbol-index-de-fitxes.md,Futbol — índex de fitxes,index,pending_review,,"Index contains 3265 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/esports/futbol/gabi-riera.md,Gabriel «Gabi» Riera i Lancha,article,pending_review,,
 docs/temes/esports/futbol/genis-garcia.md,Genís García i Iscla,article,pending_review,,
 docs/temes/esports/futbol/guillaume-lopez.md,Guillaume Silvain López,article,pending_review,,
@@ -496,11 +496,11 @@ docs/temes/esports/seleccions/els-dotze-campions-del-2024.md,Els dotze campions 
 docs/temes/esports/seleccions/els-dotze-de-la-primera-final-del-2004.md,"Els dotze de la primera final: Andorra, 2004",article,pending_review,,
 docs/temes/esports/seleccions/els-dotze-del-triple-de-galera-del-2014.md,Els dotze del triple de Galera del 2014,article,pending_review,,
 docs/temes/esports/seleccions/els-dotze-dels-set-segons-del-2012.md,"Els dotze dels set segons: Andorra, 2012",article,pending_review,,
-docs/temes/esports/seleccions/les-seleccions-index-de-fitxes.md,Les seleccions — índex de fitxes,article,navigation_only,,
+docs/temes/esports/seleccions/les-seleccions-index-de-fitxes.md,Les seleccions — índex de fitxes,article,pending_review,,"Index contains 1230 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/esports/seleccions/lhandbol.md,L'handbol,article,pending_review,,
 docs/temes/esports/seleccions/lhoquei-gel.md,L'hoquei gel: un 12-0 i un 24-2,article,pending_review,,
 docs/temes/esports/seleccions/lhoquei-patins.md,L'hoquei sobre patins: dos campionats del món i una setena plaça mundial,article,pending_review,,
-docs/temes/gastronomia/begudes/begudes-index-de-fitxes.md,Begudes — índex de fitxes,index,navigation_only,,
+docs/temes/gastronomia/begudes/begudes-index-de-fitxes.md,Begudes — índex de fitxes,index,pending_review,,"Index contains 324 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/gastronomia/begudes/el-vi-dandorra.md,El vi d'Andorra,article,pending_review,,
 docs/temes/gastronomia/calendari-gastronomic/calendari-gastronomic-index-de-fitxes.md,Calendari gastronòmic — índex de fitxes,index,navigation_only,,
 docs/temes/gastronomia/calendari-gastronomic/calendari-gastronomic.md,Calendari gastronòmic,article,pending_review,,
@@ -515,7 +515,7 @@ docs/temes/gastronomia/plats/el-trinxat.md,El trinxat,article,candidate_pending_
 docs/temes/gastronomia/plats/les-receptes-de-fra-sever.md,Les receptes de Fra Sever d'Olot (1787),article,candidate_pending_review,knowledge-0024,"Candidate explains the 1787 distinction between pork as a festival dish and usual dish, without claiming exclusivity; rights pending."
 docs/temes/gastronomia/plats/lescudella-de-sant-antoni.md,L'escudella de Sant Antoni,article,pending_review,,
 docs/temes/gastronomia/plats/menges-del-forn-tradicional.md,Menges del forn tradicional,article,pending_review,,
-docs/temes/gastronomia/plats/plats-index-de-fitxes.md,Plats — índex de fitxes,index,navigation_only,,
+docs/temes/gastronomia/plats/plats-index-de-fitxes.md,Plats — índex de fitxes,index,pending_review,,"Index contains 132 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/gastronomia/plats/plats.md,Plats — índex,article,pending_review,,
 docs/temes/gastronomia/productes/la-trumfa.md,La trumfa,article,candidate_pending_review,knowledge-0022,Candidate covers the meaning and regional distribution of trumfa plus the unresolved dates for potato cultivation; rights review pending.
 docs/temes/gastronomia/productes/productes-index-de-fitxes.md,Productes — índex de fitxes,index,navigation_only,,
@@ -523,7 +523,7 @@ docs/temes/gastronomia/productes/productes.md,Productes,article,pending_review,,
 docs/temes/gastronomia/rebosteria/la-coca-massegada.md,La coca massegada,article,pending_review,,
 docs/temes/gastronomia/rebosteria/rebosteria-index-de-fitxes.md,Rebosteria — índex de fitxes,index,navigation_only,,
 docs/temes/historia/antic-regim/a-andorra-qui-no-te-fills-es-menys-lliure.md,A Andorra qui no té fills és menys lliure,article,pending_review,,
-docs/temes/historia/antic-regim/antic-regim-index-de-fitxes.md,Antic règim — índex de fitxes,index,navigation_only,,
+docs/temes/historia/antic-regim/antic-regim-index-de-fitxes.md,Antic règim — índex de fitxes,index,pending_review,,"Index contains 1871 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/historia/antic-regim/apoca-dot-ordino-1581.md,"Una mare i una filla reconeixen un dot a Ordino, 1581",article,pending_review,,
 docs/temes/historia/antic-regim/cens-anual-empriu-lles-1600.md,"El cens anual de l’empriu de Lles, 1600",article,pending_review,,
 docs/temes/historia/antic-regim/cens-empriu-lles-travesseres-1489.md,"Quan el batlle de Travesseres rebutja l’àpoca del cens, 1489",article,pending_review,,
@@ -594,7 +594,7 @@ docs/temes/historia/edat-mitjana/de-cada-casa-un-home-ben-armat.md,"De cada casa
 docs/temes/historia/edat-mitjana/de-la-citacio-comtal-a-la-franquesa-comercial-1381-1391.md,De la citació comtal a la franquesa comercial (1381-1391),article,pending_review,,
 docs/temes/historia/edat-mitjana/debitori-dot-margarida-vilar-1374.md,"El dot de Margarida Vilar queda anotat com un deute, 1374",article,pending_review,,
 docs/temes/historia/edat-mitjana/del-plet-dels-emprius-al-tribunal-reial-1510-1556.md,Del plet dels emprius al tribunal reial (1510-1556),article,pending_review,,
-docs/temes/historia/edat-mitjana/edat-mitjana-index-de-fitxes.md,Edat mitjana — índex de fitxes,index,navigation_only,,
+docs/temes/historia/edat-mitjana/edat-mitjana-index-de-fitxes.md,Edat mitjana — índex de fitxes,index,pending_review,,"Index contains 1644 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/historia/edat-mitjana/el-comu-no-es-privatitza-i-el-consell-tria-el-jutge-1480-1482.md,"El comú no es privatitza i el Consell tria el jutge, 1480–1482",article,pending_review,,
 docs/temes/historia/edat-mitjana/el-consell-paga-per-matar-llops-ossos-i-llops-cervers-1390.md,"El Consell paga per matar llops, óssos i llops cervers (1390)",article,pending_review,,
 docs/temes/historia/edat-mitjana/el-jurament-que-feia-funcionar-el-carrec-1442-1447.md,El jurament que feia funcionar el càrrec (1442-1456),article,pending_review,,
@@ -635,7 +635,7 @@ docs/temes/historia/guerres-i-neutralitat/el-veguer-avisa-de-gent-armada-frances
 docs/temes/historia/guerres-i-neutralitat/els-passadors.md,Els passadors,article,pending_review,,
 docs/temes/historia/guerres-i-neutralitat/els-refugiats-andorrans-1936-1939.md,"Els refugiats “andorrans” de la Guerra Civil, 1936–1939",article,pending_review,,
 docs/temes/historia/guerres-i-neutralitat/els-refugiats-de-la-guerra-civil.md,Els refugiats de la Guerra Civil,article,pending_review,,
-docs/temes/historia/guerres-i-neutralitat/guerres-i-neutralitat-index-de-fitxes.md,Guerres i neutralitat — índex de fitxes,index,navigation_only,,
+docs/temes/historia/guerres-i-neutralitat/guerres-i-neutralitat-index-de-fitxes.md,Guerres i neutralitat — índex de fitxes,index,pending_review,,"Index contains 808 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/historia/guerres-i-neutralitat/guerres-i-neutralitat.md,Guerres i neutralitat,article,pending_review,,
 docs/temes/historia/guerres-i-neutralitat/la-guerra-dels-segadors-posa-a-prova-el-cosenyoriu-1641-1659.md,"La guerra dels Segadors posa a prova el cosenyoriu, 1641–1659",article,pending_review,,
 docs/temes/historia/guerres-i-neutralitat/la-vall-arma-els-ports-i-demana-salvaguarda-1689.md,"La Vall arma els ports i demana salvaguarda, 1689",article,pending_review,,
@@ -649,11 +649,11 @@ docs/temes/historia/guerres-i-neutralitat/quan-pugen-soldats-la-vall-prepara-pa-
 docs/temes/historia/guerres-i-neutralitat/quatre-cents-homes-armats-a-lhospitalet-1790.md,"Tres-cents o quatre-cents homes armats amenacen la Vall des de l’Hospitalet, 1790",article,pending_review,,
 docs/temes/historia/guerres-i-neutralitat/quatre-soldats-per-parroquia-davant-els-moviments-de-tropes-1644.md,"Quatre soldats per parròquia davant els moviments de tropes, 1644",article,pending_review,,
 docs/temes/historia/guerres-i-neutralitat/vint-i-tres-soldats-sallotgen-a-sant-julia-1659.md,"Vint-i-tres soldats s'allotgen a Sant Julià, 1659",article,pending_review,,
-docs/temes/historia/historia-d-andorra-index-de-fitxes.md,Història d'Andorra — índex de fitxes,index,navigation_only,,
+docs/temes/historia/historia-d-andorra-index-de-fitxes.md,Història d'Andorra — índex de fitxes,index,pending_review,,"Index contains 186 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/historia/historia-recent/de-1993-enca.md,De 1993 ençà,article,pending_review,,
 docs/temes/historia/historia-recent/els-aiguats-del-1982.md,Els aiguats del 1982,article,pending_review,,
 docs/temes/historia/historia-recent/els-anys-daurats.md,Els Anys Daurats,article,pending_review,,
-docs/temes/historia/historia-recent/historia-recent-index-de-fitxes.md,Història recent — índex de fitxes,index,navigation_only,,
+docs/temes/historia/historia-recent/historia-recent-index-de-fitxes.md,Història recent — índex de fitxes,index,pending_review,,"Index contains 232 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/historia/historia-recent/l-aiguat-de-1982-meteorologia-danys-i-resposta.md,"L’aiguat de 1982: meteorologia, danys i resposta",article,pending_review,,
 docs/temes/historia/historia-recent/la-reformeta-separa-el-govern-del-consell-1978-1981.md,La Reformeta: del Pacte de 1975 al procés constituent (1975–1993),article,pending_review,,
 docs/temes/historia/historia-recent/la-transicio-nacional.md,La Transició Nacional,article,pending_review,,
@@ -661,7 +661,7 @@ docs/temes/historia/historia-recent/la-visita-de-de-gaulle.md,La visita del copr
 docs/temes/historia/historiografia/dalmau-1849-la-republica-i-la-fundacio-carolingia.md,"Dalmau, 1849: una república amb fundador carolingi",article,pending_review,,
 docs/temes/historia/historiografia/el-cas-amades.md,El cas Amades,article,pending_review,,
 docs/temes/historia/historiografia/el-diccionari-enciclopedic.md,El Diccionari enciclopèdic d'Andorra,article,pending_review,,
-docs/temes/historia/historiografia/historiografia-index-de-fitxes.md,Historiografia — índex de fitxes,index,navigation_only,,
+docs/temes/historia/historiografia/historiografia-index-de-fitxes.md,Historiografia — índex de fitxes,index,pending_review,,"Index contains 357 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/historia/historiografia/historiografia.md,La historiografia andorrana,article,pending_review,,
 docs/temes/historia/historiografia/la-llegenda-negra-dels-passadors.md,La llegenda negra dels passadors,article,pending_review,,
 docs/temes/historia/historiografia/leditor-dels-privilegis-era-jutge-dapellacions.md,L'editor dels privilegis era jutge d'apel·lacions,article,pending_review,,
@@ -673,12 +673,12 @@ docs/temes/historia/historiografia/tot-venia-de-la-mateixa-prestatgeria.md,Tot v
 docs/temes/historia/manual-digest/de-lo-que-pot-i-no-pot.md,De lo que pot i no pot,article,pending_review,,
 docs/temes/historia/manual-digest/el-politar.md,"El Politar andorrà, llegit",article,pending_review,,
 docs/temes/historia/manual-digest/els-costumaris-andorrans.md,Els costumaris andorrans,article,pending_review,,
-docs/temes/historia/manual-digest/manual-digest-index-de-fitxes.md,Manual Digest — índex de fitxes,index,navigation_only,,
+docs/temes/historia/manual-digest/manual-digest-index-de-fitxes.md,Manual Digest — índex de fitxes,index,pending_review,,"Index contains 201 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/historia/manual-digest/manual-digest.md,El Manual Digest,article,pending_review,,
 docs/temes/historia/manual-digest/predicar-miserias-y-flaquesas-de-las-valls.md,"«Predicar miserias y flaquesas de las Valls, pues es axi»",article,pending_review,,
 docs/temes/historia/moments-historics/els-vuit-centenaris.md,Els vuit centenaris,article,pending_review,,
 docs/temes/historia/moments-historics/la-cronologia-dandorra.md,La cronologia d'Andorra,article,pending_review,,
-docs/temes/historia/moments-historics/moments-historics-index-de-fitxes.md,Moments històrics — índex de fitxes,index,navigation_only,,
+docs/temes/historia/moments-historics/moments-historics-index-de-fitxes.md,Moments històrics — índex de fitxes,index,pending_review,,"Index contains 323 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/historia/origens/camp-del-perot-necropolis-i-terrissa.md,Camp del Perot: necròpolis altmedieval i memòria del darrer terrisser,article,pending_review,,
 docs/temes/historia/origens/camp-vermell-una-aldea-de-fons-de-vall.md,Camp Vermell: una aldea de fons de vall entre els segles II i XII,article,pending_review,,
 docs/temes/historia/origens/carta-pobla-fals-carlemany.md,La Carta Pobla: el fals que va donar forma al mite de Carlemany,article,pending_review,,
@@ -690,14 +690,14 @@ docs/temes/historia/origens/la-fundacio-per-carlemany.md,La fundació per Carlem
 docs/temes/historia/origens/la-necropolis-del-camp-del-perot-i-la-cronologia-funeraria.md,La necròpolis del Camp del Perot i la cronologia funerària,article,pending_review,,
 docs/temes/historia/origens/la-tomba-de-segudet.md,"La tomba de Segudet, sota les escoles d'Ordino",article,excluded_rights_restricted,,"Excluded pending an independently reusable source: its source is a Planas et al. (2018) annex under reserved rights, with no open license. Do not train on its derived claims."
 docs/temes/historia/origens/on-eren-els-andosins.md,On eren els andosins,article,pending_review,,
-docs/temes/historia/origens/origens-index-de-fitxes.md,Orígens — índex de fitxes,index,navigation_only,,
+docs/temes/historia/origens/origens-index-de-fitxes.md,Orígens — índex de fitxes,index,pending_review,,"Index contains 645 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/historia/origens/quan-el-madriu-produia-pega-en-epoca-romana.md,Quan el Madriu produïa pega en època romana,article,pending_review,,
 docs/temes/historia/origens/quan-el-neolitic-va-comencar-a-fer-el-paisatge-del-madriu.md,Quan el neolític va començar a fer el paisatge del Madriu,article,pending_review,,
 docs/temes/historia/origens/sant-vicenc-enclar-esglesia-i-poblat.md,Sant Vicenç d’Enclar: una església sobre el poblat,article,pending_review,,
 docs/temes/historia/origens/villa-o-tota-la-vall.md,"Villa, o tota la vall",article,pending_review,,
 docs/temes/historia/pareatge/afirmats-en-principi-sacrificats-en-laplicacio.md,"Afirmats en principi, sacrificats en l'aplicació",article,pending_review,,
 docs/temes/historia/pareatge/el-bisbe-te-sostre-i-el-comte-no.md,El bisbe té sostre i el comte no,article,pending_review,,
-docs/temes/historia/pareatge/el-pareatge-index-de-fitxes.md,El Pareatge — índex de fitxes,index,navigation_only,,
+docs/temes/historia/pareatge/el-pareatge-index-de-fitxes.md,El Pareatge — índex de fitxes,index,pending_review,,"Index contains 447 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/historia/pareatge/el-pareatge.md,El Pareatge,article,candidate_pending_review,knowledge-0013,"Candidate covers the destroyed original, present replica and separates coincident dates from any undocumented relationship; rights review pending."
 docs/temes/historia/pareatge/el-que-es-dona-en-feu-es-el-domini-util.md,El que es dona en feu és el domini útil,article,pending_review,,
 docs/temes/historia/pareatge/el-segon-pareatge-desmunta-enclar-i-crea-el-notariat-1288.md,"El segon Pariatge desmunta Enclar i crea el notariat, 1288",article,pending_review,,
@@ -725,7 +725,7 @@ docs/temes/historia/segle-xix/o-ho-accepteu-o-el-bestiar-passa-a-ser-estranger.m
 docs/temes/historia/segle-xix/quan-la-seu-es-vacant-andorra-torna-a-roma.md,"Quan la seu és vacant, Andorra torna a Roma",article,pending_review,,
 docs/temes/historia/segle-xix/que-no-shi-hagi-mirat-amb-menyspreu-ni-indiferencia.md,Que no s'hi hagi mirat amb menyspreu ni indiferència,article,pending_review,,
 docs/temes/historia/segle-xix/se-li-reconeixera-com-als-seus-antecessors.md,Se li reconeixerà com als seus antecessors,article,pending_review,,
-docs/temes/historia/segle-xix/segle-xix-index-de-fitxes.md,Segle XIX — índex de fitxes,index,navigation_only,,
+docs/temes/historia/segle-xix/segle-xix-index-de-fitxes.md,Segle XIX — índex de fitxes,index,pending_review,,"Index contains 1384 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/historia/segle-xix/semblava-que-el-bisbe-patrocinava-el-joc.md,Semblava que el bisbe patrocinava el joc,article,pending_review,,
 docs/temes/historia/segle-xix/sense-abdicacio-de-ningu.md,Sense abdicació de ningú,article,pending_review,,
 docs/temes/historia/segle-xix/solana-frontera-1850.md,La frontera espanyola i la Solana entren en un expedient francès (1850),article,pending_review,,
@@ -761,12 +761,12 @@ docs/temes/historia/segle-xx-primera-meitat/pau-xavier-areny-de-plandolit-cienci
 docs/temes/historia/segle-xx-primera-meitat/quan-el-consell-va-intentar-tenir-seus-segells-1926-1930.md,"Quan el Consell va intentar tenir els seus segells, 1926–1930",article,pending_review,,
 docs/temes/historia/segle-xx-primera-meitat/quan-franca-i-espanya-tornen-a-entrar-1944-1945.md,"Quan França i Espanya tornen a entrar a Andorra, 1944–1945",article,pending_review,,
 docs/temes/historia/segle-xx-primera-meitat/reial-decret-franquicies-andorra-1922.md,"El reial decret de 1922 torna les franquícies, però les posa sota certificat i quota",article,pending_review,,
-docs/temes/historia/segle-xx-primera-meitat/segle-xx-primera-meitat-index-de-fitxes.md,"Segle XX, primera meitat — índex de fitxes",index,navigation_only,,
+docs/temes/historia/segle-xx-primera-meitat/segle-xx-primera-meitat-index-de-fitxes.md,"Segle XX, primera meitat — índex de fitxes",index,pending_review,,"Index contains 1455 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/historia/segle-xx-primera-meitat/visita-benlloch-1908.md,La primera visita oficial del bisbe Benlloch es rep amb un arc de benvinguda (1908),article,pending_review,,
 docs/temes/institucions/comuns-i-parroquies/a-andorra-es-pot-perseguir-els-funcionaris.md,A Andorra es pot perseguir els funcionaris,article,pending_review,,
 docs/temes/institucions/comuns-i-parroquies/afiliat-o-masover-qui-podia-pasturar-a-sant-julia-1727.md,"Afiliat o masover: qui podia pasturar a Sant Julià, 1727",article,pending_review,,
 docs/temes/institucions/comuns-i-parroquies/avuy-sencanta-los-llibres-dels-comuns.md,«Avuy s'encanta los llibres dels comuns»,article,pending_review,,
-docs/temes/institucions/comuns-i-parroquies/comuns-i-parroquies-index-de-fitxes.md,Comuns i parròquies — índex de fitxes,index,navigation_only,,
+docs/temes/institucions/comuns-i-parroquies/comuns-i-parroquies-index-de-fitxes.md,Comuns i parròquies — índex de fitxes,index,pending_review,,"Index contains 1357 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/institucions/comuns-i-parroquies/el-bestiar-foraster-i-les-herbes-dencamp-1761.md,"El bestiar foraster i les herbes d’Encamp, 1761",article,pending_review,,
 docs/temes/institucions/comuns-i-parroquies/el-comu-de-sant-julia-i-els-arbres-del-prat-1750.md,"El comú de Sant Julià i els arbres del prat, 1750",article,pending_review,,
 docs/temes/institucions/comuns-i-parroquies/el-conlloc-simulat-i-el-cot-de-les-herbes-dordino-1743.md,"El conlloc simulat i el cot de les herbes d’Ordino, 1743",article,pending_review,,
@@ -801,7 +801,7 @@ docs/temes/institucions/comuns-i-parroquies/un-any-passa-encamp-laltre-canillo-p
 docs/temes/institucions/comuns-i-parroquies/una-sessio-de-la-junta-de-govern.md,Una sessió de la Junta de Govern,article,pending_review,,
 docs/temes/institucions/consell-general/andorra-demana-franquicia-cerdanya-1646.md,"Andorra demana franquícia a la Cerdanya, 1631–1646",article,pending_review,,
 docs/temes/institucions/consell-general/cap-de-casa-pero-de-casa-antiga.md,"Cap de casa, però de casa antiga",article,pending_review,,
-docs/temes/institucions/consell-general/consell-general-index-de-fitxes.md,Consell General — índex de fitxes,index,navigation_only,,
+docs/temes/institucions/consell-general/consell-general-index-de-fitxes.md,Consell General — índex de fitxes,index,pending_review,,"Index contains 3483 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/institucions/consell-general/definir-el-costum-es-legislar.md,Definir el costum és legislar,article,pending_review,,
 docs/temes/institucions/consell-general/diria-que-si.md,«Diria que sí»,article,pending_review,,
 docs/temes/institucions/consell-general/el-blat-de-les-rendes-es-reserva-als-pobres-1643.md,"El blat de les rendes es reserva als pobres, 1643",article,pending_review,,
@@ -889,7 +889,7 @@ docs/temes/institucions/coprincipat/el-batlle-comtal-ha-de-jurar-els-usos-de-la-
 docs/temes/institucions/coprincipat/el-comissari-del-rei-de-franca-visita-la-vall-1620.md,"El comissari del rei de França visita la Vall, 1620",article,pending_review,,
 docs/temes/institucions/coprincipat/el-concordat-del-2008.md,El Concordat del 2008,article,pending_review,,
 docs/temes/institucions/coprincipat/el-consell-suspen-el-substitut-del-veguer-1771.md,"El Consell suspèn el substitut del veguer i endureix el control del tabac, 1771",article,pending_review,,
-docs/temes/institucions/coprincipat/el-coprincipat-index-de-fitxes.md,El Coprincipat — índex de fitxes,index,navigation_only,,
+docs/temes/institucions/coprincipat/el-coprincipat-index-de-fitxes.md,El Coprincipat — índex de fitxes,index,pending_review,,"Index contains 1335 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/institucions/coprincipat/el-coprincipat.md,El Coprincipat,article,pending_review,,
 docs/temes/institucions/coprincipat/el-nou-veguer-frances-i-les-dues-sisenes-1788.md,"El nou veguer francès i les dues sisenes de batlle, 1788",article,pending_review,,
 docs/temes/institucions/coprincipat/el-veguer-de-franca-va-corregir-el-llibre.md,El veguer de França va corregir el llibre,article,pending_review,,
@@ -921,13 +921,13 @@ docs/temes/institucions/coprincipat/una-ampliacio-no-autoritzada-pels-textos.md,
 docs/temes/institucions/govern/el-govern.md,El Govern,article,pending_review,,
 docs/temes/institucions/govern/el-que-no-et-deixen-veure.md,El que no et deixen veure,article,pending_review,,
 docs/temes/institucions/govern/el-raonador-del-ciutada.md,El Raonador del Ciutadà,article,pending_review,,
-docs/temes/institucions/govern/govern-index-de-fitxes.md,Govern — índex de fitxes,index,navigation_only,,
+docs/temes/institucions/govern/govern-index-de-fitxes.md,Govern — índex de fitxes,index,pending_review,,"Index contains 210 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/institucions/govern/la-contractacio-directa.md,La contractació directa,article,pending_review,,
 docs/temes/institucions/govern/la-funcio-publica.md,La funció pública,article,pending_review,,
 docs/temes/institucions/govern/la-llei-de-transparencia.md,La llei de transparència,article,pending_review,,
 docs/temes/institucions/govern/tractar-amb-ladministracio.md,Tractar amb l'Administració,article,pending_review,,
 docs/temes/institucions/govern/trenta-dos-anys-de-pressupost.md,Trenta-dos anys de pressupost,article,pending_review,,
-docs/temes/institucions/institucions-d-andorra-index-de-fitxes.md,Institucions d'Andorra — índex de fitxes,index,navigation_only,,
+docs/temes/institucions/institucions-d-andorra-index-de-fitxes.md,Institucions d'Andorra — índex de fitxes,index,pending_review,,"Index contains 158 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/institucions/justicia/a-les-galeres-despanya-per-la-neu.md,"A les galeres d'Espanya, per la neu",article,pending_review,,
 docs/temes/institucions/justicia/a-perpinya-amb-dret-catala-a-la-seu-amb-dret-roma.md,"A Perpinyà amb dret català, a la Seu amb dret romà",article,pending_review,,
 docs/temes/institucions/justicia/abrogats-el-1839-aplicats-el-1889.md,"Abrogats el 1839, aplicats el 1889",article,pending_review,,
@@ -979,7 +979,7 @@ docs/temes/institucions/justicia/es-deixaven-escapar-els-presos.md,Es deixaven e
 docs/temes/institucions/justicia/es-pot-renunciar-a-una-autoritzacio-no-a-una-prescripcio.md,"Es pot renunciar a una autorització, no a una prescripció",article,pending_review,,
 docs/temes/institucions/justicia/escrupols-quant-a-la-forma-atreviments-quant-al-fons.md,"Escrúpols quant a la forma, atreviments quant al fons",article,pending_review,,
 docs/temes/institucions/justicia/homes-armats-a-la-porta-de-lesglesia.md,Homes armats a la porta de l'església,article,pending_review,,
-docs/temes/institucions/justicia/justicia-index-de-fitxes.md,Justícia — índex de fitxes,index,navigation_only,,
+docs/temes/institucions/justicia/justicia-index-de-fitxes.md,Justícia — índex de fitxes,index,pending_review,,"Index contains 5439 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/institucions/justicia/justicia.md,La justícia,article,pending_review,,
 docs/temes/institucions/justicia/la-cacera-de-bruixes-entra-al-govern-del-consell-1621.md,La cacera de bruixes entra al govern del Consell (1621),article,pending_review,,
 docs/temes/institucions/justicia/la-justicia-dabans.md,La justícia abans de la Constitució,article,pending_review,,
@@ -1077,7 +1077,7 @@ docs/temes/institucions/nacionalitat-i-residencia/el-rellotge-dels-vint-i-cinc-a
 docs/temes/institucions/nacionalitat-i-residencia/els-andorrans-de-primera-generacio.md,Els andorrans de primera generació,article,pending_review,,
 docs/temes/institucions/nacionalitat-i-residencia/la-politica-de-nacionalitat.md,La política de nacionalitat,article,pending_review,,
 docs/temes/institucions/nacionalitat-i-residencia/la-residencia-passiva.md,La residència passiva,article,pending_review,,
-docs/temes/institucions/nacionalitat-i-residencia/nacionalitat-i-residencia-index-de-fitxes.md,Nacionalitat i residència — índex de fitxes,index,navigation_only,,
+docs/temes/institucions/nacionalitat-i-residencia/nacionalitat-i-residencia-index-de-fitxes.md,Nacionalitat i residència — índex de fitxes,index,pending_review,,"Index contains 597 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/institucions/nacionalitat-i-residencia/nacionalitat-i-residencia.md,Nacionalitat i residència,article,pending_review,,
 docs/temes/institucions/nacionalitat-i-residencia/pas-franca-dalleres-1868.md,Pere Dalleres obté un passe per circular per França (1868),article,pending_review,,
 docs/temes/institucions/nacionalitat-i-residencia/passaport-filomena-albos-1941.md,Filomena Albós rep el passaport andorrà número 263 (1941),article,pending_review,,
@@ -1092,12 +1092,12 @@ docs/temes/institucions/patrimoni-institucional/els-consellers-hi-dormien.md,"El
 docs/temes/institucions/patrimoni-institucional/excomunio-major-per-a-qui-tregui-un-paper.md,Excomunió major per a qui tregui un paper,article,pending_review,,
 docs/temes/institucions/patrimoni-institucional/larmari-de-les-set-claus.md,L'Armari de les Set Claus,article,candidate_pending_review,knowledge-0034;knowledge-0035,"Candidates distinguish the six-to-seven-lock history and archive transfer from Vilar’s 1904 eyewitness description of the oak cabinet, inscription and simultaneous key custody; rights pending."
 docs/temes/institucions/patrimoni-institucional/linventari-de-les-set-claus.md,L'inventari de les Set Claus,article,excluded_rights_restricted,,"Excluded: Government inventory and archive description have reserved rights, no general redistribution authorization, and the source record specifies 50-year access/reproduction restrictions."
-docs/temes/institucions/patrimoni-institucional/patrimoni-institucional-index-de-fitxes.md,Patrimoni institucional — índex de fitxes,index,navigation_only,,
+docs/temes/institucions/patrimoni-institucional/patrimoni-institucional-index-de-fitxes.md,Patrimoni institucional — índex de fitxes,index,pending_review,,"Index contains 229 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/institucions/petits-estats/andorra-com-a-microestat.md,Andorra com a microestat,article,pending_review,,
 docs/temes/institucions/petits-estats/els-petits-estats-comparats.md,Els petits estats comparats,article,pending_review,,
-docs/temes/institucions/petits-estats/petits-estats-index-de-fitxes.md,Petits estats — índex de fitxes,index,navigation_only,,
+docs/temes/institucions/petits-estats/petits-estats-index-de-fitxes.md,Petits estats — índex de fitxes,index,pending_review,,"Index contains 223 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/institucions/quarts-i-veinats/quan-la-parroquia-no-nomena-metge-el-quart-ho-pot-fer.md,"Quan la parròquia no nomena metge, el quart ho pot fer",article,pending_review,,
-docs/temes/institucions/quarts-i-veinats/quarts-i-veinats-index-de-fitxes.md,Quarts i veïnats — índex de fitxes,index,navigation_only,,
+docs/temes/institucions/quarts-i-veinats/quarts-i-veinats-index-de-fitxes.md,Quarts i veïnats — índex de fitxes,index,pending_review,,"Index contains 111 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/institucions/quarts-i-veinats/quarts-i-veinats.md,Quarts i veïnats,article,pending_review,,
 docs/temes/institucions/relacions-exteriors/andorra-a-la-comissio-on-no-vota.md,Andorra a la comissió on no vota,article,pending_review,,
 docs/temes/institucions/relacions-exteriors/andorra-es-adequada.md,Andorra és adequada,article,pending_review,,
@@ -1107,13 +1107,13 @@ docs/temes/institucions/relacions-exteriors/els-dos-papers-de-la-reivindicacio-e
 docs/temes/institucions/relacions-exteriors/lacord-dassociacio-amb-la-ue.md,L'acord d'associació amb la UE,article,pending_review,,
 docs/temes/institucions/relacions-exteriors/lacord-duaner-del-1990.md,L'acord duaner del 1990,article,pending_review,,
 docs/temes/institucions/relacions-exteriors/qui-parlava-per-andorra.md,Qui parlava per Andorra,article,pending_review,,
-docs/temes/institucions/relacions-exteriors/relacions-exteriors-index-de-fitxes.md,Relacions exteriors — índex de fitxes,index,navigation_only,,
+docs/temes/institucions/relacions-exteriors/relacions-exteriors-index-de-fitxes.md,Relacions exteriors — índex de fitxes,index,pending_review,,"Index contains 311 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/institucions/simbols/el-gran-carlemany.md,El Gran Carlemany,article,candidate_pending_review,knowledge-0027,Candidate distinguishes lyricist Joan Benlloch from composer Enric Marfany and records Council acceptance date; copyright reuse review pending.
 docs/temes/institucions/simbols/la-bandera.md,La bandera,article,candidate_pending_review,knowledge-0025,Candidate distinguishes documented design/origin from unverified color symbolism and quotes Constitution art. 2.2; rights review pending.
 docs/temes/institucions/simbols/lescut.md,L'escut,article,candidate_pending_review,knowledge-0026,Candidate covers Vilar’s 1904 description and the portal inscription; distinguishes historical description from current official specification; rights review pending.
-docs/temes/institucions/simbols/simbols-index-de-fitxes.md,Símbols — índex de fitxes,index,navigation_only,,
+docs/temes/institucions/simbols/simbols-index-de-fitxes.md,Símbols — índex de fitxes,index,pending_review,,"Index contains 114 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/institucions/simbols/simbols.md,Símbols — índex,article,pending_review,,
-docs/temes/llengua/contacte-de-llengues/contacte-de-llengues-index-de-fitxes.md,Contacte de llengües — índex de fitxes,index,navigation_only,,
+docs/temes/llengua/contacte-de-llengues/contacte-de-llengues-index-de-fitxes.md,Contacte de llengües — índex de fitxes,index,pending_review,,"Index contains 253 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/llengua/contacte-de-llengues/contacte-de-llengues.md,Contacte de llengües,article,pending_review,,
 docs/temes/llengua/contacte-de-llengues/el-primer-grup-no-va-arribar-a-ser-un-grup.md,El primer grup no va arribar a ser un grup,article,pending_review,,
 docs/temes/llengua/contacte-de-llengues/els-matrimonis-mixtos-es-dedueixen-del-bilinguisme.md,Els matrimonis mixtos es dedueixen del bilingüisme perquè no se'n tenen dades,article,pending_review,,
@@ -1130,17 +1130,17 @@ docs/temes/llengua/fonetica/la-vacillacio-accentual.md,La vacil·lació accentua
 docs/temes/llengua/fraseologia/fraseologia-index-de-fitxes.md,Fraseologia — índex de fitxes,index,navigation_only,,
 docs/temes/llengua/fraseologia/fraseologia.md,Fraseologia,article,pending_review,,
 docs/temes/llengua/historia-de-la-llengua/costa-tant-dir-no-ho-se.md,Costa tant dir «no ho sé» a Andorra com a tot arreu,article,pending_review,,
-docs/temes/llengua/historia-de-la-llengua/historia-de-la-llengua-index-de-fitxes.md,Història de la llengua — índex de fitxes,index,navigation_only,,
+docs/temes/llengua/historia-de-la-llengua/historia-de-la-llengua-index-de-fitxes.md,Història de la llengua — índex de fitxes,index,pending_review,,"Index contains 108 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/llengua/historia-de-la-llengua/lerra-que-ja-no-sonava.md,L'erra que ja no sonava,article,pending_review,,
 docs/temes/llengua/historia-de-la-llengua/per-que-el-manual-digest-no-diu-com-es-parlava.md,Per què el Manual Digest no diu com es parlava,article,pending_review,,
 docs/temes/llengua/lexic-andorra/glossari-de-mots-documentats.md,Glossari de mots andorrans documentats,article,pending_review,,
 docs/temes/llengua/lexic-andorra/la-marca-que-no-vol-dir-andorra.md,La marca que no vol dir Andorra,article,pending_review,,
-docs/temes/llengua/lexic-andorra/lexic-andorra-index-de-fitxes.md,Lèxic andorrà — índex de fitxes,index,navigation_only,,
+docs/temes/llengua/lexic-andorra/lexic-andorra-index-de-fitxes.md,Lèxic andorrà — índex de fitxes,index,pending_review,,"Index contains 122 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/llengua/lexic-andorra/lexic-andorra.md,Lèxic andorrà,article,pending_review,,
-docs/temes/llengua/llengua-d-andorra-index-de-fitxes.md,Llengua d'Andorra — índex de fitxes,index,navigation_only,,
+docs/temes/llengua/llengua-d-andorra-index-de-fitxes.md,Llengua d'Andorra — índex de fitxes,index,pending_review,,"Index contains 138 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/llengua/manlleus/el-repertori-de-la-neu.md,El repertori de la neu,article,pending_review,,
 docs/temes/llengua/manlleus/els-anglicismes.md,Els anglicismes,article,pending_review,,
-docs/temes/llengua/manlleus/manlleus-index-de-fitxes.md,Manlleus — índex de fitxes,index,navigation_only,,
+docs/temes/llengua/manlleus/manlleus-index-de-fitxes.md,Manlleus — índex de fitxes,index,pending_review,,"Index contains 136 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/llengua/manlleus/manlleus.md,Manlleus,article,pending_review,,
 docs/temes/llengua/manlleus/quan-la-paraula-oficial-arriba-tard.md,Quan la paraula oficial arriba tard,article,pending_review,,
 docs/temes/llengua/morfosintaxi/la-negacio-amb-cap.md,La negació amb *cap*,article,pending_review,,
@@ -1149,7 +1149,7 @@ docs/temes/llengua/morfosintaxi/morfosintaxi-index-de-fitxes.md,Morfosintaxi —
 docs/temes/llengua/morfosintaxi/morfosintaxi.md,Morfosintaxi,article,pending_review,,
 docs/temes/llengua/onomastica/els-gentilicis.md,Els gentilicis de les set parròquies,article,pending_review,,
 docs/temes/llengua/onomastica/lhereu-pren-el-seu-lloc-i-el-seu-nom.md,L'hereu pren el seu lloc i el seu nom,article,pending_review,,
-docs/temes/llengua/onomastica/onomastica-index-de-fitxes.md,Onomàstica — índex de fitxes,index,navigation_only,,
+docs/temes/llengua/onomastica/onomastica-index-de-fitxes.md,Onomàstica — índex de fitxes,index,pending_review,,"Index contains 124 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/llengua/onomastica/onomastica.md,Onomàstica,article,pending_review,,
 docs/temes/llengua/politica-linguistica/andorra-es-castellanitza.md,«Andorra es castellanitza»,article,pending_review,,
 docs/temes/llengua/politica-linguistica/el-diposit-legal-daquesta-edicio-es-and-000-2019.md,El dipòsit legal d'aquesta edició és AND. 000-2019,article,pending_review,,
@@ -1161,7 +1161,7 @@ docs/temes/llengua/politica-linguistica/la-globalitzacio-i-el-catala.md,La globa
 docs/temes/llengua/politica-linguistica/la-llei-de-la-llengua.md,La llei de la llengua,article,pending_review,,
 docs/temes/llengua/politica-linguistica/la-serie-historica.md,La sèrie històrica del català a Andorra,article,pending_review,,
 docs/temes/llengua/politica-linguistica/la-serie-que-no-es-una-serie.md,La sèrie que no és una sèrie,article,pending_review,,
-docs/temes/llengua/politica-linguistica/politica-linguistica-index-de-fitxes.md,Política lingüística — índex de fitxes,index,navigation_only,,
+docs/temes/llengua/politica-linguistica/politica-linguistica-index-de-fitxes.md,Política lingüística — índex de fitxes,index,pending_review,,"Index contains 473 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/llengua/politica-linguistica/quaranta-vuit-coma-cinc-no-quaranta-vuit-coma-sis.md,"Quaranta-vuit coma cinc, no quaranta-vuit coma sis",article,pending_review,,
 docs/temes/llengua/politica-linguistica/qui-parla-que.md,Qui parla què,article,pending_review,,
 docs/temes/llengua/politica-linguistica/sis-onades-en-una-taula.md,Sis onades en una taula,article,pending_review,,
@@ -1204,7 +1204,7 @@ docs/temes/persones/naiara-linan.md,Naiara Liñán,article,pending_review,,
 docs/temes/persones/olivier-codina.md,Olivier Codina Vialette,article,pending_review,,
 docs/temes/persones/oscar-ribas-reig.md,Òscar Ribas Reig,article,pending_review,,
 docs/temes/persones/pere-canturri-montanya.md,Pere Canturri Montanya,article,pending_review,,
-docs/temes/persones/persones-d-andorra-index-de-fitxes.md,Persones d'Andorra — índex de fitxes,index,navigation_only,,
+docs/temes/persones/persones-d-andorra-index-de-fitxes.md,Persones d'Andorra — índex de fitxes,index,pending_review,,"Index contains 2352 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/persones/roland-viader.md,Roland Viader,article,pending_review,,
 docs/temes/persones/rosa-ferrer-obiols.md,Maria Rosa Ferrer Obiols,article,pending_review,,
 docs/temes/persones/roser-sune.md,Roser Suñé i Pascuet,article,pending_review,,
@@ -1220,13 +1220,13 @@ docs/temes/politica/identitat-politica/les-respostes-de-1994.md,Les respostes de
 docs/temes/politica/parlamentarisme/com-funciona-el-consell-general.md,Com funciona el Consell General,article,pending_review,,
 docs/temes/politica/parlamentarisme/el-parlamentarisme-andorra.md,El parlamentarisme andorrà,article,pending_review,,
 docs/temes/politica/parlamentarisme/la-deriva-presidencialista.md,La deriva presidencialista,article,pending_review,,
-docs/temes/politica/parlamentarisme/parlamentarisme-index-de-fitxes.md,Parlamentarisme — índex de fitxes,index,navigation_only,,
+docs/temes/politica/parlamentarisme/parlamentarisme-index-de-fitxes.md,Parlamentarisme — índex de fitxes,index,pending_review,,"Index contains 166 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/politica/parlamentarisme/quants-diputats.md,Quants diputats,article,pending_review,,
 docs/temes/politica/partits/els-partits-davui.md,Els partits d'avui,article,pending_review,,
 docs/temes/politica/partits/larbre-dels-partits.md,L'arbre dels partits,article,pending_review,,
-docs/temes/politica/partits/partits-politics-index-de-fitxes.md,Partits polítics — índex de fitxes,index,navigation_only,,
+docs/temes/politica/partits/partits-politics-index-de-fitxes.md,Partits polítics — índex de fitxes,index,pending_review,,"Index contains 595 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/politica/partits/qui-paga-un-partit.md,Qui paga un partit,article,pending_review,,
-docs/temes/politica/politica-d-andorra-index-de-fitxes.md,Política d'Andorra — índex de fitxes,index,navigation_only,,
+docs/temes/politica/politica-d-andorra-index-de-fitxes.md,Política d'Andorra — índex de fitxes,index,pending_review,,"Index contains 876 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/politica/sistema-electoral/com-es-compten-els-vots.md,Com es compten els vots,article,pending_review,,
 docs/temes/politica/sistema-electoral/el-financament-dels-partits.md,El finançament dels partits,article,pending_review,,
 docs/temes/politica/sistema-electoral/el-referendum-constitucional-de-1993.md,El referèndum constitucional del 1993,article,pending_review,,
@@ -1235,12 +1235,12 @@ docs/temes/politica/sistema-electoral/els-primers-referendums.md,"Els primers re
 docs/temes/politica/sistema-electoral/els-tres-sistemes-electorals.md,Els tres sistemes electorals,article,pending_review,,
 docs/temes/politica/sistema-electoral/la-desigualtat-del-vot.md,La desigualtat del vot,article,pending_review,,
 docs/temes/politica/sistema-electoral/labstencio.md,L'abstenció,article,pending_review,,
-docs/temes/politica/sistema-electoral/sistema-electoral-index-de-fitxes.md,Sistema electoral — índex de fitxes,index,navigation_only,,
+docs/temes/politica/sistema-electoral/sistema-electoral-index-de-fitxes.md,Sistema electoral — índex de fitxes,index,pending_review,,"Index contains 272 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/politica/sistema-electoral/un-elector-per-casa.md,Un elector per casa,article,pending_review,,
 docs/temes/societat/associacionisme/associacionisme-index-de-fitxes.md,Associacionisme — índex de fitxes,index,navigation_only,,
 docs/temes/societat/associacionisme/associacionisme.md,L'associacionisme,article,pending_review,,
 docs/temes/societat/demografia/cens-poblacio-carretera-1896.md,Un cens de població per pagar la carretera (1896),article,pending_review,,
-docs/temes/societat/demografia/demografia-index-de-fitxes.md,Demografia — índex de fitxes,index,navigation_only,,
+docs/temes/societat/demografia/demografia-index-de-fitxes.md,Demografia — índex de fitxes,index,pending_review,,"Index contains 445 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/societat/demografia/demografia.md,Demografia,article,pending_review,,
 docs/temes/societat/demografia/dues-maneres-de-comptar-la-poblacio.md,Dues maneres de comptar la població,article,pending_review,,
 docs/temes/societat/demografia/la-composicio-per-nacionalitats.md,La composició per nacionalitats,article,candidate_pending_review,knowledge-0016,Candidate uses 2020 Moroccan-nationality figure with explicit date; rights review pending.
@@ -1265,7 +1265,7 @@ docs/temes/societat/dones/vanessa-mendoza-cortes.md,Vanessa Mendoza Cortés,arti
 docs/temes/societat/dones/vuitanta-cinc-coma-nou.md,Vuitanta-cinc coma nou,article,pending_review,,
 docs/temes/societat/educacio/beques-noies-andorranes-franca-1890.md,"Dues noies andorranes obtenen beques franceses per estudiar magisteri, 1890",article,pending_review,,
 docs/temes/societat/educacio/collegi-foix-sucara-1672.md,"Un nomenament educatiu del copríncep francès, 1672",article,pending_review,,
-docs/temes/societat/educacio/educacio-index-de-fitxes.md,Educació — índex de fitxes,index,navigation_only,,
+docs/temes/societat/educacio/educacio-index-de-fitxes.md,Educació — índex de fitxes,index,pending_review,,"Index contains 800 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/societat/educacio/educacio.md,Educació — el sistema triple,article,pending_review,,
 docs/temes/societat/educacio/el-mapa-escolar-del-2000.md,El mapa escolar del 2000,article,pending_review,,
 docs/temes/societat/educacio/el-marc-legal-de-leducacio.md,El marc legal de l'educació,article,pending_review,,
@@ -1299,12 +1299,12 @@ docs/temes/societat/esport/lesport.md,L'esport a Andorra,article,pending_review,
 docs/temes/societat/familia/casar-se-a-andorra.md,Casar-se a Andorra,article,pending_review,,
 docs/temes/societat/familia/els-drets-dels-infants.md,Els drets dels infants,article,pending_review,,
 docs/temes/societat/familia/en-edat-de-fer-testament.md,En edat de fer testament,article,pending_review,,
-docs/temes/societat/familia/familia-index-de-fitxes.md,Família — índex de fitxes,index,navigation_only,,
+docs/temes/societat/familia/familia-index-de-fitxes.md,Família — índex de fitxes,index,pending_review,,"Index contains 168 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/societat/familia/retrat-nena-casa-rossell-1890-1920.md,Un retrat de nena mostra la casa i la roba del canvi de segle,article,pending_review,,
 docs/temes/societat/habitatge/dos-tercos-del-pais-viuen-de-lloguer.md,Dos terços del país viuen de lloguer,article,pending_review,,
 docs/temes/societat/habitatge/els-habitatges-buits.md,Els habitatges buits,article,pending_review,,
 docs/temes/societat/habitatge/els-recomptes-del-parc-public-el-2026.md,Els recomptes del parc públic el 2026,article,pending_review,,
-docs/temes/societat/habitatge/habitatge-index-de-fitxes.md,Habitatge — índex de fitxes,index,navigation_only,,
+docs/temes/societat/habitatge/habitatge-index-de-fitxes.md,Habitatge — índex de fitxes,index,pending_review,,"Index contains 265 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/societat/habitatge/la-crisi-de-lhabitatge.md,La crisi de l'habitatge,article,pending_review,,
 docs/temes/societat/habitatge/lhabitatge-el-1989.md,L'habitatge el 1989,article,pending_review,,
 docs/temes/societat/habitatge/limpost-contra-lespeculacio.md,L'impost contra l'especulació,article,pending_review,,
@@ -1316,7 +1316,7 @@ docs/temes/societat/immigracio/apte-per-residir.md,Apte per residir,article,pend
 docs/temes/societat/immigracio/el-diagnostic-de-1989.md,El diagnòstic de 1989,article,pending_review,,
 docs/temes/societat/immigracio/el-mercat-de-treball-dual.md,El mercat de treball dual,article,pending_review,,
 docs/temes/societat/immigracio/els-nats-a-andorra.md,Els nats a Andorra,article,pending_review,,
-docs/temes/societat/immigracio/immigracio-index-de-fitxes.md,Immigració — índex de fitxes,index,navigation_only,,
+docs/temes/societat/immigracio/immigracio-index-de-fitxes.md,Immigració — índex de fitxes,index,pending_review,,"Index contains 558 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/societat/immigracio/immigracio.md,Immigració,article,pending_review,,
 docs/temes/societat/immigracio/la-immigracio-llatinoamericana.md,La immigració llatinoamericana,article,pending_review,,
 docs/temes/societat/immigracio/la-integracio-com-a-conflicte.md,La integració com a conflicte,article,pending_review,,
@@ -1334,12 +1334,12 @@ docs/temes/societat/immigracio/qui-fixava-les-quotes.md,Qui fixava les quotes,ar
 docs/temes/societat/mitjans/andorra-digital.md,Andorra digital,article,pending_review,,
 docs/temes/societat/mitjans/la-censura-de-premsa.md,La censura de premsa,article,pending_review,,
 docs/temes/societat/mitjans/les-capcaleres.md,Les capçaleres,article,pending_review,,
-docs/temes/societat/mitjans/mitjans-index-de-fitxes.md,Mitjans — índex de fitxes,index,navigation_only,,
+docs/temes/societat/mitjans/mitjans-index-de-fitxes.md,Mitjans — índex de fitxes,index,pending_review,,"Index contains 155 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/societat/mitjans/radio-andorra.md,Ràdio Andorra,article,pending_review,,
 docs/temes/societat/mitjans/rtva.md,RTVA,article,pending_review,,
 docs/temes/societat/proteccio-social/el-gini-ha-pujat-vuit-punts.md,El Gini ha pujat vuit punts,article,pending_review,,
 docs/temes/societat/proteccio-social/la-caixa-va-neixer-de-la-immigracio.md,La Caixa va néixer de la immigració,article,pending_review,,
-docs/temes/societat/proteccio-social/proteccio-social-index-de-fitxes.md,Protecció social — índex de fitxes,index,navigation_only,,
+docs/temes/societat/proteccio-social/proteccio-social-index-de-fitxes.md,Protecció social — índex de fitxes,index,pending_review,,"Index contains 122 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/societat/proteccio-social/sis-cents-quaranta-quatre-espanyols-i-tres-cents-un-andorrans.md,Sis-cents quaranta-quatre espanyols i tres-cents un andorrans,article,pending_review,,
 docs/temes/societat/proteccio-social/tres-centes-catorze-criatures.md,Tres-centes catorze criatures,article,pending_review,,
 docs/temes/societat/sanitat/conveni-apotecari-balmes-1737.md,El Consell contracta un apotecari d’Igualada (1737),article,pending_review,,
@@ -1361,9 +1361,9 @@ docs/temes/societat/sanitat/pagaments-apotecari-consell-1820.md,"El Consell paga
 docs/temes/societat/sanitat/quan-canvia-qui-rep-el-pagament.md,Quan canvia qui rep el pagament,article,pending_review,,
 docs/temes/societat/sanitat/que-justificava-la-inversio-hospitalaria-de-2026.md,Què justificava la inversió hospitalària de 2026,article,pending_review,,
 docs/temes/societat/sanitat/que-mesuren-els-deu-dies-de-la-cass.md,Què mesuren els deu dies de la CASS,article,pending_review,,
-docs/temes/societat/sanitat/sanitat-index-de-fitxes.md,Sanitat — índex de fitxes,index,navigation_only,,
+docs/temes/societat/sanitat/sanitat-index-de-fitxes.md,Sanitat — índex de fitxes,index,pending_review,,"Index contains 492 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/societat/set-coma-trenta-vuit-sobre-deu.md,Set coma trenta-vuit sobre deu,article,pending_review,,
-docs/temes/societat/societat-andorrana-index-de-fitxes.md,Societat andorrana — índex de fitxes,index,navigation_only,,
+docs/temes/societat/societat-andorrana-index-de-fitxes.md,Societat andorrana — índex de fitxes,index,pending_review,,"Index contains 119 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/societat/treball/cotitzar-sense-cobrar-lajut-de-desocupacio.md,Cotitzar sense cobrar l’ajut de desocupació,article,pending_review,,
 docs/temes/societat/treball/el-barem-patrimonial-i-els-ajuts.md,Com es va calcular el barem patrimonial dels ajuts socials (2014–2018),article,pending_review,,
 docs/temes/societat/treball/el-consell-economic-i-social.md,El Consell Econòmic i Social,article,pending_review,,
@@ -1381,7 +1381,7 @@ docs/temes/societat/treball/lara-i-el-sat.md,L'ARA i el SAT,article,pending_revi
 docs/temes/societat/treball/mesos-cotitzats-ajut-desocupacio-2020.md,"Els mesos cotitzats per demanar l’ajut de desocupació, segons el text de 2020",article,pending_review,,
 docs/temes/societat/treball/no-tornar-a-casa-ferit.md,No tornar a casa ferit,article,pending_review,,
 docs/temes/societat/treball/rebut-lloguer-cirurgia-1828.md,Un cirurgià paga el lloguer de casa i hort (1828),article,pending_review,,
-docs/temes/societat/treball/treball-index-de-fitxes.md,Treball — índex de fitxes,index,navigation_only,,
+docs/temes/societat/treball/treball-index-de-fitxes.md,Treball — índex de fitxes,index,pending_review,,"Index contains 506 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/societat/treball/treball.md,Treball,article,pending_review,,
 docs/temes/societat/treball/treballar-de-temporada.md,Treballar de temporada,article,pending_review,,
 docs/temes/societat/vida-civica/arribar-a-tot-arreu.md,Arribar a tot arreu,article,pending_review,,
@@ -1391,9 +1391,9 @@ docs/temes/societat/vida-civica/la-confianca.md,La confiança,article,pending_re
 docs/temes/societat/vida-civica/lassociacionisme-historic.md,L'associacionisme històric,article,pending_review,,
 docs/temes/societat/vida-civica/per-que-valia-la-pena-ser-andorra.md,Per què valia la pena ser andorrà,article,pending_review,,
 docs/temes/societat/vida-civica/sortir-al-carrer.md,Sortir al carrer,article,pending_review,,
-docs/temes/societat/vida-civica/vida-civica-index-de-fitxes.md,Vida cívica — índex de fitxes,index,navigation_only,,
+docs/temes/societat/vida-civica/vida-civica-index-de-fitxes.md,Vida cívica — índex de fitxes,index,pending_review,,"Index contains 258 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/societat/vida-civica/vida-civica.md,La vida cívica,article,pending_review,,
-docs/temes/territori/clima-i-muntanya/clima-i-muntanya-index-de-fitxes.md,Clima i muntanya — índex de fitxes,index,navigation_only,,
+docs/temes/territori/clima-i-muntanya/clima-i-muntanya-index-de-fitxes.md,Clima i muntanya — índex de fitxes,index,pending_review,,"Index contains 496 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/territori/clima-i-muntanya/com-es-compta-laigua-dels-canons.md,Com es compta l'aigua dels canons,article,pending_review,,
 docs/temes/territori/clima-i-muntanya/dos-blaus-diferents-als-mapes-dallaus.md,Dos blaus diferents als mapes d'allaus,article,pending_review,,
 docs/temes/territori/clima-i-muntanya/el-balanc-hidric-i-els-seus-limits.md,El balanç hídric i els seus límits,article,pending_review,,
@@ -1410,7 +1410,7 @@ docs/temes/territori/clima-i-muntanya/que-classifica-el-mapa-ates-dandorra.md,Qu
 docs/temes/territori/clima-i-muntanya/que-es-va-mesurar-a-lallau-darinsal.md,Què es va mesurar a l'allau d'Arinsal,article,pending_review,,
 docs/temes/territori/fauna-i-flora/cacar-i-pescar.md,Caçar i pescar,article,pending_review,,
 docs/temes/territori/fauna-i-flora/els-seguiments-del-cenma.md,Els seguiments del CENMA,article,pending_review,,
-docs/temes/territori/fauna-i-flora/fauna-i-flora-index-de-fitxes.md,Fauna i flora — índex de fitxes,index,navigation_only,,
+docs/temes/territori/fauna-i-flora/fauna-i-flora-index-de-fitxes.md,Fauna i flora — índex de fitxes,index,pending_review,,"Index contains 163 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/territori/fauna-i-flora/fauna-i-flora.md,Fauna i flora,article,pending_review,,
 docs/temes/territori/fauna-i-flora/la-tinenca-danimals.md,La tinença d'animals,article,pending_review,,
 docs/temes/territori/fauna-i-flora/qui-caca-i-qui-pesca.md,Qui caça i qui pesca,article,pending_review,,
@@ -1418,7 +1418,7 @@ docs/temes/territori/geografia-fisica/aquesta-opinio-del-poble-era-util-de-notar
 docs/temes/territori/geografia-fisica/de-que-esta-fet-el-pais.md,De què està fet el país,article,pending_review,,
 docs/temes/territori/geografia-fisica/el-sol-comunal.md,El sòl comunal,article,pending_review,,
 docs/temes/territori/geografia-fisica/en-la-ubaga-tot-hom-hi-pot-anar.md,En la ubaga tot hom hi pot anar,article,pending_review,,
-docs/temes/territori/geografia-fisica/geografia-fisica-index-de-fitxes.md,Geografia física — índex de fitxes,index,navigation_only,,
+docs/temes/territori/geografia-fisica/geografia-fisica-index-de-fitxes.md,Geografia física — índex de fitxes,index,pending_review,,"Index contains 354 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/territori/geografia-fisica/geografia-fisica.md,Geografia física,article,pending_review,,
 docs/temes/territori/geografia-fisica/la-logica-pastoral-dels-limits.md,La lògica pastoral dels límits,article,pending_review,,
 docs/temes/territori/geografia-fisica/la-ratlla-passa-a-laltra-banda-de-laigua.md,La ratlla passa a l'altra banda de l'aigua,article,pending_review,,
@@ -1428,7 +1428,7 @@ docs/temes/territori/paisatge-construit/dos-pianos-i-una-carretera.md,Dos pianos
 docs/temes/territori/paisatge-construit/els-camins-dels-ports-com-mes-bruscos-millor.md,"Els camins dels ports, com més bruscos millor",article,pending_review,,
 docs/temes/territori/paisatge-construit/els-castells-que-no-hi-ha.md,Els castells que no hi ha,article,pending_review,,
 docs/temes/territori/paisatge-construit/la-llei-afavoreix-la-finca-que-presta-la-servitud.md,La llei afavoreix la finca que presta la servitud,article,pending_review,,
-docs/temes/territori/paisatge-construit/paisatge-construit-index-de-fitxes.md,Paisatge construït — índex de fitxes,index,navigation_only,,
+docs/temes/territori/paisatge-construit/paisatge-construit-index-de-fitxes.md,Paisatge construït — índex de fitxes,index,pending_review,,"Index contains 175 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/territori/paisatge-construit/paisatge-construit.md,Paisatge construït,article,pending_review,,
 docs/temes/territori/parroquies/andorra-la-vella/andorra-la-vella-index-de-fitxes.md,Andorra la Vella — índex de fitxes,index,navigation_only,,
 docs/temes/territori/parroquies/andorra-la-vella/andorra-la-vella.md,Andorra la Vella,article,pending_review,,
@@ -1448,22 +1448,22 @@ docs/temes/territori/parroquies/sant-julia-de-loria/sant-julia-de-loria.md,Sant 
 docs/temes/territori/patrimoni-natural/el-que-no-es-llenca.md,El que no es llença,article,pending_review,,
 docs/temes/territori/patrimoni-natural/madriu-perafita-claror.md,La vall del Madriu-Perafita-Claror,article,candidate_pending_review,knowledge-0033,"Candidate explains the cultural-landscape inscription, four-parish area and approximate share of national territory; rights pending."
 docs/temes/territori/patrimoni-natural/patrimoni-natural-index-de-fitxes.md,Patrimoni natural — índex de fitxes,index,navigation_only,,
-docs/temes/territori/territori-d-andorra-index-de-fitxes.md,Territori d'Andorra — índex de fitxes,index,navigation_only,,
+docs/temes/territori/territori-d-andorra-index-de-fitxes.md,Territori d'Andorra — índex de fitxes,index,pending_review,,"Index contains 105 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/territori/toponimia/el-substrat-als-noms-de-lloc.md,El substrat als noms de lloc,article,pending_review,,
 docs/temes/territori/toponimia/els-annexos-dels-toponims.md,Els annexos dels topònims,article,excluded_rights_restricted,,"Excluded: annex material derives from Planas et al. (2018); rights are reserved with no reuse license, and the source record excludes it from datasets."
 docs/temes/territori/toponimia/les-tautologies.md,Les tautologies toponímiques,article,pending_review,,
 docs/temes/territori/toponimia/lhorto-no-es-cap-hort.md,L'Hortó no és cap hort,article,excluded_rights_restricted,,"Excluded: source Planas et al. (2018) explicitly has reserved rights, no open license, and states its text must not enter datasets."
 docs/temes/territori/toponimia/toponimia-andorrana.md,La toponímia andorrana,article,pending_review,,
-docs/temes/territori/toponimia/toponimia-index-de-fitxes.md,Toponímia — índex de fitxes,index,navigation_only,,
+docs/temes/territori/toponimia/toponimia-index-de-fitxes.md,Toponímia — índex de fitxes,index,pending_review,,"Index contains 171 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/territori/urbanisme/qui-mana-al-territori.md,Qui mana al territori,article,pending_review,,
 docs/temes/territori/urbanisme/urbanisme-index-de-fitxes.md,Urbanisme — índex de fitxes,index,navigation_only,,
 docs/temes/territori/urbanisme/urbanisme.md,L'urbanisme,article,pending_review,,
-docs/temes/vida-quotidiana/com-funciona-tot/com-funciona-tot-index-de-fitxes.md,Com funciona tot — índex de fitxes,index,navigation_only,,
+docs/temes/vida-quotidiana/com-funciona-tot/com-funciona-tot-index-de-fitxes.md,Com funciona tot — índex de fitxes,index,pending_review,,"Index contains 115 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/vida-quotidiana/com-funciona-tot/com-funciona-tot.md,Com funciona tot,article,pending_review,,
 docs/temes/vida-quotidiana/com-funciona-tot/comprar-i-reclamar.md,Comprar i reclamar,article,pending_review,,
 docs/temes/vida-quotidiana/com-funciona-tot/conduir-a-andorra.md,Conduir a Andorra,article,pending_review,,
 docs/temes/vida-quotidiana/com-funciona-tot/que-costa-una-multa.md,Què costa una multa,article,pending_review,,
-docs/temes/vida-quotidiana/convencions-socials/convencions-socials-index-de-fitxes.md,Convencions socials — índex de fitxes,index,navigation_only,,
+docs/temes/vida-quotidiana/convencions-socials/convencions-socials-index-de-fitxes.md,Convencions socials — índex de fitxes,index,pending_review,,"Index contains 119 words beyond frontmatter; inspect prose, summaries and tables for trainable knowledge before deciding coverage."
 docs/temes/vida-quotidiana/convencions-socials/convencions-socials.md,Convencions socials,article,pending_review,,
 docs/temes/vida-quotidiana/convencions-socials/la-tria-de-llengua.md,La tria de llengua,article,pending_review,,
 docs/temes/vida-quotidiana/convencions-socials/landorra-dels-anys-cinquanta.md,L'Andorra dels anys cinquanta vista per un foraster,article,pending_review,,
