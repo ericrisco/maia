@@ -1,50 +1,73 @@
-# Guia per a converses de Maia Knowledge
+# Guia de conversa per a Maia Knowledge
 
-## Comença per la persona
+## Què falla als exemples rebutjats
 
-Escriu primer, només per a tu, què intenta resoldre la persona. Exemples: entendre si una norma canviava segons qui demandava, saber què podia fer el propietari d'una finca, o entendre per què un lloc té una història concreta.
+Les preguntes «Què explica la secció…?» i «Què indica aquesta fila…?» només
+funcionen si l'usuari té la fitxa davant. No són preguntes que una persona faria
+per entendre Andorra: descriuen l'estructura del document. Les respostes
+«I dos topònims que en surten:» i «Tres coses que el corpus registra per
+separat:» són fragments d'una explicació editorial, no respostes completes.
+La dada del gràfic, sense una pregunta sobre què es vol comparar o resoldre,
+queda descontextualitzada.
 
-Després redacta la pregunta com la diria algú que no ha vist el corpus. Dona el context que calgui, però no parlis de fitxes, seccions, taules, gràfics, files ni fragments. No copiïs l'encapçalament de la font com si fos una consulta.
+No es corregeix això esborrant «la secció» i mantenint la mateixa pregunta.
+Primer cal imaginar el dubte d'algú; després, redactar la conversa; al final,
+verificar-la amb la font.
 
-## Mantén el fil
+## Quatre converses de calibratge
 
-La primera resposta ha de contestar la pregunta. El seguiment ha de sortir d'allò que acaba de sentir la persona i demanar una cosa nova. Mantén referents clars: si el segon torn diu «això», ha de quedar clar a què es refereix.
+Els exemples complets són a
+[`calibration/conversations.jsonl`](../calibration/conversations.jsonl), amb la
+procedència a
+[`calibration/provenance.jsonl`](../calibration/provenance.jsonl). Són una
+mostra d'estil, **no dades aprovades per exportar**.
 
-Cada conversa de Knowledge ha de tenir almenys dues preguntes d’usuari. El seguiment ha de ser natural i aportar informació nova; si una dada sola no dona peu a continuar, agrupa-la amb un fet relacionat de la mateixa fitxa o tema. No inventis una curiositat només per allargar el diàleg. La naturalitat i la correcció valen més que la llargada.
-
-## Escriu respostes completes
-
-- Comença per la resposta, no per una introducció sobre la font.
-- Fes servir frases completes i explica els termes locals.
-- Afegeix només els detalls útils per entendre la resposta.
-- No transformis interpretacions en fets ni completis buits amb intuïcions.
-- Si les fonts discrepen, explica què sosté cada versió i què queda sense resoldre.
-- Si una dada no consta, digues-ho amb claredat.
-
-## Exemples de redacció
+### 1. Una pregunta històrica concreta
 
 **En lloc de:** «Què explica la secció “La regla de competència: depèn de qui és demandat”?»
 
-**Pregunta humana:** «Si un comú em reclamava una cosa, m'havia de jutjar el mateix tribunal que si jo el reclamava a ell?»
+**Pregunta humana:** «A l’Andorra del segle XIX, si un cònsol et devia diners, podies reclamar-li com a qualsevol altra persona?»
 
-La primera pregunta demana una resposta sobre un dubte jurídic. La segona demana que s'extregui un fragment.
+La resposta situa la regla en el temps. El seguiment pregunta per una diferència
+que sorprèn —les causes criminals— i la resposta també deixa clar què no
+explica la font.
 
-**En lloc de:** «Què indica aquesta fila del gràfic?»
+### 2. Un dubte pràctic sobre una paraula local
 
-**Pregunta humana, si el dubte és sobre les dades:** «Aquestes xifres semblen contradir el text. Quina dada és més fiable i què no es pot assegurar?»
+**Pregunta humana:** «Un terreny podia ser d’una família i, alhora, deixar que hi pasturessin els ramats dels veïns?»
 
-Si les fonts no permeten decidir quina és correcta, la resposta ho ha de dir. No s'ha d'inventar una reconciliació.
+La resposta introdueix i explica *peixena* després d'haver contestat el dubte.
+El seguiment pregunta per la conseqüència per al propietari; no demana una altra
+definició.
 
-## Porta de qualitat
+### 3. Una història que respon el “per què”
 
-Abans d'acceptar un exemple, comprova:
+**Pregunta humana:** «La festa major de Sant Julià té una dansa que es diu Marratxa. D’on surt aquest nom?»
 
-- La pregunta inicial sona plausible en una conversa real i s'entén tota sola.
-- La resposta resol el dubte a la primera frase.
-- El seguiment continua el mateix fil i pregunta una cosa nova.
-- El diàleg no pressuposa que la persona conegui la font.
-- Cada fet es pot verificar en una font citada a la procedència.
-- La llicència i la redistribució estan registrades. Si no permeten entrenar, l'exemple no s'exporta.
-- Llegit en veu alta, sembla una conversa d'ajuda i no un examen.
+La resposta explica el recipient que donava nom al ball. El seguiment pregunta
+per la versió actual de la dansa. Cal mantenir aquest exemple en calibratge fins
+que els drets de la font s'hagin revisat.
 
-Els missatges contenen només les veus `user` i `assistant`. Els IDs, les fonts, les notes editorials i els estats de revisió van a `provenance.jsonl`.
+### 4. Dues xifres que semblen discrepar
+
+**En lloc de:** «Què explica la secció “I aquí hi ha el document que ho resol”?»
+
+**Pregunta humana:** «En un document andorrà de 1895 he vist un interès del 3,33% per als censals i del 5% per a la resta. Són dues versions incompatibles?»
+
+La resposta resol la contradicció aparent explicant que els tipus s'aplicaven a
+casos diferents. El seguiment comprova una conseqüència directa: si el 3,33%
+encara era vigent aquell any.
+
+## Porta de revisió
+
+Llegeix només els missatges, sense el títol de la fitxa. Pregunta't:
+
+- La primera intervenció sona com un dubte que algú podria tenir fora del corpus?
+- La resposta contesta la pregunta a la primera frase, amb prou context per
+  entendre-la?
+- El seguiment neix del que s'acaba de dir i aporta una pregunta nova?
+- Es pot entendre cada torn sense veure un títol, una fila o una secció?
+- Cada fet està comprovat i la font permet el tractament proposat?
+
+Si alguna resposta és no, reescriu o descarta la conversa. Dos torns no
+converteixen una mala pregunta en una bona dada.

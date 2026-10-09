@@ -17,6 +17,7 @@ training-data/
 ├── PLAN.md
 ├── knowledge/
 │   ├── examples/       # Converses de referència, mai incloses a l'export
+│   ├── calibration/    # Mostra de redacció; no són registres d'entrenament
 │   ├── review/         # Candidats amb conversa i procedència separada
 │   ├── archive/        # Candidats rebutjats, amb motiu
 │   ├── work/           # Inventari i mapa de cobertura auditables
@@ -33,6 +34,51 @@ training-data/
 Els fitxers de `review/` tenen converses llegibles i un fitxer de procedència separat. Els missatges d'entrenament no inclouen IDs interns, noms de fitxer ni notes editorials.
 
 ## Com escriure Knowledge
+
+### Pla de recuperació: corregir la manera de preguntar
+
+Els registres que pregunten què explica una secció, què diu una fila o què
+indica un gràfic no passen la revisió. Fan que l'usuari sembli llegir el mateix
+document que qui l'ha escrit, i sovint produeixen respostes penjades o massa
+curtes. No s'han de reparar canviant només «secció» per «text»: cal tornar a la
+necessitat humana que podria haver originat la consulta.
+
+Per a cada conversa nova, treballa en aquest ordre:
+
+1. **Anota el dubte humà en una frase interna**, per exemple: «vol saber si un
+   cònsol podia ser demandat per un deute» o «ha sentit dues xifres i vol saber
+   si es contradiuen». Aquesta nota no entra als missatges.
+2. **Amaga títols, subtítols, IDs i estructura de la fitxa.** Redacta la primera
+   pregunta només a partir del dubte. Dona el context històric necessari i no
+   pressuposis que l'usuari coneix un terme local.
+3. **Contesta de cara.** La primera frase ha de resoldre la pregunta. Després
+   afegeix el matís que evita una conclusió errònia.
+4. **Continua des de la resposta.** El torn següent ha de ser una aclaració
+   plausible que una persona faria després d'escoltar-la. No canviïs de tema ni
+   preguntis el mateix amb altres paraules.
+5. **Llegeix-ho sense la font.** Si sona a examen, a visita guiada per una fitxa
+   o a pregunta escrita per encabir una dada, reescriu-ho o descarta-ho.
+6. **Verifica cada afirmació i la procedència** després de tenir una conversa
+   natural. No deixis que una bona pregunta justifiqui una resposta no
+   documentada.
+
+La pregunta no s'ha de redactar davant d'una taula o d'un fragment i després
+«naturalitzar» superficialment. El context pot sortir de la font, però la
+motivació de la pregunta ha de ser comprensible fora d'aquella font.
+
+#### Ordre del nou treball
+
+1. Mantenir els registres defectuosos fora de qualsevol exportació i revisar-los
+   un per un; no donar-los per bons perquè tinguin dos torns o provenance.
+2. Preparar un grup curt d'exemples de calibratge en
+   `knowledge/calibration/`. Són referències d'edició, no dades d'entrenament ni
+   exemples exportables.
+3. Revisar els exemples en veu alta i amb la porta de qualitat d'aquesta guia.
+   Només després d'aprovar-los com a patró, redactar registres nous per tema.
+4. Treballar en lots petits. Per cada lot, revisar naturalitat, fidelitat,
+   procedència i drets abans de passar al tema següent.
+5. Quan el patró sigui estable, reprendre la cobertura exhaustiva. No generar
+   volum per compensar preguntes que no funcionen.
 
 ### 1. Comença per la necessitat d'una persona
 
@@ -73,6 +119,10 @@ Un candidat només entra a `knowledge/review/` si:
 - les discrepàncies, els límits i les atribucions queden clars;
 - les afirmacions es poden rastrejar fins a una font amb drets registrats;
 - el diàleg funciona llegit en veu alta, sense veure el títol de la fitxa.
+
+Prova ràpida per a cada torn: **«Ho preguntaria algú que no té la fitxa oberta?**
+**La resposta li serveix sense haver de preguntar què vol dir la pregunta?»**
+Si alguna resposta és no, el registre no està llest.
 
 Un sol criteri fallit és motiu per reescriure o rebutjar. El volum no és un objectiu de qualitat.
 
