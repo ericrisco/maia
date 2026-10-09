@@ -1,7 +1,10 @@
 # Maia Training Data
 
-Aquesta carpeta conté dos treballs separats: **Maia Knowledge**, basat en `docs/temes/`, i **Maia Language**, basat en parla humana elegible a `docs/parla/`. No s'han de barrejar.
+Àrea de treball per preparar dos conjunts separats. **Maia Knowledge** ensenya a respondre preguntes sobre Andorra a partir de `docs/temes/`. **Maia Language** conserva fragments humans elegibles de `docs/parla/`.
 
-L'objectiu és cobrir tot el coneixement útil del corpus amb converses multitorn que sonin com preguntes humanes, i conservar la llengua original sense fabricar-la. El pla exhaustiu és a [`PLAN.md`](PLAN.md). El criteri i les converses de calibratge són a [`knowledge/review/EXEMPLES.md`](knowledge/review/EXEMPLES.md) i [`knowledge/examples/conversations.jsonl`](knowledge/examples/conversations.jsonl).
+Les mostres actuals defineixen el to i el fil entre torns. No són candidates aprovades ni dades d’entrenament. No hi ha exports encara.
 
-La cobertura de `docs/temes/`, la procedència, les llicències, les exclusions i les revisions s'han de poder auditar. Els exports només es creen quan els registres han passat la revisió i les fonts són elegibles.
+- [`PLAN.md`](PLAN.md): criteris i etapes de treball.
+- [`knowledge/`](knowledge/): coneixement redactat i verificable.
+- [`language/`](language/): llengua autèntica, sense diàlegs inventats.
+- Els missatges i la procedència es mantenen en fitxers separats.

@@ -1,3 +1,5 @@
 # Mostres editorials
 
-Aquestes converses defineixen el nivell de naturalitat i continuïtat buscat. Serveixen per calibrar el criteri, no per mesurar la cobertura del corpus ni com a dades entrenables. La procedència i l'estat dels drets són a `provenance.jsonl`.
+Hi ha cinc converses multitorn per calibrar preguntes humanes, respostes directes i seguiments que continuen el fil. Llegeix només `conversations.jsonl` per revisar la naturalitat. `provenance.jsonl` conserva les fonts i els drets.
+
+Cap mostra és exportable. Les fonts disponibles tenen redistribució no autoritzada o pendent.

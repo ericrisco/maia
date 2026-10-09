@@ -1,11 +1,5 @@
 # Maia Knowledge
 
-Converses en català que ensenyen a respondre dubtes reals sobre Andorra. La font factual és `docs/temes/`; la procedència, les llicències i els límits de cada afirmació es guarden fora dels missatges.
+Converses en català que responen dubtes reals sobre Andorra. La font factual és `docs/temes/`. La procedència i els drets queden separats dels missatges.
 
-- [`examples/`](examples/): mostres editorials, encara no entrenables.
-- [`review/`](review/): candidats que esperen verificació humana.
-- [`work/`](work/): inventari i cobertura del corpus.
-- [`reports/`](reports/): resultats de revisió i cobertura.
-- [`output/`](output/): només exports aprovats i amb drets compatibles.
-
-Vegeu les regles de pregunta, resposta i seguiment a [`../PLAN.md`](../PLAN.md).
+Les mostres de [`examples/`](examples/) són una guia editorial, no un dataset entrenable. Els registres de [`review/`](review/) esperen comprovació humana. Els exports de [`output/`](output/) romanen buits fins a l’aprovació de contingut i drets.
