@@ -60,6 +60,13 @@ diferència entre el 1987 d'Andorra la Vella i el 1997-1998 de Canturri queda
 oberta**: el seu text no identifica la localitat, i el corpus no pot afirmar
 que parlés de la primera represa ni que la seva data sigui errònia.
 
+**El Govern també identifica el primer document escrit localitzat:** un relat
+publicat el **1906** per Salvador Armet, comte de Carlet, sobre un viatge a
+Andorra l'estiu del **1905**, en què descriu una cremada de falles la nit de
+Sant Joan ([font del Govern](../../../fonts/govern-falles-represa-2026.md)).
+Això documenta la pràctica el 1905, però no demostra que es mantingués sense
+interrupció fins a la recuperació de 1987.
+
 I en tornar va tornar **canviat**:
 
 | Element | Com és ara | Per què |
