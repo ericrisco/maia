@@ -8,10 +8,10 @@ Aquesta carpeta prepara dues línies de dades separades a partir del corpus de
 - **Language** conserva mostres de llengua autèntica de `docs/parla/`; no es
   creen respostes per imitar una manera de parlar.
 
-Ara mateix hi ha cinc exemples interns de calibratge i un candidat de Knowledge
-pendent de revisió. Els exemples no compten com a cobertura; el candidat encara
-no és exportable. Les converses i la seva procedència es mantenen en fitxers
-JSONL separats dins de `knowledge/`.
+Ara mateix hi ha cinc exemples interns de calibratge i dos candidats de
+Knowledge pendents de revisió. Els exemples no compten com a cobertura; els
+candidats encara no són exportables. Les converses i la seva procedència es
+mantenen en fitxers JSONL separats dins de `knowledge/`.
 
 La cua antiga de candidats no forma part d'aquesta estructura. S'ha conservat
 sense canvis a `../training-data-reset-backup-2026-10-09/` per poder-la
