@@ -1,0 +1,23 @@
+{
+  "eligible_pieces_by_source_and_piece_status": {
+    "ari-capsules:pendent": 7,
+    "ari-capsules:si": 4,
+    "consell-general-constituent:pendent": 27
+  },
+  "exportable_pieces": 0,
+  "rights_by_source_and_piece_status": {
+    "actes-historiques-consell-general:pendent": 1,
+    "ari-capsules:pendent": 7,
+    "ari-capsules:si": 5,
+    "consell-general-constituent:pendent": 27
+  },
+  "speech_pieces": 40,
+  "transcript_review": "pending for all pieces",
+  "verified_ari_video_ids": [
+    34,
+    49,
+    56,
+    57,
+    66
+  ]
+}
