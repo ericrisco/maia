@@ -6,6 +6,8 @@ Crear converses útils, fidels al corpus i naturals per entrenar dos conjunts se
 
 ## Criteri principal: una necessitat humana
 
+La guia editorial obligatòria és [`knowledge/review/EXEMPLES.md`](knowledge/review/EXEMPLES.md). Els exemples de [`knowledge/examples/`](knowledge/examples/) ajuden a calibrar l'estil, però no compten com a registres ni com a cobertura.
+
 Abans d'escriure una pregunta, redacta en privat què intenta resoldre la persona: orientar-se abans d'una visita, aclarir un terme, entendre una diferència, comprovar una dada que ha sentit o saber què es pot afirmar quan les fonts discrepen. La pregunta ha de néixer d'aquesta necessitat, no de l'estructura de la fitxa.
 
 Evita preguntes que esmentin «la fitxa», «la secció», «la taula», «aquesta fila» o que demanin resumir un fragment. Evita també preguntes que només es poden entendre llegint la font. Inclou a la primera intervenció el context que necessitaria algú que no ha vist el corpus.
@@ -31,6 +33,8 @@ Quan les fonts discrepen, explica què diu cadascuna i què no es pot concloure.
 5. Desa la conversa a `knowledge/review/conversations.jsonl` i la procedència, llicència i evidències a `knowledge/review/provenance.jsonl`.
 6. Marca la revisió humana i els drets. Cap candidat pendent no és exportable.
 7. Registra cobertura, exclusions i dubtes sense convertir cada unitat de coneixement en una pregunta obligatòria.
+
+Treballa sobre `main`. Cada conversa candidata és un canvi separat: una sola conversa, la seva procedència i l'actualització de cobertura. Valida-la, revisa el diff, fes-ne commit i puja-la a `origin/main` abans de redactar la següent.
 
 ## Porta de qualitat
 
