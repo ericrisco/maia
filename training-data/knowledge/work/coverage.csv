@@ -1,7 +1,7 @@
 path,topic,title,type,voice,period,language_eligible,status,conversation_ids,notes
 docs/temes/costums/calendari-festiu/calendari-festiu-index-de-fitxes.md,costums/calendari-festiu,Calendari festiu — índex de fitxes,index,,,false,pending,,
 docs/temes/costums/calendari-festiu/calendari-festiu.md,temes/costums/calendari-festiu,El calendari festiu,article,compilada,contemporania,false,in_progress,knowledge-0001,One candidate conversation; more sections and claims still need review.
-docs/temes/costums/calendari-festiu/el-carnaval-dencamp.md,temes/costums/calendari-festiu,El carnaval d'Encamp,article,compilada,contemporania,false,pending,,
+docs/temes/costums/calendari-festiu/el-carnaval-dencamp.md,temes/costums/calendari-festiu,El carnaval d'Encamp,article,compilada,contemporania,false,in_progress,knowledge-0003,One candidate comparison; remaining claims and sections still need review.
 docs/temes/costums/caramelles/caramelles-index-de-fitxes.md,costums/caramelles,Caramelles — índex de fitxes,index,,,false,pending,,
 docs/temes/costums/caramelles/les-caramelles.md,temes/costums/caramelles,Les caramelles,article,compilada,contemporania,false,pending,,
 docs/temes/costums/costums-d-andorra-index-de-fitxes.md,costums,Costums d'Andorra — índex de fitxes,index,,,false,pending,,
@@ -113,7 +113,7 @@ docs/temes/cultura/musica-i-cancons/la-canco-popular-andorrana.md,temes/cultura/
 docs/temes/cultura/musica-i-cancons/liaem-i-el-1980.md,temes/cultura/musica-i-cancons,L'IAEM i el 1980,article,compilada,contemporania,false,pending,,
 docs/temes/cultura/musica-i-cancons/musica-i-cancons-index-de-fitxes.md,cultura/musica-i-cancons,Música i cançons — índex de fitxes,index,,,false,pending,,
 docs/temes/cultura/musica-i-cancons/musica-i-cancons.md,temes/cultura/musica-i-cancons,Música i cançons,article,compilada,contemporania,false,pending,,
-docs/temes/cultura/teatre/el-teatre-de-carnestoltes.md,temes/cultura/teatre,El teatre de Carnestoltes,article,compilada,contemporania,false,pending,,
+docs/temes/cultura/teatre/el-teatre-de-carnestoltes.md,temes/cultura/teatre,El teatre de Carnestoltes,article,compilada,contemporania,false,in_progress,knowledge-0003,One candidate comparison; remaining claims and sections still need review.
 docs/temes/cultura/teatre/la-vida-teatral.md,temes/cultura/teatre,La vida teatral,article,compilada,contemporania,false,pending,,
 docs/temes/cultura/teatre/teatre-index-de-fitxes.md,cultura/teatre,Teatre — índex de fitxes,index,,,false,pending,,
 docs/temes/economia/banca-i-fiscalitat/a-andorra-si-que-hi-havia-impost.md,temes/economia/banca-i-fiscalitat,"A Andorra sí que hi havia impost, i era sobre la renda",article,compilada,contemporania,false,pending,,
