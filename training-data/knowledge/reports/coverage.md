@@ -1,15 +1,15 @@
 # Estat de cobertura
 
-Inventaris regenerats a partir dels Markdown actuals de `docs/temes/` i `docs/parla/`. Els recomptes indiquen estat de revisió, no que tot el contingut estigui cobert.
+Inventaris regenerats a partir dels Markdown actuals de `docs/temes/` i `docs/parla/`. Els recomptes indiquen documents revisats o pendents, no cobertura completa del seu coneixement.
 
 ## Knowledge
 
 - Documents inventariats: 1477
-- Pendents de revisió de contingut: 1329
-- Documents amb una conversa candidata: 12
-- Converses candidates amb procedència: 13
+- Pendents de revisió de contingut: 1326
+- Documents amb alguna conversa candidata: 15
+- Converses candidates amb procedència: 16
 - Índexs/navegació: 136
-- Converses de calibratge addicionals: 3; no compten com a cobertura aprovada.
+- Exemples de calibratge: 3; no compten com a cobertura aprovada.
 - Exportacions: cap.
 
 ## Language
