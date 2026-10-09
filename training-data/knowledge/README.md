@@ -2,7 +2,7 @@
 
 Converses que ensenyen coneixement sobre Andorra basat en `docs/temes/`. La unitat de treball és un dubte humà, no una secció o fila del corpus.
 
-- `examples/`: cinc mostres per revisar el criteri.
+- `examples/`: set mostres per revisar el criteri.
 - `review/`: futurs candidats, encara no aprovats.
 - `work/`: procedència i cobertura internes.
 - `output/`: només converses aprovades i amb drets compatibles.

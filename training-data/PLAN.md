@@ -40,6 +40,8 @@ Abans de redactar, descriu en una frase què vol saber o resoldre la persona. Pe
 
 La pregunta no s'ha de generar a partir del títol, una secció, una fila o un paràgraf. No fer preguntes com «Què explica aquesta fitxa?» o «Què diu aquesta taula?». Si no trobem una curiositat humana al darrere, deixem aquella informació al mapa de cobertura sense forçar una conversa.
 
+**Prova de naturalitat:** formula la pregunta com si la persona hagués sentit una dada, tingués un dubte pràctic o hagués trobat dues versions incompatibles. No li facis parlar com qui està llegint la fitxa. Per exemple, «Què explica la secció “El relat”?» no és una pregunta d'usuari; «Per què, segons la llegenda, la imatge de Meritxell es va quedar en aquell lloc?» sí que expressa una curiositat pròpia.
+
 ### 2. Escriu una pregunta que s'entengui sense el corpus
 
 La primera intervenció ha de donar el context necessari amb paraules normals. Pot sonar informal o incloure una premissa equivocada, però no ha de fingir una experiència personal ni afegir detalls que la font no documenta.
@@ -54,7 +56,9 @@ Distingeix entre un fet documentat, una afirmació atribuïda a una font i una i
 
 ### 4. Fes multitorn només quan hi ha continuació natural
 
-Cada registre de Knowledge ha de tenir diversos torns: com a mínim dues preguntes de l'usuari, amb una resposta entre elles. Després de cada resposta, pregunta't què voldria aclarir algú de debò. El seguiment ha de dependre del que s'acaba de dir i demanar una cosa nova. Si no surt cap seguiment natural, busca una connexió legítima amb una altra dada del tema; no inventis una curiositat ni forcis un canvi de tema.
+El patró preferit és una conversa de dues o tres preguntes de l'usuari, amb una resposta entre elles. Després de cada resposta, pregunta't què voldria aclarir algú de debò. El seguiment ha de dependre del que s'acaba de dir i demanar una cosa nova. Si no surt cap seguiment natural, busca una connexió legítima amb una altra dada del tema; no inventis una curiositat ni forcis un canvi de tema. No hi ha una quota mínima de torns: una dada sense seguiment honest no s'ha de disfressar de conversa.
+
+Un bon seguiment pot demanar una conseqüència pràctica («I això què podia fer el propietari?»), aclarir una comparació («Això també passava en una acusació criminal?») o comprovar què es pot concloure («Llavors quin any podem donar per segur?»). Evita preguntes que només demanen repetir, classificar o enumerar la resposta anterior.
 
 No afegeixis seguiments només per arribar al mínim de torns. No repeteixis la pregunta amb altres paraules. No facis que l'usuari conegui d'entrada un terme local si el diàleg pot introduir-lo de manera natural. Si la informació no permet una continuació honesta, marca la unitat com a coberta sense conversa i documenta el motiu; la qualitat i la veracitat tenen prioritat sobre el format multitorn.
 
