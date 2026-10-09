@@ -3,6 +3,8 @@
 from __future__ import annotations
 
 import csv
+import json
+import re
 import sys
 from collections import Counter
 from pathlib import Path
@@ -11,8 +13,24 @@ REPO = Path(__file__).resolve().parents[3]
 sys.path.insert(0, str(REPO / "src"))
 
 from training_data.inventory import scan_tree  # noqa: E402
-from training_data.knowledge import extract_knowledge, write_knowledge_extraction  # noqa: E402
+from training_data.knowledge import EvidenceUnit, extract_knowledge, write_knowledge_extraction  # noqa: E402
 from training_data.knowledge_generate import load_review_conversations  # noqa: E402
+
+TABLE_SEPARATOR = re.compile(r"^:?-{3,}:?$")
+NON_CONVERSATIONAL_KINDS = {"heading", "code_block", "other", "metadata_title"}
+
+
+def exclusion_reason(unit: EvidenceUnit) -> str | None:
+    """Exclude only structural blocks, never factual content by default."""
+
+    block_kind = unit.block_kind
+    if block_kind in NON_CONVERSATIONAL_KINDS:
+        return "structural_block_not_conversational_knowledge"
+    if block_kind == "table_row":
+        cells = [cell.strip() for cell in unit.content.strip().strip("|").split("|")]
+        if cells and all(TABLE_SEPARATOR.fullmatch(cell) for cell in cells):
+            return "table_separator_not_knowledge"
+    return None
 
 
 def main() -> None:
@@ -40,9 +58,25 @@ def main() -> None:
     candidate_evidence -= approved_evidence
 
     units_by_document: dict[str, list[object]] = {}
+    unit_exclusions: dict[str, str] = {}
     for unit in ledger.units:
         units_by_document.setdefault(unit.document_path, []).append(unit)
+        reason = exclusion_reason(unit)
+        if reason is not None:
+            unit_exclusions[unit.id] = reason
     links_by_document = Counter(relation.source_path for relation in ledger.relations)
+
+    unit_exclusions_path = work / "unit-exclusions.jsonl"
+    with unit_exclusions_path.open("w", encoding="utf-8", newline="") as output:
+        for evidence_id, reason in sorted(unit_exclusions.items()):
+            output.write(
+                json.dumps(
+                    {"evidence_id": evidence_id, "reason": reason},
+                    ensure_ascii=False,
+                    separators=(",", ":"),
+                )
+                + "\n"
+            )
 
     coverage_path = work / "coverage.csv"
     with coverage_path.open("w", encoding="utf-8", newline="") as output:
@@ -81,7 +115,11 @@ def main() -> None:
             document_ids = {unit.id for unit in units}
             candidate_count = len(document_ids & candidate_evidence)
             approved_count = len(document_ids & approved_evidence)
-            unresolved_count = len(units) - candidate_count - approved_count
+            excluded_evidence_ids = document_ids & unit_exclusions.keys()
+            excluded_evidence_ids -= candidate_evidence
+            excluded_evidence_ids -= approved_evidence
+            excluded_count = len(excluded_evidence_ids)
+            unresolved_count = len(units) - candidate_count - approved_count - excluded_count
             if unresolved_count == 0 and candidate_count == 0:
                 status = "complete"
             elif unresolved_count == 0:
@@ -108,7 +146,7 @@ def main() -> None:
                     links_by_document[document.path],
                     candidate_count,
                     approved_count,
-                    0,
+                    excluded_count,
                     unresolved_count,
                     status,
                     document.error or "",
@@ -120,6 +158,7 @@ def main() -> None:
     print(f"Tables / rows: {report.tables_processed} / {report.table_rows_processed}")
     print(f"Evidence units: {report.units_detected}")
     print(f"Review candidates: {len(candidates)}")
+    print(f"Structural exclusions: {len(unit_exclusions)}")
     print(f"Coverage register: {coverage_path.relative_to(REPO)} ({len(ledger.documents)} documents)")
 
 
