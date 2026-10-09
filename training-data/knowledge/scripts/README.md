@@ -1,3 +1,3 @@
-# Knowledge scripts
+# Scripts
 
-Encara no hi ha scripts. Primer acordem el criteri editorial amb exemples petits; després afegirem només les eines necessàries per inventariar, validar i exportar.
+Els scripts s'afegiran quan un flux manual verificat justifiqui automatitzar-lo. Qualsevol generador ha de mantenir les fonts traçables i bloquejar l'export de candidats pendents.

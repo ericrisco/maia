@@ -1,7 +1,10 @@
 # Maia Training Data
 
-Àrea de preparació de dues col·leccions separades. Knowledge ensenya a respondre sobre Andorra amb informació de `docs/temes/`. Language conserva trets del català andorrà contemporani a partir de parla humana elegible de `docs/parla/`.
+Aquest directori prepara dades per entrenar i avaluar models Maia. Manté dos objectius separats:
 
-Els exemples i candidats de `knowledge/review/` serveixen per acordar l'estil i revisar les converses. No són exportacions d'entrenament. La procedència, els drets i les decisions de revisió es documenten fora de `messages`.
+- **Knowledge** ensenya a respondre preguntes sobre Andorra amb el coneixement documentat a `docs/temes/`.
+- **Language** conserva mostres de llengua andorrana contemporània produïdes per persones, a partir de `docs/parla/`.
 
-Comença per [PLAN.md](PLAN.md), [Knowledge](knowledge/README.md) i [Language](language/README.md).
+No es barregen fonts ni objectius. `examples/` serveix per calibrar l'estil; `output/` només contindrà registres aprovats per entrenar. Els outputs són buits mentre les converses, la cobertura i els drets no estiguin revisats.
+
+Comença per [PLAN.md](PLAN.md). Les preguntes i respostes s'han de poder entendre sense haver llegit els documents interns de Maia.

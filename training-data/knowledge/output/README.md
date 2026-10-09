@@ -1,3 +1,3 @@
-# Knowledge output
+# Output buit
 
-Buit expressament. No hi haurà fitxers train/validation/test fins que els registres passin la revisió de naturalitat, exactitud, drets i duplicats.
+No hi ha converses aprovades per exportar encara. Mou-hi dades només després de revisar-ne el contingut, la procedència, els drets i els duplicats.

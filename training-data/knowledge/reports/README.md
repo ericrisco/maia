@@ -1,3 +1,3 @@
-# Knowledge reports
+# Reports
 
-`coverage.md` registra el punt de partida dels inventaris. S'actualitzarà a mesura que es revisin continguts; l'inventari no equival a cobertura entrenable.
+Desa aquí informes de cobertura, qualitat, duplicats i exclusions. Una mostra de calibratge no compta com a cobertura aprovada.

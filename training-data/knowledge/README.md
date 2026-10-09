@@ -1,5 +1,10 @@
 # Maia Knowledge
 
-Col·lecció de converses útils sobre Andorra, basades en `docs/temes/`. La conversa ha de respondre una curiositat o necessitat recognoscible; no ha de demanar que l'assistent reciti una secció o una fila.
+Font: `docs/temes/`. El dataset ensenya coneixement sobre Andorra mitjançant converses que responen dubtes humans. No converteix cada paràgraf o dada en una pregunta.
 
-Els exemples i candidats de `review/` són material de calibratge, no un dataset aprovat. `work/coverage.csv` inventaria les fitxes per revisar; `output/` només rebrà registres revisats i autoritzats.
+- `examples/`: exemples de calibratge, sempre no exportables.
+- `work/`: inventari, cobertura i procedència; mai no s'injecta als missatges.
+- `reports/`: resultats de revisió i cobertura.
+- `output/`: només converses aprovades i amb drets d'ús revisats.
+
+Format previst d'una línia: `{"messages":[{"role":"user","content":"…"},{"role":"assistant","content":"…"}]}`. Un diàleg pot tenir més torns. Cap metadada editorial no forma part de `messages`.

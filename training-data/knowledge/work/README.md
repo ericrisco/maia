@@ -1,3 +1,3 @@
-# Knowledge work files
+# Work files
 
-`coverage.csv` conté una fila per cada Markdown de `docs/temes/`. `provenance.jsonl` contindrà les fonts de cada conversa revisada. Aquestes dades són internes i no s'afegeixen als missatges d'entrenament.
+Inventaris, procedència i estats de revisió. Aquests fitxers serveixen per auditar cobertura i drets; no s'exporten com a missatges del model. Cada font externa ha de tenir llicència i condicions d'ús registrades abans d'entrar en dades entrenables.

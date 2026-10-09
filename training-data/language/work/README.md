@@ -1,3 +1,3 @@
-# Language work files
+# Work files
 
-Aquí s'anotaran elegibilitat, fiabilitat de transcripció, procedència i agrupació per parlant o peça. No s'hi afegirà text inventat per completar converses.
+Inventari de peces, parlant/font, elegibilitat, qualitat de transcripció i drets. No hi posis transcripcions derivades sense haver registrat abans la seva procedència i condicions d'ús.

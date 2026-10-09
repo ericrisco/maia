@@ -1,3 +1,3 @@
-# Language output
+# Output buit
 
-Buit expressament. Només s'hi exportarà parla humana elegible amb transcripció fiable i drets revisats.
+No hi ha mostres aprovades per exportar encara. No copiïs aquí fragments fins que l'origen, la transcripció i els drets estiguin revisats.

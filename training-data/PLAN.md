@@ -1,36 +1,25 @@
-# Pla de treball: converses que una persona faria
+# Pla: converses útils i naturals
 
-## Per què refem els exemples
+## El problema que corregim
 
-Preguntes com «què explica aquesta secció?» comproven si el model ha llegit un document, no si sap ajudar una persona. També són dolentes les preguntes amb context inventat, les dades obscures sense motiu i els seguiments que només allarguen el diàleg.
+Una pregunta com «què explica aquesta secció?» només té sentit per a qui ja ha vist una fitxa. Una resposta que acaba amb un fragment, una taula o una frase incompleta tampoc ajuda una persona. Aquestes formes converteixen el dataset en un examen del corpus.
 
-## Criteri de conversa
+## Regla editorial
 
-1. **Comença per una intenció humana concreta.** Per exemple: entendre què veurà algú en una festa, aclarir una tradició, situar un fet en el temps o distingir dues versions.
-2. **Redacta la pregunta sense mirar el títol ni l'estructura de la fitxa.** Ha de tenir sentit per a algú que no sap com està organitzat Maia.
-3. **Dona la resposta principal al primer torn.** Explica prou perquè sigui útil encara que la conversa s'acabi aquí.
-4. **Fes un seguiment només quan una resposta desperti una pregunta versemblant.** El seguiment ha de demanar una cosa nova. No repeteixis la mateixa dada amb altres paraules.
-5. **No inventis una biografia ni una situació personal** per fer que la pregunta sembli natural. Un pla hipotètic simple —com triar quin dia assistir a una festa— és acceptable si la informació realment l'ajuda.
-6. **Separa fets, relats i incerteses.** Una llegenda es presenta com a llegenda. Una font que no resol una qüestió no autoritza a completar-la per intuïció.
-7. **Revisa només el diàleg, sense veure la font.** Si sembla un examen, una ordre per resumir o una consulta sobre el repositori, reescriu-lo o descarta'l.
-8. **Comprova cada afirmació amb les fonts** i desa la procedència i els drets en fitxers de treball separats.
+1. Troba una curiositat, una decisió pràctica o una confusió que una persona podria tenir sense conèixer el corpus.
+2. Escriu la pregunta abans de mirar el títol i els subtítols de la font. No esmentis fitxes, seccions, files, gràfics ni IDs.
+3. Contesta la pregunta de seguida i amb prou context perquè la resposta s'entengui per si sola.
+4. Afegeix un seguiment només quan una resposta faci néixer una pregunta nova i versemblant. No hi ha quota de torns.
+5. No inventis experiències personals per fer més simpàtica la pregunta. Un escenari pràctic breu és vàlid si canvia la resposta.
+6. Separa el fet documentat, la interpretació i la incertesa. No omplis buits amb intuïcions.
+7. Llegeix el diàleg sense la font. Si sembla un examen o sona forçat en veu alta, reescriu-lo o descarta'l.
+8. Comprova cada afirmació amb la font i registra procedència i drets fora dels missatges.
 
-## Multitorn sense farciment
+## Converses multitor
 
-Els exemples de calibratge tenen almenys dos parells de torns per mostrar continuïtat. Això no obliga a allargar totes les converses futures: si no hi ha un seguiment natural, es canvia de tema o es descarta el fil. Cada parell de torns ha de ser útil per si sol.
+Les mostres de calibratge inclouen seguiments perquè es pugui revisar la continuïtat. Això no obliga totes les dades futures a tenir diversos torns. Cada parell pregunta-resposta ha de resoldre una necessitat real; si el fil no continua de manera natural, s'acaba.
 
-## Prova ràpida de qualitat
-
-- La pregunta inicial és una cosa que algú preguntaria sense haver vist la font?
-- Queda clar què vol saber i a què es refereix?
-- La primera resposta contesta directament i amb prou context?
-- El seguiment neix de la resposta anterior i aporta informació nova?
-- La conversa continua sonant natural llegida en veu alta?
-- Les afirmacions són fidels a fonts consultades i no amaguen incerteses?
-
-Un «no» vol dir revisar o descartar. La cobertura del corpus no justifica una pregunta artificial.
-
-## Estructura i fases
+## Estructura
 
 ```text
 training-data/
@@ -38,26 +27,25 @@ training-data/
 ├── PLAN.md
 ├── knowledge/
 │   ├── README.md
-│   ├── review/         # Exemples i converses candidates revisables
-│   ├── work/           # Inventari, cobertura i procedència
-│   ├── reports/        # Cobertura, qualitat i exclusions
-│   ├── scripts/        # Eines de validació o generació, quan calguin
-│   └── output/         # Només converses aprovades i amb drets revisats
+│   ├── examples/conversations.jsonl  # calibratge, no exportable
+│   ├── work/                        # cobertura i procedència
+│   ├── reports/                     # qualitat i progrés
+│   ├── scripts/                     # validació/generació, quan calgui
+│   └── output/                      # aprovades, només al final
 └── language/
     ├── README.md
-    ├── work/
+    ├── work/                        # fonts, elegibilitat i splits
     ├── reports/
     ├── scripts/
-    └── output/
+    └── output/                      # mostres humanes elegibles
 ```
 
-1. Acordar l'estil amb els exemples petits de `knowledge/review/`.
-2. Ajustar el criteri si encara sonen a preguntes d'examen.
-3. Mantenir un inventari de tots els documents i revisar-ne el contingut; no convertir cada fitxa en una pregunta automàtica.
-4. Crear converses en lots petits, amb revisió humana de naturalitat i exactitud.
-5. Treballar Language a part: només veu humana contemporània elegible i transcripció prou fiable; no inventar respostes per imitar parlants.
-6. Exportar i fer splits només quan contingut, drets, cobertura i duplicats estiguin revisats.
+## Fases
 
-`knowledge/work/coverage.csv` i `language/work/coverage.csv` han d'incloure cada Markdown de les dues fonts. Són inventaris per fer seguiment, no afirmacions que el contingut ja estigui cobert.
+1. Revisar les mostres de `knowledge/examples/` i acordar-ne la veu.
+2. Inventariar tot `docs/temes/`; crear converses en lots petits, amb procedència traçable.
+3. Revisar exactitud, naturalitat, cobertura, duplicats i drets abans d'aprovar registres.
+4. Treballar Language per separat. Incloure només veu humana contemporània i transcripcions fiables, amb drets revisats.
+5. Crear exports i splits quan cada registre estigui aprovat i el conjunt tingui cobertura suficient.
 
-`output/` comença buit expressament. Els exemples no són encara dades aprovades per entrenar.
+`output/` comença buit expressament. Les mostres i els candidats no compten com a dades aprovades.

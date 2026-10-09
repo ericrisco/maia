@@ -1,3 +1,3 @@
-# Language scripts
+# Scripts
 
-Encara no hi ha scripts. Primer cal revisar l'elegibilitat i la qualitat de les transcripcions.
+No hi ha scripts encara. Afegir-los quan existeixi un flux d'elegibilitat revisat i repetible.
