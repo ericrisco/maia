@@ -1,8 +1,8 @@
 # Cua de revisió de Maia Knowledge
 
-Aquí s'acumulen les converses candidates de Maia Knowledge. Les cinc mostres de [`../examples/`](../examples/) serveixen per calibrar l'estil i no compten com a candidats ni com a cobertura. Les converses antigues que van motivar el reinici ja no formen part de la cua.
+Aquí s'acumulen les converses candidates de Maia Knowledge. La guia de [`../examples/EXEMPLES.md`](../examples/EXEMPLES.md) serveix per calibrar l'estil; les mostres de `../examples/` no compten com a candidats ni com a cobertura. Les converses antigues que van motivar el reinici ja no formen part de la cua.
 
-Quan comencem una tanda nova, afegeix només converses que hagin passat la guia de [`../EXEMPLES.md`](../EXEMPLES.md). El diàleg i la procedència han d'ocupar línies paral·leles a `conversations.jsonl` i `provenance.jsonl`.
+Quan comencem una tanda nova, afegeix només converses que hagin passat la guia de [`../examples/EXEMPLES.md`](../examples/EXEMPLES.md). El diàleg i la procedència han d'ocupar línies paral·leles a `conversations.jsonl` i `provenance.jsonl`.
 
 Abans d'afegir un registre:
 
@@ -13,4 +13,4 @@ Abans d'afegir un registre:
 5. Si la conversa sona a examen, és incompleta sense la fitxa o força un seguiment per allargar-la, reescriu-la o descarta-la.
 6. Marca les converses pendents de revisió humana com a no exportables.
 
-No hi ha quota de torns: una conversa pot tenir un torn o diversos. No afegeixis un seguiment si la resposta ja resol la necessitat.
+Cada conversa nova té com a mínim dues preguntes d'usuari. El segon seguiment ha de ser curt i natural; si no és possible sense inventar contingut, no forcis el registre i explica l'exclusió a la cobertura.
