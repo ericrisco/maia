@@ -17,7 +17,7 @@ Una pregunta com «què explica aquesta secció?» només té sentit per a qui j
 
 ## Converses multitor
 
-Les mostres de calibratge inclouen seguiments perquè es pugui revisar la continuïtat. Això no obliga totes les dades futures a tenir diversos torns. Cada parell pregunta-resposta ha de resoldre una necessitat real; si el fil no continua de manera natural, s'acaba.
+Cada registre del dataset serà una conversa multitor. El seguiment ha de sortir d'una resposta anterior i demanar una cosa nova que una persona preguntaria de debò. No s'afegeixen preguntes de farciment per arribar a un nombre fix de torns: si el fil no es pot continuar amb naturalitat, la conversa es replanteja amb un altre angle o no s'aprova.
 
 ## Estructura
 
@@ -27,7 +27,9 @@ training-data/
 ├── PLAN.md
 ├── knowledge/
 │   ├── README.md
-│   ├── examples/conversations.jsonl  # calibratge, no exportable
+│   ├── review/
+│   │   ├── EXEMPLES.md              # criteri editorial i mostres
+│   │   └── conversations.jsonl      # candidats, multitor i revisables
 │   ├── work/                        # cobertura i procedència
 │   ├── reports/                     # qualitat i progrés
 │   ├── scripts/                     # validació/generació, quan calgui
@@ -42,10 +44,11 @@ training-data/
 
 ## Fases
 
-1. Revisar les mostres de `knowledge/examples/` i acordar-ne la veu.
-2. Inventariar tot `docs/temes/`; crear converses en lots petits, amb procedència traçable.
-3. Revisar exactitud, naturalitat, cobertura, duplicats i drets abans d'aprovar registres.
-4. Treballar Language per separat. Incloure només veu humana contemporània i transcripcions fiables, amb drets revisats.
-5. Crear exports i splits quan cada registre estigui aprovat i el conjunt tingui cobertura suficient.
+1. Revisar les mostres de `knowledge/review/EXEMPLES.md` i `knowledge/review/conversations.jsonl`.
+2. Inventariar cada document de `docs/temes/`; treballar tema a tema i registrar cada conversa i la seva procedència.
+3. Fer un commit i push a `main` per cada conversa nova, després de validar-la.
+4. Revisar exactitud, naturalitat, cobertura, duplicats i drets abans d'aprovar registres.
+5. Treballar Language per separat. Incloure només veu humana contemporània i transcripcions fiables, amb drets revisats.
+6. Crear exports i splits quan cada registre estigui aprovat i el conjunt tingui cobertura suficient.
 
 `output/` comença buit expressament. Les mostres i els candidats no compten com a dades aprovades.
