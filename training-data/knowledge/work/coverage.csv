@@ -1,7 +1,7 @@
 source_path,document_type,title,source_ids,source_paths,redistribucio,evidence_units,sections,paragraphs,list_items,table_rows,blockquotes,links,candidate_units,approved_units,excluded_units,unresolved_units,coverage_status,review_notes
 docs/temes/costums/calendari-festiu/calendari-festiu-index-de-fitxes.md,index,Calendari festiu — índex de fitxes,,,missing_source_id,7,2,2,2,0,0,2,0,0,0,7,not_started,
 docs/temes/costums/calendari-festiu/calendari-festiu.md,article,El calendari festiu,premsa-andorrana,fonts/premsa-andorrana.md,no,40,7,11,4,15,1,7,0,0,0,40,not_started,
-docs/temes/costums/calendari-festiu/el-carnaval-dencamp.md,article,El carnaval d'Encamp,premsa-andorrana,fonts/premsa-andorrana.md,no,53,9,26,8,8,0,14,5,0,0,48,in_progress,
+docs/temes/costums/calendari-festiu/el-carnaval-dencamp.md,article,El carnaval d'Encamp,premsa-andorrana,fonts/premsa-andorrana.md,no,53,9,26,8,8,0,14,7,0,0,46,in_progress,
 docs/temes/costums/caramelles/caramelles-index-de-fitxes.md,index,Caramelles — índex de fitxes,,,missing_source_id,6,2,2,1,0,0,1,0,0,0,6,not_started,
 docs/temes/costums/caramelles/les-caramelles.md,article,Les caramelles,premsa-andorrana,fonts/premsa-andorrana.md,no,34,8,13,11,0,0,7,10,0,0,24,in_progress,
 docs/temes/costums/costums-d-andorra-index-de-fitxes.md,index,Costums d'Andorra — índex de fitxes,,,missing_source_id,15,2,2,10,0,0,10,0,0,0,15,not_started,
