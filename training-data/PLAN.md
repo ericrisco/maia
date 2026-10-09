@@ -1,96 +1,58 @@
 # Pla de Maia Training Data
 
-## Per a què serveix
+## Problema que corregim
 
-Preparar dos conjunts separats a partir del corpus de Maia:
+Les preguntes anteriors sovint partien de la forma de la fitxa: demanaven què deia una secció, una fila o un gràfic. Algunes respostes eren fragments. Alguns diàlegs afegien torns només per cobrir més fets.
 
-- **Maia Knowledge**: ajuda a respondre preguntes sobre Andorra amb informació de `docs/temes/`.
-- **Maia Language**: preserva català andorrà contemporani produït per persones, només a partir de material elegible de `docs/parla/`.
+Això entrena el model a respondre consultes sobre documents interns. No l'entrena a ajudar una persona amb un dubte real.
 
-Les mostres de Knowledge d'aquesta carpeta són exemples de disseny. No són dades aprovades ni exportables. La cua antiga s'ha preservat als directoris `training-data-reset-backup*` fora d'aquesta carpeta; no es reutilitza automàticament.
+## Criteri per a Knowledge
 
-## Com escriure converses que sonin humanes
+1. **Comença pel dubte, no pel document.** Formula què voldria saber una persona sense haver vist la fitxa.
+2. **Dona context mínim.** La pregunta ha de deixar clar de quin tema o lloc parla, sense títols de secció, files ni identificadors.
+3. **Resol el dubte a la primera frase.** Després afegeix només el context que evita una resposta confusa.
+4. **Fes seguiment només quan el fil el provoqui.** Cada torn ha de preguntar una cosa nova que una persona podria voler saber després de la resposta anterior.
+5. **Construeix un fil multitorn quan la font ho permeti.** Cada seguiment ha de sorgir de la resposta anterior i demanar informació nova. Si forçar-lo faria la conversa menys natural o menys exacta, no inventis un torn.
+6. **No inventis vivències ni premisses.** No atribueixis records, visites o opinions a qui pregunta. Corregeix una premissa errònia amb tacte.
+7. **Separa fet i interpretació.** Identifica llegendes, lectures d'autors, desacords entre fonts i informació que no consta.
+8. **Llegeix només els missatges en veu alta.** Si semblen un examen o una instrucció de cerca, reescriu-los.
+9. **Verifica cada afirmació.** Guarda les fonts i els drets a la procedència, mai dins dels missatges.
 
-1. **Comença per una necessitat concreta.** Pregunta't què vol aclarir algú, no quin tros del document es pot convertir en pregunta.
-2. **Dona el context mínim que necessita la pregunta.** La persona no ha de conèixer el títol d'una fitxa, una secció, una fila o un identificador.
-3. **Contesta de seguida.** La primera frase ha de resoldre el dubte; després hi pots afegir el context que ajuda a entendre la resposta.
-4. **Segueix el fil.** Afegeix un altre torn quan la resposta faci sorgir una pregunta relacionada. El seguiment ha de demanar informació nova, no extreure una dada aïllada per allargar la conversa.
-5. **No inventis una vida per a l'usuari.** No afegeixis «el meu avi m'ho explicava», «hi vaig anar l'altre dia» ni altres experiències que no calen per fer natural la pregunta.
-6. **Marca què és tradició, què és document i què no se sap.** No presentis una llegenda com un fet ni resolguis discrepàncies sense suport.
-7. **Llegeix només els missatges en veu alta.** Si semblen un examen, una plantilla o una consulta a una fitxa, reescriu-los o descarta'ls.
+## Com escriure un registre
 
-No hi ha un nombre obligatori de torns. Les mostres inicials són multitorn per revisar la continuïtat. En el conjunt futur, una resposta d'un sol torn és millor que un seguiment forçat.
+- Desa les mostres de calibratge a `knowledge/examples/` i els candidats nous a `knowledge/review/`.
+- Escriu la procedència en un fitxer separat amb el mateix `example_id`.
+- La conversa conté només `messages` amb rols `user` i `assistant`.
+- La procedència registra fitxers font, necessitat humana, motiu dels seguiments, afirmacions comprovades i estat de drets.
+- Marca totes les mostres `exportable: false`. No les copiïs a `output/`.
 
-## Fase zero: calibrar abans de produir registres
+## Seqüència de treball
 
-No convertir seccions ni unitats d'evidència directament en preguntes. Per a cada mostra:
+1. Revisar les mostres i aplicar la guia de `knowledge/review/EXEMPLES.md`.
+2. Afegir registres de Knowledge tema a tema. Cada registre nou passa revisió de naturalitat, exactitud, duplicats i drets abans d'entrar als splits.
+3. Revisar Language per peça i font. Només s'hi incorporen fragments autèntics amb permisos i transcripció prou fiables; no se'n generen diàlegs sintètics.
+4. Quan hi hagi registres revisats suficients, crear generació, validació, deduplicació i splits. No generar fitxers d'entrenament buits ni mesurar progrés pel nombre de registres.
 
-1. **Identifica el dubte humà** que resol el fet: què voldria aclarir algú, amb quines paraules ho demanaria i quin context mínim necessita.
-2. **Escriu la pregunta sense mirar el títol de la fitxa.** Si cal dir «la secció», «la fila» o «el gràfic», comprova si es pot expressar el dubte real en lloc de preguntar pel document.
-3. **Redacta una resposta completa i autònoma.** Evita respostes com «apel·lació al Consell General» o «tres coses que el corpus registra»: inclou qui fa què i en quines circumstàncies.
-4. **Afegeix seguiments només si tenen una motivació conversacional.** Cada torn ha d'obtenir una informació nova i respondre al fil anterior; no hi ha una quota de torns.
-5. **Llegeix només la conversa.** Rebutja-la si sembla un examen, una ordre de lectura, una consulta de base de dades o una seqüència de preguntes enganxades.
-6. **Verifica afirmació per afirmació** contra la font i desa la procedència separadament. Indica quan parles d'una llegenda, una interpretació, una contradicció o un buit documental.
-
-Les cinc converses de `knowledge/examples/` són mostres de calibratge, no registres del dataset. Després de revisar-les, es pot ampliar el paquet d'exemples abans de reprendre la producció per temes. Cap mostra passa a `output/` automàticament.
-
-### Abans i després
-
-**No:** «Què explica la secció “El relat” de la fitxa “La troballa de Meritxell”?»
-
-**Sí:** «Per què la imatge de Meritxell torna a aparèixer al mateix lloc?»
-
-**No:** «Què indica aquesta fila del gràfic?»
-
-**Sí:** «Quina llengua tenia més parlants segons les dades del 2014?» — només si el gràfic i les unitats estan explicats prou bé per respondre sense endevinar.
-
-**No:** «Què explica la secció “I aquí hi ha el document que ho resol”?» — la pregunta depèn de l'estructura interna de la fitxa.
-
-**Sí:** «Per què les fonts donaven dos tipus d'interès diferents?» — la resposta ha de distingir els censals de la resta de contractes i explicar què diu el decret de 1895.
-
-## Estructura
+## Arbre
 
 ```text
 training-data/
 ├── README.md
 ├── PLAN.md
 ├── knowledge/
-│   ├── examples/       # Mostres de conversa i procedència; no exportables
-│   ├── review/         # Candidats nous després de revisar el criteri
-│   ├── work/           # Evidència, inventari, cobertura i exclusions
-│   ├── reports/        # Informes de cobertura i qualitat
-│   ├── scripts/        # Eines de construcció i validació
-│   └── output/         # Exports aprovats, encara buit
+│   ├── README.md
+│   ├── examples/       # exemples interns, no exportables
+│   ├── review/         # converses candidates revisades
+│   ├── work/           # evidència i cobertura
+│   ├── reports/        # informes
+│   ├── scripts/        # eines futures
+│   └── output/         # només exports aprovats
 └── language/
+    ├── README.md
     ├── examples/
     ├── review/
     ├── work/
     ├── reports/
     ├── scripts/
-    └── output/         # Exports aprovats, encara buit
+    └── output/
 ```
-
-Les converses i la procedència van en fitxers separats. Una línia dels fitxers de conversa conté només `{"messages": [...]}`. La procedència interna apunta a les fonts, les afirmacions comprovades i l'estat dels drets; mai no s'afegeix a l'export de fine-tuning.
-
-## Flux per a Knowledge
-
-1. Tria un fet, una relació o un dubte real que es pugui respondre amb el corpus.
-2. Redacta la conversa completa i la procedència en paral·lel.
-3. Comprova cada afirmació i cada seguiment contra les fonts.
-4. Revisa naturalitat, context, matisos, drets i duplicació.
-5. Mantén el candidat a `review/` fins que passi les revisions de contingut i de drets.
-6. Mesura cobertura per coneixement representat, no pel nombre de preguntes.
-7. Deduplica i crea els splits només quan hi hagi prou dades aprovades.
-
-## Flux per a Language
-
-Utilitza només fragments humans que compleixin els criteris d'origen i d'elegibilitat del corpus. No generis oralitat sintètica per inflar el conjunt. Registra els fragments descartats i el motiu, filtra incerteses de transcripció i separa els splits per peça o parlant per evitar filtracions entre train i test.
-
-## Què queda per fer
-
-- Revisar i ajustar aquestes mostres i el criteri editorial.
-- Després d'acordar el criteri, afegir nous registres per temes amb procedència i drets.
-- Revisar el corpus de Language peça a peça i decidir què és reutilitzable.
-- Construir les validacions, la cobertura, la deduplicació i els splits quan hi hagi dades aprovades.
-
-No es creen exports buits ni es compten les mostres com a cobertura. No s'afegeixen registres per assolir una quota de volum.

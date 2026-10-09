@@ -1,10 +1,10 @@
 # Maia Training Data
 
-Aquesta carpeta prepara dos conjunts independents a partir del corpus Maia:
+Aquesta carpeta prepara dos conjunts separats a partir de `docs/`:
 
-- **Maia Knowledge** ensenya a respondre preguntes sobre Andorra amb fets documentats a `docs/temes/`.
-- **Maia Language** preserva llengua contemporània autèntica de `docs/parla/`; no s'hi barreja coneixement enciclopèdic ni oralitat inventada.
+- **Knowledge**: respostes a preguntes humanes sobre Andorra, basades en `docs/temes/`.
+- **Language**: material lingüístic autèntic de `docs/parla/`. No s'hi inventen preguntes ni respostes per simular conversa.
 
-`knowledge/examples/` conté cinc mostres internes per fixar el criteri de conversa natural i multitorn. La cua activa de revisió és buida i els fitxers d'export no contenen dades aprovades. Les mostres no s'han d'entrenar ni comptar com a cobertura.
+Les mostres de `knowledge/examples/` són per revisar el criteri. No són registres d'entrenament ni compten com a cobertura. Cap sortida s'exporta fins que el contingut i els drets estiguin revisats.
 
-Els registres rebutjats de Knowledge s'han preservat fora d'aquesta carpeta als directoris `training-data-reset-backup*`; no es reutilitzen sense reescriure'ls. Consulteu [`PLAN.md`](PLAN.md) per al mètode, l'estructura i les etapes següents.
+El flux i els criteris són a [`PLAN.md`](PLAN.md).

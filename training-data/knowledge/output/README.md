@@ -1,4 +1,3 @@
-# Output de Knowledge
+# Exports de Knowledge
 
-Buit deliberadament. Els exports `train`, `validation` i `test` es crearan quan
-hi hagi registres aprovats, drets resolts i una estratègia de splits revisada.
+Buit. No hi ha dades aprovades per exportar. Les mostres de `examples/` no s'han d'entrenar.

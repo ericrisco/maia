@@ -1,4 +1,3 @@
-# Output de Language
+# Exports de Language
 
-Buit deliberadament. No es generarà cap export fins que s'hagin auditat les
-peces de parla i revisat els drets i la separació dels splits.
+Buit. No hi ha material aprovat per exportar.
