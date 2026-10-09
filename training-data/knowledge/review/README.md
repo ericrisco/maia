@@ -1,6 +1,6 @@
 # Cua de revisió de Maia Knowledge
 
-La cua és buida mentre calibrem el criteri amb les cinc mostres de [`../examples/`](../examples/). Les converses antigues que van motivar aquest reinici ja no compten com a candidats ni com a cobertura.
+Aquí s'acumulen les converses candidates de Maia Knowledge. Les cinc mostres de [`../examples/`](../examples/) serveixen per calibrar l'estil i no compten com a candidats ni com a cobertura. Les converses antigues que van motivar el reinici ja no formen part de la cua.
 
 Quan comencem una tanda nova, afegeix només converses que hagin passat la guia de [`../EXEMPLES.md`](../EXEMPLES.md). El diàleg i la procedència han d'ocupar línies paral·leles a `conversations.jsonl` i `provenance.jsonl`.
 
