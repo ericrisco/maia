@@ -8,7 +8,7 @@ Aquesta carpeta prepara dues línies de dades separades a partir del corpus de
 - **Language** conserva mostres de llengua autèntica de `docs/parla/`; no es
   creen respostes per imitar una manera de parlar.
 
-Ara mateix hi ha cinc exemples interns de calibratge i tretze candidats de
+Ara mateix hi ha cinc exemples interns de calibratge i catorze candidats de
 Knowledge pendents de revisió. Els exemples no compten com a cobertura; els
 candidats encara no són exportables. Les converses i la seva procedència es
 mantenen en fitxers JSONL separats dins de `knowledge/`.
