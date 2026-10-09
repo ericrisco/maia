@@ -1,12 +1,10 @@
 # Maia Knowledge
 
-Conjunt de converses per respondre preguntes sobre Andorra, basat en `docs/temes/`.
+Converses que ensenyen coneixement sobre Andorra basat en `docs/temes/`. La unitat de treball és un dubte humà, no una secció o fila del corpus.
 
-- `examples/`: mostres editorials per calibrar preguntes i respostes. No s'exporten.
-- `review/`: candidats pendents de revisió humana i de drets.
-- `work/`: inventari i cobertura traçables.
-- `reports/`: resums, errors i exclusions.
-- `output/`: exportacions aprovades. Ha de quedar buit fins que passin tots els controls.
-- `scripts/`: eines d'inventari i validació.
+- `examples/`: cinc mostres per revisar el criteri.
+- `review/`: futurs candidats, encara no aprovats.
+- `work/`: procedència i cobertura internes.
+- `output/`: només converses aprovades i amb drets compatibles.
 
-Consulta [`../PLAN.md`](../PLAN.md) i la [guia de conversa](review/EXEMPLES.md) abans d'afegir registres.
+Les mostres actuals no són un dataset final ni es poden entrenar sense revisió.

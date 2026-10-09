@@ -1,3 +1,3 @@
-# Treball de Maia Language
+# Treball intern de Maia Language
 
-Fragments de parla seleccionats i decisions traçables sobre elegibilitat, drets i certesa de transcripció. No generis text per imitar la parla.
+Registre de selecció, drets, consentiments i qualitat de transcripció. Les decisions han de permetre traçar cada fragment fins a la peça original.

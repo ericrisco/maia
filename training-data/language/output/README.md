@@ -1,3 +1,3 @@
-# Exportacions de Maia Language
+# Exports de Maia Language
 
-Mantén aquesta carpeta sense dades fins que les peces hagin passat revisió de drets, transcripció, agrupació de splits i validació.
+Buit fins que hi hagi fragments humans revisats, elegibles i separats per peça als splits.

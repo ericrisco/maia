@@ -1,3 +1,3 @@
-# Treball de Maia Knowledge
+# Treball intern de Maia Knowledge
 
-Inventaris, unitats de coneixement, exclusions i mapes de cobertura auditables. No són dades finals d'entrenament.
+Aquesta carpeta contindrà inventari de cobertura, evidències i decisions editorials necessàries per auditar els candidats. No forma part del fine-tuning. Cada afirmació de les converses ha d'apuntar a una font concreta del corpus.

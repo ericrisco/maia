@@ -1,3 +1,3 @@
 # Informes de Maia Language
 
-Informes de peces revisades, incloses i excloses, drets, incertesa de transcripció i possibles filtracions entre splits.
+Aquí es documentaran les peces revisades, utilitzades o excloses i els motius de cada decisió.

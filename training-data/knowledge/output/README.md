@@ -1,3 +1,3 @@
-# Exportacions de Maia Knowledge
+# Exports de Maia Knowledge
 
-Mantén aquesta carpeta sense dades fins que els candidats hagin passat revisió humana, comprovació de drets, deduplicació, divisió de conjunts i validació.
+Buit fins que les converses passin revisió de contingut i drets. Els fitxers d'export només contindran línies JSON amb `messages`.

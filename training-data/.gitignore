@@ -1,5 +1,2 @@
-# Exportacions finals i intermedis generats localment.
-knowledge/output/*.jsonl
-language/output/*.jsonl
-language/work/intermediate.jsonl
-language/reports/summary.json
+__pycache__/
+*.py[cod]
