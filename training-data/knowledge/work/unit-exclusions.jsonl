@@ -771,6 +771,7 @@
 {"evidence_id":"temes/cultura/llegendes/el-minairo.md#block-00000","reason":"structural_block_not_conversational_knowledge"}
 {"evidence_id":"temes/cultura/llegendes/el-minairo.md#block-00001","reason":"structural_block_not_conversational_knowledge"}
 {"evidence_id":"temes/cultura/llegendes/el-minairo.md#block-00004","reason":"structural_block_not_conversational_knowledge"}
+{"evidence_id":"temes/cultura/llegendes/el-minairo.md#block-00009","reason":"internal_curatorial_note_not_user_facing_knowledge: describes why the corpus preserves an ambiguity"}
 {"evidence_id":"temes/cultura/llegendes/el-minairo.md#block-00011","reason":"structural_block_not_conversational_knowledge"}
 {"evidence_id":"temes/cultura/llegendes/el-minairo.md#block-00014","reason":"structural_block_not_conversational_knowledge"}
 {"evidence_id":"temes/cultura/llegendes/el-minairo.md#block-00018","reason":"structural_block_not_conversational_knowledge"}
@@ -778,7 +779,14 @@
 {"evidence_id":"temes/cultura/llegendes/el-minairo.md#block-00025","reason":"table_header_context_not_standalone_knowledge"}
 {"evidence_id":"temes/cultura/llegendes/el-minairo.md#block-00026","reason":"table_separator_not_knowledge"}
 {"evidence_id":"temes/cultura/llegendes/el-minairo.md#block-00038","reason":"structural_block_not_conversational_knowledge"}
+{"evidence_id":"temes/cultura/llegendes/el-minairo.md#block-00043","reason":"corpus_catalogue_status_not_Andorran_domain_knowledge: an internal audit question about the contents of the corpus legend index"}
+{"evidence_id":"temes/cultura/llegendes/el-minairo.md#block-00044","reason":"corpus_catalogue_status_not_Andorran_domain_knowledge: records whether this entry appears in the current internal legend index"}
 {"evidence_id":"temes/cultura/llegendes/el-minairo.md#block-00045","reason":"structural_block_not_conversational_knowledge"}
+{"evidence_id":"temes/cultura/llegendes/el-minairo.md#block-00046","reason":"navigation_link_without_standalone_domain_claim"}
+{"evidence_id":"temes/cultura/llegendes/el-minairo.md#block-00047","reason":"navigation_link_without_standalone_domain_claim"}
+{"evidence_id":"temes/cultura/llegendes/el-minairo.md#block-00048","reason":"navigation_link_without_standalone_domain_claim"}
+{"evidence_id":"temes/cultura/llegendes/el-minairo.md#block-00049","reason":"navigation_link_without_standalone_domain_claim"}
+{"evidence_id":"temes/cultura/llegendes/el-minairo.md#metadata-description","reason":"duplicate_summary_of_covered_facts: definition, work demand and tartera legend are represented by review candidates"}
 {"evidence_id":"temes/cultura/llegendes/el-minairo.md#metadata-title","reason":"structural_block_not_conversational_knowledge"}
 {"evidence_id":"temes/cultura/llegendes/el-roc-de-les-bruixes.md#block-00000","reason":"structural_block_not_conversational_knowledge"}
 {"evidence_id":"temes/cultura/llegendes/el-roc-de-les-bruixes.md#block-00001","reason":"structural_block_not_conversational_knowledge"}
