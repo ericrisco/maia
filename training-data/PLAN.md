@@ -1,46 +1,35 @@
 # Pla de Maia Training Data
 
-## Propòsit
+## Per a què serveix
 
-Preparar dos conjunts independents. **Knowledge** cobreix coneixement útil
-documentat a `docs/temes/`. **Language** conserva llengua humana elegible de
-`docs/parla/`. Una conversa de Knowledge no és una pregunta sobre una fitxa:
-comença amb un dubte que podria tenir algú que no ha llegit el corpus.
+Preparar dos conjunts separats a partir del corpus de Maia:
 
-## Com escriure una conversa de Knowledge
+- **Maia Knowledge**: ajuda a respondre preguntes sobre Andorra amb informació de `docs/temes/`.
+- **Maia Language**: preserva català andorrà contemporani produït per persones, només a partir de material elegible de `docs/parla/`.
 
-1. Llegeix el document font i les seves relacions. Separa els fets comprovats,
-   les interpretacions, les discrepàncies i els buits.
-2. Escriu una nota de treball: **«La persona vol aclarir…»**. Ha de descriure
-   una necessitat humana, no l'acció de consultar un document.
-3. Formula la pregunta inicial amb prou context perquè s'entengui per si sola.
-   No parlis de fitxes, seccions, files, gràfics o IDs interns.
-4. Contesta directament i amb context suficient. No comencis amb un fragment
-   penjat ni afegeixis fets que la font no sosté.
-5. Continua el diàleg només quan la resposta anterior faci sorgir una pregunta
-   real. Cada seguiment ha d'aportar informació nova i mantenir el mateix fil.
-6. Llegeix els missatges sense títols ni procedència. Si sonen a qüestionari o
-   a una plantilla amb noms substituïts, reescriu o descarta l'exemple.
-7. Registra fonts, afirmacions comprovades, motiu de la consulta i drets en un
-   fitxer separat. Una mostra amb drets pendents no és exportable.
+Les mostres de Knowledge d'aquesta carpeta són exemples de disseny. No són dades aprovades ni exportables. La cua antiga s'ha preservat als directoris `training-data-reset-backup*` fora d'aquesta carpeta; no es reutilitza automàticament.
 
-No hi ha una quota de torns per a cada registre. Les primeres cinc mostres són
-multitorn expressament perquè es pugui revisar si el fil funciona. En producció,
-un sol torn és preferible a un seguiment artificial.
+## Com escriure converses que sonin humanes
 
-## Porta editorial
+1. **Comença per una necessitat concreta.** Pregunta't què vol aclarir algú, no quin tros del document es pot convertir en pregunta.
+2. **Dona el context mínim que necessita la pregunta.** La persona no ha de conèixer el títol d'una fitxa, una secció, una fila o un identificador.
+3. **Contesta de seguida.** La primera frase ha de resoldre el dubte; després hi pots afegir el context que ajuda a entendre la resposta.
+4. **Segueix el fil.** Afegeix un altre torn quan la resposta faci sorgir una pregunta relacionada. El seguiment ha de demanar informació nova, no extreure una dada aïllada per allargar la conversa.
+5. **No inventis una vida per a l'usuari.** No afegeixis «el meu avi m'ho explicava», «hi vaig anar l'altre dia» ni altres experiències que no calen per fer natural la pregunta.
+6. **Marca què és tradició, què és document i què no se sap.** No presentis una llegenda com un fet ni resolguis discrepàncies sense suport.
+7. **Llegeix només els missatges en veu alta.** Si semblen un examen, una plantilla o una consulta a una fitxa, reescriu-los o descarta'ls.
 
-Abans d'afegir una conversa a `knowledge/review/`, comprova que:
+No hi ha un nombre obligatori de torns. Les mostres inicials són multitorn per revisar la continuïtat. En el conjunt futur, una resposta d'un sol torn és millor que un seguiment forçat.
 
-- la pregunta inicial s'entén sense consultar el corpus i té un motiu creïble;
-- la primera frase de cada resposta resol la pregunta d'aquell torn;
-- el seguiment neix del que s'acaba de dir i no és una dada independent;
-- les respostes sonen com ajuda experta, no com notes enganxades;
-- cada afirmació factual té suport identificable;
-- les discrepàncies i els límits del corpus no s'amaguen;
-- la procedència i les condicions d'ús estan anotades per separat.
+### Abans i després
 
-Si falla un criteri, no es compta com a cobertura: es reescriu o es descarta.
+**No:** «Què explica la secció “El relat” de la fitxa “La troballa de Meritxell”?»
+
+**Sí:** «Per què la imatge de Meritxell torna a aparèixer al mateix lloc?»
+
+**No:** «Què indica aquesta fila del gràfic?»
+
+**Sí:** «Quina llengua tenia més parlants segons les dades del 2014?» — només si el gràfic i les unitats estan explicats prou bé per respondre sense endevinar.
 
 ## Estructura
 
@@ -49,32 +38,42 @@ training-data/
 ├── README.md
 ├── PLAN.md
 ├── knowledge/
-│   ├── examples/       # Cinc mostres internes de calibratge; no exportables
-│   ├── review/         # Futurs candidats pendents de revisió
-│   ├── work/           # Futurs registres de cobertura i evidència
-│   ├── reports/        # Futurs reports de cobertura, qualitat i drets
-│   └── output/         # Buit fins que hi hagi dades aprovades i splits
+│   ├── examples/       # Mostres de conversa i procedència; no exportables
+│   ├── review/         # Candidats nous després de revisar el criteri
+│   ├── work/           # Evidència, inventari, cobertura i exclusions
+│   ├── reports/        # Informes de cobertura i qualitat
+│   ├── scripts/        # Eines de construcció i validació
+│   └── output/         # Exports aprovats, encara buit
 └── language/
-    ├── examples/       # Exemples humans elegibles, només quan n'hi hagi
-    ├── review/         # Revisió de fragments i condicions d'ús
-    ├── work/           # Elegibilitat, transcripció i procedència
-    ├── reports/        # Inclusió, exclusions i drets
-    └── output/         # Buit fins que hi hagi dades aprovades i splits
+    ├── examples/
+    ├── review/
+    ├── work/
+    ├── reports/
+    ├── scripts/
+    └── output/         # Exports aprovats, encara buit
 ```
 
-Cada línia de `conversations.jsonl` és un objecte `{"messages": [...]}`. El
-fitxer de procedència associat té una línia per conversa, en el mateix ordre.
-La procedència no entra a l'export entrenable.
+Les converses i la procedència van en fitxers separats. Una línia dels fitxers de conversa conté només `{"messages": [...]}`. La procedència interna apunta a les fonts, les afirmacions comprovades i l'estat dels drets; mai no s'afegeix a l'export de fine-tuning.
 
-## Etapes
+## Flux per a Knowledge
 
-1. Revisar aquestes cinc mostres i ajustar el criteri editorial.
-2. Un cop fixat el criteri, tornar a inspeccionar els documents de Knowledge i
-   escriure candidats per temes, amb procedència i drets.
-3. Auditar Language peça a peça; incloure només parla humana elegible i fiable.
-4. Mesurar cobertura per unitat de coneixement, deduplicar i revisar drets.
-5. Crear els splits només després d'aprovar els registres i les fonts.
-6. Validar els exports i publicar informes de cobertura, exclusions i qualitat.
+1. Tria un fet, una relació o un dubte real que es pugui respondre amb el corpus.
+2. Redacta la conversa completa i la procedència en paral·lel.
+3. Comprova cada afirmació i cada seguiment contra les fonts.
+4. Revisa naturalitat, context, matisos, drets i duplicació.
+5. Mantén el candidat a `review/` fins que passi les revisions de contingut i de drets.
+6. Mesura cobertura per coneixement representat, no pel nombre de preguntes.
+7. Deduplica i crea els splits només quan hi hagi prou dades aprovades.
 
-No s'afegeix volum per arribar a una quota. Els fets volàtils s'han de recuperar
-actualitzats, no memoritzar com si fossin permanents.
+## Flux per a Language
+
+Utilitza només fragments humans que compleixin els criteris d'origen i d'elegibilitat del corpus. No generis oralitat sintètica per inflar el conjunt. Registra els fragments descartats i el motiu, filtra incerteses de transcripció i separa els splits per peça o parlant per evitar filtracions entre train i test.
+
+## Què queda per fer
+
+- Revisar i ajustar aquestes mostres i el criteri editorial.
+- Després d'acordar el criteri, afegir nous registres per temes amb procedència i drets.
+- Revisar el corpus de Language peça a peça i decidir què és reutilitzable.
+- Construir les validacions, la cobertura, la deduplicació i els splits quan hi hagi dades aprovades.
+
+No es creen exports buits ni es compten les mostres com a cobertura. No s'afegeixen registres per assolir una quota de volum.

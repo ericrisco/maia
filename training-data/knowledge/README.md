@@ -1,13 +1,12 @@
 # Maia Knowledge
 
-Ensenya a respondre sobre Andorra a partir de `docs/temes/`. Les converses
-parteixen d'una necessitat humana, i les seves afirmacions han de quedar
-recolzades per fonts del corpus.
+Prepara converses útils sobre Andorra a partir de `docs/temes/`.
 
-- `examples/`: cinc mostres internes de calibratge, encara no aprovades.
-- `review/`: candidats pendents de revisió editorial i de drets.
-- `work/`: buit; reservat per a cobertura, evidència i decisions d'exclusió.
-- `reports/`: buit; reservat per a informes generats a partir de dades revisades.
-- `output/`: buit; no és un dataset d'entrenament encara.
+- `examples/`: mostres internes de calibratge, no exportables.
+- `review/`: cua activa de candidats, ara buida.
+- `work/`: inventari del corpus, evidència, relacions i cobertura.
+- `reports/`: informes generats a partir de l'inventari.
+- `scripts/`: eines de construcció de l'inventari.
+- `output/`: buit fins que hi hagi converses aprovades i splits.
 
-La guia i el procés són a [`../PLAN.md`](../PLAN.md).
+El procés editorial i les etapes són a [`../PLAN.md`](../PLAN.md).
