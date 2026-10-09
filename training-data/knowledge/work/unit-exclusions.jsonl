@@ -59,15 +59,21 @@
 {"evidence_id":"temes/costums/danses/danses.md#metadata-title","reason":"structural_block_not_conversational_knowledge"}
 {"evidence_id":"temes/costums/danses/el-ball-de-lossa-dencamp.md#block-00000","reason":"structural_block_not_conversational_knowledge"}
 {"evidence_id":"temes/costums/danses/el-ball-de-lossa-dencamp.md#block-00001","reason":"structural_block_not_conversational_knowledge"}
+{"evidence_id":"temes/costums/danses/el-ball-de-lossa-dencamp.md#block-00002","reason":"internal_curation_note_not_Andorran_domain_knowledge: records a previously open corpus gap"}
+{"evidence_id":"temes/costums/danses/el-ball-de-lossa-dencamp.md#block-00003","reason":"editorial_transition_not_standalone_domain_knowledge"}
 {"evidence_id":"temes/costums/danses/el-ball-de-lossa-dencamp.md#block-00004","reason":"structural_block_not_conversational_knowledge"}
 {"evidence_id":"temes/costums/danses/el-ball-de-lossa-dencamp.md#block-00006","reason":"structural_block_not_conversational_knowledge"}
+{"evidence_id":"temes/costums/danses/el-ball-de-lossa-dencamp.md#block-00008","reason":"rhetorical_transition_to_evidence_already_represented_by_adjacent_candidate"}
 {"evidence_id":"temes/costums/danses/el-ball-de-lossa-dencamp.md#block-00011","reason":"structural_block_not_conversational_knowledge"}
 {"evidence_id":"temes/costums/danses/el-ball-de-lossa-dencamp.md#block-00013","reason":"table_header_context_not_standalone_knowledge"}
 {"evidence_id":"temes/costums/danses/el-ball-de-lossa-dencamp.md#block-00014","reason":"table_separator_not_knowledge"}
+{"evidence_id":"temes/costums/danses/el-ball-de-lossa-dencamp.md#block-00021","reason":"rhetorical_transition_to_costume_evidence_already_represented_by_review_candidate"}
 {"evidence_id":"temes/costums/danses/el-ball-de-lossa-dencamp.md#block-00024","reason":"structural_block_not_conversational_knowledge"}
 {"evidence_id":"temes/costums/danses/el-ball-de-lossa-dencamp.md#block-00027","reason":"structural_block_not_conversational_knowledge"}
+{"evidence_id":"temes/costums/danses/el-ball-de-lossa-dencamp.md#block-00028","reason":"table_introduction_not_domain_claim; substantive_items_are_represented_by_adjacent_candidates"}
 {"evidence_id":"temes/costums/danses/el-ball-de-lossa-dencamp.md#block-00037","reason":"structural_block_not_conversational_knowledge"}
 {"evidence_id":"temes/costums/danses/el-ball-de-lossa-dencamp.md#block-00042","reason":"structural_block_not_conversational_knowledge"}
+{"evidence_id":"temes/costums/danses/el-ball-de-lossa-dencamp.md#block-00043","reason":"rhetorical_source_introduction_not_standalone_domain_knowledge"}
 {"evidence_id":"temes/costums/danses/el-ball-de-lossa-dencamp.md#block-00047","reason":"structural_block_not_conversational_knowledge"}
 {"evidence_id":"temes/costums/danses/el-ball-de-lossa-dencamp.md#block-00048","reason":"structural_block_not_conversational_knowledge"}
 {"evidence_id":"temes/costums/danses/el-ball-de-lossa-dencamp.md#block-00050","reason":"table_header_context_not_standalone_knowledge"}
@@ -77,15 +83,22 @@
 {"evidence_id":"temes/costums/danses/el-ball-de-lossa-dencamp.md#block-00059","reason":"table_separator_not_knowledge"}
 {"evidence_id":"temes/costums/danses/el-ball-de-lossa-dencamp.md#block-00065","reason":"structural_block_not_conversational_knowledge"}
 {"evidence_id":"temes/costums/danses/el-ball-de-lossa-dencamp.md#block-00070","reason":"structural_block_not_conversational_knowledge"}
+{"evidence_id":"temes/costums/danses/el-ball-de-lossa-dencamp.md#block-00071","reason":"internal_corpus_audit_history_not_Andorran_domain_knowledge"}
 {"evidence_id":"temes/costums/danses/el-ball-de-lossa-dencamp.md#block-00086","reason":"structural_block_not_conversational_knowledge"}
+{"evidence_id":"temes/costums/danses/el-ball-de-lossa-dencamp.md#block-00091","reason":"navigation_link_to_dance_index_without_standalone_domain_claim"}
+{"evidence_id":"temes/costums/danses/el-ball-de-lossa-dencamp.md#metadata-description","reason":"duplicate_metadata_summary_of_facts_already_represented_by_review_candidates: protagonistes dallaires, lectura iniciàtica i descripció d'Amades"}
 {"evidence_id":"temes/costums/danses/el-ball-de-lossa-dencamp.md#metadata-title","reason":"structural_block_not_conversational_knowledge"}
 {"evidence_id":"temes/costums/danses/el-ball-del-cerda.md#block-00000","reason":"structural_block_not_conversational_knowledge"}
 {"evidence_id":"temes/costums/danses/el-ball-del-cerda.md#block-00001","reason":"structural_block_not_conversational_knowledge"}
 {"evidence_id":"temes/costums/danses/el-ball-del-cerda.md#block-00004","reason":"structural_block_not_conversational_knowledge"}
+{"evidence_id":"temes/costums/danses/el-ball-del-cerda.md#block-00006","reason":"internal_gap_marker_not_standalone_Andorran_domain_knowledge"}
 {"evidence_id":"temes/costums/danses/el-ball-del-cerda.md#block-00007","reason":"structural_block_not_conversational_knowledge"}
 {"evidence_id":"temes/costums/danses/el-ball-del-cerda.md#block-00011","reason":"structural_block_not_conversational_knowledge"}
+{"evidence_id":"temes/costums/danses/el-ball-del-cerda.md#block-00012","reason":"internal_corpus_audit_history_not_Andorran_domain_knowledge"}
 {"evidence_id":"temes/costums/danses/el-ball-del-cerda.md#block-00017","reason":"structural_block_not_conversational_knowledge"}
 {"evidence_id":"temes/costums/danses/el-ball-del-cerda.md#block-00021","reason":"structural_block_not_conversational_knowledge"}
+{"evidence_id":"temes/costums/danses/el-ball-del-cerda.md#block-00023","reason":"navigation_link_to_parish_page_without_a_standalone_claim_beyond_covered_location"}
+{"evidence_id":"temes/costums/danses/el-ball-del-cerda.md#metadata-description","reason":"duplicate_metadata_summary_of_time_and_place_already_covered_by_review_candidates"}
 {"evidence_id":"temes/costums/danses/el-ball-del-cerda.md#metadata-title","reason":"structural_block_not_conversational_knowledge"}
 {"evidence_id":"temes/costums/danses/el-contrapas.md#block-00000","reason":"structural_block_not_conversational_knowledge"}
 {"evidence_id":"temes/costums/danses/el-contrapas.md#block-00001","reason":"structural_block_not_conversational_knowledge"}
@@ -95,7 +108,10 @@
 {"evidence_id":"temes/costums/danses/el-contrapas.md#block-00013","reason":"structural_block_not_conversational_knowledge"}
 {"evidence_id":"temes/costums/danses/el-contrapas.md#block-00016","reason":"structural_block_not_conversational_knowledge"}
 {"evidence_id":"temes/costums/danses/el-contrapas.md#block-00018","reason":"structural_block_not_conversational_knowledge"}
+{"evidence_id":"temes/costums/danses/el-contrapas.md#block-00019","reason":"internal_corpus_audit_history_not_Andorran_domain_knowledge"}
 {"evidence_id":"temes/costums/danses/el-contrapas.md#block-00029","reason":"structural_block_not_conversational_knowledge"}
+{"evidence_id":"temes/costums/danses/el-contrapas.md#block-00032","reason":"navigation_link_to_dance_index_without_standalone_domain_claim"}
+{"evidence_id":"temes/costums/danses/el-contrapas.md#metadata-description","reason":"duplicate_metadata_summary_of_13_parts_duration_annual_schedule_and_figure_pattern_already_covered_by_review_candidates"}
 {"evidence_id":"temes/costums/danses/el-contrapas.md#metadata-title","reason":"structural_block_not_conversational_knowledge"}
 {"evidence_id":"temes/costums/danses/els-catorze-balls.md#block-00000","reason":"structural_block_not_conversational_knowledge"}
 {"evidence_id":"temes/costums/danses/els-catorze-balls.md#block-00002","reason":"structural_block_not_conversational_knowledge"}
@@ -119,11 +135,16 @@
 {"evidence_id":"temes/costums/danses/la-marratxa.md#block-00001","reason":"structural_block_not_conversational_knowledge"}
 {"evidence_id":"temes/costums/danses/la-marratxa.md#block-00004","reason":"structural_block_not_conversational_knowledge"}
 {"evidence_id":"temes/costums/danses/la-marratxa.md#block-00007","reason":"structural_block_not_conversational_knowledge"}
+{"evidence_id":"temes/costums/danses/la-marratxa.md#block-00010","reason":"editorial_gap_marker_already_expressed_and_qualified_in_date_conflict_candidates"}
 {"evidence_id":"temes/costums/danses/la-marratxa.md#block-00011","reason":"structural_block_not_conversational_knowledge"}
 {"evidence_id":"temes/costums/danses/la-marratxa.md#block-00013","reason":"structural_block_not_conversational_knowledge"}
+{"evidence_id":"temes/costums/danses/la-marratxa.md#block-00014","reason":"editorial_status_summary_of_name_roles_and_choreography_details_covered_by_adjacent_candidates"}
+{"evidence_id":"temes/costums/danses/la-marratxa.md#block-00018","reason":"editorial_introduction_to_choreography_table; named_people_and_dates_are_covered_by_review_candidate"}
 {"evidence_id":"temes/costums/danses/la-marratxa.md#block-00019","reason":"table_header_context_not_standalone_knowledge"}
 {"evidence_id":"temes/costums/danses/la-marratxa.md#block-00020","reason":"table_separator_not_knowledge"}
+{"evidence_id":"temes/costums/danses/la-marratxa.md#block-00027","reason":"internal_gap_marker_not_standalone_Andorran_domain_knowledge"}
 {"evidence_id":"temes/costums/danses/la-marratxa.md#block-00028","reason":"structural_block_not_conversational_knowledge"}
+{"evidence_id":"temes/costums/danses/la-marratxa.md#metadata-description","reason":"duplicate_metadata_summary_of_name_and_1278_tradition_already_covered_by_review_candidates"}
 {"evidence_id":"temes/costums/danses/la-marratxa.md#metadata-title","reason":"structural_block_not_conversational_knowledge"}
 {"evidence_id":"temes/costums/danses/les-festes-de-lossa.md#block-00000","reason":"structural_block_not_conversational_knowledge"}
 {"evidence_id":"temes/costums/danses/les-festes-de-lossa.md#block-00001","reason":"structural_block_not_conversational_knowledge"}
