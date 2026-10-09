@@ -1,3 +1,3 @@
-# Informes de Maia Knowledge
+# Informes
 
-Aquí s'afegiran informes de cobertura, qualitat, exclusions i volum quan comenci la primera tanda.
+Buit durant el calibratge. Els informes futurs resumiran cobertura, exclusions, qualitat i estat dels drets.

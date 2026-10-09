@@ -1,5 +1,7 @@
 # Maia Language
 
-Aquest conjunt ha d'ensenyar com parla la gent d'Andorra avui a partir de material humà de `docs/parla/`. No s'hi barregen respostes inventades per a Maia Knowledge.
+Conserva català andorrà contemporani produït per persones a partir de `docs/parla/`. No s'hi escriuen respostes artificials per fer-les passar per parla real.
 
-Abans de seleccionar fragments, cal revisar permisos, llicència, origen i fiabilitat de la transcripció. S'han de preservar les formes humanes i separar les peces incertes o no elegibles. No hi ha mostres ni exports en aquesta fase.
+Abans d'incloure fragments, cal verificar parlant, context, transcripció, `apte_llengua` i drets. Les entrevistes i els parlants s'han de mantenir agrupats en fer els splits per evitar filtracions.
+
+Language comença buit: aquesta entrega només fixa estructura i criteris. No copiar-hi candidats de Knowledge.

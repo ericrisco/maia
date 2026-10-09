@@ -1,5 +1,17 @@
-# Mostres editorials
+# Mostres de calibratge
 
-Aquestes set converses serveixen per revisar el to, el context i el seguiment. No són una quota ni un model de llargada obligatòria: en registres futurs, una resposta completa pot ser d'un sol torn. Dues mostres reformulen expressament preguntes que abans apuntaven a una secció o a una fila: la persona pregunta pel dubte que tindria, no per l'organització del document.
+Les cinc converses de `conversations.jsonl` exemplifiquen dubtes que una persona podria tenir sense haver llegit la fitxa: reclamar un deute, entendre un dret de pastura, conèixer una llegenda, resoldre una discrepància de xifres o distingir dos tipus d'interès.
 
-`conversations.jsonl` conté només `messages`. `provenance.jsonl` relaciona cada mostra amb les fonts, els fets verificats, els drets i el motiu editorial. Totes les mostres tenen `exportable: false`.
+La procedència paral·lela és a `provenance.jsonl`. Cada exemple és intern i no exportable: els drets d'algunes fonts són pendents o no permeten redistribució.
+
+## Criteri
+
+- La pregunta inicial ha de tenir sentit sense veure la fitxa ni conèixer-ne el títol.
+- La resposta comença resolent el dubte i s'entén per si sola.
+- El seguiment continua el fil, demana una cosa nova i no repeteix la resposta.
+- No s'afegeixen fets, causes ni context que la font no sosté.
+- Els termes locals s'expliquen en llenguatge normal.
+- Llegit en veu alta, el diàleg ha de sonar com una consulta real, no com un examen.
+- Cap conversa no necessita tenir un nombre fix de torns.
+
+Abans d'escriure més registres, cal revisar aquestes mostres i ajustar el criteri amb l'usuari.

@@ -1,3 +1,3 @@
-# Treball intern de Maia Knowledge
+# Materials de treball
 
-Aquesta carpeta contindrà inventari de cobertura, evidències i decisions editorials necessàries per auditar els candidats. No forma part del fine-tuning. Cada afirmació de les converses ha d'apuntar a una font concreta del corpus.
+Buit durant el calibratge. Les tandes futures hi guardaran cobertura i notes de procedència. Les preguntes internes, IDs i notes no s'incorporen als missatges d'entrenament.

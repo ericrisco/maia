@@ -1,3 +1,3 @@
 # Exports de Maia Language
 
-Buit fins que hi hagi fragments humans revisats, elegibles i separats per peça als splits.
+Buit de propòsit. No crear splits fins que fragments, drets i risc de filtració estiguin revisats.

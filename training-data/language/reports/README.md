@@ -1,3 +1,3 @@
 # Informes de Maia Language
 
-Aquí es documentaran les peces revisades, utilitzades o excloses i els motius de cada decisió.
+Buit durant el calibratge. Els informes futurs comptaran peces i fragments inclosos i exclosos, amb els motius.

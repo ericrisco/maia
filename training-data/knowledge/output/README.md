@@ -1,3 +1,3 @@
-# Exports de Maia Knowledge
+# Exports
 
-Buit fins que les converses passin revisió de contingut i drets. Els fitxers d'export només contindran línies JSON amb `messages`.
+Buit de propòsit. No crear train, validation o test fins que els registres, els drets i la deduplicació estiguin aprovats.
