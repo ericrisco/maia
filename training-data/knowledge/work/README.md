@@ -1,3 +1,5 @@
 # Treball intern de Knowledge
 
-L’inventari i la cobertura es regeneraran després d’aprovar el criteri editorial. Aquesta carpeta no conté ara dades de cobertura actives.
+Conté l’inventari regenerable del corpus: documents, unitats d’evidència, relacions, fonts, problemes de procedència i cobertura per fitxa.
+
+Regenera’l amb [`scripts/build_inventory.py`](../scripts/build_inventory.py). La cobertura només compta converses de `review/`; les mostres editorials no compten com a cobertura.

@@ -1,0 +1,9 @@
+# Datasets, splits and intermediate Language selections are generated locally.
+knowledge/output/train.jsonl
+knowledge/output/validation.jsonl
+knowledge/output/test.jsonl
+language/output/train.jsonl
+language/output/validation.jsonl
+language/output/test.jsonl
+language/work/intermediate.jsonl
+language/reports/summary.json
