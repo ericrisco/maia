@@ -15,3 +15,7 @@
 {"evidence_id":"temes/costums/danses/el-ball-de-lossa-dencamp.md#block-00043","reason":"rhetorical_source_introduction_not_standalone_domain_knowledge"}
 {"evidence_id":"temes/costums/danses/el-ball-de-lossa-dencamp.md#block-00071","reason":"internal_corpus_audit_history_not_Andorran_domain_knowledge"}
 {"evidence_id":"temes/costums/danses/el-ball-de-lossa-dencamp.md#block-00091","reason":"navigation_link_to_dance_index_without_standalone_domain_claim"}
+{"evidence_id":"temes/costums/danses/el-ball-del-cerda.md#metadata-description","reason":"duplicate_metadata_summary_of_time_and_place_already_covered_by_review_candidates"}
+{"evidence_id":"temes/costums/danses/el-ball-del-cerda.md#block-00006","reason":"internal_gap_marker_not_standalone_Andorran_domain_knowledge"}
+{"evidence_id":"temes/costums/danses/el-ball-del-cerda.md#block-00012","reason":"internal_corpus_audit_history_not_Andorran_domain_knowledge"}
+{"evidence_id":"temes/costums/danses/el-ball-del-cerda.md#block-00023","reason":"navigation_link_to_parish_page_without_a_standalone_claim_beyond_covered_location"}
