@@ -22,3 +22,8 @@
 {"evidence_id":"temes/costums/danses/el-contrapas.md#metadata-description","reason":"duplicate_metadata_summary_of_13_parts_duration_annual_schedule_and_figure_pattern_already_covered_by_review_candidates"}
 {"evidence_id":"temes/costums/danses/el-contrapas.md#block-00019","reason":"internal_corpus_audit_history_not_Andorran_domain_knowledge"}
 {"evidence_id":"temes/costums/danses/el-contrapas.md#block-00032","reason":"navigation_link_to_dance_index_without_standalone_domain_claim"}
+{"evidence_id":"temes/costums/danses/la-marratxa.md#metadata-description","reason":"duplicate_metadata_summary_of_name_and_1278_tradition_already_covered_by_review_candidates"}
+{"evidence_id":"temes/costums/danses/la-marratxa.md#block-00010","reason":"editorial_gap_marker_already_expressed_and_qualified_in_date_conflict_candidates"}
+{"evidence_id":"temes/costums/danses/la-marratxa.md#block-00014","reason":"editorial_status_summary_of_name_roles_and_choreography_details_covered_by_adjacent_candidates"}
+{"evidence_id":"temes/costums/danses/la-marratxa.md#block-00018","reason":"editorial_introduction_to_choreography_table; named_people_and_dates_are_covered_by_review_candidate"}
+{"evidence_id":"temes/costums/danses/la-marratxa.md#block-00027","reason":"internal_gap_marker_not_standalone_Andorran_domain_knowledge"}
