@@ -23,3 +23,6 @@
 {"evidence_id":"temes/costums/danses/el-ball-del-cerda.md#block-00006","reason":"internal_gap_or_audit_note_not_domain_knowledge"}
 {"evidence_id":"temes/costums/danses/el-ball-del-cerda.md#block-00010","reason":"internal_gap_or_audit_note_not_domain_knowledge"}
 {"evidence_id":"temes/costums/danses/el-ball-del-cerda.md#block-00012","reason":"internal_gap_or_audit_note_not_domain_knowledge"}
+{"evidence_id":"temes/costums/danses/el-contrapas.md#metadata-description","reason":"repeated_metadata_summary_not_standalone_training_content"}
+{"evidence_id":"temes/costums/danses/el-contrapas.md#block-00019","reason":"internal_audit_note_not_domain_knowledge"}
+{"evidence_id":"temes/costums/danses/el-contrapas.md#block-00028","reason":"source_acquisition_note_not_domain_knowledge"}
