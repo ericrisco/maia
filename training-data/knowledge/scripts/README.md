@@ -1,3 +1,3 @@
 # Scripts
 
-Els scripts s'afegiran quan un flux manual verificat justifiqui automatitzar-lo. Qualsevol generador ha de mantenir les fonts traçables i bloquejar l'export de candidats pendents.
+Els scripts de validació i exportació s'afegiran quan el format editorial estigui acordat.

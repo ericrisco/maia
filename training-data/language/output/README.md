@@ -1,3 +1,3 @@
-# Output buit
+# Output
 
-No hi ha mostres aprovades per exportar encara. No copiïs aquí fragments fins que l'origen, la transcripció i els drets estiguin revisats.
+Buit expressament. Només contindrà material humà elegible, amb transcripció i drets revisats.

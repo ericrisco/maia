@@ -1,5 +1,5 @@
 # Maia Language
 
-Objectiu separat de Knowledge: conservar català andorrà contemporani produït per persones, a partir de `docs/parla/`. No es creen respostes sintètiques per imitar parlants ni es barregen fets de Knowledge amb les mostres de llengua.
+Dataset separat per preservar formes de català andorrà contemporani produïdes per persones. La font és `docs/parla/`, segons els criteris d'elegibilitat i drets de `docs/CONTRACT.md`.
 
-Abans d'incloure un fragment, cal comprovar autoria/origen, qualitat de transcripció, consentiment o drets aplicables, i evitar dades personals no necessàries. `output/` queda buit fins que hi hagi material elegible aprovat.
+No redactis respostes noves que imitin una persona andorrana. Conserva el text humà i registra la font, la transcripció, l'elegibilitat i els drets als fitxers de treball. L'output queda buit fins que aquests punts estiguin comprovats.

@@ -1,3 +1,3 @@
-# Reports
+# Informes
 
-Registra el material revisat, inclòs, exclòs i els motius. Agrupa splits per peça o conversa per evitar que fragments relacionats quedin repartits entre train i test.
+Aquí aniran els informes de peces inspeccionades, incloses, excloses i fragments utilitzats.

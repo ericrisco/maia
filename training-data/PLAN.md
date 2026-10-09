@@ -1,23 +1,14 @@
-# Pla: converses útils i naturals
+# Pla: converses que faria una persona
 
-## El problema que corregim
+## Problema observat
 
-Una pregunta com «què explica aquesta secció?» només té sentit per a qui ja ha vist una fitxa. Una resposta que acaba amb un fragment, una taula o una frase incompleta tampoc ajuda una persona. Aquestes formes converteixen el dataset en un examen del corpus.
+Les preguntes que es refereixen a «aquesta secció», «la fitxa» o «aquesta fila» només tenen sentit si l'usuari ja està llegint el corpus. Les respostes fragmentàries tampoc resolen el dubte. Això ensenya a contestar qüestionaris sobre documents, no a ajudar una persona.
 
-## Regla editorial
+## Principi editorial
 
-1. Troba una curiositat, una decisió pràctica o una confusió que una persona podria tenir sense conèixer el corpus.
-2. Escriu la pregunta abans de mirar el títol i els subtítols de la font. No esmentis fitxes, seccions, files, gràfics ni IDs.
-3. Contesta la pregunta de seguida i amb prou context perquè la resposta s'entengui per si sola.
-4. Afegeix un seguiment només quan una resposta faci néixer una pregunta nova i versemblant. No hi ha quota de torns.
-5. No inventis experiències personals per fer més simpàtica la pregunta. Un escenari pràctic breu és vàlid si canvia la resposta.
-6. Separa el fet documentat, la interpretació i la incertesa. No omplis buits amb intuïcions.
-7. Llegeix el diàleg sense la font. Si sembla un examen o sona forçat en veu alta, reescriu-lo o descarta'l.
-8. Comprova cada afirmació amb la font i registra procedència i drets fora dels missatges.
+Escriu cada conversa com si comencés en un xat nou. Parteix d'una curiositat, una confusió o una necessitat real. La persona no coneix els títols ni l'estructura interna de Maia.
 
-## Converses multitor
-
-Cada registre del dataset serà una conversa multitor. El seguiment ha de sortir d'una resposta anterior i demanar una cosa nova que una persona preguntaria de debò. No s'afegeixen preguntes de farciment per arribar a un nombre fix de torns: si el fil no es pot continuar amb naturalitat, la conversa es replanteja amb un altre angle o no s'aprova.
+La primera resposta ha de resoldre el dubte principal. El seguiment ha de néixer del que s'acaba de dir i demanar una cosa nova. No hi ha una llargada fixa: cada missatge ha de tenir una funció. Una conversa amb seguiments artificials no s'aprova.
 
 ## Estructura
 
@@ -28,27 +19,43 @@ training-data/
 ├── knowledge/
 │   ├── README.md
 │   ├── review/
-│   │   ├── EXEMPLES.md              # criteri editorial i mostres
-│   │   └── conversations.jsonl      # candidats, multitor i revisables
-│   ├── work/                        # cobertura i procedència
-│   ├── reports/                     # qualitat i progrés
-│   ├── scripts/                     # validació/generació, quan calgui
-│   └── output/                      # aprovades, només al final
+│   │   ├── CRITERIS.md
+│   │   ├── EXEMPLES.md
+│   │   ├── conversations.jsonl
+│   │   └── provenance.jsonl
+│   ├── work/coverage.csv
+│   ├── reports/
+│   ├── scripts/
+│   └── output/                 # buit fins a l'aprovació
 └── language/
     ├── README.md
-    ├── work/                        # fonts, elegibilitat i splits
+    ├── work/
     ├── reports/
     ├── scripts/
-    └── output/                      # mostres humanes elegibles
+    └── output/                 # només text humà elegible
 ```
 
-## Fases
+## Procés per a cada conversa
 
-1. Revisar les mostres de `knowledge/review/EXEMPLES.md` i `knowledge/review/conversations.jsonl`.
-2. Inventariar cada document de `docs/temes/`; treballar tema a tema i registrar cada conversa i la seva procedència.
-3. Fer un commit i push a `main` per cada conversa nova, després de validar-la.
-4. Revisar exactitud, naturalitat, cobertura, duplicats i drets abans d'aprovar registres.
-5. Treballar Language per separat. Incloure només veu humana contemporània i transcripcions fiables, amb drets revisats.
-6. Crear exports i splits quan cada registre estigui aprovat i el conjunt tingui cobertura suficient.
+1. Tria una idea útil d'una o més fitxes i comprova el context complet.
+2. Escriu la pregunta sense copiar el títol, els subtítols o les etiquetes de la font.
+3. Respon de manera directa, completa i natural. No afegeixis dades per fer la resposta més lluïda.
+4. Continua el fil només si algú, després d'aquesta resposta, preguntaria de debò una altra cosa.
+5. Revisa cada afirmació contra les fonts i registra els fitxers d'origen i l'estat dels drets a `provenance.jsonl`.
+6. Llegeix només la conversa. Si sona a examen o no s'entén sense la font, reescriu-la.
+7. Marca cobertura i revisió. No exportis candidats pendents.
 
-`output/` comença buit expressament. Les mostres i els candidats no compten com a dades aprovades.
+## Etapes
+
+1. Acordar el criteri editorial amb les mostres de `knowledge/review/`.
+2. Revisar les converses antigues contra aquest criteri; descartar les que sonin a preguntes de corpus.
+3. Cobrir `docs/temes/` tema a tema, amb varietat d'intencions i converses que necessitin més d'una font quan sigui natural.
+4. Revisar exactitud, naturalitat, incertesa, duplicats, cobertura i drets.
+5. Treballar `language/` de manera separada. Usar només fragments humans elegibles segons `docs/CONTRACT.md`.
+6. Preparar exports i splits després de l'aprovació, agrupant per tema o font per evitar filtracions entre particions.
+
+Cada pas funcional es revisa i valida abans d'un commit petit. Es fa push abans de començar el pas següent. No s'inclouen dades personals ni fitxers de `docs/` en aquests commits.
+
+## Regla d'exportació
+
+Els missatges exportats només contenen la conversa. IDs, rutes, notes editorials, evidència, llicències i estats de revisió queden als fitxers de treball. Cap registre s'exporta amb drets pendents o contingut no revisat.

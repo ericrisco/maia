@@ -1,12 +1,5 @@
 # Maia Knowledge
 
-Font: `docs/temes/`. El dataset ensenya coneixement sobre Andorra mitjançant converses que responen dubtes humans. No converteix cada paràgraf o dada en una pregunta.
+Conjunt de converses en català per respondre sobre Andorra amb informació de `docs/temes/`. Les preguntes han de ser versemblants sense haver llegit les fitxes. Les respostes han de distingir els fets documentats, les llegendes, les interpretacions i allò que no se sap.
 
-- `review/`: exemples i candidats multitor, sempre no exportables mentre no estiguin aprovats.
-- `work/`: inventari, cobertura i procedència; mai no s'injecta als missatges.
-- `reports/`: resultats de revisió i cobertura.
-- `output/`: només converses aprovades i amb drets d'ús revisats.
-
-La cobertura completa de `docs/temes/` és a `work/coverage.csv`.
-
-Format previst d'una línia: `{"messages":[{"role":"user","content":"…"},{"role":"assistant","content":"…"}]}`. Un diàleg pot tenir més torns. Cap metadada editorial no forma part de `messages`.
+Els candidats són a `review/`. La procedència i l'estat dels drets són a `review/provenance.jsonl`. `output/` no s'omple fins que els registres estiguin aprovats.
