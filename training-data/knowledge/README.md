@@ -5,7 +5,7 @@ parteixen d'una necessitat humana, i les seves afirmacions han de quedar
 recolzades per fonts del corpus.
 
 - `examples/`: cinc mostres internes de calibratge, encara no aprovades.
-- `review/`: buit; reservat per a candidats nous que passin la porta editorial.
+- `review/`: candidats pendents de revisió editorial i de drets.
 - `work/`: buit; reservat per a cobertura, evidència i decisions d'exclusió.
 - `reports/`: buit; reservat per a informes generats a partir de dades revisades.
 - `output/`: buit; no és un dataset d'entrenament encara.
