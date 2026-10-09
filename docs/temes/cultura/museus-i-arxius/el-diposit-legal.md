@@ -195,13 +195,22 @@ obligats**.
   | **Lleu** | **No constituir el dipòsit**; **distribuir sense el número**; **no anul·lar-lo si l'obra no s'edita**; **lliurar fora de termini** | **300 a 3.000 €** |
   | **Greu** | **Manipular el número amb dol**; **presentar dades falses per obtenir-lo**; **obstruir la inspecció de la Biblioteca Nacional**; **reincidir en faltes lleus** | **3.001 a 6.000 €** |
 
-  **Tres coses que la taula no diu.** **Qui instrueix i sanciona és la
-  Biblioteca Nacional d'Andorra** (article 32.1) —**no un ministeri**: **la
-  institució que rep els exemplars és la que multa qui no els envia.**
-  **Pagar la multa no eximeix de dipositar** (article 31.3). I **les
-  infraccions prescriuen a l'any les lleus i als tres anys les greus**
-  (article 33), amb la regla que **la interrupció decau si l'execució s'atura
-  més d'un any per causa no imputable al sancionat.**
+  **La tramitació i la decisió de sancionar són funcions diferents.** La
+  **Biblioteca Nacional d'Andorra tramita l'expedient** (article 32.1), però
+  **no és qui el resol en tots els casos**: per les infraccions lleus ho fa la
+  direcció del departament responsable de patrimoni cultural, i per les greus,
+  la persona titular del ministeri competent (article 32.4). El procediment
+  s'ha de resoldre i notificar en un màxim de **sis mesos** des que es notifica
+  l'acord d'inici a la persona o entitat investigada; si no, **caduca i s'arxiva**,
+  i no se'n pot iniciar un altre per la mateixa infracció (articles 32.5 i 32.6).
+  **Pagar la multa no eximeix de constituir el dipòsit** (article 31.3).
+
+  **Les infraccions lleus prescriuen al cap d'un any i les greus, al cap de tres**
+  (article 33.1). Les sancions també prescriuen al cap d'un any o de tres,
+  segons la gravetat, a comptar des que la resolució és ferma. L'inici de
+  l'execució n'interromp el termini; si l'execució s'atura més d'un any per una
+  causa no imputable a la persona sancionada, la interrupció deixa de tenir
+  efecte i el termini torna a comptar des de l'última actuació (article 33.2).
 
   **La graduació té cinc criteris** (article 31.2): **la gravetat de
   l'alteració**, **els perjudicis materials o econòmics**, **la transcendència
