@@ -21,6 +21,19 @@ Les mostres de Knowledge d'aquesta carpeta són exemples de disseny. No són dad
 
 No hi ha un nombre obligatori de torns. Les mostres inicials són multitorn per revisar la continuïtat. En el conjunt futur, una resposta d'un sol torn és millor que un seguiment forçat.
 
+## Fase zero: calibrar abans de produir registres
+
+No convertir seccions ni unitats d'evidència directament en preguntes. Per a cada mostra:
+
+1. **Identifica el dubte humà** que resol el fet: què voldria aclarir algú, amb quines paraules ho demanaria i quin context mínim necessita.
+2. **Escriu la pregunta sense mirar el títol de la fitxa.** Si cal dir «la secció», «la fila» o «el gràfic», comprova si es pot expressar el dubte real en lloc de preguntar pel document.
+3. **Redacta una resposta completa i autònoma.** Evita respostes com «apel·lació al Consell General» o «tres coses que el corpus registra»: inclou qui fa què i en quines circumstàncies.
+4. **Afegeix seguiments només si tenen una motivació conversacional.** Cada torn ha d'obtenir una informació nova i respondre al fil anterior; no hi ha una quota de torns.
+5. **Llegeix només la conversa.** Rebutja-la si sembla un examen, una ordre de lectura, una consulta de base de dades o una seqüència de preguntes enganxades.
+6. **Verifica afirmació per afirmació** contra la font i desa la procedència separadament. Indica quan parles d'una llegenda, una interpretació, una contradicció o un buit documental.
+
+Les cinc converses de `knowledge/examples/` són mostres de calibratge, no registres del dataset. Després de revisar-les, es pot ampliar el paquet d'exemples abans de reprendre la producció per temes. Cap mostra passa a `output/` automàticament.
+
 ### Abans i després
 
 **No:** «Què explica la secció “El relat” de la fitxa “La troballa de Meritxell”?»
@@ -30,6 +43,10 @@ No hi ha un nombre obligatori de torns. Les mostres inicials són multitorn per 
 **No:** «Què indica aquesta fila del gràfic?»
 
 **Sí:** «Quina llengua tenia més parlants segons les dades del 2014?» — només si el gràfic i les unitats estan explicats prou bé per respondre sense endevinar.
+
+**No:** «Què explica la secció “I aquí hi ha el document que ho resol”?» — la pregunta depèn de l'estructura interna de la fitxa.
+
+**Sí:** «Per què les fonts donaven dos tipus d'interès diferents?» — la resposta ha de distingir els censals de la resta de contractes i explicar què diu el decret de 1895.
 
 ## Estructura
 
