@@ -1,3 +1,3 @@
-# Scripts
+# Eines de Maia Language
 
-Els scripts de filtratge, divisió i validació s'afegiran quan el flux de Language estigui definit.
+Encara no hi ha scripts d'extracció. El flux s'ha de dissenyar després de revisar l'elegibilitat i la qualitat de les transcripcions.

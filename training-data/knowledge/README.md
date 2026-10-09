@@ -1,5 +1,9 @@
 # Maia Knowledge
 
-Conjunt de converses en català per respondre sobre Andorra amb informació de `docs/temes/`. Les preguntes han de ser versemblants sense haver llegit les fitxes. Les respostes han de distingir els fets documentats, les llegendes, les interpretacions i allò que no se sap.
+Conjunt de converses sobre Andorra basades en `docs/temes/`. Les mostres i els candidats passen per una revisió editorial i de procedència abans de poder entrar en un export.
 
-Els candidats són a `review/`. La procedència i l'estat dels drets són a `review/provenance.jsonl`. `output/` no s'omple fins que els registres estiguin aprovats.
+- `examples/`: cinc mostres de calibratge, no entrenables.
+- `review/`: lloc per als candidats nous.
+- `work/`: inventari i cobertura interna.
+- `reports/`: resultats de revisió.
+- `output/`: exports aprovats; encara buit.

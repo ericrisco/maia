@@ -1,3 +1,3 @@
-# Output
+# Exports de Maia Knowledge
 
-Buit expressament. Només contindrà converses aprovades, amb drets revisats i sense metadata interna.
+Encara buit: les mostres de calibratge no són dades aprovades per entrenar. Els fitxers `train`, `validation` i `test` només es crearan després de revisar qualitat, procedència, drets i estratègia de partició.

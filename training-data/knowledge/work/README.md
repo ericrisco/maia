@@ -1,3 +1,3 @@
-# Treball intern
+# Treball intern de Maia Knowledge
 
-`coverage.csv` llista les fitxes de `docs/temes/` i l'estat de revisió. Una fitxa només es marca coberta quan els candidats associats s'han revisat.
+Aquí viuran l'inventari de fonts i l'estat de cobertura per document i tema. No són dades d'entrenament. Cada fila ha de poder-se contrastar amb el corpus i els candidats revisats.

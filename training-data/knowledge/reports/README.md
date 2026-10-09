@@ -1,3 +1,3 @@
-# Informes
+# Informes de Maia Knowledge
 
-Aquí aniran els informes de cobertura, qualitat, duplicats i drets. Encara no hi ha cap registre aprovat.
+Aquesta carpeta recollirà els informes de cobertura, naturalitat, exactitud, duplicats i drets quan comenci la revisió temàtica. Encara no hi ha cap cobertura exhaustiva.

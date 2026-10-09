@@ -1,3 +1,3 @@
-# Scripts
+# Eines de Maia Knowledge
 
-Els scripts de validació i exportació s'afegiran quan el format editorial estigui acordat.
+Els scripts de validació i generació s'afegiran quan el flux editorial quedi acordat. Les mostres actuals es poden validar com a JSONL amb eines estàndard; no hi ha cap export automàtic.

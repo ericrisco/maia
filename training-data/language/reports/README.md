@@ -1,3 +1,3 @@
-# Informes
+# Informes de Maia Language
 
-Aquí aniran els informes de peces inspeccionades, incloses, excloses i fragments utilitzats.
+Aquesta carpeta recollirà les peces inspeccionades, les elegibles, les excloses i els fragments utilitzats o descartats.

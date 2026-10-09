@@ -1,10 +1,10 @@
 # Maia Training Data
 
-Espai de treball per preparar dos datasets independents a partir de `docs/`.
+Aquest espai prepara dos conjunts separats per a Maia:
 
-- `knowledge/` ensenya a respondre preguntes sobre Andorra amb informació documentada.
-- `language/` preserva català andorrà contemporani produït per parlants humans.
+- **Knowledge** ensenya a respondre preguntes sobre Andorra amb fets documentats al corpus.
+- **Language** preserva català andorrà contemporani produït per parlants humans.
 
-Les converses de `knowledge/review/` són candidats editorials. No són un dataset d'entrenament aprovat. `output/` queda buit fins que hi hagi prou registres revisats, drets comprovats i una política de divisió definida.
+Les mostres de calibratge viuen a `knowledge/examples/`. No són exports d'entrenament. Els exports només es crearan després de revisar la qualitat, la procedència i els drets de cada registre.
 
-Comença per [`PLAN.md`](PLAN.md) i aplica els criteris de [`knowledge/review/CRITERIS.md`](knowledge/review/CRITERIS.md). La procedència i els drets es documenten fora dels missatges que veurà el model.
+Consulta [`PLAN.md`](PLAN.md) per al procés i els criteris editorials.

@@ -1,61 +1,44 @@
-# Pla: converses que faria una persona
+# Pla de Maia Training Data
 
-## Problema observat
+## Objectiu
 
-Les preguntes que es refereixen a «aquesta secció», «la fitxa» o «aquesta fila» només tenen sentit si l'usuari ja està llegint el corpus. Les respostes fragmentàries tampoc resolen el dubte. Això ensenya a contestar qüestionaris sobre documents, no a ajudar una persona.
+Crear converses que ensenyin Maia a ajudar una persona amb dubtes reals sobre Andorra. Les preguntes han de sonar com una cosa que algú preguntaria en una conversa, no com una instrucció per inspeccionar el corpus.
 
-## Principi editorial
+## Regles editorials
 
-Escriu cada conversa com si comencés en un xat nou. Parteix d'una curiositat, una confusió o una necessitat real. La persona no coneix els títols ni l'estructura interna de Maia.
+1. **Comença per la necessitat de la persona.** Una pregunta ha de tenir sentit sense haver llegit una fitxa. Pot expressar curiositat, confusió o una comparació.
+2. **Respon el dubte abans d'afegir context.** Cada resposta ha de ser clara i completa per si sola.
+3. **Fes seguiments amb una funció.** El torn següent ha de néixer de la resposta i demanar una cosa nova. No afegeixis torns només per fer el diàleg més llarg.
+4. **Conserva el context.** No facis repetir a l'usuari dades que ja ha donat ni introdueixis referències ambigües com «això» si no queda clar a què es refereixen.
+5. **No inventis.** Cada dada ha de sortir del corpus. Separa què afirma una font, què no resol i què és una interpretació.
+6. **Escriu com una conversa.** Evita respostes de base de dades, fragments penjats, llistes de camps i fórmules repetides.
+7. **No parlis del corpus.** No preguntis què diu una secció, una fitxa, una fila o un gràfic, tret que la persona pregunti explícitament per una font o document que ha vist.
+8. **No cal que tots els registres siguin multitorn.** En aquesta mostra, tots ho són per calibrar la continuïtat. Més endavant, el diàleg pot acabar després d'un sol parell si el dubte queda resolt.
+9. **Mantén separats Knowledge i Language.** Les respostes de Knowledge es redacten a partir de `docs/temes/`; Language només pot utilitzar material humà elegible de `docs/parla/`.
 
-La primera resposta ha de resoldre el dubte principal. El seguiment ha de néixer del que s'acaba de dir i demanar una cosa nova. No hi ha una llargada fixa: cada missatge ha de tenir una funció. Una conversa amb seguiments artificials no s'aprova.
+## Flux de creació
+
+1. Tria una necessitat que una persona podria tenir sense conèixer l'estructura interna de Maia.
+2. Llegeix el document complet i els seus enllaços rellevants.
+3. Escriu la conversa i comprova cada afirmació contra la font.
+4. Llegeix només els missatges, en veu alta. Si sona a examen, si depèn de la fitxa o si el seguiment és forçat, reescriu-la o descarta-la.
+5. Registra la procedència i l'estat dels drets fora dels missatges.
+6. Mantén les mostres a `examples/`; no les tractis com a sortida entrenable.
+7. Amplia la cobertura per blocs temàtics només després que el criteri editorial quedi validat amb aquestes mostres.
 
 ## Estructura
 
-```text
-training-data/
-├── README.md
-├── PLAN.md
-├── knowledge/
-│   ├── README.md
-│   ├── review/
-│   │   ├── CRITERIS.md
-│   │   ├── EXEMPLES.md
-│   │   ├── conversations.jsonl
-│   │   └── provenance.jsonl
-│   ├── work/coverage.csv
-│   ├── reports/
-│   ├── scripts/
-│   └── output/                 # buit fins a l'aprovació
-└── language/
-    ├── README.md
-    ├── work/
-    ├── reports/
-    ├── scripts/
-    └── output/                 # només text humà elegible
-```
+- `knowledge/examples/`: mostres per calibrar preguntes, respostes i continuïtat.
+- `knowledge/review/`: candidats nous que encara necessiten revisió.
+- `knowledge/work/`: cobertura i dades internes de producció.
+- `knowledge/reports/`: resum de cobertura, qualitat i exclusions.
+- `knowledge/output/`: exports aprovats; buit en aquesta fase.
+- `language/`: flux separat per a parla humana contemporània.
 
-## Procés per a cada conversa
+## Fases
 
-1. Tria una idea útil d'una o més fitxes i comprova el context complet.
-2. Escriu la pregunta sense copiar el títol, els subtítols o les etiquetes de la font.
-3. Respon de manera directa, completa i natural. No afegeixis dades per fer la resposta més lluïda.
-4. Continua el fil només si algú, després d'aquesta resposta, preguntaria de debò una altra cosa.
-5. Revisa cada afirmació contra les fonts i registra els fitxers d'origen i l'estat dels drets a `provenance.jsonl`.
-6. Llegeix només la conversa. Si sona a examen o no s'entén sense la font, reescriu-la.
-7. Marca cobertura i revisió. No exportis candidats pendents.
-
-## Etapes
-
-1. Acordar el criteri editorial amb les mostres de `knowledge/review/`.
-2. Revisar les converses antigues contra aquest criteri; descartar les que sonin a preguntes de corpus.
-3. Cobrir `docs/temes/` tema a tema, amb varietat d'intencions i converses que necessitin més d'una font quan sigui natural.
-4. Revisar exactitud, naturalitat, incertesa, duplicats, cobertura i drets.
-5. Treballar `language/` de manera separada. Usar només fragments humans elegibles segons `docs/CONTRACT.md`.
-6. Preparar exports i splits després de l'aprovació, agrupant per tema o font per evitar filtracions entre particions.
-
-Cada pas funcional es revisa i valida abans d'un commit petit. Es fa push abans de començar el pas següent. No s'inclouen dades personals ni fitxers de `docs/` en aquests commits.
-
-## Regla d'exportació
-
-Els missatges exportats només contenen la conversa. IDs, rutes, notes editorials, evidència, llicències i estats de revisió queden als fitxers de treball. Cap registre s'exporta amb drets pendents o contingut no revisat.
+1. Revisar les cinc mostres i acordar el criteri.
+2. Crear nous registres de Knowledge per blocs temàtics.
+3. Revisar exactitud, naturalitat, seguiments, duplicats, cobertura i drets.
+4. Revisar Language de manera separada, segons `docs/CONTRACT.md`.
+5. Preparar exports i particions només quan hi hagi volum i aprovació suficients.

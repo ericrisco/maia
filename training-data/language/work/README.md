@@ -1,3 +1,3 @@
-# Treball intern
+# Treball intern de Maia Language
 
-Aquí es registraran les fonts de `docs/parla/`, l'elegibilitat lingüística, la qualitat de transcripció i els drets.
+Registra aquí l'elegibilitat de cada peça, la fiabilitat de la transcripció i els fragments inclosos o descartats. Consulta `docs/CONTRACT.md` abans de marcar una peça com a utilitzable.

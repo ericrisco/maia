@@ -1,5 +1,5 @@
 # Maia Language
 
-Dataset separat per preservar formes de català andorrà contemporani produïdes per persones. La font és `docs/parla/`, segons els criteris d'elegibilitat i drets de `docs/CONTRACT.md`.
+Flux separat per preservar el català andorrà contemporani produït per persones. Només s'hi incorporarà material de `docs/parla/` que compleixi els criteris d'origen, època, elegibilitat i fiabilitat de transcripció de `docs/CONTRACT.md`.
 
-No redactis respostes noves que imitin una persona andorrana. Conserva el text humà i registra la font, la transcripció, l'elegibilitat i els drets als fitxers de treball. L'output queda buit fins que aquests punts estiguin comprovats.
+Knowledge i Language no comparteixen missatges, criteris editorials ni procedència. Aquesta carpeta és només l'estructura inicial; no hi ha mostres de llengua aprovades.
