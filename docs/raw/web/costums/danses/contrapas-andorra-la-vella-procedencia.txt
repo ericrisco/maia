@@ -1,0 +1,26 @@
+Source provenance record
+Retrieved: 2026-10-09
+
+Factual source
+- Publisher: Comú d'Andorra la Vella
+- Page: "Esbart Dansaire"
+- URL: https://www.andorralavella.ad/?q=cultura/esbart-dansaire
+- Confirmed facts for internal verification: the Contrapàs is danced on the
+  first Sunday of August at Plaça del Poble; the Esbart dances first and then
+  residents and public officials join; the page reports participation by more
+  than 100 people.
+
+Reuse terms reviewed
+- The institutional legal notice is available at:
+  https://seu.andorralavella.ad/dynamicItemPublic/mostrarContingut/45
+- It states that some documents and graphic elements may have reuse limits for
+  intellectual-property reasons and says the site's contents belong to the
+  Comú or authorized third parties.
+- No open licence or general permission to redistribute the consulted Esbart
+  page was identified. The notice is on the Comú's e-government domain; whether
+  its terms apply to all content on andorralavella.ad has not been verified.
+- Treat as non-redistributable pending clarification. Facts are paraphrased
+  for internal candidate review; no page text is copied into the dataset.
+
+Source used to independently verify details missing a specific citation in
+docs/temes/costums/danses/el-contrapas.md. Not an authorization to export.
