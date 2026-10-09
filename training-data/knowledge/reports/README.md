@@ -1,3 +1,3 @@
 # Informes de Knowledge
 
-Els informes futurs resumiran cobertura, converses revisades, exclusions, qualitat i estat dels drets. Els exemples de calibratge no compten com a cobertura ni com a registres aprovats.
+`inventory.json` resumeix documents, unitats, taules, links i mancances de procedència. `coverage.csv` dona l'estat inicial de cada document i s'actualitzarà a mesura que es revisin evidències. Els exemples de calibratge no compten com a cobertura ni com a registres aprovats.

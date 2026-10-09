@@ -1,3 +1,3 @@
 # Eines de Knowledge
 
-Encara no hi ha scripts. El lector, la cobertura i els validators es definiran després d'aprovar el patró de conversa; no automatitzarem la generació de preguntes abans d'haver calibrat la qualitat.
+`build_inventory.py` regenera el ledger d'evidències i el registre de cobertura de totes les fitxes. No genera preguntes automàticament: la redacció humana es fa contra una evidència concreta i segueix `../review/EXEMPLES.md`.

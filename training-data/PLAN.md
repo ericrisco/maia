@@ -1,8 +1,8 @@
 # Pla de Maia Training Data
 
-## Objectiu d'aquesta etapa
+## Objectiu complet
 
-Reiniciar la preparació de dades amb una regla clara: **cada conversa comença amb una necessitat humana, no amb l'estructura d'una fitxa**. Ara preparem l'estructura i un grup petit d'exemples de calibratge. Després revisarem el patró i afegirem registres en lots petits.
+Preparar dos datasets exhaustius i independents a partir del corpus actual de Maia. **Knowledge** ha de cobrir tot el coneixement útil de `docs/temes/`; **Language** ha d'auditar tot el material de `docs/parla/` i conservar només parla humana elegible. Una pregunta natural comença amb una necessitat de persona, mai amb l'estructura d'una fitxa.
 
 Les dades finals tindran dos conjunts independents:
 
@@ -40,6 +40,8 @@ training-data/
 6. **Llegeix només els missatges, en veu alta.** Si sona a examen, encàrrec escolar, visita guiada per la fitxa o qüestionari de dades, reescriu-ho.
 7. **Verifica cada afirmació i registra la procedència a part.** Una pregunta natural no compensa una resposta sense suport o uns drets pendents.
 
+La guia vinculant de redacció i revisió és [`knowledge/review/EXEMPLES.md`](knowledge/review/EXEMPLES.md). La línia pública de `knowledge/review/conversations.jsonl` conté només `{"messages":[...]}`; `provenance.jsonl` manté la traça interna alineada per línia, incloent-hi evidències, motiu humà de la consulta, seguiment, estat de revisió i drets.
+
 ### Regla multitorn
 
 Una conversa de Knowledge que proposem per a revisió té almenys dues parelles de pregunta i resposta. El segon torn ha de ser un seguiment versemblant, no una variació de la primera pregunta ni una dada afegida només per arribar al mínim. Si no hi ha cap continuació honesta, no forcem la conversa: anotem la unitat a cobertura i la deixem fora dels candidats multitorn.
@@ -70,18 +72,26 @@ Un sol criteri fallit vol dir reescriure o descartar. No s'augmenta el volum per
 
 ## Cobertura i drets
 
-Quan comenci la producció, cada unitat útil de `docs/temes/` acabarà amb una decisió traçable: coberta per una conversa, reservada per a retrieval, o exclosa amb un motiu. No confondre cobertura d'un document amb cobertura de cada afirmació útil.
+S'ha d'inventariar tot `docs/temes/`, incloent-hi cada fitxa, secció, paràgraf, fila de taula, element de llista, cita útil, relació i límit explícit. Cada unitat de coneixement útil acabarà amb una decisió traçable: representada per una o més converses, reservada per a retrieval (per exemple, informació volàtil) o exclosa amb un motiu concret. La cobertura és per unitat, no per document: una conversa sobre una fitxa no la marca sencera com a coberta. Els índexs i les remissions s'utilitzen per orientar la lectura, no es transformen en preguntes artificials.
 
 Abans que una font entri en cap export, registrar-ne l'autoria, llicència i condicions d'ús. Si la reutilització o l'ús en entrenament no és clar, conservar el registre com a no exportable fins a resoldre-ho.
 
 ## Maia Language
 
-Language conserva fragments humans autèntics. No es crea una pregunta fictícia per convertir un monòleg en diàleg, ni es reescriu la resposta perquè sembli català andorrà. Es revisen parlant, llengua, qualitat de transcripció, drets i separació per peça o parlant.
+Language conserva fragments humans autèntics. Cal auditar cada peça de `docs/parla/` i registrar si és elegible, exclosa o pendent, amb motiu. No es crea una pregunta fictícia per convertir un monòleg en diàleg, ni es reescriu la resposta perquè sembli català andorrà. Només s'extreuen parelles explícites d'entrevistador i parlant quan es poden atribuir i transcriure amb prou fiabilitat. Es revisen parlant, llengua, `apte_llengua`, incertesa de transcripció, drets i separació per peça o parlant. Es guarda el text fontal i els spans per demostrar que les respostes no s'han generat ni reescrit.
 
 ## Exports
 
 Els fitxers de conversa d'exportació contindran només missatges `user` i `assistant`. La procedència i les decisions editorials aniran en fitxers separats. `knowledge/output/` i `language/output/` es mantenen buits fins que hi hagi converses aprovades, drets resolts, deduplicació, validació i splits sense filtració entre conjunts.
 
-## Següent pas
+## Ordre de treball i definició d'acabament
 
-Revisar aquests exemples de calibratge amb el lector. Un cop acceptat el patró, treballar tema a tema, en lots petits, i no donar per bona cap conversa només perquè sigui multitorn.
+1. Reconstituir l'inventari complet de Knowledge i l'auditoria d'elegibilitat de Language.
+2. Revisar els exemples de calibratge amb la guia. Rebutjar els registres antics que sonin a preguntes sobre seccions o fragments; només es recuperen si es verifiquen i es redacten de nou.
+3. Treballar fitxa a fitxa i peça a peça. Cada nova conversa de Knowledge es revisa, es valida amb evidència i procedència, i rep el seu propi commit i push a `main` abans de començar la següent.
+4. Mantenir registres d'exclusió i cobertura que permetin demostrar què s'ha fet amb cada unitat i cada peça.
+5. Resoldre drets i deduplicar abans de fer splits. Knowledge s'agrupa per tema/font quan cal evitar filtració; Language s'agrupa com a mínim per peça i, quan es coneix, per parlant.
+6. Crear `train.jsonl`, `validation.jsonl` i `test.jsonl` per separat només amb registres aprovats i fonts aptes per a l'ús. Els conjunts no comparteixen conversa, font contigua ni grup de parlant.
+7. Executar els validators i publicar reports de volum, drets, cobertura, exclusions, duplicats i fuites.
+
+El projecte només s'acaba quan totes les unitats útils de Knowledge i totes les peces de Language tenen una decisió verificable; els candidats exportats passen qualitat i drets; els splits i els reports coincideixen amb les dades reals. No s'inventa volum per arribar a una xifra. No s'entrenen als pesos fets volàtils que s'han de recuperar actualitzats.
