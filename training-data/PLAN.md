@@ -4,63 +4,70 @@
 
 Preparar dos datasets independents a partir de `docs/`:
 
-- **Maia Knowledge**: converses que ensenyen coneixement documentat sobre Andorra.
-- **Maia Language**: fragments humans de català andorrà contemporani, preservats des de `docs/parla/`.
+- **Maia Knowledge** ensenya a respondre preguntes útils sobre Andorra amb fets documentats a `docs/temes/`.
+- **Maia Language** conserva fragments de català andorrà contemporani produïts per persones a `docs/parla/`.
 
-Les respostes redactades per Knowledge no són mostra de llengua autèntica. Language no s'amplia amb respostes inventades.
+Knowledge conté respostes redactades i no és una mostra de parla autèntica. Language no s'amplia amb respostes inventades. Els missatges visibles per al model no inclouen IDs, rutes ni camps interns de procedència.
 
-## Punt de reinici de Knowledge
+## Estructura
 
-Les converses de `knowledge/archive/rejected-v1/` es conserven com a historial, però queden rebutjades: no són candidates, no compten per cobertura i no poden entrar als exports. La cua nova és `knowledge/review/conversations.jsonl`, amb procedència paral·lela a `knowledge/review/provenance.jsonl`.
+```text
+training-data/
+├── PLAN.md
+├── README.md
+├── knowledge/
+│   ├── examples/       # Mostres d'estil, mai exportables
+│   ├── review/         # Converses noves pendents de revisió humana
+│   ├── archive/        # Esborranys rebutjats, fora de la cobertura
+│   ├── work/           # Inventari, evidències i cobertura auditables
+│   ├── reports/        # Volum, errors i estat de cobertura
+│   ├── scripts/        # Eines de generació i control
+│   └── output/         # Train/validation/test només després d'aprovació
+└── language/
+    ├── review/         # Selecció i decisions editorials
+    ├── work/           # Fragments i selecció de treball
+    ├── reports/
+    └── output/
+```
 
-Els exemples de `knowledge/examples/` ensenyen l'estàndard editorial. Són mostres, no dades aprovades ni cobertura. No s'exporten.
+## Flux de Knowledge
 
-## Com escriure una conversa
+1. **Entendre una font abans de convertir-la en conversa.** Llegir la fitxa sencera i anotar afirmacions, matisos, contradiccions i buits. No convertir cada títol, fila o paràgraf en una pregunta.
+2. **Triar un dubte que algú tindria.** Pensar en una situació normal: preparar una visita, aclarir un terme que ha sentit, entendre una norma antiga, resoldre una contradicció o completar una conversa anterior.
+3. **Escriure la primera pregunta sense dependència del corpus.** Ha d'incloure el context mínim perquè s'entengui sense haver obert una fitxa. No dir «la secció», «aquesta fila», «el gràfic» ni copiar el títol de l'article.
+4. **Respondre com una persona experta i útil.** Donar la resposta principal primer; explicar els noms locals; afegir només el context que ajudi a entendre-la. Distingir fets, afirmacions atribuïdes a una font i interpretacions.
+5. **Continuar només si la conversa ho demana.** El seguiment ha de néixer de la resposta anterior i resoldre una curiositat plausible. No cal forçar un diàleg: un torn pot ser suficient; sovint en basten dos o tres. No hi ha quota de torns.
+6. **Mantenir els límits del corpus.** Si falten dades o les fonts discrepen, dir-ho amb claredat. No inventar causes, detalls ni motivacions per fer la resposta més rodona.
+7. **Anotar la procedència a part.** Cada registre de revisió porta evidències, fonts, drets i una empremta dels missatges. Aquests camps serveixen per revisar, no apareixen a la conversa d'entrenament.
+8. **Revisar llegint només el diàleg.** Llegir en veu alta les preguntes i respostes sense metadades. Si sona com un examen o com un resum d'una fitxa, reescriure'l.
 
-1. Tria una afirmació o un petit grup d'afirmacions que una persona voldria entendre.
-2. Imagina una situació recognoscible: ha sentit un terme, prepara una visita, llegeix una notícia o intenta entendre una regla.
-3. Escriu la primera pregunta amb prou context perquè s'entengui sense haver vist Maia.
-4. Respon directament. Explica el terme quan calgui i marca si és una tradició, una interpretació d'una font o una regla històrica.
-5. Fes seguiments només quan la resposta desperti una pregunta natural. Cada torn nou ha d'afegir una peça: quan, qui, com funciona, quina excepció o què vol dir un terme.
-6. Para quan el dubte s'hagi resolt. No hi ha un nombre objectiu de torns; habitualment en basten dos a quatre.
-7. Verifica cada dada contra el corpus i anota totes les evidències i fonts a la procedència.
+## Porta de qualitat per a cada conversa
 
-La conversa ha de sonar bé llegida només pels missatges d'usuari i assistent. Si les preguntes semblen un qüestionari sobre un document, es reescriuen.
+Una conversa només passa a `review/` quan totes aquestes comprovacions són positives:
 
-## Preguntes que no farem
+- La pregunta inicial sona com una cosa que algú preguntaria i s'entén tota sola.
+- La pregunta neix d'una necessitat o curiositat recognoscible; no d'una unitat interna del corpus.
+- La resposta contesta directament abans d'afegir context.
+- Cada seguiment demana una cosa nova i surt del torn anterior; no és una pregunta posada per allargar el registre.
+- Els torns tenen una llargada natural i no repeteixen la mateixa dada.
+- Cada afirmació factual, xifra, data i matís té evidència identificable.
+- Les incerteses, discrepàncies i buits es presenten sense resoldre'ls amb intuïcions.
+- La procedència i els drets de totes les fonts estan registrats.
 
-No preguntar per «la secció», «la fitxa», «aquesta fila», «el gràfic» o «el paràgraf». No copiar títols com si l'usuari els hagués llegit. No deixar fragments penjats com «I dos topònims que en surten:». No afegir un seguiment per complir una quota de multitorn. No inventar una motivació, una causa o una conclusió que les fonts no sostinguin.
+Si falla naturalitat, es reescriu o es rebutja. Si falla l'evidència, es corregeix o es retira. Una mostra editorial pot ensenyar l'estil encara que els drets de la font impedeixin entrenar-hi; per això les mostres i els candidats viuen en directoris separats.
 
-La varietat surt de la situació i de la intenció, no de substituir paraules en una plantilla. Una pregunta factual curta és bona si és el que algú preguntaria; una conversa llarga és dolenta si cada torn repeteix el mateix.
+## Cobertura
 
-## Revisió abans d'afegir
+L'inventari recorre totes les fitxes de `docs/temes/`, incloses seccions, llistes, taules i links. La cobertura és sobre afirmacions útils, no sobre el nombre de converses. Una conversa pot cobrir més d'una afirmació relacionada, i una afirmació pot quedar coberta per una conversa existent. Les exclusions han d'indicar-ne el motiu. Els esborranys rebutjats no compten.
 
-- La pregunta inicial s'entén fora del corpus?
-- Algú preguntaria això en una conversa real?
-- Cada resposta resol la pregunta abans d'afegir context?
-- El seguiment neix del torn anterior i demana informació nova?
-- La llargada és necessària?
-- Cada afirmació, data i matís té evidència?
-- Les fonts discordants o els buits es presenten sense inventar una solució?
-- La procedència i els drets estan registrats? `pendent` o `no` no vol dir permís.
-- La conversa continua sent natural si se'n treuen les metadades?
-
-Una resposta negativa a les primeres cinc preguntes exigeix reescriure. Una dada sense evidència exigeix corregir o retirar-la. Un dret pendent impedeix exportar, encara que l'exemple serveixi per revisar estil.
-
-## Cobertura i ritme
-
-Inventariar tot `docs/temes/`, també seccions, paràgrafs, llistes i files útils de taules. Cobrir afirmacions útils, no només títols de fitxes. Per cada unitat, crear una conversa, vincular-la a una existent o registrar una exclusió amb motiu. Cobertura, unitats excloses i converses rebutjades han de quedar diferenciades als reports. No declarar Knowledge complet mentre hi hagi documents o afirmacions útils pendents.
-
-Treballar en tandes petites: primer revisar un tema, després escriure, llegir en veu alta, comprovar evidències, validar procedència i només llavors afegir registres. No perseguir un nombre fix de preguntes. No generar variacions cosmètiques per inflar volum.
+Treballar per tema en tandes petites: llegir, seleccionar els dubtes de valor, redactar, verificar, revisar en veu alta i registrar procedència. No generar variacions cosmètiques ni perseguir un volum prefixat.
 
 ## Maia Language
 
-Incloure només material que compleixi `veu == originaria` i `epoca == contemporania` (`apte_llengua == true`). Revisar transcripcions incertes, preservar la parla humana amb normalització mínima i agrupar els splits per peça o parlant. No redactar respostes noves en veu d'un parlant andorrà.
+Incloure només material amb `veu == originaria`, `epoca == contemporania` i `apte_llengua == true`. Revisar transcripcions incertes i preservar lèxic, sintaxi i estil de la persona amb normalització mínima. No redactar respostes noves en la veu d'un parlant. Agrupar qualsevol split per peça o parlant per evitar filtracions.
 
-## Exportació
+## Exports i ordre de treball
 
-No crear train/validation/test fins que les converses hagin superat revisió humana, cobertura, deduplicació, verificació de drets i control de filtracions entre splits. Els fitxers finals contenen només `messages` amb torns `user` i `assistant`; evidències i procedència queden en fitxers de revisió.
+Els directoris `output/` es mantenen buits fins que els registres hagin passat revisió humana, comprovació de drets, deduplicació i control de filtracions entre splits. Els fitxers finals contenen només missatges `user` i `assistant`; evidència, drets i notes continuen a la capa de revisió.
 
-## Cadència de canvis
-
-Per cada pas funcional: revisar el diff, validar els fitxers afectats, comprovar `git status`, afegir només els fitxers del pas, fer un commit petit i confirmar el push abans de continuar. No incloure canvis locals de `docs/` ni dades de llengua alienes al pas.
+Seqüència del projecte: estructura i criteris editorials → exemples aprovats d'estil → revisió de cobertura per tema → registres de Knowledge → selecció de Language → validació global → splits i exports. Validar cada pas abans de començar el següent i no barrejar els dos datasets.

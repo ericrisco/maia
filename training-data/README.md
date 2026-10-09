@@ -1,11 +1,21 @@
 # Maia Training Data
 
-Àrea de treball per preparar dos conjunts separats. **Maia Knowledge** ensenya a respondre preguntes sobre Andorra a partir de `docs/temes/`. **Maia Language** conserva fragments humans elegibles de `docs/parla/`.
+Dos conjunts separats, construïts a partir del corpus de `docs/`:
 
-Les mostres actuals defineixen el to i el fil entre torns. No són candidates aprovades ni dades d’entrenament. La primera tanda de converses de Knowledge s'ha arxivat com a rebutjada; la cua activa s'ha reiniciat. No hi ha exports encara.
+- **Maia Knowledge** transforma coneixement documentat d'Andorra en converses naturals. La font factual és `docs/temes/`.
+- **Maia Language** conserva fragments de català andorrà contemporani produïts per persones. La font és `docs/parla/`.
 
-- [`PLAN.md`](PLAN.md): criteris i etapes de treball.
-- [`knowledge/`](knowledge/): coneixement redactat i verificable.
-- [`language/`](language/): llengua autèntica, sense diàlegs inventats.
-- Els missatges i la procedència es mantenen en fitxers separats.
-- [`knowledge/archive/rejected-v1/`](knowledge/archive/rejected-v1/): historial que no compta com a cobertura ni es pot exportar.
+No s'han de barrejar. Les respostes redactades de Knowledge no són mostra de parla autèntica; Language no s'amplia amb respostes inventades.
+
+## On és cada cosa
+
+- [`PLAN.md`](PLAN.md): flux de treball, criteri de naturalitat i porta de qualitat.
+- [`knowledge/examples/`](knowledge/examples/): diàlegs editorials per ensenyar l'estil. No són entrenables ni compten per cobertura.
+- [`knowledge/review/`](knowledge/review/): converses candidates pendents de revisió humana, amb procedència en un fitxer separat.
+- [`knowledge/archive/`](knowledge/archive/): esborranys rebutjats, exclosos de cobertura i exportació.
+- [`knowledge/work/`](knowledge/work/): inventari de documents, evidències i cobertura.
+- [`knowledge/reports/`](knowledge/reports/): resum d'estat i qualitat.
+- [`knowledge/output/`](knowledge/output/): splits finals només després de revisar contingut i drets.
+- [`language/`](language/): selecció, revisió i sortides de material lingüístic autèntic.
+
+Els missatges d'entrenament no porten metadades de pipeline. Les fonts, evidències i drets s'auditen a part. Els outputs romanen buits fins que els registres compleixen els criteris de qualitat, revisió i drets.

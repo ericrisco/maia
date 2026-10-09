@@ -1,60 +1,65 @@
-# Criteri per escriure converses de Maia Knowledge
+# Mostres de conversa per a Maia Knowledge
 
-Els registres rebutjats de la primera tanda són a `../archive/rejected-v1/`. Les mostres editorials actuals són a [`../examples/conversations.jsonl`](../examples/conversations.jsonl), amb procedència a [`../examples/provenance.jsonl`](../examples/provenance.jsonl). No són exportables: algunes fonts tenen redistribució denegada o pendent.
+Les converses de `../examples/conversations.jsonl` marquen el to desitjat. Són mostres editorials amb procedència a part. No s'han de copiar al dataset ni comptar com a cobertura.
 
-## Comprovació principal
+## Abans d'afegir un registre
 
-Llegeix només les preguntes, com si no haguessis vist cap document. Si sonen com una pregunta d'examen sobre una secció, una fila o un títol, la conversa no serveix. Si una persona podria fer la pregunta en aquella situació i cada resposta li dona peu a un seguiment real, el fil funciona.
+Llegeix la conversa sense obrir les fitxes. La primera pregunta ha de tenir sentit per si sola. El seguiment ha de sortir del que acaba de dir l'assistent i demanar una cosa que encara no s'ha respost. La resposta ha de contestar primer i explicar després, només si cal.
 
-## Mostra bona: dubte d'una persona que hi va
+Pregunta't: «Ho preguntaria així a algú que en sap?». Si el dubte només existeix perquè algú està llegint una secció o una taula, busca la pregunta humana que hi ha al darrere. Si no n'hi ha cap, no en facis un exemple.
 
-```text
-Usuari: Vaig a la festa major de Sant Julià i m'han dit que hi ha la Passa. Què és exactament?
-Assistent: És una cercavila de parelles de fadrins pels carrers principals de Sant Julià de Lòria. No és un ball.
-Usuari: I per què tothom parla dels majors fadrins?
-Assistent: Perquè les parelles que es casaran aquell any encapçalen la cercavila i reben aquest nom. Darrere seu, les altres parelles van de més grans a més joves.
-Usuari: La podré veure qualsevol dia de la festa?
-Assistent: La Passa es fa al migdia del dilluns de la festa major.
-```
-
-El primer torn desfà una confusió plausible. Els seguiments demanen ordre i horari perquè la persona vol entendre què veurà.
-
-## Mostra bona: paraula trobada en una font
+## Exemple de visita
 
 ```text
-Usuari: Estic llegint un text antic i hi surt la paraula «peixena». Vol dir que els ramats podien passar per qualsevol camp?
-Assistent: No per qualsevol camp. La peixena era el dret de pas i de pastura dels habitants sobre terres que no eren «de guarda». S'exercia després de la collita, quan el camp quedava buit.
-Usuari: Aleshores, si la terra era meva, podia canviar què hi plantava?
-Assistent: No necessàriament. La font diu que el propietari no podia canviar la rotació de conreus ni plantar-hi farratge sense autorització del consell de parròquia. El dret de pastura també condicionava l'ús privat de la terra.
+Usuari: Dilluns de festa major seré a Sant Julià i m'han dit que hi ha la Passa. És un ball?
+Assistent: No ben bé: la Passa és una cercavila de parelles de fadrins pels carrers principals de Sant Julià de Lòria. Es fa el mateix dia que alguns balls, però no és una dansa.
+Usuari: I qui encapçala la cercavila?
+Assistent: Les parelles que es casaran aquell any, que s'anomenen els majors fadrins. Després van les altres parelles, ordenades de més grans a més joves.
+Usuari: A quina hora hauria d'hi ser?
+Assistent: Al migdia de dilluns. És quan se celebra la Passa durant la festa major.
 ```
 
-El seguiment explora la conseqüència pràctica del terme; no demana que es reciti la secció d'un article.
-
-## Mostra bona: entendre una regla històrica
+## Exemple per entendre una regla antiga
 
 ```text
-Usuari: En un plet antic entre un veí i un comú, el cas anava sempre als tribunals ordinaris?
-Assistent: No: segons la regla que descriu la font, depenia de qui presentava la demanda. Si el particular demandava el comú o un quart, l'afer anava a la jurisdicció política. Si el comú o el quart demandava un particular, anava als tribunals ordinaris.
-Usuari: I si el conflicte era amb un quart, qui el resolia primer?
-Assistent: Primer el consell de parròquia; després es podia apel·lar al Consell General. Si la part interessada era una parròquia sencera, l'afer anava directament al Consell General.
+Usuari: En una sentència antiga, els pastors passen amb els ramats per un camp després de la collita. Això vol dir que el terreny era comunal?
+Assistent: En la sentència de 1790 que recull el corpus, aquest pas dels ramats després de retirar els fruits és justament l'argument per considerar comunal el terreny, encara que s'hi hagués sembrat durant anys.
+Usuari: I el propietari podia plantar-hi el que volgués?
+Assistent: No. La peixena donava als habitants dret de pas i de pastura, i el propietari no podia canviar la rotació de conreus ni plantar-hi farratge sense autorització del consell de parròquia.
 ```
 
-La primera resposta contesta la comparació i explica el criteri. El seguiment concreta una branca de la regla.
+## Exemple de dubte sobre una norma
+
+```text
+Usuari: Al segle XIX, si un cònsol et devia diners, el podies portar directament davant d'un jutge?
+Assistent: No sempre. La regla que descriu la font exigia autorització prèvia per iniciar una reclamació civil contra una autoritat. Després de la Reforma de 1866, aquesta exigència es va limitar als deutes contrets en virtut del càrrec.
+Usuari: I si l'acusaves d'un delicte, també calia demanar permís?
+Assistent: No segons aquesta mateixa font: l'autorització prèvia s'exigia per a les accions civils, però no per a les persecucions criminals. La font no explica per què es feia aquesta distinció.
+```
+
+## Exemple que resol una aparent contradicció
+
+```text
+Usuari: Si ara no hi ha lliga femenina de futbol a Andorra, on juga l'ENFAF?
+Assistent: La font situa l'ENFAF a la lliga catalana: el primer equip juga a la Primera Divisió Femenina de Catalunya i el filial, a la Segona.
+Usuari: I no hi ha hagut mai una competició femenina al país?
+Assistent: Sí que n'hi va haver una durant la temporada 2010–11. El corpus no en concreta el format ni els equips, ni explica per què no va continuar.
+```
+
+## Exemple sobre una pèrdua històrica
+
+```text
+Usuari: La imatge de Meritxell que es venera avui és la talla medieval original?
+Assistent: No. La talla romànica del segle XII es va perdre quan el santuari antic es va incendiar la nit del 8 al 9 de setembre de 1972. La imatge actual és una rèplica.
+Usuari: Qui va fer la rèplica i quan es va obrir el santuari nou?
+Assistent: La rèplica és obra de l'escultor Sergi Mas. El santuari nou, projectat per Ricard Bofill, es va inaugurar el 1976.
+```
 
 ## No fer això
 
 ```text
-Usuari: Què explica la secció «El vocabulari que ho ordena» de la fitxa «Un camp és comunal perquè hi passen els ramats»?
+Usuari: Què explica la secció «El vocabulari que ho ordena» d'una fitxa sobre camps i ramats?
 Assistent: I dos topònims que en surten:
 ```
 
-Aquesta pregunta pressuposa que l'usuari té la fitxa oberta; la resposta no resol el dubte ni és una frase completa. Cal començar pel terme o la situació que interessa a una persona.
-
-## Regles de mida i to
-
-- Comença per la pregunta humana, no per la taxonomia del corpus.
-- Respon abans d'afegir context; defineix termes locals sense convertir la resposta en glossari.
-- Fes servir seguiments que aprofundeixin o concretin. «I això quan passa?» només funciona si el torn anterior dona un referent clar.
-- No forcis una tercera pregunta. Dos torns d'usuari ben connectats són millors que quatre de plantilla.
-- No presentis com a fet una interpretació d'una font ni completis un buit amb intuïcions.
-- Llegeix en veu alta les preguntes. Si un parlant les trobaria artificials, reescriu-les.
+La pregunta depèn d'una fitxa que l'usuari no ha esmentat i la resposta no contesta res. Cal identificar quin terme o dubte podria interessar-li a una persona i començar per aquí. No afegir seguiments per obligar el registre a ser multitorn.
