@@ -1,3 +1,5 @@
-# Revisió de Knowledge
+# Cua de revisió de Maia Knowledge
 
-Cada conversa candidata té una línia corresponent a `provenance.jsonl`. Els registres nous queden pendents de revisió factual, de naturalitat i de drets. Les mostres editorials no compten com a cobertura.
+Aquesta cua és per a converses noves, encara pendents de revisió. Les converses rebutjades de la primera versió s'han mogut a `../archive/rejected-v1/` i no compten com a candidates ni com a cobertura.
+
+Afegiu un registre a `conversations.jsonl` i la seva procedència corresponent a `provenance.jsonl` només després de revisar el diàleg amb els criteris de `../README.md` i `../EXEMPLES.md`.

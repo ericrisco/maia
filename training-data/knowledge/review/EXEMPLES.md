@@ -1,48 +1,60 @@
-# Criteri i exemples de Maia Knowledge
+# Criteri per escriure converses de Maia Knowledge
 
-Les mostres completes són a [`../examples/conversations.jsonl`](../examples/conversations.jsonl). La procedència i l'estat dels drets són a `../examples/provenance.jsonl`. Són exemples editorials, no cobertura del corpus ni exports entrenables.
+Els registres rebutjats de la primera tanda són a `../archive/rejected-v1/`. Les mostres editorials actuals són a [`../examples/conversations.jsonl`](../examples/conversations.jsonl), amb procedència a [`../examples/provenance.jsonl`](../examples/provenance.jsonl). No són exportables: algunes fonts tenen redistribució denegada o pendent.
 
-## Abans d'escriure
+## Comprovació principal
 
-Imagina la persona, què vol saber i per què ho pregunta. Pot tenir un dubte de viatge, haver sentit una paraula, confondre dues tradicions o voler entendre una decisió històrica. La conversa no ha de dependre de conèixer títols, seccions o files internes de Maia.
+Llegeix només les preguntes, com si no haguessis vist cap document. Si sonen com una pregunta d'examen sobre una secció, una fila o un títol, la conversa no serveix. Si una persona podria fer la pregunta en aquella situació i cada resposta li dona peu a un seguiment real, el fil funciona.
 
-**Prova de lectura:** ensenya només les intervencions d'usuari a algú que no ha vist el corpus. Si sonen a exercici de comprensió lectora, reescriu-les.
-
-## Patró de conversa
-
-- Comença amb una pregunta completa i natural.
-- Respon el dubte sense preàmbuls de base de dades.
-- Fes almenys un seguiment que s'entengui a partir del fil i aporti una pregunta nova.
-- Mantén el context sense fer repetir informació.
-- Atura't quan la persona ja té resposta. No cal que tots els registres tinguin el mateix nombre de torns.
-
-## Evita
-
-- «Què explica la secció “El relat”?»
-- «Què indica aquesta fila del gràfic?»
-- preguntes que copien un títol de fitxa sense una situació humana;
-- respostes truncades, com una llista de topònims sense dir què signifiquen;
-- atribuir al corpus una conclusió que les fonts deixen oberta;
-- seguiments posats només per fer el registre més llarg.
-
-## Exemple del to buscat
+## Mostra bona: dubte d'una persona que hi va
 
 ```text
-Usuari: La Passa de Sant Julià és una dansa?
-Assistent: No: és una cercavila de parelles de fadrins pels carrers principals de Sant Julià de Lòria, no un ball.
-Usuari: I qui hi va al davant?
-Assistent: Les parelles que es casaran aquell any. Reben el nom de «majors fadrins» i encapçalen la cercavila.
-Usuari: La fan durant la festa major?
-Assistent: Sí. Se celebra al migdia del dilluns de la festa major.
+Usuari: Vaig a la festa major de Sant Julià i m'han dit que hi ha la Passa. Què és exactament?
+Assistent: És una cercavila de parelles de fadrins pels carrers principals de Sant Julià de Lòria. No és un ball.
+Usuari: I per què tothom parla dels majors fadrins?
+Assistent: Perquè les parelles que es casaran aquell any encapçalen la cercavila i reben aquest nom. Darrere seu, les altres parelles van de més grans a més joves.
+Usuari: La podré veure qualsevol dia de la festa?
+Assistent: La Passa es fa al migdia del dilluns de la festa major.
 ```
 
-La conversa parteix d'un dubte que algú podria tenir i els seguiments aprofundeixen en el mateix tema. Les afirmacions es comproven a `docs/temes/costums/ritus-de-pas/la-passa.md`; l'exemple no és exportable mentre els drets de les fonts siguin pendents.
+El primer torn desfà una confusió plausible. Els seguiments demanen ordre i horari perquè la persona vol entendre què veurà.
 
-## Revisió de cada conversa
+## Mostra bona: paraula trobada en una font
 
-1. La primera pregunta s'entén sense haver obert Maia.
-2. Hi ha almenys dues intervencions d'usuari i cada resposta resol el torn corresponent.
-3. El fil és natural; cap seguiment no és una pregunta de plantilla.
-4. Totes les afirmacions estan documentades i les incerteses es conserven.
-5. La conversa no porta IDs ni metadades internes.
-6. Totes les fonts i els drets són a la fila corresponent de procedència.
+```text
+Usuari: Estic llegint un text antic i hi surt la paraula «peixena». Vol dir que els ramats podien passar per qualsevol camp?
+Assistent: No per qualsevol camp. La peixena era el dret de pas i de pastura dels habitants sobre terres que no eren «de guarda». S'exercia després de la collita, quan el camp quedava buit.
+Usuari: Aleshores, si la terra era meva, podia canviar què hi plantava?
+Assistent: No necessàriament. La font diu que el propietari no podia canviar la rotació de conreus ni plantar-hi farratge sense autorització del consell de parròquia. El dret de pastura també condicionava l'ús privat de la terra.
+```
+
+El seguiment explora la conseqüència pràctica del terme; no demana que es reciti la secció d'un article.
+
+## Mostra bona: entendre una regla històrica
+
+```text
+Usuari: En un plet antic entre un veí i un comú, el cas anava sempre als tribunals ordinaris?
+Assistent: No: segons la regla que descriu la font, depenia de qui presentava la demanda. Si el particular demandava el comú o un quart, l'afer anava a la jurisdicció política. Si el comú o el quart demandava un particular, anava als tribunals ordinaris.
+Usuari: I si el conflicte era amb un quart, qui el resolia primer?
+Assistent: Primer el consell de parròquia; després es podia apel·lar al Consell General. Si la part interessada era una parròquia sencera, l'afer anava directament al Consell General.
+```
+
+La primera resposta contesta la comparació i explica el criteri. El seguiment concreta una branca de la regla.
+
+## No fer això
+
+```text
+Usuari: Què explica la secció «El vocabulari que ho ordena» de la fitxa «Un camp és comunal perquè hi passen els ramats»?
+Assistent: I dos topònims que en surten:
+```
+
+Aquesta pregunta pressuposa que l'usuari té la fitxa oberta; la resposta no resol el dubte ni és una frase completa. Cal començar pel terme o la situació que interessa a una persona.
+
+## Regles de mida i to
+
+- Comença per la pregunta humana, no per la taxonomia del corpus.
+- Respon abans d'afegir context; defineix termes locals sense convertir la resposta en glossari.
+- Fes servir seguiments que aprofundeixin o concretin. «I això quan passa?» només funciona si el torn anterior dona un referent clar.
+- No forcis una tercera pregunta. Dos torns d'usuari ben connectats són millors que quatre de plantilla.
+- No presentis com a fet una interpretació d'una font ni completis un buit amb intuïcions.
+- Llegeix en veu alta les preguntes. Si un parlant les trobaria artificials, reescriu-les.
