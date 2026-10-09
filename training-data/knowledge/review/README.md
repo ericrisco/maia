@@ -1,6 +1,7 @@
 # Revisió de Knowledge
 
-Hi ha cinc candidats actius, tots sobre els minairons. Encara necessiten
+Hi ha sis candidats actius, cinc sobre els minairons i un que també els relaciona
+amb les falles de Sant Joan. Encara necessiten
 revisió editorial i de drets; no són exportables ni s'han d'entrenar. Les
 converses i la procedència han d'estar en fitxers JSONL separats, alineats per
 línia. Cada candidat ha de
