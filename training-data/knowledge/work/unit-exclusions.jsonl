@@ -436,7 +436,10 @@
 {"evidence_id":"temes/costums/sant-antoni/escudelles-de-sant-antoni.md#metadata-description","reason":"repeated_summary_covered_by_review_conversations"}
 {"evidence_id":"temes/costums/sant-antoni/escudelles-de-sant-antoni.md#metadata-title","reason":"structural_block_not_conversational_knowledge"}
 {"evidence_id":"temes/costums/sant-antoni/sant-antoni-index-de-fitxes.md#block-00000","reason":"structural_block_not_conversational_knowledge"}
+{"evidence_id":"temes/costums/sant-antoni/sant-antoni-index-de-fitxes.md#block-00001","reason":"index_summary_covered_by_review_conversations"}
+{"evidence_id":"temes/costums/sant-antoni/sant-antoni-index-de-fitxes.md#block-00002","reason":"internal_voice_metadata_not_domain_knowledge"}
 {"evidence_id":"temes/costums/sant-antoni/sant-antoni-index-de-fitxes.md#block-00003","reason":"structural_block_not_conversational_knowledge"}
+{"evidence_id":"temes/costums/sant-antoni/sant-antoni-index-de-fitxes.md#block-00004","reason":"index_navigation_link"}
 {"evidence_id":"temes/costums/sant-antoni/sant-antoni-index-de-fitxes.md#metadata-title","reason":"structural_block_not_conversational_knowledge"}
 {"evidence_id":"temes/cultura/andorra-vista-de-fora/andorra-vista-de-fora-index-de-fitxes.md#block-00000","reason":"structural_block_not_conversational_knowledge"}
 {"evidence_id":"temes/cultura/andorra-vista-de-fora/andorra-vista-de-fora-index-de-fitxes.md#metadata-title","reason":"structural_block_not_conversational_knowledge"}
