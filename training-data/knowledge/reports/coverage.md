@@ -1,15 +1,15 @@
 # Estat de cobertura
 
-Inventaris basats en els Markdown actuals de `docs/temes/` i `docs/parla/`. Els recomptes descriuen l'estat de revisió; no impliquen que tot el coneixement d'un document estigui cobert. Els índexs amb almenys 100 paraules de contingut s’han retornat a revisió, perquè alguns contenen resums i taules substantives.
+Inventaris basats en els Markdown actuals de `docs/temes/` i `docs/parla/`. Els recomptes descriuen l'estat de revisió; no impliquen que tot el coneixement d'un document estigui cobert. L’auditoria dels índexs separa les llistes breus d’enllaços de les pàgines amb prosa substantiva o taules; aquestes últimes tornen a revisió. Les notes del CSV registren la regla aplicada.
 
 ## Knowledge
 
 - Documents inventariats: 1477
-- Pendents de revisió de contingut: 1362
+- Pendents de revisió de contingut: 1361
 - Documents amb converses candidates: 65
 - Converses candidates vinculades a la cobertura: 91
 - Exclosos per drets de reutilització: 4
-- Índexs/navegació: 46
+- Índexs/navegació: 47
 - Exemples de calibratge: 3; no compten com a cobertura aprovada.
 - Exportacions: cap; els candidats requereixen revisió editorial i de drets.
 
