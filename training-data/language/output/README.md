@@ -1,3 +1,3 @@
-# Exports de Language
+# Exportacions de Maia Language
 
-Buit expressament. Només hi entraran fragments humans elegibles i revisats.
+Mantén aquesta carpeta sense dades fins que les peces hagin passat revisió de drets, transcripció, agrupació de splits i validació.

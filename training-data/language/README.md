@@ -1,3 +1,5 @@
 # Maia Language
 
-Conjunt separat per preservar català andorrà contemporani produït per persones. La font és `docs/parla/`; només s’admet material que compleixi els criteris d’origen, època, elegibilitat i fiabilitat del corpus. No es generen respostes noves en veu dels parlants.
+Aquest conjunt preserva formes reals del català andorrà contemporani a partir de `docs/parla/`. No és un conjunt de coneixement ni s'hi redacten respostes que imitin una persona.
+
+Només es poden considerar fragments amb `veu == originaria`, `epoca == contemporania` i `apte_llengua == true`, i després de revisar drets, transcripció i atribució. `review/`, `work/` i `reports/` guarden les decisions; `output/` queda buit fins a la revisió i validació final. Els splits s'agrupen per peça o parlant per evitar filtracions.

@@ -1,3 +1,3 @@
-# Revisió de Language
+# Revisió de Maia Language
 
-Encara no hi ha fragments candidats en aquesta estructura. Cada fragment haurà de conservar la seva peça d’origen i passar revisió humana.
+La revisió comprova elegibilitat lingüística, drets de redistribució, fiabilitat de cada fragment i preservació literal de la parla. Exclou fragments incerts en lloc d'endevinar-los. Cap text generat per imitar un parlant no és senyal lingüístic autèntic.

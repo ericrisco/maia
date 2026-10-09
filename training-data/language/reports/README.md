@@ -1,3 +1,3 @@
-# Informes de Language
+# Informes de Maia Language
 
-Els informes d’elegibilitat, exclusions i volum es generaran quan comenci la selecció de fragments.
+Informes de peces revisades, incloses i excloses, drets, incertesa de transcripció i possibles filtracions entre splits.

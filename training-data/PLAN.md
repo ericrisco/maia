@@ -2,96 +2,56 @@
 
 ## Objectiu
 
-Preparar dos conjunts d'entrenament separats a partir de `docs/`:
+Crear converses útils, fidels al corpus i naturals per entrenar dos conjunts separats: `knowledge/` a partir de `docs/temes/` i `language/` a partir de parla humana elegible de `docs/parla/`.
 
-- **Maia Knowledge**: respostes útils sobre Andorra, basades en `docs/temes/`.
-- **Maia Language**: català andorrà contemporani produït per persones, a partir de `docs/parla/`.
+## Criteri principal: una necessitat humana
 
-Knowledge ensenya què pot explicar Maia. Language conserva com s'expressa la gent. No es redactaran respostes noves fent veure que són parla real.
+Abans d'escriure una pregunta, redacta en privat què intenta resoldre la persona: orientar-se abans d'una visita, aclarir un terme, entendre una diferència, comprovar una dada que ha sentit o saber què es pot afirmar quan les fonts discrepen. La pregunta ha de néixer d'aquesta necessitat, no de l'estructura de la fitxa.
 
-## Estructura
+Evita preguntes que esmentin «la fitxa», «la secció», «la taula», «aquesta fila» o que demanin resumir un fragment. Evita també preguntes que només es poden entendre llegint la font. Inclou a la primera intervenció el context que necessitaria algú que no ha vist el corpus.
 
-```text
-training-data/
-├── README.md
-├── PLAN.md
-├── knowledge/
-│   ├── examples/       # Converses de referència, mai incloses a l'export
-│   ├── review/         # Candidats amb conversa i procedència separada
-│   ├── archive/        # Candidats rebutjats, amb motiu
-│   ├── work/           # Inventari i mapa de cobertura auditables
-│   ├── reports/        # Estat, incidències i cobertura
-│   ├── scripts/        # Eines de lectura i validació
-│   └── output/         # Exports només després d'aprovar-los
-└── language/
-    ├── review/         # Decisions sobre fragments i transcripcions
-    ├── work/           # Fragments de treball amb origen identificat
-    ├── reports/        # Drets, incertesa i cobertura
-    └── output/         # Exports només després d'aprovar-los
-```
+## Converses multitorn sense torns artificials
 
-Els fitxers de `review/` tenen converses llegibles i un fitxer de procedència separat. Els missatges d'entrenament no inclouen IDs interns, noms de fitxer ni notes editorials.
+Les mostres de referència són multitorn. En una conversa nova, afegeix un seguiment només si una persona podria fer-lo després d'escoltar la resposta. Ha de demanar una cosa nova i continuar el fil: aclarir una implicació, posar a prova una premissa, demanar un detall relacionat o decidir què fer amb la informació.
 
-## Com escriure Knowledge
+No repeteixis la pregunta amb sinònims, no canviïs de tema per complir una quota i no facis que l'usuari conegui d'entrada noms que encara no s'han introduït. Si el corpus no permet un seguiment natural, conserva la dada a la cobertura i no inventis un torn. Una conversa curta i bona val més que una conversa llarga i forçada.
 
-### 1. Comença per la necessitat d'una persona
+## Respostes
 
-Abans de redactar, descriu en una frase què vol saber o resoldre la persona. Per exemple: «vol anar a una festa i entendre què veurà», «ha sentit un terme i vol saber què implica» o «dues fonts li han donat dates diferents».
+La primera frase ha de contestar directament. Després, afegeix només el context que ajudi a entendre la resposta. Escriu com un assistent que parla amb una persona: frases completes, referents clars i termes locals explicats quan apareixen. No copiïs camps de metadades ni comencis amb fragments com «tres coses que...». No afegeixis motius, intencions, dates o conclusions que les fonts no sostinguin.
 
-La pregunta no s'ha de generar a partir del títol, una secció, una fila o un paràgraf. No fer preguntes com «Què explica aquesta fitxa?» o «Què diu aquesta taula?». Si no trobem una curiositat humana al darrere, deixem aquella informació al mapa de cobertura sense forçar una conversa.
+Quan les fonts discrepen, explica què diu cadascuna i què no es pot concloure. Quan una dada no consta, digues-ho sense omplir el buit. Atribueix les interpretacions a qui les proposa.
 
-### 2. Escriu una pregunta que s'entengui sense el corpus
+## Procés per cada candidat
 
-La primera intervenció ha de donar el context necessari amb paraules normals. Pot sonar informal o incloure una premissa equivocada, però no ha de fingir una experiència personal ni afegir detalls que la font no documenta.
-
-Comprova-ho així: mostra només la pregunta a algú que no hagi vist la fitxa. Si no pot entendre què pregunta, afegeix context. Si només té sentit davant d'una pàgina concreta, torna a formular-la des de la necessitat de la persona.
-
-### 3. Contesta primer; matisa després
-
-La primera frase resol la pregunta. Després s'hi pot afegir el context que ajudi a entendre la resposta. No començar amb fragments penjats, llistes sense introducció ni fórmules del tipus «tres coses que el corpus registra».
-
-Distingeix entre un fet documentat, una afirmació atribuïda a una font i una interpretació. Si la font no ho diu, no ho completis amb el que sembli més probable.
-
-### 4. Fes multitorn només quan hi ha continuació natural
-
-Cada registre de Knowledge ha de tenir diversos torns: com a mínim dues preguntes de l'usuari, amb una resposta entre elles. Després de cada resposta, pregunta't què voldria aclarir algú de debò. El seguiment ha de dependre del que s'acaba de dir i demanar una cosa nova. Si no surt cap seguiment natural, busca una connexió legítima amb una altra dada del tema; no inventis una curiositat ni forcis un canvi de tema.
-
-No afegeixis seguiments només per arribar al mínim de torns. No repeteixis la pregunta amb altres paraules. No facis que l'usuari conegui d'entrada un terme local si el diàleg pot introduir-lo de manera natural. Si la informació no permet una continuació honesta, marca la unitat com a coberta sense conversa i documenta el motiu; la qualitat i la veracitat tenen prioritat sobre el format multitorn.
-
-### 5. Revisa el diàleg sense mirar les fonts
-
-Llegeix tots els torns en veu alta, com una conversa. Rebutja o reescriu el registre si sona a examen, índex, interrogatori, resum escolar o intercanvi construït per encaixar una dada. Després comprova cada afirmació contra la font i registra la procedència fora del text visible.
+1. Llegeix el document complet i localitza els fets rellevants; no redactis a partir del títol o d'un sol encapçalament.
+2. Escriu una frase d'intenció humana que expliqui per què algú faria la pregunta.
+3. Redacta la conversa sense mirar el títol de la fitxa. Llegeix-la en veu alta.
+4. Verifica cada afirmació i cada seguiment contra les fonts del corpus.
+5. Desa la conversa a `knowledge/review/conversations.jsonl` i la procedència, llicència i evidències a `knowledge/review/provenance.jsonl`.
+6. Marca la revisió humana i els drets. Cap candidat pendent no és exportable.
+7. Registra cobertura, exclusions i dubtes sense convertir cada unitat de coneixement en una pregunta obligatòria.
 
 ## Porta de qualitat
 
-Un candidat només entra a `knowledge/review/` si:
+Accepta una conversa només si la pregunta inicial és comprensible i plausible sense la fitxa, la resposta resol el dubte, cada seguiment continua el fil amb una pregunta nova, el diàleg sona natural llegit en veu alta, i totes les afirmacions tenen evidència i drets registrats. Si falla un criteri, reescriu o exclou-la.
 
-- la primera pregunta expressa una curiositat recognoscible i s'entén tota sola;
-- la resposta resol la pregunta amb naturalitat i sense preàmbuls interns;
-- cada seguiment és plausible, aporta una pregunta nova i neix del torn anterior;
-- no s'han inventat context, intencions, causes, dates ni detalls;
-- les discrepàncies, els límits i les atribucions queden clars;
-- les afirmacions es poden rastrejar fins a una font amb drets registrats;
-- el diàleg funciona llegit en veu alta, sense veure el títol de la fitxa.
+## Separació de datasets
 
-Un sol criteri fallit és motiu per reescriure o rebutjar. El volum no és un objectiu de qualitat.
+**Knowledge:** només informació factual derivable de les fonts de Maia. La procedència i les notes editorials no van al text d'entrenament.
 
-## Cobertura de Maia Knowledge
+**Language:** només peces que compleixen `veu == originaria`, `epoca == contemporania` i `apte_llengua == true`, subjectes a drets i qualitat de transcripció. Les respostes s'han de basar en parla humana autèntica; no s'inventen exemples de «com parlaria un andorrà».
 
-L'inventari recorre totes les fitxes de `docs/temes/`, les seccions, les taules, les llistes i els enllaços. La cobertura es mesura sobre coneixement útil identificat, no sobre quantes preguntes hem escrit. Una conversa pot ensenyar diverses afirmacions relacionades; una dada ja ben coberta no necessita una variació cosmètica.
+## Cobertura, revisió i exportació
 
-Per cada tema: llegir la font sencera, apuntar què és útil, marcar dubtes humans possibles, redactar només els que valgui la pena respondre, verificar-los i actualitzar cobertura. Registrar també què s'exclou i per què.
+La cobertura es mesura sobre informació útil identificada al corpus, no sobre el nombre de registres. Les dades no han d'aparèixer en una conversa si això la fa artificial. Deduplica abans de separar conjunts. Agrupa Language per peça o parlant per evitar filtracions entre train, validation i test.
 
-## Maia Language
+Mantén `output/` buit fins que hi hagi revisió humana, drets verificats, deduplicació, splits i validació. L'export conté només missatges `user` i `assistant`; les fonts i decisions es queden als fitxers de procedència.
 
-Incloure només peces que compleixin els criteris del corpus per a veu originària, època contemporània i ús lingüístic apte. Respectar la incertesa de les transcripcions i excloure els fragments no verificats segons la política documentada. Preservar lèxic, sintaxi i estil amb normalització mínima. Agrupar els splits per peça o parlant per evitar filtracions.
+## Fases
 
-## Exports
-
-`output/` es manté buit fins que hi hagi revisió humana, comprovació de drets, deduplicació i separació correcta entre train, validation i test. L'export conté només els missatges `user` i `assistant`. Procedència, evidències i decisions editorials queden fora.
-
-Ordre de treball: estructura i criteris → exemples de referència aprovats → cobertura per tema → converses revisades de Knowledge → selecció revisada de Language → deduplicació i validació → splits i exports. No barrejar els dos objectius.
-
-## Treball incremental
-
-Treballar a `main`, tema a tema. Cada conversa nova és un canvi funcional separat: revisar el diàleg i la procedència, executar la validació corresponent, revisar `git status` i el diff, afegir només els fitxers d'aquella conversa, fer-ne un commit i pujar-lo a `origin/main`. No començar la conversa següent fins que el push s'hagi confirmat. No incloure canvis locals aliens al dataset.
+1. Acordar aquest criteri i revisar les mostres de `knowledge/examples/`.
+2. Reconstituir l'inventari i el mapa de cobertura des del corpus actual.
+3. Crear i revisar converses Knowledge per temes, sense generar variants cosmètiques.
+4. Auditar drets, transcripcions i selecció de Language.
+5. Deduplicar, fer splits, validar i només llavors exportar.

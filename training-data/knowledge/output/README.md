@@ -1,3 +1,3 @@
-# Exports de Knowledge
+# Exportacions de Maia Knowledge
 
-Buit expressament. Només hi entraran converses aprovades amb drets compatibles. Cada línia final contindrà únicament `messages`.
+Mantén aquesta carpeta sense dades fins que els candidats hagin passat revisió humana, comprovació de drets, deduplicació, divisió de conjunts i validació.

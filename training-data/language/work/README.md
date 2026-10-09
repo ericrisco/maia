@@ -1,3 +1,3 @@
-# Treball intern de Language
+# Treball de Maia Language
 
-Encara no s’han seleccionat fragments per a aquesta estructura. La selecció començarà després de revisar origen, transcripció i drets de cada peça.
+Fragments de parla seleccionats i decisions traçables sobre elegibilitat, drets i certesa de transcripció. No generis text per imitar la parla.
