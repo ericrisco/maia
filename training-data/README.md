@@ -1,14 +1,7 @@
 # Maia Training Data
 
-Aquesta àrea prepara dos recursos diferents a partir de `docs/`:
+Aquesta carpeta conté dos treballs separats: **Maia Knowledge**, basat en `docs/temes/`, i **Maia Language**, basat en parla humana elegible a `docs/parla/`. No s'han de barrejar.
 
-- **Maia Knowledge** ensenya a respondre preguntes sobre Andorra a partir de `docs/temes/`.
-- **Maia Language** conserva mostres reals de català andorrà contemporani de `docs/parla/`.
+L'objectiu és cobrir tot el coneixement útil del corpus amb converses multitorn que sonin com preguntes humanes, i conservar la llengua original sense fabricar-la. El pla exhaustiu és a [`PLAN.md`](PLAN.md). El criteri i les converses de calibratge són a [`knowledge/review/EXEMPLES.md`](knowledge/review/EXEMPLES.md) i [`knowledge/examples/conversations.jsonl`](knowledge/examples/conversations.jsonl).
 
-No s'han de barrejar. Les converses de Knowledge es redacten amb fets documentats. Les respostes de Language han de provenir de parla humana autèntica i no s'han d'inventar per imitar un accent.
-
-## Estat actual
-
-`knowledge/examples/` conté tres mostres editorials per fixar el criteri de naturalitat i continuïtat. No són una exportació d'entrenament: els drets de redistribució de les fonts continuen pendents. `review/` i `output/` són buits fins que les mostres i el flux de revisió quedin aprovats.
-
-El pla de treball és a [`PLAN.md`](PLAN.md). Cada àrea té el seu propi README amb el flux i les restriccions.
+La cobertura de `docs/temes/`, la procedència, les llicències, les exclusions i les revisions s'han de poder auditar. Els exports només es creen quan els registres han passat la revisió i les fonts són elegibles.
