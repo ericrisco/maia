@@ -1,3 +1,4 @@
-# Informes de Language
+# Reports de Language
 
-`eligibility.json` compta totes les peces i els estats d'elegibilitat; `no-inflation.json` informa de spans de parla literal i confirma si s'han generat o reescrit fragments; `piece-rights.json` resumeix els permisos verificats per vídeo. Els reports no impliquen que les transcripcions o les converses estiguin llestes per exportar.
+Reservat per a informes de peces elegibles, fragments inclosos o descartats,
+incertesa de transcripció i drets. Encara no hi ha informes nous.

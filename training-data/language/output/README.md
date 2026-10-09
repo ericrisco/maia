@@ -1,3 +1,4 @@
-# Exports de Language
+# Output de Language
 
-Buit intencionadament fins a revisar elegibilitat, transcripció, drets, deduplicació i splits agrupats per peça o parlant.
+Buit deliberadament. No es generarà cap export fins que s'hagin auditat les
+peces de parla i revisat els drets i la separació dels splits.

@@ -1,5 +1,9 @@
-# Exemples de calibratge
+# Mostres de calibratge
 
-`conversations.jsonl` conté tres diàlegs per provar la naturalitat: una confusió sorgida d'un programa, una reacció a una escena i una comparació útil per a una visita. Són exemples editorials; no s'exporten ni compten com a cobertura.
+Les cinc converses de `conversations.jsonl` serveixen per revisar naturalitat,
+continuïtat, correcció factual i procedència abans de produir més registres.
+No són candidates aprovades, no compten com a cobertura i no s'han d'entrenar.
 
-La procedència, les afirmacions cobertes i l'estat dels drets són a `provenance.jsonl`. Tots els exemples són `exportable: false`. Per decidir si un diàleg nou té aquest nivell, aplica [`../review/EXEMPLES.md`](../review/EXEMPLES.md).
+La procedència està alineada per línia a `provenance.jsonl`. Totes les mostres
+tenen `exportable: false`; els drets o l'atribució encara s'han de revisar per a
+qualsevol ús posterior. Els criteris d'avaluació són a [`../review/EXEMPLES.md`](../review/EXEMPLES.md).

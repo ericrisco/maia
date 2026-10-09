@@ -1,12 +1,21 @@
 # Maia Training Data
 
-Àrea de treball per preparar dades de fine-tuning a partir del corpus de Maia.
+Aquesta carpeta prepara dues línies de dades separades a partir del corpus de
+`docs/`:
 
-Hi ha dos objectius separats:
+- **Knowledge** ensenya a respondre preguntes sobre Andorra amb fets documentats
+  a `docs/temes/`.
+- **Language** conserva mostres de llengua autèntica de `docs/parla/`; no es
+  creen respostes per imitar una manera de parlar.
 
-- **Knowledge** ensenya a respondre preguntes sobre Andorra amb fets documentats a `docs/temes/`.
-- **Language** conserva català andorrà contemporani produït per persones, a partir de `docs/parla/`.
+Ara mateix només hi ha cinc exemples interns de calibratge per a Knowledge.
+No són registres aprovats, no compten com a cobertura i no s'han d'entrenar.
+Les converses són a `knowledge/examples/conversations.jsonl`; les fonts i la
+revisió de drets corresponents són a `knowledge/examples/provenance.jsonl`.
 
-No es barregen fonts, exemples ni criteris entre els dos conjunts. Les converses llegibles no porten IDs ni notes de procedència; aquestes es guarden en fitxers separats. Cap exemple d'aquesta etapa no és exportable. `output/` queda buit fins que hi hagi revisió de qualitat, drets i splits.
+La cua antiga de candidats no forma part d'aquesta estructura. S'ha conservat
+sense canvis a `../training-data-reset-backup-2026-10-09/` per poder-la
+consultar, però no és una font de nous exemples. Els fitxers d'export continuen
+buts fins que s'hagin acordat els criteris i aprovat dades amb drets compatibles.
 
-Comença per [PLAN.md](PLAN.md). Les guies de cada conjunt són a [knowledge/](knowledge/README.md) i [language/](language/README.md).
+Vegeu [`PLAN.md`](PLAN.md) per al mètode de treball i els passos següents.

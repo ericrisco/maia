@@ -1,12 +1,13 @@
 # Maia Knowledge
 
-Respostes sobre Andorra basades en les fitxes de `docs/temes/`. La unitat de treball és una conversa útil i fidel, no un paràgraf convertit automàticament en pregunta.
+Ensenya a respondre sobre Andorra a partir de `docs/temes/`. Les converses
+parteixen d'una necessitat humana, i les seves afirmacions han de quedar
+recolzades per fonts del corpus.
 
-- `examples/`: calibratge d'estil; no són candidats d'entrenament.
-- `review/`: converses noves pendents de revisió humana.
-- `work/`: mapa intern de cobertura i decisions.
-- `reports/`: qualitat, drets i cobertura.
-- `scripts/`: eines del flux quan estiguin definides.
-- `output/`: buit fins que hi hagi aprovació i validació.
+- `examples/`: cinc mostres internes de calibratge, encara no aprovades.
+- `review/`: buit; reservat per a candidats nous que passin la porta editorial.
+- `work/`: buit; reservat per a cobertura, evidència i decisions d'exclusió.
+- `reports/`: buit; reservat per a informes generats a partir de dades revisades.
+- `output/`: buit; no és un dataset d'entrenament encara.
 
-Vegeu [el pla](../PLAN.md) i [els exemples](examples/README.md).
+La guia i el procés són a [`../PLAN.md`](../PLAN.md).

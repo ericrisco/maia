@@ -1,3 +1,4 @@
-# Exemples de Language
+# Mostres de Language
 
-No hi ha exemples encara. Només s'hi afegiran fragments humans amb parlant i procedència verificats, drets revisats i transcripció prou fiable. No es fabriquen intercanvis per fer créixer el volum.
+Encara buit. Només s'hi afegiran fragments de parla humana elegibles, fiables i
+amb procedència i drets revisats. No s'hi col·loquen imitacions generades.
