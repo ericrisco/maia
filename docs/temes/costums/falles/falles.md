@@ -54,7 +54,7 @@ especifica a quina parròquia es refereix.
 
 La cronologia institucional consultada el 2026 separa les represes per
 localitat: **Andorra la Vella, 1987; Sant Julià, 1997; Encamp, 1998;
-Escaldes-Engordany, 2000; i Ordino, 2018** ([font del Govern](../../../fonts/govern-festes-foc-solstici-pirineus.md)).
+Escaldes-Engordany, 2000; i Ordino, 2018** ([font del Govern](../../../fonts/govern-falles-represa-2026.md)).
 Per tant, no hi ha una sola data de recuperació per a tot el país. **La
 diferència entre el 1987 d'Andorra la Vella i el 1997-1998 de Canturri queda
 oberta**: el seu text no identifica la localitat, i el corpus no pot afirmar
