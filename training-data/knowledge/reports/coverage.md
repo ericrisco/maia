@@ -5,8 +5,8 @@ Inventaris basats en els Markdown actuals de `docs/temes/` i `docs/parla/`. Els 
 ## Knowledge
 
 - Documents inventariats: 1477
-- Pendents de revisió de contingut: 1304
-- Documents amb converses candidates: 33
+- Pendents de revisió de contingut: 1303
+- Documents amb converses candidates: 34
 - Converses candidates vinculades a la cobertura: 43
 - Exclosos per drets de reutilització: 4
 - Índexs/navegació: 136
