@@ -4,3 +4,4 @@
 {"example_id":"calibration-004","corpus_documents":["docs/temes/costums/danses/el-contrapas.md"],"rights_review":"pending","exportable":false}
 {"example_id":"calibration-005","corpus_documents":["docs/temes/costums/ritus-de-pas/la-passa.md"],"rights_review":"pending","exportable":false}
 {"example_id":"knowledge-0001","corpus_documents":["docs/temes/costums/calendari-festiu/calendari-festiu.md","docs/temes/costums/meritxell/meritxell.md"],"rights_review":"pending","source_quality":"secondary source; no primary communal calendars in these documents","exportable":false}
+{"example_id":"knowledge-0002","corpus_documents":["docs/temes/costums/falles/falles.md","docs/fonts/canturri-usos-i-costums.md"],"rights_review":"pending","source_quality":"historical custom documented in an open-access publication; redistribution status pending","exportable":false}
