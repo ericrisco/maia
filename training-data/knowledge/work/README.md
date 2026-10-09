@@ -1,3 +1,3 @@
-# Materials de treball
+# Treball de cobertura
 
-Buit durant el calibratge. Les tandes futures hi guardaran cobertura i notes de procedència. Les preguntes internes, IDs i notes no s'incorporen als missatges d'entrenament.
+Aquest directori guardarà el mapa auditable de les afirmacions útils identificades a `docs/temes/`, les converses que les cobreixen i les decisions d'exclusió o reserva per a retrieval. Encara no s'ha generat cap inventari nou.

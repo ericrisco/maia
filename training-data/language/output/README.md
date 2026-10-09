@@ -1,3 +1,3 @@
-# Exports de Maia Language
+# Exports de Language
 
-Buit de propòsit. No crear splits fins que fragments, drets i risc de filtració estiguin revisats.
+Buit intencionadament fins a revisar elegibilitat, transcripció, drets, deduplicació i splits agrupats per peça o parlant.

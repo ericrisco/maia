@@ -1,7 +1,11 @@
 # Maia Language
 
-Conserva català andorrà contemporani produït per persones a partir de `docs/parla/`. No s'hi escriuen respostes artificials per fer-les passar per parla real.
+Conjunt separat per conservar català andorrà contemporani produït per persones, a partir de `docs/parla/`. No s'hi redacten respostes noves per imitar una persona ni es creen preguntes fictícies per a monòlegs.
 
-Abans d'incloure fragments, cal verificar parlant, context, transcripció, `apte_llengua` i drets. Les entrevistes i els parlants s'han de mantenir agrupats en fer els splits per evitar filtracions.
+- `examples/`: fragments de calibratge només quan n'hi hagi de verificats i elegibles.
+- `review/`: decisions de selecció i revisió de fragments.
+- `work/`: parlant, transcripció, drets i procedència.
+- `reports/`: inclusions, exclusions i qualitat.
+- `output/`: buit fins a l'aprovació, deduplicació i splits.
 
-Language comença buit: aquesta entrega només fixa estructura i criteris. No copiar-hi candidats de Knowledge.
+Primer cal revisar cada peça per parlant original, llengua, fiabilitat de transcripció i drets. Agrupar els splits per peça o parlant per evitar filtracions.

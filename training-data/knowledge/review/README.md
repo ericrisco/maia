@@ -1,7 +1,5 @@
-# Revisió de Maia Knowledge
+# Revisió de converses
 
-Les converses noves van a `conversations.jsonl`, una per línia, amb `messages` i sense metadades internes. La procedència alineada per fila va a `provenance.jsonl`.
+Aquí aniran candidats que encara necessiten revisió humana. Cada conversa tindrà els missatges en un JSONL i la seva procedència en un fitxer separat. No s'hi copia cap ID, títol de fitxa o nota editorial dins del missatge visible.
 
-Cada conversa ha de tenir almenys dues preguntes d'usuari connectades per seguiments naturals, tal com demana l'objectiu vigent. Si un fet no admet una continuació humana sense forçar-la, s'agrupa amb una dada relacionada o es registra una decisió de cobertura sense inventar diàleg.
-
-Abans de cada registre, llegiu `EXEMPLES.md` i la fitxa font completa. Després actualitzeu la cobertura, reviseu drets i valideu els missatges. Cada conversa té el seu propi commit i push a `main`.
+Per acceptar un candidat, aplica la porta de qualitat de `../PLAN.md`: pregunta humana, resposta directa i fidel, seguiment natural, procedència verificable i drets revisats. Els registres heretats que preguntaven per seccions, files o gràfics no s'han de reintroduir sense reescriure'ls des de zero.

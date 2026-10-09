@@ -1,19 +1,12 @@
 # Maia Training Data
 
-Àrea de treball per preparar dos conjunts separats a partir de `docs/`.
+Àrea de treball per preparar dades de fine-tuning a partir del corpus de Maia.
 
-- **Maia Knowledge** respon preguntes sobre Andorra a partir de `docs/temes/`.
-- **Maia Language** conserva català andorrà contemporani produït per persones a partir de `docs/parla/`.
+Hi ha dos objectius separats:
 
-No es barregen les fonts ni els objectius. Ara només hi ha cinc converses internes de calibratge per revisar el criteri. No hi ha cap export entrenable. La procedència i els drets es guarden fora dels missatges.
+- **Knowledge** ensenya a respondre preguntes sobre Andorra amb fets documentats a `docs/temes/`.
+- **Language** conserva català andorrà contemporani produït per persones, a partir de `docs/parla/`.
 
-## Com continuar
+No es barregen fonts, exemples ni criteris entre els dos conjunts. Les converses llegibles no porten IDs ni notes de procedència; aquestes es guarden en fitxers separats. Cap exemple d'aquesta etapa no és exportable. `output/` queda buit fins que hi hagi revisió de qualitat, drets i splits.
 
-1. Revisar i aprovar el criteri i les cinc mostres.
-2. Triar un tema i llegir-ne les fonts completes.
-3. Redactar converses que responguin dubtes humans; no convertir encapçalaments, taules o fragments en preguntes.
-4. Verificar cada afirmació i anotar la procedència i els drets.
-5. Deixar sense conversa allò que no admeti una pregunta natural o no tingui font reutilitzable.
-6. Aprovar, deduplicar i validar abans de crear splits i exports.
-
-Vegeu [Maia Knowledge](knowledge/README.md) i [Maia Language](language/README.md) per als criteris de cada conjunt.
+Comença per [PLAN.md](PLAN.md). Les guies de cada conjunt són a [knowledge/](knowledge/README.md) i [language/](language/README.md).

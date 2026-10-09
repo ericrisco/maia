@@ -1,3 +1,3 @@
-# Exports
+# Exports de Knowledge
 
-Buit de propòsit. No crear train, validation o test fins que els registres, els drets i la deduplicació estiguin aprovats.
+Buit intencionadament. Només hi entraran exports aprovats després de revisar qualitat, drets, deduplicació, format i separació train/validation/test.
