@@ -40,6 +40,23 @@ training-data/
 6. **Llegeix només els missatges, en veu alta.** Si sona a examen, encàrrec escolar, visita guiada per la fitxa o qüestionari de dades, reescriu-ho.
 7. **Verifica cada afirmació i registra la procedència a part.** Una pregunta natural no compensa una resposta sense suport o uns drets pendents.
 
+### Prova de naturalitat abans d'escriure
+
+Redacta primer una nota interna amb aquesta forma: **«La persona vol entendre/decidir/aclarir…»**. Si només pots escriure «vol saber què diu la fitxa», encara no has trobat una consulta humana.
+
+La conversa ha de superar aquestes proves:
+
+- **Context autònom:** s'entén sense veure el document ni els missatges previs.
+- **Motiu recognoscible:** hi ha una curiositat, confusió, comparació o conseqüència concreta darrere la pregunta.
+- **Resposta completa:** el primer enunciat de l'assistent resol el dubte; no és un títol, una llista sense introducció ni un fragment de la font.
+- **Seguiment conversacional:** la segona pregunta reacciona a la resposta i demana una aclaració, un límit o una conseqüència que una persona voldria saber a continuació.
+- **Veu no fabricada:** no inventis una situació personal («m'ha passat…», «vull denunciar…») si no cal per formular el dubte.
+- **Varietat real:** no reutilitzis una mateixa plantilla canviant-hi només el topònim, la xifra o el nom.
+
+No obliguis tots els registres a tenir el mateix nombre de torns. La pauta habitual és de dues parelles user/assistant, però un seguiment que no sorgeix de la primera resposta és pitjor que descartar el registre. Si la conversa s'allarga, cada torn ha d'afegir una necessitat nova i respondre-la sense perdre el fil.
+
+Abans de redactar, classifica la necessitat —per exemple, aclarir una contradicció, entendre una regla, saber què canvia entre dos casos, comprovar una premissa o entendre una conseqüència—. Fes servir aquesta classificació només per diversificar la cobertura; no converteixis les categories en motlles de pregunta.
+
 La guia vinculant de redacció i revisió és [`knowledge/review/EXEMPLES.md`](knowledge/review/EXEMPLES.md). La línia pública de `knowledge/review/conversations.jsonl` conté només `{"messages":[...]}`; `provenance.jsonl` manté la traça interna alineada per línia, incloent-hi evidències, motiu humà de la consulta, seguiment, estat de revisió i drets.
 
 ### Regla multitorn
@@ -56,6 +73,8 @@ No passen la revisió preguntes com:
 - «I dos topònims que en surten?»
 
 Depenen del document o produeixen respostes penjades. No n'hi ha prou de canviar «secció» per «text»: cal identificar què vol resoldre la persona.
+
+També es rebutja una pregunta que només soni oral però continuï sent una ordre de lectura, com ara «M'expliques aquest gràfic?» si el diàleg no diu quin dubte vol resoldre. Igualment, una resposta pot ser fluida i continuar sent dolenta si no contesta la pregunta, deixa el referent implícit o barreja fets que la font no relaciona.
 
 ## Porta de qualitat
 
@@ -87,7 +106,7 @@ Els fitxers de conversa d'exportació contindran només missatges `user` i `assi
 ## Ordre de treball i definició d'acabament
 
 1. Reconstituir l'inventari complet de Knowledge i l'auditoria d'elegibilitat de Language.
-2. Revisar els exemples de calibratge amb la guia. Rebutjar els registres antics que sonin a preguntes sobre seccions o fragments; només es recuperen si es verifiquen i es redacten de nou.
+2. Revisar primer els exemples de calibratge amb la guia. La cua activa de `knowledge/review/` comença buida. Els registres antics conservats en còpies o en la història de Git no s'hi reincorporen automàticament: només es pot recuperar una conversa després de reescriure-la des de la necessitat humana, verificar cada afirmació i tornar a registrar-ne la procedència. No afegir registres nous fins que els exemples de calibratge passin la revisió. La cobertura tampoc no es dona per feta perquè hi hagués una pregunta antiga.
 3. Treballar fitxa a fitxa i peça a peça. Cada nova conversa de Knowledge es revisa, es valida amb evidència i procedència, i rep el seu propi commit i push a `main` abans de començar la següent.
 4. Mantenir registres d'exclusió i cobertura que permetin demostrar què s'ha fet amb cada unitat i cada peça.
 5. Resoldre drets i deduplicar abans de fer splits. Knowledge s'agrupa per tema/font quan cal evitar filtració; Language s'agrupa com a mínim per peça i, quan es coneix, per parlant.
