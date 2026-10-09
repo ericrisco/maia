@@ -1,53 +1,50 @@
-# Criteri per escriure converses de Maia Knowledge
+# Guia per a converses de Maia Knowledge
 
-Aquesta guia és la porta de qualitat dels registres a `conversations.jsonl`. Cal llegir-la abans de cada tanda. Els exemples de `../examples/` serveixen per calibrar l'estil; no són candidats ni compten com a cobertura.
+## Comença per la persona
 
-## Comença per allò que vol resoldre la persona
+Escriu primer, només per a tu, què intenta resoldre la persona. Exemples: entendre si una norma canviava segons qui demandava, saber què podia fer el propietari d'una finca, o entendre per què un lloc té una història concreta.
 
-Abans de redactar, resumeix en privat la necessitat: orientar-se per una visita, aclarir una paraula, entendre una diferència, comprovar una dada que ha sentit o saber què se'n pot concloure quan les fonts discrepen.
+Després redacta la pregunta com la diria algú que no ha vist el corpus. Dona el context que calgui, però no parlis de fitxes, seccions, taules, gràfics, files ni fragments. No copiïs l'encapçalament de la font com si fos una consulta.
 
-La pregunta inicial ha de tenir sentit sense veure el corpus. No preguntis què explica una fitxa, una secció, un gràfic o una fila. No copiïs el títol com si fos una consulta. Dona el context mínim perquè una persona que no coneix el document entengui què vol saber.
+## Mantén el fil
 
-## Fes que el diàleg avanci
+La primera resposta ha de contestar la pregunta. El seguiment ha de sortir d'allò que acaba de sentir la persona i demanar una cosa nova. Mantén referents clars: si el segon torn diu «això», ha de quedar clar a què es refereix.
 
-Cada registre és una conversa multitorn: almenys dues intervencions de l'usuari. El seguiment ha de néixer del que l'assistent acaba d'explicar i demanar una cosa nova: una conseqüència, una distinció, un detall relacionat o una aclaració d'una premissa.
+No afegeixis torns per complir una quota. Si el corpus no permet un seguiment natural, busca un altre angle o no facis servir aquella unitat com a conversa. La naturalitat i la correcció valen més que la llargada.
 
-No repeteixis la pregunta, no saltis a un tema aliè i no afegeixis torns per arribar a una xifra. Si la font no dona peu a un seguiment natural, no inventis cap resposta: anota la unitat a la cobertura i continua amb una altra. Naturalitat i veracitat tenen prioritat sobre el recompte.
+## Escriu respostes completes
 
-## Respon com ho faria un assistent
+- Comença per la resposta, no per una introducció sobre la font.
+- Fes servir frases completes i explica els termes locals.
+- Afegeix només els detalls útils per entendre la resposta.
+- No transformis interpretacions en fets ni completis buits amb intuïcions.
+- Si les fonts discrepen, explica què sosté cada versió i què queda sense resoldre.
+- Si una dada no consta, digues-ho amb claredat.
 
-Contesta la pregunta a la primera frase. Escriu frases completes, amb referents clars. Explica els termes locals quan apareixen. No facis servir fragments penjats, camps de base de dades ni llenguatge intern com «el corpus diu», «la fila indica» o «la secció explica».
+## Exemples de redacció
 
-No afegeixis causes, intencions, dates ni detalls que les fonts no sostinguin. Si hi ha desacord, presenta les versions i digues què no es pot resoldre. Si una font ofereix una interpretació, atribueix-la; no la converteixis en un fet establert. Evita dades volàtils de visites si la font no les manté actualitzades.
+**En lloc de:** «Què explica la secció “La regla de competència: depèn de qui és demandat”?»
 
-## Exemple que funciona
+**Pregunta humana:** «Si un comú em reclamava una cosa, m'havia de jutjar el mateix tribunal que si jo el reclamava a ell?»
 
-```text
-Usuari: A la Farga Rosell, què entendré de com es treballava el ferro?
-Assistent: Hi expliquen com es transformava el mineral en lingots i com es venien als mercats catalans. També s'hi poden veure eines del procés, com la trompa, el forn i dos malls.
-Usuari: Se'n posa algun en marxa?
-Assistent: Sí. Un dels dos malls es posa en funcionament dues vegades al dia.
-```
+La primera pregunta demana una resposta sobre un dubte jurídic. La segona demana que s'extregui un fragment.
 
-La primera pregunta expressa una curiositat d'algú que vol visitar el lloc. El seguiment surt de la resposta i demana un detall nou.
+**En lloc de:** «Què indica aquesta fila del gràfic?»
 
-## Exemple que no funciona
+**Pregunta humana, si el dubte és sobre les dades:** «Aquestes xifres semblen contradir el text. Quina dada és més fiable i què no es pot assegurar?»
 
-```text
-Usuari: Què explica la secció «El vocabulari que ho ordena» de la fitxa «Un camp és comunal perquè hi passen els ramats»?
-Assistent: I dos topònims que en surten:
-```
+Si les fonts no permeten decidir quina és correcta, la resposta ho ha de dir. No s'ha d'inventar una reconciliació.
 
-La pregunta depèn de l'estructura interna del corpus i la resposta és incompleta. Cal trobar el dubte real que hi ha al darrere o deixar aquesta informació sense convertir-la en conversa.
+## Porta de qualitat
 
-## Comprova cada registre
+Abans d'acceptar un exemple, comprova:
 
-- La pregunta inicial es podria fer en una conversa real i s'entén sense la fitxa.
-- La resposta principal resol el dubte sense una introducció editorial.
-- Cada seguiment continua el fil i pregunta una cosa nova.
-- En llegir els torns en veu alta, no sona a examen ni a qüestionari.
-- Cada afirmació té evidència identificable als documents i cada font té drets registrats.
-- La conversa conté només missatges d'usuari i assistent; procedència i notes editorials van a `provenance.jsonl`.
-- El registre queda `exportable: false` fins que una persona en revisi el contingut i els drets.
+- La pregunta inicial sona plausible en una conversa real i s'entén tota sola.
+- La resposta resol el dubte a la primera frase.
+- El seguiment continua el mateix fil i pregunta una cosa nova.
+- El diàleg no pressuposa que la persona conegui la font.
+- Cada fet es pot verificar en una font citada a la procedència.
+- La llicència i la redistribució estan registrades. Si no permeten entrenar, l'exemple no s'exporta.
+- Llegit en veu alta, sembla una conversa d'ajuda i no un examen.
 
-Si falla qualsevol comprovació, reescriu o exclou el registre. Una unitat sense pregunta humana bona continua comptant a l'informe de cobertura, però no s'ha de disfressar de conversa.
+Els missatges contenen només les veus `user` i `assistant`. Els IDs, les fonts, les notes editorials i els estats de revisió van a `provenance.jsonl`.

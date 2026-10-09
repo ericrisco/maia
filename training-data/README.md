@@ -1,10 +1,8 @@
 # Maia Training Data
 
-Aquest espai prepara dos usos diferents del corpus de Maia.
+Aquest espai prepara dos conjunts separats a partir del corpus de Maia.
 
-- **Knowledge** ensenya a respondre preguntes sobre Andorra amb informació de `docs/temes/`.
-- **Language** preserva usos reals del català andorrà contemporani de `docs/parla/`.
+- `knowledge/` ensenya coneixement sobre Andorra amb fonts de `docs/temes/`.
+- `language/` preserva parla autèntica i elegible de `docs/parla/`.
 
-No barregem coneixement enciclopèdic i senyal lingüístic. `examples/` fixa el criteri de conversa; `review/` conté candidats pendents; `work/` conserva inventaris i decisions auditables; `reports/` resumeix cobertura i exclusions; `output/` només contindrà exportacions revisades.
-
-Comença per [PLAN.md](PLAN.md). Les mostres de Knowledge són exemples editorials i no s'exporten com a entrenament.
+Comença pel [pla](PLAN.md). Les converses de `knowledge/examples/` són mostres per acordar l'estil. No formen part de cap dataset d'entrenament. La cua de candidats és a `knowledge/review/`; l'export final només s'hi posa després de revisar contingut, procedència, drets i splits.
