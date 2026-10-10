@@ -1,1 +1,2 @@
 {"id":"llengua-fraseologia/fraseologia/01","type":"directa","messages":[{"role":"system","content":""},{"role":"user","content":"Què vol dir «fer-se l’andorrà» en una conversa?"},{"role":"assistant","content":""}],"documents":["docs/temes/llengua/fraseologia/fraseologia.md"]}
+{"id":"llengua-fraseologia/fraseologia/02","type":"directa","messages":[{"role":"system","content":""},{"role":"user","content":"Explica per què la fraseologia ajuda a reconèixer d’on és un parlant."},{"role":"assistant","content":""}],"documents":["docs/temes/llengua/fraseologia/fraseologia.md"]}
