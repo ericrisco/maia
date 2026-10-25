@@ -13,7 +13,13 @@ Per mesurar els marcadors s'han comptat amb expressions regulars 13 formes obser
 | Entrevista o testimoni | 1.357 | 46.005 | 2,95 per 100 paraules |
 | Xerrada explicativa preparada | 146 | 13.404 | **1,09 per 100 paraules** |
 
-La densitat de referència per a una explicació sintètica és, per tant, **com a màxim 1,09 marcadors per 100 paraules**. És millor quedar-se per sota: moltes respostes han de tenir zero marcadors, i en unes 60–100 paraules normalment n'hi haurà zero o un. No cal omplir cada resposta fins al límit.
+## Rang objectiu
+
+- Els trets de la fitxa són de tres tipus: **(a) marcadors del discurs** (bloc 1), **(b) lèxic, morfosintaxi, tractament i manlleus** (blocs 2–5), i **(c) ritme de la parla** (bloc 6: tema avançat, pas al present en narrar, represes, repeticions, frases que s'obren amb un connector oral).
+- **Marcadors (a): entre 0,5 i 1,09 cada 100 paraules** de mitjana global. Ni per sota ni per sobre.
+- **Cada resposta** d'assistent ha de tenir **almenys un tret** de qualsevol tipus. El tipus (c) compta, i és el que més ha d'aparèixer: és el que fa que soni parlat sense caricaturitzar.
+- **Cada conversa** ha de tenir **almenys dos trets diferents**.
+- Els trets (b) només quan encaixen de manera natural en el que es diu. Cap conversa no n'ha de forçar cap.
 
 ## 1. Marcadors del discurs i connectors orals
 
