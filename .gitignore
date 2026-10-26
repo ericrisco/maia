@@ -610,3 +610,5 @@ docs/raw/corpus-parla-andorrana/**
 !docs/raw/corpus-parla-andorrana/**/*.mmd
 docs/raw/corpus-parla-andorrana/transcripcions/**
 docs/raw/corpus-parla-andorrana/**/pa-05[1-4]*
+
+export/
