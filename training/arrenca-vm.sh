@@ -13,6 +13,8 @@ WORK=/opt/maia
 export HOME=/root
 mkdir -p "$WORK/output"
 LOG="$WORK/train.log"
+# Una VM nova (recreada en una altra zona) continua el log del run en lloc de sobreescriure'l.
+[ -f "$LOG" ] || gcloud storage cp "$GS/train.log" "$LOG" >/dev/null 2>&1 || true
 exec > >(tee -a "$LOG") 2>&1
 
 echo "=== arrencada $(date -Is) run=$RUN"
