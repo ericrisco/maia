@@ -7,7 +7,6 @@ import collections
 import hashlib
 import json
 import random
-import subprocess
 import sys
 from pathlib import Path
 from typing import Any
@@ -28,14 +27,11 @@ def reserved(path: str) -> bool:
 
 
 def git_reservations(name: str) -> set[str]:
+    path = ROOT / "benchmark" / "reserva" / name
     try:
-        raw = subprocess.check_output(
-            ["git", "show", f"origin/benchmark:benchmark/reserva/{name}"],
-            cwd=ROOT,
-            text=True,
-        )
-    except subprocess.CalledProcessError as exc:
-        fail(f"no es pot llegir la reserva del benchmark ({name}): {exc}")
+        raw = path.read_text(encoding="utf-8")
+    except OSError as exc:
+        fail(f"no es pot llegir la reserva del benchmark ({path}): {exc}")
     return {line.strip() for line in raw.splitlines() if line.strip() and not line.lstrip().startswith("#")}
 
 
