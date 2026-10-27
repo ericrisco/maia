@@ -10,15 +10,23 @@ Si a --out/checkpoints hi ha un checkpoint (VM spot interrompuda), es reprèn d'
 
 from __future__ import annotations
 
+# ruff: noqa: I001
+import json
+import os
+import sys
+
+# Variables d'entorn d'Unsloth del config (p. ex. UNSLOTH_BLOCK_COMPILE=0): s'han de fixar
+# abans d'importar-lo, perquè les llegeix en carregar-se.
+if "--config" in sys.argv:
+    with open(sys.argv[sys.argv.index("--config") + 1], encoding="utf-8") as _stream:
+        os.environ.update(json.load(_stream).get("env", {}))
+
 # Unsloth s'ha d'importar abans que transformers i trl perquè hi apliqui els pegats
 # (per això l'ordre d'imports no és l'alfabètic).
-# ruff: noqa: I001
 from unsloth import FastModel
 from unsloth.chat_templates import get_chat_template, train_on_responses_only
 
 import argparse
-import json
-import sys
 import time
 from pathlib import Path
 
@@ -78,6 +86,7 @@ def main() -> None:
     out: Path = args.out
     out.mkdir(parents=True, exist_ok=True)
     log(f"Run {cfg['run']}: model {cfg['model']}, variant {cfg['variant']}")
+    log(f"Entorn: {cfg.get('env', {})}")
 
     model, tokenizer = FastModel.from_pretrained(
         model_name=cfg["model"],
