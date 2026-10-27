@@ -612,3 +612,6 @@ docs/raw/corpus-parla-andorrana/transcripcions/**
 docs/raw/corpus-parla-andorrana/**/pa-05[1-4]*
 
 export/
+
+# Runs d'entrenament (adaptadors i logs baixats del bucket)
+runs/

@@ -38,6 +38,21 @@ def benchmark_reservations() -> set[str]:
 RESERVED = benchmark_reservations()
 
 
+def system_prompt() -> str:
+    """Missatge de sistema fix: el mateix a l'entrenament, a l'avaluació i a la demo."""
+    path = ROOT / "training-data" / "missatge-sistema.txt"
+    try:
+        text = path.read_text(encoding="utf-8").strip()
+    except OSError as exc:
+        fail(f"no es pot llegir el missatge de sistema ({path}): {exc}")
+    if not text:
+        fail(f"el missatge de sistema és buit ({path})")
+    return text
+
+
+SYSTEM = system_prompt()
+
+
 def load_all() -> list[dict[str, Any]]:
     entries: list[dict[str, Any]] = []
     for path in sorted(DATA.glob("*.jsonl")):
@@ -102,6 +117,26 @@ def validation_articles(rows: list[dict[str, Any]]) -> set[str]:
     return set(selected)
 
 
+def parla_docs(row: dict[str, Any]) -> set[str]:
+    return {d for d in row.get("documents", []) if isinstance(d, str) and d.startswith("docs/parla/")}
+
+
+def validation_parla_pieces(rows: list[dict[str, Any]]) -> set[str]:
+    """Reserva peces de Parla senceres (~10% dels xat) per veure si el registre s'aprèn."""
+    counts = collections.Counter(doc for row in rows if row.get("type") == "xat" for doc in parla_docs(row))
+    ordered = sorted(counts, key=lambda doc: hashlib.sha256((str(SEED) + "\0" + doc).encode()).digest())
+    target = max(1, round(sum(counts.values()) * 0.10))
+    selected: set[str] = set()
+    total = 0
+    for doc in ordered:
+        if total >= target:
+            break
+        if total + counts[doc] <= target * 1.5:
+            selected.add(doc)
+            total += counts[doc]
+    return selected
+
+
 def is_reserved(row: dict[str, Any]) -> bool:
     return any(reserved(doc) for doc in row.get("documents", []) if isinstance(doc, str))
 
@@ -135,7 +170,8 @@ def approx_words(row: dict[str, Any]) -> int:
 def identity(row: dict[str, Any]) -> str:
     messages = row.get("messages")
     if isinstance(messages, list):
-        messages = [m for m in messages if not (isinstance(m, dict) and m.get("role") == "system" and m.get("content") == "")]
+        # El sistema és fix (o buit a les fonts): no distingeix converses.
+        messages = [m for m in messages if not (isinstance(m, dict) and m.get("role") == "system")]
     return json.dumps(messages if messages is not None else row.get("text", ""), ensure_ascii=False, sort_keys=True)
 
 
@@ -181,11 +217,15 @@ def main() -> None:
     # qualsevol article queden al mateix costat de la partició.
     valid_articles = validation_articles(kept)
     article_components_valid = valid_articles
+    # Parla real es parteix per peça: cap peça queda partida entre train i valid.
+    valid_pieces = validation_parla_pieces(kept)
     train_rows: list[dict[str, Any]] = []
     valid_rows: list[dict[str, Any]] = []
     for row in kept:
         docs = article_docs(row)
-        target = valid_rows if docs and docs <= article_components_valid else train_rows
+        pieces = parla_docs(row)
+        in_valid = (docs and docs <= article_components_valid) or (not docs and pieces and pieces <= valid_pieces)
+        target = valid_rows if in_valid else train_rows
         target.append(row)
 
     # La partició cobreix cada article completament en un únic costat.
@@ -204,7 +244,8 @@ def main() -> None:
     real = [r for r in kept if r.get("_source_file", "").startswith("parla-") and not r.get("_source_file", "").startswith("parla-sintetic-")]
     synthetics = [r for r in kept if r.get("_source_file", "").startswith("parla-sintetic-") and r.get("apte") is True]
     real_xat = [r for r in real if r.get("type") == "xat"]
-    real_text = [r for r in real if r.get("type") == "text" and isinstance(r.get("text"), str)]
+    # El text de les peces de validació tampoc entra a l'entrenament.
+    real_text = [r for r in real if r.get("type") == "text" and isinstance(r.get("text"), str) and not parla_docs(r) & valid_pieces]
 
     variants: dict[str, tuple[list[dict[str, Any]], list[dict[str, Any]], list[dict[str, Any]]]] = {}
     for name, subset in (("K", knowledge), ("KP", knowledge + real_xat), ("KPS", knowledge + real_xat + synthetics)):
@@ -218,7 +259,7 @@ def main() -> None:
             # Les converses xat de parla real es tripliquen només a train.
             copies = 1 if is_valid or row.get("type") != "xat" else 3
             target = valid_out if is_valid else train_out
-            target.extend({"messages": clean_messages(row)} for _ in range(copies))
+            target.extend({"messages": [{"role": "system", "content": SYSTEM}] + clean_messages(row)} for _ in range(copies))
             source_for_report.extend([row] * copies)
         allowed_duplicates = {identity(r) for r in real_xat if identity(r) not in by_identity}
         validate_conversations(train_out, valid_out, allowed_duplicates)
@@ -237,7 +278,12 @@ def main() -> None:
             fail(f"conversa duplicada a les fonts: {row.get('id')}")
         seen.add(key)
 
-    sections = ["# Informe d'exportació\n", f"Reserva benchmark: {len(RESERVED)} identificadors.\n"]
+    sections = [
+        "# Informe d'exportació\n",
+        f"Reserva benchmark: {len(RESERVED)} identificadors.\n",
+        f"Peces de Parla a valid: {', '.join(sorted(valid_pieces)) or 'cap'}.\n",
+        f"Missatge de sistema: {SYSTEM}\n",
+    ]
     for name, (train, valid, source_rows) in variants.items():
         sections.append(report_variant(name, train, valid, source_rows, excluded_by_kind[name]))
     OUT.mkdir(parents=True, exist_ok=True)
