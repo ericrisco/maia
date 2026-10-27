@@ -1,3 +1,8 @@
+# Material reservat per a maia-bench (github.com/ericrisco/maia-bench): no s'entrena mai.
+# Qualsevol entrada de training-data/datasets/ que citi una d'aquestes rutes a `documents` queda fora de l'export.
+# Llavor de la mostra: 20261020. Si es canvia aquesta llista, s'ha de canviar també a maia-bench.
+
+# 41 articles de docs/temes/
 docs/temes/costums/religiositat/levangelitzacio.md
 docs/temes/cultura/llegendes/el-llac-dengolasters.md
 docs/temes/cultura/museus-i-arxius/res-danterior-al-1984-no-es-tria.md
@@ -39,3 +44,11 @@ docs/temes/societat/vida-civica/els-problemes-dandorra.md
 docs/temes/territori/clima-i-muntanya/el-canvi-climatic.md
 docs/temes/territori/clima-i-muntanya/el-pla-darinsal-i-els-avisos-dallaus.md
 docs/temes/vida-quotidiana/com-funciona-tot/que-costa-una-multa.md
+
+# 6 peces de docs/parla/oral/
+docs/parla/oral/les-campanes-robert-lizarte.md
+docs/parla/oral/els-noms-dels-carrers.md
+docs/parla/oral/testimoni-constituent-santamaria.md
+docs/parla/oral/testimoni-constituent-gelabert.md
+docs/parla/oral/la-vida-a-pages.md
+docs/parla/oral/testimoni-constituent-dolsa.md

@@ -26,8 +26,8 @@ def reserved(path: str) -> bool:
     return path in RESERVED
 
 
-def git_reservations(name: str) -> set[str]:
-    path = ROOT / "benchmark" / "reserva" / name
+def benchmark_reservations() -> set[str]:
+    path = ROOT / "training-data" / "excloses-benchmark.txt"
     try:
         raw = path.read_text(encoding="utf-8")
     except OSError as exc:
@@ -35,7 +35,7 @@ def git_reservations(name: str) -> set[str]:
     return {line.strip() for line in raw.splitlines() if line.strip() and not line.lstrip().startswith("#")}
 
 
-RESERVED = git_reservations("fitxes.txt") | git_reservations("parla.txt")
+RESERVED = benchmark_reservations()
 
 
 def load_all() -> list[dict[str, Any]]:
