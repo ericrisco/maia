@@ -7,6 +7,7 @@ import collections
 import hashlib
 import json
 import random
+import re
 import sys
 from pathlib import Path
 from typing import Any
@@ -141,6 +142,31 @@ def is_reserved(row: dict[str, Any]) -> bool:
     return any(reserved(doc) for doc in row.get("documents", []) if isinstance(doc, str))
 
 
+# L'usuari assenyala un document que el model no veu («aquest rebut», «el text diu»).
+# Una pregunta així ensenya a respondre sobre una font invisible: la conversa no entra.
+DOCUMENT_INVISIBLE = re.compile(
+    r"\b(aquest|aquesta|aquests|aquestes|aquell|aquella)\s+"
+    r"(rebut|document|text|informe|fitxa|full|contracte|escrit|paper|formulari|butlletí|imprès|"
+    r"certificat|factura|comunicat|carta|sentència|acta)\b"
+    r"|\b(el|la|l')\s*(text|document|rebut|informe|fitxa|full|contracte|escrit)\s+"
+    r"(diu|indica|explica|posa|menciona|especifica|deia|diu-hi)\b"
+    r"|\bllegeixo\s+(la|el|aquest|aquesta)\s+(fitxa|carta|llei|sentència|acta|document|text)\b",
+    re.IGNORECASE,
+)
+
+
+def points_at_invisible_document(row: dict[str, Any]) -> bool:
+    messages = row.get("messages")
+    if row.get("_source_file", "").startswith("parla-") or not isinstance(messages, list):
+        return False
+    return any(
+        isinstance(m, dict)
+        and m.get("role") == "user"
+        and DOCUMENT_INVISIBLE.search(str(m.get("content", "")))
+        for m in messages
+    )
+
+
 def clean_messages(row: dict[str, Any]) -> list[dict[str, str]]:
     messages = row.get("messages")
     if not isinstance(messages, list):
@@ -212,6 +238,8 @@ def main() -> None:
         "KPS": sum(is_reserved(r) for r in all_knowledge + [r for r in all_real if r.get("type") == "xat"] + all_synthetics),
     }
     kept = [r for r in rows if not is_reserved(r)]
+    invisible = sum(points_at_invisible_document(r) for r in kept)
+    kept = [r for r in kept if not points_at_invisible_document(r)]
 
     # Assignació per components d'articles: totes les converses que comparteixen
     # qualsevol article queden al mateix costat de la partició.
@@ -283,6 +311,7 @@ def main() -> None:
         f"Reserva benchmark: {len(RESERVED)} identificadors.\n",
         f"Peces de Parla a valid: {', '.join(sorted(valid_pieces)) or 'cap'}.\n",
         f"Missatge de sistema: {SYSTEM}\n",
+        f"Converses excloses perquè l'usuari assenyala un document invisible: {invisible}.\n",
     ]
     for name, (train, valid, source_rows) in variants.items():
         sections.append(report_variant(name, train, valid, source_rows, excluded_by_kind[name]))
