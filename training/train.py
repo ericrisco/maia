@@ -1,11 +1,11 @@
-"""Entrena maia amb QLoRA (Unsloth) sobre un export de training-data.
+"""Trains maia with QLoRA (Unsloth) on a training-data export.
 
-S'executa a la VM amb la L4, llançada des de training/entrena.ipynb. Llegeix:
-  --config  config.json (model, variant i hiperparàmetres)
-  --data    carpeta amb train.jsonl i valid.jsonl (export/<variant>/)
-  --out     carpeta de sortida: checkpoints/, adapter/, metrics.json, mostres.md
+Runs on the L4 VM, launched from training/train.ipynb. Reads:
+  --config  config.json (model, variant and hyperparameters)
+  --data    folder with train.jsonl and valid.jsonl (export/<variant>/)
+  --out     output folder: checkpoints/, adapter/, metrics.json, samples.md
 
-Si a --out/checkpoints hi ha un checkpoint (VM spot interrompuda), es reprèn d'allà.
+If --out/checkpoints holds a checkpoint (interrupted spot VM), training resumes from it.
 """
 
 from __future__ import annotations
@@ -15,14 +15,14 @@ import json
 import os
 import sys
 
-# Variables d'entorn d'Unsloth del config (p. ex. UNSLOTH_BLOCK_COMPILE=0): s'han de fixar
-# abans d'importar-lo, perquè les llegeix en carregar-se.
+# Unsloth environment variables from the config (e.g. UNSLOTH_BLOCK_COMPILE=0): they must be set
+# before importing it, because it reads them on load.
 if "--config" in sys.argv:
     with open(sys.argv[sys.argv.index("--config") + 1], encoding="utf-8") as _stream:
         os.environ.update(json.load(_stream).get("env", {}))
 
-# Unsloth s'ha d'importar abans que transformers i trl perquè hi apliqui els pegats
-# (per això l'ordre d'imports no és l'alfabètic).
+# Unsloth must be imported before transformers and trl so it can patch them
+# (that is why the imports are not in alphabetical order).
 from unsloth import FastModel
 from unsloth.chat_templates import get_chat_template, train_on_responses_only
 
@@ -34,7 +34,7 @@ from datasets import load_dataset
 from transformers.trainer_utils import get_last_checkpoint
 from trl import SFTConfig, SFTTrainer
 
-# Marques de torn de la plantilla de Gemma 4 (comprovades sobre chat_template.jinja).
+# Turn markers of the Gemma 4 chat template (checked against chat_template.jinja).
 INSTRUCTION_PART = "<|turn>user\n"
 RESPONSE_PART = "<|turn>model\n"
 
@@ -44,22 +44,22 @@ def log(message: str) -> None:
 
 
 def check_mask(trainer: SFTTrainer, tokenizer) -> None:
-    """Atura l'entrenament si la pèrdua no es calcula només sobre les respostes."""
+    """Stops training if the loss is not computed on the responses only."""
     sample = trainer.train_dataset[0]
     labels = sample["labels"]
     trained = [t for t in labels if t != -100]
     if not trained:
-        sys.exit("ERROR: la màscara deixa la primera conversa sense cap token de resposta")
+        sys.exit("ERROR: the mask leaves the first conversation without any response token")
     decoded = tokenizer.decode(trained)
     if "<|turn>user" in decoded or "<|turn>system" in decoded:
-        sys.exit("ERROR: la màscara entrena també sobre el torn de l'usuari o del sistema")
-    log(f"Màscara correcta: {len(trained)}/{len(labels)} tokens entrenats a la primera conversa")
-    log(f"Tokens entrenats (inici): {decoded[:300]!r}")
+        sys.exit("ERROR: the mask also trains on the user or system turn")
+    log(f"Mask OK: {len(trained)}/{len(labels)} tokens trained in the first conversation")
+    log(f"Trained tokens (start): {decoded[:300]!r}")
 
 
 def write_samples(model, tokenizer, cfg: dict, system: str, path: Path) -> None:
     FastModel.for_inference(model)
-    lines = ["# Mostres després d'entrenar\n"]
+    lines = ["# Samples after training\n"]
     for question in cfg.get("prompts", []):
         messages = [{"role": "system", "content": system}, {"role": "user", "content": question}]
         text = tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
@@ -71,7 +71,7 @@ def write_samples(model, tokenizer, cfg: dict, system: str, path: Path) -> None:
         prompt_len = inputs["input_ids"].shape[1]
         answer = tokenizer.decode(output[0][prompt_len:], skip_special_tokens=True)
         lines.append(f"## {question}\n\n{answer.strip()}\n")
-        log(f"Mostra: {question}")
+        log(f"Sample: {question}")
     path.write_text("\n".join(lines), encoding="utf-8")
 
 
@@ -86,7 +86,7 @@ def main() -> None:
     out: Path = args.out
     out.mkdir(parents=True, exist_ok=True)
     log(f"Run {cfg['run']}: model {cfg['model']}, variant {cfg['variant']}")
-    log(f"Entorn: {cfg.get('env', {})}")
+    log(f"Environment: {cfg.get('env', {})}")
 
     model, tokenizer = FastModel.from_pretrained(
         model_name=cfg["model"],
@@ -109,7 +109,7 @@ def main() -> None:
     tokenizer = get_chat_template(tokenizer, chat_template=cfg["chat_template"])
 
     def to_text(batch: dict) -> dict:
-        # La plantilla posa <bos>; el tokenitzador el torna a afegir en entrenar.
+        # The template adds <bos>; the tokenizer adds it again when training.
         return {
             "text": [
                 tokenizer.apply_chat_template(
@@ -129,7 +129,7 @@ def main() -> None:
     data = data.map(to_text, batched=True, remove_columns=["messages"])
     with (args.data / "valid.jsonl").open(encoding="utf-8") as stream:
         system = json.loads(stream.readline())["messages"][0]["content"]
-    log(f"Converses: train {len(data['train'])}, valid {len(data['valid'])}")
+    log(f"Conversations: train {len(data['train'])}, valid {len(data['valid'])}")
 
     ckpt_dir = out / "checkpoints"
     trainer = SFTTrainer(
@@ -166,12 +166,12 @@ def main() -> None:
     check_mask(trainer, tokenizer)
 
     last = get_last_checkpoint(str(ckpt_dir)) if ckpt_dir.is_dir() else None
-    log(f"Reprenent de {last}" if last else "Entrenament des de zero")
+    log(f"Resuming from {last}" if last else "Training from scratch")
     trainer.train(resume_from_checkpoint=last)
 
     model.save_pretrained(str(out / "adapter"))
     tokenizer.save_pretrained(str(out / "adapter"))
-    log("Adaptador LoRA desat")
+    log("LoRA adapter saved")
 
     metrics = {
         "final_eval": trainer.evaluate(),
@@ -181,19 +181,19 @@ def main() -> None:
     (out / "metrics.json").write_text(
         json.dumps(metrics, ensure_ascii=False, indent=2), encoding="utf-8"
     )
-    log(f"Pèrdua final a valid: {metrics['final_eval'].get('eval_loss')}")
+    log(f"Final validation loss: {metrics['final_eval'].get('eval_loss')}")
 
-    # Les mostres i el GGUF són extres: si fallen, l'adaptador ja és desat.
+    # Samples and GGUF are extras: if they fail, the adapter is already saved.
     try:
-        write_samples(model, tokenizer, cfg, system, out / "mostres.md")
+        write_samples(model, tokenizer, cfg, system, out / "samples.md")
     except Exception as exc:
-        log(f"AVÍS: no s'han pogut generar mostres: {exc}")
+        log(f"WARNING: could not generate samples: {exc}")
     if cfg.get("export_gguf"):
         try:
             model.save_pretrained_gguf(str(out / "gguf"), tokenizer, quantization_method="q4_k_m")
-            log("GGUF q4_k_m desat")
+            log("GGUF q4_k_m saved")
         except Exception as exc:
-            log(f"AVÍS: no s'ha pogut exportar el GGUF: {exc}")
+            log(f"WARNING: could not export the GGUF: {exc}")
 
 
 if __name__ == "__main__":

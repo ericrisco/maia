@@ -1,7 +1,7 @@
 #!/bin/bash
-# Startup script de la VM d'entrenament. S'executa com a root a cada arrencada.
-# Llegeix el bucket i el run de les metadades, entrena, puja els resultats i apaga la VM.
-# Si una VM spot s'interromp i es torna a engegar, reprèn des de l'últim checkpoint pujat.
+# Startup script of the training VM. Runs as root on every boot.
+# Reads the bucket and the run from the metadata, trains, uploads the results and shuts the VM down.
+# If a spot VM is interrupted and started again, it resumes from the last uploaded checkpoint.
 set -uo pipefail
 
 MD=http://metadata.google.internal/computeMetadata/v1/instance/attributes
@@ -13,25 +13,25 @@ WORK=/opt/maia
 export HOME=/root
 mkdir -p "$WORK/output"
 LOG="$WORK/train.log"
-# Una VM nova (recreada en una altra zona) continua el log del run en lloc de sobreescriure'l.
+# A new VM (recreated in another zone) continues the run's log instead of overwriting it.
 [ -f "$LOG" ] || gcloud storage cp "$GS/train.log" "$LOG" >/dev/null 2>&1 || true
 exec > >(tee -a "$LOG") 2>&1
 
-echo "=== arrencada $(date -Is) run=$RUN"
+echo "=== boot $(date -Is) run=$RUN"
 if gcloud storage ls "$GS/DONE" >/dev/null 2>&1; then
-  echo "El run ja està acabat: apago."
+  echo "The run is already finished: shutting down."
   shutdown -h now
   exit 0
 fi
 
-# Puja el log cada minut perquè el notebook el pugui seguir.
+# Upload the log every minute so the notebook can follow it.
 ( while true; do gcloud storage cp -q "$LOG" "$GS/train.log" >/dev/null 2>&1; sleep 60; done ) &
 
 gcloud storage rsync -r "$GS/input" "$WORK/input"
-# Checkpoints d'una arrencada anterior (si n'hi ha).
+# Checkpoints from a previous boot (if any).
 gcloud storage rsync -r "$GS/output" "$WORK/output" 2>/dev/null || true
 
-nvidia-smi || { echo "ERROR: no hi ha GPU"; echo gpu | gcloud storage cp - "$GS/FAILED"; shutdown -h now; exit 1; }
+nvidia-smi || { echo "ERROR: no GPU"; echo gpu | gcloud storage cp - "$GS/FAILED"; shutdown -h now; exit 1; }
 
 if [ ! -x "$WORK/venv/bin/python" ]; then
   curl -LsSf https://astral.sh/uv/install.sh | sh
@@ -40,7 +40,7 @@ if [ ! -x "$WORK/venv/bin/python" ]; then
 fi
 "$WORK/venv/bin/python" -c "import unsloth, torch; print('unsloth', unsloth.__version__, 'torch', torch.__version__)"
 
-# Còpia de seguretat dels checkpoints cada 5 minuts (una VM spot pot caure en qualsevol moment).
+# Back up the checkpoints every 5 minutes (a spot VM can go away at any moment).
 ( while true; do sleep 300; gcloud storage rsync -r "$WORK/output" "$GS/output" >/dev/null 2>&1; done ) &
 
 "$WORK/venv/bin/python" "$WORK/input/train.py" \
@@ -53,6 +53,6 @@ if [ $STATUS -eq 0 ]; then
 else
   echo "$STATUS" | gcloud storage cp - "$GS/FAILED"
 fi
-echo "=== final $(date -Is) estat=$STATUS"
+echo "=== end $(date -Is) status=$STATUS"
 gcloud storage cp "$LOG" "$GS/train.log"
 shutdown -h now
