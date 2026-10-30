@@ -1,0 +1,50 @@
+{"fact_id": "grandvalira-marca-2003", "question": "Des de quin hivern existeix la marca d'esquí Grandvalira?", "expect": [["2003"]]}
+{"fact_id": "tabac-revolta-1733", "question": "Explica'm breument l'aixecament dels andorrans contra el bisbe per les plantes de tabac i en quin any va passar.", "expect": [["1733"]]}
+{"fact_id": "tabac-prohibicio-conreu", "question": "En quina data el Consell General va prohibir per primer cop plantar tabac?", "expect": [["1731"], ["18 de juny"]]}
+{"fact_id": "tabac-monopoli-espanya", "question": "Al segle XVIII, qui controlava l'elaboració del tabac a Espanya?", "expect": [["monopoli", "Estat"]]}
+{"fact_id": "grandvalira-telesqui-1956", "question": "Qui va posar el primer telesquí a la zona que avui és Grandvalira, i quan?", "expect": [["Viladomat"], ["1956"]]}
+{"fact_id": "vallnord-estacions-agrupades", "question": "Quines estacions d'esquí comercialitzava conjuntament la marca Vallnord?", "expect": [["Pal"], ["Arcalís", "Arcalis"]]}
+{"fact_id": "banca-secret-2018", "question": "Un client d'un banc andorrà, a partir de quin moment ja no estava protegit pel secret bancari?", "expect": [["2018"]]}
+{"fact_id": "fhasa-reserva-10-per-cent", "question": "Quin tant per cent de l'electricitat produïda per FHASA s'havia de quedar a Andorra?", "expect": [["10 %", "10%", "desena", "dècima", "una de cada deu"]]}
+{"fact_id": "fhasa-concessio", "question": "Qui van ser els titulars de la concessió de FHASA i en quin any la van obtenir?", "expect": [["Boussac"], ["1929"]]}
+{"fact_id": "escola-andorrana-1982", "question": "Quan va néixer l'Escola Andorrana i qui la va crear?", "expect": [["1982"]]}
+{"fact_id": "carlemany-carta-pobla", "question": "La Carta Pobla que diu que Carlemany va fundar Andorra és un document autèntic?", "expect": [["fals", "falsificat", "no és autèntic"]]}
+{"fact_id": "pareatge-1278", "question": "Recorda'm la ciutat i l'any de la signatura del primer dels dos Pareatges.", "expect": [["Lleida"], ["1278"]]}
+{"fact_id": "pareatge-1288", "question": "L'acord entre el comte de Foix i el bisbe d'Urgell conegut com a segon Pareatge, de quin any data?", "expect": [["1288"]]}
+{"fact_id": "manual-digest-1748", "question": "Qui és l'autor del Manual Digest i de quin any és?", "expect": [["Fiter"], ["1748"]]}
+{"fact_id": "politar-1763", "question": "El Politar, el text que complementa el Manual Digest, de quin any és?", "expect": [["1763"]]}
+{"fact_id": "nova-reforma-1866", "question": "Amb la reforma del 1866, qui passava a triar els membres del Consell General?", "expect": [["caps de casa"]]}
+{"fact_id": "constitucio-1993", "question": "Quin dia el Consell General va donar l'aprovació al text constitucional?", "expect": [["2 de febrer"], ["1993"]]}
+{"fact_id": "referendum-1993", "question": "Quan van votar els andorrans la Constitució en referèndum?", "expect": [["14 de març"], ["1993"]]}
+{"fact_id": "onu-1993", "question": "Quin dia Andorra va entrar a l'ONU?", "expect": [["28 de juliol"], ["1993"]]}
+{"fact_id": "consell-europa-1994", "question": "Quin any Andorra es va fer membre del Consell d'Europa?", "expect": [["1994"]]}
+{"fact_id": "oscar-ribas-primer-cap", "question": "Com es deia la primera persona que va ocupar el càrrec de cap de Govern a Andorra?", "expect": [["Ribas"]]}
+{"fact_id": "marc-forne-cap", "question": "Durant quins anys Marc Forné va ser cap de Govern?", "expect": [["1994"], ["2005"]]}
+{"fact_id": "albert-pintat-cap", "question": "Entre quins anys Albert Pintat va encapçalar el Govern d'Andorra?", "expect": [["2005"], ["2009"]]}
+{"fact_id": "antoni-marti-cap", "question": "Quants anys, i de quin a quin, va governar Antoni Martí com a cap de Govern?", "expect": [["2011"], ["2019"]]}
+{"fact_id": "federacio-futbol", "question": "Quants anys fa, aproximadament, que existeix la Federació Andorrana de Futbol? Dona'm l'any de creació.", "expect": [["1994"]]}
+{"fact_id": "basquet-1998-imbatut", "question": "Al torneig europeu de països petits del 1998, l'equip andorrà de bàsquet va perdre algun partit?", "expect": [["invict", "imbatut", "sense perdre", "tots els partits"]]}
+{"fact_id": "basquet-campio-casa-2000", "question": "On es va jugar l'Europeu de Països Petits de bàsquet del 2000 que va guanyar Andorra?", "expect": [["Andorra", "a casa"]]}
+{"fact_id": "basquet-campio-casa-2004", "question": "Quin país va guanyar el Campionat d'Europa de Països Petits de bàsquet del 2004 i on es va disputar?", "expect": [["Andorra"]]}
+{"fact_id": "basquet-final-2012", "question": "Amb quin resultat Andorra va guanyar la final de l'Europeu de Països Petits de bàsquet del 2012?", "expect": [["74"], ["72"]]}
+{"fact_id": "basquet-final-2014", "question": "Contra quina selecció va jugar Andorra la final de l'Europeu de Països Petits de bàsquet del 2014, i com va acabar?", "expect": [["Malta"], ["66"]]}
+{"fact_id": "bandera", "question": "Descriu-me els colors de la bandera andorrana i com estan col·locats.", "expect": [["blau", "blava"], ["groc", "groga"], ["vermell", "vermella"], ["vertical"]]}
+{"fact_id": "escut", "question": "A qui fan referència els símbols eclesiàstics daurats que apareixen a l'escut d'Andorra?", "expect": [["bisbe"]]}
+{"fact_id": "himne", "question": "Com es titula la peça musical que fa d'himne nacional andorrà?", "expect": [["gran Carlemany"]]}
+{"fact_id": "lema", "question": "Quina frase llatina fa servir Andorra com a lema?", "expect": [["Virtus"], ["fortior"]]}
+{"fact_id": "casa-de-la-vall", "question": "De quin material és l'escut que hi ha a la porta de Casa de la Vall?", "expect": [["marbre"]]}
+{"fact_id": "romanic", "question": "De quin període és la nau de l'església de Santa Coloma?", "expect": [["preromànic"]]}
+{"fact_id": "falles", "question": "Què és una falla a Andorra i quan es fa servir?", "expect": [["torxa", "foc"], ["Sant Joan"]]}
+{"fact_id": "gegants", "question": "Quins personatges són els gegants de la parròquia d'Andorra la Vella?", "expect": [["Carlemany"], ["Ermessenda"]]}
+{"fact_id": "judici-contrabandistes-encamp", "question": "A quina festa i a quina parròquia pertany el Judici dels Contrabandistes?", "expect": [["Carnaval", "carnaval", "Carnestoltes"], ["Encamp"]]}
+{"fact_id": "legendes", "question": "A quina parròquia hi ha el Roc de les Bruixes i què el fa especial?", "expect": [["Canillo"], ["gravat"]]}
+{"fact_id": "noms-parroquies", "question": "Digues-me el nom de totes les parròquies andorranes.", "expect": [["Canillo"], ["Encamp"], ["Ordino"], ["Massana"], ["Andorra la Vella"], ["Sant Julià"], ["Escaldes"]]}
+{"fact_id": "escaldes-parroquia", "question": "Escaldes-Engordany abans formava part d'Andorra la Vella. Quan es va separar per ser la setena parròquia?", "expect": [["1978"]]}
+{"fact_id": "quarts-definicio", "question": "Explica'm què vol dir «quart» quan parlem de l'organització de les parròquies andorranes.", "expect": [["veïn", "veïnal"], ["comunal"]]}
+{"fact_id": "quarts-localitzacio", "question": "Si vull trobar quarts a Andorra, a quines parròquies els trobaré?", "expect": [["Ordino"], ["Massana"], ["Sant Julià"]]}
+{"fact_id": "comuns-autogovern", "question": "A Andorra, quin és l'òrgan de govern propi de cada parròquia?", "expect": [["comú"]]}
+{"fact_id": "comuns-competencies", "question": "Quin tipus de llei ha de fixar les competències dels comuns segons la Constitució?", "expect": [["qualificada"]]}
+{"fact_id": "comuns-finançament", "question": "Com es calculen les transferències del Govern als comuns?", "expect": [["igual", "fixa"], ["població"]]}
+{"fact_id": "comuns-control", "question": "Quin tribunal resol un conflicte de competències entre el Govern i un comú?", "expect": [["Constitucional"]]}
+{"fact_id": "comuns-eleccions", "question": "Cada quants anys s'escullen els consells de comú?", "expect": [["quatre", "4"]]}
+{"fact_id": "consell-general-escons", "question": "Segons la Constitució, quin és el nombre mínim i màxim de consellers generals?", "expect": [["28"], ["42"]]}

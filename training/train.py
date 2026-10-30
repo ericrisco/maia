@@ -57,17 +57,20 @@ def check_mask(trainer: SFTTrainer, tokenizer) -> None:
     log(f"Trained tokens (start): {decoded[:300]!r}")
 
 
-def write_samples(model, tokenizer, cfg: dict, system: str, path: Path) -> None:
+def write_samples(model, tokenizer, cfg: dict, system: str, path: Path, title: str) -> None:
     FastModel.for_inference(model)
-    lines = ["# Samples after training\n"]
+    # greedy_samples: deterministic answers, so before/after samples can be compared fact by fact.
+    if cfg.get("greedy_samples"):
+        sampling = {"do_sample": False}
+    else:
+        sampling = {"do_sample": True, "temperature": 1.0, "top_p": 0.95, "top_k": 64}
+    lines = [f"# {title}\n"]
     for question in cfg.get("prompts", []):
         messages = [{"role": "system", "content": system}, {"role": "user", "content": question}]
         text = tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
         text = text.removeprefix("<bos>")
         inputs = tokenizer(text=[text], return_tensors="pt").to("cuda")
-        output = model.generate(
-            **inputs, max_new_tokens=300, do_sample=True, temperature=1.0, top_p=0.95, top_k=64
-        )
+        output = model.generate(**inputs, max_new_tokens=300, **sampling)
         prompt_len = inputs["input_ids"].shape[1]
         answer = tokenizer.decode(output[0][prompt_len:], skip_special_tokens=True)
         lines.append(f"## {question}\n\n{answer.strip()}\n")
@@ -167,6 +170,11 @@ def main() -> None:
 
     last = get_last_checkpoint(str(ckpt_dir)) if ckpt_dir.is_dir() else None
     log(f"Resuming from {last}" if last else "Training from scratch")
+    before = out / "samples_before.md"
+    if cfg.get("samples_before_training") and not last and not before.exists():
+        # Baseline: the same prompts answered by the untrained adapter (LoRA starts as a no-op).
+        write_samples(model, tokenizer, cfg, system, before, "Samples before training")
+        FastModel.for_training(model)
     trainer.train(resume_from_checkpoint=last)
 
     model.save_pretrained(str(out / "adapter"))
@@ -185,7 +193,7 @@ def main() -> None:
 
     # Samples and GGUF are extras: if they fail, the adapter is already saved.
     try:
-        write_samples(model, tokenizer, cfg, system, out / "samples.md")
+        write_samples(model, tokenizer, cfg, system, out / "samples.md", "Samples after training")
     except Exception as exc:
         log(f"WARNING: could not generate samples: {exc}")
     if cfg.get("export_gguf"):
