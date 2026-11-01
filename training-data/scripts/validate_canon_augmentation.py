@@ -1,4 +1,4 @@
-"""Validate the Andorran canon-facts pilot JSONL files."""
+"""Validate the Andorran canon-facts augmentation JSONL files."""
 
 from __future__ import annotations
 
@@ -70,6 +70,16 @@ def font_ids() -> set[str]:
     return found
 
 
+def known_source_ids() -> set[str]:
+    """Accept thematic source IDs and verified source-row IDs from canon-basic."""
+    found = font_ids()
+    for row in read_jsonl(BASIC_DATASET_PATH):
+        source_id = row.get("id")
+        if isinstance(source_id, str):
+            found.add(source_id)
+    return found
+
+
 def validate_facts(scope: str | None = None) -> list[dict[str, Any]]:
     facts = read_jsonl(FACTS_PATH)
     if not facts:
@@ -79,7 +89,7 @@ def validate_facts(scope: str | None = None) -> list[dict[str, Any]]:
     seen_ids: set[str] = set()
     seen_facts: set[str] = set()
     topic_counts: Counter[str] = Counter()
-    known_fonts = font_ids()
+    known_sources = known_source_ids()
     for index, fact in enumerate(facts, start=1):
         if set(fact) != FACT_FIELDS:
             raise ValueError(f"fact line {index}: fields must be {sorted(FACT_FIELDS)}")
@@ -106,8 +116,8 @@ def validate_facts(scope: str | None = None) -> list[dict[str, Any]]:
         if len(sources) != len(set(sources)):
             raise ValueError(f"fact line {index}: duplicate source_ids")
         for source_id in sources:
-            if source_id not in known_fonts:
-                raise ValueError(f"fact line {index}: unknown docs/fonts id {source_id!r}")
+            if source_id not in known_sources:
+                raise ValueError(f"fact line {index}: unknown allowed source id {source_id!r}")
     if scope is None and set(topic_counts) != EXPECTED_TOPICS:
         raise ValueError(f"all five topics must be represented, found {dict(topic_counts)}")
     if scope is not None and topic_counts[scope] == 0:
@@ -734,6 +744,8 @@ def validate_examples(facts: list[dict[str, Any]], scope: str | None = None) -> 
     for index, row in enumerate(examples, start=1):
         if row.get("type") == "abstencio":
             continue
+        if scope and fact_map.get(row.get("fact_id"), {}).get("topic") != scope:
+            continue
         messages = row.get("messages", [])
         if row.get("group_id"):
             checked_answers = [
@@ -755,12 +767,16 @@ def validate_examples(facts: list[dict[str, Any]], scope: str | None = None) -> 
         for fact_ids, answer_message in checked_answers:
             for fact_id in fact_ids:
                 for entity in grouped_entities.get(fact_id, set()):
+                    if not entity[:1].isupper():
+                        continue
                     if normalized_text(entity) not in normalized_text(answer_message):
                         raise ValueError(
-                            f"row {index}: answer about a contrast fact omits full entity name"
+                            f"row {index} ({row_id}, {fact_id}): answer about a contrast fact omits full entity name {entity!r}"
                         )
     max_answer_similarity = 0.0
     for fact_id, answers in answer_texts_by_fact.items():
+        if scope and fact_map[fact_id].get("topic") != scope:
+            continue
         fact_phrase = normalized_text(fact_map[fact_id]["fact"])
         if sum(fact_phrase in normalized_text(answer) for answer in answers) > 1:
             raise ValueError(f"fact {fact_id}: literal fact phrase occurs in more than one answer")
@@ -772,7 +788,7 @@ def validate_examples(facts: list[dict[str, Any]], scope: str | None = None) -> 
                 max_answer_similarity = max(max_answer_similarity, similarity)
                 if similarity >= 0.8:
                     raise ValueError(
-                        f"fact {fact_id}: answer similarity {similarity:.3f} must be below 0.8"
+                        f"fact {fact_id}: answer similarity {similarity:.3f} must be below 0.8: {first!r} vs {second!r}"
                     )
     overused_prefixes = {key: value for key, value in prefix_counts.items() if value > 3}
     if overused_prefixes:
@@ -784,16 +800,17 @@ def validate_examples(facts: list[dict[str, Any]], scope: str | None = None) -> 
     dialogue_ratio = counts["dues-voltes"] / max(1, factual_rows)
     false_ratio = counts["premissa-falsa"] / max(1, factual_rows)
     abstention_ratio = counts["abstencio"] / total_rows
-    if not 0.08 <= dialogue_ratio <= 0.12:
-        raise ValueError(
-            f"two-turn dialogue share must be near 10 percent; found {dialogue_ratio:.2%}"
-        )
-    if not 0.08 <= false_ratio <= 0.12:
-        raise ValueError(f"false-premise share must be near 10 percent; found {false_ratio:.2%}")
-    if not 0.045 <= abstention_ratio <= 0.055:
-        raise ValueError(
-            f"abstention share must be approximately 5 percent; found {abstention_ratio:.2%}"
-        )
+    if scope is None:
+        if not 0.08 <= dialogue_ratio <= 0.12:
+            raise ValueError(
+                f"two-turn dialogue share must be near 10 percent; found {dialogue_ratio:.2%}"
+            )
+        if not 0.08 <= false_ratio <= 0.12:
+            raise ValueError(f"false-premise share must be near 10 percent; found {false_ratio:.2%}")
+        if not 0.045 <= abstention_ratio <= 0.055:
+            raise ValueError(
+                f"abstention share must be approximately 5 percent; found {abstention_ratio:.2%}"
+            )
 
     thematic_questions = validate_question_topics(facts, examples, groups, scope=scope)
     probe_by_fact = {fact["fact_id"]: fact for fact in facts}

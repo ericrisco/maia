@@ -11,8 +11,8 @@
 {"fact_id": "carlemany-carta-pobla", "question": "La Carta Pobla que diu que Carlemany va fundar Andorra és un document autèntic?", "expect": [["fals", "falsificat", "no és autèntic"]]}
 {"fact_id": "pareatge-1278", "question": "Recorda'm la ciutat i l'any de la signatura del primer dels dos Pareatges.", "expect": [["Lleida"], ["1278"]]}
 {"fact_id": "pareatge-1288", "question": "L'acord entre el comte de Foix i el bisbe d'Urgell conegut com a segon Pareatge, de quin any data?", "expect": [["1288"]]}
-{"fact_id": "manual-digest-1748", "question": "Qui és l'autor del Manual Digest i de quin any és?", "expect": [["Fiter"], ["1748"]]}
-{"fact_id": "politar-1763", "question": "El Politar, el text que complementa el Manual Digest, de quin any és?", "expect": [["1763"]]}
+{"fact_id": "manual-digest-1748", "question": "Quin compendi andorrà va escriure Antoni Fiter i Rossell el 1748?", "expect": [["Fiter"], ["1748"]]}
+{"fact_id": "politar-1763", "question": "Quina data literal porta el títol del Politar en la transcripció que en fa Brutails?", "expect": [["1763"]]}
 {"fact_id": "nova-reforma-1866", "question": "Amb la reforma del 1866, qui passava a triar els membres del Consell General?", "expect": [["caps de casa"]]}
 {"fact_id": "constitucio-1993", "question": "Quin dia el Consell General va donar l'aprovació al text constitucional?", "expect": [["2 de febrer"], ["1993"]]}
 {"fact_id": "referendum-1993", "question": "Quan van votar els andorrans la Constitució en referèndum?", "expect": [["14 de març"], ["1993"]]}
@@ -45,7 +45,7 @@
 {"fact_id": "comuns-autogovern", "question": "A Andorra, quin és l'òrgan de govern propi de cada parròquia?", "expect": [["comú"]]}
 {"fact_id": "comuns-competencies", "question": "Quin tipus de llei ha de fixar les competències dels comuns segons la Constitució?", "expect": [["qualificada"]]}
 {"fact_id": "comuns-finançament", "question": "Com es calculen les transferències del Govern als comuns?", "expect": [["igual", "fixa"], ["població"]]}
-{"fact_id": "comuns-control", "question": "Quina institució jurídica andorrana dirimeix les disputes de competències entre el Govern i els comuns?", "expect": [["Constitucional"]]}
+{"fact_id": "comuns-control", "question": "Qui dirimeix la disputa sobre competències entre els comuns i les autoritats estatals de rang general?", "expect": [["Constitucional"]]}
 {"fact_id": "comuns-eleccions", "question": "Cada quants anys s'escullen els consells de comú?", "expect": [["quatre", "4"]]}
 {"fact_id": "consell-general-escons", "question": "Segons la Constitució, quin és el nombre mínim i màxim de consellers generals?", "expect": [["28"], ["42"]]}
 {"fact_id": "tabac-produccio-maxim-1997", "question": "Quina collita anual situa l'API d'Estadística com a rècord de tabac andorrà, i quin any?", "expect": [["1.047.038 kg", "1047038 kg"], ["1997"]]}
@@ -137,3 +137,47 @@
 {"fact_id": "competencies-immigracio-constitucio-1993", "question": "Quins òrgans van quedar al capdavant de les competències migratòries quan es va aprovar la Constitució andorrana?", "expect": [["Govern"], ["Consell General"], ["1993"]]}
 {"fact_id": "feda-funcio-electricitat", "question": "Quina societat va heretar l’activitat de FHASA quan el seu patrimoni fou adquirit el 1988?", "expect": [["FEDA", "Forces Elèctriques d’Andorra"]]}
 {"fact_id": "distribucio-electrica-reglament-1975", "question": "Quin total de distribuïdores recull el reglament elèctric de 1975 en la redacció actualitzada el 2010?", "expect": [["cinc", "5"]]}
+{"fact_id": "hist-pareatge-1278-05", "question": "Quina fórmula ritual associa el relat del Primer Pareatge al gest de Roger Bernat III davant del prelat urgellenc?", "expect": [["de boca i de mans"]]}
+{"fact_id": "hist-pareatge-1278-07", "question": "Quina cautela expressa el text quan tracta l’obligació posterior a Roger Bernat III?", "expect": [["No consta que cap successor de Roger Bernat III hagués complert l’obligació d’homenatge", "No es registra que cap successor de Roger Bernat III hagués retut l’homenatge al bisbe d’Urgell"]]}
+{"fact_id": "hist-pareatge-1278-09", "question": "Quins càrrecs s’associen a la cotitularitat d’Andorra en el Primer Pareatge?", "expect": [["bisbe d’Urgell"], ["comte de Foix"]]}
+{"fact_id": "hist-constitucio-1993-03", "question": "Quin paper dona la norma constitucional andorrana de 1993 al poble en matèria de sobirania?", "expect": [["sobirania resideix en el poble andorrà", "titular de la sobirania és el poble andorrà"]]}
+{"fact_id": "hist-pareatge-1288-02", "question": "Quina obra de Sant Vicenç d’Enclar va ordenar retirar el Segon Pareatge de 1288?", "expect": [["castell"], ["retirar"]]}
+{"fact_id": "hist-pareatge-1288-enclar-empriu", "question": "Quina paraula del Segon Pareatge de 1288 designava la reserva dels habitants sobre el solar de Sant Vicenç d’Enclar?", "expect": [["empriu"], ["andorrans"]]}
+{"fact_id": "hist-pareatge-1288-05", "question": "Quin consentiment calia per autoritzar una fortalesa a la roca d’Arfa segons el Segon Pareatge de 1288?", "expect": [["exprés de l’altre senyor"]]}
+{"fact_id": "hist-pareatge-1288-dacima-140-sous", "question": "Quin ofici eclesiàstic apareix vinculat a l’assignació anual de 140 sous a la dècima de 1288?", "expect": [["prevere de l’altar de Sant Llorenç"], ["140 sous malgurienses"]]}
+{"fact_id": "hist-pareatge-1288-dacima-40-sous", "question": "Quin càrrec de la Seu tenia el llegat de quaranta sous cada any en les disposicions del Segon Pareatge?", "expect": [["prior de la Seu"], ["40 sous"]]}
+{"fact_id": "hist-pareatge-1288-dacima-10-sous", "question": "Quina comunitat religiosa rebia l’anualitat menor de la dècima de 1288 i en quina ocasió?", "expect": [["preveres de la Seu"], ["aniversari de la mort de Pere de Soriguera"]]}
+{"fact_id": "hist-pareatge-1288-dacima-venda", "question": "En el Segon Pareatge de 1288, identifica les dues parts de la compravenda de la dècima andorrana.", "expect": [["Roger Bernat", "comte de Foix"], ["Pere de Soriguera", "abat de la Seu"]]}
+{"fact_id": "hist-pareatge-1288-dacima-prioritat", "question": "Abans que els col·lectors en disposessin, quines obligacions s’havien de satisfer amb la dècima d’Andorra?", "expect": [["pagaments litúrgics testamentaris", "obligacions litúrgiques testamentàries"]]}
+{"fact_id": "hist-pareatge-1288-dacima-excedent", "question": "Qui rebia el sobrant de la dècima d’Andorra després dels pagaments testamentaris?", "expect": [["comte de Foix"], ["successors del comte de Foix", "els successors"]]}
+{"fact_id": "marc-forne-cap", "question": "Quin cap de Govern andorrà era en el càrrec el 2003, i quin n’era el successor des del 2005?", "expect": [["Marc Forné Molné"], ["Albert Pintat"]]}
+{"fact_id": "oscar-ribas-primer-cap", "question": "Qui va ser el primer cap de Govern d’Andorra, i entre quins anys va exercir Marc Forné Molné?", "expect": [["Òscar Ribas Reig"], ["1994", "2005"]]}
+{"fact_id": "basquet-final-2012", "question": "Quin dels dos marcadors, 74-72 o 66-63, va donar a Andorra la final del torneig europeu de bàsquet del 2012?", "expect": [["74-72", "74 a 72"]]}
+{"fact_id": "basquet-final-2014", "question": "Quin país va perdre contra Andorra a la final de bàsquet de 2014, i quin resultat va quedar registrat?", "expect": [["Malta"], ["66-63", "66 a 63"]]}
+{"fact_id": "hist-nova-reforma-1866-composicio-consell", "question": "Com es distribuïen territorialment els 24 seients del Consell General que establia la Nova Reforma de 1866?", "expect": [["quatre consellers per parròquia", "quatre per parròquia"]]}
+{"fact_id": "hist-nova-reforma-1866-separacio-comuns", "question": "Quina elecció va deixar de coincidir amb la tria dels consells parroquials després de la Nova Reforma d’Andorra de 1866?", "expect": [["elecció del Consell General"], ["consells de parròquia"]]}
+{"fact_id": "hist-nova-reforma-1866-renovacio-bimeitat", "question": "Segons l’aprovació de 1866, quina fracció dels membres es renovava al Consell General?", "expect": [["la meitat", "50 per cent", "50%"]]}
+{"fact_id": "hist-nova-reforma-1866-composicio-consell", "question": "Quants membres tenia el Consell General de 1866 i quin cos electoral n’escollia els consellers?", "expect": [["24", "vint-i-quatre"], ["caps de casa"]]}
+{"fact_id": "hist-nova-reforma-1866-separacio-comuns", "question": "Quina elecció es va separar de la dels consells de parròquia amb la Nova Reforma de 1866?", "expect": [["Consell General", "elecció del Consell General"]]}
+{"fact_id": "hist-politar-author-antoni-puig-busquets", "question": "Qui figura com a autor del Politar andorrà en el títol complet citat per Brutails?", "expect": [["Antoni Puig i Busquets"]]}
+{"fact_id": "manual-digest-1748", "question": "Qui figura com a redactor del Manual Digest de 1748, i quina persona va escriure el Politar?", "expect": [["Antoni Fiter i Rossell"], ["Antoni Puig i Busquets"]]}
+{"fact_id": "comuns-autogovern", "question": "Quin òrgan local representa cada parròquia i quin tribunal tracta les disputes amb els òrgans generals?", "expect": [["comú"], ["Tribunal Constitucional"]]}
+{"fact_id": "comuns-finançament", "question": "Quins dos components formen les transferències destinades als comuns d’Andorra?", "expect": [["part igual per parròquia"], ["part variable segons població i extensió"]]}
+{"fact_id": "hist-onu-1993-05", "question": "Quin número porta la resolució del Consell de Seguretat de les Nacions Unides sobre l’admissió d’Andorra?", "expect": [["848"]]}
+{"fact_id": "hist-onu-1993-08", "question": "Quina resolució de l’Assemblea General va admetre Andorra a les Nacions Unides?", "expect": [["47/232"]]}
+{"fact_id": "onu-1993", "question": "A les Nacions Unides, en quina data de 1993 fou incorporat Andorra com a membre?", "expect": [["28 de juliol de 1993"], ["28 de juliol"]]}
+{"fact_id": "hist-consell-europa-1994-01", "question": "Quin mes i any marca l’adhesió del Principat al Consell d’Europa?", "expect": [["10 de novembre de 1994"], ["10 de novembre"]]}
+{"fact_id": "hist-sufragi-femeni-04", "question": "Quantes signatures acompanyaven la petició de sufragi femení presentada a Andorra el 1968?", "expect": [["378"]]}
+{"fact_id": "hist-sufragi-femeni-01", "question": "Quina és la data de la primera votació general en què van participar les dones andorranes?", "expect": [["14 de desembre de 1971"], ["14 de desembre"]]}
+{"fact_id": "hist-contraban-04", "question": "Quin grup social andorrà recorria al contraban al segle XVIII?", "expect": [["classes populars"]]}
+{"fact_id": "hist-contraban-06", "question": "Quina sanció van rebre dos homes condemnats pel Consell General en l’expedient de contraban de 1757?", "expect": [["cinc anys"], ["servei militar"]]}
+{"fact_id": "hist-referendum-1993-02", "question": "Entre els vots vàlids del referèndum constitucional andorrà, quin percentatge va obtenir el sí?", "expect": [["74,19 %"], ["74,19"]]}
+{"fact_id": "hist-referendum-1993-03", "question": "Quina participació recull la taula de resultats del referèndum constitucional d’Andorra?", "expect": [["75,7 %"], ["6.910"], ["9.123"]]}
+{"fact_id": "hist-acord-duaner-1990-01", "question": "En quina localitat i en quin dia de 1990 van formalitzar Andorra i la Comunitat Econòmica Europea el seu acord duaner?", "expect": [["Luxemburg"], ["28 de juny de 1990"]]}
+{"fact_id": "hist-acord-duaner-1990-07", "question": "A partir de quin dia va tenir vigència el conveni duaner que Andorra va concloure amb la CEE?", "expect": [["1 de gener de 1991"], ["1 de gener"]]}
+{"fact_id": "hist-consell-terra-1419-01", "question": "Quina data té el privilegi que va reconèixer i estructurar el Consell de la Terra?", "expect": [["11 de febrer de 1419"], ["11 de febrer"]]}
+{"fact_id": "hist-consell-terra-1419-06", "question": "Quin nom figura com a ratificador del privilegi de l’11 de febrer del Consell de la Terra?", "expect": [["Ramon de Capdevila"]]}
+{"fact_id": "hist-tractat-pirineus-1659-01", "question": "Segons Pol, quin resultat van tenir les valls d’Andorra en el registre del Tractat dels Pirineus de 1659?", "expect": [["les valls no queden afectades", "no afectades pel tractat de 1659"]]}
+{"fact_id": "hist-frontera-andorra-1659-1660", "question": "Quin canvi de veïnatge atribueix la fitxa de la guerra dels Segadors als tractats que presenta conjuntament?", "expect": [["Catalunya", "deixà de limitar a l’est"], ["França", "passà a tenir França com a veïna"]]}
+{"fact_id": "hist-skossyreff-1934-03", "question": "Quin balanç de vots publica la fitxa de la Constitució andorrana de 1934 per a la votació del Consell General?", "expect": [["23 vots a favor", "1 en contra"], ["23 a 1"]]}
+{"fact_id": "hist-skossyreff-1934-03-divergencia", "question": "Quina cautela documental i quin recompte alternatiu manté obert el dossier de Boris Skossyreff sobre la votació de 1934?", "expect": [["24 a 1", "24–1"], ["acta original del Consell General"]]}
