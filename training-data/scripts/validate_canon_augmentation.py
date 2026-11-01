@@ -283,6 +283,8 @@ def validate_question_topics(
             for message in messages
             if isinstance(message, dict) and message.get("role") == "user"
         ]
+        if not questions and isinstance(row.get("question"), str):
+            questions = [row["question"]]
         if not questions:
             raise ValueError(f"row {index}: missing user question")
         ids = row_fact_ids(row)
@@ -689,6 +691,7 @@ def validate_examples(facts: list[dict[str, Any]], scope: str | None = None) -> 
             r"no en tinc cap referència fiable|aquesta dada no la puc confirmar",
             r"no puc precisar-ho|no ho puc afirmar|no ho puc verificar",
             r"no sé quin|no sé quina|no tinc aquesta dada confirmada|no em consta el resultat",
+            r"(?:la|les) .{0,35} no (?:indica|consigna|concreta|permet|recull|inclou|especifica|precisa)|no hi ha (?:cap )?(?:hora|registre horari)|les dades disponibles no precisen|no es documenta l.hora|no apareix cap registre horari|no puc donar una hora|no es pot establir l.hora|no hi ha constància del moment|no en sé l.hora|no tinc aquesta dada horària confirmada",
         )
         if row_type == "abstencio" and not re.search(
             "|".join(abstention_patterns), answer.casefold()
@@ -742,6 +745,7 @@ def validate_examples(facts: list[dict[str, Any]], scope: str | None = None) -> 
             ):
                 grouped_entities.setdefault(member["fact_id"], set()).add(member["entity_name"])
     for index, row in enumerate(examples, start=1):
+        row_id = row.get("id", f"row-{index}")
         if row.get("type") == "abstencio":
             continue
         if scope and fact_map.get(row.get("fact_id"), {}).get("topic") != scope:
