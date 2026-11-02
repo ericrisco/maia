@@ -64,6 +64,7 @@ def read_jsonl(path: Path) -> list[dict[str, Any]]:
 def font_ids() -> set[str]:
     found: set[str] = set()
     for path in (ROOT / "docs/fonts").glob("*.md"):
+        found.add(path.relative_to(ROOT).as_posix())
         text = path.read_text(encoding="utf-8")
         match = re.search(r"^id:\s*['\"]?([^\s'\"]+)", text, re.MULTILINE)
         if match:

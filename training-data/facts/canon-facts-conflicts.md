@@ -134,3 +134,28 @@ Data de revisió: 2026-11-02.
 ## Afirmació de canon-basic no corroborada: importació elèctrica per FEDA
 
 La fila `canon-basic/economia-llengua-societat-gastronomia/feda-empresa-publica-05` afirma que FEDA importa i distribueix electricitat. La documentació de `docs/temes/economia/energia-i-serveis/energia-i-serveis-index-de-fitxes.md` marca aquesta branca com oberta i pregunta explícitament què importa FEDA; `la-transicio-energetica.md` atribueix el volum d’importació a Andorra, no a FEDA. Per tant, s’exclou l’atribució a FEDA i es manté només el fet de distribució, que sí queda corroborat. S’han retirat `feda-importa-electricitat` i les seves 11 respostes.
+
+## Persones, esports i present — conflictes
+
+Data de revisió: 2026-11-02.
+
+- `joan-marti-coprincep-periode`: es conserva el mandat de Joan Martí i Alanís del 1971 al 12 de maig de 2003 a partir de les respostes verificades `canon-basic/persones-esports-present/joan-marti-alanis-01`, `-02` i `-04`. Les fitxes temàtiques permeses disponibles no documenten l’inici de 1971; `joan-enric-vives.md` només corrobora el relleu del 12 de maig de 2003.
+- `canon-basic/persones-esports-present/cap-de-govern-actual-03`: s’exclou la premissa que la Constitució prohibeix a Xavier Espot presentar-se a un altre mandat. `docs/temes/persones/els-caps-de-govern.md` descriu el límit de dos mandats com una tradició, no com una norma constitucional. La conclusió sobre la seva elegibilitat futura no es dedueix d’aquesta font.
+- `canon-basic/persones-esports-present/marc-forne-cap-03`: s’exclou l’explicació que Marc Forné no es va tornar a presentar el 2005 perquè una prohibició constitucional limitava els caps de Govern a dos mandats complets. La fitxa dels caps de Govern diu que es tracta d’una tradició, no d’una norma constitucional; es conserva el mandat de Marc Forné Molné entre 1994 i 2005 com a fet històric.
+
+
+### Isabel de Foix — limitació documental
+
+Els fets sobre Isabel de Foix (1398–1412) provenen de la fitxa genealògica `docs/temes/persones/isabel-de-foix.md`. La mateixa fitxa assenyala que no hi ha cap document andorrà directe que la citi com a copríncep; el seu exercici del càrrec es reconstrueix genealògicament a partir de la successió del fill Joan I. Per això, els exemples mantenen aquesta atribució a la fitxa i no la presenten com a documentació andorrana directa.
+- `canon-basic/persones-esports-present/seleccio-futbol-seleccionador-02`: les dades d’aprovació del desembre del 2025, pròrroga fins al desembre del 2027 i anunci públic del gener del 2026 es conserven com a afirmacions de la fila verificada del canon bàsic. Les fitxes permeses de Koldo i de la selecció no exposen aquests detalls de la renovació; s’hi llisten com a limitació de corroboració documental i no se n’afegeixen motius ni condicions contractuals.
+- `canon-basic/persones-esports-present/seleccio-rugbi-02`: es conserva el debut de la selecció andorrana de rugbi l’any 1987 i la victòria, però no s’assigna un dia concret. `el-rugbi.md` discrepa dins la mateixa font: la infografia diu 1 de juliol de 1987 i el text diu 8 de novembre de 1987.
+
+### Persones i esports — Copa Davis
+
+- `canon-basic/persones-esports-present/tennis-copa-davis-02` diu de manera general que Jean-Baptiste Poux-Gautier té «gairebé tots els rècords». Per evitar convertir aquesta expressió imprecisa en un fet únic, s’ha desglossat en els rècords quantificats que enumera `docs/temes/esports/seleccions/el-tennis.md` (41 victòries totals, 25 individuals, 16 de dobles, balanç de parella 6–1, 53 eliminatòries i 13 anys).
+
+### Bàsquet — palmarès
+
+- `canon-basic/persones-esports-present/basquet-europeu-petits-palmares-03`: es conserva el recompte objectiu de dotze medalles en disset participacions; s’omet «el palmarès més gran de l’esport andorrà» perquè la font no defineix un criteri comparatiu per al superlatiu.
+
+- `canon-basic/persones-esports-present/fc-andorra-estadi-04`: s’incorporen per separat l’anunci de l’agost de 2022, les 6.000 places, l’emplaçament a Prada de Moles i l’estimació de 26 milions d’euros, que consten a `docs/temes/esports/futbol/clubs-i-competicions/fc-andorra.md`. No s’incorpora com a fet l’afirmació que el projecte continuava sense construir-se el 28 d’octubre de 2026: la fitxa temàtica indica que el corpus no en coneix l’estat d’execució.
