@@ -4,7 +4,9 @@
 # interrupted, creates the evaluation VM (vm-eval.sh) once training is DONE, starts that one again
 # when it is interrupted, deletes the finished VMs and shuts itself down at the end.
 #
-# Metadata: bucket, run, tag, bench, account (service account of the evaluation VM), zones.
+# Metadata: bucket, run, tag, bench, account (service account of the evaluation VM), train_account
+# (service account of the training VM), zones. The launcher uploads vm-startup.sh and vm-eval.sh to
+# gs://<bucket>/runs/<run>/input/.
 set -uo pipefail
 
 MD=http://metadata.google.internal/computeMetadata/v1/instance/attributes
@@ -15,6 +17,7 @@ TAG=$(meta tag)
 BENCH=$(meta bench)
 ACCOUNT=$(meta account)
 ZONES=$(meta zones)
+TRAIN_ACCOUNT=$(meta train_account)
 GS="gs://$BUCKET/runs/$RUN"
 TRAIN_VM="maia-$RUN"
 EVAL_VM="maia-eval-$RUN"
@@ -28,16 +31,47 @@ status_of() {
   z=$(zone_of "$1")
   [ -n "$z" ] && gcloud compute instances describe "$1" --zone="$z" --format='value(status)' 2>/dev/null
 }
+# Starts a stopped VM again. After 3 failed starts in its zone (no spot capacity), the VM is deleted and
+# recreated in the first zone with capacity: training resumes from the checkpoints in the bucket, and
+# the evaluation skips the steps whose results are already uploaded.
+declare -A FAILS
 restart() {
   local z
   z=$(zone_of "$1")
   step "$1 is stopped without a result: starting it again"
-  gcloud compute instances start "$1" --zone="$z" --quiet >/dev/null 2>&1 || step "start failed (no capacity?), will retry"
+  if gcloud compute instances start "$1" --zone="$z" --quiet >/dev/null 2>&1; then
+    FAILS[$1]=0
+    return 0
+  fi
+  FAILS[$1]=$(( ${FAILS[$1]:-0} + 1 ))
+  step "start failed in $z (${FAILS[$1]}/3)"
+  if [ "${FAILS[$1]}" -ge 3 ]; then
+    delete "$1"
+    FAILS[$1]=0
+    if [ "$1" = "$TRAIN_VM" ]; then create_train; else create_eval; fi
+  fi
 }
 delete() {
   local z
   z=$(zone_of "$1")
   [ -n "$z" ] && gcloud compute instances delete "$1" --zone="$z" --quiet >/dev/null 2>&1 && step "deleted $1"
+}
+create_train() {
+  local zone
+  for zone in $ZONES; do
+    if gcloud compute instances create "$TRAIN_VM" --zone="$zone" --machine-type=g2-standard-8 \
+        --maintenance-policy=TERMINATE --image-family=common-cu129-ubuntu-2204-nvidia-580 \
+        --image-project=deeplearning-platform-release --boot-disk-size=200GB --boot-disk-type=pd-balanced \
+        --service-account="$TRAIN_ACCOUNT" --scopes=cloud-platform \
+        --metadata="bucket=$BUCKET,run=$RUN,install-nvidia-driver=True" \
+        --metadata-from-file=startup-script=/opt/maia/vm-startup.sh \
+        --labels="maia=training,run=$RUN" --max-run-duration=10h --instance-termination-action=STOP \
+        --provisioning-model=SPOT >/dev/null 2>&1; then
+      step "training VM recreated in $zone"
+      return 0
+    fi
+  done
+  step "no zone with capacity for the training VM, will retry"
 }
 create_eval() {
   local zone
@@ -59,6 +93,7 @@ create_eval() {
 
 mkdir -p /opt/maia
 gcloud storage cp "$GS/input/vm-eval.sh" /opt/maia/vm-eval.sh
+gcloud storage cp "$GS/input/vm-startup.sh" /opt/maia/vm-startup.sh
 step "watching run $RUN"
 while true; do
   if exists "$GS/FAILED"; then step "training FAILED"; break; fi
