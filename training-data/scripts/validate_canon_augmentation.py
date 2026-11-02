@@ -20,6 +20,7 @@ FACTS_PATH = ROOT / "training-data/facts/canon-facts.jsonl"
 EXAMPLES_PATH = ROOT / "training-data/datasets/canon-augmentat.jsonl"
 CONTRAST_GROUPS_PATH = ROOT / "training-data/facts/canon-contrast-groups.jsonl"
 PROBE_PATH = ROOT / "training-data/facts/canon-facts-probe.jsonl"
+ABSTENTION_MANIFEST_PATH = ROOT / "training-data/facts/canon-abstention-manifest.jsonl"
 BASIC_DATASET_PATH = ROOT / "training-data/datasets/canon-basic.jsonl"
 CONFLICTS_PATH = ROOT / "training-data/facts/canon-facts-conflicts.md"
 EXPECTED_TOPICS = {
@@ -272,6 +273,31 @@ TOPIC_STOPWORDS = {
     "andorranes",
 }
 
+# These words describe a broad answer shape but do not identify its subject.
+# Requiring one of them alone allowed prompts such as “Which brand was created
+# in 2003?” to pass even when they omitted the brand's name.
+GENERIC_SUBJECT_TERMS = {
+    "any", "anys", "aspecte", "càrrec", "càrrecs", "cosa", "coses",
+    "crear", "creada", "creat", "creats", "creades", "dada", "dades",
+    "data", "dates", "dia", "dies", "document", "documents", "entitat",
+    "entitats", "etapa", "etapes", "fet", "fets", "funció", "funcions",
+    "hivern", "estiu", "primavera", "tardor", "hora", "hores", "informació",
+    "institució", "institucions", "lloc", "llocs", "marca", "marques", "manera",
+    "mes", "mesos", "moment", "moments", "nom", "noms", "nombre", "nombres",
+    "organisme", "organismes", "país", "països", "part", "parts", "període",
+    "períodes", "persona", "persones", "pregunta", "qüestió", "relació", "relacions",
+    "resposta", "sistema", "sistemes", "tema", "temes", "text", "tipus", "títol",
+    "valor", "valors", "va", "van", "és", "era", "eren", "ser", "té", "tenia",
+    "tenien", "tenir", "fer", "feia", "feien", "fer-se", "poder", "podia", "podien",
+    "passar", "passa", "passava", "passaren", "començar", "comença", "començà",
+    "acabar", "acaba", "acabarà", "arribar", "arriba", "arribà", "correspondre",
+    "correspon", "corresponia", "obtenir", "obté", "obtingué", "establir", "estableix",
+    "establí", "crear-se", "canviar", "canvia", "canvià", "situar", "situa", "situava",
+    "registrar", "registra", "registrava", "publicar", "publica", "publicava",
+    "representar", "representa", "representava", "assumir", "assumeix", "assumia",
+    "incloure", "inclou", "incloïa", "formar", "forma", "formen", "consistir", "consisteix",
+}
+
 
 def topic_terms(text: str) -> set[str]:
     return {
@@ -330,6 +356,9 @@ def validate_question_topics(
     """Require every factual question to repeat a specific subject from its fact or group."""
     fact_map = {fact["fact_id"]: fact for fact in facts}
     group_map = {group.get("group_id"): group for group in groups}
+    abstention_map = {
+        item.get("id"): item for item in read_jsonl(ABSTENTION_MANIFEST_PATH)
+    }
     checked = 0
     for index, row in enumerate(examples, start=1):
         messages = row.get("messages", [])
@@ -380,6 +409,12 @@ def validate_question_topics(
             for fact_id in question_ids:
                 if fact_id in fact_map:
                     candidates.update(topic_terms(fact_map[fact_id]["fact"]))
+            if row.get("type") == "abstencio":
+                abstention = abstention_map.get(row.get("id"))
+                if isinstance(abstention, dict):
+                    # Abstention questions name a deliberately missing detail,
+                    # which may not appear in the related known fact itself.
+                    candidates.update(topic_terms(str(abstention.get("missing_detail", ""))))
             group = group_map.get(row.get("group_id"))
             if group:
                 candidates.update(topic_terms(str(group.get("entity_class", ""))))
@@ -393,6 +428,7 @@ def validate_question_topics(
                 if question_index < len(assistant_answers):
                     candidates.update(topic_terms(assistant_answers[question_index]))
             candidates.difference_update({"andorra", "país", "andorrà", "andorrana"})
+            candidates.difference_update(GENERIC_SUBJECT_TERMS)
             if not topic_terms(question).intersection(candidates):
                 raise ValueError(f"row {index}: question does not identify its topic or entity")
             checked += 1
@@ -537,6 +573,9 @@ def validate_probe_separation(
     seen: set[str] = set()
     max_similarity = 0.0
     fact_map = {fact["fact_id"]: fact for fact in facts or []}
+    normalized_training_questions = [
+        normalized_text(question) for question in train_questions
+    ]
     for index, item in enumerate(probe, start=1):
         if set(item) != {"fact_id", "question", "expect"}:
             raise ValueError(f"probe row {index}: fields must be fact_id, question, expect")
@@ -566,9 +605,25 @@ def validate_probe_separation(
         if normalized in seen:
             raise ValueError(f"probe row {index}: duplicate probe question")
         seen.add(normalized)
-        for training_question in train_questions:
+        candidates = []
+        for training_question, normalized_training in zip(
+            train_questions, normalized_training_questions
+        ):
+            matcher = SequenceMatcher(None, normalized, normalized_training)
+            candidates.append(
+                (matcher.quick_ratio(), normalized_training, training_question)
+            )
+        # quick_ratio is an upper bound on ratio. Check candidates from the
+        # highest bound down; once the bound is below the best exact score,
+        # no remaining pair can improve the metric or violate the threshold.
+        candidates.sort(key=lambda candidate: candidate[0], reverse=True)
+        for similarity_bound, normalized_training, training_question in candidates:
+            if similarity_bound < max_similarity:
+                break
+            if similarity_bound < 0.8:
+                continue
             similarity = SequenceMatcher(
-                None, normalized, normalized_text(training_question)
+                None, normalized, normalized_training
             ).ratio()
             max_similarity = max(max_similarity, similarity)
             if similarity >= 0.8:
@@ -700,21 +755,6 @@ def validate_examples(facts: list[dict[str, Any]], scope: str | None = None) -> 
                     normalized_text(primary_answer)
                 )
                 answer_texts_by_fact.setdefault(fact_id, []).append(primary_answer)
-                if row_type == "dues-voltes":
-                    related_fact_id = row.get("related_fact_id")
-                    if isinstance(related_fact_id, str):
-                        secondary_answer = next(
-                            (
-                                message["content"]
-                                for message in reversed(messages)
-                                if isinstance(message, dict)
-                                and message.get("role") == "assistant"
-                            ),
-                            "",
-                        )
-                        answer_texts_by_fact.setdefault(related_fact_id, []).append(
-                            secondary_answer
-                        )
         for message in messages:
             content = message["content"]
             if message["role"] == "user":

@@ -1,6 +1,6 @@
 # Fets descartats, substituïts o acotats
 
-Data de revisió: 2026-11-01.
+Data de revisió: 2026-11-02.
 
 - `canon-basic/historia/skossyreff-1934`: descartada la data exacta de proclamació. `docs/temes/historia/segle-xx-primera-meitat/boris-skossyreff.md` registra dates discrepants (8, 9 i 11 de juliol de 1934) atribuïdes a fonts diferents; cap fila del pilot no afirma aquesta data.
 - `canon-basic/economia-llengua-societat-gastronomia/banca-intercanvi-llei`: descartada la referència específica a la Llei 19/2016 perquè el document temàtic triat no n'acredita la data ni l'efecte afirmat i la fitxa de font associada no concreta aquesta dada.
@@ -9,7 +9,7 @@ Data de revisió: 2026-11-01.
 - `canon-basic/simbols-costums-cultura/carnaval`: eliminada la fila factualitzada amb el programa, dia i hora concrets del Carnaval d'Encamp de 2026. Substituïda per la dada estable que el Judici dels Contrabandistes és una farsa del Carnaval d'Encamp.
 - `canon-basic/simbols-costums-cultura/meritxell`, `sant-antoni`, `sant-joan`, `caramelles` i `festes-majors`: descartades les dates/freqüències candidates perquè `docs/fonts/premsa-andorrana.md` declara que les referències d'aquestes fitxes no identifiquen prou els articles per comprovar-les. Es van substituir per fets culturals amb fonts identificables.
 
-Aquest informe cobreix els candidats examinats per al pilot; no és una auditoria exhaustiva de les 943 preguntes.
+Aquest informe documenta la revisió de les 943 files verificades de `canon-basic.jsonl`: 905 s’han mapat a fets atòmics i 38 s’han exclòs, substituït o acotat pels conflictes i motius descrits en aquest informe.
 
 ## Ampliació del tema d'economia, llengua, societat i gastronomia
 
@@ -55,7 +55,7 @@ Aquest informe cobreix els candidats examinats per al pilot; no és una auditori
 
 ## Auditoria de cobertura territorial i institucional
 
-Data de revisió: 2026-11-01.
+Data de revisió: 2026-11-02.
 
 - `canon-basic/territori-institucions/quarts-definicio-03`: exclosa la regla general sobre qui presideix un quart, la durada del càrrec i la manera d’escollir-lo. `docs/temes/institucions/quarts-i-veinats/quarts-i-veinats.md` contraposa el torn anual de cases descrit per Canturri amb la figura del cònsol o responsable nomenat que atribueix Ríos Urruti a 1918. Les descripcions poden correspondre a èpoques, càrrecs o funcions diferents; la font no permet reduir-les a una sola regla atemporal.
 - `canon-basic/territori-institucions/quarts-localitzacio-03` i `quarts-definicio-05`: excloses les generalitzacions sobre quines parròquies tenen quart o equivalència entre quart i veïnat. La fitxa de quarts documenta desacords sobre les parròquies sense quart i assenyala que a Canillo s’utilitza «veïnat»; no resol de manera consistent la situació d’Andorra la Vella. Es conserven només les localitzacions afirmades amb abast explícit a la font.
@@ -111,30 +111,6 @@ Data de revisió: 2026-11-01.
 - `bandera`: `docs/temes/institucions/simbols/la-bandera.md` quotes André Vilar’s 1904 description as horizontal and then identifies it with today’s flag without reconciling that orientation. The current-flag vertical orientation is retained only with the explicit distinction in `canon-basic/simbols-costums-cultura/bandera-09`; no answer attributes today’s vertical layout to Vilar’s testimony.
 - `escut`: `docs/temes/institucions/simbols/lescut.md` attributes the mitre and crozier to the bishop of Urgell but does not specify their color; the “daurats” detail is retained only with the source-row attribution `canon-basic/simbols-costums-cultura/escut-01` and is not independently corroborated by that thematic document.
 
-## Economia, llengua, societat i gastronomia — conflictes
-
-Data de revisió: 2026-11-02.
-
-- `canon-basic/economia-llengua-societat-gastronomia/banca-intercanvi-llei`: descartada la referència específica a la Llei 19/2016 perquè el document temàtic triat no n'acredita la data ni l'efecte afirmat i la fitxa de font associada no concreta aquesta dada.
-- `canon-basic/economia-llengua-societat-gastronomia/vallnord-marca`: descartada la data exacta de desaparició de la marca. `docs/temes/economia/turisme-i-neu/estacions/les-estacions-d-esqui-index-de-fitxes.md` indica 2022, mentre que `docs/fonts/wikipedia-estacions-esqui-andorra.md` diu 2022–23. El fet es va acotar a les estacions agrupades comercialment.
-- `canon-basic/economia-llengua-societat-gastronomia/tabac-cultiu-base`: tret del pilot perquè la formulació sobre el cultiu que va «estructurar» l'economia és massa interpretativa per a una afirmació atòmica. Substituït per la creació de la marca Grandvalira l'hivern del 2003.
-- `canon-basic/economia-llengua-societat-gastronomia/tabac-*`: `docs/temes/economia/tabac/tabac.md` recull la versió tradicional segons la qual el decret del bisbe Boltàs prohibia el comerç, no el conreu, i que d'aquesta norma va néixer el contraban. `docs/temes/economia/tabac/la-revolta-del-tabac-de-1733.md`, a partir de David Mas, situa el contraban i el conreu a finals del segle XVII, documenta la prohibició del conreu entre 1728 i 1733, i adverteix que no es pot identificar amb certesa la instructa de cap al 1790 amb el decret de Boltàs. S'han conservat els fets datats que documenta Mas; no s'ha afirmat l'atribució del decret ni la causalitat tradicional.
-- `canon-basic/economia-llengua-societat-gastronomia/tabac-produccio-*`: per al màxim de 1997, la divisió 2404 de la captura oficial dona 1.047.038 kg, mentre que el gràfic de la nota A107 mostra 1.047.036 kg. Es conserva el valor de la sèrie API citada a `docs/temes/economia/tabac/quant-tabac-es-cull-avui.md`; la discrepància de dos quilos queda oberta. La mateixa nota registra que el total API de 2024 (109.038 kg) difereix en un quilo de la suma dels totals parroquials (109.039 kg); no s'ha creat un fet a partir de cap de les dues sumes.
-- `canon-basic/economia-llengua-societat-gastronomia/banca-pes-economia` i `banca-i-fiscalitat`: no s'han incorporat les afirmacions «la banca aporta al voltant del 20 % del PIB» ni «quatre sectors superen el 60 % del valor afegit». Les fitxes temàtiques no daten aquestes proporcions; són dades variables i no es poden fixar com a fets estables sense un any de referència.
-- `canon-basic/economia-llengua-societat-gastronomia/banca-oligopoli-1968`: la fallida de SOBANCA i l'acord de la resta de bancs s'inclouen amb la font secundària identificada a `docs/temes/economia/banca-i-fiscalitat/loligopoli-bancari.md`. La mateixa fitxa deixa constància que no s'han consultat les actes primàries del 1968; no s'atribueix verificació primària a aquestes afirmacions.
-- `canon-basic/economia-llengua-societat-gastronomia/turisme-visitants`: les fitxes combinen quatre mètodes de recompte (2002, 2009, 2012 i 2025). En els anys comparables 2022–2024, el recompte de la metodologia del 2012 supera entre un 3,7 % i un 5,4 % el de la metodologia del 2025. La xifra genèrica de 11,6 milions anuals, atribuïda a Viquipèdia, no s'ha tractat com el recompte de 2025; aquest fet s'ha acotat a la divisió 3605 i a la metodologia que comença el 2025.
-- `canon-basic/economia-llengua-societat-gastronomia/vallnord-marca`: la fitxa de Vallnord situa el naixement de la marca la temporada 2004–2005. La desaparició apareix com a 2022 a l'índex temàtic i com a 2022–2023 a la fitxa de font; no s'ha fixat una data més precisa sense resoldre aquesta diferència.
-- `canon-basic/economia-llengua-societat-gastronomia/lexic-parapublica`: no s'ha conservat la definició general d'«entitat parapública» com a fet, perquè les fonts revisades no en sostenen tots els elements. S'ha substituït per una afirmació concreta sobre la naturalesa i la funció de la CASS, que sí que consten a la fitxa sanitària.
-- `canon-basic/economia-llengua-societat-gastronomia/nacionalitat-residencia-antiga`: la dada sobre permisos immediats abans dels anys vuitanta s'ha atribuït explícitament a Modest Mayoral. La fitxa temàtica assenyala que no disposa de confirmació independent; s'ha tret la inferència que el còmput de residència comencés necessàriament el dia d'arribada.
-- `canon-basic/economia-llengua-societat-gastronomia/escudella-tons`: s'ha corregit la confusió entre els Tons —els Antons que celebren el sant— i els escudellaires, que són qui cuinen o reparteixen l'escudella.
-- `canon-basic/economia-llengua-societat-gastronomia/banca-secret-2018`: acotat a «El secret bancari va desaparèixer el 2018», que és el fet que acredita `docs/temes/economia/banca-i-fiscalitat/banca-i-fiscalitat.md`; eliminada l'afirmació sobre l'inici de l'intercanvi automàtic.
-- `canon-basic/economia-llengua-societat-gastronomia/banca-pes-economia-02`: la menció «un dels pilars històrics» queda exclosa com a caracterització valorativa, sense criteri verificable a `docs/temes/economia/banca-i-fiscalitat/banca-i-fiscalitat.md`. La clàusula separada sobre la desaparició del secret bancari el 2018 es mapeja a `banca-secret-2018`; la fila no s’utilitza per al fet del 20 % del PIB.
-- `canon-basic/economia-llengua-societat-gastronomia/parapublica-cass-feda-01`: la frase sobre el control de l’Administració no es generalitza com a definició de totes les parapúbliques; la fitxa `docs/temes/societat/sanitat/la-cass-i-la-sanitat.md` ho documenta específicament per a la CASS, no per a FEDA. Es conserva només que la CASS i FEDA són parapúbliques, amb caràcter públic i organització pròpia.
-
-## Afirmació de canon-basic no corroborada: importació elèctrica per FEDA
-
-La fila `canon-basic/economia-llengua-societat-gastronomia/feda-empresa-publica-05` afirma que FEDA importa i distribueix electricitat. La documentació de `docs/temes/economia/energia-i-serveis/energia-i-serveis-index-de-fitxes.md` marca aquesta branca com oberta i pregunta explícitament què importa FEDA; `la-transicio-energetica.md` atribueix el volum d’importació a Andorra, no a FEDA. Per tant, s’exclou l’atribució a FEDA i es manté només el fet de distribució, que sí queda corroborat. S’han retirat `feda-importa-electricitat` i les seves 11 respostes.
-
 ## Persones, esports i present — conflictes
 
 Data de revisió: 2026-11-02.
@@ -159,3 +135,21 @@ Els fets sobre Isabel de Foix (1398–1412) provenen de la fitxa genealògica `d
 - `canon-basic/persones-esports-present/basquet-europeu-petits-palmares-03`: es conserva el recompte objectiu de dotze medalles en disset participacions; s’omet «el palmarès més gran de l’esport andorrà» perquè la font no defineix un criteri comparatiu per al superlatiu.
 
 - `canon-basic/persones-esports-present/fc-andorra-estadi-04`: s’incorporen per separat l’anunci de l’agost de 2022, les 6.000 places, l’emplaçament a Prada de Moles i l’estimació de 26 milions d’euros, que consten a `docs/temes/esports/futbol/clubs-i-competicions/fc-andorra.md`. No s’incorpora com a fet l’afirmació que el projecte continuava sense construir-se el 28 d’octubre de 2026: la fitxa temàtica indica que el corpus no en coneix l’estat d’execució.
+
+- `canon-basic/economia-llengua-societat-gastronomia/banca-pes-economia-02`: la menció «un dels pilars històrics» queda exclosa com a caracterització valorativa, sense criteri verificable a `docs/temes/economia/banca-i-fiscalitat/banca-i-fiscalitat.md`. La clàusula separada sobre la desaparició del secret bancari el 2018 es mapeja a `banca-secret-2018`; la fila no s’utilitza per al fet del 20 % del PIB.
+
+- `canon-basic/economia-llengua-societat-gastronomia/parapublica-cass-feda-01`: la frase sobre el control de l’Administració no es generalitza com a definició de totes les parapúbliques; la fitxa `docs/temes/societat/sanitat/la-cass-i-la-sanitat.md` ho documenta específicament per a la CASS, no per a FEDA. Es conserva només que la CASS i FEDA són parapúbliques, amb caràcter públic i organització pròpia.
+
+## Afirmació de canon-basic no corroborada: importació elèctrica per FEDA
+
+La fila `canon-basic/economia-llengua-societat-gastronomia/feda-empresa-publica-05` afirma que FEDA importa i distribueix electricitat. La documentació de `docs/temes/economia/energia-i-serveis/energia-i-serveis-index-de-fitxes.md` marca aquesta branca com oberta i pregunta explícitament què importa FEDA; `la-transicio-energetica.md` atribueix el volum d’importació a Andorra, no a FEDA. Per tant, s’exclou l’atribució a FEDA i es manté només el fet de distribució, que sí queda corroborat. S’han retirat `feda-importa-electricitat` i les seves 11 respostes.
+
+- `fc-andorra-joventut-gimnastic-manresa`: s’exclou l’afiliació juvenil amb el Club Gimnàstic de Manresa perquè `fc-andorra.md` la presenta com una relació vigent sense indicar-ne la data ni la durada; és canviant i no es pot convertir en un fet estable.
+- `handbol-debut-derrota-29-30`: `lhandbol.md` expressa el resultat com a «Andorra 29 — Irlanda 30» a la taula, però com a «30-29» en prosa, en ordre de marcador del guanyador. Les dues formes descriuen el mateix resultat; es normalitza a Andorra 29–30 Irlanda.
+
+
+## Territori i institucions — informació no corroborada o en conflicte
+
+- `canon-basic/territori-institucions/coprincipat-caps-10` i `canon-basic/territori-institucions/sindic-general-07`: les fonts autoritzades disponibles no corroboren la visita d’Emmanuel Macron ni la sessió conjunta del Consell General del 27–28 d’abril de 2026; no s’incorporen com a fets.
+- `canon-basic/territori-institucions/cap-de-govern-07`: la font indicada no corrobora l’anunci de juliol de 2026 sobre despenalització de l’avortament; s’exclou.
+- `canon-basic/territori-institucions/quarts-definicio-03`: les fonts donen descripcions diferents sobre qui presidia el quart i durant quant de temps. Es registra el conflicte sense convertir cap de les dues descripcions en fet canònic.
