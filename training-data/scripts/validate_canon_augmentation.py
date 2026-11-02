@@ -22,6 +22,7 @@ CONTRAST_GROUPS_PATH = ROOT / "training-data/facts/canon-contrast-groups.jsonl"
 PROBE_PATH = ROOT / "training-data/facts/canon-facts-probe.jsonl"
 ABSTENTION_MANIFEST_PATH = ROOT / "training-data/facts/canon-abstention-manifest.jsonl"
 BASIC_DATASET_PATH = ROOT / "training-data/datasets/canon-basic.jsonl"
+BASIC_ROW_MAP_PATH = ROOT / "training-data/facts/canon-basic-row-fact-map.jsonl"
 CONFLICTS_PATH = ROOT / "training-data/facts/canon-facts-conflicts.md"
 EXPECTED_TOPICS = {
     "economia-llengua-societat-gastronomia",
@@ -101,27 +102,61 @@ def validate_canon_basic_coverage(
     # Scope selects the canon-basic rows to audit. A row may be deduplicated
     # onto a fact whose primary topic differs, so exact row provenance must be
     # searched across the complete fact set.
-    source_ids = {
-        source_id
-        for fact in facts
-        for source_id in fact.get("source_ids", [])
-        if isinstance(source_id, str)
+    source_to_facts: dict[str, set[str]] = {}
+    fact_map = {fact["fact_id"]: fact for fact in facts}
+    for fact in facts:
+        for source_id in fact.get("source_ids", []):
+            if isinstance(source_id, str) and source_id.startswith("canon-basic/"):
+                source_to_facts.setdefault(source_id, set()).add(fact["fact_id"])
+    map_rows = read_jsonl(BASIC_ROW_MAP_PATH)
+    map_by_id = {row.get("row_id"): row for row in map_rows}
+    if len(map_by_id) != len(map_rows):
+        raise ValueError("canon-basic row map contains duplicate row_id values")
+    all_basic_ids = {
+        row["id"] for row in read_jsonl(BASIC_DATASET_PATH) if isinstance(row.get("id"), str)
     }
+    if set(map_by_id) != all_basic_ids:
+        missing = sorted(all_basic_ids - set(map_by_id))
+        extra = sorted(set(map_by_id) - all_basic_ids)
+        raise ValueError(
+            "canon-basic row map must cover every dataset row exactly once; "
+            f"missing={missing[:5]}, extra={extra[:5]}"
+        )
     conflict_report = CONFLICTS_PATH.read_text(encoding="utf-8")
     covered_by_fact = 0
     covered_by_exclusion = 0
     missing: list[str] = []
     for row in scoped_rows:
         row_id = row["id"]
-        if row_id in source_ids:
+        mapping = map_by_id[row_id]
+        expected_fact_ids = source_to_facts.get(row_id, set())
+        mapped_fact_ids = mapping.get("fact_ids")
+        if (
+            not isinstance(mapped_fact_ids, list)
+            or any(not isinstance(fact_id, str) for fact_id in mapped_fact_ids)
+            or set(mapped_fact_ids) != expected_fact_ids
+        ):
+            raise ValueError(f"canon-basic row map has incorrect fact mapping for {row_id}")
+        if mapping.get("documents") != row.get("documents", []):
+            raise ValueError(f"canon-basic row map has incorrect source documents for {row_id}")
+        if not mapping.get("reason") or not mapping.get("evidence_excerpt"):
+            raise ValueError(f"canon-basic row map lacks review evidence for {row_id}")
+        expected_statements = [fact_map[fact_id]["fact"] for fact_id in sorted(expected_fact_ids)]
+        if mapping.get("fact_statements") != expected_statements:
+            raise ValueError(f"canon-basic row map has incorrect fact statements for {row_id}")
+        if expected_fact_ids:
+            if not row.get("documents"):
+                raise ValueError(f"mapped canon-basic row has no source document: {row_id}")
             covered_by_fact += 1
             continue
         short_id = row_id.split("/", 2)[-1]
         short_pattern = rf"(?<![\w-]){re.escape(short_id)}(?![\w-])"
-        if re.search(short_pattern, conflict_report):
-            covered_by_exclusion += 1
-        else:
+        if mapping["reason"] not in conflict_report:
+            raise ValueError(f"canon-basic exclusion reason is absent from conflicts report: {row_id}")
+        if mapped_fact_ids or not re.search(short_pattern, conflict_report):
             missing.append(row_id)
+        else:
+            covered_by_exclusion += 1
     if missing:
         preview = ", ".join(missing[:10])
         suffix = " …" if len(missing) > 10 else ""
