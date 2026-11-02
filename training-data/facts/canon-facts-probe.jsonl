@@ -31,13 +31,13 @@
 {"fact_id": "bandera", "question": "Descriu-me els colors de la bandera andorrana i com estan col·locats.", "expect": [["blau", "blava"], ["groc", "groga"], ["vermell", "vermella"], ["vertical"]]}
 {"fact_id": "escut", "question": "A qui fan referència els símbols eclesiàstics daurats que apareixen a l'escut d'Andorra?", "expect": [["bisbe"]]}
 {"fact_id": "himne", "question": "Com es titula la peça musical que fa d'himne nacional andorrà?", "expect": [["gran Carlemany"]]}
-{"fact_id": "lema", "question": "Quina frase llatina fa servir Andorra com a lema?", "expect": [["Virtus"], ["fortior"]]}
+{"fact_id": "lema", "question": "Quina frase llatina fa servir Andorra com a lema?", "expect": [["Virtus"], ["unita"], ["fortior"]]}
 {"fact_id": "casa-de-la-vall", "question": "De quin material és l'escut que hi ha a la porta de Casa de la Vall?", "expect": [["marbre"]]}
-{"fact_id": "romanic", "question": "De quin període és la nau de l'església de Santa Coloma?", "expect": [["preromànic"]]}
+{"fact_id": "romanic", "question": "De quin període és la nau de l'església de Santa Coloma?", "expect": [["preromànica"]]}
 {"fact_id": "falles", "question": "Què és una falla a Andorra i quan es fa servir?", "expect": [["torxa", "foc"], ["Sant Joan"]]}
 {"fact_id": "gegants", "question": "Quins personatges són els gegants de la parròquia d'Andorra la Vella?", "expect": [["Carlemany"], ["Ermessenda"]]}
 {"fact_id": "judici-contrabandistes-encamp", "question": "A quina festa i a quina parròquia pertany el Judici dels Contrabandistes?", "expect": [["Carnaval", "carnaval", "Carnestoltes"], ["Encamp"]]}
-{"fact_id": "legendes", "question": "A quina parròquia hi ha el Roc de les Bruixes i què el fa especial?", "expect": [["Canillo"], ["gravat"]]}
+{"fact_id": "legendes", "question": "A quina parròquia hi ha el Roc de les Bruixes i què el fa especial?", "expect": [["Canillo"], ["roca gravada"]]}
 {"fact_id": "noms-parroquies", "question": "Quins set noms oficials identifiquen les parròquies d’Andorra?", "expect": [["Canillo"], ["Encamp"], ["Ordino"], ["Massana"], ["Andorra la Vella"], ["Sant Julià"], ["Escaldes"]]}
 {"fact_id": "quarts-definicio", "question": "Quins drets col·lectius tenien els quarts veïnals d’Andorra sobre els béns comunals?", "expect": [["veïn", "veïnal"], ["comunal"]]}
 {"fact_id": "quarts-localitzacio", "question": "Si vull trobar quarts a Andorra, a quines parròquies els trobaré?", "expect": [["Ordino"], ["Massana"], ["Sant Julià"]]}
@@ -48,53 +48,20 @@
 {"fact_id": "comuns-eleccions", "question": "Cada quants anys s'escullen els consells de comú?", "expect": [["quatre", "4"]]}
 {"fact_id": "consell-general-escons", "question": "Segons la Constitució, quin és el nombre mínim i màxim de consellers generals del Consell General d’Andorra?", "expect": [["28"], ["42"]]}
 {"fact_id": "tabac-produccio-maxim-1997", "question": "Quina collita anual situa l'API d'Estadística com a rècord de tabac andorrà, i quin any?", "expect": [["1.047.038 kg", "1047038 kg"], ["1997"]]}
-{"fact_id": "tabac-produccio-2000", "question": "Quina xifra de tabac col·loca la sèrie oficial d'Andorra en l'any 2000?", "expect": [["324.207 kg", "324207 kg"]]}
-{"fact_id": "tabac-produccio-minim-2020", "question": "En quin any toca fons la sèrie nacional de collita tabaquera, i quin volum marca?", "expect": [["2020"], ["106.799 kg", "106799 kg"]]}
 {"fact_id": "tabac-produccio-2025", "question": "Quants quilograms de tabac andorrà suma el registre per a l'any 2025?", "expect": [["118.481 kg", "118481 kg"]]}
 {"fact_id": "tabac-superficie-2025", "question": "Quina extensió apareix declarada per al tabac a Andorra en l'inventari agrari de 2025?", "expect": [["1.027.719 m²", "1027719 m2"], ["102,8 hectàrees", "102.8 hectàrees"]]}
 {"fact_id": "tabac-pes-sau-2025", "question": "Quina part de la superfície agrària útil declarada del Principat ocupava el tabac el 2025?", "expect": [["5,28 %", "5.28 %", "5,28%", "5.28%"]]}
-{"fact_id": "tabac-cinc-condemnats-orà-1735", "question": "On van empresonar els cinc caps de l’aixecament del tabac un cop jutjats el 1735?", "expect": [["1735"], ["penal d’Orà"]]}
-{"fact_id": "tabac-boltas-guardies-1790", "question": "Quants guàrdies espanyols va acordar enviar a Andorra el bisbe Josep Boltas per perseguir contrabandistes?", "expect": [["una trentena"], ["30"]]}
-{"fact_id": "tabac-quota-casa-1780", "question": "Quina limitació de conreu de tabac per casa es va autoritzar a Andorra a començament dels anys 1780?", "expect": [["un nombre limitat de plantes"]]}
-{"fact_id": "tabac-sentencia-puialt-1757", "question": "Quants veïns del Puialt van provar de passar tabac amagat cap a Catalunya el 1757?", "expect": [["cinc"], ["5"]]}
 {"fact_id": "tabac-renovacio-franquicies-1757", "question": "Quin sobirà va premiar la cooperació institucional andorrana amb nous privilegis duaners el 1757?", "expect": [["Carles III"]]}
-{"fact_id": "banc-agricol-exclusiva-1951", "question": "Quin any va marcar el pas d'Andorra del banc únic a l'obertura del mercat financer?", "expect": [["1951"]]}
 {"fact_id": "sobanca-fallida-1968", "question": "Quin episodi marca la trajectòria de SOBANCA el 1968?", "expect": [["SOBANCA"]]}
 {"fact_id": "igi-general-45-2026", "question": "Segons la consolidació legislativa de setembre del 2026, quin percentatge és el tipus general de l’IGI?", "expect": [["4,5 %"], ["4.5 %"]]}
 {"fact_id": "igi-bancari-95-2026", "question": "A la compilació legal del 2026, quin IGI s’aplica als serveis financers d’un banc andorrà?", "expect": [["9,5 %"], ["9.5 %"]]}
-{"fact_id": "fagadi-garantia-100000", "question": "Quin límit de garantia per dipositant i membre del Fagadi figura a la compilació legal consultada el 2026?", "expect": [["100.000 euros"], ["100000 €"]]}
-{"fact_id": "visitants-canvis-metode", "question": "Quins quatre anys marquen les noves metodologies de la sèrie de visitants andorrans?", "expect": [["2002"], ["2009"], ["2012"], ["2025"]]}
-{"fact_id": "visitants-serie-max-2004", "question": "Quin és el valor màxim de visitants consignat a la taula concatenada de la fitxa turística d’Andorra?", "expect": [["11.668.460"], ["2004"]]}
-{"fact_id": "dies-esqui-maxim-2005", "question": "Quin nombre de jornades va marcar la temporada de màxima venda de forfets al país entre 1993 i 2017?", "expect": [["2005"], ["2.554.000"]]}
-{"fact_id": "grandvalira-parroquies-encamp-canillo", "question": "Quines dues parròquies andorranes comparteixen el domini de Grandvalira?", "expect": [["Encamp"], ["Canillo"]]}
-{"fact_id": "saetde-creacio-1967", "question": "En quin dia es va constituir SAETDE, la societat turística de la parròquia d’Encamp?", "expect": [["22 de novembre de 1967"]]}
-{"fact_id": "funicamp-obertura-1999", "question": "Quina és la longitud de la gòndola del Funicamp inaugurat a Encamp el 1999?", "expect": [["6.137 metres"]]}
 {"fact_id": "vallnord-creacio-2004", "question": "En quina temporada es va crear la marca Vallnord per unir comercialment Pal Arinsal i Ordino Arcalís?", "expect": [["2004–2005"]]}
-{"fact_id": "catala-dialecte-occidental", "question": "Dins de quin dialecte del català occidental s’inclou la parla d’Andorra?", "expect": [["nord-occidental"]]}
-{"fact_id": "cens-comunal-resident-183-dies", "question": "Quants dies anuals de presència calen per figurar com a resident en un cens comunal d’Andorra?", "expect": [["183 dies"]]}
-{"fact_id": "quotes-immigracio-1984-1987", "question": "Quin percentatge de la quota migratòria andorrana de 1984–1987 corresponia a persones d’altres procedències?", "expect": [["20 %"]]}
-{"fact_id": "nacionalitat-llei-1995", "question": "Quina data identifica la llei andorrana de nacionalitat aprovada el 1995?", "expect": [["5 d’octubre de 1995"]]}
-{"fact_id": "escoles-comunals-1880", "question": "Quina institució pagava alguns mestres de parròquies andorranes cap al 1880?", "expect": [["els comuns"]]}
-{"fact_id": "trinxat-origen-pirinenc", "question": "A quines comarques pirinenques, a més d’Andorra, situa la fitxa el trinxat?", "expect": [["la Cerdanya"], ["l’Alt Urgell"], ["el Berguedà"]]}
-{"fact_id": "coca-sant-joan-data", "question": "Quin dia del calendari festiu andorrà es menja la coca de Sant Joan?", "expect": [["23 de juny"]]}
-{"fact_id": "lexic-andorra-aillament-pirinenc", "question": "Quin element geogràfic considera l’IEC una causa de l’especificitat lèxica andorrana?", "expect": [["aïllament pirinenc", "Pirineu"]]}
-{"fact_id": "lexic-andorra-influx-frances", "question": "Quina llengua, a banda del català, ha contribuït als mots propis d’Andorra segons l’IEC?", "expect": [["francès", "influx francès"]]}
 {"fact_id": "lexic-andorra-continuïtat-institucional", "question": "Quin factor polític ha afavorit que Andorra desenvolupi vocabulari jurídic propi?", "expect": [["continuïtat institucional", "independència"]]}
 {"fact_id": "lexic-andorra-innovacio-local", "question": "Quina activitat quotidiana associa l’IEC a l’aparició de mots locals andorrans?", "expect": [["innovació local", "vida quotidiana"]]}
-{"fact_id": "lexic-frances-coprincep", "question": "Com influeix el copríncep francès en el lèxic d’Andorra, segons l’IEC?", "expect": [["copríncep francès"]]}
-{"fact_id": "lexic-frances-veinatge-relacions", "question": "Quina influència tenen el veïnatge amb França i les relacions econòmiques en el lèxic andorrà?", "expect": [["veïnatge"], ["relacions econòmiques"]]}
-{"fact_id": "lexic-frances-escola", "question": "Quin sistema escolar s’esmenta entre els canals de francès al lèxic d’Andorra?", "expect": [["escola francesa"]]}
 {"fact_id": "lexic-frances-estudis-tolosa", "question": "A quina ciutat francesa anaven alguns andorrans a estudiar, segons la fitxa de lèxic?", "expect": [["Tolosa de Llenguadoc", "Tolosa"]]}
 {"fact_id": "lexic-frances-mitjans", "question": "Quina influència tenen les emissores franceses de ràdio i televisió en el lèxic andorrà?", "expect": [["ràdio"], ["televisió"]]}
-{"fact_id": "lexic-andorra-quatre-condicionants", "question": "Quants condicionants de la varietat lèxica andorrana enumera l’IEC?", "expect": [["quatre", "4"]]}
-{"fact_id": "immigracio-andorra-monaco-nadius", "question": "Les xifres de 2014 citades per Judith Pampalona situen quins dos territoris per damunt de la meitat de població immigrant?", "expect": [["Andorra"], ["Mònaco"]]}
 {"fact_id": "andorra-turisme-pressupost-2026", "question": "Quina quantitat exacta figura per a Andorra Turisme, SAU al pressupost de 2026?", "expect": [["21.028.411,79 euros", "21.028.411,79 €"]]}
 {"fact_id": "andorra-turisme-transferencia-publica-2026", "question": "Quina empresa rep l’import més alt de l’article pressupostari de les empreses públiques andorranes el 2026?", "expect": [["Andorra Turisme", "Andorra Turisme, SAU"]]}
-{"fact_id": "nacionalitat-residencia-general-vint-anys", "question": "Quants anys de residència preveu avui la via general per demanar la nacionalitat andorrana?", "expect": [["20 anys", "vint anys"], ["5 anys", "cinc anys"], ["residència principal i efectiva", "principal i efectiva"]]}
-{"fact_id": "nacionalitat-cinc-anys-principal-efectiva", "question": "Quina condició de residència s’aplica als cinc anys previs a una sol·licitud per la via general de nacionalitat?", "expect": [["principal i efectiva", "residència principal i efectiva"]]}
-{"fact_id": "tabac-acord-1731-11-26", "question": "A qui va demanar el Consell General que estigués atent a les plantacions de tabac al novembre de 1731?", "expect": [["cònsols"]]}
-{"fact_id": "tabac-acord-1732-07-07", "question": "Quin dia de juliol de 1732 va fixar el Consell General com a data màxima per retirar el tabac plantat?", "expect": [["7 de juliol de 1732"], ["abans del dia 13"]]}
-{"fact_id": "tabac-acord-1733-05-18", "question": "Com va descriure el Consell General l’observança de les decisions anteriors sobre el conreu de tabac el maig de 1733?", "expect": [["poca observança", "poc observades"]]}
 {"fact_id": "tabac-acord-1733-06-29", "question": "Quina actuació del Consell General de finals de juny de 1733 va mantenir la prohibició del tabac?", "expect": [["revalidar", "revalidació", "revalidació general"]]}
 {"fact_id": "transicio-electricitat-33-2030", "question": "Amb quina quota de la demanda anual ha d’alinear-se la generació elèctrica feta al país per al 2030?", "expect": [["33 %", "33%"]]}
 {"fact_id": "transicio-vehicles-electrics", "question": "Quins objectius de penetració dels vehicles elèctrics s’han fixat al parc de turismes per a les fites 2030 i 2050?", "expect": [["20 %", "20%"], ["50 %", "50%"]]}
@@ -105,22 +72,11 @@
 {"fact_id": "pas-casa-remuntador-1957", "question": "Quina companyia controlava l’obertura del primer remuntador mecànic de Pas de la Casa a finals dels anys cinquanta?", "expect": [["Teleesquís Viladomat"], ["1 de desembre de 1957", "1957"]]}
 {"fact_id": "visitants-serie-min-2020", "question": "Quin recompte anual de visitants va coincidir amb el punt més baix de la sèrie d’Andorra?", "expect": [["5.206.632", "5206632"], ["2020"]]}
 {"fact_id": "visitants-api-2025-division-3605", "question": "Quin total es va obtenir amb la nova classificació 3605 de l’API turística andorrana?", "expect": [["9.194.340", "9194340"], ["2025"], ["visitants", "Andorra"]]}
-{"fact_id": "escudella-sant-antoni-ingredients", "question": "Quin bullit festiu d’Andorra combina carn d’olla i galets?", "expect": [["escudella de Sant Antoni", "escudella"], ["galets"], ["gallina", "vedella"]]}
 {"fact_id": "trinxat-ingredients", "question": "Quina verdura i quin greix intervenen en el procés de daurar el trinxat?", "expect": [["col"], ["greix de cansalada", "cansalada"], ["patata"]]}
 {"fact_id": "coca-massegada-ingredients", "question": "Quina coca andorrana s’aromatitza amb pela de taronja a la massa?", "expect": [["coca massegada", "coca masegada"], ["pell de taronja", "taronja"]]}
 {"fact_id": "afa-entitat-publica-independent", "question": "L’AFA és independent de quina administració general?", "expect": [["Administració general"]]}
 {"fact_id": "afa-supervisio-financera", "question": "A més del sistema financer, quins àmbits supervisa l’AFA?", "expect": [["sistema assegurador", "assegurances"], ["sistema reassegurador", "reassegurances"]]}
-{"fact_id": "fagadi-garantia-100000", "question": "Quin import màxim cobreix el Fagadi per titular dins d’una entitat membre?", "expect": [["100.000 euros", "100000 euros"], ["per dipositant"], ["per membre"]]}
-{"fact_id": "igi-llei-112012", "question": "Quina llei fiscal andorrana va establir l’impost indirecte el 2012?", "expect": [["Llei 11/2012"], ["21 de juny", "21 juny"]]}
-{"fact_id": "catala-unica-llengua-oficial", "question": "Què diu la Constitució sobre la llengua oficial única d’Andorra?", "expect": [["català"], ["article 2.1", "2.1"]]}
-{"fact_id": "llei-llengua-1999-2024", "question": "Quina norma de llengua del 1999 va deixar de regir quan es va aprovar la llei nova del 2024?", "expect": [["Llei d’ordenació de l’ús de la llengua oficial"], ["Llei 6/2024"]]}
 {"fact_id": "llengua-residencia-a1-a2-2024", "question": "Quin nivell de català s’ha d’acreditar primer per renovar la residència i quan arriba el següent?", "expect": [["A1"], ["A2", "tres anys després"]]}
-{"fact_id": "lexic-andorra-quatre-condicionants", "question": "Quin nombre de condicionants de la parla andorrana atribueix l’IEC?", "expect": [["quatre", "4"]]}
-{"fact_id": "visitants-canvis-metode", "question": "Quins són els punts de canvi de mètode a la comptabilització mensual dels visitants?", "expect": [["2002"], ["2009"], ["2012"], ["2025"]]}
-{"fact_id": "turisme-temporada-hivern", "question": "L’esquí pesa més en la temporada d’hivern o en la d’estiu per al turisme andorrà?", "expect": [["hivern"]]}
-{"fact_id": "dies-esqui-maxim-2005", "question": "Quin recompte va assolir el registre màxim de dies d’esquí a Andorra durant 1993–2017?", "expect": [["2.554.000", "2554000"], ["2005"]]}
-{"fact_id": "pgi-estacions-nou-paisos", "question": "Quina extensió internacional es registra per als projectes de Pas Grau Internacional?", "expect": [["nou països", "9 països"]]}
-{"fact_id": "estacions-esqui-model-comunal", "question": "Quina fórmula de titularitat parroquial caracteritza les estacions de neu d’Andorra?", "expect": [["comunal"], ["comuns"]]}
 {"fact_id": "catala-dialecte-occidental", "question": "Dins de quin bloc lingüístic s’adscriu la parla d’Andorra?", "expect": [["bloc occidental"], ["dialecte nord-occidental"]]}
 {"fact_id": "andorra-varietat-1975", "question": "Qui va donar rang de varietat dialectal pròpia a l’andorrà, i en quin any?", "expect": [["Anna Sardà", "Henri Guiter"], ["1975"]]}
 {"fact_id": "cens-comunal-resident-183-dies", "question": "Quin llindar de permanència aplica el cens parroquial dels comuns?", "expect": [["183 dies"], ["per any", "l’any"]]}
@@ -129,8 +85,6 @@
 {"fact_id": "pressio-fiscal-record-2025", "question": "Quin registre de la pressió fiscal del país va tancar la sèrie el 2025?", "expect": [["28,4 %", "28.4%"], ["màxim", "rècord"]]}
 {"fact_id": "andorra-sistema-escola-depen-govern", "question": "Qui sosté institucionalment el sistema escolar propi d’Andorra i en quina llengua s’imparteix?", "expect": [["Govern d’Andorra"], ["català"]]}
 {"fact_id": "escola-espanyola-ministeri", "question": "Quins centres del sistema espanyol reben sosteniment andorrà tot i seguir el currículum estatal espanyol?", "expect": [["centres congregacionals"], ["Govern d’Andorra"]]}
-{"fact_id": "trinxat-origen-pirinenc", "question": "El trinxat és propi només d’Andorra, o també es cuina en altres comarques pirinenques?", "expect": [["no és exclusiu d’Andorra", "plat pirinenc"], ["Cerdanya"], ["Alt Urgell"], ["Berguedà"]]}
-{"fact_id": "formatge-tupi-llet-estiu", "question": "Quina estació de l’any correspon a la llet que s’utilitza per al tupí de muntanya?", "expect": [["estiu", "llet d’estiu"]]}
 {"fact_id": "carns-muntanya-andorra", "question": "Al costat dels embotits i la cansalada, quines carns ramaderes identifica el repertori gastronòmic de muntanya?", "expect": [["conill"], ["cabrit"], ["xai"]]}
 {"fact_id": "quotes-immigracio-1984-1987", "question": "Com es distribuïa el contingent d’immigració andorrà per nacionalitat durant el període 1984–1987?", "expect": [["40 % francesos", "quaranta per cent francesos"], ["40 % espanyols", "quaranta per cent espanyols"], ["20 % altres nacionalitats", "vint per cent altres"]]}
 {"fact_id": "competencies-immigracio-constitucio-1993", "question": "Quins òrgans van quedar al capdavant de les competències migratòries quan es va aprovar la Constitució andorrana?", "expect": [["Govern"], ["Consell General"], ["1993"]]}
@@ -140,32 +94,13 @@
 {"fact_id": "hist-pareatge-1278-07", "question": "Quina cautela expressa el text quan tracta l’obligació posterior a Roger Bernat III?", "expect": [["No consta que cap successor de Roger Bernat III hagués complert l’obligació d’homenatge", "No es registra que cap successor de Roger Bernat III hagués retut l’homenatge al bisbe d’Urgell"]]}
 {"fact_id": "hist-pareatge-1278-09", "question": "Quins càrrecs s’associen a la cotitularitat d’Andorra en el Primer Pareatge?", "expect": [["bisbe d’Urgell"], ["comte de Foix"]]}
 {"fact_id": "hist-constitucio-1993-03", "question": "Quin paper dona la norma constitucional andorrana de 1993 al poble en matèria de sobirania?", "expect": [["sobirania resideix en el poble andorrà", "titular de la sobirania és el poble andorrà"]]}
-{"fact_id": "hist-pareatge-1288-02", "question": "Quina obra de Sant Vicenç d’Enclar va ordenar retirar el Segon Pareatge de 1288?", "expect": [["castell"], ["retirar"]]}
 {"fact_id": "hist-pareatge-1288-enclar-empriu", "question": "Quina paraula del Segon Pareatge de 1288 designava la reserva dels habitants sobre el solar de Sant Vicenç d’Enclar?", "expect": [["empriu"], ["andorrans"]]}
 {"fact_id": "hist-pareatge-1288-05", "question": "Quin consentiment calia per autoritzar una fortalesa a la roca d’Arfa segons el Segon Pareatge de 1288?", "expect": [["exprés de l’altre senyor"]]}
-{"fact_id": "hist-pareatge-1288-dacima-140-sous", "question": "Quin ofici eclesiàstic apareix vinculat a l’assignació anual de 140 sous a la dècima de 1288?", "expect": [["prevere de l’altar de Sant Llorenç"], ["140 sous malgurienses"]]}
 {"fact_id": "hist-pareatge-1288-dacima-40-sous", "question": "Quin càrrec de la Seu tenia el llegat de quaranta sous cada any en les disposicions del Segon Pareatge?", "expect": [["prior de la Seu"], ["40 sous"]]}
 {"fact_id": "hist-pareatge-1288-dacima-10-sous", "question": "Quina comunitat religiosa rebia l’anualitat menor de la dècima de 1288 i en quina ocasió?", "expect": [["preveres de la Seu"], ["aniversari de la mort de Pere de Soriguera"]]}
-{"fact_id": "hist-pareatge-1288-dacima-venda", "question": "En el Segon Pareatge de 1288, identifica les dues parts de la compravenda de la dècima andorrana.", "expect": [["Roger Bernat", "comte de Foix"], ["Pere de Soriguera", "abat de la Seu"]]}
-{"fact_id": "hist-pareatge-1288-dacima-prioritat", "question": "Abans que els col·lectors en disposessin, quines obligacions s’havien de satisfer amb la dècima d’Andorra?", "expect": [["pagaments litúrgics testamentaris", "obligacions litúrgiques testamentàries"]]}
-{"fact_id": "hist-pareatge-1288-dacima-excedent", "question": "Qui rebia el sobrant de la dècima d’Andorra després dels pagaments testamentaris?", "expect": [["comte de Foix"], ["successors del comte de Foix", "els successors"]]}
-{"fact_id": "marc-forne-cap", "question": "Quin cap de Govern andorrà era en el càrrec el 2003, i quin n’era el successor des del 2005?", "expect": [["Marc Forné Molné"], ["Albert Pintat"]]}
-{"fact_id": "oscar-ribas-primer-cap", "question": "Qui va ser el primer cap de Govern d’Andorra, i entre quins anys va exercir Marc Forné Molné?", "expect": [["Òscar Ribas Reig"], ["1994", "2005"]]}
-{"fact_id": "basquet-final-2012", "question": "Quin dels dos marcadors, 74-72 o 66-63, va donar a Andorra la final del torneig europeu de bàsquet del 2012?", "expect": [["74-72", "74 a 72"]]}
-{"fact_id": "basquet-final-2014", "question": "Quin país va perdre contra Andorra a la final de bàsquet de 2014, i quin resultat va quedar registrat?", "expect": [["Malta"], ["66-63", "66 a 63"]]}
-{"fact_id": "hist-nova-reforma-1866-composicio-consell", "question": "Com es distribuïen territorialment els 24 seients del Consell General que establia la Nova Reforma de 1866?", "expect": [["quatre consellers per parròquia", "quatre per parròquia"]]}
-{"fact_id": "hist-nova-reforma-1866-separacio-comuns", "question": "Quina elecció va deixar de coincidir amb la tria dels consells parroquials després de la Nova Reforma d’Andorra de 1866?", "expect": [["elecció del Consell General"], ["consells de parròquia"]]}
-{"fact_id": "hist-nova-reforma-1866-renovacio-bimeitat", "question": "Segons l’aprovació de 1866, quina fracció dels membres es renovava al Consell General?", "expect": [["la meitat", "50 per cent", "50%"]]}
-{"fact_id": "hist-nova-reforma-1866-composicio-consell", "question": "Quants membres tenia el Consell General de 1866 i quin cos electoral n’escollia els consellers?", "expect": [["24", "vint-i-quatre"], ["caps de casa"]]}
 {"fact_id": "hist-nova-reforma-1866-separacio-comuns", "question": "Quina elecció es va separar de la dels consells de parròquia amb la Nova Reforma de 1866?", "expect": [["Consell General", "elecció del Consell General"]]}
-{"fact_id": "hist-politar-author-antoni-puig-busquets", "question": "Qui figura com a autor del Politar andorrà en el títol complet citat per Brutails?", "expect": [["Antoni Puig i Busquets"]]}
-{"fact_id": "manual-digest-1748", "question": "Qui figura com a redactor del Manual Digest de 1748, i quina persona va escriure el Politar?", "expect": [["Antoni Fiter i Rossell"], ["Antoni Puig i Busquets"]]}
-{"fact_id": "comuns-autogovern", "question": "Quin òrgan local representa cada parròquia i quin tribunal tracta les disputes amb els òrgans generals?", "expect": [["comú"], ["Tribunal Constitucional"]]}
-{"fact_id": "comuns-finançament", "question": "Quins dos components formen les transferències destinades als comuns d’Andorra?", "expect": [["part igual per parròquia"], ["part variable segons població i extensió"]]}
 {"fact_id": "hist-onu-1993-05", "question": "Quin número porta la resolució del Consell de Seguretat de les Nacions Unides sobre l’admissió d’Andorra?", "expect": [["848"]]}
 {"fact_id": "hist-onu-1993-08", "question": "Quina resolució de l’Assemblea General va admetre Andorra a les Nacions Unides?", "expect": [["47/232"]]}
-{"fact_id": "onu-1993", "question": "A les Nacions Unides, en quina data de 1993 fou incorporat Andorra com a membre?", "expect": [["28 de juliol de 1993"], ["28 de juliol"]]}
-{"fact_id": "hist-consell-europa-1994-01", "question": "Quin mes i any marca l’adhesió del Principat al Consell d’Europa?", "expect": [["10 de novembre de 1994"], ["10 de novembre"]]}
 {"fact_id": "hist-sufragi-femeni-04", "question": "Quantes signatures acompanyaven la petició de sufragi femení presentada a Andorra el 1968?", "expect": [["378"]]}
 {"fact_id": "hist-sufragi-femeni-01", "question": "Quina és la data de la primera votació general en què van participar les dones andorranes?", "expect": [["14 de desembre de 1971"], ["14 de desembre"]]}
 {"fact_id": "hist-contraban-04", "question": "Quin grup social andorrà recorria al contraban al segle XVIII?", "expect": [["classes populars"]]}
@@ -180,157 +115,94 @@
 {"fact_id": "hist-frontera-andorra-1659-1660", "question": "Quin canvi de veïnatge atribueix la fitxa de la guerra dels Segadors als tractats que presenta conjuntament?", "expect": [["Catalunya", "deixà de limitar a l’est"], ["França", "passà a tenir França com a veïna"]]}
 {"fact_id": "hist-skossyreff-1934-03", "question": "Quin balanç de vots publica la fitxa de la Constitució andorrana de 1934 per a la votació del Consell General?", "expect": [["23 vots a favor", "1 en contra"], ["23 a 1"]]}
 {"fact_id": "hist-skossyreff-1934-03-divergencia", "question": "Quina cautela documental i quin recompte alternatiu manté obert el dossier de Boris Skossyreff sobre la votació de 1934?", "expect": [["24 a 1", "24–1"], ["acta original del Consell General"]]}
-{"fact_id": "parroquia-poblacio-2026-andorra-la-vella", "question": "Quin valor demogràfic publica la sèrie estadística de juliol del 2026 per a Andorra la Vella?", "expect": [["24.884"]]}
-{"fact_id": "parroquia-poblacio-2026-escaldes-engordany", "question": "Quina població atribueix la font estadística de 2026 a Escaldes-Engordany?", "expect": [["16.350"]]}
-{"fact_id": "parroquia-poblacio-2026-encamp", "question": "Quina dada ofereix la taula de població 2026 per a la parròquia Encamp?", "expect": [["13.710"]]}
-{"fact_id": "parroquia-poblacio-2026-la-massana", "question": "Quin nombre associa l’Estadística a la Massana en el recompte del juliol del 2026?", "expect": [["12.350"]]}
-{"fact_id": "parroquia-poblacio-2026-sant-julia-de-loria", "question": "Al registre demogràfic A003, quin total correspon a Sant Julià de Lòria el juliol del 2026?", "expect": [["10.318"]]}
 {"fact_id": "parroquia-poblacio-2026-canillo", "question": "Quina xifra de residents dona el quadre parroquial 2026 per a Canillo?", "expect": [["6.593"]]}
 {"fact_id": "parroquia-poblacio-2026-ordino", "question": "Quina dada censal de mitjan 2026 s’atribueix a Ordino?", "expect": [["5.816"]]}
-{"fact_id": "parroquia-proporcio-2026-andorra-la-vella", "question": "Quin percentatge demogràfic es va registrar per a Andorra la Vella el juliol del 2026?", "expect": [["27,64%"]]}
-{"fact_id": "parroquia-proporcio-2026-escaldes-engordany", "question": "Quin pes percentual tenia Escaldes-Engordany dins la població andorrana a mitjan 2026?", "expect": [["18,16%"]]}
-{"fact_id": "parroquia-proporcio-2026-encamp", "question": "Quina part percentual de la població corresponia a Encamp segons el registre de juliol del 2026?", "expect": [["15,23%"]]}
-{"fact_id": "parroquia-proporcio-2026-la-massana", "question": "Amb quin percentatge apareix la Massana en la sèrie A003 de juliol del 2026?", "expect": [["13,72%"]]}
-{"fact_id": "parroquia-proporcio-2026-sant-julia-de-loria", "question": "Quina proporció dels habitants d’Andorra vivia a Sant Julià de Lòria el 2026?", "expect": [["11,46%"]]}
 {"fact_id": "parroquia-proporcio-2026-canillo", "question": "Quina quota de població andorrana assignava el cens de juliol a Canillo?", "expect": [["7,32%"]]}
 {"fact_id": "parroquia-proporcio-2026-ordino", "question": "Quin pes poblacional atribuïa el recompte de juliol del 2026 a Ordino?", "expect": [["6,46%"]]}
 {"fact_id": "comuns-consell-mida-10-16", "question": "Quin interval de membres admet el consell de comú d’Andorra i quina paritat s’hi exigeix?", "expect": [["10", "deu"], ["16", "setze"], ["nombre parell", "parell"]]}
-{"fact_id": "comuns-llista-presentadors-05pct-min10", "question": "Quin percentatge del cens i quin mínim de presentadors necessita una candidatura comunal d’Andorra?", "expect": [["0,5%"], ["10", "deu"]]}
 {"fact_id": "comuns-mocio-censura-majoria-absoluta", "question": "Quina majoria i quin tipus de candidat calen per a una moció de censura contra un cònsol comunal?", "expect": [["majoria absoluta"], ["conseller alternatiu"]]}
-{"fact_id": "tribunal-constitucional-quatre-magistrats", "question": "Segons la Llei Qualificada del Tribunal Constitucional, quants magistrats formen el Tribunal Constitucional d’Andorra?", "expect": [["4", "quatre"]]}
-{"fact_id": "consell-superior-justicia-cinc-membres", "question": "Quants membres fixa la Llei Qualificada de la justícia per al Consell Superior de la Justícia d’Andorra?", "expect": [["5", "cinc"]]}
-{"fact_id": "tribunal-constitucional-designacio-repartida", "question": "Des de quines instàncies institucionals provenen els nomenaments al Tribunal Constitucional d’Andorra?", "expect": [["un magistrat per cada copríncep"], ["dos magistrats", "dos"], ["Consell General"]]}
 {"fact_id": "consell-superior-justicia-designacio-origens", "question": "Qui té poder de designació per a cada plaça del Consell Superior de la Justícia d’Andorra?", "expect": [["cinc membres", "cinc"], ["un per cada copríncep"], ["síndic general"], ["cap de Govern"], ["magistrats"], ["batlles"]]}
 {"fact_id": "tribunal-constitucional-designacio-majoria-3-5", "question": "Segons les regles del Tribunal Constitucional d’Andorra, quin llindar de vots entre els consellers de dret permet al Consell General nomenar dos magistrats?", "expect": [["tres cinquenes parts", "3/5"], ["consellers de dret"]]}
 {"fact_id": "tc-empat-jurisdiccional-ponent", "question": "Quina és la persona que pot imposar el resultat d’un empat jurisdiccional al Tribunal Constitucional d’Andorra?", "expect": [["magistrat ponent", "ponent"], ["vot de qualitat"]]}
 {"fact_id": "tc-empat-no-jurisdiccional-bloqueja", "question": "Quina conseqüència procedimental té la igualtat de vots quan el Tribunal Constitucional d’Andorra tracta una qüestió no jurisdiccional?", "expect": [["no adopta acord", "impedeix l’acord"]]}
-{"fact_id": "parroquia-superficie-canillo-111", "question": "Quants quilòmetres quadrats ocupa Canillo, la parròquia andorrana més extensa?", "expect": [["111 km²", "111 quilòmetres quadrats"], ["estimació del 1989"]]}
-{"fact_id": "parroquia-superficie-canillo-111", "question": "Quina extensió s’atribueix a la parròquia de Canillo al Principat?", "expect": [["111 km²", "111 quilòmetres quadrats"]]}
-{"fact_id": "parroquia-superficie-ordino-85", "question": "Quina és la superfície aproximada d’Ordino dins d’Andorra?", "expect": [["85 km²", "85 quilòmetres quadrats"]]}
-{"fact_id": "parroquia-superficie-ordino-85", "question": "La parròquia d’Ordino té aproximadament quants quilòmetres quadrats?", "expect": [["85 km²", "85 quilòmetres quadrats"]]}
-{"fact_id": "parroquia-superficie-canillo-111", "question": "Quina de les parròquies d’Andorra, Canillo o Ordino, encapçala l’extensió territorial?", "expect": [["Canillo"], ["111 km²", "111 quilòmetres quadrats"], ["Ordino"], ["85 km²", "85 quilòmetres quadrats"]]}
 {"fact_id": "parroquia-superficie-ordino-85", "question": "Com es comparen les extensions de les parròquies de Canillo i Ordino?", "expect": [["Canillo"], ["111 km²", "111 quilòmetres quadrats"], ["Ordino"], ["85 km²", "85 quilòmetres quadrats"]]}
-{"fact_id": "constitucio-principis-article3-2", "question": "Quin article de la Constitució andorrana enumera legalitat, jerarquia i seguretat jurídica?", "expect": [["article 3.2"], ["legalitat"], ["jerarquia"], ["seguretat jurídica"]]}
-{"fact_id": "constitucio-principis-article3-2", "question": "Quins principis de responsabilitat pública garanteix la Constitució d’Andorra?", "expect": [["responsabilitat dels poders públics"], ["interdicció de tota arbitrarietat"]]}
-{"fact_id": "constitucio-tractats-article3-4", "question": "Pot una llei ordinària derogar un tractat publicat al BOPA d’Andorra?", "expect": [["no"], ["no poden ser modificats"], ["no poden ser derogats"]]}
-{"fact_id": "constitucio-tractats-article3-4", "question": "Què estableix l’article 3.4 de la Constitució sobre els tractats internacionals?", "expect": [["no poden ser modificats"], ["no poden ser derogats"], ["per llei"]]}
-{"fact_id": "raonador-defensa-drets", "question": "Com s’anomena el defensor institucional dels drets fonamentals d’Andorra?", "expect": [["Raonador del Ciutadà"], ["drets"], ["llibertats fonamentals"]]}
-{"fact_id": "raonador-defensa-drets", "question": "Què defensa el Raonador del Ciutadà segons la Constitució d’Andorra?", "expect": [["drets"], ["llibertats fonamentals"]]}
-{"fact_id": "veguers-representants-coprinceps", "question": "Qui representava els coprínceps en la justícia històrica d’Andorra?", "expect": [["veguers"], ["bisbe d’Urgell"], ["copríncep francès"]]}
-{"fact_id": "veguers-representants-coprinceps", "question": "Quina era la diferència entre veguer episcopal i veguer francès a Andorra?", "expect": [["bisbe d’Urgell"], ["copríncep francès"]]}
-{"fact_id": "batllia-primera-instancia", "question": "Quin òrgan és la primera instància andorrana per als casos no penals?", "expect": [["Batllia"], ["no penals"]]}
-{"fact_id": "batllia-primera-instancia", "question": "On es jutgen a Andorra les causes penals i la resta d’assumptes en primera instància?", "expect": [["Tribunal de Corts", "causes penals"], ["Batllia", "primera instància"]]}
 {"fact_id": "batlles-instruccio-penal", "question": "Qui s’encarrega de la instrucció de les causes penals a Andorra?", "expect": [["batlles"]]}
 {"fact_id": "batlles-instruccio-penal", "question": "Quina tasca tenen els batlles en els procediments penals andorrans?", "expect": [["instruir", "instrucció"], ["causes penals"]]}
-{"fact_id": "consell-general-parroquials-14", "question": "Dels 28 membres actuals del Consell General d’Andorra, quants s’elegeixen a les parròquies?", "expect": [["14", "catorze"], ["dos per parròquia"]]}
-{"fact_id": "consell-general-parroquials-14", "question": "Com reparteix cada parròquia la seva representació al Consell General?", "expect": [["dos"], ["catorze", "14"]]}
-{"fact_id": "consell-general-renovacio-quatre-anys", "question": "Quin és el màxim període de renovació del parlament andorrà del Consell General d’Andorra?", "expect": [["quatre anys", "4 anys"]]}
-{"fact_id": "consell-general-renovacio-quatre-anys", "question": "Cada quant s’han de celebrar eleccions generals com a màxim a Andorra del Consell General d’Andorra?", "expect": [["quatre anys", "4 anys"]]}
 {"fact_id": "consell-general-parroquials-14", "question": "Quin òrgan andorrà té catorze representants parroquials, en comparació amb els consells comunals del Consell General d’Andorra?", "expect": [["Consell General"], ["catorze", "14"], ["consell de comú"], ["deu", "16"]]}
 {"fact_id": "consell-general-renovacio-quatre-anys", "question": "Quants anys poden passar abans que el Consell General d’Andorra s’hagi de renovar?", "expect": [["quatre anys", "4 anys"]]}
-{"fact_id": "consell-general-representacio-poble", "question": "A quin subjecte col·lectiu correspon la representació exercida pel Consell General d’Andorra?", "expect": [["poble andorrà", "poble d’Andorra"]]}
-{"fact_id": "consell-general-representacio-poble", "question": "En nom de qui actua parlamentàriament el Consell General d’Andorra?", "expect": [["representa", "representació"], ["poble andorrà", "poble d’Andorra"]]}
 {"fact_id": "consell-general-funcio-legislativa", "question": "Quin òrgan d’Andorra exerceix la funció legislativa quan s’aproven lleis nacionals?", "expect": [["Consell General d’Andorra", "funció legislativa"]]}
-{"fact_id": "consell-general-aprova-pressupostos", "question": "Si l’executiu presenta els comptes, qui els valida al Consell General d’Andorra?", "expect": [["Consell General"]]}
-{"fact_id": "consell-general-aprova-pressupostos", "question": "Quina decisió sobre els comptes públics pren el Consell General d’Andorra?", "expect": [["aprova", "aprovació"], ["pressupostos"]]}
-{"fact_id": "consell-general-control-govern", "question": "Quin paper assumeix el Consell General d’Andorra en la supervisió de l’executiu?", "expect": [["Consell General"], ["controla", "supervisa"], ["Govern"]]}
-{"fact_id": "consell-general-control-govern", "question": "Quin òrgan impulsa i supervisa l’acció del Govern d’Andorra?", "expect": [["Consell General"], ["controla"]]}
 {"fact_id": "consell-general-representacio-poble", "question": "Quines funcions es concentren en el Consell General d’Andorra a banda de representar el poble?", "expect": [["legisla", "funció legislativa"], ["aprova", "pressupostos"], ["impulsa", "controla", "Govern"]]}
-{"fact_id": "consell-general-lleis-qualificades-majoria-separada", "question": "Com s’ha de dividir la majoria entre les circumscripcions en una llei qualificada electoral del Consell General d’Andorra?", "expect": [["majoria absoluta"], ["consellers parroquials", "representació parroquial"], ["consellers nacionals", "circumscripció nacional"], ["separadament", "per separat", "separada"]]}
-{"fact_id": "consell-general-lleis-qualificades-majoria-separada", "question": "Quin tipus de majoria parlamentària cal per a les lleis qualificades de referèndum a Andorra?", "expect": [["majoria absoluta"], ["consellers parroquials", "representació parroquial"], ["consellers nacionals", "circumscripció nacional"], ["separadament", "per separat", "separada"]]}
 {"fact_id": "consell-general-lleis-qualificades-majoria-separada", "question": "Quina diferència de llindar hi ha entre les lleis qualificades electoral i la designació de magistrats del Tribunal Constitucional pel Consell General?", "expect": [["majoria absoluta"], ["consellers parroquials", "parroquials"], ["consellers nacionals", "nacionals"], ["separadament", "per separat", "separada"], ["tres cinquenes parts", "tres cinquens"]]}
-{"fact_id": "coprincipat-coprincep-episcopal", "question": "Quin càrrec dins el coprincipat d’Andorra ocupa el bisbe d’Urgell?", "expect": [["copríncep episcopal d’Andorra", "copríncep episcopal"]]}
 {"fact_id": "coprincipat-coprincep-frances", "question": "A quina funció andorrana dona accés la presidència de la República Francesa?", "expect": [["copríncep francès d’Andorra", "copríncep francès"]]}
 {"fact_id": "coprincipat-coprincep-episcopal", "question": "Qui és el copríncep episcopal d’Andorra i qui és el francès?", "expect": [["bisbe d’Urgell"], ["copríncep episcopal"], ["president de la República Francesa"], ["copríncep francès"]]}
-{"fact_id": "constitucio-drets-titol-ii-regulacio-per-llei", "question": "Quina norma ha d’aprovar el Consell General d’Andorra per regular l’exercici dels drets del títol II?", "expect": [["llei", "reserva de llei"]]}
-{"fact_id": "constitucio-drets-titol-ii-regulacio-per-llei", "question": "Quina norma aprova el Parlament per regular l’exercici dels drets constitucionals del títol II?", "expect": [["llei", "llei ordinària"]]}
 {"fact_id": "constitucio-drets-capitols-iii-iv-llei-qualificada", "question": "Els drets dels capítols III i IV de la Constitució d’Andorra s’han de regular per llei ordinària o qualificada?", "expect": [["llei qualificada", "lleis qualificades"]]}
 {"fact_id": "constitucio-drets-capitols-iii-iv-llei-qualificada", "question": "Quina excepció de rang normatiu preveu l’article 40 per als capítols III i IV del títol II?", "expect": [["llei qualificada", "lleis qualificades"]]}
-{"fact_id": "tribunal-constitucional-presidencia-torn-bianual", "question": "Quina periodicitat té la rotació presidencial entre els magistrats del Tribunal Constitucional d’Andorra?", "expect": [["dos anys", "2 anys"]]}
-{"fact_id": "tribunal-constitucional-presidencia-torn-bianual", "question": "La presidència del Tribunal Constitucional d’Andorra es rota anualment o cada dos anys?", "expect": [["dos anys", "2 anys"]]}
-{"fact_id": "tribunal-constitucional-set-procediments", "question": "Quina xifra de processos tramita el Tribunal Constitucional d’Andorra en exercir la seva jurisdicció?", "expect": [["set", "7"]]}
-{"fact_id": "tribunal-constitucional-set-procediments", "question": "El catàleg legal del Tribunal Constitucional d’Andorra conté quantes vies de procediment?", "expect": [["set", "7"]]}
-{"fact_id": "tribunal-constitucional-requisits-magistrat", "question": "Quina edat ha de superar una candidatura al Tribunal Constitucional d’Andorra i quina experiència ha d’acreditar?", "expect": [["vint-i-cinc", "25"], ["experiència reconeguda"], ["coneixements acreditats"], ["jurídic", "institucional"]]}
-{"fact_id": "tribunal-constitucional-requisits-magistrat", "question": "Quin llindar d’edat i quin bagatge professional avalen la idoneïtat per al Tribunal Constitucional d’Andorra?", "expect": [["vint-i-cinc", "25"], ["experiència reconeguda"], ["coneixements acreditats"], ["jurídic", "institucional"]]}
-{"fact_id": "sindic-general-representa-consell", "question": "Qui exerceix formalment la representació del Consell General d’Andorra?", "expect": [["Síndic General d’Andorra", "Síndic General"], ["representa el Consell General", "representació del Consell General"]]}
-{"fact_id": "sindic-general-dirigeix-debats", "question": "Com dirigeix els debats del Consell General d’Andorra el Síndic General d’Andorra?", "expect": [["Síndic General d’Andorra", "Síndic General"], ["dirigeix els debats", "imparcial"]]}
-{"fact_id": "sindic-general-interpreta-reglament", "question": "Qui resol els dubtes interpretatius del Reglament del Consell General d’Andorra?", "expect": [["Síndic General d’Andorra", "Síndic General"], ["interpreta el Reglament", "reglament"]]}
-{"fact_id": "sindic-general-presideix-junta-presidents", "question": "Quina autoritat parlamentària andorrana dirigeix les reunions de la Junta de Presidents del Consell General?", "expect": [["Síndic General d’Andorra", "Síndic General"], ["presideix", "president de la Junta"]]}
 {"fact_id": "sindic-general-representa-consell", "question": "Quines responsabilitats recauen sobre el Síndic General d’Andorra en la cambra legislativa?", "expect": [["Consell General"], ["dirigeix els debats"], ["imparcial"], ["interpreta el Reglament"], ["presideix la Junta de Presidents"]]}
 {"fact_id": "sindic-general-presideix-junta-presidents", "question": "Quines atribucions institucionals té el Síndic General en el parlament andorrà?", "expect": [["representa el Consell General"], ["dirigeix els debats"], ["imparcial"], ["interpreta el Reglament"], ["presideix la Junta de Presidents"]]}
-{"fact_id": "coprincipat-mateixos-poders", "question": "Compara l’autoritat dels coprínceps d’Andorra: és equivalent o desigual?", "expect": [["els mateixos poders", "poders iguals"]]}
-{"fact_id": "coprincipat-mateixos-poders", "question": "Quina distribució de poders s’aplica als dos caps d’estat d’Andorra?", "expect": [["els mateixos poders", "poders iguals"]]}
-{"fact_id": "coprincipat-ficcio-nacionalitat", "question": "Quin estatus jurídic atribueix Becat als coprínceps mentre exerceixen la sobirania sobre Andorra?", "expect": [["ficció jurídica"], ["nacionalitat andorrana", "considerats andorrans"], ["durant el mandat", "mentre exerceixen"]]}
-{"fact_id": "coprincipat-ficcio-nacionalitat", "question": "Quina diferència fa la fitxa del coprincipat entre la nacionalitat d’origen i el reconeixement durant l’exercici dels coprínceps d’Andorra?", "expect": [["espanyola", "francesa"], ["ficció jurídica"], ["durant l’exercici", "mentre exerceixen"], ["nacionalitat andorrana"]]}
 {"fact_id": "coprincipat-no-elegits-andorrans", "question": "Quin paper té l’electorat local en l’adquisició del càrrec dels coprínceps d’Andorra?", "expect": [["els andorrans no els elegeixen", "no s’escullen a Andorra"]]}
 {"fact_id": "coprincipat-no-elegits-andorrans", "question": "El sistema d’Andorra reserva alguna votació popular per triar els coprínceps?", "expect": [["els andorrans no els elegeixen", "no s’escullen a Andorra"]]}
-{"fact_id": "capital-andorra-la-vella", "question": "Quina funció de capital exerceix la parròquia d’Andorra la Vella?", "expect": [["Andorra la Vella"]]}
-{"fact_id": "capital-andorra-la-vella", "question": "Quina parròquia concentra la seu de la capital andorrana?", "expect": [["Andorra la Vella"]]}
-{"fact_id": "comuns-eleccio-data", "question": "Quina finestra de desembre regeix la convocatòria electoral dels comuns andorrans?", "expect": [["vint primers dies de desembre"]]}
-{"fact_id": "comuns-eleccio-data", "question": "Qui fixa per decret les eleccions comunals d’Andorra i dins de quin període?", "expect": [["vint primers dies de desembre, per decret del cap de Govern"]]}
-{"fact_id": "comuns-consellers-eleccio", "question": "Quin òrgan parroquial trien els electors de cada parròquia d’Andorra?", "expect": [["els electors de cada parròquia elegeixen el consell de comú"]]}
-{"fact_id": "comuns-consellers-eleccio", "question": "Qui escull els membres del consell comunal a les set parròquies?", "expect": [["els electors de cada parròquia elegeixen el consell de comú"]]}
-{"fact_id": "comuns-mida-reforma", "question": "Quin nombre parell de membres pot tenir legalment un consell de comú?", "expect": [["entre deu i setze consellers, sempre en nombre parell"]]}
-{"fact_id": "comuns-mida-reforma", "question": "Quines dues garanties temporals i de majoria calen per reformar-ne la composició?", "expect": [["majoria de dos terços", "dos terços"], ["un any d’antelació", "un any de marge"]]}
-{"fact_id": "comuns-llistes-tancades-blocades", "question": "Què pot modificar l’elector en l’ordre d’una candidatura comunal?", "expect": [["llistes tancades i blocades, sense alterar-ne l’ordre"]]}
-{"fact_id": "comuns-llistes-tancades-blocades", "question": "Quina mena de llista voten els electors als comicis dels comuns d’Andorra?", "expect": [["llistes tancades i blocades, sense alterar-ne l’ordre"]]}
-{"fact_id": "comuns-consuls-designacio", "question": "Quin òrgan tria els cònsols entre els consellers del comú?", "expect": [["els consellers del comú"]]}
-{"fact_id": "comuns-consuls-designacio", "question": "Quants períodes complets seguits pot ocupar un cònsol segons la llei comunal d’Andorra?", "expect": [["dos mandats consecutius complets", "dos mandats seguits"]]}
 {"fact_id": "comuns-prima-majoria", "question": "Quina proporció dels escons obté directament la llista més votada en un comú?", "expect": [["la meitat dels escons", "50 per cent dels escons"]]}
 {"fact_id": "comuns-prima-majoria", "question": "Com es reparteix la resta dels escons després de la prima comunal?", "expect": [["proporcionalment entre totes les candidatures", "repartiment proporcional entre totes les llistes"]]}
-{"fact_id": "consell-general-periodes-ordinaris", "question": "Com es reparteix durant l’any el calendari de reunions ordinàries del Consell General d’Andorra?", "expect": [["1 de març–15 de juliol", "1 de setembre–31 de gener"]]}
-{"fact_id": "consell-general-periodes-ordinaris", "question": "Entre quines dates no hi ha període ordinari de treball per al Consell General d’Andorra?", "expect": [["16 de juliol–31 d’agost"]]}
 {"fact_id": "consell-general-sessions-publiques", "question": "Quin òrgan ha d’acordar per majoria absoluta que una sessió del Consell General sigui secreta?", "expect": [["el Ple del Consell General"]]}
 {"fact_id": "consell-general-sessions-publiques", "question": "Quines sessions del Consell General d’Andorra són públiques per regla general?", "expect": [["les sessions del Ple", "les sessions de les comissions"]]}
-{"fact_id": "consell-general-permanent-composicio", "question": "Quines figures integren l’òrgan permanent de set places del Consell General d’Andorra?", "expect": [["el síndic general i sis consellers"]]}
 {"fact_id": "consell-general-permanent-composicio", "question": "Com es distribueixen els sis escons electius de la Permanent entre les circumscripcions del Consell General?", "expect": [["tres nacionals i tres parroquials"]]}
 {"fact_id": "consell-general-comissions-legislatives-nombre", "question": "Quantes unitats de treball legislatiu estables enumera el Reglament del Consell General d’Andorra?", "expect": [["nou comissions legislatives permanents"]]}
-{"fact_id": "raonador-amicus-curiae", "question": "Quina intervenció judicial pot fer el Raonador del Ciutadà d’Andorra en casos de drets humans?", "expect": [["assistir la justícia en drets humans i actuar com a amicus curiae quan ho consideri oportú"]]}
-{"fact_id": "raonador-amicus-curiae", "question": "Quin nom rep la participació del Raonador del Ciutadà d’Andorra com a amic del tribunal?", "expect": [["amicus curiae"]]}
-{"fact_id": "raonador-queixes-privats-continuitat", "question": "Què justifica que el Raonador del Ciutadà d’Andorra mantingui activa una reclamació contra una empresa quan el reclamant s’hi desentén?", "expect": [["interès general en matèries protegides"]]}
-{"fact_id": "raonador-queixes-privats-continuitat", "question": "La retirada del reclamant extingeix necessàriament l’expedient privat davant el Raonador del Ciutadà d’Andorra?", "expect": [["no; pot continuar en els supòsits legals protegits si ho considera adient per a l’interès general", "pot continuar si hi ha interès general"]]}
 {"fact_id": "raonador-actuacio-ofici", "question": "Quines causes habiliten el Raonador del Ciutadà d’Andorra a actuar d’ofici?", "expect": [["discriminació, racisme, xenofòbia, antisemitisme, sexisme o intolerància"]]}
 {"fact_id": "raonador-actuacio-ofici", "question": "El Raonador del Ciutadà d’Andorra pot intervenir sense denúncia en casos de racisme?", "expect": [["sí, pot actuar d’ofici en casos de racisme"]]}
-{"fact_id": "csj-mandat-sis-anys", "question": "Quant de temps pot servir cadascun dels cinc integrants del Consell Superior de la Justícia d’Andorra abans de completar el seu període?", "expect": [["sis anys"]]}
-{"fact_id": "csj-mandat-sis-anys", "question": "Quina extensió temporal té una etapa sencera de servei d’un dels cinc membres del Consell Superior de la Justícia d’Andorra?", "expect": [["sis anys"]]}
 {"fact_id": "csj-no-renovacio-consecutiva", "question": "Quin límit s’aplica a la repetició de mandats al Consell Superior de la Justícia d’Andorra?", "expect": [["no es pot repetir consecutivament"]]}
 {"fact_id": "csj-no-renovacio-consecutiva", "question": "Es poden encadenar dos períodes de servei al Consell Superior de la Justícia?", "expect": [["no es pot repetir consecutivament"]]}
-{"fact_id": "tc-proces-directe", "question": "Quin instrument parlamentari andorrà pot ser objecte de control directe del Tribunal Constitucional?", "expect": [["Reglament del Consell General"]]}
-{"fact_id": "tc-proces-directe", "question": "El Tribunal Constitucional d’Andorra pot controlar per via directa decrets legislatius?", "expect": [["sí, decrets legislatius"]]}
-{"fact_id": "tc-proces-incidental", "question": "L’origen d’una qüestió incidental que arriba al Tribunal Constitucional d’Andorra és la justícia ordinària o el Govern?", "expect": [["jurisdicció ordinària"]]}
-{"fact_id": "tc-proces-incidental", "question": "Quan apareix un dubte constitucional en una causa ordinària, qui pot portar-lo al Tribunal Constitucional?", "expect": [["jurisdicció ordinària"]]}
-{"fact_id": "tc-control-tractats", "question": "Quin control previ de constitucionalitat pot exercir el Tribunal Constitucional d’Andorra sobre un tractat?", "expect": [["control previ de constitucionalitat dels tractats internacionals"]]}
-{"fact_id": "tc-control-tractats", "question": "Quina mena de compromís internacional pot ser revisat anticipadament pel Tribunal Constitucional?", "expect": [["tractats internacionals"]]}
-{"fact_id": "tc-dictamen-coprinceps", "question": "Quins caps d’estat poden demanar al Tribunal Constitucional d’Andorra una valoració prèvia d’una llei?", "expect": [["els coprínceps"]]}
-{"fact_id": "tc-dictamen-coprinceps", "question": "Quin dictamen preventiu sobre l’adequació d’una llei poden sol·licitar els coprínceps?", "expect": [["dictamen previ sobre l’adequació de la llei a la Constitució"]]}
-{"fact_id": "tc-conflicte-comuns", "question": "Quin tribunal resol discrepàncies de competències entre un comú i el Govern d’Andorra?", "expect": [["Tribunal Constitucional d’Andorra"]]}
-{"fact_id": "tc-conflicte-comuns", "question": "Davant de quin òrgan constitucional es tramiten les controvèrsies competencials entre comuns andorrans?", "expect": [["Tribunal Constitucional d’Andorra"]]}
-{"fact_id": "tc-conflicte-institucions", "question": "Quin tribunal resol una disputa de competències entre el Govern i el Consell Superior de la Justícia?", "expect": [["Tribunal Constitucional d’Andorra"]]}
-{"fact_id": "tc-conflicte-institucions", "question": "On es dirimeix un desacord de competències entre el Govern i el Consell Superior de la Justícia davant el Tribunal Constitucional d’Andorra?", "expect": [["Tribunal Constitucional d’Andorra"]]}
 {"fact_id": "tc-empara", "question": "Entre les vies processals, quina institució coneix l’empara: el Tribunal Constitucional d’Andorra o el Consell Superior de la Justícia?", "expect": [["Tribunal Constitucional d’Andorra"]]}
 {"fact_id": "tc-empara", "question": "Quan una persona demana empara constitucional a Andorra, quin nom té el procediment?", "expect": [["recurs d’empara"]]}
 {"fact_id": "quarts-veinats-contracten-mestre-metge", "question": "En la ponència de Pere Canturri, quins professionals contractaven les associacions de poble anomenades quarts i veïnats?", "expect": [["el mestre o el metge", "mestres o metges"]]}
 {"fact_id": "quart-suplencia-designacio-mestre-metge", "question": "Quina regla subsidiària sobre els quarts recull Ríos Urruti per a Andorra el 1918?", "expect": [["quan la parròquia no els designava", "si la parròquia no designava mestre o metge"]]}
 {"fact_id": "parroquia-superficie-sant-julia-62", "question": "A quina parròquia correspon l’àrea de 62 km² consignada a la taula aproximada de superfícies de 1989?", "expect": [["Sant Julià de Lòria"]]}
-{"fact_id": "andorra-superficie-total-468", "question": "Quin total d’àrea territorial registra Ros Pascuet per a Andorra?", "expect": [["468 km²", "468 quilòmetres quadrats"]]}
 {"fact_id": "batlles-carrera-tres-graus", "question": "D’acord amb l’escala judicial andorrana, quants rangs es reconeixen per als batlles?", "expect": [["tres graus"]]}
 {"fact_id": "magistrats-carrera-dos-graus", "question": "Quants graons professionals té la carrera dels magistrats del Principat?", "expect": [["dos graus"]]}
-{"fact_id": "promocio-batlle-sancio-no-prescrita", "question": "En quines circumstàncies disciplinàries no és promocionable un batlle al Principat?", "expect": [["dues faltes lleus"], ["una falta greu no prescrita"], ["una falta molt greu no prescrita"]]}
-{"fact_id": "batlle-magistrat-tribunal-destinacio", "question": "Quines seus judicials corresponen al cos de magistrats andorrà?", "expect": [["Tribunal de Corts o Tribunal Superior"]]}
 {"fact_id": "comuns-autogovern-article79", "question": "Poden els comuns d’Andorra exercir autogovern sobre qualsevol matèria, o només dins l’àmbit competencial que els correspon?", "expect": [["article 79", "autogovern"], ["dins les seves competències", "competències comunals"]]}
 {"fact_id": "comuns-pressupost-patrimoni-article79", "question": "És correcte afirmar que els comuns d’Andorra gestionen només béns parroquials públics i no els privats?", "expect": [["no", "també gestionen", "béns públics i privats", "patrimoni parroquial"]]}
 {"fact_id": "comuns-potestat-normativa-local", "question": "Quan els comuns d’Andorra aproven una ordinació parroquial, quin límit imposa la llei a aquesta norma local?", "expect": [["sotmesa a la llei", "subjecta a la llei", "respectar la llei"]]}
-{"fact_id": "comuns-delegacio-estatal-article80-3", "question": "Una parròquia vol exercir una funció que correspon a l’Estat: n’hi ha prou amb una ordinació comunal o cal una llei de delegació?", "expect": [["cal una llei", "llei de delegació"]]}
 {"fact_id": "comuns-cens-poblacio-llei19-2017", "question": "Quina operació de registre parroquial de 2017 han de coordinar els comuns d’Andorra amb l’àmbit nacional per mantenir actualitzades les dades de residents?", "expect": [["cens de població", "elaborar", "controlar", "actualitzar"], ["coordinació nacional", "àmbit nacional"]]}
 {"fact_id": "comuns-cadastre-llei19-2017", "question": "Quin instrument territorial elaboren els comuns d’Andorra sota la legislació nacional en coordinació amb el Registre de la Propietat?", "expect": [["cadastre"], ["legislació nacional"], ["coordinació", "Registre de la Propietat"]]}
 {"fact_id": "manual-digest-1748", "question": "Qui és l'autor del Manual Digest i de quin any és?", "expect": [["Fiter"], ["1748"]]}
-{"fact_id": "politar-1763", "question": "El Politar, el text que complementa el Manual Digest, de quin any és?", "expect": [["1763"]]}
 {"fact_id": "onu-1993", "question": "Quin dia Andorra va entrar a l'ONU?", "expect": [["28 de juliol"], ["1993"]]}
-{"fact_id": "basquet-campio-casa-2004", "question": "Quin país va guanyar el Campionat d'Europa de Països Petits de bàsquet del 2004 i on es va disputar?", "expect": [["Andorra"]]}
-{"fact_id": "basquet-final-2014", "question": "Contra quina selecció va jugar Andorra la final de l'Europeu de Països Petits de bàsquet del 2014, i com va acabar?", "expect": [["Malta"], ["66"]]}
-{"fact_id": "noms-parroquies", "question": "Digues-me el nom de totes les parròquies andorranes.", "expect": [["Canillo"], ["Encamp"], ["Ordino"], ["Massana"], ["Andorra la Vella"], ["Sant Julià"], ["Escaldes"]]}
-{"fact_id": "quarts-definicio", "question": "Què vol dir que una parròquia d’Andorra tingui quarts en la seva organització territorial?", "expect": [["organització veïnal", "divisió veïnal"], ["drets col·lectius"], ["béns comunals"]]}
-{"fact_id": "comuns-control", "question": "Quin tribunal resol un conflicte de competències entre el Govern i un comú?", "expect": [["Constitucional"]]}
-{"fact_id": "consell-general-escons", "question": "Segons la Constitució, quin és el nombre mínim i màxim de consellers generals?", "expect": [["28"], ["42"]]}
-{"fact_id": "comuns-actes-executius-art82", "question": "Quina conseqüència pràctica atribueix l’article 82 als actes dels comuns d’Andorra respecte del seu compliment?", "expect": [["directament executiu", "directament executius"], ["mitjans legals"]]}
 {"fact_id": "comuns-actes-recursos-art82", "question": "Si es discuteix l’adequació a l’ordenament d’un acte parroquial d’Andorra, quins canals de recurs són possibles?", "expect": [["administratiu", "administrativa"], ["jurisdiccional", "jurisdiccionals"]]}
+{"fact_id": "bandera-oficial-1942", "question": "Quina data va declarar Andorra oficials la bandera, l’escut i l’himne nacional?", "expect": [["22 de desembre de 1942"]]}
+{"fact_id": "meritxell-patrona-1873", "question": "Quina data va declarar el Consell General patrona la Mare de Déu de Meritxell?", "expect": [["24 d’octubre de 1873"]]}
+{"fact_id": "meritxell-incendi-1972", "question": "Quina nit de setembre de 1972 va cremar l’antic santuari de Meritxell?", "expect": [["nit del 8 al 9 de setembre de 1972"]]}
+{"fact_id": "sant-antoni-data", "question": "Quin dia i mes del calendari andorrà corresponen a Sant Antoni?", "expect": [["17 de gener"]]}
+{"fact_id": "falles-data-sant-joan", "question": "Quina nit se celebren les falles andorranes per Sant Joan?", "expect": [["nit del 23 de juny"]]}
+{"fact_id": "contrapas-parts-13", "question": "Quin nombre de parts coreogràfiques s’atribueix al contrapàs de la capital?", "expect": [["tretze"]]}
+{"fact_id": "marratxa-ubicacio-dia", "question": "Quin dia de la festa major de Sant Julià es balla la marratxa?", "expect": [["dilluns"]]}
+{"fact_id": "carnaval-judici-diumenge", "question": "En quin dia i franja del Carnaval d’Encamp es representa el Judici dels Contrabandistes?", "expect": [["diumenge a la tarda"]]}
+{"fact_id": "escut-quatre-quarters", "question": "Al blasó, quin recompte de quarters presenta l’escut andorrà?", "expect": [["quatre"]]}
+{"fact_id": "himne-lletra-joan-benlloch", "question": "Qui signa el text cantat d’«El gran Carlemany»?", "expect": [["Joan Benlloch i Vivó"]]}
+{"fact_id": "carnaval-judici-diumenge", "question": "A quin moment del Carnaval d’Encamp es representa el Judici dels Contrabandistes?", "expect": [["diumenge a la tarda"]]}
+{"fact_id": "himne-musica-enric-marfany", "question": "Quin càrrec musical va tenir Enric Marfany Bons en l’himne «El gran Carlemany»?", "expect": [["va compondre la música", "compositor de la música"]]}
+{"fact_id": "bandera-facana-consell-1937", "question": "Qui va decidir quan es mostrava la bandera d’Andorra a Casa de la Vall, i quins dos tipus de dies va incloure?", "expect": [["Consell General"], ["dies de sessió del Consell General"], ["festes oficials"]]}
+{"fact_id": "escut-tria-armes-1914", "question": "Quina característica antiga va fer preferir al Consell les armes del segell quan preparava medalles l’any 1914?", "expect": [["antiguitat d’ús", "que era l’escut que s’usava antigament"]]}
+{"fact_id": "escut-oficial-1942", "question": "Quina decisió posterior va formalitzar l’estatus de l’escut d’Andorra i en quina data?", "expect": [["declarat oficial", "oficialitzat"], ["22 de desembre de 1942"]]}
+{"fact_id": "meritxell-talla-original-segle-xii", "question": "Quina edat i quin material caracteritzen la imatge antiga de Meritxell, abans de l’incendi?", "expect": [["segle XII"], ["fusta", "de fusta"]]}
+{"fact_id": "meritxell-imatge-actual-replica", "question": "La imatge del santuari de Meritxell és anterior o posterior a la talla destruïda el 1972?", "expect": [["posterior", "rèplica", "rèplica de la talla original"]]}
+{"fact_id": "sant-antoni-escudella-totes-parroquies", "question": "Quin plat calent posa cada parròquia d’Andorra al carrer a mitjan gener?", "expect": [["escudella", "escudella de Sant Antoni"]]}
+{"fact_id": "sant-antoni-vianda-nom-canillo", "question": "Quin mot local identifica a Canillo l’escudella que es reparteix per Sant Antoni?", "expect": [["vianda"]]}
+{"fact_id": "sant-antoni-vianda-primera-1979", "question": "Quin any correspon a l’estrena popular de la vianda de Canillo?", "expect": [["1979"]]}
+{"fact_id": "sant-antoni-encants-recuperats-2000", "question": "Quan es van reprendre els encants de Sant Antoni a Canillo?", "expect": [["cap a l’any 2000", "cap a 2000"]]}
+{"fact_id": "caramellaires-cantaires", "question": "Quin nom reben els participants que interpreten les caramelles?", "expect": [["caramellaires"]]}
+{"fact_id": "festes-majors-sant-julia-patrons", "question": "Quina parella de sants dona nom als patrons lauredianes?", "expect": [["sant Julià"], ["sant Germà"]]}
+{"fact_id": "carnestoltes-estiu-encamp", "question": "El Carnestoltes d’estiu d’Encamp forma part de quina festa?", "expect": [["festa major"], ["festa major d’Encamp"]]}
+{"fact_id": "carnaval-ordino-farsa-recuperada-2017", "question": "En quin any va tornar la farsa pròpia de la vila d’Ordino al Carnaval?", "expect": [["2017"]]}
+{"fact_id": "carnaval-ordino-farsa-recuperada-2017", "question": "Quin any s’ha de recordar per a la farsa carnavalesca recuperada a Ordino?", "expect": [["2017"]]}
+{"fact_id": "marratxa-isidre-marba-coreografia", "question": "Qui va harmonitzar i coreografiar la marratxa?", "expect": [["Isidre Marbà"]]}
+{"fact_id": "marratxa-isidre-marba-coreografia", "question": "Quin mestre va fixar els passos de la dansa als anys seixanta?", "expect": [["Isidre Marbà"]]}
+{"fact_id": "romanic-engolasters-mestre-santa-coloma", "question": "Quin temple d’Engolasters té murals atribuïts al mateix artista que Santa Coloma?", "expect": [["Sant Miquel"]]}
+{"fact_id": "romanic-engolasters-mestre-santa-coloma", "question": "Com s’anomena el mestre a qui s’atribueixen les pintures de Sant Miquel d’Engolasters?", "expect": [["Mestre de Santa Coloma"]]}
+{"fact_id": "romanic-sant-roma-les-bons-consagracio-1164", "question": "Quina parròquia acull l’església romànica de Sant Romà de les Bons?", "expect": [["Encamp"]]}
+{"fact_id": "romanic-santa-coloma-nau-segle-x", "question": "Quina de Santa Coloma, Caselles i Sant Romà de les Bons és probablement la més antiga?", "expect": [["Santa Coloma"]]}
+{"fact_id": "llegenda-meritxell-parroquies-disputa", "question": "Quins dos veïns del lloc de la troballa entren en disputa per la imatge en el relat de Meritxell?", "expect": [["Canillo"], ["Encamp"]]}
+{"fact_id": "llegenda-meritxell-santuari-entre-parroquies", "question": "Quin indret tria la llegenda de Meritxell per construir-hi el santuari?", "expect": [["entre Canillo i Encamp"]]}
+{"fact_id": "buna-buner-definicio", "question": "En la història del buner d’Ordino, quin nom té el sac de gemecs?", "expect": [["buna"]]}
+{"fact_id": "buner-definicio", "question": "Quin mot s’aplica a qui fa sonar la buna en el relat d’Ordino?", "expect": [["buner"]]}
+{"fact_id": "geganta-ermessenda-mides", "question": "Expressa en metres l’alçada de la geganta Ermessenda d’Andorra la Vella.", "expect": [["3,75 metres", "3,75"]]}
+{"fact_id": "geganta-ermessenda-pes", "question": "Quin valor en quilograms dona la fitxa per a Ermessenda, la geganta de la capital?", "expect": [["50 quilos", "50 kg", "50"]]}
+{"fact_id": "romanic-santa-coloma-campanar", "question": "Quin contorn es veu a la planta de la torre campanar de l’església de Santa Coloma?", "expect": [["circular", "rodona"]]}
+{"fact_id": "romanic-santa-coloma-campanar-alcada", "question": "A quina cota, expressada en metres, s’alça el campanar de Santa Coloma?", "expect": [["17,75 metres", "17,75 m"]]}

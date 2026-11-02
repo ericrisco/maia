@@ -21,6 +21,7 @@ EXAMPLES_PATH = ROOT / "training-data/datasets/canon-augmentat.jsonl"
 CONTRAST_GROUPS_PATH = ROOT / "training-data/facts/canon-contrast-groups.jsonl"
 PROBE_PATH = ROOT / "training-data/facts/canon-facts-probe.jsonl"
 BASIC_DATASET_PATH = ROOT / "training-data/datasets/canon-basic.jsonl"
+CONFLICTS_PATH = ROOT / "training-data/facts/canon-facts-conflicts.md"
 EXPECTED_TOPICS = {
     "economia-llengua-societat-gastronomia",
     "historia",
@@ -80,6 +81,47 @@ def known_source_ids() -> set[str]:
     return found
 
 
+def validate_canon_basic_coverage(
+    facts: list[dict[str, Any]], scope: str | None = None
+) -> tuple[int, int, int]:
+    """Require every canon-basic row to map to a fact or an explicit exclusion."""
+    scoped_rows = [
+        row
+        for row in read_jsonl(BASIC_DATASET_PATH)
+        if isinstance(row.get("id"), str)
+        and (scope is None or row["id"].startswith(f"canon-basic/{scope}/"))
+    ]
+    source_ids = {
+        source_id
+        for fact in facts
+        if scope is None or fact.get("topic") == scope
+        for source_id in fact.get("source_ids", [])
+        if isinstance(source_id, str)
+    }
+    conflict_report = CONFLICTS_PATH.read_text(encoding="utf-8")
+    covered_by_fact = 0
+    covered_by_exclusion = 0
+    missing: list[str] = []
+    for row in scoped_rows:
+        row_id = row["id"]
+        if row_id in source_ids:
+            covered_by_fact += 1
+            continue
+        short_id = row_id.split("/", 2)[-1]
+        short_pattern = rf"(?<![\w-]){re.escape(short_id)}(?![\w-])"
+        if re.search(short_pattern, conflict_report):
+            covered_by_exclusion += 1
+        else:
+            missing.append(row_id)
+    if missing:
+        preview = ", ".join(missing[:10])
+        suffix = " …" if len(missing) > 10 else ""
+        raise ValueError(
+            f"canon-basic coverage has {len(missing)} unaccounted rows: {preview}{suffix}"
+        )
+    return len(scoped_rows), covered_by_fact, covered_by_exclusion
+
+
 def validate_facts(scope: str | None = None) -> list[dict[str, Any]]:
     facts = read_jsonl(FACTS_PATH)
     if not facts:
@@ -122,7 +164,12 @@ def validate_facts(scope: str | None = None) -> list[dict[str, Any]]:
         raise ValueError(f"all five topics must be represented, found {dict(topic_counts)}")
     if scope is not None and topic_counts[scope] == 0:
         raise ValueError(f"topic {scope!r} has no facts")
+    coverage = validate_canon_basic_coverage(facts, scope=scope)
     print(f"facts: {len(facts)} unique; topic counts: {dict(sorted(topic_counts.items()))}")
+    print(
+        f"canon-basic coverage: {coverage[0]} rows; "
+        f"{coverage[1]} mapped to facts; {coverage[2]} documented exclusions"
+    )
     return facts
 
 
