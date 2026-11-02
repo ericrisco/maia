@@ -78,6 +78,11 @@ def known_source_ids() -> set[str]:
         source_id = row.get("id")
         if isinstance(source_id, str):
             found.add(source_id)
+    # Theme documents are allowed primary sources, not external provenance labels.
+    found.update(
+        path.relative_to(ROOT).as_posix()
+        for path in (ROOT / "docs/temes").rglob("*.md")
+    )
     return found
 
 
@@ -91,10 +96,12 @@ def validate_canon_basic_coverage(
         if isinstance(row.get("id"), str)
         and (scope is None or row["id"].startswith(f"canon-basic/{scope}/"))
     ]
+    # Scope selects the canon-basic rows to audit. A row may be deduplicated
+    # onto a fact whose primary topic differs, so exact row provenance must be
+    # searched across the complete fact set.
     source_ids = {
         source_id
         for fact in facts
-        if scope is None or fact.get("topic") == scope
         for source_id in fact.get("source_ids", [])
         if isinstance(source_id, str)
     }
@@ -586,6 +593,8 @@ def validate_examples(facts: list[dict[str, Any]], scope: str | None = None) -> 
         "contrast_fact_ids",
         "related_fact_id",
         "anchor_fact_id",
+        "missing_detail",
+        "evidence_excerpt",
     }
     seen_ids: set[str] = set()
     seen_pairs: set[str] = set()
@@ -636,15 +645,26 @@ def validate_examples(facts: list[dict[str, Any]], scope: str | None = None) -> 
         ):
             raise ValueError(f"row {index}: contrast metadata requires group_id")
         if row_type == "abstencio":
-            if fact_id is not None or documents:
-                raise ValueError(f"row {index}: abstentions need null fact_id and no documents")
+            if fact_id is not None:
+                raise ValueError(f"row {index}: abstentions need a null fact_id")
+            if any(
+                not isinstance(doc, str)
+                or tuple(Path(doc).parts[:2]) not in {("docs", "temes"), ("docs", "fonts")}
+                or ".." in Path(doc).parts
+                or not (ROOT / doc).is_file()
+                for doc in documents
+            ):
+                raise ValueError(
+                    f"row {index}: abstention documents must be existing docs/temes or docs/fonts files"
+                )
             abstention_answers.add(normalized_text(row_answer(row)))
         else:
             if fact_id not in fact_map:
                 raise ValueError(f"row {index}: missing fact reference {fact_id!r}")
             if not documents or any(
                 not isinstance(doc, str)
-                or not doc.startswith("docs/temes/")
+                or tuple(Path(doc).parts[:2]) not in {("docs", "temes"), ("docs", "fonts")}
+                or ".." in Path(doc).parts
                 or not (ROOT / doc).is_file()
                 for doc in documents
             ):
@@ -679,6 +699,21 @@ def validate_examples(facts: list[dict[str, Any]], scope: str | None = None) -> 
                     normalized_text(primary_answer)
                 )
                 answer_texts_by_fact.setdefault(fact_id, []).append(primary_answer)
+                if row_type == "dues-voltes":
+                    related_fact_id = row.get("related_fact_id")
+                    if isinstance(related_fact_id, str):
+                        secondary_answer = next(
+                            (
+                                message["content"]
+                                for message in reversed(messages)
+                                if isinstance(message, dict)
+                                and message.get("role") == "assistant"
+                            ),
+                            "",
+                        )
+                        answer_texts_by_fact.setdefault(related_fact_id, []).append(
+                            secondary_answer
+                        )
         for message in messages:
             content = message["content"]
             if message["role"] == "user":
@@ -730,15 +765,17 @@ def validate_examples(facts: list[dict[str, Any]], scope: str | None = None) -> 
             if normalized_text(messages[1]["content"]) == normalized_text(second_question):
                 raise ValueError(f"row {index}: second question must differ from the first")
         abstention_patterns = (
-            r"no en tinc (?:cap )?constància|no ho sé|no em consta",
+            r"no en tinc (?:cap )?constància|no ho sé|no em consta|fora del corpus|no hi figura|no ha comprovat|no s.ha pogut determinar",
             r"no tinc (?:cap )?(?:informació|dades)|no tinc prou informació",
             r"no puc (?:confirmar|precisar|afirmar)",
             r"no disposo (?:d’aquesta informació|d’informació)",  # noqa: RUF001
             r"no en sé el nom|no puc donar-te aquesta mida|no en tinc cap registre",
             r"no en tinc cap referència fiable|aquesta dada no la puc confirmar",
             r"no puc precisar-ho|no ho puc afirmar|no ho puc verificar",
-            r"no sé quin|no sé quina|no tinc aquesta dada confirmada|no em consta el resultat",
-            r"(?:la|les) .{0,35} no (?:indica|consigna|concreta|permet|recull|inclou|especifica|precisa)|no hi ha (?:cap )?(?:hora|registre horari)|les dades disponibles no precisen|no es documenta l.hora|no apareix cap registre horari|no puc donar una hora|no es pot establir l.hora|no hi ha constància del moment|no en sé l.hora|no tinc aquesta dada horària confirmada",
+            r"no sé quin|no sé quina|no tinc aquesta dada confirmada|no em consta el resultat|deixa (?:obert|oberta|oberts|obertes)|queda (?:obert|oberta|oberts|obertes)",
+            r"no (?:hi )?const(?:a|en)|no n(?:['’])?(?:indica|indiquen|dona|ofereix|especifica|detalla|conserva|atribueix|identifica|anomena|precisa|quantifica|explica|enumera|enumeren|aporta|aporten)|no (?:(?:en|hi) )?(?:indica|indiquen|consigna|concreta|permet|recull|inclou|compta|especifica|precisa|publica|conserva|dona|aporta|documenta|identifica|menciona|anomena|enumera|explica|determina|estableix|atribueix|informa|separa|mesura|desgloss(?:a|en)|discrimina)|encara no (?:hi )?(?:ha|consta|es documenta)|no queda (?:establert|documentat|confirmat)|no (?:està|esta) (?:mesurat|mesurada|establert|establerta|verificat|verificada)|no es pot completar|no es pot determinar",
+            r"(?:la|les|el|els) .{0,50} no (?:(?:en|hi) )?(?:indica|indiquen|consigna|concreta|permet|recull|inclou|incorpora|especifica|precisa|publica|conserva|dona|aporta|documenta|identifica|menciona|anomena|enumera|explica|determina|estableix|atribueix|informa|separa|desglossa|discrimina|quantifica)|no hi ha (?:cap )?(?:hora|registre horari)|les dades disponibles no precisen|no es documenta l.hora|no apareix cap registre horari|no puc donar una hora|no es pot establir l.hora|no hi ha constància del moment|no en sé l.hora|no tinc aquesta dada horària confirmada|no hi afegeix|no incorpora la metodologia|ni especifica com|no comprova ni dona valors|sense donar-ne (?:el|la|cap)",
+            r"no (?:ha|han|s.ha|s.han|es) (?:incorporat|localitzat|verificat|consultat|reproduït|transcrit|documentat|confirmat|identificat|publicat)|no (?:disposa|disposen|fixa|fixen|localitza|localitzen|enumera|enumeren|dona|donen|diu|diuen|explica|expliquen|aporta|aporten|descriu|descriuen|reconstrueix|reconstrueixen|conté|conten|presenta|presenten|ofereix|ofereixen|demostra|demostren|acredita|acrediten|inclou|inclouen|indica|indiquen|conserva|conserven|compara|comparen|classifica|classifiquen|compta|compten|quantifica|quantifiquen|mesura|mesuren|desglossa|desglossen|estableix|estableixen|determina|determinen|documenta|documenten|especifica|especifiquen|precisa|precisen|anomena|anomenen|apareix|apareixen|figura|figuren|troba|troben|resol|resolen|transcriu|transcriuen|publica|publiquen)|no n.(?:ha )?(?:incorporat|localitzat|reproduït|transcrit|extret|aportat|donat|enumerat)|no identifiquen|no identifique|no (?:la|una) trajectòria episcopal completa|no conté|no contenen|no cobreix|no cobreixen|no incorporen|no detalla|no detallen|no en detalla|no en detallen|no reprodueix|no reprodueixen|no confirma|no confirmen|no comprova|no hi inventaria|no afirma|no afirmen|no hi apareix|no hi apareixen|no hi són|no hi son|no hi ha (?:una |cap )?(?:xifra|mesura|font|dada|llista|taula|article|cronologia|contingut)|no una distribuci. per|no t. cap article|no t. (?:la )?plantilla comunal|no (?:hi )?troba|no (?:hi )?troben|no un acte concret d.exercici|no consulta ni transcriu|no n.ha (?:trobat|localitzat)|no n.acrediti|no n.hi (?:identifiquen|identifica|aporten|aporta)|no n.extreu|no n.inclou|no n.afegeix|no se n.ha (?:localitzat|trobat|identificat)|no s.hi ha incorporat|no l.impr.s original|no el total acumulat|no li dona nom|no t. documentaci. hist.rica|no t. el relat|no t. una explicaci.|no t. (?:una )?font actual|no t. el text|no data|no en t. (?:la |el |cap )?(?:coreografia|música|vestuari|documentació)|no en coneix|no en data|no en (?:fixa|fixen|disposa|disposen|localitza|localitzen|enumera|enumeren|dona|donen|diu|diuen|aporta|aporten|descriu|descriuen|ofereix|ofereixen|presenta|presenten|explica|expliquen|identifica|identifiquen|concreta|concreten|confirma|confirmen)|no en pot (?:reproduir|resumir)|sense (?:una |cap )?(?:relació nominal|identificar|donar|documentar|resoldre)|sense documentar|buit documental|camp .{0,60} buit|contradicció sense resoldre|cal localitzar|fonts? .{0,50} discrepen|deixa (?:obert|oberta|pendents?|pendent)|queda obert|continua obert|continua pendent|no queda provat|no està verificat|no s.ha verificat|no s.ha contrastat"
         )
         if row_type == "abstencio" and not re.search(
             "|".join(abstention_patterns), answer.casefold()

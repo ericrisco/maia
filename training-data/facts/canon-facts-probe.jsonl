@@ -206,3 +206,20 @@
 {"fact_id": "geganta-ermessenda-pes", "question": "Quin valor en quilograms dona la fitxa per a Ermessenda, la geganta de la capital?", "expect": [["50 quilos", "50 kg", "50"]]}
 {"fact_id": "romanic-santa-coloma-campanar", "question": "Quin contorn es veu a la planta de la torre campanar de l’església de Santa Coloma?", "expect": [["circular", "rodona"]]}
 {"fact_id": "romanic-santa-coloma-campanar-alcada", "question": "A quina cota, expressada en metres, s’alça el campanar de Santa Coloma?", "expect": [["17,75 metres", "17,75 m"]]}
+{"fact_id": "feda-continuïtat-hfasa", "question": "Quina empresa elèctrica va prendre el relleu de FHASA després que Andorra n’adquirís el patrimoni el 1988?", "expect": [["FEDA", "Forces Elèctriques d’Andorra"]]}
+{"fact_id": "transicio-renovables-75-2030", "question": "En els objectius d’Andorra per al 2030, quin llindar s’estableix per a les energies renovables en la producció elèctrica nacional?", "expect": [["75 %", "75%"]]}
+{"fact_id": "banca-sector-pes-valor-afegit", "question": "Quins quatre sectors generen plegats més del 60 % del valor afegit d’Andorra?", "expect": [["sector financer"], ["sector públic"], ["comerç"], ["activitats immobiliàries"], ["més del 60 %", "60%"]]}
+{"fact_id": "banca-pes-pib-20", "question": "Dins el producte interior brut del Principat, quin pes té l’activitat de la banca?", "expect": [["20 %", "20%", "una cinquena part"]]}
+{"fact_id": "transicio-electricitat-50-2050", "question": "Quina fita andorrana s’estableix per a l’aportació elèctrica pròpia en relació amb la demanda l’any 2050?", "expect": [["50 %", "50%"]]}
+{"fact_id": "transicio-intensitat-energetica-reduccio", "question": "Per a l’objectiu d’intensitat energètica d’Andorra, quins percentatges de disminució corresponen a les fites del 2030 i del 2050?", "expect": [["20 %", "20%"], ["30 %", "30%"], ["2010"]]}
+{"fact_id": "rtva-televisio-publica-inici-1995", "question": "Quan va començar a emetre RTVA com a televisió pública andorrana?", "expect": [["1995"]]}
+{"fact_id": "fagadi-nom-complet", "question": "Què vol dir Fagadi en el sistema de garantia de dipòsits d’Andorra?", "expect": [["Fons Andorrà de Garantia de Dipòsits"]]}
+{"fact_id": "fagadi-regulacio-llei-20-2018", "question": "Quin número identifica la llei andorrana que estableix el règim del Fagadi?", "expect": [["20/2018"]]}
+{"fact_id": "pressio-fiscal-2025-renda-punts-pib", "question": "Quina variació en punts del PIB va tenir l’impost sobre la renda andorrà entre el 2000 i el 2025?", "expect": [["0,2"], ["7,2"]]}
+{"fact_id": "pressio-fiscal-2025-tipus-iva-punts-pib", "question": "Quina sèrie en punts del PIB correspon als tributs de tipus IVA entre 2000 i 2025?", "expect": [["7,1"], ["5,0"]]}
+{"fact_id": "pressio-fiscal-2025-imposicio-indirecta-total", "question": "Com va evolucionar la imposició indirecta total, en punts del PIB, entre el 2000 i el 2025?", "expect": [["8,3"], ["9,8"]]}
+{"fact_id": "sta-creacio-1967", "question": "Quin any marca l’inici del servei telefònic públic avui conegut com a STA?", "expect": [["1967"]]}
+{"fact_id": "sta-transformacio-andorra-telecom-2014", "question": "Quina norma de 2014 va crear la societat anònima pública de telecomunicacions?", "expect": [["Llei 33/2014"]]}
+{"fact_id": "coromines-zona-parla-occidental-1958", "question": "Quin lingüista situà tot el Principat dins la varietat occidental el 1958?", "expect": [["Joan Coromines"]]}
+{"fact_id": "coca-massegada-fruita-pressec-albercoc", "question": "Quines dues fruites poden aparèixer a sobre de la coca massegada?", "expect": [["préssec"], ["albercoc"]]}
+{"fact_id": "trinxat-complements-escarola-ou", "question": "Quins complements, a més de cansalada, es poden posar al trinxat?", "expect": [["escarola"], ["ou escumat"]]}
