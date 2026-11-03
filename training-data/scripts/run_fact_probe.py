@@ -26,22 +26,25 @@ OLLAMA = os.environ.get("OLLAMA_HOST", "http://localhost:11434").rstrip("/")
 
 
 def answer(model: str, question: str) -> str:
+    # Native API with thinking off: Gemma 4 would otherwise spend the 300 tokens reasoning and
+    # return an empty answer.
     body = {
         "model": model,
         "messages": [
             {"role": "system", "content": SYSTEM},
             {"role": "user", "content": question},
         ],
-        "temperature": 0,
-        "max_tokens": 300,
+        "think": False,
+        "stream": False,
+        "options": {"temperature": 0, "num_predict": 300},
     }
     request = urllib.request.Request(
-        f"{OLLAMA}/v1/chat/completions",
+        f"{OLLAMA}/api/chat",
         data=json.dumps(body).encode(),
         headers={"Content-Type": "application/json"},
     )
     with urllib.request.urlopen(request, timeout=600) as response:
-        return json.loads(response.read())["choices"][0]["message"]["content"].strip()
+        return json.loads(response.read())["message"]["content"].strip()
 
 
 def main() -> None:
