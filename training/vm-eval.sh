@@ -6,7 +6,8 @@
 # shuts the VM down. Every step is skipped when its output already exists, so a spot VM that is
 # interrupted and started again carries on where it stopped.
 #
-# Metadata: bucket, run, tag (Ollama tag), bench (results folder name), account (service account).
+# Metadata: bucket, run, size (e4b, 12b...), tag (Ollama tag), bench (results folder name), account
+# (service account).
 # The launcher uploads gs://<bucket>/runs/<run>/input/eval-bundle.tgz with maia-bench (git archive)
 # under bench/ and maia's probe files under maia/.
 set -uo pipefail
@@ -17,6 +18,9 @@ BUCKET=$(meta bucket)
 RUN=$(meta run)
 TAG=$(meta tag)
 BENCH=$(meta bench)
+SIZE=$(meta size)       # e4b, 12b...: Ollama names maia-<size> and the base gemma4:<size>
+MODEL="maia-$SIZE:$TAG"
+BASE="gemma4:$SIZE"
 GCP_ACCOUNT=$(meta account)
 export GCP_ACCOUNT
 GS="gs://$BUCKET/runs/$RUN"
@@ -93,8 +97,8 @@ if ! command -v ollama >/dev/null; then
 fi
 systemctl start ollama 2>/dev/null || (ollama serve >/var/log/ollama.log 2>&1 &)
 for _ in $(seq 60); do curl -sf localhost:11434/api/version >/dev/null && break; sleep 2; done
-if ! ollama list | grep -q "maia-e4b:$TAG"; then
-  step "ollama create maia-e4b:$TAG (Q4_K_M)"
+if ! ollama list | grep -q "$MODEL"; then
+  step "ollama create $MODEL (Q4_K_M)"
   cat > "$WORK/gguf/Modelfile" <<EOF
 FROM $Q4
 RENDERER gemma4
@@ -103,11 +107,11 @@ PARAMETER temperature 1
 PARAMETER top_k 64
 PARAMETER top_p 0.95
 EOF
-  (cd "$WORK/gguf" && ollama create "maia-e4b:$TAG" -f Modelfile) || fail "ollama create"
+  (cd "$WORK/gguf" && ollama create "$MODEL" -f Modelfile) || fail "ollama create"
   # The quantized model is published later: keep a copy of its GGUF in the bucket.
-  gcloud storage cp "$Q4" "$GS/gguf/maia-e4b-Q4_K_M.gguf"
+  gcloud storage cp "$Q4" "$GS/gguf/maia-$SIZE-Q4_K_M.gguf"
 fi
-ollama list | grep -q "gemma4:e4b" || ollama pull gemma4:e4b || fail "pull gemma4:e4b"
+ollama list | grep -q "$BASE" || ollama pull "$BASE" || fail "pull $BASE"
 
 # 4. Code: maia-bench and maia's probe files.
 if [ ! -d "$WORK/bundle" ]; then
@@ -122,9 +126,9 @@ PROBE="$WORK/eval/probe"
 mkdir -p "$PROBE"
 if [ ! -f "$PROBE/score.txt" ]; then
   step "fact probe"
-  [ -s "$PROBE/samples_before.md" ] || python3 training-data/scripts/run_fact_probe.py gemma4:e4b \
+  [ -s "$PROBE/samples_before.md" ] || python3 training-data/scripts/run_fact_probe.py "$BASE" \
     "$PROBE/samples_before.md" --threads 4 || fail "probe (base)"
-  [ -s "$PROBE/samples.md" ] || python3 training-data/scripts/run_fact_probe.py "maia-e4b:$TAG" \
+  [ -s "$PROBE/samples.md" ] || python3 training-data/scripts/run_fact_probe.py "$MODEL" \
     "$PROBE/samples.md" --threads 4 || fail "probe (maia)"
   python3 training-data/scripts/score_fact_probe.py "$PROBE" > "$PROBE/score.txt"
   tail -2 "$PROBE/score.txt"
@@ -134,7 +138,7 @@ fi
 # 6. maia-bench: answers (resumable), batch judge, summary.
 cd "$WORK/bundle/bench" || fail "no maia-bench bundle"
 step "bench answers"
-uv run python tools/run.py --model "ollama:maia-e4b:$TAG" --name "$BENCH" --origin "maia (privat)" \
+uv run python tools/run.py --model "ollama:$MODEL" --name "$BENCH" --origin "maia (privat)" \
   --threads 4 || fail "bench answers"
 gcloud storage rsync -r "results/$BENCH" "$GS/eval/bench"
 step "batch judge"

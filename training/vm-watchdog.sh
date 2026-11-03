@@ -4,7 +4,7 @@
 # interrupted, creates the evaluation VM (vm-eval.sh) once training is DONE, starts that one again
 # when it is interrupted, deletes the finished VMs and shuts itself down at the end.
 #
-# Metadata: bucket, run, tag, bench, account (service account of the evaluation VM), train_account
+# Metadata: bucket, run, size, tag, bench, train_machine, eval_machine (machine types), account (service account of the evaluation VM), train_account
 # (service account of the training VM), zones. The launcher uploads vm-startup.sh and vm-eval.sh to
 # gs://<bucket>/runs/<run>/input/.
 set -uo pipefail
@@ -15,6 +15,9 @@ BUCKET=$(meta bucket)
 RUN=$(meta run)
 TAG=$(meta tag)
 BENCH=$(meta bench)
+SIZE=$(meta size)
+TRAIN_MACHINE=$(meta train_machine)
+EVAL_MACHINE=$(meta eval_machine)
 ACCOUNT=$(meta account)
 ZONES=$(meta zones)
 TRAIN_ACCOUNT=$(meta train_account)
@@ -59,7 +62,7 @@ delete() {
 create_train() {
   local zone
   for zone in $ZONES; do
-    if gcloud compute instances create "$TRAIN_VM" --zone="$zone" --machine-type=g2-standard-8 \
+    if gcloud compute instances create "$TRAIN_VM" --zone="$zone" --machine-type="$TRAIN_MACHINE" \
         --maintenance-policy=TERMINATE --image-family=common-cu129-ubuntu-2204-nvidia-580 \
         --image-project=deeplearning-platform-release --boot-disk-size=200GB --boot-disk-type=pd-balanced \
         --service-account="$TRAIN_ACCOUNT" --scopes=cloud-platform \
@@ -76,11 +79,11 @@ create_train() {
 create_eval() {
   local zone
   for zone in $ZONES; do
-    if gcloud compute instances create "$EVAL_VM" --zone="$zone" --machine-type=g2-standard-8 \
+    if gcloud compute instances create "$EVAL_VM" --zone="$zone" --machine-type="$EVAL_MACHINE" \
         --maintenance-policy=TERMINATE --image-family=common-cu129-ubuntu-2204-nvidia-580 \
         --image-project=deeplearning-platform-release --boot-disk-size=200GB --boot-disk-type=pd-balanced \
         --service-account="$ACCOUNT" --scopes=cloud-platform \
-        --metadata="bucket=$BUCKET,run=$RUN,tag=$TAG,bench=$BENCH,account=$ACCOUNT,install-nvidia-driver=True" \
+        --metadata="bucket=$BUCKET,run=$RUN,size=$SIZE,tag=$TAG,bench=$BENCH,account=$ACCOUNT,install-nvidia-driver=True" \
         --metadata-from-file=startup-script=/opt/maia/vm-eval.sh \
         --labels="maia=eval,run=$RUN" --max-run-duration=12h --instance-termination-action=STOP \
         --provisioning-model=SPOT >/dev/null 2>&1; then
