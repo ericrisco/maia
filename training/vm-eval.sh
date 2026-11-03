@@ -62,7 +62,7 @@ if [ ! -f "$WORK/merged/DONE" ]; then
   date -Is > "$WORK/merged/DONE"
 fi
 
-# 2. GGUF bf16 with llama.cpp's converter; Ollama quantizes it to Q4_K_M (same quantizer as llama.cpp).
+# 2. GGUF bf16 with llama.cpp's converter, then Q4_K_M with llama-quantize (same method as the v2 run).
 GGUF="$WORK/gguf/maia-bf16.gguf"
 if [ ! -f "$GGUF.done" ]; then
   step "convert to GGUF bf16"
@@ -73,6 +73,17 @@ if [ ! -f "$GGUF.done" ]; then
     --extra-index-url https://download.pytorch.org/whl/cpu \
     python convert_hf_to_gguf.py "$WORK/merged" --outtype bf16 --outfile "$GGUF") || fail "GGUF conversion"
   touch "$GGUF.done"
+fi
+# Ollama only quantizes safetensors imports: Q4_K_M is made with llama.cpp's llama-quantize.
+Q4="$WORK/gguf/maia-Q4_K_M.gguf"
+if [ ! -f "$Q4.done" ]; then
+  step "quantize Q4_K_M"
+  command -v cmake >/dev/null || (apt-get update -qq && apt-get install -y -qq cmake build-essential) \
+    || fail "cmake install"
+  (cd "$WORK/llama.cpp" && cmake -B build -DGGML_CUDA=OFF -DLLAMA_CURL=OFF >/dev/null \
+    && cmake --build build --target llama-quantize -j "$(nproc)" >/dev/null) || fail "llama-quantize build"
+  "$WORK/llama.cpp/build/bin/llama-quantize" "$GGUF" "$Q4" Q4_K_M | tail -2 || fail "quantize"
+  touch "$Q4.done"
 fi
 
 # 3. Ollama on the GPU.
@@ -85,19 +96,18 @@ for _ in $(seq 60); do curl -sf localhost:11434/api/version >/dev/null && break;
 if ! ollama list | grep -q "maia-e4b:$TAG"; then
   step "ollama create maia-e4b:$TAG (Q4_K_M)"
   cat > "$WORK/gguf/Modelfile" <<EOF
-FROM $GGUF
+FROM $Q4
 RENDERER gemma4
 PARSER gemma4
 PARAMETER temperature 1
 PARAMETER top_k 64
 PARAMETER top_p 0.95
 EOF
-  (cd "$WORK/gguf" && ollama create "maia-e4b:$TAG" -q q4_K_M -f Modelfile) || fail "ollama create"
-  ollama list | grep -q "gemma4:e4b" || ollama pull gemma4:e4b || fail "pull gemma4:e4b"
+  (cd "$WORK/gguf" && ollama create "maia-e4b:$TAG" -f Modelfile) || fail "ollama create"
   # The quantized model is published later: keep a copy of its GGUF in the bucket.
-  blob=$(ollama show "maia-e4b:$TAG" --modelfile | awk '/^FROM \//{print $2; exit}')
-  [ -n "$blob" ] && gcloud storage cp "$blob" "$GS/gguf/maia-e4b-Q4_K_M.gguf"
+  gcloud storage cp "$Q4" "$GS/gguf/maia-e4b-Q4_K_M.gguf"
 fi
+ollama list | grep -q "gemma4:e4b" || ollama pull gemma4:e4b || fail "pull gemma4:e4b"
 
 # 4. Code: maia-bench and maia's probe files.
 if [ ! -d "$WORK/bundle" ]; then
