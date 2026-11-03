@@ -29,7 +29,14 @@ def eval_curve(log_history: list[dict]) -> list[tuple[int, float, float]]:
 
 
 def model_card(
-    run: str, cfg: dict, metrics: dict, samples: str, system: str, versions: list[str]
+    run: str,
+    cfg: dict,
+    metrics: dict,
+    samples: str,
+    system: str,
+    versions: list[str],
+    evaluation: str = "",
+    gguf: str = "",
 ) -> str:
     curve = eval_curve(metrics.get("log_history", []))
     rows = "\n".join(f"| {step} | {epoch:.2f} | {loss:.4f} |" for step, epoch, loss in curve)
@@ -38,6 +45,17 @@ def model_card(
     effective_batch = cfg["batch_size"] * cfg["grad_accum"]
     samples_body = samples.split("\n", 1)[1].strip() if samples.startswith("#") else samples.strip()
     version_rows = "\n".join(f"- `{tag}`" for tag in sorted(versions, reverse=True))
+    sampling = (
+        "greedy decoding" if cfg.get("greedy_samples") else "temperature 1.0, top_p 0.95, top_k 64"
+    )
+    evaluation_section = f"## Evaluation\n\n{evaluation.strip()}\n\n" if evaluation.strip() else ""
+    gguf_usage = (
+        f"\n\nQuantized GGUF (Q4_K_M) for llama.cpp or Ollama: `{gguf}`. With Ollama, use a\n"
+        f"Modelfile with `FROM ./{gguf}`, `RENDERER gemma4` and `PARSER gemma4`, and keep the\n"
+        "system message above."
+        if gguf
+        else ""
+    )
     return f"""---
 base_model: {cfg["model"]}
 library_name: peft
@@ -71,7 +89,7 @@ Load a specific version with `revision="<tag>"`.
   (conversations in Andorran Catalan)
 - Code: [github.com/ericrisco/maia](https://github.com/ericrisco/maia) (`training/train.py`)
 
-## Training
+{evaluation_section}## Training
 
 QLoRA with Unsloth on 1 NVIDIA L4. The loss is computed on the model's responses only.
 
@@ -99,7 +117,7 @@ The model was always trained with this system message (in Catalan). Use it at in
 
 ## Samples
 
-Generated at the end of training (temperature 1.0, top_p 0.95, top_k 64).
+Generated at the end of training ({sampling}).
 
 {samples_body}
 
@@ -109,7 +127,7 @@ Generated at the end of training (temperature 1.0, top_p 0.95, top_k 64).
 from unsloth import FastModel
 
 model, tokenizer = FastModel.from_pretrained("<this repo>", revision="{run}", load_in_4bit=True)
-```
+```{gguf_usage}
 """
 
 
@@ -117,7 +135,9 @@ def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("run_dir", type=Path)
     parser.add_argument("--repo", help="user/name (default <user>/gemma-maia-<size>)")
-    parser.add_argument("--public", action="store_true", help="create the repo as public")
+    parser.add_argument("--public", action="store_true", help="make the repo public")
+    parser.add_argument("--gguf", type=Path, help="quantized GGUF to upload next to the adapter")
+    parser.add_argument("--evaluation", type=Path, help="markdown with the evaluation results")
     args = parser.parse_args()
 
     run_dir: Path = args.run_dir
@@ -137,6 +157,8 @@ def main() -> None:
     size = run.split("-")[2]  # <date>-<time>-<size>-<variant>[-test]
     repo = args.repo or f"{api.whoami()['name']}/gemma-maia-{size}"
     api.create_repo(repo, repo_type="model", private=not args.public, exist_ok=True)
+    if args.public:
+        api.update_repo_settings(repo, private=False)
     tags = [ref.name for ref in api.list_repo_refs(repo).tags]
     if run in tags:
         sys.exit(f"ERROR: {repo} already has version {run}")
@@ -148,11 +170,17 @@ def main() -> None:
         ignore_patterns=["README.md"],
         commit_message=f"LoRA adapter of run {run}",
     )
+    gguf_name = args.gguf.name if args.gguf else ""
+    if args.gguf:
+        api.upload_file(path_or_fileobj=args.gguf, path_in_repo=gguf_name, repo_id=repo)
+    evaluation = args.evaluation.read_text(encoding="utf-8") if args.evaluation else ""
     for path in (metrics_path, samples_path, run_dir / "input" / "config.json"):
         if path.is_file():
             api.upload_file(path_or_fileobj=path, path_in_repo=path.name, repo_id=repo)
     api.upload_file(
-        path_or_fileobj=model_card(run, cfg, metrics, samples, system, [*tags, run]).encode(),
+        path_or_fileobj=model_card(
+            run, cfg, metrics, samples, system, [*tags, run], evaluation, gguf_name
+        ).encode(),
         path_in_repo="README.md",
         repo_id=repo,
         commit_message=f"Model card for {run}",
