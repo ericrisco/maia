@@ -82,10 +82,18 @@ fi
 Q4="$WORK/gguf/maia-Q4_K_M.gguf"
 if [ ! -f "$Q4.done" ]; then
   step "quantize Q4_K_M"
-  command -v cmake >/dev/null || (apt-get update -qq && apt-get install -y -qq cmake build-essential) \
-    || fail "cmake install"
-  (cd "$WORK/llama.cpp" && cmake -B build -DGGML_CUDA=OFF -DLLAMA_CURL=OFF >/dev/null \
-    && cmake --build build --target llama-quantize -j "$(nproc)" >/dev/null) || fail "llama-quantize build"
+  # A spot interruption can leave dpkg half configured and truncated objects: repair and build from clean.
+  dpkg --configure -a
+  (apt-get -o DPkg::Lock::Timeout=300 update -qq \
+    && apt-get -o DPkg::Lock::Timeout=300 install -y -qq cmake build-essential) || fail "cmake install"
+  rm -rf "$WORK/llama.cpp/build"
+  BUILD_LOG="$WORK/llama-build.log"
+  if ! (cd "$WORK/llama.cpp" && cmake -B build -DGGML_CUDA=OFF -DLLAMA_CURL=OFF \
+    && cmake --build build --target llama-quantize -j "$(nproc)") >"$BUILD_LOG" 2>&1; then
+    tail -40 "$BUILD_LOG"
+    gcloud storage cp "$BUILD_LOG" "$GS/eval/llama-build.log"
+    fail "llama-quantize build"
+  fi
   "$WORK/llama.cpp/build/bin/llama-quantize" "$GGUF" "$Q4" Q4_K_M | tail -2 || fail "quantize"
   touch "$Q4.done"
 fi
