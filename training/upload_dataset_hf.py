@@ -99,6 +99,9 @@ See the evaluation in the model card.
 Every source has a provenance record (owner, licence, terms, redistribution status) in the maia
 repository (`docs/fonts/`). Redistribution is decided by the project owner per source; see the
 records before reusing a portion of the data. Code: [github.com/ericrisco/maia](https://github.com/ericrisco/maia).
+
+How it was built, including what failed:
+[how maia was trained](https://ericrisco.github.io/maia-bench/training.html).
 """
 
 

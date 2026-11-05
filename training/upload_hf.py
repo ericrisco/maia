@@ -29,6 +29,7 @@ def eval_curve(log_history: list[dict]) -> list[tuple[int, float, float]]:
 
 
 def model_card(
+    repo: str,
     run: str,
     cfg: dict,
     metrics: dict,
@@ -87,7 +88,10 @@ Load a specific version with `revision="<tag>"`.
 - Base model: `{cfg["model"]}`
 - Data: variant **{cfg["variant"]}** of the `training-data` export
   (conversations in Andorran Catalan)
-- Code: [github.com/ericrisco/maia](https://github.com/ericrisco/maia) (`training/train.py`)
+- Code: [github.com/ericrisco/maia](https://github.com/ericrisco/maia), with a
+  [training guide](https://github.com/ericrisco/maia/blob/main/training/README.md)
+- The whole process, including what failed:
+  [how maia was trained](https://ericrisco.github.io/maia-bench/training.html)
 
 {evaluation_section}## Training
 
@@ -117,7 +121,8 @@ The model was always trained with this system message (in Catalan). Use it at in
 
 ## Samples
 
-Generated at the end of training ({sampling}).
+Generated at the end of training ({sampling}). Unedited and not fact-checked: **some of these
+answers are wrong or invented**, so do not take them as facts about Andorra.
 
 {samples_body}
 
@@ -126,7 +131,7 @@ Generated at the end of training ({sampling}).
 ```python
 from unsloth import FastModel
 
-model, tokenizer = FastModel.from_pretrained("<this repo>", revision="{run}", load_in_4bit=True)
+model, tokenizer = FastModel.from_pretrained("{repo}", revision="{run}", load_in_4bit=True)
 ```{gguf_usage}
 """
 
@@ -179,7 +184,7 @@ def main() -> None:
             api.upload_file(path_or_fileobj=path, path_in_repo=path.name, repo_id=repo)
     api.upload_file(
         path_or_fileobj=model_card(
-            run, cfg, metrics, samples, system, [*tags, run], evaluation, gguf_name
+            repo, run, cfg, metrics, samples, system, [*tags, run], evaluation, gguf_name
         ).encode(),
         path_in_repo="README.md",
         repo_id=repo,
